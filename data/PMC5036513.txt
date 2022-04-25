@@ -1,0 +1,270 @@
+0	cancers	NA	NA	ABSTRACT	Nearly 50% of cancer patients undergo radiotherapy.
+0	toxicity	NA	NA	ABSTRACT	Late radiotherapy toxicity affects quality-of-life in long-term cancer survivors and risk of side-effects in a minority limits doses prescribed to the majority of patients.
+0	toxicity	NA	NA	ABSTRACT	Development of a test predicting risk of toxicity could benefit many cancer patients.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	We aimed to meta-analyze individual level data from four genome-wide association studies from prostate cancer radiotherapy cohorts including 1564 men to identify genetic markers of toxicity.
+0	toxicity	NA	NA	ABSTRACT	Prospectively assessed two-year toxicity endpoints (urinary frequency, decreased urine stream, rectal bleeding, overall toxicity) and single nucleotide polymorphism (SNP) associations were tested using multivariable regression, adjusting for clinical and patient-related risk factors.
+0	NA	NA	rs17599026	ABSTRACT	A fixed-effects meta-analysis identified two SNPs: rs17599026 on 5q31.2 with urinary frequency (odds ratio [OR] 3.12, 95% confidence interval [CI] 2.08-4.69, p-value 4.16 x 10- 8) and rs7720298 on 5p15.2 with decreased urine stream (OR 2.71, 95% CI 1.90-3.86, p-value = 3.21 x 10- 8).
+0	NA	NA	NA	ABSTRACT	These SNPs lie within genes that are expressed in tissues adversely affected by pelvic radiotherapy including bladder, kidney, rectum and small intestine.
+0	toxicity	NA	NA	ABSTRACT	The results show that heterogeneous radiotherapy cohorts can be combined to identify new moderate-penetrance genetic variants associated with radiotherapy toxicity.
+0	NA	NA	NA	ABSTRACT	The work provides a basis for larger collaborative efforts to identify enough variants for a future test involving polygenic risk profiling
+0	urinary toxicity	NA	rs17599026	ABSTRACT	SNPs rs17599026 and rs7720298 increase risk of urinary toxicity following radiotherapy in prostate cancer patients
+0	toxicity	NA	NA	ABSTRACT	Data from heterogeneous radiotherapy cohorts can be meta-analyzed to identify genetic variants associated with toxicity
+0	cancers	aid	NA	ABSTRACT	A SNP-based predictive assay could improve the therapeutic index of radiotherapy and aid in individualization of cancer treatment
+0	NA	NA	NA	ABSTRACT	Risk of radiotherapy side-effects in a minority limits doses given to the majority.
+0	NA	NA	NA	ABSTRACT	A test is needed to predict risks so treatments are personalized.
+0	NA	NA	NA	ABSTRACT	Recent whole-genome studies in a few hundred patients found none or one genetic variant increasing side-effect risk.
+0	NA	NA	NA	ABSTRACT	Larger studies are needed, but difficult because treatments differ between centers.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Our study of > 1500 prostate cancer patients from four centers found two variants.
+0	NA	NA	NA	ABSTRACT	The research shows combining heterogeneous radiotherapy datasets works and larger collaborative efforts identifying enough variants for a future test are worthwhile.
+0	cancers	NA	NA	ABSTRACT	As nearly 50% of cancer patients have radiotherapy, our work could benefit many people
+0	cancers	NA	NA	INTRO	Radiotherapy is used in the treatment of up to 50% of cancer patients and around 40% of long-term cancer survivors underwent radiotherapy at some point in their treatment.
+0	Breast and prostate cancer	NA	NA	INTRO	For example, approximately half of the 1.1 million men diagnosed with prostate cancer worldwide each year receive radiotherapy, and the 5-year relative survival rates approach 100% for non-metastatic disease.
+0	toxicity	NA	NA	INTRO	Although modern treatments minimize radiation doses to surrounding normal tissues, some men develop long-term toxicity.
+0	toxicity	NA	NA	INTRO	The risk of severe toxicity limits doses, which aim to keep the prevalence below 5%.
+0	NA	NA	NA	INTRO	Mild and moderate effects are common (10-50% of those treated), impact negatively on quality-of-life, and are an important factor when men consider treatment options
+0	cancers	NA	NA	INTRO	There is a need for a test that reflects a cancer patient's radiosensitivity and predicts the likelihood of toxicity.
+0	NA	NA	NA	INTRO	Many assays have been explored but none proved sufficiently reliable for clinical application.
+0	toxicity	NA	NA	INTRO	Over the past 15 years interest increased in identifying the genetic variants associated with risk of toxicity.
+0	NA	NA	NA	INTRO	The rationale behind the work is that a future test based on a germline polygenic risk score will not suffer from the poor reproducibility associated with other assays measuring radiosensitivity
+0	error bars	NA	NA	INTRO	Mutations associated with well-characterized radiosensitivity syndromes such as ataxia telangiectasia are rare and do not explain the general inter-individual variation in toxicity following radiotherapy.
+0	NA	NA	NA	INTRO	Rather, it is hypothesized that common genetic variants, such as single nucleotide polymorphisms (SNPs) account for most of the heritability of radiosensitivity.
+0	toxicity	NA	NA	INTRO	Studies have begun to identify common variants associated with radiotherapy toxicity.
+0	toxicity	HSPB1	rs2868371	INTRO	Candidate gene studies showed rs2868371 in HSPB1 (MIM 602195) and rs1800469 in TGFB1 (MIM 190180) are associated with late effects of lung radiotherapy; and rs1800629 in TNF (MIM 191160) and rs1139793 in TXNRD2 (MIM 606448) are risk SNPs for late toxicity following breast radiotherapy.
+0	toxicity	TANC1	NA	INTRO	Genome-wide association studies (GWAS) identified a locus on chr11q14.3 associated with rectal bleeding and a locus on chr2q24.1 within TANC1 (MIM 611397) associated with overall toxicity following radiotherapy for prostate cancer.
+0	toxicity	NA	NA	INTRO	Another study showed more associations at the p-value < 5 x 10- 7 level than expected by chance, providing the strongest evidence to date that many common genetic variants are associated with risk of toxicity
+0	NA	NA	NA	INTRO	Recently published GWAS have limitations that we aimed to overcome by using a meta-analysis approach.
+0	NA	NA	NA	INTRO	The published studies used a multi-stage approach, where a small first-stage cohort was analyzed for a genome-wide panel of SNPs and only the most significant SNPs were genotyped in validation datasets.
+0	NA	NA	NA	INTRO	Thus, true positive SNPs were likely missed because they were not tested in the full set of individuals.
+0	NA	NA	NA	INTRO	Here, the Radiogenomics Consortium undertook a meta-analysis of four GWAS in order to maximize statistical power to discover additional risk variants.
+0	toxicity	NA	NA	INTRO	It is known that risk factors for late toxicity include not only genetics but also dosimetric parameters, co-morbidities, and patient demographics.
+0	NA	NA	NA	INTRO	The latter factors can vary between cohorts as can the treatment (e.g.
+0	Breast and prostate cancer	NA	NA	INTRO	in prostate cancer: external beam or brachytherapy; type of fractionation - large or small doses per fraction; variable use of hormone therapy; variable use of surgery) and scales used to assess toxicity.
+0	NA	NA	NA	INTRO	There were concerns, therefore, whether the heterogeneity across cohorts might limit our ability to identify variants
+0	NA	NA	NA	INTRO	This study is important because our ability to identify enough SNPs for a risk profile for clinical implementation is dependent on combining multiple heterogeneous cohorts.
+0	NA	NA	NA	INTRO	The aim was to show that multi-center radiotherapy cohorts could be harmonized and analyzed to identify risk SNPs by increasing the number of individuals analyzed in a single stage.
+0	NA	NA	NA	INTRO	STROGAR guidelines for reporting radiogenomic studies, which build on the STREGA and STROBE guidelines, were followed throughout
+0	Breast and prostate cancer	NA	NA	METHODS	The four cohorts (RAPPER, RADIOGEN, Gene-PARE, and CCI) comprised individuals with adenocarcinoma of the prostate treated with radiotherapy with curative intent.
+0	NA	NA	NA	METHODS	Table 1 shows the number of individuals in each cohort the number with genome-wide SNP data available, and the final number included in the GWAS meta-analysis after excluding samples for quality control or due to missing data.
+0	NA	NA	NA	METHODS	Informed consent was obtained from all study participants and all studies conform to standards indicated by the Declaration of Helsinki
+0	NA	NA	NA	METHODS	RAPPER (UKCRN1471; n = 727) was approved by the Cambridge South Research Ethics Committee (05/Q0108/365).
+0	NA	NA	NA	METHODS	Individuals received neoadjuvant androgen suppression and external beam radiotherapy, (EBRT): 233 from MRC RT01 (ISRCTN47772397) and 494 from CHHiP (ISRCTN97182923)
+0	NA	NA	NA	METHODS	RADIOGEN (n = 741) was approved by the Galician Ethical Committee.
+0	NA	NA	NA	METHODS	Individuals received conformal radical or post-prostatectomy EBRT at the Clinical University Hospital of Santiago de Compostela, Spain, and 511 individuals had hormone therapy
+0	NA	NA	NA	METHODS	Gene-PARE (n = 895) was approved by the Mount Sinai Medical Center Institutional Review Board.
+0	NA	NA	NA	METHODS	Individuals had brachytherapy with/without EBRT at the Mount Sinai Hospital, New York, and 472 received hormone therapy.
+0	NA	NA	NA	METHODS	125I (160Gy; TG-43) was used in those undergoing brachytherapy alone and 103Pd (124Gy) in those also receiving EBRT
+0	cancers	NA	NA	METHODS	The CCI cohort (n = 155) was approved by the Health Research Ethics Board of Alberta (Cancer).
+0	cancers	Tom	NA	METHODS	Individuals were recruited from the Cross Cancer Institute in Edmonton and the Tom Baker Cancer Centre in Calgary, Alberta, Canada.
+0	NA	NA	NA	METHODS	All 155 individuals underwent EBRT and 82 received hormonal therapy
+0	NA	NA	NA	METHODS	Total biologic effective dose (BED) was calculated for individuals in all four studies to compare radiation exposure across studies (alpha/beta = 3)
+0	toxicity	NA	NA	METHODS	Participants were assessed prospectively for toxicity (see Table S1).
+0	toxicity	NA	NA	METHODS	Toxicity was measured 1.5-2.5 years following treatment with the latest value used if more than one assessment was recorded during this follow-up window.
+0	haemorrhage	NA	NA	METHODS	For rectal bleeding in Gene-PARE, a 1-5 year window was allowed, because the scoring system assigns grades based on whether rectal bleeding occurs as a single incident or intermittent symptoms over time.
+0	NA	NA	NA	METHODS	Urinary endpoints were re-graded to harmonize across the studies (Table S2).
+0	nocturia	NA	NA	METHODS	As urinary daytime frequency and nocturia were recorded separately (RAPPER, Gene-PARE) or as a single endpoint (RADIOGEN, CCI), they were collapsed into a single endpoint in RAPPER and Gene-PARE by taking the maximum score between the two
+0	NA	NA	NA	METHODS	Changes in scores from baseline were calculated for each endpoint.
+0	NA	NA	NA	METHODS	Improvement from baseline (i.e.
+0	NA	NA	NA	METHODS	a negative change in score) was coded as 0.
+0	toxicity	NA	NA	METHODS	Table S3 lists the two-year prevalence of the toxicity endpoints in the four cohorts, including samples that were not genotyped.
+0	toxicity	NA	NA	METHODS	A Standardized Total Average Toxicity (STAT) score was calculated as described previously to provide an overall measure of toxicity.
+0	toxicity	NA	NA	METHODS	All samples with 2-year toxicity data available and the endpoints described in Table S1 were used to calculate STAT
+0	toxicity	NA	NA	METHODS	Data simulation determined the most statistically powerful way to analyze toxicity: ordinal logistic regression of exact change in toxicity grade from baseline; binary logistic regression with no change in toxicity grade compared with a >= 1 point increase in toxicity grade; or binary logistic regression with change in toxicity grade <= 1 point compared with a >= 2 point change.
+0	toxicity	NA	NA	METHODS	Genotype and toxicity phenotype data for 600 individuals were simulated under two models: (1) null (no association), and (2) alternative model of linear association characterized by a log-linear per-allele increase in odds of toxicity.
+0	NA	NA	NA	METHODS	Under both types of model, genotypes were randomly assigned to each subject according to one of five minor allele frequencies (MAF): 0.05, 0.15, 0.25, 0.35 or 0.45.
+0	toxicity	NA	NA	METHODS	To create the null data set, a toxicity grade was also randomly assigned to each subject.
+0	toxicity	NA	NA	METHODS	Datasets representing a log-linear association between genotype and toxicity were created by assigning each subject a toxicity risk score that was calculated using their genotype and a pre-specified effect size (log(odds ratio) = log(1.5))
+0	toxicity	NA	NA	METHODS	A random risk was also added to each score, representing non-genetic factors that may influence toxicity, to create a logistic distribution of toxicity risk.
+0	toxicity	NA	NA	METHODS	This logistic distribution was then used to assign a toxicity grade to each subject such that subjects lying at the high end of the risk distribution had higher toxicity grades than those at the low end of the distribution.
+0	haemorrhage	NA	NA	METHODS	Under both types of model, two phenotype distributions were simulated to reflect the distributions of urinary frequency and rectal bleeding observed in RAPPER
+0	NA	NA	NA	METHODS	Each simulation was repeated 100,000 times.
+0	toxicity	NA	NA	METHODS	Three regression models were fitted to each set of simulated data, with toxicity grade as the outcome variable and genotype as the independent variable.
+0	NA	NA	NA	METHODS	Each model produced a p-value for comparison
+0	NA	NA	NA	METHODS	The power of each type of model applied to the log-linear association data was assessed by tabulating the number of p-values (out of 100,000) achieving statistical significance.
+0	NA	NA	NA	METHODS	Applying a simple Bonferroni correction to the observed p-values to account for 100,000 test repeats, a test was considered statistically significant if p-value < 5 x 10- 6.
+0	NA	NA	NA	METHODS	The model that detected the most significant associations was deemed most powerful.
+0	NA	NA	NA	METHODS	p-Values obtained from analyses of the null data sets were assessed for type I error
+0	toxicity	NA	NA	METHODS	Results from 100,000 simulations showed that both ordinal logistic and binary (no versus >= 1 point change) logistic regression were equally powerful statistical approaches (Table S4), and binary logistic regression (no change in toxicity grade compared with a >= 1 point increase in toxicity grade) was used for the primary analysis.
+0	NA	NA	NA	METHODS	No model displayed higher-than-expected type I errors.
+0	NA	NA	NA	METHODS	Data simulation was performed using R with the Ordinal package
+0	NA	NA	NA	METHODS	Germline DNA was genotyped using commercial SNP arrays as part of previously completed GWAS.
+0	NA	MAF>1%	NA	METHODS	Quality control filtering removed SNPs that were missing in > 2.5% of samples, had MAF < 1% or displayed frequencies deviating from those expected under Hardy-Weinberg Equilibrium (p-value < 10- 6).
+0	NA	NA	NA	METHODS	Samples with > 5% of SNPs missing, showing cryptic relatedness, showing excess heterozygosity or being principle component analysis (PCA) outliers were removed (Table 1).
+0	NA	NA	NA	METHODS	After filtering, the four datasets had genotyping rates > 99%.
+0	NA	NA	NA	METHODS	To minimize potential confounding by population structure, individuals with non-European ancestry (Table 1) were excluded using PCA performed with samples of known ancestry from the International HapMap Project
+0	NA	NA	NA	METHODS	Imputation using IMPUTE2 software with the 1000 Genomes phase I, version 3 (release date 3/16/2012) reference panel (1092 individuals from all 14 populations) yielded ~ 38 million SNPs, small insertions and deletions, and structural variants in each study.
+0	NA	NA	NA	METHODS	These datasets were filtered as above in addition to removing SNPs with information score, a measure of imputation certainty, < 0.3.
+0	NA	NA	NA	METHODS	The final datasets included in the GWAS meta-analysis were: 6,672,177 SNPs in 527 RAPPER participants; 6,767,156 SNPs in 597 RADIOGEN participants; 6,627,946 SNPs in 290 Gene-PARE participants; and 6,504,337 SNPs in 150 CCI participants
+0	NA	NA	rs17599026	METHODS	SNP rs17599026 was directly genotyped in the RADIOGEN and RAPPER samples using a TaqMan assay (forward primer sequence TGCTCATGATGAAGGTATGCTTTCT, reverse primer sequence ACAAAACTGTATTCCCAAGACAAAGC and probe sequences CACCATCCTAAAGCAGTG plus ACCATCCTAAAACAGTG; Applied Biosystems, Thermo Fisher Scientific) according to the manufacturer's standard protocol (PCR annealing and extension performed at 60  C for 1 min x 40 cycles).
+0	NA	NA	rs7720298	METHODS	It was not possible to design a TaqMan assay with high specificity for rs7720298 as it is immediately adjacent to another SNP (rs7720176)
+0	toxicity	NA	NA	METHODS	Individual GWAS were analyzed using binary logistic (individual toxicity endpoints) or linear (STAT) regression, adjusting for non-genetic risk factors identified by QUANTEC.
+0	diabetes	NA	NA	METHODS	These were: age at treatment, diabetes, rectal volume and BED in analysis of rectal bleeding; age at treatment, transurethral resection of the prostate (TURP) prior to radiotherapy, baseline symptom grade and BED in analysis of urinary endpoints; and all factors in analysis of STAT.
+0	NA	NA	NA	METHODS	Hormone therapy was also included in the Gene-PARE and CCI analyses because baseline symptoms were assessed prior to completion of hormone therapy.
+0	NA	NA	NA	METHODS	Multivariable regression was performed using SNPTEST software with the frequentist test and expected method.
+0	NA	NA	NA	METHODS	The expected method uses the genotype dosages produced from imputation, which account for the uncertainty in using imputed genotypes rather than experimentally determined genotypes.
+0	NA	NA	NA	METHODS	Thus, inaccuracy related to using imputed data was accounted for in the statistical analysis.
+0	NA	NA	NA	METHODS	An additive genetic inheritance model was assumed in all analyses
+0	NA	NA	NA	METHODS	A fixed-effects meta-analysis with inverse variance weighting was performed using the regression beta coefficients and standard errors produced by SNPTEST.
+0	NA	NA	NA	METHODS	Studies have shown fixed-effects to be more statistically powerful compared with random-effects when the primary purpose is SNP discovery rather than refinement of the effects size estimate.
+0	NA	NA	NA	METHODS	A chi-squared test of heterogeneity was performed for each SNP.
+0	NA	NA	NA	METHODS	SNPs considered significant had a meta-p-value <= 5 x 10- 8 and agreement in effect direction across all cohorts.
+0	NA	NA	NA	METHODS	Significant SNPs were re-analyzed using an ordinal logistic regression model
+0	NA	NA	NA	METHODS	Regions of linkage disequilibrium were defined based on r2 >= 0.5 in SNPs from the 1000 Genomes European population with the meta-analysis top hits using Haploview software.
+0	NA	NA	NA	METHODS	The most recent release of the 1000 Genomes data (version 5, release date 5/2/2013) was used to estimate linkage disequilibrium
+0	NA	NA	NA	METHODS	Power calculations were performed using the web-based Genetic Power Calculator assuming a sample size of 1564 individuals, a phenotype prevalence of 20%, and type I error of 5 x 10- 8
+0	toxicity	NA	NA	RESULTS	Table 2 summarizes the cohort characteristics and Table 3 the toxicity prevalences of the 1564 men treated for prostate cancer who were included in the analysis.
+0	NA	NA	NA	RESULTS	Two years following radiotherapy 17.8% (277 of 1557) of individuals experienced rectal bleeding, 15.0% (212 of 1410) an increase in urinary frequency, and 8.1% (101 of 1245) a decrease in urine stream.
+0	NA	NA	NA	RESULTS	The meta-analysis had >= 99% power to detect SNPs with MAF >= 10% and per-allele effect size >= 2 assuming a genome-wide significance threshold of 5 x 10- 8 (Table 4)
+0	NA	NA	NA	RESULTS	Meta-analysis Q-Q plots (Fig.
+0	NA	NA	NA	RESULTS	S1) show no genomic inflation, suggesting that population structure was adequately controlled using principal components analysis to exclude outliers with non-European ancestry.
+0	toxicity	NA	NA	RESULTS	The most statistically significant SNPs associated with late toxicity are listed in Table 5, Table 6, Table 7, Table 8, which show several SNPs had meta-p-values reaching or approaching significance (p-value <= 5 x 10- 6) with concordant effect direction across the individual studies.
+0	NA	NA	rs17599026	RESULTS	Three SNPs reached genome-wide significance: rs17599026 on 5q31.2 with urinary frequency (3.12, 95% CI 2.08-4.69, p-value 4.16 x 10- 8); rs7720298 on 5p15.2 with decreased urine stream (OR 2.71, 95% CI 1.90-3.86, p-value = 3.21 x 10- 8); and rs11230328 on 11q12.2 with STAT score (Beta 0.31, 95% CI 0.21-0.41, p-value = 6.27 x 10- 10).
+0	NA	NA	rs17599026	RESULTS	rs17599026 was directly genotyped in the GenePARE and CCI studies and imputed in the RADIOGEN (information score = 0.90) and RAPPER (information score = 0.87) studies.
+0	NA	NA	rs7720298	RESULTS	rs7720298 was imputed in all four studies (RADIOGEN information score = 0.91, RAPPER information score = 0.93, GenePARE information score = 0.94, and CCI information score = 0.95) and rs11230328 was imputed in all four studies (RADIOGEN information score = 0.68, RAPPER information score = 0.61, GenePARE information score = 0.88, and CCI information score = 0.97).
+0	NA	NA	rs11230328	RESULTS	To provide a more interpretable effect size for rs11230328, STAT score was dichotomized at the mean and analyzed using logistic regression, which resulted in an OR of 1.59 (95% CI 1.25-2.02).
+0	haemorrhage	NA	NA	RESULTS	There were no genome-wide significant SNPs associated with rectal bleeding, and though several approached significance, these require investigation in future larger studies.
+0	NA	NA	NA	RESULTS	Fig.
+0	NA	NA	NA	RESULTS	1 shows forest plots for the SNPs that reached the genome-wide significance threshold
+0	NA	NA	rs17599026	RESULTS	In order to confirm the quality of the imputation, rs17599026 was genotyped directly in the RADIOGEN and RAPPER samples.
+0	NA	NA	NA	RESULTS	Genotyping was successful in 645 of 654 RADIOGEN samples (correlation between the imputed and genotyped data of 0.88) and 595 of 600 RAPPER samples (correlation between the imputed and genotyped data of 0.85).
+0	NA	NA	NA	RESULTS	These results confirmed that the genotypes are in strong agreement with the imputed data.
+0	NA	NA	rs17599026	RESULTS	When the direct genotype data was used in analysis, rs17599026 showed an association signal consistent with that seen using the imputed data, though the p-value fell short of the strict threshold for genome-wide significance (OR 2.48, 95% CI 1.68-3.63, p-value = 3.66 x 10- 6)
+0	toxicity	NA	NA	RESULTS	Associations between the top SNPs (meta-analysis p-value <= 5 x 10- 6) and toxicity severity were modeled using ordinal logistic regression (Table 9).
+0	NA	NA	NA	RESULTS	For all SNPs, the p-value from ordinal logistic regression was similar to that from binary logistic regression.
+0	NA	NA	rs12497518	RESULTS	For several SNPs the association signal improved slightly with the ordinal logistic model: rs12497518, rs141044160, rs6999859, and rs4804134 associated with rectal bleeding; rs17599026, rs7366282, rs4534636, rs10101158, rs10209697, rs6003982, and rs7356945 associated with urinary frequency; rs7720298, rs673783, rs62091368, and rs144596911 associated with decreased urine stream
+0	NA	NA	NA	RESULTS	Regions of linkage disequilibrium (LD) were defined for the three loci tagged by SNPs reaching genome-wide significance.
+0	NA	NA	rs17599026	RESULTS	rs17599026, associated with urinary frequency, tags a 106 kb region of LD (base position 137,657,783-137,763,798; Fig.
+0	NA	KDM3B	NA	RESULTS	2A) containing part of KDM3B (including the promoter region through exon 20), the upstream FAM53C, and part of the upstream CDC25C (the promoter region through exon 6).
+0	NA	NA	rs7720298	RESULTS	rs7720298, associated with decreased urine stream, tags a 39 kb region of LD (base position 13,858,328-13,897,362; Fig.
+1	NA	DNAH5	NA	RESULTS	2B) that contains exons 16 through 30 of DNAH5.
+0	NA	NA	rs11230328	RESULTS	rs11230328 was not in strong linkage disequilibrium with any other common SNPs found in the more recent release of the 1000 Genomes population data, and this locus may represent a spurious association.
+0	NA	NA	rs11230328	RESULTS	rs11230328 lies within a LINE element, and may be difficult to map in the genome due to its location within a region of high homology.
+0	NA	NA	NA	RESULTS	Imputation coverage (i.e.
+0	NA	NA	rs17599026	RESULTS	the number of SNPs successfully imputed in the study datasets out of common SNPs (MAF >= 0.05) within the 1000 Genomes European population) was high within the regions tagged (correlation r2 >= 0.5) by rs17599026 (173/183, 94.5%) and rs7720298 (130/136, 95.6%)
+0	NA	NA	rs17599026	RESULTS	SNPs rs17599026 and rs7720298 are located in non-coding regions, as is common in GWAS, and the LD blocks tagged by these SNPs cover coding and non-coding regions.
+0	NA	KDM3B	rs17599026	RESULTS	rs17599026, associated with urinary frequency, lies in an intronic region 23 bp downstream of exon 20 of KDM3B (MIM 609373; NM_016604.3:c4753 + 23C > T) encoding the lysine-specific demethylase 3B protein.
+0	NA	KDM3B	NA	RESULTS	KDM3B is highly expressed in bladder tissue from the Human Protein Atlas project, suggesting that this gene could be involved in normal bladder function and potentially dysfunction following damage from radiation exposure.
+0	NA	NA	rs17599026	RESULTS	rs17599026 itself does not lie in a site of known transcription factor binding or chromatin modification from the Encyclopedia of DNA Elements (ENCODE) catalog and there are no significant expression quantitative trail loci (eQTLs) for this SNP in the Genotype-Tissue Expression (GTEx) project.
+0	NA	NA	rs17599026	RESULTS	Given that rs17599026 is very close to exon 20, it could have an effect on splicing.
+0	NA	NA	NA	RESULTS	However, no significant splicing motif alteration was detected using Human Splicing Finder.
+0	allergy	NA	NA	RESULTS	ENCODE data show that the large LD block tagged by this SNP contains multiple transcription factor binding sites, DNase hypersensitive sites, histone methylation sites (methylation of lysine 4 at histone 3, H3K4Me3 and methylation of lysine 4 at histone 1, H3K4Me1), and histone acetylation sites (acetylation of lysine 27 at histone 3, H3K27Ac) that may affect regulation of the nearby genes.
+1	NA	DNAH5	rs7720298	RESULTS	rs7720298, associated with decreased urine stream, lies in an intronic region just downstream of exon 30 of DNAH5 (MIM 603335; NM_001369.2:c.4950 + 1233G > C) encoding the dynein, axonemal, heavy chain 5 protein that is part of a microtubule-associated motor protein complex.
+1	abnormal cilia and flagella	DNAH5	NA	RESULTS	Rare mutations in DNAH5 can result in development of abnormal cilia and flagella in cells that lead to primary ciliary dyskinesia, which is a disorder characterized in part by chronic respiratory tract infections.
+1	NA	DNAH5	NA	RESULTS	In addition to playing an important role in the lung, DNAH5 is expressed in both kidney and bladder tissue, suggesting a biologic role in normal function of the urinary tract.
+0	allergy	NA	rs7720298	RESULTS	This SNP does not lie in a site of known transcription factor binding or chromatin modification from the ENCODE catalog nor is it an eQTL based on data from GTEx, but the region of LD tagged by rs7720298 contains several transcription factor binding sites and sites of DNase hypersensitivity measured in ENCODE cell lines, suggesting that it may tag a site of transcriptional regulation
+0	toxicity	NA	NA	DISCUSS	This meta-analysis aimed to identify SNPs associated with late radiotherapy toxicity in a single tumor site.
+0	Breast and prostate cancer	NA	NA	DISCUSS	By having a total sample size in a single stage analysis of > 1500 men with prostate cancer (versus ~ 600 in published studies), the study identified two risk loci.
+0	toxicity	NA	NA	DISCUSS	This study had >= 99% power to identify common SNPs (MAFs >= 10%) that confer a relatively large increased risk for developing late toxicity (OR >= 2.0).
+0	NA	NA	NA	DISCUSS	Identification of multiple loci in this single-stage meta-analysis versus single loci in published GWAS that used a staged approach is consistent with the increased power.
+0	NA	NA	NA	DISCUSS	The meta-analysis showed that heterogeneity in radiotherapy datasets is not a barrier for future multi-cohort radiogenomic studies.
+0	haemorrhage	NA	NA	DISCUSS	The absence of significant SNPs associated with rectal bleeding is consistent with the relatively limited statistical power.
+0	NA	NA	NA	DISCUSS	Most common variants identified via GWAS have more modest effects (ORs 1.15 to 1.5) than this study was powered to detect.
+0	haemorrhage	NA	NA	DISCUSS	Our group previously reported an excess of associations at the p < 5 x 10- 7 level for rectal bleeding showing many SNPs should be identified as sample sizes increase.
+0	toxicity	NA	NA	DISCUSS	In addition, our current approach of dichotomizing toxicity at grade 0 versus grade 1 or worse and considering two years of follow-up may not be optimal for rectal bleeding, which could be explored as our radiogenomic cohorts increase
+0	NA	NA	NA	DISCUSS	The significant SNPs lie in non-coding regions, as is common in GWAS where ~ 64% of identified SNPs lie in enhancer regions.
+0	NA	NA	NA	DISCUSS	Gene enhancer elements are noncoding segments of DNA involved in regulating transcriptional programs.
+0	allergy	NA	NA	DISCUSS	Their location is predicted by DNase I hypersensitive regions of open chromatin flanked by sties of histone methylation.
+0	NA	NA	NA	DISCUSS	These enhancers can be active (associated with the acylation of lysine 27 of histone 3 [H3K27Ac]) or repressed (correlated with histone marks H3K27Me3 and H3K9Me3).
+0	Breast and prostate cancer	NA	NA	DISCUSS	Although premature to speculate on the functional consequences of these SNPs, they lie in intronic regions of genes that are expressed in tissues exposed to radiation during treatment of prostate cancer and are involved in the symptoms experienced by men having radiotherapy for this malignancy.
+0	toxicity	NA	NA	DISCUSS	Fine mapping studies and functional characterization of causal variants contained within these loci should expand our understanding of the biology underlying the pathogenesis of radiotherapy toxicity
+0	NA	NA	rs17599026	DISCUSS	rs17599026 was genotyped to check the quality of the imputed data from RADIOGEN and RAPPER.
+0	NA	NA	NA	DISCUSS	Direct genotyping confirmed the high quality of the imputation, but we were unable to genotype directly the other two SNPs for which imputed data were used for all four cohorts.
+0	NA	NA	rs7720298	DISCUSS	rs7720298 had high imputation information scores (> 0.95) in all three studies of urinary decreased stream, lending confidence to this association.
+0	toxicity	NA	rs11230328	DISCUSS	However, rs11230328 had a lower imputation quality (< 0.70) in two of the four studies of overall toxicity, and it is not present in the latest 1000 Genomes Project release (v5a; 05/02/2013).
+0	NA	NA	rs11230328	DISCUSS	Thus, rs11230328 may represent a spurious association
+0	toxicity	NA	NA	DISCUSS	None of the previously studied candidate gene SNPs for radiotherapy toxicity were among the top loci identified in this meta-analysis, consistent with a recent validation study showing no evidence for association between 92 candidate SNPs and radiotherapy toxicity among ~ 1600 individuals treated with radiotherapy for breast or prostate cancer.
+0	NA	NA	NA	DISCUSS	No SNP discovered in previous GWAS was identified in this de novo analysis, likely due to methodological differences.
+0	NA	NA	NA	DISCUSS	The published locus on chr2q24.1, identified in RADIOGEN and replicated in RAPPER and Gene-PARE, was excluded because the MAFs of the tagging SNPs were < 5%, the threshold set in this meta-analysis to maximize statistical power.
+0	NA	NA	NA	DISCUSS	Subsequent to the meta-analysis, we tested SNPs in the chr2q24.1 locus for replication in CCI (the only cohort not included in the initial publication) using the methods of the originally published paper.
+0	toxicity	NA	rs264651	DISCUSS	All seven previously reported SNPs showed a consistent direction of association with overall toxicity in CCI, and rs264651 showed a statistically significant association (linear regression beta = 0.66; 95% CI 0.06, 1.27; p-value = 0.03).
+0	toxicity	NA	NA	DISCUSS	The locus was also tested for association with the three individual toxicity endpoints investigated in this paper, and appeared to be predominantly associated with urinary toxicity (Table S5).
+0	NA	NA	rs7582141	DISCUSS	SNPs rs7582141, rs6432512, rs264588, and rs264631 were significantly associated with an increased risk for decreased urinary stream and increased urinary frequency (meta-analysis p-values < 0.05, Table S5).
+0	NA	NA	rs264663	DISCUSS	The directions of the associations were consistent across the other three SNPs, with rs264663 and rs264651 reaching statistical significance for urinary frequency.
+0	haemorrhage	NA	NA	DISCUSS	The direction of the association of six of the seven SNPs was consistent for the rectal bleeding endpoint, but none of the SNPs approached statistical significance, suggesting that the urinary endpoints are predominantly driving the association of this locus with overall toxicity.
+0	Breast and prostate cancer	NA	NA	DISCUSS	This finding thus supports the initial report that chr2q24.1 is a risk locus for late radiotherapy toxicity in prostate cancer.
+0	haemorrhage	NA	rs7120482	DISCUSS	rs7120482 on chr11q14.3 was previously identified in Gene-PARE and replicated in a combined dataset that included RADIOGEN and CCI, but the association with rectal bleeding was restricted to a recessive inheritance model.
+0	NA	NA	NA	DISCUSS	In this meta-analysis, dominant and recessive models were not considered in order to avoid an increased burden of multiple comparisons correction.
+0	NA	NA	rs7120482	DISCUSS	Subsequent to this meta-analysis, we tested rs7120482 for replication in RAPPER (the only cohort not included in that initial publication) using the methods of the originally published paper.
+0	haemorrhage	NA	NA	DISCUSS	The initial association with rectal bleeding was not replicated in RAPPER (odds ratio = 0.74; 95% CI 0.08, 7.33; p-value = 0.79).
+0	toxicity	NA	NA	DISCUSS	This lack of replication could be due to differences in the radiotherapy regimen or scoring of toxicity - the incidence of rectal bleeding was low in RAPPER (3%) compared with the other studies (10% to 18%).
+0	NA	NA	NA	DISCUSS	However, the initial association fell just short of genome-wide significance and might be a false positive result.
+0	NA	NA	NA	DISCUSS	At this early stage of radiogenomic GWAS we expect some initial associations to be lost as sample sizes increase and false-positive findings are reduced, as seen in other GWAS meta-analyses.
+0	erectile dysfunction	NA	NA	DISCUSS	Finally, Gene-PARE previously identified risk SNPs for erectile dysfunction, but this endpoint was not assessed in the other studies in the meta-analysis.
+0	NA	NA	NA	DISCUSS	Thus, previously identified SNPs remain important, and the meta-analysis reports additional loci
+0	NA	NA	NA	DISCUSS	This study has several strengths.
+0	toxicity	NA	NA	DISCUSS	First, toxicity was assessed prospectively in all four studies, which minimizes recall bias.
+0	toxicity	NA	NA	DISCUSS	Second, baseline information ensures any SNP-toxicity associations identified occur because of the radiotherapy rather than any pre-existing (possibly tumor-related) symptoms.
+0	NA	NA	NA	DISCUSS	Third, a multivariable approach accounted for relevant treatment and clinical variables.
+0	NA	NA	NA	DISCUSS	Radiogenomics involves phenotypes that occur in response to an environmental exposure (i.e.
+0	NA	NA	NA	DISCUSS	therapeutic radiation) that is measurable and can be adjusted for.
+0	NA	NA	NA	DISCUSS	Fourth, reliable and current imputation methods were used to obtain comparable and dense SNP maps across the four studies, allowing meta-analysis of studies involving different SNP genotyping platforms.
+0	toxicity	NA	NA	DISCUSS	Without imputation, only 15,144 SNPs were common to all four datasets, reducing the likelihood of identifying SNPs associated with late radiotherapy toxicity
+0	NA	NA	NA	DISCUSS	This study has limitations.
+0	toxicity	NA	NA	DISCUSS	First, the four studies were designed independently and involved different methods for recording toxicity.
+0	NA	NA	NA	DISCUSS	Endpoints needed harmonizing and the approach might be sub-optimal, but serves as a useful guide for future radiogenomics studies involving multiple cohorts.
+0	toxicity	NA	NA	DISCUSS	Although endpoints were dichotomized to minimize differences in toxicity grades across the cohorts, the simulation experiment showed minimal loss of statistical power.
+0	NA	NA	NA	DISCUSS	Second, there was the heterogeneity in radiotherapy protocols.
+0	toxicity	NA	NA	DISCUSS	For example, Gene-PARE included individuals who received brachytherapy with EBRT, which increases urinary toxicity.
+0	NA	NA	NA	DISCUSS	Similarly, the proportion of individuals who received androgen deprivation differed across the studies.
+0	NA	NA	NA	DISCUSS	This heterogeneity was adjusted for using multivariable analysis and by a meta-analysis approach.
+0	NA	NA	NA	DISCUSS	Importantly, none of the top SNPs showed evidence of heterogeneity in effect size across studies (Table 5, Table 6, Table 7, Table 8).
+0	NA	NA	NA	DISCUSS	The first SNPs identified are those that rise above such noise in the data, and the significance of our work is that we can find variants despite imperfect datasets.
+0	NA	NA	NA	DISCUSS	We attempted to control for differences in radiation dose by adjusting for total biologically effective dose in each GWAS.
+0	NA	NA	NA	DISCUSS	However, this is a surrogate for the doses received by specific normal tissues.
+0	NA	NA	NA	DISCUSS	Future cohorts with detailed dosimetry data to the different organs at risk will improve on our ability to identify SNPs.
+0	toxicity	NA	NA	DISCUSS	The heterogeneity in cohorts should be embraced, as any predictive test must use SNPs that are associated with toxicity across treatment centers and protocols.
+0	NA	NA	NA	DISCUSS	Last, in order to minimize confounding by population structure, the present analysis was restricted to individuals of European ancestry.
+0	NA	NA	NA	DISCUSS	It will be important for future studies to focus on other ancestral groups, both for replication of the loci identified here and for discovery of additional loci
+0	NA	NA	NA	DISCUSS	While this study was successful in identifying radiosensitivity SNPs via a meta-analysis of GWAS, it is modestly sized compared with GWAS of other diseases and traits, and it should be viewed as the starting point for expanded radiogenomics studies.
+0	NA	NA	NA	DISCUSS	Given that our study was not powered to detect SNPs with odds ratio < 2, many true positive SNPs will have been missed.
+0	NA	NA	NA	DISCUSS	Also, though the SNPs identified here reach statistical significance and show consistency across multiple independent studies, there is still a possibility that they will fail to replicate in other cohorts.
+0	NA	NA	NA	DISCUSS	This is a challenge in GWAS, but meta-analysis and replication studies have proved successful in validating hundreds of risk SNPs for a wide variety of diseases and phenotypes.
+0	NA	NA	NA	DISCUSS	Future large GWAS meta-analyses will identify additional SNPs, and this work is underway.
+0	cancers	NA	NA	DISCUSS	The Radiogenomics Consortium is a participant in the OncoArray Network, which is a large collaborative effort to gain new insight into the genetic architecture and mechanisms underlying several cancers as well as outcomes related to the their treatment.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Approximately 5000 additional DNA samples from individuals treated with radiotherapy for prostate cancer are being genotyped using the customized OncoArray, and meta-analysis of this greatly expanded set of GWAS data using the methods developed in this paper will uncover additional risk SNPs, provide a platform for further validation of the SNPs identified here, and serve as the basis for future post-GWAS analyses on these confirmed loci
+0	NA	NA	NA	DISCUSS	The last decade saw a rapid expansion of knowledge of the genetics of disease susceptibility in the general population.
+0	NA	NA	NA	DISCUSS	Numerous large collaborative GWAS showed that polygenic risk profiles can be built based on multiple SNPs each conferring small effects but together a significant proportion of susceptibility to common diseases.
+0	NA	NA	NA	DISCUSS	With the rapid decline in costs for genetic testing, there is growing acceptance that risk prediction models incorporating genetic and environmental factors will be important in future healthcare provision.
+0	cancers	NA	NA	DISCUSS	In 2012 there were an estimated 32.6 million people alive five years after being diagnosed with cancer (http://www.cdc.gov/cancer/international/statistics.htm), and many will be living with the consequences of treatment.
+0	toxicity	NA	NA	DISCUSS	Research developing models predicting susceptibility to long-term radiation effects is important and the findings reported here shows that heterogeneous radiotherapy cohorts can be combined to identify common genetic variants associated with toxicity.
+0	NA	NA	NA	DISCUSS	The work provides a basis for larger collaborative efforts to identify enough variants for a future test involving polygenic risk profiling
+0	AMD	NGB	NA	ACK_FUND	This work was supported by  (C1094/A11728 to CMLW and NGB for the RAPPER study, C26900/A8740 to GCB, and C8197/A10865 to AMD), the  (C26900/A8740 to GCB), the  (GCB; no grant number),  (GCB; no grant number),  (C46/A2131 to DPD and SG), the  (NGB; no grant number),  (RG70550 to LD), the  (AMD; no grant number), the  (CMLW; no grant number),  (C33589/A19727 to SLG), the United States  (1R01CA134444 to BSR and HO, 2P30CA014520-34 to SB, and 1K07CA187546-01A1 to SLK), the  (RSGT-05-200-01-CCE to BSR), the  (PC074201 to BSR and HO),  (BSR; no grant number), the  (FIS PI10/00164 and PI13/02030 to AV and PI13/01136 to AC),  (FEDER 2007-2013 to AV and AC; no grant number),  (FIS PI10/00164 and PI13/02030 to AV and PI13/01136 to AC),  and the  (POS-A/2013/034 to LF), and the  (103.0393.71760001404 to MP).
+0	AMD	NA	NA	ACK_FUND	AMD receives support from the REQUITE study, which is funded by the European Union's  for research, technological development and demonstration under grant agreement no.
+0	NA	NA	NA	ACK_FUND	601826.
+0	cancers	NA	NA	ACK_FUND	Laboratory infrastructure for the RAPPER study was funded by Cancer Research UK [C8197/A10123] and the Manchester Experimental Cancer Medicine Centre.
+0	NA	NA	NA	ACK_FUND	The RAPPER cohort comprises individuals and data recruited into the RT01 and CHHiP UK radiotherapy trials.
+0	NA	NA	NA	ACK_FUND	The RT01 trial was supported by the UK Medical Research Council.
+0	cancers	NA	NA	ACK_FUND	The CHHiP trial (CRUK/06/016) was supported by the Department of Health and Cancer Research UK (C8262/A7253); trial recruitment was facilitated within centers by the National Institute for Health Research Cancer Research Network.
+0	cancers	DPD	NA	ACK_FUND	DPD and SLG acknowledge NHS funding to the NIHR Biomedical Research Centre at the Royal Marsden NHS Foundation Trust and Institute of Cancer Research
+0	NA	NA	NA	COMP_INT	The authors declare no conflicts of interest.
+0	NA	NA	NA	COMP_INT	No one was paid to write this article by a pharmaceutical company or agency
+0	cancers	NA	NA	COMP_INT	Centers for Disease Control and Prevention, Global Cancer Statistics (http://www.cdc.gov/cancer/international/statistics.htm
+0	NA	SLK	NA	AUTH_CONT	SLK, LD, LF and GCB analyzed and interpreted data and drafted the initial manuscript.
+0	MRS	DPD	NA	AUTH_CONT	DPD, SLG, EH, MRS, NGB, GCB and CMLW collected data for the RAPPER study.
+0	NA	NGB	NA	AUTH_CONT	NGB and CMLW were the principal investigators for the RAPPER study.
+0	NA	NA	NA	AUTH_CONT	AMC, AC, AGC, PP and AV collected data for the RADIOGEN study.
+0	NA	NA	NA	AUTH_CONT	AV was the principal investigator for the RADIOGEN study.
+0	NA	SLK	NA	AUTH_CONT	RS, NNS, SLK, HO and BSR collected data for the Gene-PARE study.
+0	NA	NA	NA	AUTH_CONT	HO and BSR were the principal investigators for the Gene-PARE study.
+0	NA	NA	NA	AUTH_CONT	MS, and MP collected data for the CCI study.
+0	NA	NA	NA	AUTH_CONT	MP was the principal investigator for the CCI study.
+0	NA	NA	NA	AUTH_CONT	SA designed and performed TaqMan genotyping assays.
+0	AMD	SLK	NA	AUTH_CONT	SLK, LD, LF, SB, PDPP, DRB, KM, JPT, HO, AMD, GCB and CMLW contributed to the data analysis plan and statistical methods used.
+0	NA	NA	NA	AUTH_CONT	All authors contributed intellectual input to the study design and interpretation of results, and all authors reviewed the manuscript prior to submission.
+0	NA	NA	NA	AUTH_CONT	CMLW approved the final manuscript for submission
+0	NA	NA	NA	FIG	Forest plots of significant SNPs.
+0	toxicity	NA	rs17599026	FIG	SNPs with meta-p-value < 5 x 10- 8 associated with: (a) urinary frequency (rs17599026); (b) decreased urine stream (rs7720298); and (c) overall toxicity (rs11230328).
+0	NA	NA	NA	FIG	p-Values are from meta-analysis of regression coefficients and standard errors from regression analysis performed in each study.
+0	NA	NA	NA	FIG	Odds ratios (OR; urinary frequency and decreased urine stream) or regression beta coefficient (STAT score) are shown for each individual study as well as the meta-analysis (Summary).
+0	NA	NA	NA	FIG	The size of the box marking each odds ratio or beta is proportional to the precision of estimate for the given study.
+0	NA	NA	NA	FIG	Lines on the boxes denote 95% confidence intervals.
+0	toxicity	NA	rs17599026	FIG	'Toxicity' and 'No toxicity' (rs17599026 and rs7720298) was defined as >= 1 point increase in toxicity grade versus no change in toxicity grade from pre-radiotherapy scores.
+0	toxicity	NA	NA	FIG	Overall toxicity was analyzed as a continuous variable (STAT)
+0	NA	NA	NA	FIG	Regional plots for two loci.
+0	NA	NA	rs17599026	FIG	Loci tagged by rs17599026 (a) and rs7720298 (b) with points representing the tag SNP reported in this paper shown in purple circles.
+0	NA	NA	NA	FIG	Points representing nearby SNPs are color coded according to linkage disequilibrium r2 value as indicated in the legends.
+0	NA	NA	NA	FIG	The recombination rate is estimated from samples from the International HapMap project
+0	NA	NA	NA	TABLE	Rectal bleeding multivariable analysis results (p < 5 x 10- 6)
+0	NA	NA	NA	TABLE	Urinary frequency multivariable analysis results (p < 5 x 10- 6)
+0	NA	NA	NA	TABLE	Decreased stream multivariable analysis results (p < 5 x 10- 6)
+0	toxicity	NA	NA	TABLE	Overall toxicity (STAT) multivariable analysis results (p < 5 x 10- 6)
+0	toxicity	NA	NA	TABLE	Ordinal logistic regression results showing association between top SNPs and toxicity grade

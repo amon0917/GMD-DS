@@ -1,0 +1,230 @@
+0	albuminuria	NA	NA	ABSTRACT	Elevated concentrations of albumin in the urine, albuminuria, are a hallmark of diabetic kidney disease and are associated with an increased risk for end-stage renal disease and cardiovascular events.
+0	albuminuria	NA	NA	ABSTRACT	To gain insight into the pathophysiological mechanisms underlying albuminuria, we conducted meta-analyses of genome-wide association studies and independent replication in up to 5,825 individuals of European ancestry with diabetes and up to 46,061 without diabetes, followed by functional studies.
+0	NA	CUBN	NA	ABSTRACT	Known associations of variants in CUBN, encoding cubilin, with the urinary albumin-to-creatinine ratio (UACR) were confirmed in the overall sample (P = 2.4 x 10-10).
+1	NA	HS6ST1	NA	ABSTRACT	Gene-by-diabetes interactions were detected and confirmed for variants in HS6ST1 and near RAB38/CTSC.
+0	diabetes	NA	NA	ABSTRACT	Single nucleotide polymorphisms at these loci demonstrated a genetic effect on UACR in individuals with but not without diabetes.
+1	NA	HS6ST1	NA	ABSTRACT	The change in the average UACR per minor allele was 21% for HS6ST1 (P = 6.3 x 10-7) and 13% for RAB38/CTSC (P = 5.8 x 10-7).
+0	diabetes	Rab38	NA	ABSTRACT	Experiments using streptozotocin-induced diabetic Rab38 knockout and control rats showed higher urinary albumin concentrations and reduced amounts of megalin and cubilin at the proximal tubule cell surface in Rab38 knockout versus control rats.
+1	Kidneys in Diabetes	RAB38	NA	ABSTRACT	Relative expression of RAB38 was higher in tubuli of patients with diabetic kidney disease compared with control subjects.
+0	albuminuria	NA	NA	ABSTRACT	The loci identified here confirm known pathways and highlight novel pathways influencing albuminuria
+0	chronic kidney disease	NA	NA	INTRO	Urinary albumin and serum creatinine are two biomarkers recommended for the routine assessment of chronic kidney disease (CKD).
+0	T2DM-ESRD	NA	NA	INTRO	Even at physiological rates of glomerular filtration, small elevations in urinary albumin concentrations are associated with an increased risk for CKD progression, end-stage renal disease (ESRD), cardiovascular events, and cardiovascular and all-cause mortality.
+0	diabetes	NA	NA	INTRO	Patients with diabetes are at a particularly high risk for CKD and its sequelae: the prevalence of CKD among individuals with diabetes is >40% compared with ~10% in the general U.S. adult population, and the presence of CKD is an important contributor to the excess mortality in diabetes.
+0	albuminuria	NA	NA	INTRO	The appearance of significant amounts of albumin in the urine (albuminuria) is a hallmark of diabetic kidney disease (DKD), the incidence of which continues to rise along with type 2 diabetes worldwide.
+0	NA	NA	NA	INTRO	Residual diabetes-related microvascular risk represents an important challenge even in treated individuals, and DKD remains the leading cause of ESRD.
+0	NA	NA	NA	INTRO	No new effective treatments for DKD have been approved in more than two decades, highlighting the importance to better understand its underlying mechanisms
+0	NA	CUBN	NA	INTRO	Using genome-wide association study (GWAS) meta-analysis in general population cohorts, we previously identified a missense single nucleotide polymorphism (SNP) in the gene encoding cubilin (CUBN) in association with the urinary albumin-to-creatinine ratio (UACR).
+0	NA	CUBN	NA	INTRO	CUBN is currently the only genome-wide significant locus for UACR.
+0	albuminuria	NA	NA	INTRO	However, this variant explains only a small fraction of the previously reported heritability of albuminuria, ranging from 0.2 to 0.46 in the general population and in those with diabetes, suggesting that additional genetic variants remain to be found.
+0	albuminuria	NA	NA	INTRO	Here we report the results of a GWAS meta-analysis of albuminuria traits in the general population performed in almost twice the sample size of our previous study, with a special focus on those with diabetes, replication in additional independent individuals, and follow-up investigations in human tissues and a genetically modified animal model of diabetes
+0	Diabetes Complications	NA	NA	METHODS	Our study was based on 30 discovery and replication studies mostly from the general population, with the exception of Action in Diabetes and Vascular Disease: Preterax and Diamicron MR Controlled Evaluation (ADVANCE) and Genetics of Diabetic Nephropathy (GENDIAN), which enrolled exclusively individuals with type 2 diabetes, totaling 67,452 participants of European ancestry across the different analyses (up to 7,787 with diabetes in discovery and replication).
+0	albuminuria	NA	NA	METHODS	The study characteristics, including the distribution of albuminuria and diabetes, are reported in Supplementary Table 1.
+0	NA	NA	NA	METHODS	Study protocols were approved by each local institutional review board or ethics committee, and all human participants gave written informed consent
+0	NA	NA	NA	METHODS	The measurement of urinary albumin and creatinine in each study is reported in Supplementary Table 2.
+0	NA	NA	NA	METHODS	Urinary albumin values below the detection limit of the used assays were set to the lower limit of detection.
+0	NA	NA	NA	METHODS	Rather than using urinary albumin, the UACR was calculated as urinary albumin/urinary creatinine (mg/g) to account for differences in urine concentration.
+0	NA	NA	NA	METHODS	Microalbuminuria (MA) was defined as UACR >25 mg/g in women and >17 mg/g in men.
+0	diabetes	NA	NA	METHODS	Diabetes was defined as fasting glucose >=126 mg/dL, nonfasting glucose >=200 mg/dL, or treatment for diabetes, or by self-report if this information was not available.
+0	diabetes	NA	NA	METHODS	Across studies, we evaluated two traits, UACR and MA, and performed four GWAS meta-analyses: MA and UACR in the overall sample, as well as UACR:a continuous trait with higher statistical power:separately among those with and without diabetes.
+0	NA	NA	NA	METHODS	Diabetes-stratified genome-wide association analyses of MA were not performed due to limited sample size.
+0	NA	NA	NA	METHODS	Detailed information on the design, genotyping, imputation, and data management of each study is provided in Supplementary Tables 2 and 3
+0	NA	NA	NA	METHODS	Stringent quality control of the genetic data was performed at the individual study level and again at the meta-analysis level using state-of-the-art methods.
+0	NA	NA	NA	METHODS	Missing genotypes were imputed using the HapMap reference panels in 19 studies and the 1000 Genomes reference panels in two studies.
+0	NA	NA	NA	METHODS	Details of genotyping, imputation software, reference panels, and quality filters in each study are reported in Supplementary Table 3
+0	NA	NA	NA	METHODS	All GWAS were performed following a standardized analysis protocol.
+0	NA	NA	NA	METHODS	In each study, the natural logarithm of UACR was taken.
+0	NA	NA	NA	METHODS	Subsequently, sex-specific residuals were obtained from linear regression models of ln (UACR) on age and study-specific covariates, including study center and genetic principal components, to adjust for possible population stratification, if applicable.
+0	NA	NA	NA	METHODS	The continuous sex-specific residuals were then combined and used as the dependent variable that was regressed on imputed allelic dosages for each SNP in the GWAS
+0	NA	NA	NA	METHODS	Before the meta-analyses, all study-specific GWAS summary files underwent quality control using the GWAtoolbox.
+0	NA	NA	NA	METHODS	Genomic-control (GC) correction was applied when the GC factor was >1.
+0	NA	NA	NA	METHODS	Inverse variance weighted fixed-effects meta-analyses were conducted using METAL.
+0	NA	NA	NA	METHODS	The I2 statistic was used to evaluate between-study heterogeneity.
+0	NA	NA	NA	METHODS	All meta-analyses were performed in duplicate by two independent researchers
+0	NA	NA	NA	METHODS	After meta-analysis, SNPs with average minor allele frequency (MAF) <0.01 were excluded, and another GC correction was applied.
+0	NA	NA	NA	METHODS	There were 2,191,945 SNPs with average MAF >0.05 and present in >50% of the studies, which were then clustered based on correlation (linkage disequilibrium pruning using r2 <= 0.2) with the respective index SNP (the SNP with the lowest P value) within windows of +- 1 MB to identify independent SNPs with suggestive association (P < 10-5) in one or more of the four analyses
+0	diabetes	CUBN	NA	METHODS	Replication testing was then performed for signals that were genome-wide significant (P < 5 x 10-8) in any analysis or that showed suggestive association among those with diabetes, motivated by the clinical importance of DKD and the stronger association of the known and validated CUBN variant on UACR among those with diabetes.
+0	NA	NA	NA	METHODS	Replication was defined as a one-sided P value <0.05 in the meta-analysis of independent replication studies.
+0	NA	NA	NA	METHODS	Five of the nine studies that contributed to replication used imputed dosage, and four studies performed replication genotyping of the index SNPs.
+0	NA	NA	NA	METHODS	A meta-analysis of the replication results was performed.
+0	NA	NA	NA	METHODS	The double GC-corrected results from the discovery meta-analysis and the results of the nine replication studies were meta-analyzed to obtain the overall statistical significance.
+0	NA	NA	NA	METHODS	Unless stated otherwise, all reported P values are two-sided
+0	diabetes	NA	NA	METHODS	Assuming that associated SNPs explain a respective 0.6% and 0.5% of the UACR variance in diabetes (Table 1), there was 95% and 91% power, respectively, to replicate the seven suggestive loci from the discovery stage in an additional 1,800 samples with a one-sided P value of <0.05
+1	NA	RAB38	NA	METHODS	Replicated SNPs were further evaluated even in the absence of genome-wide significance because, in addition to the significant replication P value, the low heterogeneity across cohorts and the biological plausibility of the RAB38 locus further increased confidence in the findings.
+0	diabetes	NA	NA	METHODS	The SNPs were evaluated in the Diabetes Control and Complications Trial (DCCT)/Epidemiology of Diabetes Interventions and Complications (EDIC) study for association with a primary clinical end point defined as time from the DCCT baseline until time to persistent MA or a secondary end point of time to incident albumin excretion rate >300 mg/24 h or ESRD.
+0	NA	NA	NA	METHODS	Time to outcome development or censoring was determined as the number of visit years from the DCCT baseline up to and including the 12th year of EDIC follow-up.
+0	NA	NA	NA	METHODS	Subjects with persistent MA at DCCT baseline and DCCT year 1 were excluded from analyses of that outcome
+0	NA	NA	NA	METHODS	Epigenomic map analyses were performed, as described previously, by using data from human kidney and kidney proximal tubule epithelial cells that can be accessed at Gene Expression Omnibus (GSE49637)
+0	NA	NA	NA	METHODS	Genetic associations with additional renal function traits, estimated glomerular filtration rate (eGFR), and CKD, were evaluated based on results from GWAS meta-analysis of the corresponding traits within the CKDGen Consortium (C.P., personal communication)
+0	NA	NA	NA	METHODS	Quantification of transcript abundance in microdissected fractions of human glomeruli and tubuli from surgical nephrectomies, living allograft donors, and portions of diagnostic kidney biopsies was performed using RNA sequencing.
+0	NA	NA	NA	METHODS	Tissue from different renal compartments was separated using microdissection, homogenized, and stored at -80 C. Total RNA of human proximal tubule fractions (n = 256) and glomerular cells (n = 48) was isolated using the RNeasy Mini Kit (Qiagen) according to the manufacturer's instructions.
+0	NA	NA	NA	METHODS	RNA quality was assessed with the Agilent Bioanalyzer 2100, and RNA preparations exhibiting RNA integrity number scores >7 were used for cDNA synthesis (library preparation at DNA Sequencing Core at UT Southwestern Medical Center).
+0	NA	NA	NA	METHODS	In short, 1 mug total RNA was used to isolate poly A purified mRNA using the Illumina TruSeq RNA Preparation Kit.
+0	NA	NA	NA	METHODS	Single-end 100 bp sequencing was performed, and the annotated RNA counts (fastq) were calculated by CASAVA 1.8.2 (Illumina).
+0	NA	NA	NA	METHODS	Reads were mapped to the reference genome (National Center for Biotechnology Information build 37, hg19) using Spliced Transcripts Alignment to a Reference (STAR).
+1	NA	HS6ST1	NA	METHODS	Reads per kilobase of transcript per million mapped for HS6ST1 and RAB38 were compared between glomerular and tubular fractions using a two-sided t test
+0	NA	NA	NA	METHODS	Comparison of candidate gene expression between case subjects with DKD proven by biopsy specimen and healthy control subjects was based on publicly available microarray data from human microdissected glomeruli and tubuli (Gene Expression Omnibus, GSE 30122).
+0	NA	NA	NA	METHODS	"Raw data were analyzed using the R package ""Affy"" version 1.44.0, and expression levels were normalized using robust multiarray average."
+0	NA	NA	NA	METHODS	Transcript abundance between patients and control subjects was compared using two-sided t tests; statistical significance was defined as P < 8.3 x 10-3 (alpha = 0.05 corrected for six comparisons)
+0	albuminuria	Rab38	NA	METHODS	To better understand the association of RAB38 with albuminuria in diabetes, we studied genetically modified rat models of diabetes.
+0	hypertension	Rab38	NA	METHODS	Eight Rab38 knockout (KO) rats on a fawn-hooded hypertensive (FHH) background, seven rats transgenic for the wild-type Brown Norway rat Rab38 allele, and seven congenic rats were generated and raised as described previously.
+0	NA	Rab38	NA	METHODS	Rab38 KO rats did not express the protein.
+0	albuminuria	NA	NA	METHODS	These references also describe the recording of blood pressure and the measurement of glucose and albuminuria.
+0	diabetes	NA	NA	METHODS	Diabetes was induced by administering streptozotocin (STZ) (STZ; 50 mg/kg i.p.
+0	NA	NA	NA	METHODS	; Sigma-Aldrich, St. Louis, MO) to 9-week-old male rats
+0	Osaka-Midosuji Rotary Club	NA	NA	METHODS	Paraffin blocks of rat kidney samples were sectioned (6-mum thickness) with a Leica RM2255 rotary microtome (Thermo-Fisher Scientific, Waltham, MA) on Superfrost Plus glass slides (12-550-15, Thermo-Fisher Scientific).
+0	NA	NA	NA	METHODS	Before staining, slides were deparaffinized in changes of CitriSolv (22-143-975, Thermo-Fisher Scientific) and 70% isopropanol.
+0	NA	NA	NA	METHODS	Antigen retrieval was accomplished by incubating in sodium citrate buffer (1.8% 0.1 mol/L citric acid, 8.2% 0.1 mol/L sodium citrate, in distillated water, pH 6.0) in a rice cooker for 30 min.
+0	NA	LRP2	NA	METHODS	Slides were blocked with PBS blocking buffer (1% BSA, 0.2% nonfat dry milk in PBS) for 30 min and stained with primary antibodies specific for megalin or cubilin diluted in blocking buffer overnight at 4 C. Sheep anti-megalin and rabbit anti-cubilin were provided by Dr. P. Verroust, INSERM, Paris, France.
+0	NA	NA	NA	METHODS	After two washes in 0.1% Tween 20 (v/v in PBS), slides were incubated with corresponding fluorophore-conjugated secondary antibodies (Invitrogen), diluted in blocking buffer at room temperature for 1 h, and counterstained with 10 mumol/L Hoechst 33342 (Molecular Probes-Invitrogen, H1399).
+0	NA	NA	NA	METHODS	Slides were subsequently mounted in Prolong Gold Antifade reagent (Invitrogen), and images were acquired with a Leica SP5 confocal laser scanning microscope (Center for Microscopy and Image Analysis, University of Zurich) equipped with a Leica APO x63 NA 1.4 oil immersion objective
+0	NA	NA	NA	METHODS	All experiments were performed in compliance with National Institutes of Health Guide for Care and Use of Laboratory Animals, and all used protocols were approved by the local institutional animal care and use committee
+0	NA	NA	NA	RESULTS	The discovery GWAS meta-analyses for the four traits included up to 20 studies and up to 54,450 individuals per trait.
+0	NA	NA	NA	RESULTS	The median UACR in the 20 individual studies that contributed to the UACR meta-analysis ranged from 2.5 to 15.6 mg/g.
+0	NA	NA	NA	RESULTS	Across all studies, the mean proportion of women was 53%, and the median of average age was 57 years.
+0	diabetes	NA	NA	RESULTS	The prevalence of diabetes in the population-based studies ranged from 1 to 14% (Supplementary Table 1)
+0	NA	NA	NA	RESULTS	There was no evidence of systematic biases influencing the genome-wide association results, as indicated by low genomic control parameters (Supplementary Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	CUBN	NA	RESULTS	Only SNPs in the previously identified CUBN locus showed genome-wide significant association with both UACR (P = 2.4 x 10-10, Supplementary Table 4 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	2) and MA (P = 1.3 x 10-10, Supplementary Table 5 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	2).
+1	diabetes	NA	rs10795433	RESULTS	The effect of the minor C allele of the index SNP rs10795433 on logarithmic UACR values was fourfold larger among 5,825 individuals with diabetes (0.19 log[mg/g], P = 2.0 x 10-5) compared with 46,061 individuals without diabetes (0.045 log[mg/g], P = 8.7 x 10-6; P = 8.2 x 10-4 for difference).
+0	diabetes	NA	NA	RESULTS	This corresponds, for each additional C allele, to a 5% higher geometric mean of UACR (exp[0.045]) in individuals without diabetes compared with 21% higher average UACR in those with diabetes (exp[0.19])
+0	NA	NA	NA	RESULTS	Suggestive associations were identified for all four analyses (Supplementary Tables 4-7 and regional association plots in Supplementary Fig.
+0	NA	NA	NA	RESULTS	3).
+0	diabetes	NA	NA	RESULTS	Among the clinically important group of individuals with diabetes, seven genomic loci contained one or more SNPs showing a suggestive association with UACR.
+1	diabetes	HS6ST1	NA	RESULTS	These were exclusively identified in the meta-analysis of individuals with diabetes and mapped into or near HS6ST1, CNTN4, KBTBD8, TFAP2B/PKHD1, CHN2, WDR11/FGFR2, and RAB38/CTSC (Supplementary Table 7).
+0	diabetes	NA	NA	RESULTS	Following our analytical strategy, we selected the index SNP in each of these seven regions for follow-up among up to 1,962 independent individuals with diabetes
+0	NA	NA	NA	RESULTS	The Supplementary PDF document contains the QQ and Manhattan plots of all GWAS meta-analyses, the regional association plots, tables with cohort descriptions, and association results of SNPs at P < 10-5.
+0	NA	NA	NA	RESULTS	Results from discovery GWAS meta-analysis are publicly available at http://fox.nhlbi.nih.gov/CKDGen/
+0	diabetes	NA	NA	RESULTS	The replication analyses included nine studies and up to 1,962 individuals with diabetes.
+0	NA	NA	NA	RESULTS	The median UACR across replication studies ranged from 3.8 to 14.5 mg/g.
+0	NA	NA	NA	RESULTS	The mean proportion of women was 49%, and the median of average age was 55 years.
+0	NA	NA	NA	RESULTS	For the seven SNPs tested for replication (Supplementary Table 8), we assessed whether the one-sided P value was <0.05 in the combined replication studies (see research design and methods).
+1	NA	NA	rs649529	RESULTS	This was the case for two SNPs: intergenic rs649529 upstream of RAB38/downstream of CTSC on chromosome 11q14 (Fig.
+1	NA	HS6ST1	rs13427836	RESULTS	1A) and the intronic variant rs13427836 in HS6ST1 on chromosome 2q21 (Fig.
+0	NA	NA	NA	RESULTS	1B).
+0	NA	NA	NA	RESULTS	As illustrated in Fig.
+1	NA	NA	rs649529	RESULTS	1C, each additional copy of the minor T allele of rs649529 at RAB38/CTSC was consistently associated with lower UACR among the 5,825 individuals in the discovery and 1,962 in the replication cohorts (combined P = 5.8 x 10-7) (Table 1), with no evidence of heterogeneity across cohorts (I2 = 0%).
+0	NA	NA	NA	RESULTS	This effect corresponded to 13% lower geometric mean of UACR per copy of the T allele.
+1	NA	HS6ST1	rs13427836	RESULTS	Similarly, rs13427836 in HS6ST1 showed consistent effects across cohorts (combined P = 6.3 x 10-7) (Table 1), with each copy of the T allele associated with an ~21% higher mean UACR but moderate heterogeneity (I2 = 29.9%) (Fig.
+0	NA	NA	NA	RESULTS	1D)
+1	albuminuria	NA	NA	FIG	Overview of associated genomic loci at RAB38/CTSC and HS6ST1 and consistent association with albuminuria in diabetes across the contributing studies.
+1	NA	NA	NA	FIG	A: Regional association plot of the RAB38/CTSC locus on chromosome 11.
+0	NA	NA	rs649529	FIG	B: The T allele at rs649529 is associated with lower UACR across discovery and replication studies.
+1	NA	HS6ST1	NA	FIG	C: Regional association plot of the HS6ST1 locus on chromosome 10.
+1	NA	NA	rs13427836	FIG	D: The T allele of intronic rs13427836 is associated with higher UACR across discovery and replication studies.
+0	NA	NA	NA	FIG	The solid squares indicate the mean difference and are proportional to the weights used in the meta-analysis.
+0	NA	NA	NA	FIG	The solid vertical line indicates no effect.
+0	NA	NA	NA	FIG	The diamond indicates the weighted mean difference, and the lateral tips of the diamond indicate the associated CIs.
+0	NA	NA	NA	FIG	The horizontal lines represent the 95% CI
+1	diabetes	NA	rs649529	RESULTS	The association of rs649529 near RAB38/CTSC and rs13427836 in HS6ST1 was not found in individuals without diabetes (P = 0.64 and P = 0.38, respectively) (Table 2).
+1	diabetes	NA	rs649529	RESULTS	Differences in the association with UACR among those with and without diabetes were significant (t test for difference: P = 6.9 x 10-6 for rs649529 and P = 1.7 x 10-5 for rs13427836).
+0	NA	CUBN	NA	RESULTS	Effects for the index variant in CUBN are provided for comparison.
+0	diabetes	NA	NA	RESULTS	We also evaluated the association of the replicated SNPs with MA in the setting of diabetes.
+0	diabetes	NA	NA	RESULTS	Information was obtained from a subset of studies with sufficiently high numbers of individuals with diabetes and MA (n = 2,552; Atherosclerosis Risk in Communities Study [ARIC], Cardiovascular Health Study [CHS], Cohorte Lausannoise [CoLaus], European Prospective Investigation into Cancer and Nutrition [EPIC], Framingham Heart Study [FHS], Kooperative Gesundheitsforschung in der Region Augsburg [KORA] F3, KORAF4, and Study of Health in Pomerania [SHIP]).
+1	NA	RAB38	rs649529	RESULTS	Across cohorts, the odds ratio for MA for each copy of the minor allele was 0.84 for rs649529 near RAB38 (P = 0.019) and 1.39 for rs13427836 in HS6ST1 (P = 7.8 x 10-4), consistent with the direction of the SNP effects on UACR
+0	NA	NA	NA	TABLE	Replicated SNP associations with additional kidney function and diabetes-related trait
+0	diabetes	NA	NA	RESULTS	We next investigated whether the gene-by-environment interaction was also observed for the eGFR, another measure of kidney function, and/or diabetes or glycemic traits.
+1	diabetes	NA	rs649529	RESULTS	No statistically significant associations were found between rs649529, rs13427836, rs10795433, and eGFR in those with or without diabetes (Table 2) and no associations were found with CKD.
+0	diabetes	NA	NA	RESULTS	There were also no statistically significant associations of these variants with type 2 diabetes, fasting blood glucose, or plasma hemoglobin A1c concentrations (Table 2), indicating that the observed associations pertain to albuminuria in the setting of diabetes rather than to diabetes or impaired glucose metabolism per se.
+0	NA	NA	NA	RESULTS	A comprehensive search in the National Human Genome Research Institute GWAS Catalog did not reveal any significant associations between the two validated SNPs or their proxies with other diseases or traits
+1	NA	RAB38	rs649529	RESULTS	Using publicly available data of genetic effects on gene expression, we found an association in cis between rs649529 and transcript levels of RAB38 (P = 5.4 x 10-6) and the neighboring CTSC (P = 7.6 x 10-7), consistent with a regulatory effect of this variant in whole blood.
+0	NA	NA	NA	RESULTS	Corresponding data for kidney-specific tissues are currently not available, but we used epigenetic maps generated from human adult kidney tissue (see research design and methods) to further examine the regulatory potential of index SNPs.
+1	NA	HS6ST1	NA	RESULTS	The intronic index SNP in HS6ST1 and several proxies mapped into enhancer regions.
+1	NA	CUBN	rs10795433	RESULTS	Similarly, the CUBN index variant rs10795433 mapped into an intronic enhancer region.
+1	NA	NA	NA	RESULTS	The region in which the index variant at RAB38/CTSC is located was annotated as not mapped/repressed in these cells, thus preventing further examination.
+1	NA	CUBN	NA	RESULTS	All proxies in strong linkage disequilibrium with these three index SNPs (r2 > 0.6, 1000G v5 reference panel) were intronic (CUBN and HS6ST1) or intergenic (RAB38/CTSC)
+0	NA	NA	NA	RESULTS	To evaluate target tissues within the kidney, we characterized the identified loci using data for tissue-specific gene expression.
+0	insulin-treated diabetes	NA	NA	RESULTS	Clinical characterization was conducted using data from patients with DKD and healthy control subjects and a prospective study of individuals with type 1 diabetes
+1	NA	RAB38	NA	RESULTS	We used publicly available data to compare relative expression of RAB38, CTSC, and HS6ST1 between patients with DKD confirmed by biopsy specimen and healthy control subjects (see research design and methods).
+1	NA	RAB38	NA	RESULTS	After multiple testing correction, only RAB38 expression levels were significantly different, with higher expression in tubuli of DKD patients compared with control subjects (P = 1.3 x 10-4) (Fig.
+0	NA	NA	NA	RESULTS	2A).
+1	NA	RAB38	NA	RESULTS	We also used RNA sequencing data from microdissected human kidney samples to quantify RAB38 and HS6ST1 expression in human glomeruli and tubuli.
+1	NA	HS6ST1	NA	RESULTS	HS6ST1 showed higher expression levels than RAB38, and both genes showed higher expression in tubuli than in glomeruli (Fig.
+0	NA	NA	NA	RESULTS	2B).
+1	NA	RAB38	NA	RESULTS	The difference between tubular and glomerular expression was more pronounced for RAB38 (P = 1.1 x 10-8) than for HS6ST1 (P = 0.015)
+1	NA	RAB38	NA	FIG	RAB38 and HS6ST1 expression across kidney tissues.
+1	NA	RAB38	NA	FIG	A: Comparison of RAB38 and HS6ST1 expression (microarray) in tubuli and glomeruli of patients with DKD and control subjects shows significantly higher RAB38 expression in tubuli of DKD patients than in tubuli of control subjects (significance threshold 0.05/6 = 8.3 x 10-3 for investigating RAB38, CTSC, and HS6ST1 in tubuli and glomeruli).
+0	NA	CTSC	NA	FIG	CTSC expression was not significantly different between DKD case subjects and control subjects in tubuli (P = 0.11) or glomeruli (P = 0.03).
+0	NA	NA	NA	FIG	Expression levels are shown as robust multiarray average-processed gene intensity values.
+1	NA	RAB38	NA	FIG	B: RAB38 and HS6ST1 transcript abundance quantified from RNA sequencing (RNAseq) is detected at high levels in human tubuli but also in glomerular cells.
+0	NA	NA	NA	FIG	Transcripts were quantified by reads per kilobase of transcript per million mapped (RPKM).
+0	NA	NA	NA	FIG	The error bars in A and B correspond to the SEM
+0	retinopathy and nephropathy complications	NA	NA	RESULTS	To investigate whether the effect of the replicated SNPs extended to kidney disease progression in the setting of type 1 diabetes, the SNPs were tested for association with incident MA (268 case subjects, primary end point) and a combined end point of time to macroalbuminuria or ESRD (133 case subjects, secondary end point) among up to 1,304 participants with type 1 diabetes in the DCCT/EDIC study.
+0	NA	NA	NA	RESULTS	Neither SNP showed a significant association (Supplementary Table 9)
+0	NA	NA	NA	RESULTS	We aimed to further substantiate our findings by obtaining experimental support.
+1	albuminuria	RAB38	NA	RESULTS	We focused on the examination of RAB38 because it was the gene implicated by higher gene expression in tubuli of DKD patients compared with control subjects and because previous studies of Rab38 KO and transgenic rats have confirmed its role in albuminuria in FHH rats and highlighted a role in tubular albumin reuptake.
+0	diabetes	NA	NA	RESULTS	We thus examined these animals in the setting of diabetes as outlined in Fig.
+0	NA	NA	NA	RESULTS	3A.
+0	diabetes	NA	NA	RESULTS	Injection of STZ in 9-week-old rats successfully induced diabetes in all strains (Fig.
+0	NA	NA	NA	RESULTS	3B).
+0	hyperglycemia	NA	NA	RESULTS	Blood glucose rose from normal values before injection of STZ (congenic, 205 +- 3 mg/dL; transgenic, 227 +- 11 mg/dL; KO, 198 +- 7 mg/dL) to high values that indicate severe hyperglycemia 1 week after STZ (congenic, 422 +- 35 mg/dL; transgenic, 406 +- 27 mg/dL; KO, 420 +- 21 mg/dL).
+0	NA	NA	NA	RESULTS	Blood glucose levels remained high at age 11, 12, and 13 weeks and showed no significant differences among strains (Fig.
+0	NA	NA	NA	RESULTS	3B).
+0	NA	NA	NA	RESULTS	There were no significant differences in mean arterial blood pressure among congenic, transgenic, and KO animals freely moving around the cage.
+0	NA	NA	NA	RESULTS	All animal strains showed a tendency toward decreased blood pressure 3-4 weeks after injection of STZ (Fig.
+0	NA	NA	NA	RESULTS	3C)
+0	diabetes	Rab38	NA	FIG	Comparison of Rab38 congenic, transgenic, and KO rats after induction of diabetes.
+0	NA	NA	NA	FIG	A: Experimental setup and timeline.
+0	NA	NA	NA	FIG	BP, blood pressure measurement via radio telemetry; MC, metabolic cage.
+0	NA	NA	NA	FIG	B: Comparison of blood glucose concentrations.
+0	NA	NA	NA	FIG	C: Comparison of mean arterial pressure.
+0	NA	NA	NA	FIG	D: Comparison of urinary albumin concentrations.
+0	NA	NA	NA	FIG	*P < 0.05, **P < 0.01 KO vs. transgenic, ##P < 0.01 KO vs. congenic.
+0	NA	NA	NA	FIG	E: Expression of endocytic markers.
+0	NA	megalin	NA	FIG	Immunofluorescence staining for megalin (green, top panel) and cubilin (red, bottom panel) in kidneys from all three rat strains.
+0	NA	NA	NA	FIG	Nuclei counterstained with DAPI (blue).
+0	NA	NA	NA	FIG	Scale bar, 50 mum.
+0	NA	NA	NA	FIG	Data are presented as mean +- SEM.
+0	NA	NA	NA	FIG	The results for blood pressure measurement, urinary albumin excretion, and blood glucose were analyzed by two-way ANOVA, followed by the Tukey post hoc test
+0	NA	NA	NA	RESULTS	As illustrated in Fig.
+1	NA	RAB38	NA	RESULTS	3D, Rab38 KO animals showed a progressive increase in urinary albumin excretion that became statistically significant 2 weeks after injection of STZ.
+1	NA	RAB38	NA	RESULTS	At 4 weeks after injection, Rab38 KO animals had an albumin excretion of 79 +- 14 mg/day, whereas albumin excretion was only 28 +- 8 mg/day in transgenic (P < 0.01) and 41 +- 13 mg/day in congenic animals (P < 0.01).
+0	diabetes	Rab38	NA	RESULTS	These data indicate that diabetic rats without Rab38 are more susceptible to the development of albuminuria than congenic and transgenic animals with functional Rab38 despite a similar degree of hyperglycemia in all animals.
+0	glomerulosclerosis	NA	NA	RESULTS	Kidney sections obtained from a subset of animals showed a higher average glomerulosclerosis score (2.9 +- 0.3) compared with congenic (2.2 +- 0.1) and transgenic (2.2 +- 0.1) rats (P < 0.05) (Supplementary Fig.
+0	NA	NA	NA	RESULTS	4), but differences were subtler than those observed for urinary albumin excretion
+1	albuminuria	RAB38	NA	RESULTS	To further clarify how loss of Rab38 may lead to albuminuria, we performed immunohistochemistry staining of megalin and cubilin, known to mediate albumin reuptake in the proximal tubulus, in kidney sections of all three animal strains.
+0	NA	cubilin	NA	RESULTS	Cubilin and megalin were markedly reduced at the luminal membrane of proximal tubular cells in Rab38 KO rats compared with congenic and transgenic control animals (Fig.
+0	NA	Rab38	NA	RESULTS	3E), consistent with a role of Rab38 in regulating the abundance of cubilin and megalin at the cell surface.
+0	NA	LAMP1	NA	RESULTS	In contrast, there was no significant difference in the number of structures positive for the lysosomal marker LAMP1 among the three strains
+0	diabetes	CUBN	NA	DISCUSS	In this GWAS discovery meta-analysis of 2,191,945 SNPs in up to 54,450 participants of 20 studies, we replicated the association of the previously identified CUBN locus and UACR as well as MA at genome-wide significance and identified several suggestive signals among individuals with diabetes.
+0	NA	NA	NA	DISCUSS	Two of these loci, RAB38/CTSC and HS6ST1, showed evidence of independent replication, and RAB38 was further supported by functional studies in a rat model.
+0	retinopathy and nephropathy complications	NA	NA	DISCUSS	Our findings point to mechanisms in renal handling of albumin that associate with albuminuria in humans in the setting of diabetes.
+0	NA	NA	NA	DISCUSS	They thus represent examples of gene-by-diabetes interactions resulting in a complex trait that manifests when environmental exposure and genetic susceptibility variants occur together
+0	diabetes	NA	NA	DISCUSS	Not all individuals with diabetes develop DKD, suggesting that neither the presence of hyperglycemia nor genetic variants alone are sufficient to elicit the renal damage that typically manifests itself as albuminuria in diabetes.
+0	diabetes	NA	NA	DISCUSS	Our observations therefore raise the question of how the diabetic environment may result in the manifestation of genetic effects on albuminuria.
+0	diabetes	NA	NA	DISCUSS	The lack of association between both genetic variants and type 2 diabetes or specific glycemic measures in humans indicates that their effects occur without influencing diabetes per se.
+0	diabetes	Rab38	NA	DISCUSS	This notion is further substantiated by the fact that diabetic Rab38 KO rats showed higher urinary albumin concentrations compared with controls despite the presence of similar blood glucose concentrations
+1	albuminuria	Rab38	NA	DISCUSS	A difference between our observations in humans and rats is that the effect of genetic variation near RAB38 on albuminuria was only found in humans with but not without diabetes, whereas Rab38 KO rats without diabetes also progress to albuminuria.
+0	NA	NA	NA	DISCUSS	A potential explanation is that KO rats represent a null mutation, allowing for the genetic component to take full effect without needing further aggravation by environmental factors.
+0	NA	NA	NA	DISCUSS	Conversely, many human susceptibility variants of complex traits do not result in a complete loss of function but instead are of a regulatory nature.
+0	hyperglycemia	NA	NA	DISCUSS	The effect of such variants may become apparent only upon an environmental challenge, such that genetically determined alterations in renal albumin handling could manifest themselves in the setting of hyperglycemia and/or diabetes due to a number of mechanisms that secondarily affect albumin reabsorption, including an increased load of filtered albumin due to hyperfiltration or impairment of the glomerular filter.
+1	NA	RAB38	NA	DISCUSS	Along these lines, our observation of significantly higher RAB38 transcript abundance in tubuli of DKD patients than control subjects may indicate an adaption of the tubular machinery for albumin reabsorption in this setting.
+0	albuminuria	CUBN	NA	DISCUSS	Moreover, genetics effects of the index SNP at the CUBN locus on albuminuria were four times as large in individuals with diabetes compared with those without diabetes, supporting alterations of tubular albumin handling in the setting of diabetes
+1	NA	RAB38	NA	DISCUSS	RAB38 encodes a member of the small Rab GTPase protein family that regulates intracellular vesicle trafficking between organelles and is important in exo-, endo-, and transcytosis.
+0	NA	Rab38	NA	DISCUSS	Expression of Rab38 at the mRNA and protein level was observed in proximal tubule cells of wild-type rats.
+0	FHH	NA	NA	DISCUSS	FHH rats, a natural Rab38-null mutation, show increased urinary albumin excretion without changes in glomerular permeability.
+1	NA	RAB38	NA	DISCUSS	In these animals, the expression of a Brown Norway Rab38 transgene led to phenotypic rescue, and knockdown of Rab38 in a proximal tubule cell system significantly decreased albumin endocytosis.
+1	NA	RAB38	NA	DISCUSS	Together, these observations support an important role for the small Rab GTPase RAB38 in the reabsorption of filtered albumin
+1	NA	RAB38	NA	DISCUSS	Impaired RAB38 function may lead to increased albumin excretion via different mechanisms: altered intracellular vesicle transport may affect albumin reabsorption or recycling of reabsorbed albumin back to the plasma membrane.
+1	albuminuria	RAB38	NA	DISCUSS	Alternatively, altered RAB38 function may affect the delivery of proteins required, such as cubilin or megalin, for albumin endocytosis, the mechanism underlying albuminuria in Dent disease.
+0	NA	cubilin	NA	DISCUSS	Our experimental data showing reduced abundance of cubilin and megalin in Rab38 KO but not in control rats are consistent with the latter hypothesis.
+1	retinopathy and nephropathy complications	RAB38	NA	DISCUSS	Finally, that impaired RAB38 function may directly cause glomerular damage, in turn leading to increased concentrations of urinary albumin, is also conceivable
+1	albuminuria	Rab38	NA	DISCUSS	Although the combined evidence from Rab38 KO rats along with the gene expression and GWAS data strongly implicate RAB38 as the gene underlying albuminuria in humans, the intergenic index SNP mapped upstream of RAB38 and downstream of CTSC and was associated with transcript levels of both genes in whole blood.
+1	NA	CTSC	NA	DISCUSS	We can therefore not exclude the possibility that CTSC may be the causal gene underlying the observed associations or that it contributes to the phenotype in addition to RAB38.
+0	NA	CTSC	NA	DISCUSS	CTSC encodes for a lysosomal cysteine protease.
+0	autosomal-recessive Papillon-Lefevre syndrome	NA	NA	DISCUSS	Rare mutations in the gene cause autosomal-recessive Papillon-Lefevre syndrome.
+0	retinopathy and nephropathy complications	CTSC	NA	DISCUSS	No renal abnormalities have been reported in affected patients, Ctsc KO mice do not show kidney abnormalities, and the gene has not been linked to albuminuria or kidney disease
+1	albuminuria	HS6ST1	NA	DISCUSS	The other genomic locus associated with albuminuria in diabetes contains HS6ST1, encoding the enzyme heparan sulfate (HS) 6-O-sulfotransferase that catalyzes the 6-O-sulfation of HS and heparin.
+0	NA	NA	NA	DISCUSS	HS are anionic side chains of HS proteoglycans, which are components of basement membranes, extracellular matrix, and cell surfaces.
+0	proteinuria	NA	NA	DISCUSS	Several studies have reported that inactivation or removal of HS leads to proteinuria, and biopsy specimens from patients with diabetes revealed changes in HS sulfation patterns compared with control subjects.
+0	albuminuria	NA	NA	DISCUSS	Thus, a genetic variant altering the activity or abundance of the enzyme may lead to altered albuminuria.
+0	NA	NA	NA	DISCUSS	The underlying mechanisms could be manifold, because HS has been reported to affect not only glomerular filtration but also growth factor signaling, composition, and functions of the glomerular basement membrane as well as functions at the endothelial surface layer and the proximal tubule
+0	diabetes	NA	NA	DISCUSS	Strengths of our study include its large sample size, specific examination of individuals with diabetes, and consistent effects across a variety of studies underscoring the relevance of our findings at the general population level.
+0	albuminuria	Rab38	NA	DISCUSS	In addition, we performed careful characterization of a replicated finding through in vivo experiments in RAB38 KO and control rats that cannot, however, elucidate the exact mechanism by which genetic variation at this locus influences albuminuria in humans
+0	NA	NA	NA	DISCUSS	Limitations include the fact that the replicated SNPs did not achieve genome-wide significance, necessitating future confirmation in even larger studies, and that we could not assess allele-specific gene expression in human kidney tissues.
+0	Type 2 diabetes	NA	NA	DISCUSS	We focused on European ancestry study participants and mostly on individuals with type 2 diabetes.
+0	diabetes	NA	NA	DISCUSS	Future studies should therefore examine these associations among individuals of additional ancestries and in well-powered studies of patients with type 1 diabetes.
+0	NA	NA	NA	DISCUSS	Although results were combined after study-specific analyses, biological variation in UACR and different urine collection and storage methods may have resulted in increased variation and thus reduced statistical power to reveal significant associations
+1	albuminuria	NA	NA	DISCUSS	Additional studies are required to determine the causal variants and the exact underlying molecular mechanism by which genetic variation at RAB38/CTSC and HS6ST1 associates with albuminuria in humans.
+0	albuminuria	NA	NA	DISCUSS	An elucidation of the underlying mechanisms and the contributions and differences of albuminuria of glomerular and tubular origin may improve our understanding of proteinuric kidney diseases in general but may be especially relevant to DKD, the most common cause of ESRD

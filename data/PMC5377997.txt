@@ -1,0 +1,153 @@
+0	Kidneys in Diabetes	NA	NA	ABSTRACT	The prevalence of diabetic nephropathy varies according to ethnicity.
+0	Kidneys in Diabetes	NA	NA	ABSTRACT	Environmental as well as genetic factors contribute to the heterogeneity in the presentation of diabetic nephropathy.
+0	NA	NA	NA	ABSTRACT	Our objective was to evaluate this heterogeneity within the Caucasian population
+0	diabetes	NA	NA	ABSTRACT	The geo-ethnic origin of the 3409 genotyped Caucasian type 2 diabetes (T2D) patients of Action in Diabetes and Vascular Disease: Preterax and Diamicron MR Controlled Evaluation was determined using principal component analysis.
+0	NA	NA	NA	ABSTRACT	Genome-wide association studies analyses of age of onset of T2D were performed for geo-ethnic groups separately and combined
+0	NA	NA	NA	ABSTRACT	The first principal component separated the Caucasian study participants into Slavic and Celtic ethnic origins.
+0	diabetes	NA	NA	ABSTRACT	Age of onset of diabetes was significantly lower in Slavic patients (P = 7.3 x 10-20), whereas the prevalence of hypertension (P = 4.9 x 10-31) and albuminuria (5.1 x 10-9) were significantly higher.
+0	albuminuria	NA	NA	ABSTRACT	Age of onset of T2D and albuminuria appear to have an important genetic component as the values of these traits were also different between Slavic and Celtic individuals living in the same countries.
+0	diabetes	NA	NA	ABSTRACT	Common and geo-ethnic-specific loci were found to be associated to age of onset of diabetes.
+1	NA	NA	rs340841	ABSTRACT	Among the latter, the PROX1/PROX1-AS1 genes (rs340841) had the highest impact.
+1	NA	NA	rs340841	ABSTRACT	Single-nucleotide polymorphism rs340841 CC genotype was associated with a 4.4 year earlier onset of T2D in Slavic patients living or not in countries with predominant Slavic populations
+1	diabetes	PROX1	NA	ABSTRACT	These results reveal the presence of distinct genetic architectures between Caucasian ethnic groups that likely have clinical relevance, among them PROX1 gene is a strong candidate of early onset of diabetes with variations depending on ethnicity
+0	Type 2 diabetes	NA	NA	INTRO	The incidence of type 2 diabetes (T2D) is increasing even in younger study participants in both industrialized and economic transition countries totaling 415 million study participants worldwide in 2015.
+0	diabetes	NA	NA	INTRO	The major increased risk of mortality associated with both type 1 diabetes and T2D arises from diabetic nephropathy, which is estimated to affect about one-third of individuals with diabetes
+0	NA	NA	NA	INTRO	Different genetic architectures, such as variations in allele frequencies and linkage disequilibrium structure have long been noted between populations of different racial origins and the ability of this hidden population structure to confound genome-wide association studies (GWAS) findings has been well documented.
+0	NA	NA	NA	INTRO	Moreover, it is known that GWAS using populations of differing racial backgrounds may help identify different sets of associated genes for complex diseases and drug responses.
+0	chronic kidney disease	NA	NA	INTRO	Differences in genetic risks have been shown among Caucasians, Africans, and Asians for T2D and for chronic kidney disease (CKD).
+0	NA	NA	NA	INTRO	Evidence exists for population substructure within Caucasian samples as well
+0	hypertension	NA	NA	INTRO	It is also well established that both environmental and genetic factors contribute to the occurrence of hypertension, diabetes, and CKD.
+0	Diabetes Complications	NA	NA	INTRO	To distinguish the effects of environmental and lifestyle factors from genetic effects in explaining phenotypic differences in the development of renal complications of T2D, we studied T2D study participants of Caucasian origin and European descent from the Action in Diabetes and Vascular Disease: Preterax and Diamicron MR Controlled Evaluation trial (ADVANCE).
+0	NA	NA	NA	INTRO	Study participants were recruited from a range of European countries as well as from countries of European settlements such as Canada, Australia, and New Zealand.
+0	NA	NA	NA	INTRO	Using principal component analysis (PCA), we identified two main ethnic genetic profiles (Celtic and Slavic) within the ADVANCE Caucasian study participants.
+0	NA	NA	NA	INTRO	To assess the relative effects of genetic and environmental factors, we compared study participants with a Slavic genetic profile living in countries with predominantly Celtic populations with individuals with a Slavic genetic profile living in predominantly Slavic countries of Europe.
+0	NA	NA	NA	INTRO	Significant differences between Slavs living in Slavic and Celtic countries would suggest an environmental/lifestyle effect, whereas no differences between Slavs living in Celtic or Slavic countries would support an impact of genetic influence
+0	NA	NA	NA	INTRO	As age of onset of T2D appears to be more dependent on genetic than environmental factors, we performed GWAS for 'age of onset of T2D' within the two ethnic groups separately and for the combined sample
+0	NA	NA	NA	METHODS	In total, 11 140 participants recruited from 215 centers in 20 countries who were 55 years or older and had T2D since the age of 30 years or older were enrolled in ADVANCE, a factorial randomized controlled clinical trial of blood pressure (BP) lowering and intensive glucose control.
+0	macrovascular or microvascular disease	NA	NA	METHODS	All participants were ascertained for high outcome risk according to one of the following criteria: a history of major macrovascular or microvascular disease or diagnosis of T2D 10 years prior to entry in study or presence of another major risk factor for vascular disease, including smoking, dyslipidemia or microalbuminuria, or being 65 years or older.
+0	NA	NA	NA	METHODS	Detailed study methods have been published elsewhere
+0	NA	NA	NA	METHODS	Approval to conduct the trial was obtained from the ethics committee of each study center, and all participants provided written informed consent for the study conduct and a specific, separate consent for genetic substudy.
+0	NA	NA	NA	METHODS	Genotyping was performed only in patients who consented to the genetic substudy
+0	diabetes	NA	NA	METHODS	Several phenotypes associated with diabetes and its complications were determined at baseline in each study participants by the ADVANCE study team.
+0	diabetes	SBP	NA	METHODS	These included age at baseline, age at diagnosis of T2D, duration of diabetes at baseline, BMI, blood glucose, glycated hemoglobin, treatment for hypertension, heart rate, and SBP and DBP.
+0	albuminuria	NA	NA	METHODS	Renal phenotypes included estimated glomerular filtration rate (eGFR), in ml/min per 1.73 m2, estimated from serum creatinine levels using the CKD-Epidemiology Collaboration formula and albuminuria, expressed as a ratio of urinary albumin and creatinine in mug/mg [urinary albumin-creatinine ratio (UACR)]
+0	NA	NA	NA	METHODS	In this study, we have genotyped 3629 Caucasian study participants using the Affymetrix Genome-Wide Human SNP Arrays 5.0 or 6.0 (Affymetrix, Santa Clara, California, USA) following standard protocols recommended by the manufacturer.
+0	NA	NA	NA	METHODS	A quality control filtering step was applied to the genotype calls.
+0	NA	NA	NA	METHODS	The microarray data was analyzed using the Affymetrix power tools and individuals with a quality control call rate lower than 86% were filtered out.
+0	NA	NA	NA	METHODS	Additional quality control steps included coarse-grain stratification to ensure a Caucasian population ratio more than 0.8 (STRUCTURE software), a genetic relatedness check to ensure independent samples (PLINK) and a sex check to ensure genetic accuracy and database integrity.
+0	NA	NA	NA	METHODS	Quality control was also performed on the final genotypes to remove any single-nucleotide polymorphism (SNPs) with more than 4% of missing values across the entire cohort and any sample with more than 2% of missing SNP genotypes.
+0	NA	NA	NA	METHODS	A more stringent threshold was used for any SNPs with between 1 and 5% minor allele frequencies (MAF).
+0	NA	NA	NA	METHODS	Any of these low MAF SNPs with more than 1% of missing values was removed prior to the imputation; nonetheless, only SNPs with MAF higher than 5% were retained after imputation for use in the GWAS.
+0	NA	NA	NA	METHODS	After completion of the quality control process, a total of 3409 genotyped individuals remained available for analysis
+0	NA	NA	NA	METHODS	A subset of 139 186 independent SNPs was selected from the set of common genotyped SNPs from 5.0 and 6.0 arrays using the linkage disequilibrium pruning application subroutine from PLINK.
+0	NA	NA	NA	METHODS	This set of SNPs was used to perform a PCA for the ADVANCE study participants of Caucasian origin using the EIGENSOFT 3.0 package.
+0	NA	PC1	NA	METHODS	The first principal component (PC1) was used to characterize the ethnic profiles of individuals form this Caucasian population that was sampled in European countries ranging east to west from Russia to Ireland and also from countries with populations of European descent, including Canada, Australia, and New Zealand
+0	NA	NA	NA	METHODS	Two sets of imputation were performed separately for the individuals genotyped on Affymetrix arrays 5.0 and 6.0 using SHAPEIT and IMPUTE2 software and the 1000 genome project phased 3 data set as reference.
+0	NA	NA	NA	METHODS	Only those SNPs with a MAF greater than or equal to 5% and with an imputation quality score greater than or equal to 0.80 were kept as has been proposed in previous studies
+0	NA	NA	NA	METHODS	Analyses of the differences in phenotype values (mean values for quantitative traits and numbers of individuals affected for qualitative traits) between groups (between individuals with Celtic and Slavic genetic profiles; between individuals with Slavic profiles living in predominantly Germano-Celtic European or European descent countries (Celtic region) and individuals with Slavic profiles living in predominantly Slavic European countries (Slavic region); and between individuals with Slavic genetic profiles living in predominantly Germano-Celtic European countries and individuals with Celtic profiles living in those countries were performed using general linear models included in the R statistical package
+0	diabetes	NA	NA	METHODS	Differences in age of onset of diabetes and duration of diabetes were tested using sex as a covariate.
+0	NA	NA	NA	METHODS	All other phenotype differences were tested using age and sex as covariates so that the significance of these differences are age and sex adjusted.
+0	NA	NA	NA	METHODS	Mean phenotype values were also adjusted for sex and age where appropriate using the epicalc library of the R statistical package.
+0	NA	SBP	NA	METHODS	When appropriate, adjustment for treatment for such traits as SBP, UACR, and eGFR were done using nonparametric adjustment as described
+0	NA	PC1	NA	METHODS	GWAS were performed for age of onset of T2D separately for individuals with a Celtic or Slavic genetic profile as determined by their value for PC1 and for the combined Celtic and Slavic sample using linear regression with an additive genetic model and sex as well as the two respective first principal components of population stratification as covariates
+0	NA	NA	NA	METHODS	Association analyses were performed separately on the two imputed datasets for individuals that were genotyped on the different arrays (5 986 672 SNPs for 1015 individuals genotyped on chip 5.0 and 6 442 695 SNPs for 2394 individuals genotyped on chip 6.0) and results were merged using a fixed effects meta-analysis routine in the PLINK software to avoid the possibility of any bias that might have arisen from uneven phenotype distributions across different genotyping chip technologies.
+0	NA	NA	NA	METHODS	The combined meta-analysis data set contained a total of 5 045  527 SNPs that passed all previous quality control steps in both data sets and also passed a combined test for Hardy-Weinberg equilibrium using a critical P value of 1 x 10-3 (P < 10-3)
+0	NA	NA	NA	METHODS	The relative effect sizes (gammaj) for each SNP, weighted by the size of the beta coefficient of regression (betaj), the standard error of betaj (Sebetaj), and the MAF of the SNP (MAFj) were estimated by the following equation:
+0	NA	NA	NA	RESULTS	PCA of 3409 genotyped ADVANCE study participants using EIGENSOFT 3.0 package identified two major principal components.
+0	NA	PC1	NA	RESULTS	The first PC1 divided the individuals of Europe along an east-west region, whereas principal component 2 separated individuals of Europe into a north-south gradient (Fig.
+0	NA	NA	NA	RESULTS	1a).
+0	NA	PC1	NA	RESULTS	PC1 clearly separated countries with populations of predominantly Germano-Celtic ethnic background ('Celtic', PC1 < 0) from those with a Balto-Slavic ethnicity ('Slavic', PC1 >= 0) with Germany aligned in the center of the distribution (Fig.
+0	NA	NA	NA	RESULTS	1b and c).
+0	NA	PC1	NA	RESULTS	When recruitment centers of the ADVANCE trial were ordered by values of PC1, we noted a pivot point between PC1 threshold values of 0.0 and 0.01 that separated Germany into Celtic (Munich) and Slavic (Dresden) origins (Fig.
+0	NA	NA	NA	RESULTS	1d)
+0	NA	NA	NA	FIG	Distribution of genotyped ADVANCE study participants (n = 3409) according to principal components of genotype structure using EIGENSOFT 3.0 package.
+0	NA	PC1	NA	FIG	(a) ADVANCE individuals are plotted against the first two principal components PC1 (west-east gradient) and PC2 (north-south gradient), (b) frequency distribution of study participants by value of PC1.
+0	NA	NA	NA	FIG	(c) Distribution of principal component values by countries of recruitment of patients in ADVANCE.
+0	NA	PC1	NA	FIG	(d) ADVANCE recruitment centers ordered by mean value of PC1
+0	NA	NA	NA	RESULTS	Table 1 shows the main demographic and clinical characteristics of the two geo-ethnic groups at the entry of ADVANCE trial.
+0	diabetes	NA	NA	RESULTS	The most striking difference between the two ethnic groups was the mean age of onset of diabetes.
+0	hypertension	SBP	NA	RESULTS	Individuals with Slavic profiles had T2D at a younger age (P = 7.3 x 10-20), had higher SBP and DBP (P = 4.5 x 10-22 and P = 5.3 x 10-29, respectively) despite the fact that a larger number of them were treated for hypertension and that they had a higher UACR at baseline (P = 5.1 x 10-9) even after adjusting for age, sex, and medication
+0	NA	NA	NA	RESULTS	We then determined the effect of ethnic origin (Celtic vs. Slavic) and environment (Celtic region vs. Slavic region) on the most divergent phenotypes between Slavic and Celtic patients namely age of onset of T2D, BP, and renal function
+0	NA	NA	NA	RESULTS	To assess the relative effects of genetic and environmental factors on the differences between individuals with Celtic and Slavic profiles, we compared study participants with a Slavic genetic profile living in countries with predominantly Germano-Celtic populations with individuals with a Slavic genetic profile living in predominantly Slavic countries of Europe.
+0	NA	NA	NA	RESULTS	Significant differences between Slavs living in Slavic and Celtic countries would suggest an environmental/lifestyle effect, whereas no differences between Slavs living in Celtic or Slavic countries would support an impact of genetic influence.
+0	NA	NA	NA	RESULTS	As shown in Fig.
+0	NA	NA	NA	RESULTS	2a, the highly significant earlier age of onset of T2D observed in individuals of Slavic origin was also present among the 175 Slavic study participants living in countries of predominantly Celtic populations, suggesting a genetic drive for this trait.
+0	NA	NA	NA	RESULTS	Similarly, UACR was higher in Slavic individuals living in either Slavic or Celtic regions (Fig.
+0	NA	NA	NA	RESULTS	2c).
+0	NA	NA	NA	RESULTS	This contrasted with eGFR that was higher in Celtic than Slavic individuals after adjustment of age, sex, and medication but was not different between Celtic and Slavic individuals living in the same environment (Fig.
+0	NA	NA	NA	RESULTS	2d).
+0	NA	SBP	NA	RESULTS	SBP is another good example of environmental effect as SBP was higher in Slavic than Celtic individuals but not different between Slavic and Celtic individuals living in Celtic countries (Fig.
+0	NA	NA	NA	RESULTS	2b)
+0	NA	SBP	NA	FIG	Effect of ethnic origin (Celtic vs. Slavic) and environment (Celtic region vs. Slavic region) on age of onset of T2D, SBP, UACR, and eGFRCKD-EPI.
+0	NA	SBP	NA	FIG	Age of onset of T2D (a) and UACR (c) are more linked to genetics whereas SBP (b) and eGFRCKD-EPI (d) are more impacted by environmental factors.
+0	NA	NA	NA	FIG	Age of onset of T2D is adjusted for sex whereas all other traits are adjusted for sex, age, and treatment (nonparametric adjustment).
+0	chronic kidney disease	NA	NA	FIG	eGFRCKD-EPI, estimated glomerular filtration rate calculated using Chronic Kidney Disease Epidemiology Collaboration equation; PC, principal component; UACR, urinary albumin-creatinine ratio; T2D, type 2 diabetes
+0	NA	NA	NA	RESULTS	As age of onset of T2D showed strong genetic differences between Slavic and Celtic geo-ethnic groups, we performed GWAS of this phenotype in Slavic, Celtic, and the two combined populations.
+0	NA	NA	NA	RESULTS	All SNPs with association of nominal significance of P values below 10-5 from GWAS analysis are presented in Table 2.
+0	NA	NA	NA	RESULTS	Associations that are nominally significant in each of the two independent Celtic and Slavic GWAS and that increase in significance in the combined Celtic and Slavic GWAS are considered to be replicated in two independent subcohorts, that is, Celtic and Slavic genetic profile populations.
+0	NA	NA	NA	RESULTS	These SNPs are indicated in boldtype for combined sample in Table 2.
+0	diabetes	NA	NA	RESULTS	Seven independent SNPs (not in linkage disequilibrium with each other) were found to be associated with age of onset of diabetes at P < 10-5 having the most significant P value for the combined Celtic and Slavic cohorts, and thus considered replicated by the above criteria.
+0	NA	NA	NA	RESULTS	Other SNPs were associated specifically to one or the other ethnic group.
+0	NA	NA	NA	RESULTS	Nine independent SNPs were significant only for the Celtic group and a different set of nine independent SNPs were significant only for the Slavic group.
+0	diabetes	NA	NA	RESULTS	Two SNPs within the same locus were associated with age of onset of diabetes in the two different groups.
+1	NA	CLEC14A	rs35372009	RESULTS	SNP, rs35372009, near the CLEC14A gene was the most significantly associated for the combined Celtic and Slavic cohort (P = 3.3 x 10-6; Fig.
+1	NA	NA	rs1754680	RESULTS	3a) and SNP, rs1754680, was the most significantly associated for the Slavic only group (P = 8.3 x 10-6).
+0	NA	NA	NA	RESULTS	The SNPs are 65 662 bp apart on chromosome 14q21.1 and are in high linkage disequilibrium.
+1	NA	CLEC14A	NA	RESULTS	These two SNPs, which lie within a region that is 5' of the CLEC14A gene, are representing the same association (Fig.
+0	NA	NA	NA	RESULTS	3a and b)
+1	NA	NA	NA	FIG	Regional association plots (1Mb window) of the CLEC14A/LINC00639 locus (chromosome 14) identified by GWAS of age of onset of T2D in the combined (a) and Slavic only cohorts (b), respectively.
+0	NA	NA	NA	FIG	-log10 (P values) are plotted against genomic position (build 37, hg19).
+1	NA	NA	rs35372009	FIG	The lead SNPs (rs35372009 and rs1754680) are indicated in purple diamonds.
+0	NA	NA	NA	FIG	The SNPs surrounding the lead SNPs are color coded based upon their linkage disequilibrium with the lead SNPs (taken from pairwise r2 values from the 1000 Genome EUR Database): red (r2 with lead SNP 0.8-1.0), orange (0.6-0.8), green (0.4-0.6), light blue (0.2-0.4), and dark blue (<0.2).
+0	NA	NA	NA	FIG	The recombination rates (cM/Mb) are plotted in blue to reflect local linkage disequilibrium structure.
+0	NA	NA	NA	FIG	Genes, exons, and direction of transcription from UCSC genome browser (genome.ucsc.edu) are noted.
+0	NA	NA	NA	FIG	Plots are generated using LocusZoom (http://csg.sph.umich.edu/locuszoom).
+0	diabetes	NA	NA	FIG	GWAS, genome-wide association studies; SNP, single-nucleotide polymorphism; T2D, type 2 diabetes
+1	NA	NA	rs340841	RESULTS	The most interesting association is within the PROX1/PROX1-AS1 gene locus (rs340841) that is characterized by one of the highest effect sizes for age of onset of T2D.
+1	NA	NA	rs340841	RESULTS	The homozygous CC genotype for rs340841 is associated with 4.4 years earlier onset of T2D in Slavic patients living either in Slavic countries or in Celtic countries (Fig.
+0	NA	NA	NA	RESULTS	4).
+0	NA	NA	NA	RESULTS	Furthermore, the C allele is the major allele in Slavic individuals (Table 2).
+0	hypertension	IL-6	NA	RESULTS	This locus is also associated with eGFR decline in Slavics, with macroalbuminuria and hypertension in all ADVANCE study participants of Caucasian origin and with IL-6 levels at baseline (data not shown).
+1	glucose metabolism alterations	PROX1	NA	RESULTS	A literature search indicated that the PROX1 gene has been associated with abnormalities of glucose metabolism and risk of diabetes with ethnically specific individual polymorphisms
+1	NA	PROX1	rs340841	FIG	Distribution of the CC genotype frequencies for rs340841 located at the PROX1 locus in Celtic (a) and Slavic (b) study participants separately.
+1	NA	NA	rs340841	FIG	Histograms of means of age of onset of T2D vs. genotype of rs340841 (inserts).
+1	NA	PROX1	NA	FIG	Regional association plots (1Mb window) of the PROX1 locus (chromosome 1) identified by GWAS of age of onset of T2D in Celtic (c) and Slavic (d) study participants, respectively.
+0	NA	NA	NA	FIG	-log10 (P values) are plotted against genomic position (build 37, hg19).
+1	NA	NA	rs340841	FIG	The lead SNP (rs340841) is indicated in purple diamond.
+1	NA	NA	rs340841	FIG	The SNPs surrounding rs340841 are color coded based on their linkage disequilibrium with the lead SNP (taken from pairwise r2 values from the 1000 Genome EUR Database): red (r2 with lead SNP 0.8-1.0), orange (0.6-0.8), green (0.4-0.6), light blue (0.2-0.4), and dark blue (<0.2).
+0	NA	NA	NA	FIG	The recombination rates (cM/Mb) are plotted in blue to reflect local linkage disequilibrium structure.
+0	NA	NA	NA	FIG	Genes, exons, and direction of transcription from UCSC genome browser (genome.ucsc.edu) are noted.
+0	NA	NA	NA	FIG	Plots are generated using LocusZoom (http://csg.sph.umich.edu/locuszoom).
+0	diabetes	NA	NA	FIG	GWAS, genome-wide association studies; SNP, single-nucleotide polymorphism; T2D, type 2 diabetes
+0	NA	NA	NA	DISCUSS	The global burden of cardio-metabolic risk factors adjusted for age and sex has been shown to be greater in Eastern than in Western European countries.
+0	NA	NA	NA	DISCUSS	We have recently reviewed the importance of lifestyle behavior in gene-environment interactions analysis.
+0	NA	NA	NA	DISCUSS	The current study is adding the notion that analysis of migration of a population within a distinct population even before its admixture may help dissect environmental from genetic contributions
+0	NA	NA	NA	DISCUSS	There is some debate as to the original homeland of the Balto-Slavs.
+0	NA	Sea	NA	DISCUSS	One hypothesis holds that modern Baltic and Slavic populations descend from a proto-Slavonic parental group most likely located in a homeland roughly corresponding to the modern western Ukraine and then expanded by the sixth and seventh centuries A.D. as the Prague-Penkov-Kolochin complex of cultures to an area defined by the Baltic Sea in the north, approximately the Volga river in the east, the area defined by the modern day Czech Republic and the Elbe River in modern Germany in the west and the Danube basin in the south
+0	NA	NA	NA	DISCUSS	The area of north eastern Germany between the Oder and Elbe rivers was occupied by the Polabian Slavic ethnic group by the sixth century.
+0	NA	NA	NA	DISCUSS	By the ninth century conflicts between Christian Germanic people and these western pagan Slavs began.
+0	NA	NA	NA	DISCUSS	The conflicts eventually resulted in the incorporation of the area into the Holy Roman Empire by the thirteenth century and the linguistic germanification of the populations.
+0	NA	NA	NA	DISCUSS	Therefore, it is reasonable to hypothesize the surviving presence of genetic evidence for an ethnic divide between a Germano-Celtic group (here referred to as simply 'Celtic') and a Balto-Slavic group (here referred to simply as 'Slavic') centered roughly along the Elbe river and the border of Czech republic in northern Europe.
+0	NA	NA	NA	DISCUSS	We have demonstrated that evidence of this ancestral Celtic-Slavic genetic divide still exists in the modern European population and that it is reflected in differences in genetic-phenotype correlations
+0	NA	NA	NA	DISCUSS	Noticeably, the Caucasian populations of the non-European countries involved in ADVANCE have founding populations that are principally of Germano-Celtic origin as a result of British Empire expansion.
+0	NA	NA	NA	DISCUSS	Slavic migration is more recent in these countries and therefore represents a minor ethnic component
+0	albuminuria	NA	NA	DISCUSS	The principal difference between the Celtic and Slavic ethnic groups is age of onset of T2D, which is also correlated with other phenotypes such as albuminuria.
+0	genetic diseases	NA	NA	DISCUSS	We have previously introduced the concept of accelerated aging as being a primary cause of many complex genetic diseases.
+0	albuminuria	NA	NA	DISCUSS	It is a strong possibility that individuals with a Slavic genetic profile, despite their environment, are genetically more susceptible to accelerated aging resulting in earlier onset of T2D and associated albuminuria.
+0	Diabetes Complications	NA	NA	DISCUSS	In addition, our results from ADVANCE demonstrated that in contrast to macrovascular complications of diabetes that are strongly age dependent with an added risk conferred by duration of diabetes, the adverse effects of duration of diabetes on microvascular events were observed in the youngest age group, which is also compatible with observations of the Treatment Options for type 2 Diabetes in Adolescents and Youth trial.
+0	diabetes	NA	NA	DISCUSS	Although the ADVANCE trial amply demonstrated, the decrease of renal events and total mortality by intensification of BP as well as of blood glucose control, a finding that is confirmed for glycemic control in the Veteran's Affairs Diabetes Trial and Action to Control Cardiovascular Risk in Diabetes trials, the current study suggests that further specific functional benefits on eGFR and UACR should be analyzed with respect to geo-ethnicity
+1	NA	PROX1	NA	DISCUSS	PROX1 encodes the prospero homeobox 1 protein, a human homologue of the Drosophila prospero gene.
+0	NA	NA	NA	DISCUSS	This protein is a homeobox transcription factor involved in developmental processes such as cell fate determination, gene transcriptional regulation, and progenitor cell regulation in a number of organs.
+0	NA	NA	NA	DISCUSS	It plays a critical role in embryonic development.
+1	diabetes	PROX1	NA	DISCUSS	PROX1 has been shown to be associated with diabetes and its complications in a number of studies.
+1	diabetes	PROX1	NA	DISCUSS	Here, we present evidence that the genetic influence of PROX1 on age of onset of diabetes is different within Caucasian ethnic groups.
+0	diabetes	insulin	NA	DISCUSS	It is of interest that several polymorphisms at this locus are associated with insulin levels and its control in adolescence, selected for a lesser impact of environmental determinants at this age by Lecompte et al.. As we have mentioned, the ADVANCE trial demonstrated that earlier onset of diabetes has more impact on micro than macrovascular complications.
+0	NA	NA	NA	DISCUSS	We propose that earlier onset of T2D in context of genetic x environmental influences and ethnicity deserves further attention as a potential new target for early detection and intervention in T2D
+0	NA	NA	NA	DISCUSS	In conclusion, genetic analyses have to consider geo-ethnic characteristics even within Caucasians, demonstrated here for cardinal features of T2D.
+0	NA	NA	NA	DISCUSS	Our data suggest that understanding of distinct genomic architectures is important to ascertain clinical utility
+0	NA	NA	NA	ACK_FUND	The authors acknowledge the support of grant OPTI-THERA, a private-public initiative of Government of Quebec in 'Optimization of Therapeutic Approaches in Personalized Primary Care.
+0	NA	NA	NA	ACK_FUND	The project is financed by the 'Fond de Partenariat pour un Quebec Innovant et en Sante' from the Ministry of Economic Development, Innovation and Export Trade with additional funding from Canadian Institutes of Health Research, Genome Quebec, Servier Canada and Les Laboratoires Servier, Paris, France
+0	NA	NA	NA	TABLE	Demographic and clinical characteristics at baseline of Caucasian ADVANCE genotyped study participants stratified by ethnic origi
+0	NA	NA	NA	TABLE	Summary statistics for association of age of onset of T2D for 25 independent single-nucleotide polymorphisms in Caucasians study participants from ADVANCE.
+0	NA	NA	NA	TABLE	Genome-wide association studies were done for all study participants (n = 3409 combined group) and separately for Celtic (n = 2307) and Slavic (n = 1102) individuals stratified by ethnic origin, which is determined by principal component analysis.
+0	diabetes	NA	NA	TABLE	Selected single-nucleotide polymorphisms for all groups are associated to age at diagnosis of diabetes with P value less than 1 x 10-

@@ -1,0 +1,179 @@
+0	lung adenocarcinomas	ErbB	NA	ABSTRACT	Lung adenocarcinoma driven by somatic EGFR mutations is more prevalent in East Asians (30-50%) than in European/Americans (10-20%).
+0	lung adenocarcinomas	ErbB	NA	ABSTRACT	Here we investigate genetic factors underlying the risk of this disease by conducting a genome-wide association study, followed by two validation studies, in 3,173 Japanese patients with EGFR mutation-positive lung adenocarcinoma and 15,158 controls.
+1	lung adenocarcinomas	TERT	NA	ABSTRACT	Four loci, 5p15.33 (TERT), 6p21.3 (BTNL2), 3q28 (TP63) and 17q24.2 (BPTF), previously shown to be strongly associated with overall lung adenocarcinoma risk in East Asians, were re-discovered as loci associated with a higher susceptibility to EGFR mutation-positive lung adenocarcinoma.
+1	lung adenocarcinomas	HLA	rs2179920	ABSTRACT	In addition, two additional loci, HLA class II at 6p21.32 (rs2179920; P =5.1 x 10-17, per-allele OR=1.36) and 6p21.1 (FOXP4) (rs2495239; P=3.9 x 10-9, per-allele OR=1.19) were newly identified as loci associated with EGFR mutation-positive lung adenocarcinoma.
+0	lung adenocarcinomas	ErbB	NA	ABSTRACT	This study indicates that multiple genetic factors underlie the risk of lung adenocarcinomas with EGFR mutations
+0	lung adenocarcinomas	ErbB	NA	ABSTRACT	  EGFR mutations in lung adenocarcinoma are more frequent in East Asians compared to other populations.
+0	cancers	ErbB	NA	ABSTRACT	Here, the authors carry out a genome-wide association study in EGFR mutant cancers and identify loci that are associated with risk of developing this molecular subtype of cancer
+0	lung adenocarcinomas	NA	NA	INTRO	Lung adenocarcinoma (LADC) is the most common type of lung cancer worldwide, with incidence and mortality rates increasing in both Asian and Western countries.
+0	NA	NA	NA	INTRO	Recent genome studies have subdivided LADC into several categories, with mutually exclusive activations of responsible driver oncogenes.
+0	sarcoma	epidermal growth factor receptor	NA	INTRO	One subset of LADC is characterized by mutations in the gene encoding epidermal growth factor receptor (EGFR), a second with mutations in the Kirsten rat sarcoma viral oncogene homologue (KRAS) and a third with ALK, ROS1 or RET fusion, as well as other subcategories.
+0	NA	ErbB	NA	INTRO	EGFR mutations are present in 30-50% of LADCs in East Asian patients, a much higher frequency than in Caucasians (10-20%).
+0	NA	ErbB	NA	INTRO	A high proportion of patients with EGFR mutation-positive LADC are never-smokers and females, making the development of a preventive method critical.
+0	cancers	ErbB	NA	INTRO	Advanced LADCs with EGFR mutations are often inoperable and are treated with tyrosine kinase inhibitors; however, these tumours frequently become drug resistant, leading to disease progress and death.
+0	NA	ErbB	NA	INTRO	Understanding the genetic factors underlying the development of LADC with EGFR mutation is required to elucidate disease aetiology and to identify effective methods of prevention
+0	lung cancer	NA	NA	INTRO	Genome-wide association studies (GWASs) on lung cancer in populations of East Asian and European countries have found that several loci are associated with the risk of LDAC.
+1	cancers	TERT	NA	INTRO	These include loci at chromosomes 15q25.1 (CHRNAs: cholinergic receptor, nicotinic, alpha), 5p15.33 (TERT: telomerase reverse transcriptase), 3q28 (TP63: tumour protein p63), 6p21.3 (BTNL2: butyrophilin-like 2), 10q25.1 (VTI1A: vesicle transport through interaction with t-SNAREs 1A) and 17q24.2 (BPTF: bromodomain PHD finger transcription factor).
+1	NSCLC	TERT	NA	INTRO	Although a TERT polymorphism was reported to be associated with the risk of non-small cell lung cancer with the EGFR mutation, inherited genetic factors underlying the risk for LADC with the EGFR mutation have not been comprehensively analysed.
+0	NA	ErbB	NA	INTRO	Here we performed a GWAS, followed by two validation studies, focusing on LADC with EGFR mutations
+0	NA	ErbB	NA	RESULTS	This study enrolled 6,867 LADC patients, all of whom were informative for EGFR mutation status by routine diagnosis or by the methods described in this study (Supplementary Table 1).
+0	NA	ErbB	NA	RESULTS	Of the 6,867 patients, 3,173 (46.2%) were positive for EGFR mutations, a finding consistent with previous results in Japanese patients with LADC.
+0	NA	NA	NA	RESULTS	Some case and control subjects/data overlapped with those in our previous GWAS (Supplementary Table 2)
+0	NA	ErbB	NA	RESULTS	Germline DNAs of 663 EGFR mutation-positive LADC cases and 4,367 controls were genotyped using Illumina Omni1-Quad and OmniExpress chips, respectively (Supplementary Table 1).
+0	NA	NA	NA	RESULTS	A quantile-quantile plot, generated using the results of a logistic regression trend test (Supplementary Fig.
+0	NA	NA	NA	RESULTS	1A), found that the genomic inflation factor (lambdaGC) was 0.96.
+0	NA	NA	NA	RESULTS	The lack of population substructure between these cases and controls was validated by principal component analysis (PCA) of the subjects (Supplementary Fig.
+0	NA	NA	NA	RESULTS	1B).
+0	NA	NA	NA	RESULTS	Genotype clusters were visually inspected for the most strongly associated single-nucleotide polymorphisms (SNPs), and the results indicated a low possibility of false-positive associations resulting from genotype misclassification (Supplementary Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	NA	RESULTS	In this GWAS, no locus reached genome-wide significance for association (that is, a logistic regression trend of P<5 x 10-8) Supplementary Fig.
+0	NA	NA	NA	RESULTS	1C), including loci previously reported to be associated with overall LADC risk (Supplementary Table 2).
+1	NA	TP63	NA	RESULTS	Five SNPs in the four loci, TP63 at 3q28, TERT at 5p15.33, BTNL2 at 6p21.3 and BPTF at 17q24.3, were found to be more strongly associated with risk for LADC with EGFR mutation (PTrend<10-4) than other SNPs identified in GWASs of European and Asian populations
+0	NA	NA	NA	RESULTS	To identify susceptibility loci, a validation study was conducted using two independent sample sets; the first validation cohort consisted of 1,275 cases and 6,817 controls, while the second validation cohort consisted of 1,235 cases and 3,974 controls (Supplementary Table 1).
+0	NA	NA	NA	RESULTS	Of the 107 SNPs with P<1 x 10-4 by a logistic regression trend test (PTrend) in the GWAS, 43 were selected, with the other 64, located within the same locus (r2 >0.8), excluded.
+0	NA	NA	NA	RESULTS	All 43 SNPs were genotyped successfully, using multiplex PCR-based Invader assays, in the germline DNAs of subjects in the first validation set.
+0	NA	NA	NA	RESULTS	Ten SNPs showed odds ratios (Ors) in the same direction with PTrend<0.05 (Supplementary Table 3).
+0	NA	NA	NA	RESULTS	These 10 SNPs were assayed in the germline DNAs of subjects in the second validation set (Supplementary Table 4).
+0	NA	NA	rs2179920	RESULTS	When the results of both validation sets were combined using a fixed-effects model, two SNPs, rs2179920 at 6p21.32 and rs2495239 at 6p21.1, showed significant associations after Bonferroni correction, in addition to five SNPs at four known LADC susceptibility loci (that is, PTrend<1.1 x 10-3 calculated as 0.05/43) (Table 1).
+0	NA	NA	rs2179920	RESULTS	When the results of the GWAS and the validation study were combined, both novel loci showed genome-wide significance (rs2179920 at 6p21.32; PTrend=5.1 x 10-17, OR=1.36 and rs2495239 at 6p21.1; PTrend=3.9 x 10-9, OR=1.19).
+0	NA	NA	NA	RESULTS	ORs were similar between the GWAS and the validation studies with no heterogeneity.
+0	NA	ErbB	NA	RESULTS	Thus, six loci, represented by seven SNPs, consisting of two at previously unidentified loci and four known loci described above, were associated with the risk of LADC with EGFR mutation (Table 1).
+0	NA	NA	NA	RESULTS	There were no significant differences in the association of these seven SNPs with gender or smoking status, suggesting that these loci likely affected the risk for EGFR-positive LADC, irrespective of gender and smoking status (Supplementary Table 5)
+0	cancers	ErbB	NA	RESULTS	To assess the differential associations of these SNPs with LADC risk according to the presence/absence of EGFR mutations in tumour tissues, germline DNAs of 3,694 patients diagnosed with LADC without EGFR mutation were genotyped (Supplementary Table 1).
+0	NA	ErbB	NA	RESULTS	Case-control analysis showed that all seven SNPs showed statistically significant or marginal association with risk for LADC without EGFR mutation, but with lower ORs than those for LADC with EGFR mutation (Supplementary Fig.
+0	NA	NA	NA	RESULTS	3 and Supplementary Table 6).
+1	cancers	ErbB	rs2736100	RESULTS	Case-case analysis of tumours with and without EGFR mutations showed statistically significant allelic differentiation for four of the seven SNPs, rs2736100, rs3817963, rs2179920 and rs2495239, after Bonferroni correction (Supplementary Fig.
+0	NA	ErbB	NA	RESULTS	3 and Supplementary Table 7), indicating that these SNPs are significantly more strongly associated with the risk of LADC with than without EGFR mutation (that is, PTrend<7.1 x 10-3 calculated as 0.05/7)
+0	NA	NA	rs2179920	RESULTS	Imputation analyses were performed using the GWAS data for the two newly identified loci, rs2179920 at 6p21.32 and rs2495239 at 6p21.1, which were found to be more strongly associated with EGFR-positive than -negative LADC.
+1	NA	DPB1	rs2179920	RESULTS	The former SNP, rs2179920, was located in an intergenic region near the HLA-DPB1 (major histocompatibility complex, class II, DP beta 1) gene in the human leukocyte antigen (HLA) class II region, and was 630 kb proximal to rs3817963, a locus in the BTNL2 gene at the border between the HLA class II and class III regions.
+0	NA	HLA	NA	RESULTS	Therefore, imputation analysis was performed using the Japanese HLA imputation reference panel that included the HLA class II genes, HLA-DRB1, HLA-DQB1, HLA-DPA1 and HLA-DPB1, as described elsewhere.
+0	NA	NA	NA	RESULTS	A case-control study of SNPs, including imputed ones, for EGFR-positive LADC risk revealed two association peaks (Fig.
+1	NA	NA	rs2179920	RESULTS	1a), one including rs2179920 as a top 10 SNP and the other including rs3817963 as the top SNP (Supplementary Tables 8 and 9).
+1	NA	NA	rs2179920	RESULTS	The associations of both rs2179920 and rs3817963 SNPs with risk remained after conditioning on rs3817963 and rs2179920 genotypes, respectively (Fig.
+0	NA	NA	NA	RESULTS	1b,c and Supplementary Table 10).
+0	NA	HLA	NA	RESULTS	These results indicated that the HLA class II region contains two independent susceptibility loci.
+0	NA	HLA	rs2179920	RESULTS	Interestingly, assessments of the linkage disequilibrium of the risk allele of rs2179920 with non-synonymous SNP alleles of HLA class II genes showed that the strongest linkage disequilibrium for rs2179920 was with the Asp57 allele at the Glu57Asp SNP, which consists of multiple 4-digit HLA-DPB1 alleles (r2=0.98 in the binary analysis) (Supplementary Table 11).
+0	NA	DPB1	Glu57Asp	RESULTS	HLA-DPB1 genotyping of 255 randomly chosen GWAS cases by the Luminex method validated that the imputation was highly accurate with a concordance rate of 99.1% for the Glu57Asp SNP between imputed and genotyped four-digit alleles.
+1	NA	BTNL2	rs3817963	RESULTS	By contrast, rs3817963 of BTNL2 did not show significant linkage disequilibriums with non-synonymous SNPs of any HLA genes.
+0	NA	DPB1	rs2179920	RESULTS	In the GWAS cohort, the imputed variation at amino-acid residue 57 in HLA-DPB1 showed a similar association with risk (PTrend=6.0 x 10-4) as rs2179920 (PTrend=2.6 x 10-4).
+0	NA	DPB1	rs2179920	RESULTS	On the other hand, none of the imputed HLA-DPB1 alleles showed weaker associations than the marker SNP, rs2179920, and the Glu57Asp SNP (Supplementary Table 12).
+0	NA	DPB1	NA	RESULTS	The amino-acid residue 57, which is located in one of the two extracellular domains of the HLA-DPB1 protein, does not make contact with antigen peptides.
+0	cancers	DPB1	NA	RESULTS	Thus, the mechanism determining how the HLA-DPB1 variation affects the risk of EGFR mutation-positive LADC should be further investigated, particularly with respect to the possibility that it affects immune responses against EGFR-positive tumour cells
+0	NA	NA	rs2495239	RESULTS	Imputation analyses was also performed for the other newly identified SNP, rs2495239 at 6p21.1, using the EAS population panel from the 1000 Genomes Project database (phase III).
+0	NA	NA	NA	RESULTS	Twenty-four imputed and genotyped SNPs showed significant associations with risk of EGFR-positive LADC (PTrend<10-4) (Fig.
+0	NA	NA	NA	RESULTS	2 and Supplementary Table 13).
+0	NA	NA	NA	RESULTS	Four imputed SNPs showed genome-wide significance for association (Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	ErbB	rs7741164	RESULTS	In fact, the rs7741164 SNP, the most strongly associated SNP, was also significantly associated with a higher susceptibility to EGFR mutation-positive LADC (Supplementary Table 14), indicating that 6p21.1 is an additional susceptibility locus.
+1	NA	FOXP4	rs2495239	RESULTS	Interestingly, the rs2495239 SNP was located ~25 kb upstream of the FOXP4 (forkhead box P4) gene, which encodes a member of the FOXP (forkhead transcription factor) family of proteins.
+0	NA	NA	NA	RESULTS	FOXP proteins play key roles in cell cycle regulation and oncogenesis.
+1	lung cancer	FOXP4	rs7741164	RESULTS	Furthermore, meta-analysis, including those of studies in Japan and five other Asian countries, revealed that the FOXP4 SNP, rs7741164, is associated with a higher risk of lung cancer risk among never-smoking Asian females, consistent with the aetiology of EGFR mutation-positive LADC.
+1	NA	FOXP4	rs2495239	RESULTS	Levels of FOXP4 mRNA expression in 403 non-cancerous lung tissues, as determined by real-time quantitative PCR, differed according to the rs2495239 SNP (P by the linear regression test=0.023) genotype, suggesting high expression from the risk (A) allele (Supplementary Table 15).
+1	NA	FOXP4	NA	RESULTS	Therefore, a high level of FOXP4 mRNA associated with a risk allele may increase the risk of LADC with EGFR mutation by promoting oncogenesis
+0	NA	ErbB	NA	DISCUSS	This study has provided evidence for genetic susceptibility to the development of LADC with EGFR mutation by identifying six susceptibility loci showing associations at genome-wide levels.
+1	NA	DPB1	NA	DISCUSS	Particularly, two new loci, 6p21.32 (HLA-DPB1) and 6p21.1 (FOXP4), and two known loci, 5p15.33 (TERT) and 6p21.3 (BTNL2), were revealed to be more preferentially associated with risk of EGFR-positive than EGFR-negative LADC.
+1	NA	TERT	NA	DISCUSS	The re-discovery of the TERT and BTNL2 loci is highly consistent with the fact that they these loci show strong associations with overall LADC risk, particularly in East Asians, that is, populations containing LADC cases with EGFR mutations.
+0	NA	ErbB	NA	DISCUSS	Further functional studies and genetic studies of other Asian and non-Asian populations are needed to clarify how these loci affect susceptibility to EGFR mutation-positive LADC.
+0	NA	NA	NA	DISCUSS	EGFR-positive LADC is more prevalent in East Asian than in European/American countries.
+1	NA	FOXP4	rs2495239	DISCUSS	Interestingly, the risk allele frequencies of several of the SNPs identified in this study, such as rs2495239 upstream of FOXP4 (0.38 versus 0.08 in Supplementary Table 16), are different between Asians and Europeans.
+0	NA	NA	NA	DISCUSS	These differences may help elucidate the aetiology of LADC, including inter-ethnic variations
+0	NA	ErbB	NA	METHODS	A three-stage GWAS of LADCs with EGFR mutations in the Japanese population was performed using independent samples.
+0	NA	NA	NA	METHODS	The characteristics of each case-control group are shown in Supplementary Table 1.
+0	cancers	NA	NA	METHODS	The discovery GWAS samples consisted of 663 cases from the National Cancer Center Hospital (NCCH) and 4,367 controls from the BioBank Japan project and the Osaka-Midosuji Rotary Club (MRC).
+0	NA	NA	NA	METHODS	The BioBank Japan project (see URLs), started in 2003, is a collaborative network of 66 hospitals throughout Japan that has collected genomic DNA, serum and clinical information from 300,000 patients to date diagnosed with any of 47 diseases to date.
+0	NA	NA	NA	METHODS	The MRC subjects were 988 healthy volunteers.
+0	cancers	NA	NA	METHODS	Individuals with any cancer were excluded from the control group
+0	NA	NA	NA	METHODS	The validation study consisted of two independent cohorts.
+0	NA	ErbB	NA	METHODS	The first validation cohort included 1,275 patients with LADCs with EGFR mutations and 6,817 controls.
+0	cancers	NA	NA	METHODS	The case subjects were 1,056 from the NCCH and 219 from Kanagawa Cancer Center.
+0	NA	NA	NA	METHODS	All control subjects were from the BioBank Japan project.
+0	cancers	NA	NA	METHODS	Individuals with any cancer were excluded from the control group.
+0	NA	ErbB	NA	METHODS	The second validation cohort included 1,235 patients with LADCs with EGFR mutations and 3,974 controls (cancer-free volunteers) from the NCCH, Keio University, Tokyo and the Japan PGx Data Science Consortium (JPDSC).
+0	NA	NA	NA	METHODS	JPDSC subjects were obtained from 10 geographic regions in Japan.
+0	NA	NA	NA	METHODS	Of the case subjects, 900 were from the NCCH, 136 from Akita University Hospital and 199 from Gunma University Hospital.
+0	NA	NA	NA	METHODS	Of the control subjects, 2,823 were from JPDSC, 368 from NCCH and 783 from Keio University.
+0	cancers	NA	NA	METHODS	Individuals with any cancer were excluded from the control group
+0	NA	ErbB	NA	METHODS	In addition, we conducted case-control studies consisting of 3,694 patients with LADCs without EGFR mutations and the same 15,158 controls described above.
+0	cancers	NA	NA	METHODS	Case subjects included 3,148 from the NCCH, 117 from Kanagawa Cancer Center, 207 from Akita University Hospital and 224 from Gunma University Hospital
+0	NA	NA	NA	METHODS	Smoking history of cases and controls was obtained via interview using a questionnaire.
+0	NA	NA	NA	METHODS	Smokers were defined as those who had smoked regularly for 12 months or longer at any time in their life, whereas non-smokers were defined as those who had not.
+0	NA	NA	NA	METHODS	All LADCs were diagnosed by cytological and/or histological examination according to the WHO classification.
+0	NA	NA	NA	METHODS	NCCH case subjects in the GWAS and first validation sets consisted of cases having sufficient DNA for large-scale SNP analyses.
+0	NA	NA	NA	METHODS	Case subjects in the second validation set consisted of cases with smaller amounts of DNA, because, for example, only small quantities of non-cancerous tissues were available for DNA extraction.
+0	NA	NA	NA	METHODS	Genome-wide typing data of control subjects obtained before and after 2010 were used for the GWAS and the first validation study below, respectively.
+0	NA	NA	NA	METHODS	All the participants provided written informed consent.
+0	cancers	NA	NA	METHODS	This project was approved by the ethics committees of all participating institutions, that is, BioBank Japan, the NCCH, JPDSC, Keio University, Kanagawa Cancer Center, Gunma University Hospital and Akita University Hospital
+0	NSCLC	NA	NA	METHODS	Genomic DNA was extracted from peripheral blood leukocytes or non-cancerous lung tissues using QIAmp DNA Blood Maxi/QIAmp DNA Mini kits (Qiagen, Germany), according to the manufacturer's instructions
+0	NA	ErbB	NA	METHODS	In the GWAS, 678 cases of LADCs with EGFR mutations from the NCCH were genotyped using the Illumina HumanOmni1-Quad Chip.
+0	intracranial aneurysm	NA	NA	METHODS	Controls in the GWAS consisted of 4,896 individuals with cerebral aneurysms, chronic obstructive pulmonary disease or glaucoma; these samples were genotyped using the Illumina Human OmniExpress Genotyping BeadChip.
+0	NA	NA	NA	METHODS	The genotype concordance rate between these two genotyping platforms has been shown to be >99% (ref.)
+0	NA	ErbB	NA	METHODS	In the first validation cohort, 1,275 cases of LADC with EGFR mutation were genotyped using the multiplex PCR-based Invader assay (Third Wave Technologies), as described.
+0	epilepsy	NA	NA	METHODS	Controls consisted of 6,817 individuals with epilepsy, nephrosis syndrome, atopic dermatitis, urinary tract stone disease or Basedow's disease; these DNA samples were genotyped using the Illumina Human OmniExpress Genotyping BeadChip.
+0	NA	NA	NA	METHODS	The same quality control criteria were applied as for GWAS (see below) to confirm that none of the control subjects in the first validation set was an unexpected duplicate or probable relative of a control subject in the GWAS.
+0	NA	NA	NA	METHODS	SNPs subjected to the first validation test were selected by using a cutoff PTrend value <1 x 10-4, because associations of SNPs with ORs >1.3 and minor allele frequencies >0.3 were predicted to be detected with a statistical power >0.6
+0	NA	ErbB	NA	METHODS	In the second validation cohort, 1,235 cases of LADCs with EGFR mutations and 3,974 controls were genotyped using the TaqMan method or HumanOmni2.5 BeadChip kit, according to the manufacturer's protocol
+0	NA	DPB1	NA	METHODS	Genotyping of four-digit HLA-DPB1 alleles was performed on randomly chosen 255 GWAS LADC cases by using a WAKFlow HLA typing kit (Wakunaga Pharmaceutical, Tokyo, Japan) together with the Luminex Multi-Analyte Profiling system (ThermoFisher Scientific, Waltham, MA) according to the manufacturers' instructions
+0	NA	NA	NA	METHODS	Standard quality control was performed on scans, excluding those of individuals with gender discrepancies, low call rates (<99%) or extremely out of Hardy-Weinberg equilibrium (that is, P<1.0 x 10-6), as previously described.
+0	NA	NA	NA	METHODS	If any first-degree pairs of relatives were apparent, the control was removed from a case-control pair; otherwise, the individual with the lower call rate was excluded.
+0	NA	NA	NA	METHODS	In addition, PCA was performed on the genotype data of the samples and on European (CEU), African (YRI), and east Asian (Japanese (JPT) and Han Chinese (CHB)) individuals obtained from the Phase II HapMap database using smartpca.
+0	NA	NA	NA	METHODS	PCA revealed no evident population substructure and identified outliers for exclusion.
+0	NA	NA	NA	METHODS	Most subjects fell into a known main cluster (Hondo) of the Japanese population.
+0	NA	ErbB	NA	METHODS	The remaining 5,030 subjects, consisting of 663 cases with EGFR mutations and 4,367 control subjects, were used for GWAS.
+0	NA	ErbB	NA	METHODS	We also selected 631 cases without EGFR mutations based on the same criteria (Supplementary Table 1)
+0	cancers	ErbB	NA	METHODS	DNA samples from tumour tissues were screened for somatic mutations in EGFR exons 19 and 21 by high-resolution melting (HRM) analysis, invader assay, SCORPION-ARMS or the PNA PCR clamp method in this study.
+0	NA	ErbB	NA	METHODS	EGFR mutation tests were carried out by several methods: PCR-Invader assay by BML Inc. (Tokyo, Japan); PNA-LNA PCR clamp assay by Mitsubishi Chemical Medience Corp. (Tokyo, Japan); Scorpion ARMS assay by SRL Inc. (Tokyo, Japan); and HRM assay by ourselves.
+0	NA	ErbB	NA	METHODS	The HRM assay was carried out using primer set A for detection of EGFR mutation in exon 19 and primer set B for detection of EGFR mutation in exon 21.
+0	NA	NA	NA	METHODS	The sequences of the primer set A were 5'- AAAATTCCCGTCGCTATC -3' (forward) and 5'- AAGCAGAAACTCACATCG -3' (reverse).
+0	NA	NA	NA	METHODS	The sequences of the primer set B were 5'- AGATCACAGATTTTGGGC -3' (forward) and 5'- ATTCTTTCTCTTCCGCAC -3' (reverse).
+0	NA	NA	NA	METHODS	These primers were designed by the Primer 3 software, UCSC Genome Browser and BLAT analyses.
+0	cancers	NA	NA	METHODS	Tumour samples were obtained from cytological specimens, frozen tumour specimens and formalin-fixed, paraffin-embedded tissues
+0	NA	HLA	NA	METHODS	We performed two separate imputation analyses; one was imputation of the HLA region using the Japanese specific reference panel and the other was a regional imputation using EAS references from the 1000 Genomes Project (Phase III)
+0	NA	HLA	NA	METHODS	In the HLA imputation, 939 control subjects were excluded from the GWAS study because they had been used to construct the Japanese reference panel.
+0	NA	HLA	NA	METHODS	The imputation included two- and four-digit classical HLA alleles and amino-acid polymorphisms of class I and class II HLA genes, as well as additional SNPs
+0	NA	NA	NA	METHODS	Next, imputed data at 6p21.1 were obtained using the 1000 Genomes Phase 3 EAS reference panel.
+0	NA	NA	NA	METHODS	Shapeit2 (version 2.778) was used for pre-phasing and Minimac2 (stamped 2014.9.15) was used for imputation.
+0	NA	NA	NA	METHODS	In this analysis, data of all control subjects from the GWAS study were used.
+0	CHS	NA	NA	METHODS	The EAS reference panel was prepared as follows; data for East Asian samples (CDX, CHB, CHS, JPT and KHV) were extracted from the 1000 Genomes phase 3 v5 reference vcf file.
+0	NA	NA	NA	METHODS	Then, monomorphic or singleton sites, multiallelic sites and sites with P values obtained by the Hardy-Weinberg equilibrium test <10-6 were excluded.
+0	NA	NA	NA	METHODS	After imputation, poorly imputed SNPs defined by RSQR<0.70 were further excluded.
+0	NA	NA	NA	METHODS	Logistic regression analysis was performed by mach2dat software (version 1.0.24) using imputed dosage as an explanatory variable under the additive genetic model.
+0	NA	NA	NA	METHODS	LocusZoom was used to draw regional association plots.
+0	NA	NA	NA	METHODS	HaploReg v4.1 (ref.)
+0	NA	NA	NA	METHODS	was used to examine whether putative functional SNPs are present in the susceptibility loci
+0	NA	set1	NA	METHODS	In GWAS and the validation study set 1, the strength of association between SNPs and EGFR mutation-positive and -negative LADC was measured as ORs adjusted for gender, age (continuous) and smoking status (never or ever smoker) using an unconditional logistic regression analysis.
+0	NA	set2	NA	METHODS	In validation study set 2, ORs adjusted for gender and smoking status (never or ever smoker) were calculated.
+0	NA	NA	NA	METHODS	Combined analysis was performed using a fixed-effects model.
+0	NA	NA	NA	METHODS	Heterogeneity among studies was examined using the Breslow-Day test.
+0	NA	NA	NA	METHODS	The R statistical environment version 2.6.1 (ref.
+0	NA	NA	NA	METHODS	), the JMP version 11.0 or PLINK1.06 (ref.)
+0	NA	NA	NA	METHODS	was used for statistical analyses
+0	NA	set2	rs7741164	METHODS	Genotype status of the rs7741164 SNP was imputed on all GWAS cases and controls, and 2,823 of the validation set 2 controls (Supplementary Table 1).
+0	NA	NA	NA	METHODS	The RSQR values, indicating imputation quality, were >0.8.
+0	NA	set1	NA	METHODS	The remaining samples, consisting of 2,510 cases (all validation set 1 cases and set 2 cases) and 7,968 controls (all validation set 1 controls and the remaining 1,151 validation set 2 controls), were genotyped using the invader assay or TaqMan method.
+0	NA	NA	NA	METHODS	These data were subjected to an association analysis, the results of which are shown in Supplementary Table 14
+0	NSCLC	NA	NA	METHODS	In all, 403 non-cancerous lung tissue samples were obtained from LADC patients undergoing resection at the NCCH.
+0	NA	NA	NA	METHODS	Total RNA was extracted from grossly dissected, snap-frozen tissue samples using TRIzol (Invitrogen, Carlsbad, CA, USA), according to the manufacturer's instructions.
+0	NA	NA	NA	METHODS	cDNA was synthesized using the SuperScript III first-strand synthesis system for reverse-transcription (RT)-PCR (Invitrogen) with random hexamers.
+1	NA	FOXP4	NA	METHODS	Quantitative real-time (RT)-PCR analysis for FOXP4 was performed on duplicate samples using the ABI PRISM 7900HT (Applied Biosystems, Foster City, CA, USA) with TaqMan primer and probe sets (Assay ID: Hs01055269_m1) from Applied Biosystems.
+0	NA	GAPDH	NA	METHODS	Relative expression levels for each gene were normalized to that of GAPDH (catalogue# 4326317E, Applied Biosystems) and digitized according to the mean of two values.
+1	NA	FOXP4	NA	METHODS	Linear trends between expression levels of FOXP4 mRNA and increases in the number of risk alleles were tested in a multivariate linear regression model using JMP version 11.0 software (SAS Institute Inc., Cary, NC).
+0	NA	NA	NA	METHODS	The variables used for adjustment in each test were age (continuous), gender (male or female) and smoking status (never versus ever).
+0	NA	NA	NA	METHODS	A P value <0.05 by a multivariate linear regression test was considered statistically significant
+0	NA	NA	NA	METHODS	All data in the GWAS analyses are available in Integrative Disease Omics Database (https://gemdbj.ncc.go.jp/omics/docs/others.html), under accession code GWAS031
+0	NA	NA	NA	METHODS	How to cite this article: Shiraishi, K. et al.
+0	lung adenocarcinomas	HLA	NA	METHODS	Association of variations in HLA class II and other loci with susceptibility to EGFR-mutated lung adenocarcinoma.
+0	NA	Nat	NA	METHODS	Nat.
+0	NA	NA	NA	METHODS	Commun.
+0	NA	NA	NA	METHODS	7:12451 doi: 10.1038/ncomms12451 (2016)
+1	NA	NA	rs3817963	FIG	Plots show results of association studies of (a) nominal analysis, (b) conditioned analysis on rs3817963 and (c) conditioned analysis on rs2179920.
+0	NA	NA	NA	FIG	Red line shows the level of genome-wide significance for association (PTrend<5 x 10-8).
+0	NA	NA	NA	FIG	Genes within the region of interest are annotated and are indicated by arrows.
+0	NA	HLA	NA	FIG	The physical positions of the variants in the HLA class II region are shown at the bottom.
+0	NA	NA	NA	FIG	Circles represent the location and -log10 (PTrend values) of each variant.
+0	NA	NA	NA	FIG	The -log10PTrend values of the marker SNPs are shown for the GWAS (G), the combined validation study (CV) and the total combined study (CA)
+0	NA	NA	NA	FIG	The marker SNP is shown in purple and the r2 values for the other SNPs are indicated by different colours.
+0	NA	NA	NA	FIG	Correlations were estimated using data from the 1000 Genomes Project.
+0	NA	NA	NA	FIG	Genes within the region of interest are annotated and are indicated by arrows.
+0	NA	NA	NA	FIG	The blue lines indicate the recombination rates in centimorgans (cM) per megabase (Mb).
+0	NA	NA	NA	FIG	Circles represent the location and -log10 (PTrend values) of each variant.
+0	NA	NA	NA	FIG	The -log10PTrend values of the marker SNPs are shown for the GWAS (G), the combined validation study (CV) and the total combined study (CA)

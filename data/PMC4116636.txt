@@ -1,0 +1,165 @@
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Prostate cancer risk-associated variants have been reported in populations of European descent, African-Americans and Japanese using genome-wide association studies (GWAS).
+0	Breast and prostate cancer	NA	NA	ABSTRACT	To systematically investigate prostate cancer risk-associated variants in Chinese men, we performed the first GWAS in Han Chinese.
+1	Breast and prostate cancer	NA	rs817826	ABSTRACT	In addition to confirming several associations reported in other ancestry groups, this study identified two new risk-associated loci for prostate cancer on chromosomes 9q31.2 (rs817826, P = 5.45 x 10-14) and 19q13.4 (rs103294, P = 5.34 x 10-16) in 4,484 prostate cancer cases and 8,934 controls.
+1	NA	LILRA3	rs103294	ABSTRACT	The rs103294 marker at 19q13.4 is in strong linkage equilibrium with a 6.7-kb germline deletion that removes the first six of seven exons in LILRA3, a gene regulating inflammatory response, and was significantly associated with the mRNA expression of LILRA3 in T cells (P < 1 x 10-4).
+0	Breast and prostate cancer	NA	NA	ABSTRACT	These findings may advance the understanding of genetic susceptibility to prostate cancer
+0	Breast and prostate cancer	NA	NA	INTRO	Prostate cancer is the second most frequently diagnosed cancer and the sixth leading cause of cancer-related death in men, with an estimated 914,000 new cases and 258,000 deaths per year globally.
+0	Breast and prostate cancer	NA	NA	INTRO	Incidence and mortality rates for prostate cancer vary by 25-fold and 10-fold, respectively, around the world.
+0	NA	NA	NA	INTRO	The highest incidence rates are found in Western developed countries, and the highest mortality rates are found in African-Americans, whereas the lowest incidence and mortality rates are reported in Asians.
+0	Breast and prostate cancer	NA	NA	INTRO	These differences suggest genetic heterogeneity as well as different environmental exposures in prostate cancer development in various ancestry groups
+0	Breast and prostate cancer	NA	NA	INTRO	Multiple GWAS of prostate cancer have been performed in populations of European descent, and more than 40 prostate cancer susceptibility loci have been identified.
+0	Breast and prostate cancer	NA	NA	INTRO	In addition, GWAS of prostate cancer in Japanese and African-American populations identified eight and one novel loci for prostate cancer, risk, respectively.
+0	Breast and prostate cancer	NA	NA	INTRO	However, no GWAS for prostate cancer has been reported in the Chinese population
+0	Breast and prostate cancer	NA	NA	INTRO	In this study, we performed a multistage GWAS of prostate cancer in the Chinese Consortium for Prostate Cancer Genetics (ChinaPCa), with a total of 4,484 prostate cancer cases and 8,934 controls from Han Chinese population.
+0	NA	NA	NA	INTRO	The characteristics of the subjects in each stage are summarized in Supplementary Table 1.
+0	NA	NA	NA	INTRO	In the first stage, 731,458 SNPs were genotyped in 1,497 cases and 1,008 controls using Illumina Human OmniExpress BeadChips.
+0	NA	NA	NA	INTRO	After quality control filtering (Online Methods), 587,294 SNPs in 1,417 cases and 1,008 controls were retained in the subsequent analyses.
+0	NA	NA	NA	INTRO	A principal-component analysis was first performed using EIGENSOFT software to assess the genetic background of the subjects.
+0	NA	NA	NA	INTRO	Results from this analysis were consistent with subjects being Han Chinese (Supplementary Fig.
+0	NA	NA	NA	INTRO	1).
+0	NA	NA	NA	INTRO	The distribution of the top two eigens is shown in Supplementary Figure 2.
+0	Breast and prostate cancer	NA	NA	INTRO	We performed association analysis for each of these SNPs with prostate cancer risk with PLINK, assuming an additive model and adjusting for the first eigen.
+0	NA	NA	NA	INTRO	Quantile-quantile plot analysis of the association results showed an inflation factor (lambda) of 1.08 (Supplementary Fig.
+0	NA	NA	NA	INTRO	3).
+0	NA	NA	NA	INTRO	Similar results were found when analysis was adjusted for the top two eigens (lambda = 1.08), likely reflecting differences in the ascertainment of cases and controls (Online Methods).
+0	NA	NA	rs1456315	INTRO	Across the genome, one SNP at 8q24 (rs1456315, P = 1.18 x 10-12) exceeded the predefined genome-wide significance level of P < 5.0 x 10-8 (Supplementary Fig.
+0	NA	NA	NA	INTRO	4).
+0	Breast and prostate cancer	NA	NA	INTRO	This SNP is located in region 2 of 8q24, which has previously been reported as a prostate cancer susceptibility locus (Supplementary Table 2).
+0	NA	NA	NA	INTRO	Suggestive evidence for association was also found for many other regions throughout the genome, although these associations did not reach genome-wide significance.
+0	Breast and prostate cancer	NA	NA	INTRO	These regions include eight additional prostate cancer risk-associated loci previously reported in populations of European descent and four loci reported in the Japanese population (P < 0.05) (Supplementary Table 2)
+0	Breast and prostate cancer	NA	NA	INTRO	To confirm new prostate cancer risk-associated loci suggested in the first stage of the GWAS, we selected a subset of independently associated SNPs for replication on the basis of three criteria: (i) P < 5.0 x 10-3 in the association test (4,323 SNPs met this criterion), (ii) r < 0.5 for linkage disequilibrium (LD) between SNPs (166 SNPs met both of these criteria) and (iii) similar allele frequency in the controls to that reported in two additional large GWAS of Chinese populations (difference of <=0.02) (43 SNPs met all three criteria) (Online Methods).
+0	NA	NA	NA	INTRO	Forty-three independent SNPs were selected and genotyped in an additional 782 cases and 1,792 controls (replication 1).
+1	NA	NA	rs817826	INTRO	Association analysis using the same method as in the GWAS stage confirmed two SNPs that associated at P < 1.16 x 10-3 (accounting for 43 independent tests): rs817826 at 9q31.2 (P = 1.05 x 10-3) and rs103294 at 19q13.4 (P = 4.98 x 10-7) (Supplementary Table 3).
+0	NA	NA	NA	INTRO	To further confirm these associations, we genotyped these two SNPs in two additional case-control series (replication 2: 1,102 cases and 4,501 controls; replication 3: 1,183 cases and 1,633 controls).
+1	NA	NA	rs817826	INTRO	These two SNPs showed significant association in each stage (replication 2: rs817826, P = 3.09 x 10-7 and rs103294, P = 2.62 x 10-3; replication 3: rs817826, P = 2.22 x 10-3 and rs103294, P = 3.65 x 10-4) (Table 1).
+0	NA	NA	NA	INTRO	After combining the results from all four stages using a meta-analysis assuming a fixed effect, associations at these two SNPs exceeded genome-wide significance.
+0	Breast and prostate cancer	NA	rs817826	INTRO	For rs817826 at 9q31.2, the rs817826[C] allele was associated with an odds ratio (OR) of 1.41 for prostate cancer risk (95% confidence interval (CI) = 1.29-1.54; P = 5.45 x 10-14).
+1	Breast and prostate cancer	NA	rs103294	INTRO	For rs103294 at 19q13.4, the rs103294[C] allele was associated with an OR of 1.28 for prostate cancer risk (95% CI = 1.21-1.36; P = 5.34 x 10-16).
+1	NA	NA	rs817826	INTRO	There was no evidence for heterogeneity among the four stages at rs817826 (Phet = 0.83, I2 = 0) or rs103294 (Phet = 0.53, I2 = 0)
+0	Breast and prostate cancer	NA	NA	INTRO	To further characterize prostate cancer associations at these two loci, we imputed known common SNPs in the flanking regions of these SNPs for subjects in the first-stage GWAS on the basis of haplo-type data from the 1000 Genomes Project Han Chinese in Beijing, China (CHB) and Japanese in Tokyo, Japan (JPT) subjects (Phase 1 integrated data version 3, released March 2012) using IMPUTE2.2.2 software (Fig.
+0	NA	NA	NA	INTRO	1).
+0	NA	NA	NA	INTRO	Flanking regions were determined for each locus on the basis of local LD information (r >= 0.10) and association results (P < 0.01) from the first-stage data (~17.5 kb for 9q31.2 and ~48 kb for 19q13.4).
+0	NA	NA	NA	INTRO	Considering that only a small number of SNPs were successfully imputed in the region of 19q13.4, we genotyped an additional 19 SNPs in this region (Online Methods).
+1	Breast and prostate cancer	NA	rs817826	INTRO	None of the additional SNPs in either of these regions showed a stronger association with prostate cancer than the respective index SNP (rs817826 and rs103294).
+0	Breast and prostate cancer	NA	NA	INTRO	After conditioning on the index SNP at each region, no association was found at P < 0.01 for the remaining SNPs at 9q31.2 and 19q13.4 (Supplementary Tables 4 and 5), suggesting that no additional independent prostate cancer risk-associated loci exist in these two regions
+0	Breast and prostate cancer	NA	NA	INTRO	We also examined associations of these two SNPs with clinical characteristics of prostate cancer in a case-only analysis (Supplementary Table 6).
+0	cancers	PSA	NA	INTRO	No significant associations were observed with prostate-specific antigen (PSA) levels at diagnosis, Gleason score, tumor, node, metastasis (TNM) stage or aggressiveness in the combined prostate cancer cases from the four stages.
+0	NA	PSA	NA	INTRO	Similarly, we did not find any association of these two SNPs with serum PSA levels in the controls (Supplementary Fig.
+0	NA	NA	NA	INTRO	5)
+0	Breast and prostate cancer	NA	NA	INTRO	We tested association of these two SNPs with prostate cancer risk in two populations of European descent: Cancer Genetic Markers of Susceptibility (CGEMS) in the United States and CAncer Prostate in Sweden (CAPS) (Supplementary Table 7).
+1	NA	NA	rs103294	INTRO	For rs103294 at 19q13.4, the allele frequency differed considerably in the population of European descent from that seen in the Chinese population, and no association was found.
+0	Breast and prostate cancer	NA	rs817826	INTRO	For rs817826 at 9q31, however, the allele frequency was similar to that seen in the Chinese population, the reported risk allele showed higher frequency in cases relative to controls in both studies and the association with prostate cancer risk was statistically significant in the combined analysis of these two studies (P = 0.023).
+0	Breast and prostate cancer	NA	NA	INTRO	Further studies in other ancestry groups are warranted, including evaluation of the broader regions surrounding each implicated prostate cancer risk-associated SNP
+0	Breast and prostate cancer	NA	NA	INTRO	We next performed expression quantitative trait locus (eQTL) analysis to examine whether the two prostate cancer risk-associated SNPs correlate with expression of nearby genes within a 2-Mb region centered on the index SNP, using a publicly available database (Online Methods and Supplementary Table 8).
+1	NA	LILRA3	rs103294	INTRO	The rs103294[C] risk allele at 19q13.4 was consistently associated with increased expression of LILRA3 (encoding leukocyte immunoglobulin-like receptor subfamily A member 3) in T cells from 75 individuals, as measured by 2 probes for the gene (P <= 1 x 10-4 after permutation) (Supplementary Fig.
+0	NA	NA	NA	INTRO	6).
+0	NA	LILRA3	NA	INTRO	No consistent association with expression was found in other cell types and tissues for LILRA3 and other surrounding genes.
+0	NA	NA	rs817826	INTRO	No correlation was observed between rs817826 at 9q31.2 and expression of nearby genes in any measured cell type (fibroblast, lymphoblastoid cell line and T cell) or tissue type (adipose, lymphoblastoid cell line and skin) (Supplementary Table 8).
+0	NA	NA	NA	INTRO	Considering the small number of samples used in eQTL analysis, additional studies are needed to better understand the association of these SNPs with the mRNA expression of nearby genes
+1	NA	leukocyte immunoglobulin-like receptor	rs103294	INTRO	The rs103294 SNP is located within the leukocyte immunoglobulin-like receptor (LIR) gene cluster at 19q13.4.
+1	NA	LILRA3	rs103294	INTRO	The LD block containing rs103294 overlaps with LILRA3 (Fig.
+0	NA	NA	NA	INTRO	1).
+0	NA	LILRA3	NA	INTRO	There is a 6.7-kb known germline deletion within the LILRA3 gene that removes the first six of a total of seven exons in the gene (Fig.
+0	NA	NA	NA	INTRO	2).
+0	NA	NA	NA	INTRO	The deletion was reported to be more common in Northeastern Asians (0.56-0.84) than Europeans (0.17) or individuals from other populations (0.10-0.26).
+0	NA	NA	NA	INTRO	We measured the deletion status in all the subjects in the GWAS stage using a previously reported method.
+1	NA	NA	rs103294	INTRO	Strong LD between the deletion variant and rs103294 (r = 0.83) was observed, and the non-deleted allele was on the haplotype containing the rs103294[C] risk allele (Fig.
+0	NA	NA	NA	INTRO	2).
+0	NA	NA	NA	INTRO	The non-deleted allele was more common in cases (0.307) than controls (0.252) (P = 9.60 x 10-4; Supplementary Table 9).
+0	NA	leukocyte immunoglobulin-like receptor	NA	INTRO	LIR family members, including LILRA3, are expressed on immune cells, where they bind to major histocompatibility complex (MHC) antigens and regulate immune and inflammatory responses.
+0	benign prostatic hyperplasia	LILRA3	NA	INTRO	The mRNA expression of LILRA3 is low in prostate tissues in the UCSC database and was not detectable in our analysis of prostate tissue samples from 80 individuals with benign prostatic hyperplasia (BPH) (Supplementary Table 10).
+0	Breast and prostate cancer	LILRA3	NA	INTRO	The role of LILRA3 in prostate cancer development is largely unknown, although the eQTL data in T cells, as well as other emerging evidence, may suggest a potential role of chronic inflammation in prostate carcinogenesis.
+0	Breast and prostate cancer	NA	NA	INTRO	Nevertheless, further functional characterization of this gene and other genes at 19q13.4 is needed to fully evaluate their contribution to prostate cancer development
+1	NA	RAD23B	rs817826	INTRO	The rs817826 SNP at 9q31.2 resides in an intergenic region between RAD23B (62 kb centromeric) and KLF4 (91 kb telomeric), and the LD block containing rs817826 does not overlap with these two genes (Fig.
+0	NA	NA	NA	INTRO	1).
+0	NA	NA	NA	INTRO	A bioinformatics analysis at this region, based on Encyclopedia of DNA Elements (ENCODE) data annotated by the UCSC browser, did not reveal additional functional regions (Supplementary Fig.
+0	NA	NA	NA	INTRO	7).
+0	Breast and prostate cancer	NA	NA	INTRO	Additional genetic and functional studies are needed to delineate the mechanism by which the 9q31.2 locus contributes to prostate cancer development
+0	Breast and prostate cancer	NA	NA	INTRO	In summary, we conducted the first GWAS of prostate cancer in Han Chinese and identified two new susceptibility loci at 9q31.2 and 19q13.4.
+0	Breast and prostate cancer	NA	NA	INTRO	These findings may improve the understanding of prostate cancer susceptibility and provide clues for further functional studies.
+0	NA	NA	NA	INTRO	Our study highlights the importance of GWAS of complex diseases in diverse populations
+0	NA	NA	NA	INTRO	EIGENSOFT, http://genepath.med.harvard.edu/~reich/Software.htm; Genevar, http://www.sanger.ac.uk/resources/software/genevar; HapMap, http://hapmap.ncbi.nlm.nih.gov/; IMPUTE, https://mathgen.stats.ox.ac.uk/impute/impute.html; LocusZoom, http://csg.sph.umich.edu/locuszoom/; PLINK 1.07, http://pngu.mgh.harvard.edu/~purcell/plink/download.shtml; R statistical software, http://www.r-project.org/; UCSC database, http://genome.ucsc.edu/
+0	NA	NA	NA	METHODS	Demographic characteristics and clinical features of study subjects are summarized in Supplementary Table 1.
+0	NA	NA	NA	METHODS	These Chinese subjects were part of the ChinaPCa.
+0	NA	NA	NA	METHODS	Briefly, all of the Chinese subjects are male Han Chinese and were recruited from the southeastern region of China by members of ChinaPCa.
+0	Breast and prostate cancer	NA	NA	METHODS	All of the cases were hospital based and were pathologically diagnosed as having primary prostate cancer.
+0	NA	NA	NA	METHODS	Cancer-free controls were recruited from the community or selected from subjects undergoing routine physical examination in local hospitals.
+0	NA	NA	NA	METHODS	In the GWAS stage, 1,497 cases and 1,008 controls were mainly recruited from Shanghai and surrounding areas.
+0	NA	NA	NA	METHODS	Subjects in replication 1 were also from Shanghai (782 cases and 1,792 controls).
+0	NA	NA	NA	METHODS	Subjects in replications 2 (1,102 cases and 4,501 controls) and 3 (1,183 cases and 1,633 controls) were mainly recruited from Nanjing and surrounding areas.
+0	NA	NA	NA	METHODS	In addition, we also included a population-based case-control study (2,919 cases and 1,612 controls) from Sweden, CAPS, for replication.
+0	Breast and prostate cancer	NA	NA	METHODS	For CAPS, individuals with prostate cancer were identified and recruited from four of the six regional cancer registries in Sweden and the National Prostate Cancer Register.
+0	Breast and prostate cancer	NA	NA	METHODS	Control subjects were all males without a diagnosis of prostate cancer and were randomly selected from the Swedish Population Registry by frequency matching to the cases on the basis of age (groups of 5-year intervals) and geographic region.
+0	NA	NA	NA	METHODS	After informed consent was obtained, a blood sample was obtained from each subject for DNA extraction.
+0	NA	NA	NA	METHODS	This study was approved by the Institutional Review Board of each participating institution
+0	NA	NA	NA	METHODS	To confirm suggestive association signals identified in the GWAS stage that were not within loci that have already been reported, two steps were used to select a subset of SNPs for first-stage replication (replication 1).
+0	Breast and prostate cancer	NA	NA	METHODS	First, a CLUMP analysis in PLINK was performed to identify SNPs that were independently associated with prostate cancer risk, requiring association at P < 1 x 10-3 and r2 of <0.5 for LD.
+0	NA	NA	NA	METHODS	Second, to exclude potential false positive SNPs due to unstable estimates in controls, SNP allele frequencies were compared between control subjects from the GWAS stage and subjects from two additional large GWAS of Han Chinese (including some females).
+0	NA	NA	NA	METHODS	Only SNPs with an allele frequency difference of <=0.02 between these control subjects were selected.
+0	NA	NA	NA	METHODS	SNPs on the X chromosome were not applied to this step.
+0	NA	NA	NA	METHODS	These two steps led to the identification of 43 candidate SNPs for replication (Supplementary Table 3)
+0	NA	NA	NA	METHODS	DNA samples were extracted from blood samples and were genotyped using Illumina Human OmniExpress BeadChips.
+0	NA	NA	NA	METHODS	A total of 731,458 SNPs were genotyped in 1,497 cases and 1,008 controls.
+0	NA	NA	NA	METHODS	A standard quality control procedure was applied to select samples and SNPs for further analysis.
+0	NA	NA	NA	METHODS	Samples were removed if they (i) had an overall genotyping rate of <95%; (ii) had ambiguous gender; or (iii) were duplicates or showed familial relationships (PI_HAT > 0.025).
+0	NA	NA	NA	METHODS	SNPs were excluded if they had (i) a call rate of <95%; (ii) a minor allele frequency (MAF) of <0.05; or (iii) P < 1 x 10-3 in a Hardy-Weinberg equilibrium test among controls.
+0	NA	NA	NA	METHODS	After quality control analysis, a total of 1,417 cases and 1,008 controls with 587,292 SNPs remained
+0	NA	NA	NA	METHODS	On the basis of results from the GWAS stage, 43 SNPs were selected for replication (Supplementary Table 3).
+0	NA	NA	NA	METHODS	Genotyping of these SNPs was performed using the MassARRAY iPLEX (Sequenom) or TaqMan (Applied Biosystems) systems.
+0	NA	NA	NA	METHODS	Duplicates and negative controls were included in each 96-well plate for quality control.
+0	NA	NA	NA	METHODS	Genotyping was performed by technicians blinded to sample status.
+0	NA	NA	NA	METHODS	The average concordance rate between duplicate samples was >99%
+0	Breast and prostate cancer	NA	NA	METHODS	To further analyze the prostate cancer risk locus 19q13.4 in detail, we densely genotyped a set of markers within a 48-kb region (chr.
+0	NA	NA	NA	METHODS	19: 59,454,000-59,502,000) in 1,497 cases and 1,008 controls from the GWAS stage.
+0	NA	NA	NA	METHODS	Tagging SNPs were determined on the basis of the CHB SNP data set in the 1000 Genomes Project (1000 Genomes Phase 1 integrated version, March 2012), requiring a MAF of >=0.10, a call rate of >=0.95, a Hardy-Weinberg equilibrium test P value of >0.001 and pairwise r of <0.5.
+0	NA	NA	NA	METHODS	SNPs residing in the deleted region were excluded from selection as a tagging SNP.
+1	NA	NA	rs103294	METHODS	In this analysis, 16 tagging SNPs, including rs 103294, were selected.
+0	NA	NA	NA	METHODS	In addition, we included seven low-frequency (MAF < 0.10) SNPs to increase the coverage density of this region.
+0	NA	NA	NA	METHODS	Genotyping of the total 23 SNPs was performed using the MassARRAY iPLEX system.
+0	NA	NA	NA	METHODS	We successfully genotyped 20 SNPs after excluding 3 SNPs with low call quality (Supplementary Table 5)
+0	NA	NA	NA	METHODS	We also genotyped the known ~6.7-kb germline deletion (chr.
+0	NA	LILRA3	NA	METHODS	19: 59,492,668-59,499,432) of the LILRA3 gene in all subjects from the GWAS stage.
+0	NA	NA	NA	METHODS	A previously reported PCR sequence-specific primer typing method was used to detect the presence or absence of this deletion.
+0	NA	NA	NA	METHODS	Primers and PCR conditions were the same as those described previously.
+0	NA	NA	NA	METHODS	Deletion status was independently determined by two technicians that were blinded to the genotype at rs 103294
+0	NA	NA	NA	METHODS	RNA templates were extracted from 80 BPH tissues using the RNeasy Miniprep kit (Qiagen).
+0	NA	NA	NA	METHODS	cDNA was synthesized from 1 microg of RNA template using reverse transcriptase and oligo(dT) primer (Promega).
+0	NA	LILRA3	NA	METHODS	We measured the mRNA levels of LILRA3 using a quantitative RT-PCR assay.
+0	NA	NA	NA	METHODS	Primer sequences are given in Supplementary Table 11.
+0	NA	LILRA3	NA	METHODS	The primers complement exons 6 and 7 and were designed to differentially target deleted and non-deleted LILRA3 mRNA.
+0	NA	ACTB	NA	METHODS	Expression of ACTB (encoding beta-actin) was also examined to normalize the expression of LILRA3
+0	Breast and prostate cancer	NA	NA	METHODS	A logistic regression model was used to analyze the association of each SNP with prostate cancer risk, assuming an additive genetic model, which was implemented in PLINK version 1.07 (see URLs).
+0	NA	NA	NA	METHODS	ORs and 95% CIs were estimated from logistic regression analysis with adjustment for age and the top eigen.
+0	NA	NA	NA	METHODS	Ancestry and population stratification were determined by principal-component analysis, using data from four populations (CHB, JPT, Utah residents of Northern and Western European ancestry (CEU) and Yoruba from Ibadan, Nigeria (YRI)) of the HapMap 2 project (see URLs) and the cases and controls genotyped in the GWAS stage, implemented in the EIGENSOFT package (see URLs).
+0	NA	NA	NA	METHODS	The first two principal components for each individual were plotted.
+0	Breast and prostate cancer	NA	NA	METHODS	The logistic regression model was also applied for testing association with prostate cancer risk in replication stages.
+0	Breast and prostate cancer	PSA	NA	METHODS	The relationships of SNPs with prostate cancer clinical features, including PSA levels, Gleason score, clinical stage (T, N or M stage) and aggressiveness, were also evaluated using an additive model for cases in the GWAS and replication stages independently.
+0	NA	PSA	NA	METHODS	Associations of SNPs with PSA levels in controls were assessed using linear regression analyses assuming an additive model after log transformation of the original values to approach normalization.
+0	NA	NA	NA	METHODS	Results from the GWAS and replication stages were combined by meta-analysis.
+0	NA	NA	NA	METHODS	Cochran's Q statistic was used to test for heterogeneity, and the I2 statistic was used to quantify the proportion of the total variation caused by heterogeneity.
+0	NA	NA	NA	METHODS	A random-effect model (DerSimonian-Laird) was adopted if there was an indication of heterogeneity between studies (P for Q <= 0.05); otherwise, the fixed-effect model was applied (P for Q > 0.05).
+0	NA	NA	NA	METHODS	A predefined P value of 5.0 x 10-8 was set as a threshold for genome-wide significance.
+0	NA	NA	NA	METHODS	In replication stages, association was assumed to be significant after Bonferroni correction, at P < 1.16 x 10-3 (0.05/43) or 0.025 (0.05/2) for replication 1 and 2, respectively.
+0	Breast and prostate cancer	NA	NA	METHODS	For regions that met the statistical criteria of genome-wide association with prostate cancer risk, ungenotyped SNPs were imputed using IMPUTE software (see URLs) with 1000 Genomes Project CHB and JPT subjects serving as reference haplotype maps.
+0	NA	NA	NA	METHODS	A posterior probability of >0.90 was applied to call imputed genotypes.
+0	NA	NA	NA	METHODS	Imputed SNPs were excluded if they had (i) a call rate of <95%; (ii) a MAF of <0.05; or (iii) P < 1 x 10-3 in a Hardy-Weinberg equilibrium test in controls.
+0	NA	NA	NA	METHODS	Conditional analysis was then applied to test the independence of SNPs in each region, using the SNPs that were originally determined to be significant as covariates.
+0	NA	NA	NA	METHODS	Regional plots were created using LocusZoom (see URLs).
+0	NA	NA	NA	METHODS	SAS 9.2 (SAS Institute) and R 2.9.1 (see URLs) were also used for data analysis
+1	NA	NA	rs817826	METHODS	Two identified loci, rs817826 at 9q31.2 and rs103294 at 19q13.4, were tested for correlation with nearby gene expression, as measured by probes using the publicly available eQTL database Genevar (see URLs).
+0	NA	NA	NA	METHODS	Genotype and expression data within this database are derived from 3 cell types (fibroblast, lymphoblastoid cell line and T cell) from 75 individuals from Geneva and 3 tissue types (166 adipose, 156 lymphoblastoid cell line and 160 skin) from healthy female twins.
+0	NA	NA	NA	METHODS	The expression probes located within 1 Mb of the 5' and 3' end of the specified SNPs were analyzed.
+0	NA	NA	NA	METHODS	Differences in the distribution of normalized expression levels between genotypes were compared using a linear regression model.
+0	NA	NA	NA	METHODS	To avoid false positive associations due to multiple tests, we set a significance threshold of P < 1.0 x 10-3 and also assessed significance using 10,000-fold permutations.
+0	NA	LILRA3	NA	METHODS	Specifically, two probes, ILMN_1786303 on exon 6 and ILMN_1661631 on exon 7 of LILRA3, were used in the measurement of LILRA3 expression
+0	NA	NA	NA	FIG	Regional association plots.
+0	NA	NA	NA	FIG	(a,b) Regional plots (top) and LD maps (bottom) at 9q31.2 (a) and 19q13.4 (b).
+0	NA	NA	NA	FIG	For regional plots, association of individual SNP is plotted as -log10P against chromosomal position.
+0	NA	NA	NA	FIG	Results for both genotyped and imputed SNPs are shown.
+0	NA	NA	NA	FIG	Symbol colors represent the LD of the SNP with the most significant SNP at each locus (purple diamond).
+0	NA	NA	NA	FIG	The right y axis shows the recombination rate estimated from 1000 Genomes Project CHB and JPT data.
+0	NA	NA	NA	FIG	LD maps were based on D' values using CHB and JPT genotypes from the 1000 Genomes Project (Phase 1 integrated data version 3, released March 2012)
+0	NA	LILRA3	NA	FIG	Germline deletion at LILRA3 and genotyped SNPs flanking the gene.
+1	Breast and prostate cancer	LILRA3	rs103294	FIG	Top, schematic of the LILRA3 deletion that is in strong LD with prostate cancer risk-associated SNP rs103294 at 19q13.4.
+0	NA	NA	NA	FIG	Bottom, pairwise LD (r2) values calculated based on data from GWAS stage samples
+0	Breast and prostate cancer	NA	NA	TABLE	Summary results of associations with prostate cancer risk at 9q31.2 and 19q13.4 in Chinese me

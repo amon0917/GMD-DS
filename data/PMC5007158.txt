@@ -1,0 +1,169 @@
+0	NA	NA	NA	ABSTRACT	Metformin is the first-line antidiabetic drug with over 100 million users worldwide, yet its mechanism of action remains unclear.
+0	NA	NA	NA	ABSTRACT	Here the Metformin Genetics (MetGen) Consortium reports a three-stage genome wide association study (GWAS), consisting of 13,123 participants of different ancestries.
+0	NA	SLC2A2	rs8192675	ABSTRACT	The C-allele of rs8192675 in the intron of SLC2A2, which encodes the facilitated glucose transporter GLUT2, was associated with a 0.17% (p=6.6x10-14) greater metformin induced HbA1c reduction in 10,577 participants of European ancestry.
+0	NA	SLC2A2	rs8192675	ABSTRACT	rs8192675 is the top cis-eQTL for SLC2A2 in 1,226 human liver samples, suggesting a key role for hepatic GLUT2 in regulation of metformin action.
+0	obese	DPP-4	rs8192675	ABSTRACT	In obese individuals C-allele homozygotes at rs8192675 had a 0.33% (3.6mmol/mol) greater absolute HbA1c reduction than T-allele homozygotes.This is about half the effect seen with the addition of a DPP-4 inhibitor, and equates to a dose difference of 550mg of metformin, suggesting rs8192675 as a potential biomarker for stratified medicine
+0	NA	NA	NA	INTRO	Metformin was commercialized before the modern era of target-based drug discovery.
+0	NA	NA	NA	INTRO	It typically reduces HbA1c by 1~1.5% (11~16mmol/mol) and has an excellent safety record, but considerable variation exists in how well patients respond to metformin.
+0	NA	NA	NA	INTRO	We have recently established that genetic factors influence glycaemic response to metformin, with many common variants across the genome together explaining a significant proportion of the variation, ranging from 21% to 34%, depending on how glycaemic response was measured.
+0	NA	NA	NA	INTRO	Hypothesis-driven studies of pharmacokinetic variants have shown no consistent results.
+0	NA	ATM	rs11212617	INTRO	The only GWAS published to date revealed an association with rs11212617 near the ATM locus, which has been further replicated
+0	NA	NA	NA	INTRO	Here we extended the previous GWAS by an additional 345 samples to a screening set of 1,373 participants.
+0	NA	NA	rs11212617	INTRO	As in our previous report, rs11212617 remained the top signal with no other genome-wide significant hit (Supplementary Figure 1).
+0	NA	NA	NA	INTRO	A systematic three-stage replication was undertaken, with the work flow shown in Supplementary Figure 2.
+0	NA	SLC2A2	rs8192675	INTRO	Only rs8192675 in the intron of SLC2A2 was replicated through the first two stages with a combined p=1x10-7 derived from 3,456 participants (Supplementary Dataset 1 and Supplementary Table 1)
+0	NA	NA	rs8192675	INTRO	The final replication of rs8192675 was performed as a meta-analysis by the MetGen Consortium.
+0	NA	NA	NA	INTRO	Measures of glycaemic response to metformin were aligned across the cohorts as the absolute HbA1c reduction (expressed as reduction in %HbA1c).
+0	NA	NA	rs8192675	INTRO	Within each cohort, associations with rs8192675 were tested with two multiple linear models with or without the adjustment of baseline HbA1c, in addition to other available clinical covariates (Supplementary Table 2).
+0	NA	NA	NA	INTRO	In the meta-analysis of 10,557 participants of European ancestry (Figure 1), each copy of the C-allele was associated with a greater HbA1c reduction of 0.07% (p=2x10-8, phet=0.35) when adjusting for baseline HbA1c; whilst without adjustment the allelic effect of C-allele was 0.17% (p=6.6x10-14, phet=0.52).
+0	diabetes	NA	rs8192675	INTRO	There was no effect of rs8192675 on the efficacy of metformin in delaying progression to diabetes, or on metformin efficacy in a small insulin treated cohort (Supplementary table 3)
+0	NA	NA	rs8192675	INTRO	We tested the pharmacogenetic effect of rs8192675 in 2,566 participants of non-European ancestries (Supplementary Table 4).
+0	NA	NA	NA	INTRO	The meta-analysis showed the C-allele was associated with a 0.08% greater HbA1c reduction (p=0.006, phet=0.63) when adjusting for baseline HbA1c; whilst the allelic effect of the C-allele was 0.15% (p=0.005, phet=0.95) without the baseline adjustment.
+0	NA	NA	NA	INTRO	In the meta-analysis of 13,123 participants of any ancestry (data not shown), no genetic heterogeneity (phet>0.29) was observed between different ethnic groups despite the C-allele frequency ranging from 24% in Latino to around 70% in African Americans
+0	NA	NA	rs8192675	INTRO	We examined whether rs8192675 had an impact on baseline HbA1c, because the effect sizes of its association with glycaemic response to metformin differed depending on whether adjusting for the baseline HbA1c.
+0	NA	NA	NA	INTRO	In the 10,557 participants of European ancestry, the C-allele was associated with a 0.13% (p=2.6x10-8) higher baseline HbA1c but a 0.04% (p=0.007) lower on-treatment HbA1c, which together contributed to the observed 0.17% (p=6.6x10-14) pharmacogenetic impact on HbA1c reduction in the model without baseline adjustment (Supplementary Figure 3)
+0	NA	NA	rs8192675	INTRO	Given the association of rs8192675 with HbA1c prior to treatment with metformin, we assessed whether this variant was marking a general ability to respond to any antihyperglycaemic treatment.
+0	NA	NA	rs8192675	INTRO	Therefore we studied the pharmacogenetic impact of rs8192675 in 2,654 participants treated with sulfonylureas (Supplementary Table 5), another commonly used class of antidiabetic drug.
+0	NA	NA	NA	INTRO	As in metformin users, the C-allele was also associated with a higher baseline HbA1c in these sulfonylureas users (beta=0.15%, p=3.1x10-4).
+0	NA	NA	NA	INTRO	However, in contrast to metformin, the C-allele remained associated with a higher on-treatment HbA1c (beta=0.09%, p=0.006) in these sulfonylureas users, which resulted in no net pharmacogenetic impact (beta=0.04%, p=0.44) on sulfonylurea induced HbA1c reduction.
+0	genetic diseases	NA	rs8192675	INTRO	These data suggest that rs8192675 is marking a genetic defect in glucose metabolism in type 2 diabetes that is ameliorated by metformin treatment but not by sulfonylurea treatment.
+0	NA	NA	rs8192675	INTRO	The fact that rs8192675 is not associated with sulfonylurea response strongly supports a specific role for this variant on glycaemic response to metformin, rather than simply reflecting the higher pre-treatment (baseline) HbA1c seen within carriers of this C-allele.
+0	NA	NA	NA	INTRO	In addition, the association with metformin induced HbA1c reduction remain significant after adjustment for baseline HbA1c, corroborating a specific effect on response beyond its effect on baseline glycaemia
+0	obese	NA	NA	INTRO	Metformin is particularly recommended for the treatment of diabetes in obese individuals due to its beneficial effect on body weight.
+0	NA	NA	rs8192675	INTRO	Therefore, we explored whether the pharmacogenetic impact of rs8192675 varied by BMI in the MetGen cohorts (n=7581).
+0	NA	NA	rs8192675	INTRO	BMI is associated with HbA1c reduction (beta=-0.01%; p=1.7x10-4) but not rs8192675 genotype (p=0.52).
+0	NA	NA	rs8192675	INTRO	Adjusting for BMI does not attenuate the observed pharmacogenetic effect of rs8192675 (Supplementary Table 6).
+0	obese	NA	NA	INTRO	When participants were stratified into non-obese (BMI<30 kg/m2) and obese groups (BMI>=30kg/m2), there was a significant (p=0.02) gene by BMI group interaction (Figure 2).
+0	obese	NA	NA	INTRO	The pharmacogenetic effect size of the C-allele was 0.13% (SE=0.04%, p=0.001) in the non-obese participants as compared to that of 0.24% (SE=0.04%, p=5.0x10-11) in the obese participants
+0	NA	NA	NA	INTRO	We performed a locus-wise meta-analysis to narrow down the candidate causal gene and variant list.
+0	NA	NA	rs8192675	INTRO	Variant rs8192675 and its proxies showed the strongest association with HbA1c reduction (Figure 3).
+0	NA	SLC2A2	NA	INTRO	The linkage disequilibrium block covers three genes, of which SLC2A2 encodes the facilitated glucose transporter GLUT2, whilst EIF5A2 and RPL22L1 have little known functionality.
+0	NA	SLC2A2	rs5400	INTRO	Previous GWAS studies showed the nonsynonymous rs5400 in SLC2A2 is the main variant associated with glycaemic traits such as fasting glucose and HbA1c.
+0	NA	NA	rs8192675	INTRO	Because rs8192675 and rs5400 are in partial LD (D'=1; r2=0.35), here rs5400 was also associated with metformin response (beta=0.13%, p=5.2x10-4).
+0	NA	NA	rs5400	INTRO	However, when conditioning on rs5400, rs8192675 remains strongly associated with metformin response (beta=0.21%, SE=0.04%, p=2.3x10-9); when conditioning on rs8192675, rs5400 is non-significant (p=0.29).
+0	NA	SLC2A2	rs8192675	INTRO	These results suggest the pharmacogenetic impact of rs8192675 is unlikely to be via the amino acid change of GLUT2 at rs5400
+0	NA	NA	rs8192675	INTRO	Given that liver is the most established site of metformin action, we examined whether rs8192675 is an eQTL in 1,226 liver samples of European ancestry.
+0	NA	SLC2A2	rs8192675	INTRO	Figure 3 shows rs8192675 as the top cis-eQTL for SLC2A2, with the C-allele associated with decreased (p=4.2x10-12) expression level.
+0	NA	SLC2A2	NA	INTRO	In the 48 tissues examined by GTEx, SLC2A2 was sufficiently expressed in 7 tissues (Supplementary Table 7).
+0	NA	SLC2A2	rs8192675	INTRO	rs8192675 showed a significant (p=5.7 x10-4) impact on SLC2A2 expression in the 271 transformed fibroblasts samples, but no other significant associations.
+0	glucose homeostasis	NA	NA	INTRO	Beyond GTEx, we sought additional eQTL evidence for other tissues that have been implicated in metformin action or glucose homeostasis.
+0	NA	SLC2A2	rs8192675	INTRO	Directionally consistent and supportive evidence of rs8192675 or its proxies being SLC2A2 cis-eQTLs was found in 118 islets (rs8192675, p = 0.0025), 173 intestinal samples (rs5398, p = 0.007), and 44 kidney samples (rs1905505, p = 0.04) (Supplementary Table 7)
+0	Fanconi-Bickel syndrome	SLC2A2	NA	INTRO	Patients with Fanconi-Bickel Syndrome (OMIM#227810), who carry rare loss-of-function variants of GLUT2, can provide useful insight into the role of GLUT2 in glucose homeostasis and into the differing impact of common GLUT2 variants in different physiological states (Figure 4).
+0	Fanconi-Bickel syndrome	NA	NA	INTRO	Patients with Fanconi-Bickel syndrome exhibit low fasting glucose but high post-prandial glucose.
+0	normal glycaemia	SLC2A2	rs8192675	INTRO	In parallel, the C-allele of rs8192675 that is associated with reduced SLC2A2 expression is associated with lower fasting glucose and HbA1c among individuals of normal glycaemia.
+0	Type 2 diabetes	NA	rs8192675	INTRO	Here we report that in patients with type 2 diabetes the expression-decreasing C-allele of rs8192675 was associated with a higher HbA1c prior to treatment with either metformin or sulfonylureas.
+0	NA	NA	rs8192675	INTRO	This deleterious genetic effect of rs8192675 on HbA1c was reversed with metformin treatment (C-allele associated with lower on-treatment HbA1c and therefore better response to metformin), but not by sulfonylurea treatment
+0	NA	SLC2A2	NA	INTRO	In humans, GLUT2 is a facilitative glucose transporter highly expressed in the liver, kidney, small intestine and islets, and to a lesser extent in certain brain regions and other tissues.
+0	glucose homeostasis	SLC2A2	NA	INTRO	Genetic defects in GLUT2 could potentially alter glucose homeostasis at any or all of these sites.
+0	NA	NA	NA	INTRO	Metformin's main site of action is widely believed to be the liver, primarily acting to suppress hepatic glucose production.
+0	glucose homeostasis	Glut2	NA	INTRO	In mice with Glut2 inactivation, glucose and glucose-6-phosphate accumulated in the cytoplasm due to reduced glucose efflux, resulting in increased expression levels of nuclear ChREBP, L-pyruvate kinase and lipogenic genes.
+0	NA	SLC2A2	rs8192675	INTRO	Our eQTL data in liver samples (Figure 3) and corresponding reporter assays (Supplementary Figure 4) showed that the C-allele at rs8192675 is associated with lower expression levels of SLC2A2.
+0	NA	NA	NA	INTRO	This suggests that the variant may lead to similar effects on hepatic gene expression in humans, which will be potentially modulated by metformin's well-described effect on hepatic glucose production and lipogenesis.
+0	glucose homeostasis	SLC2A2	rs8192675	INTRO	An alternative explanation could be that reduced SLC2A2 expression due to rs8192675 is associated with reduced glucose mediated glucose clearance (glucose effectiveness) due to a decreased ability for glucose to enter the liver.
+0	NA	Glut2	NA	INTRO	This is seen in mice lacking Glut2 in the liver, and is an effect that is improved by metformin treatment, although the mechanism for this is not understood
+0	NA	GLP-1	NA	INTRO	Metformin is also increasingly believed to exert some of its beneficial effects by acting on the intestines to increase gut glucose uptake and non-oxidative glucose disposal, as well as increasing bile acid reabsorption, GLP-1 secretion and altering the microbiome.
+0	glucose homeostasis	Glut2	NA	INTRO	In ob/ob mice, metformin has been shown to increase translocation of Glut2 to the apical surface resulting in improved glucose homeostasis.
+0	obese	SLC2A2	rs8192675	INTRO	Interestingly, in light of the interaction we report between rs8192675 and BMI on metformin response, obese humans are reported to have altered GLUT2 localisation in the fasting state compared to non-obese humans, suggestive of dysregulation of glucose sensing and transport in obese individuals.
+0	glucose homeostasis	SLC2A2	rs819265	INTRO	If reduced SLC2A2 expression due to rs819265 were to result in reduced apical GLUT2, metformin could potentially overcome this by restoring GLUT2 transport in the enterocytes and improving glucose homeostasis
+0	NA	THTR2	NA	INTRO	Finally, given that metformin is transported into different tissues by several organic cation transporters, including OCTs, MATEs and THTR2, we examined whether GLUT2 is able to transport metformin in X. laevis oocytes.
+0	NA	SLC2A2	NA	INTRO	Our results suggest that metformin is not a substrate or an inhibitor of GLUT2 (Supplementary Figure 5).
+0	NA	SLC2A2	NA	INTRO	Detailed human physiological studies, as well as functional exploration in animal and cellular model systems, are required to fully elucidate the role of GLUT2 in metformin response, and whether this is mediated via a hepatic, intestinal or other mechanism
+0	NA	NA	rs8192675	INTRO	We examined the potential clinical impact of rs8192675.
+0	NA	NA	NA	INTRO	An unbiased (from the non-discovery cohorts) estimate of its allelic effect is a 0.15% absolute reduction in %HbA1c.
+0	NA	NA	NA	INTRO	This is equivalent to the pharmacological impact of taking 250mg extra metformin per day, which is 26% of the average daily dose.
+0	obese	NA	NA	INTRO	More clinical potential is seen in obese patients as the C-allele homozygote carriers had a 0.33% (SE=0.09%, p=6.6x10-4) greater reduction in %HbA1c than those carrying the T-allele homozygotes; this equates to 24% of the average glycaemic reduction seen with metformin treatment in the MetGen cohorts and is equivalent to the impact of 550mg extra metformin.
+0	NA	DPP-4	NA	INTRO	Given that newer agents such as DPP-4 inhibitors only reduce HbA1c by 0.6-0.8% on average, this genetic effect is large and has potential to be of clinical utility.
+0	NA	NA	NA	INTRO	C-allele homozygotes could be treated with lower doses, and be exposed to less side effects; conversely T-allele carriers could be treated with doses higher than normally recommended to achieve a response.
+0	NA	NA	NA	INTRO	This may be of particular importance in African Americans where 49% of the population are C-allele homozygotes, in contrast to only 9% in European Americans.
+0	NA	NA	NA	INTRO	Stratified clinical trials, in different ethnic groups, are required to evaluate the potential for this pharmacogenetic variant to impact on clinical care
+0	NA	NA	rs8192675	INTRO	In conclusion, we have established a robust association between rs8192675 and metformin-induced HbA1c reduction with a large multi-ethnic cohort.
+0	NA	SLC2A2	rs8192675	INTRO	rs8192675 was the top cis-eQTL for SLC2A2 in the liver and potentially islets, kidney and intestine.
+0	Type 2 diabetes	SLC2A2	NA	INTRO	Reduced SLC2A2 expression resulted in a defect in glucose homeostasis in type 2 diabetes before initiation of therapy, which could be ameliorated by metformin.
+0	obese	NA	rs8192675	INTRO	The clinically appreciable impact in obese patients suggests rs8192675 has the potential to be a biomarker for stratified medicine
+0	diabetes	NA	NA	METHODS	Both GWAS screening and the first-stage replication analysed participants with type 2 diabetes of European ancestry from the GoDARTS cohort.
+0	NA	NA	NA	METHODS	The current GWAS screening used 1,373 participants, which included data from 345 samples released after our initial GWAS report on 1,028 participants.
+0	NA	NA	NA	METHODS	The first-stage replication included up to 1,473 from the remaining GoDARTS participants depending on the call rate and genotyping assay.
+0	NA	NA	NA	METHODS	The second-stage replication consisted of 1,223 participants of European ancestry from the UKPDS study.
+0	NA	NA	NA	METHODS	The final replication and meta-analysis was conducted within the MetGen Consortium which included an extra 6,488 participants of European ancestry and 2,566 participants of non-European ancestry.
+0	NA	NA	NA	METHODS	Detailed information on the MetGen participants is provided in Supplementary Table 2.
+0	NA	NA	NA	METHODS	Of note, about 50% of the MetGen cohort is from PMT, which represents ethnically diverse U.S. populations.
+0	NA	NA	NA	METHODS	These cohorts were used extensively in our multi-ethnic analysis for replication purposes.
+0	NA	NA	NA	METHODS	Participants from the largest PMT cohort, PMT2, were selected from the Genetic Epidemiology Research on Adult Health and Aging (GERA) cohort, a subsample of the Kaiser Permanente Research Program on Genes, Environment, and Health (RPEGH).
+0	NA	NA	NA	METHODS	Three MetGen cohorts, GoDARTS, UKPDS and DCS also provided data on response to sulfonylureas.
+0	NA	NA	NA	METHODS	All human research was approved by the relevant institutional review boards, and all participants provided written informed consent
+0	NA	NA	NA	METHODS	Genotyping for the GWAS screening and the first-stage CardioMetabochip replication in GoDARTS cohort has been described before by WTCCC2 and DIAGRAM.
+0	NA	NA	NA	METHODS	Standard quality control procedures were applied to both data sets to filter SNPs with minor allele frequency (MAF)<1% or call rate <98% or Hardy-Weinberg Equilibrium (HWE) deviation (p<10-4).
+0	NA	NA	NA	METHODS	Samples with call rate <98% or extra heterozygosity (more than 3 standard deviation away from the mean) or correlated with another sample (identity by descent [IBD]>0.125) were filtered out.
+0	NA	NA	NA	METHODS	In-house genotyping of the GoDARTS samples in the first-stage replication were performed with Sequenom MassArray for 66 SNPs and TaqMan based Allelic Discrimination assays for 9 SNPs.
+0	NA	NA	NA	METHODS	Details of the SNP selection procedure is described in Supplementary Dataset 1.
+0	NA	NA	NA	METHODS	All 75 SNPs had call rate >90% and no deviation from HWE (p>0.005).
+0	NA	NA	NA	METHODS	The second-stage genotyping of the UKPDS sample was carried out in duplicate runs using standard TaqMan assays.
+0	NA	NA	NA	METHODS	All the SNPs were in HWE (p>0.05) and only samples with concordant genotypes from both runs were analysed.
+0	NA	NA	rs8192675	METHODS	The third-stage replication used high quality genotypes from either TaqMan assay or GWAS imputed data on rs8192675 (Supplementary Table 2)
+0	NA	NA	NA	METHODS	As with our previous GWAS, two correlated measures of glycaemic response to metformin were used in the current GWAS screening and the first-stage replication.
+0	NA	NA	NA	METHODS	A quantitative measure of HbA1c reduction (baseline minus on-treatment HbA1c) and a categorical measure of whether achieving a target of treatment HbA1c<=7% were used for genetic association tests.
+0	Type 2 diabetes	NA	NA	METHODS	Therefore only participants with type 2 diabetes and a baseline HbA1c>7% were included.
+0	NA	NA	NA	METHODS	Baseline HbA1c was measured within 6 months prior to metformin start whilst on-treatment HbA1c was taken as the minimum achieved within 18 months after metformin start
+0	Type 2 diabetes	NA	NA	METHODS	In the second-stage replication and the meta-analysis in the third-stage replication, we opted to maximize the sample size by synchronizing the measurement of metformin efficacy in a wider spectrum of participants with type 2 diabetes (including those with baseline HbA1c<7%) across the MetGen.
+0	NA	NA	NA	METHODS	Therefore only the quantitative outcome of HbA1c reduction was used to assess the glycaemic response to metformin.
+0	diabetes	NA	NA	METHODS	To maintain relative clinical homogeneity, only participants with type 2 diabetes on metformin monotherapy or using metformin as an add-on therapy to another oral agent were included
+0	NA	NA	NA	METHODS	Data from two MetGen cohorts, which used alternative measures of glycaemic response, were not included in the current meta-analyses, but the results are shown in Supplementary Table 4.
+0	diabetes	NA	NA	METHODS	In the DPP cohort of pre-diabetes participants, Cox proportional hazards regression was used to evaluate the genetic impact on the time to diabetes incidence.
+0	NA	insulin	NA	METHODS	In the HOME cohort, a multiple linear regression was used to test the genetic association with the difference in daily dose of insulin because metformin was used in conjunction with insulin in these participants
+0	NA	NA	NA	METHODS	Assessment of glycaemic response to sulfonylureas adopted a similar approach as the quantitative outcome of metformin response in the MetGen.
+0	NA	NA	NA	METHODS	Baseline HbA1c and on-treatment HbA1c were captured in a similar manner as those in defining metformin response.
+0	diabetes	NA	NA	METHODS	Only participants with type 2 diabetes who were on sulfonylureas monotherapy or using sulfonylureas as an add-on therapy to metformin were included.
+0	NA	NA	NA	METHODS	All participants had a baseline HbA1c>7%
+0	NA	NA	NA	METHODS	In the GWAS screening and first-stage replication, each SNP was tested for association with the continuous measure and categorical measure of glycaemic response to metformin separately with PLINK software using linear and logistic regression respectively.
+0	NA	NA	NA	METHODS	Baseline HbA1c, adherence, metformin dose, creatinine clearance and treatment scheme (whether on metformin monotherapy or dual therapy of metformin add-on to sulfonylureas) and the first 10 principle component from EIGENSTRAT were used as covariates.
+0	NA	NA	NA	METHODS	Statistical evidence of the two associations at each SNP was averaged by taking the geometric mean of the two p-values in cases in which the direction of effect was consistent (for example more HbA1c reduction and more likely to achieve the treatment target both indicate better response)
+0	NA	NA	NA	METHODS	In the second and third stage replications, association with HbA1c reduction was tested with multiple linear regression.
+0	NA	NA	NA	METHODS	Within each cohort, two linear models were fitted either with or without adjustment for baseline HbA1c.
+0	NA	NA	NA	METHODS	Baseline HbA1c has been shown as the strongest predictor of metformin induced HbA1c reduction in pharmaco-epidemiological studies.
+0	NA	NA	NA	METHODS	Adjusting for baseline HbA1c could reduce the confounding of measurement error in baseline HbA1c and increase the statistical power for pharmacogenetic studies.
+0	NA	NA	NA	METHODS	However, if a variant is associated with baseline HbA1c, adjusting for baseline HbA1c would lead to a reduced estimate of its pharmacogenetic effect compared to a model that did not adjust for the baseline HbA1c.
+0	NA	NA	NA	METHODS	Therefore we presented both models in the current study.
+0	NA	NA	NA	METHODS	Other clinical factors such as creatinine clearance (or other measurement of kidney function) and treatment scheme were included as covariates where available (Supplementary Table 2).
+0	NA	NA	NA	METHODS	Combining the association results from individual cohort was conducted by a fixed-effect inverse-variance-weighted meta-analysis as applied in GWAMA.
+0	NA	NA	NA	METHODS	Cochran's heterogeneity statistic's p-value was reported as phet
+0	NA	NA	rs8192675	METHODS	For the genetic association tests with response to sulfonylureas, multiple linear regression was used to assess the association between rs8192675 and baseline HbA1c, on-treatment HbA1c, HbA1c reduction and baseline adjusted HbA1c reduction.
+0	NA	NA	NA	METHODS	Treatment scheme (whether on sulfonylureas monotherapy or using sulfonylureas as add-on treatment to metformin) was included as a covariate when modelling sulfonylureas induced HbA1c reduction.
+0	NA	NA	NA	METHODS	Association test results from the three cohorts were combined with fixed-effect inverse-variance-weighted meta-analysis in GWAMA
+0	NA	NA	NA	METHODS	Locus-wise association was performed with GWAS imputed data of 7,223 participants available in the GoDARTS and PMT2-EU.
+0	NA	NA	rs8192675	METHODS	Software IMPUTE2 was used to impute the post quality control GWAS data at 1Mb flank of rs8192675 against the 1000 Genomes reference panel.
+0	NA	NA	NA	METHODS	Only SNPs with high imputation quality (info>0.9 and MAF>0.02) in both cohorts were tested for association with SNPTEST.
+0	NA	NA	NA	METHODS	Summary statistics from GoDARTS and PMT2-EU were combined with fixed-effect inverse-variance-weighted meta-analysis in GWAMA
+0	NA	NA	rs8192675	METHODS	To evaluate the translational potential of rs8192675, we derived an unbiased estimate of its allelic effect by excluding the discovery cohort in the meta-analysis.
+0	NA	NA	NA	METHODS	This effect size was aligned to the clinical impact observed in the PMT2-EU which was the biggest replication cohort and used the median average daily dose in the MetGen.
+0	NA	NA	NA	METHODS	The average daily dose and dosing impact in PMT2-EU were 962mg/day and an extra 0.6% HbA1c reduction per gram metformin respectively.
+0	NA	NA	rs8192675	METHODS	The evaluation of rs8192675 genotype by BMI group interaction was performed with linear regression by adjusting for treatment group, sex and study cohort
+0	NA	NA	NA	METHODS	We used four liver eQTL datasets comprising a total number of 1,226 livers samples from individuals of European ancestry (Supplementary Table 8).
+0	NA	NA	NA	METHODS	Tissue procurement, gene expression analysis, genotyping and eQTL analyses have been described previously for three of the datasets.
+0	NA	NA	NA	METHODS	The forth dataset was contributed by Dr. Eric Schadt (unpublished data by Schadt, Molony, Chudin, Hao, Yang et al.).
+0	NA	NA	NA	METHODS	Genotypes were imputed to the 1000 Genome reference panel with IMPUTE2.
+0	NA	NA	NA	METHODS	Expression probe sequences were mapped to ENSEMBL genes and only the common genes across all datasets were included for subsequent analyses.
+0	NA	NA	NA	METHODS	Within each dataset, the genome-wide eQTL analysis was run with an additive genetic model including dataset specific covariates to examine cis-associations within a 100kb flanking window.
+0	NA	NA	NA	METHODS	Results from the four datasets were then combined with a modified meta test statistic which was calculated using the following approach: tmeta=(Sigmawiti)/ (Sigmawi2), w= (n-(#covariates)-1) where i=data sets 1-4 and n=sample size.
+0	NA	NA	NA	METHODS	This method Generation of p-values was accomplished by assuming the meta test statistics were normally distributed; a Benjamini-Hochberg multiple testing correction was applied to the p-values.
+0	NA	SLC2A2	NA	METHODS	For the current study, we extended the cis-association tests to all SNPs within 1Mb window of SLC2A2 and report the locus-wise p-values of the meta test statistic
+0	NA	NA	rs8192675	METHODS	We investigated whether rs8192675 is a cis-QTL in other tissues in the GTEx data release V6.
+0	NA	SLC2A2	rs8192675	METHODS	Due to the sample size limitation, rs8192675 is not a genomewide significant cis-eQTL for SLC2A2 in any of tissues examined.
+0	NA	NA	NA	METHODS	However, given the strong evidence of the variant being a cis-eQTL in the large liver samples reported in this study, we considered a directionally consistent association with p<0.05 as supportive evidence.
+0	NA	NA	NA	METHODS	The eQTL data for islet and intestine were acquired through contacting the authors of the original publications.
+0	NA	NA	NA	METHODS	The eQTL data for kidney were obtained by quantitative real-time PCR of 44 kidney samples genotyped with the Affymetrix Axiom array.
+0	NA	NA	NA	METHODS	Sample acquirement and tissue preparation was described previously.
+0	NA	SLC2A2	NA	METHODS	The transcript levels of SLC2A2 were determined using TaqMan probe (ID Hs01096908_m1).
+0	NA	SLC2A2	NA	METHODS	The relative expression level of SLC2A2 transcript was calculated by the comparative method (DeltaDeltaCt) normalized to the housekeeping gene GAPDH, as described previously
+0	NA	NA	NA	FIG	The forest plot shows meta-analyses of association test results for metformin induced change in HbA1c in a total number of 10,557 participants from 10 MetGen cohorts.
+0	NA	NA	NA	FIG	The two panels present the results from linear regression models with (left) and without (right) adjustment for baseline HbA1c respectively.
+0	NA	NA	NA	FIG	HbA1c was measured in percentage
+0	obese	NA	NA	FIG	Participants were stratified into obese (BMI>=30 kg/m2) and non-obese groups (BMI<30 kg/m2).
+0	NA	NA	NA	FIG	The error bars are for the standard error of the mean HbA1c reduction
+0	NA	SLC2A2	NA	FIG	SNPs are plotted by position on the chromosome 3 against association with meta-analysis of HbA1c reduction without baseline adjustment (-log10P) in 7,223 participants (left panel) and meta-analysis of SLC2A2 expression (-log10P) in 1,226 liver samples (right panel).
+0	NA	NA	rs8192675	FIG	In both plots rs8192675 (purple circle) and its proxies are the top signals.
+0	NA	NA	rs5400	FIG	The non-synonymous SNP rs5400 (pointed by arrow) is also nominally associated with HbA1c reduction.
+0	NA	NA	NA	FIG	Estimated recombination rates (cM/Mb) are plotted in blue to reflect the local LD structure.
+0	NA	NA	rs8192675	FIG	The SNPs surrounding the most significant SNP, rs8192675, are color coded to reflect their LD with this SNP.
+0	NA	NA	NA	FIG	This LD was taken from pairwise r2 values from the HapMap CEU data.
+0	NA	NA	NA	FIG	Genes, the position of exons and the direction of transcription from the UCSC genome browser are noted
+0	Fanconi-Bickel syndrome	NA	rs8192675	FIG	In patients with the monogenic Fanconi-Bickel Syndrome (FBS), the loss-of-function variants led to lower fasting glucose but higher post-prandial glucose; the reduced expression C-allele at rs8192675 was associated with lower HbA1c in normal glycaemia state but higher HbA1c in hyperglycaemia state (before pharmacological treatment was indicated in patients with type 2 diabetes); metformin, but not sulfonylurea treatment reverses the genetic impact on HbA1c

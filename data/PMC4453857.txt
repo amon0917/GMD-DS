@@ -1,0 +1,174 @@
+0	hypertension	NA	NA	ABSTRACT	Bevacizumab has broad anti-tumour activity, but substantial risk of hypertension.
+0	hypertension	NA	NA	ABSTRACT	No reliable markers are available for predicting bevacizumab-induced hypertension
+0	breast cancer	NA	NA	ABSTRACT	A genome-wide association study (GWAS) was performed in the phase III bevacizumab-based adjuvant breast cancer trial, ECOG-5103, to evaluate for an association between genotypes and hypertension.
+0	NA	NA	NA	ABSTRACT	GWAS was conducted in those who had experienced systolic blood pressure (SBP) >160 mm Hg during therapy using binary analysis and a cumulative dose model for the total exposure of bevacizumab.
+0	toxicity	NA	NA	ABSTRACT	Common toxicity criteria (CTC) grade 3-5 hypertension was also assessed.
+0	NA	NA	NA	ABSTRACT	Candidate SNP validation was performed in the randomised phase III trial, ECOG-2100
+1	NA	SV2C	rs6453204	ABSTRACT	When using the phenotype of SBP>160 mm Hg, the most significant association in SV2C (rs6453204) approached and met genome-wide significance in the binary model (P=6.0 x 10-8; OR=3.3) and in the cumulative dose model (P=4.7 x 10-8; HR=2.2), respectively.
+1	hypertension	NA	rs6453204	ABSTRACT	Similar associations with rs6453204 were seen for CTC grade 3-5 hypertension but did not meet genome-wide significance.
+0	hypertension	NA	NA	ABSTRACT	Validation study from ECOG-2100 demonstrated a statistically significant association between this SNP and grade 3/4 hypertension using the binary model (P-value=0.037; OR=2.4)
+1	hypertension	SV2C	NA	ABSTRACT	A genetic variant in SV2C predicted clinically relevant bevacizumab-induced hypertension in two independent, randomised phase III trials
+0	NA	VEGFA	NA	INTRO	Bevacizumab is a monoclonal antibody that targets vascular endothelial growth factor (VEGFA).
+0	toxicity	NA	NA	INTRO	Although this drug has broad anti-tumour properties, there are no validated biomarkers to predict which subgroup of patients will respond or experience toxicity.
+0	NA	NA	NA	INTRO	The inability to enrich for the optimal population has been a barrier to maximum success.
+0	carcinomas of the colon	NA	NA	INTRO	To date, bevacizumab has demonstrated clinically meaningful activity in colon cancer, lung cancer, renal-cell cancer, cervical cancer and glioblastoma multiforme.
+0	breast cancer	NA	NA	INTRO	Bevacizumab also gained accelerated US-FDA approval for metastatic breast cancer based, in part, on the results of ECOG-2100, a randomised phase III trial of paclitaxel with or without bevacizumab.
+0	toxicity	NA	NA	INTRO	On the basis of less absolute differences in progression-free survival in later trials (AVADO, RIBBON-I, and RIBBON-II), no overall survival benefit, and due to the unique and unpredictable toxicity profile, bevacizumab's US-FDA approval for breast cancer was rescinded.
+0	breast cancer	NA	NA	INTRO	Despite this, bevacizumab has remained an approved treatment for breast cancer in the European Union.
+0	NA	NA	NA	INTRO	The early success of bevacizumab in the metastatic setting led to the development of ECOG-5103, which tested a standard backbone of chemotherapy with concurrent or concurrent plus sequential bevacizumab in the adjuvant setting with results pending maturation of efficacy data.
+0	breast cancer	NA	NA	INTRO	Two other phase-III adjuvant breast cancer trials, BETH and BEATRICE, have been negative, highlighting the limitations of bevacizumab for breast cancer in the absence of a successful efficacy marker
+0	cancers	NA	NA	INTRO	A major limitation of bevacizumab across all cancer types has been the inability to predict a priori which patients are most likely to obtain substantial benefit or toxicity from treatment.
+0	toxicity	NA	NA	INTRO	Validated biomarkers to predict either the efficacy or toxicity of bevacizumab are lacking, although germline DNA variants have been previously nominated.
+0	hypertension	NA	NA	INTRO	Hypertension is the most common, serious bevacizumab-induced toxicity, which can occasionally be life threatening.
+0	hypertension	NA	NA	INTRO	Herein we have identified and validated a genetic biomarker for bevacizumab-induced hypertension in the adjuvant breast cancer trial, ECOG-5103 (whose efficacy data were not yet available for this analysis) and the metastatic breast cancer trial, ECOG-2100
+0	breast cancer	NA	NA	METHODS	ECOG-5103 (Figure 1) was a phase-III adjuvant breast cancer trial that randomised 4994 patients to doxorubicin and cyclophosphamide for four cycles, followed by 12 weeks (four cycles) of weekly paclitaxel (arm A) or to the same chemotherapy with either concurrent bevacizumab (arm B) or concurrent plus sequential bevacizumab every 3 weeks (10 additional cycles) (arm C).
+0	NA	NA	NA	METHODS	Germline DNA was available from 4033 patients (Figure 2).
+0	hypertension	NA	NA	METHODS	For those patients that received bevacizumab (arms B and C), analyses were performed to identify SNP genotypes that were associated with hypertension.
+0	NA	NA	NA	METHODS	This correlative study was approved by the Indiana University Institutional Review Board
+0	NA	NA	NA	METHODS	Owing to the availability of germline DNA, genotyping was performed at two independent time points in non-overlapping study subsets.
+0	NA	NA	NA	METHODS	DNA from an initial 2209 patients was genotyped by Illumina Genotyping Services (San Diego, CA, USA) using the HumanOmni1-Quad (>1 million SNPs) array.
+0	NA	NA	NA	METHODS	An additional 1222 patients were also genotyped by Illumina Genotyping Services using the Human OmniExpress (741 000 SNPs) array.
+0	NA	NA	NA	METHODS	Both sample sets used the Illumina BeadChip microarray platform for genotyping and the Illumina GenomeStudio software for initial genotyping calls.
+0	NA	NA	NA	METHODS	Of note, SNPs on the OmniExpress were a subset of those on the HumanOmni1-Quad.
+0	NA	NA	NA	METHODS	Those SNPs not on the HumanOmni1-Quad were obtained through imputation in the second sample.
+0	NA	NA	NA	METHODS	Genotypes from both sample sets were imputed to the level of the 1000 genome project.
+0	NA	NA	NA	METHODS	Imputation was performed with the 1000 Genomes Phase-I-integrated variant set as reference using the IMPUTE2 software, and all SNPs were mapped to the human genome version GRCh37.3.
+0	NA	NA	NA	METHODS	Prior to imputation, SNPs with missing rate >5%, Hardy-Weinberg Equilibrium (HWE) P-values <0.0001, or minor allele frequency (MAF) <3% were excluded.
+0	NA	NA	NA	METHODS	A principal component analysis was performed using Eigenstrat and data from 11 HapMap phase-III populations to identify clusters using the first two eigenvectors computed using all SNPs (Supplementary Figure S1).
+0	NA	NA	NA	METHODS	Only samples clustering with the European American reference set were retained
+0	NA	NA	NA	METHODS	Cases: Blood pressure values were collected as part of standard clinical assessment prior to administration of therapy throughout the conduct of the trial.
+0	NA	NA	NA	METHODS	The goal for phenotype development was to combine clinically relevant and established parameters with the highest severity that would still allow reasonable statistical power to detect an association (Supplementary Information 1).
+0	hypertension	NA	NA	METHODS	Consistent with the definition for stage-II hypertension developed by the Joint National Committee (JNC 7) (http://www.nhlbi.nih.gov/guidelines/hypertension/express.pdf), first occurrence of a systolic blood pressure (SBP) >160 mm Hg was selected to define a case.
+0	NA	NA	NA	METHODS	Of note, a baseline SBP>160 mm Hg was also an exclusion criterion for eligibility to enrolment in the parent trial.
+0	hypertension	NA	NA	METHODS	In addition, another analysis classified those individuals with grade 3-5 hypertension as cases, determined by the common toxicity criteria (CTC) version 3.0 (CTC v. 3.0)
+0	NA	NA	NA	METHODS	Controls: Controls included all patients in arm B and arm C who met all the following criteria: (1).
+0	NA	NA	NA	METHODS	SBP<140 mm Hg at baseline without use of an anti-hypertensive; (2) maintained a median SBP<140 mm Hg throughout therapy; (3) did not meet any of the definitions for cases as outlined above; and (4) received all prescribed doses of bevacizumab with follow-up at least 3 months beyond the last dose.
+0	toxicity	NA	NA	METHODS	Specifically, patients that had bevacizumab held or modified for other reasons (i.e., disease progression or other toxicity) were excluded from control designation.
+0	NA	NA	NA	METHODS	See consort diagram; Figure 2
+0	NA	NA	NA	METHODS	Two hypotheses were evaluated in the statistical analyses.
+0	hypertension	NA	NA	METHODS	First, a standard case-control association (binary) analysis was performed to identify SNPs associated with the presence or absence of hypertension.
+0	NA	NA	NA	METHODS	Second, an analysis was performed to identify SNPs associated with the cumulative bevacizumab dose before becoming a case (i.e., cumulative dose model).
+0	NA	NA	NA	METHODS	The cumulative dose model was implemented with a Cox proportional hazard model, in which the dose was computed as the full dose or censored.
+0	obese	NA	NA	METHODS	Age (<=50 vs>50) and obesity (body mass index (BMI) >30; yes/no) were considered as covariates in both analyses.
+0	NA	NA	NA	METHODS	The P-value threshold was set at P-value <0.05 for inclusion of covariates in the regression model
+0	NA	NA	NA	METHODS	SNPs available on the HumanOmni1-Quad array were used as the common basis for all statistical analysis.
+0	NA	NA	NA	METHODS	An additive model of SNP effect was used when testing all hypotheses.
+0	NA	NA	NA	METHODS	The case-control analysis was conducted using SNPTEST v2.4 (https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html).
+0	NA	NA	NA	METHODS	The cumulative dose model was conducted in R (www.r-project.org) using the coxph function.
+0	NA	NA	NA	METHODS	For all analyses, the P-value threshold for genome-wide significance was set at 5 x 10-8 to correct for multiple comparisons
+0	breast cancer	NA	NA	METHODS	ECOG-2100 was a phase-III breast cancer trial that randomised patients with metastatic breast cancer that had not previously received chemotherapy in the metastatic setting to either paclitaxel (arm B) or paclitaxel with bevacizumab (arm A); Figure 1.
+0	NA	NA	NA	METHODS	The results of ECOG-2100 have been previously reported.
+0	cancers	NA	NA	METHODS	367 patients had DNA available from formalin-fixed paraffin-embedded (FFPE) primary tumours
+0	NA	NA	NA	METHODS	Case and control designation from ECOG-2100: Only patients randomised to arm A with DNA available for genotyping were considered (n=185 subjects).
+0	hypertension	NA	NA	METHODS	Raw blood pressure values were not available for ECOG-2100; therefore, grade 3-5 hypertension as determined by CTC version 2.0 criteria was used (compared with version 3.0 for ECOG-5103) as the only phenotype definition.
+0	hypertension	NA	NA	METHODS	Grade 4 hypertension by CTC version 2.0 criteria was similar to version 3.0 (e.g., hypertensive crisis for both).
+0	hypertension	NA	NA	METHODS	Grade-3 hypertension for version 2.0 was defined as requiring therapy or more intensive therapy than previously, whereas for version 3.0 it was defined as requiring >1 drug or more intensive therapy than previously.
+0	hypertension	NA	NA	METHODS	Controls were those patients that did not have CTC version 2.0 grade 3-5 hypertension at any point throughout treatment
+0	cancers	NA	NA	METHODS	Germline DNA was not available from E2100, and thus DNA was extracted from 20-micron paraffin-embedded tissue sections from the primary tumour using the DNeasy Tissue kit (Qiagen, Valencia, CA, USA).
+1	NA	NA	rs6453204	METHODS	The SNP in SVC2, rs6453204, was genotyped in 185 subjects.
+0	NA	NA	NA	METHODS	Genotyping was performed after a pre-amplification procedure using a TaqMan SNP Genotyping Assay (C__30765975_10 (Life Technologies, Carlsbad, CA, USA)), which was performed on the ABI 7900 Fast Real Time PCR platform (Life Technologies).
+0	NA	NA	NA	METHODS	Allelic discrimination was determined during a post-amplification plate read by the TaqMan Genotyper software (Life Technologies).
+0	NA	NA	NA	METHODS	The quality of the SNP genotyping was assessed by confirming that the SNP did not violate HWE and had MAF similar to previously reported frequencies.
+0	NA	NA	NA	METHODS	The same analytic models used in the ECOG-5103 analyses were employed in the ECOG-2100 statistical analysis.
+0	NA	NA	NA	METHODS	Only age was considered as a covariate in the regression model as BMI information was not available.
+0	NA	NA	NA	METHODS	The P-value threshold for the SNP and covariate selection was 0.05
+0	hypertension	NA	NA	RESULTS	The percentage of patients who had a hypertensive event defined as SBP>160 mm Hg and CTC grade 3-5 hypertension were 10.4% and 9.5%, respectively.
+0	hypertension	NA	NA	RESULTS	The median first hypertensive event occurred at cycle #10 for the SBP>160 mm Hg phenotype and at cycle #11 for CTC grade 3-5 hypertension phenotype, respectively.
+0	hypertension	NA	NA	RESULTS	Race was significantly associated with hypertension.
+0	hypertension	NA	NA	RESULTS	African-Americans were 1.63-fold more likely to develop hypertension during treatment with bevacizumab as compared with individuals of other races (P=0.0039).
+0	NA	NA	NA	RESULTS	To obviate bias, the analysis sample was limited to individuals of European descent.
+0	obese	NA	NA	RESULTS	Age >50 years (P=4.3 x 10-7) and obesity (P=3.7 x 10-4) were correlated with an increased likelihood of hypertension.
+0	obese	NA	NA	RESULTS	Both age and obesity were included as covariates in analyses
+0	NA	NA	NA	RESULTS	The sample sizes and number of SNPs available for each phenotype are provided in Table 1.
+1	hypertension	SV2C	rs6453204	RESULTS	When using SBP>160 mm Hg as the hypertension criterion, the most significant association of a genetic variant with bevacizumab-induced hypertension was rs6453204, a SNP in the SV2C gene located on chromosome 5 with a MAF of 7%.
+0	NA	NA	NA	RESULTS	The association approached genome-wide significance in the binary model (P=6.0 x 10-8; OR=3.3) and met genome-wide significance in the cumulative dose model (P=4.7 x 10-8; HR=2.2); Figure 3A and B and Figure 4.
+0	NA	NA	NA	RESULTS	See Supplementary Information 2 for comprehensive association results.
+0	hypertension	NA	NA	RESULTS	No SNPs provided genome-wide evidence of association using both binary and cumulative dose model, in which cases were defined as those meeting grade 3/4 hypertension.
+1	NA	SV2C	rs6453204	RESULTS	The P-values for association with the SV2C SNP, rs6453204 were 6.4 x 10-5 (OR=2.0) and 3.0 x 10-4 (HR=2.2) using the binary model and the cumulative dose model, respectively
+1	NA	SV2C	NA	RESULTS	We then performed an independent validation of the SV2C SNP in the clinical trial ECOG-2100.
+0	hypertension	NA	NA	RESULTS	As previously reported, 14.8% of patients experienced CTC grade 3-4 hypertension in E2100.
+0	hypertension	NA	NA	RESULTS	The median first occurrence of CTC grade 3-4 hypertension in the subset of 185 patients who had genotyping data appeared at cycle #1.5 but ranged from cycle #1-29.
+1	hypertension	NA	rs6453204	RESULTS	We found a statistically significant association of rs6453204 with bevacizumab-induced grade 3-5 hypertension using the binary model (P=0.037; OR=2.4).
+0	NA	NA	NA	RESULTS	Similar results were obtained using the cumulative dose model, but did not reach statistical significance (P=0.091; HR=1.9); Table 2
+1	hypertension	SV2C	rs6453204	DISCUSS	This study revealed a compelling association between bevacizumab-induced hypertension and an SNP in SV2C (rs6453204) in two randomised phase III trials.
+0	NA	NA	NA	DISCUSS	Evidence of association was initially found in the clinical trial ECOG-5103 and further validated in ECOG-2100.
+0	hypertension	NA	NA	DISCUSS	This represents one of the first pharmacogenomic studies to uncover a predictive biomarker for hypertension using a genome-wide approach within a phase-III breast cancer trial and candidate validation in another phase III trial.
+0	breast cancer	NA	NA	DISCUSS	Although ECOG-5103 and ECOG-2100 were trials designed to test bevacizumab for breast cancer, it is highly likely that the toxicities and corresponding predictive biomarkers transcend tumour type or setting, as the tumour has little bearing on drug-induced toxicity.
+1	NA	NA	rs6453204	DISCUSS	The association with rs6453204 in ECOG-5103 was found using both a binary and cumulative dose model.
+0	NA	NA	NA	DISCUSS	The former simply classified each patient as a case or control, whereas the later model accounted for the total drug exposure and was a successful methodology previously employed by.
+0	NA	NA	NA	DISCUSS	Thus, we have observed consistent results using both a dichotomous and a quantitative phenotype
+1	NA	Synaptic vesicle protein 2	NA	DISCUSS	Synaptic vesicle protein 2 (SV2) is encoded by a small gene family with three established isoforms: SV2A, SV2B, and SV2C.
+1	NA	SV2C	rs6453204	DISCUSS	The SV2C gene encodes for the SV2C protein, and rs6453204 is an intronic SNP.
+1	Parkinson's disease	SV2C	NA	DISCUSS	Recent studies have identified SNPs in SV2C, which are associated with a gene-smoking interaction on risk of Parkinson's disease and the response to atypical antipsychotics.
+1	venous thromboembolism	SV2C	NA	DISCUSS	In addition, an SNP close to SV2C has been reported as new candidate loci for impact on venous thromboembolism and coagulation pathways.
+1	NA	SV2C	NA	DISCUSS	These studies suggest that SV2C may have various biological and pharmacological implications.
+0	NA	Synaptic vesicle protein 2	NA	DISCUSS	SV2 proteins also appear to be specific to both neurons and endocrine cells, and function to maintain pools of vesicles for calcium-induced exocytosis.
+1	NA	SV2C	NA	DISCUSS	Specifically relevant to this phenotype, SV2C has a role in release of catecholamines from adrenal chromaffin cells, which certainly might represent a potential mechanism for impact on blood pressure.
+0	adrenocortical	NA	NA	DISCUSS	Production of the sodium-retaining hormone aldosterone may be modulated through adrenocortical connections with the adrenal medulla.
+0	NA	NA	NA	DISCUSS	Additional functional work is needed to elucidate mechanism, but more importantly, to shed insight to novel therapeutics
+0	NA	NA	NA	DISCUSS	A strength of this study was the detailed review of the clinical data in ECOG-5103 and ECOG-2100.
+0	NA	NA	NA	DISCUSS	All of the patients in the discovery set from ECOG-5103 were part of the same clinical trial with rigorous attention to consistent treatment and collection of clinical data.
+0	NA	NA	NA	DISCUSS	Similarly, the validation cohort was also part of a clinical trial, ECOG-2100, that provided similar rigorous patient-to-patient consistency with regard to treatment protocol and collection of data.
+0	NA	NA	NA	DISCUSS	Unlike the evaluation of random patients who received bevacizumab, the use of patients from a clinical trial eliminates many innate confounders.
+0	NA	NA	NA	DISCUSS	Cases and controls were carefully adjudicated based on stringent phenotype criteria, and the companion genotyping data underwent substantial QC and filtering.
+0	hypertension	NA	NA	DISCUSS	The control samples were carefully evaluated and patients having any evidence of prior hypertension or who did not complete a substantial course of bevacizumab were removed from the analysis.
+0	NA	NA	NA	DISCUSS	We believe that this careful phenotypic review provided the best opportunity for identification of a true genetic association
+0	hypertension	NA	NA	DISCUSS	One of the challenges of detecting associations with drug-induced hypertension is the dynamic and multifactorial nature of hypertension and the variability in measurement.
+0	hypertension	NA	NA	DISCUSS	We chose several complementary approaches to define the phenotype of drug-induced hypertension.
+0	NA	NA	NA	DISCUSS	Each was selected because it provided additional insight.
+0	hypertension	NA	NA	DISCUSS	For the primary analysis, we selected stage II hypertension determined by the Joint National Committee (JNC-7) as a value (SBP>160 mm Hg) that had both clinical relevance and was sufficiently frequent in this population to allow for statistical power to detect an association.
+0	hypertension	NA	NA	DISCUSS	This was the same definition used to exclude patients from entry in the parent trial owing to uncontrolled baseline hypertension.
+0	NA	NA	NA	DISCUSS	We recognised there were inherent limitations to the use of a single blood pressure value obtained in an outpatient clinic.
+0	NA	NA	NA	DISCUSS	Nonetheless, for a pharmacogenomics study of this size, this represented the most objective, standardised measure readily available.
+0	NA	NA	NA	DISCUSS	Further, this represented the same data that are routinely used in the community setting to make decisions as to whether to add an anti-hypertensive or to stop the drug.
+0	hypertension	NA	NA	DISCUSS	The other phenotype, CTC grade 3-5 hypertension, was commonly collected, but was subjective and based on the threshold for an investigator to either add an anti-hypertensive or to consider the hypertensive event 'life threatening'.
+0	toxicity	NA	NA	DISCUSS	Specifically, many investigators were aware of this drug-specific toxicity based on their prior experience, and may have been tempted to treat with anti-hypertensive agents early to prevent problems later.
+0	NA	NA	NA	DISCUSS	Thus, although the threshold of a SBP >160 mm Hg may not represent the optimal value, we believe an absolute threshold was the proper approach for this phenotype
+0	hypertension	NA	NA	DISCUSS	Prior data have suggested that those patients who develop hypertension may fare better from an efficacy standpoint, although there are conflicting reports.
+0	cancers	NA	NA	DISCUSS	This type of analysis was complicated by the non-uniformity of the phenotype (as discussed above) and the heterogeneous benefit for bevacizumab across tumour types and settings.
+0	hypertension	NA	NA	DISCUSS	If indeed, those who get hypertension are those destined to benefit most, continuation of therapy despite toxicity is critical.
+0	toxicity	NA	NA	DISCUSS	Even if an association between efficacy and toxicity is not valid, however, optimal management of these patients remains an important goal.
+0	toxicity	NA	NA	DISCUSS	For these reasons, a biomarker that can predict who might be at risk for this toxicity might be highly valuable in the clinical setting.
+0	hypertension	NA	NA	DISCUSS	For those deemed to be at increased risk of significant hypertension, close monitoring with early intervention or use of prophylactic anti-hypertensive therapies could be considered.
+0	toxicity	NA	NA	DISCUSS	Additional information that can be gleaned from a genetic biomarker is the potential to understand the underlying biology of the toxicity.
+0	NA	NA	NA	DISCUSS	Fundamental biological insights can further lead to novel therapeutic development for treatment or prevention.
+0	hypertension	NA	NA	DISCUSS	If indeed there is a link between hypertension and effectiveness of the drug, biomarkers for toxicity may also serve as markers for efficacy.
+0	hypertension	NA	NA	DISCUSS	More broadly, an understanding of bevacizumab-induced hypertension might shed light on the pathophysiology and treatments for common disorders such as essential hypertension
+0	hypertension	NA	NA	DISCUSS	Prior studies have evaluated an association between candidate SNPs and bevacizumab-induced hypertension.
+0	hypertension	VEGFA	NA	DISCUSS	We previously identified an association between SNPs in VEGFA and protection from grade 3/4 hypertension A similar finding was demonstrated with sunitinib.
+0	hypertension	VEGFA	rs2010963	DISCUSS	In this study, we specifically probed the genotyped SNPs in VEGFA (rs2010963, rs1570360) that had previously been associated with hypertension induced by an anti-angiogenic agent, and none demonstrated a statistically significant association in E5103 regardless of phenotype.
+0	NA	NA	NA	DISCUSS	Thus, although these prior results were provocative, they could not be validated in this much larger clinical trial
+0	hypertension	NA	NA	DISCUSS	A weakness of this study is the limited, phenotypic information available from ECOG-2100; specifically only CTC version 2.0 grade 3/4 hypertension could be analysed.
+0	hypertension	NA	NA	DISCUSS	Although similar, it should be pointed out that the criterion for hypertension was slightly different between version 2.0 and version 3.0, the latter of which was used in ECOG-5103.
+1	NA	SV2C	NA	DISCUSS	Therefore, it is likely that the association with the SNP in SV2C may have been underestimated in the validation cohort owing to a suboptimal phenotype definition.
+0	hypertension	NA	NA	DISCUSS	In addition, it is possible that the characteristics and the performance status of patients in the metastatic setting (ECOG-2100) may not mirror those of the patients in the adjuvant setting (ECOG-5103), which might subsequently impact the hypertension phenotype.
+0	NA	NA	NA	DISCUSS	Unfortunately, germline DNA was not available in ECOG-2100, and FFPE tumour-derived DNA was used.
+1	hypertension	SV2C	NA	DISCUSS	Therefore, somatic mutations or loss of heterozygosity could have reduced the power to replicate the SNP in SV2C association with drug-induced hypertension.
+0	NA	NA	NA	DISCUSS	This concern was mitigated as there was no deviation from HWE, and the MAF was similar to what was expected in the general population.
+1	cancers	SV2C	NA	DISCUSS	We also examined data for SV2C in the Cancer Genome Atlas and found no evidence of recurrent mutation, loss of heterozygosity, nor recurrent copy-number aberrations.
+0	NA	NA	NA	DISCUSS	Another limitation was the insufficient number of cases and controls to identify markers for patients of African descent.
+0	toxicity	NA	NA	DISCUSS	Data from ECOG-5103 would support that African-Americans are more likely to experience this toxicity.
+0	toxicity	NA	NA	DISCUSS	Thus, work directed at identifying a marker for the group most likely to experience this toxicity is of utmost importance
+1	hypertension	SV2C	NA	DISCUSS	In summary, we have identified an SNP in SV2C that predicts bevacizumab-induced hypertension.
+0	NA	NA	NA	DISCUSS	Future studies testing early clinical intervention as well as elucidation of the functionality of this SNP are warranted and are ongoing.
+1	NA	SV2C	NA	DISCUSS	Also, evaluation of SV2C (as well as other candidates) as a marker for efficacy will be conducted in the E5103 trial, as efficacy data become available
+0	MLS	NA	NA	DISCUSS	The following authors have received research funds from Genentech/Roach: KDM, JG, CTD, MLS and ER; from Novatis and Amgen: JG, MLS and ER; and from Lilly, Celgene, Morphotek and Sanofi: MLS and ER.
+0	NA	NA	NA	DISCUSS	BPS is on the advisory board of Genentech (compensated).
+0	NA	NA	NA	DISCUSS	KDM has received honoraria from Genentech.
+0	NA	NA	NA	DISCUSS	JS has received consulting fees from Genentech.
+0	NA	NA	NA	DISCUSS	DAF serves on the scientific education board of the Coriell Institute and Quest Diagnostics and is an active consultant for Clinical Equilibrium Consulting LLC.
+0	NA	NA	NA	DISCUSS	The remaining authors declare no conflict of interest
+0	hypertension	NA	NA	FIG	Manhattan plot (left) and quantile-quantile plot (right) of genome-wide association results in E5103 under different models of hypertension.
+0	NA	NA	NA	FIG	X-axis indicates the chromosomal position of each SNP analysed; Y-axis denotes magnitude of the evidence for association, shown as -log10(P-value).
+0	NA	NA	NA	FIG	(A).
+0	NA	NA	NA	FIG	Binary model for systolic blood pressure >160 mm Hg.
+0	NA	NA	NA	FIG	(B).
+0	NA	NA	NA	FIG	Cumulative dose model for the systolic blood pressure >160 mm Hg
+0	hypertension	NA	NA	FIG	Association results in the SVC2 region for models of hypertension defined as systolic blood pressure>160 mm Hg.
+0	NA	NA	NA	FIG	Results for all genotyped and imputed SNPs that passed quality-control parameters are shown.
+0	NA	NA	NA	FIG	X-axis denotes position of the SNP in the region on chromosome 5; Y-axis denotes magnitude of the evidence for association, shown as -log10(P-value).
+0	NA	NA	NA	FIG	The most significantly associated SNP is denoted with a purple diamond.
+0	NA	NA	NA	FIG	The extent of linkage disequilibrium (as measured by r2) between each SNP and the most significantly associated SNP is indicated by the colour scale at top left.
+0	NA	NA	NA	FIG	Larger values of r2 indicate greater linkage disequilibrium with the most significant SNP.
+0	NA	NA	NA	FIG	(A) Binary model.
+0	NA	NA	NA	FIG	(B) Cumulative dose model

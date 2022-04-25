@@ -1,0 +1,181 @@
+0	lung cancer	NA	NA	ABSTRACT	While several lung cancer susceptibility loci have been identified, much of lung cancer heritability remains unexplained.
+0	lung cancer	NA	NA	ABSTRACT	Here, 14,803 cases and 12,262 controls of European descent were genotyped on the OncoArray and combined with existing data for an aggregated GWAS analysis of lung cancer on 29,266 patients and 56,450 controls.
+0	NA	NA	NA	ABSTRACT	We identified 18 susceptibility loci achieving genome wide significance, including 10 novel loci.
+0	lung cancer	NA	NA	ABSTRACT	The novel loci highlighted the striking heterogeneity in genetic susceptibility across lung cancer histological subtypes, with four loci associated with lung cancer overall and six with lung adenocarcinoma.
+1	NA	RNASET2	NA	ABSTRACT	Gene expression quantitative trait analysis (eQTL) in 1,425 normal lung tissues highlighted RNASET2, SECISBP2L and NRG1 as candidate genes.
+1	NA	CHRNA2	NA	ABSTRACT	Other loci include genes such as a cholinergic nicotinic receptor, CHRNA2, and the telomere-related genes, OFBC1 and RTEL1.
+0	lung cancer	NA	NA	ABSTRACT	Further exploration of the target genes will continue to provide new insights into the etiology of lung cancer
+0	cancers	NA	NA	INTRO	Lung cancer continues to be the leading cause of cancer mortality worldwide.
+0	lung cancer	NA	NA	INTRO	Although tobacco smoking is the main risk factor, the heritability of lung cancer has been estimated at 18%.
+1	lung cancer	NA	NA	INTRO	Genome-wide association studies (GWAS) have previously identified several lung cancer susceptibility loci including CHRNA3/5, TERT, HLA, BRCA2, CHEK2, but most of its heritability remains unexplained.
+0	lung cancer	NA	NA	INTRO	With the goal of conducting a comprehensive characterization of common lung cancer genetic susceptibility loci, we undertook additional genotyping of lung cancer cases and controls using the OncoArray genotyping platform, which queried 517,482 SNPs chosen for fine mapping of susceptibility to common cancers as well as for de novo discovery (Supplementary Table 1, and Online Methods).
+0	NA	NA	NA	INTRO	All participants gave an informed consent, and each study obtained local ethics committee approval.
+0	NA	NA	NA	INTRO	After quality control filters (Online Methods), a total of 14,803 cases and 12,262 controls of European ancestry were retained and underwent imputation techniques to infer additional genotypes for genetic variants included in the 1000 Genomes Project data (Online Methods).
+0	lung cancer	NA	NA	INTRO	Logistic regression was then used to assess the association between variants (n=10,439,017 SNPs) and lung cancer risk, as well as by predominant histological types and by smoking behavior (Online Methods).
+0	lung cancer	NA	NA	INTRO	Fixed-effects models (Online Methods) were used to combine the OncoArray results with previously published lung cancer GWAS, allowing for analysis of 29,266 patients and 56,450 controls of European descent (Table 1).
+0	NA	NA	NA	INTRO	There were no signs of genomic inflation overall or for any subtypes (Supplementary Figure 1) indicating little evidence for confounding by cryptic population structure (Online Methods).
+0	NA	NA	NA	INTRO	All findings with a P-value less than 1x10-5 are reported in Supplementary Table 2.
+0	lung cancer	NA	NA	INTRO	As shown in Figure 1, the genetic architecture of lung cancer varies markedly among histological subtypes, with striking differences between lung adenocarcinoma and squamous cell carcinoma.
+0	SCLC	NA	NA	INTRO	Manhattan plots for small cell carcinoma (SCLC), ever and never smoking are displayed in Supplementary Figure 2.
+0	squamous disease	NA	NA	INTRO	The array heritability estimates were comparable among histological subsets, but squamous cell carcinoma appeared to share more genetic architecture with small cell carcinoma (SCLC) than with adenocarcinoma (Supplementary Table 3)
+0	lung cancer	NA	NA	INTRO	Table 2 presents summary results of all loci with sentinel variants (defined as the variant with the lowest P-value at each locus) that reached genome-wide significance (P-value < 5x10-8) for lung cancer overall and by histological subtypes.
+0	NA	NA	NA	INTRO	Sentinel variants stratified by new and previous genotyping and additional statistical significance assessed based on the number of effective tests, Approximate Bayes Factors, and Bayesian False Discovery Probability are presented in Supplementary Tables 4 and 5, respectively.
+0	NA	NA	NA	INTRO	Repeat genotyping of 12% of the OncoArray genotyped samples confirmed the fidelity of the genotyping or imputation for the risk loci, and showed excellent concordance of imputation for SNPs with MAF>0.05 (Online Methods, Supplementary note).
+0	NA	NA	NA	INTRO	Among the 18 loci that reached GWAS significance, 10 had not reached significance in a genome-wide scan (Figure 1).
+0	lung cancer	NA	NA	INTRO	Of these, four novel loci were associated with lung cancer overall, and six with adenocarcinoma
+0	lung cancer	NA	NA	INTRO	To decipher the association between these 18 loci and lung cancer risk, we further investigated their association with gene expression level in normal lung tissues (n=1,425) (Supplementary Table 6, Supplementary Figure 3), genomic annotations (Supplementary Table 7), smoking propensity (cigarettes smoked per day (n=91,046) and Fagerstrom Test for Nicotine Dependence metrics (n=17,074)) (Table 2).
+0	lung cancer	NA	NA	INTRO	Previous studies have shown shared risk for lung cancer and COPD through inflammation and ROS pathways; therefore, we also assessed the association between sentinel SNPs and reduced lung capacity through spirometry measurements (forced expiratory volume in 1 second [FEV1], forced vital capacity [FVC], n =30,199) (Table 2 and Online Methods)
+0	lung cancer	NA	NA	INTRO	Variants at 4 novel loci (1p31.1, 6q27, 8p21, 15q21.1) were associated with lung cancer risk overall, with little evidence for heterogeneity among subtypes (Supplementary Figure 4).
+0	NA	NA	rs71658797	INTRO	The 1p31.1 locus, recently identified in a pathway-based analysis of the TRICL data, represented by rs71658797 (Odds Ratio [OR]=1.14, 95% Confidence Interval [CI] 1.09-1.18, P-value=3.25 x 10-11), is located near FUBP1/DNAJB4 (Supplementary Figure 4).
+1	lung cancer	NA	rs6920364	INTRO	At 6q27, rs6920364 was associated with lung cancer risk with an OR of 1.07 (95% CI 1.04-1.09, P-value=2.9x10-8) with little heterogeneity found by smoking status (Supplementary Figure 4).
+0	NA	RNASET2	NA	INTRO	This locus is predicted to regulate RNASET2 (Supplementary Figure 5, Supplementary Table 7).
+1	lung cancer	RNASET2	rs6920364	INTRO	We identified rs6920364 as a lung cis-eQTL for RNASET2, an extracellular ribonuclease, in all five cohorts tested (Supplementary Table 6), with increased lung cancer risk correlating with increased RNASET2 expression (Figure 2).
+1	Crohn's disease	NA	rs6920364	INTRO	Variants correlated with rs6920364 (r2>0.88) have been noted in GWAS of Crohn's disease and inflammatory bowel disease
+0	lung cancer	NA	NA	INTRO	The 8p21 locus has been suggested as a lung cancer susceptibility locus by pathway analysis and now confirmed at GWAS significance level.
+1	lung cancer	NA	rs11780471	INTRO	It is a complex locus represented by sentinel variant rs11780471 associated with lung cancer (OR=0.87, 95% CI 0.83-0.91, P-value=1.69x10-8) (Supplementary Figure 4), but this region contained additional uncorrelated variants (pairwise r2< 0.10) associated with lung cancer (Supplementary Table 8).
+0	NA	NA	NA	INTRO	Multivariate analysis was consistent with multiple susceptibility alleles at this locus (Supplementary Table 8).
+1	lung cancer	CHRNA2	NA	INTRO	In contrast to lung tissue (Figure 3A, Supplementary Table 6, Supplementary Figure 3), we noted that the alleles associated with lung cancer tended to be associated with cerebellum expression of CHRNA2, a member of the cholinergic nicotinic receptor (Figure 3B).
+1	NA	CHRNA2	rs11780471	INTRO	The CHRNA2 rs11780471 cis-eQTL effect in the brain was limited to the cerebellum (Figure 3C), a region not traditionally linked with addictive behavior, but where an emerging role is suggested.
+1	NA	NA	rs11780471	INTRO	We therefore investigated rs11780471 in the context of smoking behavior (Supplementary Methods).
+1	NA	CHRNA5	rs55781567	INTRO	Unlike the well-described 15q25.1 (rs55781567) CHRNA5 locus (Table 2), rs11780471 was not associated with number of cigarettes smoked per day or the FTND metrics (Figure 3D).
+1	lung cancer	NA	rs11780471	INTRO	Nevertheless, lung cancer risk allele carriers of rs11780471 tended to be smokers and initiated smoking at earlier ages (Figure 3D), implying that this variant's association with lung cancer could potentially be mediated via influencing aspects of smoking behavior.
+1	metabolic disorder	EPHX2	NA	INTRO	Another potentially relevant gene in this region is EPHX2, a xenobiotic metabolism gene.
+1	NA	EPHX2	NA	INTRO	Although the sentinel variant is not an eQTL for EPHX2 in lung tissues, other associated variants in the region are (e.g.
+0	lung cancer	NA	rs146729428	INTRO	rs146729428, p-value of 1.77x10-7 (Supplementary Table 2) and 5 x 10-4 for lung cancer risk and eQTL, respectively).
+1	lung cancer	EPHX2	NA	INTRO	A potential synergistic role of both EPHX2 and CHRNA2 on lung cancer etiology cannot be excluded
+1	lung cancer	NA	rs66759488	INTRO	The genetic locus at 15q21 (rs66759488) was shown to be associated with lung cancer (OR=1.07, 95% CI 1.04-1.10, p=2.83x10-8) overall and across lung cancer histologies (Supplementary Figure 4).
+1	NA	SEMA6D	rs66759488	INTRO	Genomic annotation suggests that genetic variants correlated with rs66759488 may influence the SEMA6D gene (Supplementary Table 7), but there was no clear eQTL effect (Supplementary Table 6), and this variant did not appear to have a major influence on smoking propensity or lung function (Table 2)
+0	lung cancer	NA	NA	INTRO	For specific lung cancer histology subtypes, we identified 6 novel loci associated with lung adenocarcinoma (15q21, 8p12, 10q24, 20q13.33, 11q23.3 and 9p21.3) (Table 2).
+1	NA	SECISBP2L	rs77468143	INTRO	The locus at 15q21 (rs77468143, OR=0.86, 95% CI 0.82-0.89, p=1.15x10-16) is predicted to target SECISBP2L (Supplementary Figure 5), and expression analysis indicated rs77468143 to be a cis-eQTL for SECISBP2L in lung tissue in all eQTL cohorts tested (Supplementary Table 6).
+1	lung cancer	SECISBP2L	NA	INTRO	The genetic risk allele appears to correlate with decreased expression levels of SECISBP2L (Figure 2, Supplementary Figure 5), an observation that is consistent with SECISBP2L being down regulated in lung cancers.
+1	lung inflammation	NA	rs77468143	INTRO	rs77468143 was nominally associated with lung function (Table 2), potentially implicating inflammation of lung as part of the mechanism at this locus
+0	lung adenocarcinomas	NRG1	rs4236709	INTRO	At 8p12, expression analysis indicated that the alleles associated with lung adenocarcinoma (represented by the sentinel variant rs4236709 (Table 2)), also appear to be a lung cis-eQTL for the NRG1 gene (Supplementary Table 6, Supplementary Figure 5).
+0	NA	NA	NA	INTRO	This region also contains putative regulatory regions (Supplementary Figure 5).
+0	lung adenocarcinomas	NRG1	NA	INTRO	Somatic translocations of NRG1 are infrequently observed in lung adenocarcinomas.
+0	lung cancer	NRG1	rs4236709	INTRO	While somatic translocations at 8p12 generally take place in never smokers and are linked with ectopic activation of NRG1, rs4236709 was associated with lung cancer in both ever and never smokers (Supplementary Figure 4) and its genetic risk correlated with decreased NRG1 expression (Figure 2).
+1	lung adenocarcinomas	ROS1	rs9387479	INTRO	Interestingly, 6q22.1 variants located near ROS1, another gene somatically translocated in lung adenocarcinoma and for which nearby germline variants were associated with never smoking lung adenocarcinoma in Asian women, were associated with lung adenocarcinoma at borderline genome wide significance (rs9387479; OR=0.92, 95% CI 0.89-0.95, p=6.57x10-8) (Supplementary Table 2)
+1	lung adenocarcinomas	OBFC1	rs7902587	INTRO	Three of the sentinel variants associated with lung adenocarcinoma are located near genes related to telomere regulation; rs7902587 (10q24) and rs41309931 (20q13.33) near OBFC1 and RTEL1, respectively, and rs2853677 near TERT as previously noted.
+0	lung adenocarcinomas	NA	NA	INTRO	The variants at 10q24 associated with lung adenocarcinoma also appear to be associated with telomere length (Supplementary Figure 6).
+0	glioma	NA	NA	INTRO	By contrast, and consistent with observations with 20q13.33 variants associated with glioma, the variants associated with telomere length at 20q13.33 were not necessarily those associated with lung adenocarcinoma (Supplementary Figure 6).
+0	glioma	NA	NA	INTRO	Nevertheless, more generally the variants associated by GWAS with longer telomere length appear linked with risk of lung adenocarcinoma and glioma, a finding consistent with our expanded analysis here (Supplementary Figure 6)
+0	NA	NA	NA	INTRO	We additionally identified a complex locus at 11q23.3.
+0	lung adenocarcinomas	NA	rs1056562	INTRO	The sentinel variant rs1056562 (OR=1.11, 95% CI 1.07-1.14, p=2.7x10-10) is more prominently associated with lung adenocarcinoma (Supplementary Figure 4).
+0	NA	AMICA1	rs1056562	INTRO	rs1056562 was correlated with expression of two genes at this locus, AMICA1 and MPZL3 (Supplementary Table 6).
+0	lung adenocarcinomas	AMICA1	NA	INTRO	However, there did not appear to be a consistent relationship between the alleles related with AMICA1 and MPZL3 gene expression and those with lung adenocarcinoma (Figure 2, Supplementary Table 9), suggesting that expression of these genes alone is unlikely to mediate this association
+0	lung adenocarcinomas	NA	rs885518	INTRO	At 9p21.3 we identified rs885518 that appeared to be associated with lung adenocarcinoma (OR=1.17, 95% CI 1.11-1.23, p=6.8x10-10).
+0	cancers	NA	NA	INTRO	9p21.3 is a region containing CDNK2A and variants associated with multiple cancer types, including lung cancer.
+0	squamous disease	NA	rs885518	INTRO	Nevertheless, rs885518 is located approximately 200kb centromeric the previously described variants (Supplementary Figure 4) and shows little evidence for LD (all pairwise r2< 0.01) with rs1333040, a variant previously associated with lung squamous cell carcinoma and rs62560775, another variant suggested to be associated with lung adenocarcinoma that we confirm to genome significance here.
+0	lung cancer	NA	NA	INTRO	Intriguingly, these variants appear to confer predominant associations with different lung cancer histologies suggesting that they are independent associations (Supplementary Figure 7)
+1	lung cancer	CHRNA5	NA	INTRO	Aside from the clear smoking-related effects on lung cancer risk through the CHRNA5 and CYP2A6 regions and association with CHRNA2 noted above, the rest of variants we have identified do not appear to clearly influence smoking behaviors (Table 2), implying that these associations are likely mediated by other mechanisms.
+0	lung cancer	NA	NA	INTRO	Nevertheless, there is shared genetic architecture between smoking behavior and lung cancer risk, consistent with the notion that genetic variants do influence lung cancer risk also through behavioral mechanisms (Supplementary Figure 8)
+0	cancers	NA	NA	INTRO	In conclusion, the genetic susceptibility alleles we describe here explain approximately 12.3% of the familial relative risk previously reported in family cancer databases, out of which 3.5% was accounted for by the novel loci.
+0	lung cancer	NA	NA	INTRO	Our findings emphasize striking heterogeneity across histological subtypes of lung cancer.
+0	lung cancer	NA	NA	INTRO	We expect that further exploration of the related target genes of these susceptibility loci, as well as validation and identification of new loci, will continue to provide insights into the etiology of lung cancer
+0	NA	LC3	NA	METHODS	This work is conducted based on the collaboration of Transdisciplinary Research of Cancer in Lung of the International Lung Cancer Consortium (TRICL-ILCCO) and the Lung Cancer Cohort Consortium (LC3).
+0	NA	NA	NA	METHODS	The participating studies are individually described in the Supplementary Note
+0	NA	NA	NA	METHODS	Genotyping was completed at the Center for Inherited Disease Research (CIDR), the Beijing Genome Institute, the HelmholtzCenter Munich (HMGU), Copenhagen University Hospital, and the University of Cambridge.
+0	NA	NA	NA	METHODS	Quality control steps follow the approach described previously for the OncoArray (Supplementary Note)
+0	NA	NA	NA	METHODS	After removing the 1,193 expected duplicates, QC procedures for the 43,398 individuals are summarized in Supplementary Note Figure 1.
+0	NA	NA	NA	METHODS	Standard quality control procedures (detailed in the Supplementary Note) were used to exclude underperforming individuals (number of DNAs=1,708) and genotyping assays (judged by success rate, genotype distributions deviated from that expected by Hardy Weinberg equilibrium, number of variants=16,149).
+0	NA	NA	NA	METHODS	After filtering, there were 517,482 SNPs available for analysis
+0	NA	NA	NA	METHODS	Identity by Descent (IBD) was calculated between each pair of samples in the data using PLINK to detect unexpected duplicates and relatedness.
+0	NA	NA	NA	METHODS	Details are described in Supplementary Note.
+0	NA	NA	NA	METHODS	340 unexpected duplicated samples (proportion IBD>0.95) and 940 individuals were removed as related samples with proportion IBD between 0.45 and 0.95.
+0	NA	NA	NA	METHODS	Of these, 721 of them were expected first degree relatives.
+0	NA	NA	NA	METHODS	In total, 0.56% of the total samples were removed as unexpected duplicates or relatives in the QC analysis.
+0	NA	NA	NA	METHODS	We additionally considered the potential that more distant familial relationships could have impacted the results.
+0	NA	NA	NA	METHODS	However, further restriction to proportion IBD > 0.2 identified 139 second degree relatives and excluding these had minimal impact on the association results (Supplementary Note Table 1)
+0	NA	NA	NA	METHODS	Complete genotype data for X chromosomes were used to verify reported sex by using PLINK sex inference and a support vector machine procedure resulting in 306 non-concordant samples being removed (Supplementary Note)
+0	lung cancer	NA	NA	METHODS	We used the program FastPop (http://sourceforge.net/projects/fastpop/) was used to identify 5,406 individuals of non-European ancestry (Supplementary Note) resulting in a final association analysis including 14,803 lung cancer cases and 12,262 controls
+0	NA	NA	NA	METHODS	We confirmed the fidelity genotyping (directly and imputed) of the OncoArray platform by considering concordance of these genotypes relative to genotypes obtained from analogous genotyping platform (Supplementary Note)
+0	NA	NA	NA	METHODS	A detailed description of the imputation procedures used by the OncoArray consortium and in this Lung Oncoarray project, has been described previously.
+0	NA	NA	NA	METHODS	Briefly, the reference Dataset was the 1000 Genomes Project (GP) Phase 3 (Haplotype release date October 2014).
+0	NA	NA	NA	METHODS	The forward alignment of SNPs genotyped on the Oncoarray was confirmed by blasting the sequences used for defining SNPs against the 1000 Genomes.
+0	NA	NA	NA	METHODS	Any ambiguous SNPs were subjected to a frequency comparison to 1000 Genomes variants.
+0	NA	NA	NA	METHODS	Allele frequencies were calculated from a large collection of control samples from Europeans (from 108,000 samples) and Asians (11,000 samples).
+0	NA	NA	NA	METHODS	A difference statistic is calculated by the formula: ( p1-p2 - 0.01)2/((p1+p2)(2-p1-p2)) where p1 and p2 are the frequencies our dataset and in the 1000 genomes respectively.
+0	NA	NA	NA	METHODS	A cutoff of 0.008 in Europeans and 0.012 in Asians is needed to pass.
+0	NA	NA	NA	METHODS	SNPs where the frequency would match if the alleles were flipped were excluded from imputation, but not from the association analyses.
+0	NA	NA	NA	METHODS	AT/GC SNPs were not present in previously genotyped lower density arrays.
+0	NA	NA	NA	METHODS	Because all imputation was performed to the same standard all SNPs had the same orientation at the time of imputation.
+0	NA	NA	NA	METHODS	The OncoArray whole genome data were imputed in a two-stage procedure using SHAPEIT to derive phased genotypes, and IMPUTEv2 to perform imputation of the phased data.
+0	NA	NA	NA	METHODS	We included for imputation only the more common variant if more than one variant yielded a match at the same position.
+0	NA	NA	NA	METHODS	The detailed parameter settings are in the Supplementary Note
+0	NA	NA	NA	METHODS	FlashPCA was run for principal component analysis (PCA) to infer genetic ancestry by genotype.
+0	NA	NA	NA	METHODS	The regression model assumed an additive genetic model and included the first three eigenvalues from FlashPCA as covariates.
+0	NA	NA	NA	METHODS	For imputed data of smaller sample size, which was enrolled in our analysis later, we changed the method score to EM algorithm to accommodate smaller sample size
+0	lung cancer	NA	NA	METHODS	We combined imputed genotypes from 14,803 cases and 12,262 controls from the OncoArray series with 14,436 cases and 44,188 controls samples undertaken by the previous lung cancer GWAS, including studies of IARC, MDACC, SLRI, ICR, Harvard, NCI, Germany and deCODE as described previously, and we ensured that there were no overlap between the ATBC, EAGLE and CARET studies included in both the previous GWAS and current OncoArray dataset by comparing the identity tags (IDs) of all study participants
+0	NA	NA	NA	METHODS	In addition to lung cancer, analyses by histological strata (adenocarcinoma, squamous cell carcinoma, small cell carcinoma (SCLC) and smoking status (Ever/Never) was assessed where data were available.
+0	NA	NA	NA	METHODS	Results from analyses defined by Ever and Never smoking strata did not identify any novel variants
+0	NA	NA	NA	METHODS	We conducted the fixed effects meta-analysis with the inverse variance weighting and random effects meta-analysis from the DerSimonian-Laird method.
+0	NA	NA	NA	METHODS	All meta-analysis and calculations were performed using SAS version 9.4 (SAS Institute Inc., Cary, NC, USA).
+0	NA	NA	NA	METHODS	As the same referent panel was used for all studies, all SNPs showed the same forward alignment profiles.
+1	NA	CHEK2	rs17879961	METHODS	We excluded poorly imputed SNPs defined by imputation quality R2 < 0.3 or Info < 0.4 for each meta-analysis component and SNPs with a Minor allele frequency (MAF) >0.01 (except for CHEK2 rs17879961 and BRCA2 rs11571833 which we have validated extensively previously.
+0	NA	NA	NA	METHODS	We generated the index of heterogeneity(I2) and P-value of Cochran's Q statistic to assess heterogeneity in meta-analyses and considered only variants with little evidence for heterogeneity in effect between the studies (P-value of Cochran's Q statistic >0.05).
+0	NA	NA	NA	METHODS	SNPs were retained for study provided the average imputation R-square was at least 0.4.
+0	NA	NA	NA	METHODS	For SNPs in the 0.4-0.8 range that reached genome wide significance results were evaluated for consistency with neighboring SNPs to assure a reliable inference.
+0	NA	NA	NA	METHODS	Due to the smaller sample size and fewer sites contributing in the strata of Never Smokers and SCLC, we additionally required variants to be present in each of the meta-analysis components to be retained for these 2 stratified analyses
+0	lung cancer	NA	NA	METHODS	Conditional analysis was undertaken using SNPTEST where individual level data was available and GCTA packages for the previous lung cancer GWAS, with the LD estimates obtained from individuals of European origin for the later.
+0	NA	NA	NA	METHODS	Results were combined using fixed effects inverse variance weighted meta-analysis as described above
+0	NA	NA	NA	METHODS	Genome wide statistical significance was considered at P-values of 5 x 10-8 or lower, but we also presented significance per alternative criteria following Bonferroni correction for the number of effective tests or Bayesian False Discovery Probability (BFDP) described below
+0	NA	NA	NA	METHODS	To evaluate the effective number of tests we used the Li and Ji (2005) method which performs an initial step of filtering out SNPs with MAF<0.01 (imputation is less reliable for these and power is also limited for most odds ratios).
+0	NA	NA	NA	METHODS	Among the 4,751,148 markers with that MAF there were 1,182,363 effective tests
+0	NA	NA	NA	METHODS	The BFDP combines significance level, study power, and cost of false discovery and non-discovery into consideration.
+0	NA	NA	NA	METHODS	The detailed procedures of this method are described in Wakefield, 2007.
+0	NA	NA	NA	METHODS	Essentially, the approximate Bayes Factor (ABF) which BFDP uses reflects how much the prior odds change in the light of the observed data (i.e.
+0	NA	NA	NA	METHODS	relative probability of the observed estimates under the null versus alternative hypothesis).
+0	NA	NA	NA	METHODS	Given the nature of GWA studies, we applied a flat prior for all variants at prior probability of 10-6 and 10-8 to demonstrate the range of BFDP
+0	cancers	NA	NA	METHODS	We combined multiple sources of in silico functional annotation from public databases to help identify potential functional SNPs and target genes, based on previous observations that cancer susceptibility alleles are enriched in cis-regulatory elements and alter transcriptional activity.
+0	NA	NA	NA	METHODS	The details are described in the Supplementary Note
+0	NA	NA	NA	METHODS	To investigate the association between the sentinel variants and mRNA expression, we used three different eQTL datasets: (i) Microarray eQTL study: The lung tissues for eQTL analyses were from patients who underwent lung surgery at three academic sites, Laval University, University of British Columbia (UBC), and University of Groningen.
+0	NA	NA	NA	METHODS	Whole-genome gene expression profiling in the lung was performed on a custom Affymetrix array (GPL10379).
+0	NA	NA	NA	METHODS	Microarray pre-processing and quality controls were described previously.
+0	NA	NA	NA	METHODS	Genotyping was carried on the Illumina Human 1M-Duo BeadChip array.
+0	NA	NA	NA	METHODS	Genotypes and gene expression levels were available for 409, 287 and 342 patients at Laval, UBC, and Groningen, respectively.
+0	lung cancer	NA	NA	METHODS	(ii) NCI RNAseq eQTL study: RNA was extracted from lung tissue samples within the Environment and Genetics in Lung cancer Etiology (EAGLE) study.
+0	cancers	NA	NA	METHODS	"RNAseq was carried out on 90 lung tissue sampled from an area distant from the tumor (defined here as ""non-malignant lung tissue"") to minimize the potential for local cancer field effects."
+0	NA	NA	NA	METHODS	Transcriptome sequencing of 90 non-tumor samples was performed on the Illumina HiSeq2000/2500 platform with 100-bp paired-end reads.
+0	NA	NA	NA	METHODS	Genotyping was undertaken using Illumina bead arrays as described previously.
+0	NA	NA	NA	METHODS	(iii) GTEx: eQTL summary statistics based on RNAseq analysis were obtained for eQTL summary statistics from the GTEx data portal http://www.gtexportal.org/home/.
+0	NA	NA	NA	METHODS	This data included 278 individuals with data from lung tissue.
+0	NA	NA	NA	METHODS	Details of these three eQTL studies are included in the Supplementary Note
+0	NA	NA	NA	METHODS	The Microarray eQTL study was used as a discovery cohort.
+0	lung cancer	NA	NA	METHODS	Probe sets located within 1 Mb up and downstream of lung cancer SNPs were considered for cis-eQTL analyses.
+0	NA	NA	NA	METHODS	We have also explored a 5 Mb interval for lung cancer-associated SNPs not acting as lung eQTL within the 1 Mb window.
+0	NA	NA	NA	METHODS	The top eQTL association for that sentinel variant (or if contained multiple eQTL's with P-value<0.0005 each was considered), this particular eQTL was then chosen and assessed specifically in the independent NCI and GTEx RNAseq eQTL datasets.
+0	NA	NA	NA	METHODS	Statistical significance was defined the eQTL surpassed a locus specific Bonferroni correlation in the discovery cohort (P-value=0.05/number of probes at that locus) and subsequently there was evidence for replication of the eQTL effect with that variant and gene within the validation cohorts (NCI/GTEx RNAseq)
+0	lung cancer	NA	NA	METHODS	We assessed associations between sentinel genetic variant associated with lung cancer and other phenotypes, including smoking behavior Fagerstrom Test for Nicotine Dependence, lung function and telomere length.
+0	NA	NA	NA	METHODS	Additional details of these analyses for other phenotypes are described in Supplementary Note.
+0	NA	NA	NA	METHODS	Briefly
+0	lung cancer	NA	NA	METHODS	The effects of lung cancer sentinel variants and smoking behavior were assessed based on the meta-analysis across 3 studies: ever-smoking controls with intensity information from the Oncoarray studies (N=8,120), deCODE (N=40,882) and UK Biobank (N=42,044).
+0	chronic obstructive pulmonary disease	NA	NA	METHODS	The association with nicotine dependence was evaluated based on Fagerstrom Test for Nicotine Dependence (FTND) data collected in 4 studies (n=17,074): deCODE Genetics, Environment and Genetics in Lung Cancer Etiology (EAGLE), Collaborative Genetic Study of Nicotine Dependence (COGEND), and Study of Addiction: Genetics and Environment (SAGE) and among current smokers in one other study [Chronic Obstructive Pulmonary Disease Gene (COPDGene).
+0	NA	NA	NA	METHODS	The study-specific SNP association results were combined using fixed effects, inverse variance-weighted meta-analysis with genomic control applied.
+1	NA	NA	rs11780471	METHODS	Specifically, for the 8p21 variant rs11780471, we additionally considered other aspects of smoking behavior data from UKBiobank, deCODE and OncoArray controls.
+1	NA	NA	rs11780471	METHODS	We additionally included summary statistics for the rs11780471 variants from the TAG consortium (described in detail in the Supplementary Note)
+0	NA	NA	NA	METHODS	The lung function in silico look up was conducted in SpiroMeta consortium, which included 38,199 European ancestry individuals.
+0	NA	NA	NA	METHODS	The genome-wide associations between genetic variants and forced expiratory volume in 1 second (FEV1), forced vital capacity (FVC) and FEV1/FVC with 1000 Genomes Project (phase 1)-imputed genotypes in the GWAS with 38,199 individuals
+0	NA	NA	NA	METHODS	Sentinel genetic variants associated with telomere length were those described by Codd et al.
+0	NA	NA	NA	METHODS	Telomere lengths in 6,766 individuals from the UK Studies of Epidemiology and Risk Factors in Cancer Heredity (SEARCH) study controls using a real-time PCR methodology and genotyping as described in Pooley et al., 2013
+0	NA	NA	NA	METHODS	Genome-wide SNP heritability and correlation estimates were obtained using association summary statistics and linkage disequilibrium (LD) information through LD Score (LDSC) regression analyses.
+0	NA	NA	NA	METHODS	These analyses were restricted to HapMap3 SNPs with minor allele frequency above 5% in European populations of 1000 Genomes.
+0	NA	NA	NA	METHODS	Association summary statistics used for these analyses were based on lung cancer histological/smoking types (lung cancer overall, adenocarcinoma, squamous cell, small cell, ever smokers and never smokers) and smoking behavior parameters (cigarettes per day (CPD), smoking status (ever vs never smokers), and smoking cessation (current vs former smokers) from TRICL-ILCCO OncoArray consortium and Tobacco And Genetics consortium (https://www.med.unc.edu/pgc/downloads)
+0	NA	NA	NA	METHODS	The familial relative risk to a first degree relative accounted for by an individual variant (denoted as lambdai) is estimated based on relative risk per allele and allele frequency for that variant, using the method described in Hemminki et al, and Bahcall, under the assumption of log-additive effect.
+0	NA	NA	NA	METHODS	Assuming the effects of all susceptibility variants combined multiplicatively and not in linkage disequilibrium, the combined effect (lambdaT) can then be expressed as the product of all lambdai.
+0	NA	NA	NA	METHODS	The proportion of the familial relative risk attributable to the totality of the susceptibility variants can then be computed as log(lambdaT)/log(lambdaP).
+0	lung cancer	NA	NA	METHODS	For lung cancer, the lambdaP is approximately 2.0 based on the family cancer databases.
+0	NA	NA	NA	METHODS	The percentage reported is based on the 18 sentinel variants reported in Table 2.
+0	NA	NA	NA	METHODS	The multiple independent alleles in the same locus are not accounted for in this estimation
+0	lung cancer	NA	NA	FIG	(a) lung cancer risk overall, 29,266 cases and 56,450 controls (b) adenocarcinoma, 11,273 cases and 55,483 controls (c) squamous cell carcinoma 7,426 cases and 55,627 controls.
+0	NA	NA	NA	FIG	Each locus is annotated by their cytoband locations.
+0	NA	NA	NA	FIG	The X-axis represents chromosomal locations and the Y-axis represents -log10(P-value).
+0	NA	NA	NA	FIG	Black denotes the previously known loci and Red denotes the new loci identified in this analysi
+0	lung cancer	NA	NA	FIG	Each variant (dot) is colored relative the degree of linkage disequilibrium (r2) with sentinel lung cancer variant (marked) at that locus.
+0	lung cancer	NA	NA	FIG	Indented table, association between sentinel variant and lung cancer (or histological subtype) as well as the eQTL evidence in lung epithelium for the microarray (Laval, UBC, Groningen) and RNAseq (NCI and GTEx) cohorts.
+1	lung cancer	RNASET2	NA	FIG	At 6q27, 15q21.1 and 8p12, the variants associated with lung cancer also tend to be those that that are lung cis-eQTL's for RNASET2, SECISBP2L and NRG1, respectively.
+0	lung adenocarcinomas	AMICA1	rs1056562	FIG	At 11q23.3, while the sentinel variant (rs1056562) is a lung cis-eQTL for AMICA1, additional variants are AMICA1 lung cis-eQTL's, but not associated with lung adenocarcinoma and vice versa suggesting an alternate candidate gene may be responsible for this association or a pleiotropic effect at this locus
+1	lung cancer	CHRNA2	NA	FIG	Scatter plots of variants across the 8p21 locus and their associated with lung cancer (Y-axis) and CHRNA2 eQTL (X-axis) in lung epithelial tissues (panel a) and CHRNA2 eQTL in brain cerebellum tissues (panel b).
+1	NA	CHRNA2	rs11780471	FIG	Panel C. eQTL association between rs11780471 across tissues from different parts of the brain from GTEx and Braineac consortia noting CHRNA2 cis- eQTL effect appears restricted to the brain cerebellum.
+1	lung cancer	NA	rs11780471	FIG	Panel D. Association between rs11780471 and smoking phenotypes, noting evidence for association between smoking status (ever vs never) and age of initiation, with lung cancer risk allele carriers (G) more likely to be ever smokers and take up smoking earlier.
+0	NA	NA	NA	FIG	Fagerstrom Test for Nicotine Dependence (FTND) index, error bars indicate the 95% confidence intervals
+0	NA	NA	NA	TABLE	Demographic characteristics of the participating studies after quality control filter
+0	lung cancer	NA	NA	TABLE	The association between sentinel variants representing each lung cancer locus and lung cancer risk

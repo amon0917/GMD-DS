@@ -1,0 +1,172 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	Genome-wide association (GWA) studies have identified hundreds of common genetic variants associated with obesity and type 2 diabetes.
+0	NA	NA	NA	ABSTRACT	These studies have usually focused on additive association tests.
+0	NA	NA	NA	ABSTRACT	Identifying deviations from additivity may provide new biological insights and explain some of the missing heritability for these diseases
+0	obese	NA	NA	ABSTRACT	We performed a GWA study using a dominance deviation model for BMI, obesity (29,925 cases) and type 2 diabetes (4,040 cases) in 120,286 individuals of British ancestry from the UK Biobank study.
+0	NA	NA	NA	ABSTRACT	We also investigated whether single nucleotide polymorphisms previously shown to be associated with these traits showed any enrichment for departures from additivity
+0	NA	FTO	NA	ABSTRACT	Known obesity-associated variants in FTO showed strong evidence of deviation from additivity (pDOMDEV = 3 x 10-5) through a recessive effect of the allele associated with higher BMI.
+0	NA	NA	NA	ABSTRACT	The average BMI of individuals carrying zero, one or two BMI-raising alleles was 27.27 (95% CI 27.22, 27.31) kg/m2, 27.54 (95% CI 27.50, 27.58) kg/m2 and 28.07 (95% CI 28.00, 28.14) kg/m2, respectively.
+0	NA	NA	NA	ABSTRACT	A similar effect was observed in 105,643 individuals from the GIANT Consortium (pDOMDEV = 0.003; meta-analysis pDOMDEV = 1 x 10-7).
+1	diabetes	CDKAL1	NA	ABSTRACT	For type 2 diabetes, we detected a recessive effect (pDOMDEV = 5 x 10-4) at CDKAL1.
+0	NA	NA	NA	ABSTRACT	Relative to homozygous non-risk allele carriers, homozygous risk allele carriers had an OR of 1.48 (95% CI 1.32, 1.65), while the heterozygous group had an OR of 1.06 (95% CI 0.99, 1.14), a result consistent with that of a previous study.
+0	NA	NA	NA	ABSTRACT	We did not identify any novel associations at genome-wide significance
+1	obese	FTO	NA	ABSTRACT	Although we found no evidence of widespread non-additive genetic effects contributing to obesity and type 2 diabetes risk, we did find robust examples of recessive effects at the FTO and CDKAL1 loci
+0	NA	NA	NA	ABSTRACT	Summary statistics are available at www.t2diabetesgenes.org and by request (a.r.wood@exeter.ac.uk).
+0	NA	NA	NA	ABSTRACT	All underlying data are available on application from the UK Biobank
+0	NA	NA	NA	ABSTRACT	The online version of this article (doi:10.1007/s00125-016-3908-5) contains peer-reviewed but unedited supplementary material, which is available to authorised users
+0	Type 2 diabetes	NA	NA	INTRO	Genome-wide association (GWA) studies have identified hundreds of variants associated with obesity and type 2 diabetes.
+0	diabetes	NA	NA	INTRO	However, GWA studies of type 2 diabetes and obesity have usually focused on testing additive models.
+0	NA	NA	NA	INTRO	An additive model assumes that the disease risk of heterozygous individuals is exactly halfway between those of the two homozygous groups.
+0	NA	NA	NA	INTRO	Non-additive effects include dominant and recessive effects.
+0	NA	NA	NA	INTRO	These effects are common in monogenic disorders, but there are only a few examples in common diseases and traits.
+1	obese	CDKAL1	NA	INTRO	For obesity and type 2 diabetes, the strongest evidence of a non-additive effect is at the CDKAL1 locus, where a previous study demonstrated a recessive effect.
+0	NA	NA	NA	INTRO	The GIANT Consortium previously tested 32 BMI-associated variants for deviations from the additive model but, overall, found no evidence of deviation from additivity in 105,643 individuals
+0	diabetes	NA	NA	INTRO	There are at least three reasons why it is important to test for non-additive associations between common genetic variants and type 2 diabetes and obesity.
+0	NA	NA	NA	INTRO	First, a genome-wide approach that tests alternative models could identify new variants and candidate genes because the correct model may have more statistical power.
+0	NA	NA	NA	INTRO	Second, the correct model of inheritance could explain more of the variation in the trait, and hence account for some of the 'missing heritability'.
+0	NA	NA	NA	INTRO	Third, the presence of recessive or dominant effects may inform follow-up physiological studies in vivo and in humans: for example, by prioritising recruit-by-genotype efforts on heterozygous as well as homozygous individuals
+0	NA	NA	NA	INTRO	The UK Biobank provides an excellent opportunity to test for deviation from additivity in a single large cohort, as genome-wide genetic data and detailed phenotypic data are available in the initial release of data from over 120,000 British individuals.
+0	Type 2 diabetes	NA	NA	INTRO	In this study we used the UK Biobank to perform GWA tests for deviations from the additive model for BMI, obesity and type 2 diabetes.
+0	NA	NA	NA	INTRO	We also investigated whether evidence of deviation was present for previously published single nucleotide polymorphisms (SNPs) associated with these traits
+0	NA	NA	NA	METHODS	We used the data of 120,286 individuals of British descent from the first UK Biobank genetic data release.
+0	NA	NA	NA	METHODS	Basic characteristics are given in electronic supplementary material (ESM) Table 1.
+0	NA	NA	NA	METHODS	British descent was defined as individuals who both self-identified as white British and were confirmed as ancestrally white using principal component analyses.
+0	NA	NA	NA	METHODS	Related individuals (third degree or higher) were estimated by the central UK Biobank team and removed to provide the maximal unrelated set of individuals.
+0	NA	NA	NA	METHODS	Details of principal component analyses and kinship analyses can be found in the official UK Biobank genotyping document at http://biobank.ctsu.ox.ac.uk/crystal/docs/genotyping_qc.pdf (accessed 1 December 2015)
+0	NA	NA	NA	METHODS	We used imputed genotypes available from the UK Biobank for association analyses.
+0	NA	NA	NA	METHODS	Briefly, phasing of individuals was carried out by UK Biobank using SHAPEIT version 2; imputation was performed using IMPUTE version 2 and a combined 1000 Genomes/UK10K reference panel.
+0	NA	NA	NA	METHODS	Full details can be found in the official UK Biobank imputation document at http://biobank.ctsu.ox.ac.uk/crystal/docs/impute_ukb_v1.pdf (accessed 1 December 2015).
+0	NA	NA	NA	METHODS	Using the data of 120,286 individuals for analysis, variants were excluded if imputation quality was <0.9, Hardy-Weinberg equilibrium was p < 1 x 10-6, or minor allele frequency (MAF) was <0.5%.
+0	NA	NA	NA	METHODS	This quality control process resulted in 9,288,881 variants for association analysis
+0	NA	NA	NA	METHODS	We selected common genetic variants that were associated with BMI in the most recent meta-analysis from the GIANT Consortium.
+0	NA	NA	NA	METHODS	We limited the BMI SNPs to one per locus (defined as a 500 kb window) and those that were associated with BMI in the analysis of all European ancestry individuals.
+0	NA	NA	NA	METHODS	In total, 72 SNPs previously associated with BMI were analysed (ESM Table 2).
+0	obese	NA	NA	METHODS	This SNP list was used for both BMI and obesity analyses
+0	diabetes	NA	NA	METHODS	We selected common genetic variants previously associated with type 2 diabetes in the Diabetes Genetics Replication and Meta-Analysis (DIAGRAM) Consortium.
+0	diabetes	NA	NA	METHODS	Details of the 66 type 2 diabetes SNPs are provided in ESM Table 3
+0	NA	NA	NA	METHODS	The UK Biobank study identified 120,286 individuals who were both self-identified as white British and confirmed as ancestrally white using genetics and principal component analyses.
+0	NA	NA	NA	METHODS	The 120,286 individuals excluded third-degree or closer relatives.
+0	NA	NA	NA	METHODS	We performed an additional round of principal component analysis on these 120,286 UK Biobank participants.
+0	NA	NA	NA	METHODS	We selected 95,535 independent SNPs (pairwise r2 < 0.1) directly genotyped with an MAF >=2.5% and missingness <1.5% across all UK Biobank participants with genetic data available at the time of this study (n = 152,732), and with Hardy-Weinberg equilibrium p > 1 x 10-6 within the white British participants.
+0	NA	NA	NA	METHODS	Principal components were subsequently generated using fast principal component analysis of large-scale genome-wide data (flashpca)
+0	NA	NA	NA	METHODS	The UK Biobank provides two measures of BMI: one calculated from weight (kg)/height (m2) and one using electrical impedance.
+0	NA	NA	NA	METHODS	We excluded individuals with differences >4.56 SDs between impedance and normal BMI measures where both variables were available.
+0	NA	NA	NA	METHODS	If only one measure of BMI was available this was used.
+0	NA	NA	NA	METHODS	We corrected BMI by regressing age, sex, study centre and the first five within-British principal components, and taking residual values.
+0	NA	NA	NA	METHODS	We then inverse-normalised the residuals and used this phenotype for analysis.
+0	NA	NA	NA	METHODS	A total of 119,688 white British individuals with BMI and genetic data were available
+0	obese	NA	NA	METHODS	Individuals were classified as obese if their BMI was >30 kg/m2 (N = 29,925), and severely obese if their BMI was (>40 kg/m2) (N = 2,389).
+0	NA	NA	NA	METHODS	Controls for both were defined as those with a BMI <25 kg/m2
+0	diabetes	NA	NA	METHODS	Individuals were defined as having type 2 diabetes if they reported either type 2 diabetes or generic diabetes at the interview stage of the UK Biobank study.
+0	NA	insulin	NA	METHODS	Individuals were excluded if they reported insulin use within the first year of diagnosis.
+0	insulin-treated diabetes	NA	NA	METHODS	Individuals reportedly diagnosed under the age of 35 years or with no known age of diagnosis were excluded, to limit the numbers of individuals with slow-progressing autoimmune diabetes or monogenic forms.
+0	diabetes	insulin	NA	METHODS	Individuals diagnosed with diabetes within the last year of this study were also excluded as we were unable to determine whether they were using insulin within this time frame.
+0	NA	NA	NA	METHODS	A total of 4,040 cases and 113,735 controls within the white British subset of the UK Biobank with available genetic data were identified
+0	diabetes	NA	NA	METHODS	We adjusted for genotyping chip at run-time for the analyses of additive, dominance deviation, and recessive models for both BMI and type 2 diabetes.
+0	diabetes	NA	NA	METHODS	Association testing was performed through standard linear and logistic regression methods applied to BMI and type 2 diabetes, respectively.
+0	NA	NA	NA	METHODS	Logistic regression models included covariates at run-time.
+0	diabetes	NA	NA	METHODS	Type 2 diabetes was adjusted for age, sex and the first five within-British principal components
+0	NA	NA	NA	METHODS	If an allele operates through a purely additive model then statistical evidence of a dominant and/or recessive mechanism may still be detected given counts of the three genotype classes.
+0	NA	NA	NA	METHODS	Similarly, if an allele operates through a dominant or recessive mechanism an additive model may also detect it.
+0	NA	NA	NA	METHODS	To detect genuine differences between additive and non-additive effects, we performed a regression analysis against our traits of interest with a term representing the additive model for genotypes (coded 0, 1 and 2 for the homozygote, heterozygous and alternate homozygote groups, respectively) and a term representing the heterozygous group (coded 0, 1 and 0).
+0	NA	NA	NA	METHODS	This test (known as the 'dominance deviation test') determines whether the average trait value carried by the heterozygous groups lies halfway between the two homozygote groups as expected under an additive model
+0	NA	NA	NA	METHODS	To determine a genome-wide significance threshold for genotypes available in the UK Biobank we first estimated the number of independent variants from those imputed with an imputation quality >=0.4 and a minor allele count >=5 within the 120,000 British UK Biobank individuals.
+0	NA	NA	NA	METHODS	We took a conservative pairwise r2 threshold of 0.9 and this resulted in 15,005,727 variants estimated as independent.
+0	NA	NA	NA	METHODS	A Bonferroni correction of this number resulted in a GWA p value threshold of 3 x 10-9
+0	diabetes	NA	NA	METHODS	When investigating previously published SNPs we applied a Bonferroni correction based on the number of SNPs (72 and 66 for BMI/obesity and type 2 diabetes, respectively).
+0	diabetes	NA	NA	METHODS	This resulted in a p value threshold of 7 x 10-4 and 8 x 10-4 for BMI/obesity status and type 2 diabetes, respectively
+0	NA	NA	NA	METHODS	Power calculations for BMI association were performed using QUANTO based on sample size, variance explained and a significance level of 3 x 10-9.
+0	diabetes	NA	NA	METHODS	Calculations of equivalent power for type 2 diabetes were performed based on those of Yang et al
+0	NA	NA	NA	METHODS	This study was conducted using the UK Biobank resource.
+0	NA	NA	NA	METHODS	Details of patient and public involvement in the UK Biobank are available online (www.ukbiobank.ac.uk/about-biobank-uk/ and www.ukbiobank.ac.uk/wp-content/uploads/2011/07/Summary-EGF-consultation.pdf?phpMyAdmin=trmKQlYdjjnQIgJ%2CfAzikMhEnx6).
+0	NA	NA	NA	METHODS	No patients were specifically involved in setting the research question or the outcome measures, nor were they involved in developing plans for recruitment, design or implementation of this study.
+0	NA	NA	NA	METHODS	No patients were asked to advise on interpretation or writing up of results.
+0	NA	NA	NA	METHODS	There are no specific plans to disseminate the results of the research to study participants, but the UK Biobank disseminates key findings from projects on its website
+0	NA	NA	NA	RESULTS	We did not observe evidence of deviation from additivity at any SNP for BMI at our genome-wide significance level of p = 3 x 10-9.
+0	NA	NA	NA	RESULTS	ESM Figure 1 presents the genome-wide QQ plot for the imputation-based dominance deviation test
+0	NA	FTO	rs57292959	TABLE	Summary statistics for the most strongly associated imputed SNP (rs57292959) and previously reported index SNP (rs1421085) at the FTO locus (r 2 = 0.91) with evidence of departure from the additive mode
+0	NA	FTO	rs1421085	RESULTS	Of the 72 known BMI variants, rs1421085, representing the signal at FTO, was the only one reaching pDOMDEV < 7 x 10-4 (the Bonferroni threshold, given that we had tested 72 variants; Table 1 and ESM Table 4).
+0	NA	FTO	NA	RESULTS	This variant was recently identified as the best candidate causal variant at FTO.
+0	NA	NA	rs57292959	RESULTS	This variant is also in very strong linkage disequilibrium (r2 = 0.91, D' > 0.99) with rs57292959, which was the variant with the third strongest evidence of deviation from additivity in the GWA analysis (MAF = 0.42; pDOMDEV = 4 x 10-7)
+1	obese	FTO	rs1421085	FIG	Average BMI and obesity ORs with 95% CIs for carriers of the BMI-raising allele at the FTO locus represented by rs1421085.
+0	NA	NA	NA	FIG	(a) Average BMI within each of the three genotype classes.
+0	NA	NA	NA	FIG	(b) Obesity risk for heterozygous and homozygous carriers of the BMI-increasing allele.
+0	obese	NA	NA	FIG	(c) Severe obesity risk for the heterozygous and homozygous carriers of the BMI-increasing allel
+0	NA	FTO	NA	TABLE	BMI values by genotype group at the FTO locus (rs1421085
+0	NA	NA	rs1421085	RESULTS	Homozygous carriers of the previously reported BMI-raising allele (C at rs1421085) had an average BMI of 28.07 (95% CI 28.00, 28.14) kg/m2; heterozygotes had an average BMI of 27.54 (95% CI 27.50, 27.58) kg/m2; and homozygous carriers of the BMI-lowering allele had an average BMI of 27.27 (95% CI 27.22, 27.31) kg/m2 (Fig.
+0	NA	NA	NA	RESULTS	1a and Table 2).
+0	NA	NA	NA	RESULTS	While heterozygous carriers were still on average more overweight than the common allele homozygote group, the difference (0.27 kg/m2) was approximately half of the difference observed between the heterozygote and minor allele homozygote groups (0.53 kg/m2).
+0	NA	NA	NA	RESULTS	Accounting for this partially recessive effect only resulted in a small increase in variance in BMI (an additional 0.01%)
+1	obese	FTO	NA	TABLE	ORs for 'obese' and 'severely obese' classifications by genotype group at the FTO locus (rs1421085
+0	obese	FTO	NA	RESULTS	The FTO locus also showed a similar pattern of deviation from additivity in case-control analyses of obesity (pDOMDEV = 0.001) and severe obesity (pDOMDEV = 0.003) (Fig.
+0	NA	NA	NA	RESULTS	1b and c, and Table 3).
+0	NA	NA	NA	RESULTS	The OR was stronger in homozygous carriers of the risk allele than expected under an additive model.
+0	obese	NA	NA	RESULTS	The observed OR for obese heterozygous carriers of the BMI-raising allele was 1.15 (95% CI 1.12, 1.19).
+0	obese	NA	NA	RESULTS	Under the additive model we would expect an OR ~1.32 for obese homozygous carriers, yet the observed OR was 1.48 (95% CI 1.41, 1.55).
+0	obese	NA	NA	RESULTS	Similarly, the ORs observed in the severely obese heterozygote and homozygous carriers were 1.28 (95% CI 1.16, 1.41) and 2.12 (95% CI 1.88, 2.38), respectively, whereas under the additive model we would expect an OR ~1.64 for the homozygous carriers
+0	NA	NA	NA	RESULTS	The GIANT Consortium previously tested for deviations from additivity for 32 known BMI variants in 105,643 individuals.
+0	NA	FTO	rs1558902	RESULTS	There was no overall evidence of deviations from additivity at these known loci; however, FTO did have a similar partial recessive effect in this independent dataset, represented by rs1558902: another proxy of rs1421085 (r2 > 0.99, D' = 1) (pGIANT_DOMDEV = 0.003; beta = -0.019; 95% CI -0.031, -0.008).
+0	NA	NA	NA	RESULTS	The negative direction of effect for the heterozygous group in comparison with the two homozygous groups combined was consistent with that observed in the UK Biobank (Table 1) and indicative of a recessive effect for the BMI-increasing allele.
+0	NA	NA	NA	RESULTS	Meta-analysing the studies strengthened the evidence of deviation from additivity (N = 225,143; pMETA-ANALYSIS = 1 x 10-7)
+0	NA	NA	NA	RESULTS	There was no evidence of deviation from additive effects for the remaining 71 BMI variants (ESM Table 4).
+0	NA	NA	NA	RESULTS	Based on the 72 BMI variants, we also showed that using an inverse-normalised distribution of BMI produced very similar results to those using BMI on its naturally skewed scale (ESM Fig.
+0	NA	NA	NA	RESULTS	2)
+0	Type 2 diabetes	NA	NA	RESULTS	We did not identify any variants deviating from additivity for type 2 diabetes that reached genome-wide significance (ESM Fig.
+0	NA	NA	NA	RESULTS	3)
+1	diabetes	CDKAL1	NA	FIG	ORs and 95% CIs for heterozygous and homozygous carriers of the CDKAL1 type 2 diabetes risk allele against the reference non-risk allele homozygous grou
+1	NA	CDKAL1	rs7756992	TABLE	Summary statistics for rs7756992 at the CDKAL1 locus showing evidence of deviation from additivit
+1	Type 2 diabetes	CDKAL1	NA	TABLE	Type 2 diabetes ORs by genotype group at the CDKAL1 locus (rs7756992
+1	diabetes	CDKAL1	rs7756992	RESULTS	Of the 66 known type 2 diabetes variants we only found evidence of deviation from additivity for the SNP rs7756992 at the CDKAL1 locus (MAF = 0.27; pDOMDEV = 5 x 10-4) (Fig.
+0	NA	NA	NA	RESULTS	2, Table 4 and ESM Table 5).
+0	NA	NA	NA	RESULTS	The genotype OR was stronger in homozygous carriers of the risk allele than expected under an additive model (Table 5).
+0	NA	NA	NA	RESULTS	The observed OR within the heterozygous carriers of the risk-increasing allele was 1.06 (95% CI 0.99, 1.14; p = 0.08), which is smaller than the expected OR of ~1.22 for heterozygous carriers under an additive model.
+0	diabetes	NA	NA	RESULTS	This finding is consistent with a previous study by deCODE genetics (Reykjavik, Iceland) that showed evidence of this SNP having a recessive pattern of association with type 2 diabetes risk.
+0	diabetes	NA	NA	RESULTS	We found no evidence of deviation from additivity for any of the remaining known type 2 diabetes variants
+0	diabetes	NA	NA	DISCUSS	Our analyses of 120,286 UK Biobank individuals suggest that most genetic variants associated with BMI and type 2 diabetes operate through a per-allele additive effect.
+0	Type 2 diabetes	NA	NA	DISCUSS	Our findings suggest that dominant and recessive effects at common variants have a minimal role in explaining variation in BMI and risk of obesity and type 2 diabetes.
+0	NA	NA	NA	DISCUSS	Our results are consistent with a previous smaller study of 6,715 individuals that concluded that deviations from additivity contribute little to missing heritability for a wide range of traits.
+1	diabetes	NA	NA	DISCUSS	There were exceptions for the FTO-BMI association and the CDKAL1-type 2 diabetes association
+0	NA	FTO	NA	DISCUSS	The 16% of individuals carrying two copies of the BMI-raising allele at the FTO locus had more than twice the expected BMI difference compared with individuals carrying no BMI-raising alleles than would have been expected under a purely additive model.
+0	NA	NA	NA	DISCUSS	Assuming an average height in males of 1.78 m, it is equivalent to homozygous carriers of the BMI-increasing allele being 2.53 kg heavier than homozygous carriers of the opposite allele, whereas heterozygous carriers would be only 0.86 kg heavier.
+0	NA	NA	NA	DISCUSS	Previous studies have shown that the vast majority of this increased weight is fat mass.
+0	polycystic ovary syndrome	FTO	NA	DISCUSS	The results are also consistent with a study of the FTO variant in polycystic ovary syndrome.
+1	diabetes	CDKAL1	NA	DISCUSS	For type 2 diabetes, we found evidence of a recessive effect at the CDKAL1 locus.
+0	diabetes	NA	NA	DISCUSS	The evidence that heterozygous carriers of the risk allele were at increased risk of type 2 diabetes was minimal and, combined with previous data from the deCODE study, suggests the true biological effect at this locus is recessive.
+0	Type 2 diabetes	NA	NA	DISCUSS	Although accounting for non-additive effects at these loci only explained a small amount of additional variation in risk of obesity and type 2 diabetes, understanding why these associations demonstrate non-additivity may provide new insights into biological mechanisms at these loci
+0	NA	NA	NA	DISCUSS	A strength of our study is that we used a single large, relatively homogeneous dataset with full access to individual-level genotype and phenotype data.
+0	NA	NA	NA	DISCUSS	We had >80% power to detect dominance deviation from additivity, explaining 0.04% of the phenotypic variance at p = 3 x 10-9.
+0	NA	NA	NA	DISCUSS	This is equivalent to being able to detect a purely recessive effect of 0.4 kg/m2 for a BMI allele with a frequency of 0.25, for example.
+0	diabetes	NA	NA	DISCUSS	We had less power for the type 2 diabetes analysis (approximately x6.5 less).
+0	NA	NA	NA	DISCUSS	To have equivalent power to our BMI analysis we would require approximately 26,000 cases and 740,000 controls.
+0	NA	NA	NA	DISCUSS	Our analyses show how single large studies such as the UK Biobank will provide added value to existing meta-analyses approaches in GWA studies
+0	NA	NA	NA	DISCUSS	Our analyses have some limitations.
+0	NA	NA	NA	DISCUSS	We analysed imputed variants, and our statistical power to detect deviations from additivity might have been reduced if variants were not perfectly captured and/or we analysed imperfect markers for causal alleles.
+0	NA	NA	NA	DISCUSS	Non-biological explanations for the non-additive effects include 'haplotype effects' due to linkage disequilibrium with other causal alleles.
+0	NA	NA	NA	DISCUSS	In such situations, alleles of SNPs showing evidence of non-additivity are partially correlated with a much stronger causal SNP with an additive effect.
+1	NA	FTO	NA	DISCUSS	This is unlikely to be the case at the FTO or CDKAL1 loci.
+0	NA	FTO	rs1421085	DISCUSS	These loci have been studied extensively through re-sequencing and fine-mapping efforts and no substantially stronger individual variants have been identified; and for FTO, rs1421085 was recently proposed as the most likely causal variant.
+0	NA	ARID5B	rs1421085	DISCUSS	The rs1421085 SNP disrupts a binding site for ARID5B, which increases the expression of IRX3 and IRX5 during adipocyte differentiation.
+0	NA	NA	NA	DISCUSS	This results in the production of more white adipocytes, a reduction in mitochondrial thermogenesis and an increase in lipid storage, although it is not clear why this would lead to non-additive effects on BMI
+0	NA	NA	NA	DISCUSS	The detection of non-additive genetic effects for BMI is potentially complicated by the skewed distribution of BMI.
+0	NA	NA	NA	DISCUSS	Effects that seem recessive could be artefacts of the skewed nature of the BMI distribution, as variation in BMI is wider towards the more overweight end of the distribution.
+0	NA	FTO	NA	DISCUSS	To limit this effect we inverse-normalised BMI and performed additional sensitivity analyses (including 'robust regression':an alternative to 'least squares regression') that account for different variances of a trait, which may be the case for FTO (data not shown), to limit the influence of the skewed distribution.
+0	NA	NA	NA	DISCUSS	We found, however, no evidence that BMI-increasing alleles were more likely to have recessive effects than BMI-lowering alleles (ESM Table 4 and ESM Fig.
+0	NA	NA	NA	DISCUSS	4).
+0	NA	NA	NA	DISCUSS	Alternatively, artificially truncating the BMI distribution into a normal distribution could reduce the power to detect recessive effects of BMI-increasing alleles.
+0	NA	NA	NA	DISCUSS	However, we saw very little reduction in statistical confidence of known BMI associations when using the inverse-normalised scale compared with the natural BMI scale
+0	Type 2 diabetes	NA	NA	DISCUSS	In conclusion, we have performed tests of deviation from additivity for BMI, obesity and type 2 diabetes.
+0	NA	NA	NA	DISCUSS	Overall, there was little evidence of dominant and recessive effects.
+1	obese	FTO	NA	DISCUSS	However, we found replicable examples of non-additive effects at FTO on BMI and obesity, and at CDKAL1 on type 2 diabetes risk.
+0	NA	NA	NA	DISCUSS	Recessive effects have implications for the mechanism of action of these loci but do not explain appreciably more of the 'missing heritability'
+0	NA	NA	NA	ACK_FUND	ARW and TMF are supported by the European Research Council (grant 323195: SZ-245 50371-GLUCOSEGENES-FP7-IDEAS-ERC).
+0	NA	NA	NA	ACK_FUND	RMF is a Sir Henry Dale Fellow (Wellcome Trust and Royal Society; grant 104150/Z/14/Z).
+0	NA	NA	NA	ACK_FUND	RB is funded by the Wellcome Trust and Royal Society (grant 104150/Z/14/Z).
+0	diabetes	NA	NA	ACK_FUND	JT is funded by the European Regional Development Fund and a Diabetes Research and Wellness Foundation fellowship.
+0	NA	FUT2	NA	ACK_FUND	SEJ is funded by the Medical Research Council (grant MR/M005070/1).
+0	NA	MAT	NA	ACK_FUND	MAT, MNW and AM are supported by the Wellcome Trust Institutional Strategic Support Award (WT097835MF).
+0	NA	NA	NA	ACK_FUND	HY is funded by a European Research Council award (323195).
+0	NA	NA	NA	ACK_FUND	The funders had no influence on the study design, data collection and analysis, decision to publish, or preparation of the manuscript
+0	NA	NA	NA	COMP_INT	The authors declare that there is no duality of interest associated with this manuscript
+0	NA	NA	NA	COMP_INT	ARW, TMF and MNW initiated and designed the study, and drafted the initial manuscript.
+0	NA	FUT2	NA	COMP_INT	ARW, JT, RB, SEJ, MAT, KSR, HY, RMF, AM and MNW performed the data processing and statistical analyses, and contributed towards the final draft of the manuscript.
+0	NA	NA	NA	COMP_INT	All authors approved the final version for publication.
+0	NA	NA	NA	COMP_INT	MNW is responsible for the integrity of this work

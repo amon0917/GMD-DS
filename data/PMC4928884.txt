@@ -1,0 +1,343 @@
+0	NA	NA	NA	ABSTRACT	Meta-analysis of multiple genome-wide association studies (GWAS) has become an effective approach for detecting single nucleotide polymorphism (SNP) associations with complex traits.
+0	NA	NA	NA	ABSTRACT	However, it is difficult to integrate the readily accessible SNP-level summary statistics from a meta-analysis into more powerful multi-marker testing procedures, which generally require individual-level genetic data.
+0	NA	NA	NA	ABSTRACT	We developed a general procedure called Summary based Adaptive Rank Truncated Product (sARTP) for conducting gene and pathway meta-analysis that uses only SNP-level summary statistics in combination with genotype correlation estimated from a panel of individual-level genetic data.
+0	NA	NA	NA	ABSTRACT	We demonstrated the validity and power advantage of sARTP through empirical and simulated data.
+0	diabetes	NA	NA	ABSTRACT	We conducted a comprehensive pathway-based meta-analysis with sARTP on type 2 diabetes (T2D) by integrating SNP-level summary statistics from two large studies consisting of 19,809 T2D cases and 111,181 controls with European ancestry.
+0	pancreatic cancer	NA	NA	ABSTRACT	Among 4,713 candidate pathways from which genes in neighborhoods of 170 GWAS established T2D loci were excluded, we detected 43 T2D globally significant pathways (with Bonferroni corrected p-values < 0.05), which included the insulin signaling pathway and T2D pathway defined by KEGG, as well as the pathways defined according to specific gene expression patterns on pancreatic adenocarcinoma, hepatocellular carcinoma, and bladder carcinoma.
+0	NA	NA	NA	ABSTRACT	Using summary data from 8 eastern Asian T2D GWAS with 6,952 cases and 11,865 controls, we showed 7 out of the 43 pathways identified in European populations remained to be significant in eastern Asians at the false discovery rate of 0.1.
+0	NA	NA	NA	ABSTRACT	We created an R package and a web-based tool for sARTP with the capability to analyze pathways with thousands of genes and tens of thousands of SNPs
+0	NA	NA	NA	ABSTRACT	As GWAS continue to grow in sample size, it is evident that these studies need to be utilized more effectively for detecting individual susceptibility variants, and more importantly, to provide insight into global genetic architecture of complex traits.
+0	NA	NA	NA	ABSTRACT	Towards this goal, identifying association with respect to a collection of variants in biological pathways can be particularly insightful for understanding how networks of genes might be affecting pathophysiology of diseases.
+0	NA	NA	NA	ABSTRACT	Here we present a new pathway analysis procedure that can be conducted using summary-level association statistics, which have become the main vehicle for performing meta-analysis of individual genetic variants across studies in large consortia.
+0	NA	NA	NA	ABSTRACT	Through simulation studies we showed the proposed method was more powerful than the existing state-of-art method.
+0	NA	NA	NA	ABSTRACT	We carried out a comprehensive pathway analysis of 4,713 candidate pathways on their association with T2D using two large studies with European ancestry and identified 43 T2D-associated pathways.
+0	NA	NA	NA	ABSTRACT	Further examinations of those 43 pathways in 8 Asian studies showed that some pathways were trans-ethnically associated with T2D.
+0	NA	NA	NA	ABSTRACT	This analysis clearly highlights novel T2D-associated pathways beyond what has been known from single-variant association analysis reported from largest GWAS to date.
+0	NA	NA	rs1058018	ABSTRACT	We also identify a novel locus for T2D in the European populations at chromosome 17q21 (rs1058018, p = 3.06 x 10-8)
+0	NA	NA	NA	INTRO	Genome-wide association study (GWAS) has become a very effective way to identify common genetic variants underlying various complex traits.
+0	NA	NA	NA	INTRO	The most commonly used approach to analyze GWAS data is the single-locus test, which evaluates one single nucleotide polymorphism (SNP) at a time.
+0	NA	NA	NA	INTRO	Despite the enormous success of the single-locus analysis in GWAS, proportions of genetic heritability explained by already identified variants for most complex traits still remain small.
+0	NA	NA	NA	INTRO	It is increasingly recognized that the multi-locus test, such as gene-based analysis and pathway (or gene-set) analysis, can be potentially more powerful than the single-locus analysis, and shed new light on the genetic architecture of complex traits
+0	NA	NA	NA	INTRO	The pathway analysis jointly tests the association between an outcome and SNPs within a set of genes compiled in a pathway according to existing biological knowledge.
+0	NA	NA	NA	INTRO	Although the marginal effect of a single SNP might be too weak to be detectable by the single-locus test, accumulated association evidence from all signal-bearing SNPs within a pathway could be strong enough to be picked up by the pathway analysis if this pathway is enriched with outcome-associated SNPs.
+0	NA	NA	NA	INTRO	Various pathway analysis procedures have been proposed in the literature, with the assumption that researchers could have full access to individual-level genotype data.
+0	NA	NA	NA	INTRO	In practice, pathway analysis usually utilizes data from a single resource with limited sample size, as it can be challenging to obtain and manage individual-level GWAS data from multiple resources.
+0	NA	NA	NA	INTRO	As a result, pathway analysis often fails to identify new findings beyond what have already been discovered by the single-locus tests.
+0	NA	NA	NA	INTRO	To maximize the chance of discovering novel outcome-associated variants by increasing sample size, a number of consortia have been formed to conduct single-locus meta-analysis on data across multiple GWAS.
+0	NA	NA	NA	INTRO	The single-locus meta-analysis aggregates easily accessible SNP-level summary statistics from multiple studies.
+0	NA	NA	NA	INTRO	Similarly, the pathway-based meta-analysis that integrates the same type of summary data across participating studies could provide us a greater opportunity for detecting novel pathway associations.
+0	NA	NA	NA	INTRO	Future association studies focusing on identified pathways would have a much-reduced multiple-comparison burden in searching for novel variants with main or complicated nonlinear joint effects on the outcome of interest
+0	NA	NA	NA	INTRO	In this paper, we developed a pathway-based meta-analysis procedure by extending the adaptive rank truncated product (ARTP) pathway analysis procedure, which was originally developed for analyzing individual-level genotype data.
+0	NA	NA	NA	INTRO	The new procedure, called Summary based ARTP (sARTP), accepts input from SNP-level summary statistics, with their correlations estimated from a panel of reference samples with individual-level genotype data, such as the ones from the 1000 Genomes Project.
+0	NA	NA	NA	INTRO	This idea was initially used in conducting gene-based meta-analysis or conditional test.
+0	NA	NA	NA	INTRO	As will be shown in the Results Section, sARTP usually has a power advantage over its competitors.
+0	NA	NA	NA	INTRO	In addition, sARTP is specifically designed for conducting pathway-based meta-analysis using SNP-level summary statistics from multiple studies.
+0	diabetes	NA	NA	INTRO	In real applications (e.g., the type 2 diabetes example described below), it is very common that different studies could have genotypes measured or imputed on different sets of SNPs.
+0	NA	NA	NA	INTRO	As a result, the sample size used in the pathway-based meta-analysis on each SNP can be quite different.
+0	NA	NA	NA	INTRO	Ignoring the difference in sample sizes across SNPs in a pathway-based meta-analysis would generate biased testing results
+0	NA	NA	NA	INTRO	Pathway analysis generally targets two types of null hypotheses, including the competitive null hypothesis, i.e., the genes in a pathway of interest are no more associated with the outcome than any other genes outside this pathway, and the self-contained null hypothesis, i.e., none of the genes in a pathway of interest is associated with the outcome.
+0	NA	NA	NA	INTRO	The sARTP procedure focuses on the self-contained null hypothesis, as our main goal is to identify outcome-associated genes or loci.
+0	NA	NA	NA	INTRO	Also, as pointed out by, tests for the competitive null hypothesis often assume that genotype measured at different genes are independent when evaluating the association significance level.
+0	NA	NA	NA	INTRO	This assumption, which is generally invalid in practice, is unnecessary for sARTP when testing the self-contained null hypothesis.
+0	NA	NA	NA	INTRO	One may refer to and for more discussion and comparison of these two types of hypotheses
+0	NA	NA	NA	INTRO	The pathways defined in many public databases can consist of thousands of genes and tens of thousands of SNPs.
+0	NA	NA	NA	INTRO	To make the procedure applicable to large pathways, or pathways with high statistical significance, we implement sARTP with efficient and parallelizable algorithms, and adopt the direct simulation approach (DSA) to evaluate the significance of the pathway association
+0	NA	NA	NA	INTRO	We demonstrated the validity and power advantage of sARTP through simulated and empirical data.
+0	diabetes	NA	NA	INTRO	We applied sARTP to conduct a pathway-based meta-analysis on the association between type 2 diabetes (T2D) and 4,713 candidate pathways defined in the Molecular Signatures Database (MSigDB) v5.0.
+0	NA	NA	NA	INTRO	The analysis used SNP-level summary statistics from two sources with European ancestry.
+0	diabetes	NA	NA	INTRO	One is generated from the Diabetes Genetics Replication and Meta-analysis (DIAGRAM) consortium, which consists of 12,171 T2D cases and 56,862 controls across 12 GWAS.
+0	NA	NA	NA	INTRO	The other one is based on a T2D GWAS with 7,638 T2D cases and 54,319 controls that were extracted from the Genetic Epidemiology Research on Aging (GERA) study.
+0	NA	NA	NA	INTRO	The novel T2D-associated pathways detected in the European population were further examined in Asians using summary data generated by the Asian Genetic Epidemiology Network (AGEN) consortium meta-analysis, which combined 8 GWAS of T2D with a total of 6,952 and 11,865 controls from eastern Asian populations
+0	NA	NA	NA	METHODS	Here we describe the proposed method sARTP for assessing the association between a dichotomous outcome and a pre-defined pathway consisting of J genes.
+0	NA	NA	NA	METHODS	The same procedure can be applied to study a quantitative outcome with minor modifications
+0	NA	NA	NA	METHODS	We assume we have data from L GWA studies, with each consisting of n(l) subjects, l = 1, ,L. Each gene in that pathway can contain one or multiple SNP(s), while any two genes may have some overlapped SNPs.
+0	NA	NA	NA	METHODS	For simplicity, we use superscript l to represent an individual study.
+0	NA	NA	NA	METHODS	For subject i in study l, i = 1, ,n(l), let  be the dichotomous outcome (e.g., disease condition, case/control status) taking values from {0,1}, and let  be the vector of covariates to be adjusted for.
+0	NA	NA	NA	METHODS	The centralized genotypes of q SNPs within a pathway are presented as a vector  for subject i.
+0	NA	NA	NA	METHODS	We assume the following logistic regression model as the risk model
+0	NA	NA	NA	METHODS	Under the self-contained null hypothesis H0: gamma = 0, we denote the maximum likelihood estimate of alpha(l) as .
+0	NA	NA	NA	METHODS	Let  and .
+0	NA	NA	NA	METHODS	The Rao's score statistic vector on gamma, which is the sum of score vectors from L participating studies, follows the asymptotic multivariate normal distribution N(0,V), where  and
+0	NA	NA	NA	METHODS	For study l, let  be the number of subjects having their genotypes measured as  (or imputed) at SNP t, where .
+0	NA	NA	NA	METHODS	As pointed out by Hu, Berndt (24) if the covariates and genotypes are uncorrelated or weakly correlated, the covariance between scores at SNPs t and S can be approximated as  where  is the number of samples that have their genotypes available at both SNPs in study l, , and .
+0	NA	NA	NA	METHODS	Here, we assume that the Pearson's correlation coefficient rhots between two SNPs is the same among all participating studies.
+0	NA	NA	NA	METHODS	This assumption is valid as long as subjects from all studies are sampled from the same source population, or the population under study is relatively homogeneous, such as a study of subjects with European ancestry in the United States
+0	NA	NA	NA	METHODS	When only the summary statistics, i.e., the estimated marginal log odds ratios  and their standard errors  are available for each of the L studies, the score statistic at SNP t, defined by (Eq 1) can be approximated as
+0	NA	NA	NA	METHODS	Note that , thus according to (Eq 3), we have
+0	NA	NA	NA	METHODS	Assume that rhots can be estimated from a public dataset (e.g., 1000 Genomes Project) and the sample sizes  and  are known, we can approximately recover the variance-covariance matrix V = (Vts)qxq of score statistics S = (St)qx1.
+0	NA	NA	NA	METHODS	In cases when we only have the SNP p-value p and its marginal log odds ratio , we can compute its standard error as , where  is the quantile satisfying , with  representing a 1-df chi-squared random variable
+0	NA	NA	NA	METHODS	With recovered score statistics vector S and its variance-covariance matrix V, we can conduct a pathway association test using the framework of the ARTP method.
+0	NA	NA	NA	METHODS	The ARTP method first combines p-values of individual SNPs within a gene to form a gene-based association statistic (i.e., the gene-level p-value), and then combines the gene-level p-values into a final testing statistic for the pathway-outcome association.
+0	NA	NA	NA	METHODS	In the original ARTP method, proposed the use of a resampling-based method to evaluate the significance level of the pathway association test.
+0	NA	NA	NA	METHODS	Here we integrate the SNP-level score statistics into the ARTP framework and use DSA to evaluate the significance level, which is much faster than the original ARTP algorithm.
+0	NA	NA	NA	METHODS	Below is a brief summary of the improved ARTP algorithm
+0	NA	NA	NA	METHODS	First we obtain the p-values  of qj distinct SNPs in gene j as .
+0	NA	NA	NA	METHODS	Let  be their order statistics such that .
+0	NA	NA	NA	METHODS	For any predefined integer K and SNP-level cut points c1 <   < ck, we define the observed negative log product statistics for that gene at cut point ck as
+0	NA	NA	NA	METHODS	We sample M copies of vectors of the score statistic from the null distribution N(0,V) and convert each of them to be the tail probability of  as , m = 1, ,M, which are then used to calculate , m = 1, ,M. The significance of  can be estimated as
+0	NA	NA	NA	METHODS	The ARTP statistic for testing association between gene j and the outcome is defined as .
+0	NA	NA	NA	METHODS	Note that for any , the set  forms its empirical null distribution.
+0	NA	NA	NA	METHODS	The significance of  therefore can be estimated as
+0	NA	NA	NA	METHODS	This idea, which was given by, can be used to avoid the computationally challenging nested two-layer resampling procedure for evaluating p-values.
+0	NA	NA	NA	METHODS	The p-value of  can be readily calculated as  where .
+0	NA	NA	NA	METHODS	is the estimated gene-level p-value for the association between the outcome and the jth gene.
+0	NA	NA	NA	METHODS	To obtain the pathway p-value, a similar procedure as above can be applied to combine already established gene-level p-values , j = 1, ,J, through a set of K' gene-level cut points d1 <   <dK'.
+0	NA	NA	NA	METHODS	For simplicity, let  be the significance (p-value) of negative log product statistics defined on , j = 1, ,J at a specific cut point dk, k = 1, ,K'.
+0	NA	NA	NA	METHODS	The ARTP statistic for the pathway association is defined as .
+0	NA	NA	NA	METHODS	The top  genes, at which , can be regarded as the set of selected candidate genes that collectively convey the strongest pathway association signal
+0	NA	NA	NA	METHODS	In the following discussion, we will use the term sARTP to represent the proposed pathway analysis procedure using the SNP-level summary statistics as input, and reserve the term ARTP to represent the original ARTP procedure that requires the individual-level genetic data.
+0	NA	NA	NA	METHODS	Both procedures adopt the DSA algorithm to accelerate evaluating the significance level.
+0	NA	NA	NA	METHODS	When performing the pathway analysis in this paper, we set SNP-level cut points as (c1,c2) = (1,2), i.e., gene-level association is summarized by one or two most significant SNPs within each gene, and gene-level cut points as , k = 1, ,10, where J is the number of genes in a pathway, and  is the largest integer that is less or equal to J / 20.
+0	NA	NA	NA	METHODS	We used M = 105 DSA steps to assess the significance level of each pathway in the initial screening.
+0	NA	NA	NA	METHODS	For pathways with estimated p-values <10-4, we further refined their p-value estimates with M = 107 or 108 DSA steps
+0	NA	NA	NA	METHODS	Many GWAS consortia usually publish their meta-analysis results by providing only the combined results from the fixed effects model, rather than the summary statistics from each participating study.
+0	NA	NA	NA	METHODS	We can apply sARTP to this meta-analysis result directly, with some modifications.
+0	NA	NA	NA	METHODS	First, since the reported marginal log odds ratios for each SNP by using the fixed effects inverse-variance weighting method is given by  with its standard error given by
+0	NA	NA	NA	METHODS	Based on (Eq 4), we can see .
+0	NA	NA	NA	METHODS	By assuming large sample sizes and certain conditions (see S1 Text), we can also approximate the covariance between St and Ss, which is given by (Eq 5), as  where , and .
+0	NA	NA	NA	METHODS	Thus, using just the meta-analysis result, without knowing summary statistics from each participating study, we can still obtain St exactly, and approximately recover Vts.
+0	NA	NA	NA	METHODS	As a result, we can carry out the pathway-based meta-analysis based on the SNP-level meta-analysis result as if it were summary data from a single study.
+0	NA	NA	NA	METHODS	We call this approach the Meta-analysis based sARTP (MsARTP)
+0	NA	NA	NA	METHODS	However, to apply the MsARTP, we need additional sample size information nt and nst in order to properly estimate the variance-covariance matrix defined by (Eq 7).
+0	NA	NA	NA	METHODS	If the same set of SNPs are studied by all participating studies, we have nt = ns = nst, and the approximation (Eq 7) becomes , i.e., we can obtain the estimated variance-covariance matrix without knowing nt and nst.
+0	NA	NA	NA	METHODS	But in most applications, not all GWAS choose the same SNP genotyping array, even after the imputation using the same reference genomes.
+0	NA	NA	NA	METHODS	As a result, the SNP coverage, i.e., the set of SNPs evaluated in each participating study can be quite different.
+0	NA	NA	NA	METHODS	In those situations, we need to know the SNP coverage information in each participating study in order to obtain ns and nst.
+0	inflation of type I error	NA	NA	METHODS	We will show in the Results Section that using MsARTP with an inappropriate uniform coverage assumption (i.e., nts = nt = ns), which is commonly made by many multi-locus approaches, can lead to inflated type I error
+0	NA	NA	NA	METHODS	Given SNP-level summary statistics from each participating study, we can either apply sARTP directly, or first conduct a SNP-level meta-analysis, and then apply MsARTP to the meta-analysis result.
+0	NA	NA	NA	METHODS	These two approaches use the same score statistics, and different but consistent estimates for the variance-covariance matrix.
+0	NA	NA	NA	METHODS	Numeric experiments in the Results Section suggest that these two approaches generate vary similar pathway p-values
+0	NA	NA	NA	METHODS	We downloaded definitions for 4,716 human and murine (mammalian) pathways (gene sets) from the MSigDB v5.0 (C2: curated gene sets).
+0	NA	NA	NA	METHODS	Genomic definitions for genes were downloaded from Homo sapiens genes NCBI36 and reference genome GRCh37.p13 using the Ensemble BioMart tool
+0	diabetes	NA	NA	METHODS	The DIAGRAM (DIAbetes Genetics Replication And Meta-analysis) consortium conducted a large-scale GWAS meta-analysis to characterize the genetic architecture of T2D.
+0	NA	NA	NA	METHODS	We downloaded the summary statistics generated by the DIAGRAMv3 (Stage 1) GWAS meta-analysis from www.diagram-consortium.org.
+0	NA	NA	NA	METHODS	The meta-analysis studied 12 GWAS with European ancestry consisting of 12,171 cases and 56,862 controls.
+0	NA	NA	NA	METHODS	Up to 2.5 million autosomal SNPs with minor allele frequencies (MAFs) larger than 1% were imputed using CEU samples from Phase II of the International HapMap Project.
+0	NA	NA	NA	METHODS	Study-specific covariates were adjusted in testing T2D-SNP association under an additive logistic regression model.
+0	NA	NA	NA	METHODS	SNP-level summary statistics from each GWAS were first adjusted for residual population structure using the genomic control (GC) method, and then combined in the fixed effects meta-analysis
+0	NA	NA	NA	METHODS	We sorted 2.5 million autosomal SNPs by their corresponding meta-analysis sample sizes in S1 Fig, which shows that there are two major groups of SNPs with equal sample sizes.
+0	NA	NA	NA	METHODS	One group of 469,985 SNPs (19.0%) had 12,171 cases and 56,862 controls, which included all the available samples in the meta-analysis; another group of 1,431,361 SNPs (57.9%) had 9,580 cases and 53,810 controls.
+0	NA	NA	NA	METHODS	Since the calculation of covariance Vts in (Eq 7) relies on nts, the number of samples having genotypes available at both SNP s and SNP t, in order to obtain an accurate estimate of nts, we focused on these two groups of SNPs, which in combination had a total of 1,901,346 SNPs.
+0	NA	NA	NA	METHODS	For any two SNPs in this reduced set, it is certain nts = min(nt, ns).
+0	IBS	NA	NA	METHODS	The Pearson's correlation coefficients rhots were estimated using an external reference panel consisting of genotypes on 503 European subjects (CEU, TSI, FIN, GBR, and IBS) from the 1000 Genomes Project (Phase 3, v5, 2013/05/02)
+0	NA	NA	NA	METHODS	We assembled a GWAS on T2D from the Genetic Epidemiology Research on Adult Health and Aging (GERA, dbGaP Study Accession: phs000674.v1.p1).
+0	NA	NA	NA	METHODS	The GERA project includes a cohort of over 100,000 adults who are members of the Kaiser Permanente Medical Care Plan, Northern California Region, and participating in the Kaiser Permanente Research Program on Genes, Environment, and Health (RPGEH).
+0	NA	NA	NA	METHODS	From the GERA data, we compiled a GWAS with 7,638 T2D cases and 54,319 controls (subjects without T2D) who self-reported to be non-Hispanic White Europeans in the RPGEH survey.
+0	NA	NA	NA	METHODS	We performed the genotype imputation with IMPUTE2 using CEU reference samples from Phase II of the International HapMap Project.
+0	NA	NA	NA	METHODS	After removing SNPs with low imputation quality (r2 < 0.3), we ended up with 2.4 million SNPs for further analysis.
+0	cancers	NA	NA	METHODS	In the single-locus analysis, we adjusted for the categorized body mass index (BMI) provided in the downloaded dataset (adding a category for missing BMI), gender, year of birth (in five-year categories), a binary indicator on whether or not a participant was diagnosed with cancer (includes malignant tumors, neoplasms, lymphoma and sarcoma), and the top five eigenvectors for the adjustment of population stratification.
+0	NA	NA	NA	METHODS	In the following discussion, we refer this assembled T2D GWAS as the GERA study
+0	NA	NA	NA	METHODS	When analyzing the SNP-level summary data from the GERA study, the Pearson's correlation coefficients rhots were estimated using an external reference panel consisting of genotypes on 503 European subjects from the 1000 Genomes Project
+0	NA	NA	NA	METHODS	The Asian Genetic Epidemiology Network (AGEN) consortium carried out a meta-analysis by combining eight GWAS of T2D with a total of 6,952 cases and 11,865 controls from eastern Asian populations.
+0	NA	NA	NA	METHODS	The meta-analysis was conducted with the fixed effect model.
+0	NA	NA	NA	METHODS	We obtained SNP-level summary statistics on 2.6 million imputed and genotyped autosomal SNPs from AGEN, and used this summary data to evaluate whether pathway associations identified in European populations remain to be present in Asians.
+0	CHS	NA	NA	METHODS	We adopted an external reference panel consisting of 312 eastern Asian subjects (103 from CHB, 105 from CHS, and 104 from JPT) from the 1000 Genomes Project for the variance-covariance matrix estimation in the pathway analysis
+0	NA	NA	NA	RESULTS	Firstly, we conducted a simulation study to evaluate the empirical size of sARTP and MsARTP.
+0	NA	NA	NA	RESULTS	Secondly, we compared empirical powers of different strategies for carrying out pathway-based meta-analysis that integrated summary statistics from multiple studies.
+0	NA	NA	NA	RESULTS	We also evaluated whether results from sARTP were consistent with the ones from MsARTP.
+0	NA	NA	NA	RESULTS	Thirdly, we compared our method to the recently developed method aSPUsPath that can be used for pathway-based meta-analysis.
+0	NA	NA	NA	RESULTS	We used the R package, aSPU (version 1.39), with the default settings given in to conduct the aSPUsPath test
+0	NA	NA	NA	RESULTS	To evaluate the empirical size of sARTP and MsARTP, we conducted a simulation study by using individual-level GWAS data of the pathway PUJANA_BREAST_CANCER_WITH_BRCA1_MUTATED_UP (including 728 SNPs in 50 genes) from the GERA study.
+0	NA	NA	NA	RESULTS	We picked 12,000 samples randomly for this experiment.
+0	NA	NA	NA	RESULTS	By keeping their genotypes unchanged, we randomly assigned 6,000 subjects as cases and the remaining as controls to generate 500,000 datasets.
+0	NA	NA	NA	RESULTS	We split each dataset into three case-control studies, each with 2,000 cases and 2,000 controls.
+0	NA	NA	NA	RESULTS	To mimic the scenario when not all studies have their genotypes measured on the same set of SNPs (such as the one occurred in the DIAGRAM and AGEN data), we assumed that each case-control study had genotypes measured on only half of SNPs in the pathway.
+0	NA	NA	NA	RESULTS	For each generated dataset that consisted of three case-control studies, we applied sARTP to the SNP-level summary data obtained from each case-control study, and MsARTP to the meta-analysis result based on the three case-control studies, with the variance-covariance matrix estimated by an external reference panel (with 503 European reference samples from the 1000 Genomes Project), or an internal reference panel (with 500 samples randomly selected from the GERA data)
+0	NA	NA	NA	RESULTS	Based on results from the 500,000 generated datasets, this simulation study showed that both sARTP and MsARTP, using the internal or external reference samples, can well control their empirical sizes (Table 1).
+0	NA	NA	NA	RESULTS	Given the same reference panel, the p-values estimated from sARTP and MsARTP are highly consistent (Pearson's correlation coefficient > 0.99).
+0	NA	NA	NA	RESULTS	Furthermore, the p-values of sARTP (or MsARTP) estimated with an external or internal reference panel are also very consistent (Pearson's correlation coefficient > 0.99).
+0	NA	NA	NA	RESULTS	More numeric experiments demonstrating the validity of sARTP under the null are described in S2 Text
+0	NA	NA	NA	RESULTS	To demonstrate the importance of knowing nt and nts when applying MsARTP to the meta-analysis result, we analyzed each simulated dataset using MsARTP assuming the uniform coverage (nts = nt = ns).
+0	NA	NA	NA	RESULTS	We called this approach MsARTP-u.
+0	NA	NA	NA	RESULTS	It is clear from Table 1 that MsARTP-u assuming the uniform coverage suffers from inflated type I errors with either the internal or external reference panel
+0	NA	NA	NA	RESULTS	We conducted a set of simulation studies to compare the power of different strategies to carry out pathway analysis when SNP-level summary statistics were available from multiple studies.
+0	NA	NA	NA	RESULTS	We considered a hypothetical pathway consisting of 50 genes randomly selected from chromosome 17, each with 20 randomly chosen SNPs.
+0	NA	NA	NA	RESULTS	The joint genotype distribution at the 20 SNPs within each gene was defined by the observed genotypes in the GERA study.
+0	NA	NA	NA	RESULTS	We further assumed that all genes in that pathway are independent.
+0	NA	NA	NA	RESULTS	This assumption is unnecessary for sARTP and MsARTP, but it was introduced for simplifying the simulation.
+0	NA	NA	NA	RESULTS	For the risk model, we assumed the first   genes were associated with the outcome.
+0	NA	MAF	NA	RESULTS	Within each outcome-associated gene, we picked the SNP with its MAF closest to the median MAF level within the gene to be functional.
+0	NA	NA	NA	RESULTS	We considered the following risk model  where  is the genotype (encoded as 0, 1, or 2 according to counts of minor alleles) at the functional SNP within gene l. Under this model,  is also the marginal log odds ratio for the lth functional SNP.
+0	NA	MAF	NA	RESULTS	Given the sample sizes of cases and controls, and the MAF of the lth functional SNP,  was chosen such that the theoretical power of the trend test to detect the lth functional SNP is equal to  , with 0.05 as the targeted type I error rate.
+0	NA	NA	NA	RESULTS	For every pair of , we generated 1,000 datasets, each consisting of three case-control studies, with the same sample size and SNP coverage configurations used for evaluating the empirical size.
+0	NA	NA	NA	RESULTS	Given the genotype distribution in the general population, individual-level genotype data for a case-control study can be generated according to the assumed risk (model 8)
+0	NA	NA	NA	RESULTS	We assumed that only SNP-level summary statistics from each of the three studies were available.
+0	NA	NA	NA	RESULTS	For each simulated dataset, we applied sARTP and MsARTP, using either an internal or external reference panel to estimate the variance-covariance matrix.
+0	NA	NA	NA	RESULTS	The sARTP and MsARTP approaches integrate association evidence across SNP-level summary statistics, which are obtained by pooling information from all participating studies on individual SNPs.
+0	NA	NA	NA	RESULTS	As a comparison, we also considered a naive approach, in which we first applied sARTP to analyze the summary statistics from each study separately, and then combined the three pathway p-values with Fisher's method.
+0	NA	NA	NA	RESULTS	This naive approach could be useful when the researchers do not have access to the SNP-level summary data but the pathway p-values from individual studies.
+0	NA	NA	NA	RESULTS	The empirical powers are compared at the type I error level of 0.05, and are summarized in Table 2.
+0	NA	NA	NA	RESULTS	It is obvious that the pathway-based meta-analysis using sARTP, with either the internal or external reference panel, have almost the same level of power as the MsARTP method.
+0	NA	NA	NA	RESULTS	It is also evident that both sARTP and MsARTP are more powerful than the naive approach, which suggests that it is always be beneficial to have the SNP-level summary statistics from each participating study, or SNP-level meta-analysis result when conducting a pathway analysis
+0	NA	NA	NA	RESULTS	Given the SNP coverage information, the MsARTP method is a valid pathway association test that has well controlled type I error and similar power to the sARTP method.
+0	NA	NA	NA	RESULTS	In the following analysis, either sARTP or MsARTP is chosen depending on the type of available data.
+0	NA	NA	NA	RESULTS	For the sake of simplicity, we always label the chosen procedure as sARTP
+0	NA	NA	NA	RESULTS	Since the aSPUsPath method in the current aSPU package cannot handle summary data from multiple studies, or meta-analysis results from studies with varied SNP coverage, we focused on the scenario with just one study, and adopted the similar simulation strategy as the one used by to compare the power between sARTP and aSPUsPath.
+0	NA	NA	NA	RESULTS	We simulated haplotypes on a set of SNPs within a gene in the general population using the algorithm of Wang and Elston.
+0	NA	NA	NA	RESULTS	Then the joint genotypes on a subject can be formed by randomly pairing two haplotypes.
+0	NA	MAF	NA	RESULTS	In brief, we first chose the MAF for each SNP by randomly sampling a value from the uniform distribution U(0.1,0.4).
+0	NA	NA	NA	RESULTS	Then for the set of SNPs in a gene we sampled a latent vector  from a multivariate normal distribution with a covariance matrix Cov(zi, zj) = rho i-j ,1<=i,j<=q, where rho was sampled from the uniform distribution U(0,0.8) for a given gene.
+0	NA	MAF	NA	RESULTS	We randomly picked 50% of the SNPs and converted their simulated zi into minor and major alleles (coded as 0, 1), with the cuts chosen for each zi such that the resultant minor allele has its frequency defined by the specified MAF.
+0	NA	NA	NA	RESULTS	For the remaining SNPs, we used the same algorithm to dichotomize -zi into minor and major alleles.
+0	NA	NA	NA	RESULTS	This created a more realistic haplotype structure such that a haplotype can consist of a mixture of minor and major alleles.
+0	NA	NA	NA	RESULTS	Genotypes on SNPs from different genes were generated independently
+0	NA	NA	NA	RESULTS	Given the number of genes (20, 50, or 80) in a pathway, the proportion of genes (5%, 10%, 20%, and 30%) associated with the outcome, and a chosen common value for all log odds ratios (gamma*) in the risk (model 8), we repeated the following steps to generate 1,000 case-control studies, with each consisting of 1,000 cases and 1,000 controls.
+0	NA	NA	NA	RESULTS	First, the number of SNPs within each gene was randomly chosen from 10 to 100.
+0	NA	NA	NA	RESULTS	Second, for each randomly selected outcome-associated gene, we randomly picked a functional SNP.
+0	NA	NA	NA	RESULTS	Third, we use the aforementioned algorithm of Wang and Elston to generate the individual-level genotype data for a case-control study according to the specified risk model.
+0	NA	NA	NA	RESULTS	We also considered the situation where all gamma* in the risk (model 8) had the same magnitude but different directions.
+0	NA	NA	NA	RESULTS	More precisely, when generating a case-control study at the third step, we defined the risk (model 8) by randomly choosing the direction of each log odds ratio to be positive or negative with equal probability.
+0	NA	NA	NA	RESULTS	Furthermore, we considered a more complex scenario where each outcome-associated gene had one or two functional SNPs, each with equal probability
+0	NA	NA	NA	RESULTS	All simulation results are given in S1 and S2 Tables.
+0	NA	NA	NA	RESULTS	It is clear that sARTP are generally more powerful than aSPUsPath, especially when the signal-to-noise ratio (the proportion of genes including a functional SNP) is relatively low.
+0	NA	NA	NA	RESULTS	The two types of tests tend to have comparable performance when the signal-to-noise ratio increases to 30%, although it is uncommon for a candidate pathway to have such a high signal-to-noise ratio in real applications.
+0	NA	NA	NA	RESULTS	For example, among the 4,713 candidate pathways analyzed in the next section, only 4.2% and 0.9% of the pathways have over 20% and 30% of their genes that are likely to contain association signals (i.e., with gene-level p-values < 0.05)
+0	NA	NA	NA	RESULTS	From S1 and S2 Tables, we also notice that the advantage of sARTP over aSPUsPath is more evident if not all minor alleles of the functional SNPs are deleterious (or protective) variants (i.e., gamma* in the risk (model 8) are not all positive).
+0	NA	NA	NA	RESULTS	This is expected, as the sARTP approach does not take the effect direction of the minor allele at each SNP into consideration, while aSPUsPath integrates a set of candidate statistics, including the one similar to the burden test that assumes all minor alleles are either deleterious or protective.
+0	NA	NA	NA	RESULTS	When this assumption is not valid, the inclusion of the burden test statistic in aSPUsPath is unlikely to enhance the power, but certainly would increase the multiple-testing penalty
+0	NA	NA	NA	RESULTS	To demonstrate the consistency between results obtained by sARTP using SNP-level summary statistics and the ones by ARTP using individual-level genotype data, we compared pathway analysis results from three different procedures on the 4,713 candidate pathways using the GERA GWAS data.
+0	NA	NA	NA	RESULTS	Details on how those 4,713 pathways were pre-processed are given in the Results of T2D Pathway Analysis Section.
+0	NA	NA	NA	RESULTS	We applied sARTP to the SNP-level summary statistics generated from the GERA study, using either an internal or an external reference panel.
+0	NA	NA	NA	RESULTS	We also obtained the pathway p-values by directly applying the ARTP method to the individual-level GERA GWAS data.
+0	NA	NA	NA	RESULTS	Fig 1 shows the comparison among p-values from these three analyses, and demonstrates that all three approaches can generate very consistent results
+0	NA	NA	NA	FIG	Based on the GERA data, 4,713 pathways are analyzed in three different ways.
+0	NA	NA	NA	FIG	Pathway p-values obtained by ARTP using the GERA individual-level genetic data (x-axis) are compared with the ones obtained by sARTP using summary statistics in combination with the internal reference panel that consists of 500 randomly selected GERA samples (left), and the ones using the summary statistics in combination with the external reference panel that consists of 503 European subjects from the 1000 Genomes Project (right)
+0	NA	NA	NA	RESULTS	Since our goal was to identify new susceptibility loci for T2D through the pathway analysis, we excluded 170 high evidence T2D associated SNPs that were either listed in or found from the GWAS Catalog satisfying the following three conditions simultaneously: (1) were investigated by GWAS of samples with European ancestry; (2) had reported p-values <10-7 on the initial study; and (3) were replicated on independent studies.
+0	NA	NA	NA	RESULTS	We excluded 195 SNPs that has their single-locus testing p-values less than 10-7 in either DIAGRAM or GERA data to ensure that the pathway analysis result was not driven by a single SNP.
+0	NA	NA	NA	RESULTS	In addition, we further excluded genes within a +-500kb region from each of the removed SNPs to eliminate potential association signals that could be caused by linkage disequilibrium (LD) with the index SNPs
+0	NA	NA	NA	RESULTS	We conducted three types of pathway-based meta-analyses using sARTP, including the one using the DIAGRAM SNP-level summary statistics, the one using the GERA SNP-level summary statistics, and the pathway meta-analysis combining SNP-level summary statistics from both DIAGRAM and GERA studies.
+0	NA	NA	NA	RESULTS	When applying the pathway-based meta-analysis to a single gene, we refer to this as the gene-level meta-analysis.
+0	NA	NA	NA	RESULTS	We used the external reference panel of 503 Europeans from the 1000 Genomes Project to estimate the variance-covariance matrix
+0	NA	NA	NA	RESULTS	Before performing a pathway analysis, we applied LD filtering to remove redundant SNPs.
+0	NA	MAF	NA	RESULTS	For any two SNPs with their pairwise squared Pearson's correlation coefficient > 0.9 estimated from the external reference panel from the 1000 Genomes Project, we removed the one with a smaller value defined as, 2f(1-f)n0n1n-1, where n0 and n1 are numbers of controls and cases, n = n0 + n1, and f is the MAF based on the reference panel.
+0	NA	NA	NA	RESULTS	This value is proportional to the non-centrality parameter of the trend test statistic at a given SNP.
+0	NA	MAF	NA	RESULTS	We also excluded SNPs with MAF < 1%.
+0	NA	NA	NA	RESULTS	After all SNP filtering steps, we had a total of 4,713 pathways for the analysis.
+0	NA	NA	NA	RESULTS	The summary of the number of genes and SNPs used in each pathway analysis is given in S2 Fig
+0	NA	NA	NA	RESULTS	The DIAGRAM study had a genomic control inflation factor lambdaGC = 1.10 based on the published meta-analysis result.
+0	NA	NA	NA	RESULTS	The assembled GERA T2D GWAS had lambdaGC = 1.08.
+0	NA	NA	NA	RESULTS	When conducting the pathway analysis on each of two studies, we adjusted the inflation by using the corresponding  to rescale the standard error of estimated log odds ratio at each SNP.
+0	NA	NA	NA	RESULTS	The single-locus meta-analysis combining results from DIAGRAM and GERA datasets had an inflation factor lambdaGC = 1.067 after each study had adjusted for its own inflation factor.
+0	NA	NA	NA	RESULTS	We further adjusted this inflation in the pathway and gene-level meta-analysis when combining SNP-level summary statistics from both studies using formulas (4) and (5)
+0	NA	NA	NA	RESULTS	The Q-Q plots of gene-level and pathway p-values are given in Fig 2.
+0	NA	NA	NA	RESULTS	Gene-level p-value Q-Q plots based on the three analyses show no sign of inflation with their lambdaGC close to 1.0, but suggest that there are enriched gene-level association signals at the tail end.
+0	NA	NA	NA	RESULTS	The pathway p-value Q-Q plots, on the other hand, shift away from the diagonal identify line and have much higher lambdaGC, which suggests that T2D associated genes are preferably included in pathways under study.
+0	NA	NA	NA	RESULTS	In fact, it can be seen from S3 Fig that a gene with a smaller gene-level meta-analysis p-value tends to be included in more pathways, even though the 4,713 pathways collected from MSigDB v5.0 are not specifically defined for the study of T2D
+0	NA	NA	NA	FIG	(Left) Q-Q plots of gene-level p-values on 15,946 genes based on the sARTP gene-based analysis of the DIAGRAM study (DIAGRAM), the GERA study (GERA), and the two studies combined (META).
+0	NA	NA	NA	FIG	(Right) Q-Q plots of pathway p-values on 4,713 pathways based on the sARTP pathway analysis of the DIAGRAM study (DIAGRAM), the GERA study (GERA), and the two studies combined (META)
+0	NA	NA	NA	RESULTS	Fig 2 illustrates that the gene and pathway level signal from the GERA study tends to be slightly stronger than that from the DIAGRAM study.
+0	NA	NA	NA	RESULTS	The main reason is that the DIAGRAM summary result had gone through two rounds of inflation adjustments, with the first round done at each participating study, and the second round on the meta-analysis result.
+0	NA	NA	NA	RESULTS	Also, its second round adjustment (lambdaGC = 1.10) is larger than the one applied to the GERA study (lambdaGC = 1.08).
+0	NA	NA	NA	RESULTS	Adjusting for lambdaGC in the pathway analysis could be too conservative, since some proportion of the inflation can be caused by the real polygenic effect.
+0	NA	NA	NA	RESULTS	A less conservative adjustment could be possible, but it might not be adequate.
+0	NA	NA	NA	RESULTS	More discussions on this issue are given in the Discussion Section
+0	NA	NA	NA	RESULTS	Based on the pathway meta-analysis on a total of 4,713 pathways, we identified 43 significant pathways with p-values less than 1.06x10-5, the family-wise significant threshold based on the Bonferroni correction.
+0	NA	NA	NA	RESULTS	Their pathway meta-analysis results as well as results from individual studies are summarized in Table 3.
+0	NA	NA	NA	RESULTS	More detailed results on each of 43 significant pathways are given in the S6-S48 Figs and S6 Table.
+0	NA	NA	NA	RESULTS	There are a total of 15,946 unique genes in all 4,713 pathways.
+0	NA	NA	NA	RESULTS	The top 50 genes with smallest gene-level p-values based on the gene meta-analysis are listed in S3 Table.
+0	NA	NA	NA	RESULTS	Because of the LD filtering, a gene belonging to two pathways might end up with slightly different sets of SNPs.
+0	NA	NA	NA	RESULTS	To remove this ambiguity, we obtained the gene-level p-values by conducting a gene-level meta-analysis on each gene separately
+0	NA	NA	NA	RESULTS	From Table 3, we can notice that some identified pathways have relatively weak association signals from each of the two studies, but have very significant p-values based on the pathway meta-analysis on the two studies combined.
+0	NA	NA	NA	RESULTS	For example, the pathway RIZ_ERYTHROID_DIFFERENTIATION has p-values of 0.0233 and 0.0231 based on DIAGRAM and GERA studies, respectively.
+0	NA	NA	NA	RESULTS	Combining these two p-values using Fisher's method yields a p-value of 0.0046.
+0	NA	NA	NA	RESULTS	On the other hand, the pathway meta-analysis produces a much more significant result (p = 6.15x10-7).
+0	NA	NA	NA	RESULTS	This demonstrates the power advantage of the pathway meta-analysis over the approach that simply combines the pathways p-values from individual studies.
+0	NA	NA	NA	RESULTS	The aforementioned simulation studies also confirmed this observation (Table 2)
+0	NA	NA	NA	RESULTS	In Fig 3, we illustrate the connection between the 43 significant pathways and a group of genes showing association evidence.
+0	NA	NA	NA	RESULTS	For the purpose of illustration, in the figure we only focus on 46 genes that are covered by the 43 pathways and have their gene-level meta-analysis p-values less than 0.001.
+0	NA	UBE2Z	NA	RESULTS	It is evident from Fig 3 that a cluster of 4 genes, UBE2Z, SNF8, GIP, and ATP5G1, has the most significant gene-level p-values (S3 Table), and contribute association signals to 20 out of 43 significant pathways (S6-S25 Figs).
+0	NA	NA	NA	RESULTS	These 4 genes overlap each other at chromosome 17q21.
+0	NA	NA	rs1058018	RESULTS	This region contains a previously unidentified genome-wide significant synonymous SNP rs1058018 (meta-analysis p = 3.06x10-8) after two rounds of inflation adjustments.
+0	NA	NA	rs1058018	RESULTS	More detailed information on SNP rs1058018 and SNPs in that region are given in S4 Table, S4 and S5 Figs.
+0	NA	NA	rs1058018	RESULTS	By conditioning on rs1058018, none of the other SNPs in this region are significant based on the conditional association analysis using the GERA individual-level GWAS data.
+0	NA	UBE2Z	rs1058018	RESULTS	Based on GTEx data v6, rs1058018 is a cis eQTL for UBE2Z in blood (p = 7.9x10-15).
+0	NA	UBE2Z	NA	RESULTS	UBE2Z is involved in Class I MHC antigen processing and presentation (GeneCards).
+0	NA	NA	NA	RESULTS	The region at 17q21 was previously implicated to be associated with T2D through a candidate gene/loci approach.
+0	NA	NA	NA	RESULTS	Although genes at the 17q21 region carry the strongest association signal, 11 out of those 20 pathways remain to be globally significant (p < 1.06x10-5) after excluding those genes from the pathway definition (Table 3)
+0	NA	NA	NA	FIG	There are 46 unique genes in the 43 significant pathways that have their gene-level meta-analysis p-values less than 0.001.
+0	NA	NA	NA	FIG	Each row in the plot represents one of 43 significant pathways.
+0	NA	NA	NA	FIG	Each column represents one of the 46 unique genes.
+0	NA	NA	NA	FIG	The chromosome IDs of 46 unique genes are given in parentheses.
+0	NA	NA	NA	FIG	The color of each cell represents the gene-level p-value (in the -log10 scale).
+0	NA	NA	NA	FIG	A cell for a gene that is not included in a pathway is colored gray in the corresponding entry.
+0	NA	NA	NA	FIG	The orders of genes (x-axis) and pathways (y-axis) are arranged according to their gene and pathway meta-analysis p-values
+0	NA	NA	NA	RESULTS	The majority of 43 identified pathways are enriched with signals from multiple chromosomal regions as demonstrated by the Q-Q plots of their SNP-level and gene-level p-values (S6-S48 Figs).
+0	NA	S26	NA	RESULTS	For example, the strongest T2D-associated pathway, SCHLOSSER_SERUM_RESPONSE_UP, consists of 103 genes, which includes two genes with p-values < 0.001, and has 20 genes with p-values between 0.001 and 0.05 (S26 Fig, and Supplemental data).
+0	NA	NA	NA	RESULTS	We conducted the ingenuity pathway analysis on those 22 genes with p-values less than 0.05, and found enrichment of these genes in caveolae-mediated cytosis (important for removal of low/high density lipoproteins), and lipid metabolism pathways, and in functions/diseases related to differentiation of phagocytes and transport of proteins
+0	NA	S31	NA	RESULTS	It is assuring that our pathway analysis detected several pathways that are natural candidates underlying the development of T2D, including the pathways KEGG_MATURITY_ONSET_DIABETES_OF_THE_YOUNG (S31 Fig), KEGG_TYPE_II_DIABETES_MELLITUS (S41 Fig), KEGG_INSULIN_SIGNALING_PATHWAY (S43 Fig), and REACTOME_REGULATION_OF_BETA_CELL_DEVELOPMENT (S33 Fig).
+0	NA	NA	NA	RESULTS	It is worth emphasizing that these pathways were analyzed after excluding genes in the neighborhood of 170 GWAS established T2D loci and 195 SNPs with p-values <10-7 on either DIAGRAM or GERA data, which suggests that these well-defined T2D-related pathways are enriched with additional unidentified and contributory T2D-associated genes
+0	cancers	S21	NA	RESULTS	Among the 43 globally significant pathways, there are multiple ones that are defined according to specific gene expression patterns on various tumor types, including pancreatic adenocarcinoma (S21 Fig), hepatocellular carcinoma (HCC) (S27 and S32 Figs), bladder carcinoma (S42 Fig), nasopharyngeal carcinoma (S24 Fig), and familial breast cancer (S34 and S37 Figs).
+0	cancers	NA	NA	RESULTS	It is well recognized that T2D patients have elevated risk of cancer at multiple cancer sites, such as the liver and pancreas.
+0	cancers	NA	NA	RESULTS	These findings can provide valuable insights into the genetic basis underlying the connection between T2D and a host of different cancers
+0	NA	NA	NA	RESULTS	In the above analysis, we used the sARTP method with the gene-level association evidence summarized by one or two most significant SNPs within each gene, under the assumption that there are at most two independent association signals within a given gene.
+0	NA	NA	NA	RESULTS	We also applied sARTP by using 3 SNP-level cut points (i.e., (c1,c2,c3) = (1,2,3)) to reanalyze the 4,713 pathways based on the combined data of DIAGRAM and GERA.
+0	NA	NA	NA	RESULTS	It appears that results obtained by sARTP with 3 SNP-level cut points are very consistent with those with 2 cut points (S49 Fig)
+0	NA	NA	NA	RESULTS	We reanalyzed the 43 significant pathways identified from the European populations using summary-level data generated by the AGEN-T2D study.
+0	NA	NA	NA	RESULTS	An inflation factor lambdaGC = 1.03 calculated from the AGEN-T2D meta-analysis was adjusted in the pathway meta-analysis.
+0	NA	NA	NA	RESULTS	The genetic regions excluded from analyzing the DIAGRAM and GERA studies were also excluded from the AGEN study.
+0	NA	NA	NA	RESULTS	The results were summarized in Table 4.
+0	NA	NA	NA	RESULTS	There are 10 out of 43 pathways with the unadjusted p-value less than 0.05, suggesting that many pathways identified from the European populations were also enriched with T2D-associated genes in the eastern Asian populations (S7 Table).
+0	NA	S27	NA	RESULTS	Among the 43 pathways, we were able to identify 4 significant T2D-associated pathways at the false discovery rate (FDR) of 0.05 (S27, S12, S32 and S36 Figs), and 3 additional T2D-associated pathways at the FDR of 0.1 (S47, S44, and S25 Figs).
+0	NA	NA	NA	RESULTS	All the pathway p-values remain basically the same level if we further excluded genes within +-500kb regions surrounding the GWAS T2D loci established in eastern Asian populations.
+0	NA	NA	NA	RESULTS	These results support the presence of trans-ethnic pathway effect on T2D in European and eastern Asian populations
+0	hepatocellular carcinoma	hepatocellular carcinoma (HCC)	NA	RESULTS	Given the existing epidemiologic evidence on the close connection between T2D and the liver cancer, it is noteworthy that the two HCC related pathways (S27 and S32 Figs) identified in European populations remain to be significant in eastern Asian populations at the FDR of 0.05 (Table 4).
+0	NA	hepatocellular carcinoma (HCC)	NA	RESULTS	The pathway PATIL_LIVER_CANCER consists of 653 genes (after data preprocessing) that are highly expressed in HCC and are enriched with genes having functions related to cell growth, cell cycle, metabolism, and cell proliferation.
+0	NA	hepatocellular carcinoma (HCC)	NA	RESULTS	The other pathway, HOSHIDA_LIVER_CANCER_SUBCLASS_S3 consists of 240 genes that show similar gene expression variation patterns and together define a HCC subtype with its unique histologic, molecular and clinical characteristics.
+0	NA	NA	NA	RESULTS	These two pathways have only 6 genes in common, and none of the 6 genes has a gene-level p-value < 0.05 in either European or eastern Asian data.
+0	hepatocellular carcinoma	NA	NA	RESULTS	More in depth investigations of these two complementary pathways could lead to further understanding the connection between T2D and the liver cancer
+0	NA	NA	rs1058018	RESULTS	The genome-wide significant SNP rs1058018 at the 17q21 region identified through the combined analysis of DIAGRAM and GERA studies turned out to be null in the AGEN-T2D study (p = 0.29).
+0	NA	NA	NA	RESULTS	This could be due to the relatively small sample size of the AGEN-T2D study, or the genetic risk heterogeneity at the 17q21 locus among different ethnic populations.
+0	NA	S12	NA	RESULTS	Nevertheless, 2 out of the 20 pathways (S12 and S25 Figs) that contain genes within the 17q21 region are still significant at the FDR of 0.1.
+0	NA	S27	NA	RESULTS	Among the 23 pathways that do not contain any gene within the 17q21 region, 5 pathways remain significant at the FDR of 0.1 (S27, S32, S36, S47 and S44 Figs)
+0	NA	NA	NA	DISCUSS	We developed a general statistical procedure sARTP for pathway analysis using SNP-level summary statistics generated from multiple GWAS.
+0	NA	NA	NA	DISCUSS	By applying sARTP to summary statistics from two large studies with a total of 19,809 T2D cases and 111,181 controls with European ancestry, we were able to identify 43 globally significant T2D-associated pathways after excluding genes in neighborhoods of GWAS established T2D loci.
+0	NA	NA	NA	DISCUSS	Using summary data generated from 8 T2D GWAS with 6,952 cases and 11,865 controls from eastern Asian populations, we further showed that 7 out of 43 pathways identified in the European populations were also significant in the eastern Asian populations at the FDR of 0.1.
+0	NA	NA	NA	DISCUSS	The analysis clearly highlights novel T2D-associated genes and pathways beyond what has been known from single-SNP association analysis reported from largest GWAS to date.
+0	NA	NA	NA	DISCUSS	Since the new procedure requires only SNP-level summary statistics, it provides a flexible way for conducting pathway analysis, alleviating the burden of handling large volumes of individual-level GWAS data
+0	NA	NA	NA	DISCUSS	We have developed a computationally efficient R package called ARTP2 implementing the ARTP and sARTP procedures, so that it can be used for conducting pathway analysis based on individual-level genetic data, as well as SNP-level summary data from one or multiple GWAS.
+0	NA	NA	NA	DISCUSS	The R package also supports the parallelization on Unix-like OS, which can substantially accelerate the computation of small p-values when a large number of resampling steps are needed.
+0	NA	NA	NA	DISCUSS	The ARTP2 package has a user-friendly interface and provides a comprehensive set of data preprocessing procedures to ensure that all the input information (e.g., allele information of SNP-level summary statistics and genotype reference panel) can be processed coherently.
+0	cancers	NA	NA	DISCUSS	To make the sARTP method accessible to a wider research community, we have also developed a web-based tool that allows investigators to conduct their pathway analyses using the computing resource at the National Cancer Institutes through simple on-line inputs of summary data
+0	NA	NA	NA	DISCUSS	Single-locus analysis of GWAS usually has its genomic control inflation factor larger than 1.0.
+0	NA	NA	NA	DISCUSS	Some proportion of the inflation can be attributed to various confounding biases, such as the one caused by population stratification, while the other part can be due to the real polygenic effect.
+0	NA	NA	NA	DISCUSS	In the pathway analysis it is important to minimize the confounding bias at the SNP-level summary statistic.
+0	NA	NA	NA	DISCUSS	Otherwise a small bias at the SNP level can be accumulated in the pathway analysis, and lead to an elevated false discovery rate.
+0	NA	NA	NA	DISCUSS	Here we try to remove the confounding bias by adjusting for the genomic control inflation factor observed at the GWAS study.
+0	NA	NA	NA	DISCUSS	This approach is conservative because part of the inflation can be caused by the real polygenic effect.
+0	NA	NA	NA	DISCUSS	Recently, developed the LD score regression method to quantify the level of inflation caused solely by the confounding bias.
+0	NA	NA	NA	DISCUSS	Adjusting for the inflation factor estimated by this method, instead of the genomic control inflation factor, can potentially increase the power of the pathway analysis.
+0	NA	NA	NA	DISCUSS	However, the LD score regression method relies on a specific polygenic risk model, and its estimate might not be robust for this model assumption.
+0	NA	NA	NA	DISCUSS	More investigations are needed to evaluate the impact of this new inflation adjustment on the pathway analysis
+0	NA	NA	NA	DISCUSS	There are several other strategies to increase the power of pathway analysis besides increasing sample size.
+0	NA	NA	NA	DISCUSS	One area of active research is to find better ways to define the gene-level summary statistic using observed genotypes on multiple SNPs, so that it can accurately characterize the impact of the gene on the outcome.
+0	NA	NA	NA	DISCUSS	In our proposed procedure, we adopt a data driven approach to select a subset of SNPs within a gene that collectively show the strongest association evidence.
+0	NA	NA	NA	DISCUSS	Because of this, we have to pay the penalty of multiple-comparison in the final pathway significance assessment.
+0	NA	NA	NA	DISCUSS	However, it is well recognized that SNPs at different loci can have varied levels of functional implications.
+0	NA	NA	NA	DISCUSS	We can potentially reduce the burden of multiple-comparisons and thus improve the power of the pathway analysis, by prioritizing SNPs according to existing genomic knowledge and other data resources.
+0	NA	NA	NA	DISCUSS	For example, recently proposed a new gene-level summary statistic based on a prediction model that was trained with external transcriptome data.
+0	NA	NA	NA	DISCUSS	The gene-level summary statistic is defined as the predicted value that estimates the component of gene expression regulated by a subject's genotypes within the neighborhood of the considered gene.
+0	NA	NA	NA	DISCUSS	Pathway analysis procedures using this kind of biologically informed gene-level summary statistic can be easily incorporated into the ARTP2 framework
+0	NA	NA	NA	DISCUSS	The sARTP method can be easily expanded to adopt other multi-locus statistics in accumulating association within a gene, as long as they can be written in terms of SNP-level score statistics and their variance-covariance matrix.
+0	NA	NA	NA	DISCUSS	For example, the current ARTP2 package provides the option for conducting the pathway meta-analysis using the joint test statistics proposed by
+0	NA	NA	NA	DISCUSS	When conducting pathway analysis with individual-level genetic data, we could run into a computing memory issue if the study has a large sample size and the pathway consists of a large number of genes and SNPs (S4 Fig).
+0	NA	NA	NA	DISCUSS	The ability of performing pathway analysis using summary data provides a convenient and efficient solution in those situations.
+0	NA	NA	NA	DISCUSS	We can first calculate the SNP-level summary statistics based on the individual-level genetic data, and then randomly sample a small proportion of the original data as an internal reference to estimate the variance-covariant matrix for score statistics at considered SNPs.
+0	NA	NA	NA	DISCUSS	Based on our experiments, using 500 or more subjects to form a reference panel would be good enough to generate accurate pathway p-values.
+0	NA	NA	NA	DISCUSS	As shown in Fig 1, the testing results using this approach are very consistent with those based on individual-level genotype data
+0	NA	NA	NA	DISCUSS	The sARTP approach can be applied directly to SNP-level meta-analysis results.
+0	NA	NA	NA	DISCUSS	This is very convenient as meta-analysis results are in general easily accessible.
+0	NA	NA	NA	DISCUSS	But we want to emphasize that it is important to know the set of the SNPs studied by each participating study in order to apply sARTP properly, as the SNP coverage information is essential for accurately estimating the variance-covariance matrix of SNP-level score statistics.
+0	NA	NA	NA	DISCUSS	GWAS consortia usually do not post the SNP coverage information when releasing their meta-analysis results.
+0	NA	NA	NA	DISCUSS	Many statistical packages designed for conducting multi-locus analysis based on meta-analysis results often assume the uniform coverage.
+0	NA	NA	NA	DISCUSS	As we already have demonstrated in the context of pathway analysis, this type of over-simplification could lead to inflated false positive rate
+0	NA	NA	NA	DISCUSS	The proposed procedure assumes that all participating studies are conducted with subjects with the same ancestry background.
+0	NA	NA	NA	DISCUSS	If this is not the case, a simple approach is to use the Fisher's method to combine pathway p-values estimated on different ethnic populations.
+0	NA	NA	NA	DISCUSS	However, if there were no evidence for the existence of cross ethnic risk heterogeneity, it would be more powerful to assume a fixed effects model on the SNP-level association when performing the pathway analysis.
+0	NA	NA	NA	DISCUSS	In that case, since the LD structures in different ethnic populations are different, we need a separate reference panel for each ethic group to derive the corresponding variance-covariance matrix of the score statistics.
+0	NA	NA	NA	DISCUSS	The current ARTP2 package needs to be modified to accommodate such a more complicated case
+0	NA	NA	NA	DISCUSS	As already demonstrated by many successful GWAS meta-analysis, increasing the sample size through combining results from multiple studies is a very effective way to improve our chance for new findings.
+0	NA	NA	NA	DISCUSS	For the same reason, pathway-based meta-analysis can provide us with new opportunities to uncover biological pathways that are previously undetectable due to the limitation on the sample size.
+0	NA	NA	NA	DISCUSS	With more summary data from meta-analysis becoming increasingly available, we expect the ARTP2 package would be a valuable tool for further exploring the genome in search for the hidden heritability
+0	NA	NA	NA	DISCUSS	The URLs for data and software presented herein are as follows
+0	NA	NA	NA	DISCUSS	Genetic Epidemiology Research on Aging (GERA, dbGaP Study Accession: phs000674.v1.p1), http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000674.v1.p

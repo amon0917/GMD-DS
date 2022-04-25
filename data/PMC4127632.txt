@@ -1,0 +1,152 @@
+1	breast cancer	ZC3H11A	rs4951011	ABSTRACT	In a three-stage genome-wide association study among East Asian women including 22,780 cases and 24,181 controls, we identified three novel genetic loci associated with breast cancer risk, including rs4951011 at 1q32.1 (in intron 2 of the ZC3H11A gene, P = 8.82 x 10-9), rs10474352 at 5q14.3 (near the ARRDC3 gene, P = 1.67 x 10-9), and rs2290203 at 15q26.1 (in intron 14 of the PRC1 gene, P = 4.25 x 10-8).
+0	NA	NA	NA	ABSTRACT	These associations were replicated in European-ancestry populations including 16,003 cases and 41,335 controls (P = 0.030, 0.004, and 0.010, respectively).
+1	NA	NA	rs4951011	ABSTRACT	Data from the ENCODE project suggest that variants rs4951011 and rs10474352 may be located in an enhancer region and transcription factor binding sites, respectively.
+0	breast cancer	NA	NA	ABSTRACT	This study provides additional insights into the genetics and biology of breast cancer
+0	breast cancer	NA	NA	INTRO	Breast cancer is one of the most common malignancies among women worldwide.
+0	breast cancer	NA	NA	INTRO	Genetic factors play a significant role in breast cancer etiology.
+0	breast cancer	NA	NA	INTRO	To date, genome-wide association studies (GWAS) have identified approximately 75 genetic loci to be associated with breast cancer risk.
+0	NA	NA	NA	INTRO	With the exception of the studies we have conducted among East Asian women and one study conducted among women of African ancestry, all other published GWAS have been conducted among women of European ancestry.
+0	breast cancer	NA	NA	INTRO	Genetic risk variants identified to date from GWAS explain only about 10% of familial risk for breast cancer in East Asian women.
+0	breast cancer	NA	NA	INTRO	Given the difference in genetic architecture and environmental exposures between women of European and East Asian ancestry, additional GWAS need to be conducted among East Asian women to fully uncover the genetic basis of breast cancer risk
+0	breast cancer	NA	NA	INTRO	The current study was conducted as part of the Asia Breast Cancer Consortium (ABCC) to search for additional novel susceptibility loci for breast cancer.
+0	breast cancer	NA	NA	INTRO	Included in this study are data obtained from 22,780 breast cancer cases and 24,181 controls who were recruited in 14 studies conducted in multiple Asian countries (Supplementary Table 1).
+0	NA	NA	NA	INTRO	The discovery stage (Stage 1) included two GWAS, in which 5,285 Chinese women (SBCGS-1) and 4,777 Korean women (SeBCS1) were scanned primarily using the Affymetrix Genome-Wide Human SNP Array 6.0, which consists of 906,602 single nucleotide polymorphisms (SNPs).
+0	NA	NA	NA	INTRO	After applying quality control (QC) filters described previously, 5,152 Chinese women (2,867 cases and 2,285 controls; 677,157 SNPs) and 4,298 Korean women (2,246 cases and 2,052 controls; 555,117 SNPs) remained in the current analysis.
+0	NA	NA	NA	INTRO	Imputation was conducted for each study following the MACH algorithm using HapMap II release 22 CHB and JPT data (2,416,663 SNPs) as the reference.
+0	breast cancer	NA	NA	INTRO	Only SNPs with a high imputation quality score (RSQR >= 0.50) were analyzed for associations with breast cancer risk.
+0	NA	NA	NA	INTRO	In the analyses of data from Chinese and Korean women, a total of 1,930,412 SNPs and 1,907,146 SNPs, respectively, were included.
+0	NA	NA	NA	INTRO	A meta-analysis of these GWAS data was conducted using a fixed-effects, inverse-variance meta-analysis with the METAL program.
+0	NA	NA	NA	INTRO	There was little evidence for inflation in the association test statistics for the studies included in Stage 1 (genomic inflation factors (lambda): lambda= 1.0426 for SBCGS-1, lambda= 1.0431 for SeBCS1, and lambda = 1.0499 for both studies combined; Supplementary Figure 1).
+0	NA	NA	NA	INTRO	When scaled to a study of 1,000 cases and 1,000 controls, lambda1,000 were 1.02, 1.02, and 1.01, respectively
+0	breast cancer	NA	NA	INTRO	To select SNPs for the Stage 2 replication, we used the following criteria: (1) P < 0.05 in the Stage 1 meta results; (2) same direction of association in both Stage 1 studies; (3) no heterogeneity observed between the two Stage 1 studies (P > 0.05 and I2 < 25%); (4) an imputation score of RSQR > 0.5 in both Stage 1 studies; (5) a minor allele frequency (MAF) of > 0.05 in both Stage 1 studies; and (6) not in strong LD (r2 < 0.5) with any of the known breast cancer susceptibility loci or any SNPs we had evaluated previously.
+0	NA	NA	NA	INTRO	For SNPs that met the above criteria but were in LD (r2 > 0.5) with each other, we selected only one SNP for replication.
+0	NA	NA	NA	INTRO	A total of 4,598 SNPs were selected, and assays for 4,071 SNPs were successfully designed using Illumina Infinium assays as a part of large-scale genotyping effort.
+0	NA	NA	NA	INTRO	Of the 4,071 SNPs, 3,850 SNPs were successfully genotyped in an independent set of 3,944 cases and 3,980 controls selected from the Shanghai studies (SBCGS-2).
+0	NA	NA	NA	INTRO	After QC exclusions, 3,678 SNPs were included in the analyses of 3,472 cases and 3,595 controls
+0	NA	NA	NA	INTRO	For Stage 3, the top 50 SNPs were selected for further replication in an independent set of 14,195 cases and 16,249 controls from 10 studies participating in the ABCC based on the following criteria: (1) P < 0.005 in the meta-analysis of Stage 1 and 2 data and (2) same direction of association in both Stages 1 and 2.
+0	breast cancer	NA	NA	INTRO	Of the 50 SNPs evaluated in Stage 3, 11 SNPs showed an association with breast cancer risk at P < 0.05 (Supplementary Table 2).
+1	breast cancer	NA	rs4951011	INTRO	Combined analyses of data from all three stages identified three SNPs that were associated with breast cancer risk at the genome-wide significance level (P < 5.0 x 10-8): rs4951011 at 1q32.1, odds ratio (OR) = 1.09, P = 8.82 x 10-9; rs10474352 at 5q14.3, OR = 1.09, P = 1.67 x 10-9; and rs2290203 at 15q26.1, OR = 1.08, P = 4.25 x 10-8 (Table 1).
+0	breast cancer	NA	NA	INTRO	The association between breast cancer risk and each of these three SNPs was consistent across the studies included in the ABCC (Figure 1), and none of the tests for heterogeneity were statistically significant (P > 0.05) (Table 1).
+0	breast cancer	NA	NA	INTRO	No significant heterogeneity was found for the association of these three SNPs with breast cancer risk among Chinese, Japanese, or Korean women (Supplementary Table 3).
+0	breast cancer	NA	rs11082321	INTRO	One additional SNP showed an association with breast cancer risk with a P-value near the conventional GWAS significance level (rs11082321 at 18q11.2, OR = 1.08, P = 6.77x 10-7) (Supplementary Table 2)
+0	breast cancer	ER	rs10474352	INTRO	The associations of SNPs rs10474352 and rs2290203 appeared to be stronger for estrogen receptor (ER)-positive breast cancer than for ER-negative breast cancer, and the heterogeneity test was of borderline significance for rs10474352 (P = 0.085) (Supplementary Table 4).
+1	breast cancer	NA	rs4951011	INTRO	The associations of rs4951011 with breast cancer risk were similar for ER-positive and ER-negative breast cancer
+0	breast cancer	NA	NA	INTRO	We evaluated the three newly identified risk variants for associations with breast cancer risk in European-ancestry women using data from 16,003 cases and 41,335 controls derived from twelve breast cancer GWAS and included in the DRIVE GAME-ON Consortium.
+1	breast cancer	NA	rs4951011	INTRO	SNPs rs4951011, rs10474352, and rs2290203 were all associated with breast cancer risk in women of European ancestry at P < 0.05 with the same direction of association as observed in East Asian women (Supplementary Table 5).
+0	NA	NA	NA	INTRO	However, the strength of the associations was weaker in European-ancestry women than in East Asian-ancestry women, and the frequencies of the risk alleles were quite different between these two populations
+0	cancers	NA	NA	INTRO	We evaluated and annotated putative functional variants and candidate genes in each of the three newly identified loci using data from the Encyclopedia of DNA Elements (ENCODE), The Cancer Genome Atlas (TCGA) breast cancer project, expression quantitative trait locus (eQTL) databases as well as RegulomeDB and HaploReg v2.
+0	NA	NA	NA	INTRO	We summarize the results below for each locus
+1	NA	ARRDC3	rs10474352	INTRO	SNP rs10474352 is located on 5q14.3, 53,078 bp upstream of the ARRDC3 gene (Figure 2b).
+1	breast cancer	ARRDC3	NA	INTRO	The ARRDC3 gene is a member of the arrestin gene family and is suspected of playing a role in breast cancer development.
+1	breast cancer	ARRDC3	NA	INTRO	A gene cluster at 5q11-q23 that includes ARRDC3 was found to be deleted in 17% of breast cancer tumor tissue.
+1	breast cancer	ARRDC3	NA	INTRO	Up regulation of the ARRDC3 gene in a breast cancer cell line has been shown to repress cell proliferation, migration, invasion, and in vivo tumorigenesis.
+1	breast cancer	ARRDC3	NA	INTRO	We evaluated ARRDC3 gene expression in 87 breast cancer cases included in TCGA.
+1	cancers	ARRDC3	NA	INTRO	The expression level of the ARRDC3 gene was significantly lower in tumor tissue than in adjacent normal tissue (P = 1.88 x 10-18) (Supplementary Table 6).
+1	breast cancer	ARRDC3	NA	INTRO	This is consistent with a previous study showing that expression levels of the ARRDC3 gene were lower in breast tumor tissue compared with normal tissue and in metastatic tumor tissue compared with primary tumor tissue.
+1	cancers	ARRDC3	NA	INTRO	Furthermore, lower ARRDC3 expression in tumor tissue has been associated with poorer disease-free survival in breast cancer patients.
+0	NA	NA	rs10474352	INTRO	A search of RegulomeDB and HaploReg indicated that rs10474352 may be located in predicted AP-1and VDR motifs (Supplementary Table 7), suggesting a potential regulatory role.
+0	breast cancer	NA	NA	INTRO	We evaluated whether SNPs in this locus are cis-eQTL for other genes by analyzing TCGA breast cancer data.
+0	NA	NA	NA	INTRO	Our analysis revealed no evidence that this SNP or its correlated SNPs are cis-eQTLs for any genes in this locus.
+1	breast cancer	ARRDC3	rs421379	INTRO	Recently, a SNP located ~596 kb upstream of the ARRDC3 gene, rs421379, was found to be associated with prognosis for early-onset breast cancer in a GWAS.
+1	NA	ARRDC3	rs421379	INTRO	However, rs421379 is not in LD with rs10474352 (r2=0 in both ASN and CEU data), the SNP in close proximity to ARRDC3 that was identified in our study.
+0	breast cancer	NA	rs421379	INTRO	Furthermore, in our study, rs421379 had a low MAF (0.03-0.04) and was not associated with breast cancer risk (P = 0.2484 in Stage 1)
+1	NA	PRC1	rs2290203	INTRO	SNP rs2290203 is located in intron 14 of the protein regulator of cytokinesis 1 (PRC1) gene (NM_003981) at 15q26.1 (Figure 2c).
+1	NA	PRC1	NA	INTRO	This gene encodes the PRC1 protein, which is involved in cytokinesis and is a substrate for several cyclin-dependent kinases.
+1	NA	PRC1	NA	INTRO	The PRC1 gene is down-regulated by the TP53 gene, and it is over-expressed in p53-defective cells.
+1	breast cancer	PRC1	NA	INTRO	Interestingly, the PRC1 gene is included in a five-gene expression signature that predicted prognosis among breast cancer patients in a recent study.
+1	cancers	PRC1	NA	INTRO	The expression level of the PRC1 gene was significantly higher in tumor tissue than in adjacent normal tissue (P = 4.62 x 10-30) among breast cancer cases included in TCGA (Supplementary Table 6).
+1	NA	NA	rs2290203	INTRO	Our cis-eQTL analysis using TCGA data showed no association of rs2290203 with PRC1gene expression, but did reveal a correlation with expression of the RCCD1gene, which is 5,712 bp upstream of rs2290203.
+0	NA	NA	rs2290203	INTRO	An eQTL analysis of human monocytes has also indicated that rs2290203 is a cis-eQTL for the RCCD1gene.
+0	cancers	RCCD1	rs2290203	INTRO	In our study, the rs2290203 risk allele (G) was associated with lower RCCD1 expression in both tumor (P = 3.6 x 10-4) and adjacent normal tissue (P = 0.007) (Supplementary Figure 2).
+0	cancers	NA	rs4544218	INTRO	However, these associations were no longer statistically significant after adjusting for the most significant cis-eQTL SNPs (rs4544218 for tumor tissue; rs59278520 for normal tissue), which are in strong LD with rs2290203 (Supplementary Figure 3).
+0	breast cancer	NA	rs4544218	INTRO	Variant rs4544218 was not associated with breast cancer risk (P = 0.8925), and rs59278520 was marginally associated with breast cancer risk (P = 0.0518) in the SBCGS-1, Stage 1 samples.
+0	NA	RCCD1	NA	INTRO	The function of the RCCD1 gene is unknown
+1	NA	zinc finger, BED-type containing 6	rs4951011	INTRO	SNP rs4951011 is located in intron 2 of the zinc finger CCCH domain-containing protein 11A (ZC3H11A) gene (NM_014827) at 1q32.1 (Figure 2a) and the 5' untranslated region (UTR) of the zinc finger, BED-type containing 6 (ZBED6) gene (NM_001174108) (not shown in figure).
+0	NA	zinc finger, BED-type containing 6	NA	INTRO	The ZBED6 protein has recently been recognized as a novel transcription factor in placental mammals.
+1	NA	ZC3H11A	NA	INTRO	The function of the ZC3H11A gene is not clear.
+1	NA	NA	rs4951011	INTRO	ChromHMM annotation using human mammary epithelial cell (HMEC) data from ENCODE suggests that rs4951011 may be located in a strong enhancer region marked by peaks of several active histone methylation modifications (H3K4me1, H3K4me3, H3K9ac, and H3K27ac).
+1	allergy	NA	rs4951011	INTRO	A search of RegulomeDB and HaploReg indicated that rs4951011 may be located in a predicted HNF1 motif and map to a DNase I hypersensitivity site in the MCF-7 cell line (Supplementary Table 7).
+1	breast cancer	ZC3H11A	NA	INTRO	Expression levels of the ZC3H11A gene were significantly higher in breast tumor tissue than in adjacent normal tissue (P = 0.0049) in TCGA data (Supplementary Table 6).
+0	NA	NA	NA	INTRO	Analyses using TCGA data revealed no evidence that this SNP or other SNPs correlated with it are cis-eQTLs for any genes in this locus.
+1	breast cancer	MDM4	rs4245739	INTRO	Recently, SNP rs4245739 in the MDM4 gene, ~752 kb downstream of rs4951011 (r2 = 0 in both ASN and CEU data), was associated with ER-negative breast cancer risk.
+0	breast cancer	NA	rs4245739	INTRO	In our study, rs4245739 had a low MAF (0.03-0.05) and was not associated with breast cancer risk (P = 0.1861 in Stage 1)
+0	breast cancer	NA	NA	INTRO	In summary, our large GWAS conducted among East Asian women identified three new breast cancer susceptibility loci at 1q32.1, 5q14.3, and 15q26.1 and suggested a possible association with a fourth locus at 18q11.2.
+0	breast cancer	NA	NA	INTRO	The associations of these loci with breast cancer risk may be mediated through cell-growth-control regulation, tumor-cell migration and invasion, or metastasis.
+0	NA	NA	NA	INTRO	Further studies of possible mechanisms through which these loci and genes are involved in breast tumorigenesis are warranted.
+0	breast cancer	NA	NA	INTRO	Results from this study provide additional insights into the genetics and biology of breast cancer
+0	NA	NA	NA	METHODS	The ABCC comprises 22,780 cases and 24,181 controls from 14 studies (Supplementary Table 1), including 15,483 Chinese women, 18,367 Korean women, and 13,111 Japanese women.
+0	breast cancer	NA	NA	METHODS	Chinese participants came from six studies based in: Shanghai [n = 12,219, the Shanghai Breast Cancer Study (SBCS), the Shanghai Breast Cancer Survival Study (SBCSS), the Shanghai Endometrial Cancer Study (SECS, controls only), and the Shanghai Women's Health Study (SWHS)], Taiwan (n = 2,131), and Hong Kong (n = 1,133).
+0	breast cancer	NA	NA	METHODS	Korean participants came from five studies: the Seoul Breast Cancer Study (SeBCS) (n = 6,179), the Hwasun Cancer Epidemiology Study-Breast (HCES-Br) (n = 6,573), the Korea Genome Epidemiology Study (KoGES; n = 3,209), the Korean Hereditary Breast Cancer study (KOHBRA; n = 1,397), and the Korean National Cancer Center (n = 1,009).
+0	breast cancer	NA	NA	METHODS	Japanese participants came from three studies: the Biobank Japan Project (BBJ) (n = 11,021), the Nagoya Study (n = 1,288), and the Nagano Breast Cancer Study (n = 802) (Supplementary Table 1).
+0	NA	NA	NA	METHODS	Detailed descriptions of these participating studies are presented in the Supplementary Note.
+0	NA	NA	NA	METHODS	The protocols for all participating studies were approved by their relevant Institutional Review Boards, and all participants of participating studies provided written informed consent.
+0	NA	NA	NA	METHODS	We estimated that our study had a statistical power of >80% to identify an association with an OR of 1.09 or above at P <5x10-8 for SNPs with a MAF as low as 0.25
+0	NA	NA	NA	METHODS	Stage 1 included two GWAS, in which 5,285 Chinese women and 4,777 Korean women were scanned primarily using the Affymetrix Genome-Wide Human SNP Array 6.0.
+0	NA	NA	NA	METHODS	Genotyping protocols for Stage I have been described elsewhere.
+0	NA	NA	NA	METHODS	In the Chinese GWAS (SBCGS-1), the initial 300 samples were genotyped using the Affymetrix GeneChip Mapping 500K Array Set.
+0	NA	NA	NA	METHODS	The remaining 4,985 samples were genotyped using the Affymetrix Genome-Wide Human SNP Array 6.0.
+0	NA	NA	NA	METHODS	After QC exclusions, the final dataset included 2,867 cases and 2,285 controls for 677,157 markers.
+0	NA	NA	NA	METHODS	For the Korean GWAS (SeBCS1), the Affymetrix Genome-Wide Human SNP Array 6.0 Array was also used.
+0	NA	NA	NA	METHODS	After QC exclusions, the final dataset included 2,246 cases and 2,052 controls for 555,117 markers.
+0	NA	NA	NA	METHODS	Detailed descriptions of QC and criteria for sample and marker exclusion are presented in the Supplementary Note
+0	NA	NA	NA	METHODS	Genotyping assays for 3,944 cases and 3,980 controls (SBCGS-2) in Stage 2 were completed using Illumina Infinium assays as the add-on content to the Illumina HumanExome Beadchip (see URLs).
+0	NA	NA	NA	METHODS	Genotype calling was carried out by using Illumina's GenTrain version 2.0 clustering algorithm in GenomeStudio version 2011.1.
+0	NA	NA	NA	METHODS	Cluster boundaries were determined using study samples.
+0	NA	NA	NA	METHODS	Further QC procedures were conducted using PLINK (see URLs).
+0	NA	NA	NA	METHODS	Detailed descriptions of QC and criteria for sample and marker exclusion are presented in the Supplementary Note.
+0	NA	NA	NA	METHODS	Of the 4,598 SNPs selected, assays for 4,071 SNPs were successfully designed using Illumina Infinium assays.
+0	breast cancer	NA	NA	METHODS	A total of 3,850 SNPs were successfully genotyped, and 3,678 SNPs were included in the analyses of 3,472 breast cancer cases and 3,595 controls
+0	NA	NA	NA	METHODS	Genotyping assays for the 50 SNPs in Stage 3 were completed at the Vanderbilt Molecular Epidemiology Laboratory using the iPLEX Sequenom MassArray platform for 19,423 samples from the Taiwan, Hong Kong, HCES-Br, KOHBRA/KoGES, SeBCS2, Korea-NCC, Nagoya, and Nagano studies.
+0	NA	NA	NA	METHODS	Detailed descriptions of QC and criteria for sample and marker exclusion are presented in the Supplementary Note.
+0	NA	NA	NA	METHODS	For the BBJ1 study, the SNP data needed for the study were extracted from either genotyped (n = 8) or imputed (n = 14, mean RSQR = 0.96) data generated using the OmniExpress BeadChip.
+0	breast cancer	NA	NA	METHODS	Breast cancer cases included in the BBJ2 study were genotyped using multiplex-PCR Invader assays.
+0	NA	NA	NA	METHODS	SNP data for the BBJ2 controls were extracted from data generated using the OmniExpress BeadChip
+0	cancers	NA	NA	METHODS	We also selected 16 SNPs that showed a promising trend in the other studies included in Stage 3 for additional genotyping assays among 2,021 cases and 1,958 controls included in a case-control study conducted in Malaysia and Singapore that used the iPLEX Sequenom MassArray platform at the Cancer Research Initiatives Foundation, Sime Darby Medical Centre, Malaysia.
+0	NA	NA	NA	METHODS	However, because of a potential concern about genetic admixture revealed in our previous study and an unusual pattern of associations observed in these studies (Supplementary Table 8), we did not include these samples in the final analysis
+0	NA	NA	NA	METHODS	PLINK version 1.07 (see URLs) was used to analyze the genome-wide data obtained in Stage 1.
+0	NA	NA	NA	METHODS	To evaluate the population structure in the Chinese GWAS (SBCGS-1), we performed principal component analyses using the EIGENSTRAT software in a set of approximately 6,000 independent SNPs that met the following criteria: (1) a neighboring distance > 200 kb from the SNP of interest, (2) a MAF > 0.2, (3) r2 < 0.1, and (4) a genotype call rate > 99%.
+0	NA	NA	NA	METHODS	The inflation factor (lambda) was estimated to be 1.0426.
+0	NA	NA	NA	METHODS	Similar analyses were performed for the Korean GWAS (SeBCS1) and yielded a lambda of 1.0431.
+0	NA	NA	NA	METHODS	We also rescaled the inflation statistic to an equivalent value for a study including 1,000 cases and 1,000 controls (lambda1000) using the formula: lambda1000 = 1 + 500 x (lambda - 1) x (1/Ncases + 1/Ncontrols).
+0	NA	NA	NA	METHODS	The lambda1000 was 1.02 for both studies included in Stage 1 and 1.01 in the meta-analysis of both studies.
+0	NA	NA	NA	METHODS	These data suggest that any population substructure, if present, should not have any appreciable effect on the results.
+0	NA	NA	NA	METHODS	ORs associated with each SNP and 95% confidence intervals (CIs) were estimated using logistic regression implemented in PLINK with adjustment for age and the first two principal components
+0	NA	NA	NA	METHODS	We used the program MACH 1.0 (see URLs) to impute genotypes for autosomal SNPs (n = 2,416,663) that were present in CHB (Han Chinese in Beijing, China) and JPT (Japanese in Tokyo, Japan) HapMap Phase II release 22 data for samples included the Chinese and Korean GWAS.
+0	NA	NA	NA	METHODS	Only SNPs with high imputation quality score (RSQR > 0.50) and a MAF > 0.05 in these two GWAS were included in the analyses.
+0	NA	NA	NA	METHODS	Dosage data for imputed SNPs for samples in each GWAS were analyzed using the program Mach2dat (see URLs).
+0	breast cancer	NA	NA	METHODS	Associations between genotype dosage (0, 1, and 2) of the effect allele and breast cancer risk were assessed using logistic regression models after adjusting for age and the first two principal components.
+0	NA	NA	NA	METHODS	ORs associated with each SNP and 95% CIs were estimated under a log-additive model.
+0	NA	NA	NA	METHODS	We also used SAS version 9.3 (see URLs) to analyze genotype data, which yielded results virtually identical to those generated from dosage data using Mach2dat.
+0	NA	NA	NA	METHODS	We obtained summary ORs and 95% CIs of SNPs from the two GWAS by using METAL software (see URLs) to run a fixed-effects inverse-variance meta-analysis
+0	NA	NA	NA	METHODS	Individual data were obtained from all studies except for the two BioBank Japan studies (BBJ1 and BBJ2).
+0	NA	NA	NA	METHODS	Case-control differences in selected demographic characteristics and major risk factors were evaluated using t-tests (for continuous variables) and Chi-square tests (for categorical variables).
+0	breast cancer	NA	NA	METHODS	Summary associations between SNPs and breast cancer risk were generated on the basis of a fixed-effects inverse-variance meta-analysis conducted using METAL software.
+0	NA	ER	NA	METHODS	Analyses stratified by ethnicity and estrogen receptor (ER) status were also carried out.
+0	NA	ER	NA	METHODS	Heterogeneity across studies, among ethnicities, and according to ER status was assessed with a Cochran's Q test.
+0	NA	NA	NA	METHODS	P values of < 5 x 10-8 in the combined analysis were considered statistically significant
+0	breast cancer	NA	NA	METHODS	We assessed associations of breast cancer risk with the three newly identified risk variants among European-ancestry women in collaboration with the DRIVE GAME-ON Consortium (see URLs).
+0	NA	NA	NA	METHODS	Included in this analysis were data from 16,003 cases and 41,335 controls recruited in twelve studies.
+0	NA	NA	NA	METHODS	Genome-wide scan data from these studies were imputed and meta-analyzed, and summary data are presented herein
+0	NA	NA	NA	METHODS	We generated forest plots by using R version 3.0.0 (see URLs).
+0	NA	NA	NA	METHODS	Regional association plots were drawn using the website-based tool LocusZoom, version 1.1 (see URLs).
+0	NA	NA	NA	METHODS	LD matrices used in this study were reported based on HapMap release 22 data.
+0	NA	NA	NA	METHODS	All genomic references are based on NCBI Build 36
+0	NA	NA	NA	METHODS	Functional annotation was performed using data from the ENCODE project (see URLs) accessed through the UCSC Genome Browser (see URLs).
+0	NA	NA	NA	METHODS	Enhancer and transcription elongation regions were predicted in HMEC by using ChromHMM annotation.
+0	allergy	NA	NA	METHODS	DNase I hypersensitive areas, transcription factor binding sites, and miRNA binding sites were evaluated in all cell types, including breast cancer cells, included in ENCODE.
+0	allergy	NA	NA	METHODS	RegulomeDB (see URLs), a database that annotates SNPs with known and predicted regulatory elements in the intergenic regions of the human genome using data from GEO, the ENCODE project, and published literature, was also used to predict the possibility of transcription factor binding sites and DNase I hypersensitivity.
+0	NA	NA	NA	METHODS	In addition, we performed functional annotation using HaploReg v2 (see URLs), a tool for exploring annotations of the noncoding genome at variants on haplotype blocks
+0	breast cancer	NA	NA	METHODS	We used the TCGA breast cancer data (Supplementary Note) to perform an eQTL analysis for normal and tumor tissue samples separately.
+0	NA	NA	NA	METHODS	Detailed descriptions of eQTL analysis are presented in the Supplementary Note.
+0	NA	NA	NA	METHODS	We focused only on the SNPs and genes located within the 1Mb regions flanking the three newly identified risk loci to identify cis-eQTLs.
+0	NA	NA	NA	METHODS	A significance threshold P value of < 0.01 was used to determine candidate cis-eQTLs
+0	NA	NA	NA	METHODS	To identify differentially expressed genes located in the three identified risk loci, we analyzed data from a total of 87 pairs of breast tumor-normal tissue samples included in TCGA (Supplementary Note).
+0	NA	NA	NA	METHODS	Detailed descriptions of differential gene expression analysis are presented in the Supplementary Note
+0	NA	NA	NA	FIG	Per-allele ORs are presented.
+0	NA	NA	NA	FIG	The size of the box is proportional to the number of cases and controls in each study.
+1	NA	NA	rs4951011	FIG	(a): rs4951011, (b): rs10474352, (c): rs2290203
+0	NA	NA	NA	FIG	For each plot, the -log10 (P values) (y axis) of SNPs are shown according to their chromosomal positions (x axis) in NCBI Build 36.
+0	NA	NA	NA	FIG	The color of SNPs represents their LD (r2, HapMap Asian) with the index SNP at each locus.
+0	NA	NA	NA	FIG	With the exception of the index SNPs, which are shown as purple diamonds for Stage 1 and purple circles for the meta-analyses of all studies, data shown for all other SNPs are from Stage 1 only.
+1	NA	NA	rs4951011	FIG	(a): rs4951011 (1q32.1), (b): rs10474352 (5q14.3), (c): rs2290203 (15q26.1)
+0	breast cancer	NA	NA	TABLE	Associations of breast cancer risk with newly identified risk variants: Results from the Asia Breast Cancer Consortiu

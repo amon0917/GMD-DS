@@ -1,0 +1,227 @@
+0	AMD	NA	NA	ABSTRACT	To investigate whether the two subtypes of advanced age-related macular degeneration (AMD), choroidal neovascularization (CNV) and geographic atrophy (GA), segregate separately in families and to identify which genetic variants are associated with these two subtypes
+0	AMD	NA	NA	ABSTRACT	For the sibling correlation study, we included 209 sibling pairs with advanced AMD.
+0	AMD	NA	NA	ABSTRACT	For the GWAS, we included 2594 participants with advanced AMD subtypes and 4134 controls.
+0	AMD	NA	NA	ABSTRACT	Replication cohorts included 5383 advanced AMD participants and 15,240 controls
+0	AMD	NA	NA	ABSTRACT	Participants had AMD grade assigned based on fundus photography and/or examination.
+0	AMD	NA	NA	ABSTRACT	To determine heritability of advanced AMD subtypes, we performed a sibling correlation study.
+0	NA	NA	NA	ABSTRACT	For the GWAS, we conducted genome-wide genotyping and imputed 6,036,699 single nucleotide polymorphism (SNPs).
+0	NA	NA	NA	ABSTRACT	We then analyzed SNPs with a generalized linear model controlling for genotyping platform and genetic ancestry.
+0	NA	NA	NA	ABSTRACT	The most significant associations were evaluated in independent cohorts
+0	AMD	NA	NA	ABSTRACT	Concordance of advanced AMD subtypes in sibling pairs and associations between SNPs with GA and CNV advanced AMD subtypes
+0	AMD	NA	NA	ABSTRACT	The difference between the observed and expected proportion of siblings concordant for the same subtype of advanced AMD was different to a statistically significant degree (P=4.2 x 10-5) meaning that siblings of probands with CNV or GA are more likely to develop CNV or GA, respectively.
+1	NA	NA	rs10490924	ABSTRACT	In the analysis comparing participants with CNV to those with GA, we observed a statistically significant association at the ARMS2/HTRA1 locus [rs10490924, odds ratio (OR)=1.47, P=4.3 x10-9] which was confirmed in the replication samples (OR=1.38, P=7.4 x 10-14 for combined discovery and replication analysis)
+0	AMD	NA	NA	ABSTRACT	Whether a patient with AMD develops CNV vs. GA is determined in part by genetic variation.
+1	AMD	NA	NA	ABSTRACT	In this large GWAS meta-analysis and replication analysis, the ARMS2/HTRA1 locus confers increased risk for both advanced AMD subtypes but imparts greater risk for CNV than for GA.
+0	AMD	NA	NA	ABSTRACT	This locus explains a small proportion of the excess sibling correlation for advanced AMD subtype.
+0	AMD	NA	NA	ABSTRACT	Other loci were detected with suggestive associations which differ for advanced AMD subtypes and deserve follow-up in additional studies
+0	AMD	NA	NA	INTRO	Age-related macular degeneration (AMD) is the most common cause of irreversible vision loss in older adults.
+0	AMD	NA	NA	INTRO	Vision loss from AMD most often occurs when the disease progresses to one of two advanced forms, geographic atrophy (GA) or choroidal neovascularization (CNV).
+0	NA	NA	NA	INTRO	Clinical characteristics and histological features of GA and CNV suggest distinct pathological pathways in their development.
+0	atrophy	NA	NA	INTRO	GA is usually slowly progressive and involves atrophy of the macular neurosensory cells, whereas CNV often presents with acute vision loss and involves growth of abnormal choroidal vessels under the macula.
+0	NA	NA	NA	INTRO	Both advanced forms can be found in the same patient; GA and CNV can occur in the same eye or a patient may have GA in one eye and CNV in the other.
+0	AMD	NA	NA	INTRO	While there are also some predisposing pathophysiologic changes in the extracellular matrix of the macula that are seen in both types of AMD, it is unclear what leads eyes with early or intermediate disease to progress to one advanced subtype or the other.
+0	hypertension	NA	NA	INTRO	Some differences in the effects of environmental risk factors, such as hypertension and cigarette smoking, on the development of neovascular vs. non-neovascular AMD have been suggested.
+0	NA	NA	NA	INTRO	However, these environmental risk factors alone do not explain the entire difference in development of the two subtypes
+0	AMD	NA	NA	INTRO	The genetic predisposition of overall AMD has been clearly demonstrated, and genetic association studies have been very successful in uncovering common variants at several loci that account for this.
+0	NA	NA	NA	INTRO	These case-control association studies have most commonly included a combination of patients with GA and patients with CNV together as advanced cases.
+0	NA	NA	NA	INTRO	Subgroup analyses performed as part of some of these investigations have not generally found significant differences in the risk allele frequencies for CNV vs. GA, which may be due to limited power given the relatively small number of patients with GA in these investigations.
+1	NA	NA	rs10490924	INTRO	However, in the subgroup analyses for the largest GWAS performed to date and in a candidate gene study performed by our group in a large sample, the ARMS2/HTRA1 locus (rs10490924) was associated with a greater risk of CNV compared with GA. Interestingly, no other loci have been proven to predispose specifically to one of the advanced forms.
+0	AMD	NA	NA	INTRO	Herein we report new information and expand upon our previous analyses of this subphenotype difference in the following ways: (1) including novel evidence for sibling correlation, (2) investigating more than 6 million additional loci using genome-wide data with improved imputation methods based on the 1000 Genomes Project, (3) adding in depth analyses of the single nucleotide polymorphisms (SNPs) associated with overall advanced AMD, including the recently reported FRK/COL10A1 and VEGFA loci, and (4) incorporating additional replication samples.
+0	NA	NA	NA	INTRO	The purposes of this study were to determine whether development of CNV vs. GA is heritable and to identify genetic variants that may explain differences in risk of CNV vs. GA with an unbiased method of examining genetic loci across the genome
+0	NA	NA	NA	METHODS	The methods employed in this study conformed to the tenets of the Declaration of Helsinki.
+0	NA	NA	NA	METHODS	Informed consent was obtained from all participants, and this work is Health Insurance Portability and Accountability Act (HIPAA)-compliant.
+0	NA	NA	NA	METHODS	Institutional Review Board (IRB)/Ethics Committee approval was obtained
+0	NA	NA	NA	METHODS	To determine the heritability of GA and CNV, we performed a sibling correlation study.
+0	AMD	NA	NA	METHODS	A sibling correlation analysis examines whether siblings are more likely to have the same subtype of advanced AMD than what would be expected by chance alone, if there were no shared genetic or environmental risk factors that contribute to the subtype development.
+0	AMD	NA	NA	METHODS	Participants for this analysis were derived from the Family Study of AMD.
+0	AMD	NA	NA	METHODS	Families with two or more siblings reported to have AMD (large drusen, GA, or CNV) were recruited from the AMD database of the principal investigator (JMS), from other ophthalmologists throughout the country, from Age-Related Eye Disease Study (AREDS) Ancillary Study, and through various media (newspapers, newsletters, brochures).
+0	NA	NA	NA	METHODS	All siblings were assessed with ocular examination and fundus photography.
+0	AMD	NA	NA	METHODS	For this analysis, two siblings were chosen from each family in the Family Study of AMD database.
+0	NA	NA	NA	METHODS	Both siblings had either GA or CNV in at least one eye, and if bilateral advanced disease was present, they could not have GA in one eye and CNV in the other eye.
+0	AMD	NA	NA	METHODS	If there were only two siblings with advanced AMD in the family that met the criteria, those two were chosen.
+0	AMD	NA	NA	METHODS	If the family had more than two siblings with advanced AMD who met the criteria, a computer-generated randomization algorithm selected the two siblings.
+0	NA	NA	NA	METHODS	We calculated the observed proportion of sibling pairs (1) who both had GA as their worse eye grade, (2) who both had CNV as their worse eye grade, and (3) in which one sibling had GA as the worse eye grade and the other sibling had CNV as the worse grade.
+0	NA	NA	NA	METHODS	The expected proportions for these three categories were calculated based on the number of individuals with each eye grade, assuming that the occurrence of the two subphenotypes of CNV and GA was not heritable.
+0	NA	NA	NA	METHODS	The distributions of the observed vs. expected proportions of the three sibling pair categories were compared using the chi-square test
+1	NA	NA	NA	METHODS	Because the ARMS2/HTRA1 locus has been shown to contribute to potential heritability of the two subphenotypes, we also calculated the expected proportions for the three sibling pair categories controlling for ARMS2/HTRA1 genotype.
+1	NA	NA	NA	METHODS	For this analysis, participants were divided into three groups based on their observed ARMS2/HTRA1 genotype group (GG, TG and TT).
+0	NA	NA	NA	METHODS	Within each genotype group, we then randomly reassigned each participant's phenotype to CNV or GA while preserving the observed proportion of participants with CNV vs. GA within each genotype group.
+0	NA	NA	NA	METHODS	This random assignment was performed with a computer-generated algorithm.
+0	NA	NA	NA	METHODS	We then recalculated the proportion of siblings in each category.
+1	AMD	NA	NA	METHODS	This analysis was done to assess how much of the sibling correlation we observed for advanced AMD subtype could be explained by ARMS2/HTRA1 genotype
+0	acute myocardial infarction	NA	NA	METHODS	For the GWAS, the cases and controls were derived from the Tufts/Massachusetts General Hospital (MGH) GWAS Cohort Study, the Michigan, Mayo, Age-Related Eye Disease Study (AREDS), Pennsylvania (MMAP) Cohort Study, as well as controls from the Myocardial Infarction Genetics Consortium (MIGen)  and the Genetic Association Information Network (GAIN) Schizophrenia Study.
+0	NA	NA	NA	METHODS	Information on the publicly available MMAP and GAIN dataset sources is available in Appendix 1 at http://aaojournal.org.
+0	NA	NA	NA	METHODS	All patients were of European ancestry.
+0	AMD	NA	NA	METHODS	For the Tufts/MGH GWAS Cohort Study, AMD grade was assigned based on fundus photography and ocular examination (Clinical Age-Related Maculopathy Grading System [CARMS] advanced AMD grades 4 and 5).
+0	NA	NA	NA	METHODS	CARMS Grade 4 is defined as either GA with involvement of the macular center or noncentral GA at least 350 microm in size.
+0	AMD	NA	NA	METHODS	CARMS Grade 5 is defined as exudative AMD including nondrusenoid pigment epithelial detachments, serous or hemorrhagic retinal detachments, CNV with subretinal or sub-pigment epithelial hemorrhage or fibrosis, or scarring consistent with the treatment of AMD.
+0	NA	NA	NA	METHODS	If a patient had evidence of both GA and CNV in the same eye, they were classified as a Grade 5 (CNV) in that eye.
+0	NA	NA	NA	METHODS	The final designation of grade for each participant was based on the highest grade in either eye.
+0	NA	NA	NA	METHODS	Therefore a patient had Grade 4 (GA) in one eye and a Grade 5 (CNV) in the other eye, was designated a Grade 5 (CNV) for the purposes of this study.
+0	AMD	NA	NA	METHODS	Examined participants without AMD were unrelated to cases, 60 years of age or older, and were defined as individuals without macular degeneration, categorized as CARMS stage 1, based on fundus photography and ocular examination.
+0	AMD	NA	NA	METHODS	We included only MMAP cases with GA or CNV in the analysis; early and intermediate AMD cases were excluded.
+0	NA	NA	NA	METHODS	MIGen controls have been included in our previous GWAS study and were described in detail.
+0	schizophrenia	NA	NA	METHODS	Shared controls from the GAIN Schizophrenia Study were described in Manolio et al.
+0	NA	NA	NA	METHODS	The combined Tufts/MGH, MMAP, MIGen and GAIN dataset will be referred to as the Tufts/MMAP/MIGen/GAIN (TMMG) sample.
+0	NA	NA	NA	METHODS	This dataset has been previously described in further detail
+0	NA	NA	NA	METHODS	The Tufts/MGH and MIGen samples were genotyped at the Broad Institute and National Center for Research Resources (NCRR) Center for Genotyping and Analysis using the Affymetrix SNP 6.0 GeneChip (AFFY 6.0, 909622 SNPs).
+0	NA	NA	NA	METHODS	Shared controls from the GAIN study obtained from dbGaP were also genotyped by using the Affymetrix SNP 6.0 GeneChip.
+0	NA	NA	NA	METHODS	MMAP samples obtained from dbGaP were genotyped on the Illumina HumanCNV370v1 Bead Array (ILMN 370, 370404 SNPs).
+0	NA	NA	NA	METHODS	All samples included in this study met quality-control measures as described previously.
+0	NA	NA	NA	METHODS	For the meta-analysis of GWAS, we included only high quality imputed genotypes (INFO >0.6) and minor allele frequency (MAF) > 0.01.
+0	NA	NA	NA	METHODS	The INFO score is a measure of imputation reliability.
+0	NA	NA	NA	METHODS	A consensus set of 6,036,699 high quality SNPs from each imputed dataset was analyzed by PLINK using a generalized linear model controlling for the genotyping platform and genetic ancestry based on principal component analysis by EIGENSOFT.
+0	NA	NA	NA	METHODS	The imputed genotypes were coded by the allele dosage for each SNP in the analysis
+0	NA	NA	NA	METHODS	We performed three main GWAS analyses.
+0	NA	NA	NA	METHODS	First, we compared individuals who had CNV in at least one eye to those with GA in at least one eye.
+0	NA	NA	NA	METHODS	If a patient had GA in one eye and CNV in the contralateral eye, they were classified as a CNV case for the primary analyses.
+0	AMD	NA	NA	METHODS	Second, we compared individuals who had GA in at least one eye and no CNV in either eye (cases) to individuals without any signs of AMD (controls).
+0	AMD	NA	NA	METHODS	Finally we compared individuals who had CNV in at least one eye (cases) to individuals without any signs of AMD (controls).
+0	NA	NA	NA	METHODS	It is possible that some of these CNV cases had GA in their contraleral eye.
+0	NA	NA	NA	METHODS	We also performed each of these 10 analyses adjusting for age at ascertainment and separately in men and women.
+0	NA	NA	NA	METHODS	To determine if the inclusion of patients who had CNV in one eye and GA in the other eye as CNV cases in the main analyses affected the association results, we performed a sensitivity analysis.
+0	NA	NA	NA	METHODS	The sensitivity analysis consisted of repeating the analysis with the subset of patients with grades available for both eyes and excluding the patients who had CNV in one eye and GA in the other eye.
+0	NA	NA	NA	METHODS	Patients with CNV and GA in the same eye were not excluded for this sensitivity analysis because we did not have sufficiently detailed phenotyping information on most patients to isolate these cases.
+0	NA	NA	NA	METHODS	For novel associations, the P value threshold for significance in the GWAS was P = 5x10-8.
+0	AMD	NA	NA	METHODS	For SNPs in the thirteen loci that have previously been associated with overall advanced AMD, a P value threshold for significance of 0.0038 was determined by the Bonferroni correction method
+0	AMD	NA	NA	METHODS	Replication of SNPs with the smallest P values from the CNV vs. GA and CNV vs. no AMD analyses was pursued in ten independent cohorts from Johns Hopkins University, Columbia University, Washington University, Genentech, the Rotterdam Study, Centre for Eye Research Australia, an independent replication sample from Tufts/MGH, Hopital Intercommunal de Creteil, the Queen's University of Belfast, and Complications of AMD Prevention Trial.
+0	NA	NA	NA	METHODS	All replication studies applied similar criteria for the diagnosis of cases.
+0	NA	NA	NA	METHODS	SNPs which met genotype quality control criteria in replication cohorts were tested for association with a generalized linear model in PLINK.
+0	NA	NA	NA	METHODS	We used an additive model for each SNP (0, 1, or 2 minor alleles).
+0	NA	NA	NA	METHODS	We conducted a combined analysis for the results of top SNPs in all participating cohorts using Cochran-Mantel-Haenszel pooling of the odds ratios (OR) and a fixed effects model with inverse-variance weighting
+0	AMD	NA	NA	RESULTS	From the 390 families that are part of the Family Study of AMD, 209 had sibling pairs who met the inclusion criteria for this sibling correlation analysis.
+0	NA	NA	NA	RESULTS	The other 181 families did not meet criteria because they did not have two siblings with GA or CNV (n=145) or at least one of the siblings had GA in one eye and CNV in the other eye (n=36).
+0	AMD	NA	NA	RESULTS	The distribution of sex in the 209 sibling pairs was in line with the overall female predominance in the Family Study of AMD: 15% were brother-brother pairs, 39% were sister-brother pairs, and 46% were sister-sister pairs.
+0	AMD	NA	NA	RESULTS	The difference between the observed and expected distributions of siblings concordant for the subtype of advanced AMD in their worse eye was statistically significant (P=4.2x10-5) (Table 1).
+0	AMD	NA	NA	RESULTS	This means that if one sibling develops CNV, the other sibling is more likely to develop CNV than GA if they develop advanced AMD.
+0	AMD	NA	NA	RESULTS	Conversely, if one sibling develops GA, the other sibling is more likely to develop GA than CNV if they develop advanced AMD.
+0	NA	NA	NA	RESULTS	This supported the rationale for continuing the analyses to look for genetic variants that exert a differential effect on the risk of GA as compared with CNV
+0	NA	NA	NA	RESULTS	The TMMG dataset contained 819 participants with GA and 1775 participants with CNV (the discovery cohort).
+0	NA	NA	NA	RESULTS	Figure 1 (available at http://aaojournal.org) shows a plot of the first two principal components from this analysis.
+0	NA	NA	NA	RESULTS	Principal components analysis is a way to correct for population stratification (allele frequency differences between cases and controls due to systematic ancestry differences) which can cause spurious associations in genetic association studies.
+0	NA	NA	NA	RESULTS	The principal components analysis for genetic association studies takes the 12 genotype data from each individual to infer their genetic ancestry.
+0	NA	NA	NA	RESULTS	It plots this genetic ancestry by individual principal components, or axes of genetic variation, to determine if the cases and controls differ in their genetic ancestry.
+0	NA	NA	NA	RESULTS	Review of the first two principal components derived from the genetic data show no obvious difference between cases and controls, suggesting absence of any significant population stratification.
+0	NA	NA	NA	RESULTS	We plotted our meta-analysis of GWAS P values in Quantile-Quantile (QQ) plots (Figure 2A - available at http://aaojournal.org).
+0	NA	NA	NA	RESULTS	We observed little statistical inflation in the distribution of the association statistic (inflation factor lambdagc = 1.014).
+0	NA	NA	NA	RESULTS	Figure 3A shows a Manhattan plot for this analysis.
+0	NA	NA	NA	RESULTS	In the Manhattan plot, each dot represents one SNP tested in the GWAS.
+0	NA	NA	NA	RESULTS	Each dot, or SNP, is plotted according to its location along the chromosomes of the human genome (horizontal axis) and its P value in the GWAS analysis (vertical axis).
+0	NA	NA	NA	RESULTS	The higher the dots, the stronger the genetic association.
+0	NA	NA	NA	RESULTS	The red line indicates the genome-wide significance threshold of 5x10-8.
+1	NA	NA	NA	RESULTS	The ARMS2/HTRA1 locus is the only one to meet this significance threshold on the Manhattan plot of the GWAS analysis for CNV vs. GA
+0	AMD	NA	NA	RESULTS	Table 2 includes the most statistically significant SNPs for independent loci from the GA vs. CNV comparison for new and previously reported AMD SNPs.
+1	NA	NA	rs10490924	RESULTS	We observed a statistically significant association signal at the ARMS2/HTRA1 locus (rs10490924, P=4.3x10-9).
+1	NA	NA	NA	RESULTS	Figure 2B (available at http://aaojournal.org) shows the QQ plot of the GWAS meta-analysis results after removal of the ARMS2/HTRA1 locus where the line became flattened to lambdagc = 0.999.
+1	NA	NA	NA	RESULTS	Removal of the ARMS2/HTRA1 locus was done to more easily visualize if there are any other loci that are significantly associated.
+0	NA	NA	NA	RESULTS	No other loci were associated at a genome-wide significant P value (< 5x10-8).
+0	NA	KCTD10	NA	RESULTS	However, several variants reached a significance level of 5.5 x10-6 to 1.4x10-6 including SNPs in KCTD10 and NFATC2 and SNPs near QSER1, BC017935, LILRA4, NUDT4, RASA1, ADARB2, and UTP18.
+1	NA	NA	NA	RESULTS	After adjusting for age at ascertainment, the results were not significantly different, with ARMS2/HTRA1 again being the only locus to achieve genome-wide significance (OR = 1.48, P=3.6x10-9).
+0	AMD	NA	NA	RESULTS	None of the other SNPs that have been previously associated with overall AMD were significantly associated in CNV vs. GA analysis
+1	AMD	NA	NA	RESULTS	When we evaluated the contribution of the ARMS2/HTRA1 locus to sibling correlation for AMD subtype, a small amount of the excess sibling correlation could be explained by genetic variation in this region (Table 1).
+0	NA	NA	NA	RESULTS	For example, the proportion of sibling pairs expected to be concordant for GA assuming no heritability was 7.7% and the observed proportion was 13.8%, or a 6.1% difference in the proportion observed vs. expected.
+0	AMD	NA	NA	RESULTS	This means that there must be shared genetic and/or environmental factors that increase the chance of two siblings having the same subtype of AMD (in this case GA) by 6.1 percentage points over what would be expected if there were no genetic or environmental factors at play.
+1	NA	NA	NA	RESULTS	When we controlled for the effect of the ARMS2/HTRA1 locus, the proportion of the sibling pairs expected to be concordant for GA expected was 8.1%, which explained 0.4% (8.1% minus 7.7%) of the 6.1% difference.
+1	AMD	NA	NA	RESULTS	If two siblings both have at least one T allele at the ARMS2/HTRA1 locus, they are more likely to both develop CNV than GA although genetic similarity at this locus accounts for a small part of the reason that the siblings are more likely to share the same AMD subtype
+0	NA	NA	NA	RESULTS	The replication sample consisted of independent datasets not included in the above analyses.
+0	NA	NA	NA	RESULTS	These were included in order to confirm the associations detected in the discovery dataset.
+0	AMD	NA	NA	RESULTS	There were 4515 participants with CNV, 868 participants with GA and 15,240 participants with no AMD in these additional datasets.
+0	NA	NA	rs10490924	RESULTS	We examined rs10490924 further in these samples (Table 3).
+0	NA	NA	rs10490924	RESULTS	The direction of the effect for rs10490924 was consistent in most of the replication samples with a final meta-analysis OR of 1.38 [95% confidence interval (CI) =1.27, 1.51; P=7.4 x 10-14].
+0	NA	NA	NA	RESULTS	Meta-analysis for the replication datasets alone yielded an OR of 1.32 (95% CI=1.18, 1.48; P=1.8x10-6).
+0	NA	NA	rs10490924	RESULTS	The T allele at rs10490924 was associated with a higher risk of CNV compared with GA.
+0	NA	NA	NA	RESULTS	When meta-analysis of independent datasets is used to estimate a combined effect, confirmation is needed that the effects found in the individual studies are similar enough that one can be confident that a combined estimate will be a meaningful description of the set of studies.
+0	NA	NA	NA	RESULTS	Individual studies' point estimates for the effect of each SNP will vary by chance and some variation is expected.
+0	NA	NA	NA	RESULTS	When heterogeneity is present among studies, it means that there is more variation than would be expected by chance alone and combination of these studies using meta-analysis techniques is not valid.
+0	NA	NA	rs10490924	RESULTS	There was no evidence for heterogeneity in the meta-analyses for rs10490924 with P values for Q test of heterogeneity of 0.07 (I2= 41.7) and 0.07 (I2=42.7) for the analyses including and excluding the discovery cohort, respectively.
+0	NA	NA	NA	RESULTS	In other words, heterogeneity among studies was not present to a statistically significant degree (P <0.05)
+0	NA	NA	rs4755455	RESULTS	In the discovery cohort, we also detected a region on chromosome 11 that contained several SNPs in LD with P < 5x10-6, including rs4755455 (P=2.1x10-7) (Table 2).
+0	NA	NA	rs4755455	RESULTS	In age-adjusted analyses, the association with rs4755455 was also consistent with an OR=1.59 (P=3.1x10-7).
+0	AMD	NA	rs4755455	RESULTS	This association of rs4755455 with advanced AMD subtype, however, was not consistent across the replication samples, yielding meta-analysis P values of 0.003 and 0.63 for the analyses including and excluding the discovery cohort, respectively (Table 3).
+0	NA	NA	rs4755455	RESULTS	There was evidence for heterogeneity in the meta-analysis for rs4755455 with a P value for Q test of heterogeneity of 0.007 (I2=58.7).
+0	NA	NA	NA	RESULTS	When there is hetereogeneity present in a meta-analysis, one approach is to incorporate it into a random effects model which involves the assumption that the effects being estimated in the different studies are not identical, but follow a distribution.
+0	NA	NA	rs4755455	RESULTS	In a random effects meta-analysis, the P value for the association to rs4755455 was not significant (P=0.75)
+0	AMD	NA	NA	RESULTS	Table 2 also shows the meta-analysis GWAS results comparing participants with GA to participants with CNV for SNPs previously associated with overall advanced AMD.
+1	AMD	NA	NA	RESULTS	Apart from ARMS2/HTRA1, none of the variants in other loci that have been previously associated with advanced AMD had a statistically significant differential effect on risk of CNV vs. GA.
+1	AMD	C2	NA	RESULTS	The point estimates of the OR for the comparison of the two subtypes of AMD in the GWAS were >1.10 for variants in the C2, CETP, and TIMP3 loci (OR estimates 1.13-1.30).
+1	NA	NA	NA	RESULTS	To explore these possible small differences in effect of the genes on CNV vs. GA further, we examined the previously associated loci with additional data, where available, from the replication cohorts, and there was no statistically significant association in this larger dataset other than the ARMS2/HTRA1 locus association (Table 3).
+1	NA	C2	NA	RESULTS	With the additional replication data, C2 and TIMP3 maintained OR > 1.10 but still did not achieve statistical significance
+0	NA	NA	NA	RESULTS	For the Tufts/MGH dataset, we had bilateral eye grades and were able to perform the additional sensitivity analysis in which we excluded cases with CNV in one eye and GA in the other eye.
+0	NA	NA	NA	RESULTS	This dataset included 481 patients with GA and 858 patients who had CNV in at least one eye, of which 221 had CNV in one eye and GA in the other eye.
+0	NA	NA	NA	RESULTS	"With exclusion of these ""mixed"" cases from the analysis, there was no significant change in the results apart from a generalized decrease in the P values due to decreased power expected with removal of 25% of the CNV cases."
+0	NA	NA	rs10490924	RESULTS	"For rs10490924, the OR was 1.46 (95% CI=1.24-1.71, P= 4.2x10-6) including the ""mixed"" cases and 1.38 (95% CI=1.16-1.64, P= 2.5x10-4) excluding the ""mixed"" cases"
+0	AMD	NA	NA	RESULTS	For the GA vs. no AMD analysis, the TMMG dataset contained 819 participants with GA and 4134 participants without AMD.
+0	AMD	NA	NA	RESULTS	Figure 3B shows a Manhattan plot for the analysis comparing participants with GA to participants without AMD.
+1	AMD	CFH	NA	RESULTS	As expected, several SNPs previously associated with advanced AMD (CFH, CFB, ARMS2/HTRA1 and C3) had P values less than the genome-wide significance threshold of 5x10-8 as indicated by the red line on the plot.
+0	NA	PECI	rs582301	RESULTS	In addition, we detected a region on chromosome 6 that contained three SNPs with P< 1x10-10, including rs582301 in the PECI gene (OR=4.77, P=3.2 x 10-11).
+0	NA	NA	NA	RESULTS	Table 4 lists the most statistically significant SNPs for independent loci from this GWAS analysis; adjustment for age at ascertainment showed similar results.
+1	NA	PECI	rs2842992	RESULTS	Other than the known genes and PECI, the following variants had P values that were suggestive of association: rs2842992 (near SOD2) with P= 3.4 x 10-7, rs1789110 (near MBP) with P=4.2x10-7, and rs722782 (near C8orf42) with P=1.9x10-6.
+0	NA	PECI	rs582301	RESULTS	Because rs582301 in PECI was rare and imputed, we pursued direct genotyping in a subset of the sample to try to validate the imputation.
+0	NA	NA	NA	RESULTS	In a subset of 21 individuals for whom imputation predicted the genotype AG, only two actually had this genotype on direct genotyping suggesting this association is possibly due to imputation error
+0	AMD	NA	NA	RESULTS	For the CNV vs. no AMD analyses, the TMMG dataset contained 1775 participants with CNV and 4134 participants without AMD.
+0	AMD	NA	NA	RESULTS	Figure 3C shows a Manhattan plot for the analysis comparing participants with CNV to participants without AMD.
+1	AMD	CFH	NA	RESULTS	Only SNPs that had previously been associated with advanced AMD - CFH, CFI, CFB, ARMS2/HTRA1, and C3 - had P values less than the genome-wide significance threshold of 5x10-8 as indicated by the red line on the plot.
+0	NA	NA	NA	RESULTS	Table 4 shows the most statistically significant SNPs in independent loci from this analysis.
+0	NA	NA	NA	RESULTS	Adjustment for age at ascertainment showed similar results.
+0	NA	TRIB1	rs35691538	RESULTS	We detected regions on chromosomes 8 and 18 with several SNPs with P < 5 x 10-7 including rs35691538 (near TRIB1) and rs8091635 (near BRUNOL4) (P=1.3x10-7 and 1.7x10-7, respectively).
+0	NA	NA	NA	RESULTS	To further investigate these regions, we attempted replication (Table 3).
+0	NA	NA	rs8091635	RESULTS	For rs8091635, the direction of effect was not consistent in the replication sample and, after meta-analysis, the P value decreased to 2.2x10-5.
+0	NA	NA	NA	RESULTS	There was heterogeneity present in the meta-analysis with P=0.008 for the Q test (I2=65.6).
+0	NA	NA	rs8091635	RESULTS	In a random effects meta-analysis, the P value for the association to rs8091635 was 0.23.
+0	NA	NA	rs35691538	RESULTS	Because the minor allele of the other SNP rs35691538 is rare and this SNP was not well imputed in replication GWAS datasets, no other replication cohorts with available GWAS data had information to contribute regarding this SNP.
+0	AMD	TRA2A	rs10262213	RESULTS	Two other variants were suggestive for association with CNV compared with no AMD: rs10262213 (near TRA2A) and rs59795197 (ADAM19) with P values of 1.6x10-6 and 3.6x10-6, respectively
+0	AMD	NA	NA	RESULTS	Table 5 shows a side-by-side comparison of the results for the GA vs. no AMD and the CNV vs. no AMD comparisons for loci previously associated with overall advanced AMD.
+0	AMD	NA	NA	RESULTS	We observed significant association signals (below the predetermined threshold for significance of 0.0038) for the CNV subtype vs. no AMD comparison at SNPs in loci previously associated with overall advanced AMD.
+0	NA	LIPC	NA	RESULTS	These included LIPC (P=2.4x10-4), TIMP3 (P=8.0x10-5), CETP (P=6.5x10-6), FRK/COL10A1 (P=4.1x10-5), VEGFA (P=2.0x10-4), and ABCA1 (P=0.002).
+0	AMD	NA	NA	RESULTS	For the GA subtype vs. no AMD comparison, we also observed significant association signals at SNPs in many of the loci previously associated with overall advanced AMD.
+0	NA	VEGFA	NA	RESULTS	SNPs that met the predetermined threshold for significance of 0.0038 for known SNPs included VEGFA (P=0.002), COL8A1 (P=0.0036) and FRK/COL10A1 (P=1.4x10-4).
+1	AMD	NA	NA	RESULTS	For the ARMS2/HTRA1 locus, the OR (95% CI) for GA vs. no AMD was 2.52 (2.23 - 2.83) and the OR (95%CI) for CNV vs. no AMD was 3.67 (3.33, 4.05).
+1	NA	NA	NA	RESULTS	Of note, apart from this ARMS2/HTRA1 locus, the magnitude of the odds ratios related to the other genes for the two advanced subtypes were similar with overlapping confidence intervals
+0	AMD	NA	NA	RESULTS	GWAS analyses were performed for each sex separately for the CNV vs. GA, GA vs. no AMD and CNV vs. no AMD comparisons and did not reveal any additional novel associations.
+1	NA	NA	NA	RESULTS	For the ARMS2/HTRA1 locus in the CNV vs. GA comparison, the association was similar in both men and women with an OR =1.52 (P=1.57x10-6) in the women-only analysis and an OR=1.39 (P=0.001) in the men-only analysis, showing a larger effect of this locus relative to other genetic loci on CNV vs. GA in both groups
+0	AMD	NA	NA	DISCUSS	Data from our sibling analysis provides novel evidence for sibling correlation of the major subphenotypes of AMD - CNV and GA, which can reflect shared genetic and/or environmental risk factors.
+0	AMD	NA	NA	DISCUSS	These results could be used to educate patients who have a family history of one of the advanced forms of AMD about the increased likelihood of developing the same form as their siblings.
+0	AMD	NA	NA	DISCUSS	While this report provides evidence for an increased likelihood for the same advanced AMD subtype among siblings, we do recognize that there can be substantial AMD phenotypic heterogeneity in family members with AMD and it is not uncommon to have several AMD subphenotypes in one family
+1	NA	NA	NA	DISCUSS	Having established excess sibling correlation of these subphenotypes and demonstrated a difference between CNV and GA genetic susceptibility for the ARMS2/HTRA1 locus previously, we undertook an analysis of GWAS data from a larger GWAS meta-analysis to try to uncover additional loci associated with an increased risk of one advanced form over the other.
+0	AMD	NA	NA	DISCUSS	Our aggregate replication cohort sample was the largest to date at the initiation of analyses for this type of subphenotype analysis with 4515 CNV cases, 868 GA cases and 15240 controls with no AMD.
+1	NA	NA	NA	DISCUSS	We demonstrated a definitive genome-wide significance of the previously suggested increased risk for CNV compared with GA for the T allele of the ARMS2/HTRA1 locus (OR=1.38, P=7.4x10-14).
+1	AMD	NA	NA	DISCUSS	The T allele at the ARMS2/HTRA1 locus has already been well established as a risk factor for overall advanced AMD defined as GA and/or CNV in either eye.
+0	AMD	NA	NA	DISCUSS	The finding from this paper suggests that while the T allele increases the risk of developing CNV and/or GA, it increases the risk of developing CNV to a greater degree than the risk of developing GA in patients who develop advanced AMD.
+1	AMD	NA	NA	DISCUSS	Based on our results (OR=1.38) , for each T allele a participant had at the ARMS2/HTRA1 locus, their odds of having CNV in either or both eyes was 38% higher than their odds of having only GA in either or both eyes at the time of phenotype ascertainment which occurred once they already had advanced AMD (GA or CNV) in at least one eye.
+0	AMD	NA	NA	DISCUSS	Adjusting for age at AMD ascertainment showed a similar result.
+0	NA	NA	NA	DISCUSS	GWAS analyses for each sex separately also demonstrated similar results in men and women
+0	NA	NA	NA	DISCUSS	The patients in this study who were designated CNV cases were primarily patients who only had CNV in one or both eyes and no signs of GA in either eye.
+0	NA	NA	NA	DISCUSS	However, there were some patients who had CNV in one eye and GA in the other eye.
+0	NA	NA	NA	DISCUSS	"We found that inclusion of these ""mixed"" participants did not alter the result ."
+0	NA	NA	NA	DISCUSS	Therefore, even in patients who might already have GA in one eye, each T allele they have confers an increased odds of developing CNV in the second eye compared with a similar patient with GA who does not have that allele
+1	NA	NA	NA	DISCUSS	There are some underlying biologic mechanisms which could explain why the ARMS2/HTRA1 locus confers this increased risk for CNV.
+1	NA	HTRA1	NA	DISCUSS	There is evidence for a role of the HTRA1 protein in the etiology of the angiogenesis involved in CNV; the HTRA1 protein has been localized to vascular endothelium and may favor neovascularization by enhancing degradation of extracellular matrix components or by binding to transforming growth factor-beta, an angiogenic factor.
+1	AMD	NA	NA	DISCUSS	However, in this study the ARMS2/HTRA1 locus only accounts for a small amount of the excess sibling correlation for advanced AMD subtype, suggesting there are additional genetic and/or environmental factors, including smoking and nutritional factors, predisposing patients to these subtypes
+1	AMD	NA	NA	DISCUSS	While commercial genetic testing is currently available for the ARMS2/HTRA1 locus, we do not recommend that this be ordered routinely at this time for AMD patients to determine their odds of developing CNV vs. GA.
+0	AMD	NA	NA	DISCUSS	The contribution to the overall heritability of advanced AMD subtypes conferred by this locus is relatively small and we still do not know all of the genetic and environmental risk factors that contribute to subtype risk.
+1	NA	NA	NA	DISCUSS	Therefore, genetic testing for ARMS2/HTRA1 alone in the clinical setting would give incomplete insight to a particular patient's risk.
+1	AMD	NA	NA	DISCUSS	As we learn more about additional genetic and environmental risk factors for advanced AMD subtypes, ARMS2/HTRA1 genotype could be part of a comprehensive risk score in clinical practice that would affect monitoring schedules or implementation of preventive treatments.
+1	NA	NA	NA	DISCUSS	The ARMS2/HTRA1 genotype could be used currently in clinical trials for preventive strategies aimed at CNV.
+0	NA	NA	NA	DISCUSS	Participants with higher risk genotypes for CNV development could be selected preferentially to improve the power to detect a therapeutic effect, potentially with a shorter follow-up period
+0	AMD	NA	NA	DISCUSS	We present the best powered study looking at all the other SNPs that have been definitely associated with overall AMD to date in GWAS.
+1	AMD	NA	NA	DISCUSS	Apart from ARMS2/HTRA1, no other new loci reached genome-wide significance in influencing the risk of one advanced AMD subtype over the other (Table 2).
+0	NA	VEGFA	NA	DISCUSS	The recently discovered VEGFA polymorphism was a particularly interesting candidate gene in this analysis given the important role of vascular endothelial growth factor (VEGF) in the pathogenesis of CNV.
+0	NA	VEGFA	rs4711751	DISCUSS	However, the OR for the VEGFA polymorphism rs4711751 comparing GA to CNV including the replication samples was 1.06 (P=0.23).
+1	AMD	C2	NA	DISCUSS	Two other known loci (C2 and TIMP3) showed ORs in the CNV vs. GA analysis that cannot exclude the possibility of small to modest differences in the magnitude of the association of these loci with each AMD subphenotype.
+1	NA	CFH	NA	DISCUSS	We could not confirm a previous report that found CFH risk alleles were more common in GA cases vs. CNV cases despite the fact that the current study is much larger and has more power statistically
+0	AMD	QSER1	rs4755455	DISCUSS	There were new variants that had P values at or near genome-wide significance in the discovery cohort that did not have consistent associations in the independent replication samples: rs4755455 (near QSER1) in the CNV vs. GA analysis and rs8091635 (BRUNOL4) in the CNV vs. no AMD analysis.
+0	insufficient	NA	NA	DISCUSS	The inability to replicate these associations could be due to chance statistical fluctuations in the discovery cohort, insufficient power in the replication cohort, genotyping/imputation imprecision or heterogeneity between cohorts.
+0	NA	NA	NA	DISCUSS	Although our sample was the largest to date to evaluate these associations, it was underpowered to detect variants with small effect sizes.
+0	AMD	NA	NA	DISCUSS	To detect an association with a genotype relative risk of 1.10 for one of the AMD subphenotypes with 80% power, approximately 9,500 CNV and 9,500 GA participants would be needed assuming a 40% minor allele frequency for the variant (Genetic Power Calculator at pngu.mgh.harvard.edu/~purcell/gpc/, June 8, 2011).
+0	NA	NA	NA	DISCUSS	In contrast, this large GWAS meta-analysis did have sufficient power to firmly document our previous finding from a candidate gene case-control association study.
+0	NA	NA	NA	DISCUSS	In that prior study the locus had a moderate effect size with an OR of 1.37 which was quite consistent with the OR of 1.38 observed in this study, suggesting about a 38% higher risk of developing CNV vs. GA with each T allele a participant harbors
+0	NA	NA	NA	DISCUSS	There were several other novel SNPs with association signals whose P values approached genome-wide significance in the GWAS analyses.
+0	AMD	KCTD10	rs56209061	DISCUSS	For example, rs56209061 in KCTD10 in the CNV vs. GA analysis and rs59795197 in ADAM19 in the CNV vs. no AMD analysis are SNPs that may be related to advanced AMD subtypes and merit follow up in studies with larger datasets
+0	AMD	NA	NA	DISCUSS	In summary, we found evidence for genetic susceptibility underlying development of one form of advanced AMD over another.
+0	AMD	NA	NA	DISCUSS	We performed the largest GWAS for advanced AMD subphenotype analysis to date at the onset of the study.
+0	AMD	NA	NA	DISCUSS	We firmly documented the stronger association of the chromosome 10 locus with CNV compared with GA. Several other associated candidate loci for CNV vs. GA, GA vs. no AMD and CNV vs. no AMD were noted to be worthy of additional follow-up.
+0	AMD	NA	NA	DISCUSS	Larger meta-analysis efforts will be key to increasing power in these subtype analyses and may lead to replication of these loci or identification of additional loci with smaller effect sizes which differ between advanced AMD subtypes
+0	atrophy	NA	NA	TABLE	"Genome-wide association ""discovery"" analysis comparing participants with choroidal neovascularization to participants with geographic atroph"
+0	AMD	NA	NA	TABLE	Replication analyses results for the top SNPs associated with age-related macular degeneration (AMD) subphenotype
+0	Geographic atrophy	NA	NA	TABLE	Ten most highly associated SNPs from the genome-wide association analyses comparing (A) participants with geographic atrophy (GA) to participants with no age-related macular degeneration and (B) participants with choroidal neovascularization (CNV) to participants with no age-related macular degeneratio
+0	AMD	NA	NA	TABLE	Results for loci previously associated with overall advanced age-related macular degeneration (AMD) in the choroidal neovascularization (CNV) vs. no AMD and geographic atrophy (GA) vs. no AMD analyse

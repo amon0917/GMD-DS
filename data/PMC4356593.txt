@@ -1,0 +1,268 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	A body mass index (BMI) >22kg/m2 is a risk factor for type 2 diabetes (T2D) in Aboriginal Australians.
+0	NA	NA	NA	ABSTRACT	To identify loci associated with BMI and T2D we undertook a genome-wide association study using 1,075,436 quality-controlled single nucleotide polymorphisms (SNPs) genotyped (Illumina 2.5M Duo Beadchip) in 402 individuals in extended pedigrees from a Western Australian Aboriginal community.
+0	NA	NA	NA	ABSTRACT	Imputation using the thousand genomes (1000G) reference panel extended the analysis to 6,724,284 post quality-control autosomal SNPs.
+0	NA	NA	NA	ABSTRACT	No associations achieved genome-wide significance, commonly accepted as P<5x10-8.
+0	hallucinations	NA	NA	ABSTRACT	Nevertheless, genes/pathways in common with other ethnicities were identified despite the arrival of Aboriginal people in Australia >45,000 years ago.
+0	NA	NTRK2	rs10868204	ABSTRACT	The top hit (rs10868204 P genotyped = 1.50x10-6; rs11140653 Pimputed_1000G = 2.90x10-7) for BMI lies 5' of NTRK2, the type 2 neurotrophic tyrosine kinase receptor for brain-derived neurotrophic factor (BDNF) that regulates energy balance downstream of melanocortin-4 receptor (MC4R).
+0	NA	PIK3C2G	rs12816270	ABSTRACT	PIK3C2G (rs12816270 Pgenotyped = 8.06x10-6; rs10841048 Pimputed_1000G = 6.28x10-7) was associated with BMI, but not with T2D as reported elsewhere.
+0	NA	contactin-associated protein-like 2	rs6960319	ABSTRACT	BMI also associated with CNTNAP2 (rs6960319 Pgenotyped = 4.65x10-5; rs13225016 Pimputed_1000G = 6.57x10-5), previously identified as the strongest gene-by-environment interaction for BMI in African-Americans.
+0	NA	BCL9	rs11240074	ABSTRACT	The top hit (rs11240074 Pgenotyped = 5.59x10-6, Pimputed_1000G = 5.73x10-6) for T2D lies 5' of BCL9 that, along with TCF7L2, promotes beta-catenin's transcriptional activity in the WNT signaling pathway.
+0	pancreatic	KCNJ6	NA	ABSTRACT	Additional hits occurred in genes affecting pancreatic (KCNJ6, KCNA1) and/or GABA (GABRR1, KCNA1) functions.
+0	NA	MC4R	NA	ABSTRACT	Notable associations observed for genes previously identified at genome-wide significance in other populations included MC4R (Pgenotyped = 4.49x10-4) for BMI and IGF2BP2 Pimputed_1000G = 2.55x10-6) for T2D.
+0	NA	NA	NA	ABSTRACT	Our results may provide novel functional leads in understanding disease pathogenesis in this Australian Aboriginal population
+0	Type 2 diabetes	NA	NA	INTRO	Genome-wide association studies (GWAS) have been used with great success to identify genes associated with complex diseases, including obesity and type 2 diabetes (T2D).
+0	NA	NA	NA	INTRO	However, there are no published data on the use of this approach to study complex diseases in Aboriginal Australians.
+0	NA	NA	NA	INTRO	This is partly a reflection of the controversy surrounding genetic research in indigenous communities, which has raised ethical concerns including a lack of benefit to community and diversion of attention and resources from non-genetic causes of health disparities and racism in health care.
+0	NA	NA	NA	INTRO	Controversy relating to the Human Genetic Diversity Project has acted as a particular barrier to conducting genetic research in Australian Aboriginal communities, but there is now a strong lobby to bring the benefits of health-based genomic research to Australian Aboriginal populations as there is for all ethnicities globally.
+0	NA	NA	NA	INTRO	T2D and associated pathologies are a major health problem in Indigenous Australians, and a body mass index (BMI) >22kg/m2 is a significant risk factor for T2D in Australian Aboriginal populations.
+0	NA	NA	NA	INTRO	Here we present the first GWAS of BMI and T2D in a Western Australian Aboriginal population
+0	NA	NA	NA	METHODS	Subjects for the discovery GWAS were recruited from an Australian Aboriginal community of Martu ancestry at the edge of the Western Desert in Western Australia.
+0	NA	NA	NA	METHODS	A family-based study was proposed to take account of recent population history and shared ancestry.
+0	NA	NA	NA	METHODS	A memorandum of understanding (MoU) was established with the community, which included permission for access to clinical records held in a Communicare database at the local Aboriginal Health Service.
+0	NA	NA	NA	METHODS	An individual was classified as having T2D if the subject was: (1) diagnosed with T2D by a qualified physician; (2) on a prescribed drug treatment regimen for T2D; and (3) returned biochemical test results of a fasting plasma glucose level of at least 7 mmol/l in SI units based on criteria laid down by the World Health Organization (WHO) consultation group report.
+0	NA	NA	NA	METHODS	Multiple height and weight measures per individual were recorded in Communicare through time and converted within the database to BMI according to the standard formula BMI = weight (kg)/height (m2).
+0	NA	NA	NA	METHODS	DNA was prepared from saliva samples collected into Oragene tubes (DNA Genotek, Ontario, Canada) from 405 consenting family members who were available at the time of visits by the study team during the two-year collection period of the study
+0	NA	NA	NA	METHODS	Ethical approval for the study was obtained from the Western Australian Aboriginal Health Ethics Committee (WAAHEC; Reference 227 12/12), who reviewed and approved forms for informed consent.
+0	NA	NA	NA	METHODS	Each individual (or the parent or guardian of individuals less than 18 years of age) signed separate informed consent forms to participate in the study and to provide a DNA sample.
+0	NA	NA	NA	METHODS	Following feedback of results to the community, permission to publish was provided by the Board of the local Aboriginal Health Service, which comprised elders representing the extended families residing in the area.
+0	retinopathy and nephropathy complications	NA	NA	METHODS	Permission to lodge de-indentified genotype and basic demographic data (broad geographical location, age, sex and phenotype information) in the European Genome-phenome Archive (accession number EGAS00001001004) was also obtained from the Board of the local Aboriginal Health Service
+0	NA	NA	NA	METHODS	DNA from the 405 consenting individuals were genotyped on the Illumina Omni2.5 BeadChip (outsourced to the Centre for Applied Genomics, Toronto, Ontario, Canada).
+0	NA	NA	NA	METHODS	Quality control (QC) data from the service provider indicated a call rate of (mean [SD]) 99.680% [0.005%].
+0	NA	NA	NA	METHODS	Further in-house QC procedures at the level of individuals resulted in one individual being dropped due to a missing data rate >5%, 2 exclusions due to unintentional duplication, and no exclusions due to outlying heterozygosity (using 3 standard deviation limits), discordant sex, or divergent ancestry (since mixed models were employed to take account of ancestry, cf.
+0	NA	NA	NA	METHODS	below).
+0	NA	NA	NA	METHODS	This provided a post-QC dataset of 402 family members, including 361 with repeated body mass index measurements and 391 (89 cases, 302 family members unaffected at the time of collection) with information on doctor diagnosed T2D as per criteria outlined above.
+0	NA	NA	NA	METHODS	SNPs with minor allele frequency (MAF) <0.05, or with more than 5% missing data, were removed prior to association analysis (cf.
+0	NA	NA	NA	METHODS	below).
+0	NA	NA	NA	METHODS	As family data were employed in our study, complicated by a degree of over-relatedness in the pedigrees, a check of Hardy Weinberg Equilibrium (HWE) was not used as a SNP QC check since it was not clear that we should expect all SNPs to be in HWE.
+0	NA	NA	NA	METHODS	A subset of 70,420 genotyped SNPs with pairwise linkage disequilibrium (LD; r 2) <=0.3 and MAF >0.01 was used in principal component analysis (PCA; SMARTPCA within EIGENSOFT) to look at population substructure across the 402 family members
+0	NA	NA	NA	METHODS	Pre-phasing of genotyped data was performed using SHAPEIT, and imputation conducted using IMPUTE2 with 1000 Genomes (1000G) haplotypes [Phase I integrated variant set release (v3)].
+0	NA	NA	NA	METHODS	The reference panel includes haplotypes of 1,092 individuals from Africa, Asia, Europe and the Americas.
+0	NA	NA	NA	METHODS	For association analysis, probabilistic imputed SNP genotypes were converted to hard genotype calls provided the posterior probability of the most likely genotype was >0.9, and imputed SNPs were retained only if they had `info' score >0.5, MAF>0.01 and <10% missing data.
+0	NA	NA	NA	METHODS	To assess imputation accuracy, IMPUTE2 provides measures of concordance and squared Pearson correlation (r 2) for each genotyped SNP.
+0	NA	NA	NA	METHODS	Directly genotyped SNPs were masked then imputed and concordance between the true genotype and the most likely imputed genotype [where probability prediction threshold > 0.9] for each SNP was calculated, as well as r 2 between the true (discrete) allele dosage (coded as 0, 1 and 2 corresponding to the number of minor alleles) and the imputed (continuous) allelic dosages.
+0	NA	NA	NA	METHODS	For low frequency SNPs, r 2 is the preferred accuracy measure because, unlike concordance, allele frequency is taken into account.
+0	NA	NA	NA	METHODS	We also compared these imputation accuracies for the 195 individuals determined by PCA to represent pure Martu ancestry against the 207 deemed to be of mixed ethnicity by PCA, using the data generated from imputation of the full dataset for the 402 individuals
+0	NA	NA	NA	METHODS	Heritability for mean BMI was determined from self-reported pedigree structures using the QTDT software package, and separately on the basis of kinship and IBD sharing from SNP-chip data calculated using the R package GenABEL v1.7-6 and using the genome-wide complex trait association (GCTA) tool.
+0	NA	NA	NA	METHODS	To provide a visual display of relatedness across the 402 genotyped individuals, the genomic kinship matrix was first calculated in GenABEL v1.7-6, and then converted to a distance matrix followed by hierarchical cluster analysis using single linkage on the dissimilarities.
+0	NA	ape	NA	METHODS	The ape package was used to produce a radial tree plot for the 402 genotyped individuals.
+0	NA	NA	NA	METHODS	For association analyses, the FAmily-based Score Test for Association (FASTA) in GenABELv1.7-6 was employed that uses a linear mixed model (LMM) approximation to model the trait outcome, with whole genome data used to estimate kinship (in order to account for relatedness) and to take account of population substructure.
+0	NA	NA	NA	METHODS	Analyses were carried out using quantitative trait data (BMI), and separately to compare all T2D cases with all unaffected individuals.
+0	NA	NA	NA	METHODS	Association results for genotyped data obtained using GenABEL were compared with results using FaST-LMM.
+0	NA	NA	NA	METHODS	Both GenABEL (FASTA) and FaST-LMM model disease status (control/case for T2D, coded 0/1) as if it were a normally distributed quantitative variable, which has been shown to produce a valid test with respect to testing the null hypothesis of no association.
+0	NA	NA	NA	METHODS	Power calculations using QUANTO show that 361 individuals with BMI measures provide a maximum of 80% power to detect associations at genome wide significance levels (P<5x10-8), or a maximum of 97% power at suggestive significance levels (P<1x10-5), for SNPs with MAF>0.3 conferring allelic effects (betas) of magnitude half a unit of standard deviation.
+0	NA	NA	NA	METHODS	For effects (betas) of magnitude 0.25 units of standard deviation, the maximum powers achievable are lowered to 1% and 9% respectively.
+0	NA	NA	NA	METHODS	The 89 T2D cases and 302 unaffected family members provide a maximum of 32% power to detect associations at genome wide significance levels (P<5x10-8), or 71% power at suggestive significance levels (P<1x10-5), for SNPs with MAF>0.3 conferring allelic odds ratios >2.5.
+0	NA	NA	NA	METHODS	For odds ratios of 1.5, the powers are lowered to 1.4% and 0.06% respectively
+0	NA	NA	NA	METHODS	Manhattan plots were generated using the mhtplot function of 'gap', a genetic analysis package for use in R (see URLs).
+0	NA	NA	NA	METHODS	Quantile-quantile (Q-Q) plots were generated, and inflation factors (denoted lambda) calculated in R version 2.15.0 by dividing the median of the observed chi-squared statistics by the median of the theoretical chi-squared distribution.
+0	NA	NA	NA	METHODS	Regional plots of association were created using LocusZoom in which:log10 P-values were graphed against their chromosomal location.
+0	NA	NA	NA	METHODS	Pairwise LD patterns between all regional SNPs and the top SNP were calculated specifically for this Australian Aboriginal study data using 146 unrelated individuals from the total sample of 402 genotyped individuals.
+0	NA	NA	NA	METHODS	The 146 unrelated individuals were selected by iterative removal of the individuals with the greatest number of estimated relationships with IBD>0.1875
+0	NA	SLC28A3	NA	METHODS	Global alignment of genomic sequence for the region SLC28A3 to NTRK2 from human, cow and mouse was undertaken to locate evolutionarily conserved non-coding sequences (CNS) that might contain regulatory elements and transcription factor binding sites (TFBS).
+0	NA	NA	NA	METHODS	Genomic sequences for the three organisms were exported in FASTA format from ENSEMBL (Genome Reference Consortium Release 37, Ensembl Release 67) and associated annotation exported in the form of a General Feature File (GFF) file.
+0	NA	NA	NA	METHODS	The global alignment tool Multi-LAGAN was used to align genomic sequences using the guide tree (((human) cow) mouse).
+0	NA	NA	NA	METHODS	SYNPLOT was used to visualize the annotated alignment.
+0	NA	NA	NA	METHODS	CNS, defined here as regions with a nucleotide sequence conservation level of >=0.7 (i.e.
+0	NA	NA	NA	METHODS	>= to the least conserved exon sequence in the genes flanking the region of interest), were analysed for promoter and enhancer elements using PROMO, AliBaba v2.1, and MatInspector v8.0.5 with a matrix similarity parameter >0.75.
+0	SINES	NA	NA	METHODS	We also used the UCSC genome-browser (see URLs) with custom tracks to assess where selected top-hit SNPs are located in relation to elements such as CpG islands or repeat elements (LINES; SINES).
+0	NA	NA	NA	METHODS	To look de novo for CpG island-like elements, we firstly masked repeat regions using RepeatMasker (see URLs) following which putative CpG islands were searched for using CpGIsland Searcher with parameters set at 50%GC, 0.60 observed CpG/expected CpG ratio, and length 200bp (rather than the default settings of 55%, 0.65, and 500bp)
+0	NA	NA	NA	RESULTS	The 402 post-QC genotyped individuals used in the GWAS belonged to a small number of inter-related extended pedigrees, as depicted in the radial plot which shows hierarchical clustering of estimated pairwise identity-by-descent allele-sharing (S1 Fig.).
+0	NA	NA	NA	RESULTS	Principal component analysis (S2 Fig.)
+0	NA	NA	NA	RESULTS	demonstrated a degree of introgression of predominantly Caucasian origin, with a tight cluster of 195 individuals of Martu Aboriginal ancestry across all age groups.
+0	NA	NA	NA	RESULTS	Linear mixed models were used in the genetic analysis to take account of both family relationships and this genetic substructure.
+0	NA	NA	NA	RESULTS	S1 Table provides basic demographic data (age, sex; at the time of diagnosis and/or collection) for the 391 individuals used in the genetic analyses.
+0	NA	NA	NA	RESULTS	De-identified BMI data was also available for 1020 self-reporting Aboriginal individuals in the population-specific Communicare database
+0	NA	NA	NA	RESULTS	A BMI >22kg/m2 is a significant risk factor for T2D in Australian Aboriginal populations.
+0	NA	NA	NA	RESULTS	Fig.
+0	NA	NA	NA	RESULTS	1 part A provides a plot of all BMI measurements for self-reported Aboriginal individuals in the study population (N = 1020).
+0	NA	NA	NA	RESULTS	BMI by age was plotted using the R package SITAR for all records in Communicare.
+0	NA	NA	NA	RESULTS	Separate lines trace multiple measurements over time per individual; females (pink lines) and males (blue lines).
+0	NA	NA	NA	RESULTS	The heavy lines show the polynomial quintic (power of 5) curves for females (pink heavy line) and males (blue heavy line) that best fit the data.
+0	NA	NA	NA	RESULTS	Fitting separate (by gender) curves to the data (Fig.
+0	NA	NA	NA	RESULTS	1 part A) provided a significantly better fit (P = 10-9) than fitting a single curve with a sex-specific displacement.
+0	NA	NA	NA	RESULTS	We constructed standardized residuals from these curves by subtracting the observed BMI value from the fitted curve and dividing by the estimated standard deviation (calculated within 1-year age brackets).
+0	NA	NA	NA	RESULTS	All GWAS analyses of BMI (cf.
+0	NA	NA	NA	RESULTS	below) were carried out using these standardized residuals.
+0	NA	NA	NA	RESULTS	The extreme female outlier was not used in fitting the female polynomial curve or in any of the GWAS analyses.
+0	diabetes	NA	NA	RESULTS	This analysis of BMI shows (a) that the majority of the adult population have BMI >22 and are therefore at increased risk of diabetes; (b) a proportion of 15-20 year olds also fall into this category; and (c) there are many individuals in the community who can be classified as overweight (BMI 25.00-29.99) or obese (including class I obesity BMI 30.00-34.99; severe or class II obesity BMI 35-39.99; and morbid or class III obesity BMI>=40) according to Center for Disease Control (CDC) and World Health Organization (WHO) international criteria.
+0	NA	NA	NA	RESULTS	By estimating familial correlations based on self-reported pedigree structures using QTDT, we estimated heritability for mean BMI in this population to be 55%, broadly in line with other populations internationally.
+0	NA	NA	NA	RESULTS	Estimation of heritability on the basis of kinship and IBD sharing from the SNP-chip data using the R package GenABEL gave a lower estimate of 38%, consistent with the estimate of 39% (95% confidence interval [17%-61%]) provided by GCTA
+0	NA	NA	NA	FIG	(A) plot of all records for self:reporting Aboriginals (N = 1020) in the Aboriginal Health Service's Communicare database; and (B) plot of all records for the 391 genotyped individuals contributing to association analyses for BMI and T2D.
+0	NA	NA	NA	FIG	Separate lines trace multiple measurements over time per individual; females (pink) and males (blue).
+0	NA	NA	NA	FIG	The heavy lines in (A) show the polynomial quintic (power of 5) curves for females (pink heavy line) and males (blue heavy line) that best fit the data.
+0	NA	NA	NA	FIG	Fitting separate (by gender) curves to the data provided a significantly better fit (P = 10-9) than fitting a single curve.
+0	NA	NA	NA	FIG	The extreme outlier was not used in fitting the female polynomial curve.
+0	NA	NA	NA	FIG	In (B), individuals with T2D are shown in heavy lines
+0	NA	NA	NA	RESULTS	Our dataset for the study population (Fig.
+0	NA	NA	NA	RESULTS	1 part B) showed that >75% of adults (>=20 years of age) fall above the BMI cut-off of >22 for increased risk of T2D in Aboriginal Australians.
+0	NA	NA	NA	RESULTS	Fig.
+0	NA	NA	NA	RESULTS	1 part B also highlights BMI curves for individuals in the study sample with T2D (heavy pink lines for females; heavy blue lines for males).
+0	NA	NA	NA	RESULTS	This demonstrates that our study population is characterized by T2D predominantly associated with high risk BMI measurements, including a number of cases <20 years of age.
+0	NA	NA	NA	RESULTS	S2 Fig.
+0	NA	NA	NA	RESULTS	part D highlights on a PCA plot the individuals with T2D used in the GWAS.
+0	NA	NA	NA	RESULTS	Of the 391 individuals used in the T2D GWAS (cf.
+0	NA	NA	NA	RESULTS	below), there were 65 with T2D from 191 individuals (34%) that fell within the pure Martu ancestry cluster (S2 Fig.
+0	NA	NA	NA	RESULTS	parts E and G), and 24 with T2D from 200 individuals (12%) of mixed ethnicity.
+0	insufficient	NA	NA	RESULTS	There was insufficient power to analyse GWAS data separately for T2D associated with low to normal (<25; N = 10) BMI or with low (<20 years of age; N = 5) age at onset.
+0	NA	NA	NA	RESULTS	There will be some loss of power in the analysis with the inclusion of unaffected individuals less than 20 years of age (since ~10-20% of them may go on to get T2D).
+0	NA	NA	NA	RESULTS	This had to be balanced against the gain in power with the increased sample size and greater contribution of individuals in controlling for population substructure and relatedness in the analysis.
+0	NA	NA	NA	RESULTS	S1 Table shows the age range and BMI for unaffected individuals <20 and >20 years of age separately.
+0	NA	NA	NA	RESULTS	Importantly, there will be no false positive associations generated by including all unaffected individuals in the GWAS analysis for T2D (cf.
+0	NA	NA	NA	RESULTS	below)
+0	NA	NA	NA	RESULTS	Longitudinal BMI data available for the 361 post-QC individuals with both BMI measurements and genotyped SNP-chip data were representative of the full range of BMI values in the population (Fig.
+0	NA	NA	NA	RESULTS	1 part B).
+0	NA	NA	NA	RESULTS	To identify loci associated with BMI we undertook a GWAS using 1,075,436 post quality control genotyped SNPs in these 361 individuals.
+0	NA	NA	NA	RESULTS	For longitudinal BMI data (designated BMI-longitudinal), the analyses in GenABEL and FaST-LMM used each individual BMI reading as a separate observation, using the standardized residual from the fitted curve as the trait of interest and modelling the correlation between readings via the estimated kinship.
+0	NA	NA	NA	RESULTS	This does not fully account for the correlation between readings as readings from the same person are likely to be more correlated, especially since they are often measured at frequent (close together) time points.
+0	NA	NA	NA	RESULTS	The Genomic Control deflation factor was therefore employed in GenABEL to avoid inflation of the overall distribution of test statistics; this correction was not found to be necessary in FaST-LMM, as previously noted.
+0	NA	NA	NA	RESULTS	Association analyses were also undertaken in GenABEL and FaST-LMM using the mean of all BMI readings for an individual (designated BMI-mean) as the trait.
+0	NA	NA	NA	RESULTS	Although this raises issues of differential variation in BMI-mean due to uneven numbers of readings between individuals, results from these two different analyses were well correlated.
+0	NA	NA	NA	RESULTS	The plots presented at S3 Fig.
+0	NA	NA	NA	RESULTS	demonstrate that association results for BMI-mean and BMI-longitudinal obtained using FASTA in GenABEL (S3 Fig.
+0	NA	NA	NA	RESULTS	part A) or using FaST-LMM (S3 Fig.
+0	NA	NA	NA	RESULTS	part B) were highly correlated.
+0	NA	NA	NA	RESULTS	Therefore detailed results are given only for BMI-longitudinal (hereinafter referred to as BMI).
+0	NA	NA	NA	RESULTS	Similarly, results obtained for each phenotype from GenABEL and FaST-LMM were strongly concordant (S4 Fig.
+0	NA	NA	NA	RESULTS	), consistent with our recent evaluation of a range of software implementations for linear mixed models.
+0	NA	NA	NA	RESULTS	Q-Q plots (S5 Fig.)
+0	NA	NA	NA	RESULTS	for GenABEL (lambda BMI-longitudinal = 1.0; lambda BMI-mean = 1.02) and FaST-LMM (lambda BMI-longitudinal = 1.00; lambda BMI-mean = 1.00) analyses also showed equivalent inflation factors.
+0	NA	NA	NA	RESULTS	Therefore detailed results presented hereafter are given only for analyses undertaken using FASTA in GenABEL
+0	NA	NA	NA	RESULTS	A Manhattan plot showing the genome-wide results for BMI based on the genotyped data is presented in Fig.
+0	NA	NA	NA	RESULTS	2 part A.
+0	NA	NA	NA	RESULTS	The top hits did not achieve genome-wide significance, commonly accepted as P<5x10-8 and concordant with the number of post-QC SNPs (P = 0.05/1,075,436 or 4.65x10-8) used for this analysis of genotyped data.
+0	NA	P < 10-2	NA	RESULTS	No specific SNPs reported to achieve genome-wide significance for association with BMI in other populations achieved P<10-2 in our study, as determined by interrogation of the NIH NHGRI Catalogue of GWAS studies.
+0	NA	P < 10-2	NA	RESULTS	Nevertheless, since we cannot assume similar patterns of linkage disequilibrium or directionality of associations in our Australian Aboriginal population, we have provided information in S2 Table on SNPs with P<10-2 in our study population for the genes previously reported to achieve genome-wide significance (i.e.
+0	NA	NA	NA	RESULTS	P<5x10-8) for association with BMI in other populations.
+0	NA	NA	NA	RESULTS	Notably (cf.
+0	NA	MC4R	rs129959775	RESULTS	below), MC4R (top SNP rs129959775; P genotyped = 4.49x10-4) was present in this list.
+0	NA	p<10-5	rs6960319	RESULTS	Extending the table to include genes previously reported in GWAS for BMI at P<10-5 in other populations provided evidence for association at CNTNAP2 (top SNP rs6960319; P genotyped = 4.65x10-5).
+0	NA	contactin-associated protein-like 2	NA	RESULTS	SNPs at CNTNAP2 were also among the top 50 SNPs from the BMI analysis in our study population (S3 Table).
+0	NA	contactin-associated protein-like 2	NA	RESULTS	Data for CNTNAP2 and other top SNPs in genes of potential functional relevance, i.e.
+0	metabolic disorder	NA	NA	RESULTS	in pathways previously identified to be associated with metabolic diseases, are shown in Table 1.
+0	NA	NA	NA	RESULTS	Effect sizes (betas 0.35 to 0.72) for these associations are concordant with our power to detect allelic effects of magnitude half a unit of standard deviation of the trait.
+0	NA	NA	rs10868204	RESULTS	The top hit (rs10868204; P genotyped = 2.73x10-6) for BMI in our study population lies in the intergenic region (Fig.
+0	NA	NA	NA	RESULTS	3; cf.
+0	NA	NTRK2	NA	RESULTS	below) 5' of NTRK2 encoding the type 2 neurotrophic tyrosine kinase receptor for brain-derived neurotrophic factor (BDNF) that regulates energy balance downstream of melanocortin-4 receptor (MC4R).
+0	obese	brain-derived neurotrophic factor	NA	RESULTS	Both BDNF and MC4R have previously been shown to be associated with obesity in other populations (see S2 Table).
+0	pancreatic	RBM7	rs6848632	RESULTS	Other top hits in our population that are of functional interest (Table 1) occurred in RBM7 (rs6848632 P genotyped = 1.43x10-5) which has been related to pancreatic function, and at PIK3C2G (rs12816270 P genotyped = 8.06x10-6) which has previously been associated with T2D
+0	NA	NA	NA	FIG	(A) results for genotyped data; and (B) results for 1000G imputed data.
+0	NA	NA	NA	FIG	SNPs in red show the region of the top association in this discovery GWAS
+0	NA	NA	NA	FIG	(A) is the plot for genotyped data; and (B) is the plot for 1000G imputed data.
+0	NA	NA	NA	FIG	The -log10 P-values are shown on the upper part of each plot.
+0	NA	NA	NA	FIG	SNPs are colored (see key) based on their r 2 with the labeled hit SNP (purple), calculated in the 146 unrelated genotyped individuals.
+0	NA	NA	NA	FIG	The bottom section of each plot shows the genes marked as horizontal lines.
+0	NA	NA	NA	FIG	The second Y axis is for recombination rate, as shown in blue on the plot
+0	NA	NA	NA	RESULTS	A Manhattan plot showing the GWAS results for T2D for genotyped SNPs is presented in S6 Fig.
+0	NA	NA	NA	RESULTS	part A.
+0	NA	NA	NA	RESULTS	Again, the top hits based on analysis of genotyped SNPs did not achieve genome-wide significance for T2D, which was less well-powered than the BMI analysis.
+0	NA	P < 10-2	NA	RESULTS	In addition, no specific SNPs reported to achieve genome-wide significance for association with T2D in other populations achieved P<10-2 in our study, as determined by interrogation of the NIH NHGRI Catalogue of GWAS studies.
+0	NA	NA	NA	RESULTS	Nevertheless, as for BMI we cannot assume similar patterns of linkage disequilibrium or directionality of associations in our Australian Aboriginal population.
+0	NA	P < 10-2	NA	RESULTS	Therefore, we have provided information in S4 Table for genotyped SNPs with P<10-2 in our study population for the genes previously reported to achieve genome-wide significance (i.e.
+0	NA	NA	NA	RESULTS	P<5x10-8) for association with T2D in other populations.
+0	NA	ANK1	NA	RESULTS	Five genes (ANK1, TSPAN8, PROX1, GLIS3 and UBE2E2) had genotyped SNPs with P<10-3.
+0	NA	P < 10-2	NA	RESULTS	Of note, no SNPs at P<10-2 were observed for TCF7L2 or KCNJ11, genes that have previously been associated with T2D across multiple ethnicities.
+0	NA	NA	NA	RESULTS	However, 4 genes (Table 2) represented in the top 50 SNPs (S5 Table) are supported by strong biological candidacy in related gene pathways.
+0	NA	BCL9	rs11240074	RESULTS	The top hit (rs11240074 P genotyped = 5.59x10-6) for T2D in our study population lies 5' of BCL9 encoding a protein that, along with TCF7L2, promotes beta-catenin's transcriptional activity in the WNT signaling pathway.
+0	pancreatic	KCNJ6	NA	RESULTS	Additional hits (1.07x10-4<= P genotyped <=4.55x10-5) of functional interest occurred in genes involved in pancreatic (KCNJ6, KCNA1) and/or GABA (GABRR1, KCNA1) functions
+0	NA	NA	NA	RESULTS	Recent reports have focused on improving tools for imputation of SNPs based on both the 1000 genomes (1000G) and HapMap project data.
+0	hallucinations	NA	NA	RESULTS	It was of particular interest to determine how well 1000G imputation would work for this Australian Aboriginal population, given that most estimates suggest the arrival of Aboriginal people in Australia more than 45,000 years ago.
+0	NA	NA	NA	RESULTS	We therefore examined the efficiency of imputing genotypes across the genomes of our study population using 1000G data.
+0	NA	NA	NA	RESULTS	High average concordance (92.8%-97.9%) was observed across all chromosomes independently of MAF.
+0	NA	NA	NA	RESULTS	Fig.
+0	NA	NA	NA	RESULTS	4 compares the efficiency of imputation across all chromosomes, as measured by imputation r 2, for SNPs at different MAF.
+0	NA	NA	NA	RESULTS	As expected, r 2 is lower for SNPs with MAF 0.01-0.03 (mean r 2 77.2-85.4) compared to SNPs with MAF 0.03-0.05 (mean r 2 81.5-88.5%) and MAF 0.05-0.5 (mean r 2 85.9-90.7%).
+0	NA	NA	NA	RESULTS	When examined across individuals, mean imputation accuracy for the 195 individuals of pure Martu ancestry (concordance 94.8; r 2 88.8) were not different to measures for the 207 individuals of mixed ethnicity (concordance 95.6; r 2 90.0) or to measures across all 402 individuals (concordance 95.2; r 2 89.5)
+0	NA	NA	NA	FIG	Imputation accuracy is measured as average r 2 across all autosomes for SNPs of different MAFs (see key)
+0	NA	NA	NA	RESULTS	In relation to the GWAS analyses for BMI (Fig.
+0	NA	NA	NA	RESULTS	2 part B; Fig.
+0	NA	NTRK2	NA	RESULTS	3 part B; Table 1; S6 Table), 1000G imputation improved significance for associations at NTRK2 (Fig.
+0	NA	PIK3C2G	NA	RESULTS	3 part B; Table 1: P genotyped = 1.50x10-6; P imputed_1000G = 2.90x10-7) and at PIK3C2G (Table 1: P genotyped = 8.06x10-6; P imputed_1000G = 6.28x10-7) but not at other genes of functional interest (Table 1).
+0	NA	NA	NA	RESULTS	Similarly, for the T2D imputed GWAS analysis (S6 Fig.
+0	NA	BCL9	NA	RESULTS	part B; S7 Table), top SNPs for 1000G imputed data in genes of functional interest (Table 2) were generally of the same order of magnitude as top genotyped SNPs, including support for the top hit at BCL9.
+0	NA	IGF2BP2	rs138306797	RESULTS	Novel findings in the top 100 SNPs for 1000G imputed data included a hit at the previously identified gene for T2D IGF2BP2 (S4 Table: rs138306797, P imputed_1000G = 2.55x10-6) that had not achieved P<10-2 in the genotyped data, and hits at P imputed_1000G <10-6 in genes not previously associated genetically or functionally with T2D (S7 Table: SATB2/TYW5 on chromosome 2, MTHFD1L/AKAP12 on chromosome 6; KLF5/KLF12 on chromosome 13)
+0	NA	NA	NA	RESULTS	Analysis of T2D and the standardized BMI residual (BMI-longitudinal) was initially performed without any covariate adjustment.
+0	NA	NA	NA	RESULTS	Since T2D and BMI are highly correlated and have been shown to have shared genetic influences, the question arises as to which phenotype is primarily regulated by the genes of interest identified in this study.
+0	NA	NA	NA	RESULTS	We therefore repeated the analyses allowing for BMI and T2D as covariates (S1 Text).
+0	NA	NA	NA	RESULTS	Results demonstrated that (A):log10 P-values for T2D adjusted for the standardized BMI residual were highly correlated with the original unadjusted analysis for both genotyped and imputed data, and (B) conversely,:log10 P-values for unadjusted BMI and BMI adjusted for T2D were likewise highly correlated.
+0	NA	NA	NA	RESULTS	This suggests that genetic effects on T2D as originally calculated are largely independent of any effects attributable to the mean standardized BMI residual.
+0	NA	NA	NA	RESULTS	Specifically, the significance levels for genes of functional interest are of the same order of magnitude in both the adjusted (S1 Text) and the original analysis (Table 2).
+0	NA	NA	NA	RESULTS	Similarly, genetic effects on BMI as originally calculated are largely independent of any effects attributable to T2D, consistent with the regional association plots (Fig.
+0	NA	NA	NA	RESULTS	3, S7 Fig.)
+0	NA	NA	NA	RESULTS	where no evidence for association is seen in plots comparing T2D results across regions that contained the top hits for BMI.
+0	pancreatic	PIK3C2G	NA	RESULTS	This includes the regions containing RMB7, which previously has been related to pancreatic function, and PIK3C2G which has been associated with T2D in another population
+0	NA	NA	NA	RESULTS	As with most GWAS for common complex diseases, top SNP hits identified here were generally located within introns or in potential regulatory regions upstream or downstream of the gene of interest.
+0	NA	NA	NA	RESULTS	In the case of the top hit for BMI (Fig.
+0	NA	NTRK2	NA	RESULTS	3), the peak of association was clearly located upstream of the best functional candidate for BMI, the NTRK2 gene, with little evidence for linkage disequilibrium between SNPs in this peak of association and SNPs within the coding region of the gene.
+0	NA	NA	NA	RESULTS	Conditioning on the top genotyped and top imputed SNPs (S8 Fig.)
+0	NA	NA	NA	RESULTS	reduced all other SNP signals to P>10-3, suggesting a single major signal regulating BMI across this region.
+0	NA	NTRK2	NA	RESULTS	We therefore interrogated the region of top hits upstream of NTRK2 to see if we could find evidence for potential regulatory elements.
+0	NA	NTRK2	NA	RESULTS	Initially we used SYNPLOT to plot the location of the top genotyped SNPs (P<5x10-6) in relation to CNS upstream of NTRK2 (Fig.
+0	NA	NA	NA	RESULTS	5).
+0	NA	NA	NA	RESULTS	These 8 genotyped SNPs were all in strong LD with the top SNP (r2>0.8; Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	NA	rs1866439	RESULTS	SNP rs1866439 (P genotyped = 1.59x10-6) was of equivalent significance to the top SNP rs1347857 (P genotyped = 1.5x10-6) and was unique in being the only top SNP located within a CNS peak, with the risk allele causing loss of a NHP1 binding site falling within a half-palindromic estrogen response element (TGAGTagtTGA/GCC).
+0	NA	NTRK2	NA	RESULTS	NTRK2 expression has been shown to be regulated by estradiol.
+0	NA	NA	NA	RESULTS	Other indications that this might be a regulatory region, as annotated on Fig.
+0	NA	NA	rs1866439	RESULTS	5, included: (i) the presence adjacent to rs1866439 of a CpG-island (50%GC; observed CpG/expected CpG 61%; 212bp in length); (ii) a number of peaks of mono-methylation of lysine 4 of histone H3 (H3K4Me1; frequently found near regulatory regions) as measured by the ENCODE project (see URLs), including around rs1866439; and (iii) the peak of association with the top imputed SNPs (Fig.
+0	NA	LINE-1 or L1	NA	RESULTS	3 part B) falling within a non-conserved region (no CNSs) of fragments of long (LINE-1 or L1) interspersed elements or retrotransposons (Fig.
+0	NA	NA	NA	RESULTS	5 and S9 Fig.).
+0	NA	NA	NA	RESULTS	S9 Fig.
+0	NA	NA	rs11140653	RESULTS	shows the positions of these top SNPs in relation to the L1 elements, with the top imputed SNP (rs11140653) specifically falling within a L1MA3 element (as also annotated on Fig.
+0	NA	NA	NA	RESULTS	5).
+0	NA	NA	NA	RESULTS	While full-length L1s are required for retrotransposition, regulatory elements that overlap with fragments of L1 sequence have been shown to be involved in gene silencing.
+0	NA	NTRK2	NA	RESULTS	Further functional studies will be required to determine which variants and elements are important in regulating NTRK2 in this Aboriginal population
+0	NA	NA	NA	FIG	Since regulatory elements are usually found with conserved regions of the genome, we interrogated the region of our top hits using this in silico analysis to look for conserved regions across multiple species.
+0	NA	SLC28A3	NA	FIG	The multiple alignments of (top to bottom) human, cow and mouse sequences were performed across the complete intergenic region SLC28A3 to NTRK2 using LAGAN.
+0	NA	NA	NA	FIG	The segment of the alignments shown here is the region that contains the top association hits (P<5x10-6).
+0	NA	NA	NA	FIG	The central plotted curves show the degree of conservation of sequence across all three species, on a vertical scale 0-1 (= 100%), such that the peaks represent CNS.
+0	NA	NA	NA	FIG	CNS are defined here as regions with a nucleotide sequence conservation level of >=0.7, i.e.
+0	NA	SLC28A3	NA	FIG	>= to the least conserved exon sequence in the two genes (not shown on this plot) SLC28A3 and NTRK2 flanking the intergenic region of interest.
+0	NA	NA	NA	FIG	Blue boxes indicate repetitive sequence in all 3 species.
+0	NA	NA	rs1086204	FIG	The human sequence is also annotated with positions of: (i) LINE-1 elements (yellow); (ii) the top genotyped SNPs (red vertical bars) including the top SNP rs1086204, and the SNP of interest rs1866439; (iii) the top imputed SNPs (blue vertical bars) including the top SNP rs1140653; (iv) the CpG island-like element identified using CpG Island Seacher (green); and (v) positions of peaks of mono-methylation of lysine 4 of histone H3 (H3K4Me1) as measured in NHEK or NHLF cell lines (mauve) or in H1-hESC human embryonic stem cells (orange) by the ENCODE project, as identified using the UCSC browser (see S9 Fig.)
+0	NA	NA	NA	DISCUSS	Results of the discovery GWAS undertaken here provide the first hypothesis-free insights into genetic risk factors for high BMI and T2D in an Australian Aboriginal population.
+0	hallucinations	NA	NA	DISCUSS	Although estimates suggest the arrival of Aboriginal people in Australia more than 45,000 years ago, we found that we were able to (A) genotype with high accuracy using the Illumina 2.5M Duo SNP chip, and (B) impute genotypes with high accuracy based on the reference panel from the 1000 Genomes project.
+0	NA	NA	NA	DISCUSS	This included imputation accuracy in both the subset of 195 individuals determined by PCA to be of pure Martu ancestry and in the 207 individuals in whom we observed varying degrees of introgression with Caucasian genomes.
+0	NA	NA	NA	DISCUSS	This imputation accuracy compares favorably with that reported for imputation based on the 1000G reference panel of African and American ancestry groups genotyped on the Illumina Omni2.5M Duo chips.
+0	NA	NA	NA	DISCUSS	The major limitation in the present study was sample size and power, but as a pioneering study in the area of application of modern genomics to Aboriginal health in Australia it is important that results of this study are reported in order to allay concerns about genetic research as applied to health outcomes, to boost confidence in the approach, and stimulate replication studies in other Australian Aboriginal populations.
+0	NA	NA	NA	DISCUSS	The important practical implication of our demonstration that 1000G imputation could be employed with accuracy in this Australian Aboriginal population is that further cost-effective genome-wide approaches can be applied to understanding pathogenesis of complex diseases in Australian Aboriginal populations
+0	NA	P < 10-2	NA	DISCUSS	In our study, modest support (P<10-2) was obtained for a number of genes previously shown to achieve genome wide significance in other populations (see Tables S2 and S4), but these were generally not represented amongst the top hits observed for our study population.
+0	NA	P < 10-2	NA	DISCUSS	Of note, no SNPs at P<10-2 were observed for TCF7L2 or KCNJ11, genes that have previously been associated with T2D across multiple ethnicities (though not with Pima Indians for TCF7L2).
+0	NA	NA	NA	DISCUSS	Recent large-scale trans-ancestry meta-analysis shows a significant excess in directional consistency of T2D risk alleles across ancestry groups.
+0	NA	NA	NA	DISCUSS	Whilst the power of our study may have limited our ability to replicate top hits found in large scale population-based case-control GWAS and meta-analyses for BMI and T2D, there is increasing support for the possibility that functional variants that are rare in the general population may be enriched through highly shared ancestry, identity-by-descent, and linkage in the kind of extended pedigrees that we have used in our discovery GWAS.
+0	NA	NA	NA	DISCUSS	Accordingly, our findings here, while requiring further definitive replication in additional Australian Aboriginal populations, highlight interesting novel association signals for BMI and T2D that might provide important clues to disease pathogenesis in this population
+0	NA	BCL9	NA	DISCUSS	For T2D, the top association in our study population, supported by both genotyped and imputed data, was in the region of BCL9.
+0	NA	BCL9	NA	DISCUSS	BCL9 encodes a protein that, along with TCF7L2, promotes beta-catenin's transcriptional activity in the WNT-signaling pathway.
+0	NA	insulin	NA	DISCUSS	WNT-signaling is important in the transcription of proglucagon, which serves as precursor for the incretin hormone glucagon-like peptide 1 that stimulates insulin secretion.
+0	NA	KCNJ6	NA	DISCUSS	Additional hits of functional interest occurred in KCNJ6, KCNA1, and GABRR1.
+0	NA	KCNJ6	NA	DISCUSS	KCNJ6 lies adjacent to KCNJ15 on chromosome 21q22.13.
+0	pancreatic	KCNJ6	NA	DISCUSS	KCNJ6 is an ATP-sensitive potassium channel that regulates insulin secretion in pancreatic beta cells in response to nutrients.
+0	NA	KCNJ15	NA	DISCUSS	KCNJ15 is another member of this family of inwardly-rectifying ATP-sensitive potassium channels that has been shown to be associated with T2D in an Asian population.
+0	pancreatic	KCNA1	NA	DISCUSS	KCNA1 is the voltage-gated potassium channel Kv1.1 that is expressed in pancreatic beta-cells and can influence glucose-stimulated insulin release.
+0	ataxias	Kv1.1	NA	DISCUSS	It has also been associated with ataxia and epilepsy in humans carrying rare variants, and mutant mice provide a model for ataxia in which Kv1.1 influences gamma-aminobutyric acid (GABA) release in Purkinje cells of the brain.
+0	NA	GABRR1	NA	DISCUSS	GABRR1 is a member of the rho subunit family of GABA A receptors.
+0	diabetic cataract	GABRR1	NA	DISCUSS	Previous studies in China have demonstrated association between polymorphisms at GABRR1 and diabetic cataract.
+0	NA	NA	NA	DISCUSS	Recently we also demonstrated that polymorphisms in both GABA-A and GABA-B receptor pathway genes are associated with T2D in an extended family from the United Arab Emirates.
+0	NA	NA	NA	DISCUSS	GABA-A receptors act as inhibitory neurotransmitters in the central nervous system.
+0	pancreatic	insulin	NA	DISCUSS	They are also present in the endocrine part of the pancreas at concentrations comparable to those in the central nervous system, and co-localize with insulin in pancreatic beta cells.
+0	pancreatic	insulin	NA	DISCUSS	Recent work has shown a role for both GABA-A and GABA-B receptors in regulating insulin secretion and glucagon release in pancreatic islet cells from normo-glycaemic and T2D individuals
+0	NA	PIK3C2G	NA	DISCUSS	Amongst our top hits for BMI was PIK3C2G, a gene previously associated with T2D and with serum insulin levels in Japan.
+0	NA	PIK3C2G	NA	DISCUSS	PIK3C2G is a member of a conserved family of intracellular phosphoinositide 3-kinases known to be involved in a large array of cellular functions.
+0	NA	PIK3C2G	NA	DISCUSS	Daimon and coworkers related their association to prior observations of expression of PIK3C2G in the pancreas.
+0	acute myocardial infarction	PIK3C2G	NA	DISCUSS	However, recent GWAS have observed associations between polymorphisms at PIK3C2G and hyperlipidemia and myocardial infarction
+0	NA	contactin-associated protein-like 2	NA	DISCUSS	A second hit for BMI in our population was CNTNAP2 that encodes contactin associated protein-like 2 which localizes to the juxtaparanodal region of the nodes of Ranvier in myelinated axons, where it is required for proper localization of the potassium voltage-gated channel KCNA1.
+0	NA	Cntnap2	NA	DISCUSS	Mutations in Cntnap2 in mice impair Kv1.1 localization, and can be obesity-promoting or obesity-resistant in diet-induced obesity depending on genetic background.
+0	NA	contactin-associated protein-like 2	NA	DISCUSS	Polymorphism at CNTNAP2 was among the strongest gene x environment interactions among African-Americans with BMI as outcome, specifically interacting with dietary energy intake.
+0	obese	contactin-associated protein-like 2	NA	DISCUSS	CNTNAP2 is amongst genes that lie within regions of de novo duplications and deletions recently linked to syndromic obesity in children
+0	NA	SLC28A3	NA	DISCUSS	Perhaps the most convincing association observed in our study was between BMI and SNPs that lie in the intergenic region between SLC28A3 and NTRK2 on chromosome 9q21.33.
+0	NA	SLC28A3	NA	DISCUSS	SLC28A3 is a concentrative nucleoside transporter with broad specificity for pyrimidine and purine nucleosides, and is therefore not a strong candidate genetic risk factor for BMI.
+0	NA	NTRK2	NA	DISCUSS	On the other hand, NTRK2 (also known as TRKB or tyrosine kinase receptor B) is the receptor for BDNF and regulates energy balance downstream of MC4R.
+0	NA	MC4R	NA	DISCUSS	Associations between BMI and SNPs at both MC4R and BDNF have achieved genome-wide significance in multiple independent studies, but association between NTRK2 and BMI has only previously been observed (P = 1.04x10-6) in a gene-centric multi-ethnic meta-analysis of 108,912 individuals genotyped on the ITMAT-Broad-Candidate Gene Association Resource (CARe) array containing 49,320 SNPs across 2100 metabolic and cardiovascular-related loci.
+0	hyperphagia	Bdnf	NA	DISCUSS	Mouse Bdnf mutants that express decreased amounts of Ntrk2 show hyperphagia and maturity-onset obesity, while risk variants in human BDNF were significantly associated with more food servings in a study of obesity susceptibility loci and dietary intake.
+0	Deficiency	MC4R	NA	DISCUSS	Deficiency in MC4R signaling reduces expression of BDNF in ventromedial hypothalamic nuclei, indicating that BDNF and its receptor NTRK2 are downstream components in the MC4R-mediated control of energy balance.
+0	obese	NA	NA	DISCUSS	Overall, our data are consistent with meta-analysis of large-scale GWAS of BMI that, along with data from rare monogenic forms of obesity, highlight a neuronal influence on body weight regulation
+0	NA	NA	NA	DISCUSS	In summary:we report here data for the first GWAS of complex disease in an Australian Aboriginal population.
+0	NA	NA	NA	DISCUSS	Whilst the top hits for BMI and T2D are in novel genes not yet reported for other GWAS, they occur in genes that belong to key pathways strongly supported by previous GWAS in other ethnicities.
+0	NA	NA	NA	DISCUSS	This means that current international efforts to target these pathways will be relevant and translatable to the Australian Aboriginal population, and the genes identified here may indeed provide novel targets in this endeavour
+0	NA	NA	NA	DISCUSS	The URLs for web resources presented herein are as follows
+0	NA	NA	NA	DISCUSS	Smit AFA, Hubley R, Green P (1996-2010) RepeatMasker Open-3.0.
+0	NA	NA	NA	DISCUSS	http://www.repeatmasker.org

@@ -1,0 +1,264 @@
+0	breast cancer	NA	NA	ABSTRACT	Genetic risks in breast cancer remain only partly understood.
+0	breast cancer	ARo	NA	ABSTRACT	Here we report the results of a genome-wide association study of germline DNA from 4,658 women, including 252 women experiencing a breast cancer recurrence, who were entered on the MA.27 adjuvant trial comparing the aromatase inhibitors (AI) anastrozole and exemestane.
+1	NA	MIR2052HG	NA	ABSTRACT	Single nucleotide polymorphisms (SNP) of top significance were identified in the gene encoding MIR2052HG, a long noncoding RNA of unknown function.
+0	breast cancer	NA	NA	ABSTRACT	Heterozygous or homozygous individuals for variant alleles exhibited a ~40% or ~63% decrease, respectively, in the hazard of breast cancer recurrence relative to homozygous wild-type individuals.
+1	breast cancer	NA	NA	ABSTRACT	Functional genomic studies in lymphoblastoid cell lines and ERalpha-positive breast cancer cell lines showed that expression from MIR2052HG and the ESR1 gene encoding estrogen receptor-alpha (ERalpha) was induced by estrogen and AI in a SNP-dependent manner.
+0	NA	ER	NA	ABSTRACT	Variant SNP genotypes exhibited increased ERalpha binding to estrogen response elements, relative to wild-type genotypes, a pattern that was reversed by AI treatment.
+0	NA	NA	NA	ABSTRACT	Further, variant SNPs were associated with lower expression of MIR2052HG and ERalpha.
+1	breast cancer	MIR2052HG	NA	ABSTRACT	RNAi-mediated silencing of MIR2052HG in breast cancer cell lines decreased ERalpha expression, cell proliferation and anchorage-independent colony formation.
+0	NA	NA	NA	ABSTRACT	Mechanistic investigations revealed that MIR2052HG sustained ERalpha levels both by promoting AKT/FOXO3-mediated ESR1 transcription and by limiting ubiquitin-mediated, proteasome-dependent degradation of ERalpha.
+0	breast cancer	NA	NA	ABSTRACT	Taken together, our results define MIR2052HS as a functionally polymorphic gene that affects risks of breast cancer recurrence in women treated with AI.
+0	breast cancer	NA	NA	ABSTRACT	More broadly, our results offer a pharmacogenomic basis to understand differences in the response of breast cancer patients to AI therapy
+0	breast cancer	NA	NA	INTRO	Breast cancer is the most common form of cancer in women both in the United States and worldwide.
+0	breast cancer	ER	NA	INTRO	Endocrine therapy is the most important treatment modality in the majority of women who have estrogen receptor alpha (ERalpha) positive breast cancer.
+0	breast cancer	NA	NA	INTRO	Whereas tamoxifen, a selective ER modulator (SERM), has substantial value in reducing the risk of disease recurrence in women with ERalpha-positive early stage breast cancer, a recent meta-analysis demonstrated that, when compared directly as monotherapy, aromatase inhibitors (AIs) were superior to tamoxifen in terms of local recurrence, distant recurrence, contralateral recurrence, breast cancer mortality, and all-cause mortality.
+0	breast cancer	NA	NA	INTRO	However, despite the clear efficacy of AIs as adjuvant therapy, this meta-analysis revealed that 19.1% of women treated with an AI, anastrozole or letrozole, experienced a recurrence of their breast cancer at 10 years and there was no indication of a plateau in the time to recurrence curve
+0	cancers	NA	NA	INTRO	Canadian Cancer Trials Group MA.27 is the largest adjuvant endocrine therapy trial that exclusively studied AIs.
+0	breast cancer	NA	NA	INTRO	Postmenopausal women with hormone receptor-positive early stage breast cancer were randomized to the steroidal AI exemestane or the non-steroidal AI anastrozole, and no difference in efficacy was identified.
+0	NA	ER	NA	INTRO	We performed a genome-wide association study (GWAS), which indicated that germline genetic variability in SNP genotypes related to a gene encoding a lncRNA, may alter ERalpha expression and impact outcomes after treatment with AIs.. Functional genomic studies of this lncRNA and the SNPs related to it provided novel mechanisms by which the lncRNA might affect the level of AI benefit
+0	NA	NA	NA	METHODS	Patients were obtained from the MA.27 trial (ClinicalTrials.gov number NCT00066573).
+0	breast cancer	ER	NA	METHODS	MA.27 included postmenopausal women with histologically confirmed and completely resected stage I-III breast cancer (AJCC Version 6) that was ERalpha and/or PgR positive.
+0	NA	NA	NA	METHODS	Patients were randomized to five years of anastrozole or exemestane.
+0	NA	NA	NA	METHODS	Only North American patients were offered participation in collection of blood specimens and 5221 of 6827 (76.5%) of the North American patients contributed blood and gave consent for genetic testing.
+0	NA	NA	NA	METHODS	This research was performed after approval by local institutional review boards in accordance with assurances filed with, and approved by, the Department of Health and Human Services
+0	breast cancer	NA	NA	METHODS	The primary outcome was the STEEP endpoint of BCFI, defined as the time from randomization to the first local-regional breast cancer recurrence (including ipsilateral DCIS), distant breast cancer recurrence, contralateral breast cancer (invasive or DCIS) or death with or from breast cancer without a prior recurrence date.
+0	death	NA	NA	METHODS	Follow-up was censored at non-breast cancer death, or longest follow-up without recurrence
+0	NA	NA	NA	METHODS	Three cohorts of patients from MA.27 were genotyped by the RIKEN Center for Integrative Medical Sciences.
+0	NA	NA	NA	METHODS	Cohort 1 involved patients genotyped as part of a GWAS with musculoskeletal adverse events as the phenotype utilizing the Illumina Human610 Quad Beadchip.
+0	fractures	NA	NA	METHODS	Cohort 2 involved patients genotyped as part of a GWAS with fragility bone fractures as the phenotype utilizing the Illumina Human OmniExpress platform.
+0	NA	NA	NA	METHODS	Cohort 3 involved the remainder of the patients from MA.27 with DNA and consent.
+0	NA	NA	NA	METHODS	The quality control measures for cohorts 1 and 2 have been published.
+0	NA	NA	NA	METHODS	For cohort 3, the following measures were taken for quality control purposes.
+0	NA	NA	NA	METHODS	One case and three controls were randomly chosen as duplicates for quality control of genotype concordance.
+0	NA	NA	NA	METHODS	A Caucasian parent-child Centre d'Etude du Polymorphisme Human trio from the HapMap was included to check for Mendelian transmission of alleles.
+0	NA	NA	NA	METHODS	Genotypes were determined utilizing the Illumina Human OmniExpressExome platform.
+0	NA	NA	NA	METHODS	This platform provided genotype data for 964,193 SNPs of which 2,923 were removed because they were from chromosome Y, mitochondria, or unplaced chromosomes.
+0	NA	MAF	NA	METHODS	Additionally, 40,631 SNPs failed genotyping and 250,843 were rare SNPs with MAF<0.01.
+0	NA	NA	NA	METHODS	Imputation was performed using EZimputer across the three cohorts separately.
+0	NA	NA	NA	METHODS	We then combined the genotyping data from all three cohorts to perform the current GWAS.
+0	NA	NA	NA	METHODS	Since each of the three cohorts were genotyped with a different platform, there were some SNPs that were genotyped in some patients but not in others.
+0	NA	NA	NA	METHODS	EZimputer (http://www.mayo.edu/research/departments-divisions/department-health-sciences-research/division-biomedical-statistics-informatics/software/bioinformatics-software-packages) imputes both un-genotyped SNPs and missing SNPs on a given platform.
+0	NA	NA	NA	METHODS	SNPs selected from imputation by EZimputer had a dosage r squared >0.8 [r squared here is defined as the estimated squared correlation between the estimated allele dosage (0*P(Hom Ref/first) + 1*P(AB) + 2*P(Hom Alt/second)) and the true allele dosage]
+0	NA	NA	NA	METHODS	The data from this GWAS have been deposited in the Data Base of Genotypes and Phenotypes (dbGaP).
+0	NA	NA	NA	METHODS	The dbGaP Study Accession Number is phs001043 and the URL is http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs001043.v1.p1
+0	NA	NA	NA	METHODS	We performed deep sequencing of the region containing the top imputed SNPs to determine the quality of the imputation as detailed in Supplementary Materials
+0	NA	NA	NA	METHODS	Exact Fisher tests were used to examine whether there were imbalances between North American patients who were included in this GWAS and those who were not.
+0	NA	NA	NA	METHODS	We also evaluated if any additional clinical variables were significantly associated with breast recurrence event using Stepwise selection method.
+0	NA	NA	NA	METHODS	Our analysis employed a stratified genome-wide Cox-proportional hazards model using significant stratification factors and the model was further controlled for additional covariates including treatment arm, cohort, race, ER/PgR status, T-stage, ECOG performance score and bisphosphonate use.
+0	NA	NA	NA	METHODS	To avoid biases that might arise from differences in genetic ancestry (i.e., population stratification), the EigenStrat software was used to determine eigenvalues for the SNP correlation matrix that statistically differed from zero based on Tracy-Widom p-values.
+0	NA	SAS	NA	METHODS	All the analyses were run using the R statistical computing package, PLINK, and SAS (SAS Institute, Cary, NC)
+0	NA	NA	NA	METHODS	Haplotype analysis was performed using the top six SNPs.
+0	NA	NA	NA	METHODS	Haplotype probabilities for individual samples were estimated using haplo.stats package v1.7.7 in R v3.2.0 (details in Supplementary Materials
+0	NA	NA	NA	METHODS	In order to determine the quality of imputation, we performed targeted deep sequencing of the 300kb region (chr8: 75,400,000-75,700,000) surrounding the chromosome 8 GWAS signal in a total of 997 patients (249 with and 748 without a breast event).
+0	NA	NA	NA	METHODS	We removed both 5' and 3'-end primers with cutadapt-1.7.1 with minimum-length option = 20.
+0	NA	NA	NA	METHODS	The trimmed reads were aligned to the hg19 reference genome using BWA-MEM.
+0	NA	NA	NA	METHODS	SNVs and INDELs were called using HaplotypeCaller and genotyped across all samples with GenotypeGVCF from the Genome Analysis Tool Kit (GATK).
+0	NA	NA	NA	METHODS	Variants were annotated with functional features, impact prediction, and clinical significance using SnpEff, ClinVar, HGMD, and ExAC population frequencies with the BioR annotation tool.
+0	NA	NA	NA	METHODS	To demonstrate the imputation quality of our GWAS SNPs, we correlated the variant calls from deep sequencing with a set of imputed SNPs from the GWAS signal
+0	breast cancer	NA	NA	METHODS	Human breast cancer cell lines CAMA-1, HCC1428, BT474, AU565, BT549 and human embryonic kidney cell line 293T were obtained from American Type Culture Collection (ATCC, Manassus, VA) in 2014 and the identities of all cell lines were confirmed by the medical genome facility at Mayo Clinic Center (Rochester MN) using short tandem repeat profiling upon receipt.
+0	breast cancer	ARo	NA	METHODS	The breast cancer cell line MCF7/AC1, stably overexpressing aromatase (stably transfected CYP19A1 gene), was generously gifted from Angela H. Brodie, Ph.
+0	NA	NA	NA	METHODS	D. (University of Maryland, Baltimore, MD).
+0	NA	NA	NA	METHODS	The cells were authenticated in 2015 by Genetica DNA Laboratories (Cincinnati, OH) using a StemElite ID system that uses short tandem repeat genotyping.
+0	NA	NA	NA	METHODS	All the cells used in our studies were within the initial five passages
+0	NA	NA	NA	METHODS	Details with respect to materials used, cell culture and lymphoblastoid cell line (LCLs) techniques, quantitative real-time PCR assay (qRT-PCR), chromatin Immunoprecipitation (ChIP) assays, cell proliferation assays, colony forming assays, western blotting are given in the Supplementary Materials
+0	NA	NA	NA	RESULTS	The Participant Flow Diagram (Supplementary Fig.
+0	NA	NA	NA	RESULTS	S1) shows the patients included and excluded from the GWAS, and Supplementary Table 1 provides the patient characteristics and analyses revealed good comparability (Supplementary Materials)
+0	NA	NA	NA	RESULTS	A total of 4,784 patients had sufficient DNA for genotyping but 4,658 patients were utilized for the GWAS following quality control procedures as specified in the Supplementary Materials and in the Participant Flow Diagram (Supplementary Fig.
+0	NA	NA	NA	RESULTS	S1).
+0	NA	NA	NA	RESULTS	The analysis included 252 women with a breast event and 4406 women who had not experienced a breast event (Table 1).
+0	NA	NA	NA	RESULTS	We did not find any eigenvectors that were significantly associated with BCFI
+0	NA	NA	NA	RESULTS	Table 1 shows that the percentage of patients with a breast event was similar within each of the three genotyped cohorts (Cohort 1: 4.9%, Cohort 2: 5.3%, Cohort 3: 5.6%).
+0	NA	NA	NA	RESULTS	Patients with and without a breast event were well balanced for age, treatment arm (anastrozole versus exemestane), and baseline body mass index.
+0	cancers	progesterone receptor	NA	RESULTS	There were significant imbalances for adjuvant chemotherapy (P=3.68e-12), T stage (P=<2e-16), lymph node status (p=<2e-16) Eastern Cooperative Oncology Group (ECOG) performance score (P=0.0003), bisphosphonate use (P=0.0004), and ER/progesterone receptor (PgR) (p=0.008) with patients with a breast event having a higher percentage of ER-positive/PgR-negative and a lower percentage of ER-positive/PgR-positive tumors
+0	NA	NA	NA	RESULTS	Genotyping for Cohorts 1 and 2 has been described previously utilizing the Illumina Human610 Quad BeadChip and the Illumina HumanOmniExpress platforms, respectively.
+0	NA	NA	NA	RESULTS	For Cohort 3, after quality control measures, 669,796 genotyped SNPs were available for combining with genotype data from Cohorts 1 and 2.
+0	NA	MAF	NA	RESULTS	Imputation was performed using an in-house method, EZimputer, which returned a total of 9.57M SNPs (observed plus imputed) with r squared >0.8, of which 7.4M (observed + imputed) SNPs had a MAF>0.01 and were used for the analyses
+0	NA	NA	NA	RESULTS	We performed a stratified Cox-proportional hazards analysis utilizing stratification factors and other covariates as detailed in the Methods section.
+0	NA	NA	NA	RESULTS	The Manhattan plot (Fig.
+0	NA	NA	NA	RESULTS	1A) shows that the SNPs with the lowest p-values mapped to chromosome 8 and the quantile-quantile plot (Supplementary Fig.
+0	NA	NA	NA	RESULTS	S2) revealed a lambda of 0.999.
+0	NA	NA	NA	RESULTS	Figure 1B shows the locus zoom for the region with the top SNPs.
+0	NA	NA	NA	RESULTS	"Characteristics of the top six SNPs on chromosome 8 are listed in Table 2 and these SNPs are all ""favorable"" in that they were associated with longer BCFI."
+0	NA	NA	NA	RESULTS	All six SNPs were in strong linkage disequilibrium with R2 values ranging from 0.95 to 0.99.
+0	NA	NA	NA	RESULTS	The hazard ratios provided in Table 2 are for the presence of a single variant SNP genotype, which would be a heterozygous state.
+0	NA	NA	NA	RESULTS	The presence of two variant SNP genotypes would be a homozygous variant state and the hazard ratio would be multiplicative.
+0	breast cancer	NA	rs4476990	RESULTS	For example, considering rs4476990, the hazard ratio was 0.61, indicating ~39% reduction in the hazard of a breast cancer event for the heterozygous state relative to the homozygous wild type state, but the hazard ratio for women with the homozygous variant state would be 0.61x0.61=0.37, indicating ~63% reduction in the hazard of a breast cancer event, again relative to those with a homozygous wild type state.
+0	NA	NA	NA	RESULTS	The p-values for the top six SNPs ranged from 2.15E-07 to 6.24E-07).
+0	NA	NA	NA	RESULTS	Importantly, these variant SNP genotypes were common with MAFs ranging from 0.32 to 0.42
+0	NA	NA	NA	RESULTS	To validate our imputation quality, we used deep sequencing techniques to call variants surrounding the chromosome 8 peak.
+0	NA	NA	NA	RESULTS	We compared the deep sequencing variants calls of these SNPs with those obtained from MA-27 data.
+0	NA	NA	NA	RESULTS	The correlations between the variants (from deep sequencing) and the MA.27 SNPs were at least 0.9 in all the top SNPs (Supplementary Table 2), and thus of high quality
+1	NA	MIR2052HG	rs13260300	RESULTS	The top SNP (rs13260300) was located 32.4kb 5' of MIR2052HG (other names: FLJ39080, LOC441355), a gene located on chromosome 8q21.11, and two of the top SNPs were located in MIR2052HG.
+0	NA	NA	NA	RESULTS	MIR2052HG encodes a lncRNA whose function is not known and with very few publications referring to this gene
+0	breast cancer	NA	NA	RESULTS	Because this study involved AIs as therapy for ER-positive breast cancer, we interrogated the top SNPs to determine which were located in or within 500 bp of a putative estrogen response element (ERE), similar to what we have done in previous studies.
+0	NA	NA	NA	RESULTS	The distance of 500 bp was chosen as chromatin immunoprecipitation (ChIP) assays become less reliable with greater distances between a SNP and an ERE.
+1	NA	MIR2052HG	rs4476990	RESULTS	Two of the top SNPs fulfilled one of these two criteria with rs4476990 being located 33kb 5' of MIR2052HG and in an ERE, while rs3802201 mapped to intron 1 of MIR2052HG and located 16bp from an ERE.
+0	NA	NA	NA	RESULTS	We focused on these two SNPs, which are in moderate linkage disequilibrium (R2=0.6), in our functional studies.
+0	NA	NA	rs4476990	RESULTS	The significant relationships between the genotypes of the two SNPs, rs4476990 and rs3802201, and BCFI are shown in Supplementary Figs.
+0	NA	NA	NA	RESULTS	3A and 3B, respectively.
+0	NA	NA	rs4476990	RESULTS	After adjustment for covariates (treatment arm, cohort, race, ER/PR status, T-Stage, ECOG performance status and bisphosphonate use), a stratified Cox model using stratification factors (adjuvant chemotherapy, lymph node status, trastuzumab use) determined p=2.51E-07 for rs4476990 and p=6.24E-07 for rs3802201
+0	NA	NA	NA	RESULTS	A haplotype analysis of the top six SNPs was performed to determine the degree of association.
+0	NA	NA	NA	RESULTS	The results of this analysis are shown in Supplementary Table 3 and reveal that the association for the most significant haplotype (HR 0.58, p=1.23E-06) was not superior to the top SNPs considered individually (Table 2)
+0	cancers	ER	NA	RESULTS	Because of the importance of ERalpha in endocrine therapy, we interrogated the Cancer Genome Atlas (TCGA) breast cancer data for a possible relationship between the expression of MIR2052HG and ESR1, which encodes ERalpha, in 485 ER-positive breast cancers.
+0	NA	NA	NA	RESULTS	There was a positive correlation (Spearman correlation coefficient 0.370) between the expressions of these two genes.
+1	NA	MIR2052HG	NA	RESULTS	This provided an indication that there might be an important relationship between MIR2052HG and ESR1, which was supported by the functional genomic studies described in subsequent paragraphs.
+1	breast cancer	MIR2052HG	NA	RESULTS	MIR2052HG is expressed in multiple breast cancer cell lines including ERalpha-positive cell lines, according to the Cancer Genomics Hub (https://cghub.ucsc.edu)
+1	NA	MIR2052HG	rs4476990	RESULTS	As mentioned earlier, the rs4476990 SNP was located in a putative ERE and the rs3802201 SNP in intron 1 of MIR2052HG was near another ERE (Fig.
+0	NA	NA	NA	RESULTS	2A).
+0	NA	NA	NA	RESULTS	To test the possible functional impact of these two SNPs, we utilized a model system consisting of 300 individual human lymphoblastoid cell lines (LCLs) for which we have extensive genomic and transcriptomic data.
+0	NA	NA	NA	RESULTS	This LCL model system has repeatedly shown its value in both generating and testing pharmacogenomics hypotheses.
+0	NA	NA	NA	RESULTS	Specifically, we selected 5 LCLs with homozygous wild type (WT) genotypes for both SNPs and 5 LCLs homozygous for variant genotypes for both SNPs to perform estradiol (E2) treatment and ChIP assays.
+1	NA	MIR2052HG	NA	RESULTS	In the presence of E2, cells homozygous for the variant SNP genotypes showed a dose-dependent increase in MIR2052HG expression (Fig.
+0	NA	ER	NA	RESULTS	2B) as well as increased binding of ERalpha to the EREs shown in Fig.
+0	NA	ER	NA	RESULTS	2A for variant genotypes for both SNPs relative to WT in ChIP assays using ERalpha antibody (Figs.
+0	NA	NA	NA	RESULTS	2C and 2D).
+0	NA	ER	NA	RESULTS	4-Hydroxy-tamoxifen (4-OH-Tam), a SERM that competes with E2 for ERalpha binding, could reverse this effect (Figs.
+0	NA	NA	NA	RESULTS	2C and 2D)
+0	NA	ARo	NA	RESULTS	The major function of AIs is to reduce estrogen levels by the inhibition of aromatase, the rate-limiting step in estrogen biosynthesis.
+0	NA	NA	NA	RESULTS	The reduction of estrogens could have an effect on ERalpha-mediated function.
+0	NA	NA	NA	RESULTS	As we have shown in our previous studies, estrogens and SERMs can alter gene expression in a SNP-dependent fashion.
+1	NA	MIR2052HG	NA	RESULTS	Thus, we proceeded to examine the effect of the AIs anastrozole and exemestane on MIR2052HG and ESR1 expression in the presence of androstenedione, which is aromatized to estrone by aromatase, the target for the AIs under study
+1	NA	MIR2052HG	NA	RESULTS	In the presence of androstenedione, LCLs with variant genotypes for both SNPs showed dose-dependent increases in MIR2052HG expression (Figs.
+0	NA	NA	NA	RESULTS	3A and B) that was similar to that for E2 (Fig.
+0	NA	NA	NA	RESULTS	2B).
+0	NA	NA	NA	RESULTS	However, the addition an AI, either exemestane (Fig.
+0	NA	NA	NA	RESULTS	3A) or anastrozole (Fig.
+1	NA	MIR2052HG	NA	RESULTS	"3B), to the androstenedione-treated LCLs caused a ""reversal"" of the expression pattern with increased MIR2052HG expression in LCLs homozygous for the WT genotypes but a marked decrease in LCLs homozygous for variant genotypes."
+1	NA	MIR2052HG	NA	RESULTS	Of particular interest was the observation of a direct correlation between this striking pattern of expression for MIR2052HG and that of ESR1 in the same cell lines (Figs.
+0	NA	NA	NA	RESULTS	3C and 3D), bringing us back to the correlation that we had observed between the expression of MIR2052HG and ESR1 in the TCGA data
+1	NA	MIR2052HG	NA	RESULTS	Having determined that, in a SNP and AI-dependent fashion, the expression of MIR2052HG was correlated with that of ESR1 (Fig.
+1	NA	MIR2052HG	NA	RESULTS	3), we set out to study the possible functional impact of the MIR2052HG lncRNA on AI response and on cell proliferation.
+1	NA	MIR2052HG	NA	RESULTS	When we began our studies, the function of MIR2052HG was not known, but we hypothesized, based on the results shown in Fig.
+0	NA	ER	NA	RESULTS	3, that this lncRNA might influence AI response through its effect on the downstream expression of ESR1.
+1	breast cancer	MIR2052HG	NA	RESULTS	To determine the effect of MIR2052HG knock down on ERalpha levels, we chose two ERalpha-positive breast cancer cell lines with relatively high endogenous MIR2052HG expression, CAMA1 and the aromatase expressing MCF7/AC1 cell lines.
+1	NA	MIR2052HG	NA	RESULTS	Knock down of MIR2052HG resulted in striking decreases of ERalpha expression, both at the mRNA and the protein levels (Figs.
+0	NA	NA	NA	RESULTS	4A and 4B), consistent with the TCGA data that showed a positive correlation between the two genes.
+1	NA	MIR2052HG	NA	RESULTS	Furthermore, in MCF7/AC1 cells, knock down of MIR2052HG decreased cell proliferation and colony formation (Figs.
+1	NA	MIR2052HG	NA	RESULTS	4C and 4D), while overexpression of MIR2052HG increased cell proliferation, colony formation, and ERalpha expression (Fig.
+1	NA	ER	NA	RESULTS	4E), functionally confirming the positive relationship between ERalpha and MIR2052HG.
+0	breast cancer	NA	NA	RESULTS	We observed the same results in two additional ERalpha-positive breast cancer cell lines, HCC1428 and BT474, with regard to the effect of MIR2052HG on ERalpha protein levels and cell proliferation (Supplementary Fig.
+0	NA	NA	NA	RESULTS	S4).
+0	NA	NA	NA	RESULTS	Also, it is well known that androstenedione increases MCF7/AC1 proliferation and that this increase in proliferation can be abrogated with AIs.
+1	NA	MIR2052HG	NA	RESULTS	However, overexpression of MIR2052HG significantly increased cell proliferation even in the presence of AI treatment (Fig.
+0	NA	NA	NA	RESULTS	4F).
+1	NA	MIR2052HG	NA	RESULTS	Conversely, down-regulation of MIR2052HG inhibited MCF7/AC1 cell proliferation induced by either E2 or androstenedione (Supplementary Fig.
+0	NA	NA	NA	RESULTS	S5).
+1	NA	NA	NA	RESULTS	No significant change was observed in the proliferation of ERalpha-negative cells (AU565 and BT549) after the down-regulation of MIR2052HG (Supplementary Fig.
+0	NA	NA	NA	RESULTS	S6)
+0	NA	NA	NA	RESULTS	MIR2052HG expression is associated with both ERalpha mRNA and protein levels (Fig.
+0	NA	NA	NA	RESULTS	4A).
+1	NA	MIR2052HG	NA	RESULTS	To pursue these observations, we began by determining whether MIR2052HG might affect ERalpha protein stability mediated by protein degradation.
+1	NA	ER	NA	RESULTS	Treatment with cycloheximide, resulted in a decrease in the half-life of ERalpha protein in cells in which MIR2052HG had been knocked down (Fig.
+0	NA	NA	NA	RESULTS	5A and 5B).
+1	NA	MIR2052HG	NA	RESULTS	We also treated MIR2052HG knock down cells with MG132, a proteasome inhibitor, and found that it reversed ERalpha degradation in these cells (Fig.
+0	NA	NA	NA	RESULTS	5C, upper panel).
+0	NA	NA	NA	RESULTS	The same phenomenon was observed using bortezomib, another specific proteasome inhibitor (Fig.
+0	NA	NA	NA	RESULTS	5C, lower panel).
+0	NA	NA	NA	RESULTS	These results indicated that MIR2052HG regulates ERalpha protein stability through a proteasome-mediated degradation pathway.
+1	NA	ER	NA	RESULTS	Furthermore, we observed that ERalpha ubiquitination increased after knocking down MIR2052HG in 293T cells (Fig.
+0	NA	NA	NA	RESULTS	5D), confirming the involvement of ubiquitin-dependent and proteasome-mediated degradation
+1	NA	MIR2052HG	NA	RESULTS	We next examined possible mechanisms by which MIR2052HG was involved in the control of ERalpha transcription.
+1	NA	MIR2052HG	NA	RESULTS	During these experiments, we observed in both MCF7/AC1 and CAMA1 cells that down-regulation of MIR2052HG resulted in increased phospho-AKT (pAKT) levels at both the Ser473 and Thr308 sites, but total AKT levels did not change (Fig 5E).
+1	NA	FOXO3	NA	RESULTS	Because FOXO3 is downstream of AKT and activated AKT phosphorylates FOXO3 resulting in degradation of FOXO3 through a proteasome-dependent process, we determined the effects of MIR2052HG knock down on total FOXO3 and phospho-FOXO3 levels (on S318/S321) and observed both of them to be reduced (Fig.
+0	NA	NA	NA	RESULTS	5E), consistent with the known effect of pAKT.
+0	NA	FOXO3	NA	RESULTS	It is also well known that FOXO3 regulates the expression of ERalpha and that the expression of FOXO3 is directly correlated with the expression of ERalpha.
+1	NA	ER	NA	RESULTS	To further confirm that the regulation of ESR1 mRNA levels by MIR2052HG is mediated through the regulation of FOXO3, we overexpressed FOXO3 in MCF/AC1 cells, in which MIR2052HG had been knocked down, and observed that FOXO3 overexpression could reverse the down-regulation of ESR1 mRNA caused by knocking down MIR2052HG (Fig.
+0	NA	NA	NA	RESULTS	5F).
+1	NA	MIR2052HG	NA	RESULTS	In summary, these results indicate that the down-regulation of MIR2052HG can reduce ESR1 mRNA levels by promoting AKT-mediated down-regulation of FOXO3, which regulates ESR1 transcription.
+0	cancers	NA	NA	RESULTS	Thus, it appears that tumor expression of MIR2052HG plays a role in the regulation of ERalpha transcription in addition to ERalpha protein degradation
+0	breast cancer	NA	NA	DISCUSS	Recurrence of breast cancer in women with early stage disease treated with adjuvant endocrine therapy implies endocrine resistance.
+0	cancers	ER	NA	DISCUSS	Multiple potential mechanisms, mainly focusing on ERalpha function, have been proposed for this resistance but, by and large, these mechanisms have been related to factors present in the cancers.
+0	NA	CYP2D6	NA	DISCUSS	Much less attention has been paid to host-related factors for endocrine resistance or, more appropriately, lack of efficacy of endocrine therapy, such as CYP2D6 poor metabolizer genotype in the case of tamoxifen.
+0	breast cancer	NA	NA	DISCUSS	In the current study, our goal was to interrogate the germline genome for SNPs related to breast cancer events in women treated with adjuvant AI therapy, relate those SNPs to genes, and perform functional studies to identify potential mechanisms for the observed associations.
+0	NA	NA	NA	DISCUSS	We controlled for significant imbalances in three stratification factors by performing stratified Cox analyses and for the effects of baseline factors that impacted BCFI with their forced inclusion in the Cox model.
+0	NA	NA	NA	DISCUSS	The p-values for the top SNPs were approximately 2E-07, which approaches, but does not reach genome-wide significance.
+0	NA	NA	NA	DISCUSS	However, because of the importance of the phenotype and the fact that we were studying the largest study that had evaluated AIs and had DNA available, we chose to pursue these signals with functional genomic experiments, with strikingly positive findings.
+0	NA	NA	NA	DISCUSS	We acknowledge that a replication dataset would have been of value but we considered it important to report our compelling data despite the lack of an available dataset
+1	NA	MIR2052HG	NA	DISCUSS	Our GWAS identified variant SNPs on chromosome 8 that were protective and in or near a gene (MIR2052HG) that encodes a lncRNA.
+0	NA	NA	NA	DISCUSS	There is increasing appreciation of the role of lncRNAs in regulation of the genome.
+0	NA	NA	NA	DISCUSS	For example, lncRNAs can form extensive networks of ribonucleoprotein complexes with chromatin regulators and modulate them.
+0	cancers	NA	NA	DISCUSS	There is also increasing evidence suggesting lncRNAs play important roles in cancers.
+0	breast cancer	HOTAIR	NA	DISCUSS	For example, HOTAIR (Hox antisense intergenic RNA) is highly induced in about one-quarter of patients with breast cancer.
+0	metastases	ER	NA	DISCUSS	The long intergenic non-coding RNA-ROR has been shown to induce epithelial-to-mesenchymal transition and contribute to breast cancer metastasis and to enhance ERalpha signaling, conferring resistance to tamoxifen.
+0	NA	ER	NA	DISCUSS	A recent study also indicated that a cluster of lncRNAs, termed Eleanors (ESR1 locus enhancing and activating noncoding RNAs) located within the genomic region containing the ESR1 gene can regulate ERalpha levels through an enhancer function.
+0	NA	SRA1	NA	DISCUSS	Of note is the fact that the lncRNA SRA1 (steroid receptor RNA activator 1) acted as a coactivator of ERalpha, and this action depended on the phosphorylation of ERalpha at Ser118
+0	NA	NA	NA	DISCUSS	The role of lncRNAs in resistance to endocrine therapy is an area of emerging interest.
+0	breast cancer	NA	NA	DISCUSS	However, our study is, to our knowledge, the first to focus on the impact of a lncRNA on outcomes in a large prospective trial of AI therapy in women with early-stage breast cancer.
+1	breast cancer	MIR2052HG	NA	DISCUSS	Our finding of the relationship between SNPs related to the MIR2052HG lncRNA and recurrence of breast cancer in women treated with adjuvant AIs led us to perform a series of functional studies to discover potential mechanisms for this association.
+0	NA	NA	NA	DISCUSS	Using an LCL model system, we showed that, in the presence of E2, these variant SNPs increased both MIR2052HG and ESR1 expression with increased ERalpha binding to ERE motifs for variant SNP genotypes as shown by ChIP assays (Figs.
+0	NA	NA	NA	DISCUSS	2C, 2D).
+1	NA	MIR2052HG	NA	DISCUSS	However, when an AI (exemestane or anastrozole) was added, LCLs with the WT SNP genotype displayed a marked up-regulation of MIR2052HG expression and, in parallel, ESR1 expression whereas cells with the variant SNP genotypes showed a clear decrease in both MIR2052HG and ESR1 expression (Fig.
+0	NA	NA	NA	DISCUSS	3).
+1	NA	MIR2052HG	NA	DISCUSS	"That is, the presence of the AI brought about a ""reversal"" of the SNP-dependent MIR2052HG expression pattern."
+0	NA	ER	NA	DISCUSS	SNP- and drug-dependent regulation of gene expression has been previously reported by our group in the case of selective estrogen receptor modulators (SERMs), tamoxifen and raloxifene, when given as preventive therapy, which led to the identification of novel mechanisms by which SNPs can regulate gene expression.
+0	breast cancer	NA	NA	DISCUSS	Thus, our previous observations with SERMs provided an impetus to investigate the role of this lncRNA in the efficacy of AI therapy as well as in the regulation of hormone-dependent breast cancer
+0	NA	NA	NA	DISCUSS	MIR2052HG is located on chromosome 8 and not in the ESR1 genomic region on chromosome 6, but it has a significant effect on ERalpha regulation as noted above.
+0	breast cancer	ER	NA	DISCUSS	ERalpha plays an essential role in cell proliferation and survival in estrogen-dependent breast cancers and in AI-treated patients, ESR1 amplification, resulting in increased ERalpha expression, is associated with endocrine resistance.
+1	NA	MIR2052HG	NA	DISCUSS	We showed that overexpression of MIR2052HG increased ERalpha expression and accelerated cell proliferation of MCF/AC1 cells in the presence of AI treatments (Figs.
+0	NA	NA	NA	DISCUSS	4E, 4F).
+1	NA	MIR2052HG	NA	DISCUSS	Conversely, down-regulation of MIR2052HG reduced cell proliferation and colony formation even after E2 or androstenedione treatment (Figs.
+0	NA	NA	NA	DISCUSS	4C, 4D and Supplementary Fig.
+0	NA	NA	NA	DISCUSS	5).
+1	NA	NA	NA	DISCUSS	These phenomena are specific for ERalpha-positive cells, since in ER-negative cell lines, we did not observe an effect of MIR2052HG on cell proliferation (Supplementary Fig.
+0	NA	NA	NA	DISCUSS	6).
+1	NA	MIR2052HG	NA	DISCUSS	Based on our observations of the effects of MIR2052HG on both ERalpha protein and mRNA levels, we hypothesized that MIR2052HG might regulate ERalpha through a proteasome-mediated pathway, which we experimentally confirmed by treatment with proteasome inhibitors and with ubiquitin assays (Fig.
+0	NA	NA	NA	DISCUSS	5).
+1	NA	ER	NA	DISCUSS	Furthermore, regulation of the transcription of ERalpha by MIR2052HG was found to be through AKT-dependent FOXO3 regulation; FOXO3 is a known transcription factor for ERalpha (Figs.
+0	NA	NA	NA	DISCUSS	5E, 5F)
+0	NA	ER	NA	DISCUSS	Through our GWAS using germline DNA samples from the largest AI clinical trial, we have identified a novel lncRNA that potentially plays an important role in the regulation of ERalpha levels, one of the mechanisms involved in AI resistance.
+0	NA	MAF	rs4476990	DISCUSS	Our GWAS indicated that two variant SNPs (rs4476990 and rs3802201) were common variants with MAF values of 42% and 32%, respectively, and that both were protective, i.e.
+0	NA	NA	NA	DISCUSS	patients with the variant SNP genotypes had a longer BCFI.
+1	NA	MIR2052HG	NA	DISCUSS	The results of our mechanistic studies supported the association in that both variant SNPs down-regulated MIR2052HG expression in the presence of AIs, which was associated with the down-regulation of ERalpha at both the mRNA level and the protein levels.
+0	NA	ER	NA	DISCUSS	The presence of markedly increased ESR1 expression in the presence of either anastrozole or exemestane in LCLs with the WT SNP genotype is a potential mechanism for the adverse outcomes in patients carrying the WT SNP genotype.
+0	NA	ER	NA	DISCUSS	Conversely, down-regulation of ERalpha in the presence of the variant SNP genotypes after exposure to anastrozole or exemestane might be a factor contributing to their more favorable BCFI
+1	NA	MIR2052HG	NA	DISCUSS	At the mechanistic level, how MIR2052HG regulates the AKT pathway remains to be further investigated.
+0	NA	Akt	NA	DISCUSS	It could have a direct impact on AKT phosphorylation or more likely, through the regulation of upstream proteins that affect AKT activity.
+1	NA	MIR2052HG	NA	DISCUSS	Additionally, the mechanism by which MIR2052HG regulates ERalpha ubiquitin- and proteasome-mediated degradation also remains unresolved, but previous studies have suggested ER phosphorylation can influence its ubiquitination.
+0	NA	NA	NA	DISCUSS	Therefore, one possibility is that the MIR2052HG could affect ERalpha levels by regulating various proteins that might affect ERalpha phosphorylation.
+0	NA	NA	NA	DISCUSS	Our current findings suggest that MIR2052HG could affect both ERalpha mRNA and protein levels through different mechanisms
+0	breast cancer	ER	NA	DISCUSS	In summary, we have identified SNP genotypes on chromosome 8 that were associated with breast cancer outcomes in women treated with the AIs anastrozole or exemestane as adjuvant therapy for their early-stage breast cancer, and we related these SNPs to a lncRNA, which, in a SNP-dependent and AI-dependent fashion, regulated ERalpha expression.
+0	NA	NA	NA	DISCUSS	The variant SNP genotypes, which are favorable in women treated with anastrozole and exemestane, are potential markers that could identify women for whom either AI would be appropriate therapy, i.e., for those women whose germline carries the variant SNP genotypes.
+0	NA	NA	NA	DISCUSS	This would require further corroboration with additional clinical testing.
+1	NA	MIR2052HG	NA	DISCUSS	However, our GWAS and functional studies have provided initial evidence that germline genetic variability in SNP genotypes related to a gene encoding a lncRNA, MIR2052HG, may impact outcomes after treatment with the AIs anastrozole or exemestane
+0	NA	NA	NA	FIG	A, GWAS Manhattan Plot.
+1	NA	MIR2052HG	NA	FIG	B, Locus zoom of the chromosome 8 region surrounding the MIR2052HG gene
+0	NA	NA	rs4476990	FIG	A. Schematic of estrogen response elements (EREs) around rs4476990 and rs3802201.
+0	NA	NA	NA	FIG	The EREs are indicated as boxes and the SNPs are indicated as red circles.
+0	NA	NA	rs4476990	FIG	B. MIR2052HG mRNA expression in lymphoblastoid cell lines (LCLs) with wild type SNP (W) and variant SNP (V) genotypes for both rs4476990 and rs3802201 after exposure to increasing concentrations of E2.
+0	NA	NA	NA	FIG	Error bars represent SEM.
+0	NA	NA	NA	FIG	*P<0.05.
+0	NA	NA	rs4476990	FIG	C. and D., ChIP assay using six LCLs with known genotypes for rs4476990 and rs3802201 SNPs.
+0	NA	NA	NA	FIG	Error bars represent SEM of three independent experiments.
+0	NA	NA	NA	FIG	Representative PCR products are visualized on agarose DNA gels
+0	NA	NA	rs4476990	FIG	A and B. MIR2052HG mRNA expression in lymphoblastoid cell lines (LCLs) withWT and V genotypes for both rs4476990 and rs3802201 after exposure to androstenedione alone and with increasing concentrations of exemestane or anastrozole.
+0	NA	ER	NA	FIG	C and D. mRNA expression for ESR1 in LCLs with the same conditions as A and B.
+0	NA	NA	NA	FIG	*P<0.05, **P<0.01
+1	NA	MIR2052HG	NA	FIG	A, Knock down of MIR2052HG by antisense oligonucleotides (ASO1 and ASO2) down-regulated ERalpha protein.
+0	NA	NA	NA	FIG	The histogram shows knock down efficiency in CAMA1 and MCF7/AC1 cells.
+1	NA	MIR2052HG	NA	FIG	B, Knock down of MIR2052HG decreased ESR1 mRNA expression levels in CAMA1 and MCF7/AC1 cell lines.
+1	NA	MIR2052HG	NA	FIG	C and D. Knock down of MIR2052HG decreased proliferation and colony formation in CAMA1 and MCF7/AC1 cells.
+0	NA	NA	NA	FIG	The representative colony formation pictures from triplicate experiments are shown.
+0	NA	NA	NA	FIG	The colony formation rates are quantified as percentages.
+0	NA	NA	NA	FIG	Error bars represent SEM; ** P< 0.01 compared to baseline (negative control).
+1	NA	MIR2052HG	NA	FIG	E, Overexpression of MIR2052HG increased ERalpha protein levels.
+0	NA	NA	NA	FIG	Overexpression efficiency was determined by qRT-PCR.
+1	NA	MIR2052HG	NA	FIG	Overexpression of MIR2052HG increased the proliferation and colony formation and ERalpha protein levels in MCF7/AC1 cells.
+0	NA	NA	NA	FIG	F. Overexpression of MIR2052HG conferred resistance to AIs (exemestane and anastrozole) and 4-hydroxy-tamoxifen treatments in MCF7/AC1 compared to negative controls.
+0	NA	NA	NA	FIG	The assay was performed as described in C and D. Error bars represent SEM.
+0	NA	NA	NA	FIG	The concentrations for androstenedione (A), exemestane (EXE, anastrozole (ANA), estradiol (E2) and 4-hydroxy-tamoxifen (TAM) are indicated
+1	NA	MIR2052HG	NA	FIG	A, Knock down of MIR2052HG shortened ERalpha protein half-life.
+1	NA	MIR2052HG	NA	FIG	CAMA1 cells were transfected with MIR2052HG specific antisense oligonucleotides (ASOs) or a negative control ASO and then treated with cycloheximide (CHX).
+0	NA	NA	NA	FIG	The representative western blotting results from three independent experiments are shown.
+0	NA	NA	NA	FIG	The knock down efficiency was determined by qRT-PCR.
+0	NA	ER	NA	FIG	B. Quantitative intensities of ERalpha are mean values with SEM (error bars) from three independent experiments.
+1	NA	MIR2052HG	NA	FIG	C. MIR2052HG regulated ERalpha stability in a proteasome-dependent manner.
+1	NA	MIR2052HG	NA	FIG	MIR2052HG was knocked down with ASOs in CAMA1 cells that were treated with MG132 or bortezomib.
+1	NA	MIR2052HG	NA	FIG	D. Knock down of MIR2052HG promoted the ubiquitination of ERalpha.
+1	NA	MIR2052HG	NA	FIG	293T cells were transfected with HA-Ub plasmid and FLAG-ERalpha plasmid, and then transfected with either the MIR2052HG specific ASOs or the negative control ASO followed by MG132.
+0	NA	ER	NA	FIG	ERalpha proteins were immunoprecipitated and analyzed by western blotting.
+0	NA	NA	NA	FIG	Knock down efficiency in 293T cells was determined by qRT-PCR.
+0	NA	NA	NA	FIG	E. MIR2052HG regulated ERalpha transcription through the AKT-FOXO3 pathway.
+1	NA	MIR2052HG	NA	FIG	Knock down of MIR2052HG increased AKT phosphorylation and decreased FOXO3 phosphorylation and FOXO3 total level in MCF7/AC1 and CAMA1 cells.
+1	NA	FOXO3	NA	FIG	F. Overexpression of FOXO3 in MIR2052HG knocked-down MCF7/AC1 cells reversed ERalpha protein and mRNA levels.
+0	NA	FOXO3	NA	FIG	Overexpression of FOXO3 was determined by western blotting.
+0	NA	NA	NA	FIG	HA: expression tag

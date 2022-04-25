@@ -1,0 +1,196 @@
+0	AMD	NA	NA	ABSTRACT	Age-related macular degeneration (AMD) is a major cause of blindness, but presents differently in Europeans and Asians.
+0	AMD	NA	NA	ABSTRACT	Here, we perform a genome-wide and exome-wide association study on 2,119 patients with exudative AMD and 5,691 controls, with independent replication in 4,226 patients and 10,289 controls, all of East Asian descent, as part of The Genetics of AMD in Asians (GAMA) Consortium.
+0	AMD	CETP	Asp442Gly	ABSTRACT	We find a strong association between CETP Asp442Gly (rs2303790), an East Asian-specific mutation, and increased risk of AMD (odds ratio (OR)=1.70, P=5.60 x 10-22).
+0	AMD	NA	Asp442Gly	ABSTRACT	The AMD risk allele (442Gly), known to protect from coronary heart disease, increases HDL cholesterol levels by 0.17 mmol l-1 (P=5.82 x 10-21) in East Asians (n=7,102).
+1	AMD	C6orf223	Ala231Ala	ABSTRACT	We also identify three novel AMD loci: C6orf223 Ala231Ala (OR=0.78, P=6.19 x 10-18), SLC44A4 Asp47Val (OR=1.27, P=1.08 x 10-11) and FGD6 Gln257Arg (OR=0.87, P=2.85 x 10-8).
+0	AMD	NA	NA	ABSTRACT	Our findings suggest that some of the genetic loci conferring AMD susceptibility in East Asians are shared with Europeans, yet AMD in East Asians may also have a distinct genetic signature
+0	AMD	NA	NA	ABSTRACT	 Age-related macular degeneration (AMD) is a major cause of blindness worldwide.
+0	AMD	NA	NA	ABSTRACT	Here, the authors carry out a two-stage genome-wide association study for AMD and identify three new AMD risk loci, highlighting the shared and distinct genetic basis of the disease in East Asians and Europeans
+0	AMD	NA	NA	INTRO	Age-related macular degeneration (AMD) is a progressive, blinding disease affecting millions of elderly individuals worldwide.
+1	AMD	CFH	NA	INTRO	Several genome-wide association studies (GWAS) have identified common variants associated with AMD in European-ancestry populations, and recently, rare genetic variation at CFH, CFI, C3 and C9 were also shown to strongly associate with AMD in Europeans.
+0	NA	NA	NA	INTRO	However, there are few such studies in Asians.
+0	choroidal capillaries	VEGFA	NA	INTRO	Importantly, Asians appear to have a distinct clinical presentation of the disease (for example, absence of drusen and minimal fibrous scarring in polypoidal choroidal vasculopathy, a variant of AMD accounting for 20-55% of Asian patients with exudative AMD) and different responses to treatment (for example, poorer response to inhibitors of vascular endothelial growth factor (VEGF) compared with patients of European ancestry).
+0	AMD	NA	NA	INTRO	It remains unclear whether there are differences in underlying genetic characteristics of AMD between patients of Asian versus European ancestry
+0	NA	NA	NA	INTRO	Concurrently, previous GWAS studies provide limited coverage of low-frequency coding variants, which may result in the loss of function and are often ethnic-specific.
+0	AMD	NA	NA	INTRO	There is thus interest in genetic studies of AMD and other diseases beyond standard-content GWAS to discover potentially causative coding variants in different ethnic groups
+0	AMD	NA	NA	INTRO	To address these questions, the Genetics of AMD in Asians Consortium perform a genome-wide (GWAS) and exome-wide association study (EWAS) of advanced AMD solely on the exudative (neovascular) disease subtype in East Asians.
+0	NA	NA	NA	INTRO	Compared with standard-content GWAS arrays, the exome array has significantly increased marker density across the coding human exome, thus increasing power to detect disease associations located within the coding frame.
+0	AMD	NA	NA	INTRO	EWAS of AMD have not been previously conducted in either Europeans or Asians.
+0	AMD	NA	NA	INTRO	In this paper, we present data from eight independent AMD case-control collections enrolled across multiple sites in East Asia, totalling 6,345 exudative AMD cases and 15,980 controls.
+0	AMD	NA	NA	INTRO	This is the largest sample, to our knowledge, of East Asians ever assembled for genetic studies of AMD
+0	AMD	NA	NA	RESULTS	After genotype imputation, synchronization and stringent quality filters were performed, a total of 4,471,719 SNPs were assessed for the GWAS and 120,027 autosomal coding-frame SNPs for EWAS from 2,119 AMD cases and 5,691 controls (Table 1).
+0	NA	NA	NA	RESULTS	Overall genomic inflation was very low (lambdagc=1.031; Supplementary Fig.
+0	NA	NA	NA	RESULTS	1), suggesting minimal confounding of the disease association analysis by population stratification or other systematic study design biases.
+1	AMD	NA	rs10490924	RESULTS	Data from the discovery stage analysis confirmed previously identified AMD variants in ARMS2-HTRA1 rs10490924 (P=1.20 x 10-103), CFH rs10737680 (P=7.54 x 10-38), CETP rs3764261 (P=1.66 x 10-12), ADAMTS9 rs6795735 (P=1.13 x 10-5), C2-CFB rs429608 (P=1.06 x 10-4), as well as CFI rs4698775 (P=7.5 x 10-4; Supplementary Table 1 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	TGFBR1	rs334353	RESULTS	Our data also showed nominal evidence of replication in the same direction as the initial study for a further three previously reported variants (TGFBR1 rs334353, APOE rs4420638, and VEGFA rs943080; P<0.05 for each).
+0	NA	NA	NA	RESULTS	The remaining 8 out of 17 previously described SNPs that were non-monomorphic in our East Asian collections did not show evidence of replication in our study (Supplementary Table 1).
+0	AMD	CFI	G119R	RESULTS	A recently described rare, functional and highly penetrant genetic mutation within CFI (G119R, rs141853578) shown to confer markedly elevated risk of AMD in Europeans was observed to be non-polymorphic in our East Asian samples (Supplementary Table 1).
+0	NA	NA	K155Q	RESULTS	Similarly, recently described rare mutations in C3 (K155Q, rs147859257) and C9 (P167S, rs34882957) were also shown to be non-polymorphic in our East Asian samples (Supplementary Table 1)
+1	NA	C6orf223	Ala231Ala	RESULTS	Apart from verifying previous observations, our discovery analysis also revealed genome-wide significant association at C6orf223 (rs2295334 encoding for A231A, P=1.41 x 10-8; Table 2, Supplementary Table 2 and Supplementary Fig.
+0	AMD	NA	NA	RESULTS	2), a novel SNP marker not previously reported to associate with AMD risk.
+0	AMD	NA	NA	RESULTS	We observed a further 21 independent SNPs from distinct loci not previously implicated with susceptibility to AMD showing evidence of association surpassing P<1 x 10-4.
+0	AMD	NA	NA	RESULTS	We then brought forward all the 22 markers (Table 2) for replication genotyping in independent sample collections comprising 4,226 exudative AMD cases and 10,289 controls (Table 1).
+1	AMD	CETP	Asp442Gly	RESULTS	Replication evidence was compelling for CETP rs2303790 (encoding D442G; odds ratio (OR)=1.73, P=2.95 x 10-16), as well as for C6orf223 rs2295334 (A231A; OR=0.80, P=5.25 x 10-11), SLC44A4 rs12661281 (D47V; OR=1.22, P=5.13 x 10-6) and FGD6 rs10507047 (Q257R; OR=0.88, P=7.69 x 10-5), leading to genome-wide significant findings in the meta-analysis of all 6,345 AMD cases and 15,980 controls (P<5.0 x 10-8 for each of the four loci; Table 2 and Supplementary Table 2).
+0	NA	NA	NA	RESULTS	Genotyping clusters were directly visualized for the top SNPs and confirmed to be of good quality (Supplementary Fig.
+0	NA	NA	NA	RESULTS	3)
+0	AMD	NA	NA	RESULTS	Of note, we did not observe any substantial difference in the association signals of the most significant SNPs in the subgroup analysis of our AMD cases by typical neovascular AMD (n=1,083 cases) and polypoidal choroidal vasculopathy (n=1,015 cases; Supplementary Table 3).
+0	AMD	NA	NA	RESULTS	The effect size for each of the top SNPs was similar between the two AMD subgroups
+0	NA	CETP	Asp442Gly	RESULTS	The presence of the mutant CETP 442G (rs2303790) allele is seen only in East Asians (for example, Chinese, Japanese and Koreans; minor allele frequency (MAF) <5% in our controls) and not in South Asians, Europeans or Africans.
+0	NA	CETP	NA	RESULTS	This mutation is independent from all previously described common, non-coding polymorphisms near the CETP locus (r2<0.1; Supplementary Fig.
+0	NA	NA	NA	RESULTS	4).
+0	AMD	CETP	Asp442Gly	RESULTS	Regional association analysis conditioning on other known common AMD variants in CETP confirmed the independence of D442G from other nearby common variants (Supplementary Tables 4 and 5).
+0	NA	CETP	G331S	RESULTS	We also genotyped and assessed multiple, rare, protein-changing mutations at CETP, including Y74Stop, G331S, N358S and A390P (Fig.
+0	NA	NA	NA	RESULTS	1).
+0	AMD	NA	NA	RESULTS	None of them showed association with AMD (Table 3).
+0	AMD	CETP	Asp442Gly	RESULTS	Mutational load and haplotypic analysis considering all amino-acid changes within CETP confirmed that the D442G mutation drove all signals of association between CETP and AMD (Table 4)
+1	AMD	C6orf223	rs943080	RESULTS	C6orf223 is located ~220,000 base pairs downstream of VEGFA and ~150,000 base pairs from rs943080, a marker previously shown to strongly associate with AMD in Europeans.
+0	AMD	VEGFA	rs943080	RESULTS	In this study of AMD in East Asians, the evidence of association for VEGFA rs943080 was only nominally significant (P=0.041 in the discovery stage; Supplementary Table 1).
+1	NA	C6orf223	Ala231Ala	RESULTS	Linkage disequilibrium analysis revealed no correlation between C6orf223 rs2295334 and VEGFA rs943080 (r2=0.0), with both markers separated by significant recombination events (Fig.
+0	NA	NA	NA	RESULTS	2a).
+1	NA	VEGFA	rs943080	RESULTS	Logistic regression adjusting for the allele dosage at VEGFA rs943080 did not reveal any attenuation of the association signal for C6orf223 rs2295334 (P=1.66 x 10-8; Supplementary Table 6).
+1	AMD	C6orf223	Ala231Ala	RESULTS	Regional association analysis including all markers from the genome and exome array data conditioning on C6orf223 rs2295334 also did not reveal any secondary signal of association within its 1 Mb flanking region (Supplementary Table 7), thus pointing to C6orf223 rs2295334 as a novel and uncharacterized genetic risk factor for exudative AMD in East Asians
+0	AMD	SLC44A4	rs429608	RESULTS	SLC44A4 is located ~116,000 base pairs away from a previously reported AMD locus, C2-CFB (rs429608).
+0	NA	SLC44A4	rs12661281	RESULTS	Nevertheless, SLC44A4 rs12661281 has no correlation with C2-CFB rs429608 (r2=0.01) and showed the strongest evidence of association with AMD within the genomic region (Fig.
+0	AMD	NA	NA	RESULTS	2b), suggesting it to be also a new and uncharacterized risk factor for AMD.
+0	NA	SLC44A4	rs429608	RESULTS	Logistic regression analysis adjusting for allele dosage at C2-CFB rs429608 did not result in any significant change in magnitude of the association either at SLC44A4 rs12661281, testifying to their mutual independence (ORunconditioned=1.38, Punconditioned=1.10 x 10-7; ORconditioned for rs429608=1.35, Pconditioned for rs429608=1.49 x 10-6; Supplementary Table 8)
+0	AMD	NA	NA	RESULTS	We next proceeded to conduct gene-based tests on mutational load to further investigate the role of low-frequency variants in exudative AMD for all the patient collections in the discovery stage.
+0	NA	NA	NA	RESULTS	Gene-based tests are an alternative to single-marker tests for association, which are often underpowered to detect association with rare variants.
+0	NA	NA	NA	RESULTS	We performed our tests as previously described.
+0	NA	NA	NA	RESULTS	To more directly address the impact of low-frequency, non-synonymous genetic variants, we considered only 109,296 such variants with MAF <5%.
+0	NA	NA	NA	RESULTS	As a result, we were able to assess a total of 10,736 genes having at least two such variants using the sequence kernel association optimal (SKAT-O) test.
+0	AMD	NA	NA	RESULTS	We did not detect significant evidence of association (P<5 x 10-8) between mutational load and AMD at any of the 10,736 genes tested, which are consistent across all three discovery sample collections.
+0	AMD	CETP	Asp442Gly	RESULTS	Nonetheless, while looking up on previously reported 22 genes within 17 distinct loci (Supplementary Table 1) associated with AMD in European populations, we note nominal evidence of association between genetic load at CETP (Punconditioned=5.38 x 10-6), whereby the association was almost entirely driven by D442G (Pconditioned for D442G=0.96; Table 4) as well as C2 and AMD (P=1.83 x 10-6, Supplementary Table 9).
+0	NA	NA	NA	RESULTS	All the observations exceeding P<1 x 10-4 for gene-based tests on mutational load summarized across the three discovery collections are appended as Supplementary Table 9
+0	NA	CETP	Asp442Gly	RESULTS	The mutant CETP 442G allele was shown to result in an abnormally functioning CETP protein.
+0	NA	CETP	NA	RESULTS	As CETP is a critical component of the pathways that regulate high-density lipoprotein cholesterol (HDL-c), we assessed this mutation for associations with serum HDL-c levels using linear regression, with adjustment for age, gender and body mass index, in three population-based cohorts of Singaporean Chinese and Japanese (n=7,102, see details on the study cohorts in Supplementary Methods) where GWAS data were available.
+0	NA	NA	Asp442Gly	RESULTS	We noted a strong association between 442G allele and increased HDL-c levels (beta=0.174 mmol l-1 per copy of 442G allele; reflecting an ~10% shift within the normal HDL range, P=5.82 x 10-21; Table 5).
+0	NA	CETP	NA	RESULTS	This effect size is at least twice that observed for other CETP variants reported in European populations (Supplementary Table 10)
+0	coronary artery disease	CETP	Asp442Gly	RESULTS	Due to its strong effect on serum HDL-c, we assessed whether the mutant CETP 442G allele conferred any effect on individual susceptibility to coronary heart disease (CHD) in East Asians.
+0	NA	NA	Asp442Gly	RESULTS	Using 683 CHD cases and 1,281 controls from the Singapore Chinese Health Study (Supplementary Methods), we noted some degree of enrichment of the HDL-increasing, mutant 442G allele in the controls (2.89%) compared with the cases (2.42%, OR=0.83), although this did not reach statistical significance (P=0.39).
+0	NA	CETP	Asp442Gly	RESULTS	However, our observations were consistent with a recent study from Japan which analysed CETP D442G in 4,399 CHD cases and 7,672 controls whereby enrichment of the 442G allele were also found in the controls (3.4%) compared with the CHD cases (2.8%; OR=0.83, P=0.02).
+0	NA	NA	NA	RESULTS	We thus performed a meta-analysis of our study and the Japanese study, resulting in a consistent protective effect of this mutation with CHD (OR=0.83, P=0.011, I2=0.0%; Supplementary Fig.
+0	NA	NA	NA	RESULTS	5)
+0	AMD	SLC44A4	NA	DISCUSS	Our studies of exudative AMD in East Asians identified three novel loci (C6orf233, SLC44A4 and FGD6), two of which (SLC44A4 and FGD6) harbour coding, non-synonymous variants.
+0	AMD	NA	NA	DISCUSS	These have not been identified in large samples of AMD patients of European descent, thus validating the role of searching for coding variations in diverse ethnic groups to better understand mechanistic basis of complex diseases such as AMD
+0	AMD	CETP	Asp442Gly	DISCUSS	Our most interesting findings were the identification of an uncommon East Asian-specific mutation at CETP (D442G) associated with exudative AMD.
+1	NA	CFH	NA	DISCUSS	The association is the strongest (per-allele OR=1.70) observed outside of the classical CFH and ARMS2-HTRA1 loci in East Asians.
+1	AMD	HERPUD1	rs3764261	DISCUSS	A common variant (rs3764261) mapping to the intergenic region between HERPUD1 and CETP was previously linked to AMD in Europeans, yet its effect size was modest (OR=1.15) and independent from the D442G association.
+0	NA	CETP	Asp442Gly	DISCUSS	The mutant 442G allele is known to impair CETP function with reduction in plasma CETP mass and activity, and is associated with elevated HDL-c in Japanese families.
+0	NA	CETP	NA	DISCUSS	This allele is absent in European populations and appears to be present only in East Asians, rendering it independent from all other previously described common, non-coding CETP polymorphisms.
+0	NA	NA	Asp442Gly	DISCUSS	We showed that each copy of the dysfunctional 442G allele confers, on average, a rise in HDL-c levels of 0.174 mmol l-1 and confirmed findings from the earlier Japanese studies.
+0	NA	NA	NA	DISCUSS	Given the mean serum HDL-c concentration is 1.3 mmol l-1, this is a mutation of considerable effect size even from a population-based perspective.
+0	AMD	CETP	NA	DISCUSS	Notably, no other amino-acid substitutions within CETP detected by our GWAS and EWAS showed any evidence of association with AMD (Fig.
+0	AMD	CETP	Asp442Gly	DISCUSS	1 and Table 3), suggesting that the D442G mutation is a possible causative mutation of AMD in East Asians in the CETP locus.
+0	NA	CETP	Asp442Gly	DISCUSS	We are not surprised that CETP D442G did not show a clearly significant protective effect against CHD as increasing lines of evidence more directly implicate LDL as the driving force for CHD susceptibility
+1	NA	C6orf223	NA	DISCUSS	C6orf223 is a newly mapped gene with yet unknown functional role.
+1	NA	NA	Ala231Ala	DISCUSS	Its A231A synonymous coding change is fivefold rarer in Europeans (MAF=0.03) as compared with Asians (MAF >0.15, Supplementary Table 2).
+0	NA	NA	NA	DISCUSS	It is thus unsurprising that the European GWAS efforts have yet to detect this locus.
+1	AMD	VEGFA	rs943080	DISCUSS	VEGFA rs943080, a marker strongly associated with AMD in European-ancestry populations, is in the vicinity of C6orf223, but its association with AMD is much weaker in this study of East Asians (Supplementary Tables 1 and 6), possibly reflecting the differences in therapeutic response to anti-VEGF treatment between Asians and Europeans
+1	NA	SLC44A4	Ala231Ala	DISCUSS	The D47V mutation within SLC44A4 is not included in most of the routinely used genotyping arrays, but is now included as part of the exome array used in this study.
+0	NA	SLC44A4	NA	DISCUSS	The genomic region around the SLC44A4 locus is more complex, being located within the broad MHC region on Chromosome 6 between HLA class I and class II genes.
+0	AMD	NA	NA	DISCUSS	As this region is very polymorphic, and allele frequency differences between cases and controls could be confounded by even minor population stratification, we thus reassessed the associations with AMD by adjusting for the first 10 principal components (PCs) of genetic ancestry.
+0	NA	MHC	NA	DISCUSS	We did not observe any change in the association signals observed from our standard analysis, which adjusted for the first five PCs (analysis adjusting for the top 10 PCs; OR=1.39, P=2.33 x 10-7 in the discovery phase), consistent with previous observations in Asian studies with well-replicated associations within the MHC region.
+0	NA	SLC44A4	NA	DISCUSS	SLC44A4 encodes for choline transporter protein-4, involved in sodium-dependent choline uptake by cholinergic neurons.
+0	sialidosis	SLC44A4	NA	DISCUSS	Defects in SLC44A4 have been linked to sialidosis, which presents with a spectrum of symptoms including eye abnormalities
+0	NA	NA	NA	DISCUSS	Prior studies on the basis of European patient collections have identified a total of four distinct AMD-associated loci on Chromosome 6 alone.
+1	NA	C6orf223	NA	DISCUSS	In this light, the burden of proof for the positive identification of C6orf223 and SLC44A4 (both are also located on Chromosome 6) is higher than usual due to the need for appropriate considerations of previously reported variants on the same chromosome.
+1	AMD	C6orf223	NA	DISCUSS	It is reassuring to note that both C6orf223 and SLC44A1 showed the strongest two signals of association with AMD outside of CFH, ARMS2-HTRA1 and CETP.
+1	AMD	C6orf223	NA	DISCUSS	Our exhaustive analyses using logistic regression adjusting for allele dosages at previously described SNP markers suggest that both C6orf223 and SLC44A1 are unrelated to those previously reported, and thus they likely represent Asian-specific genetic associations for AMD
+0	NA	FGD6	NA	DISCUSS	Neither FGD6 nor the genes within its vicinity (Fig.
+0	ocular disorders	NA	NA	DISCUSS	2c) have ever been previously implicated in any ocular disorders.
+0	NA	FGD6	NA	DISCUSS	FGD6 encodes for FYVE, RhoGEF and PH domain-containing protein 6, with its functions yet to be characterized.
+0	NA	NA	Gln257Arg	DISCUSS	The Q257R mutation is less than half as common in Europeans (MAF=0.10) compared with East Asians (MAF=0.20-0.30), again possibly explaining the ability of our study to pick up this genetic effect
+0	NA	NA	NA	DISCUSS	The identified genes were expressed in human retinal pigment epithelium (Supplementary Table 11).
+1	NA	CETP	Asp442Gly	DISCUSS	Of the three non-synonymous substitutions, the CETP D442G variant was predicted by both PolyPhen and SIFT to likely be causing damage to the protein structure/function, the FGD6 Q257R variant was predicted only by PolyPhen to be probably damaging but by SIFT to be tolerated and the SLC44A4 D47V variant was predicted by both tools to be benign or tolerated.
+0	NA	SLC44A4	NA	DISCUSS	Although the use of both prediction algorithms has been reported to be moderately sensitive, they suffer from lack of specificity, and thus more evidence should be sought with regards to the FDG6 and SLC44A4 non-synonymous variants
+0	NA	NA	NA	DISCUSS	Using HaploReg, RegulomeDB and Encyclopaedia of DNA Elements (ENCODE) data, we identified variants within each of the four LD blocks in the 1000 Genomes Project (r2>0.8 and <250 kb from the top SNP) to apply functional annotations relevant to the regulation of transcription (Supplementary Table 12).
+0	allergy	NA	NA	DISCUSS	In addition to their functions on amino-acid substitutions, all of the four identified variants lie within a DNase I hypersensitivity site or in a region where modification of histones is suggestive of promoter, enhancer and other regulatory activity, and/or have an influence on binding of transcription factors or effects on a specific regulatory motif.
+1	NA	C6orf223	Ala231Ala	DISCUSS	C6orf223 A231A (rs2295334) and FGD6 Q257R could tag genetic variants that lie in potential transcription-factor binding sites (Supplementary Table 13).
+1	NA	SLC44A4	Ala231Ala	DISCUSS	Examination of a recently available large-scale eQTL mapping database indicates that out of the four novel genome-wide significant SNPs, markers SLC44A4 D47V and FDG6 Q257R could serve as cis-eQTLs.
+1	NA	SLC44A4	Ala231Ala	DISCUSS	The minor allele at SLC44A4 D47V (rs12661281) is associated with significantly altered expression of HSPA1B and CSKN2B, which are located within a 210,000 bp region flanking SLC44A4 D47V.
+0	NA	VEZT	Gln257Arg	DISCUSS	The minor allele at FDG6 Q257R (rs10507047) is associated with significantly increased expression of the neighbouring VEZT gene (Supplementary Table 14).
+0	NA	NA	NA	DISCUSS	Given that these findings are based on expression in whole blood in European samples, further work will be needed to elucidate their role in retinal tissue and in Asian samples.
+0	AMD	NA	NA	DISCUSS	Nonetheless, these could suggest possible alternate mechanisms whereby both non-synonymous substitutions potentially affect AMD risk apart from directly affecting the protein structure of their parent genes
+0	AMD	NA	NA	DISCUSS	Our study examined mainly the exudative subtype of AMD, and therefore cannot be completely compared with other studies looking at advanced AMD including the choroidal neovascularization and geographic atrophy subtypes.
+0	AMD	NA	NA	DISCUSS	We also note substantial differences in inter-ethnic MAF for most of the previously reported loci associated with AMD in European-ancestry populations (Supplementary Table 1).
+0	AMD	NA	NA	DISCUSS	This could represent genuine differences in genetic architecture in AMD between Asians and Europeans, or that the low allele frequency in either ethnicity could result in insufficient power to replicate genome-wide significant hits initially observed in either Asians or Europeans.
+0	NA	NA	NA	DISCUSS	Overall, out of 21 previously reported SNPs showing strong evidence of association in Europeans, we were able to replicate 9 of them in our study of East Asians at P<0.05.
+0	AMD	CETP	NA	DISCUSS	Taken together with the three novel loci and one novel variant in CETP in East Asians discovered in this study, we postulate that the genetic mechanisms of AMD in Asians could, in part, be somewhat distinct from that in Europeans
+0	AMD	NA	NA	DISCUSS	In summary, our genome-wide and exome-wide study of AMD provides new insights into the genetic mechanisms of AMD in East Asians.
+0	AMD	NA	NA	DISCUSS	Our study highlights the value of searching for low-frequency, ethnic-specific genetic variants on the coding frame of AMD that may inform pathogenesis.
+1	AMD	CFH	NA	DISCUSS	Although some of the genetic loci conferring disease susceptibility in East Asians are shared with Europeans (for example, common variation mapping to CFH, HTRA1 and CETP), we identified significant important differences in the fine-scale genetic architecture of AMD, which appear specific to East Asians.
+0	NA	NA	NA	DISCUSS	Such differences could underpin at least some of the inter-ethnic differences in clinical presentation and response to specific therapies, including the poorer response to anti-VEGF therapy in Asians
+0	AMD	NA	NA	METHODS	We performed a GWAS and EWAS on neovascular AMD in East Asians.
+0	NA	NA	NA	METHODS	In the discovery stage, we included and genotyped 2,119 cases and 5,691 controls from three case-control studies from Singapore, Hong Kong and Japan.
+0	NA	NA	NA	METHODS	For replication, five independent case-control studies were conducted in Korea, Japan, and Guangdong, Sichuan and Beijing in China, totalling 4,226 cases and 10,289 controls.
+0	NA	NA	NA	METHODS	All the studies were performed with the approval of their local Medical Ethics Committee, and written informed consent was obtained from all the participants in accordance with the Declaration of Helsinki
+0	NA	NA	NA	METHODS	A detailed description of subject recruitment and phenotyping in each sample collection is provided in Supplementary Methods, and summarized in Table 1.
+0	AMD	NA	NA	METHODS	In brief, the diagnosis of exudative AMD was made at each site by retinal specialists, according to standard clinical definitions on the basis of detailed ophthalmic examinations, including dilated fundus photography, fluorescein angiography, indocyanine green angiography and optical coherence tomography (Table 1).
+0	NA	NA	NA	METHODS	Grading of fluorescein angiograms for the presence of choroidal neovascularization were performed using a modification from the Macular Photocoagulation Study.
+0	choroidal capillaries	NA	NA	METHODS	Indocyanine green angiography was performed to diagnose definitive polypoidal choroidal vasculopathy, a variant of AMD, using the Japanese Study Group guidelines.
+0	choriocapillaris	NA	NA	METHODS	Cases with other macular diseases such as central serous chorioretinopathy, high myopia and angioid streaks were excluded.
+0	AMD	NA	NA	METHODS	Of the 2,119 exudative AMD cases included in the discovery phase, 1,083 (51%) were classified as 'typical neovascular AMD', 1,015 (48%) were polypoidal choroidal vasculopathy and 21 (1%) had one eye with typical neovascular AMD and the other eye with polypoidal choroidal vasculopathy.
+0	AMD	NA	NA	METHODS	At each site, controls subjects without any clinical signs of AMD were either recruited from eye clinics or enrolled from population-based studies (Supplementary Methods)
+0	NA	NA	NA	METHODS	For the discovery stage, GWAS genotyping was performed using the Illumina Human OmniExpress or Human Hap610-Quad beadchips, and EWAS was done using HumanExome beadchips (Table 1).
+0	NA	NA	NA	METHODS	For replication, genotyping was performed using the MassArray platform (Sequenom), as well as using Taqman allelic discrimination probes (Applied Biosystems)
+0	NA	NA	NA	METHODS	Stringent quality control filters were used to remove poorly performing samples and SNP markers in both the discovery and replication (de-novo genotyping) phases.
+0	NA	NA	NA	METHODS	For the GWAS, SNPs with a call rate of <95%, MAF of <1%, or showing deviation from Hardy-Weinberg Equilibrium (P<10-6) were removed from further statistical analysis.
+0	NA	NA	NA	METHODS	For the EWAS, SNPs with a call rate of <99%, MAF of <0.1% or showing deviation from equilibrium (P<10-6) were removed.
+0	NA	NA	NA	METHODS	The 99% threshold was used as many SNP markers on the exome array had MAF <5%, and as such, differential genotyping success rates between cases and controls as low as 2% could result in false-positive findings.
+0	NA	NA	NA	METHODS	SNPs which were not monomorphic (whereby at least one heterozygous carrier individual was present) were included for downstream analysis
+0	NA	NA	NA	METHODS	Routine quality control criteria on a per-sample basis were carried out, and poorly performing samples were removed from further analysis.
+0	NA	NA	NA	METHODS	The remaining samples were then subjected to biological relationship verification by using the principle of variability in allele sharing according to the degree of relationship.
+0	NA	NA	NA	METHODS	Identity-by-state information was derived using the PLINK software.
+0	NA	NA	NA	METHODS	For those pairs of first-degree relatives so identified (for example, parent-offspring, full-siblings, as well as monozygous twins), we removed the sample with the lower call rate before performing PC analysis
+0	NA	NA	NA	METHODS	The imputation was carried out using IMPUTE2 version 2.2.2 with ASN population haplotypes from 1000 Genomes as reference, as described elsewhere.
+0	NA	NA	NA	METHODS	Imputed genotypes were called with an impute probability threshold of 0.9 with all other genotypes classified as missing.
+0	NA	NA	NA	METHODS	Additional quality control filters were applied to remove SNPs with >1% missingness should the SNP have a MAF <5% in either cases or controls.
+0	NA	NA	NA	METHODS	For common SNPS with MAF >5%, the filtering criteria were set at >5% missingness
+0	AMD	NA	NA	METHODS	For the discovery stage, all exudative AMD cases and controls appear well matched when visualized spatially on PC analysis for each sample collection on a per-country basis for Hong Kong, Japan and Singapore and according to self-reported ethnicity (ethnic Chinese for Hong Kong and Singapore, and ethnic Japanese for Japan; Supplementary Fig.
+0	NA	NA	NA	METHODS	6), using previously reported criteria, indicating that population stratification is unlikely to confound the association results
+0	AMD	NA	NA	METHODS	For both the discovery and replication stages, analysis of association with exudative AMD was carried out using 1-degree of freedom score-based tests using logistic regression.
+0	NA	NA	NA	METHODS	The tests model for a trend-per-copy effect of the minor allele on disease risk.
+0	NA	NA	NA	METHODS	For the discovery stage, we incorporated the top five PCs of genetic stratification into the logistic regression model to minimize the effect of residual population stratification.
+0	NA	NA	NA	METHODS	We could not adjust for population stratification for the replication stage due to limited number of SNPs tested.
+0	NA	NA	NA	METHODS	Meta-analysis was conducted using inverse variance weights for each sample collection, which calculates an overall Z-statistic, corresponding P value and accompanying per-allele OR for each SNP analysed.
+0	NA	NA	NA	METHODS	Gene-based tests on mutational load was performed using the SKAT-O test.
+0	NA	CETP	Asp442Gly	METHODS	The association between CETP D442G and serum HDL-c level was assessed using linear regression assuming an additive model of inheritance as previously described (due to serum HDL-c being distributed normally), with adjustment for age, gender and body mass index
+0	NA	NA	NA	METHODS	Regional association and PC plots were analysed and plotted using the R statistical software package
+0	AMD	NA	NA	METHODS	For the discovery stage (2,119 AMD cases and 5,691 controls), power calculations indicated that there is 80% power of detecting loci at P<1 x 10-4 (the threshold of association for bringing forward SNPs to the replication stage) at MAF as low as 10% with per-allele OR of 1.30.
+0	NA	NA	NA	METHODS	For rarer variants of higher penetrance, the discovery stage has 80% power of detecting loci at P<1 x 10-4 at MAF as low as 2% if the per-allele OR is at least 1.70.
+0	AMD	NA	NA	METHODS	The entire sample (6,345 AMD cases and 15,980 controls) has 80% power to detect loci at P<5.0 x 10-8 at MAF as low as 2% if the per-allele OR is at least 1.55 or at MAF as low as 9% with per-allele OR of 1.25, in line with the effect sizes being reported in this study.
+0	NA	NA	NA	METHODS	Supplementary Table 15A shows the power calculations to detect SNPs at the threshold of P<1 x 10-4 in the discovery stage for bringing forward to the replication stage.
+0	NA	NA	NA	METHODS	Supplementary Table 15B shows the formal power calculations in the context of the combined discovery and replication stages
+0	NA	NA	NA	AUTH_CONT	C.-Y.C., K.Y., L.J.C., J.A., K.-H.P., C.P.P., N.Y., T.Y.W.
+0	NA	NA	NA	AUTH_CONT	and C.C.K.
+0	NA	NA	NA	AUTH_CONT	designed the study.
+0	NA	NA	NA	AUTH_CONT	C.-Y.C., C.M.G.C., M.M., P.D.C., I.Y.Y., A.L., R.M., A.H.K., S.Y.L., D.W., C.M.G.C., B.K.L., Y.S., H.N., Y.A.-K., N.G., A.T., K.M., S.Y., Y.S., H.I., T.I., S.H., T.Y.Y.L., H.C., S.T., X.D., F.W., P.Z., B.Z., J.S., J.-M.Y., W.P.K., R.M.v.D., Y.F., N.W., G.S.W.T., S.J.P., M.B., L.G., T.N., P.M., P.Z., S.-M.S., M.O., T.M., Y.K., S.J.W., H.C., H.-G.Y., J.Y.S., D.H.P., I.T.K., W.C., M.S., S.-J.L., H.W.K., J.E.L., C.K.H., T.H.L., S.-K.Y., T.A.
+0	NA	NA	NA	AUTH_CONT	and W.T.Y.
+0	NA	NA	NA	AUTH_CONT	gathered clinical data.
+0	NA	NA	NA	AUTH_CONT	J.P., S.D., I.N., Y.A.-K., F.M., P.O.S.T., F.L., X.Z., Y.S., B.G., R.D., Y.L., M.L.H., J.N.F., C.H.W., X.X., Jinlong Liang, J.M., X.J., Y.L., Jianjun Liu, K.S., E.N.V., J.X.B., Y.X.Z.
+0	NA	NA	NA	AUTH_CONT	and C.C.K.
+0	NA	NA	NA	AUTH_CONT	generated genetic data.
+0	NA	NA	NA	AUTH_CONT	C.-Y.C., K.Y., L.J.C., J.A., Lulin Huang, Lvzhen Huang, K.S.S., P.C., Jiemin Liao, P.G.O., Y.Y.T.
+0	NA	NA	NA	AUTH_CONT	and C.C.K.
+0	NA	NA	NA	AUTH_CONT	analysed the data.
+0	NA	NA	NA	AUTH_CONT	C.-Y.C., K.Y., L.J.C., J.A., Lulin Huang, Lvzhen Huang, E.S.T., X.X.L., Z.Y., K.H.P., C.P.P, N.Y., T.Y.W.
+0	NA	NA	NA	AUTH_CONT	and C.C.K.
+0	NA	NA	NA	AUTH_CONT	interpreted the data.
+0	NA	NA	NA	AUTH_CONT	C.-Y.C., K.Y., L.J.C., J.A., E.S.T., T.Y.W.
+0	NA	NA	NA	AUTH_CONT	and C.C.K.
+0	NA	NA	NA	AUTH_CONT	drafted the paper.
+0	NA	NA	NA	AUTH_CONT	All the authors contributed to revision of the paper
+0	NA	NA	NA	AUTH_CONT	How to cite this article: Cheng, C.-Y.
+0	NA	NA	NA	AUTH_CONT	et al.
+0	NA	NA	NA	AUTH_CONT	New loci and coding variants confer risk for age-related macular degeneration in East Asians.
+0	NA	Nat	NA	AUTH_CONT	Nat.
+0	NA	NA	NA	AUTH_CONT	Commun.
+0	NA	NA	NA	AUTH_CONT	6:6063 doi: 10.1038/ncomms7063 (2015)
+0	NA	NA	NA	FIG	The position of five rare (minor allele frequency <0.05) amino-acid changes observed in the discovery samples are shown as indicated by the arrows.
+0	NA	CETP	NA	FIG	Horizontal bars represent the position of exons in the CETP gene
+1	AMD	C6orf223	Ala231Ala	FIG	(a) The C6orf223 locus (rs2295334): VEGFA rs943080, which is located in the intergenic, non-coding region, was very strongly associated with AMD in Europeans, but this study of exudative AMD in East Asians could not reveal significant association with it (P=0.041 by score-based tests using logistic regression in 2,119 cases and 5,691 controls).
+0	NA	NA	NA	FIG	The two markers are independent from each other (r2=0.0), as well as separated by strong recombination events in Asians.
+0	NA	SLC44A4	rs12661281	FIG	(b) The SLC44A4 locus (rs12661281): C2-CFB rs429608 was very strongly associated with AMD in Europeans, but revealed modest evidence of association in our discovery stage (P=1.06 x 10-4).
+0	NA	NA	NA	FIG	The two markers are independent from one another (r2=0.01).
+0	NA	FGD6	Gln257Arg	FIG	(c) The FGD6 locus (rs10507047)

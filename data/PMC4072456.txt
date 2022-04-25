@@ -1,0 +1,192 @@
+0	breast cancer	NA	NA	ABSTRACT	The ability to establish genetic risk models is critical for early identification and optimal treatment of breast cancer.
+0	NA	NA	NA	ABSTRACT	For such a model to gain clinical utility, more variants must be identified beyond those discovered in previous genome wide association studies (GWAS).
+0	NA	BRCA1	NA	ABSTRACT	This is especially true for women at high risk because of family history, but without BRCA1/2 mutations
+0	NA	NA	NA	ABSTRACT	This study incorporates three datasets in a GWAS analysis of women with Ashkenazi Jewish (AJ) homogeneous ancestry.
+0	breast cancer	BRCA1	NA	ABSTRACT	Two independent discovery cohorts were comprised of 239 and 238 AJ women with invasive breast cancer or preinvasive ductal carcinoma in situ and strong family histories of breast cancer, but lacking the three BRCA1/2 founder mutations, along with 294 and 230 AJ controls, respectively.
+0	breast cancer	NA	NA	ABSTRACT	An independent, third cohort of 203 AJ cases with familial breast cancer history and 263 healthy controls of AJ women was used for validation
+0	breast cancer	NA	NA	ABSTRACT	A total of 19 SNPs were identified as associated with familial breast cancer risk in AJ women.
+1	NA	FGFR2	NA	ABSTRACT	Among these SNPs, 13 were identified from a panel of 109 discovery SNPs, including an FGFR2 haplotype.
+0	breast cancer	NA	NA	ABSTRACT	Additionally, 6 previously identified breast cancer GWAS SNPs were confirmed in this population.
+1	breast cancer	FGFR2	rs17663555	ABSTRACT	Seven of the 19 markers were significant in a multivariate predictive model of familial breast cancer in AJ women, 3 novel SNPs [rs17663555(5q13.2), rs566164(6q21), and rs11075884(16q22.2)], the FGFR2 haplotype, and 3 previously published SNPs [rs13387042(2q35), rs2046210(ESR1), and rs3112612(TOX3)], yielding moderate predictive power with an area under the curve (AUC) of the ROC (receiver-operator characteristic curve) of 0.74
+0	breast cancer	BRCA1	NA	ABSTRACT	Population-specific genetic variants in addition to variants shared with populations of European ancestry may improve breast cancer risk prediction among AJ women from high-risk families without founder BRCA1/2 mutations
+0	breast cancer	NA	NA	INTRO	Breast cancer continues to be the most common gender-specific malignancy and a leading cause of death in the United States, accounting for nearly one-third of all new cancers in females.
+0	breast cancer	NA	NA	INTRO	Breast cancer ranks as the most common cause of cancer deaths among women between the ages of 20 and 59 years, highlighting the need for accurate risk assessment for women in this age group
+0	breast cancer	NA	NA	INTRO	Family history is an important risk factor for breast cancer.
+0	breast cancer	NA	NA	INTRO	The risk of developing breast cancer for a woman with a first-degree affected relative is increased two-fold.
+0	NA	NA	NA	INTRO	The risk is even greater for women with multiple cases in family members.
+0	breast cancer	BRCA1	NA	INTRO	Breast cancer risk may be attributable to mutations in high-penetrance genes such as BRCA1, BRCA2, p53 and PTEN, as well as moderate or low penetrance genes (e.g., CHEK2, ATM, HRAS1, BRIP1, and PALB2), but these mutations account for a relatively small proportion of the heritable risk in these breast cancer families
+1	breast cancer	FGFR2	NA	INTRO	To date genome-wide association studies (GWAS) have used high-density genotyping successfully primarily in European-American populations to identify SNPs associated with breast cancer risk in several genes including FGFR2, TNRC9, MAP3K1, LSP1, CASP8, SLC4A7, NEK10 and COX11 and the 8q and 2q35 chromosomal regions.
+0	NA	NA	NA	INTRO	However, each of these SNPs is a low penetrance allele that is not adequate to predict individual risk even in combination.
+0	NA	NA	NA	INTRO	Thus, identification of additional risk variants is necessary for prediction of individual risk.
+0	NA	NA	NA	INTRO	Additionally, whereas these SNPs are well-represented in European-American groups, their allele frequencies and the attendant risks vary in other populations.
+0	NA	NA	NA	INTRO	This is a general phenomenon.
+0	NA	NA	NA	INTRO	Variability of risk allele frequency and effect size has been observed among major ethnic groups (European, African and Asian) for a panel of complex disease SNPs that had reached genome-wide significance (p<=5x10-8) in at least one of the groups.
+0	NA	NA	NA	INTRO	Other studies point to the importance of controlling for ancestry /ethnicity in designing genetic association studies
+0	NA	NA	NA	INTRO	The current study utilizes the Ashkenazi Jewish (AJ) population, the largest genetic isolate in the United States, comprising 2% of the total population.
+0	NA	NA	NA	INTRO	The study of this group reduces the major confounding effect of population stratification and holds the promise of identifying founder mutations and less common mutations not easily identifiable in the general population.
+0	Crohn's disease	NA	NA	INTRO	Accordingly, GWAS have successfully utilized this homogeneous group to identify disease-associated alleles including a recent study by a member of our group that identified 5 new risk alleles for Crohn disease, known to have up to 4-fold higher prevalence in the AJ population.
+0	breast cancer	NA	NA	INTRO	Similarly, another group identified a new region at chromosome 6q22.33 that is associated with breast cancer in AJ women, and this dataset was used as the starting point for the current study
+0	breast cancer	BRCA1	NA	INTRO	The current study pays special attention to AJ women that are classified as high-risk for breast cancer based on family history but do not carry any of the 3 founder BRCA1/2 mutations, and, therefore, have no strategy for surveillance/prevention.
+0	NA	BRCA1	NA	INTRO	Whereas there are many advantages to using genetically isolated populations, recruiting large cohorts of these distinct groups can be challenging, and this is further compounded by the need for high-risk women with no known BRCA1/2 mutations.
+0	NA	NA	NA	INTRO	Another potential difficulty is that other known/published risk variants besides BRCA1/2 mutations may not be replicable in these AJ women either.
+0	breast cancer	NA	NA	INTRO	To accommodate for the drop in statistical power that results from the use of smaller cohorts this study employed a three-step design, in which each independent dataset included AJ women with familial breast cancer and an average risk control population to identify genetic variants associated with risk of breast cancer in these AJ women.
+1	breast cancer	FGFR2	NA	INTRO	We identified 7 new risk SNPs, one 6-SNP FGFR2 haplotype and confirm 6 known breast cancer SNPs in the AJ population.
+0	breast cancer	NA	NA	INTRO	These SNPs were then evaluated in a multivariate predictive model and showed moderate discriminatory accuracy for separating familial breast cancer cases from controls among AJ women
+0	NA	NA	NA	METHODS	The Discovery Phase included 1008 AJ females from 2 datasets.
+0	memory impairment	NA	NA	METHODS	The first study group was comprised of a publicly available dataset provided by Memorial-Sloan Kettering Cancer Center (MSKCC).
+0	breast cancer	NA	NA	METHODS	In the second dataset, cases were women with invasive breast cancer or preinvasive ductal carcinoma in situ (DCIS) recruited as part of the Breast Cancer Family Registry (BCFR) [27], and unaffected controls without family histories through the New York Cancer Project (NYCP).
+0	cancers	NA	NA	METHODS	The BCFR cases were recruited at Columbia University in New York, NY (111 patients), Ontario Cancer Center in Toronto, ON (101 patients), the Cancer Prevention Institute of California in Fremont, CA (16 patients), and the Fox Chase Cancer Center in Philadelphia, PA (10 patients).
+0	breast cancer	BRCA1	NA	METHODS	Both the MSKCC and BCFR datasets were comprised of AJ women with breast cancer from high-risk families (at least 3 affected relatives in a single lineage for MSKCC and at least 1 first- or second-degree affected relative for the BCFR) who do not carry any of the three AJ BRCA1/2 founder mutations (BRCA1-5382insC, BRCA1-185delAG, and BRCA2-6174delT).
+0	NA	NA	NA	METHODS	Average age of diagnosis was 51.0+-9.4 for MSKCC and 47.5+-10.0 for BCFR.
+0	breast cancer	NA	NA	METHODS	Both study groups included unaffected AJ controls (age-matched to the cases in the BCFR dataset: 47.9+-9.8) with no family history of breast cancer.
+0	NA	NA	NA	METHODS	All subjects recruited for this study were considered AJ if they reported that all four grandparents were of Eastern European Jewish ancestry.
+0	NA	NA	NA	METHODS	239 cases were compared to 294 controls from MSKCC in step one of the Discovery Phase followed by 238 cases and 230 controls from BCFR in step two (Figure 1)
+0	NA	NA	NA	METHODS	For the Replication Phase, 203 cases and 263 controls were recruited at New York University Medical Center (NYUMC).
+0	NA	BRCA1	NA	METHODS	Cases were selected based on having 3 or more affected relatives in a single lineage (including the proband), and negative for the three BRCA1/2 founder mutations.
+0	NA	NA	NA	METHODS	Average age of diagnosis was 52.2+-9.5.
+0	breast cancer	NA	NA	METHODS	Controls were determined to lack personal and family histories of breast cancer and were at least 60 years old at the time of enrollment (68.5+-7.0).
+0	NA	NA	NA	METHODS	DNA was extracted from NYUMC samples using the Puregene method (Qiagen)
+0	NA	NA	NA	METHODS	MSKCC samples were genotyped on early-access Affymetrix 500K (EAv3) SNP arrays as described previously.
+0	NA	NA	NA	METHODS	BCFR samples were genotyped on commercially available Affymetrix 500K SNP arrays according to manufacturer instructions.
+0	NA	NA	NA	METHODS	There is an overlap of 435,632 SNPs between the early access and commercial platforms
+0	NA	NA	NA	METHODS	For the replication study, custom SNP assays were designed by KBioscience (Herts, England) using KASPar chemistry (http://www.kbioscience.co.uk/reagents/KASP/KASP.html) for testing 147 SNPs.
+0	NA	NA	NA	METHODS	Included in this list were 113 SNPs from the Discovery Phase; 4 assays failed leaving 109 SNPs for analysis.
+0	cancers	NA	NA	METHODS	The other 34 are known breast cancer SNPs based on associations published at the time this study was designed.
+0	breast cancer	NA	NA	METHODS	This list includes SNPs associated with breast cancer specifically in the AJ population or SNPs with genome-wide significant associations (p<=5x10-8) with breast cancer in other populations thereby having the greatest chance of replicating in the AJ population.
+0	breast cancer	NA	NA	METHODS	One of these assays failed, leaving 33 known breast cancer SNPs for analysis
+0	NA	NA	NA	METHODS	All genetic analyses were performed using PLINK.
+0	NA	NA	NA	METHODS	533 MSKCC and 468 BCFR samples were used in the final analysis for the Discovery Phase.
+0	NA	NA	NA	METHODS	IBD/IBS analysis (PLINK genome command) was used to eliminate subjects who were identical or closely related to others within or between the two datasets (IBD >= 0.46, IBS >=0.85; IBD/IBS>0.99 for identical subjects).
+0	NA	NA	NA	METHODS	Principle components analysis (PCA; R software) was used to confirm AJ ancestry and remove 6 outlier subjects showing different or more admixed ancestry in the combined MSKCC and BCFR datasets versus reference HapMap3 populations.
+0	NA	NA	NA	METHODS	The utility of PCA for determining AJ ancestry has been previously demonstrated.
+0	NA	NA	NA	METHODS	In the current study, the subjects who were removed were >=5 standard deviations from the mean for at least 1 of the first 10 principle components (data not shown).
+0	NA	NA	NA	METHODS	All patient samples had at least 90% genotype calls so none were removed based on this
+0	NA	NA	NA	METHODS	SNPs that had genotyping rates <95% or minor allele frequencies <1% were excluded.
+0	NA	NA	NA	METHODS	For the remaining SNPs, chi-square association analyses were performed on minor allele counts (0, 1, 2) and genotype distributions between cases and controls.
+0	NA	NA	NA	METHODS	In addition to standard association analyses the CLUMP command was used to identify regions of SNPs in moderate linkage disequilibrium (LD).
+0	NA	NA	NA	METHODS	SNPs within a region spanning 1000kb and an LD threshold of r2=0.5 were considered, if an index SNP had p<0.01 and CLUMP SNPs had p<0.05
+0	NA	NA	NA	METHODS	Subjects and SNPs for the Replication Phase were subject to the same QC filtering as that performed for the Discovery Phase.
+0	NA	NA	NA	METHODS	Chi-square association analyses for both minor allele count (0, 1, or 2) and genotype distribution were performed.
+0	NA	NA	NA	METHODS	Haplotype analysis was also performed using the blocks function in PLINK.
+0	NA	NA	NA	METHODS	Pooled p-values and odds ratios (ORs) were obtained by combining the 3 datasets for chi-square association analysis.
+0	NA	NA	NA	METHODS	We also calculated and reported the Fisher meta p-value from p-values of three independent cohorts.
+0	NA	NA	NA	METHODS	Common measures of heterogeneity for meta analysis including Cochran's Q statistic and I2 statistic were calculated and reported for each of the SNPs in Tables 1-3
+0	NA	NA	NA	METHODS	The NYUMC replication dataset was also used to evaluate utility in the multivariate models in terms of the discriminatory accuracy of the identified 19 SNP panel.
+0	NA	NA	NA	METHODS	Number of risk alleles for each SNP was used as an independent predictor in binary logistic regression analysis of the GLM function using SPSS v.19 with phenotype (cases versus controls) as the dependent variable.
+0	NA	NA	NA	METHODS	For each individual patient, each SNP was assigned a score (0, 1, or 2) based on the number of risk alleles.
+1	NA	FGFR2	NA	METHODS	For FGFR2 a gene score was based on the total number of risk alleles across all 6 FGFR2 SNPs (0-12) for each person was used.
+0	NA	TNRC9	rs3112612	METHODS	Two redundant TOX3 SNPs were removed, only leaving the SNP (rs3112612) in the multivariate model.
+0	NA	NA	rs16882214	METHODS	Five other SNPs were removed based on p>0.05 (rs16882214, rs12906542, rs16956185, rs5965136, and rs889312) in the multivariate logistic model.
+0	breast cancer	NA	NA	METHODS	A receiver operating characteristic (ROC) curve was constructed using the final panel of 7 markers, and area under the ROC curve (AUC) was calculated to measure the power of the panel to distinguish breast cancer occurrence from controls.
+0	NA	NA	NA	METHODS	The predictive model was cross-validated using the ROCR package in the R platform.
+0	NA	NA	NA	METHODS	The NYUMC cohort was randomly split 50:50 to generate two new sub-cohorts.
+0	NA	NA	NA	METHODS	One-thousand iterations were performed, and at each iteration the model was fit using the first sub-cohort and tested using the second sub-cohort.
+0	NA	NA	NA	METHODS	A ROC curve was generated and AUC values calculated for the second cohort at each iteration.
+0	NA	NA	NA	METHODS	An average cross-validation AUC with empirical 95% confidence interval values are reported
+0	breast cancer	NA	NA	RESULTS	To identify familial breast cancer risk variants we designed a GWAS workflow that utilized two separate datasets for the Discovery Phase and a third dataset for the Replication Phase (Figure 1).
+0	NA	NA	NA	RESULTS	Quality control (QC) filtering (see Methods) resulted in 332,483 SNPs for Step 1 and 384,565 SNPs for Step 2 of the Discovery Phase.
+0	breast cancer	NA	NA	RESULTS	Overlapping top-ranked SNPs from both steps revealed 84 SNPs that were potentially associated with breast cancer in both the MSKCC and BCFR datasets (with Fisher combined p<=0.001).
+0	NA	NA	NA	RESULTS	An additional 2 SNPs that were highly significant (p<10-7) in the BCFR dataset but untested in the MSKCC dataset were also carried forward
+0	NA	NA	NA	RESULTS	Additionally, trying to take advantage of the relative genetic homogeneity of the AJ population, we identified shared ancestral haploblocks to find risk variants.
+0	breast cancer	NA	NA	RESULTS	A method for long-range haplotyping to investigate changes in linkage disequilibium (LD) patterns between breast cancer patients and controls (utilizing the CLUMP function in PLINK) was used to identify less significant SNPs that might otherwise be masked by the more significant risk variants.
+0	NA	NA	NA	RESULTS	We have identified 15 SNPs in 7 regions that overlap between the MSKCC and BCFR datasets using this method (data not shown
+0	breast cancer	NA	NA	RESULTS	In Step 3 (the Replication Phase) the 101 SNPs from standard association analysis plus long-range haplotyping were tested in a third AJ dataset of high-risk familial breast cancer cases versus hyper-controls (AJ women with no family history and at least 60 years old).
+0	NA	NA	NA	RESULTS	Allelic (Amitage trend test) and genotypic chi-square tests revealed 7 new candidate SNPs with pooled p-values across the phases, totaling 680 cases and 787 controls, ranging from 9.15x10-3 - 6.67x10-6 (allelic chi2) and 3.82x10-3 - 7.12x10-6 (genotypic chi2) (Table 1)
+0	NA	NA	NA	RESULTS	SNPs previously reported to have significant associations in the MSKCC GWAS were re-examined in the BCFR and NYUMC datasets (Table 2a).
+0	NA	NA	NA	RESULTS	Since a slightly different subset of the MSKCC subjects was used (removing subjects closely related to each other or to subjects in the BCFR dataset), the p-values reported here vary somewhat from those published.
+1	NA	FGFR2	rs1078806	RESULTS	The FGFR2 SNP, rs1078806, was determined to be significant in the NYUMC Replication cohort (Table 2a) as well as the BCFR Discovery dataset and similar effects, indicated by the odds ratios, were observed among all three datasets.
+0	NA	A2BP1	rs7203563	RESULTS	rs7203563 (A2BP1) was significant in the BCFR dataset (p=2.43x10-2) and rs3012642 (PHKA1/HDAC8) nearly reached significance in this dataset (p=5.37x10-2), but neither SNP was significant in the NYUMC dataset.
+0	NA	NA	NA	RESULTS	Similar odds ratios were also observed for the four ECHDC1/RNF146 SNPs in the BCFR and NYUMC datasets as that previously reported for the MSKCC dataset
+1	NA	FGFR2	NA	RESULTS	We chose 5 additional SNPs for haplotype analysis of FGFR2, based on Discovery Phase results plus published data.
+1	NA	FGFR2	rs11200014	RESULTS	Analysis of a 6-SNP FGFR2 haplotype (rs11200014, rs2981579, rs1078806, rs1219648, rs2420946, rs2981582) revealed a significant minor (risk) allele haplotype (AAGGTA) in the cases (47.9%) compared to controls (36.7%, p=2.18x10-4) in the NYUMC Replication cohort (Table 2b).
+1	breast cancer	FGFR2	rs11200014	RESULTS	This result agrees with findings of a previous study of AJ women that identified a haplotype of four FGFR2 SNPs [rs11200014 (A), rs2981579 (A), rs1219648 (G), and rs2420946 (T)] significantly associated with breast cancer (p=5.90x10-3; OR=1.25).
+1	breast cancer	NA	rs1078806	RESULTS	Our findings are similar, adding two additional SNPs [rs1078806 (G) and rs2981582 (A)] for a longer haplotype in association with breast cancer in AJ women
+0	NA	NA	NA	RESULTS	In total, 113 SNPS from Discovery cohorts were carried forward to the Replication phase, the top 84 from standard association analysis, 2 highly-significant SNPs in the BCFR cohort that were absent from the platform used for MSKCC, 15 from LD Clumping, 7 from the original MSKCC analysis, and 5 additional SNPs for haplotype analysis.
+0	NA	NA	NA	RESULTS	Custom SNP assays for 4 of the top 84 SNPs failed, leaving 109 SNPs tested in the NYUMC Replication cohort.
+0	NA	NA	NA	RESULTS	Significant associations (P<0.05) were indicated in 13 of these 109 SNPs (11.9%) in the Replication phase
+0	breast cancer	NA	NA	RESULTS	In addition to the 113 SNPs identified in the Discovery Phase, we tested 34 SNPs previously reported to be associated with breast cancer risk, either in the AJ population or having reached genome-wide significance in other populations (p<=5x10-8), many of which were not present on the Affymetrix 500K array used in MSKCC and BCFR.
+0	NA	NA	NA	RESULTS	One of the custom SNP assays failed.
+0	breast cancer	NA	NA	RESULTS	Six of the remaining 33 assays for known breast cancer SNPs (18.2%) were significant in the NYUMC dataset (Table 3, p<0.05).
+0	NA	NA	NA	RESULTS	Three of these 6 known SNPs were on the 500K arrays and the data for the MSKCC and BCFR datasets are presented here as well
+1	breast cancer	FGFR2	NA	RESULTS	We investigated the 19 SNPs (7 new candidate SNPs, the 6-SNP FGFR2 haplotype and the 6 previously published BC SNPs that were confirmed (p<0.05) in our population), for their ability to discriminate between AJ familial breast cancer cases and AJ controls.
+1	NA	FGFR2	NA	RESULTS	Scores for individual SNPs (0, 1, or 2 risk alleles) plus a gene score for FGFR2 (0-12 risk alleles) were used in stepwise logistic regression analysis comparing cases versus controls from the NYUMC replication dataset.
+1	NA	FGFR2	NA	RESULTS	SNPs with p>0.05 were eliminated one-by-one, resulting in a final list of 6 SNPs plus the FGFR2 gene score that significantly contributed to this risk model (Figure 2).
+0	NA	ER	rs17663555	RESULTS	This list included 3 new SNPs [rs17663555(5q13.2), rs566164(6q21), and rs11075884(16q22.2)] and 3 known SNPs [rs13387042 (2q35), rs2046210 (ESR1), and rs3112612 (TOX3)].
+1	NA	FGFR2	NA	RESULTS	The table in Figure 2 shows the effect of each genotype (0, 1 or 2 risk alleles) or FGFR2 gene score as a covariate in the model.
+0	NA	NA	NA	RESULTS	The predictive accuracy of the model was reflected in an AUC of 0.74 [95%CI: 0.69, 0.79] for the ROC curve.
+0	NA	NA	NA	RESULTS	Cross-validation analysis generated an average AUC of 0.67 [95%CI: 0.62, 0.72]
+0	breast cancer	NA	NA	DISCUSS	The notion of 'common disease-common variant' has come under scrutiny in part because of the inability to identify enough variants to explain most of the heritability of complex diseases, such as breast cancer.
+0	breast cancer	MAF	NA	DISCUSS	GWAS have identified several reproducible SNPs, but these high-frequency (MAF>5%), low-penetrance (<1.5 fold increase in risk) alleles account only for a small percentage of familial breast cancer risk.
+0	NA	NA	NA	DISCUSS	At the same time studies have revealed a strong impact of population structure on common-versus- rare allelic variation and the need for more focus on ancestry in GWAS.
+0	NA	MAF	NA	DISCUSS	In one study of the 4 major U.S. populations (African, Asian, European, and Hispanic), more than half of the common SNPs (MAF >=10%) were shared among the 4 populations, but only one-third of these SNPs were common in all 4 populations.
+0	NA	NA	NA	DISCUSS	More than half of all of the tested SNPs were private, occurring only in 1 of the 4 populations.
+0	NA	NA	NA	DISCUSS	Also, synonymous variants were more commonly shared among the populations than non-synonymous or nonsense mutations, indicating the presence of more recent, deleterious mutations in distinct populations
+0	NA	NA	NA	DISCUSS	Several GWAS have likewise identified disease-associated variants in the AJ population that were not previously identified in other populations.
+0	Crohn's disease	NA	NA	DISCUSS	In addition to Crohn disease, AJ population studies have aided in the discovery of variants associated with Parkinson disease, bipolar disorder, and schizophrenia.
+0	Parkinson's disease	NA	NA	DISCUSS	Similar to the Crohn study, one group confirmed common variants associated with Parkinson disease in people of European origin, but also identified 6 new variants.
+0	NA	NA	NA	DISCUSS	While some of these disease-variants have and will replicate in non-AJ populations, it is clear that using subjects with homogeneous ancestry will, at the very least, facilitate the discovery of SNPs that are present at lower frequencies in members of that heterogeneous group
+0	breast cancer	NA	NA	DISCUSS	The majority of the breast cancer SNPs identified to date, particularly those that have reached genome-wide significance, have been discovered using study populations of European ancestry.
+0	NA	NA	NA	DISCUSS	Likewise, commercial genotyping platforms have been designed with particular attention to more common variants, so odds are in favor of identifying only common risk alleles or common alleles that tag the actual causal variant.
+0	NA	BRCA1	NA	DISCUSS	The AJ population is a genetically isolated one that harbors rare and private variants that are present at a much higher frequency in this group than the general population, such as the BRCA1/2 founder mutations.
+0	breast cancer	NA	NA	DISCUSS	European ancestry is a major contributor to AJ genetics, and our data indicated 6 known breast cancer SNPs that seemingly survived admixture in this population (and more than these 6 are likely to be significant if our sample sizes are larger).
+0	breast cancer	NA	NA	DISCUSS	But studying this population has allowed us to identify 7 additional variants that have not yet been linked to breast cancer, and it is expected that using denser coverage and larger sample sizes will reveal still more risk alleles
+0	breast cancer	NA	NA	DISCUSS	Among the known breast cancer SNPs tested in the Replication Phase, 7 were originally identified in the MSKCC dataset.
+0	NA	NA	NA	DISCUSS	Statistical significance was not reached for 4 of these SNPs in the BCFR dataset and for 6 of the SNPs in the NYUMC dataset, though similar odds ratios were consistently observed across all three cohorts.
+0	NA	NA	NA	DISCUSS	Thus, it is likely that all of these SNPs would have achieved significance had the sample sizes been larger.
+0	NA	NA	NA	DISCUSS	Minor differences in study design may also have contributed to the observed differences in allele frequencies among cases and controls.
+0	breast cancer	NA	NA	DISCUSS	Similar strategies were used for recruiting the cases at MSKCC, BCFR and NYUMC, selecting women with >=3 affecteds in a single lineage at MSKCC and NYUMC and women with an average 2.86 cases of breast cancer per family through BCFR, but control recruitment differed for the NYUMC dataset compared to the Discovery Phase groups.
+0	breast cancer	NA	NA	DISCUSS	Women aged 60 years or older were selected to exclude the chance of an early breast cancer diagnosis.
+0	NA	NA	NA	DISCUSS	The MSKCC controls were not selected based on age, but controls used in the BCFR dataset were age-matched to the cases.
+0	breast cancer	NA	NA	DISCUSS	Similarly, phase 2 of the original MSKCC study [10] did select age-matched controls but did not select cases based on family history, and phase 3 utilized sporadic breast cancer cases.
+0	NA	NA	rs7203563	DISCUSS	Two SNPs (rs7203563 and rs3012642) were not significant in phase 3 of the original MSKCC study, but it is unclear if this is a result of the use of sporadic cases.
+0	NA	NA	NA	DISCUSS	The remaining 5 SNPs were validated in both of the MSKCC phase 2 and 3 datasets.
+0	NA	NA	NA	DISCUSS	In the current study it is most likely that sample size impacted the results observed in the BCFR and NYUMC datasets because the observed odds ratios are all similar to the MSKCC group.
+0	NA	NA	NA	DISCUSS	Indeed, in the 3 phases of the original MSKCC study p-value ranges vary with the size of the respective datasets: phase 1 [548 subjects, p-values=8.9x10-4 - 4.5x10-2], phase 2 [1929 subjects, p-values=9.8x10-5 - 3.3x10-3], and phase 3 [430 subjects, p-values= 1.8x10-2 - 0.57].
+0	NA	NA	NA	DISCUSS	Pooled p-values were examined for the 3 datasets in our study, for a total of 1467 subjects, and the range was 1.70x10-6 - 4.10x10-2.
+0	NA	NA	NA	DISCUSS	Fisher meta p-value from p-values of the three independent cohorts was calculated and reported together with common measures of heterogeneity for meta analysis including Cochran's Q statistic and I2 statistic.
+0	NA	NA	NA	DISCUSS	Also, complete clinical data may reveal phenotypic subtype(s) with which some SNPs are more strongly associated
+0	breast cancer	BRCA1	NA	DISCUSS	To our knowledge, breast cancer risk models that do not incorporate BRCA1 or BRCA2 mutations have not been previously attempted for the AJ population.
+0	NA	BRCA1	NA	DISCUSS	Cases in our study groups are without BRCA1/2 mutations.
+1	breast cancer	FGFR2	NA	DISCUSS	To assess usefulness of the identified markers in predicting AJ familial breast cancer cases versus AJ controls, we constructed a preliminary model using the NYUMC group starting with14 markers: 7 new candidate SNPs, a gene score for FGFR2 and 6 previously identified SNPs.
+0	NA	NA	NA	DISCUSS	We arrived at a 7-marker panel in a stepwise manner, eliminating 7 of the 14 SNPs that were not significant in the multivariate model (p>0.05).
+0	NA	NA	NA	DISCUSS	More details on the construction of the multivariate logistic model can be found in the Data Analysis section.
+0	NA	NA	NA	DISCUSS	In short, the model based on the 7 markers achieved an AUC of 0.74 (95% CI: 0.69, 0.79).
+0	NA	NA	NA	DISCUSS	However, it is important to note that since the NYUMC cohort was used to evaluate discovery SNPs and to construct the risk model, the model is subject to some degree of over-fitting or overestimation of the predictability.
+0	NA	NA	NA	DISCUSS	For this reason, cross-validation of the model was performed revealing an AUC of 0.67 (95%CI: 0.62, 0.72)
+0	breast cancer	NA	NA	DISCUSS	It is clear that many more SNPs of similar effect size will be required to predict familial breast cancer risk more accurately in AJ women.
+0	NA	NA	NA	DISCUSS	However, we provide evidence here of progress towards that goal, achieving moderate discriminatory accuracy with a panel of just 7 markers.
+0	breast cancer	NA	NA	DISCUSS	It might also be valuable to test the Breast Cancer Risk Assessment Tool BCRAT data, based on age at menarche, age at first live birth, number of first-degree relatives with breast cancer, and number of previous benign breast biopsies, combined with this SNP panel.
+0	breast cancer	NA	NA	DISCUSS	These clinical covariates have previously been shown with modest predictability for breast cancer risk [23].
+0	NA	NA	NA	DISCUSS	Unfortunately, these covariates were not measured in this current study.
+0	breast cancer	NA	NA	DISCUSS	Unlike the previous study, though, the NYUMC dataset was recruited to include controls without family histories of breast cancer.
+0	NA	NA	NA	DISCUSS	It will be necessary to recruit high-risk controls and cases to test the current model and build a potentially better predictive model
+0	cancers	NA	NA	DISCUSS	Finally, 6 of the 7 candidate SNPs newly identified in this study reside in chromosomal regions previously known are linked to cancer.
+0	breast cancer	NA	NA	DISCUSS	Deletions in 6q21 and 16q22.2 and gains in Xq12 have each been associated with breast cancer.
+0	cancers	NA	NA	DISCUSS	Likewise, amplification of 6p22.3 has been linked to multiple cancers including bladder and hereditary prostate cancer.
+0	lung cancer	NA	NA	DISCUSS	18p11.22 has been linked to lung cancer and 5q13.2 deletions to chemoresistant ovarian tumors, colorectal cancer, and chondrosarcomas.
+0	NA	NA	NA	DISCUSS	However, we were unable to directly determine the specific biological relevance for these SNPs.
+0	NA	NA	NA	DISCUSS	GWAS SNP arrays were designed to detect common alleles with the assumption that they themselves are causal alleles or that they tag those that are.
+0	NA	NA	NA	DISCUSS	It is possible that the low-penetrance risk SNPs identified here are actually tagging causal high-penetrance mutations undetectable at this point due to low frequency and/or incomplete coverage of variants.
+0	NA	NA	NA	DISCUSS	Complete analysis using whole genome or exome sequencing might make the hunt for the alleles with the largest effect on their respective diseases feasible
+0	NA	NA	rs5965136	DISCUSS	One of the new SNPs [rs5965136(Xq12)], however, was rare in this population and exhibited a large effect (pooled OR for the risk allele= 4.78).
+0	NA	NA	NA	DISCUSS	Therefore, another possible explanation is that the genes in proximity to these SNPs are not fully annotated, or that the SNPs affect genes further away.
+0	NA	NA	NA	DISCUSS	As more eQTL data becomes available, the function of these SNPs may be revealed
+0	breast cancer	NA	NA	DISCUSS	We have addressed the need for better utilizing ancestry in GWAS to identify new candidate SNPs for predicting breast cancer risk in a specific population.
+0	NA	NA	NA	DISCUSS	One limitation to this study is the relatively small sample size resulting in limited power to achieve genome-wide significance or replicate known variants.
+0	breast cancer	NA	NA	DISCUSS	This limitation might be the main cause for the insignificance of the 27 previously identified breast cancer SNPs in the NYUMC cohort, many of which had reached genome-wide significance in other studies.
+0	breast cancer	NA	NA	DISCUSS	As mentioned earlier, some of the SNPs found to be associated with breast cancer risk in different populations may not be replicable in the AJ population without BRCA1/2 mutations even with a larger sample size.
+0	NA	NA	NA	DISCUSS	Nonetheless, our goal for examining these previously published SNPs in the NYUMC cohort was to identify potential candidates that might be useful in the context of building multivariate risk prediction models.
+0	NA	NA	NA	DISCUSS	Another limitation was the incomplete coverage of variants on the SNP arrays available at the onset of the study, impeding the detection of rare and/or causal variants.
+0	NA	NA	NA	DISCUSS	Similarly, there was incomplete coverage of SNPs in the MSKCC dataset compared to the BCFR dataset due to the use of early-access versus commercially available Affymetrix 500K arrays.
+0	NA	NA	NA	DISCUSS	As a result, about 13% of the SNPs genotyped in the BCFR cohort were not genotyped in the MSKCC cohort.
+0	NA	NA	NA	DISCUSS	Since 111 SNPs were identified from the 435,632 genotyped SNPs (0.025%) we expect that successful imputation of the remaining SNPs in the MSKCC cohort would have resulted in an approximately additional 17 SNPs for further testing in the NYUMC cohort, 1 to 2 of which may have been of interest.
+0	NA	NA	NA	DISCUSS	As high-density genotyping data from next-generation sequencing for the AJ population becomes available, imputation for missing and untyped SNPs, as well as genotyping of rare and/or casual variants, will become more achievable.
+0	NA	NA	NA	DISCUSS	Finally, because we were already limited by sample size we did not divide the cohorts further by stage or histopathological subtype.
+0	breast cancer	NA	NA	DISCUSS	Rather this study was designed to identify common predispositional risk factors for AJ women across subtypes of breast cancer
+0	NA	NA	NA	DISCUSS	The major strength of this studylies in the use of three independent, genetically homogeneous populations for identification of new potential risk alleles, and strong, consistent effects were observed for several SNPs across all three independent datasets.
+0	NA	NA	NA	DISCUSS	Seven new candidate SNPs were identified, 3 of which contributed to a preliminary risk model.
+0	NA	NA	NA	DISCUSS	While moderate predictive power was accomplished, complete coverage of genetic variants (e.g., next-generation sequencing) combined with clinical and demographic data in a larger cohort will undoubtedly result in a more powerful model for predicting individual risk for this and other homogeneous populations
+0	NA	NA	NA	FIG	Seven markers were used to construct a multivariate logistic model for predicting risk in the NYUMC dataset.
+1	NA	FGFR2	NA	FIG	P-values and Odds Ratios (ORs) are listed for each SNP for 1 or 2 copies of the risk allele compared to 0 copies of the risk allele, or FGFR2 gene score (0-12 risk alleles).
+0	NA	NA	NA	FIG	Predictability of the 7-marker panel is evaluated with AUC of the ROC curve shown below
+1	NA	FGFR2	NA	TABLE	Previously identified variants for MSKCC dataset (a) and FGFR2 haplotype (b)

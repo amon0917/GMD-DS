@@ -1,0 +1,92 @@
+0	breast cancer	NA	NA	ABSTRACT	Genetic polymorphisms are associated with breast cancer risk.
+0	breast cancer	ER	NA	ABSTRACT	Clinical and epidemiological observations suggest that clinical characteristics of breast cancer, such as estrogen receptor or HER2 status, are also influenced by hereditary factors.
+0	breast cancer	NA	NA	ABSTRACT	To identify genetic variants associated with pathological characteristics of breast cancer patients, a Genome Wide Association Study was performed in a cohort of 9365 women from the French nationwide SIGNAL/PHARE studies (NCT00381901/RECF1098).
+1	breast cancer	FGFR2	rs3135718	ABSTRACT	Strong association between the FGFR2 locus and ER status of breast cancer patients was observed (ER-positive n=6211, ER-negative n=2516; rs3135718 OR=1.34 p=5.46x10-12).
+1	cancers	NA	rs3135724	ABSTRACT	This association was limited to patients with HER2-negative tumors (ER-positive n=4267, ER-negative n=1185; rs3135724 OR=1.85 p=1.16x10-11).
+1	breast cancer	FGFR2	NA	ABSTRACT	The FGFR2 locus is known to be associated with breast cancer risk.
+1	breast cancer	FGFR2	NA	ABSTRACT	This study provides sound evidence for an association between variants in the FGFR2 locus and ER status among breast cancer patients, particularly among patients with HER2-negative disease.
+1	breast cancer	FGFR2	NA	ABSTRACT	This refinement of the association between FGFR2 variants and ER-status to HER2-negative disease provides novel insight to potential biological and clinical influence of genetic polymorphisms on breast tumors
+0	NA	NA	NA	INTRO	Since the completion of the Human Genome Project, the Genome Wide Association Scan (GWAS) has become the tool of choice for the detection of associations between disease risk and common genetic variation.
+1	breast cancer	FGFR2	NA	INTRO	The first breast cancer risk variants identified in the GWAS era were in the FGFR2 locus
+0	breast cancer	NA	NA	INTRO	Further analyses, mainly in case-control and prospective cohorts, have reinforced this association as well as identified over 90 additional breast cancer risk loci.
+0	cancers	ER	NA	INTRO	GWAS studies with cases selected based on the estrogen receptor (ER) status of their tumors, and control subjects not affected by breast cancer, have shown divergent associations between ER+ and ER- tumors.
+1	NA	FGFR2	NA	INTRO	In these analyses, variants in FGFR2 are more strongly associated with ER+ disease, as opposed to ER- disease, when comparing cases to healthy controls.
+0	NA	HER2	NA	INTRO	Few single studies, however, have sufficient detail or sample size to carry out case-only analyses to further explore the relationship between genetic variants and disease characteristics, particularly with respect to amplification of the HER2 gene.
+0	breast cancer	NA	NA	INTRO	Therefore analyses by subtype are often secondary, based on findings of the primary analyses of overall breast cancer risk.
+0	NA	ER	NA	INTRO	Furthermore, these studies are now carried out in large consortia with the potential for heterogeneity in definitions of various case characteristics, particularly ER and HER2 status
+0	NA	NA	NA	INTRO	For example, Broeks et al.
+0	breast cancer	NA	NA	INTRO	examined the association between low penetrance breast cancer loci and specific breast tumor subtypes in the context of the Breast Cancer Association Consortium (BCAC).
+1	breast cancer	FGFR2	rs2981582	INTRO	rs2981582 in the FGFR2 locus was significantly associated with ER+/PR+/HER2- breast cancer (ncases=7201, p = 2.2 x 10-29), less so with ER+/PR+/HER2+ cases (ncases=996, p=5.5x10-4), and no association was observed with triple negative breast cancer (ncases=1480, p=0.841) or ER-/PR-/HER2+ breast cancer (ncases=627, p=0.396).
+0	NA	HER2	NA	INTRO	A case-only comparison of HER2 status was carried out within ER+/PR+ and ER-/PR- groups, and neither showed any association (p=0.23 and 0.15, respectively)
+0	breast cancer	NA	NA	INTRO	In the present study, a case-only GWAS approach was used to study differences in the distribution of variants between breast cancer cases in a large, multi-center study with centralized data collection and handling, the SIGNAL/PHARE case-cohorts (NCT00381901/RECF1098)
+0	NA	NA	NA	RESULTS	Genotype data was generated from 9365 SIGNAL/PHARE participants.
+0	NA	NA	NA	RESULTS	All subjects had greater than 95% genotyping success rate.
+0	IBS	NA	NA	RESULTS	26 pairs of individuals were identified with Identity by State (IBS) > 30%, with the subject having the most complete genotype data from each pair retained for analyses.
+0	NA	NA	NA	RESULTS	551 further individuals were excluded from the present study due to PCA analyses.
+0	NA	NA	NA	RESULTS	Finally, 61 subjects with missing clinical data were excluded.
+0	breast cancer	NA	NA	RESULTS	A total of 8727 patients including 2516 patients with ER- breast cancer were analyzed.
+0	breast cancer	NA	NA	RESULTS	Furthermore, 5452 patients had HER2-negative breast cancer, of which 1185 were ER-
+1	Supplementary Figure 1a	ER	rs3135718	RESULTS	The search for variants associated with ER status showed only one region with a highly significant association, corresponding to FGFR2 (best p-value for rs3135718 p-value=6.0x10-12, Figure 1 and Supplementary Figure S1).
+1	NA	NA	rs3135724	RESULTS	Restricting our analyses to HER2-negative cases found that associations between variants at the FGFR2 locus remained significant at the genome-wide level (best p-value for rs3135724 = 5.2x10-11, Figure 2).
+1	cancers	FGFR2	rs2981578	RESULTS	Among HER2-positive tumors, the lowest p-value in the FGFR2 locus for the association with ER status was found for rs2981578 (p = 3.3x10-4 Table 1).
+0	NA	NA	NA	RESULTS	The four variants in Table 1 were chosen to highlight the difference in associations between HER2+ and HER2- patients.
+0	cancers	NA	NA	RESULTS	Despite the smaller sample size among HER2-positive cases, this study has nearly 100% power to detect a per-allele OR = 1.8 as observed among the HER2-negative tumors, and greater than 80% power to detect a per-allele OR   1.3.
+1	cancers	NA	rs3135718	RESULTS	The observed direction of the association was consistent with observations in prior case-control studies, with for example the C allele of rs3135718 being more frequently reported among women with ER+ tumors
+0	NA	ER	NA	FIG	P-values from logistic regression comparing estrogen receptor positive cases to estrogen receptor negative cases, controlling for age at diagnosis and first two principal components, are shown.
+1	NA	FGFR2	rs3135718	FIG	rs3135718 on chromosome 10 at the FGFR2 locus shows the strongest association.
+0	NA	NA	NA	FIG	914144 SNPs were included in these analyses, with 6211 ER+ and 2516 ER- cases.
+0	NA	NA	NA	FIG	The red horizontal line corresponds to the empirical significance threshold of 1.48x10-7, while the blue horizontal line corresponds to an arbitrary level of 1.0x10-5.
+0	NA	NA	NA	FIG	The inflation factor (lambda) for these analyses is 1.02
+0	NA	ER	NA	FIG	P-values from logistic regression comparing estrogen receptor positive cases to estrogen receptor negative cases restricted to HER2- cases, controlling for age at diagnosis and first two principal components, are shown.
+1	NA	FGFR2	rs2981578	FIG	rs2981578 on chromosome 10 at the FGFR2 locus shows the strongest association.
+0	NA	NA	NA	FIG	The same 914144 SNPs were included in these analyses, with 4267 HER2-/ER+ and 1185 HER2-/ER- cases.
+0	NA	NA	NA	FIG	The red horizontal line corresponds to the empirical significance threshold of 1.48x10-7, while the blue horizontal line corresponds to an arbitrary level of 1.0x10-5.
+0	NA	NA	NA	FIG	The inflation factor (lambda) for these analyses is 1.02
+1	breast cancer	FGFR2	NA	RESULTS	As mentioned previously, variants in the FGFR2 locus were the first identified via GWAS with respect to breast cancer risk.
+1	NA	FGFR2	NA	RESULTS	The most recent fine-mapping effort of the FGFR2 locus explored functional variants, and identified three separate independent sets of correlated highly associated variants (ICHAVs).
+1	cancers	NA	rs3135724	RESULTS	In the present analyses restricted to HER2-negative tumors, rs3135724 was the SNP with the strongest association for ER status.
+0	NA	NA	rs2981579	RESULTS	These data included rs2981579 and rs2981578, from ICHAVs 1 and 3 respectively (Table 1).
+0	NA	NA	rs45631563	RESULTS	Unfortunately, rs45631563 from ICHAV 2 was not included, and no SNPs showed significant linkage disequilibrium with this marker in the current 1000 genomes data (http://1000genomes.org accessed July 8, 2015).
+1	NA	NA	rs3135724	RESULTS	Therefore additional analyses were carried out including rs3135724, rs2981579, and rs2981578 in the same logistic regression model.
+0	breast cancer	ER	NA	RESULTS	In our analyses of HER2- breast cancer, we found no evidence for independent association between these variants and tumor ER status (data not shown)
+0	breast cancer	NA	NA	DISCUSS	The identification of variants associated with specific molecular subtypes of breast cancer was a primary aim of the prospective SIGNAL/PHARE cohort.
+1	breast cancer	FGFR2	NA	DISCUSS	In this high-powered GWAS performed in a case-cohort of breast cancer patients with detailed clinical data, further information with respect to variants in the FGFR2 locus and their influence on breast cancer were provided, particularly regarding tumor ER status.
+1	breast cancer	FGFR2	NA	DISCUSS	In addition, the association between variants in FGFR2 and ER status in breast cancer was stronger among patients with HER2- tumors.
+0	NA	NA	NA	DISCUSS	While not including an independent validation set is a drawback of our analyses, the large sample size allowed us to have sufficient power to fully define this association, and the p-values obtained were well below empirical estimations of significance thresholds (1.48x10-7) as well as the generic GWAS significance threshold of 5x10-8
+0	NA	NA	NA	DISCUSS	Our hypothesis is that genetic variants that are associated with molecular subtypes will provide novel insights regarding disease etiology, and may lead to further developments regarding disease prevention and treatment.
+0	NA	NA	NA	DISCUSS	As our main focus was the construction of a clinical cohort, we have focused on collecting information with respect to histo-pathology and treatments, and patient follow-up.
+0	NA	NA	NA	DISCUSS	Therefore, we have not collected detailed information regarding epidemiological data such as body-mass index, reproductive history and menopausal status, or family history/BRCA mutations.
+0	cancers	NA	NA	DISCUSS	The participants have been given a self-administered questionnaire with some of these variables, but as this questionnaire was administered after cancer diagnosis, we have chosen to not exploit these data at this time
+1	breast cancer	FGFR2	NA	DISCUSS	We have focused on the FGFR2 locus, which showed the strongest association with ER status, particularly among HER- breast cancer patients.
+0	breast cancer	NA	NA	DISCUSS	There is growing evidence that genetic variants may be more strongly associated with specific breast cancer subtypes.
+0	NA	NA	NA	DISCUSS	For the most part, these analyses are extensions of current prospective cohort and case-control analyses.
+0	NA	NA	NA	DISCUSS	For example, recent analyses by Michailidou et al.
+0	NA	ER	NA	DISCUSS	included stratification by estrogen receptor status for the 77 variants included in their polygenic risk score.
+0	NA	ER	NA	DISCUSS	A number of these variants showed differential associations with respect to estrogen receptor status.
+0	cancers	ER	NA	DISCUSS	However as the authors state in their discussion, the number of estrogen receptor negative cases made accurately determining risk estimates difficult for this cancer subtype.
+0	breast cancer	NA	NA	DISCUSS	Future analyses in our case-cohort will investigate other variants previously shown to influence breast cancer subtype
+0	NA	NA	NA	DISCUSS	A potential limitation of our study is the use of an internal imputation process, as opposed to imputing to the commonly used 1000 Genomes data or the Michigan Imputation Server.
+0	NA	NA	NA	DISCUSS	As highlighted in the Methods this was our original study design prior to the availability of these resources.
+0	breast cancer	NA	NA	DISCUSS	We have continued with this approach in order to avoid any potential population differences with respect to linkage disequilibrium between our population of French breast cancer cases and the populations that provided data for publicly available resources.
+0	NA	NA	NA	DISCUSS	This approach leads to a lower number of variants on the absolute scale, meaning that we may be unable to detect any additional variants not captured through genotyping with the Illumina Omni5, which captures over 80% of common variants among Caucasian populations, and strict quality filtering of data (See Methods section)
+0	NA	NA	NA	DISCUSS	For aspects of response to treatment, SIGNAL/PHARE has not yet accrued enough follow-up to fully explore the implication of variants on patient's outcome.
+1	breast cancer	FGFR2	NA	DISCUSS	This will be of course an obvious next step of our analyses, particularly as pertains to response to hormone therapy and FGFR2 variants in ER+/HER- breast cancer patients
+1	breast cancer	FGFR2	NA	DISCUSS	In conclusion, we further refine the influence of variants in the FGFR2 locus with respect to molecular characteristics of breast tumors, in that they are more strongly associated with estrogen receptor status among cancers without amplification of the HER2 gene
+0	breast cancer	NA	NA	METHODS	PHARE was a randomized phase 3 clinical trial comparing 6- and 12-month trastuzumab adjuvant exposure, which included a subset of 1,430 HER2-positive breast cancer cases with DNA available for GWAS analyses.
+0	breast cancer	NA	NA	METHODS	SIGNAL was a prospective cohort specifically designed for GWAS analyses of 8,406 early breast cancer patients, enrolled at the time of the adjuvant chemotherapy from June 2009 to December 2013.
+0	breast cancer	NA	NA	METHODS	The combined data set, the PHARE/SIGNAL study, included 9,365 breast cancer patients.
+0	cancers	INCa	NA	METHODS	Clinical and pathological characteristics were prospectively collected using standardized forms, and centralized at the French National Cancer Institute (INCa).
+0	NA	NA	NA	METHODS	For both studies, patients provided blood samples that were centralized at the Centre d'Etude du Polymorphisme Humain (CEPH) in Paris, France, for DNA extraction using standard protocols.
+0	NA	NA	NA	METHODS	Genotyping was carried out at the Centre National de Genotypage (CNG) in Evry, France
+0	NA	NA	NA	METHODS	The original study plan called for a two-staged genotyping strategy using only study participants.
+0	breast cancer	NA	NA	METHODS	This approach aimed at reducing the potential that population structure in French breast cancer cases would influence imputation, while maximizing the proportion of the genome covered.
+0	NA	NA	NA	METHODS	"Briefly, all cases were genotyped using the Illumina HumanCore Exome chip set, composed of over 264000 variants for a ""GWAS Backbone"" and over 244000 ""exome-centered"" variants."
+0	NA	NA	NA	METHODS	Variants were filtered based on completion rates (<95% SNP success, N = 8122), departure from Hardy-Weinberg Equilibrium (HWE p<0.001, N = 20357), and low minor allele frequency (MAF<0.001, N=200628).
+0	NA	NA	NA	METHODS	Principal Components Analysis (PCA) and k-means were then used to characterize the ancestry of the participants and only the main cluster of European individuals was included in the present analysis, to reduce risk of population stratification (See Supplementary Figure S2).
+0	NA	NA	NA	METHODS	"A random subset of 1449 individuals from the main ""European"" cluster was selected for genotyping using the Illumina Omni5 chip set, composed of over 4M variants (See Supplementary Figure S2)."
+0	NA	NA	NA	METHODS	Complete (SNP success = 100%, N=2049173) Omni5 data were then filtered using similar cutoffs as the HumanCore Exome data, specifically HWE (p<0.001, N=91018) were then used to impute missing genotypes from the remaining subjects genotyped using the HumanCore Exome array.
+0	NA	NA	NA	METHODS	SNPs with imputation quality score < 30% were excluded from analyses (N=783416), and finally variants with a MAF < 0.01 were excluded (N=82847).
+0	NA	NA	NA	METHODS	A total of 914144 SNPs were included in the GWAS analyses.
+0	NA	NA	NA	METHODS	Standard GWAS logistic regressions were carried out using the ProbABEL package.
+0	NA	NA	NA	METHODS	Age at diagnosis and the first two principal components were included in regression analyses
+0	NA	NA	NA	METHODS	Genome-wide significance levels were estimated using the effective number of tests based on linkage disequilibrium between all markers used in our population through the SimpleM function in R. The number of effective markers is estimated at 345906, corresponding to a Bonferroni-corrected p-value threshold of 1.48x10-7

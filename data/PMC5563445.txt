@@ -1,0 +1,197 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	The prevalence of Type II Diabetes (T2D) has been increasing and has become a disease of significant public health burden in Jordan.
+0	NA	NA	NA	ABSTRACT	None of the previous genome-wide association studies (GWAS) have specifically investigated the Middle East populations.
+0	NA	NA	NA	ABSTRACT	The Circassian and Chechen communities in Jordan represent unique populations that are genetically distinct from the Arab population and other populations in the Caucasus.
+0	obese	NA	NA	ABSTRACT	Prevalence of T2D is very high in both the Circassian and Chechen communities in Jordan despite low obesity prevalence.
+0	NA	NA	NA	ABSTRACT	We conducted GWAS on T2D in these two populations and further performed meta-analysis of the results.
+0	NA	NA	rs6134031	ABSTRACT	We identified a novel T2D locus at chr20p12.2 at genome-wide significance (rs6134031, P = 1.12 x 10-8) and we replicated the results in the Wellcome Trust Case Control Consortium (WTCCC) dataset.
+0	NA	MLXIP	rs4758690	ABSTRACT	Another locus at chr12q24.31 is associated with T2D at suggestive significance level (top SNP rs4758690, P = 4.20 x 10-5) and it is a robust eQTL for the gene, MLXIP (P = 1.10 x 10-14), and is significantly associated with methylation level in MLXIP, the functions of which involves cellular glucose response.
+0	NA	NA	NA	ABSTRACT	Therefore, in this first GWAS of T2D in Jordan subpopulations, we identified novel and unique susceptibility loci which may help inform the genetic underpinnings of T2D in other populations
+0	diabetes	NA	NA	INTRO	Diabetes is among the most common non-communicable diseases globally.
+0	diabetes	NA	NA	INTRO	It has been estimated that there are currently about 194 million people at the age of 20 to 79 with diabetes worldwide and that this number will further increase to 333 million by 2025.
+0	diabetes	NA	NA	INTRO	Diabetes is the fifth main cause of death in Jordan, afflicting 16 percent of Jordanian adult citizens; another 23.8 percent of adults in Jordan are also on the brink of becoming diabetics according to a study from 2007 by the Heart and Capillary Disease Prevention directorate (HCDP) of the Ministry of Health in Jordan; and the rate of diabetes prevalence in Jordan is 30.5 percent among both children and adults.
+0	diabetes	NA	NA	INTRO	Thus, diabetes presents a significant public health burden to the Jordan community.
+0	Type 2 diabetes	NA	NA	INTRO	Type II Diabetes (T2D) is the major type of diabetes, which accounts for 95% percent of all diabetes cases worldwide
+0	NA	NA	NA	INTRO	Despite extensive research efforts for more than a decade and some notable successes, much of the genetic basis of common human diseases remains unresolved.
+0	NA	NA	NA	INTRO	The genome-wide association study (GWAS) has been a powerful approach for identifying novel susceptibility loci for complex diseases, such as T2D.
+0	NA	NA	NA	INTRO	To date, more than 80 T2D susceptibility loci have been uncovered by GWAS.
+0	NA	NA	NA	INTRO	However, the heritability attributed to these loci remains as low as just 10%.
+0	NA	NA	NA	INTRO	In addition, these studies have mostly focused on populations of European ancestry and East Asians, with a few studies on South Asians and Mexicans.
+0	NA	NA	NA	INTRO	The genetic determinants of T2D in Middle East populations have not been extensively studied by GWAS and limited evidence suggested that at least some of the reported T2D loci showed differential associations in different populations in the Middle East.
+0	NA	NA	NA	INTRO	It has also been reported that the presentation of T2D is different between Middle East immigrants and European patients, implying some different genetic basis between populations.
+0	NA	NA	NA	INTRO	Given the prevalence of the disease in the region, more research is warranted to understand the genetic basis of T2D specific to given Middle Eastern populations
+0	NA	NA	NA	INTRO	The Circassians and the Chechens are two ethnic populations of ancient descent in Jordan, both of which are the largest indigenous nationalities of the North Caucasus.
+0	NA	NA	NA	INTRO	These two populations are descendants of a single ancient origin with later divisions along linguistic and geographic borders.
+0	NA	NA	NA	INTRO	After immigrating to Jordan 140 years ago, Circassians and Chechens in Jordan are endogamous and have managed to keep their separate sense of identity and ethnicity during the last one hundred years in Jordan.
+0	NA	NA	NA	INTRO	Previous analysis of classical genetic markers such as blood groups and serum proteins have also shown statistical significant genetic diversity in the Caucasus, which has been further confirmed by mitochondrial DNA and Y chromosome analysis.
+0	NA	NA	NA	INTRO	While a T2D GWAS has been conducted in the Lebanese population, the Lebanese are Arab in origin; Circassians and Chechans are a separate, non-Arab ethnic group.
+0	NA	NA	NA	INTRO	These are clearly different populations, with different ancestries.
+0	NA	NA	NA	INTRO	The Circassian and Chechen communities may provide us an opportunity to study a genetically unique population and compare genetic basis for complex human diseases between different populations
+0	NA	NA	NA	INTRO	T2D has become an alarming public health issue in Jordan.
+0	Neurological and Communication Disorders	NA	NA	INTRO	Epidemiology studies showed that the prevalence of impaired fasting glycemia is 18.5% and 14.6% and prevalence of diabetes is 9.6% and 10.1% for Circassians and Chechens, respectively.
+0	NA	NA	NA	INTRO	In view of the very high incidence of T2D in Jordan and the genetic distinctness of Circassian and Chechan populations, we performed a GWAS to search for genetic factors contributing to T2D in these two populations and compared the results with European population
+0	diabetes	NA	NA	METHODS	The study has been approved by the institutional review board committee at the National Center for Diabetes, Endocrinology and Genetics of Jordan (approval number: 457/9.MS).
+0	NA	NA	NA	METHODS	The written informed consent was given by all participants
+0	NA	NA	NA	METHODS	A random sample of N = 144 from the Chechen population in Jordan and a random sample of N = 140 from the Circassian population in Jordan were recruited to participate in the study.
+0	NA	NA	NA	METHODS	Each participant in the study filled out a survey that included pedigree information.
+0	NA	NA	NA	METHODS	The identities of parents, grandparents, and great-grandparents (both maternally and paternally) were reported in the survey and any individual with non-Chechen heritage for even one person in his/her pedigree was excluded for the Chechen subpopulation; the same identity confirmation was conducted for the Circassian subpopulation
+0	diabetes	NA	NA	METHODS	A subject was defined as affected by diabetes mellitus if this diagnosis is known to the patient or, according to the ADA definitions, if fasting serum glucose is 7 mmol/L (126 mg/dl) or more.
+0	NA	NA	NA	METHODS	Impaired fasting glucose was defined as a fasting serum glucose level of >=6.1 mmol/L (100 mg/dl) but <7 mmol/L.
+0	NA	NA	NA	METHODS	The glycemic control was assessed using HbA1c.
+0	diabetes	NA	NA	METHODS	Patients with previously diagnosed diabetes who had HbA1c >7% were defined as having 'unsatisfactory' glycemic control
+0	NA	NA	NA	METHODS	A total of 9 ml of whole blood was drawn in EDTA tubes from the subjects by vacutainer system.
+0	NA	NA	NA	METHODS	Genomic DNA was isolated from whole blood sample using the phenol-chloroform protocol
+0	NA	NA	NA	METHODS	We performed high-throughput, genome-wide SNP genotyping, using the InfiniumII OMNI-Express BeadChip technology (Illumina), at the Center for Applied Genomics (CAG) at the Children's Hospital of Philadelphia (CHOP), USA.
+0	NA	NA	NA	METHODS	Sample quality control (QC) was performed based on the following measures: sample call rate, overall heterozygosity, relatedness testing and other metrics.
+0	NA	NA	NA	METHODS	Samples were excluded from analysis for SNP call rate <95%, heterozygosity beyond five standard deviation of the mean.
+0	NA	NA	NA	METHODS	One sample from each pair of duplicated or cryptic related samples was removed.
+0	NA	NA	NA	METHODS	For each pair of duplicate or related samples the sample with the highest SNP call rate was kept in the dataset.
+0	NA	NA	NA	METHODS	In the SNP-based QC, SNPs with a call rate <95%, minor allele frequency <1% or showing significant deviation from Hardy-Weinberg-Equilibrium (HWE test P-value <10-4) in the controls were removed.
+0	NA	NA	NA	METHODS	All QC steps were carried out using the software package PLINK
+0	NA	NA	NA	METHODS	PCA was conducted to confirm ethnic identity and to generate covariates to control for population stratification in the association analysis.
+0	NA	NA	NA	METHODS	LD-pruning was performed using PLINK, and only independent (r2 < 0.2), autosomal non-GC/AT SNPs were included in the PCA, which was conducted using EIGENSTRAT version 3.0
+0	NA	NA	NA	METHODS	The single-marker analysis for the genome-wide data was carried out using logistic regression on allele counts with the first 10 principle components as covariates.
+0	NA	NA	NA	METHODS	P values and odds ratios with the corresponding 95% confidence intervals were calculated for the association analysis in Chechen and Circassian subpopulations separately.
+0	NA	NA	NA	METHODS	Both association and meta-analysis were performed using PLINK
+0	NA	NA	NA	METHODS	The cohort of European population was from WTCCC, which has been reported before.
+0	NA	NA	NA	METHODS	All the samples were genotyped on Affymetrix Genome-Wide Human SNP Array 5.0.
+0	NA	NA	NA	METHODS	We similarly performed sample and SNP based QC steps and excluded non-European subjects based on PCA.
+0	NA	NA	NA	METHODS	Logistic regression was performed including the first three principal components as covariates
+0	NA	NA	NA	METHODS	The regional imputation at the locus of chr12q24.31 was conducted in two steps.
+0	NA	NA	NA	METHODS	First, the genotype data were prephased with SHAPEIT version 2, and then genotype imputation was performed using IMPUTE 2 with the 1000 Genome Phase 3 (https://mathgen.stats.ox.ac.uk/impute/1000GP%20Phase%203%20haplotypes%206%20October%202014.html) as the reference panel.
+0	NA	NA	NA	METHODS	Missing data likelihood score test was conducted to assess the association of each imputed SNP genotype with T2D using software SNPTEST V2, including the first three principal components as covariates.
+0	NA	NA	NA	METHODS	SNPs with info score <0.8 or with HWE-test p-value <1 x 10-06 were excluded from association testing
+0	NA	NA	NA	METHODS	Genomic DNA of a subset of samples in the biorepository of CAG was isolated from peripheral blood mononuclear cells.
+0	NA	NA	NA	METHODS	Genome-wide methylation profiling was conducted on the Infinium HumanMethylation450 BeadChip Kit at CAG according to the manufacturers' protocols.
+0	NA	NA	NA	METHODS	Methylation data were exported from the Illumina GenomeStudio and loaded into the R statistical package (r-project.org) using the lumi package.
+0	NA	NA	NA	METHODS	After adjusting for quantile color balance and background level and simple scaling normalization, M-value density and CpG-site intensity were plotted and aberrant chips were removed.
+0	NA	NA	NA	METHODS	These samples have also been genotyped at CAG and their genetic ethnicity was checked by PCA.
+0	NA	NA	NA	METHODS	We extracted the M-values (the log2 ratio between the methylated and unmethylated probe intensities) and the genotype information of the 425 subjects of European ancestry.
+0	NA	MLXIP	rs4758690	METHODS	We removed subjects of missing genotype at SNP rs4758690 and extreme outlier values of methylation M-values (>=median M-value of the genotype group +- 3SD) and then assessed the association between the additive genotype at rs4758690 and methylation M-value in gene MLXIP using linear regression including sex, age, and 10 genotype-derived principle components.
+0	NA	NA	NA	METHODS	Box-plots were generated using R package
+0	NA	NA	NA	RESULTS	To understand the genetic basis for T2D in Jordan populations, we conducted GWAS in Chechen and Circassian subpopulations of Jordan.
+0	NA	NA	NA	RESULTS	The sample information after QC is summarized in Table 1.
+0	NA	NA	NA	RESULTS	Specifically, for the Chechen subpopulation, we have 34 cases and 109 controls; for the Circassian subpopulation, we have 33 cases and 105 controls (Table 1).
+0	NA	NA	NA	RESULTS	Approximately 645,000 SNPs in each subpopulation passed QC.
+0	NA	NA	NA	RESULTS	We conducted logistic regression analyses separately in each population, including ten genotype-derived principal components as covariates.
+0	NA	NA	NA	RESULTS	There was no signal that reached genome-wide significance, however there are several SNPs at suggestive level of significance (P < 1 x 10-4) in each subpopulation (Tables S1-S2).
+0	NA	NA	NA	RESULTS	Then we performed meta-analysis of the association results from the two subpopulations.
+0	NA	NA	rs6134031	RESULTS	In the meta-analysis, we observed a signal at genome-wide significant level (SNP rs6134031, P-value = 1.12 x 10-8) under both fixed effect model and random effect model (Fig.
+0	NA	NA	NA	RESULTS	S1, Fig.
+0	NA	NA	NA	RESULTS	1, Table 2).
+1	NA	JAG1	NA	RESULTS	This SNP is located at the 5' of the JAG1 gene (Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	NA	rs4758690	RESULTS	In addition, there is another signal with multiple SNPs showing suggestive evidence of association (P-value <  1 x 10-4), with SNP rs4758690 having the lowest P-value at 4.20 x 10-5 (Fig.
+0	NA	NA	NA	RESULTS	S1, Table 2, Fig.
+0	NA	NA	NA	RESULTS	1).
+0	glucose metabolism alterations	MLXIP	rs4758690	RESULTS	SNP rs4758690 is located in the intron of MLXIP, a gene involved in transcriptional regulation of genes in glucose metabolism.
+0	NA	NA	NA	RESULTS	Taken together, these results demonstrate significant GWAS associations to novel T2D susceptibility loci in Jordan subpopulations
+0	NA	NA	NA	FIG	(A) chr20p12.2 locus in Circassian population; (B) chr20p12.2 locus in Chechen population; (C) chr12q24.31 in Chechen population.
+0	NA	NA	NA	FIG	The top associated SNP at each locus is shown in purple and the LD between the remaining SNPs and the index SNP are indicated by their colors.
+0	NA	NA	NA	FIG	The r2 values were calculated from the each population using software PLINK.
+0	NA	NA	NA	FIG	The recombination rates are shown by the light blue lines and the genomic positions are on human genome build hg19.
+0	NA	NA	NA	FIG	The plots were made using software LocusZoom
+0	NA	NA	NA	RESULTS	We then investigated whether these association signals exist in populations of other ethnicities.
+0	NA	NA	NA	RESULTS	We examined the association of these SNPs in the T2D dataset of the Wellcome Trust Case Control Consortium (WTCCC) which is composed of 1,999 cases and 3,004 controls, genotyped on the Affymetrix Genome-Wide Human SNP Array 5.0.
+0	NA	NA	NA	RESULTS	After QC, 1,952 cases and 2,960 controls of European ancestry remained for association analysis by logistic regression.
+0	NA	NA	rs6134031	RESULTS	The top SNP in the Jordan analysis, rs6134031 demonstrated nominally significant association with T2D in the WTCCC cohort (P = 0.012) and the same direction of effect (Table 2).
+0	NA	NA	rs4758690	RESULTS	The SNP rs4758690 is not genotyped on the Affymetrix GW5.0 Array, so we conducted imputation over this region in the replication cohort.
+0	NA	NA	rs4758690	RESULTS	Based on the imputed genotype data, we did not observe a significant association to rs4758690 (OR = 1.01, P = 0.61)
+1	NA	JAG1	rs6134031	RESULTS	Interrogating these T2D variants in the GTEx dataset, we uncovered a nominally significant association between SNP rs6134031 and JAG1 expression, in Esophagus-Muscularis (Beta = - 0.15, P = 0.0073, Fig.
+0	pancreatic	NA	NA	RESULTS	S2) and a marginal correlation in pancreatic tissue which is of potential biological relevance to T2D (Beta = -0.13, P = 0.071, Fig.
+0	NA	NA	NA	RESULTS	S2).
+1	NA	JAG1	NA	RESULTS	Though it is not significant, we did observe a trend of association between the doses of minor allele T and a lower expression of JAG1
+0	NA	MLXIP	rs4758690	RESULTS	On the other hand, we found a genome-wide significant eQTL effect of SNP rs4758690 for gene MLXIP expression in transverse colon (Beta = 0.46, P = 1.10 x 10-14) and small intestine terminal ileum (Beta = 0.50, P = 4.20 x 10-7) tissue specimens (Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	MLXIP	NA	RESULTS	A similar significant eQTL effect was reported for MLXIP expression in normal pre-pouch ileum in another study examining eQTLs in human intestine tissues
+0	NA	NA	NA	FIG	(A) in tissue transverse colon, beta = 0.46, P = 1.10 x 10-14; (B) in tissue small intestine, beta = 0.50, P = 4.20 x 10-7.
+0	NA	NA	NA	FIG	The in silico analyses were conducted at GTEx Protal.
+0	NA	MLXIP	rs4758690	FIG	The sample groups of different rs4758690 genotype were indicated on the X-axis; and the relative expression level of MLXIP is shown on the Y-axis.
+0	NA	MLXIP	NA	FIG	The median value of MLXIP expression level in each genotype group is represented by the dark black horizontal line in the box plot.
+0	NA	NA	NA	FIG	In the both figures, the reference allele is G and the alternative allele is A
+0	NA	MLXIP	rs4758690	RESULTS	Further, we found that SNP rs4758690 is significantly associated with the methylation probe cg22729539 (P = 3.07 x 10-5) residing within an intron of the longest isoform of MLXIP (Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	NA	NA	RESULTS	This site is absent in other short isoforms.
+0	NA	NA	NA	RESULTS	We observed a positive correlation between the eQTL and the methylation data at this locus.
+0	NA	NA	NA	RESULTS	As methylation is one of the important mechanisms regulating gene expression, these results are of potential interest.
+0	NA	MLXIP	NA	RESULTS	The minor allele G confers a lower expression of MLXIP compared to the major allele A, as well as a reduced methylation level at probe cg22729539, consistent with previous reports that gene body methylation was found to be positively correlated with gene expression.
+0	pancreatic	NA	NA	RESULTS	In addition, cg22729539 resides in a region with multiple histone modifications and transcription factor binding in pancreatic islets and liver cells which are central to T2D (Fig.
+0	NA	NA	NA	RESULTS	S3) and additional T2D relevant cell lines (Table S3).
+0	pancreatic	CEBPB	NA	RESULTS	The bound transcription factors include CEBPB which is known to function in adipogenesis, ER stress and pancreatic beta cell failure (Table  S3), therefore this region may function as active cis-regulatory element, regulating MLXIP expression
+0	NA	NA	rs4758690	FIG	M-values for methylation probe cg22729539 are plotted against the additive genotype at SNP rs4758690.
+0	NA	NA	NA	FIG	Dark horizontal lines in the boxplots indicate the median M-value of each genotype group, the boxes represent the first to third quartiles, and the ends of whiskers of the boxplot show 1.5 times the interquartile range (IQR).
+0	NA	NA	NA	FIG	Open circles represent data points outside of the range of 1.5 IQR.
+0	NA	NA	NA	FIG	Red diamonds indicate the means of each genotype group, with the values of the mean +- standard deviation shown in red text.
+0	NA	NA	NA	FIG	The number of individuals in each group with additive genotype of minor allele G is shown below the X-axis
+0	NA	NA	NA	RESULTS	The biological relevance of these two genes to T2D was further strengthened by their expression pattern.
+1	NA	JAG1	NA	RESULTS	For JAG1, it is reported to be highly expressed in arteries and in bronchial epithelial cells and lung tissue, with a particularly high level of expression in the gastrointestinal tract tissues, such as small intestine and colon (Figs.
+0	NA	NA	NA	RESULTS	S4 and S5).
+0	NA	MLXIP	NA	RESULTS	For the gene MLXIP, high levels of expression have been consistently noticed in colon tissue as reported in different studies (Figs.
+0	NA	NA	NA	RESULTS	S6 and S7).
+1	pancreatic cancer	JAG1	NA	RESULTS	Both of these genes demonstrated medium level of expression in certain tissues highly relevant to T2D, including JAG1 in adipose, pancreas, and smooth muscle (Figs.
+0	pancreatic cancer	MLXIP	NA	RESULTS	S4 and S5), and MLXIP in muscle, pancreas and pancreatic islet cells (Figs.
+0	NA	NA	NA	RESULTS	S6 and S7)
+1	diabetes	JAG1	NA	RESULTS	The overall expression pattern of JAG1 is similar to that of the gene Coagulation Factor III (F3) (correlation >  0.7), genetic polymorphisms of which have been shown to be associated with T2D in different ethnicity groups and the expression of which is significantly higher in monocytes and neutrophils of diabetes and prediabetic subjects
+0	NA	JAG1	NA	RESULTS	Consistent with the expression pattern, knockout of JAG1 in a mouse model resulted in defects in endocrine/exocrine glands, homeostasis/metabolism, and the liver/biliary system (Fig.
+0	NA	NA	NA	RESULTS	S8).
+0	NA	NA	NA	RESULTS	MLXIP-deficient mice displayed distinct metabolic features including increased serum lactate and alanine levels, consumption of fatty acids for energy production during exercise, and increased glycolytic capacity in skeletal muscles.
+0	NA	NA	NA	RESULTS	These features are associated with T2D in humans
+0	NA	NA	NA	RESULTS	Previous genetic and genomic studies of T2D have yielded fruitful results.
+0	NA	NA	NA	RESULTS	Based on literature review and a search of the NHGRI-EBI GWAS catalog, we generated a list of 182 genes which have been reported to be associated with T2D.
+0	NA	NA	NA	RESULTS	Among them, 86 have intragenic SNPs or nearby SNPs that are nominally significant in our meta-analysis of Jordan subpopulations (Table S4), demonstrating the validity of our study even with a small sample size and support for common genetic basis of T2D in different ethnicities
+1	NA	JAG1	NA	DISCUSS	In this first GWAS of T2D in Jordan subpopulations, we identified a novel genome-wide significant locus at chr20p12.2 close to gene JAG1 and replicated the association in the samples of European ancestry of the WTCCC dataset.
+0	NA	JAG1	NA	DISCUSS	JAG1 is expressed in T2D relevant tissues and knockout of JAG1 resulted in T2D related phenotypes in mice.
+0	NA	MLXIP	NA	DISCUSS	We also found an interesting locus of suggestive significance at 12q24.31 in the intron of MLXIP.
+0	NA	MLXIP	NA	DISCUSS	We further showed there is strong eQTL effect of the top associated SNP at this locus with correlation between its genotype and methylation of MLXIP, suggesting this locus may confer a cis-regulatory effect on MLXIP expression and this effect is at least in part mediated through methylation
+1	cancers	JAG1	NA	DISCUSS	JAG1 encodes a ligand for receptor Notch 1, functioning in the Notch signaling pathway which is important for multiple cellular functions, especially during normal development and pathogenesis of cancer.
+0	obese	Notch1	NA	DISCUSS	Accumulative evidence demonstrate a critical role of the Notch signaling pathway in the regulation of metabolism and that perturbations in Notch signaling may lead to the development of obesity and T2D.
+0	NA	Notch1	NA	DISCUSS	It has been shown that overactivation of Notch signaling results in stimulation of glycogenolysis and gluconeogenesis in the liver, counteracting insulin effects.
+0	diabetes	Notch1	NA	DISCUSS	Another role of Notch signaling in diabetes mellitus is to increase lipogenesis via mechanistic target of rapamycin complex 1, resulting in the development of hyperglycemia and fatty liver, dysfunctions associated with T2D.
+0	NA	Notch1	NA	DISCUSS	Positive correlation of Notch signaling with insulin resistance and fatty liver has been reported in humans.
+0	skeletal muscle homeostasis	Notch1	NA	DISCUSS	Key roles of Notch signaling also include regulation of adipocyte homeostasis and skeletal muscle homeostasis.
+1	NA	JAG1	NA	DISCUSS	One upstream regulator of JAG1, HMGA1 is also involved in the molecular mechanism of T2D.
+1	NA	JAG1	NA	DISCUSS	It has been reported that the expression of JAG1 is down-regulated upon HMGA1 depletion by siRNA.
+0	NA	HMGA1	NA	DISCUSS	HMGA1 encodes a non-histone chromatin associated protein, involved in multiple important cellular functions underlying pathogenesis of T2D, such as insulin production, in insulin action
+0	NA	MLXIP	NA	DISCUSS	MLXIP encodes MondoA which interacts with MLX.
+0	glucose metabolism alterations	NA	NA	DISCUSS	Together they activate transcription of genes involved in glucose metabolism.
+0	NA	MLXIP	NA	DISCUSS	Recent studies demonstrate that in addition to regulation of glucose-sensing transcription, MLXIP plays an important role in Myc activation and subsequent metabolic pathway reprogramming.
+0	diabetes	MYC	NA	DISCUSS	It is well known that Myc has important functions in the pathogenesis of diabetes, through both regulating cell cycle entry and maintaining expansion, regeneration and normal function of beta-cells.
+0	insulin deficiency	MYC	NA	DISCUSS	It has been shown that abnormal activation of Myc resulted in decreased beta-cell differentiation, proliferation and reduced insulin secretion.
+0	insufficient	MYC	NA	DISCUSS	On the other hand, insufficient Myc expression leads to hyperglycemia and beta-cell inactivity
+0	Deficiency	insulin	NA	DISCUSS	The pathological events that can lead to the development of T2D are diverse, such as deficiency and malfunction of beta-cells together with insulin resistance in multiple tissues, including liver and adipose tissues.
+0	NA	NA	NA	DISCUSS	The likely underlying genes for the novel T2D signals that we identified through GWAS are key players of signaling pathways that could lead to the development of T2D
+0	NA	MLXIP	rs4758690	DISCUSS	It is interesting that in our study, we observed a positive correlation between methylation and MLXIP expression that was associated with the rs4758690 SNP.
+0	NA	NA	NA	DISCUSS	While methylation at promoter sites usually results in gene silencing, methylation at other gene sites often enhances gene expression or affects splicing.
+0	NA	NA	NA	DISCUSS	The presence of histone modification marks and transcription factor binding in the vicinity of methylation probe cg22729539 suggests that this region contains cis-regulatory elements that actively regulate transcription.
+0	NA	NA	NA	DISCUSS	These epigenetic factors, like DNA methylation and histone modification, may interact with each other to influence gene expression in either the same or opposite directions.
+0	pancreatic	CEBPB	NA	DISCUSS	DNA methylation could also affect nearby transcription factor binding, such as transcription factor CEBPB, which plays an important role in adipogenesis, ER stress and pancreatic beta cell failure.
+0	NA	MLXIP	NA	DISCUSS	The coordination between a variety of genetic and epigenetic factors may regulate the expression of MLXIP, and further the development of T2D
+0	NA	NA	rs6134031	DISCUSS	The two SNPs, rs6134031 and rs4758690 have been reported to be associated with other human traits, though genome-wide significance was not reached in those studies.
+0	NA	NA	rs6134031	DISCUSS	In the NHGRI-EBI GWAS catalog, SNP rs6134031 has been reported to be associated with Plasma omega-6 polyunsaturated fatty acid levels (linoleic acid, n-6 PUFAs ) (rs6134031-T, beta = 0.0372, P-value = 4 x 10-6).
+0	NA	NA	NA	DISCUSS	The relationship between n-6 PUFAs and T2D is debatable.
+0	NA	NA	NA	DISCUSS	Generally, n-6 PUFAs are considered to be proinflammatory and n-3 PUFAs to be anti-inflammatory.
+0	NA	NA	NA	DISCUSS	Thus, high dietary intake of n-6 PUFAs and elevated (n-6) to (n-3) ratio are associated with chronic inflammatory diseases including T2D.
+0	NA	NA	NA	DISCUSS	However, a recent study by in a large number of European subjects found that different types of n-6 PAFUs are differentially associated with risk of T2D.
+0	NA	NA	NA	DISCUSS	Linoleic acid (LA) and eicosadienoic acid (EDA) were inversely associated with T2D (OR < 1), arachidonic acid (AA) was not significantly associated, and gamma-linolenic acid (GLA), dihomo-GLA, docosatetraenoic acid (DTA), docosapentaenoic acid (n6-DPA) are positively associated (OR >  1).
+0	NA	NA	NA	DISCUSS	Thus the relationship between n-6 PUFAs (and its subtypes) and T2D needs to be further evaluated in more studies.
+0	NA	NA	rs4758690	DISCUSS	SNP rs4758690 is also associated with height (P-value = 2.396 x 10-5), however the effect size and direction of effect are not available.
+0	NA	NA	NA	DISCUSS	A systematic review and meta-analysis of 18 studies revealed that significant inverse association between height and T2D risk was only observed in women, not men.
+0	NA	NA	NA	DISCUSS	Thus the genotype of these 2 SNPs are important for inter-related human traits, suggesting these traits share common molecular underpinnings
+0	NA	NA	NA	DISCUSS	Our study has started to reveal the similarities and differences of the genetic basis of T2D between Jordan subpopulations and other ethnicities.
+0	NA	NA	NA	DISCUSS	Despite the small sample size, we were able to replicate almost half of the loci that were reported to be associated with T2D in genetic and genomic studies in other populations.
+0	NA	NA	NA	DISCUSS	The replication of these associations suggests some common genetic basis underlying the development of T2D among different ethnicities.
+0	NA	CDKAL1	rs7756992	DISCUSS	For complex traits and diseases, there are many GWAS loci which could not be replicated across different ethnicities, such as the SNP rs7756992 in the CDKAL1 gene which strongly associates with T2D in subjects of European ancestry, but displayed no association in a population of West Africa.
+0	NA	NA	NA	DISCUSS	Among the 37 SNPs associated with T2D in European or Asian populations, only two were replicated in a Qatari population.
+0	NA	NA	rs6134031	DISCUSS	In the Jordan subpopulations examined, we observed a significant association of rs6134031 and T2D, with a very large effect size.
+0	NA	NA	rs6134031	DISCUSS	In the WTCCC, including only subjects of European ancestry, the LD structure for this region is different and the association of rs6134031 with T2D is less strong.
+0	NA	NA	rs4758690	DISCUSS	The association at SNP rs4758690 is nominally significant in both Jordan subpopulations, however it is not significant in WTCCC subjects of European ancestry.
+0	NA	NA	NA	DISCUSS	The identification of these two loci suggested unique genetic determinants for T2D in the Jordan subpopulations.
+0	NA	NA	NA	DISCUSS	The separate GWAS performed in Chechen and Circassian subpopulations also suggest distinct genetic factors for T2D in each of these two ethnicities.
+0	NA	NA	NA	DISCUSS	As reviewed by, such ethnic population differences may arise from variations in disease allele frequency, effect direction, effect size, distinct LD patterns, and trait/disease phenotype prevalence.
+0	NA	NA	NA	DISCUSS	Therefore, it is important to carry out genetic studies in different ethnic groups
+0	NA	NA	NA	DISCUSS	A major limitation of our study is the small size, which reduces the statistical power to detect a true effect of the genetic variants.
+0	inflation of type I error	NA	NA	DISCUSS	The small sample size may lead to p-values of true associations failing to reach stringent significance thresholds, like the genome-wide significance threshold of 5 x 10-8, resulting in false negatives (type II error).
+1	NA	JAG1	NA	DISCUSS	Therefore, we also considered other biological evidence when interpreting our results and we were encouraged by the replication of the JAG1 locus and the strong eQTL signal observed for MLXIP, due to their strong biological relevance to T2D.
+0	NA	NA	NA	DISCUSS	As reported and discussed by other studies, true association may not always reach the conventionally corrected conservative threshold of 5 x 10-8 for declaring a genome-wide significance.
+0	NA	NA	NA	DISCUSS	In our case, future studies with larger sample sizes of Jordan populations are needed to replicate the findings from our study and to further identify other genetic loci
+0	NA	NA	NA	CONCL	Taken together, our results from the first GWAS of T2D conducted in two subpopulations in Jordan have identified novel genetic factors underlying T2D; we additionally demonstrate there is common genetic basis among the different ethnicities as well as certain unique genetic factors that underlie T2D in the Jordan subpopulations.
+0	NA	NA	NA	CONCL	Identification of these novel genetic risk factors will offer the potential to gain further insight into the development of T2D and may help with the development of novel treatments precisely for the Jordan populations, which will reduce disease burden and promote health

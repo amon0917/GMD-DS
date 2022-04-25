@@ -1,0 +1,177 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	In Asia, young-onset type 2 diabetes (YOD) is characterized by obesity and increased risk for cardiovascular disease (CVD).
+0	obese	DACH1	rs1408888	ABSTRACT	In a genome-wide association study (GWAS) of 99 Chinese obese subjects with familial YOD diagnosed before 40-year-old and 101 controls, the T allele of rs1408888 in intron 1 of DACH1(Dachshund homolog 1) was associated with an odds ratio (OR) of 2.49(95% confidence intervals:1.57-3.96, P = 8.4x10-5).
+0	NA	DACH1	NA	ABSTRACT	Amongst these subjects, we found reduced expression of DACH1 in peripheral blood mononuclear cells (PBMC) from 63 cases compared to 65 controls (P = 0.02).
+0	diabetes	NA	rs1408888	ABSTRACT	In a random cohort of 1468 cases and 1485 controls, amongst top 19 SNPs from GWAS, rs1408888 was associated with type 2 diabetes with a global P value of 0.0176 and confirmation in a multiethnic Asian case-control cohort (7370/7802) with an OR of 1.07(1.02-1.12, Pmeta = 0.012).
+0	NA	insulin	rs1408888	ABSTRACT	In 599 Chinese non-diabetic subjects, rs1408888 was linearly associated with systolic blood pressure and insulin resistance.
+0	diabetes	NA	rs1408888	ABSTRACT	In a case-control cohort (n = 953/953), rs1408888 was associated with an OR of 1.54(1.07-2.22, P = 0.019) for CVD in type 2 diabetes.
+0	coronary artery disease	NA	rs1408888	ABSTRACT	In an autopsy series of 173 non-diabetic cases, TT genotype of rs1408888 was associated with an OR of 3.31(1.19-9.19, P = 0.0214) and 3.27(1.25-11.07, P = 0.0184) for coronary heart disease (CHD) and coronary arteriosclerosis.
+0	insulin deficiency	DACH1	rs1408888	ABSTRACT	Bioinformatics analysis revealed that rs1408888 lies within regulatory elements of DACH1 implicated in islet development and insulin secretion.
+0	prediabetes	DACH1	rs1408888	ABSTRACT	The T allele of rs1408888 of DACH1 was associated with YOD, prediabetes and CVD in Chinese
+0	NA	NA	NA	INTRO	Genome-wide association studies (GWAS) and their meta-analyses have discovered novel loci for T2D in European and Asian populations with odds ratios (ORs) of 1.1-1.4.
+0	diabetes	NA	NA	INTRO	In Asia, the most rapid increase in diabetes occurs in the young-to-middle aged group.
+0	diabetes	NA	NA	INTRO	Using Hong Kong Chinese as an example, 20% of people with diabetes were diagnosed before the age of 40 years.
+0	diabetes	NA	NA	INTRO	In these young patients, less than 10% had type 1 presentation and 15% had monogenic diabetes.
+0	obese	NA	NA	INTRO	In the remaining patients, family history, obesity and premature cardiovascular disease (CVD) were prominent features.
+0	diabetes	NA	NA	INTRO	In the Hong Kong Family Diabetes Study (HKFDS) which recruited family members of patients with young-onset diabetes (YOD), we reported strong heritability of diabetes and obesity with co-linkage of related traits to multiple chromosomal regions including chromosome 1q.
+0	NA	NA	NA	INTRO	However, the genetic basis of this form of YOD has not been studied
+0	metabolic disorder	insulin	NA	INTRO	Epidemiological analysis has confirmed the clustering of metabolic syndrome, insulin resistance, diabetes and CVD, which may share common genetic, environmental or lifestyle factors.
+0	NA	PAX4	rs10229583	INTRO	In a meta-analysis of 3 GWAS conducted in Chinese from Hong Kong and Shanghai, we discovered rs10229583 located in 7q32 near PAX4 which was subsequently confirmed in Asian and Caucasian populations.
+0	obese	DACH1	rs1408888	INTRO	In the first discovery cohort of this meta-analysis consisting of 99 Hong Kong Chinese patients with YOD diagnosed before 40-year-old with at least 1 affected first degree relative and obesity, the T allele of rs1408888 in intron 1 of DACH1 (Dachshund homolog 1) with P<10-5 was replicated in a multiethnic Asian case-control cohort, albeit insignificant in Caucasians
+0	NA	Dachshund	NA	INTRO	In Drosophila, Dachshund (DAC) is the homolog of DACH1 in human which is a highly conserved transcription factor implicated in developmental biology.
+0	NA	Dachshund	NA	INTRO	In a recent report, DAC was found to interact physically with PAX6 to control insulin expression.
+0	NA	DACH1	rs1408888	INTRO	In light of these findings, we revisited the risk association of rs1408888 of DACH1 and explored whether this genetic variant might be associated with YOD and related traits in Chinese populations.
+0	NA	DACH1	rs1408888	INTRO	To test this hypothesis, we examined the differential expression of DACH1 in peripheral blood mononuclear cells (PBMC) in patients with YOD and tested the genetic associations of rs1408888 in multiple case-control cohorts followed by bioinformatic analysis.
+0	prediabetes	DACH1	rs1408888	INTRO	We found reduced expression of DACH1 in PBMC from subjects with YOD and association of the T allele of rs1408888 with YOD, prediabetes and CVD.
+0	NA	DACH1	NA	INTRO	This risk variant is located within the vicinity of conserved non-coding elements (CNE) of DACH1 associated with multiple consensus transcription factor binding sites and chromatin modification sites suggesting possible regulatory functions.
+0	prediabetes	DACH1	NA	INTRO	These findings suggested that genetic variants of DACH1 may be implicated in abnormal islet biology resulting in prediabetes, YOD and CVD in Chinese populations
+0	obese	NA	NA	RESULTS	In the GWAS of 99 obese Chinese subjects with familial YOD and 101 controls, 425,513 of 541,891 autosomal SNPs passed quality control with no population stratification using multidimensional scaling analysis and after adjusting for genomic control (GC).
+0	NA	p<10-4	NA	RESULTS	From stage 1 GWAS, 24 unique loci with the lowest P value in the dataset (P<10-4) were taken forward for replication in 1468 cases and 1485 controls.
+0	NA	NA	rs1408888	RESULTS	Of these, 19 SNPs passed the quality control criteria and 2 SNPs (rs1408888 and rs1449675) remained significantly associated with T2D (Table 1).
+0	NA	DACH1	rs1408888	RESULTS	The intronic SNP rs1408888 {stage 1: OR [95% confidence intervals (CI)] = 2.49(1.57-3.96), P = 8.4x10-5; stage 2: 1.15(1.03-1.29), P = 0.0164} was located at chromosome 13q21.3 and lies within the first intron of the DACH1 gene (Figure 1).
+0	NA	NA	rs1449675	RESULTS	The intergenic SNP rs1449675 [stage 1: OR = 5.33(2.30-12.36); P = 2.0x10-5, 1.19(1.00-1.41); P = 0.0439] was located at chromosome 6q25.3.
+0	NA	NA	rs6595551	RESULTS	In the combined analysis (1567 cases, 1586 controls), three more SNPs (rs6595551 in ZNF608, rs987105 in MUT, and rs1413119 in an intergenic region on chromosome 13) showed nominal associations (P<0.05).
+0	NA	DACH1	rs1408888	RESULTS	Among these five SNPs, rs1408888 in DACH1 had the highest OR [1.21(1.08-1.35); P = 9.1x10-4] which remained significant (P = 0.0176) after correction for multiple testings of the 19 SNPs using 10,000 permutations.
+0	NA	NA	NA	RESULTS	In a meta-analysis of 5 Asian case-control cohorts consisting of 7370 cases and 7802 controls, we obtained a combined OR of 1.07(1.02-1.12, P = 0.0112) with no heterogeneity [P = 0.107 in Cochran's Q test and I 2 = 44.8% (0.0%-78.1%)] (Table 2)
+0	NA	DACH1	rs1408888	FIG	Regional plot showing significant association of rs1408888 in the DACH1 locus.
+0	NA	NA	NA	FIG	The -log10 P values for the allelic test from stage 1 (genome scan) were plotted as a function of genomic position (NCBI build 36).
+0	NA	NA	rs1408888	FIG	Rs1408888 which showed the strongest signal and neighboring genotyped SNPs in the joint analysis were denoted by purple diamond.
+0	NA	NA	NA	FIG	LD information (based on HapMap) was shown by color-coded points.
+0	NA	NA	rs9572813	FIG	Two neighboring SNPs rs9572813 and rs17791181, which showed nominal significance and moderate linkage disequilibrium (0.4 < r2 < 0.6) with rs1408888 were indicated.
+0	NA	NA	NA	FIG	Estimated recombination rate (the blue line) based on the Japanese and Chinese HapMap population was plotted to reflect the local LD structure around the significant SNPs.
+0	NA	NA	NA	FIG	Gene annotations were taken from NCBI.
+0	NA	NA	rs1408888	FIG	Lower panel: Bioinformatics analysis of genomic region surrounding rs1408888.
+0	NA	NA	rs1408888	FIG	The region harboring rs1408888 lies in close vicinity of 2 highly conserved non-coding elements, CNE803 and OREG0002711.
+0	NA	NA	rs1408888	FIG	The two blue arrowheads at the end indicate the positions of rs1408888 (right blue dot) and rs9572813 (left blue dot).
+0	NA	NA	rs17252745	FIG	The three internal red arrows indicate the positions of the three SNPs (rs17252745, rs17252752 and rs57143718, red dots from left to right) genotyped by sequencing.
+0	NA	NA	NA	FIG	The allele frequencies of the SNPs are shown in pie chart at the bottom.
+0	NA	NA	NA	FIG	The alignment of the highly conserved fugu CNE803, the human sequence corresponding to the fugu CNE and the eye prepared EST BY797940 are also shown
+0	NA	insulin	NA	RESULTS	In 599 healthy adults and after adjustment for age and gender, systolic blood pressure (BP), Homeostasis Model Assessment index for insulin resistance (HOMA-IR) and beta cell function (HOMA-beta) and fasting insulin were associated with increasing number of alleles.
+0	NA	DACH1	rs1408888	RESULTS	Using multivariate analysis, the T-allele of DACH1 rs1408888 was associated with systolic BP [beta = 1.56(1.02-2.10) per T-allele, 0.61% variance explained], fasting plasma insulin [beta = 0.072(-0.006-0.151) per T-allele, 1.05% variance explained] and HOMA-IR [beta = 0.067 (-0.012-0.145) per T-allele, 0.97% variance explained] (Table 3)
+0	obese	NA	NA	RESULTS	In the matched case-control cohort, Chinese T2D patients with CVD were more obese and had worse dyslipidaemia and renal function than those without CVD (Table 4).
+0	NA	NA	NA	RESULTS	The TT/TG genotype was associated with an OR of 1.51 (P = 0.02) which remained significant after adjusting for estimated glomerular filtration rate (eGFR) with an OR of 1.54 (1.07-2.22 P = 0.019).
+0	NA	NA	rs1408888	RESULTS	In an autopsy series of 173 non-diabetic cases, rs1408888 did not depart from Hardy-Weinberg Equilibrium (HWE).
+0	coronary artery disease	NA	NA	RESULTS	Compared to cases with TG/GG genotype (n = 83, mean+-SD age: 70.6+-15.7 years, 43% female), cases with TT genotype (n = 90, age: 67.0+-15.7 years, 38% female) were more likely to have a history of coronary heart disease (CHD) (17.8% versus 7.2%, P = 0.0375) and coronary arteriosclerosis (16.7% versus 6.0%, P = 0.0287).
+0	NA	NA	NA	RESULTS	The respective ORs were 3.31(1.19-9.19, P = 0.0214) and 3.27(1.25-11.07, P = 0.0184) after adjustment for age and sex
+0	NA	NA	rs1408888	RESULTS	Two neighboring SNPs in weak linkage disequilibrium (LD) (r2 0.5) with rs1408888 (rs9572813 and rs17791181) also showed nominal association with T2D (P = 0.01-0.001) in the GWAS analysis (Figure 1).
+0	NA	NA	rs1408888	RESULTS	Bioinformatics analysis revealed that the region between rs1408888 and rs9572813 overlapped with a regulatory element conserved from fugu fish to human.
+0	NA	NA	NA	RESULTS	On datamining, this element [OREG0002711 (http://www.oreganno.org/oregano/) or chr13:72,425,787-72,428,335 (hg19) (http://enhancer.lbl.gov/frnt_page_n.shtml)] shows an enhancer activity which directs the distinct expression of a beta-galactosidase reporter gene in the eye, cranial nerve, forebrain, hindbrain and neural tube in the mouse embryos.
+0	NA	NA	NA	RESULTS	In this region, another non-coding element (CNE803), highly conserved in vertebrates, shows homology to an EST from the human eye (BY797940) (Figure 1).
+0	NA	NA	rs1408888	RESULTS	We sequenced the region between rs1408888 and rs9572813 in 74 controls and 82 cases who had GWAS data and did not discover novel variants in the CNE803 nor in the surrounding regions.
+0	NA	NA	rs17252745	RESULTS	In this genomic region containing multiple SNPs, 3 SNPs (rs17252745, rs17252752 and rs57143718) with marked inter-ethnic differences in the NCBI SNP database (Figure 1) (http://www.ncbi.nlm.nih.gov/snp/) [minor allele frequency (MAF)<0.05 in CEU (Caucasians) versus 0.4-0.5 in CHB/JBT (Asians)] showed nominal association with YOD with OR ranging from 1.36 to 1.53.
+0	NA	NA	rs57143718	RESULTS	They were further genotyped in 206 controls and 390 subjects with YOD with one of the SNPs (T allele of rs57143718) showing association in the combined cohort of 472 cases and 280 controls [OR = 1.26(1.02-1.56), P = 0.036].
+0	pancreatic	NA	NA	RESULTS	We used reverse transcription PCR and Northern blot analysis to examine the expression of CNE803 in PBMC, pancreatic progenitor cells (PPC), HCT116 and HKCI-2 cancer cells which was negative.
+0	NA	DACH1	NA	RESULTS	Expression of DACH1 was detected in PBMC and PPC.
+0	NA	DACH1	NA	RESULTS	Using quantitative real-time PCR, lower DACH1 expression was found in PBMC from patients with YOD compared to control subjects (P = 0.02 for regression with age and sex adjustment, P = 0.005 for Wilcoxon rank sum test) (Figure 2)
+0	NA	beta-actin	NA	FIG	Expression level was normalized to the expression of beta actin using the DeltaDeltaCt method.
+0	NA	NA	NA	FIG	The results are represented as mean +- standard error of the mean (SEM) with age and sex adjustment
+0	obese	DACH1	rs1408888	DISCUSS	In an adequately powered case-control cohort of familial YOD characterized by obesity, we discovered several common SNPs (allele frequency>0.3) with ORs of 2-2.5, including the T allele of rs1408888 of DACH1 with allele frequency of 0.75 and an OR of 2.49.
+0	NA	DACH1	NA	DISCUSS	In a subset of this cohort, we found reduced expression of DACH1 in PBMC in patients with YOD.
+0	NA	NA	rs1408888	DISCUSS	In the stage 2 experiment, we successfully genotyped 19 SNPs with the lowest P value and replicated the association of rs1408888 with an OR of 1.21 and a global P<0.05 in a random case-control cohort of 2953 Chinese with older age of diagnosis.
+0	NA	NA	NA	DISCUSS	This was followed by confirmation in 15,172 Asian subjects with an OR of 1.07.
+0	coronary artery disease	insulin	NA	DISCUSS	We further demonstrated that the T allele was associated with insulin resistance and high BP in normal subjects, CVD in patients with T2D, and coronary arteriosclerosis in autopsy samples.
+0	pancreatic	DACH1	NA	DISCUSS	Bioinformatics analysis revealed its location in a conserved region within the intron of DACH1, implicated in pancreatic islet development.
+0	obese	PAX4	rs10229583	DISCUSS	Unlike the novel SNP rs10229583 at 7q32 near PAX4 discovered in a meta-analysis of 3 GWAS comprising 684 T2D patients and 955 controls of Southern Han Chinese descent with confirmation in a multi-ethnic population (P meta = 2.3x10-10 in East Asians; P  = 8.6x10-3 in Caucasians), the risk association of rs1408888 with T2D was increasingly attenuated in a multi-ethnic population, suggesting that this SNP might be more relevant to Asians undergoing rapid transition characterized by obesity and young age of diagnosis
+0	NA	DACH1	NA	DISCUSS	 DACH1, located on chromosome 13q21, is the mammalian homologue of the Drosophila dachshund (Dac) gene.
+0	NA	NA	NA	DISCUSS	It encodes a well-conserved nuclear protein capable of binding to DNA and has two highly conserved domains (DachBox-N and DachBox-C) from Drosophila to humans.
+0	NA	NA	NA	DISCUSS	It is a key component of the retinal determination gene network that governs cell fate and plays a key role in ocular, limb, brain and gonadal development.
+0	NA	DACH1	NA	DISCUSS	DACH1 knockout mice die shortly after birth, with no gross histological abnormalities observed in eyes, limbs, or brain tissues, suggesting its possible role in perinatal development.
+0	NA	DACH1	NA	DISCUSS	Herein, DACH1 is a critical transcription factor in tissue differentiation and organ development.
+0	NA	DPC4	NA	DISCUSS	One of its gene targets is the mothers against decapentaplegic homolog 4 (SMAD4) which upon binding with DACH1 can result in repression of TGFbeta signaling and TGFbeta-induced apoptosis.
+0	hypertension	transforming growth factor beta	NA	DISCUSS	In this regard, increased TGFbeta1 activity has been implicated in heart and vascular development, hypertension and progressive myocardial fibrosis.
+0	diabetes	NA	NA	DISCUSS	In a recent proof-of-concept analysis, researchers merged co-expression and interaction networks and detected/inferred novel networks to explain the frequent but not invariable coexistence of diabetes and other dysfunctions.
+0	cardiovascular disease	NA	NA	DISCUSS	One of these networks included regulation of TGFBRII which facilitated oxidative stress with expression of early transcription genes via MAPK pathway leading to cardiovascular-renal complications.
+0	endothelial dysfunction	beta-catenin	NA	DISCUSS	The second network proposed the interaction of beta-catenin with CDH5 and TGFBR1 through Smad molecules to contribute to endothelial dysfunction, often a precursor of CVD
+0	diabetes	DACH1	NA	DISCUSS	In the Wellcome Trust Case Control Consortium, Diabetes Genetics Initiative and a recent Chinese GWAS, DACH1 was among the list of genes with nominal association (P<0.05) with T2D.
+0	diabetes	NA	NA	DISCUSS	In the Emerging Risk Factor Collaboration Study, diabetes was associated with multiple morbidities including cardiovascular and renal disease.
+0	NA	DACH1	NA	DISCUSS	In a recent meta-analysis of GWAS data in 67,093 individuals of European ancestry, DACH1 was one of the susceptibility loci for reduced renal function.
+0	NA	DACH1	rs1408888	DISCUSS	Although we did not find association between rs1408888 and renal function in our study, these consistent findings highlight the possible role of DACH1 in regulating functions of multiple organs
+0	NA	DACH1	NA	DISCUSS	In support of these genetic associations, in a mouse model of diet-induced beta-cell dysfunction, islet DACH1 gene expression was reduced in prediabetic animals fed a high-fat diet.
+0	NA	DACH1	NA	DISCUSS	In both zebrafish and mice, loss of DACH1 resulted in reduced numbers of all islet cell types, including beta-cells.
+0	NA	DACH1	NA	DISCUSS	Although deletion of DACH1 in mice did not affect the number of PPC, it blocked the perinatal burst of proliferation of differentiated beta-cells.
+0	NA	Dachshund	NA	DISCUSS	In Drosophila, there was strong expression of Dac, the homolog of DACH1/2, in insulin-producing cells with Dac interacting physically with Pax6 homolog Eyeless (Ey) to promote expression of insulin-like peptides.
+0	NA	Dachshund	NA	DISCUSS	In a similar vein, the mammalian homolog of Dac, DACH1/2, also facilitated the promoting action of Pax6 on the expression of islet hormone genes in cultured mammalian cells
+0	NA	DACH1	NA	DISCUSS	Given the strong links between T2D and CVD, the association of TT/TG genotype of DACH1 with CVD with an odds ratio of 1.54, after adjustment for age, sex, disease duration and eGFR was noteworthy.
+0	obese	NA	NA	DISCUSS	Patients with CVD were more obese and had more risk factors including high BP.
+0	NA	insulin	NA	DISCUSS	Interestingly, in normal subjects, the T allele was linearly associated with BP and insulin levels which are well known risk factors for CVD.
+0	coronary artery disease	NA	NA	DISCUSS	In the autopsy series, TT carriers had 2-3 fold increased risk of coronary arteriosclerosis and CHD.
+0	metabolic disorder	DACH1	NA	DISCUSS	These consistent findings in independent cohorts at different stages of the spectrum of cardio-metabolic disease, together with experimental studies from other groups, strongly support the role of DACH1 in these complex diseases
+0	infection	NA	NA	DISCUSS	The complexity of human evolution and natural selection by external forces, including but not limited to temperature, foods, infections, can result in diversity of genomic architecture and expression, making replication of genetic association of complex diseases challenging.
+0	obese	DACH1	NA	DISCUSS	Given the rapid westernization of Hong Kong Chinese within less than a century, we hypothesize that DACH1 may be a thrifty gene which regulates growth to improve survival chances during time of hardship but increases risk of obesity, prediabetes, YOD and CVD during time of affluence.
+0	diabetes	NA	NA	DISCUSS	Hitherto, apart from maturity onset diabetes of the young, the genetics of familial YOD characterized by obesity have not been well studied and these results might motivate further research in subjects with these phenotypes to confirm or refute our hypothesis
+0	NA	DACH1	rs1408888	DISCUSS	The risk allele rs1408888 is located in the first intron of DACH1 within the vicinity of conserved elements, which can direct a unique gene expression pattern resembling the embryonic expression pattern of DACH1 .
+0	NA	NA	rs1408888	DISCUSS	One of these elements, CNE803 located 1.6 Kb from rs1408888 (Figure 1), showed sequence homology to an EST from an eye library (BY797940).
+0	NA	NA	NA	DISCUSS	We sequenced this region in the original GWAS cohort but did not find any novel SNPs.
+0	NA	NA	rs57143718	DISCUSS	Three SNPs in this region which were common in Chinese but rare in Caucasians showed nominal associations with T2D in the discovery cohort, with rs57143718 replicated in an expanded case-control cohort of YOD.
+0	NA	DACH1	NA	DISCUSS	Using PPC, we were unable to detect expression of CNE803 but found multiple DACH1 isoforms (data not shown).
+0	NA	DACH1	rs1408888	DISCUSS	On bioinformatics analysis, rs1408888 is located in a region with multiple consensus transcription factor binding sites and closely associated with open and active chromatins (Table S1), suggesting that this region may regulate DACH1 expression.
+0	NA	DACH1	NA	DISCUSS	In support of these predictions, we found reduced expression of DACH1 in PBMC in patients with YOD.
+0	NA	DACH1	rs1408888	DISCUSS	Although there is no direct link between rs1408888 and rs57143718 to the expression level of DACH1 in PBMC, the reduced expression of DACH1 in YOD patients supports importance of DACH1 and agrees with the bioinformatic analysis of the region surrounding rs1408888.
+0	NA	NA	NA	DISCUSS	The functional significance of this SNP/locus requires further exploration
+0	NA	DACH1	rs1408888	DISCUSS	In this multi-staged experiment, we have discovered risk association of an intronic SNP (rs1408888) of DACH1 with YOD, BP, insulin resistance and CVD in Chinese populations.
+0	NA	NA	rs1408888	DISCUSS	Although no significant association between rs1408888 and the YOD subgroup in the stage 1 replication cohort was found (P>0.1), possibly due to small sample size, the age of diagnosis was relatively young in our discovery (31.8+-7.7 years) and replication cohorts for T2D (44.0+-13.6 years) and that for CVD (54.3+-12.7 years) (Tables 4 and 5) compared to most GWAS.
+0	NA	NA	NA	DISCUSS	Given that these findings were mainly found in Asian population where YOD is a predominant feature, our findings highlight the need for more genetic research in YOD.
+0	insulin deficiency	DACH1	NA	DISCUSS	Together with the known function of DACH1 on developmental biology and regulation of insulin secretion and its reduced expression in human PBMC associated with YOD, these findings add to the growing body of knowledge regarding the candidacy role of DACH1 for cardio-metabolic dysfunction, which may manifest as YOD in populations undergoing rapid transition in nutrition and lifestyles
+0	NA	NA	NA	METHODS	The clinical characteristics of the discovery and replication cohorts of the Asian population as well as methods of genotyping and genetic analysis have been reported.
+0	obese	NA	NA	METHODS	In brief, the discovery cohort (stage 1) consisted of 99 obese Chinese subjects (BMI>=27 kg/m2 or waist>=90 cm in men or >=80 cm in women) with YOD (age of diagnosis<40 years) and at least one affected first-degree relative selected from the HKFDS and the Hong Kong Diabetes Registry (HKDR).
+0	NA	NA	NA	METHODS	The 101 age- and sex-matched control subjects were selected from a community-based health promotion program.
+0	NA	NA	NA	METHODS	The replication cohort (stage 2) consisted of 1468 T2D subjects selected from the HKDR and unrelated subjects from the HKFDS while the control cohort consisted of 507 healthy volunteers and 978 adolescents.
+0	NA	NA	NA	METHODS	The validation cohorts (stage 3) consisted of 1892 cases and 1808 controls from Shanghai; 749 cases and 616 controls from Korea; 2804 cases (2010 Chinese, 794 Malay) and 2185 controls (1945 Chinese, 1240 Malays) from Singapore and 471 cases and 582 controls from Japan (Table 5).
+0	hallucinations	NA	NA	METHODS	Written informed consent was obtained from all participants or their parents with approval by the Clinical Research Ethics Committee of the Chinese University of Hong Kong, the ethics committee of the Wakayama Medical University, the institutional review boards of the Clinical Research Institute in the Korea Seoul National University Hospital and the Shanghai Jiao Tong University Affiliated Sixth People's Hospital
+0	NA	insulin	NA	METHODS	All subjects in the Hong Kong control cohort had documentation of anthropometric indexes, BP, cardiovascular risk factors, plasma insulin and glucose during 75 gram oral glucose tolerance test.
+0	NA	NA	NA	METHODS	The case-control cohort was selected from the HKDR set up in 1995 as part of a quality improvement program using structured protocols.
+0	NA	NA	NA	METHODS	Using this cohort, we selected a case-control cohort of CVD (953/953) matched for age, sex and disease duration.
+0	coronary artery disease	NA	NA	METHODS	Definitions of CVD (including ischaemic heart disease, stroke and peripheral vascular diseases) were based on clinical assessments and the International Classification of Disease 9th version.
+0	NA	NA	NA	METHODS	In an autopsy series with documentation of pathological features and clinical history, we extracted genomic DNA from archived paraffin blocks using white blood cell-concentrated spleen tissues for genotyping.
+0	NA	NA	NA	METHODS	Figure 3 summarizes the selection criteria and study flow
+0	NA	NA	NA	METHODS	 Discovery cohort.
+0	NA	NA	NA	METHODS	The discovery cohort (99 cases and 101 controls) were assayed with Illumina HumanHap550-Duo BeadChip at deCODE Genetics.
+0	NA	NA	NA	METHODS	Of the 541,891 genotyped autosomal SNPs, 116,378 (21%) SNPs were excluded due to call rate<0.95 (n = 2311); MAF<0.05 (n = 113,596) and significant departure from HWE in control subjects (P<0.001) (n = 947), giving 425,513 SNPs on chromosome 1-22 for final analysis after checking for population stratification
+0	NA	NA	NA	METHODS	 Replication cohort.
+0	NA	NA	NA	METHODS	In the second stage, 24 SNPs with the lowest P value (P<1x10-4 in allelic test) were genotyped in the replication cohort.
+0	NA	NA	NA	METHODS	Only one SNP was genotyped for locus with multiple SNPs in high LD (r2>0.6).
+0	NA	NA	NA	METHODS	Genotyping was performed at the McGill University and Genome Quebec Innovation Centre using primer extension of multiplex products with detection by MALDI-TOF mass spectroscopy on a Sequenom MassARRAY platform (San Diego, CA, USA).
+0	NA	NA	NA	METHODS	Of 24 genotyped SNPs, 5 were excluded due to low call rate (<90%).
+0	NA	NA	NA	METHODS	All remaining 19 SNPs were in HWE in controls with a concordance rate of 96% in 65 blinded duplicate samples
+0	NA	NA	NA	METHODS	 Validation cohorts.
+0	NA	NA	rs1408888	METHODS	rs1408888 which showed significance in stage 1, 2 and combined cohorts were genotyped in the Asian populations using the following methods: 1) Shanghai Chinese: MassARRAY platform (MassARRAY Compact Analyzer, Sequenom, San Diego, CA, USA) with 97.5% call rate and 100% concordance rate; 2) Korea: Assay-on-Demand TaqMan assays (Applied Biosystems, Foster City, CA, USA) and ABI PRISM 7900HT Sequence Detection System (Applied Biosystems, Foster City, CA, USA) with 99.4% call rate and 100% concordance rate based on 13 duplicates; 3) Japan: TaqMan SNP genotyping system (Applied Biosystems, Foster City, CA) and ABI PRISM 7700 system with 20% of samples directly sequenced using Sanger sequencing and analyzed with an ABI 3100 capillary sequencer with 100% concordance rate.
+0	NA	NA	NA	METHODS	For the Singapore study, the Chinese samples were genotyped on the 610Quad and 1Mduov3 platforms while the Malay samples were genotyped on the Illumina HumanHap 6100Quad.
+0	NA	NA	NA	METHODS	We removed SNPs with call rate <95%, or departure from HWE (P <0.0001), or which were monomorphic
+0	NA	NA	NA	METHODS	 Autopsy series.
+0	NA	NA	NA	METHODS	DNA was obtained using a modified DNA-extraction protocol for genotyping using a Taqman kit from ABI and an ABI 7900HT Fast Real-Time PCR System
+0	NA	NA	rs1408888	METHODS	The genomic region between rs1408888 and rs9572813 was PCR amplified in 2 DNA fragments for sequencing.
+0	NA	NA	rs1408888	METHODS	The fragment close to rs1408888 was amplified by DACH1-F (5'-TCTTGCTATAAAATGCATGAAAGGAG-3') and 1R (5'-ATAGCCAAAGGGAGGGAAAA-3').
+0	NA	NA	NA	METHODS	The 1.7 Kb DNA fragment was sequenced by primers 1F (5'-AAGGGCCCATGACAGGAATG-3') and 3F (5'-TCACTCAAGATGAGTTCACACCA-3') in one direction and 2R (5'-GTTATTATCGGCCCAATTCC-3') in opposite direction.
+0	NA	NA	rs57143718	METHODS	The primer 1F covers rs57143718 and the primer 3F covers CNE803.
+0	NA	NA	rs9572813	METHODS	The fragment close to rs9572813 was amplified by CNE803-1F (5'-TAATACCATTGCCCCAAGGA-3') and DACH1-R (5'-CAGCAAATCCCAGCGTAGCAC-3').
+0	NA	NA	rs17252745	METHODS	The fragment was sequenced by CNE803-2F (5'-TGACCCAGCTCTCATCCTTT-3') to cover rs17252745 and rs17252752.
+0	NA	NA	NA	METHODS	The DNA sequencing data were deposited to the NCBI Trace Archive (http://www.ncbi.nlm.nih.gov/Traces/trace.cgi?&cmd=retrieve&val=CENTER_NAME%20%3D%20%22CUHK%22&dopt=info&size=330&dispmax=1&page=1&seeas=Show), with the TI number 2335839769-2335840098 (330 traces)
+0	NA	DACH1	NA	METHODS	Expression of CNE803 and DACH1 transcripts in various cell types were detected by RT-PCR.
+0	NA	NA	NA	METHODS	Expression of the CNE (220bp) was detected by primers 5'-TAATACCATTGCCCCAAGGA-3' and 5'-TTTGGATTTCAGCCTTGTCA-3'.
+0	NA	DACH1	NA	METHODS	Expression of DACH1 was detected using 5'-CTGCACCAACGCAAGTTCTA-3' and 5'-ATAAGCCCATCAGCATCTGG-3' as primers.
+0	NA	beta-actin	NA	METHODS	Expression of beta actin was used as a positive control using 5'-AGAGCTACGAGCTGCCTGAC-3' and 5'-AGCACTGTGTTGGCGTACAG-3' as primers.
+0	NA	DACH1	NA	METHODS	Expression of DACH1 in PBMC was quantified by real-time PCR using the SYBR Green method with 5'-GTGGAAAACACCCCTCAGAA-3' and 5'-CGAAGTCCTTCCTGGAGATG-3' as primers in an ABI 7900HT Real-Time PCR system.
+0	NA	beta-actin	NA	METHODS	Expression level was normalized to the expression of beta actin for comparison using the DeltaDeltaCt method.
+0	NA	NA	NA	METHODS	The result was analyzed by Wilcoxon rank sum test and regression analysis with sex and age adjustment
+0	NA	NA	NA	METHODS	We used PLINK v1.07 (http://pngu.mgh.harvard.edu/purcell/plink/), Statistical Analysis Software v.9.1 (SAS Institute, Cary, NC, USA) or Statistical Package for Social Sciences for Windows v.15 (SPSS, Chicago, IL, USA) for all statistical analyses, unless specified otherwise.
+0	NA	NA	NA	METHODS	All data are presented as mean+-SD or median (interquartile range) unless specified.
+0	NA	NA	NA	METHODS	Categorical variables were compared using chi2 test, Fisher's exact test and logistic regression, expressed as ORs and 95% CI as appropriate.
+0	NA	insulin	NA	METHODS	In healthy controls, fasting plasma insulin, HOMA-IR and HOMA-beta were logarithmically transformed due to skewed distributions.
+0	NA	NA	NA	METHODS	Genotype-phenotype associations were tested by multivariable linear regression adjusted for sex and age under the additive genetic model expressed in beta coefficients with 95%CI.
+0	NA	NA	NA	METHODS	Between-group comparisons were performed by chi2 test, Student's t-test or Wilcoxon Rank Sum as appropriate.
+0	NA	NA	NA	METHODS	We used logistic regression to examine genetic association with CVD in a case-control cohort matched for age, sex and disease duration with further adjustment for logarithm of eGFR, expressed as OR (95%CI).
+0	NA	NA	NA	METHODS	A two-tailed P value<0.05 was considered significant
+0	NA	NA	NA	METHODS	Assuming an additive model with allele frequencies of 0.05-0.30, and an OR of 1.2-3.0 (for a prevalence of 0.1), we used the Genetic Power Calculator to estimate the power for stage 1 (genome scan) and stage 2 (replication) at alpha levels of 1x10-4 and 0.05, respectively.
+0	NA	NA	NA	METHODS	For allele frequency>0.2, a sample size of 200 had 90% power to detect an OR of 3 and 75% power for an OR of 2.5.
+0	NA	NA	NA	METHODS	For the replication cohort with a sample size of 3000, we had 90% power to confirm an OR 1.2 for allele frequency>0.2.
+0	NA	NA	NA	METHODS	For the risk association with CVD, for SNP with allele frequency>0.2, a sample size of 2000 had over 90% power to confirm an OR of 1.5
+0	NA	NA	NA	METHODS	Distributions of all genotypes were analyzed for deviation from HWE by chi2 test with one degree of freedom.
+0	NA	NA	NA	METHODS	In stage 1 experiment, we estimated possible familial relationship using estimates of identity-by-descent (IBD) derived from pair-wise analyses of 102,919 independent (r2 0) and quality SNPs.
+0	NA	NA	NA	METHODS	We did not detect population stratification using multidimensional scaling analysis and the inflation factor lambda for GC.
+0	NA	NA	NA	METHODS	GC was applied to correct for relatedness of the subjects and adjust for potential population stratification.
+0	NA	NA	NA	METHODS	The inflation factor lambda was estimated by taking the median of the distribution of the chi2 statistic from 425,513 quality SNPs in allelic test, and then divided by the median of the expected chi2 distribution.
+0	NA	NA	NA	METHODS	The Quantile-Quantile plots were used to compare the observed and expected distributions for the 1df chi2 statistics generated from allelic tests with or without correction for GC in the discovery stage.
+0	NA	NA	NA	METHODS	We calculated the corrected P values by dividing the observed chi2 statistic by lambda.
+0	NA	v4.1	NA	METHODS	For the top signals taken forward for replication, we used Haploview v4.1 to generate pairwise LD measures and the Manhattan plot as well as LocusZoom v1.1 to generate the regional plots for the interested gene loci.
+0	NA	NA	NA	METHODS	For analysis of data from stage 1, 2 and combined dataset, we used allelic chi2 tests in 2x2 contingency tables to derive the OR after correction for multiple testings in 10,000 permutations.
+0	NA	v1.7	NA	METHODS	We used MIX v1.7 to perform meta-analysis and calculated the combined estimates of ORs by weighting the natural log-transformed ORs (with respect to the same allele) of each study using the inverse of their variance under the fixed effect model.
+0	NA	NA	NA	METHODS	Cochran's Q statistic (P <0.05) and I 2 were used to assess heterogeneity of ORs between studies

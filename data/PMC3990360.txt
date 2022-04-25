@@ -1,0 +1,135 @@
+0	breast cancer	NA	NA	ABSTRACT	Early-onset breast cancer (EOBC) causes substantial loss of life and productivity, creating a major burden among women worldwide.
+0	NA	NA	NA	ABSTRACT	We analyzed 1,265,548 Hapmap3 SNPs among a discovery set of 3,523 EOBC incident case and 2,702 population control women aged <=51 years.
+0	NA	NA	NA	ABSTRACT	The SNPs with smallest P-values were examined in a replication set of 3,470 EOBC case and 5,475 control women.
+0	NA	NA	NA	ABSTRACT	We also tested EOBC association with 19,684 genes by annotating each gene with putative functional SNPs, and then combining their P-values to obtain a gene-based P-value.
+0	breast cancer	NA	NA	ABSTRACT	We examined the gene with smallest P-value for replication in 1,145 breast cancer case and 1,142 control women.
+0	breast cancer	NA	NA	ABSTRACT	The combined discovery and replication sets identified 72 new SNPs associated with EOBC (P<4x10-8) located in six genomic regions previously reported to contain SNPs associated largely with later-onset breast cancer (LOBC).
+0	NA	NA	rs2229882	ABSTRACT	SNP rs2229882 and 10 other SNPs on chromosome 5q11.2 remained associated (P<6x10-4) after adjustment for the strongest published SNPs in the region.
+0	NA	NA	NA	ABSTRACT	Thirty-two of the 82 currently known LOBC SNPs were associated with EOBC (P<0.05).
+0	NA	NA	NA	ABSTRACT	Low power is likely responsible for the remaining 50 unassociated known LOBC SNPs.
+0	breast cancer	phosphofructokinase-muscle	NA	ABSTRACT	The gene-based analysis identified an association between breast cancer and the phosphofructokinase-muscle (PFKM) gene on chromosome 12q13.11 that met the genomewide gene-based threshold of 2.5x10-6.
+0	breast cancer	phosphofructokinase-muscle	NA	ABSTRACT	In conclusion, EOBC and LOBC appear to have similar genetic etiologies; the 5q11.2 region may contain multiple distinct breast cancer loci; and the PFKM gene region is worthy of further investigation.
+0	breast cancer	NA	NA	ABSTRACT	These findings should enhance our understanding of the etiology of breast cancer
+0	breast cancer	NA	NA	INTRO	Early-onset breast cancer (EOBC) leads to substantial loss of life and productivity, creating a major public health and economic burden in both developed and developing countries.
+0	breast cancer	NA	NA	INTRO	Many patterns of breast cancer incidence, histopathological characteristics, clinical behavior and risk factors, including the increase in risk associated with a family history, differ between cases diagnosed during pre-menopausal and post-menopausal periods; a difference that has prompted speculation that there might be some genetic etiologies that are different for EOBC and later-onset breast cancer (LOBC).
+0	NA	NA	NA	INTRO	For example, a study of Utah families estimated that the risk of developing BC for sisters of EOBC cases was 3.70 (95% confidence interval (CI)=2.5-5.2) times that for the general Caucasian population, nearly double the 1.83-fold relative risk (CI=1.65-2.01) among sisters of cases of all ages.
+0	NA	BRCA1	NA	INTRO	About 25% of the aggregation is explained by the high risks specific to carriers of deleterious mutations in the major susceptibility genes BRCA1 and BRCA2, but even after excluding carrier families, risks are higher for relatives of EOBC cases than among relatives of LOBC cases.
+0	breast cancer	NA	NA	INTRO	Recently, genome-wide association studies (GWASs) have reported many single-nucleotide polymorphisms (SNPs) as associated with breast cancer risk.
+0	NA	NA	NA	INTRO	To date however, no published GWASs have focused on EOBC.
+0	NA	NA	NA	INTRO	Here we report findings from the first large-scale GWAS of EOBC involving a discovery set of 6225 young Caucasian women from eight sites in the USA, Canada, Australia and Germany and two replication sets of Caucasian women from Australia, the USA, the UK, and other European countries
+0	NA	NA	NA	METHODS	We used a case-control design to investigate EOBC risk among Caucasian women in relation to 1,265,546 single-nucleotide polymorphisms (SNPs) included in the HapMap3 project (http://hapmap.ncbi.nlm.nih.gov/downloads/phasing/2009-02phaseIII/HapMap3_r2/).
+0	NA	NA	NA	METHODS	Specifically, we used Illumina SNP arrays to genotype 3523 EOBC cases and 2702 control women and to impute their genotypes for the HaMap3 SNPs (hereafter called the discovery set).
+0	NA	NA	NA	METHODS	We then conducted two SNP-based analyses and a gene-based analysis.
+0	NA	NA	NA	METHODS	The results of these analyses were examined in two sets of independent data (called replication sets).
+0	NA	NA	NA	METHODS	We begin with a description of subject recruitment, genotyping and quality control for the discovery set.
+0	NA	NA	NA	METHODS	We then describe the SNP-based analysis and replication, followed by the gene-based analysis and replication
+0	NA	NA	NA	METHODS	Population-based subjects were recruited from the eight sites described in Supplementary Table S1, some of which oversampled cases with a personal or family history suggesting a heritable basis for their disease.
+0	breast cancer	BRCA1	NA	METHODS	Eligible cases were non-Hispanic White (NHW) women diagnosed with invasive breast cancer when 51 years or younger and not known to carry pathogenic mutations in BRCA1 or BRCA2.
+0	breast cancer	NA	NA	METHODS	Eligible controls were NHW women aged 20-51 years without a history of breast cancer, who were identified largely by random-digit dialing.
+0	NA	NA	NA	METHODS	Table S2 shows the numbers of eligible subjects from each of the eight contributing sites after quality control
+0	NA	NA	NA	METHODS	DNA samples for subjects from all but one of the sites were genotyped at the University of Chicago on Illumina 610-Quad and Cyto12 v2 BeadChips (Illumina Inc.), using the protocol described in the Supplement.
+0	carcinomas of the colon	NA	NA	METHODS	Two hundred and twenty seven population control subjects from the Colon Cancer Family Registry (CCFR) were genotyped at TGEN (http://www.tgen.org) using the Illumina Human1M and HumanOmni1-Quad BeadChips.
+0	NA	NA	NA	METHODS	In addition, 27 blinded and 22 un-blinded quality control replicates from the study sample were genotyped on the Human1M.
+0	NA	NA	NA	METHODS	Replicates showed concordance of called genotypes >99.94% (for samples with call rates >90%).
+0	NA	NA	NA	METHODS	Standard laboratory quality control procedures were applied and have been described previously.
+0	NA	NA	NA	METHODS	Quality control was implemented using a combination of PLINK and custom programs written in C, R, Perl, and the Unix bash shell.
+0	NA	NA	NA	METHODS	Data quality control procedures are described in more detail in the Supplement and summarized in Table S3.
+0	NA	NA	NA	METHODS	This table shows that 555,254 of the 1,298,078 SNPs remained after quality control, and that most SNPs were deleted because they appeared only on the 1M and 1M Omni chips that were used to type only 227 controls
+0	NA	NA	NA	METHODS	We first identified principal components (PCs) representing axes of ancestral variation to adjust for population stratification and imputed untyped SNPs using the HapMap3 data.
+0	NA	NA	NA	METHODS	We then conducted two SNP-based analyses and a gene-based analysis.
+0	NA	NA	NA	METHODS	The first SNP-based analysis consisted of SNP-specific logistic regressions for each of the 1,265,548 typed or imputed HapMap3 SNPs using BEAGLE.
+0	NA	NA	NA	METHODS	We checked for population stratification using graphical plots of test statistics and the lambda measure of overdispersion.
+0	NA	NA	NA	METHODS	We used an additive regression model in which the logit of EOBC risk was linearly related to the number of SNP minor alleles, and noted the SNPs with nominal P-values less than 4x10-8.
+0	NA	NA	NA	METHODS	These SNPs and their MAFs for cases and controls as well as the discovery set p-values are shown in Table S4.
+0	NA	NA	NA	METHODS	The second SNP-based analysis was conducted to examine association between EOBC and each of the 82 breast-cancer-associated SNPs currently reported and validated in the literature.
+0	NA	NA	NA	METHODS	(We were unable to impute one SNP that was not polymorphic in the HapMap3 data.)
+0	NA	NA	NA	METHODS	Here we used SNP specific logistic regressions for each of the 82 SNPs in which the logit of EOBC risk was linearly related to the number of SNP risk alleles, as reported in the literature
+0	NA	NA	NA	METHODS	The gene-based analysis was conducted in two steps.
+0	NA	NA	NA	METHODS	First, we attempted to annotate each known human gene with one or more of the SNPs in the discovery set that could affect its expression and/or function.
+0	NA	NA	NA	METHODS	Then we combined the EOBC discovery set P-values of these expression-related SNPs into summary gene-based P-values.
+0	NA	NA	NA	METHODS	For step 1, we used eQTL mapping of SNPs to genes, as implemented in the online database SCAN and used the eQTL significance levels to quantify the likelihood that a SNP (or one in strong LD with it) regulates gene transcript levels.
+0	NA	NA	NA	METHODS	That is, we assigned a SNP to a gene if the SNP encoded a missense, nonsense or frameshift (MNF) variant in the gene, or if it met our criteria for an expression-quantitative trait locus (e-QTL) SNP for the gene.
+0	NA	NA	NA	METHODS	While not all the SNPs annotated to a gene are likely to be functional, they are clearly enriched for those with functional consequence.
+0	NA	NA	NA	METHODS	We were able to annotate 19,684 genes with one or more putative functional SNPs, 11,040 of which were annotated with at least one e-QTL SNP.
+0	NA	NA	NA	METHODS	In step 2 we calculated a gene-based P-value for each of the 19,684 genes by combining the EOBC-association P-values for all its putative functional SNPs using methods described elsewhere
+0	NA	NA	NA	METHODS	The Supplement contains additional details about both SNP-based and gene-based analyses
+0	breast cancer	NA	NA	METHODS	Primary genotype data were obtained from three early-onset breast cancer GWAS in populations of European ancestry as described in Supplementary Tables S5-S6.
+0	NA	NA	NA	METHODS	For each typed or imputed SNP using ProbABEL, we combined the SNP-specific regression coefficients obtained for the discovery and replication sets using the commonly-deemed inverse-weighted summary statistic proposed by Cochran
+0	breast cancer	NA	NA	METHODS	To replicate the gene-based association analyses, we used available GWAS data from the CGEMS breast cancer study of 1,145 Caucasian case women and 1,142 Caucasian control women aged 55-74 years.
+0	breast cancer	NA	NA	METHODS	Details of subject selection, genotyping methods and QC analyses for CGEMS breast cancer project have been published.
+0	NA	NA	NA	METHODS	The identical gene-based analytic method, described above and in the Supplement, was applied to the CGEMS data obtained from dbGaP.
+0	NA	NA	NA	METHODS	The gene-based P-values from both discovery and replication datasets were combined for the gene with smallest gene-based P-value in discovery data using Fisher's method for meta-analysis
+0	NA	NA	NA	METHODS	Further details of both the SNP-based and gene-based replication sets can be found in the Supplement
+0	NA	NA	NA	RESULTS	Analysis of combined discovery and replication sets identified 96 SNPs from six chromosomal regions as associated with EOBC risk with P<4x10-8 (the threshold for genome-wide significance at level 0.05 with 1.2 million independent tests).
+0	NA	NA	NA	RESULTS	These results were not driven by data from a single site.
+0	NA	NA	NA	RESULTS	The six regions lie on chromosomes 3p24.1, 5q11.2, 8q24, 10q26.13, 11q13.2 and 16q12.1.
+0	breast cancer	NA	NA	RESULTS	Previous GWASs have associated SNPs in these regions with (largely later-onset) breast cancer; however they have reported only 24 of these 96 SNPs (Table 1).
+0	NA	NA	NA	RESULTS	To investigate how many of the remaining 72 unpublished SNPs are independently associated with EOBC, we evaluated each of them using a regression model that also contained the published SNP in the region having the smallest P-value in the combined discovery and replication data (called the index SNP).
+0	NA	NA	NA	RESULTS	These regressions identified 12 of the 72 SNPs as independently associated with EOBC at significance level P<0.001 (listed in bold type in Table 1).
+1	NA	MAP3K1	NA	RESULTS	Eleven of these 12 SNPs are in the 5q11.2 region and almost all are within or near the MAP3K1 gene; eight are downstream of the published index SNP (Figure 1).
+0	NA	NA	rs2229882	RESULTS	The strongest of these SNPs, is rs2229882 with unadjusted P-value 1.02x10-14 and squared correlation r2=0.10 with the published SNP rs889312 (Figure 1 and Table 1)
+0	NA	NA	rs889312	RESULTS	To further explore the 5q11.2 association we examined 2,889 SNPs (278 typed and 2,611 imputed using 1KG data) within a 2Mb region centered at rs889312, the strongest published SNP in the region.
+0	NA	NA	rs7709971	RESULTS	We found rs7709971 to have the smallest P-value (1.01x10-9).
+0	NA	NA	NA	RESULTS	Adjusting for this SNP in bi-variate regressions did not produce strong new associations for any of the other SNPs in the region (results not shown)
+0	breast cancer	NA	NA	RESULTS	Table 2 shows 83 SNPs reported in the GWAS catalog http://www.genome.gov/26525384#1 as associated with breast cancer at P<4x10-8 in studies of predominantly LOBC.
+0	NA	NA	NA	RESULTS	We used the discovery set to examine association between EOBC and the 82 SNPs that we could impute using HapMap3 and/or 1KG data.
+0	NA	NA	NA	RESULTS	Table 2 shows that 32 SNPs were associated at P<0.05 (listed in bold type in the table).
+0	NA	NA	NA	RESULTS	We also computed the probability that a test of size 0.05 using 3523 cases and 2702 controls would detect association with each of the 82 SNPs, given its published effect size as shown in the table.
+0	NA	NA	NA	RESULTS	We found that the mean power to detect the 50 missed SNPs was 44%, appreciably lower than the mean power of 77% for the 32 we detected.
+0	NA	NA	NA	RESULTS	Thus our failure to confirm the remaining 50 SNPs seems due to insufficient power to detect their small effect sizes.
+0	NA	NA	NA	RESULTS	These results suggest that the genetic etiology of EOBC is not different than that of LOBC
+0	NA	phosphofructokinase-muscle	NA	RESULTS	Analysis of the discovery set identified the phosphofructokinase muscle-type (PFKM) gene on chromosome 12q13.11 region as associated with EOBC with P-value of 9x10-7, which meets the genome-wide threshold of P<2.5x10-6 for the 19,684 statistical tests performed.
+0	breast cancer	NA	NA	RESULTS	This region is distinct from the regions 12q22 and 12q24 containing SNPs known to be associated with breast cancer (Table 2).
+0	breast cancer	phosphofructokinase-muscle	NA	RESULTS	When we repeated the same analysis using the predominantly LOBC breast cancer replication data from the CGEMS study, the PFKM gene also was associated with breast cancer (P=3x10-2).
+0	NA	phosphofructokinase-muscle	NA	RESULTS	Combined analysis of the two data sets yielded an overall gene-based Fisher's meta-P-value of 5x10-7 for the PFKM gene.
+0	NA	NA	NA	RESULTS	No other genes met the genome-wide significance threshold
+0	breast cancer	phosphofructokinase-muscle	NA	RESULTS	The association between PFKM and breast cancer risk was based on its annotation with the 35 putative functional SNPs shown in Table 3.
+0	NA	NA	NA	RESULTS	This set consists largely of trans e-QTL SNPs rather than MNF SNPs in the coding region of the gene.
+0	NA	phosphofructokinase-muscle	NA	RESULTS	Nevertheless, we also found evidence implicating SNPs in the 1M region centered at the PFKM gene.
+0	NA	NA	NA	RESULTS	We found that 27 of the 966 SNPs in this region that were included in the EOBC GWAS discovery set were associated with EOBC at P<0.01.
+0	NA	NA	NA	RESULTS	These SNPs are listed in Figure 2.
+0	NA	NA	NA	RESULTS	Also shown in the Figure are the genes in this region (Panel A), a Manhattan plot of the 966 P-values (Panel B), and the D' measure of linkage disequilibrium between pairs of SNPs (Panel C).
+0	NA	NA	NA	RESULTS	To evaluate the statistical significance of this finding, we permuted subjects' case-control statuses 1000 times, and in each permutation we evaluated how many of the 966 SNPs were associated with EOBC at P<0.01.
+0	NA	NA	NA	RESULTS	We found that none of the 1000 permutations yielded 27 or more such SNPs, giving a significance level of P<0.001.
+0	NA	NA	NA	RESULTS	Most of the 27 EOBC-associated SNPs were located within other nearby genes, suggesting that EOBC risk could be due to some complex gene expression pattern in this gene-rich region (see Panels A and B of Figure 2).
+0	NA	NA	NA	RESULTS	Panel C of the figure shows the correlations among the SNPs in the region
+0	breast cancer	NA	NA	DISCUSS	This study identified and replicated EOBC associations with 72 previously unpublished SNPs in six regions known to harbor variants affecting breast cancer risk.
+0	NA	NA	NA	DISCUSS	Twelve of the 72 SNPs remained associated with EOBC after adjusting for the SNP with smallest published P-value in the same region.
+1	NA	MAP3K1	NA	DISCUSS	Eleven of these 12 SNPs lie on chromosome 5q11.2 near the MAP3K1 gene.
+0	NA	NA	rs889312	DISCUSS	Their lack of strong correlation with the strongest published SNP rs889312 suggests the presence of multiple causal variants in this region.
+0	NA	NA	NA	DISCUSS	Future sequence-based studies, coupled with functional experiments, can exploit these associations to identify the causal variant(s) in the region
+0	NA	NA	NA	DISCUSS	We examined association between EOBC and 82 of the 83 common SNPs currently known to be associated with largely LOBC.
+0	NA	NA	NA	DISCUSS	We found evidence for association with only 32 (39%) of these SNPs.
+0	NA	NA	NA	DISCUSS	However comparison of detected and missed SNPs with respect to effect size and power suggests that this low confirmation rate reflects the inadequate power to detect the missed SNPs rather than systematic etiological differences between EOBC and LOBC.
+0	breast cancer	NA	NA	DISCUSS	These findings suggest that the genetic factors responsible for breast cancer affect risk at all ages
+0	breast cancer	phosphofructokinase-muscle	NA	DISCUSS	The gene-based GWAS analyses identified the PFKM gene region 12q13.11 as associated with breast cancer risk, independently of the 12q22 and 12q24 regions previously associated with breast cancer.
+0	NA	phosphofructokinase-muscle	NA	DISCUSS	PFKM, one of the three phospho-fructose-kinase (PFK) isoenzymes, is the key regulator of cellular glycolysis catalyzing the phosphorylation of fructose-6-phosphate to fructose-1,6-bisphosphate.
+0	Tarui's disease	phosphofructokinase-muscle	NA	DISCUSS	Disabling PFKM mutations lead to glycogen storage diseases (especially type VII - Tarui's disease) as well as cardiac and hematological disorders.
+0	breast cancer	phosphofructokinase-muscle	NA	DISCUSS	The association of PFKM expression with breast cancer risk is plausible for several reasons.
+0	breast cancer	NA	NA	DISCUSS	First, this gene is expressed in breast cancer cell lines.
+0	cancers	NA	NA	DISCUSS	Second, variants in the gene have been related to post-translational modifications, which have been shown to alter the metabolism and promote the growth of cancer cells.
+0	breast cancer	NA	NA	DISCUSS	Third, an association between breast cancer risk and this gene is consistent with observations that tumor cells can consume large amounts of glucose due to aberrant glucose metabolism, especially through a glycolytic pathway that produces lactate.
+0	cancers	p53	NA	DISCUSS	Finally, tumor suppressor protein p53 has been shown to suppress PFKM expression in model system.
+0	breast cancer	phosphofructokinase-muscle	NA	DISCUSS	Since the biology of the PFKM gene and its modulators and inhibitors are well characterized identification of PFKM gene region as a breast cancer susceptibility locus has potential translational implications for breast cancer prevention and treatment
+0	NA	NA	NA	DISCUSS	The present study has several strengths including its large sample size, its focus on EOBC, its homogenous Caucasian study population, and its novel gene-based analysis involving the functional characteristics of gene-related SNPs.
+0	NA	NA	NA	DISCUSS	Study limitations include use of somewhat different types of study populations between the discovery (population-based) and replication (both population- and clinic-based) phases, and our inability to replicate the gene-based analysis in an EOBC replication set due to lack of access to necessary relevant data from replication cohorts
+0	NA	NA	NA	DISCUSS	In conclusion, the study identified EOBC risks to be associated with 72 new SNPs in six chromosomal regions which were previously associated with LOBC risks.
+0	NA	NA	NA	DISCUSS	Eleven of the 72 SNPs, all on chromosome 5q11.2, were associated with EOBC independently of previously reported SNPs.
+0	NA	NA	NA	DISCUSS	These EOBC-associated SNPs may help in the search for causal variants in the 5q11.2 region.
+0	NA	NA	NA	DISCUSS	In addition, we found little evidence to support genetic heterogeneity between EOBC and LOBC.
+0	breast cancer	phosphofructokinase-muscle	NA	DISCUSS	Finally, the gene-based analysis identified a region containing the key glycolysis regulation gene PFKM that is worthy of further investigation as a susceptibility locus for breast cancer in Caucasian women of all ages.
+0	NA	NA	NA	DISCUSS	Future studies need to determine whether the current findings apply to non-Caucasian women
+0	NA	NA	NA	FIG	Manhattan plot of significance levels from combined discovery and replication data for SNPs in the 5q11.2 region.
+0	NA	NA	rs889312	FIG	Y-axis shows minus log P-value for association with EOBC, X-axis shows chromosomal position, and SNP color reflects its correlation with SNP rs889312 (SNP with smallest P-value in discovery set, marked by arrow).
+0	NA	NA	rs889312	FIG	SNPs in red boxes are associated with P-value <0.001 from regression analyses adjusting for rs889312.
+0	NA	NA	NA	FIG	Horizontal bar denotes genome-wide significance threshold P=4x10-8.
+0	NA	NA	NA	FIG	Blue curve denotes recombination rate
+0	NA	phosphofructokinase-muscle	NA	FIG	Panel A: chromosomal positions of genes on chr12q13.11 in the 2MB region surrounding the PFKM gene.
+0	NA	NA	NA	FIG	Panel B: Manhattan plot of 27 SNPs in the region associated with EOBC with combined discovery and replication P-values of 0.01 or less.
+0	NA	NA	NA	FIG	These 27 SNPs and their P-values are listed on the left in their order of appearance from left to right.
+0	NA	NA	rs7296288	FIG	SNP colors reflect magnitudes of their squared correlation coefficients with SNP rs7296288 (marked by arrow), which had the smallest discovery set P-value.
+0	NA	NA	NA	FIG	Panel C: linkage disequilibrium measures D' for all 966 HapMap3 imputed SNPs in the chr12q13.11 region.
+0	NA	NA	NA	FIG	Dark red squares represent D' values near 1 and white squares represent D' values near zero
+0	NA	NA	NA	TABLE	Newly identified SNPs associated with EOBC at combined significance level P < 4x10-
+0	breast cancer	NA	NA	TABLE	EOBC Discovery Set Risk Allele Frequencies (RAFs) and Per Allele Odds-ratios (ORs) for Validated Breast Cancer GWAS Hits in Subjects of European Ancestry (P <= 5 x 10-8
+0	NA	phosphofructokinase-muscle	NA	TABLE	Significance levels from discovery and replication sets for association of EOBC with 35 putatively functional PFKM SNP

@@ -1,0 +1,178 @@
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Genome-wide association studies (GWAS) have identified ~100 genetic loci associated with prostate cancer risk.
+0	NA	NA	NA	ABSTRACT	Less than a dozen of these loci were initially identified from GWAS in two Asian populations, likely because of smaller sample sizes of these individual GWAS in Asians.
+0	NA	NA	NA	ABSTRACT	Here, we conduct a large-scale meta-analysis of two GWAS from the Japanese population (1,583 cases and 3,386 controls) and the Chinese population (1,417 cases and 1,008 controls), followed by replication in three independent sample sets.
+1	Breast and prostate cancer	PPFIBP2	rs12791447	ABSTRACT	We identify two independent susceptibility loci for prostate cancer at 11p15.4 (rs12791447, P=3.59 x 10-8; PPFIBP2) and 14q23.2 (rs58262369, P=6.05 x 10-10; ESR2).
+1	Breast and prostate cancer	PPFIBP2	NA	ABSTRACT	The mRNA levels of PPFIBP2 and ESR2 are differentially expressed in prostate tumours and paired normal tissues.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Our study adds two new loci to the limited number of prostate cancer risk-associated variants in Asians and provides important insight into potential biological mechanisms of prostate cancer
+0	Breast and prostate cancer	NA	NA	ABSTRACT	 Genetic variations influence the risk of prostate cancer.
+0	NA	NA	NA	ABSTRACT	Here, the authors use a meta-analysis of Genome-wide association studies from Asian populations and uncover new susceptibility loci at 11p15.4 and 14q23.2
+0	Breast and prostate cancer	NA	NA	INTRO	With ~900,000 new cases diagnosed each year, prostate cancer represents the most frequently diagnosed cancer worldwide in men.
+0	Breast and prostate cancer	NA	NA	INTRO	The incidence of prostate cancer varies widely between countries and regions, with the highest prevalence rate observed in Western developed countries and the lowest incidence rate observed in Asian countries.
+0	Breast and prostate cancer	NA	NA	INTRO	In addition to age and race, positive family history is also an established risk factor for prostate cancer, suggesting that inherited genetics may influence the risk for this disease
+0	Breast and prostate cancer	NA	NA	INTRO	To date, genome-wide association studies (GWAS) for prostate cancer have identified a more than 100 susceptibility loci, explaining ~30% of the familial risk for this disease.
+0	NA	NA	NA	INTRO	However, most of these GWAS were conducted in men of European descent.
+0	NA	NA	NA	INTRO	Only 10 of these loci were initially identified from GWAS in two Asian populations (Japanese and Chinese), likely because of smaller sample sizes of these individual GWAS in Asians.
+0	NA	NA	NA	INTRO	It has been demonstrated that combining multiple existing GWAS data using a meta-analysis can increase the statistical power to uncover additional risk loci
+0	Breast and prostate cancer	NA	NA	INTRO	In this study, we performed a large-scale meta-analysis using two existing Asian GWAS data sets to identify novel loci for prostate cancer susceptibility in Asians.
+0	NA	NA	NA	INTRO	In addition, promising single-nucleotide polymorphisms (SNPs) were further evaluated in three independent study populations of Japanese and Chinese descents.
+0	Breast and prostate cancer	NA	NA	INTRO	We report strong evidence for two prostate cancer susceptibility loci at 11p15.4 and 14q23.2.
+0	Breast and prostate cancer	NA	NA	INTRO	These results provide additional insight into the inherited genetic basis of prostate cancer and support the presence of considerable genetic heterogeneity between different ethnic groups
+0	Breast and prostate cancer	NA	NA	RESULTS	The overall study design of the meta-analysis GWAS of prostate cancer is depicted in Fig.
+0	NA	NA	NA	RESULTS	1.
+0	NA	NA	NA	RESULTS	After quality-control analysis in the two original GWAS, 1,583 cases and 3,386 controls from the Japanese GWAS and 1,417 cases and 1,008 controls from the Chinese GWAS were retained for further meta-analysis.
+0	NA	NA	NA	RESULTS	The characteristics of the subjects are summarized in Supplementary Table 1.
+0	NA	NA	NA	RESULTS	After exclusion of rare SNPs that have a minor allele frequency (MAF) less than 5%, a total of 4,550,396 autosomal SNPs were available in both GWAS data sets.
+0	NA	NA	NA	RESULTS	A quantile-quantile (Q-Q) plot revealed a modest inflation of the test statistics (lambda=1.07; Supplementary Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	NA	NA	RESULTS	The meta-analysis identified multiple previously known genomic regions, with the strongest signal at 8q24 (Fig.
+0	NA	NA	NA	RESULTS	2).
+0	Breast and prostate cancer	NA	NA	RESULTS	Among the 100 known prostate cancer risk-associated SNPs, 33 were significant at Padditive<0.05 (Supplementary Table 2)
+0	Breast and prostate cancer	NA	NA	RESULTS	To identify novel prostate cancer susceptibility loci, we first filtered out SNPs that had the P>1 x 10-4 from the meta-analysis or had an opposite direction of association in the two GWAS studies.
+0	NA	NA	NA	RESULTS	A total of 2,045 SNPs remained in the analysis (Supplementary Table 3).
+0	Breast and prostate cancer	NA	NA	RESULTS	We then applied the following criteria to select promising novel SNPs: (a) had low linkage disequilibrium (LD; r2<0.1) with the 100 known prostate cancer risk-associated SNPs; (b) only one SNP with the strongest evidence for association within each LD block was selected; and (c) had not been previously evaluated in follow-up stages of these two individual GWAS.
+0	NA	NA	NA	RESULTS	After these steps, 50 SNPs were identified for further replication analysis (Supplementary Table 4)
+0	NA	NA	NA	RESULTS	For replication, we first genotyped these 50 selected SNPs in an independent Chinese population of 1,664 affected subjects and 1,523 control subjects from Shanghai, China (Replication 1).
+0	NA	NA	NA	RESULTS	One SNP failed in the assay design and four SNPs failed in the genotyping stage because of poor clusters.
+1	NA	NA	rs4749884	RESULTS	Of the remaining 45 SNPs, four SNPs (rs4749884 at 10p14, rs12791447 at 11p15.4, rs75718479 at 12q23.1 and rs58262369 at 14q23.2) showed nominally significant associations at Padditive<0.05 and had the same directions of association as in the GWAS meta-analysis (Supplementary Table 5)
+0	Breast and prostate cancer	NA	NA	RESULTS	We next examined the four significant SNPs in two independent Asian prostate cancer case-control populations, including 1,941 prostate cancer cases and 2,396 controls (Replication 2a, 908 cases and 1,354 controls of Chinese from Nanjing, China, and Replication 2b, 1,033 cases and 1,042 controls of Japanese descent from Multiethnic Cohort (MEC)).
+0	NA	NA	NA	RESULTS	Three of these four SNPs were confirmed in the Nanjing population (Padditive<0.05) and with an effect in the same direction.
+0	NA	NA	NA	RESULTS	However, none of the SNPs was confirmed in the MEC population (Table 1)
+1	Breast and prostate cancer	NA	rs12791447	RESULTS	On the basis of our meta-analysis of all independent populations in this study (GWAS stage and confirmation stages), we found that two SNPs were associated with prostate cancer risk at the genome-wide significance level; Padditive=3.59 x 10-8 for rs12791447 at 11p15.4 and Padditive=6.05 x 10-10 for rs58262369 at 14q23.2.
+1	Breast and prostate cancer	NA	rs12791447	RESULTS	The odds ratios for prostate cancer were 1.23 and 0.78 for the effect allele C of rs12791447 and rs58262369, respectively (Fig.
+0	NA	NA	NA	RESULTS	3).
+0	Breast and prostate cancer	NA	rs4749884	RESULTS	We also identified two loci with suggestive evidence for prostate cancer association, rs4749884 at 10p14 (Padditive=6.68 x 10-6) and rs75718479 at 12q23.1 (Padditive=1.12 x 10-6).
+0	NA	NA	NA	RESULTS	No significant heterogeneity for these four SNPs was observed among different sets of study populations (Pheterogeneity>0.05; Table 1)
+0	aggressive disease	NA	NA	RESULTS	We also investigated the associations of these four SNPs with disease aggressiveness among prostate cancer patients.
+0	Breast and prostate cancer	NA	NA	RESULTS	However, we did not find significant associations with aggressiveness of prostate cancer for these four SNPs (Padditive>0.05; Supplementary Table 6)
+0	Breast and prostate cancer	NA	NA	RESULTS	To investigate the association of prostate cancer risk with these identified genetic loci in other ethnicities, we tested the associations in individuals of European descent using data from Cancer Genetic Markers of Susceptibility.
+0	Breast and prostate cancer	NA	NA	RESULTS	No significant association with prostate cancer risk was found for these four SNPs and other SNPs that are in strong LD with these four SNPs (r2>0.70; Supplementary Table 7)
+1	Breast and prostate cancer	ESR2	rs58262369	RESULTS	In the meta-analysis of GWAS, we identified two novel loci associated with prostate cancer, rs58262369 at 14q23.2 (ESR2; Fig.
+1	NA	PPFIBP2	rs12791447	RESULTS	4a) and rs12791447 at 11p15.4 (PPFIBP2; Fig.
+0	NA	NA	NA	RESULTS	4b).
+0	Breast and prostate cancer	NA	NA	RESULTS	The mRNA expression levels of genes at these two loci were analysed in prostate tumour tissues and normal tissues (Supplementary Table 8).
+1	NA	NA	rs12791447	RESULTS	Examination of rs12791447 using data from Encyclopedia of DNA Elements (ENCODE) revealed significant modification of H3K4me3 (Supplementary Table 9).
+1	NA	PPFIBP2	rs12791447	RESULTS	We also found that rs12791447 was an expression quantitative trait locus (eQTL) for PPFIBP2.
+1	NA	ESR2	rs58262369	RESULTS	However, rs58262369 was not an eQTL for ESR2 or other genes at 14q23.2 (Supplementary Table 10)
+0	Breast and prostate cancer	NA	NA	DISCUSS	In this large-scale association analysis in Asians, we identified two novel prostate cancer susceptibility loci at 11p15.4 and 14q23.2 that reached genome-wide significance level, as well as two additional loci at 10p14 and 12q23.1 with suggestive evidence for association with prostate cancer risk
+0	NA	NA	rs58262369	DISCUSS	It is noted that for two of these four SNPs, rs58262369 at 14q23.2 and rs75718479 at 12q23.1, the genotypes in the two original GWAS were imputed.
+0	NA	NA	NA	DISCUSS	However, the quality of imputation for these two SNPs was high (see Methods).
+0	NA	NA	NA	DISCUSS	Furthermore, we genotyped these two SNPs by the TaqMan assay in 1,500 subjects randomly selected from the Chinese GWAS.
+0	NA	NA	rs58262369	DISCUSS	The concordant rate between imputed and genotyped data was 99.3% for rs58262369 and 99.5% for rs75718479
+1	NA	ESR2	rs58262369	DISCUSS	The SNP rs58262369 at 14q23.2 is located in the 3'-untranslated region (3'-UTR) of the ESR2 gene (also known ESR beta), which encodes a member of the family of oestrogen receptors (Fig.
+0	NA	NA	NA	DISCUSS	4a).
+1	Breast and prostate cancer	ER	NA	DISCUSS	Oestrogen plays a vital role in mammary gland development and is also involved in prostate cancer progression, exerting its biological actions through the oestrogen receptors ESR1 and ESR2 (refs).
+0	NA	ESR2	NA	DISCUSS	ESR2, originally discovered in a rat prostate cDNA library, has highest expression in normal prostate epithelial cells.
+0	benign prostatic hyperplasia	ESR2	NA	DISCUSS	ESR2 knockout mice developed prostatic hyperplasia during the aging process.
+1	Breast and prostate cancer	ESR2	NA	DISCUSS	It has been shown that ESR2 has antiproliferative and pro-differentiation roles in the prostatic epithelium, reducing prostate cancer risk.
+1	Breast and prostate cancer	ESR2	NA	DISCUSS	We also found that ESR2 was upregulated in prostate tumour tissues compared with normal prostate tissues in The Cancer Genome Atlas (TCGA) data (Pt-test=0.028; Supplementary Table 8).
+1	Breast and prostate cancer	ESR2	NA	DISCUSS	However, the magnitude of ESR2 mRNA expression was not high, which should be confirmed via analysis of the expression levels of ESR2 protein in prostate tumour tissues.
+1	Breast and prostate cancer	ESR2	rs1256049	DISCUSS	Several genetic variants in ESR2, including rs1256049, have been demonstrated to contribute to prostate cancer risk.
+0	Breast and prostate cancer	NA	rs1256049	DISCUSS	However, this SNP (rs1256049), which is in weak LD with rs58262369 (r2=0.05), showed no association with prostate cancer in the current study (Padditive=0.149).
+1	NA	NA	rs58262369	DISCUSS	HaploReg prediction revealed that rs58262369 disrupted the motifs of EWSR1-FLI1 and STAT, indicating that it would have a regulatory impact on ESR2 (Supplementary Table 9).
+1	NA	ESR2	rs58262369	DISCUSS	The SNP rs58262369 also maps to a highly conserved sequence in the 3'-UTR of ESR2, which may disturb the regulation of ESR2 by the binding of microRNA-942 predicted by MirSNP.
+1	Breast and prostate cancer	ESR2	rs58262369	DISCUSS	Our eQTL analysis using TCGA data showed no significant association of rs58262369 with ESR2 gene expression (Padditive=0.482) in prostate cancer tissues, nor with any other genes within 500 kb of rs58262369 (Supplementary Table 10).
+1	NA	ESR2	NA	DISCUSS	It is possible that this variant in the 3'-UTR of ESR2 is related with efficiency of translation of the ESR2 protein.
+0	NA	NA	NA	DISCUSS	Further fine-mapping studies are warranted to elucidate the biological role of this association signal at 14q23.2
+1	NA	PPFIBP2	rs12791447	DISCUSS	The SNP rs12791447 at 11p15.4 is located in an intron of the PPFIBP2 gene (Fig.
+0	NA	NA	NA	DISCUSS	4b).
+0	endometrial cancer	PTPRF-interacting protein, binding protein 2	NA	DISCUSS	This gene encodes the PTPRF-interacting protein, binding protein 2 (liprin beta 2), which was differentially expressed in endometrial cancer.
+0	cancers	PPFIBP2	NA	DISCUSS	We also found that the expression level of PPFIBP2 was significantly lower in tumour tissues than in normal tissues in TCGA data set (Pt-test=1.89 x 10-10; Supplementary Table 8).
+0	Breast and prostate cancer	CYB5R2	NA	DISCUSS	Several other genes at this locus, including CYB5R2, EIF3F, NLRP10, OLFML1 and OVCH2, were also found to be significantly expressed in prostate tumours in comparison with normal tissues.
+1	Breast and prostate cancer	PPFIBP2	rs12791447	DISCUSS	In TCGA prostate cancer data, rs12791447 acted as an eQTL for PPFIBP2 and NLRP14, which was consistent with the expression levels of blood-related eQTL results for PPFIBP2 (Supplementary Table 10).
+1	NA	NA	rs12791447	DISCUSS	The GM12878 data from ENCODE suggest that rs12791447 maps to a strong enhancer region marked by the histone modification of H3K4me3 (Supplementary Table 9).
+0	NA	PPFIBP2	NA	DISCUSS	On the basis of above data, we propose that PPFIBP2 is the candidate susceptibility gene involved in the association observed at this locus.
+0	NA	NA	NA	DISCUSS	However, other causal or functional SNPs operating the regulatory mechanisms at this locus cannot be ruled out.
+1	Breast and prostate cancer	NA	rs12791447	DISCUSS	It is noted that rs12791447 is ~530 kb away from two SNPs (rs7126629 and rs7127900) at 11p15.4, which were previously reported to be associated with prostate cancer susceptibility in European and Chinese populations, respectively.
+1	Breast and prostate cancer	NA	rs12791447	DISCUSS	The association of rs12791447 with prostate cancer was not changed after adjusting for either rs7126629 or rs7127900, indicating that it is independent from these two reported SNPs at 11p15.4
+0	NA	NA	rs4749884	DISCUSS	The SNP rs4749884 at 10p14 is in an intergenic region.
+0	NA	MAFK	rs4749884	DISCUSS	ENCODE data indicate that alleles at rs4749884 can disrupt the binding of the transcription factor MAFK, which suppressed the expression of the hemeoxygenase-1 (HO-1) gene induced by transforming growth factor-beta (ref.).
+0	Breast and prostate cancer	NA	rs4749884	DISCUSS	The SNP rs4749884 is 118 kb away from rs7918885, a SNP that was reported to be associated with prostate cancer in a previous GWAS in West African men.
+0	NA	NA	rs4749884	DISCUSS	The SNP rs4749884 is not in LD with rs7918885 (r2=0.002).
+0	Breast and prostate cancer	NA	rs7918885	DISCUSS	Meanwhile, rs7918885 and other SNPs in LD with it were not associated with prostate cancer risk in our meta-analysis, suggesting that multiple causal variants may exist at 10p14 in different ethnicities
+0	Breast and prostate cancer	NA	rs75718479	DISCUSS	The SNP rs75718479 lies at 12q23.1, a region where DNA gain was commonly found in localized prostate tumours of Japanese patients.
+0	NA	rhabdomyosarcoma 2-associated transcript	NA	DISCUSS	This region contains a gene of rhabdomyosarcoma 2-associated transcript (RMST).
+0	NA	rhabdomyosarcoma 2-associated transcript	NA	DISCUSS	RMST is a newly identified long noncoding RNA, which acts as a transcriptional co-regulator of SOX2 and is implicated in neurogenesis.
+0	NA	Rmst	NA	DISCUSS	Recent studies in mouse models have revealed that Rmst was differentially expressed in midbrain dopaminergic neurons in the developing mouse brain.
+0	Breast and prostate cancer	rhabdomyosarcoma 2-associated transcript	NA	DISCUSS	However, the role of RMST in prostate cancer is currently unknown.
+0	Breast and prostate cancer	rhabdomyosarcoma 2-associated transcript	rs75718479	DISCUSS	Further studies are warranted to the correlation between rs75718479 and RMST in the development of prostate cancer
+0	NA	NA	NA	DISCUSS	It should be noted that four SNPs identified in the meta-analysis GWAS were not replicated in the Japanese descent of the MEC study.
+0	NA	NA	NA	DISCUSS	The inconsistent results might be because of the differences of lifestyle factors and environment between Japanese individuals in Japan and in the United States, as well as different genetic and environmental risk factors between Japanese and Chinese.
+0	NA	NA	NA	DISCUSS	Lack of confirmation in the Japanese descent from the MEC population was also reported for SNPs identified in GWAS of Japanese individuals in Japan.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Moreover, we did not observe any significant relationship between these four SNPs and prostate cancer risk in the European men.
+0	NA	NA	NA	DISCUSS	The frequencies of these four SNPs varied among different populations (Supplementary Table 11).
+0	NA	NA	rs58262369	DISCUSS	For example, rs58262369 at 14q23.2 was not polymorphic in the European population.
+0	NA	NA	NA	DISCUSS	Further evaluation in other ethnic groups may be needed
+0	Breast and prostate cancer	NA	NA	DISCUSS	In summary, this study identified two novel susceptibility loci at 11p15.4 and 14q23.2, and two novel loci with suggestive evidence at 10p14 and 12q23.1, which is the largest GWAS to our knowledge on prostate cancer among Asian individuals.
+0	NA	NA	NA	DISCUSS	Further studies of fine-mapping and functional analyses are warranted to identify and characterize the causative variants for prostate tumorigenesis
+0	Breast and prostate cancer	NA	NA	METHODS	The meta-analysis of GWAS in this study was based on two GWAS on prostate cancer in Japan and China.
+0	Breast and prostate cancer	NA	NA	METHODS	The Japanese prostate cancer GWAS included 1,583 cases and 3,386 controls from the BioBank Japan, which was established in the Institute of Medical Science at the University of Tokyo.
+0	Breast and prostate cancer	NA	NA	METHODS	From the BioBank Japan, prostate cancer cases were selected according to the pathological evaluation of biopsy.
+0	NA	NA	NA	METHODS	Among the selected subjects, 229 individuals had a positive family history, and 952 cases had high Gleason grade score.
+0	Osaka-Midosuji Rotary Club	NA	NA	METHODS	Controls in the Japanese GWAS were also selected from BioBank Japan for other diseases as well as healthy subjects from the Osaka-Midosuji Rotary Club (Osaka, Japan).
+0	Breast and prostate cancer	NA	NA	METHODS	The Chinese prostate cancer GWAS comprised 1,417 prostate cancer cases and 1,008 controls who are part of the ChinaPCa (ref.).
+0	NA	NA	NA	METHODS	All recruited subjects self-reported being Han Chinese.
+0	Breast and prostate cancer	NA	NA	METHODS	Cases were collected from local hospitals and were newly diagnosed with pathologically confirmed prostate cancer.
+0	NA	NA	NA	METHODS	Control subjects were healthy individuals recruited from community-based studies or while receiving a physical examination in the hospital.
+0	NA	NA	NA	METHODS	Control subjects were excluded if they had an abnormal prostate-specific antigen level higher than 4.0 ng ml-1 or positive digital rectal examination
+0	NA	NA	NA	METHODS	Three additional study populations (Replications 1, 2a and 2b) were used to validate the suggestive associations from the meta-analysis of GWAS.
+0	NA	NA	NA	METHODS	Individuals in Replications 1 and 2a were Chinese and consisted of 1,664 cases and 1,523 controls from Shanghai and 908 cases and 1,354 controls from Nanjing.
+0	NA	NA	NA	METHODS	Most subjects have been used in previously published association studies.
+0	Breast and prostate cancer	NA	NA	METHODS	Cases were histopathologically confirmed as having prostate cancer, and the controls were all cancer-free males from Shanghai, Nanjing and surrounding areas.
+0	NA	NA	NA	METHODS	Replication 2b was men of Japanese descent from the MEC, a large population-based prospective study including more than 215,000 adults in Hawaii and California.
+0	Breast and prostate cancer	NA	NA	METHODS	The GWAS of prostate cancer in the MEC study included 1,033 cases and 1,042 controls.
+0	Breast and prostate cancer	NA	NA	METHODS	The Cancer Genetic Markers of Susceptibility prostate cancer GWAS was a nested case-control study, including 1,172 cases and 1,157 controls, which was part of the Prostate, Lung, Colon and Ovarian Cancer Screening Trial.
+0	NA	NA	NA	METHODS	All participants provided informed consent.
+0	NA	NA	NA	METHODS	This study was approved by the institutional review boards of the Fudan University, Nanjing Medical University and the University of Tokyo and RIKEN Yokohama Institute
+0	NA	NA	NA	METHODS	The Japanese GWAS was conducted using the Illumina Human610-Quad BeadChip for cases and HumanHap550v3 BeadChip for controls, and the Chinese GWAS was genotyped using the Illumina Human OmniExpress BeadArray.
+0	NA	NA	NA	METHODS	In addition to quality-control procedures performed in previous studies, SNPs with genotyping rate of<95%, MAF<0.05 or P<0.001 in a Hardy-Weinberg Equilibrium test were further removed before imputation analysis.
+0	NA	NA	NA	METHODS	After exclusion of imputed SNPs with MAF<0.05 or information score (INFO)<0.5, 6,268,427 and 4,575,935 SNPs remained for Japanese GWAS and Chinese GWAS, respectively.
+0	NA	NA	NA	METHODS	A total of 4,550,396 SNPs were available in both studies and used for further meta-analysis.
+0	NA	NA	NA	METHODS	We selected all SNPs with P<1.0 x 10-4 for the Replication 1 study.
+0	NA	NA	NA	METHODS	Genotyping for Replication 1 was conducted using the Sequenom MassARRAY platform, and genotyping for Replication 2a was conducted using the TaqMan assays.
+0	NA	NA	NA	METHODS	The primer and probe sequences are shown in Supplementary Table 12.
+0	NA	NA	NA	METHODS	On each 96-well plate, two negative controls (water) and two blinded duplicates were included as quality-control samples.
+0	NA	NA	NA	METHODS	Genotyping was performed independently by two researchers in a blinded manner.
+0	NA	NA	NA	METHODS	For in silico replication of the MEC study, genotyping of the subjects was conducted using the Illumina Human660W bead array
+0	NA	NA	NA	METHODS	Genomic annotations on the index SNPs and surrogates were identified using the ENCODE data.
+0	NA	NA	NA	METHODS	The threshold of LD was r2>0.80 on the basis of Asians from the 1000 Genomes Project.
+0	allergy	NA	NA	METHODS	HaploReg 2.0 (http://www.broadinstitute.org/mammals/haploreg/haploreg.php/) was used to query the histone marks, DNase I hypersensitivity, the binding of transcription factor and motif instances.
+0	NA	NA	NA	METHODS	RegulomeDB (http://regulome.stanford.edu/) was then used to explore potential functional annotations for the genomic regions surrounding the index SNPs.
+0	NA	NA	NA	METHODS	The high score of RegulomeDB indicated a relatively high degree of evidence for potential regulatory function.
+0	NA	NA	NA	METHODS	Furthermore, SNPs in 3'-UTR of gene were predicted using MirSNP (http://cmbi.bjmu.edu.cn/mirsnp) to test the changes in microRNA-binding sites
+0	NA	NA	NA	METHODS	We downloaded the mRNA expression profiles from TCGA project (http://cancergenome.nih.gov/) by RNA-Seq (level 3).
+0	Breast and prostate cancer	NA	NA	METHODS	A total of 497 prostate tumour tissues and 115 normal prostate tissues were available on 10 January 2015.
+0	NA	NA	NA	METHODS	The reads per kilobase per million was used to quantify of gene expression levels.
+0	NA	NA	NA	METHODS	The expression levels of mRNA were normalized by using log2 transformation, and genes with zero value or missing data in any sample were removed.
+0	cancers	NA	NA	METHODS	Differential expression of genes for each gene was measured between tumour and normal tissues
+0	Breast and prostate cancer	NA	NA	METHODS	For each individual in the TCGA data, we also obtained level 2 SNP data from prostate tumour tissues, normal tissues and blood, which were genotyped using Affymetrix SNP Array 6.0 chips.
+0	NA	NA	NA	METHODS	SNPs within 500 kb of index SNP were extracted from genotyped or imputed genotypes.
+0	cancers	NA	NA	METHODS	The eQTL analysis was measured only in tumour tissues with mRNA expression.
+0	NA	NA	NA	METHODS	We also queried the correlation between variants and candidate gene expression from the Blood eQTL Brower
+0	NA	NA	NA	METHODS	SNPs that passed quality control were imputed on the basis of data from the 1000 Genomes Project (version 3, March 2012 release) using IMPUTE2 (ref.).
+0	NA	NA	NA	METHODS	Only imputed genotypes of high quality (INFO>0.50) were included in further association analysis.
+0	NA	NA	NA	METHODS	The associations in Japanese GWAS and Chinese GWAS were first analysed under an additive model using PLINK1.07.
+0	NA	NA	NA	METHODS	The odds ratio, 95% CI, the corresponding s.e.
+0	NA	NA	NA	METHODS	and P value for each SNP were obtained from the logistic regression model.
+0	NA	NA	NA	METHODS	The meta-analysis of two GWAS data was performed using a fixed-effect model and weighted by the estimated SE using GWAMA (ref.).
+0	NA	NA	NA	METHODS	The heterogeneity of studies was tested by the Cochran's Q statistic and I2.
+0	NA	NA	NA	METHODS	If the test of heterogeneity existed (P<0.01), the random-effect model was provided.
+0	NA	NA	NA	METHODS	The LD structure (r2) was calculated using Haploview 4.2 (ref.).
+0	cancers	NA	NA	METHODS	Expressed differences in each gene between tumours and normal samples were measured by the Student's t-test.
+0	NA	NA	NA	METHODS	The relationships of SNP genotypes with gene expression levels were evaluated using a linear regression model
+0	NA	NA	NA	METHODS	How to cite this article: Wang, M. et al.
+0	Breast and prostate cancer	NA	NA	METHODS	Large-scale association analysis in Asians identifies new susceptibility loci for prostate cancer.
+0	NA	Nat	NA	METHODS	Nat.
+0	NA	NA	NA	METHODS	Commun.
+0	NA	NA	NA	METHODS	6:8469 doi: 10.1038/ncomms9469 (2015)
+0	Breast and prostate cancer	NA	NA	FIG	The stage 1 included two GWAS from the Japanese prostate cancer GWAS and the Chinese prostate cancer GWAS.
+0	NA	NA	NA	FIG	The stage 2 consisted of samples from Shanghai.
+0	NA	NA	NA	FIG	The stage 3 included individuals in two studies from Nanjing and MEC
+0	NA	NA	NA	FIG	The x axis shows the chromosomal position and the y axis shows the -log10 Padditive value
+1	NA	NA	rs4749884	FIG	(a) rs4749884 at 10p14, (b) rs12791447 at 11p15.4, (c) rs75718479 at 12q23.1 and (d) rs58262369 at 14q23.2.
+0	NA	NA	NA	FIG	The circle and horizontal lines represent study-specific odds ratio (OR) and 95% confidence interval (CI).
+0	NA	NA	NA	FIG	The diamond shows the summary OR and 95% CI
+1	NA	NA	rs58262369	FIG	(a) rs58262369 at 14q23.2 and (b) rs12791447 at 11p15.4.
+0	NA	NA	NA	FIG	Top, association results (-log10 P) of meta-analysis for each SNP are shown within 500 kb of the index SNP (purple circle).
+0	NA	NA	NA	FIG	The recombination rate across each region was estimated from the 1000 Genomes Project CHB and JPT populations (version 3, March 2012 release).
+0	NA	NA	NA	FIG	Bottom, the LD structure (r2) was derived from Han Chinese in Beijing (CHB) and Japanese in Tokyo (JPT) genotypes in Haploview 4.2, and the colour intensity of each SNP represents the strength of LD.
+0	NA	NA	NA	FIG	Physical position are based on the NCBI database, build 37

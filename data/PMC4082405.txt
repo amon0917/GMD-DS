@@ -1,0 +1,165 @@
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Only a minority of the genetic component of prostate cancer (PrCa) risk has been explained.
+0	NA	PSA	NA	ABSTRACT	Some observed associations of single nucleotide polymorphisms (SNPs) with PrCa might arise from associations of these SNPs with circulating prostate specific antigen (PSA) because PSA values are used to select controls
+0	Breast and prostate cancer	PSA	NA	ABSTRACT	We undertook a genome-wide association study (GWAS) of screen detected PrCa (ProtecT 1146 cases and 1804 controls); meta-analysed the results with those from the previously published UK Genetic Prostate Cancer Study (1854 cases and 1437 controls); investigated associations of SNPs with PrCa using either 'low' (PSA <0.5ng/ml) or 'high' (PSA >=3ng/ml, biopsy negative) PSA controls; and investigated associations of SNPs with PSA
+0	NA	NA	NA	ABSTRACT	The ProtecT GWAS confirmed previously reported associations of PrCa at 3 loci: 10q11.23, 17q24.3 and 19q13.33.
+0	NA	NA	NA	ABSTRACT	The meta-analysis confirmed associations of PrCa with SNPs near 4 previously identified loci (8q24.21,10q11.23, 17q24.3 and 19q13.33).
+0	NA	PSA	rs1512268	ABSTRACT	When comparing PrCa cases with low PSA controls, alleles at genetic markers rs1512268, rs445114, rs10788160, rs11199874, rs17632542, rs266849 and rs2735839 were associated with an increased risk of PrCa, but the effect-estimates were attenuated to the null when using high PSA controls (p for heterogeneity in effect-estimates<0.04).
+0	NA	PSA	NA	ABSTRACT	We found a novel inverse association of rs9311171-T with circulating PSA
+0	NA	PSA	NA	ABSTRACT	Differences in effect estimates for PrCa observed when comparing low vs. high PSA controls, may be explained by associations of these SNPs with PSA
+0	NA	NA	NA	ABSTRACT	These findings highlight the need for inferences from genetic studies of PrCa risk to carefully consider the influence of control selection criteria
+0	Breast and prostate cancer	NA	NA	INTRO	Prostate cancer (PrCa) is the leading cause of cancer in men in developed countries, accounting for 25% of new cancer cases.
+0	cancers	PSA	NA	INTRO	Prostate-specific antigen (PSA) testing is currently the most widely used screening test for PrCa, but it is limited because current thresholds defining raised levels (typically circulating PSA levels > 3 or 4 ng/ml) do not distinguish clinically important from indolent cancer, and lower levels do not exclude PrCa
+0	NA	NA	NA	INTRO	Epidemiological studies suggest a significant genetic component in the aetiology of the disease, but only 30% of the estimated heritability has so far been explained, highlighting the need for more studies to identify the full genetic profile of PrCa.
+0	NA	NA	NA	INTRO	The majority of genome-wide association studies (GWAS) of PrCa have been based on clinically-detected cases, with some studies specifically focusing on young age at onset, and/or familial or aggressive PrCa (i.e.
+0	metastases	PSA	NA	INTRO	pathological stage T3/T4,N+,M+, Gleason score >= 7, grade III, metastases, androgen ablation therapy, or PSA at least 10-50 ng/ml).
+0	NA	PSA	NA	INTRO	"Most studies have compared cases to controls that have been selected on the basis of PSA levels under a certain threshold; including some studies which have used controls with extremely low PSA levels (<0.5ng/ml; ""supernormal"" controls)."
+0	NA	PSA	NA	INTRO	Such control selection strategies can make it difficult to interpret associations between a genetic variant and disease, since such associations may result from a relationship between the variant and PSA levels rather than PrCa.
+0	NA	PSA	NA	INTRO	A limited number of GWAS have attempted to clarify this relationship by analysing associations of PSA levels with genetic markers identified using PSA screened controls.
+1	Breast and prostate cancer	PSA	rs6869841	INTRO	It has been shown that SNPs at 13 known prostate cancer susceptibility loci (rs6869841, rs1270884, rs17632542, rs2242652, rs6983561, rs620861, rs10090154, rs7837688, rs12500426, rs7127900, rs10993994, rs2659056, rs2735839, rs5945619) are also associated with PSA concentration in blood in controls.
+0	NA	PSA	NA	INTRO	As controls were defined by a PSA cut-off, however, associations between genotypes and the full distribution of PSA in men without PrCa could not be assessed.
+0	NA	PSA	NA	INTRO	Only one study specifically investigated the relationship between genetic variants and circulating PSA level in men without detected PrCa.
+0	cancers	NA	NA	INTRO	The Prostate Testing for cancer and Treatment study (ProtecT) contributed replication data to this study for the significant SNPs identified in the discovery GWAS.
+0	NA	PSA	NA	INTRO	Genome wide significant associations between PSA levels and markers at 6 different loci were reported
+0	NA	NA	NA	INTRO	Our investigation had three aims.
+0	NA	NA	NA	INTRO	Firstly, to conduct a GWAS in a population-based screen detected PrCa population (ProtecT).
+0	Breast and prostate cancer	NA	NA	INTRO	Secondly to conduct a meta-analysis to combine the results of the ProtecT GWAS with the previously published UK Genetic Prostate Cancer Study (UKGPCS).
+0	cancers	PSA	NA	INTRO	Thirdly, to investigate whether previously identified associations of genetic variants with PrCa could be explained by associations with PSA levels, rather than cancer per se.
+0	NA	PSA	NA	INTRO	"For the third aim we: i) identified previously published PrCa risk single nucleotide polymorphisms (SNPs) and compared their association with PrCa in two case-control studies nested within ProtecT; the first compared PrCa cases (diagnosed following a PSA >=3 ng/ml and a positive biopsy) with 'low' PSA controls (PSA <0.5 ng/ml) and the second compared PrCa cases with 'high' PSA controls (PSA >=3 ng/ml and a negative biopsy); our hypothesis was that if the genetic marker is associated with PSA level and not PrCa, then the effect estimates would be greatest when using the low PSA controls and close to the null when using the high PSA controls; and ii) examined the relationship of each of the identified genetic markers with PSA level as a continuous variable in controls selected independently of PSA level (""unrestricted"" controls), including those with PSA levels >=3 ng/ml who were biopsy negative, as well as those with levels below 3 ng/ml"
+0	NA	NA	NA	METHODS	Two study populations were used in this analysis.
+0	cancers	NA	NA	METHODS	Firstly participants from the Prostate Testing for cancer and Treatment (ProtecT) study, and secondly the UK Genetic Prostate Cancer Study stage I (UKGPCS), both of European ancestry.
+0	NA	NA	NA	METHODS	The ProtecT study recruited all men aged 50-69 years between 2001-2009 from 337 general practices in nine UK centres (Birmingham, Bristol, Cambridge, Cardiff, Edinburgh, Leeds, Leicester, Newcastle and Sheffield).
+0	NA	PSA	NA	METHODS	All men were invited to a prostate check clinic and were offered a PSA test: approximately 110,000 attended.
+0	NA	PSA	NA	METHODS	For those with a PSA level of >=3ng/ml, a transrectal ultrasound guided prostate biopsy was conducted.
+0	cancers	NA	NA	METHODS	All detected tumours were histologically confirmed and assigned a Gleason score by a specialist uropathologist following a standard proforma.
+0	NA	NA	NA	METHODS	Tumours were categorised as low (score <7), mid (score=7) or high (score>7) grade.
+0	cancers	TNM	NA	METHODS	Clinical staging was assigned using the TNM system as either localised (T1-T2) or advanced (T3-T4) (although most in the latter category were locally advanced and few tumours had metastasized distally).
+0	NA	NA	NA	METHODS	Approximately 3000 men were diagnosed with PrCa between 2001 and 2009.
+0	NA	NA	NA	METHODS	All men diagnosed with PrCa after attending a prostate check clinic before end November 2006 (and their matched controls) were eligible for inclusion in the current ProtecT GWAS (n=1215 cases)
+0	NA	PSA	NA	METHODS	Men with no evidence of PrCa were eligible for selection as controls (approximate n=107,000); these were men with a PSA<3ng/ml or a PSA>=3ng/ml with the most recent biopsy being negative.
+0	NA	NA	NA	METHODS	Controls were stratum matched to the genotyped PrCa cases by age, GP practice and calendar time period, in two distinct rounds of matching.
+0	NA	NA	NA	METHODS	"In the first round a random sample of 6 controls per case were selected from all eligible controls in each age and GP practice strata (""unrestricted"" controls); as the prostate check clinics were completed in one GP practice before moving to the next, matching on GP practice also matched on calendar time period."
+0	NA	PSA	NA	METHODS	The second round randomly selected 1 control with a PSA<0.5ng/ml (and with whole blood collected) per case from the same age and GP practice strata as the index case ('supernormal controls').
+0	NA	NA	NA	METHODS	A total of 1925 matched controls were eligible for inclusion in the current GWAS.
+0	NA	NA	NA	METHODS	Trent Multicenter Research Ethics Committee (MREC) approved the ProtecT study (MREC/01/4/025) and the associated ProMPT study which collected biological material (MREC/01/4/061), and written informed consent was obtained
+0	NA	NA	NA	METHODS	The UKGPCS (stage I) dataset has been previously described.
+0	NA	NA	NA	METHODS	Briefly the cases (n=2017) were clinically detected and selected if the man had a diagnosis at <=60 years of age or a first/second degree family history of PrCa.
+0	NA	NA	NA	METHODS	"Self-reported ""non-white"" men were excluded, as were those who were diagnosed through asymptomatic screening."
+0	NA	PSA	NA	METHODS	UKGPCS controls (total n = 1893) were solely selected from men in the ProtecT study who had a PSA <0.5ng/ml.
+0	NA	NA	NA	METHODS	In the current meta-analysis, we excluded from the UKGPCS results those men who were in the ProtecT GWAS control series described above (n=456) so that the populations in the pooled analysis were independent samples (Figure 1)
+0	NA	NA	NA	METHODS	The genotyping was performed at the Center National de Genotypage, Evry, France using the Illumina Human660W-Quad_v1_A array (Illumina, Inc., San Diego, CA).
+0	NA	NA	NA	METHODS	Quality control measures included exclusions for sex-mismatches, minimal (<0.325) or excessive heterozygosity (>0.345), cryptic relatedness as estimated by proportion of loci identical by descent (IBD>0.1), and disproportionate levels of individual missingness (>3%).
+0	NA	NA	NA	METHODS	Individuals were then checked for evidence of population stratification by multidimensional scaling analysis and compared with HapMap II (release 22) European descent (CEU), Han Chinese (CHB), Japanese (JPT) and Yoruba (YRI) reference populations.
+0	NA	NA	NA	METHODS	Individuals showing evidence of non-European ancestry were removed.
+0	NA	NA	NA	METHODS	SNPs with a minor allele frequency of below 1%, a call rate of <95% or evidence for violation of Hardy-Weinberg equilibrium (p<5 x 10-7) were discarded
+0	NA	NA	NA	METHODS	Imputation of autosomal genotypic data used Markov Chain Haplotyping software (MACH v.1.0.16) and phased haplotype data from CEU individuals (HapMap release 22, Phase II NCBI B36, dbSNP 126) on 514,432 autosomal SNPs.
+0	NA	NA	NA	METHODS	All SNPs with poor imputation quality (r2 hat <0.3) were removed.
+0	NA	NA	NA	METHODS	The final working dataset included 2950 individuals (cases n=1146, controls n=1804).
+0	NA	PSA	NA	METHODS	"A total of 1272 controls were included from the first round of ""unrestricted"" control selection (PSA <0.5ng/ml n=238; PSA >=0.5 and PSA<3ng/ml n=941; PSA>=3ng/ml n=93) and a further 532 from the second round (""supernormal"" control selection)"
+0	NA	NA	NA	METHODS	This has been reported elsewhere.
+0	NA	NA	NA	METHODS	Briefly genotypes were generated using the Illumina Infinium HumanHap550 array, and we only used genotypes with a call rate of >97%.
+0	NA	NA	NA	METHODS	Related samples and those with Asian/African ancestry were excluded.
+0	NA	NA	NA	METHODS	After exclusions, 1,854 cases and 1,437 controls (independent of ProtecT - see Figure 1) were used in the current meta-analysis
+0	NA	NA	NA	METHODS	The statistical analysis was undertaken in four stages (see Figure 2).
+0	NA	NA	NA	METHODS	In the first stage, a genome-wide association analysis was performed on the ProtecT samples using the software package MACH2DAT, employing a logistic regression model based on an expected allelic dosage model for SNPs.
+0	NA	NA	NA	METHODS	Associations between each SNP and disease were assessed by a Wald test and a p-value of < 5 x 10-8 was considered genome-wide significant.
+0	NA	NA	NA	METHODS	All estimates are reported in the direction of the risk allele
+0	NA	NA	NA	METHODS	In the second stage, we meta-analysed the top SNPs identified in ProtecT with the UKGPCS dataset.
+0	NA	NA	NA	METHODS	A total of 381 SNPs reaching a threshold for suggestive significance of 5 x 10-5 in the ProtecT GWAS were included in the meta-analysis.
+0	NA	NA	NA	METHODS	The threshold level of 5 x 10-5 was a pragmatic choice, based on similar thresholds for suggestive significance cited in the literature, because of the relatively small sample size in ProtecT.
+0	NA	NA	NA	METHODS	Using a fixed effect inverse variance model, the beta-coefficients and standard errors from ProtecT and UKGPCS were combined using the metan command in STATA.
+0	NA	NA	NA	METHODS	A p-value of 5 x 10-8 was used to identify genome-wide significant SNPs in the meta-analysis.
+0	NA	NA	NA	METHODS	Heterogeneity between the ProtecT and UKGPCS studies was evaluated using Cochran's Q statistic and the I2 value.
+0	NA	NA	NA	METHODS	The two studies had the same strand orientation and used the same effect alleles.
+0	NA	NA	NA	METHODS	Associations showing moderate-high levels of heterogeneity (I2>50) were investigated further to determine whether the heterogeneity could be explained by the difference in control or case populations used in ProtecT and UKGPCS.
+0	NA	PSA	NA	METHODS	We did this in two stages: first, we used only the low PSA (<0.5 ng/ml) controls in ProtecT to generate new effect estimates and re-ran the meta-analysis for those SNPs showing moderate-high levels of heterogeneity in the original analysis; second, for those SNPs which still showed moderate-high levels of heterogeneity, we restricted the ProtecT cases to include only young cases (<=60 years of age) and/or those with a family history and re-ran the meta-analysis
+0	NA	PSA	NA	METHODS	"In stage 3 we investigated how the choice of controls in case-control GWAS studies may have impacted on associations of SNPs with PrCa, using two control populations from the ProtecT study: 770 low PSA controls (PSA <0.5 ng/ml, from both the ""unrestricted"" control selection, n=238, and ""supernormal"" control selection, n=532); and 93 'high' PSA controls (PSA >=3ng/ml)."
+0	NA	PSA	NA	METHODS	We also did a sensitivity analysis relaxing the 'high' PSA control threshold to a PSA level >= 2ng/ml, resulting in 250 'high' PSA controls.
+0	NA	NA	NA	METHODS	We did this in order to increase power and move our high control population towards a more general population.
+0	NA	PSA	NA	METHODS	We generated a list of SNPs to be tested by downloading all published SNPs associated with both PrCa risk and PSA level from the catalogue of Published Genome-wide Association Studies (http://www.genome.gov/gwastudies/: downloaded 21/11/2012).
+0	NA	NA	NA	METHODS	We supplemented this list with additional SNPs associated with PrCa in a recent meta-analysis, resulting in a total of 83 SNPs.
+0	NA	NA	rs7210100	METHODS	Using this list we extracted the individual genotypic data for all participants in our ProtecT dataset, although two SNPs were neither genotyped nor imputed (rs7210100 and rs16902094).
+0	NA	NA	NA	METHODS	Using the genotypic data we generated effect estimates for each SNP using multinomial logistic regression, where each control group (low and high) was compared to cases separately (Figure 2).
+0	NA	NA	NA	METHODS	To test the null hypothesis, that there was no difference between the two control groups when used to estimate the odds ratios for the associations of SNPs with PrCa, we carried out a separate logistic regression model that tested the association of each SNP with control type (low vs. high); this is same as testing whether the ratio of odds ratios using the two control groups were equivalent (i.e.
+0	NA	NA	NA	METHODS	equal to 1), as the base case group would be cancelled out (Figure 2)
+0	NA	PSA	NA	METHODS	"Finally we conducted a regression analysis of SNPs on PSA level within the ""unrestricted"" control population (controls selected independent of PSA level)."
+0	NA	PSA	NA	METHODS	PSA values were log-transformed to approximate a normal distribution.
+0	NA	PSA	NA	METHODS	To account for the multiple comparisons between PSA levels and SNP markers, we only highlight findings which showed evidence of an association in both the stratified analysis and a complementary association in the regression analysis
+0	NA	PSA	NA	METHODS	The anti-log of the beta was taken to estimate the percentage change in PSA level by increasing allele dose.
+0	NA	NA	NA	METHODS	In order to incorporate the uncertainty of the imputation process, expected allelic dosage data were used for the analysis.
+0	NA	NA	NA	METHODS	Genotypic dosages are the expected number of copies of an allele which ranges from 0-2.
+0	NA	NA	NA	METHODS	For genotyped SNPs the exact number of copies of an allele is known, but for imputed SNPs the estimate maybe less precise
+0	NA	NA	NA	RESULTS	The study characteristics of those individuals (cases n=1146, controls n=1804) included in the ProtecT GWAS are presented in Supplementary Table 1.
+0	NA	NA	NA	RESULTS	Supplementary Figure 1 shows the quantile-quantile (Q-Q) plot of the distribution of test statistics for comparison of genotype frequencies in cases versus controls.
+0	NA	NA	NA	RESULTS	The lambda inflation factor was 1.025.
+0	NA	NA	NA	RESULTS	In the GWAS, 381 SNPs were associated with PrCa at P<5 x 10-5 (Supplementary Figure 2 and Supplementary Table 2).
+1	NA	NA	rs10993994	RESULTS	We detected a genome-wide significant association (P<5 x 10-8) between PrCa and SNPs at 3 previously identified loci: 10q11.23 (rs10993994), 17q24.3(rs7222314) and 19q13.33(rs1058205) (Table 1 and Locus Zoom plots in Supplementary Figures 3-5)
+0	NA	NA	NA	RESULTS	All SNPs at P<5 x 10-5 in ProtecT were meta-analysed with results from the UKGPCS.
+0	NA	NA	NA	RESULTS	The total number of individuals included was 6241 (cases: ProtecT n=1146, UKGPCS n= 1854; controls: ProtecT n=1804, UKGPCS n=1437).
+0	NA	NA	NA	RESULTS	A total of 175 SNPs reached genome wide significance (p < 5x10-8) for an association with PrCa in the meta-analysis and were all located in or near genes across 4 previously identified loci (Table 2), with 6 independent signals.
+0	NA	NA	rs1447295	RESULTS	There was evidence of significant heterogeneity between the studies for the rs1447295 (8q24.21) marker (I2=86.1%, p-value for heterogeneity = 0.01).
+1	NA	NA	rs6983267	RESULTS	There was also evidence of moderate-high levels of heterogeneity for rs6983267, rs10993994 and rs17632542.
+1	NA	PSA	rs6983267	RESULTS	The heterogeneity of rs6983267, rs10993994 and rs17632542 was greatly attenuated when the analysis was repeated using the ProtecT effect estimates from a restricted control population (low PSA controls <0.5 ng/ml) (Supplementary table 3).
+0	NA	NA	rs1447295	RESULTS	The heterogeneity observed for rs1447295, however, remained high (I2=83.1%, p-value for heterogeneity = 0.01).
+0	NA	PSA	NA	RESULTS	When the analysis was repeated using ProtecT effect estimates based on young and/or familial cases and low PSA controls, the heterogeneity was only slightly reduced and remained statistically significant (I2= 78%, p-value for heterogeneity = 0.03)
+0	NA	PSA	NA	RESULTS	Of the 81 SNPs examined, SNPs showing evidence of heterogeneity (p < 0.05) in effect estimates quantifying the difference in risk between cases and low or high PSA controls, and/or SNPs that showed at least nominal association with PSA levels in unrestricted controls (p < 0.05) are shown in Table 3.
+0	NA	PSA	rs1512268	RESULTS	When comparing cases with low PSA controls, alleles at the genetic markers rs1512268 (8p21.2), rs445114 (8q24.21), rs10788160 (10q26.12), rs11199874 (10q26.12), rs17632542 (19q13.33), rs266849 (19q13.33) and rs2735839 (19q13.33) were strongly associated with an increased risk of PrCa (all p<=0.01), with odds ratios ranging from 1.24 to 2.73.
+0	NA	PSA	NA	RESULTS	The effect-estimates, however, were attenuated to the null when using high PSA controls (p-values for heterogeneity between estimates all <0.04).
+0	NA	PSA	rs17632542	RESULTS	"There was also some evidence of associations of these SNPs with PSA levels in the ""unrestricted"" control population (in particular, rs17632542 (19q19.33) associated with a 32% increase in PSA per allele), which suggests that the difference observed in the stratified analysis maybe explained by an association of these SNPs with PSA level."
+0	NA	PSA	rs445114	RESULTS	"Only associations of the following SNPs with PSA levels were statistically significant (P<=0.05) in the ""unrestricted"" control population: rs445114, rs17632542, rs2735839 and rs266849."
+0	NA	PSA	rs3850699	RESULTS	"A further SNP (rs3850699) showed a similar association with PSA, with the effect estimate attenuating towards the null in the high PSA controls, but in the ""unrestricted"" control population the allele only increased PSA levels by 1% (p=0.73)"
+1	NA	PSA	rs7611694	RESULTS	There was also evidence that a further six SNP alleles (rs7611694, rs6869841, rs1983891, rs6983267, rs10993994 and rs9600079) were associated with increasing circulating PSA level (p<0.05), and that the use of high PSA controls attenuated effect estimates of these SNPs with PrCa towards the null.
+0	NA	NA	NA	RESULTS	The difference in estimates, however, was not significant (all p-values>0.4).
+1	NA	PSA	NA	RESULTS	Relaxing the high PSA threshold to >=2 ng/ml, we observed a statistically significant difference when comparing the estimates generated using low vs. high PSA controls for rs6869841-T (p=0.01) and rs10993994-T (p=0.04) (Supplementary table 4)
+0	NA	PSA	rs9311171	RESULTS	The T-allele at 3p22.2 (rs9311171) was associated with a more pronounced increase in risk of PrCa when cases were compared with high PSA controls (79% increase) as opposed to low PSA controls (7% increase) (p-value for heterogeneity = 0.01).
+0	NA	PSA	NA	RESULTS	There was also evidence of an association between the rs9311171-T allele and decreased PSA levels (p=0.035).
+0	NA	PSA	rs4775302	RESULTS	In the sensitivity analysis (high PSA controls >=2ng/ml), rs4775302 (15q21.1) was associated with a larger increase in risk of PrCa when cases were compared to the high PSA controls (29% increase), as opposed to the low PSA controls (2% increase) (p-value for heterogeneity=0.03) (Supplementary table 4).
+0	NA	PSA	NA	RESULTS	"This was supported by the regression analysis of PSA in the ""unrestricted"" control population, which showed an association in the opposite direction (5% decrease p=0.09)"
+1	NA	MSMB	rs10993994	DISCUSS	Our GWAS and meta-analysis replicate previous findings for the following loci: 10q11.23 (rs10993994 - MSMB), 17q24.3 (rs7222314 - CALM2P1 - SOX9) and 19q13.33(rs1058205 - KLK3) in the ProtecT GWAS; and 8q24.21 (rs12682344,rs6983267 and rs1447295 - intergenic), 10q11.23 (rs10993994 - MSMB), 17q24.3 (rs4793529 - CALM2P1 - SOX9)and 19q13.33 (rs17632542 -KLK3) in the meta-analysis.
+0	NA	PSA	NA	DISCUSS	We also demonstrated a novel association of one SNP with circulating PSA level: rs9311171-T (inversely associated with PSA).
+0	NA	MIR26A1	rs9311171	DISCUSS	The allele at the genetic marker rs9311171 is located near a microRNA (MIR26A1) and a protein linked to oncogenesis (CTDSPL).
+0	NA	PSA	rs9311171	DISCUSS	This SNP (rs9311171) had a larger positive association with PrCa when cases were compared with high PSA, as opposed to low PSA controls.
+0	NA	PSA	NA	DISCUSS	This suggests that this marker is directly associated with both PSA level and PrCa risk
+0	NA	NA	NA	DISCUSS	We also found evidence that the association of PrCa risk of seven other SNPs at loci 8p21.2, 10q26.12, and 19q13.33 could be confounded by the variant-PSA association(rs1512268-T, rs10788160-A, rs445114-T, rs11199874-A, rs17632542-T, rs2735839-G and rs266849-A).
+0	NA	NA	NA	DISCUSS	The association between PrCa and the respective SNP allele was present in the comparison of cases with low-PSA controls, but this association disappeared when compared to high-PSA controls.
+0	NA	PSA	NA	DISCUSS	"There was also evidence of associations between these SNPs and PSA levels in the ""unrestricted"" control population."
+0	NA	PSA	NA	DISCUSS	Associations of rs1512268-T, rs10788160-A and rs11199874-A with PSA levels were only statistically significant (p<0.05) in the stratified analysis.
+0	NA	PSA	NA	DISCUSS	Whilst associations of SNPs with PSA levels were not statistically significant in the regression analysis, the direction of the effect provides some support for the conclusion that these SNP alleles are associated with increased circulating PSA level.
+0	NA	PSA	NA	DISCUSS	Eeles et al (2009) and Gudmundsson et al(2010) previously observed a positive association of PSA with rs1512268-T (near NKX3.1) and rs10788160-A (FGFR2), respectively.
+0	NA	PSA	rs445114	DISCUSS	The allele at the genetic marker rs445114 (intergenic) was previously shown to have a positive association with PSA level, albeit non-genome wide significant (p=1.27 x 10-2).
+0	NA	PSA	rs620861	DISCUSS	This is consistent with the findings of Al Olama et al (2009), who found that a SNP (rs620861) in strong linkage disequilibrium with rs445114 was positively associated with PSA level (p=4.8 x 10-8).Whilst rs11199874-A has not previously been tested for a relationship with PSA, it is in strong linkage disequilibrium with rs10788160-A (r2=0.94) (FGFR2), which has been shown to be associated with increasing PSA levels.
+0	NA	PSA	NA	DISCUSS	Our analysis suggests that rs10788160-A is associated with higher PSA levels, whilst rs10788160-G is associated with lower levels.
+0	NA	NA	NA	DISCUSS	A previous study reported a positive association between rs11199874-G and PrCa.
+0	NA	PSA	NA	DISCUSS	This association could be driven by the large proportion (>50%) of high PSA (4-10 ng/ml) controls used rather than reflecting a true association because this high PSA enriched control sample is likely to have a higher proportion of individuals with the allele rs11199874-A; this could in turn account for the positive association of PrCa with rs11199874-G (the opposite allele to rs11199874-A).
+0	NA	PSA	NA	DISCUSS	Two markers, in strong linkage disequilibrium (rs17632542-T and rs2735839-G), located near the kallikrein-related peptidase protein coding genes, have previously been observed to be positively associated with PSA level.
+0	NA	NA	rs266849	DISCUSS	SNP rs266849 is also located near, but is independent of this set of PSA- associated proteins; a previous study reported no association of rs266849 with PSA in controls with a PSA <10ng/ml.
+0	NA	PSA	NA	DISCUSS	When we reduced our threshold for defining high PSA controls (PSA>=2 ng/ml) in the stratified analysis, we observed similar findings in the same direction to those that were found to be significant using the higher PSA threshold (PSA>=3ng/ml).
+0	NA	PSA	NA	DISCUSS	In addition, in this sensitivity analysis three other SNPs were shown to be associated with PSA
+0	NA	PSA	NA	DISCUSS	Our analysis suggests that the selection of controls for GWAS below a certain PSA threshold results in associations with PrCa, when the actual association is with PSA level (e.g.
+0	NA	NA	rs6869841	DISCUSS	rs6869841).
+0	NA	NA	NA	DISCUSS	Additionally, the selection of these controls can lead to the masking of a PrCa association (e.g.
+0	NA	NA	rs9311171	DISCUSS	rs9311171).
+0	NA	PSA	NA	DISCUSS	To avoid these difficulties, an optimal design for a GWAS would be to select controls who have PSA levels at or above the threshold for biopsy, and who are biopsy negative.
+0	NA	PSA	NA	DISCUSS	These criteria ensure that the cases and controls are comparable in terms of PSA level and therefore associations of SNP markers with PrCa are not confounded by associations with PSA
+0	cancers	PSA	NA	DISCUSS	This study was based on a population sample of men who underwent PSA testing, providing findings relevant to screen-detected cancer, and controls that were not selected according to PSA level.
+0	NA	NA	NA	DISCUSS	We also conducted a meta-analysis using 6241 individuals (3000 cases and 3241 controls), but we were only able to confirm previous GWAS findings rather than show novel associations.
+0	NA	NA	NA	DISCUSS	There was significant heterogeneity between the ProtecT and UKGPCS studies for associations of markers at 8q24.21, 10q11.23 and 19q13.33 with PrCa.
+0	NA	NA	NA	DISCUSS	These differences were partly explained by the difference in control ascertainment between studies (Supplementary table 3).
+0	NA	NA	rs1447295	DISCUSS	We were, however, unable to explain the substantial heterogeneity (I2=78%) for rs1447295.
+0	NA	PSA	NA	DISCUSS	We had a relatively small number of high PSA controls (n=93), so our stratified analysis will have been underpowered, explaining why we were unable to detect some previously published associations of SNPs with PSA.
+1	NA	PSA	rs6869841	DISCUSS	To increase power we carried out a sensitivity analysis by relaxing the high PSA control threshold to >=2ng/ml (n=250), which resulted in 3 additional SNPs being associated with PSA level (rs6869841, rs10993994 and rs4775302)
+0	NA	NA	NA	DISCUSS	To avoid potential false positive results arising from multiple comparisons, we only highlight findings which showed evidence of an association in both the stratified and regression analyses.
+0	NA	NA	NA	DISCUSS	A Bonferroni corrected threshold significance level is a p-value of <= 0.0006(0.05/81 tests).
+0	NA	NA	NA	DISCUSS	However, this correction assumes that the tests were independent of each other, which in this case may not be true because some SNPs were correlated.
+0	NA	NA	NA	DISCUSS	Hence a rigid application of the Bonferroni corrected p-value could lead to an erroneous rejection of genuine loci (false-negatives).
+0	NA	NA	NA	DISCUSS	Nevertheless, we have presented exact p-values, allowing comparison with the Bonferroni corrected p-value.
+0	NA	PSA	NA	DISCUSS	Whilst all controls with an elevated PSA level were biopsy negative, there is the possibility that some controls with a PSA level <3ng/ml had undetected PrCa, as evidenced by a study (2004) showing that 14% of men with a PSA level <=3ng/ml had PrCa.
+0	NA	PSA	NA	DISCUSS	The majority of controls in our study had a PSA level <=1ng/ml, which was associated with less than a 9% chance of undetected PrCa.
+0	NA	PSA	NA	DISCUSS	It is also possible that up to a quarter of men with an elevated PSA level (>=3ng/ml) and a negative biopsy had undetected PrCa, which could explain why we did not observe associations of SNPs with PrCa when using the high PSA control group
+0	NA	PSA	NA	CONCL	We have confirmed associations of PrCa risk with four previously identified loci (8q24.21,10q11.23, 17q24.3 and 19q13.33) and associations of seven markers with PSA level.
+0	NA	PSA	NA	CONCL	We also found new evidence of an association of genetic variation at 3p22.2 with circulating PSA levels.
+0	Breast and prostate cancer	NA	NA	CONCL	We have highlighted that the method of selecting controls in case-control studies of associations of genetic variation with prostate cancer can influence the results suggesting that inferences made in these studies should carefully consider control selection
+0	NA	NA	NA	FIG	Venn Diagram showing the inclusion of controls in the ProtecT and UKGPCS GWA
+0	NA	NA	NA	FIG	* Controls overlapping between control populations were excluded from the UKGPCS GWA
+0	NA	NA	NA	TABLE	Results of independent SNPs reaching genome wide significance (P<5 x 10-8) in the ProtecT GWA
+0	NA	NA	NA	TABLE	Summary results of top independent SNPS in known loci associated with PrCa identified by meta-analysis of ProtecT with UKGPC
+0	NA	PSA	NA	TABLE	Comparison of cases with supernormal or high PSA controls and PSA regressed on SNPs in unrestricted controls

@@ -1,0 +1,117 @@
+0	cancers	NA	NA	ABSTRACT	Genetic variation may influence chemotherapy response and overall survival in cancer patients
+0	lung cancer	NA	NA	ABSTRACT	We conducted a genome-wide scan in 535 advanced-stage non-small cell lung cancer (NSCLC) patients from two independent cohorts (307 from Nanjing and 228 from Beijing).
+0	NA	NA	NA	ABSTRACT	A replication was carried out on an independent cohort of 340 patients from Southeastern China followed by a second validation on 409 patients from the Massachusetts General Hospital (Boston, MA)
+0	NSCLC	NA	NA	ABSTRACT	Consistent associations with NSCLC survival were identified for five single-nucleotide polymorphisms (SNP) in Chinese populations with P values ranging from 3.63 x 10-5 to 4.19 x 10-7 in the additive genetic model.
+1	NSCLC	NA	rs7629386	ABSTRACT	The minor allele of three SNPs (rs7629386 at 3p22.1, rs969088 at 5p14.1, and rs3850370 at 14q24.3) were associated with worse NSCLC survival while 2 (rs41997 at 7q31.31 and rs12000445 at 9p21.3) were associated with better NSCLC survival.
+1	NA	beta-catenin	rs7629386	ABSTRACT	In addition, rs7629386 at 3p22.1 (CTNNB1) and rs3850370 at 14q24.3 (SNW1-ALKBH1-NRXN3) were further replicated in the Caucasian population
+0	NSCLC	NA	NA	ABSTRACT	In this three-stage genome-wide association studies, we identified five SNPs as markers for survival of advanced-stage NSCLC patients treated with first-line platinum-based chemotherapy in Chinese Han populations.
+1	NA	NA	rs7629386	ABSTRACT	Two of these SNPs, rs7629386 and rs3850370, could also be markers for survival among Caucasian patients
+0	cancers	NA	NA	INTRO	Lung cancer, predominantly non-small cell lung cancer (NSCLC), is the leading cause of cancer-related deaths worldwide; 5-year survival rates are only 15.1% in China.
+0	NSCLC	NA	NA	INTRO	The current standard treatment of patients with early stage NSCLC is surgical resection, with or without adjuvant chemotherapy.
+0	NA	NA	NA	INTRO	However, most patients are diagnosed at advanced stage, where platinum-based chemotherapy is the mainstay of treatment.
+0	NA	NA	NA	INTRO	Response to therapy varies considerably between patients
+0	NA	NA	NA	INTRO	The traditional tumor-node-metastasis staging system is not useful for predicting response to therapy, and molecular biomarkers can add value in this setting.
+0	cancers	NA	NA	INTRO	It has been suggested that the discovery and application of molecular biomarkers to incorporate with traditional clinical prognostic factors could guide individualized treatment and improve the outcomes of cancer patients.
+0	NSCLC	NA	NA	INTRO	Many studies have been conducted to explore single-nucleotide polymorphisms (SNP) in candidate genes and overall survival in NSCLC, including studies from our groups.
+0	NA	NA	NA	INTRO	Genome-wide association studies (GWAS), which make no assumptions about the genomic location of the causal variants, are expected to complement the candidate gene approach
+0	NSCLC	NA	NA	INTRO	Here, we conducted a GWAS scan by genotyping 906,703 SNPs for association with survival in 535 Han Chinese with advanced NSCLC.
+0	NSCLC	NA	NA	INTRO	Fast track replication was conducted in an independent NSCLC cohort from Southeastern China followed by further validation in NSCLC patients from the Massachusetts General Hospital (Boston, MA)
+0	NSCLC	NA	NA	METHODS	The discovery phase of the study included 2 groups of advanced NSCLC patients from Nanjing and Beijing described previously in our GWAS study on lung cancer susceptibility.
+0	NSCLC	NA	NA	METHODS	To construct a relatively homogenous population with same treatment, our current study was restricted to stage III or IV NSCLC patients treated with first-line platinum-based chemotherapy without surgery.
+0	cancers	NA	NA	METHODS	Specifically, 307 patients recruited at the Affiliated Cancer Hospital and the First Affiliated Hospital of Nanjing Medical University (Nanjing Study), and 228 patients from the Cancer Hospital, Chinese Academy of Medical Sciences (Beijing Study), were included in the discovery set.
+0	NSCLC	NA	NA	METHODS	The first replication included 340 NSCLC patients recruited from Nanjing Thoracic Hospital and Shanghai Chest Hospital (Southeastern China; 14), and the second replication included 409 NSCLC patients from the Massachusetts General Hospital (Boston, MA; Harvard cohort; 15).
+0	NA	NA	NA	METHODS	Subjects in the discovery phase and the first replication phase were all unrelated Han Chinese, and those in the second replication set were Caucasian.
+0	NSCLC	NA	NA	METHODS	All patients had histopathologically or cytologically confirmed NSCLC, which was reviewed by at least 2 local pathologists.
+0	NA	NA	NA	METHODS	Informed consent was obtained from each subject at the time of recruitment, and this study was approved by the Institutional Review Boards of each participating institution
+0	NA	NA	NA	METHODS	Before the survival analysis, we conducted systematic quality control on the raw genotyping data to filter both unqualified samples and SNPs, as described previously.
+0	NA	NA	NA	METHODS	SNPs were excluded if: (i) SNPs were not mapped on autosomal chromosomes; (ii) SNPs had a call rate <95%; or (iii) SNPs had minor allele frequency (MAF) <0.05.
+0	NA	NA	NA	METHODS	Samples with low call rates (<95%), ambiguous gender, familial relationships (PI_HAT > 0.25), outliers in the principal component analysis and extreme heterozygote rate (>6 SD from nearest neighbor) were removed.
+0	NA	NA	NA	METHODS	Finally, 303 cases were used for the Nanjing study, and 225 cases for the Beijing study with 576,351 overlapped SNPs
+0	NA	NA	NA	METHODS	Genome-wide association analysis was conducted using the additive model by multivariate Cox regression analysis with adjustment for age, gender, smoking status, histology, and stage in each of the discovery studies.
+0	NA	NA	NA	METHODS	Meta-analysis on Nanjing and Beijing discovery samples were then carried out based on fixed or random models.
+0	NA	NA	NA	METHODS	For fast track replication, we selected 33 top SNPs that had (i) P < 1 x10-4 for all GWAS samples and (ii) a consistent association at P < 0.05 in both the Nanjing study and the Beijing study (Supplementary Table S1).
+0	NA	NA	NA	METHODS	Twelve SNPs were used in the first validation, whereas 21 SNPs were excluded because of high-linkage disequilibrium (LD) with the 12 selected SNPs.
+0	NA	NA	NA	METHODS	Five SNPs that were found to be associated with overall survival at P values lower than 0.05 (in any genetic model) and had the same association direction as the GWAS scan were further genotyped in the second validation set.
+1	NA	NA	rs3850370	METHODS	Genotyping for the validation populations was done using TaqMan allelic discrimination assay on an ABI 7900 system (Applied Biosystems), except one (rs3850370) by SNP chip (Illumina 610k Quad, Call rate: 100%), and one (rs41997) by imputation analysis using the LD information from the 1000 Genomes Project database [by MACH, the estimated squared correlation (r2) between imputed and true underlying genotypes is 1.00, indicating an excellent imputation quality] for the Harvard cohort.
+0	NA	NA	NA	METHODS	The information on primers and probes are available upon request.
+0	NA	NA	NA	METHODS	A total of 10% random samples were reciprocally tested on the TaqMan assay, and the reproducibility was 100%
+0	death	NA	NA	METHODS	Overall survival time was calculated from the time of diagnosis until death or the latest follow-up.
+0	NA	NA	NA	METHODS	We used PLINK 1.07 for general statistical analysis.
+0	NA	NA	NA	METHODS	The survival package in R (PLINK plug-in) was used to conduct the analyses of lung cancer-related death.
+0	NA	NA	NA	METHODS	HR and their 95% confidence intervals (CI) were calculated by multivariate Cox regression analyses adjusted for age, gender, histology, stage, and smoking status.
+0	NA	NA	NA	METHODS	The Cochrane Q statistics test was used for the assessment of heterogeneity.
+0	NA	NA	NA	METHODS	The fixed and random effects meta-analyses were used to calculate the pooled HR.
+0	NA	NA	NA	METHODS	If the result of the Q test was not significant, the fixed effects model was chosen.
+0	NA	NA	NA	METHODS	Otherwise, the pooled HR was estimated using the random effects model.
+0	NA	NA	NA	METHODS	The MACH 1.0 software (http://www.sph.umich.edu/csg/abecasis/MACH/index.html) was used to impute untyped SNPs by the LD information from the HapMap phase II database (CHB+JPT was used as reference set, released July 17, 2006; 17).
+0	NA	NA	NA	METHODS	Region plot was generated using an online tool, LocusZoom 1.1 (http://csg.sph.umich.edu/locuszoom/).
+0	NA	NA	NA	METHODS	Analyses were also conducted using SAS version 9.1.3 (SAS Institute) or Stata version 9.2 (StataCorp LP)
+0	NSCLC	NA	NA	RESULTS	The characteristics of the NSCLC patients in the 2 discovery cohorts and the 2 replication cohorts are shown in Table 1.
+0	lung cancer	NA	NA	RESULTS	The median survival times (MST) were 14.2, 23.0, 23.8, and 11.9 months, and 206 (68.0%), 101 (44.9%), 120 (35.3%), as well as 353 (86.3%) patients died from lung cancer in these cohorts, respectively.
+0	NSCLC	NA	NA	RESULTS	Only the Harvard cohort had NSCLC patients other than squamous cell carcinoma and adenocarcinoma.
+0	NA	NA	NA	RESULTS	The Harvard cohort also had more stage IV patients, female and ever smokers (Table 1)
+0	NA	NA	NA	RESULTS	We further validated these 5 SNPs in Harvard cohort samples.
+1	NA	NA	rs7629386	RESULTS	Four SNPs (rs7629386, rs969088, rs12000445, and rs3850370) had same direction of association (Table 3, Supplementary Fig.
+1	NSCLC	NA	rs7629386	RESULTS	S1), but only rs7629386 at 3p22.1 (homozygote comparison) and rs3850370 at 14q24.3 (additive model) had significant association with NSCLC survival (Table 3, Supplementary Figs.
+0	NA	NA	NA	RESULTS	S3 and S4).
+0	NA	NA	rs969088	RESULTS	For rs969088, the MAF in Caucasians is too low to show a successful replication.
+0	NA	NA	NA	RESULTS	The results of stratification analyses on the 5 SNPs (for Chinese samples) are shown in Supplementary Fig.
+0	NA	NA	NA	RESULTS	S2.
+1	NA	NA	rs41997	RESULTS	We only observed slightly heterogeneity in the HRs for rs41997 among histologic subtypes (P =0.050)
+0	NSCLC	NA	NA	DISCUSS	In this study, we conducted a 3-stage (4 cohorts) analytical approach to better understand the genetic factors modulating survival in advanced NSCLC patients treated with first-line platinum-based chemotherapy.
+0	NSCLC	NA	NA	DISCUSS	During the preparation of the manuscript, a GWAS on a Caucasian population was published using a discovery scan of 327 advanced NSCLC patients from the Texas MD Anderson Cancer Center.
+0	NSCLC	NA	rs1878022	DISCUSS	They replicated the association between rs1878022 and NSCLC survival in a Spanish cohort (420 patients, HR =1.23, P =0.05) but not in the Mayo Clinic cohort (315 patients, HR =1.16, P =0.15), whereas rs10937823 was replicated in the Mayo Clinic cohort (HR = 1.45, P =0.04) but not in the Spanish cohort (HR =0.96, P =0.84).
+0	death	NA	rs1878022	DISCUSS	However, rs1878022 and rs10937823 were both nonsignificantly associated with NSCLC death risk in our GWAS scan samples (rs1878022: HR =1.10, P =0.204; rs10937823: HR =0.89, P =0.336; Supplementary Fig.
+0	NA	S5B	NA	DISCUSS	S5A and S5B)
+1	NSCLC	NA	rs3850370	DISCUSS	The SNP rs3850370 at 14q24.3 can modify survival in NSCLC across Chinese and Caucasian populations.
+1	NA	SNW1	rs3850370	DISCUSS	rs3850370 is located among 3 genes: Ski-interacting protein (SKIIP, known also as SNW1, upstream 307kb), alkylation repair homolog 1 (ALKBH1, downstream 360kb), and Neurexin 3 (NRXN3, upstream 1210kb; Supplementary Fig.
+0	NA	NA	NA	DISCUSS	S6E).
+1	NA	SNW1	NA	DISCUSS	SNW1 is a nuclear matrix-associated coactivator that may couple vitamin D receptor-mediated transcription and RNA splicing.
+1	NA	SNW1	NA	DISCUSS	Using a library of endoribonuclease-prepared short interfering RNAs (esiRNA), Kittler and colleagues identified that SNW1 is among the 37 genes required for cell division.
+1	NA	SNW1	NA	DISCUSS	Recently, it was also shown that SNW1 is required for TGF-beta1 induced epithelial-mesenchymal transition and invasiveness in transformed cells.
+1	NA	ALKBH1	NA	DISCUSS	To date, 8 human homologues of the Escherichia coli DNA repair enzyme ALKB (ALKBH1-8) have been identified, which are involved in repair of alkylation damage in DNA and RNA.
+0	lung adenocarcinomas	ALKBH3	NA	DISCUSS	Among them, ALKBH3 was reported to be significantly overexpressed in lung adenocarcinoma cells and contributes to NSCLC cell survival, although combined treatment modalities with cisplatin- and lentivirus-mediated ALKBH2 downregulation were significantly more potent in inhibiting lung cell growth and inducing apoptosis than monochemotherapy.
+1	NSCLC	ALKBH1	NA	DISCUSS	However, little is known for the role of ALKBH1 in NSCLC survival and/or therapy response
+0	NA	NA	rs7629386	DISCUSS	In this study, rs7629386 (3p22.1) was also replicated across Chinese and Caucasian populations for homozygote comparison.
+0	NA	NA	rs7629386	DISCUSS	rs7629386 is relatively rare in Chinese (MAF =0.07) but common in Caucasians (MAF =0.31); therefore, the combined P value for all participants was only 1.24 x 10-2 in the additive model.
+0	NA	NA	NA	DISCUSS	Many researchers have reported that deletion of 3p22.1 was early and frequent events in lung tumorigenesis.
+0	NA	beta-catenin	rs7629386	DISCUSS	rs7629386 is about 274 kb upstream of the beta-catenin gene (coded by CTNNB1), a key component of the Wnt signaling pathway (Supplementary Fig.
+0	NA	NA	NA	DISCUSS	S6A).
+0	cancers	beta-catenin	NA	DISCUSS	Somatic mutations and elevated levels of beta-catenin have been observed in most common forms of human malignancies
+1	NA	NA	rs969088	DISCUSS	rs969088, rs12000445, and rs41997 were not replicated in the Harvard cohort.
+0	NA	NA	NA	DISCUSS	The reasons for the discrepancy may be as follows: First, marker SNPs might be different between ethnic populations (because of different allele frequency and LD structure).
+0	NSCLC	NA	NA	DISCUSS	Second, the demographic and clinic characteristics of Chinese NSCLC patients were different from those in the Harvard cohort (gender, stage, smoking rate, and histologic types) and these factors are survival related.
+0	NA	NA	NA	DISCUSS	Finally, the relatively small sample size in each participant studies may yield insufficient power.
+0	NA	NA	NA	DISCUSS	The real causative SNPs need to be identified by fine mapping and comparative analyses on both Chinese and Caucasian populations
+0	NA	Cadherin 9	rs969088	DISCUSS	The SNP rs969088 at 5p14.1 is located about 490 kb downstream of Cadherin 9 (CDH9; Supplementary Fig.
+0	NA	NA	NA	DISCUSS	S6B).
+0	NA	Cadherin 9	NA	DISCUSS	CDH9 belongs to the cadherin family that are involved in calcium-dependent cell-cell junctions in the nervous system.
+0	NSCLC	CDH1	NA	DISCUSS	It was reported that hypermethylation of its family members, CDH1 and CDH13, was associated with better survival of patients with NSCLC.
+0	lung cancer	Hu-antigen B	rs12000445	DISCUSS	rs12000445 is located at 9p21.3, a region frequently deleted in lung cancer, about 273 kb downstream of Hu-antigen B (HuB), one of the tumor antigens (Supplementary Fig.
+0	NA	NA	NA	DISCUSS	S6D).
+1	cancers	NA	rs41997	DISCUSS	rs41997 is located at a site with suggested tumor suppressor genes (TSG) and frequent loss of heterozygosity in a variety of tumors of epithelial origin.
+1	pleural lung fibrosis	CFTR	rs41997	DISCUSS	Three well known TSGs were close to rs41997 (about 700 to 1100 kb): Cystic fibrosis transmembrane conductance regulator (CFTR), wingless-type mouse mammary tumor virus integration site family, member 2 (WNT2), and suppressor of tumorigenicity 7 (ST7; Supplementary Fig.
+0	NA	NA	NA	DISCUSS	S6C).
+1	NSCLC	CFTR	NA	DISCUSS	Promoter hypermethylation of CFTR was reported as an important prognostic factor in younger patients with NSCLC.
+1	lung cancer	NA	NA	DISCUSS	The Wnt/beta-catenin signal pathway has relationships with both lung cancer development and prognosis, while ST7 is a highly conserved TSG with reported mutations in breast and colon carcinomas
+0	NA	NA	NA	DISCUSS	To further evaluate possible influence of the 5 SNPs on gene expression, we searched publicly available cis-expression quantitative trait loci (eQTL) information from in lymphoblastoid cell lines.
+1	NA	N(alpha)-acetyltransfer-ase 38	rs7799229	DISCUSS	We only found that rs7799229 (in highly LD with rs41997, R2 =0.90) is closely associated with the expression of N(alpha)-acetyltransfer-ase 38 (NAA38; P =2.7 x 10-7; 39), a member of the like-Sm protein family, which transiently binds U6 small nuclear RNAs and is involved in the general maturation of RNA in the nucleus.
+0	lung cancer	NA	NA	DISCUSS	We did not obtain information on the genotype-phenotype correlations of the 5 SNPs and gene expression in lung cancer tissues or cell lines
+0	NA	NA	NA	DISCUSS	Our study has a number of strengths.
+0	NSCLC	NA	NA	DISCUSS	First, this is the largest GWAS study to date to investigate overall survival in advanced NSCLC patients.
+0	NA	NA	NA	DISCUSS	Second, we used a 3-stage study design with 4 independent cohorts.
+0	NA	NA	NA	DISCUSS	SNPs that are associated with overall survival across all study populations have a high probability of being true-positive findings, thus reducing the need for strict multiple comparison correction.
+0	NSCLC	NA	NA	DISCUSS	Third, we identified 5 candidate SNPs as marker SNPs for Chinese, suggesting important biologic pathways, and largely improved current notions on NSCLC survival.
+0	NA	NA	NA	DISCUSS	Several limitations of our study also need to be addressed.
+0	NSCLC	NA	NA	DISCUSS	Considering the heterogeneity in genetic background and treatment to NSCLC between the Han Chinese and Caucasian populations, the validation power might be limited in replication II.
+0	NA	NA	rs7629386	DISCUSS	Another limitation of the study is that the effect of SNP rs7629386 might be unstable because of low frequency of homozygote when a HR of 3.92 was observed in Han population but the HR was much lower at 1.50 in Caucasian population.
+0	NA	NA	NA	DISCUSS	Finally, eQTL analysis did not reveal significant findings.
+0	NA	NA	NA	DISCUSS	Therefore, further validations incorporating different ethnic background populations, together with the resequencing of the marked region and functional evaluations are warranted
+0	NSCLC	NA	NA	FIG	Genome-wide association results for NSCLC overall survival in Han Chinese individuals.
+0	NA	NA	NA	FIG	Scatter plot of P values in -log10 scale from meta-analysis results of the additive model on 576,351 SNPs from 2 discovery cohorts
+0	NA	NA	NA	TABLE	Result for 12 selected SNPs in Replication I samples and meta-analysis for the 3 Chinese cohort
+0	NA	NA	NA	TABLE	Result for 5 selected SNPs in Replication II samples and meta-analysis for all participant
+0	lung cancer	NA	NA	SUPPL	Chemotherapy with platinum-based regimens is the standard of care for advanced-stage non-small cell lung cancer (NSCLC).
+0	NA	NA	NA	SUPPL	However, reliable genetic variations for the prediction of response and overall survival to platinum-based therapy are still not well established.
+0	NSCLC	NA	NA	SUPPL	In this three-stage genome-wide association study, we identified five single-nucleotide polymorphisms as markers for survival of advanced-stage NSCLC patients treated with first-line platinum-based chemotherapy in Chinese Han populations.
+1	NA	NA	rs7629386	SUPPL	Two of these SNPs, rs7629386 and rs3850370, could also be markers for survival among Caucasian patients

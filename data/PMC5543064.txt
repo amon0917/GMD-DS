@@ -1,0 +1,145 @@
+0	AMD	NA	NA	ABSTRACT	Bilateral neovascular age-related macular degeneration (AMD) causes much more handicaps for patients than unilateral neovascular AMD.
+0	NA	NA	NA	ABSTRACT	Although several AMD-susceptibility genes have been evaluated for their associations to bilaterality, genome-wide association study (GWAS) on bilaterality has been rarely reported.
+0	AMD	NA	NA	ABSTRACT	In the present study, we performed GWAS using neovascular AMD cases in East Asian.
+1	NA	NA	NA	ABSTRACT	The discovery stage compared 581,252 single nucleotide polymorphisms (SNPs) between 803 unilateral and 321 bilateral Japanese cases but no SNP showed genome-wide significance, while SNPs at six regions showed P-value < 1.0 x 10-5, STON1-GTF2A1L/LHCGR/FSHR, PLXNA1, CTNNA3, ARMS2/HTRA1, LHFP, and FLJ38725.
+1	NA	NA	rs4482537	ABSTRACT	The first replication study for these six regions comparing 36 bilateral and 132 unilateral Japanese cases confirmed significant associations of rs4482537 (STON1-GTF2A1L/LHCGR/FSHR), rs2284665 (ARMS2/HTRA1), and rs8002574 (LHFP) to bilaterality.
+1	NA	NA	rs4482537	ABSTRACT	In the second replication study comparing 24 bilateral and 78 unilateral cases from Singapore, rs4482537 (STON1-GTF2A1L/LHCGR/FSHR) only showed significant association.
+1	NA	NA	rs4482537	ABSTRACT	Meta-analysis of discovery and replication studies confirmed genome-wide level significant association (P = 2.61 x 10-9) of rs4482537 (STON1-GTF2A1L/LHCGR/FSHR) and strong associations (P = 5.76 x 10-7 and 9.73 x 10-7, respectively) of rs2284665 (ARMS2/HTRA1) and rs8002574 (LHFP).
+1	AMD	NA	NA	ABSTRACT	Our GWAS for neovascular AMD bilaterality found new genetic loci STON1-GTF2A1L/LHCGR/FSHR and confirmed the previously reported association of ARMS2/HTRA1
+0	AMD	NA	NA	INTRO	Age-related macular degeneration (AMD) is one of the major causes of visual impairment in developed countries.
+0	AMD	NA	NA	INTRO	Although early stage AMD does not affect visual function, late stage AMD induces severe visual loss.
+0	AMD	NA	NA	INTRO	AMD is a complex disease caused by multiple environmental and genetic risk factors.
+1	AMD	CFH	NA	INTRO	Previous genome-wide association studies (GWASs) identified two major susceptibility loci for AMD; complement factor H (CFH) and age-related maculopathy susceptibility 2/high temperature requirement A1 (ARMS2/HTRA1).
+0	AMD	NA	NA	INTRO	Recently, AMD Gene Consortium performed meta-analysis of GWASs and found 34 loci were associated with AMD development.
+0	AMD	NA	NA	INTRO	Furthermore, GWASs in East Asian populations revealed new loci for AMD and suggested ethnic differences in susceptibility to AMD
+0	AMD	NA	NA	INTRO	Compared with patients with unilateral late AMD, patients with bilateral late AMD are more prone to visual handicaps.
+0	AMD	NA	NA	INTRO	The prevalence of bilateral AMD was reported to be 40-50% in Caucasian and 10-20% in Asian.
+0	AMD	NA	NA	INTRO	Previous studies investigated the association between bilaterality of AMD and the known AMD susceptibility loci.
+1	AMD	NA	NA	INTRO	Several studies reported that ARMS2/HTRA1 contributes to the bilaterality of late AMD.
+0	AMD	CFH	NA	INTRO	In contrast, it is still controversial whether CFH increases the risk of AMD bilaterality.
+0	AMD	NA	NA	INTRO	To identify the genetic determinants associated with bilaterality of late AMD in East Asian, we conducted a GWAS comparing bilateral late AMD patients with unilateral late AMD patients.
+0	AMD	NA	NA	INTRO	Since most late AMD is neovascular AMD (wet type) in East Asian and geographic atrophy (dry type) is rare, we focused on only neovascular AMD.
+0	AMD	NA	NA	INTRO	After finding genes associated with the bilaterality of neovascular AMD, we confirmed their susceptibility to AMD occurrence by comparing all neovascular AMD cases including both bilateral cases and unilateral cases with controls of Japanese general populations
+0	AMD	NA	NA	RESULTS	Japanese patients with neovascular AMD were recruited at the Center for Macular Diseases of Kyoto University Hospital (n = 821) and Fukushima Medical University (n = 333) for the discovery stage.
+0	NA	NA	NA	RESULTS	From these 1154 cases, 10 cases were excluded due to lack of detailed fundus examination of the fellow eye and 20 cases were excluded because of the quality control for their genotype count analysis.
+0	AMD	NA	NA	RESULTS	Of the 1124 cases analyzed in the discovery stage, 803 had unilateral neovascular AMD and 321 had bilateral neovascular AMD.
+0	AMD	NA	NA	RESULTS	Subtypes of AMD were typical AMD in 507 patients and PCV in 617 patients.
+0	NA	NA	NA	RESULTS	Clinical features of subjects are summarized in Table 1.
+0	AMD	NA	NA	RESULTS	Patients with bilateral neovascular AMD were older than patients with unilateral neovascular AMD (P < 0.001).
+0	NA	NA	NA	RESULTS	While 70-80% of patients were male, the percentages were similar between bilateral and unilateral groups.
+0	NA	NA	NA	RESULTS	The number of SNPs evaluated after quality control was 581,252.
+0	NA	NA	NA	RESULTS	We plotted our genome-wide association findings on quantile-quantile (QQ) plots, and genomic control method revealed only a slight inflation of the test statistics (Inflation factor lambda = 1.01).
+0	NA	NA	NA	FIG	Minus log-transformed P-values are shown in a signal intensity (Manhattan) plot relative to their genomic position for bilaterality of age-related macular degeneration.
+0	NA	NA	NA	FIG	P-values are adjusted for age and sex
+0	NA	NA	NA	TABLE	Results of discovery study for the 14 SNPs that showed P-value < 10-5, comparing bilateral neovascular age-related macular degeneration cases with unilateral those
+0	NA	NA	NA	RESULTS	Results of the genome-wide association analysis are shown in Fig.
+0	NA	NA	NA	RESULTS	1.
+1	NA	NA	NA	RESULTS	Although no chromosomal loci showed genome-wide significance, fourteen SNPs showed P-value < 1.0 x 10-5; 7 SNPs in STON1-GTF2A1L/LHCGR/FSHR region, 1 SNP in PLXNA1, 2 SNPs in CTNNA3, 1 SNP in ARMS2/HTRA1, 1 SNP in LHFP, and 2 SNPs near FLJ38725 (Table 2).
+0	AMD	CFH	NA	RESULTS	No SNPs in CFH showed significant association with bilaterality of neovascular AMD (P > 0.05).
+0	AMD	NA	NA	RESULTS	Supplementary Table 1 shows the association between the AMD bilaterality and the analyzed 440 SNPs within 10 genes for which associations with AMD were verified in Asian individuals.
+0	NA	C2	rs11963725	RESULTS	Although rs11963725 of C2/CFB (P = 0.0124), rs1054060 of C3 (P = 0.0454), rs17310296 of CETP (P = 0.00250), rs4714699 of VEGFA (P = 0.0368), rs6822976 of CFI (P = 0.00256), and rs12638651 of ADAMTS9 (P = 0.00742) showed nominally significant associations, these associations should be interpreted as negative results after permutation tests.
+0	NA	NA	NA	TABLE	Results of two replication studies and meta-analysis for the six loci associated in discovery study, comparing bilateral neovascular age-related macular degeneration cases with unilateral those
+0	NA	NA	NA	RESULTS	One representative SNP from each of these six loci was examined in the replication studies (Table 3).
+0	AMD	NA	NA	RESULTS	For the first replication stage, Japanese patients with neovascular AMD were recruited at Kobe City Medical Center General Hospital (n = 170).
+0	AMD	NA	NA	RESULTS	Two cases were excluded after quality control for the genotype count analysis, and the genotypes of 36 bilateral AMD and 132 unilateral AMD were compared.
+1	AMD	NA	rs4482537	RESULTS	The associations with neovascular AMD bilaterality were confirmed in rs4482537 of STON1-GTF2A1L/LHCGR/FSHR (P = 4.97 x 10-2), rs2284665 of ARMS2/HTRA1 (P = 3.83 x 10-2), and rs8002574 of LHFP (P = 3.66 x 10-2).
+0	AMD	NA	NA	RESULTS	For the second replication stage, Singaporean patients with neovascular AMD (n = 102) were recruited at Singapore National Eye Center.
+1	NA	NA	rs4482537	RESULTS	In the second replication study with 24 bilateral and 78 unilateral cases, only rs4482537 of STON1-GTF2A1L/LHCGR/FSHR showed significant association (P = 3.34 x 10-2), while rs2284665 of ARMS2/HTRA1 and rs8002574 of LHFP showed same association direction as in the discovery stage analysis and the first replication study with Japanese without statistically significant P-value.
+1	NA	NA	rs4482537	RESULTS	The meta-analysis of discovery and replication studies confirmed genome-wide significant association of STON1-GTF2A1L/LHCGR/FSHR (rs4482537; P = 2.61 x 10-9) with bilaterality.
+1	NA	NA	rs2284665	RESULTS	As for ARMS2/HTRA1 and LHFP, the effect direction was same among three cohorts and meta-analysis further confirmed their strong associations with bilaterality (P = 5.76 x 10-7 for rs2284665 of ARMS2/HTRA1 and P = 9.73 x 10-7 for rs8002574 of LHFP).
+0	AMD	NA	NA	TABLE	Results of the association study for three loci about the occurrence of AMD, comparing all neovascular age-related macular degeneration cases with Japanese general population cohort
+0	AMD	NA	NA	RESULTS	To evaluate the associations of these three SNPs with the occurrence of AMD, genotypes of all neovascular AMD cases including both bilateral cases and unilateral cases were compared with the Nagahama cohort as Japanese general control (Table 4).
+1	AMD	NA	NA	RESULTS	The analysis showed that only ARMS2/HTRA1 was significantly associated with the occurrence of AMD (P = 1.78 x 10-81).
+1	AMD	NA	NA	DISCUSS	In this current study, we performed GWAS on bilaterality of neovascular AMD for the first time and identified the association of new genetic loci STON1-GTF2A1L/LHCGR/FSHR with neovascular AMD bilaterality.
+1	AMD	NA	NA	DISCUSS	ARMS2/HTRA1 could be also associated with bilaterality of neovascular AMD and the association of LHFP should be further investigated
+1	AMD	NA	NA	DISCUSS	Regional association plot (Supplementary Figure 1) for the studied SNPs within STON1-GTF2A1L/LHCGR/FSHR region did not elucidate which of these genes was correspond to the bilaterality of AMD.
+1	NA	STON1	NA	DISCUSS	STON1 encodes stonin 1.
+1	NA	stonin 2	NA	DISCUSS	Although stonin 2 controls synaptic transmission, the function of stonin 1 has not been elucidated.
+1	NA	GTF2A1L	NA	DISCUSS	GTF2A1L is expressed mainly in testis to form a counterpart of general transcription factor IIA subunit.
+0	NA	NA	NA	DISCUSS	In drosophila, transcription factor IIA regulates development of photoreceptor cells.
+0	AMD	NA	NA	DISCUSS	Polymorphisms in STON1-GTF2A1L might promote bilateral development of AMD through their effects on photoreceptor cells synaptic transmission
+1	NA	LHCGR	NA	DISCUSS	 LHCGR encodes luteinizing hormone/choriogonadotropin receptor, a receptor for luteinizing hormone (LH) and human chorionic gonadotropin (hCG), and FSHR encodes follicle-stimulating hormone receptor, a receptor for follicle-stimulating hormone (FSH).
+0	NA	NA	NA	DISCUSS	Both LH and FSH are released from the pituitary gland and stimulate estrogen secretion.
+0	AMD	ER	NA	DISCUSS	Estrogen is associated with inhibition of AMD development and a previous study reported that polymorphisms of estrogen receptor gene were associated with AMD.
+0	NA	NA	NA	DISCUSS	Aging decreases estrogen production, leading to increased LH/FSH secretion in the elderly via feedback mechanism
+0	atherosclerotic	NA	NA	DISCUSS	Age-related decrease in estrogen production and increase in LH/FSH secretion are associated, partly, with increased risk of atherosclerosis and heart diseases by affecting lipoprotein/cholesterol metabolism.
+1	AMD	NA	NA	DISCUSS	Considering that several genes in lipoprotein/cholesterol metabolism are associated with AMD development, LHCGR/FSHR would affect the bilaterality of neovascular AMD in part by altering lipoprotein/cholesterol metabolism.
+1	AMD	NA	NA	DISCUSS	Another possibility is that LHCGR/FSHR polymorphism would have localized effect, thereby affecting neovascular AMD bilaterality.
+1	NA	LHCGR	NA	DISCUSS	Muller cells and retinal pigmented epithelial cells produce hCG and cone photoreceptor cells express its receptor LHCGR.
+1	AMD	LHCGR	NA	DISCUSS	Further study on the roles of LHCGR of photoreceptor cells and the roles of LHCGR/FSHR-induced lipoprotein/cholesterol metabolism alteration would lead to prevention of neovascular AMD development in the fellow eye
+1	NA	NA	NA	DISCUSS	 STON1-GTF2A1L/LHCGR/FSHR region also includes long intergenic noncoding RNA (lincRNA, RP11-460M2.1).
+0	NA	NA	NA	DISCUSS	LincRNA can control gene expression and some lincRNAs might be able to control ocular neovascularization.
+0	AMD	NA	NA	DISCUSS	LincRNA RP11-460M2.1 might have some ability to control bilaterality of neovascular AMD
+0	AMD	CFH	NA	DISCUSS	Although CFH is a major susceptibility gene for AMD, SNPs in CFH did not have any association with the bilaterality of neovascular AMD in our study.
+0	AMD	CFH	NA	DISCUSS	Previous studies also showed that CFH was not associated with the bilaterality of neovascular AMD.
+1	AMD	NA	rs4482537	DISCUSS	In contrast, rs4482537 in LHCGR/FSHR locus had significant association with the bilaterality of neovascular AMD, but not with the occurrence of AMD.
+1	AMD	NA	NA	DISCUSS	On the other hand, previous studies and current study support that ARMS2/HTRA1 is associated with both occurrence and bilaterality of AMD.
+0	NA	NA	NA	DISCUSS	AMD-associated genes can be classified into three types, genes associated with both AMD occurrence and bilaterality, genes associated with only AMD occurrence, and genes associated with only AMD bilaterality.
+0	AMD	NA	NA	DISCUSS	The second eye involvement in AMD might be regulated by a unique mechanism in addition to the factors associated with the first eye involvement
+1	lipoma	LHFP	NA	DISCUSS	 LHFP is a HMGIC fusion partner gene in lipoma, one of the most common mesenchymal tumors.
+1	gliosarcoma	LHFP	NA	DISCUSS	LHFP is also associated with mesenchymal differentiation in gliosarcoma.
+0	AMD	NA	NA	DISCUSS	Recent studies suggest that epithelial-mesenchymal transition (EMT) has important roles in the development of AMD.
+1	AMD	LHFP	NA	DISCUSS	LHFP might affect the bilaterality of neovascular AMD by affecting the EMT process.
+1	Alzheimer's disease	LHFP	NA	DISCUSS	LHFP is also associated with Alzheimer's disease that shares common clinical and pathological features with AMD; both Alzheimer's disease and AMD are preceded by accumulation of amyloid beta.
+1	AMD	LHFP	NA	DISCUSS	LHFP might affect accumulation of amyloid beta and trigger the second eye involvement of AMD
+0	AMD	NA	NA	DISCUSS	Although anti-VEGF treatment has improved treatment outcome of exudative AMD, the SEVEN-UP study reported that 51% of the patients in their study suffered from bilateral neovascular AMD during 7 years of follow-up.
+0	AMD	NA	NA	DISCUSS	The second eye involvement in patients with late AMD is a matter of concern because patients with bilateral late AMD are more prone to visual handicaps than patients with unilateral late AMD.
+0	NA	NA	NA	DISCUSS	The SEVEN-UP study also suggested that reduced frequency of treatments contributed to the decline of visual acuity.
+0	NA	NA	NA	DISCUSS	Increasing the frequency of injection might maintain visual acuity for an extended period.
+0	AMD	NA	NA	DISCUSS	Therefore intensive treatment should be initiated in patients with unilateral neovascular AMD who are most likely to develop bilateral neovascular AMD in the future, to maintain good visual acuity.
+0	AMD	NA	NA	DISCUSS	Prediction of the second eye involvement in neovascular AMD would be beneficial for patients with unilateral neovascular AMD.
+0	NA	NA	NA	DISCUSS	Elucidation of the mechanism to control the second eye involvement might lead to prevention of the second eye involvement
+0	NA	NA	NA	DISCUSS	The limitations of this study are its retrospective nature and relatively small sample size.
+1	AMD	LHFP	NA	DISCUSS	Studies involving large size might successfully replicate the association of LHFP, and prospective study would further confirm the association of STON1-GTF2A1L/LHCGR/FSHR and ARMS2/HTRA1 to the bilaterality of AMD.
+0	NA	NA	NA	DISCUSS	Considering that CATT study could not detect any genetic associations between polymorphisms and the second eye involvement within 2 years of follow-up, studies with longer follow-up period should be performed.
+0	NA	NA	NA	DISCUSS	The unilateral patients included in the current study were significantly younger than the bilateral patients.
+0	NA	NA	NA	DISCUSS	The unilateral patients may go on to develop bilateral disease with longer follow up, which would reduce the power of detecting genetic associations.
+0	AMD	NA	NA	DISCUSS	Statistical adjustment for the time of diagnosis with unilateral neovascular AMD would also be helpful.
+0	AMD	NA	NA	DISCUSS	Current study was performed only in Asians including both typical AMD and PCV.
+0	NA	NA	NA	DISCUSS	The prevalence of PCV is higher in Asian than Caucasian.
+0	AMD	NA	NA	DISCUSS	Although the reported prevalence of bilateral involvement is similar between typical AMD and PCV, the ethnic difference cannot be ignored; 40-50% in Caucasian and 10-20% in Asian.
+0	AMD	NA	NA	DISCUSS	Recent studies also suggested the role of ethnic differences in AMD genetic susceptibility.
+1	AMD	NA	NA	DISCUSS	Further study is needed to evaluate whether STON1-GTF2A1L/LHCGR/FSHR and LHFP are associated with neovascular AMD bilaterality in other races
+1	AMD	NA	NA	DISCUSS	In conclusion, our GWAS for neovascular AMD bilaterality identified novel genetic loci STON1-GTF2A1L/LHCGR/FSHR and confirmed the association of ARMS2/HTRA1 with the bilaterality.
+1	AMD	LHFP	NA	DISCUSS	LHFP might also be associated with AMD bilaterality.
+0	AMD	NA	NA	DISCUSS	Prediction of the second eye involvement would be beneficial in determining the long-term management strategy for the first eye of AMD, and elucidation of the mechanisms for the second eye involvement would lead to prevention of the second eye involvement in AMD
+0	NA	NA	NA	METHODS	All procedures used in this study confirmed to the tenets of the Declaration of Helsinki.
+0	NA	NA	NA	METHODS	The Institutional Review Board and the Ethics Committee of each institution approved the experimental protocols; The Kyoto University Graduate School and Faculty of Medicine Ethics Committee, Fukushima Medical University Ethics Committee, Kobe City Medical Center General Hospital Ethics Committee, Singapore National Eye Center Ethics Committee, the Ad hoc Review Board of the Nagahama Cohort Project, and the Nagahama Municipal Review Board of Personal Information Protection.
+0	NA	NA	NA	METHODS	All the participants were fully informed of the purpose and procedures and a written consent was obtained from each
+0	AMD	NA	NA	METHODS	Japanese patients with neovascular AMD were recruited at the Center for Macular Diseases of Kyoto University Hospital (n = 821) and Fukushima Medical University (n = 333) for the discovery stage, and at Kobe City Medical Center General Hospital (n = 170) for the replication stage.
+0	AMD	NA	NA	METHODS	Further, patients with neovascular AMD (n = 112) were recruited at Singapore National Eye Center for the second replication stage.
+0	NA	OCT	NA	METHODS	All subjects underwent comprehensive ophthalmologic examinations, including dilated contact lens slit-lamp biomicroscopy, fundus photography, fluorescein and indocyanine green angiography (HRA2, Heidelberg Engineering, Heidelberg, Germany), and optical coherence tomography (Spectralis HRA + OCT, Heidelberg Engineering, Heidelberg, Germany)
+0	AMD	NA	NA	METHODS	Neovascular AMD was defined as the presence of exudative AMD as described in the international classification system for age-related maculopathy.
+0	AMD	NA	NA	METHODS	Typical AMD involved classic choroidal neovascularization (CNV), occult CNV, or a combination of both.
+0	choroidal capillaries	NA	NA	METHODS	The diagnosis of polypoidal choroidal vasculopathy (PCV) was based on indocyanine green angiography, which showed a branching vascular network terminated in polypoidal lesions.
+0	AMD	NA	NA	METHODS	Diagnosis and grading of AMD were performed in a masked manner by two ophthalmologists independently.
+0	NA	NA	NA	METHODS	In cases of disagreement, the third retinal specialist made the final decision.
+0	AMD	NA	NA	METHODS	Bilaterality of neovascular AMD and subject age at final visit was used for analysis
+0	NA	NA	NA	METHODS	Genomic DNAs were extracted from peripheral blood leukocytes using QuickGene-610L DNA extraction kit (FUJIFILM Co., Tokyo, Japan).
+0	NA	NA	NA	METHODS	Genotyping was performed using Illumina BeadChip, both OmniExpress and HumanExome, HumanOmni2.5-8, or OmniExpress.
+0	AMD	NA	NA	METHODS	The distortion of Hardy-Weinberg equilibrium (HWE) was not considered in this study because all samples comprised AMD cases.
+0	NA	NA	NA	METHODS	Stringent quality control, including minor allele frequency (MAF) >= 1% and genotype call rate >= 95% (per SNP and per individual), was performed using PLINK ver1.07 (http://pngu.mgh.harvard.edu/~purcell/plink/)
+0	AMD	NA	NA	METHODS	Association between genotypic distribution of each SNP and the bilaterality of neovascular AMD was examined using logistic regression analysis by adjusting for age and sex using Software R (R Foundation for Statistical Computing, Vienna, Austria).
+0	NA	NA	NA	METHODS	Inflation of the test statistics was assessed using the genomic-control method.
+0	NA	NA	NA	METHODS	SNPs with P-value < 1.0 x 10-5 were selected as candidates of replication stages.
+0	NA	NA	NA	METHODS	Among the candidate SNPs, one representative SNP was selected from each locus (r2 > 0.8 in the discovery stage samples) and these SNPs were tested for association in replication stages.
+0	NA	NA	NA	METHODS	The genotypic counts of the first and second stages were also evaluated in meta-analysis
+0	AMD	NA	NA	METHODS	Furthermore, association between genotypic distribution of each candidate SNP of neovascular AMD bilaterality and the occurrence of neovascular AMD was examined by chi-square test for trend.
+0	AMD	NA	NA	METHODS	All neovascular AMD cases were compared with Japanese general cohort, the Nagahama Study, as control
+0	AMD	NA	NA	METHODS	A fixed dataset of 3,265 unrelated healthy Japanese subjects from the Nagahama prospective genome cohort for the Comprehensive Human Bioscience (The Nagahama Study) was used as a control group in the AMD susceptibility test.
+0	NA	NA	NA	METHODS	In detail, a total of 3,712 individuals from the Nagahama study were genotyped using HumanHap610K Quad Arrays, HumanOmni2.5 M Arrays, and/or HumanExome Arrays (Illumina Inc., CA, USA).
+0	NA	NA	NA	METHODS	To ensure high-quality genotype data, a series of quality control filters were applied to the data from each platform before imputation, including MAF cut-offs (>0.01), HWE (P > 1.0 x 10-6), genotypic success rate (>95%), individual call rate (>99%), and estimated relatedness (PI-HAT < 0.35).
+0	NA	NA	NA	METHODS	Quality controls were performed using PLINK (ver.1.07; http://pngu.mgh.harvard.edu/,purcell/plink/).
+0	NA	NA	NA	METHODS	For consistent genotyping data across each platform, we performed genomic imputation on available 1000 Genome Project data from East Asian subjects using MACH software (http://www.sph.umich.edu/csg/abecasis/MACH/tour/imputation.html).
+0	NA	NA	NA	METHODS	After imputation, we again performed quality control including MAF cut-offs (>0.01), HWE (P > 1.0 x 10-7), genotypic success rate (>90%), individual call rate (>90%), and imputation quality (R2 > 0.3)
+0	NA	NA	NA	AUTH_CONT	K.K.-K., K.Y., F.M.
+0	NA	NA	NA	AUTH_CONT	and N.Y. have designed the study.
+0	NA	NA	NA	AUTH_CONT	K.K.-K., K.Y., M.Y., M.M., G.C.-C.-M., Q.F., J.Y.-K., M.S., M.S.-K., M.O., Y.A.-K., I.N., H.N., N.G., A.O., H.T., S.O., A.T., Y.K., and T.S.
+0	NA	NA	NA	AUTH_CONT	acquired the data.
+0	NA	NA	NA	AUTH_CONT	K.K.-K., K.Y., M.Y., M.M., G.C.-C.-M., Q.F., J.Y.-K., F.M., C.-C.K., C.-Y.C., T.-Y.W.
+0	NA	NA	NA	AUTH_CONT	and N.Y. analyzed and interpreted data.
+0	NA	NA	NA	AUTH_CONT	F.M., C.-C.K., C.-Y.C., T.-Y.W.
+0	NA	NA	NA	AUTH_CONT	and N.Y. supervised the study.
+0	NA	NA	NA	AUTH_CONT	K.K.-K., K.Y., M.Y., and M.M.
+0	NA	NA	NA	AUTH_CONT	wrote the manuscript.
+0	NA	NA	NA	AUTH_CONT	All authors reviewed the manuscript

@@ -1,0 +1,126 @@
+0	breast cancer	NA	NA	ABSTRACT	Human epidermal growth factor receptor 2-positive breast cancer is a subtype of interest regarding its outcome and the impressive impact of human epidermal growth factor receptor 2 targeted therapy.
+0	breast cancer	NA	NA	ABSTRACT	Constitutional variants may be involved in the aetiology of human epidermal growth factor receptor 2-positive breast cancer, and we propose a case-case study to test the hypothesis that single nucleotide polymorphisms may be associated with human epidermal growth factor receptor 2 status.
+0	NA	NA	NA	ABSTRACT	A Genome-Wide Association Study was used in a cohort of 9836 patients from the SIGNAL/PHARE study (NCT00381901-RECF1098).
+0	breast cancer	NA	NA	ABSTRACT	The main goal was to identify variants specifically related to human epidermal growth factor receptor 2-positive breast cancer.
+0	NA	NA	NA	ABSTRACT	A two-staged genotyping strategy was carried out to cover as large a proportion of the genome as possible.
+0	NA	NA	NA	ABSTRACT	All subjects were genotyped using the Illumina HumanCore Exome chip set.
+0	NA	NA	NA	ABSTRACT	Principal Components Analysis and k-means were then used to characterize the ancestry of the participants.
+0	NA	NA	NA	ABSTRACT	"A random sample of subjects from the main ""European"" cluster was genotyped with the Omni5 chip set."
+0	NA	NA	NA	ABSTRACT	These data were then used to impute missing genotypes from the remaining subjects genotyped only using the HumanCore Exome array.
+0	breast cancer	NA	NA	ABSTRACT	From the 9836 patients, a total of 8703 cases including 3230 patients with human epidermal growth factor receptor 2-positive breast cancer were analyzed.
+0	breast cancer	NA	NA	ABSTRACT	Despite having 80% power to detect an odds ratio of 1.23 in this population, no variant achieved genome-wide significance for association with the occurrence of human epidermal growth factor receptor 2-positive breast cancer vs. any other subtype of breast tumour.
+0	breast cancer	NA	NA	ABSTRACT	Our study was unable to identify constitutional polymorphisms that are strongly associated with human epidermal growth factor receptor 2-positive status among breast cancer patients
+0	breast cancer	HER2	NA	ABSTRACT	A large gene-finding study failed to identify any hereditary factors linked to HER2 expression among women with breast cancer.
+0	breast cancer	HER2	NA	ABSTRACT	A team in France led by Xavier Pivot from the University Hospital Center of Besancon, France, analyzed more than 500,000 single DNA letters from a cohort of 8703 patients with breast cancer, 3230 of whom had tumors with high expression of human epidermal growth factor receptor 2 (HER2) and are thus treated with for anti-HER2 targeted therapies.
+0	NA	HER2	NA	ABSTRACT	The researchers searched for DNA variants associated with HER2 status, but none reached the threshold for statistical significance.
+0	breast cancer	HER2	NA	ABSTRACT	The findings reveal a high level of genetic diversity in women with HER2-positive breast cancer and suggest that HER2 amplification may have more to do with the intrinsic nature of the tumor than with the genetics of the patient
+0	breast cancer	NA	NA	INTRO	Genetic polymorphisms have now been firmly established with respect to breast cancer risk.
+0	breast cancer	NA	NA	INTRO	Clinical observations and epidemiological studies have suggested that some types of breast cancer may be influenced by hereditary factors.
+0	breast cancer	BRCA1	NA	INTRO	For example, it is well known that carries of mutations in BRCA1/2 are less likely to exhibit human epidermal growth factor receptor 2 (HER2)-postive breast cancers.
+0	breast cancer	NA	NA	INTRO	HER2-positive breast cancers are defined by the amplification and/or overexpression of the human epidermal growth factor receptor (HER2/ERBB2) gene at chromosomal region 17q12
+0	breast cancer	NA	NA	INTRO	This subtype of breast cancer is of interest in terms of outcome as anti-HER2-targeted therapies, particularly trastuzumab (Herceptine), have represented a breakthrough in their treatment.
+0	NA	HER2	NA	INTRO	Further understanding of the mechanism(s) related to HER2 amplification may lead to the development of new therapeutic targets
+0	cancers	NA	NA	INTRO	Unfortunately, the mechanism of occurrence of HER2-positive status remains unknown, and is potentially an event that occurs after tumour initiation.
+0	NA	NA	NA	INTRO	The model of polymorphisms related to telomere length illustrates the possible influence of constitutional variants on somatic changes.
+0	cancers	HER2	NA	INTRO	A potential hypothesis for HER2 amplification involves pathways related to non-homologous or other forms of DNA repair mechanisms in the occurrence and fixation of HER2 amplification during the course of tumour development.
+0	cancers	NA	NA	INTRO	For the past decade, HER2-positive tumours have been classified as a subtype of breast cancer.
+0	breast cancer	HER2	NA	INTRO	The hypothesis for the existence of variants predisposing to the occurrence of such HER2 amplification breast cancer is plausible
+0	NA	NA	NA	INTRO	In this context, a Genome-Wide Association Study (GWAS) was carried out in a clinical cohort of over 9836 women from the French nationwide SIGNAL/PHARE study.
+0	breast cancer	NA	NA	INTRO	The main goal of this study was to use a case-case GWAS design to identify variants associated with HER2-positive status as opposed to other types of breast cancer.
+0	breast cancer	HER2	NA	INTRO	In addition, somatic genetic analysis of a subset of HER2 positive breast cancers in this study were also conducted by the French Institut National of Cancer (INCa) in the framework of the International Cancer Genomic Consortium.
+0	NA	NA	NA	RESULTS	From the 9836 patients in the SIGNAL/PHARE population, some cases were excluded.
+0	NA	NA	NA	RESULTS	Four hundred seventy-one patients failed DNA extraction.
+0	NA	NA	NA	RESULTS	Five hundred fifty-one subjects were outside of the main European population cluster, and 85 lacked sufficient clinical data.
+0	breast cancer	NA	NA	RESULTS	A total of 8703 patients including 3230 patients with HER2-positive breast cancer were analyzed
+0	NA	NA	NA	RESULTS	All subjects were genotyped using the Illumina HumanCore Exome chip set.
+0	NA	NA	NA	RESULTS	A total of 9365 subjects were submitted for genotype analyses (Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	NA	NA	RESULTS	No subjects were removed due to poor genotyping performance (>95% success).
+0	NA	NA	NA	RESULTS	A total of 8971 subjects (94.4%) had greater than 99% genotype success rate.
+0	NA	NA	NA	RESULTS	During the PCA analyses, 26 pairs of individuals with identity by state >30% (suggesting a cryptic relatedness) were described, and only one member of each pair (the one with the greatest SNP completion rate) was included.
+0	NA	NA	NA	RESULTS	HapMap subjects were included in PCA analyses in order to provide scale and points of reference for European, African, and Asian clusters (supplementary figure 1).
+0	NA	NA	NA	RESULTS	"Therefore, the choice was made to genotype all subjects not belonging to the main ""European"" cluster (N = 551), and a random sample of 1449 subjects from the main ""European"" cluster (N = 8788) with the Omni5 chip set (supplementary Fig."
+0	NA	NA	NA	RESULTS	2 and 3).
+0	NA	HER2	NA	FIG	Manhattan plot of associations between SNPs and HER2 status.
+0	NA	NA	NA	FIG	Association testing has been carried out using the additive model and logistic regression using the ProbABEL function.
+0	NA	NA	NA	FIG	Models were corrected for the first two principal components and age at diagnosis.
+0	NA	NA	NA	FIG	The blue horizontal line represents the arbitrary 1.0 x 10-5 threshold, while the red horizontal line corresponds to the empiric threshold of 1.48 x 10-7 as calculated using simpleM followed by Bonferroni correctio
+0	NA	HER2	NA	FIG	Quantile-Quantile plot of p-values from the GWAS of HER2 status.
+0	NA	NA	NA	FIG	Analyses from 8703 patients, 3230 of whom are HER2-positive, are represented.
+0	NA	NA	NA	FIG	914144 variants were included in these analyses.
+0	NA	NA	NA	FIG	The gray area highlights the zone of potentially associated variant
+0	NA	HER2	NA	FIG	LocusView 1 plot of SNP with the strongest association with HER2 status.
+0	NA	NA	NA	FIG	Adjusted for age and the two first component of the PC
+0	breast cancer	NA	NA	RESULTS	In this population, no variant achieved genome-wide significance for association with the occurrence of HER2-positive breast cancer vs. other subtypes of breast tumour (luminal and triple-negative, Figs.
+0	NA	NA	NA	RESULTS	2 and 3).
+0	NA	NA	rs68130068	RESULTS	The most significant SNP was rs68130068 at 3.6 10-6 value on chromosome 2 (Fig.
+0	NA	NA	NA	RESULTS	4).
+0	breast cancer	NA	NA	DISCUSS	The present study is the first of its size and completeness aimed to search for genetic variants associated with HER2-positive breast cancer using a case-case design.
+0	cancers	HER2	NA	DISCUSS	We have decided to use a case-case design under the assumption that HER2 amplification is a secondary event, occurring after tumour initiation.
+0	breast cancer	NA	NA	DISCUSS	Under this assumption, comparing HER2-positive to HER2-negative breast cancer cases would provide insights into the mechanisms of HER2 amplification, conditional on the presence of primary breast cancer
+0	NA	NA	NA	DISCUSS	Single SNP analyses yielded no genome-wide significant associations despite a sample size providing a high degree of statistical power.
+0	breast cancer	NA	NA	DISCUSS	Previous studies used case-only analysis to examine associations between known breast cancer risk SNPs and breast cancer sub-types.
+0	NA	NA	NA	DISCUSS	None of the variants studied showed any associations with p-values below 0.01.
+0	breast cancer	NA	NA	DISCUSS	This is the first GWAS study, to our knowledge, with nearly 10,000 breast cancer cases specifically designed to study breast cancer in a case-cohort setting.
+0	cardiac toxicity	NA	NA	DISCUSS	The next steps of SIGNAL/PHARE study will be to search for constitutional variants associated with treatment efficacy taking into account the competing risks related to well-established prognostic factors for survival endpoints, as well as constitutional variants linked to safety, in particular cardiac toxicity induced by trastuzumab
+0	breast cancer	NA	NA	DISCUSS	Of interest, somatic sequencing showed that HER2-positive breast cancer is a heterogeneous group, and HER2 amplification is found in all breast tumour subtype profiles.
+0	breast cancer	NA	NA	DISCUSS	HER2-positive breast cancers do not per se represent a homogeneous subtype, but are actually distributed along the whole breast cancer spectrum, from oestrogen receptor-positive luminal to oestrogen receptor-negative basal phenotype, with genome alterations in accordance with these phenotypes.
+0	breast cancer	HER2	NA	DISCUSS	The knowledge regarding the heterogeneity of HER2 amplification across the spectrum of breast cancer subtypes may explain, in part, the lack of genetic variants related to occurrence of HER2 breast cancer.
+0	breast cancer	HER2	NA	DISCUSS	Conversely, the lack of genetic determinant(s) for HER2 breast cancer reinforces the conclusions of Ferrari et al.
+0	breast cancer	NA	NA	DISCUSS	Somatic sequencing of HER2-positive breast tumours supports the idea that the intrinsic heterogeneity observed reflects their cell of origin, suggesting that the HER2 amplification is an embedded event in the natural history of these tumours.
+0	NA	NA	NA	DISCUSS	Heterogeneity in outcomes also limits power in GWAS studies.
+0	NA	NA	NA	DISCUSS	The aetiological heterogeneity related to the emergence of HER2-positive status could explain, at least in part, the lack of observed associations between polymorphisms and HER2-positive status
+0	breast cancer	NA	NA	METHODS	PHARE was a randomized phase 3 clinical trial comparing 6-month and 12-month adjuvant trastuzumab exposures (NCT00381901) and included a subset of 1430 HER2-positive breast cancer cases with germline DNA available for GWAS analyses.
+0	breast cancer	NA	NA	METHODS	SIGNAL was a prospective cohort specifically designed for GWAS analyses of early breast cancer patients, enrolled at the time of their adjuvant chemotherapy from June 2006 to December 2013 (RECF1098, www.e-cancer.fr)
+0	NA	NA	NA	METHODS	As both studies were carried out simultaneously in the same base population, they can be combined as a large observational clinical cohort.
+0	NA	NA	NA	METHODS	Clinical and pathological data were prospectively provided directly from the patients' medical teams using standardized forms, and centralized at INCa.
+0	NA	NA	NA	METHODS	All patients provided a blood sample, which was centralized at the Fondation Jean Dausset-Centre d'Etudes du Polymorphisme Humain (CEPH) in Paris, France, for DNA extraction using standard protocols.
+0	NA	NA	NA	METHODS	Genotyping was carried out at the Centre National du Genotypage (CNG) in Evry, France
+0	NA	NA	NA	METHODS	INCa was the sponsor and the funding source.
+0	NA	NA	NA	METHODS	The sponsor validated the study as designed by the trial's steering committee as well as subsequent amendments.
+0	NA	NA	NA	METHODS	The sponsor organised data collection.
+0	NA	NA	NA	METHODS	Data were analysed and interpreted by the committee, independently from the sponsor.
+0	NA	NA	NA	METHODS	All authors of the present manuscript are members of the committee and had access to the raw data.
+0	NA	NA	NA	METHODS	Both studies were approved by the Franche-Comte central ethical committee on May 15, 2006 and January 26th 2009 and declared to the Competent Authority on November 6th 2008.
+0	NA	NA	NA	METHODS	Furthermore, the informed consent was in conformity with the French regulation for genetic studies as well as with the principles of Good Clinical Practice and the Declaration of Helsinki and all patients signed the informed consents
+0	breast cancer	NA	NA	METHODS	Eligibility criteria for both SIGNAL and PHARE included the following: female patients over 18 years of age (range 21.8-90.9, median 53.7 years), with histologically confirmed invasive breast cancer.
+0	breast cancer	NA	NA	METHODS	Additionally, patients in PHARE needed to have pathologically confirmed HER2-postive breast cancer, and adequate (>50%) left ventricular ejection fraction to continue after 2 months of trastuzumab treatment.
+0	NA	NA	NA	METHODS	Patients must have received (neo) adjuvant chemotherapy and/or breast-axillary surgery before recruitment, and signed informed consent.
+0	NA	HER2	NA	METHODS	HER2 status was determined as part of the patient's standard care, independent of our observational study, by a certified local laboratory using immunohistochemistry or fluorescence in situ hybridization.
+0	NA	NA	NA	METHODS	To be eligible for the observational study SIGNAL, patients enrolled in clinical trials with trastuzumab (i.e., PHARE) but no other experimental HER2-targeted therapies were allowed to participate.
+0	NA	NA	NA	METHODS	Other clinical characteristics were determined from pathology reports collected at the time of inclusion in the study.
+0	NA	NA	NA	METHODS	Blood samples were collected during routine clinical visits by trained, certified technicians on EDTA and Citrate, and shipped via courier to the CEPH.
+0	NA	NA	NA	METHODS	Plasma and buffy-coat were isolated from EDTA after centrifugation at 1600 g for 10 min at 4  C. DNA was extracted from buffy-coat using salting out protocols on the Autopure LS (Qiagen) provided by the manufacturer.
+0	NA	NA	NA	METHODS	"DNA concentrations were measured using ""PicoGreen dsDNA reagent"" (Life Technologies)."
+0	NA	NA	NA	METHODS	DNAs were diluted sequentially using TE 10:1 to obtain concentrations normalized at 100 ng/mul.
+0	NA	NA	NA	METHODS	DNA samples are stored at -80  C
+0	NA	NA	NA	METHODS	A two-staged genotyping strategy was carried out to cover as large a proportion of the genome as possible.
+0	NA	NA	NA	METHODS	Briefly, all subjects were genotyped using the Illumina HumanCore Exome chip set, composed of ~264,000 variants as a GWAS backbone and ~244,000 variants centered on known coding genes.
+0	NA	NA	NA	METHODS	Replicate samples were included across genotyping plates, and yielded greater than 98% genotype concordance across plates.
+0	NA	NA	NA	METHODS	SNPs with >5% missing data, a Hardy-Weinberg p-value < 0.001, or a minor allele frequency <0.1%, or that were present in duplicate or triplicate were excluded from further analysis.
+0	NA	NA	NA	METHODS	Principal Components Analysis, where the first two vectors were used to define sample populations, and k-means were then used to characterize the ancestry of the participants.
+0	NA	NA	NA	METHODS	These analyses were conducted using the EIGENSTRAT program of the smartpca.perl package, followed by k-means clustering using the kmeans function of the NbClust package in R. Data on HapMap subjects samples (release 28) were included in order to provide scale and points of reference for European, African, and Asian clusters.
+0	NA	NA	NA	METHODS	Polymorphisms that overlap both our data and HapMap were used for PCA.
+0	NA	NA	NA	METHODS	Our original analysis plan and budget allowed for genotyping 2000 subjects using the Omni5 chip set, composed of over 4,000,000 variants.
+0	NA	NA	NA	METHODS	"We therefore chose to genotype a random sample (using a random number generator in R) of subjects from the main ""European"" cluster with the Omni5 chip set for imputation."
+0	NA	NA	NA	METHODS	To reduce the potential for residual population stratification, only samples from the main cluster of European individuals were included in the present analysis.
+0	NA	NA	NA	METHODS	These data were then used to impute missing genotypes from the remaining subjects genotyped only using on the HumanCore Exome array
+0	NA	NA	NA	METHODS	Omni5 data were filtered based on HWE, and SNP and sample completion rates, as for the HumanCore Exome data.
+0	NA	NA	NA	METHODS	Furthermore, in order to perform imputation, only SNPs with data available for all individuals were retained.
+0	NA	NA	NA	METHODS	Both the HumanCore Exome and Omni5 data were prephased using MaCH1.
+0	NA	NA	NA	METHODS	The Omni5 data were used as the reference, and HumanCore Exome data were imputed to this reference using Minimac3.
+0	NA	NA	NA	METHODS	Imputed SNPs with a Hardy-Weinberg p-value below 0.001, no map position, present multiple times on the chip, from the Y chromosome, were monomorphic, were poorly imputed (Q < 30%), and with a minor allele frequency <1% were further filtered from analyses
+0	breast cancer	NA	NA	METHODS	Association testing was carried out through logistic regression using probABEL, comparing the additive model of genotype distribution between clinically confirmed HER2-positive and HER2-negative breast cancer patients.
+0	NA	NA	NA	METHODS	Models were adjusted for the first two principal components from the PCA, and age at diagnosis.
+0	NA	NA	NA	METHODS	Genome-wide significance levels were estimated using the effective number of tests based on linkage disequilibrium between all markers used in our population through the SimpleM program in R. The number of effective markers is estimated at 345,906, corresponding to a Bonferroni-corrected p-value threshold of 1.48 x 10-7.
+0	NA	NA	NA	METHODS	Given this threshold, the study has greater than 80% power to detect a per-allele odds ratio of 1.23 for polymorphisms with a minor frequency of 30%.
+0	NA	NA	NA	METHODS	Power was calculated using real numbers of subjects from our study using a case-control design under the additive model in the Quanto program V1.2.4
+0	NA	NA	NA	AUTH_CONT	The funding source validated the studies as designed by the trials' steering committee as well as subsequent amendments.
+0	NA	NA	NA	AUTH_CONT	The sponsor organized data collection (C.F.M., I.P., F.C.).
+0	NA	NA	NA	AUTH_CONT	DNA extraction was carried out by the Fondation Jean Dausset-CEPH (H.B., M.S.)
+0	NA	NA	NA	AUTH_CONT	and genotyping was perfomed by CNG (J.F.D., A.B., D.B., C.B.).
+0	NA	NA	NA	AUTH_CONT	Data analysis was carried out by independent academic statisticians (A.R., D.C.).
+0	NA	NA	NA	AUTH_CONT	Data were interpreted and manuscript revised by the trial's steering committee (X.P., G.R., P.F., M.R., H.B., T.B., P.S., C.J., H.B., T.P., I.T., D.A., M.C.M., J.P.J., S.L.D., A.D.J., J.M.F., C.T., C.L., V.D., V.T.L., O.C., J.M., J.Y.P., C.A., P.K., I.P., G.T., D.C., H.B., M.S., A.B., D.B., C.B., A.R., J.F.D.)
+0	NA	NA	NA	AUTH_CONT	independently from the sponsor.
+0	NA	NA	NA	AUTH_CONT	X.P., I.P., and D.C. had access to the raw data.
+0	NA	NA	NA	AUTH_CONT	The corresponding author had full access to all of the data and had the final responsibility to submit for publication

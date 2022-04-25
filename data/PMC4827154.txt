@@ -1,0 +1,146 @@
+0	NA	NA	NA	ABSTRACT	Advanced glycation end-products (AGEs) are a diverse group of molecules produced by the non-enzymatic addition of glucose to proteins, lipids, and nucleic acids.
+0	hyperglycemia	NA	NA	ABSTRACT	AGE levels have been associated with hyperglycemia and diabetic complications, especially in animal models, but less clearly in human studies.
+0	diabetes	NA	NA	ABSTRACT	We measured total serum AGEs using an enzyme linked immunosorbant assay (ELISA) in 506 subjects from 246 families in the Diabetes Heart Study (DHS)/DHS MIND Study (n= 399 type 2 diabetes(T2D)-affected).
+0	NA	NA	NA	ABSTRACT	Single nucleotide polymorphisms (SNPs) in several candidate genes, including known AGE receptors, were tested for their influence on circulating AGE levels.
+0	NA	NA	NA	ABSTRACT	The genetic analysis was expanded to include an exploratory genome-wide association study (GWAS) and exome chip analysis of AGEs ( 440,000 SNPs).
+0	NA	NA	NA	ABSTRACT	AGEs were found to be highly heritable (h2 = 0.628, p=8.96x10-10).
+0	NA	RAGE	rs1035798	ABSTRACT	While no SNPs from candidate genes were significantly associated after Bonferroni correction, rs1035798 in the gene AGER was the most significantly associated (p=0.007).
+0	NA	MT1A	rs7198427	ABSTRACT	Additionally, rs7198427, in MT1A, showed a nominally significant p-value (p=0.0099).
+0	NA	NA	rs17054480	ABSTRACT	No SNPs from the GWAS or exome studies were identified after correction for multiple comparisons; however, rs17054480 in the PALLD2 gene on chromosome 4 showed the strongest association (p=7.77x10-7).
+1	NA	NA	rs716326	ABSTRACT	Five SNPs at two loci (ISCA2/NPC2 and FBXO33) had p-values of less than 2.0x10-5 and three additional SNPs (rs716326 in MACROD2, and rs6795197 and rs6765857 in ZBTB38) showed a nominal association with p-values of less than 1.0x10-5.
+0	NA	NA	NA	ABSTRACT	These findings provide a foundation for further investigation into the genetic component of circulating AGEs
+0	NA	NA	NA	INTRO	Advanced glycation end products (AGEs) are a diverse, heterogenous class of molecules, formed through the non-enzymatic glycation and oxidation of proteins, lipids, and nucleic acids.
+0	Type 2 diabetes	NA	NA	INTRO	AGEs have been implicated in a wide range of diseases and phenotypes and are a major pathway of interest in complications of type 2 diabetes (T2D).
+0	NA	NA	NA	INTRO	AGE formation is accelerated in T2D- Affected individuals due to increased concentration of circulating glucose.
+0	diabetes	NA	NA	INTRO	Previous investigations in diabetic cohorts have associated AGEs with cardiovascular outcomes, diabetic nephropathy, retinopathy, and neuropathy.
+0	NA	vascular cell adhesion molecule 1	NA	INTRO	In addition, AGEs have been shown to be associated with a number of clinical measures and behaviors including estimated glomerular filtration rate (eGFR), soluble vascular cell adhesion molecule 1 [van Eupen, et al.
+0	NA	NA	NA	INTRO	2013], body mass index (BMI), and smoking
+0	Diabetes Complications	NA	NA	INTRO	While there are numerous association studies investigating the relationship between AGE levels and diabetic complications, there are relatively few prior studies investigating the genetics influencing AGE levels.
+0	NA	RAGE	NA	INTRO	AGEs were previously reported to be heritable and, in addition, single nucleotide polymorphisms (SNPs) in AGER (RAGE; Receptor for Advanced Glycation End Products) and MT1A (Metallothionein-1A) were observed to be associated with AGE levels.
+0	NA	AGE-R1	NA	INTRO	However, there are additional AGE receptors that represent potential candidates for genetic analyses, including AGE-R1 (Oligosaccharyl Transferase-48), AGE-R2 (PRKCSH protein kinase C substrate 80K-H), AGE-R3/ Galectin-3, and SR-A (macrophage scavenger receptors type I and type II).
+0	diabetes	NA	NA	INTRO	We have evaluated heritability of AGEs and then conducted genetic association analyses with AGE levels in the Diabetes Heart Study (DHS)/DHS Mind Study cohort, an ongoing genetic and epidemiological analysis of families enriched for type 2 diabetes with extensive genetic data
+0	NA	NA	NA	METHODS	The DHS is a family-based study examining risk for macrovascular and other complications in T2D.
+0	absence of renal failure	NA	NA	METHODS	Briefly, the DHS includes siblings concordant for T2D but without advanced renal insufficiency.
+0	NA	NA	NA	METHODS	When possible, unaffected siblings were also recruited.
+0	diabetes	NA	NA	METHODS	T2D was clinically defined as diabetes developing after the age of 35 years and initially treated with oral agents and/or diet and exercise, in the absence of historical evidence of ketoacidosis.
+0	NA	NA	NA	METHODS	Diagnoses were confirmed by measurement of fasting blood glucose and glycosylated hemoglobin (HbA1c).
+0	cardiovascular disease	NA	NA	METHODS	Extensive measurements of cardiovascular disease (CVD) risk factors were obtained during baseline exams, which occurred from 1998 to 2006.
+0	NA	NA	NA	METHODS	Ascertainment and recruitment have been previously described in detail
+0	DHS MIND	NA	NA	METHODS	The DHS MIND is an ancillary study to the DHS that included a cognitive testing component and brain magnetic resonance imaging (MRI).
+0	vascular disease	NA	NA	METHODS	The purpose was to investigate the relationships between cognitive function, brain imaging, and vascular disease in T2D.
+0	NA	NA	NA	METHODS	Participants from the original DHS investigation were re-examined on average 6.7 +- 1.6 years after their initial visit.
+0	NA	NA	NA	METHODS	Participant examinations were conducted in the General Clinical Research Center of the Wake Forest Baptist Medical Center.
+0	NA	NA	NA	METHODS	Study protocols were approved by the Institutional Review Board at Wake Forest School of Medicine and all study procedures were carried out in accordance with the Declaration of Helsinki.
+0	NA	NA	NA	METHODS	All participants provided written informed consent before participation
+0	NA	NA	NA	METHODS	Total serum AGEs were measured using a competitive enzyme linked immunosorbant assay (ELISA) (Lifeome Biolabs; Oceanside, CA).
+0	NA	NA	NA	METHODS	The ELISA was run according to the manufacturer's recommendations using stored serum.
+0	NA	NA	NA	METHODS	The ELISA uses a monoclonal antibody that is specific to AGEs.
+0	NA	NA	NA	METHODS	This ELISA has a minimum detectable dose of AGEs less than 35.2 ng/ml.
+0	NA	NA	NA	METHODS	Intra-assay and inter-assay precision was 2.0% and 22.5%, respectively
+0	NA	NA	NA	METHODS	Additional SNPs, predominately low-frequency and rare coding SNPs, were also captured by the Illumina HumanExome BeadChips v.1.0 (Illumina Inc., San Diego, CA) for which genotype data was available in the DHS.
+0	NA	NA	NA	METHODS	For DHS exome chip data, genotype calling was completed using Genome Studio Software v1.9.4 (Illumina).
+0	NA	NA	NA	METHODS	Samples failing to meet a minimum acceptable call rate of 98% (n=3) were excluded from further analyses.
+0	NA	NA	NA	METHODS	An additional 58 samples were included as blind duplicates within the genotyping set to serve as QC samples; the concordance rate for blind duplicates was 99.9 +-0.0001% (mean+- standard deviation (SD)).
+0	NA	NA	NA	METHODS	Exclusion criteria for SNP performance included call rate < 95% (n=972), SNPs with 5 or fewer observances (n=204,273) and Hardy-Weinberg Equilibrium (HWE) p-value <1x10-6 (n=26); 41,961 SNPs were retained for analysis.
+0	NA	NA	NA	METHODS	Additional QC of exome chip data set was completed to exclude samples with poor quality genotype calls, gender errors, or unclear/unexpected sibling relationships
+0	NA	NA	NA	METHODS	Genomic DNA was purified from whole-blood samples obtained from subjects using the PUREGENE DNA isolation kit (Gentra Systems., Minneapolis, MN).
+0	NA	NA	NA	METHODS	DNA was quantitated using standardized fluorometric readings on a Hoefer DyNA Quant 200 fluorometer (Hoefer Pharmacia Biotech, Inc., San Francisco, CA)
+0	NA	NA	NA	METHODS	A genome-wide association study (GWAS) was completed using the Affymetrix Genome-wide Human SNP Array 5.0 (Affymetrix, CA, USA) as reported.
+0	NA	NA	NA	METHODS	Genotype calling was completed using the BRLLM-P algorithm in Genotyping Console v4.0 (Affymetrix).
+0	NA	NA	NA	METHODS	Samples failing to meet an intensity quality control (QC) threshold and those failing to meet a minimum acceptable call rate of 95% were excluded from further analyses (n=7).
+0	NA	NA	NA	METHODS	An additional 39 samples were included as blind duplicates within the genotyping set to serve as QC samples; the concordance rate for these blind duplicates was 99.0 +-0.72% (mean+- SD).
+0	NA	NA	NA	METHODS	Exploratory analyses of genotype data were performed using PLINK v. 1.07 (http://pngu.mgh.harvard.edu/purcell/plink/) and samples with poor quality genotype calls, gender errors, or unclear/unexpected sibling relationships were excluded from further analysis.
+0	NA	NA	NA	METHODS	Exclusion criteria for SNP performance included call rate < 95% (n=11,085), HWE p-value < 1x10-6 (n=332), and minor allele frequency (MAF) < 0.01 (n=57,382); 371,951 SNPs were retained for analysis
+0	NA	NA	NA	METHODS	Heritability estimates for AGEs were assessed in 506 related individuals from 245 families that had AGE measures.
+0	NA	NA	NA	METHODS	The AGE measurements were natural log transformed to approximate the normality assumptions of the analysis.
+0	NA	NA	NA	METHODS	To determine the contribution of genetic factors to AGE levels, the data in family members were analyzed using Sequential Oligogenic Linkage Analysis Routines (SOLAR) v6.3.4 (Texas Biomedical Research Institute, San Antonio, TX, USA).
+0	NA	NA	NA	METHODS	SOLAR performs a variance components analysis of family data where the total phenotypic variation is partitioned into genetic and nongenetic sources of variation.
+0	NA	NA	NA	METHODS	This approach has been used previously in the DHS.
+0	NA	NA	NA	METHODS	To minimize the bias associated with shared environmental factors, the estimates of heritability (h2) were based on all available family data and were controlled for covariates related to AGEs including age, gender, BMI, eGFR, T2D affected status, and smoking status (current or former).
+0	NA	NA	NA	METHODS	Five models were developed that incorporated an increasing number of covariates to determine the extent that genetic factors contribute to variation in AGE levels independent of other confounding variables.
+0	NA	NA	NA	METHODS	The first model was unadjusted.
+0	NA	NA	NA	METHODS	The second model was adjusted for age and gender.
+0	NA	NA	NA	METHODS	The third model was adjusted for age, gender, and BMI.
+0	NA	NA	NA	METHODS	The fourth was adjusted for age, gender, BMI, and eGFR.
+0	NA	NA	NA	METHODS	The fifth model was the fully adjusted model and included age, gender, BMI, eGFR, T2D-affected status, and a history of smoking.
+0	NA	NA	NA	METHODS	The significance of the heritability estimates was obtained by likelihood ratio tests
+0	NA	NA	NA	METHODS	Genetic association was run using SOLAR v6.3.4 (Texas Biomedical Research Institute, San Antonio, TX) which uses variance component methods to account for family structure.
+0	NA	NA	NA	METHODS	AGE measures were natural log transformed prior to analysis to approximate conditional normality.
+0	NA	NA	NA	METHODS	Covariates used in the analysis were age, gender, BMI, T2D affected status, eGFR, and smoking history.
+0	NA	NA	NA	METHODS	All analyses were run using the additive model of inheritance.
+0	NA	NA	NA	METHODS	The Bonferroni corrected p - value for significance for the 121 candidate gene SNPs was set at 0.00041 (alpha=0.05/121).
+0	NA	NA	NA	METHODS	Similarly, the p - value for significance for the GWAS and exome chip associations was set at 1.21x10-7 after correcting for multiple comparisons based upon the number of SNPs (413,912) investigated
+0	NA	NA	NA	RESULTS	Demographic characteristics of the 506 individuals included in this study are shown in Table 1.
+0	NA	NA	NA	RESULTS	Briefly, the average age was 67 years old and just over half of the participants were female (55.3%).
+0	obese	NA	NA	RESULTS	The individuals were on average overweight or obese with an average BMI of 31.5kg/m2.
+0	diabetes	NA	NA	RESULTS	Approximately 79% of the individuals were affected by T2D with average diabetes duration of 16.6 years.
+0	obese	NA	NA	RESULTS	The DHS cohort is broadly representative of T2D-affected patients in the general population: older, relatively obese, and with significant risk factors and history of CVD and kidney function decline
+0	NA	NA	NA	RESULTS	A heritability analysis was performed on AGEs (Table 2).
+0	NA	NA	NA	RESULTS	This analysis was run using a variety of covariates.
+0	NA	NA	NA	RESULTS	First, with no covariates included, AGEs were not found to be heritable (h2 =0.045 p=0.291).
+0	NA	NA	NA	RESULTS	However, as applicable covariates were added, the heritability estimate became increasingly more significant.
+0	NA	NA	NA	RESULTS	When age and sex were included in the analysis as covariates the h2 increased to 0.084 (p=0.167); addition of BMI increased the heritability estimate further to 0.114 (p=0.093).
+0	NA	NA	NA	RESULTS	After adjusting for commonly used covariates including age, sex, BMI and eGFR in model 4, heritability reached statistical significance (h2=0.317, p=5.75x10-4).
+0	NA	NA	NA	RESULTS	AGE levels were highly heritable in the fully adjusted model when accounting for age, gender, BMI, eGFR, T2D affected status, and current/former smoking status (h2=0.628, p=8.96x10-10) (Table 2)
+0	NA	RAGE	NA	RESULTS	We performed an association analysis using 121 SNPs genotyped on the GWAS and exome chips from known AGE receptor genes including, Advanced Glycosylation End Product-Specific Receptor (AGER), Dolichyl-Diphosphooligosaccharide-Protein Glycosyltransferase Subunit (non-catalytic) (DDOST), Protein Kinase C substrate 80K-H (PRKCSH), Galactoside-Binding, Soluble, 3 (LGALS3), and Macrophage Scavenger Receptor 1 (MSR1) genes.
+0	NA	NA	NA	RESULTS	All polymorphic SNPs in the genes (+- 20 kb) from the GWAS and exome chips were included in this analysis.
+0	NA	MT1A	NA	RESULTS	In addition to the receptor genes, Metallothionein 1A (MT1A) was included based upon prior literature that observed an association with AGE levels.
+0	NA	NA	NA	RESULTS	We did not find significant associations of any of the candidate SNPs with AGEs after adjusting for multiple comparisons (threshold p < 0.00041) (Table 3).
+0	NA	NA	NA	RESULTS	Thirty-three SNPs had a p < 0.25 and are shown in Table 3, including 8 variants with a p < 0.05.
+0	NA	RAGE	rs1035798	RESULTS	The top SNP was rs1035798 in the AGER gene (p=0.007).
+0	NA	MT1A	rs7198427	RESULTS	The next most significant variant was a SNP in the MT1A gene, rs7198427 (p=0.0099).
+0	NA	AGE-R1	rs113092523	RESULTS	DDOST contained one SNP with a p<0.05, rs113092523.
+0	NA	MSR1	rs10503574	RESULTS	Top SNPs in other candidate genes did not reach p<0.05 (MSR1, rs10503574, p=0.052; PRKCSH, rs17426435, p=0.054; and LGALS3, rs11125, p=0.22)
+0	NA	NA	NA	RESULTS	No SNP reached conservative levels of statistical significance (threshold p<1.23x10-7).
+0	NA	NA	NA	RESULTS	The top results are shown in Table 4.
+0	NA	ChIA	rs41282492	RESULTS	The most significant SNPs were exonic, missense variants in the Chitinase, acidic (CHIA) gene on chromosome 1 (rs41282492, p=4.1x10-5; rs41282494, p=4.1x10-5; rs41282496, p=4.1x10-5) (Table 4).
+0	NA	19A	rs10805470	RESULTS	Three additional SNPs had p < 1.0x10-4; rs10805470 (intergenic, p=4.9x10-5), rs139025377 (DEAD (Asp-Glu-Ala-Asp) box polypeptide 19A [DDX19A], p=7.4x10-5), and rs147902167 (myomesin 3 [MYOM3], p=8.1x10-5) (Table 4).
+0	NA	NA	NA	RESULTS	Fig.
+0	NA	NA	NA	RESULTS	1 shows a Manhattan plot of the results from the exome chip analysis of AGEs
+0	NA	NA	NA	RESULTS	There were no SNPs from the GWAS that reached statistical significance (threshold p < 1.23x10-7).
+1	NA	PALLD	rs17054480	RESULTS	The most significant SNP associated with AGE levels was rs17054480 (p=7.77x10-7), an intronic SNP in the cytoskeletal associated protein (PALLD) gene on chromosome 4 (Table 5).
+0	NA	NPC2	rs11159086	RESULTS	There were 3 SNPs with p < 1x10-5 surrounding the Niemann-Pick disease, type C2 (NCP2) and iron-sulfur cluster assembly 2(ISCA2) genes on chromosome 14 (rs11159086, p=2.70x10-6; rs4899514, p=4.18x10-6; rs1029701, p=9.11x10-6) (Table 5).
+1	NA	FBXO33	rs4454866	RESULTS	Four additional SNPs showed nominal association with p < 1x10-5 including rs4454866 in the F-box Protein 33 (FBXO33) gene (p=5.07x10-6), rs716316 in the MACRO domain containing 2 (MACROD2) gene (p=7.53x10-6), rs679597 (p=8.42x10-6), and rs6765857 (p=9.32x10-6) in the zinc finger and BTB domain containing 38 (ZBTB38) gene (Table 5).
+0	NA	NA	NA	RESULTS	There were 52 additional SNPs that were nominally associated with a p < 1x10-4 (Table S1).
+0	NA	NA	NA	RESULTS	Fig.
+0	NA	NA	NA	RESULTS	2 shows a Manhattan plot of the results from the GWAS analysis of AGEs
+0	diabetes	NA	NA	DISCUSS	In this study we evaluated heritability and genetic association between polymorphisms in specific genes and genome wide data with AGEs in a sample with a high prevalence of diabetes.
+0	CML	NA	NA	DISCUSS	Only one other study has calculated heritability for AGE levels and that for a specific type of AGE, Nepsilon-carboxymethyl lysine (CML) which was highly heritable (h2 = 0.74).
+0	NA	NA	NA	DISCUSS	In the study, Leslie et al.
+0	CML	NA	NA	DISCUSS	observed a higher correlation of CML levels in monozygotic twins compared to dizygotic twins.
+0	CML	NA	NA	DISCUSS	Importantly, heritability of fasting glucose and HbA1c did not explain the CML heritability.
+0	CML	NA	NA	DISCUSS	The results of the current study are consistent with this; in the fully adjusted model we showed that circulating AGE levels are highly heritable (h2 = 0.628), suggesting that there is a substantial genetic component to not just CML levels, but also total AGEs quantitated by ELISA
+0	NA	RAGE	NA	DISCUSS	Most of the prior genetic association studies for AGE levels have focused on a few candidate genes, most notably the receptor for advanced glycation end products (RAGE) gene (AGER) on chromosome 6.
+0	NA	RAGE	NA	DISCUSS	Several previous studies have shown evidence of an association between polymorphisms in AGER and circulating AGE levels.
+0	NA	NA	NA	DISCUSS	Bansal et al.
+0	NA	NA	rs2070600	DISCUSS	found that the serine allele of rs2070600 (Gly82Ser) and rs1800625 (C allele) were associated with increased AGEs.
+0	NA	NA	rs2070600	DISCUSS	Jang et al., on the other hand, found that the individuals with the G/G genotype at rs2070600 had increased levels of AGEs.
+0	NA	AGE-R1	NA	DISCUSS	There are additional AGE receptors including AGE-R1 or Oligosaccharyl Transferase-4 coded by the DDOST (Dolichyl- Diphosphooligosaccharide-Protein Glycosyltransferase Subunit (non-catalytic)) gene, AGE-R2 (80 K-H phosphoprotein (Protein kinase C substrate)) which is coded by the Protein Kinase C substrate 80K-H (PRKCSH) gene, AGE-R3 (Galectin-3) coded by the Galactoside-Binding, Soluble, 3 (LGALS3) gene, and macrophage scavenger receptors type I and type II (SR-A) coded by the Macrophage Scavenger Receptor 1 (MSR1) gene, none of which, to our knowledge, have shown genetic associations with circulating AGE levels.
+0	NA	RAGE	rs8052394	DISCUSS	In addition to AGER, Metallothionein 1A (MT1A) contains a SNP (rs8052394) that was previously found to be associated with AGE levels; individuals with the G allele had increased levels of AGEs compared to individuals with the AA genotype.
+0	NA	NA	NA	DISCUSS	Significantly, to date, there are no GWAS or exome chip studies investigating circulating AGE levels
+0	NA	NA	NA	DISCUSS	In the present study we investigated potential associations with SNPs in and near multiple AGE receptor protein genes and genes suspected of influencing AGE levels.
+0	NA	NA	NA	DISCUSS	Several nominal associations were observed.
+0	NA	RAGE	rs1035798	DISCUSS	Of particular interest is the association (p = 0.0073) of AGE levels with SNP rs1035798 located in AGER.
+0	small-vessel disease	NA	rs1035798	DISCUSS	Although the function of this SNP is unknown, recent studies observed rs1035798 to be associated with small-vessel disease and cardiovascular death.
+0	NA	RAGE	NA	DISCUSS	RAGE is a member of the immunoglobulin superfamily and is the best characterized of the known and suspected AGE receptors.
+0	NA	RAGE	NA	DISCUSS	AGE interactions with RAGE mediate diverse cellular functions, possibly functioning as a promotion factor for pathologic conditions.
+0	NA	NA	NA	DISCUSS	Significantly less is known of the other AGE receptors, but it is suggested that they function moreso in AGE clearance and detoxification versus transduction of intracellular signaling
+0	NA	NA	NA	DISCUSS	With an appreciation of the limited power due to a small sample size, we further expanded our investigation to a full GWAS and exome chip study.
+1	NA	PALLD	rs17054480	DISCUSS	The top hit SNP was an intronic SNP in the PALLD gene (rs17054480, p-7.77x10-7) (Table 4).
+1	NA	PALLD	NA	DISCUSS	PALLD codes for an actin associated protein, palladin, involved in cytoskeleton morphology.
+1	NA	PALLD	NA	DISCUSS	Specifically, palladin is involved in the control of the cell shape, adhesion, and contraction and may play a role in cardiovascular pathology.
+0	NA	NPC2	NA	DISCUSS	Other nominal associations highlighted the NPC2 and ISCA2 genes, involved in cholesterol transport and the maturation of mitochondrial sulfur proteins, respectively
+0	NA	NA	NA	DISCUSS	Further studies need to be performed to investigate AGEs in more depth.
+0	NA	NA	NA	DISCUSS	This study investigated global AGE levels; however, AGEs are a diverse set of molecules.
+0	NA	NA	NA	DISCUSS	Directly measuring these individual molecules may lead to an increased understanding of AGE genetics.
+0	NA	NA	NA	DISCUSS	In conclusion, we found that AGEs are a highly heritable trait, but were unable to identify any specific genetic components of circulating AGE levels.
+0	NA	NA	NA	DISCUSS	We saw nominal associations between SNPs in candidate genes and AGE levels, but no SNP from either the GWAS or exome chip reached statistical significance.
+0	NA	NA	NA	DISCUSS	Additional studies with increased sample size and using a more sophisticated measure of AGEs may yield stronger results
+0	NA	NA	NA	FIG	Manhattan Plot of Exome Chip Association Results for Advanced Glycation End Product Level
+0	NA	NA	NA	FIG	Manhattan Plot of Genome-Wide Association Results For Advanced Glycation End Product Level
+0	NA	NA	NA	TABLE	Association Results for Advanced Glycation Endproduct Receptor Candidate Variants with Advanced Glycation Endproduct Level
+0	NA	NA	NA	TABLE	Most Significant Association Results from Exome Chip Analysis for Advanced Glycation Endproduct Level
+0	NA	NA	NA	TABLE	Most Significant Association Results of Genome-wide Association Study for Advanced Glycation Endproduct Level
+0	NA	NA	NA	REF	Advanced glycation end products were found to be highly heritable
+0	NA	NA	NA	REF	Genetic analysis of candidate genes showed evidence of genetic influences on AGEs
+0	NA	NA	NA	REF	GWAS and exome chip analysis showed nominal association with AGEs

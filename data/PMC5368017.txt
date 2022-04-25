@@ -1,0 +1,154 @@
+0	diabetes	NA	NA	ABSTRACT	We conducted a discovery genome-wide association study with expression quantitative trait loci (eQTL) annotation of new-onset diabetes (NOD) among European Americans, who were exposed to a calcium channel blocker-based strategy (CCB strategy) or a beta-blocker-based strategy (beta-blocker strategy) in the INternational VErapamil SR Trandolapril STudy.
+0	NA	NA	NA	ABSTRACT	Replication of the top signal from the SNP*treatment interaction analysis was attempted in Hispanic and African Americans, and a joint meta-analysis was performed (total 334 NOD cases and 806 matched controls).
+1	NA	PLEKHH2	rs11124945	ABSTRACT	PLEKHH2 rs11124945 at 2p21 interacted with antihypertensive exposure for NOD (meta-analysis p=5.3x10-8).
+1	NA	NA	rs11124945	ABSTRACT	rs11124945 G allele carriers had lower odds for NOD when exposed to the beta-blocker strategy compared with the CCB strategy [OR=0.38 (0.24-0.60), p=4.0x10-5], while A/A homozygotes exposed to the beta-blocker strategy had increased odds for NOD compared with the CCB strategy [OR=2.02 (1.39-2.92), p=2.0x10-4].
+0	NA	NA	NA	ABSTRACT	eQTL annotation of the 2p21 locus provides functional support for regulating gene expression
+0	hypertension	NA	NA	INTRO	Hypertension affects approximately 80 million Americans and 22% of adults worldwide, putting those affected at increased risk for cardiovascular morbidity, mortality, and diabetes mellitus (DM).
+0	NA	NA	NA	INTRO	Blood pressure reduction with antihypertensive medications is crucial for reducing risk for adverse cardiovascular outcomes.
+0	diabetes	NA	NA	INTRO	Thiazide diuretics and beta-blockers are commonly prescribed and effective antihypertensive drug classes, but consistent evidence suggests increased risk for new-onset diabetes (NOD) with these classes compared with placebo and other antihypertensives.
+0	NA	NA	NA	INTRO	The direct association between NOD and adverse cardiovascular outcomes remains controversial.
+0	DM	NA	NA	INTRO	However, individuals with concomitant prevalent DM and hypertension face an increased risk for adverse cardiovascular outcomes compared to those with hypertension alone
+0	NA	NA	NA	INTRO	Among individuals treated with antihypertensive agents, there is substantial inter-individual variability with regard to NOD development.
+0	dyslipidemia	NA	NA	INTRO	In addition to clinical risk factors, such as race, baseline glucose, dyslipidemia, and body mass index (BMI), genetic variation may contribute to the inter-individual variability for risk of developing NOD among those treated with antihypertensive agents.
+0	DM	NA	NA	INTRO	Genetic risk for type 2 DM has been well studied, and an enrichment of type 2 DM associations among expression quantitative trait loci (eQTL) variants has been observed.
+0	NA	NA	NA	INTRO	Additionally, treatment with some classes of antihypertensives has been shown to influence the susceptibility of NOD and several susceptibility genes have been suggested to play a role.
+0	DM	KCNJ1	NA	INTRO	Candidate gene studies have associated previously identified type 2 DM or fasting glucose susceptibility genes, such as KCNJ1 and TCF7L2, and NOD in individuals exposed to the thiazide diuretic hydrochlorothiazide (HCTZ).
+0	NA	NA	NA	INTRO	However, the genetic contribution to development of NOD, its interaction with antihypertensive drugs, and most importantly the underlying mechanisms remain poorly understood
+0	NA	NA	NA	INTRO	Therefore, we performed the first genome-wide association study (GWAS) to investigate single nucleotide polymorphisms (SNP) associated with differential risk for NOD in response to exposure to two commonly prescribed antihypertensive treatment strategies.
+0	NA	NA	NA	INTRO	Additionally, eQTL enrichment analyses were performed.
+0	hypertension	NA	NA	INTRO	The research was conducted in a case-control sample created from the INternational VErapamil SR Trandolapril STudy GENEtic Substudy (INVEST-GENES), which consists of elderly hypertensive individuals with documented coronary artery disease
+0	NA	NA	NA	METHODS	INVEST was a multicenter, randomized clinical trial (clinicaltrials.gov: NCT00133692) that has been described previously.
+0	hypertension	NA	NA	METHODS	Briefly, hypertensive individuals >=50 years old and with documented coronary artery disease were randomized to either a calcium channel blocker (Verapamil SR)-based treatment strategy (CCB strategy) or a beta-blocker (atenolol)-based treatment strategy (beta-blocker strategy), with HCTZ and trandolapril available as add-on agents in both strategies.
+0	NA	NA	NA	METHODS	Participants were followed for an average of 2.7 years for NOD, which was a pre-specified outcome.
+0	NA	NA	NA	METHODS	Among those who were DM-free at baseline, development of NOD was defined as any new occurrence of self/physician reported DM, or new use of a DM medication during the follow-up period.
+0	NA	NA	NA	METHODS	INVEST-GENES includes DNA samples from 5,979 INVEST participants from the United States, including Puerto Rico.
+0	NA	NA	NA	METHODS	All study protocols were approved by local or central institutional review boards and all participants provided separate, voluntary, written informed consent for participation in INVEST and INVEST-GENES
+0	NA	NA	NA	METHODS	Within INVEST-GENES, a nested NOD case-control study was conducted.
+0	DM	NA	NA	METHODS	Cases were participants who developed NOD as defined above, and controls were those who remained DM free (were not diagnosed with DM and were not taking DM medications) during the entire follow-up period.
+0	NA	NA	NA	METHODS	Cases and controls were frequency-matched based on gender, race/ethnicity, and age (by decade).
+0	NA	NA	NA	METHODS	Race/ethnicity information was self-identified and confirmed by principal component analysis (PCA) defined genetic ancestry (described below).
+0	NA	NA	NA	METHODS	From now onwards, race/ethnicity will be referred to as race throughout the rest of the document.
+0	NA	NA	NA	METHODS	Among those who were genetically confirmed to be of European ancestry, each case was frequency matched to three controls.
+0	NA	NA	NA	METHODS	For those who were genetically confirmed as Hispanic or African ancestry, each case was matched to two controls
+0	NA	NA	NA	METHODS	DNA samples were genotyped at the RIKEN Center for Integrative Medical Sciences (Yokohama, Japan) using the Illumina OmniExpressExome Beadchip.
+0	NA	NA	NA	METHODS	Subsequently, individual and SNP level QC procedures were performed using PLINK (v1.07).
+0	NA	NA	NA	METHODS	Minor allele frequency (MAF) and genotyping call rates were assessed.
+0	NA	NA	NA	METHODS	Concordance of genetic sex to pedigree sex was evaluated via X-chromosome heterozygosity.
+0	NA	NA	NA	METHODS	Cryptic relativeness or sample duplication was assessed through genome-wide identity-by-descent analysis.
+0	NA	NA	NA	METHODS	Potential sample contamination was tested using the inbreeding coefficient.
+0	NA	NA	NA	METHODS	SNPs or individuals were removed if any of the following criteria were met: genotyping call rate <95%, mismatch of genetic sex with pedigree sex, sample duplication, or potential sample contamination.
+0	NA	NA	NA	METHODS	A PCA was performed using EIGENSTRAT on a linkage-disequilibrium (LD) pruned set of high-quality SNPs that passed QC, and genetic continental ancestry was determined based on PCA clustering.
+0	NA	NA	NA	METHODS	PCA was then performed within each defined genetic ancestry group to identify PCs that best summarized genetic structure and ancestry clusters for each race group.
+0	NA	NA	NA	METHODS	Hardy-Weinberg Equilibrium (HWE) was assessed for each SNP, and deviations were flagged
+0	NA	NA	NA	METHODS	Genome-wide imputation was conducted at the RIKEN Center for Integrative Medical Sciences using the 1000 Genomes phase I, release 3, multiethnic haplotype dataset as a reference (released April 30, 2012) for all study participants.
+0	NA	NA	NA	METHODS	SNPs that passed QC with MAF >0.01 in any of the INVEST race groups or 1000 Genome reference populations (EUR/AFR/AMR) were included for imputation.
+0	NA	NA	NA	METHODS	Called SNPs were aligned to the forward strand on the human genome reference Build 37 and oriented to the 1000 Genomes reference and alternate alleles.
+0	NA	NA	NA	METHODS	SNPs with alleles that did not match those in 1000 Genomes were removed.
+0	NA	NA	NA	METHODS	The oriented genotypes were then phased using SHAPEIT2 (v.778) and genotypes were imputed using IMPUTE2 (v.2.3.0).
+0	NA	NA	NA	METHODS	After genome-wide imputation, SNPs with a quality information metric <0.4, which demonstrated lower imputation certainty, were excluded.
+0	NA	NA	NA	METHODS	Additionally, imputed SNPs with MAF<0.03 in each race group were excluded
+0	NA	NA	NA	METHODS	Continuous characteristics are presented as mean and standard deviation, and categorical characteristics are presented as frequency and percentages.
+0	NA	NA	NA	METHODS	Unpaired two-sample Student t-test and chi-square tests were conducted to compare the baseline characteristics between cases and controls by race groups
+0	NA	NA	NA	METHODS	Genome-wide SNP*Treatment interaction analyses with NOD development was conducted under an additive genetic model by race groups using logistic regression modeling.
+0	NA	NA	NA	METHODS	Analyses were performed using PLINK adjusted for age, gender, principal components for ancestry, INVEST treatment strategy, genotyping call rate between 95%-98%, and use of HCTZ and/or trandolapril add-on therapy.
+0	NA	NA	NA	METHODS	Because both HCTZ and trandolapril have been observed to affect risk for NOD development, exposure to these agents was included in the model.
+0	NA	NA	NA	METHODS	Genotype call rate between 95-98% was also included as a covariate in the model to prevent confounding from individual DNA quality.
+0	NA	NA	NA	METHODS	The discovery sample consisted of European Americans as they made up the majority of the population.
+0	NA	NA	NA	METHODS	Genome-wide significance was specified at an alpha level of 5x10-8.
+0	NA	NA	NA	METHODS	SNPs with an interaction p<1x10-6 in European Americans were considered to be of suggestive significance and were tested for evidence of association in Hispanics and African Americans.
+0	NA	NA	NA	METHODS	A replication was defined as SNPs having consistent direction of effect in Hispanics and African Americans with an interaction p-value that achieved the Bonferroni corrected significance level under a one-sided hypothesis
+0	NA	NA	NA	METHODS	A meta-analysis of all three race groups was performed on SNPs that replicated in Hispanics and African Americans using METAL.
+0	NA	NA	NA	METHODS	Heterogeneity across race groups was assessed using Cochran's Q test.
+0	NA	NA	NA	METHODS	Follow-up analyses for adjusted odds of NOD development by genotype were conducted using SAS 9.3 (Cary, NC) for top association SNPs under additive or dominant models as appropriate.
+0	NA	NA	NA	METHODS	We also performed analyses adjusting for BMI in addition to the prespecified covariates listed above for the top SNPs to determine whether the identified associations were driven by BMI
+0	NA	NA	NA	METHODS	Since eQTL studies are generally better powered than GWAS to detect functional SNPs, we annotated our findings in INVEST European Americans with eQTL results from the Genotype-Tissue Expression (GTEx) pilot analysis.
+0	NA	NA	NA	METHODS	The GTEx pilot results were acquired from postmortem donors.
+0	NA	cis	NA	METHODS	In accordance with the GTEx project, only eQTLs that act cis to the target gene (within +-1MB of the transcriptional start site) were evaluated due to power considerations.
+0	NA	NA	NA	METHODS	Three adequately powered GTEx eQTL tissues with sample size >80 were analyzed, including subcutaneous adipose and skeletal muscle, which are peripheral tissues sensitive to insulin, as well as whole blood, which is the most accessible tissue.
+0	NA	NA	NA	METHODS	SNPs with a nominal SNP-gene expression association (p<0.05) were defined as eSNPs in each selected tissue, and were included for evaluation of enrichment.
+0	NA	NA	NA	METHODS	This lenient eSNP definition allowed inclusion of more eSNPs and improved power to detect enrichment.
+0	NA	NA	NA	METHODS	Based on results from the genome-wide interaction analysis, cis-eQTL enrichment was assessed in each tissue separately.
+0	NA	NA	NA	METHODS	Additionally, the proportion of SNPs with an interaction p<0.05 were compared among the sets of eSNPs and non-eSNPs, and enrichment p-value was estimated using the Z statistic
+0	NA	NA	NA	RESULTS	Baseline characteristics of individuals included in this study (334 NOD cases and 806 controls) are summarized in Table 1.
+0	NA	NA	NA	RESULTS	In general, baseline characteristics were similar between cases and controls in each race group, with the exception of age (which was matched by decade) and BMI
+0	NA	NA	NA	RESULTS	Genome-wide interaction analysis in European Americans did not identify SNPs that achieved genome-wide significance.
+0	NA	NA	NA	RESULTS	However, two loci (containing 17 SNPs) demonstrated evidence of a suggestive association (interaction p<1x10-6) with risk for NOD (Supplementary Figure 1, Supplementary Table 1).
+0	NA	NA	NA	RESULTS	Within each locus the SNPs are in high LD (r2>0.8) with each other, and thus represent two independent signals.
+1	thyroid adenomas	THADA	NA	RESULTS	The chromosome 2p21 locus contains THADA (thyroid adenoma associated) and PLEKHH2 (Pleckstrin Homology Domain-Containing Family H Member 2) (Figure 1).
+1	NA	TLR1	rs4833103	RESULTS	The 4p14 locus consists of a cluster of toll-like receptor (TLR) genes (TLR1, TLR6, and TLR10) (Supplementary Figure 2), and contains the strongest signal (rs4833103, interaction p=1.6x10-7), which is located 8 kb 5' of TLR1 and 10 kb 3' of TLR6
+1	NA	NA	rs11124945	RESULTS	When evaluating these two independent signals in Hispanics and African Americans, rs11124945 at 2p21 was directionally consistent across race groups and achieved the Bonferroni corrected one-sided alpha of 0.05 in Hispanics (one-sided interaction p=1.56x10-2) and African Americans (one-sided interaction p=2.47x10-2).
+1	NA	NA	rs11124945	RESULTS	Meta-analysis of 2p21 rs11124945 of all three race groups resulted in a p-value approaching genome-wide significance (meta-analysis p=5.33x10-8, Table 2).
+1	NA	NA	rs11124945	RESULTS	Overall, rs11124945 G allele carriers had lower odds for NOD when exposed to the beta-blocker strategy compared with exposure to the CCB strategy [Odds Ratio (OR, 95% CI)=0.38 (0.24-0.60), p=4.02x10-5], while A/A homozygotes exposed to the beta-blocker strategy had increased odds for NOD compared with exposure to CCB strategy [OR=2.02 (1.39-2.92), p=2.0x10-4] (Figure 2).
+0	NA	NA	NA	RESULTS	Adjusting for BMI in the logistic regression model did not affect the level of significance (Supplementary Table 2).
+1	NA	NA	rs11124945	RESULTS	Supplementary Table 3 describes allele counts and HWE result of rs11124945.
+0	NA	NA	NA	RESULTS	The 4p14 signal observed in European Americans, although directionally consistent, did not achieve the corrected significance level in the Hispanics and African Americans
+0	NA	NA	NA	RESULTS	Enrichment of cis-eQTL for pharmacogenomic associations was observed in subcutaneous adipose tissue, skeletal muscle tissue, and whole blood for NOD, as evidenced by the deviation from the null distribution in the Q-Q plots for all three tissues (Supplementary Figure 3).
+0	NA	NA	NA	RESULTS	Additionally, a significantly higher proportion of SNPs with interaction p<0.05 was observed among eSNPs compared to non-eSNPs in all three tissues (subcutaneous adipose: 5.0% vs 4.3%, Z=12.25, p<1.0x10-5; muscle skeletal: 5.0 % vs 4.3%, Z=12.69, p<1.0x10-5; and whole blood: 5.0 % vs 4.3%, Z=11.67, p<1.0x10-5, Supplementary Table 4).
+0	NA	NA	NA	RESULTS	These results represent a 1.16 fold enrichment among eSNPs compared to non-eSNPs in each tissue.
+0	NA	NA	NA	RESULTS	Moreover, the two strongest loci in European Americans (2p21 and 4p14), displayed evidence of a tissue dependent eQTL-gene relationship among the tested tissues (Table 3)
+0	NA	NA	NA	DISCUSS	Among European Americans in INVEST-GENES exposed to CCB based and beta-blocker based antihypertensive strategies, we performed the first genome-wide investigation of SNPs associated with NOD development.
+1	NA	PLEKHH2	rs11124945	DISCUSS	SNP rs11124945, located in the second intron of PLEKHH2, was discovered in European Americans, was replicated in Hispanics and African Americans, and had the strongest evidence of an interaction with treatment strategy exposure for NOD development.
+0	NA	NA	NA	DISCUSS	Furthermore, genome-wide annotation with eQTLs information from the GTEx project provided functional support for the top GWAS signals and evidence for the notion that the identified signals are more likely to be true-positive associations.
+0	NA	NA	NA	DISCUSS	The GWAS was performed using well-characterized phenotypes and medication exposure information from the randomized INVEST clinical trial, which greatly reduces potential confounding.
+0	DM	NA	NA	DISCUSS	Moreover, our study contains an racially diverse population, providing a unique opportunity to assess genetic associations in Hispanics and African Americans, who are at higher risk for DM and NOD compared with individuals of European ancestry
+1	Kidneys in Diabetes	PLEKHH2	NA	DISCUSS	PLEKHH2 may play roles in the linkage of kidney podocytes to the basement membrane, and actin stabilization, and SNPs within PLEKHH2 have been associated with diabetic nephropathy.
+1	NA	NA	rs11124945	DISCUSS	Although the functional consequences of rs11124945 are incompletely understood, we observed differential risk for NOD by rs11124945 genotype and antihypertensive exposure across multiple race groups.
+0	NA	NA	NA	DISCUSS	When exposed to the beta-blocker strategy versus the CCB strategy, G allele carriers had decreased risk for NOD, while A/A homozygotes had increased risk.
+1	NA	NA	rs11124945	DISCUSS	This observation may suggest that for rs11124945 G allele carriers, treatment with a beta-blocker based strategy would be preferred, while for A/A homozygotes, treatment with a CCB based strategy would be preferred.
+0	NA	NA	NA	DISCUSS	Within this INVEST-GENES GWAS, our observation that major allele carriers had increased risk for NOD when exposed to a beta-blocker strategy is in line with data from other clinical trials, including the overall INVEST trial (n=22,576), which demonstrated that risk for NOD was higher in individuals treated with regimens containing a beta-blocker
+1	DM	PLEKHH2	rs11124945	DISCUSS	PLEKHH2 rs11124945 is approximately 50 kb 5' upstream of THADA, a gene with well-established associations with type 2 DM, polycystic ovary syndrome (a phenotype characterized by insulin resistance and risk for type 2 DM), and prostate cancer in previous GWAS.
+1	death	THADA	NA	DISCUSS	THADA may play a role in apoptosis and death receptor signaling, but its function requires further characterization.
+1	DM	THADA	rs7578597	DISCUSS	The THADA rs7578597 T allele has been associated with risk for type 2 DM and lower beta-cell function, potentially via reduced beta-cell mass.
+1	NA	NA	rs11124945	DISCUSS	Although our observed association between rs11124945 and NOD risk is not driven by rs7578597 (r2=0.007, D'=1), rs11124945 is in LD with rs6544683 (r2=0.9, D'=1) that has tissue dependent eQTL associations, and could be in LD with other unknown functional variants.
+1	DM	THADA	rs11124945	DISCUSS	Given the association between THADA and type 2 DM, and its proximity to rs11124945, THADA represents a plausible candidate gene for NOD.
+1	DM	THADA	NA	DISCUSS	Previous type 2 DM and polycystic ovary syndrome GWAS reported disease associations with THADA independent of BMI.
+1	NA	NA	NA	DISCUSS	Similarly, we did not observe an effect of BMI on NOD association with rs11124945
+1	NA	TLR1	NA	DISCUSS	The 4p14 locus, consisting of TLR1, TLR6, and TLR10.
+0	NA	NA	NA	DISCUSS	TLRs are a family of transmembrane receptors that recognize pathogen- or damage-associated molecular patterns and are crucial in mediating the innate immune response.
+1	DM	TLR2	NA	DISCUSS	TLR2 and TLR4 play important roles in type 2 DM pathogenesis, and TLR1 and TLR6 form heterodimers with TLR2 essential for TLR2 signaling.
+0	insulin deficiency	NLRP3	NA	DISCUSS	Activation of the TLR/NFkappaB pathway in conjunction with the NLRP3 inflammasome triggers IL-18 and IL-1beta mediated inflammatory cascade, which results in monocyte recruitment and production of additional cytokines with deleterious effects on pancreatic beta-cell insulin secretion and systemic insulin resistance.
+0	NA	NA	NA	DISCUSS	While the observed pharmacogenomic association at 4p14 needs further replication, the biology is compelling
+0	NA	NA	NA	DISCUSS	Our eQTL-based enrichment results demonstrate a deviation from the null hypothesis, which suggests higher probability that signals at 2p21 and 4p14 are true positive associations.
+0	NA	NA	NA	DISCUSS	Moreover, SNPs within 2p21 and 4p14 had functional support for regulating expression in a tissue-dependent manner, suggesting that they might regulate gene expression in other relevant tissues.
+0	NA	NA	NA	DISCUSS	It has been demonstrated that drug response associated SNPs are likely to be eQTLs and to regulate expression of multiple genes.
+0	NA	NA	NA	DISCUSS	We observed enrichment of NOD association among eSNPs compared to non-eSNPs.
+0	DM	NA	NA	DISCUSS	Previous studies demonstrated that eQTL SNPs are more likely to be associated with type 2 DM in relevant tissues, and a trans-regulatory characteristic has been reported.
+0	NA	NA	NA	DISCUSS	Currently, GTEx is not sufficiently powered to provide a trans-eQTL reference panel.
+0	DM	NA	NA	DISCUSS	We examined cis-eQTL enrichment in available tissues relevant to DM pathophysiology with appropriate power.
+0	NA	NA	NA	DISCUSS	Exploration of eQTL enrichment using other key DM-related tissues, such as pancreatic islet, liver, and brain, can be examined when the information become available from GTEx
+0	DM	NA	NA	DISCUSS	We observed evidence of interaction with treatment strategies at the 2p21 locus, which has been previously associated with type 2 DM and related phenotypes, suggesting that there are potential overlapping pathways between NOD and type 2 DM.
+0	NA	NA	NA	DISCUSS	These conditions share clinical risk factors, such as race and BMI.
+0	DM	NA	NA	DISCUSS	Although the association between NOD and adverse cardiovascular outcome is in debate, DM of other etiologies independently contributes a two-fold excess risk of cardiovascular disease, and an increased cardiovascular risk has been observed in individuals with NOD.
+0	DM	NA	NA	DISCUSS	The majority of genetic markers for type 2 DM risk have been associated with primary defects in pancreatic beta-cells, which could lead to a reduced ability to produce insulin and maintain glucose homeostasis in the presence of environmental risk factors.
+1	pancreatic	THADA	NA	DISCUSS	Reduced pancreatic beta-cell mass as a result of increased apoptosis has been hypothesized as a potential mechanism by which THADA affects type 2 DM risk.
+0	DM	NA	NA	DISCUSS	Taken together, our findings may suggest that when an individual has existing genetic risk for type 2 DM, introducing diabetogenetic antihypertensives like beta-blockers and thiazide diuretics could serve as environmental risk factors, and promote deterioration of glucose homeostasis.
+0	NA	NA	NA	DISCUSS	Currently, the exact mechanism for the observed interaction between the 2p21 locus and treatment strategies remains unclear.
+0	NA	NA	NA	DISCUSS	Future studies, including functional characterization of these genetic signals, are needed to elucidate the mechanism.
+0	NA	NA	NA	DISCUSS	A better understanding of the genetic etiology of NOD in addition to other known risk factors could provide guidance for personalization of pharmacotherapy tailored to optimize benefit and minimize risk for adverse outcomes like NOD
+0	hypertension	NA	NA	DISCUSS	Study limitations include a relatively small number of NOD cases with no external replication since INVEST-GENES is one of the only genetic cohorts that consist of elderly adults with documented hypertension and coronary artery disease.
+0	NA	NA	NA	DISCUSS	Although sample size was limited, we conducted this study because pharmacogenomic SNPs generally have larger effect size than disease genetics SNPs.
+0	NA	NA	NA	DISCUSS	While our study had limited power, we included additional evidence provided from the cross race confirmation and the eQTL analysis to minimize the chance of reporting a spurious result.
+1	NA	PLEKHH2	rs11124945	DISCUSS	Even though the magnitude of effect of PLEKHH2 rs11124945 is smaller in Hispanics and African Americans, the direction of effect is consistent with what we observed in European Americans.
+0	NA	NA	NA	DISCUSS	In published pharmacogenomic studies, reported pharmacogenomic associations are often observed across race groups, although the magnitude of effect could be different due to population substructure.
+0	NA	NA	NA	DISCUSS	A cross race replication approach provides the advantage of increased power and the possibility to identify functional SNPs, as truly functional SNP associations should replicate across race groups.
+0	NA	NA	NA	DISCUSS	Although we detected no genome-wide significant associations in European Americans, our eQTL-based enrichment results demonstrate an improvement of the rate of false discovery when using eQTL information in disease-relevant tissues.
+0	NA	NA	NA	DISCUSS	"Our results also show that our most highly ranked SNPs can be distinguished from ""noise"", and that these SNPs have prior functional support for regulating expression in a tissue-dependent manner."
+0	NA	NA	NA	DISCUSS	Despite lacking an appropriate external replication, we observed associations in all race groups, and together with the eQTL results, we believe it is less likely to be a chance finding.
+0	NA	NA	NA	DISCUSS	Despite the limited power, this study represents the first investigation of SNP-treatment interactions for NOD, and provides valuable initial data to the field.
+0	NA	NA	NA	DISCUSS	Finally, there are differences in age and BMI comparing cases and controls in some race groups.
+0	NA	NA	NA	DISCUSS	However, age was included as a covariate in the analyses and additional analyses were conducted adjusting for BMI for the top association signal
+1	hypertension	NA	rs11124945	DISCUSS	In conclusion, we conducted the first GWAS for NOD in a cohort with hypertension and coronary artery disease, and identified SNP rs11124945 at the 2p21 locus as having the strongest evidence of interaction with antihypertensive exposure and NOD development.
+1	NA	NA	rs11124945	DISCUSS	rs11124945 G allele carriers had lower odds for NOD when exposed to the beta-blocker strategy compared with the CCB strategy, while A/A homozygotes exposed to the beta-blocker strategy had increased odds for NOD compared with the CCB strategy.
+1	DM	PLEKHH2	NA	DISCUSS	The 2p21 locus has functional support for regulating gene expression and contains both PLEKHH2 and THADA that are relevant to DM and related phenotypes.
+0	DM	NA	NA	DISCUSS	Genes and pathways influencing DM susceptibility could be important in determining an individual's genetic predisposition for NOD.
+0	NA	NA	NA	DISCUSS	These results along with enrichment of pharmacogenomic association among eQTLs, shed light on the underlying mechanism of NOD, and provide useful information for future studies.
+0	NA	NA	NA	DISCUSS	Further replication and functional characterization is warranted.
+0	NA	NA	NA	FIG	Regional SNP*Treatment interaction analysis results (-log p-value) are plotted for INVEST European Americans.
+0	NA	NA	NA	FIG	Figure is generated using LocusZoom.
+0	NA	NA	NA	FIG	The diamond-shaped dot represent the SNP with lowest interaction p-value in the loci.
+0	NA	NA	NA	FIG	The lower panel demonstrated the RefSeq genes
+1	NA	PLEKHH2	rs11124945	FIG	This figure shows PLEKHH2 rs11124945 genotypes specific odds ratio and 95% confidence interval for NOD in each race groups and combined meta-analysis from the INVEST NOD case-control study (n = 1140).
+0	NA	NA	NA	FIG	Point estimate was reported under a dominant genetic model for each genotype group, which represents higher risk for NOD in the CCB strategy or the beta-blocker strategy.
+0	NA	NA	NA	FIG	Interaction p-values for Hispanics and African Americans are one-sided
+0	NA	NA	NA	TABLE	NOD loci from the Genome-wide meta-analysis of all race groups in the INVEST-GENES NOD case-control stud
+0	NA	NA	NA	TABLE	Tissue specific eQTL and gene association for top signals in INVEST European American

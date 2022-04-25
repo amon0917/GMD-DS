@@ -1,0 +1,268 @@
+0	coronary artery disease	NA	NA	ABSTRACT	Coronary artery calcified atherosclerotic plaque (CAC) predicts cardiovascular disease (CVD).
+0	NA	NA	NA	ABSTRACT	Despite exposure to more severe conventional CVD risk factors, African Americans (AAs) are less likely to develop CAC, and when they do, have markedly lower levels than European Americans.
+0	NA	NA	NA	ABSTRACT	Genetic factors likely contribute to the observed ethnic differences.
+0	Type 2 diabetes	NA	NA	ABSTRACT	To identify genes associated with CAC in AAs with type 2 diabetes (T2D), a genome-wide association study (GWAS) was performed using the Illumina 5 M chip in 691 African American-Diabetes Heart Study participants (AA-DHS), with replication in 205 Jackson Heart Study (JHS) participants with T2D.
+0	NA	NA	NA	ABSTRACT	Genetic association tests were performed on the genotyped and 1000 Genomes-imputed markers separately for each study, and combined in a meta-analysis
+1	NA	NA	rs11353135	ABSTRACT	Single nucleotide polymorphisms (SNPs), rs11353135 (2q22.1), rs16879003 (6p22.3), rs5014012, rs58071836 and rs10244825 (all on chromosome 7), rs10918777 (9q31.2), rs13331874 (16p13.3) and rs4459623 (18q12.1) were associated with presence and/or quantity of CAC in the AA-DHS and JHS, with meta-analysis p-values <=8.0 x 10-7.
+0	NA	NA	rs6491315	ABSTRACT	The strongest result in AA-DHS alone was rs6491315 in the 13q32.1 region (parameter estimate (SE) = -1.14 (0.20); p-value = 9.1 x 10-9).
+0	NA	NA	rs7492028	ABSTRACT	This GWAS peak replicated a previously reported AA-DHS CAC admixture signal (rs7492028, LOD score 2.8)
+0	NA	NA	NA	ABSTRACT	Genetic association between SNPs on chromosomes 2, 6, 7, 9, 16 and 18 and CAC were detected in AAs with T2D from AA-DHS and replicated in the JHS.
+0	NA	NA	NA	ABSTRACT	These data support a role for genetic variation on these chromosomes as contributors to CAC in AAs with T2D, as well as to variation in CAC between populations of African and European ancestry
+0	NA	NA	NA	ABSTRACT	The online version of this article (10.1186/s12863-017-0572-9) contains supplementary material, which is available to authorized users
+0	coronary artery disease	NA	NA	INTRO	Atherosclerotic coronary artery disease remains a leading cause of death in Western societies.
+0	cardiovascular disease	NA	NA	INTRO	In 2011, cardiovascular disease (CVD) accounted for 31.3% of all-cause mortality in the US.
+0	coronary artery disease	NA	NA	INTRO	Non-invasive computed tomography (CT)-based measures of coronary artery calcified atherosclerotic plaque (CAC) are useful for risk stratification.
+0	death	NA	NA	INTRO	Higher levels of CAC are associated with CVD risk and death and may refine existing algorithms used to predict CVD events
+0	Type 2 diabetes	NA	NA	INTRO	Individuals with type 2 diabetes (T2D) have an elevated burden of subclinical coronary atherosclerosis.
+0	NA	NA	NA	INTRO	The severity of CAC and suboptimal glycemic control are strong risk factors for CAC progression.
+0	atherosclerotic	NA	NA	INTRO	However, marked variation in levels of CAC and calcified atherosclerotic plaque (CP) in other vascular beds, including the carotid arteries and aorta, are observed between African and European ancestral groups.
+0	NA	NA	NA	INTRO	Despite exposure to more severe conventional CVD risk factors, African Americans (AAs) have the same or lower CP levels than European Americans (EAs).
+0	hypertension	NA	NA	INTRO	These risk factors include more frequent and more severe hypertension, higher LDL-cholesterol levels, and excess albuminuria.
+0	diabetes	NA	NA	INTRO	Similar population ancestry-based CAC differences are observed in T2D individuals, with CAC levels generally increased relative to those lacking diabetes.
+0	NA	NA	NA	INTRO	Despite higher blood sugar, AAs with T2D have markedly lower CAC levels than similarly affected EAs
+0	NA	NA	NA	INTRO	In addition to differences in environmental exposure, abundant evidence supports inherited contributions to ethnic-specific T2D rates and CP susceptibility.
+0	atherosclerotic	NA	NA	INTRO	A genetic basis for CAC differences based on ancestry is supported by results of the Multi-Ethnic Study of Atherosclerosis (MESA) and the African American-Diabetes Heart Study (AA-DHS).
+0	NA	NA	NA	INTRO	Higher proportions of European ancestry were observed in AAs with higher CAC levels in both studies.
+0	NA	NA	NA	INTRO	AAs are an admixed population with approximately 80% African and 20% European ancestry.
+0	NA	NA	NA	INTRO	Mapping by admixture linkage disequilibrium (MALD or admixture mapping) was performed in the AA-DHS.
+0	NA	NA	NA	INTRO	Eleven genomic regions were suggestively or significantly linked with CAC in the AA-DHS MALD study; all demonstrated excess European ancestry in CAC-linked regions in support of European-derived risk.
+0	NA	NA	NA	INTRO	The present analysis reports results of the first genome-wide association study (GWAS) for CAC in AAs with T2D, the second GWAS for CAC in AAs to date
+0	NA	NA	NA	METHODS	The present report contains GWAS results in 691 AAs with T2D from AA-DHS.
+0	NA	NA	NA	METHODS	Replication analyses were performed in AAs with T2D (N = 205) from the Jackson Heart Study (JHS).
+0	diabetes	insulin	NA	METHODS	Diabetes was defined as fasting blood glucose (FBG) >=126 mg/dL or a random glucose >=200 mg/dL, history of physician diagnosis of diabetes, or use of insulin or an oral hypoglycemic agent
+0	diabetes	NA	NA	METHODS	As reported, AA-DHS consisted of AAs with T2D recruited from two Wake Forest School of Medicine (WFSM) studies: the family-based Diabetes Heart Study (DHS) and unrelated individuals in the AA-DHS.
+0	NA	NA	NA	METHODS	DHS is a cross-sectional study of EA and AA families with siblings concordant for T2D.
+0	NA	NA	NA	METHODS	AA-DHS started after DHS and enrolled unrelated AAs.
+0	NA	NA	NA	METHODS	AA-DHS objectives are to improve understanding of ethnic differences in CAC and CP in populations of African and European ancestry.
+0	diabetic ketoacidosis	NA	NA	METHODS	T2D in AAs was diagnosed after the age of 30 years in the absence of diabetic ketoacidosis.
+0	NA	NA	NA	METHODS	Individuals who underwent prior coronary artery bypass surgery or coronary artery angioplasty and/or stent placement were not included in the analyses, because CAC scores could have been impacted by the procedures.
+0	acute myocardial infarction	NA	NA	METHODS	Those with prior myocardial infarction (MI) or stroke were included.
+0	NA	NA	NA	METHODS	The final analysis included 691 unrelated AAs and AA sibpairs concordant for T2D obtained by selecting all AA-DHS participants and DHS participants that passed the quality control checks described in the genotyping section (below).
+0	NA	NA	NA	METHODS	The study was approved by the WFSM Institutional Review Board and all participants provided written informed consent
+0	NA	NA	NA	METHODS	The Jackson Heart Study (JHS) is a prospective population-based cohort study initiated in 2000 in the Jackson, Mississippi tri-county area.
+0	obese	NA	NA	METHODS	The primary objective of this study was to understand the determinants of the high prevalence of common complex diseases including CVD, T2D, obesity, chronic kidney disease, and stroke in AAs.
+0	diabetes	NA	NA	METHODS	The subset of JHS participants with diabetes was between 35 and 84 years old
+0	NA	NA	NA	METHODS	CAC was quantified by non-contrast, ECG gated, cardiac computed tomography (CT) in both studies using established methods.
+0	NA	NA	NA	METHODS	In AA-DHS, from the start of the study in 1999, four generations of CT scanners all with ECG gating were utilized (CTi, QXi, 16Pro and VCT, GE Healthcare, Waukesha, WI).
+0	NA	NA	NA	METHODS	Image spatial resolution, reconstruction kernel and image technique were held constant.
+0	NA	NA	NA	METHODS	CAC was measured on a workstation and reported as the Agatston Score using a 90 Hounsfield Unit (HU) threshold (SmartScore GE Healthcare).
+0	NA	NA	NA	METHODS	Additional scoring parameters included a 130 HU threshold and 2 adjacent pixels used to define the maximum calcified lesion size; the program accounted for slice thickness.
+0	NA	NA	NA	METHODS	In JHS, calcified plaque was measured on a 16-channel CT system (16 Pro; GE Healthcare).
+0	NA	NA	NA	METHODS	The CAC score was reported as an Agatston score using a 130 HU threshold (TeraRecon Aquarius Workstation, Foster City, CA).
+0	NA	NA	NA	METHODS	Image analysis and quality control for both studies were performed at the same central reading center.
+0	NA	NA	NA	METHODS	The minimum lesion size in AA-DHS was 0.52 mm2 and the minimum lesion size in the Jackson Heart Study was 1 mm2
+0	NA	NA	NA	METHODS	The robustness of the CAC score as an imaging biomarker across generations of CT scanners has been previously documented.
+0	NA	NA	NA	METHODS	The calcium mass and traditional Agatston scores are two scales for measuring calcified plaque.
+0	NA	NA	NA	METHODS	The mass score is calibrated on a per pixel basis to an external calibration phantom (Image Analysis, Columbia, KY) which reduces noise related to the method of quantification.
+0	NA	NA	NA	METHODS	The Agatston score uses a threshold of 130 HU and calcified plaque below this cut-point even when present are grouped with the zero scores.
+0	NA	NA	NA	METHODS	This creates a group of false negatives by the design of the scoring system.
+0	NA	NA	NA	METHODS	The calcium mass uses a threshold of 90 and minimizes the probability of a false negative result (increased sensitivity) with a modest reduction in specificity.
+0	NA	NA	NA	METHODS	In AA-DHS, the Pearson and Spearman correlations between the mass score and Agatston scores were 0.97 and 0.95, respectively.
+0	NA	NA	NA	METHODS	However, the interquartile ranges were 397 for the mass score and 180 Agatston score.
+0	NA	NA	NA	METHODS	Therefore, the 90 HU CAC measure is better suited than 130 HU CAC to detect low CP levels in vascular beds.
+0	NA	NA	NA	METHODS	Thus, the 90 HU measure coupled with the MASS scoring algorithm we employed are more sensitive for detecting calcified plaques and reduce noise in the scoring methods.
+0	NA	NA	NA	METHODS	This approach improved power for the CAC study outcome.
+0	NA	NA	NA	METHODS	The 90 HU measure was only available in AA-DHS.
+0	NA	NA	NA	METHODS	Therefore, we opted for a discovery approach which was conducted in AA-DHS using the 90 HU CAC measure as the outcome, followed by replication with the 130 HU CAC in JHS.
+0	NA	NA	NA	METHODS	In addition, two meta-analyses were performed.
+0	NA	NA	NA	METHODS	The main meta-analysis used AA-DHS 90 HU CAC and 130 HU Jackson Heart Study CAC measures; the inverse variance meta-analysis was performed separately in the two studies using standardized coefficients.
+0	NA	NA	NA	METHODS	This approach controls for minor differences in test composition between studies (i.e., 90 HU vs 130 HU).
+0	NA	NA	NA	METHODS	For completeness, we also performed a second meta-analysis using the 130 HU CAC score in both study samples.
+0	NA	NA	NA	METHODS	Results of both analyses are reported in Table 3 and Additional file 1: Table S4 for 90 HU in AA-DHS vs. 130 HU in JHS and 130 HU in both studies, respectively
+0	NA	NA	NA	METHODS	DNA in AA-DHS participants was extracted from peripheral blood using the PureGene system (Gentra Systems, Minneapolis, MN).
+0	NA	NA	NA	METHODS	The AA-DHS GWAS utilized the Illumina 5 M chip; the JHS GWAS genotyping was performed with the Affymetrix 6.0 chip.
+0	NA	NA	NA	METHODS	Genotypic data in both studies were imputed to 1000 Genomes (phase 1 version 3, cosmopolitan panel)
+0	NA	NA	NA	METHODS	Quality control (QC) checks were performed before conducting the GWAS.
+0	NA	NA	NA	METHODS	In AA-DHS, these checks led to the exclusion of twelve individuals from the analyses: 6 had call rates <90%, 2 had discordant self-reported and genetically determined sex, 1 had a heterozygosity score outside of the mean +- 4 times the standard error interval, 2 had the same sample identifiers and 1 had 100% European ancestry.
+0	NA	NA	NA	METHODS	Genome-wide association analyses were performed on 691 individuals that met the QC inclusion criteria.
+0	NA	NA	NA	METHODS	We used a classification scheme to rank SNPs and prioritize association results.
+0	NA	NA	NA	METHODS	This scheme was based on the estimated minor allele frequency (MAF), the Hardy-Weinberg equilibrium (HWE) p-value, and the call rate.
+0	NA	NA	NA	METHODS	All SNPs were analyzed; however, results are reported for common variants with a HWE p-value <=10-4 and a call rate >= 95%.
+0	NA	NA	NA	METHODS	SNPs with these qualifications also served as the basis for our imputation efforts.
+0	NA	NA	NA	METHODS	SNPs with a MAF between 1 and 5% that met the HWE p-value and call rate thresholds were also included in imputation.
+0	NA	NA	NA	METHODS	Similar QC procedures were applied in JHS, which led to the exclusion of 2 subjects.
+0	NA	NA	NA	METHODS	The final analysis included 205 JHS study participants with T2D and available CAC measurements
+0	diabetes	NA	NA	TABLE	Demographic characteristics of Jackson Heart Study participants with diabetes, by presence/absence of CA
+0	NA	NA	NA	METHODS	Local ancestry estimation was performed using LAMP-ANC and HAPMIX.
+0	NA	NA	NA	METHODS	A linkage disequilibrium (LD) pruning algorithm was applied with an R-squared threshold of 0.8 to select a subset of SNPs among those that met the above QC criteria.
+0	NA	NA	NA	METHODS	Observed data at these SNPs were then combined with HapMap phase 3 genotypes obtained from Yoruban and CEPH samples; the HapMap samples were used as anchoring populations and were not included in the analysis.
+0	NA	NA	NA	METHODS	The estimation process was repeated twice in AA-DHS, once with LAMP-ANC and once with HAPMIX.
+0	NA	NA	NA	METHODS	Results were comparable; the distribution of Spearman correlation estimates ranged between 0.88 and 0.97.
+0	NA	NA	NA	METHODS	Local admixture estimation in JHS was performed with LAMP-ANC.
+0	NA	NA	NA	METHODS	The global ancestry proportion estimates were obtained by averaging the local ancestry estimates across the genome.
+0	NA	NA	NA	METHODS	These global estimates were used as covariates in the association models and are reported in Tables 1 and 2.
+0	NA	NA	NA	METHODS	Imputation was performed using IMPUTE2 with phased haplotypic data obtained from Shapeit2.
+0	NA	NA	NA	METHODS	The imputation effort used all SNPs that passed the QC filters.
+0	NA	NA	NA	METHODS	Imputation was based on 3,436,913 and 733,318 autosomal SNPs in AA-DHS and JHS, respectively.
+0	NA	NA	NA	METHODS	The multi-ethnic 1000 Genomes Phase I integrated variant set release (v3) was used as the reference panel.
+0	NA	NA	NA	METHODS	Imputation was performed separately for each study.
+0	NA	NA	NA	METHODS	Statistical analyses were performed on imputed SNPs that had certainty score above 90%, info score above 50% and MAF greater than 1%
+0	NA	CAC + 1	NA	METHODS	Analyses were run using Log(CAC + 1) and CAC dichotomized (presence (CAC >= 10) vs. absence (CAC < 10)).
+0	NA	NA	NA	METHODS	The value of 1 added to the observed CAC score allowed for the inclusion all subjects, even those with a CAC score of zero.
+0	calcification	NA	NA	METHODS	This approach is justified based on the assumption that factors governing presence of CAC may differ from those influencing amount of CAC once calcification is initiated.
+0	diabetes	NA	NA	METHODS	Age, gender, global African ancestry proportion, diabetes duration, hemoglobin A1c, body mass index, smoking status, and use of lipid-lowering medication were included as covariates in the model to test for association between each SNP and CAC.
+0	NA	NA	NA	METHODS	Analyses were run separately in each study using the same outcome definitions based on the 90 HU CAC in AA-DHS and the 130 HU score in JHS.
+0	NA	NA	NA	METHODS	For the continuous outcome, linear mixed models were fitted using Genome-wide Efficient Mixed Model Analysis (GEMMA) software.
+0	NA	NA	NA	METHODS	Generalized estimating equations were implemented to test for associations with the binary outcome.
+0	NA	NA	NA	METHODS	All analyses adjusted for familial relationships estimated using the Relatedness Estimation in Admixed Populations (REAP) software.
+0	NA	NA	NA	METHODS	SNPs were tested for association using the likelihood ratio test for the overall two degrees of freedom mode of inheritance model.
+0	NA	NA	NA	METHODS	If the overall test of association is significant, then the three a priori genetic models (dominant, additive, and recessive) were explored; the model with the best fit for each SNP was used.
+0	NA	NA	NA	METHODS	Correction for this maximization was applied to account for the correlation between tests and to maintain the type 1 error rate.
+0	NA	NA	NA	METHODS	This approach is consistent with Fisher's protected least significant difference multiple comparison procedure.
+0	NA	NA	NA	METHODS	Sample size weighted meta-analysis was performed to compare and combine results observed from each study.
+0	NA	NA	NA	METHODS	Penalized regression with the L 1 norm (LASSO) was used to identify the SNP with the strongest effect size when LD caused several SNPs to display strong association with the outcome.
+0	NA	NA	NA	METHODS	A cross validation approach was used to determine the shrinkage parameter for each region.
+0	NA	NA	NA	METHODS	SNP selection was performed only in the AA-DHS subset, the larger of the two studies, to limit confounding effects.
+0	NA	NA	NA	METHODS	Joint tests of association between local ancestry and genotypes with CAC were also were performed.
+0	NA	NA	NA	METHODS	The model used for testing for association between local ancestry and CAC was similar to the one described for the genetic association tests, with local ancestry replacing the observed or imputed genotypes.
+0	NA	NA	NA	METHODS	If T L and T G denote the test statistics associated with the local ancestry and genotypic association with CAC, the joint test of association with local ancestry and genotype at each marker was calculated as , which follows a Chi-square distribution with 2 degrees of freedom.
+0	NA	NA	NA	METHODS	An alternative test based on the maximum of T G and T L was also computed, assuming these tests follow a bivariate normal distribution with a non-zero correlation.
+0	NA	NA	NA	METHODS	The empirical correlation was computed using the variance-covariance matrix for 2 correlated score tests.
+0	NA	NA	NA	METHODS	Results from these tests are shown in Additional file 2: Table S3
+0	NA	NA	NA	METHODS	The analysis involved more than 13 million directly genotyped and imputed SNPs.
+0	NA	NA	NA	METHODS	A strict Bonferroni correction would place the significance threshold at 1.9 x 10-9 for a two-sided test, a highly conservative threshold.
+0	NA	NA	NA	METHODS	The sample sizes required to adequately power genetic association studies in AAs at this significance threshold are not feasible for a single study (or even two).
+0	atherosclerotic	NA	NA	METHODS	These limitations are more pronounced when the focus is on atherosclerosis in the subset of this population with T2D.
+0	atherosclerotic	NA	NA	METHODS	We prioritized meta-analysis association results that reached an adjusted p-value <=8.0 x 10-7, with a minimum adjusted p-value <=8.0 x 10-3 observed in each study and prior evidence of association of the gene with CAC, T2D and other factors involved in the atherosclerosis process.
+0	atherosclerotic	NA	NA	METHODS	This approach combines statistical plausibility, with nominal statistical significance from both studies, and documented prior evidence that these genomic regions have been implicated in T2D and one or more processes leading to atherosclerosis.
+0	NA	NA	NA	METHODS	The adjusted p-value (or best p-value) is the p-value associated with the minimum of the three test statistics obtained with the additive, dominant and recessive mode of inheritance models
+0	NA	NA	NA	RESULTS	Table 1 displays demographic and clinical data in 691 AA-DHS participants with T2D; data in JHS participants are displayed in Table 2.
+0	NA	NA	NA	RESULTS	Although 90 HU CAC scores were analyzed in the AA-DHS GWAS, demographic data in both tables uses the 130 HU CAC score to permit comparability.
+0	NA	NA	NA	RESULTS	AA-DHS study participants were on average two years younger than those in JHS (56.3 +- 9.6 years vs. 58.4 +- 10.1 years; p-value = 6.7 x 10-3); had slightly higher HbA1c (8.2 +- 2.1% vs. 7.8 +- 1.9%, p-value = 0.02); lower proportion of African ancestry (75.1 +- 15.5% vs. 78.8 +- 7.8%, p-value = 0.001), and lower low density lipoprotein cholesterol (LDL) levels (107.8 +- 36.9 mg/dl vs. 119.9 +- 37.4 mg/dl, p-value = 4.8 x 10-5).
+0	NA	NA	NA	RESULTS	At the 130 HU threshold, JHS participant were more likely to have CAC >= 10, compared to AA-DHS participants (49.9% in AA-DHS vs. 66.8% in JHS, p-value = 8.6 x 10-6).
+0	NA	NA	NA	RESULTS	However, when CAC was present, AA-DHS and JHS had comparable levels (445.1 +- 646.1 vs. 548.4 +- 866.1, p-value = 0.11).
+0	NA	ACE	NA	RESULTS	In addition, participants in AA-DHS were less likely to be on angiotensin converting enzyme (ACE) inhibitors than JHS (49.1% vs. 79.2%, p-value = 3.2 x 10-35), but more likely to be current or former smokers (58.8% vs. 38.3%, p-value = 7.8 x 10-26) and on lipid lowering medications (46.4% vs. 28.4%, p-value = 6.1 x 10-17)
+0	diabetes	NA	NA	RESULTS	Within AA-DHS, individuals with 130 HU CAC >=10 were on average 6 years older (p-value <0.0001), had longer diabetes durations (12.2 +- 9.3 years vs. 8.4 +- 6.1, p-value = 5.3 x 10-5), and were more likely to be on lipid lowering medications (53.4% vs. 39.5%, p-value = 2.2 x 10-4).
+0	diabetes	NA	NA	RESULTS	Similar patterns were observed in JHS; study participants with CAC >=10 were more likely to be older (average age difference 5.4 years, p-value < 0.0001), have longer diabetes durations (average difference 3.2 years, p-value = 0.01) and more likely to receive lipid lowering medications (33.5% vs. 18.6%, p-value = 0.01).
+0	NA	NA	NA	RESULTS	The 90 HU CAC measure was more sensitive than the 130 HU CAC score at the lower end of the calcified plaque (CP) distribution; 37.7% of AA-DHS had 90 HU CAC <10 vs. 51.1% with 130 HU CAC, which supports the use of 90 HU CAC measure as the outcome in the GWAS, especially when focusing on presence of CAC.
+0	NA	NA	NA	RESULTS	The kappa statistic measuring the agreement between the 2 measures was 0.75 with the cutoff value of 10.
+0	NA	NA	NA	RESULTS	However, the spearman rank correlation between 90 HU CAC and 130 HU CAC was over 99% when the CP level was above 10 with both thresholds
+0	NA	CAC + 1	NA	FIG	Manhattan Plot of the meta-analysis of Log(CAC + 1) between AA-DHS and JHS CAC was measured at the 90 HU threshold in AADHS and the 130 HU threshold in JH
+0	NA	NA	NA	FIG	Manhattan Plot of the meta-analysis of Presence of CAC between AA-DHS and JHS CAC was measured at the 90 HU threshold in AADHS and the 130 HU threshold in JH
+1	NA	LRP1B	NA	FIG	Regional association plots for the 'sentinel' SNP in LRP1B, ATXN1, MAGI2, 9q31.2 -log10 (p-values) are shown for all SNPs in each region with the color of circles indicating the degree of LD with the most associated SNP in the region.
+1	NA	LRP1B	rs113533135	FIG	These regions are: a rs113533135 in LRP1B, b rs16879003 in in ATXN1, c rs113805659 in MAGI2; and d rs10978777 on 9q31.2.
+0	NA	NA	NA	FIG	Observed p-values came from the meta-analysis for all SNP
+0	NA	HS6ST3	NA	FIG	Regional association plots for the 'sentinel' SNP in 11q22.1, AK094733, HS6ST3 and DSC1.
+0	NA	NA	NA	FIG	-log10 (p-values) are shown for all SNPs in each region with the color of circles indicating the degree of LD with the most associated SNP in the region.
+0	NA	HS6ST3	rs75916004	FIG	These regions are: a rs75916004 on 11q22.1, b rs77934287 in chromosome 12, c rs6491315 in HS6ST3 and d rs4459623 in DSC1.
+0	NA	HS6ST3	rs6491315	FIG	Observed p-values came from the meta-analysis for all SNPs, except rs6491315 in HS6ST3.
+0	NA	NA	NA	FIG	This is region with the strongest result in AA-DHS; however, this signal was not replicated in JH
+0	NA	NA	NA	RESULTS	Complete results of the sample size weighted meta-analysis GWAS for CAC are displayed in Figs.
+0	NA	NA	NA	RESULTS	1 and 2 for the continuous and binary analyses, respectively.
+0	NA	NA	NA	RESULTS	SNPs that reach a meta-analysis p-value less than 10-4 are shown in Additional file 3: Table S1.
+0	NA	NA	NA	RESULTS	Table 3 displays the top meta-analysis GWAS results for 90 HU CAC in AA-DHS and 130 HU CAC in JHS, limited to those with meta-analysis p-values <=8.0 x 10-7.
+0	NA	CAC + 1	NA	RESULTS	SNPs that were associated with both presence and amount of CAC tended to have stronger association effects with the amount of CAC modeled as Log(CAC + 1).
+0	NA	NA	NA	RESULTS	In this case, only the association with the continuous outcome is reported.
+0	NA	NA	NA	RESULTS	Association effects shown with presence of CAC were only observed with this outcome.
+0	NA	NA	NA	RESULTS	We focus on six genomic regions that meet our prioritization rule.
+0	NA	NA	NA	RESULTS	Top results for the meta-analysis of the 130 HU CAC in both AA-DHS and JHS are shown in Additional file 1: Table S4.
+1	NA	NA	rs113805659	RESULTS	We note that rs113805659 was the only SNP that met the statistical significance threshold in both analyses.
+0	NA	NA	NA	RESULTS	Regional association plots for these regions are shown in Figs.
+0	NA	NA	NA	RESULTS	3 and 4.
+1	NA	ATXN1	NA	RESULTS	The strongest association result was observed in the ataxin-1 (ATXN1) gene located on 6p22.3.
+1	NA	NA	rs16879003	RESULTS	Penalized regression suggests that rs16879003 had the strongest estimated effect size under the additive mode of inheritance (MOI) with parameter estimate and (standard error) -0.19(0.04) in AA-DHS and -0.20(0.07) in JHS for a meta-analysis p-value of 1.1 x 10-7.
+0	coronary artery disease	NA	NA	RESULTS	Variants in the 6p22.3 region have been associated with MI and coronary heart disease (CHD)
+1	heart failure	LRP1B	NA	RESULTS	Association was also detected within LRP1B, a LDL receptor gene, located on 2q22.1, a genomic region previously implicated in CHD and heart failure.
+1	NA	NA	rs113533135	RESULTS	Under the dominant MOI, the parameter estimates for the association tests between rs113533135 and presence of CAC were 0.19(0.05) in AA-DHS and 0.30(0.08) in JHS for a meta-analysis p-value of 3.3 x 10-7
+1	NA	MAGI2	NA	RESULTS	Several SNPs in the membrane-associated guanylate kinase inverted 2 gene (MAGI2) were strongly associated with the binary outcome of presence (versus absence) of CAC.
+0	NA	NA	NA	RESULTS	This gene is located on chromosome 7q21.11.
+1	NA	NA	rs113805659	RESULTS	Conditional analysis revealed that rs113805659 had the strongest effect; under an additive mode of inheritance model that counts the number of minor alleles, the parameter estimates (standard errors) were -0.19 (0.04) in AA-DHS and -0.21 (0.08) in JHS with p-values of 5.5 x 10-6 and 7.5 x 10-3, respectively.
+0	NA	NA	NA	RESULTS	The association effect was in the same direction in both studies, leading to a meta-analysis p-value of 1.4 x 10-7.
+1	insulin deficiency	MAGI2	NA	RESULTS	Variants in MAGI2 have been associated with the disposition index, a measure of the relationship between insulin secretion and insulin sensitivity, cell-cell and cell-matrix adhesion in Hispanics and AAs with T2D, and aortic CP in the Framingham study
+0	NA	NA	NA	RESULTS	Several SNPs located in the 7q31.31 region showed significance with presence of CAC.
+0	NA	NA	rs58071836	RESULTS	After conditional analyses, rs58071836 had the strongest effect under an additive MOI -0.13(0.04) in AA-DHS and -0.22(0.06) in JHS for a meta-analysis p-value of 1.8 x 10-7.
+0	vascular calcification	WNT16	NA	RESULTS	This chromosomal region harbors WNT16, a gene implicated in vascular calcification and bone mineral density (BMD)
+0	NA	NA	rs10918777	RESULTS	Similar strong association results were observed on chromosome 9 with rs10918777 located on 9q31.2, under the additive model (-0.63 (0.16), p-value = 1.3 x 10-4 in AA-DHS and -0.95 (0.24), p-value = 8.7 x 10-5 in JHS and meta-analysis p-value = 1.2 x 10-7), and on chromosome 12 with rs77934287, under the recessive model (-0.38 (0.10), p-value = 3.0 x 10-4 in AA-DHS and -0.59 (0.16), p-value = 1.8 x 10-4 in JHS and meta-analysis p-value = 4.8 x 10-7)
+0	NA	NA	NA	RESULTS	Nearly 20 different SNPs were found to be associated with the presence of CAC in the 18q12.1 region.
+0	NA	NA	NA	RESULTS	These SNPs were all significant under the recessive model in both datasets.
+0	NA	NA	NA	RESULTS	Conditional analyses showed that the number of associated SNPs is primarily due to strong LD in the region.
+0	NA	NA	rs4459623	RESULTS	The sentinel SNP (rs4459623) had an effect size of (-0.32 (0.09), p = 4.1 x 10-4) in AA-DHS and (-0.55 (0.13), p = 4.3 x 10-5) in JHS, for a meta-analysis p-value 5.3 x 10-7.
+0	NA	DSC1	NA	RESULTS	These SNPs are in an intergenic region 25 kb distal to the desmocollin 1 gene (DSC1) and 99 kb proximal to desmoglein 1 gene (DSG1)
+0	NA	NA	NA	RESULTS	Our previous admixture mapping effort identified several regions with strong evidence for linkage with local ancestry.
+0	NA	NA	NA	RESULTS	All of these regions showed that excess European ancestry is associated with the risk and progression of CAC.
+0	NA	NA	NA	RESULTS	However, these regions were identified using a 90 HU threshold Agatston Score, a measure that is not available in JHS.
+0	NA	NA	NA	RESULTS	We were able to replicate these results in the AA-DHS analysis, but not in JHS.
+0	NA	NA	NA	RESULTS	For example, the admixture mapping signal reported on chromosome 13 near 13q32.1 (LOD = 2.8) replicated with several SNPs showing statistical significance at the 10-8 threshold in AA-DHS alone.
+0	NA	NA	rs6491315	RESULTS	In the fully-adjusted model, rs6491315 had an effect size of (-1.14 (0.2), p = 9.1 x 10-9); however, the effect was non-significant in JHS (0.11 (0.36), p-value = 0.75), yielding a meta-analysis p-value 5.8 x 10-7.
+0	NA	NA	NA	RESULTS	Joint models that combine local ancestry with the observed genotypic data in AA-DHS are shown in Additional file 4: Table S2 for completeness
+0	NA	NA	NA	DISCUSS	This report contains one of the few GWAS for CAC in the understudied AA population with T2D; it includes 896 subjects from two of the largest studies in this population.
+0	NA	NA	NA	DISCUSS	Several SNPs had a meta-analysis p-value less than 8.0x 10-7, albeit none reached the strict Bonferroni corrected threshold.
+0	NA	NA	rs75916004	DISCUSS	Two SNPs, rs75916004 located on chromosome 11 in the 11p15.4 region and rs13331874 located on 16p13.3 were close, with meta-analysis p-values of 5.9 x 10-8 and 6.3 x 10-8, respectively.
+0	NA	NA	NA	DISCUSS	However, their p-values were greater than 8 x 10-3 in JHS.
+0	NA	HS6ST3	NA	DISCUSS	Genome-wide significant association was detected between CAC and multiple SNPs located on chromosome 13 near the HS6ST3 gene in AA-DHS.
+0	NA	NA	NA	DISCUSS	Several other genomic regions displayed suggestive evidence of association
+0	NA	NA	NA	DISCUSS	The chromosome 11 and 13 GWAS peaks overlay suggestive MALD peaks for CAC in AA-DHS participants.
+0	NA	NA	NA	DISCUSS	This result suggests that a portion of the ancestry-specific risk for development of CAC lies in this genomic region.
+0	NA	NA	NA	DISCUSS	Emerging data support a genetic basis for the markedly lower levels of CAC in AAs, relative to EAs.
+0	NA	NA	NA	DISCUSS	In support of clinical relevance, reduced rates of MI are present in AAs with and without T2D, provided equal access to healthcare as EAs.
+0	NA	NA	NA	DISCUSS	We also note that no SNPs in the 9p21 and 6p24 regions that have been reported in previous GWAS of European ancestry populations met the statistical significance criteria defined for the genetic association tests.
+0	NA	NA	NA	DISCUSS	The admixture mapping results shown in Additional file 4: Table S2 still suggest that excess European ancestry in these regions contributes to the likelihood and severity of CAC; however, the association signals were weaker
+0	NA	NA	NA	DISCUSS	These results observed in AAs with T2D contrast with those in a recent GWAS meta-analysis for CAC in AAs where the prevalence of T2D varied between 10.3 and 33.2%.
+0	NA	NA	NA	DISCUSS	That report identified significant heritability for CAC in AAs, but failed to detect genome-wide evidence of association.
+0	NA	NA	NA	DISCUSS	Gomez et al.
+0	NA	NA	NA	DISCUSS	identified one statistically significant admixture mapping peaks on chromosome 12 and three suggestive peaks on chromosomes 6, 9, and 15.
+0	NA	NA	NA	DISCUSS	These regions did not overlap with the admixture mapping results reported in Divers et al.
+0	NA	NA	NA	DISCUSS	and those described in Table 3 below.
+0	NA	NA	NA	DISCUSS	Similar to Wojczynski et al., only a fraction of their sample (~28%) had T2D, which may partly explain the discordant results
+0	NA	NA	NA	DISCUSS	We also note that some of the admixture results observed in AA-DHS did not replicate in JHS (See Additional file 2: Table S3), and we can only speculate on why that would be the case.
+0	hyperglycemia	NA	NA	DISCUSS	Possible reasons include the smaller sample size (691 vs. 205), the greater sensitivity of the 90 HU CAC measure that was only available in AA-DHS, and that hyperglycemia and T2D likely provide a modifying environmental stimulus that increases the development of CAC more prominently in individuals who are genetically susceptible to atherosclerosis.
+0	NA	NA	NA	DISCUSS	All published reports that measured CAC and other sites of CP reveal markedly higher levels in subjects with T2D, relative to those without T2D.
+0	diabetes	NA	NA	DISCUSS	Therefore, it is probable that the diabetic milieu predisposed to coronary artery atherosclerosis in our populations, even among participants at lower risk for CAC due to their higher percentage of recent African ancestry.
+0	NA	NA	NA	DISCUSS	Absence of similar environmental triggers in the Wojczynski et al.
+0	NA	NA	NA	DISCUSS	AA GWAS and Gomez et al.
+0	NA	NA	NA	DISCUSS	admixture mapping meta-analyses with lower levels of CAC could have diminished the ability to detect genetic association
+1	spinocerebellar ataxia	ATXN1	rs16879003	DISCUSS	Among the significant associations identified, SNP rs16879003 resides in the ATXN1 gene, a member of the spinocerebellar ataxia (SCA) family.
+0	NA	NA	NA	DISCUSS	Although this protein is ubiquitously expressed, its function remains unknown.
+0	NA	NA	NA	DISCUSS	However, recent studies have linked variants in this gene with adiposity, MI and CHD.
+0	NA	NA	NA	DISCUSS	Based on these observations, there is support for a potential role in which variation at this locus serves as a modifier, either indirectly, i.e.
+0	metabolic disorder	NA	NA	DISCUSS	metabolic syndrome, or directly as a transcriptional repressor in the development of CAC more prominently in individuals who are genetically susceptible to atherosclerosis
+1	NA	LRP1B	rs113533135	DISCUSS	rs113533135 is located in the LRP1B gene, a member of the LDL receptor family.
+1	NA	LRP1B	NA	DISCUSS	LRP1B is a multi-ligand receptor that binds urokinase plasminogen activator and plasminogen activator inhibitor-1, suggesting a role in fibrinolysis and extracellular matrix remodeling.
+1	cancers	LRP1B	NA	DISCUSS	The LRP1B gene has also been associated with insulin resistance and tumor suppression in humans and LDL cholesterol levels in rats
+0	NA	ABCA1	rs10978777	DISCUSS	rs10978777 is located in the 9q31 region upstream of the ABCA1 gene.
+0	NA	NA	NA	DISCUSS	This gene encodes a transmembrane protein that is expressed in most cells in the body and is critical for cellular cholesterol efflux and HDL particle formation.
+0	Tangier disease	ABCA1	NA	DISCUSS	Mutations in ABCA1 cause Tangier disease, a rare genetic disorder that is characterized by plasma HDL cholesterol concentrations <5% of normal, ~50% reduction in plasma LDL cholesterol concentrations, cholesterol accumulation in macrophages, peripheral neuropathy, and hepatosplenomegaly.
+0	Tangier disease	NA	NA	DISCUSS	Some Tangier disease kindreds have premature CHD, likely due to very low plasma HDL cholesterol levels, but some are spared, presumably due to significant reductions in plasma LDL cholesterol
+0	Cantu syndrome	LOX-1	rs77934287	DISCUSS	rs77934287 is located on 12p12.1, a genomic region that contains the LOX-1 gene and ABCC9, a gene that has been associated with the Cantu syndrome, cardiac conduction disturbances and possibly cardiomyopathy.
+0	NA	LOX-1	NA	DISCUSS	LOX-1 encodes the lectin-like oxidized LDL receptor, which is expressed on the surface of macrophages, smooth muscle cells, and endothelial cells.
+0	NA	LOX-1	NA	DISCUSS	The LOX-1 receptor binds and internalizes proinflammatory oxidized LDL, an initiator of macrophage lipid accumulation and endothelial cell dysfunction.
+0	atherosclerotic	LOX-1	NA	DISCUSS	LOX-1 expression has been documented in human atherosclerotic plaques and its expression is increased by proinflammatory cytokines.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	ABCC9 is a member of the superfamily of ATP-binding cassette (ABC) transporters.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	The ABCC9 protein is thought to form ATP-sensitive potassium channels in cardiac, skeletal, and vascular and non-vascular smooth muscle
+0	NA	NA	NA	DISCUSS	Multiple SNPs in the 18q12.1 region were associated with CAC in this study (Table 3).
+0	NA	DSC1	NA	DISCUSS	These SNPs are in an intergenic region between DSC1 and DSG1, both of which belong to the cadherin superfamily of cell-cell adhesion genes that form a cluster on chromosome 18.
+0	NA	DSC1	NA	DISCUSS	DSC1 and DSG1 are calcium-dependent transmembrane glycoproteins involved in desmosome formation between cells.
+0	atherosclerotic	NA	NA	DISCUSS	Atherogenic lipoproteins, such as oxidized LDL, that initiate atherogenesis and endothelial cell inflammation reportedly downregulate desmocollin and desmoglein expression.
+0	atherosclerotic	NA	NA	DISCUSS	This may lead to endothelial barrier dysfunction and increased influx of atherogenic lipoproteins into the arterial intima of atherosclerotic lesions
+0	NA	NA	NA	DISCUSS	This study has limitations, including the small sample size and limited generalizability of results observed to AAs with longstanding T2D.
+0	NA	NA	NA	DISCUSS	Regarding the concern over sample size, it is important to note that the replication provides the ultimate protection against type 1 errors.
+0	NA	NA	C for 48	DISCUSS	Unfortunately, CAC in AA populations has not been studied as intensively as in EAs.
+0	NA	NA	NA	DISCUSS	When presence of T2D is considered as an additional inclusion criterion, the present study is the largest GWAS of which we are aware in AAs with T2D, and it is unlikely that many genome-wide association datasets will soon become available in this minority population
+0	NA	NA	NA	DISCUSS	The 90 HU CAC variable was used instead of the 130 HU CAC in the AA-DHS because of its improved sensitivity for detection calcified plaques.
+0	NA	NA	NA	DISCUSS	A sample size weighted meta-analysis was then performed to combine the observed results with JHS.
+0	NA	NA	NA	DISCUSS	An inverse variance weighted meta-analysis combining results observed with 130 HU CAC measure that is available in both studies as a sensitivity analysis.
+0	NA	NA	NA	DISCUSS	Results from these analyses are presented in Additional file 4.
+0	NA	NA	NA	DISCUSS	Overall, they show similar patterns as the main analyses, although the meta-analysis effect sizes are usually stronger when the 90 HU CAC variable is used in AA-DHS
+0	NA	NA	NA	CONCL	This report contains the first GWAS results for CAC in the understudied African American population with T2D.
+1	NA	ATXN1	NA	CONCL	Potential roles for LRB1, ATXN1, MAGI2, DSC1 and DSG1 were reported and additional support for genomic regions identified by admixture mapping was identified.
+0	hyperglycemia	NA	NA	CONCL	Hyperglycemia increases CAC, both in prevalence and severity, and may provide a necessary environmental trigger to detect the genetic basis of coronary atherosclerosis in populations with recent African ancestry, who seem to be biologically protected from developing CP.
+0	coronary artery disease	NA	NA	CONCL	Future functional studies of the roles of variation in these genes in human tissues/cells and transgenic animals will contribute to our understanding of genetic susceptibility to coronary atherosclerosis
+0	NA	NA	NA	AUTH_CONT	JD established the statistical quality control (QC) plan, performed some analyses, summarized and helped interpret the results, and drafted the manuscript.
+0	NA	NA	NA	AUTH_CONT	NDP performed the genotyping, lead the laboratory QC, helped interpret the results, and contributed in the manuscript preparation.
+0	NA	NA	NA	AUTH_CONT	CDL participated in the design of the study, contributed his expertise in the QC process, helped interpret results, and reviewed the manuscript.
+0	NA	NA	NA	AUTH_CONT	WMB and LL performed most of the statistical analyses and generated the graphs.
+0	NA	NA	NA	AUTH_CONT	PJH prepared the DNA for genotyping.
+0	NA	NA	NA	AUTH_CONT	SCS and JX managed the databases and created the analysis dataset.
+0	NA	NA	NA	AUTH_CONT	JGT and JJC measured CAC levels and revised the manuscript.
+0	NA	GCC	NA	AUTH_CONT	TCR, LEW, JSP, LM, and GCC are AA-DHS investigators, providing scientific input for the project, genotyping, writing and revising the final manuscript.
+0	NA	NA	NA	AUTH_CONT	SGB, AC, SM, JGW, and HAT provided Jackson Heart Study data and assisted in data analysis and manuscript preparation.
+0	NA	NA	NA	AUTH_CONT	DWB and BIF developed this project, BIF recruited and phenotyped all AA-DHS participants, and both authors supervised genotyping, statistical analysis and manuscript preparation.
+0	NA	NA	NA	AUTH_CONT	All authors contributed to revising the manuscript.
+0	NA	NA	NA	AUTH_CONT	All authors read and approved the final manuscript
+0	NA	NA	NA	AUTH_CONT	AA-DHS was approved by the WFSM Institutional Review Board, and all participants provided written informed consent
+0	NA	NA	NA	AUTH_CONT	JHS is a population-based cohort study that recruited participants from various Institutions in the Jackson, MI metropolitan area.
+0	NA	NA	NA	AUTH_CONT	Study protocols and consent forms for JHS were approved by the responsible research ethics committees and institutional research boards.
+0	NA	NA	NA	AUTH_CONT	All JHS participants provided written informed consent
+0	NA	NA	NA	AUTH_CONT	Not applicable - all reported data have been aggregated.
+0	NA	NA	NA	AUTH_CONT	This manuscript does not provide participant level data
+0	NA	NA	NA	COMP_INT	Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations

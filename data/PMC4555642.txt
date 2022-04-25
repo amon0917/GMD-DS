@@ -1,0 +1,187 @@
+0	breast cancer	NA	NA	ABSTRACT	Survival after a diagnosis of breast cancer varies considerably between patients, and some of this variation may be because of germline genetic variation.
+0	NA	NA	NA	ABSTRACT	We aimed to identify genetic markers associated with breast cancer-specific survival
+0	breast cancer	NA	NA	ABSTRACT	We conducted a large meta-analysis of studies in populations of European ancestry, including 37954 patients with 2900 deaths from breast cancer.
+0	NA	NA	NA	ABSTRACT	Each study had been genotyped for between 200000 and 900000 single nucleotide polymorphisms (SNPs) across the genome; genotypes for nine million common variants were imputed using a common reference panel from the 1000 Genomes Project.
+0	NA	ER	NA	ABSTRACT	We also carried out subtype-specific analyses based on 6881 estrogen receptor (ER)-negative patients (920 events) and 23059 ER-positive patients (1333 events).
+0	NA	NA	NA	ABSTRACT	All statistical tests were two-sided
+0	breast cancer	NA	rs2059614	ABSTRACT	We identified one new locus (rs2059614 at 11q24.2) associated with survival in ER-negative breast cancer cases (hazard ratio [HR] = 1.95, 95% confidence interval [CI] = 1.55 to 2.47, P = 1.91 x 10-8).
+0	NA	ER	NA	ABSTRACT	Genotyping a subset of 2113 case patients, of which 300 were ER negative, provided supporting evidence for the quality of the imputation.
+0	NA	NA	NA	ABSTRACT	The association in this set of case patients was stronger for the observed genotypes than for the imputed genotypes.
+0	NA	NA	rs148760487	ABSTRACT	A second locus (rs148760487 at 2q24.2) was associated at genome-wide statistical significance in initial analyses; the association was similar in ER-positive and ER-negative case patients.
+0	NA	NA	NA	ABSTRACT	Here the results of genotyping suggested that the finding was less robust
+0	breast cancer	NA	NA	ABSTRACT	This is currently the largest study investigating genetic variation associated with breast cancer survival.
+0	cancers	NA	NA	ABSTRACT	Our results have potential clinical implications, as they confirm that germline genotype can provide prognostic information in addition to standard tumor prognostic factors
+0	breast cancer	NA	NA	INTRO	Survival after a diagnosis of breast cancer varies considerably between patients.
+0	NA	NA	NA	INTRO	Many factors influence outcome in an individual patient, including inherited genetic variation.
+0	NA	NA	NA	INTRO	This hypothesis is supported by several lines of evidence.
+0	breast cancer	NA	NA	INTRO	It has been shown that first-degree relatives with breast cancer have a correlated likelihood of dying from the disease.
+0	NA	NA	NA	INTRO	Additionally, mouse strain is a determinant of metastatic progression in in vivo models.
+0	NA	NA	NA	INTRO	There are many mechanisms through which germline genetic variation might affect prognosis.
+0	cancers	BRCA1	NA	INTRO	Some known disease susceptibility alleles confer differential risks of different tumor subtypes that are associated with different outcomes:for example, deleterious alleles of BRCA1 are associated with estrogen receptor (ER)-negative disease, and several common germline genetic variants that are associated with susceptibility to breast cancer have different risks of ER-positive and ER-negative disease.
+0	NA	NA	NA	INTRO	Germline genotype could also affect the efficacy of adjuvant drug therapies or might influence tumor-host interactions, such as those involving the stroma surrounding a tumor or the host's immune response.
+0	cancers	NA	NA	INTRO	The host genotype might also influence the propensity of a tumor to seed and grow at metastatic sites
+0	NA	NA	NA	INTRO	The association between common germline genetic variation and breast cancer-specific survival has been examined in many candidate gene studies.
+0	NA	NA	NA	INTRO	These studies have identified numerous single nucleotide polymorphisms (SNPs) possibly associated with outcome, but none have been conclusively replicated in further studies.
+0	NA	NA	NA	INTRO	Genome-wide association studies (GWAS) have been very successful at identifying susceptibility alleles for a wide range of normal and disease phenotypes.
+0	breast cancer	NA	NA	INTRO	However, GWAS of breast cancer survival published to date have had modest sample sizes and have not identified any confirmed associations.
+0	NA	NA	NA	INTRO	It is clear that the success of other GWAS has depended on large sample sizes.
+0	breast cancer	NA	NA	INTRO	It is likely that large studies of survival time are required if alleles associated with prognosis in breast cancer are to be identified.
+0	breast cancer	NA	NA	INTRO	We therefore pooled genotype data from multiple breast cancer GWAS discovery and replication efforts and linked these data to available survival time data for the case patients in order to maximize statistical power to detect associations
+0	breast cancer	NA	NA	METHODS	We pooled data from multiple breast cancer case cohorts in populations of European ancestry with existing high-density SNP genotyping (Supplementary Table 1-4, available online).
+0	breast cancer	NA	NA	METHODS	These data comprise eight main genotype datasets (Collaborative Oncological Gene-environment Study [COGS], BPC3, CGEMS, HElsinki Breast Cancer Study [HEBCS], METABRIC, PG-SNPs, Sweden Breast Cancer Study [SASBAC], and UK2).
+0	NA	NA	NA	METHODS	Each study had been genotyped for 200000 to 900000 SNPs across the genome using a variety of genotyping arrays.
+0	NA	NA	NA	METHODS	SASBAC and HEBCS are single-case cohorts, and all others have multiple constituent studies.
+0	NA	NA	NA	METHODS	A summary of the studies in COGS contributing data to our analysis is shown in Supplementary Table 3 (available online).
+0	cancers	ER	NA	METHODS	ER status was obtained mostly from medical records followed by immunohistochemistry performed on tumor tissue microarrays or whole-section tumor slides.
+0	NA	NA	NA	METHODS	All studies were approved by the relevant institutional review boards, and all participants provided written informed consent
+0	NA	NA	NA	METHODS	The genotype and the sample quality control (QC) have been previously described for COGS, CGEMS, HEBCS, SASBAC, UK2, PG-SNPs, and BPC3.
+0	breast cancer	MAF	NA	METHODS	QC procedures have not been described previously for the Molecular Taxonomy of Breast Cancer International Consortium (METABRIC) germline genotype data: SNPs were excluded 1) if the genotype frequencies deviated from those expected under Hardy-Weinberg equilibrium at P values of less than 1x10-5, 2) if they had a minor allele frequencies (MAFs) of less than 1%, 3) if the MAF was between 1% and 5% and call rate was under 99%, and 4) if the MAF was greater than 5% and the call rate was under 95%.
+0	NA	NA	NA	METHODS	A summary of the number of genotyped SNPs and the number of SNPs passing QC is shown in Supplementary Table 4 (available online).
+0	NA	NA	NA	METHODS	All individuals with low call rates (< 95%) or high or low heterozygosity (P < 1 x 10-5) were excluded from subsequent analyses.
+0	NA	NA	NA	METHODS	All analyses were based on subjects of European ancestry based on genotype data.
+0	NA	NA	NA	METHODS	The methods and criteria for exclusion of non-European samples has been described previously for all studies apart from METABRIC, for which we used a set of unlinked SNPs, and the program Local Ancestry in adMixed Populations to assign intercontinental ancestry based on the HapMap release no.22 genotype frequency data for European, African, and Asian populations.
+0	NA	NA	NA	METHODS	Subjects with less than 90% European ancestry were excluded
+0	NA	NA	NA	METHODS	Genotypes for common variants across the genome were imputed using a reference panel from the 1000 Genomes Project in order to increase genome coverage.
+0	NA	NA	NA	METHODS	Genotype imputation for PG-SNPs, METABRIC, UK2, SASBAC, HEBCS, and COGS was performed using IMPUTE2 after prephasing with SHAPEIT.
+0	NA	NA	NA	METHODS	This was done in chunks of 5 MB and default parameters for both programs.
+0	NA	NA	NA	METHODS	The imputation reference set consisted of 2184 phased haplotypes from the full 1000 Genomes Project data set (March 2012).
+0	NA	NA	NA	METHODS	All genomic locations are given in NCBI Build 37/UCSC hg19 coordinates.
+0	NA	NA	NA	METHODS	Imputation for CGEMS and BPC3 was performed using the program MaCH.
+0	NA	NA	NA	METHODS	SNPs with imputation r 2 < 0.3 were excluded on a study-by-study basis.
+0	NA	MAF	NA	METHODS	All SNPS with a MAF of less than 1% were excluded
+0	NA	NA	NA	METHODS	The primary end point was breast cancer-specific survival.
+0	NA	NA	NA	METHODS	Time-to-event was calculated from the date of diagnosis.
+0	NA	NA	NA	METHODS	However, case patients were recruited at variable times before or after diagnosis; therefore, time under observation was calculated from date of recruitment (left censoring) in order to prevent the bias that could result from the inclusion of prevalent cases.
+0	death	NA	NA	METHODS	Follow-up was right censored on the date of death if death was from something other than breast cancer, the date last known alive if death did not occur, or at 10 years after diagnosis, whichever came first.
+0	NA	NA	NA	METHODS	We fitted univariate Cox proportional hazard models to assess the association of genotype with breast cancer-specific mortality.
+0	breast cancer	NA	NA	METHODS	We also ran analyses for ER-negative and ER-positive breast cancer.
+0	NA	NA	NA	METHODS	Each data set including the three component case cohorts in BPC3 was analyzed separately.
+0	NA	NA	NA	METHODS	The Cox models were stratified by study for the COGS dataset.
+0	NA	NA	NA	METHODS	We controlled for cryptic population substructure by including a variable number of principal components as covariates for each data set.
+0	NA	NA	NA	METHODS	The Cox proportional hazards assumption was tested for each significant SNP of interest analytically using Schoenfeld residuals.
+0	NA	NA	NA	METHODS	There was no evidence of nonproportional hazards.
+0	cancers	NA	NA	METHODS	For the statistically significantly associated SNPs, we ran multivariable Cox models adjusting for age, nodal status, tumor size, tumor grade, and adjuvant treatment using the COGS data.
+0	NA	NA	NA	METHODS	We used an in-house program written in C++ for the analysis of COGS, HEBCS, METABRIC, PG-SNPs, SASBAC, and UK2.
+0	NA	NA	NA	METHODS	Analysis of CGEMS and BPC3 data was conducted using ProbABEL.
+0	NA	NA	NA	METHODS	We excluded SNPs with MAFs under 1% because of extreme value of the test statistics.
+0	NA	NA	NA	METHODS	Overall statistical significance tests for each SNP were performed by combining the results for each data set using a fixed-effects meta-analysis.
+0	NA	NA	NA	METHODS	All statistical tests were two-sided.
+0	NA	NA	NA	METHODS	Inflation of the test statistics (lambda) was estimated by dividing the 45th percentile of the test statistic by 0.357 (the 45th percentile for a chi2 distribution on 1 degree of freedom).
+0	NA	NA	NA	METHODS	Heterogeneity between studies was measured using the I 2 statistic.
+0	NA	NA	NA	METHODS	Correlation between SNPs was calculated using Pearson correlation coefficient.
+0	NA	NA	NA	METHODS	Associations were regarded as statistically significant at a nominal P value of less than 5 x 10-8 (genome-wide significance)
+0	cancers	NA	NA	METHODS	Expression quantitative trait locus (eQTL) analyses were performed for all genes in the 1 MB region spanning the associated SNPs using probe-level gene expression data for breast epithelium samples taken from normal tissue adjacent to the tumor of 135 breast cancer patients of European ancestry from the METABRIC study.
+0	NA	NA	NA	METHODS	These were assayed using the Illumina HT12 platform.
+0	breast cancer	NA	NA	METHODS	We also analyzed eQTL data of 387 breast tumors from the Cancer Genome Atlas (TCGA) (303 ER-positive, 81 ER-negative, three unknown) assayed using the Agilent G4502A-07-3 array.
+0	cancers	NA	rs2059614	METHODS	Germline SNP genotypes were available for normal and tumor samples from the Affymetrix SNP 6.0 platform imputed into 1000 Genomes Project data (March 2012) for the three SNPs of interest: rs2059614 at 11q24.2, and rs148760487 and rs114860916 at 2q24.2 (see Results section).
+0	NA	NA	NA	METHODS	Association between genotype and expression was tested by linear regression with false discovery rate control
+0	breast cancer	NA	NA	RESULTS	The overall results were based on 37954 case patients with 2900 deaths from breast cancer (Supplementary Table 2, available online).
+0	NA	NA	NA	RESULTS	The results of the subtype-specific analyses were based on 23059 ER-positive case patients (1333 deaths) from five studies and 6881 ER-negative case patients (920 deaths) from eight studies
+0	NA	NA	NA	RESULTS	In the overall analysis, we identified 28 SNPs associated with breast cancer-specific survival at P values of less than 5x10-8 (Table 1; Supplementary Figures 1 and 2, available online).
+0	NA	NA	NA	RESULTS	All 28 SNPs were located in the same region on chromosome 2 and had been imputed in all eight datasets.
+0	NA	NA	rs148760487	RESULTS	The strongest association was for rs148760487 (hazard ratio [HR] = 1.88, 95% confidence interval [CI] = 1.51 to 2.34), P = 1.5x10-8) (risk allele frequency = 0.01).
+0	NA	NA	NA	RESULTS	This SNP was associated with breast cancer-specific survival in both ER-positive (HR = 2.07, 95% CI = 1.47 to 2.91, P = 3.1x10-5) and ER-negative case patients (HR = 1.87, 95% CI = 1.27 to 2.75, P = .002).
+0	NA	NA	NA	RESULTS	The imputation efficiency for these SNPs varied between an r 2 of 0.69 and 0.997 for the eight data sets.
+0	NA	NA	NA	RESULTS	The inflation factor lambda for the overall analysis was 1.01
+0	NA	NA	NA	TABLE	Summary of SNPs by levels of statistical significance in the final combined analysis, ER-negative and ER-positive case patients
+0	NA	NA	rs2059614	RESULTS	A single imputed SNP, rs2059614, located on chromosome 11, was associated with breast cancer-specific mortality at genome-wide statistical significance in patients with ER-negative disease (HR = 1.90, 95% CI = 1.54 to 2.33, P = 1.3x10-9) (risk allele frequency = 0.06) (Table 1; Figures 1 and 2).
+0	NA	NA	NA	RESULTS	The imputation r 2 ranged from 0.75 to 0.82 across eight studies with ER-negative cases.
+0	NA	NA	NA	RESULTS	The inflation factor lambda for analysis based on ER-negative cases was 1.03.
+0	NA	NA	rs7149859	RESULTS	No SNP reached nominal genome-wide statistical significance in the analysis of case patients with ER-positive disease (Supplementary Figures 3 and 4, available online), for which the strongest association was for rs7149859 in chromosome 14 (HR = 1.22, 95% CI = 1.13 to 1.33, P = 7.0x10-7).
+0	NA	NA	rs148760487	RESULTS	There was very little between study heterogeneity for the overall analysis for rs148760487 (I2 = 0%, P = .59) (Supplementary Figure 5, available online) or the ER-negative analysis for rs2059614 (I2 = 0%, P = .50) (Supplementary Figure 6, available online)
+0	NA	ER	NA	FIG	Association plot for combined GWAS and COGS analyses for estrogen receptor (ER)-negative cases.
+0	breast cancer	NA	NA	FIG	The P values of the association between each single nucleotide polymorphism (SNP) and breast cancer survival were obtained by cox regression analyses with adjustment for principle components for each study and then combined.
+0	NA	NA	NA	FIG	The y-axis shows the -log10 P values of each SNP analyzed, and the x-axis shows their chromosome position.
+0	NA	NA	NA	FIG	The red horizontal line represents P = 5x10-8.
+0	NA	NA	NA	FIG	All statistical tests were two-sided
+0	NA	ER	NA	FIG	Quantile-Quantile (Q-Q) plot for the combined GWAS and COGS analyses for estrogen receptor (ER)-negative cases.
+0	NA	NA	NA	FIG	The y-axis represents the observed -log10 P value, and the x-axis represents the expected -log10 P value.
+0	NA	NA	NA	FIG	The red line represents the expected distribution under the null hypothesis of no association.
+0	NA	NA	NA	FIG	All statistical tests were two-sided
+0	NA	NA	rs148760487	RESULTS	We conducted follow-up imputation on the two regions around rs148760487 and rs2059614 using the IMPUTE2 Markov chain Monte Carlo algorithm with 80 iterations without prephasing, as omitting the prephasing step should maximize imputation accuracy.
+0	NA	NA	NA	RESULTS	We reimputed all SNPs in the genomic regions 500 KB pairs on either side of the two SNPs of interest.
+0	NA	NA	rs148760487	RESULTS	The association for rs148760487 was somewhat weaker (HR = 1.75, 95% CI = 1.39 to 2.20, P = 1.44 x 10-6).
+0	NA	NA	rs114860916	RESULTS	A highly correlated SNP, rs114860916 (r 2 = 0.97) was now the most strongly associated SNP in the region (HR = 1.74, 95% CI = 1.39 to 2.18, P = 1.16 x 10-6).
+0	NA	NA	rs2059614	RESULTS	In contrast, rs2059614 remained the most strongly associated SNP with survival of ER-negative disease (HR = 1.95, 95% CI = 1.55 to 2.47, P = 1.91 x 10-8).
+0	NA	NA	NA	RESULTS	Again there was no evidence of heterogeneity in the meta-analysis of these SNPs (data not shown)
+0	breast cancer	NA	rs148760487	RESULTS	We genotyped rs148760487 and rs2059614 in 2113 breast cancer case patients from the Studies of Epidemiology and Risk Factors in Cancer Heredity (SEARCH) in order to confirm the quality of the imputation.
+0	NA	NA	rs148760487	RESULTS	The correlation between the imputed and observed genotypes was 0.63 for rs148760487 and 0.68 for rs2059614.
+0	NA	NA	NA	RESULTS	This compares with an estimated imputation r 2 of 0.76 and 0.79 for the genotypes imputed with prephasing using genotype data from the COGS custom array.
+0	NA	NA	NA	RESULTS	We then compared the results of association analyses for the SEARCH data set using the imputed and observed genotypes.
+0	breast cancer	NA	rs148760487	RESULTS	For rs148760487, there were 133 breast cancer deaths.
+0	NA	NA	NA	RESULTS	In this subset the association based on genotyped data was weaker than the association based on the imputed data (HR = 1.66, 95% CI = 0.75 to 3.69, P = .21 and HR = 2.06, 95% CI = 0.84 to 5.04, P = .11, respectively), but this difference was not statistically significant (P = .72).
+0	NA	NA	rs2059614	RESULTS	For rs2059614, there were genotyped and imputed data for 300 ER-negative samples with 45 deaths.
+0	NA	NA	NA	RESULTS	The association with genotyped data was stronger than that for imputed data (HR = 1.80, 95% CI = 0.99 to 3.25, P = .05 and HR = 1.44, 95% CI = 0.51 to 4.12, P = .49, respectively), as would be expected for a true positive association.
+0	NA	NA	NA	RESULTS	Again, this difference was not statistically significant (P = .72).
+0	cancers	ER	NA	RESULTS	We also conducted multivariable analysis for these two SNPs using the pooled data within the COGS dataset, stratified by study and adjusting for principal components, age, lymph node status, tumor size, stage, grade, ER status (where applicable), and adjuvant treatment; the results were similar to the main findings (data not shown).
+0	NA	NA	rs148760487	RESULTS	Finally, we compared the hazard ratios for rs148760487 in all case patients and rs2059614 for ER-negative case patients in premenopausal (defined as age at diagnosis younger than 45 years) and postmenopausal (age at diagnosis of 55 years or older).
+0	NA	NA	NA	RESULTS	There was no statistically significant difference (P = .96 and .24, respectively)
+1	cancers	EI24	rs2059614	RESULTS	The risk allele of rs2059614 was associated with increased expression of EI24 and CHEK1 in normal breast epithelium adjacent to tumor from the METABRIC study (P = .002 and .007, respectively) (Supplementary Figure 7, available online).
+0	cancers	EI24	NA	RESULTS	EI24 is a tumor suppressor gene involved in TP53 dependent apoptosis.
+1	NA	CHEK1	NA	RESULTS	CHEK1 is required for checkpoint-mediated cell cycle arrest in response to DNA damage.
+1	NA	EI24	NA	RESULTS	Other SNPs in the region were more strongly associated with both EI24 and CHEK1 expression, but were not associated with prognosis.
+0	NA	NA	rs148760487	RESULTS	There were no statistically significant eQTLs for rs148760487 and rs114860916 in normal breast epithelium.
+0	cancers	NA	NA	RESULTS	None of the three SNPs had statistically significant eQTLs in tumors from the TCGA study.
+0	NA	NA	NA	RESULTS	We also explored the association between gene expression for all genes in the 1 MB region spanning the associated SNPs and breast cancer-specific mortality using KM plotter.
+0	breast cancer	NA	NA	RESULTS	Data were available for 575 ER-negative breast cancer patients.
+1	NA	CHEK1	NA	RESULTS	CHEK1 expression was not associated with relapse-free survival in ER-negative case patients (HR = 0.86, 95% CI = 0.65 to 1.12, P = .25) (Supplementary Figure 8, available online) but had statistically significant associations in ER-positive case patients (HR = 1.59, 95% CI = 1.31 to 1.91, P = 1.2x10-6).
+0	NA	EI24	NA	RESULTS	EI24 expression was associated with relapse-free survival in both ER-positive case patients (HR = 0.75, 95% CI = 0.63 to 0.90, P = .002) and ER-negative case patients (HR = 1.38, 95% CI = 1.07 to 1.77, P = .01).
+0	NA	NA	rs2059614	RESULTS	It is interesting that the direction of association is consistent: The risk allele G of rs2059614 is associated both with poor breast cancer-specific survival in ER-negative case patients and with higher levels of EI24 expression in normal breast epithelium, which in turn is associated with poorer relapse-free survival in breast cancer.
+0	NA	NA	rs148760487	RESULTS	Expression of neither of the genes near rs148760487 was associated with relapse
+0	NA	NA	NA	RESULTS	Both the two top SNPs lie in putative enhancer sequences for which promoter interactions have been predicted (Supplementary Figure 9, available online).
+0	FAP	EI24	rs148760487	RESULTS	IFIH or FAP might be the target of rs148760487, and EI24 might be the target of rs2059614 because the SNP is in an enhancer in endothelial cells that is predicted to regulate EI24
+0	breast cancer	NA	NA	DISCUSS	This is the largest genetic association study of breast cancer prognosis to date.
+0	NA	NA	rs148760487	DISCUSS	We identified one new locus (rs148760487 at 2q24.2) associated with breast cancer-specific survival in all breast cancer and one new locus (rs2059614 at 11q24.2) associated with breast cancer survival in ER-negative case patients at genome-wide levels of statistical significance.
+0	NA	NA	NA	DISCUSS	However, both these associations were based on imputed genotype data.
+0	NA	NA	rs148760487	DISCUSS	Genotyping a subset of the case patients confirmed that the quality of the imputation was reasonable, but for one SNP (rs148760487), the association in the subset of samples with both genotyped and imputed data was weaker for the genotyped data.
+0	NA	NA	NA	DISCUSS	Thus we are less confident that this represents a true positive.
+0	NA	NA	rs2059614	DISCUSS	On the other hand, as would be expected for a true positive, the association of rs2059614 got stronger when comparing genotyped with imputed data, suggesting that this is a robust association
+1	NA	KCNH7	rs148760487	DISCUSS	Two genes lie within the 1 MB region on chromosome 2 spanning rs148760487 to KCNH7 and BC042876.
+1	cancers	KCNH7	NA	DISCUSS	KCNH7 encodes a voltage-gated potassium channel with diverse functions and has no obvious role in cancer.
+0	NA	NA	NA	DISCUSS	BC042876 is a noncoding RNA gene with no known function.
+0	NA	NA	rs1424760	DISCUSS	Another SNP in the same region, rs1424760, has been reported to be associated with serum phospholipid levels, but this SNP is only weakly correlated with rs148760487 (r 2 = 0.11)
+0	NA	NA	rs2059614	DISCUSS	There are 18 genes in the genomic region 500 KB either side of rs2059614 in chromosome 11 (Supplementary Table 5, available online).
+0	cancers	NA	NA	DISCUSS	Several of these are known to be involved in processes relevant to cancer, such as cell death and DNA damage responses.
+1	NA	EI24	rs2059614	DISCUSS	Of particular interest are EI24 and CHEK1, as expression of both of these in normal breast epithelium is associated with rs2059614 genotype.
+0	NA	EI24	NA	DISCUSS	Additionally, expression of EI24 is associated with relapse-free survival in both ER-positive case patients and ER-negative case patients.
+0	cancers	NA	NA	DISCUSS	Furthermore, this genomic region, 11q24, is frequently altered in cancers
+0	NA	NA	NA	DISCUSS	Genome-wide association studies with large-scale replication have been extremely successful in identifying multiple variants associated with many different phenotypes.
+0	breast cancer	NA	NA	DISCUSS	For example, more than 70 common variants are known to be associated with an altered risk of breast cancer.
+0	breast cancer	NA	NA	DISCUSS	In contrast, this study of breast cancer prognosis has identified just two variants associated at genome-wide statistical significance.
+0	NA	NA	NA	DISCUSS	There are several possible reasons for this difference.
+0	NA	NA	NA	DISCUSS	Despite the large sample size used in these analyses, the power to detect association with breast cancer-specific survival is only modest (see Supplementary Figure 10, available online).
+0	NA	NA	NA	DISCUSS	All of the common alleles associated with disease susceptibility confer relative risks of less than 1.2, and most are associated with relative risks of less than 1.1.
+0	NA	NA	NA	DISCUSS	Alleles such as these can be detected using case-control studies with a total sample size of approximately 100000.
+0	breast cancer	NA	NA	DISCUSS	However, our analyses, based on 2900 breast cancer deaths, had limited power to detect alleles conferring hazard ratios of less than 1.2.
+0	NA	MAF	NA	DISCUSS	Power to detect an allele with a hazard ratio greater than 1.5 was good (60% power if the MAF = 0.05, 100% power if the MAF > 0.1), suggesting that few such alleles are likely to exist
+0	NA	NA	NA	DISCUSS	Another issue affecting our ability to detect associations with prognosis is the heterogeneity of the phenotype.
+0	cancers	NA	NA	DISCUSS	A wide variety of factors influence survival time after diagnosis, including tumor biology and treatment.
+0	breast cancer	NA	NA	DISCUSS	Breast cancer is a heterogeneous disease, and different disease subtypes have different clinical outcomes.
+0	NA	ER	NA	DISCUSS	Restricting the analyses to specific subtypes in addition to ER status would reduce this heterogeneity, but the sample size would also be greatly reduced as subtype-specific information is not available for all case patients in these analyses, and some subtypes are relatively uncommon
+0	breast cancer	NA	NA	DISCUSS	Our findings provide support for the hypothesis that germ line genetic variation influences outcome after a diagnosis of breast cancer.
+0	breast cancer	NA	NA	DISCUSS	Identification of novel germline genetic markers of breast cancer prognosis may help to elucidate molecular mechanisms of tumor progression and metastasis.
+0	NA	NA	NA	DISCUSS	Ultimately this may lead to the identification of new targets for therapeutic interventions.
+0	NA	NA	NA	DISCUSS	It may also lead to insights into mechanisms driving the differential response to adjuvant therapies and thereby enable improved targeting of therapy.
+0	NA	NA	NA	DISCUSS	In the clinical setting, germline markers of prognosis could be used to enhance risk stratification and provide patients with information about their prognosis in order to identify those patients most likely to benefit from adjuvant therapy.
+0	NA	NA	NA	DISCUSS	However, even studies larger than ours will be required in order to meet the challenge of identifying additional loci.
+0	NA	NA	NA	DISCUSS	Genotyping samples from clinical trials may prove to be particularly useful, but it is clear that data from multiple studies will need to be combined if there are to be further successes in this field
+0	NA	NA	NA	ACK_FUND	Higher-level funding: The COGS project was funded through a  grant (agreement number ).
+0	cancers	NA	NA	ACK_FUND	(BCAC) is funded by Cancer Research-UK ( and ).
+0	NA	NA	NA	ACK_FUND	Meetings of the BCAC have been funded by the  .
+0	NA	NA	NA	ACK_FUND	ELAN Program of the University Hospital Erlangen (BBCC)
+0	cancers	NA	NA	ACK_FUND	Personal support: DFE is a Principal Research Fellow of Cancer Research UK.
+0	NA	NA	NA	ACK_FUND	JLH is a National Health and Medical Research Council (NHMRC) Australia Fellow.
+0	NA	NA	NA	ACK_FUND	MCS is an NHMRC Senior Research Fellow.
+0	NA	NA	NA	ACK_FUND	GCT is an NHMRC Senior Principal Research Fellow.
+0	NA	NA	NA	ACK_FUND	DL is supported by the FWO and the KULPFV/10/016-SymBioSysII.
+0	NA	NA	NA	ACK_FUND	JL is a UNESCO-L'Oreal International Fellow.
+0	RB	NA	NA	ACK_FUND	RB was a Cancer Institute NSW Fellow.
+0	breast cancer	KAP	NA	ACK_FUND	KAP is a National Breast Cancer Foundation Fellow (Australia)
+0	breast cancer	NA	NA	ACK_FUND	Funding of constituent studies (these are listed by funding agency, with each grant number in parentheses):  ;  ;  ; Breast Cancer Research Foundation; Canadian Institutes of Health Research (CIHR Team in Familial Risks of Breast Cancer program); Cancer Australia; Cancer Councils of New South Wales, Victoria, Tasmania and South Australia; Cancer Foundation of Western Australia; ; Cancer Research UK ; ; ;  ;  ;  ;  ;  ; Finnish Cancer Society; Fondazione IRCCS Istituto Nazionale Tumori; Genome Spain Foundation; German Cancer Research Center (DKFZ); Hamburg Cancer Society; Helmholtz Society; Helsinki University Central Hospital Research Fund; Italian Association for Cancer Research (AIRC); Kuopio University Hospital special Government Funding;  ( and ); National Breast Cancer Foundation (Australia); National Institute for Health Research, Cambridge Biomedical Research Centre; Nordic Cancer Union; Marit and Hans Rausings Initiative Against Breast Cancer; Nordic Cancer Union;  ; Queensland Cancer Fund; Red Tematica de Investigacion Cooperativa en Cancer; Sigrid Juselius Foundation; Susan G. Komen Breast Cancer Foundation;  ( and );  (, and the Intramural Research Program of the National Institutes of Health and the National Cancer Institute); UK National Institute for Health Research Biomedical Research Centres at the University of Cambridge, Guy's & St. Thomas' NHS Foundation Trust in partnership with King's College London, and University of Oxford; University of Eastern Finland strategic funding; Victorian Health Promotion Foundation; Victorian Breast Cancer Research Consortium;
+0	NA	NA	NA	SUPPL	The study sponsors had no role in the design of the study; the collection, analysis, or interpretation of the data; the writing of the manuscript; nor the decision to submit the manuscript for publication.
+0	NA	NA	NA	SUPPL	For full names of abbreviated study names see Supplementary Material
+0	NA	NA	NA	SUPPL	This study would not have been possible without the contributions of the following: DC Tessier, F. Bacot, D. Vincent, S. LaBoissiere, and F. Robidoux and the staff of the genotyping unit, (Genome Quebec); J.
+0	NA	NA	NA	SUPPL	Stone, S. McBean, J. Hadlington, A. Mustafa, and K. Cook (Illumina); M. Angelakos, J. Maskiell, G. Dite, T. Selander, N. Weerasooriya (ABCFS); S. Cornelissen, R. van Hien, L. Braaf, F. Hogervorst, S. Verhoef, E. Rutgers, F. Atsma (ABCS); N. McInerney, G. Colleran, A. Rowan, A. Jones (BIGGS); P. Bugert (BSUCH); DU Andersen, MB Arnadottir, A.
+0	von Smitten	NA	NA	SUPPL	Bank, DK Hansen (CGPS); G. Pita, C. Alonso, D. Herrero, N. Alvarez, P. Zamora, P. Menendez (CNIO-BCS); H. Ziegler, S. Wolf, V. Hermann (ESTHER); D. Greco, K. von Smitten, I. Erkkila, T. Heikkinen, K. Aaltonen (HEBCS); E. Myohanen, H. Kemilainen (KBCP); G. Peuteman, D. Smeets, T. Van Brussel, K. Corthouts (LMBC); J. Heinz, N. Obi, A. Vrieling, S. Behrens, U. Eilber, M. Celik, T. Olchers (MARIE); S. Manoukian, B. Peissel, G. Scuvera, D. Zaffaroni, M. Barile, I. Feroce, L. Bernard (MBCSG); K. Mononen, M. Otsukka (OBCS); T. Selander, N. Weerasooriya (OFBCR); E. Krol-Warmerdam, J. Blom.
+0	NA	Cramp	NA	SUPPL	J. Molenaar (ORIGO); L. Brinton, M. Sherman, N. Szeszenia-Dabrowska, B. Peplonska, W. Zatonski, P. Chao, M. Stagner (PBCS); P. Bos, J. Blom, E. Crepin, A. Nieuwlaat, A. Heemskerk (RBCS); S. Higham, I. Brock, S. Balasubramanian, D. Connley, H. Cramp (SBCS); J.
+0	NA	NA	NA	SUPPL	Young, C. Twelves, AL Vallier, S. Ingle, R. Hardy (PGSNPS); M. Rubner, S. Landrith, S. Oeser, L. Haberle (BBCC)

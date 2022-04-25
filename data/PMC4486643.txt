@@ -1,0 +1,89 @@
+0	Alzheimer's disease	NA	NA	ABSTRACT	There is a strong genetic basis for late-onset of Alzheimer's disease (LOAD) and thus far >20 genes/loci have been identified that affect the risk of LOAD.
+0	Alzheimer's disease	NA	NA	ABSTRACT	In addition to disease risk, genetic variation at these loci may also affect components of the natural history of AD, such as survival in AD.
+0	Alzheimer's disease	NA	NA	ABSTRACT	In this study, we first examined the role of known LOAD genes with survival time in 983 AD patients.
+0	Alzheimer's disease	NA	NA	ABSTRACT	We then performed genome-wide single-nucleotide polymorphism (SNP) and gene-based association analyses to identify novel loci that may influence survival of AD.
+0	NA	NA	NA	ABSTRACT	Survival analysis was conducted using Cox proportional hazards regression under an additive genetics model.
+0	NA	NA	NA	ABSTRACT	We found multiple nominally significant associations (P<0.01) either within or adjacent to known LOAD genes.
+0	NA	CCDC85C	NA	ABSTRACT	Genome-wide SNP analysis identified multiple suggestive novel loci and two of them were also significant in gene-based analysis (CCDC85C and NARS2) that survived after controlling for false-discovery rate (FDR) at 0.05.
+0	Alzheimer's disease	NA	NA	ABSTRACT	In summary, we have identified two novel genes for survival in AD that need to be replicated in independent samples.
+0	NA	NA	NA	ABSTRACT	Our findings highlight the importance of focusing on AD-related phenotypes that may help to identify additional genes relevant to AD
+0	Alzheimer's disease	NA	NA	INTRO	Alzheimer's disease (AD), especially the late-onset form (LOAD), is a complex multifactorial neurodegenerative disease and the leading cause of dementia among the elderly.
+0	Alzheimer's disease	NA	NA	INTRO	Currently, there are approximately 5 million AD cases in the United States, and about 81.1 million cases worldwide.
+0	Alzheimer's disease	NA	NA	INTRO	Due to its long clinical course, AD is a major public health problem.
+0	Alzheimer's disease	NA	NA	INTRO	Genetic susceptibility at multiple genes and interactions among them and/or environmental factors likely influence the risk of AD, which has a strong genetic basis with heritability estimates up to 80%.
+0	Alzheimer's disease	NA	NA	INTRO	Previous studies have shown that the mean survival in patients with AD ranges from 4 to 9 years.
+0	Alzheimer's disease	NA	NA	INTRO	While demographic, clinical and environmental factors associated with survival in AD patients have been implicated, the role of genetic factors affecting survival in AD has not been explored extensively.
+0	Alzheimer's disease	apolipoprotein E	NA	INTRO	The effect of APOE*4 allele of APOE on survival in AD has been explored in previous studies; however, results have not been conclusive.
+0	NA	BIN1	NA	INTRO	To date, genome-wide association studies (GWAS) have identified >20 additional susceptibility loci, including BIN1, INPP5D, MEF2C, CD2AP,HLA-DRB1/ HLA-DRB5,TREM2,EPHA1,NME8, ZCWPW1, CLU, PTK2B, CELF1, MS4A6A/MS4A4E, PICALM, SORL1, FERMT2, SLC24A4/ RIN3, DSG2, ABCA7, CD33,TRIP4,TP53INP1, IGHV1-67 and CASS4.
+0	Alzheimer's disease	NA	NA	INTRO	In addition to AD risk, genetic variations at these loci may also affect the survival in AD.
+0	Alzheimer's disease	NA	NA	INTRO	We have tested this hypothesis by examining the role of known LOAD genes in AD survival.
+0	NA	NA	NA	INTRO	In addition, studies focusing on AD-related phenotypes, like survival in AD, may help to identify additional AD-relevant genes Thus, we have also examined a genome-wide data set to determine if genomic regions contain novel loci associated with AD survival.
+0	Alzheimer's disease	NA	NA	INTRO	We have performed genome-wide single-nucleotide polymorphism (SNP) and gene-based association analyses and have identified two novel loci for AD survival
+0	Alzheimer's disease	ARP	NA	METHODS	The AD patients were recruited from Alzheimer's Research Program (ARP; 1983-1988) and the Alzheimer's Disease Research Center (ADRC) at the University of Pittsburgh (1988 to present).
+0	Alzheimer's disease	NA	NA	METHODS	A total of 1,886 Probable AD patients were examined between April 1983 and December 2005; details of the cohort are described elsewhere.
+0	aggressive disease	NA	NA	METHODS	All subjects received an extensive neuropsychiatric evaluation including medical history and physical examination, neurological history and examination, semi-structured psychiatric interview, neuroimaging, and neuropsychological assessment.
+0	NA	NA	NA	METHODS	Among these patients, 983 had available follow-up data and they are included in this study.
+0	NA	NA	NA	METHODS	Table 1 shows the demographic and clinical characteristics of these 983 patients.
+0	NA	NA	NA	METHODS	The overall survival time was calculated from the study entry
+0	NA	NA	NA	METHODS	Samples were genotyped using the Illumina Omni1-Quad chip as described previously.
+0	NA	MAF>1%	NA	METHODS	SNPs with call rate <98% and minor allele frequency (MAF<1%), and failing to adhere to the Hardy-Weinberg equilibrium (HWE) test (P<1E-06) were removed.
+0	NA	apolipoprotein E	rs429358	METHODS	Genotypes for two APOE SNPs, rs429358 (E*4) and rs7412 (E*2) were determined either as previously described or using TaqMan SNP genotyping assays.
+0	NA	NA	NA	METHODS	For GWAS, a total of 803,323 QC-passed SNPs were selected for analysis
+0	death	NA	NA	METHODS	The proportional hazard model was used to examine the risks associated with time to death.
+0	Psychotic symptoms	NA	NA	METHODS	The survival analysis was conducted using Cox proportional hazards regression under an additive genetics model with adjustments for baseline MMSE score, gender, psychosis (the presence or absence of psychotic symptoms; psychosis was included as a time-dependent covariate), education level and the first four principle components.
+0	NA	NA	NA	METHODS	Single SNP association analyses were performed first in candidate genes and then on the genome-wide data.
+0	NA	NA	NA	METHODS	We also performed the versatile gene-based association (VEGA) analysis, which incorporates information from a full set of SNPs within a gene region and accounts for linkage disequilibrium (LD) between SNPs and it may provide more power than single SNP analysis to detect novel associations.
+0	NA	NA	NA	METHODS	Survival analyses were done in R. We applied Benjamini-Hochberg procedure to control false-discovery rate (FDR) for multiple testing correction and used a FDR threshold at 0.05
+0	death	NA	NA	RESULTS	The base-line MMSE scores were strongly associated with time to death with hazard ratios (HR) of 0.95 (95% CI: 0.93 to 0.96, P=1.09E-10, Table 2), indicating that AD patients with a higher MMSE score at baseline would have a better survival than patients with a lower baseline MMSE score.
+0	NA	NA	NA	RESULTS	Females had a longer survival than males (HR=0.72, 95% CI: 0.60 to 0.86, P=2.76E-04, Table 2).
+0	Alzheimer's disease	NA	NA	RESULTS	AD patients who had diabetes (HR=1.41, 95% CI: 1.04 to 1.91; P=2.73E-02) and experienced more psychotic symptoms (psychosis) (HR=1.37, 95% CI: 1.14 to 1.65, P=7.63E-04) had a shorter survival than patients without diabetes and psychosis.
+0	cardiac dysfunctions	NA	NA	RESULTS	Age, education level, blood pressure, heart disease, and depression did not relate to survival (Table 2)
+0	Alzheimer's disease	NA	NA	RESULTS	We first examined the associations of AD survival with genetic variations in known 27 LOAD genes and the results are presented in Table 3.
+0	Alzheimer's disease	BIN1	NA	RESULTS	SNPs in 7 genes (BIN1, INPP5D, HLA-DRB1, RIN3, TRIP4, APOE and CASS4) were associated with AD survival at P<0.01.
+0	NA	NA	NA	RESULTS	While SNPs in 4 genes were associated with shorter survival (BIN1/rs12476995, HR=1.25, P=4.75E-04; INPP5D/rs3792117, HR=1.55, P=4.53E-04 RIN3/rs7160605, HR=1.35, P=4.05E-03, and TRIP4/rs1163552, HR=1.46, P=6.61E-03), SNPs in 3 genes were associated with longer survival (HLA-DRB1/rs9392025, HR=0.83, P=2.76E-03, APOE/rs429358, HR=0.83, P=5.02E-03 and CASS4/rs2426622, HR=0.83; P=4.61E-03).
+0	NA	NA	NA	RESULTS	However, none of these associations were significant after controlling for FDR at 0.05
+0	Alzheimer's disease	NA	NA	RESULTS	Next we examined our genome-wide data in order to identify potential novel loci for survival in AD patients.
+0	NA	NA	NA	RESULTS	Quantile-quantile plot of the observed and expected P values is shown in Supplementary Figure 1, and the Manhattan plot showing association signals is presented in Supplementary Figure 2.
+0	NA	NA	NA	RESULTS	In the genome-wide SNP analysis, the genetic inflation factors with and without principal components as covariates, were 1.021 and 1.023, respectively, which indicates that population stratification did not inflate the significance of the test statistics in our data.
+1	NA	IL19	rs2243170	RESULTS	The top SNP, rs2243170 (P=6.62E-07), was located in the intronic region of IL19 on chromosome 1.
+0	NA	NA	NA	RESULTS	There were 4 additional SNPs with P<0.05 in this region (Table 4).
+1	NA	IL19	NA	RESULTS	Supplementary Figure 3 shows the Linkage disequilibrium (LD) structure of IL19.
+1	NA	NA	NA	RESULTS	The other top SNPs were, NCKAP5/rs7588354 (P=1.37E-06) on chromosome 2, CCDC85C/rs2400749 (P=2.25E-06) on chromosome 14, NARS2/rs4474465 (P=3.41E-06) on chromosome 11, PKNOX2/rs11601321 (P=8.03E-06) on chromosome 11, SDR9C7/rs840163 (P=2.42E-06) on chromosome 12, and ALDH4A1/rs6695033 (P=3.245E-06) on chromosome 1(Table 4).
+0	NA	NA	NA	RESULTS	The regional association plots containing SNPs within 500kb on either side of the top SNP in the top loci are shown in Supplementary Figures 4-10
+0	NA	NA	NA	RESULTS	Supplementary Figure 11 presents the Manhattan plot of the gene-based P-values.
+0	NA	CCDC85C	NA	RESULTS	We identified two genes which remained significant after controlling for FDR at 0.05: CCDC85C (P=4.00E-06, FDR=0.03) and NARS2 (P=4.00E-06, FDR=0.03).
+0	NA	NA	NA	RESULTS	Interestingly, these two genes are also suggestive loci in genome-wide SNP analysis (see Table 4).
+0	NA	NA	NA	RESULTS	Supplementary Figures 12-13 show the LD structure of these two genes.
+0	NA	ANLN	NA	RESULTS	Gene-based analysis also identified ANLN as a suggestive gene (P=8.20E-05, FDR=0.13), but this was not among the top hits in genome-wide SNP analysis (ANLN/rs2392436, P=1.76E-04)
+0	Alzheimer's disease	NA	NA	DISCUSS	In this study we have used a recently described GWAS data of LOAD to examine: 1) if variants in known LOAD genes are associated with survival in AD patients, 2) if additional novel variants in the genome also affect AD survival, irrespective if they are genome-wide significant or not, for hypothesis generation, and 3) if gene-wide analysis provides better power than genome-wide SNP analysis to detect new genes for AD survival.
+0	Alzheimer's disease	BIN1	NA	DISCUSS	In our primary analysis, we observed 7 significant associations at P<0.01 with survival in AD in known LOAD genes (BIN1, INPP5D, HLA-DRB, RIN3, TRIP4, CASS4 and APOE).
+0	Alzheimer's disease	NA	NA	DISCUSS	These data suggest that at least some of the known LOAD genes may be relevant to affecting survival in AD patients; however, none of these associations remained significant after controlling for FDR at 0.05.
+0	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	Previously, the effect of APOE*4 on survival of AD has been explored in several studies, however, the results were conflicting.
+0	NA	apolipoprotein E	NA	DISCUSS	Male APOE*4 carriers were found to have a shorter survival than non-carriers but not in females, while others found longer survival among APOE*4 carriers.
+0	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	However, in other studies APOE*4 was not found to be related to survival of AD.
+0	Psychotic symptoms	apolipoprotein E	NA	DISCUSS	We found that APOE*4 was significantly associated with longer survival (P=5.02E-03, HR=0.83) in our sample after adjusting for sex, baseline MMSE score, education level and psychosis.
+0	Alzheimer's disease	NA	NA	DISCUSS	A previous study has suggested that the processes increasing the risk of AD may differ from those that determine its clinical course.
+0	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	Thus, although the presence of APOE*4 increases the risk of AD, it may have a different effect on survival among AD patients.
+0	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	This seems to be a plausible interpretation of our findings in which APOE*4 was associated with longer survival among AD patients
+1	Alzheimer's disease	IL19	NA	DISCUSS	In our genome-wide SNP analysis, we identified multiple novel suggestive loci associated with AD survival, including the top hit at P=6.62E-07 (IL19 on chromosome 1) and 6 loci at P<1E-05 (CCDC85C on chromosome 14 NARS2 on chromosome 11, NCKAP5 on chromosome 2, PKNOX2 on chromosome 11, SDR9C7 on chromosome 12, and ALDH4A1 on chromosome 1).
+0	Alzheimer's disease	NA	NA	DISCUSS	Although these loci are not genome-wide significant and wait confirmation in future studies, we believe they provide insight for future studies as many of them may affect survival through their known associations with AD and other diseases.
+1	Alzheimer's disease	IL19	NA	DISCUSS	Especially the top hit, IL19 is a cytokine that belongs to the IL10 cytokine subfamily, which may modulate AD progression.
+0	Alzheimer's disease	NA	NA	DISCUSS	A systemic meta-analysis has suggested an association between IL110 polymorphisms and AD.
+0	Alzheimer's disease	IL-10	NA	DISCUSS	Furthermore, significant associations between AD and IL10 polymorphism have been reported in Chinese and Italian populations.
+0	Geriatric Depression	IL-10	NA	DISCUSS	Polymorphisms in the IL10 gene cluster have also been found to be involved with major depressive disorder
+0	NA	CCDC85C	NA	DISCUSS	Interestingly, in the genome-wide gene-based analysis, two of these suggestive genes (CCDC85C and NARS2) were gene-wide significance at FDR <0.05.
+0	NA	NA	NA	DISCUSS	This indicates that gene-based analysis provides additional useful information not captured in the genome-wide SNP analysis, as has also been recently shown in another study.
+0	Alzheimer's disease	NA	NA	DISCUSS	The two genes are biologically relevant to AD.
+0	NA	CCDC85C	NA	DISCUSS	The CCDC85C (coiled-coil domain containing 85C) gene is highly expressed in different brain regions and may play important role in cortical development, especially in the 7 maintenance of radial glia.
+0	Alzheimer's disease	NARS2	NA	DISCUSS	NARS2 is located immediately adjacent to the GAB2 gene, which has been previously reported to be associated with AD.
+0	NA	NARS2	NA	DISCUSS	The NARS2 and GAB2 genes occur in a strong LD block that spans the full lengths of both transcripts
+0	NA	NA	NA	DISCUSS	Our study has few limitations.
+0	death	NA	NA	DISCUSS	First, inferences from our results must be interpreted with caution because the actual cause of death was not investigated.
+0	death	NA	NA	DISCUSS	Second, the procedure of disease death is very complex and many unknown demographic and clinical variables not included in this study could have confounded our results.
+0	NA	NA	NA	DISCUSS	Although our gene-based analysis has identified two novel genes that remained significant after controlling for FDR at <0.05, further studies in large and independent samples are needed to replicate these findings
+0	Alzheimer's disease	NA	NA	DISCUSS	In summary, our results indicate that genetic variation in some genes associated with LOAD risk may also affect survival of AD.
+0	Alzheimer's disease	NA	NA	DISCUSS	Our study also implicates two novel loci as possible genetic regions associated with overall survival among AD patients.
+0	Alzheimer's disease	NA	NA	DISCUSS	Additional large independent studies are needed to confirm our findings and to further establish the genetic basis of survival in AD
+0	Alzheimer's disease	NA	NA	TABLE	Results of the Proportional Hazard Model Examining Risks Associated with AD surviva
+0	Alzheimer's disease	NA	NA	TABLE	Results of Association Analysis Between LOAD Genes and AD Surviva
+0	Alzheimer's disease	NA	NA	TABLE	Novel top loci in Genome-Wide Single SNP and Gene-Based analyses Associated with AD Survival (P<1.00E-05)

@@ -1,0 +1,221 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	Genome-wide association studies (GWAS) have identified more than 80 susceptibility loci for type 2 diabetes (T2D), but most of its heritability still remains to be elucidated.
+0	NA	NA	NA	ABSTRACT	In this study, we conducted a meta-analysis of GWAS for T2D in the Japanese population.
+1	NA	CCDC85A	rs1116357	ABSTRACT	Combined data from discovery and subsequent validation analyses (23,399 T2D cases and 31,722 controls) identify 7 new loci with genome-wide significance (P<5 x 10-8), rs1116357 near CCDC85A, rs147538848 in FAM60A, rs1575972 near DMRTA1, rs9309245 near ASB3, rs67156297 near ATP8B2, rs7107784 near MIR4686 and rs67839313 near INAFM2.
+0	NA	NA	NA	ABSTRACT	Of these, the association of 4 loci with T2D is replicated in multi-ethnic populations other than Japanese (up to 65,936 T2Ds and 158,030 controls, P<0.007).
+0	NA	NA	NA	ABSTRACT	These results indicate that expansion of single ethnic GWAS is still useful to identify novel susceptibility loci to complex traits not only for ethnicity-specific loci but also for common loci across different ethnicities
+0	NA	NA	NA	ABSTRACT	Here, Imamura et al.
+0	Type 2 diabetes	NA	NA	ABSTRACT	conduct meta-analysis of genome-wide association studies to identify novel susceptibility loci for type 2 diabetes (T2D) in the Japanese population.
+0	NA	NA	NA	ABSTRACT	By doing so, this study shows that both ethnicity-specific and ethnically-shared genetic loci can contribute to T2D risk
+0	Type 2 diabetes	NA	NA	INTRO	To date, more than 80 susceptibility loci for type 2 diabetes (T2D) have been identified through genome-wide association studies (GWAS).
+0	NA	NA	NA	INTRO	However, the joint effects of these variants account for <10% of the heritability for T2D.
+0	NA	NA	NA	INTRO	GWAS for T2D have been extensively conducted in populations of European descent and, accordingly, the majority of established T2D susceptibility genetic loci were originally identified by European GWAS.
+0	NA	NA	NA	INTRO	Cumulative evidence suggests that Asian populations may be more genetically susceptible to T2D than populations with European ancestry.
+0	NA	NA	NA	INTRO	In addition, there are significant interethnic differences in the risk allele frequency or in effect sizes at several loci, which may affect the power to detect associations in these populations.
+0	NA	NA	NA	INTRO	On the other hand, both overlap in T2D susceptibility loci among different ancestry groups and coincident risk alleles at lead single-nucleotide polymorphisms (SNPs) across diverse populations have been reported, suggesting that causal variants at many of these loci are shared across different ancestry groups.
+0	NA	NA	NA	INTRO	Moreover, a recently published transethnic GWAS has successfully identified seven novel T2D susceptibility loci by combining the association data from European, South Asian, East Asian and Mexican/Latinos GWAS.
+0	NA	NA	NA	INTRO	Therefore, it is valuable to perform GWAS for T2D using non-European and European populations, to facilitate identification of both ethnicity-specific and common-susceptibility loci among different ethnic groups
+1	NA	KCNQ1	NA	INTRO	Four T2D GWAS loci discovered in a Japanese population earlier have been shown to be significantly associated with T2D in the largest European GWAS meta-analysis: KCNQ1 (refs), UBE2E2 (ref.
+0	NA	NA	NA	INTRO	), C2CD4A-C2CD4B and ANK1 (ref.
+0	NA	NA	NA	INTRO	), highlighting that there are common loci conferring susceptibility to T2D among the different ethnic groups studied.
+0	NA	GPSM1	NA	INTRO	Three additional loci (MIR129-LEP, GPSM1 and SLC16A11-SLC16A13) have been identified by a large-scale Japanese GWAS (n=~25,000) based on the imputation of genotypes using the 1000 Genomes Project data as a reference.
+0	NA	NA	NA	INTRO	One of the findings, the association in the SLC16A11-SLC16A13 was also confirmed in the Mexican GWAS study
+0	NA	NA	NA	INTRO	To identify novel loci for susceptibility to T2D, we have expanded the Japanese GWAS data set by incorporating new Japanese GWAS data (9,817 T2D cases and 6,763 controls) with GWAS data in previously reported case-control individuals (5,646 T2D cases and 19,420 controls) followed by a validation study using independent Japanese case-control individuals (7,936 T2D and 5,539 controls) and multi-ethnic replication studies (East Asians: 12,554 T2D and 17,383 controls; Europeans: 38,947 T2D and 121,903 controls; South Asians: 10,587 T2D and 14,378 controls; and Mexian/Latinos: 3,848 T2D and 4,366 controls).
+0	NA	NA	NA	INTRO	As a result, we identify seven novel loci for T2D and the result indicates that expansion of single ethnic GWAS is still useful to identify novel susceptibility loci to complex traits
+0	NA	set1	NA	RESULTS	Imputed genotype dosage data for 9,817 T2D cases and 6,763 controls for 7,521,072 autosomal SNPs (Stage-1, set-1) were obtained and combined with an independent GWAS data of previously reported case-control individuals (Stage-1, set-2: 5,646 T2D cases and 19,420 controls; 7,521,072 autosomal SNPs), as shown in Fig.
+0	NA	NA	NA	RESULTS	1a.
+0	NA	NA	NA	RESULTS	There was no obvious inflation in the quantile-quantile plots for each study (Stage-1: lambdaGC=1.13 and lambdaGC adjusted for 1,000 cases and controls (lambdaGC-1000)=1.012; Stage-2: lambdaGC=1.082 and lambdaGC-1000=1.009), as shown in Supplementary Fig.
+0	NA	NA	NA	RESULTS	1A,B.
+0	NA	set1	NA	RESULTS	SNPs with a low imputation quality (r2<0.7 either in set-1 or set-2) or with an inconsistent direction of effect between the studies were excluded from the analysis.
+0	NA	NA	NA	RESULTS	We obtained 42 loci exhibiting a suggestive association with T2D (P<1 x 10-6).
+1	NA	KCNQ1	rs2237896	RESULTS	The most significant association in this meta-analysis was rs2237896 located at intron 15 of KCNQ1 (P=2.81 x 10-70), which was previously identified in Japanese GWAS (Supplementary Fig.
+0	NA	NA	NA	RESULTS	1C).
+0	NA	NA	NA	RESULTS	Out of the 42 loci, 25 were previously established T2D susceptibility loci (Supplementary Table 1) and the remaining 17 were further evaluated using an independent Japanese case-control study (Stage-2: 7,936 T2D cases and 5,539 controls, multi-centre) and de novo genotyping (Supplementary Tables 2 and 3)
+0	NA	set1	NA	RESULTS	To explore the novel T2D susceptibility loci, we combined the association data for the candidate SNPs from all the Japanese case-control samples (Stage-1 set-1, Stage-1 set-2 and Stage-2) using a meta-analysis (Fig.
+0	NA	NA	NA	RESULTS	1b and Supplementary Table 3) and identified seven T2D susceptibility loci with a significant association (P<5 x 10-8; Table 1, Fig.
+1	NA	CCDC85A	rs1116357	RESULTS	2 and Supplementary Table 3): rs1116357 near CCDC85A (P=6.97 x 10-10, odds ratio (OR)=1.09, 95% confidence interval (CI)=1.06-1.12), rs147538848 in FAM60A (P=7.83 x 10-10, OR=1.11, 95% CI=1.07-1.15), rs1575972 near DMRTA1 (P=1.50 x 10-9, OR=1.19, 95% CI=1.13-1.26), rs9309245 near ASB3 (P=1.25 x 10-8, OR=1.10, 95% CI=1.07-1.14), rs67156297 near ATP8B2 (P=1.95 x 10-8, OR=1.14, 95% CI=1.09-1.19), rs7107784 near MIR4686 (P=2.07 x 10-8, OR=1.14, 95% CI=1.09-1.20) and rs67839313 near INAFM2 (P=2.42 x 10-8, OR=1.09, 95% CI=1.06-1.12).
+0	NA	NA	NA	RESULTS	The effect sizes (OR) of these seven SNPs were similar before and after adjusting for age, sex and body mass index (BMI) (Supplementary Table 4).
+1	NA	DMRTA1	rs1575972	RESULTS	The rs1575972 locus in DMRTA1 was located 170 kbp away from the T2D locus CDKN2A/B at 9p21 (refs) and the rs7107784 locus near MIR4686 was located ~620 kbp upstream of KCNQ1 (refs).
+1	NA	CDKN2A	rs1575972	RESULTS	The linkage disequilibrium (LD) between rs1575972 and rs10811661, which was a lead SNP within the CDKN2A/B locus, was weak (JPT: r2=0.01, CEU: r2=0.02).
+1	NA	CDKN2A	rs1575972	RESULTS	The association of rs1575972 was significant even after conditioning on rs10811661 (P for meta-analysis=2.45 x 10-9, OR=1.19, 95% CI=1.12-1.26; Supplementary Table 5); therefore, we considered the rs1575972 locus as a novel T2D susceptibility locus, independent of the CDKN2A/B locus.
+1	NA	MIR4686	rs7107784	RESULTS	We also observed that the rs7107784 locus near MIR4686 was not in LD with rs2237897 (JPT: r2<0.01, CEU: r2<0.01), which was a lead SNP within the KCNQ1 locus, and the association was similar after conditioning on rs2237897 (P for meta-analysis=2.75 x 10-8, OR=1.16, 95% CI=1.10-1.22; Supplementary Table 6)
+0	NA	insulin	NA	RESULTS	We also examined the association of these seven SNPs with glycaemic traits in Stage-2 control individuals, including fasting plasma glucose, homeostasis model assessment (HOMA) of beta-cell function (HOMA-beta) and HOMA of insulin resistance (IR).
+0	NA	NA	NA	RESULTS	However, we did not detect any significant associations between the T2D risk alleles and these glycaemic traits (P>=0.0024 Supplementary Table 7).
+1	NA	DMRTA1	NA	RESULTS	We also searched the publicly available European GWAS data (MAGIC, http://www.magicinvestigators.org) and found that the T2D risk allele at the DMRTA1 locus (rs11791293-C; proxy for rs1575972-T, CEU r2=1) and at the MIR4686 locus (rs7111341-T; proxy for rs7107784-G, CEU r2=0.95) were associated with a decrease in fasting plasma insulin (FPI) (P=0.0039; Supplementary Table 8) and with an increase in FPI (P=0.0066; Supplementary Table 8), respectively, although these associations were not statistically significant (P>=0.0008=0.05/63 (7 SNPs x 9 traits))
+0	NA	NA	NA	RESULTS	We analysed the association of these seven variants with disease susceptibility in populations other than Japanese.
+0	NA	NA	NA	RESULTS	We obtained association data for four ethnic groups using de novo genotyping, in silico replication and by examining publicly available GWAS data including East Asian (n=up to 29,937: 12,554 T2Ds and 17,383 controls), South Asian (n=up to 24,965: 10,587 T2Ds and 14,378 controls), European (n=up to 160,850: 38,947 T2Ds and 121,903 controls) and Mexican (n=up to 8,214: 3,848 T2Ds and 4,366 controls) populations (Supplementary Table 9).
+1	NA	FAM60A	rs147538848	RESULTS	Meta-analyses of the combined data from the four non-Japanese ethnicities indicated that four SNP loci, namely rs147538848 in FAM60A, rs1575972 near DMRTA1, rs7107784 near MIR4686 and rs67839313 near INAFM2 were associated with the disease after Bonferroni's correction (P<0.00714=0.05/7; Table 2).
+0	NA	NA	NA	RESULTS	The disease association of these four SNPs was further corroborated by combining the Japanese data with the multi-ethnic replication data sets (Supplementary Table 10).
+1	NA	ATP8B2	rs67156297	RESULTS	The rs67156297 locus in ATP8B2 was nominally associated with T2D in the combined meta-analysis for multi-ethnic groups other than the Japanese populations.
+0	NA	NA	NA	RESULTS	We did not detect any disease association for the remaining two SNP loci other than in the Japanese population; however, the effect direction for each of the seven loci was consistent with that in the Japanese population
+0	obese	NA	NA	RESULTS	We performed BMI-stratified (BMI<25 or>=25) and sex-stratified analyses in the novel and established GWAS loci, to determine whether significant heterogeneity in allelic effects existed between non-obese and obese individuals or males and females in the Japanese population.
+1	obese	KCNQ1	NA	RESULTS	BMI-stratified analysis for 83 previously established loci revealed evidence of significant heterogeneity in the effect size between non-obese and obese individuals at KCNQ1 (P for heterogeneity=8.89 x 10-5; Supplementary Table 11).
+1	obese	KCNQ1	NA	RESULTS	The effect size of KCNQ1 was greater in the non-obese group than in the obese group (Supplementary Table 11).
+0	NA	NA	NA	RESULTS	In sex-stratified analyses, individual established loci did not show significant heterogeneity in effect sizes between men and women (P>6 x 10-4; Supplementary Table 12)
+0	NA	NA	NA	RESULTS	For the seven novel T2D-associated loci identified in this study, no significant heterogeneity was detected in BMI-stratified or sex-stratified analyses (Supplementary Tables 13 and 14)
+0	NA	NA	NA	RESULTS	We examined the association data of 83 previously identified T2D susceptibility loci in the Japanese GWAS meta-analysis data (Supplementary Data 1 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	NA	RESULTS	Variants at 19 loci were found associated with T2D at a genome-wide level of significance and additional 30 loci were determined to be significantly associated with T2D (P<6.02 x 10-4=0.05/83).
+1	NA	ADCY5	rs11708067	RESULTS	Of the above 49 significant associations, ADCY5, HNF1A and PRC1 were not previously evaluated in the Japanese population, because the lead SNPs within these loci in the European GWAS (rs11708067 and rs11717195 at the ADCY5 locus, rs12427353 and rs7957197 at the HNF1A locus and rs8042680 at the PRC1 locus) were monoallelic in the Japanese population.
+1	NA	ADCY5	rs79223353	RESULTS	In this study, rs79223353 at the ADCY5 locus, rs55783344 at the HNF1A locus and rs79548680 at the PRC1 locus were determined to be significantly associated with T2D (P<6.02 x 10-4; Supplementary Data 1 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	3).
+1	NA	ADCY5	rs79223353	RESULTS	Meta-analysis combining the GWAS data with de novo genotyping data for Stage-2 individuals revealed that the association of rs79223353 within the ADCY5 locus and rs79548680 within the PRC1 locus reached genome-wide significance in the Japanese population (Supplementary Table 15).
+0	NA	NA	NA	RESULTS	We did not detect any disease-associated SNPs within the 16 loci (9 derived from European GWAS, 3 from East Asian, 2 from trans-ethnic, 1 from South Asian and 1 from African American, P>=0.05) using fine mapping analyses (Supplementary Data 1 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	EXOC6	NA	RESULTS	We also identified a secondary association signal located at EXOC6 near the IDE-HHEX locus.
+0	NA	EXOC6	rs78627331	RESULTS	The associations of rs78627331 and rs34773007 within the EXOC6 locus were significant after conditioning on rs1111875 (r2=0.01 for rs78627331 and r2=0.04 for rs34773007 in JPT), which was a previously reported lead SNP within the IDE-HHEX locus (P=1.49 x 10-8 for rs78627331, P=2.20 x 10-8 for rs34773007; Supplementary Table 16)
+0	NA	NA	NA	RESULTS	We applied the genetic information from previously reported and the present GWAS, to investigate potential drug targets for the treatment of T2D.
+0	NA	NA	NA	RESULTS	First, we defined 286 T2D potential risk genes located in any of the 90 T2D risk loci (7 novel T2D loci that were identified in the present study and 83 previously identified T2D loci; see Supplementary Note).
+0	NA	NA	NA	RESULTS	Among the 286 genes, by using a previously described scoring system, we selected 40 genes with a score of 2 or higher (Supplementary Note, Supplementary Tables 17-20, Supplementary Data 2 and 3, and Supplementary Figs 4 and 5) as 'biological T2D risk genes' (Fig.
+0	NA	NA	NA	RESULTS	3 and Supplementary Data 4).
+0	diabetes	NA	NA	RESULTS	In brief, we scored each of the 286 biological candidate genes by adopting the following six selection criteria and calculating the number of satisfied criteria as follows: (1) genes for which T2D risk SNPs or any of the SNPs in LD (r2>=0.80) with them were annotated as missense variants; (2) genes for which cis-eQTL genes of any of lymphoblastoid cell lines, adipose tissue or liver tissues were observed for T2D risk SNPs (P<0.05 for lymphoblastoid cell lines and adipose tissues, and P<0.004 for liver tissues); (3) monogenic diabetes genes; (4) genes for which at least three out of six associated phenotype labels (homeostasis/metabolism, liver/biliary system, endocrine/exocrine gland, growth/size/body, mortality/ageing and embryogenesis; P<9.2 x 10-5) were observed in knockout mouse; (5) genes prioritized by PubMed text mining genes using GRAIL with gene-based P<0.05; and (6) genes prioritized by protein-protein interaction (PPI) network using DAPPLE with gene based P<0.05
+0	NA	NA	NA	RESULTS	As these criteria exhibited weak correlations with each other (r2<0.34; Supplementary Fig.
+0	NA	NA	NA	RESULTS	5), each gene was given a score based on the number of criteria that were met (scores ranged from 0 to 6).
+0	NA	NA	NA	RESULTS	Genes with a score of 2 or higher were defined as biological T2D risk genes
+0	NA	NA	NA	RESULTS	We searched for overlapping genes between the 871 drug target genes corresponding to approved, in clinical trials or experimental drugs for various human diseases described in the previous report, and the 40 biological T2D risk genes plus 712 genes that are known to have products that have direct PPI with the biological T2D risk gene products.
+0	NA	NA	NA	RESULTS	We identified a total of 83 overlapping genes (Supplementary Fig.
+0	NA	NA	NA	RESULTS	6 and Supplementary Table 21).
+0	NA	NA	NA	RESULTS	Fourteen drug target genes with approved T2D treatments demonstrated significant overlap with the 40 biological T2D risk genes and 712 genes with direct PPI (4 genes overlapped with 5.6-fold enrichment as determined using permutation analysis, P=0.0042; Supplementary Table 22 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	6).
+0	NA	NA	NA	RESULTS	The 871 drug target genes had overlap with the identified 83 genes, which is 1.8-fold more enrichment than would be expected by chance, but this is 3.1-fold less enrichment compared with overlap of the targets of T2D drugs (Supplementary Fig.
+0	NA	NA	NA	RESULTS	6)
+0	NA	PPARG	NA	RESULTS	Of the 83 overlapping genes, 5 were biological T2D risk genes (PPARG, KCNJ11, ABCC8, GCK and KIF11; Fig.
+0	NA	NA	NA	RESULTS	4).
+0	NA	PPARG	NA	RESULTS	Three of these are targets of approved T2D drug treatments: PPARG, thiazolidinediones; KCNJ11, sulfonylurea; ABCC8, sulfonylureas and glinide.
+0	NA	GCK	NA	RESULTS	GCK is a target gene of a GCK activator that was in clinical trials as of August 2014 (Supplementary Table 23).
+0	NA	NA	NA	RESULTS	Of the remaining 78 genes, 2 genes exhibit PPI with 3 biological T2D risk gene products.
+0	NA	GSK3B	NA	RESULTS	GSK3B interacts with NOTCH1, NOTCH2 and CCND2, whereas JUN interacts with FBXW7, HHEX and CCND2.
+0	NA	NA	NA	RESULTS	Eight genes interact with 2 biological T2D risk gene products and 68 genes interact with a single biological T2D risk gene product (Supplementary Table 21).
+0	NA	GCK	NA	RESULTS	A list of therapeutic drugs that are currently under clinical trials targeting GCK, KIF11, GSK3B and JUN is shown in Supplementary Table 23
+0	NA	NA	NA	DISCUSS	In this study, we performed a GWAS meta-analysis in the Japanese population followed by validation using an independent Japanese sample.
+0	NA	NA	NA	DISCUSS	Integration of the results for ~55,000 Japanese individuals identified 7 novel loci associated with T2D that reached genome-wide significance.
+0	NA	NA	NA	DISCUSS	In a subsequent transethnic meta-analysis, four loci were confirmed and one locus was suggested as common susceptibility loci for T2D in populations other than the Japanese population
+0	NA	NA	NA	DISCUSS	GWAS have been extensively performed in diverse ethnic groups, including populations of European, East Asian, South Asian and Mexican decent.
+0	NA	NA	NA	DISCUSS	To this point, the sample size of GWAS for European populations has grown to over 100,000 (ref.)
+0	NA	NA	NA	DISCUSS	and these studies have identified nearly 50 loci associated with T2D.
+0	NA	NA	NA	DISCUSS	GWAS on populations of non-European origin and transethnic GWAS meta-analysis have identified more than 30 loci associated with T2D, which were not detected in earlier European GWAS.
+0	NA	NA	NA	DISCUSS	Among these, several loci have been shown to be associated with T2D in larger European populations, which suggests that further expansion of GWAS for non-European populations could prove useful in identifying additional susceptibility loci associated with T2D
+1	NA	FAM60A	rs147538848	DISCUSS	Among the seven novel loci identified in this study, rs147538848 in FAM60A, rs1575972 near DMRTA1, rs7107784 near MIR4686 and rs67839313 near INAFM2 were shown to be common susceptibility loci for T2D across different ethnicities, although the significance of the association differed among individual ethnic groups for several loci
+1	NA	FAM60A	rs147538848	DISCUSS	rs147538848 is located in the intron of FAM60A, which encodes a subunit of the Sin3 deacetylase complex (Sin3/HDAC1) that has been shown to be important for the repression of genes encoding components of the transforming growth factor-beta signalling pathway.
+0	intrauterine growth retardation	NA	NA	DISCUSS	Studies using a rat intrauterine growth retardation model have suggested that the Sin3/HDAC1 complex may negatively regulate the expression level of pancreatic and duodenal homeobox 1 (PDX1), which is known as an important transcription factor for the development of pancreas and beta-cell maturation via histone modification of its proximal promoter.
+1	NA	FAM60A	NA	DISCUSS	A T2D risk allele at the FAM60A locus might contribute to disease susceptibility by impairing the transcriptional regulation of genes that are important for glucose metabolism
+1	NA	INAFM2	NA	DISCUSS	INAFM2 encodes InaF-motif containing 2 and has previously been known as Osteogenesis upregulated transcript 1 (OGU1) or long intergenic non-protein coding RNA 984 (LINC00984), which is a putative long non-coding RNA.
+1	NA	INAFM2	NA	DISCUSS	Although the expression of OGU1 has been shown to be upregulated during osteogenesis, the function of INAFM2 encoding protein is still unknown.
+0	NA	PLCB2	rs67839313	DISCUSS	Around rs67839313, there are two plausible genes for susceptibility to T2D: PLCB2 and DISP2.
+0	insulin deficiency	PLCB2	NA	DISCUSS	PLCB2 encodes phospholipase C isoform beta-2 and phospholipase C is a known regulator of insulin secretion through hydrolysis of islet phosphoinositide pools.
+0	glucose metabolism alterations	NA	NA	DISCUSS	Therefore, it is feasible that this locus is associated with impaired glucose-stimulated insulin secretion machinery.
+0	NA	DISP2	NA	DISCUSS	DISP2 encodes dispatched homologue 2, which is a cell surface marker on insulin-positive cells.
+0	glucose homeostasis	NA	NA	DISCUSS	Although the functional role of this molecule in glucose homeostasis is not well understood, it is potentially involved in the maturation of pancreatic beta-cells or it might have a role in already matured pancreatic beta-cells
+1	NA	DMRTA1	rs1575972	DISCUSS	The effect size for the T2D association of rs1575972 near DMRTA1 was similar among all populations in this study, except for the Mexican/Latino population (Table 2 and Supplementary Table 10).
+1	pancreatic	DMRTA1	rs1575972	DISCUSS	The risk allele of rs1575972 in the DMRTA1 locus was nominally correlated with a decrease in FPI (Supplementary Table 8), which suggests that this locus might contribute to T2D susceptibility through affecting insulin secretion in pancreatic beta-cells.
+1	NA	DMRTA1	NA	DISCUSS	The DMRTA1 encodes doublesex and mab-3-related transcription factor-like family A1, which has been recently reported to be involved in neuronal development by regulating the Pax6-Neurog2 transcriptional cascade.
+1	pancreatic	DMRTA1	NA	DISCUSS	Although the relevance of DMRTA1 to pancreatic development has not been established, DMRTA1 might play a role in beta-cell development, because Pax6 and Neurog3, other member of the neurogenin subfamily, are key transcriptional regulators of pancreatic endocrine cell differentiation
+1	NA	IGF2	rs7107784	DISCUSS	INS, IGF-2 and TH are located at approximately rs7107784 near the MIR4686 locus.
+0	growth retardation	IGF2	NA	DISCUSS	IGF-2 plays a key role in embryonic growth and may also influence body weight in adulthood, and TH (tyrosine hydroxylase) has been shown to play a role in beta-cell development.
+1	insulin-treated diabetes	NA	NA	DISCUSS	This locus is known to be associated with risk of type-1 diabetes (rs1004446-C, 45 kbp from rs7107784; r2=0.003, D'=0.275).
+1	NA	NA	NA	DISCUSS	The risk allele of rs7107784-G is nominally associated with the increase of FPI levels in the European population (MAGIC data; Supplementary Table 8) and an increase of HOMA-IR in our Japanese data set (Supplementary Table 7).
+1	Neurological and Communication Disorders	NA	NA	DISCUSS	This suggests that the effects of rs7107784-G are probably not mediated by an impairment of insulin production or secretion, but rather by an impairment of insulin sensitivity
+1	NA	ATP8B2	rs67156297	DISCUSS	rs67156297 near ATP8B2 was nominally associated with T2D in the transethnic replication meta-analysis (Table 2 and Supplementary Table 10).
+1	NA	ATP8B2	NA	DISCUSS	ATP8B2 encodes a member of the P4 family of ATPases (type 4P-type ATPase), which are multispan transmembrane proteins that have been implicated in phospholipid translocation from the exoplasmic to the cytoplasmic membrane leaflet.
+1	NA	ATP8B2	NA	DISCUSS	The role of ATP8B2 in the pathogenesis of T2D has not been established.
+0	obese	atp10a	NA	DISCUSS	However, another member of the P4 ATPase family, atp10a, has been shown to be important for the biogenesis and/or membrane-directed trafficking of Glut4 receptors, and loss-of-function of atp10a induces IR and obesity in mice
+1	NA	CCDC85A	rs1116357	DISCUSS	The remaining two loci, rs1116357 near CCDC85A and rs9309245 near ASB3, were not associated with T2D (P>0.05) in the replication meta-analysis for non-Japanese populations, which suggests that the effect of these loci might be specific to the Japanese population.
+1	NA	NA	rs1116357	DISCUSS	As heterogeneity in effect sizes was observed for rs1116357 or rs9309245 between Japanese and other ethnic groups, including European, South Asian and Mexican (Supplementary Tables 25 and 27), two possibilities might exist for the two SNP loci: (1) the LD between the causal alleles and the Japanese lead SNPs are consistent across the populations, but the risk alleles have effects only in the Japanese, and (2) the causal alleles are in LD with these SNPs only in the Japanese.
+0	NA	NA	NA	DISCUSS	By a systematic evaluation for effect sizes and LDs within these loci, we did not identify any SNPs associated with T2D in European populations, which are in LD with our lead SNPs in the Japanese, whereas not in LD in European populations (Supplementary Fig.
+0	NA	NA	NA	DISCUSS	8 and Supplementary Tables 26 and 27).
+0	NA	NA	NA	DISCUSS	Therefore, the causal allele in the two loci might have an effect only in Japanese populations; however, further evaluation is required to elucidate the precise mechanism how these loci contribute to T2D susceptibility in the Japanese
+0	NA	NA	NA	DISCUSS	While searching for potential drug targets for T2D using a systematic bioinformatics approach, 83 overlapping genes were identified from 752 genes (40 biological T2D GWAS genes and 712 genes that encode products in direct PPI with 40 biological T2D GWAS genes) and 871 drug target genes for various human diseases.
+0	NA	PPARG	NA	DISCUSS	Of these, 5 were T2D GWAS genes: PPARG, KCNJ11, ABCC8, GCK and KIF11.
+0	NA	PPARG	NA	DISCUSS	PPARG, KCNJ11 and ABCC8 have approved T2D treatment options.
+0	NA	GCK	NA	DISCUSS	In addition, a GCK activator is currently undergoing clinical trials for the treatment of T2D.
+0	cancers	KIF11	NA	DISCUSS	KIF11, which encodes kinesin family member 11 (also known as EG5), has been shown to be involved in regulating cell mitosis and inhibitors targeting this gene product have been developed as chemotherapeutic agents in the treatment of cancer.
+0	NA	KIF11	NA	DISCUSS	Although the role of KIF11 in the regulation of glucose metabolism has not been well established, a recent study reported that knockdown of KIF11 using small interfering RNA resulted in increased glycogenesis in human primary hepatocytes.
+0	glucose homeostasis	KIF11	NA	DISCUSS	Thus, a KIF11 inhibitor might ameliorate glucose homeostasis by suppressing gluconeogenesis from the liver
+0	NA	GSK3B	NA	DISCUSS	We identified two genes, GSK3B and JUN, which directly interact with multiple biological T2D susceptibility genes.
+0	NA	GSK3B	C for 48	DISCUSS	GSK3B encodes glycogen synthase kinase 3beta, which is a constitutively active multifunctional serine/threonine kinase and is involved in diverse physiological pathways, including metabolism, cell cycle regulation, gene expression, development, oncogenesis and neuroprotection.
+0	NA	NA	NA	DISCUSS	Several studies using Gsk3b-modified mouse models have suggested that inhibition of GSK3B function may have beneficial effects on glucose metabolism through pancreatic beta-cell preservation or enhancement of insulin-stimulated glycogen synthase regulation and glycogen deposition.
+0	cancers	GSK3B	NA	DISCUSS	Currently, GSK3B inhibitors are under clinical trial for the treatment of cancers (Supplementary Table 23), but these compounds could also be potential treatments for T2D
+0	NA	proto-oncogene c-Jun	NA	DISCUSS	JUN encodes the proto-oncogene c-Jun and the role of c-Jun in the pathogenesis of T2D is not well understood.
+0	NA	proto-oncogene c-Jun	NA	DISCUSS	However, c-Jun has been shown to decrease the expression of the human insulin gene by repressing insulin promoter activity.
+0	NA	proto-oncogene c-Jun	NA	DISCUSS	c-Jun is a transactivation component of the heterodimeric transcription factor AP-1 and activated through phosphorylation of serines 63 and 73 by Jun N-terminal kinase 2 (ref.
+0	NA	MAPK8	NA	DISCUSS	), and inhibition of JNK has been shown to ameliorate glucose intolerance in a mouse model for T2D.
+0	rheumatoid arthritis	proto-oncogene c-Jun	NA	DISCUSS	Currently, AP-1 inhibitor is under clinical trial for the treatment of rheumatoid arthritis (Supplementary Table 23) and might also be potential treatments for T2D
+0	NA	NA	NA	DISCUSS	Although these results suggest that these loci are potential therapeutic targets for treating T2D, the pipeline used to identify these genes has some limitations.
+0	NA	eQTL	NA	DISCUSS	As eQTL effects have often been observed for genes far from each locus, it is possible that some biological genes located outside of LD block in each locus were overlooked.
+0	NA	NA	NA	DISCUSS	In addition, the selection criteria for PubMed text-mining or knockout mouse studies were based on the known functions; therefore, T2D-associated genes whose functions have not been established may have been missed.
+0	NA	NA	NA	DISCUSS	The number of criteria that were met for individual genes were simply summed for scoring, although the relative impact of the six criteria used here on biological significance may not be equal.
+0	NA	NA	NA	DISCUSS	We used the previously described scoring method, to prioritize genes in an objective manner; however, it would be worthwhile to refine the pipeline by modifying the selection criteria for genes in future studies.
+0	NA	NA	NA	DISCUSS	Finally, the potential therapeutic targets or treatments identified through the in silico pipeline have not yet been validated through an experimental approach.
+0	NA	NA	NA	DISCUSS	Furthermore, in vivo evaluation is essential to clarify the therapeutic effect of these potential T2D treatments
+0	NA	NA	NA	DISCUSS	In conclusion, we have identified seven novel T2D susceptibility loci using a large-scale Japanese GWAS meta-analysis.
+0	NA	NA	NA	DISCUSS	The T2D association for four of these was also observed in non-Japanese populations.
+0	NA	NA	NA	DISCUSS	In addition, we have proposed several new potential pharmacological targets for T2D treatment using a systematic bioinformatics approach.
+0	NA	NA	NA	DISCUSS	These results indicate that expansion of single ethnic GWAS is still useful to identify novel susceptibility loci to complex traits not only for ethnicity-specific but also for common loci across different ethnicities.
+0	NA	NA	NA	DISCUSS	Moreover, systematic approaches for integrating the findings of genetic, biological and pharmacological studies could be useful for developing new T2D treatments, although additional pipeline refinement would be required
+0	NA	NA	NA	METHODS	Discovery stage (Stage-1).
+0	NA	set1	NA	METHODS	We selected T2D cases from individuals registered in BioBank Japan as having T2D (set-1 cases, n=9,817).
+0	intracranial aneurysm	set1	NA	METHODS	Control groups consisted of individuals registered in BioBank Japan as not having T2D but with diseases other than T2D (cerebral aneurysm, oesophageal cancer, endometrial cancer, chronic pulmonary emphysema or glaucoma) or volunteers from the Osaka-Midosuji Rotary Club and Pharma SNP consortium (set-1 controls, n=6,763; Supplementary Table 24).
+0	NA	set2	NA	METHODS	We also used case and control individuals registered in the BioBank Japan that were previously analysed and reported (set-2 cases, n=5,646 and set-2 controls, n=19,420).
+0	NA	set1	NA	METHODS	There was no overlap in individuals in set-1 and set-2
+0	NA	NA	NA	METHODS	Validation analysis (Stage-2).
+0	Hiranuma Clinic	NA	NA	METHODS	We examined 7,936 T2D cases from the BioBank Japan that were not included in the discovery stage and from subjects with T2D, who visited outpatient clinics at The University of Tokyo, Juntendo University, National Center for Global Health and Medicine, Hiranuma Clinic, St Marianna University School of Medicine, The Hiroshima Atomic Bomb Casualty Council Health Management Center, Kawasaki Medical School, Toyama University Hospital or Shiga University of Medical Science.
+0	Hiranuma Clinic	NA	NA	METHODS	We also examined 5,539 controls from individuals that enrolled during an annual health check-up at six institutions: The Hiroshima Atomic Bomb Casualty Council Health Management Center, The National Center for Global Health and Medicine, Keio University, Hiranuma Clinic, St Marianna University School of Medicine and Toyama University Hospital.
+0	NA	NA	NA	METHODS	T2D was diagnosed according to World Health Organization criteria.
+0	diabetes	NA	NA	METHODS	We excluded individuals who were positive for antibodies against glutamic acid decarboxylase and those with diabetes due to liver dysfunction, steroids and other drugs that might raise glucose levels, malignancy or a monogenic disorder known to cause diabetes
+0	NA	NA	NA	METHODS	Clinical characteristics of Stage-1and Stage-2 participants are shown in Supplementary Table 24.
+0	NA	NA	NA	METHODS	Genomic DNA was extracted from peripheral leukocytes using the standard procedure.
+0	NA	NA	NA	METHODS	All individuals provided written informed consent to participate in this study.
+0	NA	NA	NA	METHODS	The protocol of this study conformed to the provisions of the Declaration of Helsinki and was approved by the ethical committees at the RIKEN Yokohama Institute and all other institutions
+0	NA	set1	NA	METHODS	Set-1 samples were genotyped using the Human Omni Express Exome Bead Chip.
+0	NA	NA	NA	METHODS	There were 535,686 autosomal SNPs that passed quality control, with a call rate >=0.99, for Hardy-Weinberg equilibrium test P >=1 x 10-6 in controls and minor allele frequency (MAF) >=0.01.
+0	NA	set2	NA	METHODS	Set-2 samples were genotyped using the Illumina Human 610K SNP array.
+0	NA	NA	NA	METHODS	There were 480,426 autosomal SNPs that passed quality control and were used for further analysis.
+0	NA	NA	NA	METHODS	For sample quality control, we evaluated cryptic relatedness for each sample using an identity-by-state method and removed samples that exhibited second-degree or closer relatedness.
+0	NA	set1	NA	METHODS	We further performed principal component analysis to select individuals within the major Japanese (Hondo) cluster as reported previously, and data for 16,580 individuals (9,817 T2D cases and 6,763 controls) in set-1 and 25,066 individuals (5,646 T2D cases and 19,420 controls) in set-2 were used in subsequent analyses.
+0	NA	NA	NA	METHODS	To evaluate the potential effect of population stratification, we used a quantile-quantile plot of the observed P-values (Supplementary Fig.
+0	NA	NA	NA	METHODS	1A,B)
+0	NA	NA	NA	METHODS	We performed genotype imputation using MACH and Minimac with individuals from the 1000 Genomes Project (phased JPT, CHB and Han Chinese South data n=275, March 2012) as reference populations.
+0	NA	NA	NA	METHODS	We selected SNPs with MAF >=0.01 and a Minimac software quality score (r2)>=0.7.
+0	NA	NA	NA	METHODS	Individual genotype dosage data were used for association studies using mach2dat
+0	NA	NA	NA	METHODS	We genotyped 7,936 individuals with T2D and 5,539 controls using a multiplex PCR-Invader assay, as described previously.
+0	NA	NA	NA	METHODS	Genotyping success rates <95% or concordance rates <99.9% were excluded from further evaluation
+0	NA	NA	NA	METHODS	We obtained follow-up analysis data (n=up to 223,966: 65,936 T2Ds and 158,030 controls) from multiple cohorts or a publicly available database, as described below
+0	NA	NA	NA	METHODS	East Asian populations.
+0	NA	NA	NA	METHODS	We obtained genotype data for up to 29,937 individuals (12,554 T2Ds and 17,383 controls), de novo genotyping from 2 cohorts and in silico replication data from 9 cohorts (Supplementary Table 9)
+0	NA	NA	NA	METHODS	South Asian populations.
+0	NA	NA	NA	METHODS	We obtained in silico genotype data for a total of up to 24,965 individuals (10,587 T2Ds and 14,378 controls) from 6 cohorts (Supplementary Table 9)
+0	NA	NA	NA	METHODS	European populations.
+0	NA	NA	NA	METHODS	We obtained genotype data for up to 160,850 individuals (38,947 T2Ds and 121,903 controls), de novo genotyping data from the Danish case-control study and from a publicly available database (DIAGRAM3 http://diagram-consortium.org/downloads.html).
+0	diabetes	NA	NA	METHODS	The Danish case-control study consisted of individuals from the Inter99 cohort, Health2006 cohort, Vejle Biobank, T2D cases from the Danish ADDITION screening cohort and a T2D case-control study obtained at Steno Diabetes Center (SDC).
+0	NA	NA	NA	METHODS	Two SNPs were genotyped by Illumina MetaboChip in 8,781 individuals from Inter99, Health2006 and SDC, whereas four SNPs were genotyped by LGC Genomics, UK, in individuals from Inter99, Vejle Biobank, ADDITION and SDC samples (Supplementary Table 9)
+0	NA	NA	NA	METHODS	Mexican/Latino population.
+0	Type 2 diabetes	NA	NA	METHODS	We obtained in silico genotype data for up to 8,214 individuals (3,848 T2Ds and 4,366 controls) from the SIGMA Type 2 Diabetes Consortium (Supplementary Table 9)
+0	NA	NA	NA	METHODS	Ethnicity was self-reported by the enroled individuals.
+0	NA	NA	NA	METHODS	For each study, approval was obtained from the institutional review boards of the participating institutions and written informed consent was obtained from all participants.
+0	NA	NA	NA	METHODS	We excluded association data obtained by imputed genotyped data with a low quality of imputation (r2<0.7 or info <0.7).
+0	NA	NA	NA	METHODS	Details of the study samples are described in Supplementary Table 9
+0	NA	NA	NA	METHODS	The association between each SNP and T2D was assessed using the logistic regression test with an additive model with or without adjusting for age, sex and log-transformed BMI.
+0	NA	NA	NA	METHODS	We combined data from the each GWAS and our validation analyses using an inverse variance method and examined heterogeneity with a Cochran's Q test using METAL.
+0	NA	NA	NA	METHODS	Regional association plots were generated using LocusZoom
+0	NA	NA	NA	METHODS	We also performed quantitative traits analysis for fasting plasma glucose, HOMA-beta and HOMA-IR using multiple linear regression analysis in an additive association model with or without adjusting for age, sex and log-transformed BMI.
+0	NA	NA	NA	METHODS	The Japanese samples studied here show skewed distribution values for BMI, HOMA-IR and HOMA-beta; therefore, we have analysed the quantitative traits using log-transformed BMI, HOMA-IR and HOMA-beta
+0	NA	NA	NA	METHODS	We performed a search for potential drug targets using genetic information of confirmed T2D susceptibility loci and publicly available bioinformatics tools and databases using a method that has been previously described by Okada et al.
+0	NA	NA	NA	METHODS	(Supplementary Note)
+0	NA	NA	NA	METHODS	Data availability: Summary statistics of 2 Japanese GWAS (study 1: 9,817 cases, 6,763 controls; study2: 5,646 cases, 19,420 controls) for directly genotyped data are available through a NBDC Human Database website (http://humandbs.biosciencedbc.jp/en/
+0	NA	NA	NA	METHODS	How to cite this article: Imamura, M. et al.
+0	diabetes	NA	NA	METHODS	Genome-wide association studies in the Japanese population identifies seven novel loci for type 2 diabetes.
+0	NA	NA	NA	METHODS	Nat.
+0	NA	NA	NA	METHODS	Commun.
+0	NA	NA	NA	METHODS	7:10531 doi: 10.1038/ncomms10531 (2016)
+0	NA	NA	NA	FIG	(a) GWAS meta-analysis and subsequent validation analysis.
+0	NA	NA	NA	FIG	(b) Follow-up analyses for seven novel susceptibility loci for T2D in populations other than Japanese.
+0	NA	NA	NA	FIG	SNP, single nucleotide polymorphism; MAF, minor allele frequency; HWE P, Hardy-Weinberg Equilibrium test P; RSQ, r square
+0	NA	NA	NA	FIG	Each plot shows -log10 P-values against the chromosomal positions of SNPs in the specific region.
+0	NA	NA	NA	FIG	The SNP with the strongest association signal (lead SNP) in each locus is represented as a purple diamond; the other SNPs are coloured according to the extent of LD with the lead SNP.
+0	NA	NA	NA	FIG	Estimated recombination rates from the hg19/1000 Genomes Project March 2012 East Asian references are shown as light-blue lines.
+1	NA	CCDC85A	NA	FIG	(a) CCDC85A, (b) FAM60A, (c) DMRTA1, (d) ASB3, (e) ATP8B2, (f) MIR4686 and (g) INAFM2.
+1	NA	INAFM2	NA	FIG	*Gene position for INAFM2 was added manually
+0	NA	NA	NA	FIG	The gene score for each gene was calculated by summing up the number of criteria satisfied (filled red box indicates criterion satisfied; 40 genes with a score >=2 out of 286 genes included in the T2D risk loci were defined as 'biological candidate genes'; see Supplementary Data 4).
+0	NA	NA	NA	FIG	Filled blue boxes indicate the nearest gene to the T2D risk SNP.
+0	NA	NA	NA	FIG	Filled green boxes indicate overlap with drug target genes
+0	NA	NA	NA	FIG	Representative connections between T2D risk SNPs (blue), T2D biological genes (green), drug target genes (purple) and targeted drugs are shown (see Supplementary Table 21).
+0	NA	NA	NA	FIG	*Compounds under clinical trial; **see Supplementary Table 23

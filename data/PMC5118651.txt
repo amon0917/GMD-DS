@@ -1,0 +1,166 @@
+0	Alzheimer's disease	CLU	NA	ABSTRACT	Genome-wide association studies have associated clusterin (CLU) variants with Alzheimer's disease (AD).
+0	Alzheimer's disease	CLU	NA	ABSTRACT	However the role of CLU on AD pathogenesis is not totally understood.
+0	Alzheimer's disease	CLU	NA	ABSTRACT	We used CSF and plasma CLU levels as endophenotypes for genetic studies to understand the role of CLU in AD.
+0	Alzheimer's disease	CLU	NA	ABSTRACT	CSF, but not plasma, CLU levels were significantly associated with AD status and CSF tau/Abeta ratio, and highly correlated with CSF apolipoprotein E (APOE) levels.
+0	NA	LINC00917	NA	ABSTRACT	Several loci showed almost genome-wide significant associations including LINC00917 (p=3.98x10-7) and interleukin 6 (IL6, p=9.94x10-6, in the entire dataset and in the APOE epsilon4- individuals p=7.40x10-8).
+0	NA	CLU	NA	ABSTRACT	Gene-ontology analyses suggest that CSF CLU levels may be associated with wound healing and immune response which supports previous functional studies that demonstrated an association between CLU and IL6.
+0	Alzheimer's disease	CLU	NA	ABSTRACT	CLU may play a role in AD by influencing immune system changes that have been observed in AD or by disrupting healing after neurodegeneration
+0	NA	CLU	NA	INTRO	Clusterin (CLU), a multifunctional glycoprotein also known as apolipoprotein J, plays a role in several cellular processes including apoptosis, proliferation, and clearance of misfolded proteins.
+0	NA	CLU	NA	INTRO	CLU is ubiquitous and is highly expressed in the brain by astrocytes.
+0	NA	CLU	NA	INTRO	CLU is a secreted protein, but some isoforms have been discovered in the cytoplasm and nucleus
+0	Alzheimer's disease	CLU	NA	INTRO	CLU was first associated with Alzheimer's disease (AD) in 1990 when it was found to be increased in the hippocampi of AD patients.
+0	Alzheimer's disease	CLU	rs11136000	INTRO	Two independent genome-wide association studies (GWAS) in 2009 found rs11136000, an intronic variant in CLU, associated with AD (Lambert et al, p=3.7x10-9 and Harold et al, p=8.5x10-10).
+0	NA	NA	rs11136000	INTRO	In a meta-analysis of the two stage GWAS by Harold et al another single nucleotide polymorphism (SNP) in strong linkage disequilibrium (LD) with rs11136000 was also genome-wide significant, rs7982 (r2=0.95).
+0	NA	CLU	NA	INTRO	This SNP has three alleles resulting in either a synonymous or a missense variant located in exon 5 of CLU (p=8x10-10).
+0	Alzheimer's disease	CLU	rs9331896	INTRO	In a meta-analysis of >74,000 individuals in 2013, rs9331896, located in a CLU intron and also in strong LD with rs11136000 (r2=0.925) and rs7982 (r2=0.889), was also associated with AD (p=2.8x10-25)
+0	atrophy	CLU	NA	INTRO	Increased cerebrospinal fluid (CSF) CLU levels combined with increased amyloid-beta (Abeta) levels were associated with increased entorhinal atrophy and elevated CSF CLU levels have been observed in AD patients.
+0	Alzheimer's disease	CLU	NA	INTRO	It has been suggested that CLU may play a role in AD, by interacting with apolipoprotein E (APOE) or alone, by affecting Abeta clearance and/or aggregation.
+0	NA	NA	NA	INTRO	APOE-/- and CLU-/- mice have similar Abeta levels, but in an APOE/CLU double knock-out mouse model Abeta was significantly increased in CSF and brain interstitial fluid, suggesting that the APOE and CLU effects on Abeta levels are additive and not completely independent.
+0	NA	CLU	NA	INTRO	CLU has high affinity for soluble Abeta and associates specifically with Abeta40.
+0	NA	CLU	NA	INTRO	CLU levels also appear to affect aggregation of Abeta
+0	Alzheimer's disease	CLU	NA	INTRO	We hypothesized that genetic variants associated with CSF or plasma CLU levels may also play a role in AD.
+0	NA	CLU	NA	INTRO	We performed a single-stage GWAS to look for SNPs associated with CLU levels and followed up with gene-ontology analyses to look at potential biological, cellular, and molecular categories that may be associated with plasma and CSF CLU levels.
+0	Alzheimer's disease	CLU	NA	INTRO	Differences in CSF CLU levels have been observed in AD patients versus controls and appear to affect Abeta levels.
+0	cognitive defects	CLU	NA	INTRO	We hypothesized that CLU levels were also associated with CSF tau/Abeta ratio, a powerful predictor of cognitive decline that can be used to discriminate between vascular dementia and AD.
+0	Alzheimer's disease	CLU	NA	INTRO	Animal studies suggest that CLU and APOE have synergistic effects on Abeta levels and both have been associated with AD.
+0	NA	CLU	NA	INTRO	Given this biology we tested whether CLU and APOE levels in plasma or CSF are correlated
+0	NA	NA	NA	METHODS	The Institutional Review Board of all participating institutions approved the study.
+0	NA	NA	NA	METHODS	Written informed consent was obtained from participants or their family members
+0	Alzheimer's disease	apolipoprotein E	NA	METHODS	There were CSF CLU, APOE, tau, and Abeta levels from 673 unrelated individuals (Table 1): 400 from the Charles F. and Joanne Knight Alzheimer's Disease Research Center (Knight ADRC) (151 AD cases, 249 cognitively normal controls) and 273 from the Alzheimer's Disease Neuroimaging Initiative (ADNI) (205 cases, 68 controls).
+0	NA	NA	NA	METHODS	There were 818 individuals with plasma analyte levels (Table 1): 312 from Knight ADRC (124 cases, 188 controls) and 506 from ADNI (434 cases, 72 controls).
+0	NA	NA	NA	METHODS	In the combined datasets 537 individuals had both CSF and plasma analyte levels (273 cases, 264 controls; Table 2).
+0	NA	NA	NA	METHODS	ADNI individuals were evaluated at the time of sample collection as described in the ADNI procedures manual (http:www.adni-info.org).
+0	Alzheimer's disease	Clinical Dementia Rating (CDR)	NA	METHODS	Knight ADRC individuals were evaluated at the time of sample collection by Clinical Core personnel at Washington University; cases received a clinical diagnosis of AD in accordance with standard criteria and dementia severity was determined using the Clinical Dementia Rating (CDR).
+0	NA	NA	NA	METHODS	Neuropsychological and clinical assessments and biological samples were collected for all participants as described previously
+0	NA	NA	NA	METHODS	Knight ADRC samples were genotyped with the Illumina 610 or Omniexpress chip and ADNI samples with the Illumina 610 chip.
+0	NA	MAF	NA	METHODS	A call rate of <=98% for SNPs and individuals was applied and SNPs not in Hardy-Weinberg equilibrium (p<1x10-6) or with MAF<0.02 were excluded.
+0	NA	NA	NA	METHODS	Quality control (QC) steps were applied to each genotyping array separately.
+0	NA	NA	NA	METHODS	X-chromosome SNPs were analyzed to verify gender identification.
+0	NA	NA	NA	METHODS	Duplicate and related individuals were found using pairwise genome-wide estimates of proportion identity-by-descent and eliminated from the analysis.
+0	NA	NA	NA	METHODS	We used EIGENSTRAT to calculate principal component factors for each sample and confirm ethnicity.
+0	NA	NA	NA	METHODS	Imputation was performed as described before.
+0	NA	NA	NA	METHODS	Briefly the 1,000 genome data and BEAGLE v3.3.1 software were used to impute up to 6 million SNPs.
+0	NA	NA	NA	METHODS	SNPs with a call rate <95% or a BEAGLE r2 <=0.3 were removed, leaving a total of 5,970,354 imputed and genotyped variants
+0	NA	CLU	NA	METHODS	Samples were measured for CLU and APOE protein levels, among others, by Rules Based Medicine, Inc (RBM) using multiplex immunoassay on the Human Discovery Multi-Analyte Profile (MAP) panel v1.0 (https://rbm.myriad.com/products-services/humanmap-services/human-discoverymap/).
+0	NA	tau	NA	METHODS	The Knight ADRC Biomarker Core and ADNI measured CSF Abeta42, tau, and phosphotau (ptau181) levels as described previously.
+0	NA	NA	NA	METHODS	Analytes with a call rate >=90% passed QC.
+0	NA	NA	NA	METHODS	Before datasets were combined outliers were removed and values were normalized by log transformation then standardized by series so the mean for each analyte was equal to zero
+0	NA	NA	NA	METHODS	SAS v9.2 for Linux (copyright   2008 by SAS Institute Inc) was used to combine the ADNI and Knight ADRC datasets and the log-transformed, standardized values were tested for normality using the Shapiro-Wilk test.
+0	NA	CLU	NA	METHODS	We used R v3.1.3 to perform linear regression to determine if CSF or plasma levels of CLU were influenced by age or gender.
+0	Alzheimer's disease	CLU	NA	METHODS	We used age, gender, and study as covariates when testing for association of CLU levels in plasma and CSF with AD status, CSF tau, CSF Abeta, and CSF tau/Abeta ratio.
+0	NA	CLU	NA	METHODS	Pearson's correlation was used to determine whether CLU and APOE levels in CSF and plasma were correlated
+0	NA	CLU	NA	METHODS	CLU protein levels were tested for association using an additive model in PLINK v1.9 (http://www.cog-genomics.org/plink2).
+0	NA	NA	NA	METHODS	Covariates used were study, age, gender, and two principal component factors for population structure.
+0	NA	NA	NA	METHODS	Bonferroni corrected statistical significance was defined as p<5x10-8 and p<1x10-5 was considered suggestive association.
+0	NA	NA	NA	METHODS	The genomic inflation factor was 1, indicating no inflation due to population stratification.
+0	NA	NA	NA	METHODS	ANNOVAR version 2015-03-22, SNAP version 2.2 SNP dataset 1000 Genomes Pilot 1 population panel CEU (http:www.broadinstitute.org/mpg/snap), SNPnexus (http://www.snp-nexus.org), build GRCh37/hg19 and the NCBI Database of Single Nucleotide Polymorphisms (dbSNP) Build ID: 142 (http://www.ncbi.nlm.nih.gov/SNP/) were used to perform SNP annotation
+0	NA	NA	NA	METHODS	Before analysis, we pruned GWAS SNPs using the clump function in PLINK v1.9.
+0	NA	NA	NA	METHODS	Significance threshold for index and clumped SNPs was 1 to include all SNPs.
+0	NA	NA	NA	METHODS	SNPs were clumped if they were within 1Mb and in LD with the index (r2=0.8).
+0	NA	NA	NA	METHODS	Index SNPs were mapped to genes using a gene map created from the Table Browser tool on the UCSC genome browser using the Feb. 2009 (GRCh37/hg19) assembly (http://www.genome.ucsc.edu/, accessed March 18, 2015).
+0	NA	NA	NA	METHODS	SNPs were mapped to a gene if they were located within 20kb of that gene; if SNPs were mapped to more than one gene, all genes were included in the analysis.
+0	NA	NA	NA	METHODS	Genes were only counted once regardless of how many SNPs were mapped to the gene.
+0	NA	NA	NA	METHODS	Using a significance threshold p<1x10-4, the CSF analysis included186 pruned SNPs in 117 genes and there were 165 SNPs in 79 genes in the plasma analysis
+0	NA	NA	NA	METHODS	Gene ontology analyses were performed using the Protein Analysis Through Evolutionary Relationships (PANTHER) statistical over-representation test v9.0 release 20150430 (http://www.go.pantherdb.org) which used data from the Gene Ontology Consortium (GOC) (http://www.geneontology.org, June 6, 2015) [33,34], and the ConsensusPathDB (CPDB) over-representation gene set analysis release 30 which used GOC version GO_201501 released January 2015 (http://www.cpdb.molgen.mpg.de).
+0	NA	NA	NA	METHODS	CPDB compares rates of GO term membership between the background and candidate sets of genes by the hypergeometric test and the resulting p-values are corrected for multiple testing using the false discovery rate method.
+0	NA	NA	NA	METHODS	PANTHER utilizes a binomial distribution test to calculate over-representation of candidate genes, relative to the background, for different gene ontology (GO) terms.
+0	NA	NA	NA	METHODS	PANTHER uses the Bonferroni model for multiple test correction which is highly conservative in this case because ontology terms include parent and child terms that are tested together in the analysis and are not independent at all.
+0	NA	NA	NA	METHODS	Because of this, we decided to use the PANTHER analyses without Bonferroni correction.
+0	NA	NA	NA	METHODS	Background gene sets came from each tool's default which included 18,043 genes for CPDB (based on the number of HGNC gene symbols annotated to at least one GO term) and 20,814 genes for PANTHER (based on the total number of genes in human database obtained from Ensembl in April 2014).
+0	NA	NA	NA	METHODS	Of the 117 genes in the CSF analysis, 105 genes were assigned to at least one GO term by CPDB and PANTHER recognized 116 genes (the number of genes assigned to at least one GO term was not reported by PANTHER).
+0	NA	NA	NA	METHODS	Of the 79 genes in the plasma analysis, PANTHER recognized all of the genes and 77 were assigned to at least one GO term by CPDB.
+0	NA	NA	NA	METHODS	CPDB tested all three types of GO terms (biological, cellular, and molecular) in one analysis.
+0	NA	NA	NA	METHODS	PANTHER tested each GO term type separately, further separating genes that were manually assigned to that term based on experimental evidence from those assigned electronically based on bioinformatics algorithms.
+0	NA	NA	NA	METHODS	Categories with corrected p<0.05 for CPDB and uncorrected p<8.33x10-3 for PANTHER (based on the six separate tests) were considered significant
+0	NA	NA	NA	METHODS	Association List GO Annotator (ALIGATOR) was used to perform analysis of the non-pruned GWAS data as described previously with a few changes.
+0	NA	NA	NA	METHODS	A list of significant SNPs was converted into a list of genes in which the SNPs lie (between the start of the first and end of the last exon as defined by NCBI build 37.3).
+0	NA	NA	NA	METHODS	Each gene was counted once regardless of how many significant SNPs it contained.
+0	NA	NA	NA	METHODS	Replicate gene lists generated by randomly sampling SNPs (to allow for varying numbers of SNPs within genes) were used to obtain empirical enrichment p-values for each gene set.
+0	NA	NA	NA	METHODS	A bootstrap method was used to correct for testing multiple non-independent gene sets, and test whether the number of significantly enriched gene sets was higher than expected.
+0	NA	NA	NA	METHODS	Significant genes <1Mb apart and located in the same functional gene set were grouped into one signal, to correct for linkage disequilibrium between nearby genes.
+0	NA	NA	NA	METHODS	Gene sets were only classed as being enriched if they carried at least two signals.
+0	NA	NA	NA	METHODS	"Only genes defined as ""protein coding"" by NCBI were analyzed, a total of 17,233 genes for plasma and 17,690 genes for CSF."
+0	NA	NA	NA	METHODS	Significance threshold for SNPs was p<1x10-4, resulting in 49 genes for plasma and 85 for CSF
+0	NA	NA	NA	METHODS	A large pathway set, covering as many areas of biology as possible, comprised GOC (downloaded July 26, 2013), Kyoto Encyclopedia of Genes and Genomes (http://www.genome.jp/kegg/, June 4, 2013), PANTHER v8.1 (June 4, 2013), Mouse Genome Informatics (http://www.informatics.jax.org, August 9, 2013), Reactome pathways (http://www.reactome.org, July 27, 2013), Biocarta pathways from the Molecular Signatures Database v4.0 (http://www.broadinstitute.org/gsea/msigdb/index.jsp, July 28, 2013), and the NCI pathway interaction database (http://pid.nci.nih.gov/download.shtml, July 28, 2013).
+0	NA	NA	NA	METHODS	We restricted analysis to 9016 categories containing 10 to 1000 genes (200 for GO, given its large size relative to the other sets)
+0	NA	CLU	NA	RESULTS	We used linear regression to determine if CSF or plasma levels of CLU were influenced by age, gender, or APOE epsilon4 allele.
+0	NA	CLU	NA	RESULTS	CLU levels in CSF and plasma were significantly influenced by gender but with opposite effects (p=8.21x10-5, beta=0.152 and p=1.21x10-11, beta=-0.235 respectively; Supplemental Table S1).
+0	NA	CLU	NA	RESULTS	CSF levels of CLU were strongly associated with age (p=2.88x10-9, beta=0.227), but there was no significant association between plasma CLU levels and age (p=0.142, beta=-0.052; Supplemental Table S1).
+0	NA	CLU	NA	RESULTS	CSF and plasma CLU levels were not associated with APOE genotype (p=0.296, beta=0.04 and p=0.279, beta=0.038 respectively) or APOE epsilon4 carrier status (p=0.091, beta=0.065 and p=0.806, beta=0.009 respectively; Supplemental Table S1)
+0	Alzheimer's disease	CLU	NA	RESULTS	We used logistic and linear regression to determine if CSF or plasma levels of CLU were associated with AD status, CSF tau, CSF Abeta, or CSF tau/Abeta ratio.
+0	NA	NA	NA	RESULTS	Age, gender, and study were included as covariates.
+0	NA	NA	NA	RESULTS	CSF CLU levels were significantly higher in cases (defined by CDR>0; mean 24.74 microg/mL, SD 9.7) than controls (mean 19.92 microg/mL, SD 6.92; p=0.027, beta=-0.391, Figure 1) and there was a significant association between CSF tau/Abeta ratio and CSF CLU levels (p=3.82x10-8, beta=0.218, Supplemental Figure S1).
+0	NA	CLU	NA	RESULTS	When the dataset was stratified by APOE epsilon4 carrier status the association between CSF CLU levels and CSF tau/Abeta ratio was still significant (epsilon4+: p=1.03x10-4, beta=0.238, epsilon4-: p=3.66x10-4, beta=0.181, Supplemental Table S2)
+0	NA	CLU	NA	RESULTS	We also compared levels of CLU between cases and controls in plasma.
+0	NA	NA	NA	RESULTS	There was no significant difference between cases (mean 291.81 microg/mL, SD 70.54) and controls (mean 220.57 microg/mL, SD 68.70; p=0.222, beta=0.241) and there was no significant association with CSF tau/Abeta ratio (p=0.396, beta=0.035) in the whole dataset or APOE epsilon4 stratified datasets (Supplemental Table S2).
+0	Alzheimer's disease	CLU	NA	RESULTS	Together these results suggest CSF CLU would be a more informative biomarker for AD than plasma CLU
+0	NA	CLU	NA	RESULTS	Because previous functional studies linked CLU with APOE, we analyzed whether there was any correlation between CLU and APOE levels in CSF and plasma in the 537 individuals with both plasma and CSF levels (Supplemental Table S3).
+0	NA	CLU	NA	RESULTS	CLU levels in plasma and CSF were not correlated (r2=0.044, p=0.311), similar to what we found previously for CSF and plasma APOE
+0	NA	CLU	NA	RESULTS	We found a strong correlation between CSF levels of CLU and APOE (r2=0.702, p<2.2x10-16, Figure 2), but the correlation in plasma was weaker (r2=0.315, p=1.22x10-13).
+0	Alzheimer's disease	CLU	NA	RESULTS	Correlation between CSF CLU and CSF APOE was independent of AD status (cases: r2=0.708, p<2.2x10-16, controls: r2=0.721, p<2.2x10-16) and relative levels of CSF Abeta (threshold: ADNI=192 ng/mL, Knight ADRC=500 ng/mL, high Abeta: r2=0.682, p<2.2x10-16, low Abeta: r2=0.724, p<2.2x10-16).
+0	NA	CLU	NA	RESULTS	Correlation between CLU and APOE in the CSF was also independent of APOE genotype (epsilon4+: r2=0.703, p<2.2x10-16, epsilon4-: r2=0.75, p<2.2x10-16).
+0	NA	CLU	NA	RESULTS	We did not find an association between CSF and plasma CLU level
+0	NA	CLU	NA	RESULTS	In a previous GWAS we looked for genetic loci associated with CSF levels of CLU in an overall smaller dataset (n=574) by analyzing each study and performing a meta-analysis, and we found no genome-wide significant associations.
+0	NA	NA	NA	RESULTS	Joint analyses provide more statistical power than the power that meta-analysis approaches.
+0	NA	CLU	NA	RESULTS	For this reason we performed linear regression on all 673 individuals with CSF CLU levels from ADNI and Knight ADRC.
+0	NA	NA	NA	RESULTS	There were no genome-wide significant hits, but several loci had p-values less than the suggestive threshold p=1x10-5 (Table 2, Supplemental Figure S4).
+0	NA	LINC00917	rs2581305	RESULTS	The most significant SNP was rs2581305 on chromosome 16 in an intron of Long Intergenic Non-Protein Coding RNA 917 (LINC00917) (imputed, MAF 0.052, p=3.98x10-7, beta=-0.608).
+0	NA	LINC00917	rs2581304	RESULTS	The most significant genotyped SNP in LD was rs2581304 in an intron of LINC00917 (r2=0.947, D'=1, MAF 0.049, p=3.19x10-6, beta=-0.575).
+0	NA	NA	NA	RESULTS	Testing for SNPxAPOE genotype interaction showed no significant effect (p=0.287, beta=-0.346)
+0	NA	apolipoprotein E	NA	RESULTS	Because previous studies suggest an interaction with APOE and we found a strong correlation between CSF CLU levels and CSF APOE levels, we performed APOE genotype-stratified analyses.
+0	NA	IL-6	rs1800795	RESULTS	We did not find any genome-wide significant SNPs in the 270 epsilon4 carriers or 403 non-carriers (Table 2, Supplemental Figures S3 and S4 respectively), but in epsilon4-individuals one SNP almost reached genome-wide significance, rs1800795 on chromosome 7 in the promoter of interleukin 6 (IL6) (imputed, MAF 0.397, p=7.40x10-8, beta=0.375; Table 2, Supplemental Figure S6).
+0	NA	NA	NA	RESULTS	In the overall analysis (epsilon4+ and epsilon4-combined) this SNP was below the suggestive p-value (p=9.94x10-6, beta=0.243) while in the epsilon4+ group there was no suggestive association (p=0.785, beta=0.024).
+0	NA	IL-6	rs1800795	RESULTS	The most significant genotyped SNP in this locus in LD with rs1800795 was rs1800797 located within 2kb of the 5' end of IL6 (r2=0.965, D'=1, MAF 0.382, p=6.63x10-7, beta=0.241)
+0	NA	CLU	NA	RESULTS	We did not find any genome-wide significant association in the GWAS for plasma CLU levels even though the sample size was 20% greater than in CSF (n=818, Table 3, Supplemental Figure S5).
+0	NA	NA	NA	RESULTS	We also found no correlation between the CSF and plasma GWAS results (r2=-0.124, Supplemental Figure S6)
+0	NA	NA	NA	RESULTS	In the ALIGATOR analysis of the CSF GWAS results there was a significant excess of enriched categories: 190 categories with uncorrected p<0.05 (p=0.051), 77 p<0.01 (p=0.016), and 17 p<0.001 (p=0.006).
+0	NA	NA	NA	RESULTS	Some categories with uncorrected p<0.001 were related to wound healing and immune response (Supplemental Table S4) such as abnormal response to injury (p=5x10-5), regulation of cytokine biosynthetic process (p=8x10-5), cytokine pathway (p=1.80x10-4), abnormal wound healing (p=2.2x10-4), and delayed wound healing (p=3x10-4).
+0	NA	NA	NA	RESULTS	ALIGATOR analysis of the plasma GWAS showed there was no significant excess of enriched categories.
+0	NA	NA	NA	RESULTS	There were 47 categories with uncorrected p<0.05 (p=0.689), 11 p<0.01 (p=0.68), and only one p<0.001 (p=0.48).
+0	NA	NA	NA	RESULTS	Results for the plasma CPDB and PANTHER analyses can be found in Supplemental Table S5.
+0	NA	CLU	NA	RESULTS	Due to the lack of association between plasma CLU levels and case-control status and the lack of correlation in the GWAS results between CSF and plasma, we focused our gene ontology analyses on the CSF CLU results
+0	NA	NA	NA	RESULTS	In the CPDB analysis of the pruned CSF GWAS results there were 45 significant categories (Supplemental Table S6) and the PANTHER analysis resulted in 142 significant categories (Supplemental Table S7).
+0	NA	NA	NA	RESULTS	There were 32 significant categories that overlapped in both analyses (Table 4).
+0	NA	NA	NA	RESULTS	These categories were primarily related to lumenal side of membrane (CPDB p=1.02x10-3, PANTHER p=2.08x10-5), MHC protein complex (CPDB p=5.08x10-4, PANTHER p=2.08x10-5), wound healing (CPDB p=3.41x10-2, PANTHER p=2.88x10-4), coagulation (CPDB p=2.55x10-2, PANTHER p=1.51x10-4), hemostasis (CPDB p=2.82x10-2, PANTHER p=1.64x10-4), regulation of body fluid levels (CPDB p=2.55x10-2, PANTHER p=3x10-4), and positive regulation of immune system process (CPDB p=4.24x10-2, PANTHER p=2.12x10-4).
+0	NA	HLA-A	NA	RESULTS	Most of the significant categories shared between both analyses contained some of the major histocompatibility complex class I and class II genes (HLA-A, HLA-G, HLA-DPB1, HLA-DPA1) and several categories contained IL6 (including wound healing, coagulation, hemostasis, regulation of body fluid levels, and positive regulation of immune system process).
+0	NA	IL-6	NA	RESULTS	IL6 was also involved in most of the categories with uncorrected p<0.001 in the ALIGATOR analysis
+0	Alzheimer's disease	CLU	NA	DISCUSS	In a previous study of 99 patients and 39 controls CSF levels of CLU were significantly higher in AD patients (p=0.002).
+0	cognitive defects	CLU	NA	DISCUSS	In our much larger study of 356 cases and 317 controls we also found that CSF levels of CLU were significantly higher in cases than controls (p=0.03) and we found CSF CLU levels were associated with tau/Abeta ratio (p=1.06x10-7) which is highly predictive of cognitive decline.
+0	NA	CLU	NA	DISCUSS	There was no difference in plasma CLU between cases and controls (p=0.114) nor any association of plasma CLU levels with CSF tau/Abeta ratio (p=0.478).
+0	Alzheimer's disease	CLU	NA	DISCUSS	In a different previous study there was no association between plasma CLU levels and incidence of AD (n=926, p=0.77), which is consistent with our findings.
+0	Alzheimer's disease	CLU	NA	DISCUSS	All these data suggest that CSF CLU levels would be more informative than plasma CLU levels for AD studies, although not as informative as CSF Abeta or tau
+0	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	We have previously shown that CSF APOE levels are an endophenotype for AD and animal studies suggest that APOE and CLU may interact and have an additive effect on Abeta levels to play a key role in AD.
+0	NA	NA	NA	DISCUSS	A previous study demonstrated that CLU-/-/APOE-/- mice had increased amyloid deposition and significantly higher levels of soluble and insoluble Abeta40 and Abeta42 in the CSF (p<0.001) than CLU-/- or APOE-/- alone.
+0	NA	CLU	NA	DISCUSS	Additionally, Western blotting revealed that CLU levels were significantly lower in APOE-/- mice (p=1x10-4) suggesting that there could be an interaction between CLU and APOE.
+0	NA	CLU	NA	DISCUSS	Here we report for the first time that CLU and APOE levels are strongly correlated in the CSF of humans (r2=0.702, p<2.2x10-16) which indicates that CLU and APOE may interact in the human brain as well
+0	Alzheimer's disease	tau	NA	DISCUSS	Previously we successfully utilized CSF tau and phosphorylated tau levels in an endophenotype-based approach to find novel loci associated with AD so we decided to look for variants associated with CLU levels since CLU has also been strongly associated with AD.
+0	NA	CLU	NA	DISCUSS	In our GWAS we did not find any genome-wide significant SNPs associated with CSF or plasma CLU levels.
+0	NA	NA	NA	DISCUSS	Several SNPs had p-values<10-5, so an increase in sample size may provide enough power to observe genome-wide significant SNPs in these loci.
+0	NA	IL-6	NA	DISCUSS	Interestingly, the GWAS of epsilon4-individuals (N=403) had one SNP in IL6 of borderline genome-wide significance (p=7.58x10-8).
+0	NA	IL-6	NA	DISCUSS	This SNP is located in the promoter of IL6 and the - 174C allele was previously associated with higher levels of IL6 in the brain.
+0	Alzheimer's disease	IL-6	NA	DISCUSS	IL6 has been associated with diffuse plaques in the brains of AD patients.
+0	NA	IL-6	NA	DISCUSS	IL6 was also reported to induce hyperphosphorylation of tau.
+0	NA	IL-6	NA	DISCUSS	IL6 appears to play a role in modulating expression of CLU and CLU siRNA knockdown increased IL6 baseline production in fibroblast-like synoviocytes (p<0.05).
+0	Alzheimer's disease	IL-6	NA	DISCUSS	Together these data suggest that IL6 may play a role in AD pathology, possibly by regulating CLU levels or by CLU modulating IL6 levels
+0	NA	CLU	NA	DISCUSS	Additionally, our gene ontology analyses of the CSF GWAS results included categories related to wound healing and immune response indicating that CSF levels of CLU may be associated with wound healing and immune response, not only through IL6 but also other genes.
+0	NA	IL-6	NA	DISCUSS	IL6 is important in wound healing, not only through proinflammatory effects but also by promoting cell migration.
+0	NA	CLU	NA	DISCUSS	Previous research demonstrates that CLU may also play a role in healing, particularly in the brain.
+0	brain ischemia	CLU	NA	DISCUSS	CLU improved healing after brain ischemia in wild-type mice where there was an increase in CLU mRNA in astrocytes in the peri-infarct area up to three months post-ischemia and CLU-/- mice showed a significant reduction in healing post-ischemia.
+0	Alzheimer's disease	CLU	NA	DISCUSS	Further research is necessary to explore the potential role of CLU in response to tissue damage and how this may influence the progression of AD
+0	NA	NA	NA	DISCUSS	It is interesting to note that the significant gene ontology categories in our CSF and plasma analyses were very different.
+0	NA	CLU	NA	DISCUSS	Whereas CSF levels of CLU may be associated with response to tissue damage, plasma levels of CLU may be associated with channel and transporter activity.
+0	NA	CLU	NA	DISCUSS	While there does not currently appear to be a strong association between CLU expression and channel or transporter activity, CLU was found to be important in recovery of hypofunctioning salivary glands, possibly by influencing expression of aquaporin-5 and two receptors involved in protein secretion.
+0	NA	Aquaporin 1	NA	DISCUSS	Aquaporin 1 was one of the genes mapped to SNPs with p<1x10-4 in the plasma GWAS results and most of the other mapped genes were receptors, channels, or subunits
+0	Alzheimer's disease	CLU	NA	DISCUSS	In conclusion, we have demonstrated that CSF levels of CLU are significantly associated with powerful endophenotypes for AD (tau, ptau, and Abeta42) as well as AD status and CSF tau/Abeta ratio indicating that CSF CLU levels may be a good phenotype to use when studying AD.
+0	NA	CLU	NA	DISCUSS	We also found a strong correlation between CSF levels of CLU and APOE which supports previous research that indicates there may be an important interaction between these two proteins or a common pathway that influences Abeta.
+0	Alzheimer's disease	CLU	NA	DISCUSS	Our genetic analyses suggest that the role of CLU in AD may not be limited to Abeta.
+0	NA	CLU	NA	DISCUSS	While there were no genome-wide significant hits in any of our GWAS, we did find several SNPs with suggestive p-values in our analyses of CSF CLU levels including one SNP in IL6 that almost reached genome-wide significance.
+0	NA	IL-6	NA	DISCUSS	IL6 is related to immune response, but also response to tissue damage.
+0	NA	CLU	NA	DISCUSS	Our gene ontology analyses indicate CLU may also be related to wound healing as well as immune response, further research is necessary to determine this
+0	NA	NA	NA	FIG	Error bars (mean+-sem).
+0	NA	NA	NA	FIG	CSF (cases=24.74+-0.56 microg/mL, controls=19.92+-0.36 microg/mL, p=0.027), plasma (cases=285.05+-3.12 microg/mL, controls=221.22+-4.39 microg/mL, p=0.637).
+0	NA	NA	NA	FIG	*p<0.05, n.s.=not significant (p>0.05
+0	NA	NA	NA	TABLE	Characteristics of plasma and CSF ADNI and Knight ADRC dat
+0	NA	CLU	NA	TABLE	Association of top SNPs with CSF CLU levels stratified by APOE carrier status
+0	NA	CLU	NA	TABLE	Top SNPs (p<1x10-5) from GWAS of association with plasma CLU levels (n=818)
+0	NA	CLU	NA	TABLE	Top gene ontology categories from CPDB (p<0.05) and PANTHER (p<8.33x10-3) analyses of CLU CSF GWAS results

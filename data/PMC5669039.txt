@@ -1,0 +1,259 @@
+0	Alzheimer's disease	NA	NA	ABSTRACT	We identified rare coding variants associated with Alzheimer's disease (AD) in a 3-stage case-control study of 85,133 subjects.
+0	NA	NA	NA	ABSTRACT	In stage 1, 34,174 samples were genotyped using a whole-exome microarray.
+0	NA	NA	NA	ABSTRACT	In stage 2, we tested associated variants (P<1x10-4) in 35,962 independent samples using de novo genotyping and imputed genotypes.
+0	NA	NA	NA	ABSTRACT	In stage 3, an additional 14,997 samples were used to test the most significant stage 2 associations (P<5x10-8) using imputed genotypes.
+1	NA	PLCG2	NA	ABSTRACT	We observed 3 novel genome-wide significant (GWS) AD associated non-synonymous variants; a protective variant in PLCG2 (rs72824905/p.P522R, P=5.38x10-10, OR=0.68, MAFcases=0.0059, MAFcontrols=0.0093), a risk variant in ABI3 (rs616338/p.S209F, P=4.56x10-10, OR=1.43, MAFcases=0.011, MAFcontrols=0.008), and a novel GWS variant in TREM2 (rs143332484/p.R62H, P=1.55x10-14, OR=1.67, MAFcases=0.0143, MAFcontrols=0.0089), a known AD susceptibility gene.
+0	NA	NA	NA	ABSTRACT	These protein-coding changes are in genes highly expressed in microglia and highlight an immune-related protein-protein interaction network enriched for previously identified AD risk genes.
+0	NA	NA	NA	ABSTRACT	These genetic findings provide additional evidence that the microglia-mediated innate immune response contributes directly to AD development
+0	NA	NA	NA	INTRO	Late-onset AD (LOAD) has a significant genetic component (h2=58-79%).
+0	NA	NA	NA	INTRO	Nearly 30 LOAD susceptibility loci are known, and risk is significantly polygenic.
+0	NA	NA	NA	INTRO	However, these loci explain only a proportion of disease heritability.
+0	NA	NA	NA	INTRO	Rare variants also contribute to disease risk.
+0	NA	NA	NA	INTRO	Recent sequencing studies identified a number of genes that have rare variants associated with AD.
+0	NA	NA	NA	INTRO	Our approach to rare-variant discovery is to genotype a large sample with micro-arrays targeting known exome variants with follow-up using genotyping and imputed genotypes in a large independent sample.
+0	NA	NA	NA	INTRO	This is a cost-effective alternative to de novo sequencing
+0	Alzheimer's disease	NA	NA	INTRO	We applied a 3-stage design (Supplementary Figure 1) using subjects from the International Genomics of Alzheimer's Project (IGAP)(Table 1, Supplementary Tables 1 & 2).
+0	NA	NA	NA	INTRO	In stage 1, 16,097 LOAD cases and 18,077 cognitively normal elderly controls were genotyped using the Illumina HumanExome microarray.
+0	NA	NA	NA	INTRO	Data from multiple consortia were combined in a single variant meta-analysis (Online Methods) assuming an additive model.
+0	NA	NA	NA	INTRO	In total, 241,551 variants passed quality-control (Supplementary Table 3).
+0	NA	NA	NA	INTRO	Of these 203,902 were polymorphic, 26,947 were common (minor allele frequency (MAF)>=5%), and 176,955 were low frequency or rare (MAF<5%).
+0	NA	NA	NA	INTRO	We analyzed common variants using a logistic regression model in each sample cohort and combined data using METAL.
+0	NA	NA	NA	INTRO	Rare and low frequency variants were analyzed using the score test and data combined with SeqMeta (Supplementary Figure 2)
+0	NA	NA	NA	INTRO	We reviewed cluster plots for variants showing association (P<1x10-4) and identified 43 candidate variants (Supplementary Table 4) exclusive of known risk loci (Supplementary Table 5).
+0	NA	NA	NA	INTRO	Stage 2 tested these for association in 14,041 LOAD cases and 21,921 controls, using de novo and imputation derived genotypes (Online Methods).
+0	NA	NA	NA	INTRO	We carried forward single nucleotide variants (SNVs) with GWS associations and consistent directions of effect to stage 3 where genotypes for 6,652 independent cases and 8,345 controls were imputed using the Haplotype Reference Consortium resource (Online Methods, Supplementary Table 6)
+0	NA	NA	NA	INTRO	We identified four rare coding variants with GWS association signals with LOAD (P<5x10-8)(Table 2, Supplementary Tables 7 & 8).
+0	NA	PLCG2	rs72824905	INTRO	The first is a missense variant p.P522R (P=5.38x10-10, OR=0.68) in Phospholipase C Gamma 2 (PLCG2)(Table 2, Figure 1a, Supplementary Table 9, Supplementary Figure 3).
+0	NA	NA	NA	INTRO	This variant is associated with decreased risk of LOAD, showing a MAF of 0.0059 in cases and 0.0093 in controls.
+0	NA	NA	rs72824905	INTRO	The reference allele (p.P522) is conserved across several species (Supplementary Figure 4).
+0	NA	NA	NA	INTRO	Gene-wide analysis showed nominal evidence for association at P=1.52x10-4 (Supplementary Tables 10 & 11) and we found no other independent association at this gene (Supplementary Figure 5)
+1	NA	ABI3	rs616338	INTRO	The second novel association is a missense change p.S209F (P=4.56x10-10, OR=1.43) in B3 domain-containing transcription factor ABI3 (ABI3).
+1	NA	NA	rs616338	INTRO	The p.F209 variant shows consistent evidence for increasing LOAD risk across all stages, with a MAF of 0.011 in cases and 0.008 in controls (Table 2, Figure 1b, Supplementary Table 12, Supplementary Figure 6).
+0	NA	NA	NA	INTRO	The reference allele is conserved across multiple species (Supplementary Figure 7).
+0	NA	NA	NA	INTRO	Gene-wide analysis showed nominal evidence of association (P=5.22x10-5)(Supplementary Tables 10 & 11).
+1	NA	B4GALNT2	NA	INTRO	The B4GALNT2 gene, adjacent to ABI3, contained an independent suggestive association (Supplementary Figure 8), but this failed to replicate in subsequent stages (Pcombined=1.68x10-4)(Supplementary Table 7)
+1	NA	TREM2	rs143332484	INTRO	Following reports of suggestive association with LOAD, we report the first evidence for GWS association at TREM2 coding variant p.R62H (P=1.55x10-14, OR=1.67), with a MAF of 0.0143 in cases and 0.0089 in controls (Table 2, Figure 1c, Supplementary Table 13, Supplementary Figures 9 & 10).
+1	NA	TREM2	R47H	INTRO	We also observed evidence for the previously reported TREM2 rare variant p.R47H (Table 2).
+1	NA	NA	rs143332484	INTRO	These variants are not in linkage disequilibrium (Supplementary Table 14) and conditional analyses confirmed that p.R62H and p.R47H are independent risk variants (Supplementary Figure 11).
+1	NA	TREM2	NA	INTRO	Gene-wide analysis of TREM2 showed a GWS association (PSKAT=1.42x10-15)(Supplementary Tables 10 & 11).
+1	NA	NA	R47H	INTRO	Removal of p.R47H and p.R62H variants from the analysis diminished the gene-wide association but the signal remains interesting (PSKAT-O=6.3x10-3, PBurden=4.1x10-3).
+1	NA	TREM2	NA	INTRO	No single SNV was responsible for the remaining gene-wide association (Supplementary Table 13, Supplementary Figure 11) suggesting that there are additional TREM2 risk variants in TREM2.
+1	NA	TREM2	NA	INTRO	We previously reported a common variant LOAD association near TREM2, in a GWAS of cerebrospinal fluid tau and P-tau.
+0	NA	NA	NA	INTRO	We also observed a different suggestive common variant signal in another LOAD case-control study (P=6.3x10-7)
+0	NA	NA	NA	INTRO	We previously identified 8 gene pathway clusters significantly enriched in AD-associated common variants.
+0	NA	MAF>1%	NA	INTRO	To test whether biological enrichments observed in common variants are also present in rare variants we used the rare-variant data (MAF<1%) to reanalyze these eight AD-associated pathway clusters (Online Methods, Supplementary Table 15).
+0	NA	NA	NA	INTRO	We used Fisher's method to combine gene-wide p-values for all genes in each cluster.
+0	NA	NA	NA	INTRO	After correction for multiple testing, we observed enrichment for immune response (P=8.64x10-3), cholesterol transport (P=3.84x10-5), hemostasis (P=2.10x10-3), Clathrin/AP2 adaptor complex (P=9.20x10-4) and protein folding (P=0.02).
+0	NA	NA	NA	INTRO	We also performed pathway analyses on the rare variant data presented here using all 9,816 pathways used previously.
+0	NA	NA	NA	INTRO	The top pathways are related to lipoprotein particles, cholesterol efflux, B-cell differentiation and immune response, areas of biology also enriched when common variants are analyzed(Supplementary Table 16)
+0	NA	NA	NA	INTRO	Previous analysis of normal brain co-expression networks identified 4 gene modules that are enriched for common variants associated with LOAD risk.
+0	NA	NA	NA	INTRO	These 4 modules are enriched for immune response genes.
+0	NA	MAF>1%	NA	INTRO	We identified 151 genes present in 2 or more of these 4 modules and these showed a strong enrichment for LOAD-associated common variants (P=4.0x10-6) and for rare variants described here (MAF<1%)(Supplementary Table 15P=1.17x10-6).
+1	NA	PLCG2	NA	INTRO	We then used a set of high-quality protein-protein interactions to construct, from these 151 genes, an interaction network containing 56 genes, including PLCG2, ABI3 and TREM2 (Figure 2)(Online Methods).
+0	NA	NA	NA	INTRO	This subset is strongly enriched for association signals from both the previous common variant analysis (P=5.0x10-6, Supplementary Table 17) and this rare variant gene-set analysis (P=1.08x10-7, Supplementary Table 15).
+0	NA	NA	NA	INTRO	The remaining 95 genes only have nominally-significant enrichment for either common or rare variants (Supplementary Tables 15 & 17), suggesting that the 56-gene (Supplementary Table 18) network is driving the enrichment
+1	NA	TREM2	NA	INTRO	TREM2, ABI3 and PLCG2 have a common expression pattern in human brain cortex, with high expression in microglia cells and limited expression in neurons, oligodendrocytes, astrocytes and endothelial cells (Supplementary Figure 12).
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	NA	INTRO	Other known LOAD loci with the same expression pattern include SORL1, the MS4A gene cluster, and HLA-DRB1.
+1	NA	PLCG2	NA	INTRO	PLCG2, ABI3, and TREM2 are up-regulated in LOAD human cortex and in two APP mouse models.
+0	NA	NA	NA	INTRO	However, when corrected for levels of other microglia genes, these changes in expression appear to be related to microgliosis (Supplementary Tables 19 & 20)
+0	NA	PLCG2	NA	INTRO	PLCG2 (Supplementary Figure 13) encodes a transmembrane signaling enzyme (PLCgamma2) that hydrolyses the membrane phospholipid PIP2 (1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate) to secondary messengers IP3 (myo-inositol 1,4,5-trisphosphate) and DAG (diacylglycerol).
+0	NA	NA	NA	INTRO	IP3 is released into the cytosol and acts at the endoplasmic reticulum where it binds to ligand-gated ion channels to increase cytoplasmic Ca2+.
+0	NA	p<10-5	NA	INTRO	DAG remains bound to the plasma membrane where it activates two major signaling molecules, protein kinase C (PKC) and Ras guanyl nucleotide-releasing proteins (RasGRPs), which initiate the NF-kappaB and mitogen-activated protein kinase (MAPK) pathways.
+0	NA	PLCG2	NA	INTRO	While the IP3/DAG/Ca+2 signaling pathway is active in many cells and tissues, in brain, PLCG2 is primarily expressed in microglial cells.
+0	Deficiency	PLCG2	NA	INTRO	PLCG2 variants also cause Antibody Deficiency and Immune Dysregulation (PLAID) and Autoinflammation and PLAID (APLAID).
+0	NA	cSH2	NA	INTRO	Genomic deletions (PLAID) and missense mutations (APLAID) affect the cSH2 autoinhibitory regulatory region.
+0	NA	NA	NA	INTRO	The result is a complex mix of loss and gain of function in cellular signalling
+1	NA	ABI3	NA	INTRO	Functional annotation (Supplementary Table 21) suggests ABI3 (Supplementary Figure 14) plays a role in the innate immune response via interferon-mediated signaling.
+1	NA	ABI3	NA	INTRO	ABI3 is co-expressed with INPP5D (P=2.2x10-10), a gene previously implicated in LOAD risk.
+1	NA	ABI3	NA	INTRO	ABI3 plays a significant role in actin cytoskeleton organization through participation in the WAVE2 complex, a complex that regulates multiple pathways leading to T-cell activation
+1	NA	TREM2	NA	INTRO	TREM2 encodes a transmembrane receptor present in the plasma membrane of brain microglia (Supplementary Figure 15).
+1	NA	TREM2	NA	INTRO	TREM2 protein forms an immune-receptor-signaling complex with DAP12.
+0	NA	Syk	NA	INTRO	Receptor activation results in activation of Syk and ZAP70 signaling which in turn activates PI3K activity and influences PLCgamma2 activity.
+1	NA	NA	NA	INTRO	In microglia, TREM2-DAP12 induces an M2-like activation and participates in recognition of membrane debris and amyloid deposits resulting in microglial activation and proliferation.
+0	NA	TREM2	NA	INTRO	When TREM2 knockout (KO) or TREM2 heterozygous KO mice are crossed with APP-transgenics that develop plaques, the size and number of microglia associated with plaques are markedly reduced.
+0	NA	TREM2	NA	INTRO	TREM2 risk variants are located within exon 2, which is predicted to encode the conserved ligand binding extracellular region of the protein.
+0	NA	TREM2	NA	INTRO	Any disruption in this region may attenuate or abolish TREM2 signaling, resulting in the loss or decrease in TREM2 function
+1	NA	TREM2	NA	INTRO	The 56-gene interaction network identified here is enriched in immune response genes and includes TREM2, PLCG2, ABI3, SPI1, INPP5D, CSF1R, SYK and TYROBP (Figure 2).
+0	NA	SPI1	NA	INTRO	SPI1 is a central transcription factor in microglial activation state that has a significant gene-wide association with AD and is in the proximity of GWS signals identified by IGAP.
+0	leukoencephalopathy	CSF1R	NA	INTRO	Loss-of function mutations in CSF1R cause hereditary diffuse leukoencephalopathy with spheroids, a white matter disease related to microglial dysfunction.
+0	NA	NA	NA	INTRO	Activated microglial cells surround plaques, a finding consistently observed in AD brain and AD transgenic mouse models.
+0	NA	NA	NA	INTRO	In AD mouse model brain, synaptic pruning associates with activated microglial signalling.
+0	NA	colony-stimulating factor 1 receptor	NA	INTRO	Pharmacological targeting of CSF1R inhibits microglial proliferation and shifts the microglial inflammatory profile to an anti-inflammatory phenotype in murine models.
+0	NA	Syk	NA	INTRO	SYK regulates Abeta production and tau hyperphosphorylation, is affected by the INPP5D/CD2AP complex encoded by two LOAD associated genes, and mediates phosphorylation of PLCG2.
+1	NA	Syk	NA	INTRO	Notably, the anti-hypertensive drug Nilvadipine, currently in a phase III AD clinical trial, targets SYK as well as TYROBP, a hub gene in an AD-related brain expression network, that encodes the TREM2 complex protein DAP12
+1	NA	PLCG2	NA	INTRO	We identified three rare coding variants in PLCG2, ABI3 and TREM2 with GWS associations with LOAD that are part of a common innate immune response.
+0	neurodegenerative disease	NA	NA	INTRO	This work provides additional evidence that the microglial response in LOAD is directly part of a causal pathway leading to disease and is not simply a downstream consequence of neurodegeneration.
+0	NA	NA	NA	INTRO	Our network analysis supports this conclusion.
+0	NA	NA	NA	INTRO	In addition, PLCgammaG2, as an enzyme, represents the first classically drug-able target to emerge from LOAD genetic studies.
+0	NA	NA	NA	INTRO	The variants described here account for a small portion of the 'missing heritability of AD'.
+0	NA	NA	NA	INTRO	The remaining heritability may be due to a large number of common variants of small effect size.
+0	NA	NA	NA	INTRO	For rare variants, there may be additional exonic sites with lower MAF or effect size, and/or intronic and intergenic sites.
+0	NA	NA	NA	INTRO	Complete resolution of AD heritability will be facilitated by larger sample sizes and more comprehensive sequence data
+0	NA	NA	NA	SUPPL	Summary statistics for the 43 genetic associations identified are provided in Supplementary Table 6
+0	NA	NA	NA	SUPPL	Stage 1 data (individual level) for the GERAD exome chip cohort can be accessed by applying directly to Cardiff University.
+0	NA	NA	NA	SUPPL	Stage 1 ADGC data is deposited in NIAGADS and NIA/NIH sanctioned qualified access data repository.
+0	CHARGE	NA	NA	SUPPL	Stage 1 CHARGE data is accessible by applying to dbGaP for all US cohorts, and to ERASMUS University for Rotterdam data.
+0	NA	NA	NA	SUPPL	AGES primary data are not available due to Icelandic laws.
+0	NA	NA	NA	SUPPL	Stage 2 and stage 3 primary data is available upon request
+0	Alzheimer's disease	NA	NA	SUPPL	A detailed description of the Mayo Clinic RNAseq data is available to all qualified investigators through the Accelerating Medicines Partnership in Alzheimer's Disease (AMP-AD) knowledge portal that is hosted in the Synapse software platform from Sage Bionetworks (Synapse IDs: syn3157182 and syn3435792 (mouse data), and syn3163039 (human data))
+0	NA	NA	NA	METHODS	Genotyping was performed at Life and Brain, Bonn, Germany, with the Illumina HumanExome BeadChip v1.0 (N=247,870 variants) or v1.1 (N=242,901 variants).
+0	NA	NA	NA	METHODS	Illumina's GenTrain version 2.0 clustering algorithm in GenomeStudio or zCall was used for genotype calling.
+0	inflammatory bowel disease	NA	NA	METHODS	Quality control (QC) filters were implemented for sample call rate excluding samples with >1% missingness, excess autosomal heterozygosity excluding outliers based on <1% and >1% minor allele frequency (MAF) separately, gender discordance, relatedness excluding one of each pair related with IBD >= 0.125 (the level expected for first cousins), and population outliers (i.e.
+0	NA	NA	NA	METHODS	non European ancestry).
+0	NA	NA	NA	METHODS	Variants were filtered based on call rate excluding variants with >1% missingness, genotype cluster separation excluding variants with a separation score < 0.4 and Hardy-Weinberg equilibrium (HWE) excluding variants with PHWE < 1x10-4.
+0	NA	NA	NA	METHODS	Ten principal components (PCs) were extracted using EIGENSTRAT, including the first three PCs as covariates had the maximum impact on the genomic control inflation factor, lambda2.
+0	NA	NA	NA	METHODS	After QC 6,000 LOAD cases and 2,974 elderly controls (version 1.0; 4,093 LOAD cases and 1,599 controls, version 1.1; 1,907 LOAD cases and 1,375 controls) remained.
+0	NA	NA	NA	METHODS	The version 1.0 array had 244,412 variants available for analysis and 239,814 remained for the version 1.1 array
+0	CHARGE	NA	NA	METHODS	All four CHARGE cohorts were genotyped for the Illumina HumanExome BeadChip v1.0.
+0	NA	NA	NA	METHODS	To increase the quality of the rare variant genotype calls, the genotypes for all four studies were jointly called with 62,266 samples from 11 studies at the University of Texas HSC at Houston.
+0	NA	NA	NA	METHODS	Quality control (QC) procedures for the genotype data were performed both centrally at UT Houston and at each study.
+0	NA	NA	NA	METHODS	The central QC procedures have been described previously.
+0	NA	NA	NA	METHODS	Minimum QC included: 1) Concordance checking with GWAS data and removal of problematic samples, 2) Removal of individuals with low genotype completion rate (<90%), 3) Removal of variants with low genotype call rate (<95%), 4) Removal of individuals with sex-mismatches, 5) Removal of one individual from duplicate pairs, 6) Removal of first-degree relatives based on genetically calculated relatedness (IBS > 0.45), with cases retained over controls, 7) Removal of variants not called in over 5% of the individuals and those that deviated significantly form the expected Hardy-Weinberg Equilibrium proportions (P<1x10-6)
+0	NA	CHOP	NA	METHODS	"Genotyping was performed in subsets at four centers: NorthShore, Miami, WashU, and CHOP (""CHOP"" and ""ADC7"" datasets) on the Illumina HumanExome BeadChip v1.0."
+1	NA	TREM2	R47H	METHODS	One variant rs75932628 (p.R47H) in TREM2 clustered poorly across all ADGC cohorts, and was therefore re-genotyped using a Taqman assay.
+0	NA	NA	NA	METHODS	Data on all samples underwent standard quality control procedures applied to genome-wide association studies (GWAS), including excluding variants with call rates <95%, and then filtering samples with call rate <95%.
+0	NA	NA	NA	METHODS	Variants with MAF>0.01 were evaluated for departure from HWE and any variants for PHWE<10-6 were excluded.
+0	NA	CHOP	NA	METHODS	Population substructure within each of the five subsets (NorthShore, Miami, WashU, CHOP, and ADC7) was examined using PC analysis in EIGENSTRAT, and population outliers (>6 SD) were excluded from further analyses; the first three PCs were adjusted for as covariates in association testing.
+0	NA	NA	NA	METHODS	Prior to analysis we harmonized the alternate and reference alleles over all datasets.
+0	NA	NA	NA	METHODS	See Supplementary Table 3 for an overview of cohort genotype calling and quality control procedures.
+0	NA	NA	NA	METHODS	All sample genotyping and quality control was performed blind to participant's disease status
+0	NA	NA	NA	METHODS	Twenty-two variants successfully designed for replication genotyping on the Agena Bioscience MassARRAY  platform.
+0	NA	NA	NA	METHODS	Genotyping was performed at Life and Brain, Bonn, Germany, and the Centre National de Genotypage (CNG), Paris, France.
+0	NA	ASTN2	rs147163004	METHODS	Twenty-one variants were successfully genotyped, with one variant (rs147163004 in ASTN2) failing visual cluster plot inspection.
+0	NA	NA	NA	METHODS	An additional nine variants were successfully genotyped using the Agena Bioscience MassARRAY  platform or Thermo FisherTaqMan  assay at the CNG, Paris, France in a subset of the replication samples N=16,850 (7,755 cases, 9,095 controls)
+0	NA	NA	NA	METHODS	Filters were implemented for sample call rate, excluding samples with >10% missingness, and excess autosomal heterozygosity via visual inspection.
+0	NA	NA	NA	METHODS	Variants were filtered based on call rate excluding variants with >10% missingness and HWE excluding variants with PHWE<1x10-5 in either cases or controls
+0	NA	NA	NA	METHODS	Variants were genotyped in 3 different panels and QC was performed in each panel separately.
+0	NA	NA	NA	METHODS	Samples with more than 3 missing genotypes were excluded, as were males heterozygous for X-Chromosome variants present within the genotyped panels.
+0	NA	NA	NA	METHODS	Variants were excluded based on missingness >5%, HWE (in cases and controls separately) <1x10-5, and differential missingness between cases and controls <1x10-5, for each Country cohort.
+0	NA	NA	NA	METHODS	All variants passed quality control.
+0	NA	NA	NA	METHODS	PCs were determined using previously described methods
+0	NA	NA	NA	METHODS	Replication was performed using genotypes from 23 ADGC datasets as described above.
+0	NA	NA	NA	METHODS	Genotyping arrays used have been described in detail before for most datasets, except for the CHAP, NBB, TARCC, and WHICAP datasets.
+0	NA	NA	NA	METHODS	CHAP and WHICAP datasets were genotyped on the Illumina OmniExpress-24 array, while NBB was genotyped on the Illumina 1M platform.
+0	NA	NA	NA	METHODS	TARCC first wave subjects were genotyped using the Affymetrix 6.0 microarray chip, while subjects in the second wave (172 cases and 74 controls) were genotyped using the Illumina HumanOmniExpress-24 beadchip.
+0	NA	NA	NA	METHODS	Second wave TARCC subjects (TARCC2) were genotyped together with 84 cases and 115 controls from second wave samples ascertained at the University of Miami and Vanderbilt University.
+0	NA	NA	NA	METHODS	All samples used in stage 3 were imputed to the HRC haplotype reference panel, which includes 64,976 haplotypes with 39,235,157 SNPs that allows imputation down to an unprecedented MAF=0.00008
+0	NA	NA	NA	METHODS	Prior to imputation, all genotype data underwent QC procedures that have been described extensively elsewhere.
+0	NA	NA	NA	METHODS	Imputation was performed on the Michigan Imputation Server (https://imputationserver.sph.umich.edu/) running MiniMac3.
+0	NA	NA	NA	METHODS	Genotypes from genome-wide, high-density SNP genotyping arrays for 16,175 AD cases and 17,176 cognitive-normal individuals were imputed.
+0	NA	NA	NA	METHODS	Across all samples 39,235,157 SNPs were imputed, with the actual number of SNPs imputed for each individual varying based on the regional density of array genotypes available.
+0	NA	NA	NA	METHODS	As a subset of these samples had also been genotyped as part of stage 1, we examined the imputation quality for critical variants by comparing imputed genotypes to those directly genotyped by the exome array; overall concordance was >99%, while concordance among alternate allele genotypes (heterozygotes and alternate allele homozygotes) was >88.5% on average (N=13,000 samples).
+0	NA	NA	NA	METHODS	Concordance between Stage 3 imputed genotypes and exome chip genotypes for replicated SNPs is reported in Supplementary Table 6
+0	NA	NA	NA	METHODS	We tested association with LOAD using logistic regression modelling for common and low frequency variants (MAF>1%) and implementing maximum likelihood estimation using the score test and 'seqMeta' package for rare variation (MAF<=1%).
+0	CHARGE	NA	NA	METHODS	Analyses were conducted globally in the GERAD/PERADES consortium, and for each contributing centre in the CHARGE and ADGC consortia under two models (1) an 'unadjusted' model, which included minimal adjustment for possible population stratification, using Country of origin and the first three principal components from PCA, and (2) an 'adjusted' model, which included covariates for age, and sex, as well as Country of origin and the first three principal components.
+0	NA	NA	NA	METHODS	Age was defined as the age at onset of clinical symptoms for cases, and the age at last interview for cognitively normal controls
+0	NA	NA	NA	METHODS	Meta-analysis for common and low frequency variants were undertaken in METAL using a fixed-effects inverse variance-weighted meta-analysis.
+0	NA	NA	NA	METHODS	Rare variants were meta-analysed in the SeqMeta R package.
+0	NA	NA	NA	METHODS	In the SeqMeta pipeline, cohort-level analyses generated score statistics through the function 'prepScores' which were captured in *.
+0	NA	NA	NA	METHODS	Rdata objects.
+0	NA	NA	NA	METHODS	These *.
+0	NA	NA	NA	METHODS	Rdata objects contain the necessary information to meta-analyse SKAT analyses: the individual SNP scores, MAF, and a covariance matrix for each unit of aggregation.
+0	NA	NA	NA	METHODS	Using the 'singlesnpMeta' and 'skatOmeta' functions of SeqMeta, the *.
+0	NA	NA	NA	METHODS	Rdata objects for individual studies were meta-analysed.
+0	NA	NA	NA	METHODS	The seqMeta coefficients and standard errors can be interpreted as a 'one-step' approximation to the maximum likelihood estimates.
+0	NA	NA	NA	METHODS	Monomorphic variants in individual studies were not excluded as they contribute to the minor allele frequency information.
+0	NA	NA	NA	METHODS	Three independent analysts confirmed the meta-analysis results
+0	NA	NA	NA	METHODS	In the GERAD/PERADES consortium 1,740 participants (888 LOAD cases and 852 controls) did not have age information available and were excluded from the adjusted analyses.
+0	NA	NA	NA	METHODS	Therefore, 16,160 cases and 17,967 controls were included in the unadjusted analyses and 15,272 cases and 17,115 controls were included in the adjusted analyses.
+0	NA	NA	NA	METHODS	The primary analysis utilized the unadjusted model given the larger sample size this provided.
+0	NA	NA	NA	METHODS	See Supplementary Figure 2 for QQ plots of unadjusted and adjusted analyses
+0	NA	NA	NA	METHODS	We tested association with LOAD using the score test and 'seqMeta' package.
+0	NA	NA	NA	METHODS	Analyses were conducted under the two models described above, in the analysis groups indicated in Supplementary Table 2.
+0	NA	ACE	NA	METHODS	Analyses were undertaken globally in the GERAD/PERADES cohort and by Country in the IGAP cohorts, with the EADI1 cohort only including French participants and the ACE cohort including only Spanish participants.
+0	NA	NA	NA	METHODS	Following the format of the IGAP mega meta-analysis, four PCs were included for the EADI1 dataset, and one in the Italian and Swedish IGAP clusters.
+0	NA	NA	NA	METHODS	Meta-analysis was undertaken in the SeqMeta R package
+1	NA	ABI3	NA	METHODS	Association analyses performed followed Stage 1 and Stage 2 analytical procedures described below, and only variants in ABI3, PLCG2 and TREM2 were examined.
+1	NA	ABI3	NA	METHODS	For gene-based testing, 10 variants in ABI3, 35 in PLCG2, and 13 in TREM2 were examined
+0	NA	NA	NA	METHODS	The eight biological pathway clusters previously identified as enriched for association in the IGAP dataset were tested for enrichment in this rare variation study (Supplementary Table 15) in order to test whether the biological enrichments observed in common variants also apply to rare variants.
+0	NA	NA	NA	METHODS	Genes were defined without surrounding genomic sequence, as this yielded the most significant excess of enriched pathways in the common variation dataset.
+0	NA	NA	NA	METHODS	Gene-wide SKAT-O P-values for the variants of interest were combined using the Fisher's combined probability test.
+0	NA	NA	NA	METHODS	Given the low degree of LD between rare variants our primary analyses did not control for LD between pathway genes.
+0	NA	apolipoprotein E	NA	METHODS	However, as a secondary analysis, the APOE region was removed, and for each pair of pathway genes within 1Mb of each other, the gene with the more significant SKAT-O P-value was removed.
+0	NA	NA	NA	METHODS	This highly conservative procedure removes any potential bias in the enrichment test both from LD between the genes, and also from dropping less significant genes from the analysis
+0	NA	NA	NA	METHODS	We also performed pathway analyses on the rare variant data presented here using all 9,816 pathways used previously.
+0	NA	NA	NA	METHODS	The top pathways are related to lipoprotein particles, cholesterol efflux, B-cell differentiation and immune response, and closely parallel the common variant results (Supplementary Table 16)
+0	NA	NA	NA	METHODS	"Choose a gene to start the network (the ""seed"" gene"
+0	NA	NA	NA	METHODS	For each remaining gene in the set of 151 genes, add it to the network if its corresponding protein shows a high-confidence protein interaction with a protein corresponding to any gene already in the network
+0	NA	NA	NA	METHODS	Repeat step 2 until no more genes can be adde
+0	NA	NA	NA	METHODS	Repeat, choosing each of the 151 genes in turn as the seed gene
+0	NA	NA	NA	METHODS	Previous analysis of normal brain co-expression networks identified 4 gene modules that were enriched for common variants associated with AD risk in the IGAP GWAS.
+0	NA	NA	NA	METHODS	Each of these 4 modules was also found to be enriched for immune-related genes.
+0	NA	NA	NA	METHODS	The 151 genes present in 2 or more of these 4 modules were particularly strongly enriched for IGAP GWAS association.
+0	NA	NA	NA	METHODS	This set of 151 co-expressed genes thus contains genes of relevance to AD aetiology.
+0	NA	NA	NA	METHODS	To identify these genes, and clarify biological relationships between them for future study, protein interaction analysis was performed.
+0	NA	NA	NA	METHODS	First, a list of high-confidence (confidence score >0.7) human protein-protein interactions was downloaded from the latest version (v10) of the STRING database (http://string-db.org).
+0	NA	NA	NA	METHODS	Then, protein interaction networks were generated as follows:
+0	NA	NA	NA	METHODS	The largest protein interaction network resulting from this procedure resulted in a network of 56 genes connected by high-confidence protein interactions.
+0	NA	NA	NA	METHODS	To test whether this network was larger than expected by chance, given the total number of protein-protein interactions for each gene, random sets of 151 genes were generated, with each gene chosen to have the same total number of protein-protein interactions as the corresponding gene in the actual data.
+0	NA	NA	NA	METHODS	Protein networks were generated for each gene as described above, and the size of the largest such network compared to the observed 56-gene network.
+0	NA	NA	NA	METHODS	1000 random gene sets were generated, and none of them yielded a protein interaction network as large as 56 genes.
+0	NA	NA	NA	METHODS	Note that the procedure for generating the protein interaction network relies only on protein interaction data, and is agnostic to the strength of GWAS or rare-variant association for each gene.
+0	NA	NA	NA	METHODS	Thus the strength of genetic association in the set of 56 network genes can be tested relative to that in the original set of 151 genes without bias
+0	NA	NA	NA	METHODS	The set of 56 network genes was tested for association enrichment in the IGAP GWAS using ALIGATOR, as was done in the original pathway analysis, using a range of p-value thresholds for defining significant SNPs (and thus the genes containing those SNPs).
+0	NA	NA	NA	METHODS	The same analysis was also performed on the 95 genes in the module overlap but not the protein interaction network (Supplementary Table 17).
+0	NA	NA	NA	METHODS	It can be seen that the 56 network genes account for most of the enrichment signal observed in the set of 151 module overlap genes
+0	NA	MAF>1%	NA	METHODS	The set of 56 network genes, the set of 151 module overlap genes, and the set of 95 genes in the module overlap but not the network were tested for enrichment of association signal in variants with MAF<1% using the gene set enrichment method described above in section 11.
+0	NA	MAF>1%	NA	METHODS	Both the set of 151 genes (P=1.17x10-6) and the subset of 56 genes (P =1.08x10-7) show highly significant enrichment for association in the rare variants with MAF<1%.
+0	NA	NA	NA	METHODS	It can be seen that the 56 network genes account for most of the enrichment signal observed in the set of 151 module overlap genes (Supplementary Table 17).
+0	NA	NA	NA	METHODS	Again, the subset of 56 genes accounts for most of the enrichment signal observed in the set of 151 genes, as the remaining 95 genes have only nominally-significant enrichment (P=0.043).
+0	NA	apolipoprotein E	NA	METHODS	Both the set of 151 genes (P=5.15x10-5) and the subset of 56 genes (P=2.98x10-7) show significant enrichment under a conservative analysis excluding the APOE region and correcting for possible LD between the genes (Supplementary Table 17).
+0	NA	NA	NA	METHODS	Thus, the rare variants show convincing replication of the biological signal observed in the common variant GWAS, and furthermore, the protein network analysis has refined this signal to a set of 56 interacting genes.
+1	NA	TREM2	NA	METHODS	Given that TREM2 has a highly significant gene-wide p-value (P=1.01x10-13) among variants with MAF<1%, enrichment analyses were run omitting it.
+1	NA	TREM2	NA	METHODS	Both the set of 151 genes (P=2.78x10-3) and the subset of 56 genes (P=0.010) (Supplementary Table 18) still showed significant enrichment of signal, suggesting that the contribution of rare variants to disease susceptibility in these networks is not restricted to TREM2.
+0	NA	NA	NA	METHODS	Biological follow-up of genetic results is labour-intensive and expensive.
+0	NA	NA	NA	METHODS	It is therefore important to concentrate such work on the genes that are most important to AD susceptibility.
+0	NA	NA	NA	METHODS	Thus, the rationale for reducing the gene set is that it defines a network of genes that are not only related through co-expression and protein interaction, but also show enrichment for genetic association signal.
+0	NA	NA	NA	METHODS	These genes are therefore strong candidates for future biological study
+1	NA	PLCG2	NA	METHODS	We examined mRNA expression of the novel genes PLCG2 and ABI3 in neuropathologically characterized brain post-mortem tissue (508 persons): they are expressed at low levels in the dorsolateral prefrontal cortex of subjects from two studies of aging with prospective autopsy (ranked 12,965th out of 13,484 expressed genes).
+1	NA	ABI3	NA	METHODS	However, ABI3 and PLCG2 were more highly expressed in purified microglia/macrophage from the cortex of 11 subjects from these cohorts (1740th and 2600th respectively out of the 11,500 expressed genes)(unpublished data).
+1	NA	PLCG2	NA	METHODS	These findings are consistent with the high levels of expression of both PLCG2 and ABI3 in peripheral monocytes, spleen, and whole blood reported by the ROADmap project and in microglia as reported by Zhang et al.
+1	NA	PLCG2	NA	METHODS	From the same brain tissue, we examined methylation (n=714) and H3K9ac acetylation (n=676) data and found differential methylation at four CpG sites and lower acetylation at two H3K9ac sites adjacent to PLCG2 and ABI3 in relation to increased global neuritic plaque and tangle burden (FDR < 0.05).
+1	NA	TREM2	NA	METHODS	Similarly, high TREM2 expression has been shown to correlate with increasing neuritic plaque burden
+0	NA	NA	NA	METHODS	RNA sequencing was used to measure gene expression levels in the temporal cortex of 80 subjects with pathologically confirmed AD and 76 controls without any neurodegenerative pathologies obtained from the Mayo Clinic Brain Bank and the Banner Sun Health Institute.
+0	NA	NA	NA	METHODS	The human RNA sequencing data is deposited in the Accelerating Medicines Partnership-AD (AMP-AD) knowledge portal housed in Synapse (https://www.synapse.org/#!Synapse:syn2580853/wiki/66722).
+0	NA	NA	NA	METHODS	After QC, our postmortem human cohort has 80 subjects with pathologically confirmed AD and 76 controls without any neurodegenerative pathologies.
+0	NA	NA	NA	METHODS	Assuming two samples of 100 per group, two-sample t-test, same standard deviation, we will have 80% power to detect effect sizes of 0.40, 0.49 and 0.59 at p<0.05, 0.01 and 0.001, respectively, where effect size is the difference in means between two groups divided by the within-group standard deviation.
+0	NA	NA	NA	METHODS	The human RNA sequencing data overview, QC and analytic methods are available at the following Synapse pages, respectively: syn3163039, syn6126114, syn6090802.
+0	death	NA	NA	METHODS	Multivariable linear regression was used to test for association of gene expression levels with AD diagnosis (Dx) using two different models: In the Simple model, we adjust for age at death, sex, RNA integrity number (RIN), tissue source, and RNAseq flowcell.
+0	Alzheimer's disease	OLIG2	NA	METHODS	In the Comprehensive model, we adjust for all these covariates, and brain cell type markers for five cell-specific genes (CD68 (microglia), CD34 (endothelial), OLIG2 (oligodendroglia), GFAP (astrocyte), ENO2 (neuron)) to account for cell number changes that occur with AD neuropathology.
+1	NA	TREM2	NA	METHODS	TREM2, PLCG2 and ABI3 are significantly higher in AD temporal cortex prior to correcting for cell types (Simple model), but this significance is abolished after adjusting for cell-specific gene counts (Comprehensive model).
+1	NA	TREM2	NA	METHODS	This suggests that these elevations are likely a consequence of changes in cell types that occur with AD, most likely microgliosis given that TREM2, PLCG2 and ABI3 are microglia-enriched genes (Supplementary Table 19, Supplementary Figure 12)
+0	NA	NA	NA	AUTH_CONT	Superscript number refers to institutional affiliation.
+0	NA	NA	NA	AUTH_CONT	This can be found below the main author list at the beginning of this article
+0	NA	Ron	NA	AUTH_CONT	"Rebecca Sims1, Nandini Badarinarayan1, Rachel Raybould1, Stefanie Heilmann-Heimbach12,13, Maria Vronskaya1, Per Hoffmann12,13,21, Markus M. Nothen12,13, Wolfgang Maier30,31, Stefan Herms12,13,21, Andreas J. Forstner12,13, Denise Harold35, Rhodri Thomas1, Taniesha Morgan1, Nicola Denning1, Elisa Majounie1, Michelle K Lupton43,44, Christopher Medway47, Kristelle Brown47, Bernadette McGuinness50, Petra Proitsi43, Pau Pastor54, Ana Frank-Garcia56,57,58, Ina Giegling63, Harald Hampel65,66,67, Patrizia Mecocci54, Virginia Boccardi54, Martin Scherer72, Markus Leber74, Steffi Riedel-Heller76, Anne Braae79, Carlo Masullo83, Gianfranco Spalletta86, Paola Bossu86, Eleonora Sacchinelli86, Pascual Sanchez-Juan37, Frank Jessen30,31,74, John Morris97,98, Chris Corcoran100, JoAnn Tschanz100, Maria Norton100, Ron Munger100, Maria J Bullido57,58,106, Eliecer Coto107, Victoria Alvarez107, Maura Gallo116, Amalia Cecilia Bruni116, Martin Dichgans119,120, Daniela Galimberti122, Elio Scarpini122, Michelangelo Mancuso127, Ubaldo Bonuccelli127, Antonio Daniele129, GERAD/PERADES, Oliver Peters131, Benedetta Nacmias132,133, Matthias Riemenschneider134, Reinhard Heun31, Carol Brayne135, David C Rubinsztein123, Jose Bras136,137, Rita Guerreiro136,137, John Hardy136, Ammar Al-Chalabi138, Christopher E Shaw138, John Collinge139, David Mann140, Magda Tsolaki141, Jordi Clarimon58,142, Rebecca Sussams143, Simon Lovestone144, Michael C O'Donovan1, Michael J Owen1, Simon Mead139, Clive Holmes143, John Powell43, Kevin Morgan47, Peter Passmore50, Dan Rujescu63, Sara Ortega-Cubero58,154, John ""Keoni"" Kauwe157, Lesley Jones1, Valentina Escott-Price1, Peter A Holmans1, Alfredo Ramirez12,31,74, Julie Williams1"
+0	WBS	NA	NA	AUTH_CONT	Rebecca Sims, Valentina Escott-Price, Michael C O'Donovan, Michael J Owen, Peter A. Holmans, Julie William
+0	WBS	Ron	NA	AUTH_CONT	"Markus M. Nothen, Wolfgang Maier, Stefan Herms, Andreas J. Forstner, Julie Williams, Alfredo Ramirez, Michelle K Lupton, Christopher Medway, Kristelle Brown, Bernadette McGuinness, Petra Proitsi, Pau Pastor, Ana Frank-Garcia, Ina Giegling, Harald Hampel, Patrizia Mecocci, Virginia Boccardi, Martin Scherer, Markus Leber, Steffi Riedel-Heller, Anne Braae, Carlo Masullo, Gianfranco Spalletta, Paola Bossu, Eleonora Sacchinelli, Pascual Sanchez-Juan, Frank Jessen, John Morris, Chris Corcoran, JoAnn Tschanz, Maria Norton, Ron Munger, Maria J Bullido, Eliecer Coto, Victoria Alvarez, Maura Gallo, Amalia Cecilia Bruni, Martin Dichgans, Daniela Galimberti, Elio Scarpini, Michelangelo Mancuso, Ubaldo Bonuccelli, Antonio Daniele, Oliver Peters, Benedetta Nacmias, Matthias Riemenschneider, Reinhard Heun, Carol Brayne, David C Rubinsztein, Ammar Al-Chalabi, Christopher E Shaw, John Collinge, David Mann, Magda Tsolaki, Jordi Clarimon, Rebecca Sussams, Simon Lovestone, Simon Mead, Clive Holmes, John Powell, Kevin Morgan, Peter Passmore, Dan Rujescu, Sara Ortega-Cubero, John ""Keoni"" Kauwe"
+0	WBS	Rita	NA	AUTH_CONT	Rebecca Sims, Rachel Raybould, Stefanie Heilmann-Heimbach, Per Hoffmann, Rhodri Thomas, Taniesha Morgan, Nicola Denning, Alfredo Ramirez, Julie Williams, Jose Bras, Rita Guerreiro, John Hard
+0	NA	NA	NA	AUTH_CONT	Rebecca Sims, Nandini Badarinarayan, Maria Vronskaya, Denise Harold, Elisa Majounie, Peter A. Holman
+0	NA	NA	NA	AUTH_CONT	Adam C. Naj3, Brian W. Kunkle8, Eden R. Martin8,11, Amanda B. Kuzma16, Robert R. Graham20, Badri N. Vardarajan23,24,25, Kara L. Hamilton-Nelson8, Gary W. Beecham8,11, Cory C. Funk34, Hongdong Li34, Otto Valladares16, Liming Qu16, Yi Zhao16, John Malamon16, Beth Dombroski16, Patrice Whitehead8, Shubhabrata Mukherjee48, Laura B. Cantwell16, Jeremy D. Burgess51, Mariet Allen51, Nathan D Price34, Paramita Chakrabarty60, Xue Wang51, Paul K. Crane48, Robert C. Barber71, Perrie M. Adams73, Marilyn S. Albert75, Duane Beekly78, Deborah Blacker81,82, Rachelle S. Doody85, Thomas J. Fairchild89, Matthew P. Frosch92, Bernardino Ghetti93, Ryan M. Huebinger94, M. Ilyas Kamboh95,96, Mindy J. Katz99, C. Dirk Keene101, Walter A. Kukull88, Eric B. Larson48,104, Richard B. Lipton99, Thomas J. Montine101, Ronald C. Petersen109, Eric M. Reiman112,113,114,115, Joan S. Reisch59,117, Donald R. Royall118, Mary Sano121, Peter St George-Hyslop123,124, Debby W. Tsuang125,126, Ashley R. Winslow128, Chuang-Kuo Wu130, ADGC, Timothy W. Behrens20, Alison M. Goate98a, Carlos Cruchaga97,98, Todd E. Gold60,146, Nilufer Ertekin-Taner51,109, Steven G Younkin51,109, Dennis W. Dickson51, Hakon Hakonarson156, Lindsay A. Farrer14, Johnathan Haines159, Richard Mayeux23,24,25, Margaret A. Pericak-Vance8,11, Li-San Wang16, Gerard D. Schellenberg16
+0	NA	NA	NA	AUTH_CONT	Ashley R. Winslow, Shubhabrata Mukherjee, Paul K. Crane, Robert C. Barber, Perrie M. Adams, Marilyn S. Albert, Deborah Blacker, Rachelle S. Doody, Thomas J. Fairchild, Matthew P. Frosch, Bernardino Ghetti, Ryan M. Huebinger, M. Ilyas Kamboh, Mindy J. Katz, C. Dirk Keene, Eric B. Larson, Richard B. Lipton, Thomas J. Montine, Ronald C. Petersen, Eric M. Reiman, Joan S. Reisch, Donald R. Royall, Mary Sano, Peter St George-Hyslop, Debby W. Tsuang, Chuang-Kuo Wu, Alison M. Goate, Carlos Cruchaga, Steven G Younkin, Dennis W. Dickson, Walter A. Kukull, Nilufer Ertekin-Tane
+0	NA	NA	NA	AUTH_CONT	Otto Valladares, Liming Qu, Yi Zhao, John Malamon, Cory C. Funk, Hongdong Li, Jeremy D. Burgess, Mariet Allen, Nathan D Price, Paramita Chakrabarty, Xue Wang, Todd E. Golde, Hakon Hakonarson, Timothy W. Behrens, Beth Dombroski, Walter A. Kukull, Nilufer Ertekin-Tane
+0	NA	NA	NA	AUTH_CONT	Adam C. Naj, Brian W. Kunkle, Eden R. Martin, Amanda Partch, Robert R. Graham, Badri N. Vardarajan, Kara L. Hamilton-Nelson, Gary W. Beecha
+0	NA	NA	NA	AUTH_CONT	Gerard D. Schellenberg, Laura B. Cantwell, Duane Beekly, Patrice Whitehea
+0	NA	NA	NA	AUTH_CONT	S. J. van der Lee, Joshua C. Bis, Philip L. De Jager, Vilmundur Gudnason, Anita L. DeStefano, Lenore J. Launer, Najaf Amin, Cornelia M. van Duijn, Sudha Seshadri
+0	NA	NA	NA	AUTH_CONT	Sven J. van der Lee, Agustin Ruiz, Fernando Rivadeneira, Andre G., Uitterlinden, Joshua C. Bis, Megan L. Grove, Helena Schmidt, Johanna Jakobsdottir, Albert V. Smith, Jennifer A. Brody, Myriam Fornage, Xueqiu Jian, Honghuang Lin, L. Adrienne Cupples, Daniel Levy, Qiong Yang, Thor Aspelund, Eric Boerwinkle, Christopher J. O'Donnell, Merce Boada, Shahzad Ahmad, Sonia Moreno-Grau, Hieab H. Adams, Isabel Henandez, Lluis Tarraga, Oscar Sotolongo-Grau, Najaf Ami
+0	NA	NA	NA	AUTH_CONT	Sven J. van der Lee, Agustin Ruiz, Joshua C. Bis, Megan L. Grove, Helena Schmidt, Johanna Jakobsdottir, Albert V. Smith, Sonia Moreno-Grau, Najaf Amin, Vincent Chouraki, Charles C. White, Seung-Hoan Choi, Josee Dupuis, Yuning Chen, Shuo Li, Anita L. DeStefan
+0	NA	NA	NA	AUTH_CONT	Sven J. van der Lee, Agustin Ruiz, Joshua C. Bis, Johanna Jakobsdottir, Vincent Chouraki, Charles C. White, Cornelia M. van Duijn, Sudha Seshadr
+0	NA	NA	NA	AUTH_CONT	Celine Bellenguez4,5,6, Anne Boland9, Benjamin Grenier-Boley4,5,6, Kristel Sleegers17,18, Robert Olaso9, Mikko Hiltunen26,27, Jacques Epelbaum29, Cecile Dulary9, Celine Derbois9, Delphine Bacq9, Alessio Squassina36, Pascual Sanchez-Juan37, Florentino Sanchez Garcia38, Maria Candida Deniz Naranjo38, David Wallon41,42, Laura Fratiglioni45,46, Lina Keller46, Francesco Panza49, Vincenzo Solfrizzi52, Davide Seripa53, Didier Hannequin42,55, Paolo Caffarra61,62, Vimantas Giedraitis64, Lars Lannfelt64, Florence Pasquier69,70, EADI, Martin Ingelsson64, Caroline Graff45,147, Onofre Cambarros37, Claudine Berr150,151,152, Jean-Francois Dartigues153, Dominique Campion41,42, Christine Van Broeckhoven17,18, Christophe Tzourio160,161, Jean-Francois Deleuze9, Philippe Amouyel4,5,6,69, Jean-Charles Lambert4,5,6
+0	Garcia-Ortiz6	NA	NA	AUTH_CONT	Jacques Epelbaum, David Wallon, Didier Hannequin, Florence Pasquier, Claudine Berr, Jean-Francois Dartigues, Dominique campion, Christophe Tzourio, Phillippe Amouyel, Jean-Charles Lambert, Vincent Dermecourt, Nathalie Fievet, Olivier Hanon, Carole Dufouil, Alexis Brice, Karen Ritchie, Bruno Dubois, Kristel Sleegers, Mikko Hiltunen, Maria Del Zompo, Ignacio Mateo, Florentino Sanchez Garcia, Maria Candida Deniz Naranjo, Laura Fratiglioni, Lina Keller, Francesco Panza, Paolo Caffarra, Lars Lannfelt, Martin Ingelsson, Caroline Graff, Onofre Cambarros, Christine Van Broeckhoven, Sebastien Engelborghs, Rik Vandenberghe, Peter P. De Deyn, Alession Squassina, Pascual Sanchez-Juan, Carmen, Munoz Fernadez, Yoland Aladro Benito, Hakan Thonberg, Charlotte Forsell, Lena Lilius, Anne Kinhult-stahlbom, Vilmantas Giedraitis, Lena Kilander, RoseMarie Brundin, Letizia Concari, Seppo Helisalmi, Anne Maria Koivisto, Annakaisa Haapasalo, Vincenzo Solfrizzi, Vincenza Frisard
+0	NA	NA	NA	AUTH_CONT	Anne Boland, Robert Aloso, Cecile Dulary, Celine Derbois, Delphine Bacq, Jean-Francois Deleuze, Fabienne Garzia, Feroze Golamaully, Gislain Septie
+1	NA	PLCG2	NA	FIG	Association plots of PLCG2, ABI3, and TREM2.
+0	NA	PLCG2	NA	FIG	(a) Regional plot of identified association at the PLCG2 locus.
+0	NA	NA	rs72824905	FIG	Top hit rs72824905 indicated in purple.
+0	NA	NA	rs72824905	FIG	Data presented for rs72824905 includes stage 1, stage 2 and stage 3 (N=84,905).
+1	NA	ABI3	NA	FIG	(b) Regional plot of identified association at the ABI3 locus.
+1	NA	NA	rs616338	FIG	Top hit rs616338 indicated in purple.
+1	NA	NA	rs616338	FIG	Data presented for rs616338 includes stage 1, stage 2 and stage 3 (N=84,493).
+1	NA	TREM2	NA	FIG	(c) Regional plot of identified association at the TREM2 locus.
+0	NA	NA	R47H	FIG	Top hit rs75932628 indicated in purple.
+1	NA	NA	R47H	FIG	Data presented for rs75932628 and rs143332484 includes stage 1, stage 2 and stage 3 (N=80,733 and 53,042, respectively).
+0	NA	NA	NA	FIG	SNVs with missing LD information are shown in grey
+0	NA	NA	NA	FIG	Protein-protein interaction network (using high-confidence human interactions from the STRING database) of 56 genes enriched for both common and rare variants associated with AD risk.
+0	NA	NA	NA	FIG	Colours of edges refer to the type of evidence linking the corresponding proteins: red=gene fusion, dark blue = co-occurrence, black = co-expression, magenta = experiments, cyan=databases, light green = text mining, mauve = homology.
+1	NA	TREM2	NA	FIG	TREM2, PLCG2 and ABI3 highlighted by red circles, SYK, CSF1R and TYROBP highlighted by blue circles, and INPP5D, SPI1 and CD33 identified as common variant risk loci, highlighted by black circles
+0	NA	NA	NA	TABLE	Summary of the consortium data sets used for stages 1, 2 and stage 3.
+0	Alzheimer's disease	NA	NA	TABLE	Data are from the Genetic and Environmental Risk for Alzheimer's Disease (GERAD)/Defining Genetic, Polygenic and Environmental Risk for Alzheimer's Disease (PERADES) Consortium, the Alzheimer's Disease Genetic Consortium (ADGC), the Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) and the European Alzheimer's disease Initiative (EADI)(Supplement 1)
+0	NA	NA	NA	TABLE	Summary of stage 1, 2, 3 and combined meta-analysis results for SNVs at P<5x10-8.
+0	NA	NA	NA	TABLE	Data includes p-values, odds ratios (OR), minor allele frequency (MAF) in cases and controls and number of subjects included in each analytical stage.
+0	NA	NA	NA	TABLE	For OR 95% confidence intervals see Supplementary Table 7

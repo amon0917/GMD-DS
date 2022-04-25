@@ -1,0 +1,409 @@
+0	autoimmune disease	NA	NA	ABSTRACT	Genome-wide association studies (GWASs) have identified hundreds of susceptibility genes, including shared associations across clinically distinct autoimmune diseases.
+0	autoimmune disease	NA	NA	ABSTRACT	We performed an inverse chi2 meta-analysis across ten pediatric-age-of-onset autoimmune diseases (pAIDs) in a case-control study including more than 6,035 cases and 10,718 shared population-based controls.
+1	NA	interleukin-2 receptor alpha chain	NA	ABSTRACT	We identified 27 genome-wide significant loci associated with one or more pAIDs, mapping to in silico-replicated autoimmune-associated genes (including IL2RA) and new candidate loci with established immunoregulatory functions such as ADGRL2, TENM3, ANKRD30A, ADCY7 and CD40LG.
+0	NA	NA	NA	ABSTRACT	The pAID-associated single-nucleotide polymorphisms (SNPs) were functionally enriched for deoxyribonuclease (DNase)-hypersensitivity sites, expression quantitative trait loci (eQTLs), microRNA (miRNA)-binding sites and coding variants.
+0	NA	NA	NA	ABSTRACT	We also identified biologically correlated, pAID-associated candidate gene sets on the basis of immune cell expression profiling and found evidence of genetic sharing.
+0	autoimmune disease	TH1	NA	ABSTRACT	Network and protein-interaction analyses demonstrated converging roles for the signaling pathways of type 1, 2 and 17 helper T cells (TH1, TH2 and TH17), JAK-STAT, interferon and interleukin in multiple autoimmune diseases
+0	autoimmune disease	NA	NA	INTRO	Autoimmune diseases affect 7-10% of individuals living in Europe and North America and represent a significant cause of chronic morbidity and disability.
+0	autoimmune disease	NA	NA	INTRO	High rates of familial clustering and comorbidity across autoimmune diseases suggest that genetic predisposition underlies disease susceptibility.
+0	autoimmune thyroid disease	PSC	NA	INTRO	GWASs and immune-focused fine-mapping studies of autoimmune thyroiditis (THY), psoriasis (PSOR), juvenile idiopathic arthritis (JIA), primary biliary cirrhosis (PBC), primary sclerosing cholangitis (PSC), rheumatoid arthritis (RA), celiac disease (CEL), inflammatory bowel disease (IBD, which includes Crohn's disease (CD) and ulcerative colitis (UC)), and multiple sclerosis (MS) have identified hundreds of autoimmune disease-associated SNPs across the genome.
+1	autoimmune disease	PTPN22	rs2476601	INTRO	SNP associations in certain pan-autoimmune loci, such as PTPN22 c.1858C>T (rs2476601), are evident in independent GWASs across multiple autoimmune diseases, whereas others have been uncovered through large-scale meta-analyses (for example, CEL-RA and type 1 diabetes (T1D)-CD) or by searches for known loci from one disease in another (for example, systemic lupus erythematosus (SLE)).
+0	autoimmune disease	NA	NA	INTRO	These studies demonstrate that more than half of genome-wide significant (GWS) autoimmune disease associations are shared by at least two distinct autoimmune diseases.
+0	NA	NA	NA	INTRO	However, the degree to which common, shared genetic variations may similarly affect the risk of different pAIDs and whether these effects are heterogeneous have not been systematically examined at the genotype level across multiple diseases simultaneously
+0	NA	NA	NA	RESULTS	We performed whole-genome imputation on a combined cohort of more than 6,035 pediatric subjects across ten clinically distinct pAIDs (Supplementary Table 1) and 10,718 population-based control subjects without prior history of autoimmune or immune-mediated disorders.
+0	NA	NA	NA	RESULTS	We performed whole-chromosome phasing and used the 1,000 Genomes Project Phase I Integrated cosmopolitan reference panel (1KGP-RP) for imputation as previously described (SHAPEIT and IMPUTE2).
+0	NA	NA	NA	RESULTS	Only individuals of self-reported European ancestry and confirmed by principal-component analysis (Supplementary Figs.
+0	NA	NA	NA	RESULTS	1 and 2) were included (Online Methods).
+0	NA	MAF>1%	NA	RESULTS	Rare (minor allele frequency (MAF) < 1%) and poorly imputed (INFO score < 0.8) SNPs were removed, leaving a total of 7,347,414 variants
+0	NA	NA	NA	RESULTS	Whole-genome case-control association testing was done using case samples from each of the ten pAIDs and the shared controls, and additive logistic regression was applied with SNPTESTv2.5 (ref.).
+0	NA	NA	NA	RESULTS	There was no evidence of genomic inflation.
+0	NA	NA	NA	RESULTS	To identify shared pAID-association loci, we performed an inverse chi2 meta-analysis, accounting for sample-size variation and the use of a shared control across the ten pAIDs.
+0	NA	NA	NA	RESULTS	We identified 27 linkage disequilibrium (LD)-independent loci, consisting of associated SNPs with r2 > 0.05 within a 1-Mb window where at least one lead SNP reached a conventionally defined GWS threshold (P < 5 x 10-8; Fig.
+0	NA	NA	NA	RESULTS	1 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	1b).
+0	NA	NA	NA	RESULTS	An additional 19 loci reached a genome-wide marginally significant (GWM) threshold at or below PMETA < 1 x 10-6, of which 12 mapped to previously reported autoimmune loci and 7 mapped to putatively novel autoimmune loci (Fig.
+0	NA	NA	NA	RESULTS	1 and Supplementary Table 2a)
+1	NA	CD40LG	NA	RESULTS	We identified five putatively novel GWS loci: CD40LG (PMETA < 8.38 x 10-11), ADGRL2 (PMETA < 8.38 x 10-11), TENM3 (PMETA < 8.38 x 10-11), ANKRD30A (PMETA < 8.38 x 10-11) and ADCY7 (PMETA < 5.99 x 10-9).
+0	autoimmunity of systemic lupus erythematosus	NA	NA	RESULTS	For each lead association locus, we identified the corresponding combination of pAIDs contributing to the association signal by enumerating all 1,023 unique disease combinations (for example, one disease, T1D; two diseases, T1D and SLE; or four diseases, UC, CD, CEL and SLE) and performing association testing to identify the disease combination that yielded the maximum logistic regression Z-score (Online Methods).
+1	NA	ANKRD30A	NA	RESULTS	With the exception of ANKRD30A, the loci were jointly associated with at least two or more pAIDs; for example, CD40LG was shared by CEL, CD and UC (Fig.
+0	NA	NA	NA	RESULTS	1 and Table 1).
+0	NA	NA	NA	RESULTS	Among the 27 GWS lead SNPs, 22 had been reported previously as GWS for at least one of the associated pAIDs (specifically, for the corresponding adult phenotypes) identified by our analysis (Supplementary Tables 1b and 2b).
+1	ankylosing spondylitis	NA	rs62324212	RESULTS	The most widely shared locus, chr4q27:rs62324212, mapping to an intronic SNP in IL21-AS1 and residing just upstream of IL21, was shared across all ten diseases, and three of these associations were novel (THY, ankylosing spondylitis (AS) and common variable immunodeficiency (CVID)).
+0	autoimmune disease	NA	NA	RESULTS	For more than 50% of previously known GWS loci in adult-onset or generalized autoimmune disease, we identified at least one previously unrecognized pAID association (Supplementary Table 2c,d)
+0	NA	HLA	NA	RESULTS	A number of the pAIDs were significantly associated with disease-specific signals mapping to or near the locus encoding HLA-DRB1.
+0	NA	NA	NA	RESULTS	However, even the two most significant LD-independent variants that mapped to this locus and were associated with T1D and JIA, respectively, were disease specific (Supplementary Fig.
+0	NA	NA	NA	RESULTS	3), which suggests that the variants associated with a given disease are distinct.
+0	NA	NA	NA	RESULTS	Although some of these associations were shared by at least two diseases, in no instance was a single signal associated with any of the diseases shared across all other diseases, which further underscores the complexity of signal sharing across the major histocompatibility complex (MHC) (Supplementary Fig.
+0	NA	NA	NA	RESULTS	3b)
+0	NA	NA	NA	RESULTS	We performed in silico analysis to test whether the reported associations could be replicated in an independent data set.
+0	NA	NA	NA	RESULTS	We observed nominally significant replication support for four of the five putatively novel GWS loci, including three instances of disease-specific replication (Supplementary Table 1d).
+1	NA	CD40LG	rs2807264	RESULTS	Among the replicated loci, chrXq26.3 (rs2807264), mapping within 70 Kb upstream of CD40LG, was notable, as we observed disease-specific replication in both UC (P < 4.66 x 10-5) and CD (P < 5.81 x 10-4), as well as cross-autoimmune replication in AS (P < 9.54 x 10-3).
+1	NA	NA	rs2807264	RESULTS	Although rs2807264 was not identified in our analysis as associated with pediatric AS, it is well documented that adult-onset AS and pediatric AS may be biologically different diseases with independent genetic etiologies.
+1	NA	ADCY7	rs77150043	RESULTS	A third disease-specific replication (P < 5.99 x 10-6) was identified in CD for the chr16q12.1 (rs77150043) signal mapping to an intronic position in ADCY7.
+1	NA	CD40LG	NA	RESULTS	This third instance and the replication of the CD40LG locus in UC were both significant, even after a very conservative Bonferonni adjustment for 156 tests (P < 3.21 x 10-4).
+1	NA	ADGRL2	rs2066363	RESULTS	A nominally significant pan-autoimmune replication signal (P < 1.69 x 10-2) was also observed at chr1p31.1 (rs2066363) near LPHN2 in UC, and a replication signal (P < 3.65 x 10-3) was also observed at the chr4q35.1 locus (rs77150043) in PSOR (Supplementary Tables 1d and 2e)
+0	NA	NA	NA	RESULTS	Of the 27 GWS loci, 81% (22) showed evidence of being shared among multiple pAIDs.
+0	NA	NA	NA	RESULTS	These mapped to 77 different SNP-pAID combinations, 44 of which had been previously reported at or near genome-wide significance (P < 1 x 10-6), whereas 33 represented potentially novel disease-association signals (Table 1 and Supplementary Table 1).
+1	NA	PTPN22	rs2476601	RESULTS	Although PTPN22 c.1858C>T (rs2476601) increases the risk for T1D, the variant is protective against CD.
+0	NA	NA	NA	RESULTS	We identified eight other instances (P < 0.05) where the risk allele shared by the model pAID combination was associated with protection against another pAID (Fig.
+0	NA	NA	NA	RESULTS	2 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	4)
+0	autoimmune disease	NA	NA	RESULTS	To integrate our results with experimental and predictive biological data, we curated four categories of SNP annotations: (1) functional: variants that are exonic, affect transcription, are miRNA targets or tag copy-number polymorphic regions; (2) regulatory: transcription factor (TF)-binding sites and DNase-hypersensitivity sites or eQTL SNPs; (3) conserved: variants with evolutionarily constrained positions or CpG islands; or (4) prior literature support: a gene or locus previously reported to be associated with autoimmune diseases or immune function.
+0	NA	NA	NA	RESULTS	Indeed, 100% of the GWS lead SNPs or their nearby LD proxies (r2 > 0.8 on the basis of 1KGP-RP within 500 Kb up- or downstream) belonged to one or more of these categories (Fig.
+0	NA	NA	NA	RESULTS	3a).
+0	NA	NA	NA	RESULTS	Nevertheless, the majority of the 27 GWS SNPs did not confer direct transcriptional consequences (51% were intronic variants and 28% were intergenic or up- or downstream gene variants), which suggests that many of these SNPs either tag the true causal variants or affect disease risk through regulatory and/or epigenetic mechanisms (Fig.
+0	NA	NA	NA	RESULTS	3b)
+0	NA	NA	NA	RESULTS	To determine whether the set of pAID-associated SNPs was enriched for specific annotation categories, we compared its annotation percentage with the percentages of 10,000 simulated sets of SNPs with MAF > 0.01 drawn from 1KGP-RP for each category.
+0	NA	NA	NA	RESULTS	We found that pAID-associated SNPs were enriched for CpG islands (Pperm < 1.0 x 10-4), TF-binding sites (Pperm < 3.4 x 10-3) and miRNA-binding sites (Pperm < 1.0 x 10-4), among other findings of biological disease relevance (Supplementary Fig.
+0	NA	NA	NA	RESULTS	1d,e)
+0	NA	NA	NA	RESULTS	Recent studies show that gene-based association testing (GBAT) may boost the power of genetic discovery.
+0	NA	NA	NA	RESULTS	We performed GBAT (with VEGAS) using genome-wide summary-level PMETA values.
+0	NA	NA	NA	RESULTS	We identified 182 significant pAID-associated genes (simulation-based Psim < 2.80 x 10-6) on the basis of a Bonferonni adjustment for ~17,500 protein-coding genes in the genome (Supplementary Table 3a).
+0	NA	NA	NA	RESULTS	To illustrate the biological relevance of this set of genes, we examined their transcript levels in a human gene expression microarray data set consisting of 12,000 genes and 126 tissue and/or cell types.
+0	NA	NA	NA	RESULTS	pAID-associated gene expression across immune tissues or cell types (ES-I, 4.05) was notably higher than that across non-immune types (ES-NI, 2.10) on the basis of a one-tailed Wilcoxon rank-sum test (P < 1.66 x 10-10).
+0	NA	NA	NA	RESULTS	When all extended MHC genes were excluded, the average expression of pAID-associated genes remained significantly higher (P < 1.27 x 10-7) for immune (1.043) than for non-immune (0.648) tissues and cell types.
+0	NA	NA	NA	RESULTS	The immune-specific enrichment of pAID-associated gene transcripts was comparable to that observed in adult cohorts; comparatively, schizophrenia-associated genes showed no such enrichment (Fig.
+0	NA	NA	NA	RESULTS	4a and Supplementary Table 3b).
+0	NA	NA	NA	RESULTS	We observed similar results when we used the Kolmogorov-Smirnov test (Supplementary Fig.
+0	NA	NA	NA	RESULTS	5)
+0	NA	NA	NA	RESULTS	We examined the expression of pAID genes across a whole-transcriptome data set comprising more than 200 murine immune cell types isolated by flow cytometry (ImmGen; Online Methods and Supplementary Table 3c).
+0	NA	NA	NA	RESULTS	Genes associated with pAIDs demonstrated differential expression across immune cell types (Supplementary Fig.
+0	NA	NA	NA	RESULTS	6) and showed higher expression than genes associated with non-immune traits, similar to results observed from human tissue data (Fig.
+0	NA	NA	NA	RESULTS	4b).
+0	NA	NA	NA	RESULTS	As the expression levels of these 'pleiotropic' genes varied diversely across immune cell types, we performed agglomerative hierarchical clustering to identify sets of genes sharing similar profiles.
+0	autoimmune disease	NA	NA	RESULTS	Genes that belonged to the same cluster (and thus shared similar expression profiles) were found to be enriched for association with specific individual or multiple autoimmune diseases (Fig.
+0	NA	NA	NA	RESULTS	4c).
+1	NA	ICAM-1	NA	RESULTS	For example, cluster 1 genes, such as ICAM1, CD40, JAK2, TYK2 and IL12B, with known roles in immune effector cell activation and proliferation, were enriched for association with PSC and UC and were associated with both diseases (P < 6.82 x 10-4, one-tailed Fisher's exact test), and the expression of these genes was highest in a small subset of CD11b+ dendritic cells.
+0	NA	PSC	NA	RESULTS	These findings are consistent with the clinical observation that as many as 80% of patients diagnosed with PSC have been diagnosed with UC, and that the risk of PSC is approximately 600-fold higher in patients with UC.
+0	NA	IL19	NA	RESULTS	Cluster 2 genes included genes encoding a number of cytokines and cytokine-response factors, such as IL19, IL20, STAT5A and IL2RA, the products of which regulate effector T cell activation, differentiation and proliferation.
+0	NA	NA	NA	RESULTS	All of these were more broadly expressed across mature natural killer (NK) cells, NK T cells and T cells, as well as neutrophils.
+0	NA	NA	NA	RESULTS	This cluster of genes was enriched for association with MS (P < 9.8 x 10-4), with CEL (marginally) (P < 0.062) and with both diseases (P < 3.41 x 10-4).
+0	NA	ILF3	NA	RESULTS	Genes encoding nucleic acid-binding proteins, such as ILF3, CENPO, MED1 and NCOA3, were enriched in cluster 3.
+0	autoimmunity of systemic lupus erythematosus	NA	NA	RESULTS	Genes in this cluster were jointly associated with SLE and PSOR (P < 0.03), which is consistent with experimental and clinical data demonstrating that early defects in B cell and T cell clonal selection, respectively, may have important roles in the etiology of these diseases
+0	NA	NA	NA	RESULTS	We developed a novel method to specifically examine genome-wide pairwise-association signal sharing (referred to as a GPS test) across the pAIDs (Online Methods).
+0	NA	NA	NA	RESULTS	Only data from the genotyped pAID cohort were used for this analysis.
+0	NA	NA	NA	RESULTS	After Bonferroni adjustment for 45 pairwise combinations, the GPS test identified evidence of sharing between a number of pAID pairs at marginal levels of significance, as reported previously, including T1D-CEL (Pgps < 3.44 x 10-5), T1D-THY (Pgps < 2.03 x 10-3) UC-CD (Pgps < 2.36 x 10-3) and AS-PS (Pgps < 8.15 x 10-3).
+0	CVID	NA	NA	RESULTS	We also identified a strong GPS score for JIA-CVID (Pgps < 6.88 x 10-5).
+0	CVID	NA	NA	RESULTS	The correlations between JIA-CVID (Pgps < 7.30 x 10-5) and UC-CD (Pgps < 7.32 x 10-4) were more significant after the exclusion of markers from within the MHC region (Supplementary Fig.
+0	NA	NA	NA	RESULTS	4b)
+0	autoimmune disease	NA	NA	RESULTS	Finally, we examined evidence of sharing across the full range of autoimmune diseases using ImmunoBase.
+0	CVID	NA	NA	RESULTS	We identified significant associations between UC-CD (P < 2.15 x 10-4) and JIA-CVID (P < 1.44 x 10-6), along with a number of novel pairwise relationships that included autoimmune diseases other than the ten in this study, such as that between Sjogren's disease (SJO)-systemic sclerosis (SS) (P < 1.30 x 10-28) and PBC-SJO (P < 3.86 x 10-12).
+0	NA	NA	NA	RESULTS	We plotted those relationships that were significant after Bonferroni adjustment for 153 pairwise tests using an undirected weighted network (Fig.
+0	NA	NA	NA	RESULTS	5 and Supplementary Table 4).
+1	autoimmune disease	NA	NA	RESULTS	Collectively, these results support genetic sharing between the various autoimmune diseases and allow for further refinement of the shared signals, potentially enabling the application of targeted therapeutic interventions at multiple levels, such as along the CD40L-CD40, JAK-STAT and TH1/TH2-TH17-interleukin signaling pathways
+0	NA	NA	NA	DISCUSS	A major goal of this study was to identify shared genetic etiologies across pAIDs and illustrate how they jointly and disparately affect pAID susceptibility.
+0	NA	NA	NA	DISCUSS	Knowledge of shared genetic etiologies may help pinpoint common therapeutic mechanisms, especially since certain pAIDs (for example, THY, CEL and T1D) exhibit high rates of comorbidity and concordance in twins, and others (for example, CD and UC) cluster in families
+0	NA	NA	NA	DISCUSS	Of the 27 GWS pAID-association loci identified, 81% were shared by at least two pAIDs (Table 1 and Supplementary Table 1).
+0	autoimmune disease	ADGRL2	rs2066363	DISCUSS	Moreover, 5 of the 27 loci were novel signals not previously reported at GWS levels in association with autoimmune diseases, including chr1p31.1 (rs2066363), mapping near ADGRL2, a gene that encodes a member of the latrophilin subfamily of G protein-coupled receptors that regulates exocytosis.
+0	CVID	ADGRL2	NA	DISCUSS	Although this signal was associated with JIA and CVID, a microsatellite study of PBC in a Japanese cohort localized an association signal to a 100-Kb region enclosing ADGRL2 (ref.).
+0	NA	NA	NA	DISCUSS	Nominally significant replication support at this locus was identified in the adult UC cohort from the International IBD Genetics Consortium.
+0	CVID	TENM3	rs7660520	DISCUSS	Both JIA and CVID are among the six pAIDs (THY, AS, CEL, SLE, CVID and JIA) associated with the chr4q35.1 locus (rs7660520), which resides just downstream of TENM3.
+0	autoimmune disease	TENM3	NA	DISCUSS	The observed association with a broad range of pAIDs may be related to eQTL signals in TENM3 SNPs that correlate with serum eosinophil counts and immunoglobulin G (IgG) glycosylation rates; the latter was referenced in a study showing a pleiotropic role for IgG glycosylation-associated SNPs in autoimmune-disease risk susceptibility.
+1	NA	ANKRD30A	rs7100025	DISCUSS	The third novel association was identified near chr10p11.21 (rs7100025), mapping to TF gene ANKRD30A, which encodes an antigen recognized by CD8+ T cell clones.
+1	Inflammation Laboratory's JDRF	ADCY7	rs77150043	DISCUSS	The fourth signal was associated with the inflammatory diseases PSOR and CD near chr16q12.1 (rs77150043), an intronic SNP in ADCY7.
+0	NA	ADCY7	NA	DISCUSS	ADCY7 encodes a member of the adenylate cyclase enzyme family; is strongly expressed in peripheral leukocytes, spleen, thymus and lung tissues; and it is supported by data from studies in mice.
+1	NA	CD40LG	rs34030418	DISCUSS	The fifth novel signal, rs34030418, mapping near CD40LG and associated with CEL, UC and CD, is the ligand of the prominent TNF superfamily receptor CD40 (refs.).
+0	rheumatoid arthritis	CD40	NA	DISCUSS	The CD40 ligand is a particularly compelling candidate, as the locus encoding the CD40 receptor is an established GWAS locus in RA and MS, has been functionally studied in cell culture and animal models, and was the focus of a recent large-scale RA drug-screening effort
+0	NA	NA	NA	DISCUSS	A set of GWS candidate SNPs were enriched for miRNA and TF-binding sites.
+0	NA	miR-22	NA	DISCUSS	We performed a gene-set enrichment analysis using GBAT and identified 39 significant (PBH < 0.05 (BH, Benjamini-Hochberg)) miRNAs, including as top candidates two well-known miRNA families, miR-22 and miR-135a (Supplementary Table 5a).
+0	NA	IRS2	NA	DISCUSS	miR-135a has been shown to target IRS2, a regulator of insulin signaling and glucose uptake, in model systems.
+0	NA	NA	NA	DISCUSS	Our candidate genes were enriched for targets of dozens of TFs, with the most prominent being SP1 (PBH < 2.30 x 10-12), NFAT (PBH < 8.54 x 10-9) and NFKB (PBH < 1.03 x 10-8) (Supplementary Table 5b)
+0	NA	NA	NA	DISCUSS	Using GBAT with DAVID, GSEA, IPA and Pathway Commons, among others, we identified strong enrichment for proteins that act in cytokine signaling; antigen processing and presentation; T cell activation; JAK-STAT activation; and TH1-, TH2- and TH17-associated cytokine signaling (Supplementary Tables 6 and 7).
+0	NA	JAK2	NA	DISCUSS	Of these pathways, JAK2 signaling was particularly compelling (PBH < 6.93 x 10-5), consistent with the enrichment of known protein- protein interactions (PSTRING < 1 x 10-20) (Supplementary Fig.
+0	NA	NA	NA	DISCUSS	7).
+0	CVID	NA	NA	DISCUSS	We also uncovered evidence supporting shared genetic susceptibility for disease pairs that have not yet been well established (for example, JIA-CVID).
+0	CVID	NA	NA	DISCUSS	The association between JIA and CVID is noteworthy, given that CVID actually represents a group of complex immunodeficiencies rather than a classic autoimmune disease.
+0	CVID	NA	NA	DISCUSS	When we examined the overlap between CVID and each of the other pAIDs using both GPS (Padj < 3.10 x 10-3) and locus-specific pairwise sharing (LPS) (Padj < 1.47 x 10-8) network analysis tests, we consistently observed overrepresentation of interaction between CVID and JIA (Fig.
+0	NA	NA	NA	DISCUSS	5 and Supplementary Fig.
+0	NA	NA	NA	DISCUSS	4b).
+1	autoimmune disease	interleukin-2 receptor alpha chain	NA	DISCUSS	Our results show that more than 70% (19) of the 27 GWS loci we identified were shared by at least three autoimmune diseases (Table 1), including both previously reported (for example, IL2RA (six diseases) and IL12B (four diseases)) and novel (for example, TENM3 (six diseases) and CD40LG (three diseases)) signals.
+0	autoimmunity of systemic lupus erythematosus	PSC	NA	DISCUSS	Moreover, using tissue-specific gene set enrichment analysis, we not only highlighted the expected enrichment of genes associated with CEL and SLE in gammadelta T cells, CD4+ T cells and NK T cells but also identified interesting joint enrichment of genes associated with PSC and UC in a set of CD11b+ dendritic cells (Fig.
+0	NA	NA	NA	DISCUSS	4c)
+1	NA	CD40LG	NA	DISCUSS	Many of the shared risk variants in pAIDs affect genes encoding proteins that are established therapeutic targets (for example, CD40L and CD40 (refs.
+0	NA	NA	NA	DISCUSS	)), and a number of the genes identified here have diverse biological effects and are currently being explored for clinical uses.
+0	NA	NA	NA	DISCUSS	Consequently, drug-repurposing approaches may present feasible options in pAIDs, where these gene networks and pathways could be targeted in an expedited manner
+0	NA	NA	NA	METHODS	Methods and any associated references are available in the online version of the paper
+0	NA	NA	NA	METHODS	Affected subjects and controls were identified either directly as described in prior studies or from de-identified samples and associated electronic medical records (EMRs) in the genomics biorepository at The Children's Hospital of Philadelphia (CHOP).
+0	CVID	NA	NA	METHODS	The predominant majority (>80%) of the included cases for IBD, T1D and CVID have been described in previous publications
+0	NA	NA	NA	METHODS	Details of each study population are outlined below.
+0	NA	NA	NA	METHODS	EMR searches were conducted with previously described algorithms based on phenotype mapping established using phenome-wide association study (PheWAS) ICD-9 code mapping tables in consultation with qualified physician specialists for each disease cohort.
+0	NA	NA	NA	METHODS	All DNA samples were assessed for quality control (QC) and genotyped on the Illumina HumanHap550 or HumanHap610 platform at the Center for Applied Genomics (CAG) at CHOP.
+0	NA	NA	NA	METHODS	Note that the patient counts below refer to the total recruited sample size from which we excluded non-qualified samples or genotypes that did not pass QC criteria required for inclusion in the genetic analysis (for example, because of relatedness or poor genotyping rate)
+0	NA	NA	NA	METHODS	The IBD cohort comprised 2,796 individuals between the ages of 2 and 17, of European ancestry, and with biopsy-proven disease, including 1,931 with CD and 865 with UC and excluding all patients with unclassified IBD.
+0	NA	NA	NA	METHODS	Affected individuals were recruited from multiple centers from four geographically discrete countries and were diagnosed before their 19th birthday according to standard IBD diagnostic criteria, as previously reported
+0	diabetes	NA	NA	METHODS	The T1D cohort consisted of 1,120 subjects from nuclear family trios (one affected child and two parents), including 267 independent Canadian T1D patients collected in pediatric diabetes clinics in Montreal, Toronto, Ottawa and Winnipeg and 203 T1D patients recruited at CHOP since September 2006.
+0	NA	NA	NA	METHODS	All patients were Caucasian by self-report and between 3 and 17 years of age, with a median age at onset of 7.9 years.
+0	NA	insulin	NA	METHODS	All patients had been treated with insulin since diagnosis.
+0	NA	NA	NA	METHODS	Disease diagnosis was based on these clinical criteria, rather than on any laboratory tests
+0	Arthritis	NA	NA	METHODS	The JIA cohort was recruited in the United States, Australia and Norway and comprised a total of 1,123 patients with onset of arthritis at less than 16 years of age.
+0	NA	NA	NA	METHODS	JIA diagnosis and JIA subtype were determined according to the International League of Associations for Rheumatology (ILAR) revised criteria and confirmed using the JIA Calculator (http://www.jra-research.org/JIAcalc/), an algorithm-based tool adapted from the ILAR criteria.
+0	NA	NA	NA	METHODS	Prior to standard QC procedures and exclusion of non-European ancestry, the JIA cohort comprised 464 subjects of self-reported European ancestry from Texas Scottish Rite Hospital for Children (Dallas, Texas, USA) and the Children's Mercy Hospitals and Clinics (Kansas City, Missouri, USA); 196 subjects from CHOP; 221 subjects from the Murdoch Children's Research Institute (Royal Children's Hospital, Melbourne, Australia); and 504 subjects from Oslo University Hospital (Oslo, Norway)
+0	CVID	NA	NA	METHODS	The CVID study population consisted of 223 patients from Mount Sinai School of Medicine (MSSM; New York, New York, USA), 76 patients from University of Oxford, (London, England), 47 patients from CHOP, and 27 patients from University of South Florida (USF; Tampa, Florida, USA).
+0	NA	NA	NA	METHODS	The diagnosis in each case was validated against the ESID-PAGID diagnostic criteria, as previously described.
+0	CVID	NA	NA	METHODS	Although the diagnosis of CVID is most commonly made in young adults (ages 20-40), all of the CHOP and USF subjects had pediatric-age-of-onset disease, whereas the majority of the subjects from MSSM and Oxford had onset in young adulthood.
+0	CVID	NA	NA	METHODS	We note that as the number of individuals with adult-onset CVID is so small (less than 5% of all cases presented) and all ten diseases studied here can present with pediatric age of onset, we elected to refer to the cohort material as pAID
+0	autoimmunity of systemic lupus erythematosus	NA	NA	METHODS	The balance of the pediatric subjects' (THY, AS, PSOR, CEL and SLE ; a full list of phenotype abbreviations is provided in Supplementary Table 8) samples were derived from our biorepository at CHOP, which includes more than 50,000 pediatric patients recruited and enrolled by CAG at CHOP (Supplementary Table 9a includes details of genotyped subjects within the CAG pediatric biobank).
+0	autoimmunity of systemic lupus erythematosus	SPA	NA	METHODS	These individuals were confirmed for diagnosis of THY, SPA, PSOR, CEL and SLE in the age range of 1-17 years at the time of diagnosis and were required to fulfill the clinical criteria for these respective disorders, as confirmed by a specialist.
+0	NA	NA	NA	METHODS	Only patients that upon EMR search were confirmed to have at least two or more in-person visits, at least one of which was with the specified ICD-9 diagnosis code(s), were pursued for clinical confirmation (Supplementary Table 9b presents ICD-9 inclusion and exclusion codes).
+0	NA	NA	NA	METHODS	We used ICD-9 codes previously identified and used for PheWASs or EMR-based GWASs and agreed upon by board-certified physicians
+0	autoimmune disease	NA	NA	METHODS	Age- and gender-matched control subjects were identified from the CHOP-CAG biobank and selected by exclusion of any patient with any ICD-9 codes for disorders of autoimmunity or immunodeficiency (http://icd9.chrisendres.com/).
+0	NA	NA	NA	METHODS	Research ethics boards of CHOP and other collaborating centers approved this study, and written informed consent was obtained from all subjects (or their legal guardians).
+0	NA	NA	NA	METHODS	Genomic DNA extraction and sample QC before and after genotyping were performed using standard methods as described previously.
+0	NA	NA	NA	METHODS	All samples were genotyped at CAG on HumanHap550 and 610 BeadChip arrays (Illumina, CA).
+0	NA	NA	NA	METHODS	To minimize confounding due to population stratification, we included only individuals of European ancestry (as determined by both self-reported ancestry and principal-component analysis (PCA)) for the present study.
+0	NA	NA	NA	METHODS	Details of the PCA are provided below
+0	NA	NA	NA	METHODS	We merged the genotyping results from each disease-specific cohort with data from the shared controls before extracting the genotyping results from SNPs common to both Infinium HumanHap550 and 610 BeadChip array platforms and performing genotyping QC.
+0	NA	NA	NA	METHODS	SNPs with a low genotyping rate (<95%) or low MAF (<0.01) or those significantly departing from the expected Hardy-Weinberg equilibrium (HWE; P < 1 x 10-6) were excluded.
+0	NA	NA	NA	METHODS	Samples with low overall genotyping call rates (<95%) or determined to be of outliers of European ancestry by PCA (>6.0 s.d.
+0	NA	NA	NA	METHODS	as identified by EIGENSTRAT) were removed.
+0	NA	NA	NA	METHODS	In addition, one of each pair of related individuals as determined by identity-by-state analysis (PI_HAT > 0.1875) was excluded, with cases preferentially retained where possible
+0	NA	NA	NA	METHODS	To prepare for whole-genome imputation across the entire study cohort, we combined case samples across the 10 pAIDs with the shared control samples.
+0	NA	NA	NA	METHODS	We repeated the genotyping and sample QC with the same criteria as described above, leaving a final set of ~486,000 common SNPs passing individual-cohort and merged-cohort QC.
+0	NA	NA	NA	METHODS	We again performed identity-by-state analysis and removed related samples (in order to remove related subjects that may have been recruited for different disease studies).
+0	NA	NA	NA	METHODS	We also repeated the PCA and removed population outliers.
+0	NA	NA	NA	METHODS	The final cohort, after the application of all QC metrics mentioned above, included a total of 6,035 patients representing ten pAIDs and 10,718 population-matched controls
+0	NA	NA	NA	METHODS	"Note that because of the merged QC, compared with the sum of all ten disease-specific GWASs, the final case and control counts in the merged cohort were smaller than the ""sum of all cases and controls"" (Supplementary Table 1a)."
+0	NA	NA	NA	METHODS	In addition, to avoid the potential for confounding due to the presence of duplicated samples, we assigned individuals fitting the diagnostic criteria for two or more pAIDs to whichever disease cohort had the smaller (or smallest) sample size.
+0	NA	NA	NA	METHODS	No subject was included twice.
+0	NA	NA	NA	METHODS	A total of 160 subjects in the study cohort fulfilled criteria for two or more diseases but were counted only once in our reported total of 6,035 unique subjects
+0	NA	NA	NA	METHODS	We used SHAPEIT for whole-chromosome prephasing and IMPUTE2 (ref.)
+0	NA	NA	NA	METHODS	for imputation to the 1KGP-RP (https://mathgen.stats.ox.ac.uk/impute/impute_v2.html, June 2014 haplotype release).
+0	NA	NA	NA	METHODS	For both, we used parameters suggested by the developers of the software and described elsewhere.
+0	NA	NA	NA	METHODS	Imputation was done for each 5-Mb regional chunk across the genome, and data were subsequently merged for association testing.
+0	NA	NA	NA	METHODS	Prior to imputation, all SNPs were filtered using the criteria described above
+0	NA	NA	NA	METHODS	To verify the imputation accuracy, we validated randomly selected SNPs that reached a nominally significant P value after imputation.
+0	NA	NA	NA	METHODS	Because commercially designed genotyping probes were not readily available, we performed Sanger sequencing by designing primers to amplify and sequence the 200-bp region around the imputed SNP markers for two separate 96-well plates.
+0	NA	NA	NA	METHODS	We manually visualized and examined sequences and chromatograms using SeqTrace.
+0	NA	NA	NA	METHODS	Results from this are presented in Supplementary Table 1e, showing >99% mean imputation accuracy
+0	CVID	NA	NA	METHODS	In addition, a subset of the IBD and CVID subjects were subsequently genotyped on the Immunochip (Illumina) platform.
+0	NA	NA	NA	METHODS	We compared the genotype concordance of all pAID GWAS imputed SNPs that were directly genotyped on the Immunochip after performing sample and marker QC as described above.
+0	NA	NA	NA	METHODS	Results are shown in Supplementary Table 1f
+0	NA	NA	NA	METHODS	We performed whole-genome association testing using post-imputation genotype probabilities with the software SNPTEST (v2.5).
+0	NA	NA	NA	METHODS	We used logistic regression to estimate odds ratios and betas, 95% confidence intervals and P values for trend, using additive coding for genotypes (0, 1 or 2 minor alleles).
+0	NA	NA	NA	METHODS	For autosomal regions, we used a score test, whereas for regions on ChrX we used the ChrX-specific SNPTEST method Newml.
+0	NA	NA	NA	METHODS	QC was performed directly after association testing, excluding any SNPs with an INFO score of <0.80, HWE P < 1 x 10-6, and MAF < 0.01 (overall)
+0	NA	NA	NA	METHODS	In all analyses, we adjusted for both gender and ancestry by conditioning on gender and the first ten principal components derived from EIGENSTRAT PCA.
+0	NA	NA	NA	METHODS	The lambdaGC values for all cohorts were within acceptable limits; the highest was observed for the cohort with the largest case sample size, namely, CD (lambdaGC < 1.07), consistent with what was previously reported for this data set.
+0	NA	NA	NA	METHODS	In fact, we have previously reported on all the non-CHOP cases included in the present analysis in individual studies using CHOP controls and shown that these individual case-control analyses were well controlled for genomic inflation.
+0	NA	NA	NA	METHODS	A QQ plot is provided for each independent cohort in Supplementary Figure 2a
+0	NA	NA	NA	METHODS	To identify association loci shared across pAIDs, we meta-analyzed the summary-level test statistics from each of the study cohorts after extracting those markers that passed post-association testing QC for all ten individual disease-specific analyses.
+0	NA	NA	NA	METHODS	To adjust for confounding due to the use of a shared or pooled control population, we applied a previously published method to perform an inverse weighted chi2 meta-analysis
+0	NA	NA	NA	METHODS	We LD-clumped the results of the meta-analysis (PLINK) and identified 27 LD-independent associations (r2 < 0.05 within 500 kB up- or downstream of the lead or most strongly associated SNP) reaching a conventional genome-wide significance threshold of PMETA < 5 x 10-8.
+0	NA	NA	NA	METHODS	We observed that the calculated meta-analysis lambdaGC was less than 1.09.
+0	NA	NA	NA	METHODS	As recently discussed by de Bakker and colleagues and shown in a number of large-scale GWAS publications, lambdaGC is related to sample size.
+0	NA	NA	NA	METHODS	As discussed by Yang et al., lambdaGC depends on the relative contribution of variance due to population structure and true associations versus sampling variance: with no population structure or systematic error, inflation would still depend on heritability, genetic architecture and study sample size.
+0	NA	NA	NA	METHODS	On the basis of de Bakker et al.
+0	NA	NA	NA	METHODS	's recommendations, we also calculated a sample-size-adjusted lambda1000 by interpolating the lambdaGC that would have been expected if this study had included only 1,000 cases and 1,000 controls.
+0	NA	NA	NA	METHODS	We performed this only for the meta-analysis results, as the case and control counts for the meta-analysis were both significantly greater than 1,000 (Supplementary Table 1a)
+0	NA	NA	NA	METHODS	The meta-analysis identified SNPs significantly associated with at least one pAID.
+0	NA	NA	NA	METHODS	To determine which pAIDs each SNP was most strongly associated with, we performed a model or 'disease-combination' search.
+0	multifactorial disease	NA	NA	METHODS	For the lead SNP in each pAID-association locus, we searched for the pAID disease combination that, when the corresponding cases were merged in a mega-analysis, yielded the largest association test statistic
+0	NA	NA	NA	METHODS	"To identify the disease phenotypes most likely contributing to each identified association signal, we applied the ""h.types"" method as implemented in the R statistical software package ASSET to perform an exhaustive disease-subtype model search."
+0	NA	NA	NA	METHODS	"Note that ASSET provides both a method for genotype-level association testing (h.types used in this study) and a summary-level modified fixed-effect meta-analysis approach (""h.traits"") that allows for heterogeneity of SNP effects across different phenotypes."
+0	NA	NA	NA	METHODS	Both methods exhaustively enumerate each combination of phenotypes that are jointly considered, and therefore test a total of  where r is the total number of disease subtypes assigned to cases (for example, ranging from one to ten pAIDs) and n is the total number of disease subtypes (i.e., ten pAIDs).
+0	NA	NA	NA	METHODS	Note that this reduces to 2n - 1 (or 1,023 unique combinations here), as in this case we considered all possibilities of r across n of ten diseases.
+0	NA	NA	NA	METHODS	The ASSET algorithm iteratively tests each pAID case combination using logistic regression to determine whether there is an association between genotype counts and case status.
+0	NA	NA	NA	METHODS	For each SNP tested, the 'optimal' subtype model is the combination of pAIDs that, when tested against the shared controls in the logistic regression analysis produced the best test statistic after the DLM method had been used to correct for multiple testing across all subtype combinations
+0	NA	NA	NA	METHODS	For each of the top 46 associating loci (PMETA< 1 x 10-6), we identified those loci for which the lead SNP had an effect direction (on the basis of logistic regression betas) opposite that reported for the disease combination identified by the subtype model search and whose corresponding association P value reached at least nominal significance (P < 0.05).
+0	NA	NA	NA	METHODS	We identified nine instances
+0	autoimmune disease	NA	NA	METHODS	If the SNP or locus was previously reported in autoimmune diseases at genome-wide significance, we provided the candidate gene symbol, where available, as identified in the GWAS Catalog or ImmunoBase
+0	NA	NA	NA	METHODS	If an SNP was annotated as coding or fell within the coding DNA sequence (i.e., intronic or in the UTRs), we reported that gene as identified by the variant effect predictor (VEP)
+0	NA	NA	NA	METHODS	If the SNP was upstream, downstream, or intergenic, we prioritized the gene by using the best candidate gene identified with the network tool DAPPLE
+0	autoimmune disease	NA	NA	METHODS	If none of the above was feasible, we manually curated the most 'likely' gene on the basis of the observed LD block and evidence of prior association signals with autoimmune diseases or other immune-related phenotypes as presented in the dbSNP or GWAS catalog
+0	NA	NA	NA	METHODS	To annotate the lead SNPs to candidate genes, we prioritized the mapping to candidate genes systematically in the following manner:
+0	NA	NA	NA	METHODS	We annotated the lead pAID-associated SNPs using publicly available functional and biological databases and resources.
+0	NA	NA	NA	METHODS	We considered the top imputed lead SNP for each locus and, in addition, any of its near-perfect proxies (defined as r2 > 0.8 within 500 kB up- or downstream) on the basis of the 1KGP-RP
+0	NA	NA	NA	METHODS	Regulatory annotations: EnCODE (TF-binding sites and DNase-hypersensitivity sites), GTex (eQTLs), and a published lymphoblastoid cell line eQTL data set
+0	NA	GAD	NA	METHODS	Literature search: GAD, NHGRI GWAS catalog, dbGAP, or published Immunochip studies (http://www.immunobase.org) for literature support
+0	NA	NA	NA	METHODS	Gene expression and enrichment analysis: ImmGen (murine) and whole-transcriptome analysis across 126 tissues (human)
+0	NA	NA	NA	METHODS	Pathway-based and gene set enrichment analysis: Gene Ontogeny, Webgestalt, Wikipathways, IPA, DAVID, GSEA, and Pathways Commons
+0	NA	NA	NA	METHODS	Gene network analysis and visualization: DAPPLE and VEP to prioritize candidate causal genes and Grail for text-mining of PubMed database for coassociations
+0	NA	NA	NA	METHODS	We included annotation, expression, interaction and network data from the following resources:
+0	allergy	NA	NA	METHODS	Regulatory: EnCODE consensus TF-binding sites (T), DNase I hypersensitivity sites (S), or published eQTL signals (E
+0	NA	NA	NA	METHODS	Functional: known mutations in PolyPhen or SIFT (A), experimentally validated (miRBASE 18.0) and predicted (mirSNP) miRNA target sites (R), or SNPs that tag regions containing common copy-number variation regions reported by the database of genomic variants (DGV) (V
+0	NA	NA	NA	METHODS	Conserved: conserved nucleotide sequences based on GERP++/phastCon (C) or known CpG islands that correlate with epigenetic methylation patterns (M
+0	Inflammation Laboratory's JDRF	NA	NA	METHODS	Literature-supported: published association with immune or inflammatory diseases or immune-related endophenotypes from candidate studies or GWASs catalogued in the Genetic Association Database, NHGRI GWAS catalog, dbGAP, or Immunochip studies (L
+0	NA	NA	NA	METHODS	Functional and biological annotations (categories 1-5) for the 27 lead SNPs are illustrated in Figure 3a; annotations are also provided for the 46 GWM loci in Supplementary Figure 5.
+0	NA	NA	NA	METHODS	The following annotation types were used:
+0	NA	NA	NA	METHODS	In addition to determining whether the 27 GWS pAID-associated SNPs were enriched for a given annotation type, we performed Monte Carlo simulations to resample 10,000 times the SNPs (MAF > 0.01 in Europeans) from all SNPs in 1KGP-RP.
+0	NA	NA	NA	METHODS	As for the 27 lead SNPs, for each set of 100 randomly sampled SNPs, we expanded the list by first identifying all nearby SNPs in strong LD (i.e., LD proxies with r2 > 0.8 within 500 kB up- or downstream) within the 1KGP-RP data set filtered for only SNPs with MAF > 0.01 in the European population.
+0	NA	NA	NA	METHODS	We then annotated each original and any proxy SNPs as above for each major annotation category.
+0	NA	NA	NA	METHODS	We collapsed the information for all proxies identified for a given lead such that for any given category, if the lead SNP or any of its proxies were annotated, the lead SNP was marked as annotated.
+0	NA	NA	NA	METHODS	We then calculated the frequency of annotation for the 100 SNPs in each set.
+0	NA	NA	NA	METHODS	After sampling and annotating 100-SNP sets 10,000 times, we use the permutation- derived distribution of annotation percentages for each annotation type to calculate an enrichment P value such that  where N is the number of permutations, f is the percentage of SNPs in the pAID set that are annotated and F is the distribution of the percentage of SNPs annotated across 10,000 sets of 100 SNPs resampled from the 1KGP-RP using only markers with MAF > 0.01 in Europeans
+0	NA	NA	NA	METHODS	We performed agglomerative hierarchical clustering across the top 27 independent loci using the directional Z-score obtained from logistic regression analysis in each of the ten disease-specific GWASs, defined as  where beta is the effect size.
+0	NA	NA	NA	METHODS	The standardized and normalized Z-scores were used as inputs to the agglomerative hierarchical clustering.
+0	NA	NA	NA	METHODS	We used Ward's minimal-variance method to identify relatively consistent gene and locus cluster sizes
+0	NA	NA	NA	METHODS	Given our interest in genetic overlap across pAIDs, we sought to identify genes associated with pAIDs in a disease-agnostic manner that was insensitive to locus and phenotypic heterogeneity.
+0	NA	NA	NA	METHODS	We used VEGAS, a set-based method, to perform GBAT
+0	NA	NA	NA	METHODS	As input, we used the nominal PMETA values from the pooled, inverse chi2 meta-analysis for the ten pAIDs across the genome as the input summary statistics for VEGAS, without considering which specific diseases were identified in the model search analysis.
+0	NA	NA	NA	METHODS	We assigned SNPs to gene regions and performed 107 simulations to estimate the gene-based P value as described in VEGAS's documentation.
+0	NA	NA	NA	METHODS	We used two thresholds: Psim < 2.8 x 10-6 to identify significant candidate genes, on the basis of a Bonferroni adjustment for approximately 17,500 genes tested, and a false discovery rate (FDR) of <2%, which corresponds to a q value of <0.0205, which was used only for pathway and gene set enrichment analysis
+0	autoimmune disease	NA	NA	METHODS	With few exceptions, most genes that are known to have a causative role in autoimmune disease have been shown to regulate molecular or subcellular processes in immune or immune-related tissues.
+0	autoimmune disease	NA	NA	METHODS	If candidate pAID-associated genes are relevant to autoimmune-disease biology, then expression of these genes would be expected to be, on average, higher across immune or immune-related tissues (as compared with expression in non-immune-related tissues).
+0	NA	NA	NA	METHODS	Thus, we compared the expression of candidate pAID-associated genes identified by GBAT with that of non-candidate genes in a variety of tissues
+0	NA	NA	NA	METHODS	We curated the expression of the transcriptome in a broad spectrum of human tissues using a publicly available data set consisting of summary-level, normalized gene expression levels for more than 12,000 unique genes across 126 tissues and/or cell types, including a large number of immune tissues and cells.
+0	NA	NA	NA	METHODS	"We downloaded the processed data set ""mean expression data matrix."
+0	NA	NA	NA	METHODS	Across the 126 unique tissues, we tested whether the median or cumulative distribution of expression of pAID-associated gene transcripts as identified by GBAT was higher than that of the remaining transcripts in the data set using a one-sided Wilcoxon rank test or a one-sided Kolmogorov-Smirnov (KS) test, respectively.
+0	NA	NA	NA	METHODS	We calculated a tissue-specific gene expression ES value, which is the -log10 (P value) obtained from comparing the relative enrichment in transcript expression of pAID-associated genes versus the transcripts of the remaining genes in the data set.
+0	NA	NA	NA	METHODS	The tests were done on a per-tissue basis to derive a set of KS and a set of Wilcoxon ES values.
+0	NA	NA	NA	METHODS	We performed this per tissue analysis (1) for the total set of pAID-associated genes from GBAT and (2) when genes across the extended MHC (chr6: 25-34 Mb) were excluded
+0	NA	NA	NA	METHODS	We performed the secondary immune-versus-non-immune comparative analysis by plotting the ES values obtained from either Wilcoxon or KS tests in descending rank order of the respective test statistics, as shown in Figure 4a and Supplementary Figure 6a for all 126 tissue types.
+0	NA	NA	NA	METHODS	In those figures each point represents a single tissue and is colored according to its classification as either immune (red) or non-immune (blue), as described previously.
+0	NA	NA	NA	METHODS	To formally test whether the overall ES values were higher among immune tissues than among non-immune tissues, we performed both the Wilcoxon rank sum test and the KS test on the vector of per-tissue ES values, comparing those derived from immune and non-immune tissues.
+0	NA	NA	NA	METHODS	We found that the enrichment observed across immune tissues was specific and not general to any GWAS-identified signals.
+0	schizophrenia	NA	NA	METHODS	We repeated this analysis in two sets of candidate genes, one for CD and another for schizophrenia, by identifying all associated genes for the two phenotypes from the NHGRI GWAS Catalog
+0	NA	NA	NA	METHODS	Cells of the immune system are extremely diverse in function and gene expression.
+0	NA	NA	NA	METHODS	To more precisely assess the expression of pAID-associated genes, we examined the mRNA expression of pAID candidate genes across specific immune cell subtypes, as well as during different developmental time points
+0	NA	NA	NA	METHODS	ImmGen provides a publicly available, high-quality murine gene expression data set.
+0	NA	FACS	NA	METHODS	The ImmGen data set consists of 226 murine immune cell types across different lineages at multiple developmental stages, sorted by FACS and assayed at least in triplicate.
+0	NA	NA	NA	METHODS	Standard QC and quantile-normalization methods were applied to the data set as described by ImmGen.
+0	NA	NA	NA	METHODS	The total set of transcripts mapped to 14,624 homologs in the human transcriptome on the basis of genes annotated in the hg18/build36 of the human reference genome, which were used to query the gene expression data
+0	NA	NA	NA	METHODS	Some of the cell types were derived from genetically altered animals, and the results from analysis of those cell types would have been difficult to interpret, so we removed those cell lines from the analysis.
+0	NA	NA	NA	METHODS	The complete list of cell types used in the analysis and the category to which we assigned each cell type for the categorical analysis are presented in Supplementary Table 3c.
+0	NA	NA	NA	METHODS	A total of 176 unique cell lines remained for subsequent analyses using this data set
+0	NA	NA	NA	METHODS	As with the human data set, we calculated the ES values by comparing the expression of the pAID-associated candidate gene transcripts to that of the remaining transcripts assayed in the data set for each immune cell type examined.
+0	NA	NA	NA	METHODS	We plotted the distribution of relative gene expression ES values as a density plot across the range of ES values from all of the examined cell types available.
+0	NA	NA	NA	METHODS	We compared the results obtained using the full set of candidate pAID genes identified by GBAT or obtained when we excluded the genes within the extended MHC.
+0	schizophrenia	NA	NA	METHODS	To ensure that this was not simply a result of selection bias (as GWASs may be biased toward regions or genes across the genome that are better sampled or more densely genotyped), we compared the results to those obtained with the curated gene lists from the GWAS catalog (as above) for CD, schizophrenia, body mass index and LDL cholesterol
+0	NA	NA	NA	METHODS	To determine whether pAID-associated candidate genes are expressed at higher levels (relative to the rest of the genes in the transcriptome) in some immune cell types than in others, we defined immune cell types according to surface marker expression and tissue isolation details provided by ImmGen.
+0	NA	NA	NA	METHODS	Some categories were further divided into subcategories (for example, B and T cells) on the basis of developmental stage or lineage into a total of 16 non-overlapping cell-type categories.
+0	NA	NA	NA	METHODS	To compare the results across the cell-type categories, we plotted the distribution of ES value ranks for each cell type, binning the results according to the category each cell type belonged to (again, we performed the analysis either with or without the extended MHC region)
+0	autoimmune disease	NA	NA	METHODS	We profiled the expression of genes that had been identified in at least three autoimmune diseases in our subtype model search, previously published Immunochip fine-mapping studies, or a combination thereof (for example, identified as associated with JIA and UC in our analysis but previously identified as a candidate gene from an Immunochip analysis of alopecia areata).
+0	NA	NA	NA	METHODS	We identified 217 candidate pleiotropic genes, of which 191 could be mapped to unique gene transcripts within the ImmGen data sets
+0	NA	NA	NA	METHODS	We performed agglomerative hierarchical clustering with the matrix of gene expression levels from the 191 candidate gene transcripts using Ward's minimal-variance method across all 176 immune cell types.
+0	NA	NA	NA	METHODS	The genes and cell types shown in dendrograms are based on the results of unsupervised hierarchical clustering analysis and represent four major groups of cells and six major groups of genes
+0	NA	NA	NA	METHODS	We examined whether genes that were clustered on the basis of similar immune cell-expression profiles were likely to be associated with the same disease(s).
+0	autoimmune disease	NA	NA	METHODS	Specifically, given a set of genes associated with one or more autoimmune diseases grouped in cluster i (Ci), we asked whether there is an increased likelihood (i.e., more so than expected by chance as compared with genes not found within this cluster) that these genes are also associated with disease j (Dj), such that  where the expected probability of the values observed under the null is given by the hypergeometric distribution.
+0	NA	NA	NA	METHODS	As some of the cell counts were small and we were interested only in identifying instances where a >> b, c or d, we used a one-sided Fisher's exact test.
+0	autoimmune disease	NA	NA	METHODS	We first tested each of the 18 autoimmune diseases across all identified clusters, declaring nominal and Bonferonni-adjusted significance at P < 0.05 and P < 5.6 x 10-4, respectively.
+0	NA	NA	NA	METHODS	For any clusters where at least two diseases reached nominal or marginal significance, we also tested whether there was an overrepresentation of genes associated with both diseases at P < 0.05
+0	NA	NA	NA	METHODS	DAPPLE: PPIs among the set of either 27 GWS or 46 GWM candidate regions were identified; the input seeds were defined as the 100-kB sequences up- and downstream of the most significantly associated SNP (based on hg19) in each candidate region.
+1	NA	IL23R	NA	METHODS	Other input parameters included 50-kB regulatory region length, a common interactor binding degree cutoff of 2, and the following specified known genes: IL23R, PTPN22, INS, NOD2, DAG1, SMAD3, ATG16L1, ZNF365, PTGER4, NKX2-3, ANKRD55 and IL12B.
+0	NA	NA	NA	METHODS	We performed 10,000 permutations to accurately calculate enrichment network statistics.
+0	NA	NA	NA	METHODS	Seed scores Pdapple were used to color the protein nodes in the network plot
+0	NA	NA	NA	METHODS	STRING: We used the Homo sapiens PPI database to query one of three lists: (1) the GWS loci, (2) GWS and GWM loci or (3) the list of genes identified by GBAT shown to be enriched for key proteins in the JAK-STAT pathway.
+0	NA	NA	NA	METHODS	We assessed and reported the evidence of PPI enrichment on the basis of these queries as compared to the results expected for the rest of the genes in the human genome.
+0	NA	NA	NA	METHODS	We generated network plots for the directly connected protein candidates (Supplementary Fig.
+0	NA	NA	NA	METHODS	"7a-c represents the ""evidence"" plot option)"
+0	NA	NA	NA	METHODS	Webgestalt: For pathway and gene set analysis, we used the web-based tool Webgestalt to examine evidence of shared TF binding, miRNA target-binding sites, and enrichment in specific Gene Ontology and Pathway Commons categories.
+0	NA	NA	NA	METHODS	The inputs for this analysis included all lead genes (FDR < 2%) from the GBAT (similar to that for the other pathway annotation databases below for consistency)
+0	NA	NA	NA	METHODS	DAVID: We used the bioinformatics web tool DAVID (v6.7, available at http://david.abcc.ncifcrf.gov) for functional-annotation analysis of the significant genes.
+0	NA	NA	NA	METHODS	Significant genes with FDR < 2% in VEGAS, the gene-based association analysis, were used as input for DAVID.
+0	NA	NA	NA	METHODS	DAVID performed overrepresentation analysis of functional-annotation terms on the basis of hypergeometric testing and adjusted for multiple testing.
+0	NA	NA	NA	METHODS	To compare the results of this analysis with results obtained via other methods, we used BioCarta, KEGG pathways and GO_BP_FAT as gene set definition files
+0	NA	NA	NA	METHODS	IPA: We used IPA software (http://www.ingenuity.com/) for canonical pathway and network analysis.
+0	NA	NA	NA	METHODS	We inputted all the significant genes in the VEGAS output (FDR < 2%) for IPA analysis.
+0	NA	NA	NA	METHODS	In the IPA core analysis, we selected the Ingenuity Knowledge Base (Genes Only) as the reference set, including both direct and indirect relationships.
+0	NA	NA	NA	METHODS	We used the filter setting of relationships in human and experimentally observed only.
+0	NA	NA	NA	METHODS	Information regarding canonical pathways was obtained from IPA output
+0	NA	NA	NA	METHODS	GSEA: We conducted gene set enrichment analysis with the software GSEA (http://www.broadinstitute.org/gsea) using as input the pre-ranked gene list generated on the basis of the -log(P value) from VEGAS using all genes.
+0	NA	NA	NA	METHODS	We selected the following settings for our analysis: number of permutations, 5,000; enrichment statistic, weighted; maximum size of gene set, 500; minimum size of gene set, 15; and with normalization
+0	NA	NA	NA	METHODS	LPS test, optimized to evaluate whether two pAIDs share more loci in common than would be expected to occur by chance; the score 'penalizes' disease pairs if many of the loci are disease specific.
+0	NA	NA	NA	METHODS	The test is helpful if only data on whether diseases share specific candidate genes or association loci in common are known
+0	NA	NA	NA	METHODS	GPS test, optimized to assess the correlation between the set of association test statistics observed genome-wide across any two pAIDs.
+0	NA	NA	NA	METHODS	This test is valuable because it is independent of the gene sets chosen and thus does not require the use of any arbitrary method to define a significance 'threshold' of input data
+0	autoimmune disease	NA	NA	METHODS	To examine the degree of overlap in genetic risk susceptibility between any two autoimmune diseases, we developed and/or implemented the following statistical measures to quantify interdisease genetic sharing:
+0	NA	D1 and D	NA	METHODS	To quantify the similarity between any two diseases D1 and D2 on the basis of the degree to which D1 and D2 share independent genetic risk associations (i.e., loci, SNPs or candidate genes), we considered the following model
+0	autoimmune disease	NA	NA	METHODS	We began with a list of candidate genes, association loci or LD-independent SNPs nr identified as having reached a predefined GWAS significance threshold (e.g., GWS or GWM) across one or more SNPs from nr for a set of diseases with expected or hypothesized sharing (i.e., all autoimmune diseases in this study and those reported on by the Immunochip studies catalogued by ImmunoBase)
+0	NA	D1 and D	NA	METHODS	For any two diseases D1 and D2, a given candidate gene or SNP xi could be uniquely classified in one of four ways: associated with D1 and D2 (n11), associated only with D1 (n12) or D2 (n21), or associated with neither D1 nor D2 (n22).
+0	NA	NA	NA	METHODS	For any given list of TOP associations (i.e., nr), the distribution across the four possible categories can be tabulated as follows:  where n11 + n12 + n21 + n22 = nr and D1 (yes) or (no) means the SNP xi is or is not associated with that marker, respectively
+0	NA	D1 and D	NA	METHODS	The probability Px that an SNP xi from the list nr is associated with either D1 or D2 can be expressed as   for any two pAIDs D1 and D2
+0	NA	NA	NA	METHODS	Thus, the frequency at which xi should truly be associated with two distinct disease subtypes is given by nr(P1P2), and the observed number of overlapping associations is represented by n11.
+0	NA	D1 and D	NA	METHODS	Therefore, under the null hypothesis H0, for a given pair of diseases D1 and D2, the variance of the difference between the numbers of expected and observed associations of all those tested (nT) shared by both D1 and D2 should follow a normal distribution.
+0	NA	D1 and D	NA	METHODS	We used the one-sided Z-test to examine whether the degree of overlap was significantly greater than expected, assuming a normal distribution under the null hypothesis that D1 and D2 do not share more associations than they would by chance.
+0	NA	NA	NA	METHODS	We used a Bonferroni adjustment to correct for 45 pairwise disease-combination tests
+0	NA	NA	NA	METHODS	The GPS test determines whether two pAIDs are genetically related.
+0	NA	NA	NA	METHODS	For the ith SNP, let Xi = 1 if the SNP is truly associated with one disease, and let Xi = 0 otherwise.
+0	NA	NA	NA	METHODS	Similarly, define Yi as the indicator of whether the SNP is associated with the other disease in the pair.
+0	NA	NA	NA	METHODS	We can therefore consider the diseases to be genetically related if there are more SNPs with (Xi,Yi) = (1,1) than would be expected to occur by chance.
+0	NA	NA	NA	METHODS	This amounts to testing the independence of Xi and Yi
+0	NA	NA	NA	METHODS	However, we do not directly observe Xi and Yi and instead observe P values Ui and Vi, which come from the two GWAS studies for the two diseases.
+0	NA	NA	NA	METHODS	When Xi = 1, the P value Ui will tend to be small, and otherwise Ui will be uniformly distributed; the same is true of Yi and Vi.
+0	NA	NA	NA	METHODS	If Ui and Vi are independent, then Xi and Yi must be as well.
+0	NA	NA	NA	METHODS	We can therefore test for genetic relatedness by testing whether the P values are dependent
+0	NA	NA	NA	METHODS	Most existing methods may not take advantage of the availability of the full genome data set for testing genetic sharing using Ui and Vi.
+0	NA	NA	NA	METHODS	To address this limitation, we developed a novel, threshold-free method to detect genetic relatedness.
+0	NA	NA	NA	METHODS	Our test statistic is defined by  where n is the total number of SNPs, Fuv(u,v) is the empirical bivariate distribution function of (Ui, Vi), and Fu(u) and Fv(v) are the empirical univariate distribution functions of Ui and Vi, respectively.
+0	NA	NA	NA	METHODS	Intuitively, the numerator of D is motivated by the fact that if Ui and Vi are truly independent, their bivariate distribution is equal to the product of their univariate distributions.
+0	NA	NA	NA	METHODS	The denominator of D makes the test capable of detecting even very weak correlations.
+0	NA	NA	NA	METHODS	Under the null hypothesis of no genetic sharing, it can be shown that D is approximately distributed like the inverse square root of a standard exponential random variable.
+0	NA	NA	NA	METHODS	This gives us an analytic expression for calculating P values.
+0	NA	NA	NA	METHODS	Note that no significance threshold is required
+0	NA	NA	NA	METHODS	The asymptotic null distribution of D is derived under the assumption that the genetic markers examined across the genome are statistically independent.
+0	NA	NA	NA	METHODS	We therefore pruned the SNPs for each pair of diseases before applying our test.
+0	NA	NA	NA	METHODS	We conducted inverse chi2 meta-analyses separately for each pair of diseases and pruned the resulting P values using a threshold of r2 < 0.5 within a 500-kB up- and downstream region.
+0	NA	NA	NA	METHODS	This left about 800,000 SNPs for each disease pair analyzed.
+0	NA	NA	NA	METHODS	The use of more stringent r2 thresholds (for example, r2 < 0.3 or 0.2) gave comparable results
+0	autoimmune disease	NA	NA	METHODS	In graphic representations, pairwise relationships between autoimmune diseases (nodes) are represented by edges, whose weights are determined by the magnitude of the LPS test statistic (R statistical software package q-graph).
+0	NA	NA	NA	METHODS	Specifically, the width and density of the edges are the standardized transformations of the test statistic, and the colors denote whether the direction of the test statistic is positive (blue, meaning more sharing than expected) or negative (red, meaning less sharing than expected).
+0	NA	NA	NA	METHODS	Although graphs are constructed from all 45 pairwise interactions, for simplicity and improved visualization, we showed only those edges that represented a pairwise interaction that reached a Bonferroni-adjusted or nominal (Supplementary Fig.
+0	NA	NA	NA	METHODS	4c) significance threshold (P < 0.05).
+0	NA	NA	NA	METHODS	The nodes are positioned on the basis of a force-directed layout based on the Fruchterman-Reingold algorithm
+1	insulin-treated diabetes	CASP	NA	METHODS	Replication set I: The following data sets were used in the first replication set: CASP, CIDR Celiac Disease, NIDDK Crohn's Disease, Wellcome Trust Case Control Consortium (WT) Crohn's Disease and Type 1 Diabetes, WT Ulcerative Colitis and WT Ankylosing Spondylitis.
+0	NA	NA	NA	METHODS	These data sets were obtained via dbGaP or the Wellcome Trust Case Control Consortium.
+0	NA	NA	NA	METHODS	In order to maximize the power, we sought replication for each of the 12 significant SNPs in all of the seven available data sets.
+0	NA	NA	NA	METHODS	Full results are summarized in Supplementary Table 2e
+0	NA	NA	NA	METHODS	Each data set was subjected to strict QC filtering as follows: we removed individuals that were inferred to be related on the basis of genetic data, individuals with >10% missing data, individuals with a reported sex that did not match the observed heterozygosity rates on chromosome X, and individuals not of European ancestry.
+0	NA	NA	NA	METHODS	We further removed variants with >10% missingness, variants not in HWE, variants with missingness significantly correlated to phenotype, and variants with MAF < 0.005.
+0	NA	NA	NA	METHODS	Variants to be replicated that were not observed in the original data set were imputed using IMPUTE2 (ref.)
+0	NA	NA	NA	METHODS	and the 1KGP-RP haplotype data.
+0	NA	NA	NA	METHODS	Markers across the X chromosome, which were previously considered by most of these studies, were reanalyzed using the XWAS toolset
+0	NA	NA	NA	METHODS	Replication-association analysis was carried out by logistic regression implemented in PLINK.
+1	NA	CASP	NA	METHODS	The first ten principal components calculated using EIGENSOFT were added as covariates for all data sets except CASP, where no population stratification was observed
+0	rheumatoid arthritis	NA	NA	METHODS	Replication set II: The second replication set consisted of the following data sets: Rheumatoid Arthritis meta-analysis, IBDG Ulcerative Colitis meta-analysis, IBDG Crohn's Disease meta-analysis, Systemic Lupus Erythematosus GWAS, and SLEGEN.
+0	NA	NA	NA	METHODS	Individuals from these data sets were of European ancestry.
+0	NA	NA	NA	METHODS	Summary statistics from the original studies were publicly available and were used for the replication analysis.
+0	NA	NA	NA	METHODS	Details regarding QC procedures and association analysis can be obtained from the original studies
+0	NA	NA	NA	METHODS	LD-based replication for replication sets I and II: We further assessed replication in SNPs that were in LD with the significant SNPs in the discovery set.
+0	NA	NA	NA	METHODS	For each associated SNP, a list of SNPs in LD (r2 > 0.5) within 500 kb of the original SNP was obtained from SNAP using the 1KGP-RP
+0	NA	NA	NA	FIG	The ten pAID case cohorts and top pAID-association loci identified.
+0	autoimmune disease	NA	NA	FIG	(a) Percentage and relative contribution of cases for the ten pediatric autoimmune diseases studied.
+0	NA	NA	NA	FIG	(b) Top pAID-association signals identified by inverse chi2 meta-analysis.
+0	NA	NA	NA	FIG	The top 27 loci (where at least one lead SNP reached genome-wide significance: PMETA < 5 x 10-8) are annotated with the candidate gene symbol.
+0	NA	NA	NA	FIG	(c) Novel and established pAID-association loci.
+1	NA	interleukin-2 receptor alpha chain	rs706778	FIG	Top left: rs706778 (chr10p15.1) is a known DNase I peak and an intronic SNP in IL2RA and was associated with THY, AS, PSOR, CEL, T1D and JIA.
+1	NA	IL12B	rs755374	FIG	Top right: rs755374 (chr5q33.3) is an intergenic SNP upstream of IL12B and was associated with AS, CEL, UC and CD.
+1	NA	CD40LG	rs2807264	FIG	Bottom left: rs2807264 (chrXq26.3), mapping near CD40LG, was associated with CEL, UC and CD, and chr15q22.33 (rs72743477), also mapping to an intronic position in SMAD3, was associated with UC, CD and AS.
+0	NA	NA	NA	FIG	Bottom right: SNPs are colored according to pairwise LD (r2) with respect to the most strongly associated lead SNP in the locus.
+0	NA	NA	NA	FIG	Associated pAIDs are indicated at the upper left.
+0	NA	NA	NA	FIG	pAID associations are color-coded according to the key in each plot.
+0	NA	NA	NA	FIG	(d) Pleiotropic candidate genes have pleiotropic effect sizes and directions across pAIDs.
+1	NA	IL21	NA	FIG	Although a few pleiotropic SNPs had consistent effect directions across diseases (e.g., IL21), for many loci (e.g., PTPN22 and CLEC16A), the candidate SNP had variable effect directions across diseases.
+0	NA	NA	NA	FIG	The radii of the wedges correspond to the absolute values of the Z-scores (beta/s.e.)
+0	NA	NA	NA	FIG	for each pAID, and the color indicates whether the SNP is protective (green) or risk-associated (red) for each disease
+0	NA	NA	NA	FIG	Pleiotropic loci with heterogeneous effect directions across pAIDs.
+0	NA	NA	NA	FIG	(a) Disease-specific Z-scores (beta/s.e.)
+0	NA	NA	NA	FIG	for each SNP identified as having different effect directions across the ten pAIDs and as detailed in the figure.
+0	NA	NA	NA	FIG	Circles (color-coded by disease as in key) denote diseases where the indicated SNP had an opposite effect compared with that of the group of pAIDs identified as sharing the lead association on the basis of results of the model search (black triangles).
+0	NA	NA	NA	FIG	(b) Clustering of pAIDs across the lead loci on the basis of disease-specific effect sizes.
+0	NA	NA	NA	FIG	Agglomerative hierarchical clustering across ten pAIDs on the basis of normalized directional Z-scores (beta/s.e.)
+0	NA	NA	NA	FIG	resulting from logistic regression analysis in each disease for the 27 lead loci based on those disease combinations identified by the model search analysis as producing the strongest association-test statistics
+0	NA	NA	NA	FIG	Integrated annotation of pAID-association loci using existing predictive and experimental data sets.
+0	NA	NA	NA	FIG	(a) Biological, functional and literature annotations for the 27 loci reaching genome-wide significance in meta-analysis.
+0	NA	NA	NA	FIG	Loci (identified by the lead SNPs and candidate genes) are organized by column; the colors in the table denote the associated pAIDs, functional annotations are presented at the top of the table, and the color bar at the bottom represents the meta-analysis Pmeta values (according to key at right).
+0	NA	NA	NA	FIG	For each locus, the lead SNP and proxy SNPs (r2 > 0.8) were included in the annotation protocol (Online Methods).
+0	NA	NA	NA	FIG	(b) Distribution and enrichment of experimental and predicted annotations for the top 27 GWS SNPs.
+0	NA	NA	NA	FIG	The annotation frequencies were used to calculate the relative enrichment of pAID SNPs (blue bars) as compared with that of 10,000 random 100-SNP sets drawn from the genome in each annotation category.
+0	NA	GAD	NA	FIG	CpG, CpG islands; DNase, DNase-hypersensitivity I sites; gad, known genetic association; gerp_phast, conserved positions; mir, miRNAs; sift_pp, functional mutations in SIFT; tfbs, TF-binding sites
+0	NA	NA	NA	FIG	Tissue-specific gene set enrichment analysis (TGSEA) of pediatric and adult autoimmune data sets identifies autoimmune-associated gene expression patterns across immune cells and tissues.
+0	NA	NA	NA	FIG	(a) Expression enrichment of autoimmune-associated genes across human tissues.
+0	NA	NA	NA	FIG	Distribution of TGSEA enrichment score (ES) values across 126 tissues for pAID-associated genes (center) either with (circles, top curve) or without (triangles, bottom curve) the extended MHC.
+0	schizophrenia	NA	NA	FIG	Results for the pAID gene set are compared with those obtained for known genes associated with CD (left) and schizophrenia (right).
+0	NA	NA	NA	FIG	Tissue and cell types are classified as immune (red) or non-immune (blue) and are ranked left to right on the basis of the magnitude of the ES test statistic.
+0	NA	NA	NA	FIG	(b) Enrichment of pAID-associated gene expression across diverse murine immune cell types.
+0	schizophrenia	NA	NA	FIG	Distribution of pAID-associated gene ES values across murine immune cell types either including (red) or excluding the genes within the MHC (gold); results are compared with those for genes associated with CD, schizophrenia (Schizo, turquoise), LDL cholesterol (LDL, magenta) or body mass index (BMI, blue) abstracted from the National Human Genome Research Institute (NHGRI) GWAS Catalog.
+0	autoimmune disease	NA	NA	FIG	(c) Hierarchical clustering based on the expression of pleiotropic candidate genes associated with three or more autoimmune diseases across the murine immune cells.
+0	NA	NA	NA	FIG	Boxes outlined in black denote gene clusters enriched for specific disease associations discussed in the text.
+0	NA	NA	NA	FIG	An enlarged version of c is presented in Supplementary Figure 8
+0	autoimmune disease	NA	NA	FIG	Genetic variants shared across the ten pAIDs reveal autoimmune disease networks.
+0	NA	NA	NA	FIG	(a) Quantification of pAID genetic sharing by GPS test including SNPs within the extended MHC.
+0	NA	NA	NA	FIG	Correlation plot of results of the pairwise pAID GPS test; the color intensity and the size of each circle are proportional to the strength of the correlation as the negative base ten logarithms of the GPS test P values (color-coded numbers in squares).
+0	autoimmune disease	NA	NA	FIG	(b) Quantification of autoimmune disease genetic sharing by locus-specific pairwise sharing.
+0	NA	NA	NA	FIG	Undirected weighted network graph depicting results from the LPS test.
+0	autoimmune disease	NA	NA	FIG	Edge size represents the magnitude of the LPS test statistic; labeled nodes for each of the 17 autoimmune diseases are positioned on the basis of a force-directed layout.
+0	NA	NA	NA	FIG	Edges represent significant pairs after Bonferroni adjustment (Padj < 0.05).
+0	NA	NA	NA	FIG	(c) Protein-protein interaction network analysis of the top pAID-associated protein candidates in STRING; action view of protein interactions observed across the top 46 GWM (P < 1 x 10-6) signals, of which 44 could be mapped to corresponding proteins.
+0	NA	NA	NA	FIG	Views were generated on the basis of results for known and predicted protein interactions produced by the STRING DB Homo sapiens database.
+0	NA	NA	NA	FIG	The plots shown are results of the 'action' view, where the molecular actions (stimulatory, repressive or binding) are illustrated by arrows
+0	NA	NA	NA	TABLE	Twenty-seven independent loci reaching genome-wide significance (PMETA < 5 x 10-8) after adjustment for the use of shared controls using an inverse chi2 meta-analysis across the pAID

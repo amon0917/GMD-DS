@@ -1,0 +1,130 @@
+0	diabetes	NA	NA	ABSTRACT	Elucidation of the genetic susceptibility factors for diabetic retinopathy (DR) is important to gain insight into the pathogenesis of DR, and may help to define genetic risk factors for this condition.
+0	diabetes	NA	NA	ABSTRACT	In the present study, we conducted a three-stage genome-wide association study (GWAS) to identify DR susceptibility loci in Japanese patients, which comprised a total of 837 type 2 diabetes patients with DR (cases) and 1,149 without DR (controls).
+0	NA	NA	NA	ABSTRACT	From the stage 1 genome-wide scan of 446 subjects (205 cases and 241 controls) on 614,216 SNPs, 249 SNPs were selected for the stage 2 replication in 623 subjects (335 cases and 288 controls).
+0	NA	NA	NA	ABSTRACT	Eight SNPs were further followed up in a stage 3 study of 297 cases and 620 controls.
+0	NA	NA	rs9362054	ABSTRACT	The top signal from the present association analysis was rs9362054 in an intron of RP1-90L14.1 showing borderline genome-wide significance (Pmet = 1.4x10-7, meta-analysis of stage 1 and stage 2, allele model).
+1	NA	NA	NA	ABSTRACT	RP1-90L14.1 is a long intergenic non-coding RNA (lincRNA) adjacent to KIAA1009/QN1/CEP162 gene; CEP162 plays a critical role in ciliary transition zone formation before ciliogenesis.
+0	NA	NA	NA	ABSTRACT	The present study raises the possibility that the dysregulation of ciliary-associated genes plays a role in susceptibility to DR
+0	diabetes	NA	NA	INTRO	Diabetic retinopathy (DR) remains the most common microvascular complication of diabetes, and is a major cause of visual impairment in adults worldwide.
+0	NA	NA	NA	INTRO	The multifactorial etiology of DR has been postulated, but is poorly understood.
+0	Type 2 diabetes	NA	NA	INTRO	Several lines of evidence, such as ethnic differences and familial clustering in both identical twins with type 2 diabetes (T2D) and siblings with either type 1 diabetes or T2D, suggest that genetic factors have a role in the pathogenesis of DR, in addition to the duration of diabetes, hyperglycemia, hypertension and dyslipidemia.
+0	NA	NA	NA	INTRO	Therefore, elucidation of the genetic susceptibility factors for DR is important to gain insight into the pathogenesis of DR, and may define genetic risk factors for this condition
+0	NA	NA	NA	INTRO	Initial genetic studies focused on a number of logical candidate genes for DR.
+0	NA	VEGFA	rs2010963	INTRO	Among them, the genes for vascular endothelial growth factor (VEGFA), aldose reductase (AKR1B1) and the advanced glycation end products receptor (AGER) have been the most extensively studied; in particular, the SNP rs2010963 in the 5'-untranslated region of VEGF, which we first reported had a significant association with DR in 2002, and AKR1B1 polymorphisms (the dinucleotide repeat microsatellite in the 5' region and the SNP rs759853 in the promoter region) were confirmed by the meta-analyses performed by Qiu et al.
+0	NA	NA	NA	INTRO	and Abhary et al., respectively
+0	NA	NA	NA	INTRO	Subsequently, genome-wide linkage studies on Pima Indians and Mexican-Americans with T2D reported evidence for the linkage of DR to several chromosomal regions, but the susceptibility genes in these regions remain to be elucidated.
+0	NA	NA	NA	INTRO	Recently, several genome-wide association studies (GWAS) in Mexican-Americans, Chinese and Caucasians identified multiple susceptibility loci to DR; however, none of these loci reached the genome-wide significance level, and none has been replicated in other studies
+0	NA	NA	NA	INTRO	In the present study, subsequent to our candidate gene studies for DR in T2D, we conducted a GWAS to identify DR susceptibility loci in approximately two thousand Japanese patients with T2D
+0	NA	NA	NA	METHODS	The present study was approved by the Ethical Committee of Saitama Medical University (No.
+0	NA	NA	NA	METHODS	124-III), the Ethical Committee of Saitama Social Insurance Hospital (No.
+0	NA	NA	NA	METHODS	00-04), the Ethical Committee of Keio University (No.
+0	NA	NA	NA	METHODS	13-70-3), the Ethical Committee of the National Center for Global Health and Medicine (No.
+0	NA	NA	NA	METHODS	75), and the Ethical Committee of University of Tokyo (No.
+0	NA	NA	NA	METHODS	2541).
+0	NA	NA	NA	METHODS	Written informed consent was obtained from all subjects and all samples were anonymized
+0	NA	NA	NA	METHODS	The present study applied a three-stage GWAS involving 1,986 Japanese unrelated T2D patients in total (Figure 1).
+0	NA	NA	NA	METHODS	The stage 1 samples for the discovery genome-wide scan were from 446 patients at Saitama Medical University Hospital (SMU); two samples were removed from the initial 448 patients as described below.
+0	NA	NA	NA	METHODS	The stage 2 samples for the replication study of 249 SNPs consisted of those from 623 patients at SMU, the Saitama Social Insurance Hospital (SSI) and Keio University Hospital (KU).
+0	NA	NA	NA	METHODS	The stage 3 samples for the replication study of eight SNPs were from 917 patients at the National Center for Global Health and Medicine Center Hospital (NCGM)
+0	diabetes	NA	NA	METHODS	We recruited DNA samples from patients with type 2 diabetes who regularly visited the outpatient clinics (SSI and NCGM) or were admitted to the inpatient wards (SMU and KU) without any particular exclusion criteria.
+0	NA	NA	NA	METHODS	The clinical characteristics of the T2D patients in each group are shown in Table 1.
+0	diabetes	NA	NA	METHODS	In the present study, the subjects were selected independently from the clinical phenotypes, such as the duration of diabetes and the presence of DR. All patients received fundus examination by trained ophthalmologists, and the severity of DR was classified as none, non-proliferative (NPDR) or proliferative (PDR) based on the international clinical diabetic retinopathy/macular edema disease severity scale.
+0	Kidneys in Diabetes	NA	NA	METHODS	We also collected the data regarding diabetic nephropathy (DN).
+0	proteinuria	NA	NA	METHODS	In the present study, DN was diagnosed by the presence of overt proteinuria or macroalbuminuria (>300 mg/g creatinine)
+0	NA	NA	NA	METHODS	The initial number of samples used in the stage 1 analysis was 448 in total, consisting of 241 patients with DR (cases) and 207 without DR (controls).
+0	NA	NA	NA	METHODS	Genotyping was performed with Affymetrix GeneChip 6.0 microarrays interrogating 909,622 SNPs, according to the manufacturer's instruction manual.
+0	NA	NA	NA	METHODS	Samples with a genotype call rate of <95%, and SNPs with a genotype call rate of <90%, with a minor allele frequency <0.05 or significant deviation (P<0.001) from Hardy-Weinberg equilibrium (HWE) were excluded.
+0	NA	NA	NA	METHODS	Further, population outliers were also excluded based on the principal component analysis (PCA) 1st and 2nd axis values calculated by the EIGENSTRAT software program.
+0	diabetic retinopathy/macular edema disease	NA	NA	METHODS	Among the stage 1 SNPs showing association of P<0.05 with DR under allele model, a total of 249 SNPs were selected for stage 2by the following four criteria (Table S1); (A) 110 SNPs were selected from the regions including the signals of P<10-3 for DR (allele model), (B) 86 SNP from the regions including the signals of P<10-3 under other DR-related phenotype (PDR or diabetic macular edema) and/or other model, (C) 29 SNPs with a P value between 10-3 and 10-2 (allele model) and (D) 29 SNPs with a P value between 10-3 and 10-2 (other DR-related phenotype and/or other model) were selected in their biological and/or bioinformatic potency in DR, respectively.
+0	NA	NA	NA	METHODS	For the criteria A and B, one or several SNPs were chosen from those in linkage disequilibrium for each genomic region.
+0	NA	NA	NA	METHODS	We performed cross-platform validation by genotyping 11 SNPs in all stage 1 samples that were run on the Affymetrix GeneChip 6.0 assay using the TaqMan SNP assay, and the concordance rate was 100%
+0	NA	NA	NA	METHODS	For the stage 2 replication study, SNP genotyping of a total of 623 patients from SMU, SSI and KU was carried out by the DigiTag2 assay.
+0	NA	NA	NA	METHODS	The DigiTag2 assay was reported to have high accuracy and reproducibility; in addition, a very high concordance rate with the TaqMan SNP assay was also described.
+0	NA	NA	NA	METHODS	Among the 249 selected SNPs, we excluded 24 SNPs with a call rate <95%, and the overall call rate was 99.7%.
+0	NA	NA	NA	METHODS	Eight SNPs were selected for stage 3 based on the overall P<10-3 combining the stage 1 and stage 2 samples using an allele model.
+0	NA	NA	NA	METHODS	Finally, for the stage 3 replication study, the SNP genotyping of 917 patients from NCGM was carried out using the TaqMan SNP assay.
+0	NA	NA	NA	METHODS	All SNPs had a call rate >98%, and the overall call rate was 99.5%
+0	NA	NA	NA	METHODS	In the comparison of clinical features, continuous clinical data were compared using the unpaired Student's t-test, and categorical clinical data were compared using Fisher's exact test.
+0	NA	NA	NA	METHODS	For the stage 1 analysis, the genome-wide association analysis was performed using the PLINK software package (ver.
+0	NA	NA	NA	METHODS	1.06), R 2.9.0, and the Haploview 1.04 software program.
+0	NA	NA	NA	METHODS	For the stage 2 and 3 replication studies and the combined analyses of the overall samples, the association was tested using the SNPAlyze Ver.
+0	NA	NA	NA	METHODS	8 Pro software program (Dynacom, Yokohama, Japan).
+0	NA	NA	NA	METHODS	The P values were calculated by genotype, allele, dominant, recessive and trend models for each SNP.
+0	NA	NA	NA	METHODS	For the eight selected SNPs from stage 1 and stage 2, logistic regression analysis was also performed to test the association of each SNP with DR, PDR and DN under the genotype (additive), dominant and recessive models adjusted for clinical features.
+0	NA	NA	NA	METHODS	StatView version 5 (SAS Institute, Cary, NC) was used for these tests.
+0	NA	NA	NA	METHODS	A combined meta-analysis was performed using a general variance-based method with a fixed effects model after testing for heterogeneity using Cochran's Q test with R 2.15.2.
+0	NA	NA	NA	METHODS	A total of 614,216 of the 909,622 genome-wide SNPs passed the QC criteria in stage 1.
+0	NA	NA	NA	METHODS	Therefore, the significance level for genome-wide association was considered to be P = 8.1x10-8 (0.05/614,216).
+0	NA	NA	NA	METHODS	The study power was estimated using the CaTS software program (http://www.sph.umich.edu/csg/abecasis/CaTS/).
+0	NA	NA	NA	METHODS	The statistical power to detect associations among the present stage 1 (205 cases and 241 controls; 614,216 SNPs) and stage 2 (335 cases and 288 controls; 249 SNPs) was calculated to be 79% or 38%, respectively, based on a genome-wide significance level of P = 8.1x10-8, the additive genetic model, replication analysis and a genotype relative risk (GRR) of 1.4 or 1.3, assuming a risk allele frequency of 0.40 and disease (DR) prevalence of 50%.
+0	NA	NA	NA	METHODS	In addition, the power to detect stage 1+2 (540 cases and 529 controls; 614,216 SNPs) and stage 3 (297 cases and 620 controls; 8 SNPs) was calculated to be 99% or 85% based on the same conditions and a GRR of 1.4 or 1.3, respectively
+0	diabetes	NA	NA	RESULTS	A total of 1,986 Japanese patients with type 2 diabetes of the five cohorts, all recruited from Saitama prefecture or the adjacent Tokyo Metropolitan area, were analyzed in the present study.
+0	diabetes	NA	NA	RESULTS	Clinical features of the patients among the cohorts were shown in Table 1; lipid laboratory data were similar, moderate difference was observed in sex, age, duration of diabetes, and substantial difference was observed in HbA1c, presence of PDR and that of DN.
+0	NA	NA	NA	RESULTS	Of note, higher HbA1c levels were observed in the SMU (stage 1 and stage 2) and KU (stage 2) patients recruited from the inpatient wards, compared to the SSI (stage 2) and (stage 3) NCGM patients, who were recruited from outpatient clinics
+0	NA	NA	NA	RESULTS	In stage 1, the association analysis with DR using 614,216 genome-wide SNPs passed the QC criteria, and was originally carried out in 448 Japanese patients recruited from SMU, 207 of whom were DR-positive and 241 of whom were DR-negative.
+0	NA	NA	NA	RESULTS	Two DR-positive patients were regarded as outliers by PCA, and were removed from the GWAS (Figure S1).
+0	NA	NA	NA	RESULTS	The genomic inflation factor (lambda) and mean chi-squared statistics calculated from the GWAS for these 446 patients were 1.006 and 1.003, respectively, both of which were very close to 1.0, suggesting that any observed associations were unlikely to be due to population stratification.
+0	NA	NA	NA	RESULTS	The quantile-quantile plot showed apparent deviation from the expected values at the lower P values, suggesting that some associations were more significant than expected by chance (Figure 2).
+0	NA	p<10-5	NA	RESULTS	The GWAS for DR revealed seven loci (10 SNPs) at a value of P<10-5 with the best model (Figure 3 and Table S2).
+0	NA	NA	NA	RESULTS	The top signals in the present study were at the level of 10-6, falling below a genome-wide threshold of P = 8.1x10-8 (0.05/614,216).
+0	NA	NA	rs4538204	RESULTS	The most significant SNP associated with DR was rs4538204, with a P value of 1.2x10-6 under the recessive model.
+0	NA	DPP10	NA	RESULTS	This SNP is located in an intron of DPP10 on chromosome 2.
+0	NA	ZNF385D	rs7625611	RESULTS	The SNPs rs7625611, rs869494, rs4465961 and rs1497516, which were in strong linkage disequilibrium and located in an intergenic region between AC107622.1 and ZNF385D on chromosome 3, were also associated with DR (best P = 1.5x10-6, dominant model).
+0	NA	NA	NA	RESULTS	The remaining five loci associated with DR were located on chromosomes 1, 3, 4, 18 and 19.
+0	NA	FAM19A1	rs4516615	RESULTS	Among them, the SNPs rs4516615, rs12640858 and rs8107333 are located in introns of FAM19A1, LDB2 and PCAT19, respectively
+0	NA	NA	NA	FIG	 P values of the Fisher's exact test under the allele model for SNPs in 446 patients were shown.
+0	NA	NA	NA	FIG	The genomic inflation factor lambda was 1.006
+0	NA	NA	NA	FIG	 P values of the Fisher's exact test under the allele model for SNPs in 446 patients were shown
+0	NA	NA	NA	RESULTS	For the stage 2 replication, 249 SNPs selected from the stage 1 analysis were genotyped in three Japanese cohorts comprising a total of 623 T2D patients, consisting of 267 from SMU (independent cases from the first stage), 188 from SSI and 168 from KU.
+0	NA	NA	NA	RESULTS	In an overall analysis combining the stage 1 and stage 2 samples, eight SNPs showed associations with a value of P<10-3 using the allele model; a meta-analysis combining the stage 1 and stage 2 data using general variance-based method with a fixed effects model showed similar P values with no evidence of heterogeneity (Table 2).
+0	NA	NA	rs9362054	RESULTS	The most strongly associated SNP, rs9362054 on chromosome 6, reached the genome-wide significance according to the overall analysis (P = 4.4x10-8), although the level of significance was just above that of genome-wide by the meta-analysis (Pmet = 1.4x10-7).
+0	NA	NA	NA	RESULTS	This SNP is located in the RP1-90L14.1 gene (see the regional association plot below).
+0	NA	NA	rs10894267	RESULTS	The second most significant SNP associated with DR was rs10894267, with a Pmet value of 5.8x10-6 in an exon of RP11-890B15.2 on chromosome 11.
+0	NA	GLIS1	NA	RESULTS	The remaining six SNPs were weakly associated with DR, with Pmet values between 10-5 and 10-3; two of which were located in introns (GLIS1 and CD38) and four of which were located in intergenic regions
+0	NA	NA	NA	RESULTS	These eight SNPs were selected for the stage 3 replication of genotyping in 917 T2D patients from the NCGM.
+0	NA	Phet	rs9362054	RESULTS	As shown in Table 3, a meta-analysis combining all three stages revealed that the association of SNP rs9362054 with DR was the strongest, with a Pmet value of 1.7x10-5 using the allele model, although significant heterogeneity was observed for Phet = 5.6x10-3.
+0	NA	NA	NA	RESULTS	The other seven SNPs all showed weak associations, with P values higher than 10-3 (Table 2)
+0	NA	NA	rs9362054	RESULTS	The association of SNP rs9362054 was further evaluated by multiple logistic regression analysis using genotype, dominant and recessive models.
+0	diabetes	NA	rs9362054	RESULTS	After controlling for sex, the duration of diabetes and the HbA1c level, SNP rs9362054 was found to be strongly associated with DR according to a an overall analysis or meta-analysis (Table 3); controlling for hypertension and the lipid laboratory data was also performed with similar results (data not shown).
+0	NA	Phet	NA	RESULTS	The most significant signal was obtained in an overall analysis combining all stages in the recessive model (3.3x10-8) with the genome-wide significance level, while the meta-analysis of all stages showed a Pmet value of 1.3x10-6 with no evidence of heterogeneity (Phet = 3.8x10-1).
+0	NA	NA	rs9362054	RESULTS	Regarding the associations with PDR and DN as determined by multiple logistic regression analysis of all stages (Table 3), rs9362054 was not significantly associated with PDR under all models, but was significantly associated with DN with Pmet = 1.2x10-4 under the genotype model.
+0	NA	NA	NA	RESULTS	Furthermore, according to a logistic regression analysis including the severity of DR (i.e.
+0	NA	NA	rs9362054	RESULTS	DR-negative, NPDR or PDR) as a variable, rs9362054 was significantly associated with DN (Pmet = 3.5x10-3 under the genotype model) independent of the severity of DR
+0	NA	NA	rs9362054	RESULTS	The most DR-associated SNP rs9362054 was located at 85Mb on chromosome 6.
+1	NA	NA	NA	RESULTS	This SNP is in an intron of the RP1-90L14.1 gene between two protein-coding genes, KIAA1009 and TBX18.
+0	NA	NA	NA	RESULTS	According to the UCSC human genome 19, RP1-90L14.1 is annotated as a long intergenic non-coding RNA (lincRNA) by the GENECODE project.
+0	NA	NA	rs9362054	RESULTS	The regional plots for SNP rs9362054 demonstrated that the association signals with P<0.01 were confined to the RP1-90L14.1 gene region (Figure 4)
+0	diabetes	NA	NA	FIG	The -log10P values of the Fisher's exact test under the allele model in the GWAS of diabetic retinopathy in stage 1 were plotted against relative chromosomal locations (UCSC human genome 19)
+0	NA	NA	NA	DISCUSS	In the present study, we performed a three-stage GWAS for DR in Japanese T2D patients.
+0	NA	NA	rs9362054	DISCUSS	The top SNP, rs9362054, was located in an intron of the RP1-90L14.1 gene; regional plots showed that the association signals around rs9362054 were confined to this gene region.
+0	NA	NA	NA	DISCUSS	RP1-90L14.1 encodes a lincRNA, a class of long non-coding RNAs (lncRNAs) that are transcribed from intergenic regions; three transcripts were mapped to this gene as splice variants, and six non-coding exons were estimated to be present by the Ensembl project.
+0	NA	NA	NA	DISCUSS	The RP1-90L14.1 locus is widely conserved among vertebrates (Human, Rhesus, Mouse, Dog, Elephant, Opossum, Chicken, Xenopus tropicalis and Zebrafish) according to the UCSC Genome Browser.
+1	NA	NA	NA	DISCUSS	RP1-90L14.1 is also called lnc-KIAA1009-1 by LNCipedia 2.0 (a long non-coding RNA database), because the nearest protein-coding gene on the same strand is KIAA1009; it is possible that RP1-90L14.1/lnc-KIAA1009-1 and KIAA1009 are functionally connected, since cis-regulation has been shown for many lncRNA genes
+1	NA	KIAA1009	NA	DISCUSS	Interestingly, KIAA1009, also known as QN1, was originally reported to be involved in cell cycle control during retinal development, and was found to be a microtubule-associated ATPase involved in cell division.
+1	NA	KIAA1009	NA	DISCUSS	Recently, it has been revealed that KIAA1009, renamed CEP162, plays a critical role in ciliary transition zone formation before ciliogenesis.
+0	NA	NA	NA	DISCUSS	Ciliopathies comprise a group of disorders associated with dysfunction of a hair-like cellular organelle called a cilium; as cilia are a component of almost all vertebrate cells, cilial dysfunction can manifest as a constellation of features that include, characteristically, retinal degeneration, renal disease and cerebral anomalies; retinal degeneration is a common feature of ciliopathic disorders, and may be associated with retinal cell death.
+1	NA	NA	NA	DISCUSS	In this regard, the strong signal for the RP1-90L14.1/lnc-KIAA1009-1 locus in the present study could be mediated through defective ciliogenesis due to KIAA1009/QN1/CEP162 dysregulation by some lnc-KIAA1009-1 variation(s).
+0	diabetes	polycystin-2	NA	DISCUSS	Although we should be cautious regarding this hypothesis, it was previously reported that transgenic rats with overexpression of a mutant cilia gene, polycystin-2, exhibited similar specific phenotypes to diabetic retinopathy, such as vasoregression and pericyte loss: furthermore, in the same transgenic rats, streptozotocin-induced chronic hyperglycemia was shown to ameliorate vasoregression and neuroglia cell loss, in agreement with the finding of a weaker association between RP1-90L14.1 and PDR than with DR (Table 3).
+0	NA	NA	NA	DISCUSS	In addition, it was noted that the previous GWAS for DR in Chinese patients identified a signal in the locus of LRP-BBS5, and BBS5 is also known to be important in ciliogenesis
+0	retinopathy and nephropathy complications	NA	rs9362054	DISCUSS	In agreement with the frequent involvement of both retinopathy and renal disease in ciliopathies, rs9362054 in RP1-90L14.1 was also significantly associated with DN (Table 3).
+0	NA	NA	rs9362054	DISCUSS	It should be noted that a significant association with DN was observed independently from the severity of DR, suggesting that rs9362054 may also contribute to the development of DN.
+0	NA	NA	NA	DISCUSS	To our knowledge, there has been no previous study reporting the association between DN and ciliary genes.
+0	NA	NA	NA	DISCUSS	Since the present study was not designed to identify DN susceptibility genes, further well-designed studies are required to verify the existence of any possible associations between the ciliary genes and DN
+0	NA	NA	NA	DISCUSS	In the present study, the stage 3 replications were mostly negative.
+0	diabetes	NA	NA	DISCUSS	However, possibly due to clinical heterogeneity (such as the duration of diabetes, metabolic control and medication(s) used for diabetes), the modest sample size and some bias, the replication of associations with DR appears to be difficult, as evidenced by the previous GWAS studies; i.e.
+0	NA	NA	NA	DISCUSS	these studies have reported only borderline associations, and there were no obvious overlapping susceptibility loci between studies.
+0	NA	S1 and Table 2	NA	DISCUSS	Furthermore, in the present study, the potential susceptibility loci (Table S1 and Table 2) did not overlap
+0	NA	NA	NA	DISCUSS	One of the strengths of the present study is considered to be that the homogeneity of the subjects was expected because the participants were recruited exclusively from the Kanto district (Saitama prefecture or the adjacent Tokyo Metropolitan area), Japan.
+0	diabetes	NA	NA	DISCUSS	Furthermore, we took into account various clinical features, including the duration of diabetes and the HbA1c level, and the associations with PDR or DN were also evaluated in comparison to that with DR
+0	NA	NA	NA	DISCUSS	There are several limitations regarding the present study that should be kept in mind.
+0	NA	NA	NA	DISCUSS	First, the modest sample size of the stage 1 discovery cohort had a limited power to detect susceptibility SNPs; in fact, none reached the genome-wide significance level (P = 8.1x10-8).
+0	NA	NA	NA	DISCUSS	Consequently, the SNPs selected based on both provisional significance (P<10-3) and the viewpoint of the biological and/or bioinformatics potency in DR were proceeded for the stage 2 replication, and the two-stage analysis of stage 1 and stage 2 had sufficient power to detect susceptibility SNPs with relatively a high effect.
+0	NA	NA	NA	DISCUSS	Second, the documented HbA1c levels were collected at only one point, and were considerably different among the cohorts.
+0	diabetes	NA	NA	DISCUSS	Third, the patients with a short disease duration were not excluded from the control group, which may have reduced the power of the study, although the real duration of type 2 diabetes is considered to be longer than the clinically defined duration by several years.
+0	NA	NA	NA	DISCUSS	Finally, the stage 3 replication was carried out, although no associations of the stage 1+2 SNPs were confirmed despite the adequate power, as described in the statistical analysis section.
+0	NA	NA	rs9362054	DISCUSS	In addition, under the predefined significance threshold of 1.6x10-4 (2x8.1x10-8/10-3) according to the replication-based method, the stage 3 analysis of rs9362054 had 85% power to detect association with the genome-wide significance using GDesignPlus (StaGen Co., Ltd., Tokyo, Japan).
+0	NA	NA	NA	DISCUSS	Rather than the possibility of a false positive finding, we speculate that the substantial heterogeneity between the stage 3 and stage 1+2 studies (Table 2), as evidenced by the fact that the HbA1c levels were relatively low and the proportion of DR was the lowest among the cohorts in the stage 3 patients could have weakened the contribution of genetic factors to the development of DR.
+0	NA	NA	NA	DISCUSS	Recently, it has been demonstrated that a substantial proportion of the associations with borderline genome-wide significance are replicable.
+0	NA	NA	NA	DISCUSS	Therefore, further case-control studies of large well-characterized cohorts would be useful for validating the findings of the present study
+1	NA	NA	NA	DISCUSS	In conclusion, in the present GWAS in Japanese T2D patients, the most DR-associated locus, the lincRNA RP1-90L14.1, is intriguing, since the adjacent CEP162 gene plays an important role in ciliogenesis.
+0	NA	NA	NA	DISCUSS	Taking into account the findings in previous studies of the transgenic rats and the GWAS in Chinese, the present study raises the possibility that the dysregulation of ciliary-associated genes plays a role in susceptibility to DR

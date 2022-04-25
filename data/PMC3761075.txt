@@ -1,0 +1,149 @@
+0	diabetes	NA	NA	ABSTRACT	We conducted genome-wide association studies (GWASs) and expression quantitative trait loci (eQTL) analyses to identify and characterise risk loci for type 2 diabetes in Mexican-Americans from Starr County, TX, USA
+0	diabetes	NA	NA	ABSTRACT	Using 1.8 million directly interrogated and imputed genotypes in 837 unrelated type 2 diabetes cases and 436 normoglycaemic controls, we conducted Armitage trend tests.
+0	glucose metabolism alterations	NA	NA	ABSTRACT	To improve power in this population with high disease rates, we also performed ordinal regression including an intermediate class with impaired fasting glucose and/or glucose tolerance.
+0	diabetes	NA	NA	ABSTRACT	These analyses were followed by meta-analysis with a study of 967 type 2 diabetes cases and 343 normoglycaemic controls from Mexico City, Mexico
+1	NA	PER3	NA	ABSTRACT	The top signals (unadjusted p value <1x10-5) included 49 single nucleotide polymorphisms (SNPs) in eight gene regions (PER3, PARD3B, EPHA4, TOMM7, PTPRD, HNT [also known as RREB1], LOC729993 and IL34) and six intergenic regions.
+0	diabetes	clock	rs10462020	ABSTRACT	Among these was a missense polymorphism (rs10462020; Gly639Val) in the clock gene PER3, a system recently implicated in diabetes.
+1	NA	PTPRD	NA	ABSTRACT	We also report a second signal (minimum p value 1.52x 10-6) within PTPRD, independent of the previously implicated SNP, in a population of Han Chinese.
+0	NA	HNF1A	NA	ABSTRACT	Top meta-analysis signals included known regions HNF1A and KCNQ1.
+0	NA	NA	NA	ABSTRACT	Annotation of top association signals in both studies revealed a marked excess of trans-acting eQTL in both adipose and muscle tissues
+0	diabetes	NA	NA	ABSTRACT	In the largest study of type 2 diabetes in Mexican populations to date, we identified modest associations of novel and previously reported SNPs.
+0	NA	NA	NA	ABSTRACT	In addition, in our top signals we report significant excess of SNPs that predict transcript levels in muscle and adipose tissues
+0	diabetes	NA	NA	INTRO	Genome-wide association studies (GWASs) of type 2 diabetes in large samples of recent European descent have identified a number of susceptibility loci; it is widely accepted that, to further understand the genetic aetiology of type 2 diabetes, it will be necessary to replicate these findings and identify new loci using other populations.
+0	diabetes	NA	NA	INTRO	Mexican-Americans have disproportionately high rates of type 2 diabetes.
+0	diabetes	NA	NA	INTRO	In order to identify genetic variants contributing to type 2 diabetes susceptibility in Mexican-Americans we conducted both binary trait and ordinal GWA on 1618 individuals from Starr County with diabetes (cases), impaired glucose tolerance (IGT) or impaired fasting glucose (IFG), or normal fasting glucose and glucose tolerance (controls), using nearly 2 million directly interrogated and imputed markers.
+0	NA	NA	NA	INTRO	These analyses were combined in meta-analyses with the results from GWASs of admixed Mexicans from Mexico City.
+0	NA	NA	NA	INTRO	This sample is described in detail in the companion paper.
+0	diabetes	NA	NA	INTRO	These cohorts comprise the largest type 2 diabetes analysis in Mexican and Mexican-American samples to date.
+0	diabetes	NA	NA	INTRO	In addition, we followed our association and meta-analyses by annotating SNPs with expression quantitative trait loci (eQTL) information from lymphoblastoid cell lines (LCLs) as well as adipose and muscle tissues, to characterise possible functional roles for SNPs associated with type 2 diabetes
+0	diabetes	NA	NA	METHODS	Using the 1979 National Diabetes Data Group criteria, cases (n=990) and controls (n=990) were selected from genetic and epidemiological resources developed in the Mexican-American population in Starr County, TX, USA (these also meet definitions set out in the 1997 ADA criteria).
+0	NA	NA	NA	METHODS	Of the 931 successfully genotyped case samples, we selected 837 unrelated individuals for our analyses
+0	diabetes	NA	NA	METHODS	A representative type 2 diabetes control sample was selected from a systematic survey of the primary population centres of Starr County conducted from 2002 to 2006.
+0	NA	NA	NA	METHODS	Blocks were randomly selected within primary population centres in Starr County, and all individuals in each household on selected blocks were enumerated.
+0	diabetes	NA	NA	METHODS	A random individual aged 20 years and above with no history of diabetes was selected from each household for a physical evaluation including an oral glucose tolerance test with a 75 g glucose load.
+0	diabetes	NA	NA	METHODS	From 1,345 oral glucose tolerance tests, 350 individuals were classified as having diabetes based on their fasting or 2 h post-load glucose, and were excluded from consideration as controls
+0	NA	NA	NA	METHODS	From the remaining 995 individuals, 990 were selected for genotyping, and after genotype quality control and pruning related samples, the control sample included 781 unrelated Starr County residents.
+0	glucose metabolism alterations	NA	NA	METHODS	Of these, 345 individuals had IGT (defined as a blood glucose level of 7.8-11.0 mmol/l after a 2 h oral glucose tolerance test) or impaired fasting glucose (defined as fasting blood glucose level of 5.6-6.9 mmol/l after overnight fast) and were included in the IGT/IFG category as an intermediate phenotype in the ordinal analysis.
+0	NA	NA	NA	METHODS	Table 1 summarises phenotypes measured in the case, IGT/IFG and control groups
+0	NA	NA	NA	METHODS	Genomic DNA was isolated from whole blood of 1,980 unique individuals from Starr County, and quantified by picogreen.
+0	NA	NA	NA	METHODS	The Affymetrix Genome-Wide SNPArray 6.0 assay was performed according to manufacturer protocols (Affymetrix, Santa Clara, CA, USA) at the Center for Inherited Disease Research.
+0	NA	NA	NA	METHODS	Case, IGT/ IFG, and control groups were randomised to plates.
+0	NA	NA	NA	METHODS	Genotypes were called for 1,890 samples passing quality control (QC) using both the Affymetrix supported Birdseed v2 calling algorithm as well as the corrected robust linear model with maximum likelihood classification (CRLMM) and only calls in complete agreement between the two algorithms were used in analyses
+0	NA	SQC	NA	METHODS	No samples uniformly failed contrast QC (CQC) and skewness QC (SQC) in the Affymetrix enzyme-specific subsets as well as the full set of enzyme-specific SNPs.
+0	NA	NA	NA	METHODS	Plate effects were examined and three plates were identified as having an excess of SNPs with low plate-association p values (132, 413, and 1,080 SNPs with p value > 1x10-7 on these plates).
+0	NA	NA	NA	METHODS	The plate showing the most severe plate effects was comprised of samples that had failed genotyping previously and had been repeated.
+0	NA	NA	NA	METHODS	Since no systematic bias was apparent from the battery of quality measures and no single set of individuals consistently clustered together in a genotype class in the cluster plots of the most plate-biased SNPs (rather poor clustering and miss-calling were frequently observed in these cluster plots), we chose to recall the data with CRLMM without removing any individuals.
+0	NA	NA	NA	METHODS	Only autosomal genotypes with perfect match calls in both the Birdseed and CRLMM datasets ('consensus calls') were carried forward, resulting in a modest reduction in overall call rate (from 0.997 to 0.996 across SNPs and samples).
+0	NA	NA	NA	METHODS	Plate effect analysis was repeated using the consensus calls; the number of SNPs with plate effect p values <1 x 10-7 for the three plates noted above are 14, 111 and 77, respectively.
+0	NA	NA	NA	METHODS	That a modest plate effect remains in the data may reduce our power to detect true phenotype associations, but the lack of evidence of differential bias between cases and controls suggests that the bias will not increase the false positive rate.
+0	NA	NA	NA	METHODS	We annotated all SNPs with their quality scores from the QC phase, and checked for flags, such as strong association with a plate, in all top signals
+0	NA	NA	NA	METHODS	Using PLINK (http://pngu.mgh.harvard.edu/~purcell/plink/), SNP and individual level call rates were calculated as well as sex incompatibilities (one mismatch identified and removed using markers on the X and Y chromosomes).
+0	NA	NA	NA	METHODS	All individuals passed per sample missingness of <0.1 and 7124 SNPs were removed as a result of missingness >0.1.
+0	NA	NA	NA	METHODS	Identical-by-descent (IBD) estimations were calculated in PLINK and an 'unrelated' cohort of 1,618 samples was created with a proportion of pairwise sharing IBD less than 0.28, weighting inclusion of cases and higher call rate.
+0	NA	NA	NA	METHODS	Individual and plate level heterozygosity was estimated in PLINK and no outliers observed.
+0	NA	NA	NA	METHODS	SNPs with minor allele frequency (MAF) <0.01 were removed.
+0	NA	NA	NA	METHODS	Departures from Hardy-Weinberg equilibrium were calculated and flagged in the full sample, cases, and controls
+0	NA	NA	NA	METHODS	Major ancestry group components for the unrelated admixed sample in a SNP set pruned of local and long-distance linkage disequilibrium (LD) were calculated in EIGENSTRAT (Fig.
+0	Type 2 diabetes	NA	NA	METHODS	1a); however, neither of the first two principal components were found to be significantly correlated with type 2 diabetes (mean regression p values were 0.18, 0.39, with Pearson correlation coefficients between covariate and phenotype of 0.005 and 0.021, respectively), similar to our previous findings.
+0	Type 2 diabetes	NA	NA	METHODS	Although we did not see significant correlation of type 2 diabetes and European admixture in the Starr County sample, strong correlation was observed in the Mexico City study (Fig.
+0	NA	NA	NA	METHODS	1b).
+0	NA	NA	NA	METHODS	To prevent excessive false positive rates, all analyses in the Mexico City sample controlled for the distribution along the primary axis of variation.
+0	NA	NA	NA	METHODS	For additional details of covariates in this sample please refer to the companion paper
+0	NA	NA	NA	METHODS	We performed imputation in MACH 1.0 from consensus call genotypes with MAF >0.01 in 1,618 Starr County Mexican-Americans to the full panel of CEU (Centre d'Etude du Polymorphisme [Utah residents with northern and western European ancestry]), YRI (Yoruba in Ibadan, Nigeria), and JPT (Japanese in Tokyo, Japan) + CHB (Han Chinese in Beijing, China) HapMap2 phased polymorphic SNPs from release 22.
+0	NA	NA	NA	METHODS	In total 137,532 SNPs with an estimate of the squared correlation between imputed and true genotypes, r2<=0.7 (as estimated by MACH) were removed.
+0	NA	NA	NA	METHODS	An additional 2,616 SNPs with MAF <0.01 were removed, resulting in 1,829,586 genotyped or imputed markers for analyses
+0	NA	NA	NA	METHODS	We used SNPtest to calculate the Armitage trend test using covariates and the option score, which specifies a missing-data likelihood test.
+0	NA	NA	NA	METHODS	Additionally, the missing-data likelihood test was extended to a three-category (cases, IGT/IFG, and controls) ordered logistic regression using the same covariates, and implemented in R. We tested the significance of the correlation of covariates in PLINK.
+0	diabetes	NA	NA	METHODS	In Starr County, 56% of people aged 70 years and older have diabetes, suggesting that substantial numbers of those with non-normal or even normal glucose tolerance will ultimately develop diabetes.
+0	NA	NA	NA	METHODS	Therefore, to generate a more meaningful covariate for age, we used the age at diagnosis (dxage) for cases and the age at enrolment for the controls.
+0	NA	NA	NA	METHODS	In the case-control analysis as well as in the data including the IGT/IFG category, age/ dxage, sex and BMI were significantly correlated with phenotype (mean regression p values across directly interrogated SNPs were <1x10-34, <1x10-4 and <1x 10-3, with Pearson correlation coefficients between covariate and ordinal phenotype of 0.36, 0.08 and 0.15 respectively)
+0	diabetes	NA	NA	METHODS	Type 2 diabetes association results from SNPtest in Mexicans from Mexico City were combined with results from the associations in the Starr County sample using SNPtest's companion program META.
+0	NA	NA	NA	METHODS	We performed principal component analysis (PCA) in EIGENSTRAT on a local and long-distance LD-pruned SNP set in the Mexico City sample as well as together with parental populations, to check homogeneity between the samples (Fig.
+0	NA	NA	NA	METHODS	1b, c).
+0	NA	NA	NA	METHODS	Population substructure of the samples within the context of HapMap CEU, YRI, CHB + JPT, and Mexican-American samples from Los Angeles, as well as samples from Bolivians, Peruvians, and Nahua, Mayan, and Spanish populations, was largely overlapping, suggesting the samples are derived from similar parental populations; the Starr County sample exhibited more European ancestry.
+0	NA	NA	NA	METHODS	The score method in SNPtest generates a relative information measure on the scale of (0,1) of the observed statistical information from the imputation for the estimate of allele frequency of the SNPs, and was used to assess confidence in the meta-analysis p values.
+0	NA	NA	NA	METHODS	Reported p values have a combined score statistic >=0.5, MAF>0.05 and p value <0.05 in each study, and a meta-analysis p value <0.001 showing the same direction of effect
+0	diabetes	NA	NA	METHODS	The top type 2 diabetes association signals from SNPtest and from the three-category ordered logistic regression were evaluated for their effect on transcript levels in LCLs, muscle, and adipose tissue.
+0	diabetes	NA	NA	METHODS	The set of eQTLs in lymphocytes among the type 2 diabetes associated SNPs were retrieved from SCAN, which holds the results of eQTL mapping of HapMap SNPs from 90 CEU and 90 YRI samples, to transcriptional expression evaluated in LCLs from these individuals by the Affymetrix GeneChip Human Exon 1.0 ST Array (Affymetrix).
+0	NA	NA	NA	METHODS	For the analyses of muscle and adipose eQTLs, samples were chosen from among 184 study participants for availability of both tissues, and are described in Sharma et al.. Sixty-two study participants at the tails of the distribution of insulin sensitivity (p value <1x10-5) adjusted for age, sex, BMI and per cent fat were genotyped on the Illumina 1M platform (Illumina, San Diego, CA, USA) using standard Illumina protocols.
+0	NA	NA	NA	METHODS	Transcript levels were assayed using Human Whole Genome 4x44 arrays (Agilent Technologies, Santa Clara, CA, USA).
+0	NA	NA	NA	METHODS	eQTL mapping in each tissue was done by testing each marker for the additive effect of allele dosage on normalised probe-level expression intensity.
+0	diabetes	NA	NA	METHODS	In our annotations, the best proxy SNPs were determined for those type 2 diabetes associated SNPs not directly typed on the Illumina platform used in the eQTL analyses of muscle and adipose tissues
+0	diabetes	NA	NA	METHODS	Using SNP eQTL annotations in LCLs, and adipose and muscle tissues, we conducted simulations to test for an enrichment of eQTLs (p value <1 x 10-4) among the top signals (p value <1x10-3) associated with type 2 diabetes.
+0	NA	NA	NA	METHODS	We generated 1,000 random SNP sets, each of the same size (n=722) as the original list of LD-pruned top signals (r2>0.30), containing variants matched on MAF distribution, sampled without replacement from the set of typed SNPs on the Illumina 1M platform; MAF matching was done by drawing from the platform SNPs, which had been grouped into discrete MAF bins, each spanning 5% of the allele frequency spectrum.
+0	diabetes	NA	NA	METHODS	These simulations (n = 1,000) yield an empirical p value, calculated as the proportion of simulations in which the number of eQTLs exceeds the observed number, Q, in the list of top type 2 diabetes signals
+0	NA	NA	NA	RESULTS	All analyses were performed using the combined age/dxage measurement and sex as covariates and association tests were conducted with and without correcting for BMI.
+0	NA	NA	NA	RESULTS	We estimated the inflation factors (the ratio of the trimmed means of the observed and expected values), lambdaage/dxage+sex=1.034 and lambdaage/dxage+sex+BMI=1.026 in the case-control analysis and 1.038 and 1.023 (respectively) in the three-category ordered logistic regression.
+0	NA	NA	NA	RESULTS	The Manhattan and quantile-quantile (QQ) plots summarising results from the ordinal logistic regression without BMI as a covariate are presented in Fig.
+0	NA	NA	NA	RESULTS	2a, b (others are in ESM Figs 1-3).
+0	NA	NA	NA	RESULTS	Forty-nine high quality SNPs, with an uncorrected p value <1 x 10-5 in at least one analysis, fell within 14 genomic regions, and are listed, with p values from the analysis, in Table 2 and depicted in Fig.
+0	NA	NA	NA	RESULTS	2a (p values for these markers in each analysis can be found in ESM Table 1).
+1	NA	PER3	NA	RESULTS	These top signals fall within eight genic regions: PER3, PARD3B, EPHA4, TOMM7, PTPRD, HNT (also known as RREB1), LOC729993 (also known as SHISA9), IL34, and six intergenic regions.
+0	NA	NA	NA	RESULTS	In general, the SNPs within these genic and intergenic regions represent single blocks of LD (r2 > 0.7).
+0	NA	PARD3B	NA	RESULTS	Aside from the SNPs in PARD3B and EPHA4, which have MAF of about 0.05, these signals are driven by common variation (MAF > 0.1) (Table 2).
+0	NA	NA	NA	RESULTS	We calculated heterogeneity in META (www.stats.ox.ac.uk/~jsliu/meta.html); we observed no excess of heterogeneity genome-wide and all Starr County top signals have heterogeneity p values >1 x 10-4 (Table 2).
+0	diabetes	NA	NA	RESULTS	Results for SNPs in LD with previously reported associated type 2 diabetes SNPs from the National Human Genome Research Institute (NHGRI) catalogue, Diabetes Genetics Replication and Meta-analysis Consortium (expanded dataset) (DIAGRAM+), as well as top signals identified in the previous GWAS in Starr County, were examined in detail (ESM Table 2).
+0	diabetes	CAPN10	NA	RESULTS	We also examined our results for variation within CAPN10, previously reported as a type 2 diabetes gene in Mexican-Americans, but key SNPs in the associated CAPN10 haplotypes were neither directly interrogated nor imputed
+0	NA	CSMD1	NA	RESULTS	The top meta-analysis signals fell within and near the genes CSMD1 and HNF1A; additional signals implicated LSAMP, FGF12, RP11-354K1.1, KCNQ1, ANK2, NIPAL2, RP11-74C3.1, CIT, C22orf30 (also known as PRR14L), EPHB2, MCPH1 and DEPDC5.
+0	NA	HNF1A	NA	RESULTS	Follow-up meta-analysis of top signals from the combined Mexican/Mexican-American studies with the recent DIAGRAM+ dataset identified genome-wide significant signals (p value <5x10-8) in or near susceptibility genes HNF1A and CDKN2A/CDKN2B, and suggestive evidence for IGF2BP2, KCNQ1 and the previously unreported C14orf70.
+0	NA	NA	NA	RESULTS	For additional details of the meta-analyses of these samples and follow-up of top signals in DIAGRAM+, please refer to the companion paper
+0	NA	NA	NA	RESULTS	In addition to physical proximity, we considered the roles that SNPs in the top signals play in transcript prediction.
+0	NA	NA	NA	RESULTS	Annotation of LD-pruned top signals (p value <1x10-3, r2<0.3) from the ordinal regression analysis in Starr County, with sex and age/dxage as covariates, identified 258 SNPs predicting transcript levels in LCLs, 289 in muscle, and 359 in adipose tissue.
+0	NA	NA	NA	RESULTS	The mean number of frequency matched SNPs that predict transcript levels in LCLs in 1,000 simulations was 252 (SD 12.17), suggesting no enrichment.
+0	NA	NA	NA	RESULTS	However, the maximum number of muscle and adipose eQTLs observed in 1,000 simulations was 173 and 193, respectively.
+0	NA	NA	NA	RESULTS	The distributions of eQTL counts established by simulations, as well as the actual observed counts in muscle and adipose tissues, are depicted in Fig.
+0	NA	NA	NA	RESULTS	3a, b (see ESM Fig.
+0	NA	NA	NA	RESULTS	4 for LCLs).
+0	NA	NA	NA	RESULTS	Notably, nearly all of the enrichment in muscle and adipose tissue is driven by trans-acting eQTLs; only three of the eQTLs observed in muscle, and eight in adipose tissue, were cis-acting.
+0	NA	NA	NA	RESULTS	In addition, we replicated the observed enrichment in muscle and adipose tissues in the top signals (defined as described above) from the analysis in the Mexico City sample (Fig.
+0	NA	NA	NA	RESULTS	4a, b).
+0	diabetes	NA	NA	RESULTS	A number of SNPs showing association for type 2 diabetes in our studies predicted gene expression across multiple tissues; 14 SNPs predict expression in all three tissues tested (ESM Fig.
+0	NA	NA	NA	RESULTS	5)
+0	diabetes	NA	NA	DISCUSS	As studies of genetic association in type 2 diabetes are pursued in non-European populations, it is important to recognise that, in populations with markedly increased disease rates, there may be room to improve on the case-control study design.
+0	NA	NA	NA	DISCUSS	In this case, we favour an approach that uses more information and recognises the staging of the disease, enabling us to recover a substantial number of individuals.
+0	Type 2 diabetes	NA	NA	DISCUSS	In general, the results of the ordinal and binary analyses are very similar, but including the intermediate class allows us to include more of the individuals in the sample, and should, therefore, provide a more complete picture of the association of genetic variation with the spectrum of phenotypes related to type 2 diabetes.
+0	NA	clock	NA	DISCUSS	Among the top signals in the ordinal analysis is a functional missense polymorphism in the clock gene PER3.
+0	metabolic disorder	clock	NA	DISCUSS	Substantial research has implicated circadian clock function in metabolic diseases, coronary function and obesity, but this signal is not replicated in the Mexico City sample (p value ~0.78)
+1	diabetes	PTPRD	NA	DISCUSS	Another top signal from the Starr County sample, as well as in the meta-analysis with Mexico City, implicates a previously reported type 2 diabetes risk gene PTPRD.
+1	NA	PTPRD	NA	DISCUSS	PTPRD, protein tyrosine phosphatase receptor type delta gene, was recently identified by GWAS in Han Chinese populations.
+0	NA	NA	NA	DISCUSS	Although the SNPs are both intronic, our result is 1.6 Mb downstream and represents an independent signal from within the gene (the SNPs are in linkage equilibrium in HapMap CHB + JPT as well as CEU samples).
+0	diabetes	protein tyrosine phosphatase receptor type D	NA	DISCUSS	The role of PTPRD in type 2 diabetes is not yet understood; however, when ablated in mice, genes in this subfamily induce defects in glucose homeostasis and insulin sensitivity
+0	diabetes	IL34	NA	DISCUSS	There is little literature suggesting roles for IL34, TOMM7, HNT or PARD3B, nor the intergenic regions, in diabetes; however, in HapMap Europeans, LD extends from several of these top regions to include candidate genes for type 2 diabetes.
+0	NA	PRMT8	NA	DISCUSS	For example, two intergenic SNPs on chromosome 12 are in high LD with PRMT8 (r2=0.764), a gene known to influence lipid levels.
+0	NA	NA	NA	DISCUSS	Yet, LD with a type 2 diabetes-related gene alone is not sufficient evidence of a SNP's functional role.
+0	NA	NA	NA	DISCUSS	To assess functional consequences of associated variants, we explored our findings in the context of gene regulation
+0	NA	NA	NA	DISCUSS	Previous studies have identified enrichment of eQTLs in trait associated SNPs.
+0	diabetes	NA	NA	DISCUSS	A recent study into the functional role of type 2 diabetes associated SNPs found an excess of eQTLs among signals from the Wellcome Trust Case Control Consortium and the Diabetes Genetics Initiative in muscle and adipose.
+0	NA	NA	NA	DISCUSS	The enrichment in these cases was driven almost exclusively by trans-acting eQTLs.
+0	diabetes	NA	NA	DISCUSS	This enrichment was robust to thresholds of eQTL p value (1 x 10-6 was also considered and a similar level of enrichment is still observed) and threshold of significance of type 2 diabetes association (top 1,000 and top 10,000 signals were analysed and enrichment was seen in both).
+0	NA	NA	NA	DISCUSS	We find similar enrichment in both the Starr County and Mexico City datasets.
+0	diabetes	NA	NA	DISCUSS	The lack of enrichment of eQTLs in LCLs, despite significant enrichment of eQTLs from muscle and adipose tissue, is likely to be attributable to the fact that LCLs as a cell type are not as relevant as muscle and adipose tissue to type 2 diabetes risk, and only a proportion of eQTLs are shared across tissues.
+0	diabetes	NA	NA	DISCUSS	The number of SNPs predicting transcript level in both muscle and adipose tissue is markedly higher (178) than those overlapping LCLs (33), suggesting concordance of regulatory action in muscle and adipose tissues in a large proportion of top type 2 diabetes associated SNPs in our study.
+0	diabetes	NA	NA	DISCUSS	Previous studies of eQTLs in LCLs in top type 1 diabetes associated loci have found significant enrichment, suggesting that lymphoblasts are a relevant tissue for type 1 diabetes; this is reassuring given the role of autoimmunity in the disease
+0	NA	NA	NA	DISCUSS	Of the 53 previously reported SNPs considered (drawn from the NHGRI catalogue, DIAGRAM+, and Hayes et al., and interrogated or represented by proxy SNP in the Starr County analyses) we identified seven markers with p value <0.05 and odds ratios in the same direction.
+0	NA	IGF2BP2	NA	DISCUSS	These markers are in or near IGF2BP2, WFS1, JAZF1, OR13D1-OR13D3P, KCNQ1, VPS33B, and EPB41L3-LOC645355.
+0	NA	NA	NA	DISCUSS	An additional 20 SNPs do not reach marginal significance in our dataset, but do show odds ratios in the same direction.
+0	NA	NA	NA	DISCUSS	Seventeen SNPs have previously reported confidence intervals for the odds ratios which overlap those observed in the Starr County dataset (all data shown in ESM Table 2)
+0	diabetes	NA	NA	DISCUSS	As in all GWASs of type 2 diabetes published to date, we lack power to detect the kinds of small effect we now know are likely to contribute to disease risk (see ESM Fig.
+0	NA	NA	NA	DISCUSS	6).
+0	diabetes	NA	NA	DISCUSS	However, the absence of support for a number of established type 2 diabetes genes is notable in this dataset.
+0	diabetes	TCF7L2	NA	DISCUSS	Of particular interest is the lack of association of SNPs within TCF7L2, the gene with the strongest associations with type 2 diabetes observed in Europeans.
+0	NA	NA	NA	DISCUSS	While the allele frequency of the variant most strongly associated in Europeans is lower in Asian populations, estimates of the odds ratios were quite similar.
+0	NA	NA	rs7903146	DISCUSS	In contrast, the frequency of the risk allele is similar in Mexican-Americans and Europeans, but the odds ratios are lower in both the Mexican-American and Mexico City datasets; in a fixed effects meta-analysis of SNP rs7903146 in our data and that of Voight et al., the heterogeneity p value is 0.05.
+0	NA	NA	rs7903146	DISCUSS	Our confidence intervals for rs7903146 also overlap, but just barely, according to DIAGRAM estimates
+0	NA	NA	NA	DISCUSS	The winner's curse, the tendency of a biased overestimate of effect in the first study to report an association and be successfully published, may explain the somewhat higher overestimates of effect in the top signals in the Starr County and Mexico City studies.
+0	NA	NA	NA	DISCUSS	In addition, ascertainment can contribute to these effects.
+0	NA	NA	NA	DISCUSS	For example, in Starr County, patients from families with two or more affected members were specifically targeted for the GWAS, which improves power, but leads to estimates of effect size that are larger than would be estimated in an unselected case series.
+0	diabetes	NA	NA	DISCUSS	In general, however, lack of replication is likely to be due to the fact that all studies of type 2 diabetes to date are under-powered to detect small effects, and therefore only detect association signals from some (probably different) subset of the contributing variants
+0	diabetes	NA	NA	DISCUSS	To identify, confirm, and characterise additional genetic risk factors for type 2 diabetes it is likely that we will need to continue studies in non-European populations, to explore new study designs and methods of analysis in high-risk groups, and to enhance GWAS with eQTL and other functional studies
+0	NA	NA	NA	FIG	PCA analysis of (a) study population from Starr County, TX, USA, and (b) study population from Mexico City.
+0	NA	NA	NA	FIG	Cases are shown in red, IGT/IFG samples are in green, gluconormal controls are in blue.
+0	NA	NA	NA	FIG	Both populations analysed together with a number of ancestral populations are shown in (c
+0	diabetes	NA	NA	FIG	Manhattan plot of -log10 (p values) at 1.8 million autosomal SNPs (a) and QQ plot of observed vs expected p values (b) of results of ordinal regression analysis on type 2 diabetes adjusted for age/dxage and se
+0	diabetes	NA	NA	FIG	Simulated distribution of eQTL counts for SNPs with allele frequencies matched to signals with p value <1 x 10-3 from the ordinal regression on type 2 diabetes adjusted for age/dxage and sex in the Starr County study population.
+0	NA	NA	NA	FIG	The black dot represents the actual eQTL count observed in SNPs with p value <1 x 10-3 in this analysis.
+0	NA	NA	NA	FIG	Results are shown for transcription prediction in adipose (a) and muscle (b) tissu
+0	diabetes	NA	NA	FIG	Simulated distribution of eQTL counts for SNPs with allele frequencies matched to signals with p value <1 x 10-3 from the ordinal regression on type 2 diabetes adjusted for age/dxage and sex in the Mexico City study population.
+0	NA	NA	NA	FIG	The black dot represents the actual eQTL count observed in SNPs with p value <1 x 10-3 in this analysis.
+0	NA	NA	NA	FIG	Results are shown for transcription prediction in adipose (a) and muscle (b) tissu
+0	diabetes	NA	NA	TABLE	Summary of top regions from GWAS of type 2 diabetes in Starr County Mexican-American

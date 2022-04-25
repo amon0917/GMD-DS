@@ -1,0 +1,186 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	The objective of this study is to find single nucleotide polymorphisms (SNPs) associated with a risk of Type 2 diabetes (T2D) in Korean adults and to investigate the longitudinal association between these SNPs and T2D and the interaction effects of iron intake and average hemoglobin level.
+0	NA	NA	NA	ABSTRACT	Data from the KoGES_Ansan and Ansung Study were used.
+0	NA	NA	NA	ABSTRACT	Gene-iron interaction analysis was conducted using a two-step approach.
+0	NA	NA	NA	ABSTRACT	To select candidate SNPs associated with T2D, a total of 7,935 adults at baseline were included in genome-wide association analysis (step one).
+0	NA	NA	NA	ABSTRACT	After excluding T2D prevalent cases, prospective analyses were conducted with 7,024 adults aged 40-69 (step two).
+0	NA	NA	NA	ABSTRACT	The association of selected SNPs and iron status with T2D and their interaction were determined using a Cox proportional hazard model.
+1	NA	CDKAL1	rs9465871	ABSTRACT	A total of 3 SNPs [rs9465871 (CDKAL1), rs10761745 (JMJD1C), and rs163177 (KCNQ1)] were selected as candidate SNPs related to T2D.
+1	NA	JMJD1C	rs10761745	ABSTRACT	Among them, rs10761745 (JMJD1C) and rs163177 (KCNQ1) were prospectively associated with T2D.
+0	NA	NA	NA	ABSTRACT	High iron intake was also prospectively associated with the risk of T2D after adjusting for covariates.
+0	NA	NA	NA	ABSTRACT	Average hemoglobin level was positively associated with T2D after adjusting for covariates in women.
+1	Inflammation Laboratory's JDRF	JMJD1C	rs10761745	ABSTRACT	We also found significant interaction effects between rs10761745 (JMJD1C) and average hemoglobin levels on the risk of T2D among women with normal inflammation and without anemia at baseline.
+1	NA	KCNQ1	NA	ABSTRACT	In conclusion, KCNQ1 and JMJD1C may prospectively contribute to the risk of T2D incidence among adults over the age of 40 and JMJD1C, but CDKAL1 may not, and iron status may interactively contribute to T2D incidence in women
+0	diabetes	NA	NA	INTRO	Diabetes is a huge and growing problem.
+0	diabetes	NA	NA	INTRO	The worldwide prevalence of diabetes in those aged 20-79 years was estimated to be 8.3% in 2011, including approximately 12.4% of Koreans aged >= 30 years.
+0	diabetes	NA	NA	INTRO	It has been estimated that the number of diabetic patients worldwide will reach 439 million adults by 2030, primarily due to population growth, lifestyle, and demographic changes
+0	NA	NA	NA	INTRO	Iron is a vital nutrient for humans and is a cofactor for various metabolic functions.
+0	NA	NA	NA	INTRO	However, excessive iron levels helps produce and amplify free radicals, which can lead to tissue damage.
+0	pancreatic	NA	NA	INTRO	In particular, because of inefficient hydrogen peroxide-inactivating enzymes, pancreatic beta cells are susceptible to oxidative stress.
+0	NA	NA	NA	INTRO	With the exception of direct tissue damage, elevated oxidative stress may directly lead to increased blood glucose levels.
+0	Type 2 diabetes	NA	NA	INTRO	Additionally, increased heme iron intake is significantly associated with a greater risk of Type 2 diabetes (T2D).
+0	NA	NA	NA	INTRO	There is a positive relationship between an increased risk of T2D and serum ferritin, an indicator of total body iron stores.
+0	NA	NA	NA	INTRO	Additionally, higher hemoglobin level is also associated with a high risk of T2D in women
+0	NA	Hepcidin	NA	INTRO	Hepcidin, a peptide hormone synthesized by hepatocytes, is a key modulator of dietary iron absorption and iron release from macrophages, and increasing body iron stores induce hepcidin synthesis.
+0	infection	Hepcidin	NA	INTRO	Production of hepcidin is also induced by infection and inflammation, which result in decreased iron absorption and iron release from macrophages.
+0	anaemia	Hepcidin	NA	INTRO	Conversely, anemia leads to a decrease in hepcidin production, thereby eliminating the inhibitory effect on intestinal iron absorption and release from macrophages.
+0	anaemia	NA	NA	INTRO	Thus, inflammatory status and anemia need to be considered in epidemiologic studies regarding iron status
+0	NA	NA	NA	INTRO	Environmental, genetic factors, and their interactions contribute to the development of T2D.
+0	NA	NA	NA	INTRO	Heritability for T2D was estimated to be about 26%.
+0	NA	NA	NA	INTRO	Interactions between genetic and environmental factors are likely to be important in the remaining variance, but such studies analyzing SNPs and dietary iron intake are sparse.
+0	hereditary hemochromatosis	HFE	NA	INTRO	Previously, one study suggested a potential interaction between hemochromatosis (HFE), a major regulator of iron homeostasis, and heme iron intake.
+0	NA	NA	NA	INTRO	However, another study did not find any new interactions between single nucleotide polymorphisms (SNPs) in the heme iron metabolic pathway and heme iron intake.
+0	NA	NA	NA	INTRO	Currently, it is unclear whether iron levels interact with SNPs on the risk of T2D
+0	NA	NA	NA	INTRO	To the best of our knowledge, there have been no studies investigating the interaction effects between iron intake and gene polymorphisms in the Asian population.
+0	NA	NA	NA	INTRO	Elucidating gene-iron interactions could enhance our understanding of the development of T2D and lead to effective personalized prevention of this disease.
+0	NA	NA	NA	INTRO	Therefore, the objectives of this study were as follows: 1) to find new SNPs associated with the risk of T2D in Koreans; 2) to investigate the prospective association between the SNPs and the risk of T2D; 3) to study the interaction effect between dietary iron intake and the SNPs, prospectively
+0	NA	NA	NA	METHODS	The study dataset was an ongoing community-based cohort included in the Korean Genome and Epidemiology Study (KoGES_Ansan and Ansung Study).
+0	NA	NA	NA	METHODS	Study participants consisted of 10,038 men and women recruited from the city of Ansan (5,020 participants), located 25 miles southwest of the capital city, Seoul, and the city of Ansung (5,018 participants), located 47 miles south of Seoul.
+0	NA	NA	NA	METHODS	Ansan is an industrialized community and Ansung is a rural area.
+0	NA	NA	NA	METHODS	The baseline study was conducted between June 18, 2001 and January 29, 2003 and follow-up examinations were conducted biennially with a scheduled site visit.
+0	NA	NA	NA	METHODS	The details of the study design and procedures are described in a previous report
+0	NA	NA	NA	METHODS	DNA samples were obtained from 10,004 participants in 2 cohorts.
+0	NA	NA	NA	METHODS	Through the sample and SNP quality controls, a total of 8,842 individuals were included in the data analysis.
+0	coronary artery disease	NA	NA	METHODS	We additionally excluded participants who did not answer to history taking in medicine (n 146), reported coronary artery disease (CAD), stroke, or cancer (n 354), did not complete the food frequency questionnaire (n 248), or reported an implausible energy intake (<500 kcal/d or >4,000 kcal/d), (n 159)
+0	NA	NA	NA	METHODS	The gene-iron interaction was conducted by a two-step approach.
+0	NA	NA	NA	METHODS	Three data sets were used (Fig 1).
+0	NA	set1	NA	METHODS	The first step was a screening step using data set 1 and set 2 and the second was a gene-iron interaction step using data set 3.
+0	NA	NA	NA	METHODS	To select candidate SNPs for the gene-iron interaction analysis, association analyses between genes and T2D were conducted in the first step.
+0	NA	set1	NA	METHODS	This step was composed of two data sets for a genome-wide association (GWA) analysis: one data set (set 1) consisted of 7,935 participants (911 prevalent cases and 7,024 non-cases (3811 men and 4124 women), and the second dataset (set 2) consisted of 1895 cases (911 prevalent cases and 984 incident cases) and 6,040 non-cases.
+0	NA	set1	NA	METHODS	We then prospectively examined whether the SNPs identified in step 1 were associated with T2D and interacted with iron to influence the risk of T2D, after excluding the prevalent cases (n 911) of set 1 (set 3, n 7,024) in the second step.
+0	NA	NA	NA	METHODS	All procedures involving human subjects were approved by the Institutional Review Board of Kyung Hee University in accordance with the Declaration of Helsinki.
+0	NA	NA	NA	METHODS	Written informed consent was obtained from all subjects
+0	NA	NA	NA	METHODS	Participants completed comprehensive health examinations and interviewer-administered questionnaires, which contained questions on demographic information, medical history, family history, and lifestyles.
+0	NA	NA	NA	METHODS	Interviewers were trained how to administer the questionnaire with a standardized manual and all procedures were conducted with a standardized protocol.
+0	NA	NA	NA	METHODS	Participants were weighed in kilograms to the nearest 0.1 kg and height was measured within 0.1 cm without shoes.
+0	NA	NA	NA	METHODS	Body mass index (BMI) was calculated as weight (kg)/height (m2).
+0	NA	NA	NA	METHODS	Waist circumference (WC) was measured at the narrowest part between the lowest rib and the iliac crest to the nearest 0.1 cm.
+0	NA	NA	NA	METHODS	Blood pressure was measured in the supine position with mercury sphygmomanometers.
+0	NA	NA	NA	METHODS	red to a central laboratory (Seoul Clinical Laboratories, Seoul, Korea) for measuring serum concentrations of glucose, triglyceride, total cholesterol, HDL-cholesterol, high-sensitivity C-reactive protein (hsCRP), and for measuring the whole blood concentration of hemoglobin.
+0	NA	NA	NA	METHODS	Fasting glucose, triglyceride, total cholesterol, and HDL-cholesterol were measured using an autoanalyzer and hsCRP was measured by immunoradiometric assay (ADVIA1650; Siemens, NY, USA).
+0	NA	NA	NA	METHODS	Hemoglobin was measured by an autoanalyzer (ADVIA120; Siemens, NY, USA)
+0	NA	Hepcidin	NA	METHODS	Although hepcidin peptide hormone and serum ferritin may be more valid biomarkers of iron status, there was unfortunately no data on these markers in the Ansung-Ansan cohort.
+0	NA	Hepcidin	NA	METHODS	Since it has been reported that serum hemoglobin level was associated with ferritin, hepcidin, and the risk of T2D, we used hemoglobin levels as a surrogate biomarker of iron status.
+0	NA	NA	NA	METHODS	The central 95 percentile intervals for hemoglobin were 13.3-16.7 g/dL in men and 11.6-14.2 g/dL in women.
+0	NA	NA	NA	METHODS	We calculated the average hemoglobin level between baseline and before diagnosis of T2D to reflect long-term iron status.
+0	NA	NA	NA	METHODS	We classified participants into 3 groups: <13.3g/dL, 13.3-16.7 g/dL, and >16.7 g/dL in men; <11.6g/dL, 11.6-14.2 g/dL, and >14.2 g/dL in women.
+0	NA	NA	NA	METHODS	Normal average hemoglobin levels were 13.3g/dl for men and 11.6 g/dl for women in this population
+0	NA	NA	NA	METHODS	A semi-quantitative food frequency questionnaire (FFQ) with 103 food items was used to estimate nutrient intake.
+0	NA	NA	NA	METHODS	The validity and reproducibility of the FFQ have been previously assessed in detail.
+0	NA	NA	NA	METHODS	Estimation of nutrient intake was done using the seventh edition Food Composition Table of Korea.
+0	NA	NA	NA	METHODS	Nutrient intake was adjusted for total energy intake using the residual method in men and women, separately.
+0	NA	NA	NA	METHODS	Participants were grouped in tertiles by dietary iron intake
+0	NA	NA	NA	METHODS	DNA samples were genotyped on the Affymetrix Genome-Wide Human SNP Array 5.0 using 500 ng of genomic DNA.
+0	NA	NA	NA	METHODS	The Bayesian Robust Linear Modeling using Mahalanobis Distance (BRLMM) Genotyping Algorithm was employed for genotype calling of 500,568 SNPs.
+0	NA	NA	NA	METHODS	Markers with low minor allele frequency (MAF), high missing gene call rate (>5%), significant deviation from Hardy-Weinberg equilibrium (P < 1 x 10-6) were excluded, resulting in a total of 352,228 SNPs.
+0	NA	NA	NA	METHODS	Further details regarding the genotype calling and quality control processes are described in a previous study
+0	NA	set1	NA	METHODS	The prevalent T2D cases and/or incident T2D cases were used as T2D cases in the analyses for candidate SNPs screening (only prevalent cases were included in set 1; prevalent and incident cases in set 2) and only incident cases were used for interaction analysis (only incident cases in set 3).
+0	NA	insulin	NA	METHODS	If a participant reported treatment of T2D by hypoglycemic medications (oral anti-diabetic drugs and/or insulin) and/or satisfied the World Health Organization criteria for T2D (FPG >= 7.0 mmol/l (126 mg/dl) and/or plasma glucose 2-h after ingestion of 75g oral glucose load >= 11.1mmol/l (200mg/dl) at baseline, the participant was defined as a prevalent T2D case.
+0	NA	NA	NA	METHODS	For the diagnosis of incident T2D case, the identical criteria of diagnosis of prevalent T2D cases were applied for self-reported T2D and fasting and oral glucose loading blood glucose levels at each follow-up visit.
+0	NA	NA	NA	METHODS	Participants were followed biennially for 10 years (2001-2010) with repeated measurements using validated questionnaires and health examinations to acquire updated information on lifestyle factors and disease status at each visit.
+0	NA	NA	NA	METHODS	Using this information for 10 years, we ascertained incident cases of T2D (n 984)
+0	diabetes	NA	NA	METHODS	The sex difference in the prevalence of diabetes have been reported from previous studies.
+0	NA	insulin	NA	METHODS	Men may have generally higher fasting plasma glucose level than women because men's hepatic sensitivity to insulin tend to be lower.
+0	NA	NA	NA	METHODS	In addition, since men and women have different life style, all analyses were conducted for men and women, separately
+0	NA	NA	NA	METHODS	Association analysis between SNPs and T2D was conducted using Plink (http://pngu.mgh.harvard.edu/~purcell/plink2/) and SAS software (version 9.3; SAS Institute, Cary, NC).
+0	NA	NA	NA	METHODS	The gene-iron interaction was conducted by a two-step approach.
+0	NA	NA	NA	METHODS	The first step was a screening step and the second a gene-iron interaction step.
+0	NA	set1	NA	METHODS	In the first step, the association analysis of 352,228 genotyped SNPs and T2D was performed under an additive logistic regression model after adjusting for age, sex, BMI, and residential area using data set 1 and set 2.
+0	Type 2 diabetes	NA	NA	METHODS	We screened out SNPs that had either a weak relationship to type 2 diabetes (P>=5x10-6).
+0	NA	set1	NA	METHODS	A total of 8 SNPs in set 1 and 2 SNPs in set 2 passed the criteria (P<5x10-6).
+0	NA	CDKAL1	NA	METHODS	For 8 SNPs on CDKAL1 in set 1, we additionally examined the linkage disequilibrium (LD) analyses.
+1	NA	NA	rs7747752	METHODS	Eight SNPs were located on identical genes and loci and showed strong LDs of r2 = 0.90 (rs7747752), 0.86 (rs2328549), 0.90 (rs7767391), 0.63 (rs9460546), 0.63 (rs7754840), 0.63 (rs6456368), and 0.64 (rs10946398), with rs9465871 having the lowest P value.
+1	NA	NA	rs9465871	METHODS	Therefore, only rs9465871 was included in the following analysis.
+1	NA	set1	rs9465871	METHODS	Finally, 3 SNPs were selected (Table 1) for gene-iron interaction analysis: one SNP was selected from set 1 [(rs9465871 on CDKAL1 (CDK5 regulatory subunit associated protein 1-like 1)] and two SNPs [rs10761745 on JMJD1C (jumonji domain containing 1C) and rs163177 on KCNQ1 (potassium voltage-gated channel KQT-like subfamily, member 1)] were adopted from set 2.
+1	NA	CDKAL1	NA	METHODS	While the association between CDKAL1 and T2D has been well known in GWAS study using prevalent cases and also KCNQ1 was identified as a T2D susceptibility gene in Asian and European populations, there was no evidence on the association between JMJD1C and T2D
+0	NA	NA	NA	METHODS	In data set 3, for each participant, person-time were calculated from baseline survey to the date of T2D diagnosis, loss to follow-up, or the end of final survey in 2010, whichever came first.
+0	NA	NA	NA	METHODS	A Cox proportional hazard model was applied to model time to incident T2D events and hazard ratios (HRs) and 95% confidence intervals (CIs) were obtained.
+0	NA	NA	NA	METHODS	The prospective association between these 3 SNPs finally selected in the screening step and T2D incidence and the interaction between SNPs and iron status on T2D were confirmed and examined using a Cox proportional hazard model (Table 1)
+0	NA	NA	NA	METHODS	In the second step, all analyses were separately performed for men and women in set 3.
+0	NA	NA	NA	METHODS	Descriptive statistics on the baseline characteristics for men and women are shown in S1 Table.
+0	NA	NA	NA	METHODS	Potential confounders were evaluated using an age-adjusted general linear model and only variables exhibiting significant linear trends across tertiles of iron intake or hemoglobin levels groups were included in multivariable analyses as confounders
+0	NA	NA	NA	METHODS	The validity of the proportional hazards assumption was assessed using two different approaches.
+0	NA	NA	NA	METHODS	First, the assumption was graphically assessed by log-log plots.
+0	NA	NA	NA	METHODS	Second, the proportional hazards assumption was examined using a time-dependent covariate by including an interaction term between the main exposure (iron intake) and log of follow-up time.
+0	NA	NA	NA	METHODS	The time-dependent covariate was not statistically significant (P = 0.5744 in men; P = 0.1412 in women) and the proportionality was reasonable.
+0	NA	NA	NA	METHODS	The interaction was assessed by comparing nested models with and without interaction terms using the likelihood ratio test.
+0	NA	NA	NA	METHODS	Based on Bonferroni correction, statistical significance was set at 0.0083 for multiple testing (6 tests; 3 SNPs for men and women).
+0	NA	NA	NA	METHODS	Additionally, a false discovery rate (FDR) correction was used with a threshold of < 0.1 for statistical significance
+0	NA	NA	NA	RESULTS	Table 1 shows the candidate SNPs from the screening step.
+1	NA	set1	rs10761745	RESULTS	Among the three SNPs from sets 1 and 2, CDKAL1 was not associated with incident risk of T2D, but the JMJD1C polymorphism in the rs10761745 region (C>G) (HR = 0.82 and P = 5.30x10-5) and the KCNQ1 polymorphism in the rs163177 region (T>C) were significantly associated with an increased risk of T2D (HR = 1.17 and P = 6.25x10-4)
+0	NA	NA	NA	RESULTS	The general characteristics of the participants by dietary iron intake tertiles and average hemoglobin level groups are shown in Table 2.
+0	NA	NA	NA	RESULTS	Men in the highest tertile of iron intakes tended to be slightly younger, unlikely to be former drinker and current smoker, and to have lower carbohydrate intake comparing with those in the lowest tertile, while they tended to have higher BMI and WC, to have higher intakes of protein, fat, zinc, vitamin C, tea, and meat, to be residents in Ansan, and to be more likely current drinker, regular exerciser, and dietary supplement user.
+0	NA	NA	NA	RESULTS	In women, those with a higher iron intake tended to be younger, had a lower carbohydrate intake, were more likely to be residents of Ansan, had a higher education level, were dietary supplementary users, and had a higher intake of protein, fat, zinc, vitamin C, tea, and meat.
+0	NA	NA	NA	RESULTS	In comparison with average hemoglobin level groups, we noted that men in the highest average hemoglobin group tended to be younger.
+0	NA	NA	NA	RESULTS	Compared to the lowest average hemoglobin group, men in the highest group had a high school or above education and were more likely to be current smokers.
+0	NA	NA	NA	RESULTS	Women in the highest average hemoglobin group tended to be older, lived in an urban area, and were more likely to be a current drinker.
+0	NA	NA	NA	RESULTS	Compared to women in the lowest average hemoglobin group, the highest group had a lower proportion of former smokers and consumed more energy, carbohydrates, protein, and tea.
+0	NA	NA	NA	RESULTS	BMI and WC increased across the average hemoglobin level groups in men and women.
+0	NA	NA	NA	RESULTS	Variables showing significant trends across tertiles of iron intake or hemoglobin level groups in Table 2 were adjusted as potential confounders in Tables 3 and 4
+0	NA	NA	NA	RESULTS	Table 3 shows the multivariable-adjusted HRs for T2D by tertiles of iron intake and average hemoglobin level groups.
+0	NA	NA	NA	RESULTS	Dietary iron intake was significantly positively associated with T2D after adjusting for age, residential area, WC, education, drinking status, smoking status, regular exercise, dietary supplement use, and carbohydrate, zinc, vitamin C, tea, and meat intake in men; a similar trend was found in women after adjusting for age, residential area, education, regular exercise, dietary supplement use, and carbohydrate, zinc, vitamin C, tea, and meat intake (3rd vs. 1st tertile: HR = 1.36, 95% CI = 1.04-1.78, P = 0.0272 for trend in men; HR = 1.59, 95% CI = 1.18-2.14, and P = 0.0023 for trend in women).
+0	NA	NA	NA	RESULTS	Average hemoglobin level was significantly positively associated with T2D after adjusting for age, residential area, smoking status, WC, and energy and tea intake in women (highest group vs. lowest group: HR = 1.76, 95% CI = 1.06-2.94, and P for trend<0.0001).
+0	NA	NA	NA	RESULTS	A linear trend of the risk of T2D was identified in men (P for trend<0.0001).
+1	NA	CDKAL1	rs9465871	RESULTS	We then evaluated whether genetic polymorphisms of CDKAL1 (rs9465871), JMJD1C (rs10761745), and KCNQ1 (rs163177) and iron interacted in the development of T2D, where the minor alleles of CDKAL1 and JMJD1C were used as references to calculate HR (Table 3).
+0	NA	NA	NA	RESULTS	We did not find significant interaction effects on the risk of T2D between the 3SNPs with iron intake and average hemoglobin levels at Bonferroni and FDR significance levels.
+1	NA	KCNQ1	rs163177	RESULTS	However, using a significance threshold of P<0.05, we found that rs163177 (KCNQ1) interacted with iron intake in men (P for interaction = 0.0193, FDR = 0.1158) and rs10761745 (JMJD1C) interacted with average hemoglobin levels in women (P for interaction = 0.0417, FDR = 0.2502)
+0	Inflammation Laboratory's JDRF	NA	NA	RESULTS	Table 4 shows the prospective interaction effects between gene and iron status after excluding subjects with hsCRP>=1.0 mg/dL or average hemoglobin level <13.3/11.6 g/dL (men/women) in order to reduce confounding effects related to inflammation and anemia.
+1	NA	JMJD1C	rs10761745	RESULTS	In women, rs10761745 (JMJD1C) had significant average hemoglobin level-dependent effects on the risk of T2D (P for interaction = 0.0077, FDR = 0.0462).
+1	NA	JMJD1C	rs10761745	RESULTS	Using a significance threshold of P<0.05, iron intake significantly interacted with rs10761745 (JMJD1C) in women (P for interaction = 0.0493, FDR = 0.1479) and rs163177 (KCNQ1) in men
+1	NA	JMJD1C	NA	DISCUSS	In the present study, we identified that loci JMJD1C at 10q21.2 and KCNQ1 at 11p15.5 were prospectively significantly associated with the risk of T2D.
+0	NA	NA	NA	DISCUSS	Iron intake was significantly associated with the risk of T2D in men and women and average hemoglobin level also showed a significant linear trend with T2D in men and women.
+1	NA	JMJD1C	NA	DISCUSS	JMJD1C interacted with average hemoglobin levels in women on the risk of T2D after excluding subjects with hsCRP>= 1.0 mg/dL or an average Hgb level <13.3/11.6 g/dL (men/women).
+0	NA	CDKAL1	NA	DISCUSS	Interestingly, in our study, we found no significant association between CDKAL1 and T2D risk
+0	NA	NA	NA	DISCUSS	The association between higher total iron intake and an increased risk of T2D among women in the present study disagrees with a meta-analysis that established that non-heme iron and total iron intake were not associated with a higher risk of T2D.
+0	NA	NA	NA	DISCUSS	We did not find any association between iron intake from animal sources and T2D in additional analysis (data not shown).
+0	NA	NA	NA	DISCUSS	However, this meta-analysis included 11 prospective studies consisting of 10 Western countries (including USA, Finland, and UK) and 1 Asian country (China).
+0	NA	NA	NA	DISCUSS	It was likely that dietary differences contributed to this discrepancy.
+0	NA	NA	NA	DISCUSS	In Korea, the major source of iron is rice and vegetables, mostly containing non-heme iron.
+0	NA	NA	NA	DISCUSS	Total iron intake was positively correlated with serum ferritin and green leafy vegetables were also a determinant of hemoglobin level.
+0	NA	NA	NA	DISCUSS	A Chinese study showed that subjects who acquired most of their iron from non-heme iron sources in rural areas had adequate ferritin levels.
+0	NA	NA	NA	DISCUSS	Although heme iron has a higher bioavailability, non-heme iron and heme iron are not distinguishable after absorption.
+0	NA	HFE	NA	DISCUSS	Furthermore, the adaptive HFE variants in Asians likely contributed to elevated iron absorption.
+0	NA	NA	NA	DISCUSS	Therefore, total iron intake can influence the risk of T2D even when non-heme iron was the major source of intake
+0	NA	NA	rs10761745	DISCUSS	In the present study, a SNP in the 10q21 region (rs10761745) was significantly associated with a lower risk of T2D.
+0	Inflammation Laboratory's JDRF	NA	NA	DISCUSS	Among participants with no pathologic inflammation (hsCRP levels >=1.0 mg/dL) and without anemia at baseline, the interaction effect between the SNP in the 10q21 region and average hemoglobin level was identified in women.
+1	NA	JMJD1C	NA	DISCUSS	Four genes (JMJD1C, EGR2, NRBF2, and REEP3) are located in the 10q21 region.
+1	diabetes	JMJD1C	NA	DISCUSS	Although the function of JMJD1C is unclear until now, of four genes, JMJD1C may be the most plausible candidate gene as a type 2 diabetes susceptibility gene, because previous studies have reported that JMJD1C may be associated with serum sex hormone-binding globulin (SHBG) levels and serum androgen levels that may influence pathogenesis of type 2 diabetes.
+1	NA	CDKAL1	NA	DISCUSS	To date, no study has reported on the interaction effects of genetic variations of CDKAL1, JMJD1C, or KCNQ1 with iron intake on the risk of T2D.
+0	NA	HFE	NA	DISCUSS	A potential interaction between HFE genetic variation and heme iron intake has been previously suggested, but no SNPs have been found in the heme iron metabolic pathway showing significant interactions with heme iron intake.
+1	NA	JMJD1C	NA	DISCUSS	SNPs at locus JMJD1C have been reported to have a negative correlation with lipoprotein level and a positive correlation with plasma alkaline phosphate.
+1	NA	JMJD1C	rs7910927	DISCUSS	A SNP (rs7910927) at locus JMJD1C was associated with increased serum SHBG levels in men and women.
+1	NA	JMJD1C	rs10761745	DISCUSS	In LD analysis, rs10761745 identified in the present study and rs7910927 at JMJD1C were in high LD (D' = 1.00).
+0	NA	sex hormone-binding globulin	rs10761745	DISCUSS	Thus, rs10761745 may be involved in regulating levels of SHBG.
+0	NA	sex hormone-binding globulin	NA	DISCUSS	Higher SHBG means lower bioavailable testosterone (free and albumin-bound testosterones), which may result in reduced hepcidin suppression.
+0	NA	Hepcidin	NA	DISCUSS	Androgens may indirectly contribute to erythropoiesis through the suppression of hepcidin, which is a key peptide hormone regulating iron homeostasis.
+0	NA	NA	NA	DISCUSS	This may result in increased iron export into blood from enterocytes, thereby changing body iron stores.
+0	NA	Hepcidin	NA	DISCUSS	Hence, reduced hepcidin suppression may cause decreased dietary iron absorption and iron release from macrophages.
+0	NA	NA	NA	DISCUSS	Therefore, decreased dietary iron absorption and iron release from macrophages may help reduce the risk of T2D
+1	NA	KCNQ1	rs163177	DISCUSS	Genetic variation of KCNQ1 (rs163177) was associated with development of T2D in this study.
+1	NA	KCNQ1	rs2237892	DISCUSS	Indeed, the major allele (C) of rs2237892 in KCNQ1, which was in high linkage disequilibrium (LD) with rs163177 (D' = 1.00), was significantly associated an increased risk of T2D.
+0	NA	NA	rs2237892	DISCUSS	In a meta-analysis, the summary per-allele odds ratio of the C variant of rs2237892 for T2D was 1.32 (95% CI: 1.26-1.38).
+1	pancreatic	KCNQ1	NA	DISCUSS	This could be explained by the fact that KCNQ1 encodes the pore-forming subunit of a voltage-gated K+ channel (KvLQT1) and is also expressed in pancreatic islets; thus, variants of KCNQ1 may be in connection with insulin section.
+1	NA	KCNQ1	NA	DISCUSS	On the contrary, KCNQ1 mutation may reduce gastric acid secretion, which could cause decreased absorption of ferric iron and thereby reduce the risk of T2D.
+1	NA	KCNQ1	NA	DISCUSS	Although KCNQ1 may be related to iron metabolism, it is likely that its beneficial influence on T2D is weaker than its harmful effects
+0	NA	CDKAL1	NA	DISCUSS	In this study, we identified that there was cross-sectional association between variants near CDKAL1 and T2D, but the variants were not associated with incidence of T2D.
+1	NA	CDKAL1	rs7754840	DISCUSS	A GWAS study in a Chinese Han Population has reported that the four CDKAL1 SNPs (rs7754840, rs10946398, rs7756992, and rs9465871) were cross-sectionally associated with T2D (range of odds ratio: 1.38-1.49; P < 1.9 x 10-5)
+0	NA	CDKAL1	NA	DISCUSS	The lack of an association between CDKAL1 and the incidence of T2D is not in line with previous cross-sectional observations, but does agree with a prospective study in the U.S..
+0	NA	NA	NA	DISCUSS	The definite function of this gene is not well known.
+0	insulin deficiency	CDKAL1	NA	DISCUSS	However, Genome-wide association studies (GWAS) have reported that variants of CDKAL1 was significantly associated with reduced insulin secretion.
+0	NA	CDKAL1	NA	DISCUSS	Therefore, the function of CDKAL1 may be related to beta-cell function.
+0	NA	CDKAL1	NA	DISCUSS	We could not assert why CDKAL1 was not detected as a SNP affecting T2D incidence in this longitudinal analysis.
+0	diabetes	NA	NA	DISCUSS	However, because the present study population was composed of subjects aged 40-69 years in the baseline survey and only non-diabetic subjects were included in the prospective analyses, the influence of genes on the incidence of T2D may be diminished compared to a population including diabetics diagnosed at a younger age.
+0	NA	NA	NA	DISCUSS	The strengths of the environmental (dietary) and genetic effects may change over the course of a lifetime; genetic effects may decrease with age as environmental effects exert more influence.
+0	NA	NA	NA	DISCUSS	This finding suggests that SNPs previously found in case-control analyses need to be confirmed in a longitudinal study design and that our results need to be pursued in future large-scale cohort studies
+0	NA	NA	NA	DISCUSS	Our study has some limitations.
+0	NA	NA	NA	DISCUSS	First, serum ferritin is the most widely used biomarker of body iron status, but it was not examined in the present study.
+0	NA	Hepcidin	NA	DISCUSS	Serum ferritin may be a better indicator of body iron status than iron intake and hemoglobin, but hemoglobin levels are related to serum ferritin and hepcidin.
+0	NA	NA	NA	DISCUSS	Because 1-year FFQ depends upon the long-term memory of participants, dietary intake accuracy may be lower.
+0	NA	NA	NA	DISCUSS	In addition, we could not integrate FFQs of the first and third surveys because different questionnaires were used; therefore, we could not calculate average iron intake.
+0	NA	NA	NA	DISCUSS	Another limitation was that we did not have information on the form of iron (heme/non-heme iron), which is important in determining the bioavailability of iron.
+0	NA	NA	NA	DISCUSS	Regardless of these limitations, the strength of the present study was a population-based prospective cohort study with genome data and repeated measures of hemoglobin.
+1	NA	JMJD1C	NA	DISCUSS	In addition, the present study provided the first longitudinal evidence on the interaction effect between a SNP of JMJD1C with iron intake and hemoglobin level
+1	NA	JMJD1C	NA	DISCUSS	In conclusion, SNPs of JMJD1C at 10q21.2 and KCNQ1 at 11p15.5 were prospectively associated with the risk of T2D.
+0	NA	CDKAL1	NA	DISCUSS	Additionally, CDKAL1 may not be associated with T2D onset over the age of 40.
+0	NA	NA	NA	DISCUSS	Results from our study confirm that iron intake and hemoglobin levels are associated with a higher risk of T2D.
+1	Inflammation Laboratory's JDRF	JMJD1C	NA	DISCUSS	In addition, we found that for women, a SNP of JMJD1C was interacted with average hemoglobin level on the risk of T2D among participants with normal inflammation and without anemia.
+1	NA	JMJD1C	NA	DISCUSS	However, further study on the function of JMJD1C is necessary to confirm these associations for prevention and/or treatment of T2D

@@ -1,0 +1,171 @@
+0	breast cancer	NA	NA	ABSTRACT	Genome wide association studies (GWAs) of breast cancer mortality have identified few potential associations.
+0	NA	NA	NA	ABSTRACT	The concordance between these studies is unclear.
+0	NA	NA	NA	ABSTRACT	In this study, we used a meta-analysis of two prognostic GWAs and a replication cohort to identify the strongest associations and to evaluate the loci suggested in previous studies.
+0	NA	NA	NA	ABSTRACT	We attempt to identify those SNPs which could impact overall survival irrespective of the age of onset
+0	NA	NA	NA	ABSTRACT	To facilitate the meta-analysis and to refine the association signals, SNPs were imputed using data from the 1000 genomes project.
+0	breast cancer	NA	NA	ABSTRACT	Cox-proportional hazard models were used to estimate hazard ratios (HR) in 536 patients from the POSH cohort (Prospective study of Outcomes in Sporadic versus Hereditary breast cancer) and 805 patients from the HEBCS cohort (Helsinki Breast Cancer Study).
+0	NA	NA	NA	ABSTRACT	These hazard ratios were combined using a Mantel-Haenszel fixed effects meta-analysis and a p-value threshold of 5x10-8 was used to determine significance.
+0	NA	POSH	NA	ABSTRACT	Replication was performed in 1523 additional patients from the POSH study
+0	NA	NA	NA	ABSTRACT	Although no SNPs achieved genome wide significance, three SNPs have significant association in the replication cohort and combined p-values less than 5.6x10-6.
+1	NA	ARRDC3	rs421379	ABSTRACT	These SNPs are; rs421379 which is 556 kb upstream of ARRDC3 (HR = 1.49, 95% confidence interval (CI) = 1.27-1.75, P = 1.1x10-6), rs12358475 which is between ECHDC3 and PROSER2 (HR = 0.75, CI = 0.67-0.85, P = 1.8x10-6), and rs1728400 which is between LINC00917 and FOXF1
+0	NA	NA	NA	ABSTRACT	In a genome wide meta-analysis of two independent cohorts from UK and Finland, we identified potential associations at three distinct loci.
+0	NA	NA	NA	ABSTRACT	Phenotypic heterogeneity and relatively small sample sizes may explain the lack of genome wide significant findings.
+0	NA	NA	NA	ABSTRACT	However, the replication at three SNPs in the validation cohort shows promise for future studies in larger cohorts.
+0	breast cancer	NA	NA	ABSTRACT	We did not find strong evidence for concordance between the few associations highlighted by previous GWAs of breast cancer survival and this study
+0	breast cancer	NA	NA	INTRO	Although the incidence of breast cancer has been relatively stable since 2003, at 157 new cases per 100,000, it remains the most common cancer in the UK and accounts for 31% of new cancer cases in women.
+0	breast cancer	NA	NA	INTRO	The latest age-standardised survival rate for breast cancer in England is predicted to be 85% at 5 years, falling to 65% at 20 years.
+0	cancers	NA	NA	INTRO	Traditionally prognostic information is derived from tumour phenotypic characteristics including tumour size, stage, and grade.
+0	cancers	ER	NA	INTRO	These tumour phenotypes and cancer cell surface receptors such as oestrogen receptor (ER) and human epidermal growth factor receptor 2 (HER2) are also used to guide treatment.
+0	breast cancer	NA	NA	INTRO	Although the breast cancer survival rate has improved, the response to treatment and longevity of patients is often unpredictable even between those with similar tumours and general health.
+0	cancers	NA	NA	INTRO	More recently tumour genomic profiling experiments have suggested cancer molecular signatures may give more accurate prognostic information.
+0	NA	NA	NA	INTRO	These signatures may predict outcome better than conventional histopathology based risk algorithms but are not in routine clinical use
+0	breast cancer	NA	NA	INTRO	Familial studies suggest a genetic component for breast cancer prognosis.
+0	cancers	NA	NA	INTRO	The familial contribution to prognosis may arise as a result of the background genotype affecting acquired tumour characteristics which influence prognosis.
+0	breast cancer	NA	NA	INTRO	Indeed high penetrance predisposition genes which lead to the consistent development of specific breast tumour sub-types have been identified.
+0	breast cancer	ER	NA	INTRO	Low penetrance risk SNPs tend to be associated with either ER positive or ER negative breast cancer but often not both.
+0	cancers	NA	NA	INTRO	In addition there may be pharmacogenomic effects of background genotype on response to cancer treatment.
+0	NA	NA	NA	INTRO	It is anticipated that genome wide association studies (GWAs) with sufficient sample size and genetic coverage may lead to novel insights into common inherited genetic variants which influence prognosis
+0	breast cancer	NA	NA	INTRO	In the past few years several GWAs of breast cancer survival have been reported.
+0	NA	NA	NA	INTRO	These studies have had limited success and none of them have identified variants that are associated at genome wide levels of significance.
+0	NA	NA	NA	INTRO	While small sample sizes are likely to be of one of the main factors responsible for the modest levels of significance and lack of concordance between the GWAs; small effect sizes, incomplete genetic coverage, and phenotypic heterogeneity could also contribute and need to be addressed
+0	breast cancer	POSH	NA	INTRO	In this study, we used a meta-analysis to combine evidence from two GWAs consisting of 536 patients from the POSH cohort (Prospective study of Outcomes in Sporadic versus Hereditary breast cancer) and 805 patients from the HEBCS cohort (Helsinki Breast Cancer Study).
+0	NA	POSH	NA	INTRO	A further 1523 patients from the POSH cohort were used to validate the most significant SNPs.
+0	NA	MAF	NA	INTRO	With a combined sample size of 2864 participants, this analysis has 81% power to detect effects of modest sizes (HR>=1.25, p = 0.05) and with relatively rare SNPs (MAF = 10%).
+0	breast cancer	NA	NA	INTRO	The cohorts used in this analysis have a high incidence of breast cancer related mortality and well documented tumour and treatment data which make them ideal for the purpose of exploring genetic factors influencing prognosis.
+0	breast cancer	NA	NA	INTRO	In addition, these cohorts are similar in terms of their patient recruitment from regional medical centres, duration of prospective follow-up, and documentation of breast cancer related mortality
+0	NA	POSH	NA	METHODS	All participants from POSH and Helsinki gave written informed consent, all were female.
+0	NA	POSH	NA	METHODS	The POSH study received approval from the South and West Multi-centre Research Ethics Committee (MREC 00/6/69).
+0	breast cancer	NA	NA	METHODS	The Helsinki breast cancer study received approval from the Ethical Committee of the Departments of Oncology and Obstetrics and Gynaecology, Helsinki University Central Hospital
+0	breast cancer	POSH	NA	METHODS	Breast cancer cases were selected from the POSH study and the Helsinki breast cancer family Study (HEBCS).
+0	breast cancer	POSH	NA	METHODS	POSH study participants were diagnosed with invasive breast cancer and were aged forty or younger at diagnosis, the mean age at diagnosis in this cohort is 36 years.
+0	NA	POSH	NA	METHODS	Recruitments to the POSH cohort were made between January 2000 and January 2008 from oncology clinics across the UK and the majority (98%) of patients presented symptomatically.
+0	NA	POSH	NA	METHODS	The recruitment, data collection and follow up procedures for the POSH study participants are described in detail elsewhere
+0	breast cancer	NA	NA	METHODS	The HEBCS samples were collected in Helsinki, Finland and are representative of breast cancer case series at the recruitment centre during the collection periods (unselected sporadic and familial cases collected between 1997 and 2004).
+0	NA	NA	NA	METHODS	All of the cases used in the meta-analysis had histopathological and survival data.
+0	NA	NA	NA	METHODS	Detailed information on the patient series and data collection has previously been published.
+0	NA	NA	NA	METHODS	The mean age at diagnosis was 56.8 years
+0	NA	POSH	NA	METHODS	In stage-1, 574 participants from the POSH study were selected for the discovery phase of the analysis aimed at hypothesis generation.
+0	breast cancer	NA	NA	METHODS	"In keeping with a recent GWAS which identified five new breast cancer susceptibility loci by enriching cases by recruiting individuals with family history of breast cancer, sample selection for stage-1 utilised an ""extreme phenotype"" approach, this included selection of triple negative cases genotyped in a collaboration aimed at risk associated SNPs in triple negative breast cancer and a second group enriched for exceptionally short survival genotyped as described previously."
+0	breast cancer	POSH	NA	METHODS	We observed 236 breast cancer specific deaths in the POSH discovery set patients
+0	NA	NA	NA	METHODS	In HEBCS, 805 cases were selected from the patient series described earlier, including 423 unselected cases collected between years 1997 and 2000 as well as 140 cases collected between years 2001 and 2004, with 242 additional familial cases.
+0	death	NA	NA	METHODS	The GWAS series was specifically enriched for cases with reduced survival, in the form of distant metastasis or death at the time of the initiation of the study in 2008, resulting in 301 breast cancer specific deaths at the time of analysis
+0	breast cancer	POSH	NA	METHODS	A further 1523 breast cancer patients from the POSH study unselected for any survival differential were used for replication in stage-2.
+0	breast cancer	NA	NA	METHODS	At stage 2, there were 293 breast cancer specific deaths
+0	breast cancer	POSH	NA	METHODS	Genotyping of 574 POSH phase-1 breast cancer cases was conducted using the Illumina 660-Quad SNP array.
+0	NA	NA	NA	METHODS	Genotyping was conducted in two separate batches at two locations.
+0	breast cancer	HER2	NA	METHODS	The Mayo Clinic (Rochester, Minnesota, USA) genotyped 274 triple negative breast cancers (negative for ER, PR and HER2).
+0	breast cancer	POSH	NA	METHODS	The remaining 300 POSH patients were genotyped at the Genome Institute of Singapore (GIS), National University of Singapore; these were selected based on either short duration of breast cancer specific survival (<2 years) or long duration of breast cancer specific survival (>4 years).
+0	NA	NA	NA	METHODS	In order to ensure complete harmonisation of genotype calling, the intensity data from GIS and MAYO were combined and the genotyping module of Illumina's Genome Studio software was used to generate genotypes.
+0	NA	NA	NA	METHODS	A GenCall threshold of 0.15 was selected and the HumanHap660 annotation file was used.
+0	NA	NA	NA	METHODS	Of the 300 samples genotyped in Singapore, 3 were excluded from analysis because they had sample call rates lower than 95%.
+0	NA	NA	NA	METHODS	No individuals among the two hundred and seventy four triple negative cohort genotyped at the Mayo clinic were excluded from analysis based on poor call rate.
+0	NA	NA	NA	METHODS	The genotyping accuracy for SNPs genotyped by GIS and Mayo were over 99%
+0	NA	NA	NA	METHODS	Genotyping of the HEBCS samples was conducted using the Illumina 550 platform as previously described.
+0	NA	NA	NA	METHODS	SNP quality control (QC) measures were implemented using Plink.
+0	NA	NA	NA	METHODS	The initial sample size of 832 was reduced to 805, following quality control measures to remove patients with; unidentified affectation status and gender discordance (n = 6), familial relationships and poor SNP call rate (<95% n = 18), and missing phenotype information (n = 1).
+0	NA	NA	NA	METHODS	Genotypes were determined using the Genome Studio, a GenCall threshold of 0.15, and the HumanHap550-duo v3 annotation file
+0	NA	POSH	NA	METHODS	Further quality control of the genotypic data from POSH and HEBCS was used to exclude rare SNPs with a MAF <=0.01, and SNPs with significant deviation from Hardy-Weinberg equilibrium (HWE) p-value<=0.0001.
+0	IBS	NA	NA	METHODS	To select SNPs for generation of pairwise identity by state (IBS) estimates, we used plink to perform genome wide linkage disequilibrium (LD)-based pruning with an r2 cut-off of 0.5 and a window of 50 SNPs.
+0	MDS	NA	NA	METHODS	Multi-dimensional scaling (MDS) plots were generated on the basis of a square matrix of IBS values between all pairs of individuals.
+0	MDS	NA	NA	METHODS	To act as a reference, individuals with known African, Asian, and Caucasian ancestry from HapMap were also used for the MDS analysis.
+0	MDS	POSH	NA	METHODS	The MDS analysis excluded 35 cases from POSH and no cases from Helsinki whose genotypes did not concur with a European ancestry
+0	NA	NA	NA	METHODS	We used GenABEL in R.2.14.0 environment to perform survival analysis using post-QC genome wide SNP data.
+0	breast cancer	NA	NA	METHODS	Follow-up time was calculated as the difference between the date of diagnosis of breast cancer and the date of death due to breast cancer or the date of last follow-up if still alive and right-censored at 10 years.
+0	NA	NA	NA	METHODS	Distant disease free interval was calculated as the time from diagnosis to occurrence of metastasis.
+0	cancers	NA	NA	METHODS	We excluded patients with contralateral or ipsilateral cancers for testing association with distant disease free interval.
+0	NA	NA	NA	METHODS	All the Cox-proportional hazard models were adjusted for ER-status.
+0	NA	NA	NA	METHODS	Kaplan-Meier plots were generated using STATA v11.0 and IBM SPSS statistics 19.
+0	NA	NA	NA	METHODS	Mantel-Haenszel Fixed effects meta-analysis was performed using the metan module in STATA v11.0.
+0	cancers	NA	NA	METHODS	For multivariate models we used ER-status, metastasis stage (0 or 1), nodal stage (1 = no nodes positive, 2 = 1-3 nodes positive, 3 = more than 3 nodes positive) and tumour size (centimetres) as covariates
+0	NA	POSH	NA	METHODS	Cochran's Q-statistic and the resultant p-value was used to detect heterogeneity in association estimates between POSH and HEBCS.
+0	NA	NA	NA	METHODS	Genome wide meta-analysis was performed using MetABEL
+0	NA	POSH	NA	METHODS	We imputed genome wide SNP information in POSH and HEBCS based on European phase 1 and release version 3 haplotypes.
+0	NA	NA	NA	METHODS	The reference haplotypes are derived from the 1000 genomes project which is the most comprehensive catalogue of human genetic variation including SNP, Indels and CNVs.
+0	NA	MAF	NA	METHODS	Quality control measures applied to imputed data included excluding SNPs with HWE p-value<1x10-6, MAF <5%; and genotyping call rate <90% and individuals call rate <90%.
+0	NA	NA	NA	METHODS	Genome wide survival analysis of imputed information was performed in R-2.14.0 using GenABEL.
+0	NA	NA	NA	METHODS	Meta-analysis of results from GenABEL was performed using MetABEL.
+0	NA	NA	NA	METHODS	For imputing data we used MACH (http://www.sph.umich.edu/csg/abecasis/MACH/index.html).
+0	NA	NA	NA	METHODS	We used VCFtools - v0.1.9.0 to generate plink format files from output files generated by MACH.
+0	NA	NA	NA	METHODS	The reference haplotypes for 1000 genomes project were downloaded from MACH software's download page.
+0	NA	NA	NA	METHODS	We used Phase I version 3 European reference haplotypes for imputation analysis
+0	NA	NA	NA	METHODS	Manhattan and QQ-plots were generated in R using the plot command.
+0	NA	NA	NA	METHODS	Regional plots were generated using LocusZoom
+0	NA	NA	NA	METHODS	Sample size calculations were performed in R.2.14.2 using survSNP package.
+0	NA	NA	NA	METHODS	The event rate used for power calculations was 0.29 and a two-sided alpha of 0.05 was applied
+0	NA	NA	NA	METHODS	We used Genevar 3.2.0 to study variation in expression levels by SNP genotypes available from the MuTHER pilot project while using NCBI Build 36 Ensembl 54 as reference.
+0	NA	NA	NA	METHODS	Twin pairs were divided into two groups of unrelated individuals.
+0	NA	NA	NA	METHODS	Expression data from Lymphoblastoid cell lines are reported here.
+0	NA	NA	NA	METHODS	In addition we used SNP and CNV annotation database (scandb) that uses the lymphoblastoid cell line expression data derived from 90 HapMap CEU samples in trios
+0	NA	NA	NA	METHODS	The putative changes on transcription factor binding sites caused by the variants were predicted in silico with MatInspector within Genomatix software suite v2.5 (Genomatix Software GmbH)
+0	NA	POSH	NA	RESULTS	Genome wide genotype data were available from 536Caucasian participants of the POSH study and 805 Caucasian participants of the HEBCS study.
+0	NA	NA	NA	RESULTS	A total of 475,141 SNPs with observed genotypes were available for meta-analysis in both the studies after excluding SNPs based on QC criteria.
+0	breast cancer	POSH	NA	RESULTS	In stage-1 we used fixed-effects meta-analysis to pool hazard ratio estimates from the 536 POSH and 805 Helsinki breast cancer patients (Table 1).
+0	NA	NA	NA	RESULTS	In the two study meta-analysis we found five SNPs which were associated at p-values lower than 9.9x10-6 (Table 2, Figure 1).
+0	NA	POSH	NA	RESULTS	The 25 most associated loci were selected for replication in POSH stage-2 patients.
+0	NA	NA	NA	RESULTS	For loci with more than one SNP associated with survival, the most significant SNP and any other SNP(s) from the same locus which were not in high LD with the lead SNP (r2<0.6) were selected for follow up in stage-2 (Table 3)
+0	NA	POSH	NA	RESULTS	A total of 18 SNPs with independent association signals were tested for replication in POSH stage-2 validation samples (n = 1523).
+0	NA	NA	NA	RESULTS	One SNP demonstrated high duplicate error rate (>8%) and was excluded from analysis.
+0	NA	NA	NA	RESULTS	Of the 18 SNPs which were formally tested for replication, two demonstrated replication signals in the validation cohort.
+0	NA	POSH	NA	RESULTS	Nine of the eighteen SNPs which were tested for replication were observed to be associated in the same direction as in the POSH and HEBCS meta-analysis.
+1	NA	NA	rs421379	RESULTS	In the stage-1 and stage-2 meta-analysis the strongest association signal was observed at rs421379.
+1	breast cancer	NA	rs421379	RESULTS	The minor allele of rs421379 is found to be associated with a higher risk of breast cancer related death (HR (95% CI) = 1.49 (1.27-1.75), p = 1.1x10-6) (Figure 2).
+0	NA	NA	NA	RESULTS	The p-value for Cochran's heterogeneity test Q-statistic was not indicative of heterogeneity in meta-analysis estimate (p = 0.09).
+0	breast cancer	POSH	NA	RESULTS	This variant was previously identified as the most significantly associated variant in a two stage GWAs for breast cancer survival in early onset cases from POSH.
+0	NA	NA	NA	RESULTS	A weak replication signal in HEBCS allowed this SNP to be identified as the most strongly associated variant in this study too (Figure 2).
+0	breast cancer	NA	rs12358475	RESULTS	The second most significant variant was located at 10p14, where the minor allele of rs12358475 was associated with protective effect on breast cancer mortality (HR (95% CI) = 0.75 (0.67-0.75), p = 1.8x10-6) (Figure 3).
+0	NA	FOXF1	rs1728400	RESULTS	We observed another strong association with rs1728400 which is 113.6 kb upstream of the FOXF1 locus (Table 3).
+1	NA	NA	rs421379	RESULTS	In addition, the three SNPs (rs421379, rs12358475 and rs1728400) were also associated with distant disease free survival in the same direction as those observed for overall survival times, although none of these reached a genome wide level of significance (Table 4)
+0	NA	MAF	NA	RESULTS	Following quality control of imputed data we had 7105428 SNPs available (maf >=5%) in POSH stage-1 patients and 7353135 SNPs available (maf >=5%) in the HEBCS study.
+0	NA	NA	NA	RESULTS	In the two study meta-analysis we had close to 6.5 million SNPs available for meta-analysis.
+0	NA	NA	NA	RESULTS	We did not identify any novel SNPs as associated with survival at p-values smaller than those observed using genotyped SNPs
+1	NA	Tran	rs12358475	RESULTS	We queried the Genevar 3.2.0 and SNP and CNV annotation database (scandb) to identify Cis or Tran's eQTL effects resulting from rs12358475, rs421379 and rs1728400.
+0	NA	NA	rs12358475	RESULTS	No associations of rs12358475 and rs1728400 with expression of any nearby genes were noticed in Genevar.
+0	NA	NA	rs12358475	RESULTS	In scandb too there were no strong trans-effect associations observed with rs12358475 and rs1728400.
+1	NA	ABCD1	rs421379	RESULTS	In Scandb we observed that rs421379 had impact on expression of ABCD1 (p = 1x10-5) and RAB34 (p = 9x10-5)
+0	NA	NA	rs12358475	RESULTS	In univariate analysis we did not observe any strong associations of rs12358475 with ER-status, N-stage, M-stage and T-stage.
+0	NA	NA	NA	RESULTS	A nominally significant association with N-stage did not survive correction for multiple testing (Table 5).
+0	NA	NA	rs1728400	RESULTS	The SNP rs1728400 demonstrated weak associations with M-stage and T-stage (Table 5).
+1	NA	NA	rs421379	RESULTS	No significant association of rs421379 with any of the clinical variables were observed
+1	NA	NA	rs421379	RESULTS	In pooled analysis involving the discovery and replication samples we observed a slight decrease in the strength of association at the rs421379 and rs12358475 variants.
+0	NA	NA	rs1728400	RESULTS	A prominent decline in association statistics at the rs1728400 variant was observed.
+1	cancers	NA	rs421379	RESULTS	The HR's for rs421379 and rs12358475 after adjusting for N-stage, M-stage, ER-status, and tumour size were 1.41 (1.15-1.72), p = 0.001 and 0.85 (0.75-0.97), p = 0.01.
+0	NA	NA	rs1728400	RESULTS	The observed HR for rs1728400 was 1.04 (0.94-1.15) p = 0.46
+0	breast cancer	NA	NA	DISCUSS	In this study we report a genome wide meta-analysis for identifying genetic variants associated with breast cancer related mortality.
+0	NA	NA	NA	DISCUSS	In combined meta-analysis involving 2864 individuals the strongest associations that we have identified locate to three SNPs at chromosomes 5, 10 and 16.
+1	NA	NA	rs421379	DISCUSS	We have previously discussed the potential biochemical pathways by which rs421379 could impact survival times.
+0	NA	NA	NA	DISCUSS	It is important to note that the previous GWAs study that we had undertaken was performed exclusively in early onset cases alone.
+0	breast cancer	NA	NA	DISCUSS	As such the findings from the current study are potentially important as these suggest a wider role for this variant in altering survival times in older breast cancer patients.
+1	breast cancer	NA	rs12358475	DISCUSS	We did not observe any significant effect of rs12358475 and rs421379 on clinical factors associated with breast cancer mortality suggesting that fluctuations in levels of clinical variables could be a by-product of disease rather than being driving factors
+0	NA	ECHDC3	rs12358475	DISCUSS	rs12358475 is intergenic between ECHDC3 (64 kb downstream) and C10orf47 (16 kb upstream), and 113 kb upstream of UPF2.
+0	NA	ECHDC3	NA	DISCUSS	ECHDC3 encodes enoyl CoA hydratase domain containing 3 which has been described as a new inhibitor of mitochondrial fatty acid oxidation.
+0	breast cancer	NA	NA	DISCUSS	Although the clinical significance of this protein is not clear, it has been found to be differentially expressed in different breast cancer subtypes in mouse models.
+0	coronary artery disease	NA	NA	DISCUSS	ECDHC3 has also been shown to be differentially expressed in acute coronary syndrome.
+0	NA	NA	NA	DISCUSS	UPG2 is involved in both mRNA nuclear export and mRNA surveillance and initiates nonsense-mediated mRNA decay (NMD).
+0	NA	ETS1	rs12358475	DISCUSS	rs12358475 is predicted to disrupt a binding site for transcription factors ETS1 and NFAT.
+0	breast cancer	ETS1	NA	DISCUSS	ETS-1 is overexpressed in human breast cancer and this is indicative of poorer prognosis
+0	cancers	FOXF1	NA	DISCUSS	rs1728400 lies close to the FOXF1 locus which is a putative tumour suppressor gene.
+0	oesophageal carcinoma	NA	rs1728400	DISCUSS	This variant has previously been associated with oesophageal adenocarcinoma along with other SNPs close to rs1728400 which demonstrated even stronger associations.
+0	breast cancer	NA	NA	DISCUSS	As such if rs1728400t has a replicable impact on breast cancer prognosis then it could act via a different set of transcription factors than those activated in oesophageal carcinoma
+0	breast cancer	NA	NA	DISCUSS	Although the study reported here is not the largest study undertaken for identifying common variants associated with breast cancer mortality, it has several methodological strengths.
+0	breast cancer	NA	NA	DISCUSS	It is the first study to Meta-analyse associations of common genetic variants with breast cancer related mortality on a genome wide level across two independent prospective studies of breast cancer patients.
+0	breast cancer	POSH	NA	DISCUSS	Further both POSH and HEBCS are prospective studies of breast cancer patients who were recruited in similar clinical settings and both cohorts have relatively high breast cancer specific mortality.
+0	death	NA	NA	DISCUSS	As such, heterogeneity between causes of death is reduced in the meta-analysis.
+0	cancers	NA	NA	DISCUSS	With respect to potential tumour phenotypic heterogeneity both studies were not selected for specific breast tumour sub-types so this remains a potential methodological problem if the effect of SNPs relates to a particular tumour sub-type or a particular modality of treatment
+0	NA	NA	NA	DISCUSS	It was encouraging to note that 9 off the 18 SNPs which we had marked for replication testing were associated in the same direction as in the discovery set.
+0	breast cancer	NA	NA	DISCUSS	Furthermore 4 of the 18 SNPs which were tested for replication had previously been identified as amongst the top 50 associations in GWAs of breast cancer mortality in early onset patients.
+1	NA	NA	rs11723068	DISCUSS	rs11723068, rs11491815, rs421379 and rs1578790 were the first, fourth, eighteenth and 20th most strongly associated SNPs among the top 50 association
+0	NA	NA	NA	DISCUSS	Although previous studies have not described any SNPs as irrevocably associated with survival at genome wide levels of significance, we attempted to test associations of the most significant SNPs from these studies.
+0	NA	POSH	NA	DISCUSS	None of the 10 SNPs which Azzato et al tested for replication in the SEARCH study were associated at p-values<=0.05 in the POSH and HEBCS meta-analysis results.
+0	NA	NA	rs17299684	DISCUSS	The strongest replication signal we identified was with rs17299684 (HR = 1.15, p = 0.07).
+0	NA	NA	rs3784099	DISCUSS	Similarly the two SNPs highlighted by Shu et al as potentially associated with survival in the Chinese population, were not associated in our meta-analysis (rs3784099, HR = 0.94, P = 0.37 and rs9934948, HR = 1.09, P = 0.32).
+0	breast cancer	TNRC9	rs3803662	DISCUSS	The association of SNP rs3803662 (TOX3), highlighted by Fasching et al, as potentially associated with breast cancer specific survival did not replicate in our meta-analysis (HR = 0.90, p = 0.09).
+0	NA	NA	NA	DISCUSS	The lone SNP highlighted by Azzato et al, as associated with survival in ER-negative patients was not available in the genome wide genotyped or imputed data, further no proxies at r2>=0.6 were identified based on HapMap phase 3 data.
+0	NA	NA	NA	DISCUSS	So unfortunately replication of this SNP could not be tested in our study
+0	cancers	NA	NA	DISCUSS	Future studies with a similar ascertainment framework but with larger sample size, detailed tumour sub-type phenotyping and similar treatment modalities will be required to allow sub-type specific patient cohorts to be used for discovery and validation.
+0	breast cancer	MAF	NA	DISCUSS	A more detailed search for variants with MAF <0.05 may be necessary to fully comprehend the extent of intrinsic host genetic factors in determining breast cancer prognosis
+0	NA	POSH	NA	DISCUSS	The main strengths of this study are the high genetic coverage achieved by using the Illumina 550 K and Illumin660 K chips in the Helsinki and POSH studies respectively.
+0	NA	MAF	NA	DISCUSS	In addition we have also performed comprehensive imputation of common genetic variation (maf > = 5%) based on the LD patterns in the 1000 genomes project.
+0	NA	MAF	NA	DISCUSS	We had sufficient statistical power to detect genetic variants which were associated with survival at HR>=1.23 while studying SNPs with maf >=10%.
+0	NA	NA	NA	DISCUSS	Future studies using well annotated collaborative samples will be needed to perform sub-type specific analysis and replication to detect small effect sizes.
+0	NA	NA	NA	DISCUSS	Such a strategy has the potential to identify multiple genetic variants which are associated at HRs lower than 1.20.
+0	NA	NA	NA	DISCUSS	However a trade-off between the increases in effect sizes that may result from studying associations in specific homogeneous sub-groups may mitigate smaller sample sizes

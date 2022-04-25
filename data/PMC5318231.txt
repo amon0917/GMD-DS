@@ -1,0 +1,155 @@
+0	Alzheimer's disease	NA	NA	ABSTRACT	African Americans' (AAs) late-onset Alzheimer's disease (LOAD) genetic risk profile is incompletely understood.
+0	NA	NA	NA	ABSTRACT	Including clinical covariates in genetic analyses using informed conditioning might improve study power
+0	NA	NA	NA	ABSTRACT	We conducted a genome-wide association study (GWAS) in AAs employing informed conditioning in 1825 LOAD cases and 3784 cognitively normal controls.
+0	diabetes	NA	NA	ABSTRACT	We derived a posterior liability conditioned on age, sex, diabetes status, current smoking status, educational attainment, and affection status, with parameters informed by external prevalence information.
+0	NA	apolipoprotein E	NA	ABSTRACT	We assessed association between the posterior liability and a genome-wide set of single-nucleotide polymorphisms (SNPs), controlling for APOE and ABCA7, identified previously in a LOAD GWAS of AAs
+1	NA	COBL	rs112404845	ABSTRACT	Two SNPs at novel loci, rs112404845 (P = 3.8 x 10-8), upstream of COBL, and rs16961023 (P = 4.6 x 10-8), downstream of SLC10A2, obtained genome-wide significant evidence of association with the posterior liability
+0	NA	NA	NA	ABSTRACT	An informed conditioning approach can detect LOAD genetic associations in AAs not identified by traditional GWAS
+0	Alzheimer's disease	NA	NA	INTRO	Late-onset Alzheimer's disease (LOAD) in African Americans (AAs) is influenced by multiple genetic, clinical, and environmental factors.
+0	NA	NA	NA	INTRO	AAs are at increased risk of LOAD compared with non-Hispanic whites.
+0	NA	NA	NA	INTRO	Nonetheless, knowledge about the genetic architecture of LOAD comes disproportionately from studies of non-Hispanic whites.
+0	NA	NA	NA	INTRO	The relative lack of data presents a substantial barrier to understanding LOAD mechanisms in AAs.
+0	NA	NA	NA	INTRO	The APOE epsilon4 allele is a well-established genetic risk factor for LOAD in AAs.
+0	NA	NA	NA	INTRO	Whereas >20 LOAD risk genes have been identified from genome-wide association studies (GWASs) for non-Hispanic whites, only two loci have been identified from GWAS for AAs.
+0	NA	NA	NA	INTRO	A GWAS by Reitz et al.
+0	NA	apolipoprotein E	rs115550680	INTRO	found that, in addition to the APOE epsilon4 allele, a variant in the ABCA7 gene (rs115550680) was significantly associated with LOAD in AAs
+0	NA	NA	NA	INTRO	Most genetic association studies in LOAD, including those of AAs, adjust for age, sex, and population substructure (PC) only.
+0	NA	NA	NA	INTRO	For quantitative traits analyzed by linear regression, introducing other nonconfounding covariates into a genetic study could enhance detection of additional loci by accounting for some of the variance in the outcome.
+0	NA	NA	NA	INTRO	However, for case-control association studies, including nonconfounding covariates in a logistic regression model can actually reduce power to detect an association because case-control ascertainment can create an artificial correlation between the genetic variant and a covariate, and each additional covariate reduces the precision of estimates.
+0	NA	NA	NA	INTRO	Zaitlen et al.
+0	NA	NA	NA	INTRO	recently showed that using an informed conditioning approach, nonconfounding covariates could be included in a case-control study with an increase in power compared with models that do not include covariates.
+0	NA	NA	NA	INTRO	Informed conditioning is based on the liability threshold model with parameters informed by external prevalence information.
+0	NA	NA	NA	INTRO	In this approach, first a liability model is constructed using covariates' independent effect estimates, in the form of trait prevalences at different covariate levels.
+0	NA	NA	NA	INTRO	Next, an association is tested between a genetic variant and the residuals from the liability model.
+0	Stroke	NA	NA	INTRO	Informed conditioning has been applied with success to other phenotypes including stroke, type-2 diabetes, prostate cancer, lung cancer, breast cancer, reheumatoid arthritis, age-related macular degeneration, and end-stage kidney disease.
+0	NA	NA	NA	INTRO	In the present study, we conducted a GWAS in the AA cohort of Reitz et al., employing informed conditioning on LOAD status and several well-established LOAD risk factors, obtaining genome-wide significant evidence of association at two novel loci
+0	Alzheimer's disease	NA	NA	METHODS	Study population included 1825 well-characterized AA LOAD cases and 3784 cognitively normal AA controls from 9 Alzheimer's Disease Genetic Consortium (ADGC) datasets: Adult Changes in Thought, Alzheimer's Disease Centers 1&2 (ADC1&2), ADC3, ADGC, Chicago Health and Aging Project (CHAP), Indianapolis, Genetic and Environmental Risk Factors for Alzheimer Disease Among AAs (GenerAAtions), Multi-Institutional Research on Alzheimer Genetic Epidemiology (MIRAGE) 300k, and MIRAGE 660k.
+0	Alzheimer's disease	NA	NA	METHODS	The ADGC dataset contained participants from several studies including the AA AD Genetics Study, the ADCs, CHAP, Mayo Clinic, Mount Sinai School of Medicine, Religious Orders Study/Memory and Aging Project/Minority Aging Research Study (MARS)/Rush Clinical Core (CORE), University of Miami (UM)/Vanderbilt University (VU), University of Pittsburgh, Washington Heights Columbia Aging Project, and Washington University.
+0	NA	NA	NA	METHODS	A detailed description of subject recruitment and phenotyping has been described previously.
+0	NA	NA	NA	METHODS	Two of these studies were family based (i.e., contained related participants: MIRAGE and GenerAAtions), whereas the other studies included only unrelated participants.
+0	NA	NA	NA	METHODS	Age of symptom onset was available for most cases.
+0	death	NA	NA	METHODS	For the remaining cases, surrogate age information was available (age at ascertainment for Indianapolis, age at diagnosis for CHAP and MARS/CORE, and age at death for autopsy cases from UM/VU).
+0	death	NA	NA	METHODS	Age of last examination or age of death was available for controls.
+0	NA	NA	NA	METHODS	We excluded cases younger than age 60.
+0	diabetes	NA	NA	METHODS	Ascertainment of additional risk factor data (educational attainment, diabetes status, and current smoking status) in each parent study has been described previously.
+0	NA	NA	NA	METHODS	For the present study, we defined low educational attainment as <=8 years of education.
+0	NA	NA	NA	METHODS	Because only a subset of the subjects from the ADGC dataset had additional risk factor data available, we divided the dataset into those with new risk factor data (ADGC1) and those without new risk factor data (ADGC2).
+0	NA	NA	NA	METHODS	Individuals were recruited under protocols approved by the appropriate institutional review boards
+0	NA	NA	NA	METHODS	Details of genotyping (including platforms), quality control (including call rates, Hardy-Weinberg equilibrium, discordance with ascertained sex and latent relatedness), and derivation of principal components to adjust for PCs were described previously.
+0	NA	apolipoprotein E	NA	METHODS	Briefly, we used directly measured APOE genotypes.
+0	NA	NA	NA	METHODS	We estimated haplotypes using SHAPEIT and then imputed allele dosages for each dataset separately using IMPUTE2 and 1000 Genomes reference haplotypes (March 2012).
+0	NA	NA	NA	METHODS	We excluded imputed single-nucleotide polymorphisms (SNPs) with an imputation quality estimate of R2 <=0.40.
+0	NA	NA	NA	METHODS	In the unrelated cohorts, we did not exclude SNPs based on minor allele frequency (MAF) because their inclusion did not lead to P-value inflation.
+0	NA	NA	NA	METHODS	In the family-based cohorts, we excluded SNPs with MAFs <0.05.
+0	NA	NA	NA	METHODS	We derived principal components using EIGENSTRAT separately for each dataset using a set of genotyped SNPs common to all genotyping platforms
+0	NA	NA	NA	METHODS	An informed conditioning approach leverages external conditional prevalence data from the epidemiological literature.
+0	diabetes	NA	NA	METHODS	AA-specific prevalences of LOAD conditioned on LOAD risk factors (age, sex, education, current smoking status, and diabetes) have not been presented in the epidemiological literature.
+0	NA	NA	NA	METHODS	Therefore, we estimated the prevalences of LOAD in AAs >65 years of age, conditioned on a given LOAD risk factor (RF), based on published ancestry-nonspecific relative risks (RRs) of LOAD with respect to the RF, published prevalence of each RF (P(RF)) in AAs (Supplementary Table 1), and estimated prevalence of LOAD in AAs (P(LOAD)) (Table 1).
+0	NA	NA	NA	METHODS	We assumed that RRs do not differ by ancestry.
+0	NA	NA	NA	METHODS	The conditional prevalence of LOAD for a given RF, P(LOAD RF), is related to the RR as follows:  where ~ RF is the absence of the RF
+0	NA	NA	NA	METHODS	The law of total probability,  can be used to rewrite the conditional prevalence as follows:
+0	NA	NA	NA	METHODS	We used equation 3 to calculate the LOAD conditional prevalences in AAs for each of the five LOAD risk factors (Table 1)
+0	NA	NA	NA	METHODS	An informed conditioning approach, described by Zaitlen et al., models an unobserved underlying quantitative trait, phi, called the liability:  where cj is a parameter estimating the effect of a given covariate j on the liability scale, tj is the value of covariate j, and m is a parameter that determines the population prevalence p of LOAD at the covariate mean tj such that phi is the normal cumulative distribution function and phi (-m) = P (x > -m) = p. Finally, epsilon = gammag + N (0,1) where gamma is the effect size of the candidate SNP with genotype g normalized to mean 0 and N (0,1) is the standard normal distribution.
+0	NA	NA	NA	METHODS	Multiple covariates are treated independently, but parameters are estimated jointly.
+0	NA	NA	NA	METHODS	A subject is a case if phi >= 0 and is a control otherwise
+0	NA	NA	NA	METHODS	We estimated parameters for two models because the additional risk factor data were missing for a subset of study subjects.
+0	NA	NA	NA	METHODS	The first model included all LOAD risk factors and their corresponding external conditional prevalence estimates, whereas the second model included only age and sex as LOAD risk factors and their corresponding external conditional prevalence estimates.
+0	NA	NA	NA	METHODS	We used these models to calculate the posterior mean residual liability score (hereafter called the LOAD liability score) for each subject given their LOAD and risk factor status.
+0	NA	NA	NA	METHODS	We used the LTSOFT computer program for modeling the LOAD liability and for generating the LOAD liability score
+0	diabetes	apolipoprotein E	rs115550680	METHODS	For mean age, sex, current smoking status, diabetes status, mean education level, APOE epsilon4 genotype, and rs115550680 MAF, we compared cases with controls in unadjusted models by meta-analyzing the ln odds ratio for categorical variables and standardized mean difference for continuous variables using a fixed-effects model with inverse variance weights.
+0	NA	NA	NA	METHODS	We conducted genome-wide association with the LOAD liability score using linear regression in each of the unrelated cohorts and linear generalized estimating equations (GEEs) in each family-based cohort, as the GEE method is robust to nonindependence of error terms within a family.
+0	NA	apolipoprotein E	rs115550680	METHODS	Association tests were adjusted for three PCs, APOE epsilon4 dosage, and dosage of the minor allele of ABCA7 SNP rs115550680.
+0	NA	NA	NA	METHODS	Association tests were carried out using R version 3.1.2 software.
+0	NA	NA	NA	METHODS	Results were combined across datasets by meta-analyzing the regression estimates after applying genomic control adjustments using a fixed-effects model with inverse variance weights, as implemented in METAL.
+0	NA	NA	NA	METHODS	The test statistic was the meta-analyzed regression estimate divided by its standard error.
+0	NA	NA	NA	METHODS	Several post hoc analyses were conducted for top-ranked loci.
+0	NA	NA	NA	METHODS	We evaluated several logistic regression models using LOAD case-control status as the outcome with different sets of covariates.
+0	NA	apolipoprotein E	rs115550680	METHODS	In addition, we analyzed a liability model that included the full set of clinical variables but that did not include APOE epsilon4 genotype and rs115550680 minor allele dosage as covariates
+0	NA	NA	NA	RESULTS	Table 2 shows characteristics for each dataset.
+0	NA	apolipoprotein E	rs115550680	RESULTS	In unadjusted models, older age, lower educational attainment, APOE epsilon4 genotype, and rs115550680 minor allele (G) dosage were associated with LOAD risk.
+0	diabetes	NA	NA	RESULTS	Current smoking and diabetes were associated with reduced risk.
+0	NA	NA	NA	RESULTS	Female sex was not associated with LOAD status.
+0	NA	NA	NA	RESULTS	The conditional prevalence estimates of LOAD in AAs >65 years of age that were calculated based on published LOAD RF prevalences and LOAD RRs with respect to the RFs (Supplementary Table 1) are listed in Table 1
+0	NA	NA	NA	RESULTS	A total of 19,725,427 SNPs passed quality control and were included in the GWAS.
+0	NA	NA	NA	RESULTS	For individual datasets, the genomic inflation factor lambda ranged from 0.984 to 1.127.
+0	NA	NA	NA	RESULTS	There was no evidence of inflation of test statistics in the meta-analyzed LOAD liability model (lambda = 0.993, Supplementary Fig.
+0	NA	NA	NA	RESULTS	1).
+1	NA	COBL	NA	RESULTS	We found genome-wide significant associations (P < = x 10-8) using informed conditioning in two distinct regions, 200-kb upstream of cordon-bleu WH2 repeat protein (COBL) and 30-kb downstream of solute carrier family 10, member 2 (SLC10A2) (Table 3).
+1	NA	COBL	rs112404845	RESULTS	For the top SNP in each region (COBL: rs112404845, SLC10A2: rs16961023), the effect was in the same direction for all datasets (Figs.
+0	NA	NA	NA	RESULTS	1 and 2) and the final liability model showed a smaller P value than the logistic models by one to two orders of magnitude (Table 3)
+0	NA	NA	NA	RESULTS	Because both variants were imputed and relatively rare, we compared allele dosages from imputation with direct genotyping.
+0	NA	NA	rs112404845	RESULTS	For rs112404845 (imputation quality range [using the IMPUTE2 information metric]: 0.905-1.039), we Sanger sequenced 20 predicted risk-allele carriers and an equal number of noncarriers.
+0	NA	NA	NA	RESULTS	We found perfect correlation between the imputed dosage and direct genotype.
+0	NA	NA	rs16961023	RESULTS	For rs16961023 (imputation quality range: 0.598-0.917), we used a Taqman assay to directly genotype 35 predicted risk allele carriers and 1720 noncarriers from the ADGC1 and ADGC2 datasets.
+0	NA	NA	NA	RESULTS	As expected based on the imputation quality (ADGC1 = 0.704, ADGC2 = 0.679), the correlation between direct genotype and imputed dosage (ADGC1 = 0.736, ADGC2 = 0.565) was adequate.
+0	NA	NA	NA	RESULTS	When we repeated our association analysis across all datasets, among subjects with imputed posterior probabilities >0.8, using best-guess genotype, there was a reduction in effect size from 0.41 to 0.33
+0	NA	NA	NA	RESULTS	Supplementary Table 2 shows SNPs with suggestive associations (P < = x 10-6) using informed conditioning.
+0	NA	NA	NA	RESULTS	No loci identified as risk factors for LOAD in GWAS in white non-Hispanics showed suggestive associations.
+0	diabetes	ABCA7	rs115550680	RESULTS	As a positive control, we compared the effect of the ABCA7 rs115550680 variant in a logistic model that controlled for age, sex, current smoking status, diabetes status, educational attainment, and PCs with the liability model.
+0	NA	NA	NA	RESULTS	Using the informed conditioning approach, the P value decreased by a half order of magnitude in the liability model compared with a logistic model (Supplementary Table 3)
+0	diabetes	NA	NA	DISCUSS	In this study, we conducted a GWAS in AAs, employing informed conditioning on LOAD status and well-established LOAD risk factors including age, sex, diabetes status, current smoking status, and educational attainment.
+0	NA	NA	NA	DISCUSS	Our model is informed by external prevalence data from the epidemiological literature.
+1	NA	COBL	NA	DISCUSS	Using this approach, which has been shown to outperform standard case-control association tests, we identified two genome-wide significant novel LOAD loci, upstream of COBL and downstream of SLC10A2
+0	NA	COBL	NA	DISCUSS	COBL is predominantly expressed in brain, and its protein product regulates neuron morphogenesis.
+0	NA	NA	NA	DISCUSS	It mediates actin nucleation, ensuring that neurites form, elongate, and branch correctly to produce functional neuronal networks.
+0	dendritic branching	NA	NA	DISCUSS	In Cobl-deficient dissociated hippocampal neurons, neurite and dendritic branch point numbers were significantly reduced.
+0	posttraumatic stress disorder	COBL	NA	DISCUSS	An SNP approximately 500-kb upstream of COBL was implicated in posttraumatic stress disorder in cohorts with European and African ancestry.
+0	NA	COBL	rs112404845	DISCUSS	Rs112404845, the top SNP in the COBL region in our study, is located 200-kb upstream of COBL and is present only in persons with African ancestry (MAF = 0.012 in the 1000 Genomes reference panel).
+0	Alzheimer's disease	COBL	NA	DISCUSS	This may explain why COBL has not been recognized previously as an AD risk gene.
+0	NA	PAX4	rs112404845	DISCUSS	Variation at rs112404845 leads to a Pax-4 regulatory motif change.
+0	NA	NA	Rs113739092	DISCUSS	Rs113739092, an SNP in linkage disequilibrium with rs112404845 (r2 = 0.64) and which achieved a P value of 1.3 x 10-5, is an enhancer histone mark in brain
+1	NA	SLC10A2	NA	DISCUSS	SLC10A2 encodes a sodium/bile acid cotransporter that is essential for cholesterol homeostasis.
+1	familial hypercholesterolemia	SLC10A2	NA	DISCUSS	Mutations in SLC10A2 have been found in cases of familial hypercholesterolemia.
+0	NA	apolipoprotein E	NA	DISCUSS	Several other genes implicated by GWAS in LOAD pathogenesis function in cholesterol metabolism include APOE, CLU, ABCA7, and SORL1.
+1	NA	SLC10A2	NA	DISCUSS	Although its function is best understood in the small intestine, SLC10A2 also is expressed in brain.
+1	NA	SLC10A2	NA	DISCUSS	Resveratrol, a chief constituent of red wine, inhibits SLC10A2 expression and function through a Sirt1 (sirtuin 1)-independent manner.
+0	Alzheimer's disease	NA	NA	DISCUSS	Potentially an exciting therapy for LOAD, resveratrol reduces amyloid plaque pathology in AD animal models and has been shown to be safe and well-tolerated in a large phase 2 LOAD clinical trial.
+0	Alzheimer's disease	Sirt1	NA	DISCUSS	Although resveratrol's antiamyloidogenic effects have been suggested to be mediated by Sirt1, our findings indirectly suggest that resveratrol may affect AD through multiple mechanisms.
+1	NA	SLC10A2	rs16961023	DISCUSS	Rs16961023, the most significantly associated SNP in the SLC10A2 region in our study, is located 30-kb downstream of SLC10A2.
+0	NA	Egr-1	rs16961023	DISCUSS	Variation at rs16961023 leads to an Egr-1 regulatory motif change.
+0	NA	NA	rs16961023	DISCUSS	In the 1000 Genomes reference panel, the rs16961023 minor allele is infrequent among persons with African ancestry (MAF = 0.02) and rare among persons with European ancestry (MAF = 0.004), but is common in East Asians (MAF = 0.15).We previously conducted a GWAS for LOAD case/control status in a Japanese cohort but did not find any nominally associated SNPs at this locus.
+0	NA	NA	NA	DISCUSS	Genetic association findings may be specific to a particular ethnic background, especially when variants are rare
+0	NA	NA	NA	DISCUSS	Current smoking has been found to increase LOAD risk in meta-analyses; however, in this study, it was more frequent in LOAD controls than in LOAD cases when we combined the datasets.
+0	NA	NA	NA	DISCUSS	Ascertainment bias may explain this finding because our datasets are a mixture of clinic-and community-based studies.
+0	NA	NA	NA	DISCUSS	Cases disproportionately come from the clinic-based studies, whereas controls disproportionately come from the community-based studies.
+0	NA	NA	NA	DISCUSS	Typically, clinic-based cohorts have fewer vascular risk factors, including smoking, than their community-based counterparts.
+0	death	NA	NA	DISCUSS	Alternatively, survival bias may explain this finding, as smokers with LOAD may have died before entering the study.
+0	NA	NA	NA	DISCUSS	Although early cross-sectional case-control studies observed that smoking was associated with a reduced risk of LOAD, a meta-analysis that included 23 longitudinal studies found that smoking increased risk.
+0	NA	NA	NA	DISCUSS	That smoking occurs in our combined cohort at such a different relative rate than what is observed in the epidemiological literature emphasizes the importance of the informed conditioning approach, which makes use of external prevalence data
+0	NA	NA	NA	DISCUSS	Our study has several potential caveats.
+0	NA	NA	NA	DISCUSS	Because LOAD conditional prevalence data for AAs have not been reported, we estimated these values using available relative risk data that are not ancestry specific and therefore assumed that LOAD relative risks do not differ by ancestral population.
+0	dementia	NA	NA	DISCUSS	Support for this assumption comes from review of the literature that shows the relative risks of dementia, LOAD, and/or cognitive decline for age, sex, diabetes status, smoking status, and educational attainment do not appear to differ significantly by ancestry; however, this warrants further investigation.
+0	NA	NA	NA	DISCUSS	This concern is further lessened by a simulation study showing that moderate misspecification of model parameters did not reduce power and that even when parameters were misspecified by a large amount (up to 100%), the model still performed at least and logistic regression
+1	NA	COBL	NA	DISCUSS	It should also be noted that the genome-wide significant variants near COBL and SLC10A2 have low frequency (0.01-0.02).
+0	NA	NA	NA	DISCUSS	By comparison, SNPs with MAF <0.05 were not analyzed in the GWAS of Reitz et al.
+0	NA	NA	NA	DISCUSS	because genotype imputation quality was poor for low-frequency SNPs using the older 1000 Genomes reference panel.
+0	NA	NA	NA	DISCUSS	Using a newer reference panel, we were able to include low-frequency variants with improved imputation quality.
+0	NA	COBL	rs112404845	DISCUSS	For rs112404845, the top SNP in the COBL region, imputation quality, and correlation between imputed and direct genotype dosages were excellent, suggesting that our association findings were unlikely to be influenced by imputation quality.
+1	NA	SLC10A2	rs16961023	DISCUSS	However, for rs16961023, the top SNP in the SLC10A2 region, imputation quality, and correlation between imputed and direct genotype dosages were similar, but only adequate, and there was a reduction in effect size when we repeated our association analysis among subjects with imputed posterior probabilities >0.8.
+1	NA	SLC10A2	NA	DISCUSS	It appears that subjects with less certain genotype probabilities may contribute disproportionately to the association signal, and, therefore, the SLC10A2 finding warrants cautious optimism.
+0	NA	NA	NA	DISCUSS	Finally, inclusion of low-frequency variants in GWAS can increase genomic inflation.
+0	NA	NA	NA	DISCUSS	However, despite inclusion of low-frequency variants in our study, we did not see evidence of inflation (lambda = 0.993, Supplementary Fig.
+0	NA	NA	NA	DISCUSS	1)
+1	NA	COBL	NA	DISCUSS	Although COBL and SLC10A2 are attractive candidate genes, variants identified through GWAS may not be causal and do not necessarily act at the gene closest to them.
+0	Alzheimer's disease	NA	NA	DISCUSS	Therefore, it is only speculative that these genes are the causal risk factors for LOAD in AAs and that the identified variants have an effect on AD via the proposed regulatory mechanisms.
+0	NA	NA	NA	DISCUSS	Finally, our findings should be regarded with measured enthusiasm until they are confirmed in independent samples of AAs.
+0	NA	NA	NA	DISCUSS	Unfortunately, to our knowledge, additional large AA LOAD cohorts with genotype data are not currently available.
+0	Alzheimer's disease	NA	NA	DISCUSS	Therefore, validation of the role of these loci in AD will likely require experimental evidence
+0	NA	NA	NA	DISCUSS	Taken together, these findings suggest that an informed conditioning approach can be used to identify new genetic associations for complex genetic traits where risk is a mix of genetic and environmental factors.
+0	Alzheimer's disease	NA	NA	DISCUSS	Our success in using informed conditioning to identify new risk loci for AD mirrors the success of informed conditioning in GWASs of other phenotypes.
+0	Alzheimer's disease	NA	NA	DISCUSS	This work furthers our understanding of the biological underpinnings of AD in AAs.
+1	NA	COBL	NA	DISCUSS	Functional studies are needed to determine whether COBL and SLC10A2 are suitable targets for development of novel therapies
+0	NA	COBL	rs112404845	FIG	(A) Regional association plot of the COBL region on chromosome 7 and (B) forest plots for rs112404845, the top single-nucleotide polymorphism in the region.
+0	Alzheimer's disease	COBL	NA	FIG	Abbreviations: ACT, Adult Changes in Thought; ADC, Alzheimer's Disease Center; ADGC, Alzheimer's Disease Genetics Consortium; CHAP, Chicago Health and Aging Project; CI, confidence interval; COBL, Cordon-Bleu WH2 Repeat Protein; GenerAAtions, Genetic and Environmental Risk Factors for Alzheimer Disease among African Americans; and MAF, minor allele frequency
+1	NA	SLC10A2	rs16961023	FIG	(A) Regional association plot of the SLC10A2 region on chromosome 13 and (B) forest plots for rs16961023, the top single-nucleotide polymorphism in the region.
+1	Alzheimer's disease	SLC10A2	NA	FIG	Abbreviations: ACT, Adult Changes in Thought; ADC, Alzheimer's Disease Center; ADGC, Alzheimer's Disease Genetics Consortium; CHAP, Chicago Health and Aging Project; CI, confidence interval; GenerAAtions, Genetic and Environmental Risk Factors for Alzheimer Disease among African Americans; MAF, minor allele frequency; and SLC10A2, solute carrier family 10, member 2
+0	Alzheimer's disease	NA	NA	TABLE	Estimated conditional prevalence of AD in African Americans .65 years of ag
+0	NA	NA	NA	TABLE	Logistic and liability models for the top independent SNPs to achieve genome-wide significance in the liability mode
+0	Alzheimer's disease	NA	NA	REF	Systematic review: The authors are members of the Alzheimer's Disease Genetics Consortium and therefore are familiar with emerging pertinent literature.
+0	NA	NA	NA	REF	PubMed searches were conducted to identify other relevant publications.
+0	NA	NA	NA	REF	References that informed the novel approach and that support the significance of the identified risk loci are cited
+0	Alzheimer's disease	NA	NA	REF	Interpretation: Although >20 late-onset Alzheimer's disease (LOAD) risk genes have been identified from genome-wide association studies (GWASs) for non-Hispanic whites, this report identifies only the third and fourth loci from GWAS associated with LOAD for African Americans (AAs).
+1	NA	COBL	NA	REF	The COBL and SLC10A2 loci provide further evidence that axonal integrity and cholesterol homeostasis underlie LOAD pathophysiology
+0	NA	NA	NA	REF	Future directions: The study findings should be confirmed in independent AA samples.
+0	NA	NA	NA	REF	Unfortunately, additional large AA LOAD cohorts with genotype data are not currently available.
+1	NA	COBL	NA	REF	Functional studies are needed to determine whether COBL and SLC10A2 are suitable targets for development of novel therapies

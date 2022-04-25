@@ -1,0 +1,271 @@
+0	sclerosis	NA	NA	ABSTRACT	Hippocampal sclerosis of aging (HS-Aging) is a high-morbidity brain disease in the elderly but risk factors are largely unknown.
+0	NA	NA	NA	ABSTRACT	We report the first genome-wide association study (GWAS) with HS-Aging pathology as an endophenotype.
+0	Alzheimer's disease	NA	NA	ABSTRACT	In collaboration with the Alzheimer's Disease Genetics Consortium, data were analyzed from large autopsy cohorts: (#1) National Alzheimer's Coordinating Center (NACC); (#2) Rush University Religious Orders Study and Memory and Aging Project; (#3) Group Health Research Institute Adult Changes in Thought study; (#4) University of California at Irvine 90+ Study; and (#5) University of Kentucky Alzheimer's Disease Center.
+0	NA	NA	NA	ABSTRACT	Altogether, 363 HS-Aging cases and 2,303 controls, all pathologically confirmed, provided statistical power to test for risk alleles with large effect size.
+0	NA	NA	NA	ABSTRACT	A two-tier study design included GWAS from cohorts #1-3 (Stage I) to identify promising SNP candidates, followed by focused evaluation of particular SNPs in cohorts #4-5 (Stage II).
+0	NA	ATP-binding cassette, sub-family C member 9	NA	ABSTRACT	Polymorphism in the ATP-binding cassette, sub-family C member 9 (ABCC9) gene, also known as sulfonylurea receptor 2, was associated with HS-Aging pathology.
+1	NA	ATP-binding cassette, sub-family C member 9	rs704178	ABSTRACT	In the meta-analyzed Stage I GWAS, ABCC9 polymorphisms yielded the lowest p values, and factoring in the Stage II results, the meta-analyzed risk SNP (rs704178:G) attained genome-wide statistical significance (p = 1.4 x 10-9), with odds ratio (OR) of 2.13 (recessive mode of inheritance).
+0	hippocampal sclerosis	GRN	rs5848	ABSTRACT	For SNPs previously linked to hippocampal sclerosis, meta-analyses of Stage I results show OR = 1.16 for rs5848 (GRN) and OR = 1.22 rs1990622 (TMEM106B), with the risk alleles as previously described.
+0	diabetes	ATP-binding cassette, sub-family C member 9	NA	ABSTRACT	Sulfonylureas, a widely prescribed drug class used to treat diabetes, also modify human ABCC9 protein function.
+0	NA	NA	NA	ABSTRACT	A subsample of patients from the NACC database (n = 624) were identified who were older than age 85 at death with known drug history.
+0	diabetes	NA	NA	ABSTRACT	Controlling for important confounders such as diabetes itself, exposure to a sulfonylurea drug was associated with risk for HS-Aging pathology (p = 0.03).
+0	dementia	NA	NA	ABSTRACT	Thus, we describe a novel and targetable dementia risk factor
+0	hippocampal sclerosis	NA	NA	INTRO	In elderly individuals, hippocampal sclerosis of aging (HS-Aging) is a relatively common brain disease; for recent reviews, see Refs.. HS-Aging is defined by pathological manifestations: neuron loss, gliosis, and atrophy in the hippocampal formation, not deemed attributable to Alzheimer disease (AD)-type plaques and tangles.
+0	cognitive defects	NA	NA	INTRO	The presence of HS-Aging pathology is associated with substantial cognitive impairment, independent of comorbid pathologies, yet this disease is generally misdiagnosed as AD in the clinical setting
+0	NA	NA	NA	INTRO	Genetic risk factors of HS-Aging are not fully characterized.
+0	hippocampal sclerosis	GRN	rs5848	INTRO	Hippocampal sclerosis pathology in AD cases has been linked to single nucleotide polymorphisms (SNPs) at genomic loci previously associated with frontotemporal lobar degeneration (FTLD), namely rs5848 (GRN) and rs1990622 (near TMEM106B).
+0	Alzheimer's disease	apolipoprotein E	NA	INTRO	In contrast to AD, the risk of developing HS-Aging pathology is not associated with apolipoprotein E (APOE) alleles
+0	NA	NA	NA	INTRO	There has been no prior published genome-wide association study (GWAS) focused on HS-Aging pathology.
+0	NA	NA	NA	INTRO	The endophenotype is deceptively complex and confers both potential obstacles and opportunities for a GWAS.
+0	NA	NA	NA	INTRO	Challenges include the requirement for reliable autopsy data on every research subject and the advanced old age of many patients with HS-Aging.
+0	NA	NA	NA	INTRO	Even archival neuropathology data must be interpreted with caution because HS-Aging has only recently been the subject of widespread attention by researchers.
+0	NA	NA	NA	INTRO	After accounting for these difficulties, there are characteristics of HS-Aging pathology that are conducive for GWAS.
+0	NA	NA	NA	INTRO	Most important is the high disease prevalence which enables analyses of diverse study cohorts including population-based samples.
+0	NA	TAR DNA-binding protein 43	NA	INTRO	HS-Aging pathology tends to co-occur with hippocampal TAR DNA-binding protein 43 (TDP-43) pathology, an important component of the pathological endophenotype.
+0	hippocampal sclerosis	TAR DNA-binding protein 43	NA	INTRO	Thus, a successful HS-Aging GWAS study would detect allele(s) associated with hippocampal sclerosis and TDP-43 pathologies across multiple cohorts of autopsied elderly individuals
+0	NA	NA	NA	INTRO	For the current study, genomic and pathologic data from dozens of different research centers were analyzed with the goal of identifying alleles associated with risk for HS-Aging pathology.
+0	NA	NA	NA	INTRO	Altogether these analyses incorporated 363 HS-Aging cases and 2,303 controls with neuropathologic evaluation.
+0	NA	NA	NA	INTRO	A two-tiered study design employed a GWAS to identify promising risk allele candidates, with subsequent evaluation of specific candidate alleles using separate cohorts.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	INTRO	Our main findings are (1) a polymorphism in the ATP-binding cassette, sub-family C member 9 (ABCC9) gene, also known as sulfonylurea receptor 2 (SUR2), is associated with HS-Aging pathology, and (2) exposure to sulfonylurea drugs is associated with increased risk for HS-Aging pathology among individuals who died age 85 and older
+0	Alzheimer's disease	NA	NA	METHODS	The Alzheimer's Disease Genetics Consortium (ADGC) accrued genomics data from 34 different research centers (US National Institute on Aging Alzheimer's Disease Centers, or ADCs) with multiple iterations of GWAS data (References and see below), which were analyzed with neuropathological and clinical data obtained through the National Alzheimer's Coordinating Center (NACC; see Reference).
+0	NA	NA	NA	METHODS	Research using NACC data was approved by the University of Washington Human Subjects Division; other protocols were supervised by local Institutional Review Boards.
+0	NA	NA	NA	METHODS	Neuropathologic evaluations were performed according to center-specific protocols-including whether neuropathologists studied left, right, or bilateral hippocampi :and entered into a database in standardized format.
+0	NA	NA	NA	METHODS	Details of HS-Aging case/control operationalization have been discussed before and are described in detail in Supplemental Methods.
+0	NA	NA	NA	METHODS	University of Kentucky submits data to NACC, but data from that center were excluded from the Stage I cohorts.
+0	NA	NA	NA	METHODS	In addition to the ADGC/NACC group, autopsy series included in the Stage I phase were the Rush University Religious Orders Study and Memory and Aging Project (ROS-MAP) with recruitment in Chicago, IL, USA, and the Adult Changes in Thought (ACT) study from the Group Health Cooperative and University of Washington with recruitment in Seattle, WA, USA
+0	Alzheimer's disease	NA	NA	METHODS	Following the GWAS on Stage I datasets, additional studies were performed analyzing data from two separate cohorts (Stage II): the University of Kentucky Alzheimer's Disease Center (UK-ADC; included in this cohort were research subjects (n = 49) from the Georgia Centenarian Study that were evaluated neuropathologically at the University of Kentucky), and the University of California at Irvine 90+ Study (UCI90+).
+0	NA	NA	NA	METHODS	UCI90+ is a population-based longitudinal study of individuals aged 90 and older, with recruitment in Orange County, CA, USA; there is no overlap with the ADGC/NACC data.
+0	NA	NA	NA	METHODS	Descriptions of these autopsy cohorts were published previously.
+0	NA	TAR DNA-binding protein 43	NA	METHODS	Immunohistochemical stains on hippocampal formation were performed using phosphorylated TDP-43 (P-TDP43) antibody 1D3 as described previously.
+0	NA	NA	NA	METHODS	The reason for using P-TDP43 immunostaining-based endophenotype for UK-ADC and not UCI90+ relates to a lack of analogous P-TDP43 immunohistochemical data
+0	NA	NA	NA	METHODS	For assessment of the prevalence of HS-Aging pathology in a population-based cohort, relative to other neuropathologically defined diseases, the Nun Study data were analyzed (n = 436 research subjects).
+0	NA	NA	NA	METHODS	These data were separate from the genomics analyses.
+0	NA	NA	NA	METHODS	Nun study neuropathologic methods were performed as previously described.
+0	Alzheimer's disease	NA	NA	METHODS	"For the present study, neuropathologic observations were graded independently of each other: HS-Aging pathology, AD pathology [stratified by Braak stages using both a stringent criterion (Stages V/VI) and another that also incorporates milder cases (Stages IV-VI)], neocortical Lewy body pathology of a severity to indicate ""high likelihood"" that ""the pathologic findings are associated with a DLB clinical syndrome"", and FTLD"
+0	NA	NA	NA	METHODS	In silico studies were performed for feasibility and power analyses.
+0	NA	NA	NA	METHODS	"With the sample size of the Stage I cohorts (241 cases, 1,998 controls), the probability of determining a ""true-positive"" SNP associated with HS-Aging pathology, i.e."
+0	NA	NA	NA	METHODS	statistical power, was calculated.
+0	NA	NA	NA	METHODS	QUANTO software v.1.2.4 was used to model the impact on statistical power of varying minor allele frequency (MAF) and the effect size of the risk allele.
+0	NA	NA	NA	METHODS	That effect size is operationalized by the odds ratio (OR) of HS-Aging pathology in risk SNP carriers versus non-carriers.
+0	NA	NA	NA	METHODS	Analyses were performed for an experiment that would meet criteria for genome-wide significance, pre-specified at p < 5 x 10-8.
+0	NA	NA	NA	METHODS	This threshold corrects for multiple comparisons while also assuming that many SNPs are in linkage disequilibrium with each other and thus are not truly independent tests.
+0	NA	NA	NA	METHODS	A second model was performed relaxing the criteria for genome-wide statistical significance to p < 10-5 to reflect the requirement of a risk allele candidate that could be tested separately in Stage II cohorts
+0	NA	NA	NA	METHODS	GWAS data access was coordinated through ADGC, providing quality-controlled genotypes using imputation to the Phase I v.3 1000 Genomes Project March 2012 release with imputation as previously described.
+0	NA	NA	NA	METHODS	Additional quality control (QC) was applied within each Stage I dataset.
+0	NA	NA	NA	METHODS	To reduce the potential biases associated with population stratification, principal components (PCs) were iteratively calculated with normalized SNP data, and subjects with outlying values were removed after each of six iterations using SVS  software.
+0	NA	NA	NA	METHODS	An additive mode of inheritance (MOI) was assumed in each cohort from the Stage I stage to balance statistical power with concerns of multiple testing, and logistic regression was performed for each SNP with correction for PCs.
+0	NA	NA	NA	METHODS	The number of PCs chosen for adjustment was based on examination of scree plots (Supplemental Fig.
+0	NA	NA	NA	METHODS	1) for each Stage I cohort: four PCs for NACC and ROS-MAP; three PCs for ACT.
+0	NA	NA	rs5848	METHODS	For assessment of rs5848 and rs1990622 SNPs, for which prior published studies derived from Mayo Clinic data, a dataset lacking that institution's participants was used for analyses of those alleles.
+0	NA	NA	NA	METHODS	Results across the three Stage I datasets were meta-analyzed using an inverse-variance-based statistic.
+0	NA	NA	NA	METHODS	LocusZoom plots reflect regional meta-analyzed p values from all the Stage I datasets
+0	NA	NA	NA	METHODS	In the Stage II cohorts, SNPs were characterized using Life Technologies' TaqMan-based SNP assays providing direct assessment of genotype.
+0	NA	NA	NA	METHODS	All tests for genotype/HS-Aging association were two-tailed.
+0	NA	NA	NA	METHODS	Meta-analyses were performed for the two Stage II cohorts, and then data were combined across all Stage I and Stage II cohorts, using an inverse-variance-based statistic as above.
+0	NA	NA	NA	METHODS	Forest plots displaying cohort-specific and aggregated ORs and confidence intervals were created reflecting these meta-analyzed results using R v.3.0.2 programming language
+1	NA	NA	rs704178	METHODS	Gene-specific genomic sequencing was performed on DNA from six individuals with pathologic and genomic information (three rs704178 G/G HS-Aging cases, three elderly rs704178 C/C controls).
+0	NA	NA	NA	METHODS	Data pertaining to all six individuals are provided in Supplemental Methods, as are details of the sequencing protocol.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	METHODS	Briefly, ABCC9 sequences were captured using the HaloPlex Target Enrichment System (Agilent Technologies) to amplify fragments spanning the human genomic region chr12:21950273-22094386 (GRCh37/hg19 genomic assembly).
+0	NA	NA	NA	METHODS	The six resulting fragment libraries were run in a single flow cell on a HiSeq 2500 (Illumina).
+0	NA	NA	NA	METHODS	The variant files were inspected both manually and with custom Perl scripts
+0	NA	NA	NA	METHODS	Sequential biochemical fractionation and immunoblot studies employed techniques modified from previous protocols as described in detail in Supplemental Methods.
+0	NA	CA1	NA	METHODS	Briefly, hippocampal tissue (CA1 and subiculum) was dissected from a convenience sample of postmortem brain specimens (n = 9) including subjects with or without the ABCC9 polymorphism, and with or without HS-Aging pathology, which were extracted into separate low salt-, 1 % Triton-X100-, 1 % Sarkosyl+heat-, and 7M urea-extractable fractions.
+0	NA	NA	NA	METHODS	Equal amounts of protein were loaded to a denaturing SDS polyacrylamide gel prior to immunoblot analyses.
+0	NA	C-15	NA	METHODS	Antibodies used for immunoblots were as follows: anti-SUR2B (C-15): sc-5793; anti-SUR2A (T-19): sc-32461; and anti-SUR2 (H-80): sc-25684, all three from Santa Cruz Biotechnology, and anti-SUR2B (N323A/31) and anti-SUR2A (N319A/14) from EMD Millipore.
+0	familial atrial fibrillation	NA	NA	METHODS	Control immunoblots using the same samples were performed using anti-PGRN/GRN (R&D Cat # AF 2420) and anti-beta-Actin (Rockland Code 600-401-886) antibodies; see Supplemental Methods
+0	NA	NA	NA	METHODS	The initial data source for these analyses was research volunteers evaluated after 2009 at an ADC with both reported clinical (including drug information) and autopsy data.
+0	NA	NA	NA	METHODS	Participants were excluded if they were younger than 85 at death to best match all participants to HS-Aging age range.
+0	NA	NA	NA	METHODS	Methods and rationale for the UDS clinical examination have been previously published.
+0	NA	NA	NA	METHODS	All participants received an initial in-person clinical evaluation and up to seven follow-up evaluations; data were collected on an approximately annual basis.
+0	hippocampal sclerosis	NA	NA	METHODS	"In this analysis, HS-Aging pathology was defined as present if the neuropathologist recorded a ""primary or contributing pathologic diagnosis of hippocampal sclerosis""."
+0	FTLD	TAR DNA-binding protein 43	NA	METHODS	Assessment of TDP-43 pathology was not collected on the NACC Neuropathology form, but allowed as a write-in; for individuals without FTLD, where some sort of medial temporal lobe TDP-43 pathology was noted, these cases were considered to be HS-Aging (n = 4)
+0	NA	NA	NA	METHODS	For statistical analyses of the NACC data, longitudinal self-reported medication histories were reviewed for the 624 included subjects.
+0	NA	NA	NA	METHODS	Medication use was determined by asking subjects to provide a list of all medications taken within the last 2 weeks prior to their UDS assessment.
+0	NA	NA	NA	METHODS	Individuals who reported taking any sulfonylurea at any time during follow-up (September 2005 through April 2013) were coded as positive for use.
+0	NA	NA	NA	METHODS	Crude and adjusted ORs for the presence of HS-Aging at autopsy were calculated separately.
+0	NA	NA	NA	METHODS	Adjusted ORs were obtained via logistic regression, controlling for age at death (centered at 90) and year of death (centered at 2011).
+0	NA	NA	NA	METHODS	Possible group differences in mean age at death and interval between last evaluation and death were assessed using linear regression.
+0	NA	NA	NA	METHODS	Sensitivity analyses were conducted restricting the medication history to the last UDS assessment.
+0	NA	NA	NA	METHODS	Analyses were conducted using SAS/STAT 9.3 .
+0	NA	NA	NA	METHODS	Two-tailed tests were used to evaluate the hypothesis that use of sulfonylureas promotes HS-Aging pathology (alpha = 0.05)
+0	NA	NA	NA	RESULTS	The endophenotype used for correlation with genomic information was HS-Aging pathology.
+0	NA	NA	NA	RESULTS	Photomicrographs (Fig.
+0	NA	NA	NA	RESULTS	1) demonstrate features of HS-Aging pathology discernible after staining human hippocampal sections with hematoxylin and eosin (H&E) and using P-TDP-43 immunohistochemistry.
+0	NA	NA	NA	RESULTS	A three-tier (0-2) semiquantitative scale of P-TDP-43 immunoreactive pathology was used in the UK-ADC dataset.
+0	NA	NA	NA	RESULTS	Data about the prevalence of HS-Aging pathology, from the Nun Study, are shown in Fig.
+0	NA	NA	NA	RESULTS	2.
+0	dementia	NA	NA	RESULTS	Nun Study research volunteers were followed as a population-based cohort, mostly from normal status, and with high autopsy rate; this group lacked some of the recruitment biases of dementia clinic cohorts.
+0	FTLD-TDP	NA	NA	RESULTS	Even when younger Nun Study research volunteers were included from the sample studied neuropathologically at University of Kentucky (total n = 526), no FTLD-TDP cases were observed (data not shown).
+0	NA	NA	NA	RESULTS	By contrast, HS-Aging pathology is relatively prevalent in population-based cohorts, which are key sources of data in the current study (ROS-MAP, ACT, and UCI90+ studies)
+0	NA	NA	NA	RESULTS	Assumption #1 (central hypothesis being tested in the study)> As there has been no prior published HS-Aging GWAS, polymorphisms remain to be described with strongly increased odds of HS-Aging pathology in risk allele carriers versus non-carriers, i.e.
+0	NA	NA	NA	RESULTS	OR >1.5 for the risk allele
+0	NA	NA	NA	RESULTS	Assumption #2> The Stage I cohort GWAS comprises adequate sample sizes to yield a limited number of credible candidate risk SNPs for evaluation in the Stage II cohorts; an
+0	NA	NA	NA	RESULTS	Assumption #3> The Stage II cohorts have sufficient numbers of HS-Aging cases and controls to adequately test for an HS-Aging risk SNP candidate
+0	NA	NA	NA	RESULTS	GWAS in Stage I cohorts was used to identify risk SNP candidates, followed by separate analyses of individual SNPs in Stage II cohorts (Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	NA	NA	RESULTS	This study design involved three key assumptions:
+0	NA	NA	NA	RESULTS	Power analyses were performed to test whether Assumptions #2 and #3 were valid if the large effect size SNP (Assumption #1) exists.
+0	NA	NA	NA	RESULTS	The effect size strongly influences statistical considerations (Fig.
+0	NA	NA	NA	RESULTS	4).
+0	NA	NA	NA	RESULTS	Given sample sizes, the likelihood of uncovering an HS-Aging risk allele with genome-wide statistical significance (p < 5 x 10-8) in the Stage I GWAS was only modest, unless the effect size was quite large (Fig.
+0	NA	NA	NA	RESULTS	4a).
+0	NA	NA	NA	RESULTS	However, the Stage I cohort was adequately powered for the purposes of identifying risk SNP candidates for downstream evaluation.
+0	NA	NA	NA	RESULTS	In the presence of a strong HS-Aging risk allele (OR >1.5), there was a high chance that the risk allele would be identified in the Stage I cohort GWAS with p < 10-5 (Fig.
+0	NA	NA	NA	RESULTS	4b).
+0	NA	NA	NA	RESULTS	Definitive testing of the candidate risk SNPs would require downstream validation in independent cohorts.
+0	NA	NA	NA	RESULTS	Stage II would be most effective in the case of a SNP with high MAF and with studies of individual SNPs performed serially so that the final cohort's analyses require no adjustment for multiple comparisons
+0	Alzheimer's disease	apolipoprotein E	NA	RESULTS	As a positive control, a GWAS from AD pathology was performed initially on a sample from the ADGC cohort (1,443 AD cases and 99 controls) and as expected, only SNPs near the APOE gene reached genome-wide significance (p = 4.2 x 10-13; Supplemental Tables 1 and 2; Supplemental Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	NA	RESULTS	We then performed a HS-Aging GWAS using data from the three Stage I datasets: ADGC/NACC, ROS-MAP, and ACT (Table 1 and Supplemental Table 3).
+0	NA	NA	NA	RESULTS	The number of nominal SNPs that passed QC and were included in the GWAS was ~4.9 million (Table 2).
+0	Alzheimer's disease	NA	NA	RESULTS	HS-Aging cases and controls were classified according to pathology irrespective of AD or other prevalent pathologies; see Supplemental Methods for details.
+0	NA	NA	NA	RESULTS	Manhattan plot and Q-Q plot for the HS-Aging GWAS are shown in Fig.
+0	NA	NA	NA	RESULTS	5; no Stage II cohort data were factored into these analyses
+0	NA	NA	rs5848	RESULTS	The GWAS included individual SNPs previously linked to HS-type pathology, specifically, rs5848 and rs1990622.
+0	NA	NA	rs5848	RESULTS	For analyses of these alleles, a separate GWAS was performed using Stage I cohort cases and controls that did not overlap with prior studies of rs5848 and rs1990622.
+0	NA	NA	NA	RESULTS	The SNPs previously linked to HS-Aging pathology can be tested with less stringent p value cutoffs due to targeted testing (alpha = 0.05; two-tailed tests are reported without adjustment for the performance of two tests).
+0	NA	NA	NA	RESULTS	Results are shown in Table 3 and Fig.
+0	NA	NA	NA	RESULTS	6.
+0	NA	NA	rs5848	RESULTS	Meta-analyses of Stage I cohorts results show OR = 1.16 (95 % CI 0.92-1.46) for rs5848, OR = 1.22 (95 % CI 1.00-1.49) for rs1990622, with all cohorts tested demonstrating the same risk alleles (T allele for both SNPs) as previously described
+0	NA	NA	NA	RESULTS	GWAS from meta-analyzed Stage I datasets detected no SNP associated with HS-Aging pathology so strongly as to achieve genome-wide statistical significance.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	RESULTS	The genomic locus bearing SNPs with the lowest p values in the GWAS data were in the ABCC9 gene on chromosome 12p.
+0	NA	NA	rs7966849	RESULTS	The individual SNP that yielded the lowest p value in the GWAS itself was rs7966849 (p = 1.0 x 10-7, uncorrected, see Supplemental Fig.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	RESULTS	3) in an intron of ABCC9.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	RESULTS	SNPs from only nine different genomic regions showed p < 10-5 in the GWAS (Table 4, Supplemental Table 4), including ABCC9 (15 nominal SNPs) and SNPs in and near CTAGE5/FBOXO33 on chromosome 14 (50 nominal SNPs; Supplemental Fig.
+0	NA	NA	NA	RESULTS	4)
+0	NA	NA	NA	RESULTS	The initial criteria for deciding which candidate HS-Aging risk alleles to test in the Stage II cohorts were that the same alleles would yield p < 0.05 in all three Stage I cohorts.
+1	NA	ATP-binding cassette, sub-family C member 9	rs704178	RESULTS	This led us to consider ABCC9 putative risk SNPs including rs704178, a SNP with MAF ~0.45, in strong linkage disequilibrium with rs7966849 (R2 = 0.97 and D' = 1.0).
+1	NA	NA	rs704178	RESULTS	Genotype frequencies for rs704178 in HS-Aging cases and controls are displayed in Table 5.
+1	NA	NA	rs704178	RESULTS	After accumulation of additional data, the rs704178 allele became the study's focal-point (Figs.
+0	NA	NA	NA	RESULTS	7, 8, 9).
+1	NA	ATP-binding cassette, sub-family C member 9	rs704178	RESULTS	Primary data from ABCC9 risk SNP rs704178 for HS-Aging cases and controls from the Stage II cohorts are presented in Table 6
+0	NA	NA	NA	RESULTS	The UK-ADC was the first-stage Stage II cohort for evaluating HS-Aging candidate risk SNPs.
+0	FTLD	NA	NA	RESULTS	"For this cohort, the primary criterion for a positive ""case"" status was aberrant P-TDP-43 immunoreactivity in the hippocampus and subiculum, which we hypothesize provides (in the context of elderly individuals without FTLD) a sensitive and specific readout of HS-Aging pathology."
+0	NA	NA	NA	RESULTS	From this convenience sample of 227 patients, 82 (36.1 %) were positive for P-TDP43 pathology.
+1	NA	NA	rs7206273	RESULTS	Ten initial SNP risk allele candidates from the Stage I datasets were evaluated in the UK-ADC cohort: rs7206273, rs1538842, rs4869959, rs5848, rs201825, rs2274567, rs6656401, rs2287910, rs4144545, rs704179, and rs704178.
+1	NA	NA	rs704178	RESULTS	Of these, rs704178 was the only SNP showing positive association with the pathologic endophenotype
+0	NA	NA	NA	RESULTS	Data from the UCI90+ study, a population-based sample of 144 controls and 28 HS-Aging cases, was the second Stage II cohort.
+0	hippocampal sclerosis	NA	NA	RESULTS	Here, H&E-based observation of hippocampal sclerosis pathology was used as the readout, since not all the cases were stained with the same P-TDP43 methods.
+1	NA	NA	rs704178	RESULTS	The risk alleles (rs704178:G) trended toward positive association with HS pathology; no other SNP was tested in this dataset except rs704180, which was in complete linkage disequilibrium with rs704178 as expected (not shown).
+0	NA	NA	NA	RESULTS	This trend was only statistically significant if the recessive MOI model was applied (p < 0.03 using two-tailed test); however, the effect size was still large at OR = 1.43 (95 % CI 0.80-2.6) even with additive MOI model and two-tailed test
+0	NA	NA	NA	RESULTS	Combined meta-analyses of all Stage I and Stage II cohorts yielded a p value of 2.4 x 10-8 with an additive MOI model and a p value of 1.4 x 10-9 with recessive MOI (Fig.
+0	NA	NA	NA	RESULTS	8).
+0	NA	NA	NA	RESULTS	Dominant MOI model had far weaker association as is shown in Supplemental Fig.
+0	NA	NA	NA	RESULTS	5.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	RESULTS	Having found the same ABCC9 gene polymorphism is associated with hippocampal P-TDP43 pathology or HS-Aging pathology in two Stage II cohorts in addition to HS-Aging pathology in the Stage I cohorts, we focused on ABCC9 in subsequent studies
+0	NA	ATP-binding cassette, sub-family C member 9	NA	RESULTS	To assess preliminarily whether the ABCC9 risk alleles are proxies for as-yet uncharacterized genomic feature(s), ABCC9 gene-specific sequencing was performed using genomic DNA (Supplemental Methods).
+1	NA	ATP-binding cassette, sub-family C member 9	rs704178	RESULTS	For these studies, DNA was isolated from hippocampi of three autopsy-confirmed HS-Aging cases homozygous for ABCC9 risk SNPs (rs704178: G/G), and the results were compared to three individuals over 95 at death (rs704178: C/C) and lacking HS-Aging pathology (Supplemental Methods).
+1	NA	NA	rs704178	RESULTS	No previously uncharacterized genomic feature (including exonic SNP) was discovered for which rs704178 would be a proxy.
+1	NA	NA	rs704178	RESULTS	As expected, SNPs in known linkage disequilibrium with rs704178 span a region over 10 exons (Fig.
+0	NA	NA	NA	RESULTS	9)
+0	NA	ATP-binding cassette, sub-family C member 9	NA	RESULTS	Western blots were performed on protein samples from snap-frozen human hippocampi to address whether differences in ABCC9 polypeptides can be observed in correlation with particular HS-Aging risk alleles or pathologic status.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	RESULTS	These experiments were designed to test for a qualitative change in ABCC9 protein such as insoluble aggregates, proteolytic fragments, or complete loss of expression.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	RESULTS	The convenience subsample from the UK-ADC comprised nine human hippocampi including HS-Aging and controls, and different homozygous ABCC9 genotypes.
+0	NA	NA	NA	RESULTS	Different protein extraction methods were utilized and five different commercially available anti-ABCC9 antibodies were applied.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	RESULTS	These experiments discovered no evidence of a specific qualitative change in hippocampal ABCC9 protein products, with caveats related to the small number of cases evaluated and to the inconsistency in the protein blotting characteristics observed for these antibodies (Supplemental Fig.
+0	NA	NA	NA	RESULTS	6).
+0	NA	ATP-binding cassette, sub-family C member 9	NA	RESULTS	The imperfect antigenic specificity for the five putative ABCC9 antibodies also rendered immunohistochemistry technically unsatisfactory, although this was attempted (not shown)
+0	NA	ATP-binding cassette, sub-family C member 9	NA	RESULTS	The ABCC9 gene is also known as sulfonylurea receptor 2, SUR2.
+0	Type 2 diabetes	ATP-binding cassette, sub-family C member 9	NA	RESULTS	Sulfonylureas are a widely prescribed class of drugs used to treat type II diabetes mellitus; these drugs antagonize the function of the ABCC9 protein product.
+0	NA	NA	NA	RESULTS	We tested the hypothesis that exposure to sulfonylurea drugs is associated with altered risk for HS-Aging pathology (Table 7).
+0	NA	NA	NA	RESULTS	Data were obtained from NACC database with both longitudinal drug history and postmortem data from individuals dying age 85 and above with autopsies between 2010 and 2013.
+0	NA	NA	NA	RESULTS	HS-Aging pathology was observed in 17.3 % (108/624) of all autopsied cases in the sample, 30.6 % of sulfonylurea users and 16.5 % of non-users.
+0	NA	NA	NA	RESULTS	Based on a two-tailed test and alpha = 0.05, the crude OR for autopsy-confirmed HS-Aging pathology after use of any sulfonylurea versus no sulfonylurea use was 2.23 [95 % CI: 1.06-4.68, p = 0.03; age-adjusted OR = 2.19 (95 % CI: 1.04-4.63, p = 0.04)].
+0	NA	NA	NA	RESULTS	Use of any sulfonylurea was reported by 11 HS-Aging and 25 non HS-Aging subjects.
+0	NA	NA	NA	RESULTS	When the analysis was restricted to the medication history given at the last assessment before death, the crude OR for use of any sulfonylurea was 2.52 [95 % CI: 1.10-5.76, p = 0.02; age-adjusted OR = 2.49 (95 % CI: 1.08-5.75, p = 0.03)].
+0	Alzheimer's disease	NA	NA	RESULTS	There was neither positive nor negative association between sulfonylurea use and AD pathology, operationalized as AD-positive if Braak stage V or VI and AD-negative otherwise (not shown).
+0	NA	NA	NA	RESULTS	These data are compatible with the hypothesis that sulfonylurea exposure is associated with HS-Aging pathology in this sample
+0	Type 2 diabetes	NA	NA	RESULTS	Potential confounders include the clinical indication for sulfonylurea use, namely type II diabetes.
+0	NA	NA	NA	RESULTS	Of subjects who reported taking any anti-diabetic agent (62/624), most reported use of a sulfonylurea (36/62).
+0	diabetes	NA	NA	RESULTS	The association with HS-Aging pathology was not dependent upon diabetes itself because, in the NACC database overall, history of diabetes had a null association with HS-Aging pathology.
+0	diabetes	NA	NA	RESULTS	In this subsample, the odds of observing HS-Aging pathology were not increased for anti-diabetic agent users as a whole [age-adjusted OR = 1.43 (95 % CI: 0.75-2.71, p = 0.28)], for anti-diabetic agent users who never reported using a sulfonylurea [age-adjusted OR = 0.60 (95 % CI: 0.17-2.04, p = 0.41)], or for self-reported diabetes [age-adjusted OR = 1.08 (95 % CI: 0.58-2.03, p = 0.81)]
+0	NA	NA	NA	RESULTS	For a slightly younger group of research subjects, those dying age 80-84 (n = 261), among whom HS-Aging histopathology was relatively uncommon, post hoc sensitivity analyses indicated no association between sulfonylurea use and HS-Aging pathology [age-adjusted OR = 0.59 (95 % CI: 0.13-2.68)].
+0	diabetes	NA	NA	RESULTS	Effect estimates in this group are similar for use of any anti-diabetic medication [age-adjusted OR = 0.33 (95 % CI: 0.07-1.42)] and self-reported diabetes [age-adjusted OR = 0.43 (95 % CI: 0.15-1.29)].
+0	NA	NA	NA	RESULTS	Results in this slightly younger group of subjects, which included only 17 sulfonylurea users, did not support the hypothesis that sulfonylurea use is associated with HS-Aging pathology in this age group
+0	NA	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	In the large human autopsy cohorts studied, the risk of developing HS-Aging pathology was associated with polymorphism in the ABCC9 gene.
+0	NA	NA	NA	DISCUSS	The effect size was relatively large (OR = 1.4-2.0 with additive MOI, 2.0-2.7 with recessive MOI) in all three Stage I cohorts and also in both Stage II cohorts.
+0	NA	NA	NA	DISCUSS	In the final Stage II cohort, only a single polymorphism was queried so statistical correction for multiple testing was obviated.
+0	NA	NA	NA	DISCUSS	The HS-Aging risk allele may be directly relevant to public health because aged human subjects in the NACC database with history of sulfonylurea exposure have increased risk for HS-Aging pathology
+0	NA	NA	NA	DISCUSS	There are potential pitfalls inherent to the study design.
+0	NA	NA	NA	DISCUSS	The Stage I GWAS did not produce a SNP that reached genome-wide statistical significance.
+0	NA	NA	NA	DISCUSS	Bias was thus inserted into the study by selecting which SNPs would be analyzed in the Stage II cohorts.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	Among the candidate SNPs from GWAS, ABCC9 polymorphisms ultimately yielded the lowest p values by an order of magnitude, so that locus was an obvious choice to evaluate.
+0	NA	NA	NA	DISCUSS	Testing the association between sulfonylurea drug exposure and HS-Aging pathology in the NACC dataset is complicated by confounders and limitations.
+0	NA	NA	NA	DISCUSS	For example, the accuracy of medication self-report is imperfect since current medication use refers to the 2-week period prior to the clinical assessment, drug dosages were unknown, and some of the patients presumably used and discontinued sulfonylurea drugs prior to study enrollment as well as between annual study visits.
+0	NA	NA	NA	DISCUSS	Patient age was also a relevant factor; we found that HS-Aging pathology is relatively unusual among individuals younger than age 85 and found no evidence for correlation between the sulfonylurea drugs and HS-Aging pathologically in the post hoc analysis of younger patients.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	These analyses were also performed blind to patients' genotypes so the distribution of ABCC9 SNPs versus sulfonylurea use is unknown.
+0	NA	NA	NA	DISCUSS	For these reasons, the data on HS-Aging linked to drug exposure should be interpreted with caution
+0	NA	NA	NA	DISCUSS	The present study was not designed to evaluate polymorphisms that show weak associations with HS-Aging pathology.
+0	NA	NA	NA	DISCUSS	There were, however, some alleles from the GWAS that appear interesting despite failing to reach genome-wide statistical significance.
+0	familial idiopathic basal ganglia calcification	CTAGE5	NA	DISCUSS	For example, SNPs within and near the cutaneous T-cell lymphoma-associated antigen 5 (CTAGE5) gene yielded p ~ 10-6 in the GWAS, and CTAGE5 polymorphisms have been linked to familial idiopathic basal ganglia calcification (Fahr's disease).
+0	hippocampal sclerosis	NA	rs5848	DISCUSS	Meta-analyses of Stage I cohort data also indicated that alleles linked previously to hippocampal sclerosis pathology:rs5848 and rs1990662 SNPs :trend toward association with HS-Aging pathology as operationalized in the current study, with the same risk alleles as previously described, and with OR ~1.2 (meta-analyzed data, additive MOI)
+0	NA	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	The main discovery of the present study is the association between HS-Aging pathology and polymorphism in the ABCC9 gene.
+0	NA	NA	NA	DISCUSS	Meta-analyzed data indicate an overall OR = 1.62 with the additive MOI model:a relatively large effect size for a common allele.
+0	Alzheimer's disease	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	Notably, the chromosomal region in which ABCC9 resides (12p) has been linked to clinical late-onset AD risk, which may be at least partially explained by ABCC9, because HS-Aging tends to be misdiagnosed clinically as AD
+0	NA	NA	NA	DISCUSS	We can begin to develop hypotheses about mechanism(s) underlying the genomic associations.
+1	cognitive defects	TAR DNA-binding protein 43	rs704178	DISCUSS	"The presence of hippocampal TDP-43 pathology is associated with additive cognitive impairment, and ""unilateral"" HS-Aging pathology usually shows TDP-43 pathology on the contralateral side; the present study affirms that hippocampal TDP-43 pathology is linked to HS-Aging pathology, since risk for both is associated with the same allele, rs704178."
+1	NA	NA	rs704178	DISCUSS	"The strength of the association between rs704178 and HS-Aging pathology with recessive model of MOI (OR = 2.13) indicates that the ""non-risk alleles"" may exert an adaptive function, even in the heterozygous state (""dominant"" gain-of-function pattern)"
+0	neurodegenerative disease	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	The association between ABCC9 and HS-Aging provides a novel insight into neurodegenerative diseases.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	"Prior GWAS found that different polymorphisms of the ABCC9 gene were associated with cardiac problems and altered sleep patterns, which could theoretically be pathogenetic factors ""upstream"" from HS-Aging."
+0	NA	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	Alternatively, or in addition, ABCC9 polymorphisms may exert influence through blood vessel pathology.
+0	arteriolosclerosis	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	The ABCC9 polypeptide product (SUR2) is physiologically active in arteriolar smooth muscle, and pathologically confirmed arteriolosclerosis is relatively severe in brains that also harbor HS-Aging pathology (and see Ref.).
+0	Cantu syndrome	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	Stop-codon mutations in ABCC9 lead to Cantu syndrome, a rare condition with mostly uncharacterized neuropathology.
+0	Cantu syndrome	NA	NA	DISCUSS	Intriguingly, Cantu syndrome patients have demonstrated vascular anomalies, including in the brain
+0	NA	NA	NA	DISCUSS	What about the function of the HS-Aging risk SNPs themselves?
+0	NA	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	These intronic SNPs span at least ten ABCC9 exons.
+0	NA	NA	NA	DISCUSS	Some mRNA variants have been described with splice junctions near the HS-Aging risk SNPs.
+1	NA	ATP-binding cassette, sub-family C member 9	rs704192	DISCUSS	In the genotype-tissue expression project (GTEx) database of expression quantitative trait loci, SNPs linked to HS-Aging pathology (particularly rs704192 which has D' > 0.9 with rs704178) also correlate with altered ABCC9 expression specifically in both human hippocampus and amygdala (both p < 0.05) but not cerebellum.
+1	NA	ATP-binding cassette, sub-family C member 9	rs829080	DISCUSS	Using SNPExp web tool where SNPs are correlated with gene expression using transformed lymphoblastoid cell lines, SNPs linked to HS-Aging pathology (particularly rs829080, with D' = 1.0 with rs704178) correlate strongly with ABCC9 expression (p < 0.0001).
+0	NA	NA	NA	DISCUSS	Despite these interesting observations, it is not yet proven that the HS-Aging risk SNP variability leads directly to changes in gene splicing, mRNA expression, or polypeptide function in human brain
+0	NA	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	Whatever the mechanism(s), ABCC9 polymorphism in a relatively large number of human cases is associated with HS-Aging pathology.
+0	Alzheimer's disease	NA	NA	DISCUSS	The differing neuropathologic findings and differing genetic vulnerabilities of HS-Aging and AD make it likely that prevention and treatment of HS-Aging, when achieved, will be different from prevention and treatment for AD.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	ABCC9 function is sensitive to pharmacologic manipulation, and we here report that in subjects dying after age 85, sulfonylurea drug exposure was associated with HS-Aging pathology.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	This study may herald progress of clinical relevance, because ABCC9 agonists have been described, and may be neuroprotective.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	DISCUSS	We conclude that the present study establishes a pathogenetic association between ABCC9 and HS-Aging pathology--and perhaps the basis for a novel future therapeutic strategy
+0	sclerosis	NA	NA	FIG	Hippocampal sclerosis of aging (HS-Aging) pathology is a complex endophenotype for genomic studies.
+0	NA	CA1	NA	FIG	Pathology defines the disease, illustrated in photomicrographs of hematoxylin and eosinstained sections to compare an aged control hippocampus (a) with a shrunken HS-Aging hippocampus (b); same scale bar 2 mm, CA1 subfield indicated.
+0	NA	CA1	NA	FIG	"For grading P-TDP43 pathology in CA1 and subiculum of the hippocampal formation, a three-tier semiquantitative system was employed with ""Grade 0"" indicating no P-TDP43 pathology, ""Grade 1"" (c, d) indicating very sparse isolated pathology (P-TDP43 positive neuronal inclusion at arrow) and ""Grade 2"" (e, f) indicating any more severe pathology, usually with intranuclear, intracytoplasmic (arrow), and neuritic P-TDP-43 pathology."
+0	NA	NA	NA	FIG	Scale bar 60 microns (c, e) and 25 microns (d, f
+0	NA	NA	NA	FIG	Prevalence of brain pathology subtypes in the Nun Study.
+0	NA	NA	NA	FIG	The prevalence of HS-Aging pathology is germane to a study that incorporates different autopsy cohort types.
+0	NA	NA	NA	FIG	Here, we show data about the prevalence of brain pathology subtypes in the Nun Study, a population-based cohort as previously described in detail.
+0	memory impairment	NA	NA	FIG	As in most community-based or population-based cohorts (as opposed to cohorts connected with memory disorder clinics), frontotemporal lobar degeneration (FTLD) pathology is rare
+0	NA	NA	NA	FIG	Study design for elucidating a large effect size human genomic polymorphism that is associated with HS-Aging pathology.
+0	Alzheimer's disease	NA	NA	FIG	The GWAS (Stage I) incorporated genomic data from Alzheimer's Disease Genetics Consortium (ADGC) and pathologic data from National Alzheimer's Coordinating Center (NACC) derived from 34 different US Alzheimer's Disease Centers; Rush University Religious Orders Study and Memory and Aging Project (ROS-MAP); and the Group Health Research Institute Adult Changes in Thought study (ACT).
+0	NA	NA	NA	FIG	Subsequent evaluation of particular risk alleles was then performed (Stage II) using data from two additional cohorts: University of Kentucky ADC (UK-ADC), and University of California at Irvine 90+ Study (UCI90+).
+1	NA	ATP-binding cassette, sub-family C member 9	rs704178	FIG	Post-hoc studies were performed on the ABCC9 allele (rs704178) showing the most robust association with HS-Aging patholog
+0	NA	NA	NA	FIG	Statistical power analyses.
+0	NA	NA	NA	FIG	"With the sample size of the Stage I cohorts (241 cases, 1,998 controls), the probability of elucidating a ""true-positive"" SNP associated with HS-Aging pathology was modeled."
+0	NA	NA	NA	FIG	Two different genome-wide significance thresholds were modeled, each with varying minor allele frequency and risk allele effect sizes operationalized by the odds ratio of HS-Aging pathology in risk SNP carriers versus non-carriers.
+0	NA	NA	NA	FIG	To reflect the study design, the p values were set at p < 5 x 10-8 (a) and p < 10-5 (b
+0	NA	NA	NA	FIG	HS-Aging GWAS using data meta-analyzed from the three Stage I cohorts.
+0	NA	NA	NA	FIG	a Manhattan plot showing p values for HS-Aging GWAS with meta-analyzed data from the three Stage I cohorts.
+0	NA	NA	NA	FIG	No SNP was found to reach genome-wide statistical significance (p < 5 x 10-8 to correct for multiple comparisons) in this GWAS.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	FIG	Two loci with the lowest p values SNPs in the Stage I GWAS are highlighted in red: ABCC9 (Chr 12p) and CTAGE5/FBXO33 (Chr 14q).
+0	NA	NA	NA	FIG	b QQ Plot for HS-Aging GWAS using ADGC data.
+0	NA	NA	NA	FIG	Observed (log-transformed) p values for each SNP are plotted against their corresponding expected values under the null hypothesis of no association with HS-Agin
+0	NA	NA	NA	FIG	LocusZoom plots of HS-Aging GWAS data.
+0	NA	NA	NA	FIG	Results of HS-Aging GWAS meta-analyzed data from Stage I datasets are shown.
+0	NA	GRN	rs5848	FIG	The y axis shows p values describing the results of association study with HS-Aging phenotype centered on a GRN locus (rs5848) on Chromosome 17 and b TMEM106B locus (rs1990622) on Chromosome 7.
+0	NA	NA	NA	FIG	Note that the SNPs being evaluated have been published previously and this is a sample of cases and controls that is independent from prior published studies of these alleles.
+0	NA	NA	NA	FIG	Since this part of our study is a replication experiment, and focused on the two particular alleles, p < 0.05 findings would constitute a successful replicatio
+0	NA	NA	NA	FIG	LocusZoom plots of HS-Aging GWAS data.
+0	NA	NA	NA	FIG	Results of HS-Aging GWAS meta-analyzed data from Stage I datasets are shown.
+1	NA	ATP-binding cassette, sub-family C member 9	rs704178	FIG	The y axis shows p values describing the results of association study with HS-Aging phenotype centered on the ABCC9 rs704178 risk allele that was the subject of further study.
+0	NA	NA	NA	FIG	The data shown here are independent of the subsequent studies in two additional Stage II cohort
+1	NA	ATP-binding cassette, sub-family C member 9	rs704178	FIG	The ABCC9 risk allele (rs704178) association with HS-Aging pathology.
+0	NA	NA	NA	FIG	Analyses were performed for each individual autopsy cohort, and then combined using meta-analyses across all five Stage I and Stage II cohorts, using inverse-variance-based statistic.
+0	NA	NA	NA	FIG	Forest plots displaying cohort-specific and aggregated odds ratios (OR) and 95 % confidence intervals (CIs) were created reflecting these meta-analyzed results.
+0	NA	NA	NA	FIG	Lines represent 95 % CIs for the ORs, and the size of the square (cohort) or trapezoid (meta-analyzed group) reflects the cohort size.
+0	NA	NA	NA	FIG	Shown here are the results when assuming an additive mode of inheritance (a) or recessive mode of inheritance (b
+0	NA	ATP-binding cassette, sub-family C member 9	NA	FIG	ABCC9 gene and protein organization in relation to the HS-Aging risk alleles.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	FIG	a There are at least 38 exons in the ABCC9 gene, and the SNPs that are most strongly linked to HS-Aging are present within a 20-kilobase region.
+0	NA	ATP-binding cassette, sub-family C member 9	NA	FIG	b The approximate location of the exons on the corresponding ABCC9 polypeptide is shown with a red arrow.
+0	NA	NA	NA	FIG	TM transmembrane, NBD nucleotide-binding domains.
+1	NA	ATP-binding cassette, sub-family C member 9	rs704178	FIG	c Direct genomic sequencing of the ABCC9 gene was performed for six cases (3 rs704178 G/G HS-Aging cases, 3 elderly controls with rs704178 C/C genotype).
+0	NA	NA	NA	FIG	Intron-by-intron analyses indicate that the intronic polymorphisms linked to HS-Aging pathology span more than ten exon
+0	NA	NA	NA	TABLE	Research subjects (n = 2,666 research subjects total) and the five autopsy cohorts analyzed in the current stud
+0	hippocampal sclerosis	NA	rs5848	TABLE	Results from Stage I datasets for polymorphisms (rs5848 and rs1990622) linked previously to hippocampal sclerosis pathology in aged individual
+0	NA	NA	NA	TABLE	GWAS from Stage I cohorts with p < 10-5: genomic loci, including the genes (if any) and individual SNP at each locus with the lowest p valu
+0	hippocampal sclerosis	ATP-binding cassette, sub-family C member 9	NA	TABLE	Number of research subjects in each Stage II cohort arranged by ABCC9 genotype status (risk allele is G) and neuropathology [P-TDP-43 or hippocampal sclerosis (HS)
+0	Alzheimer's disease	NA	NA	TABLE	Sulfonylurea use and HS-Aging risk in persons age 85 years and older at death: data from the National Alzheimer's Coordinating Center (NACC) databas

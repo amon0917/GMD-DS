@@ -1,0 +1,54 @@
+0	male breast cancer	NA	NA	ABSTRACT	We conducted a genome-wide association study of male breast cancer using 823 cases and 2,795 controls of European ancestry with validation in independent sample sets totalling 438 cases and 474 controls.
+1	male breast cancer	RAD51L1	NA	ABSTRACT	A novel variant in RAD51B (14q24.1) was significantly associated with male breast cancer risk (P = 3.02 x10-13, odds ratio (OR) = 1.57).
+1	NA	TNRC9	NA	ABSTRACT	TOX3 (16q12.1) was also a susceptibility locus (P = 3.87 x10-15, OR = 1.50)
+0	male breast cancer	NA	NA	INTRO	Male breast cancer accounts for 1% of all breast cancer diagnoses.
+0	male breast cancer	NA	NA	INTRO	Family history is a significant risk factor for male breast cancer; the relative risk of breast cancer for a female with an affected brother is approximately 30% higher than for a female with an affected sister.
+0	male breast cancer	BRCA2	NA	INTRO	Approximately 10% of male breast cancer cases are BRCA2 mutation carriers while BRCA1 mutation carriers are reported less frequently.
+0	male breast cancer	NA	NA	INTRO	Predicated on the assumption that common variation contributes appreciably to the heritable risk of male breast cancer, and since investigation of risk alleles for breast cancer in men may provide novel insight into genetic susceptibility for the disease in females, we performed a genome-wide association study (GWAS)
+0	breast cancer	NA	NA	INTRO	Using Illumina OmniExpress arrays (Illumina, San Diego CA) we genotyped 920 male breast cancer cases ascertained from the UK (n = 805) and US (n = 115) (Supplementary Methods; Supplementary Table 1).
+0	NA	NA	NA	INTRO	For controls we used publicly available data on 2,912 individuals from the 1958 British Birth Cohort, genotyped on Illumina 1.2M DuoCustom arrays.
+0	NA	NA	NA	INTRO	After applying pre-specified quality control measures (Supplementary Methods; Supplementary Figure 1; Supplementary Tables 2a and 2b), we estimated odds ratios (ORs) and 95% confidence intervals (CI) for 447,760 autosomal SNPs with minor allele frequencies (MAF) >= 5% in 823 cases and 2,795 controls.
+0	NA	NA	NA	INTRO	Quantile-quantile plots of P-values showed minimal inflation of test statistics, indicating that there was no substantial cryptic population substructure or differential genotyping between cases and controls (genomic control inflation factor lambda = 1.05; Supplementary Figure 2)
+0	male breast cancer	NA	NA	INTRO	A total of 17 SNPs, mapping to six independent genomic regions, showed evidence of association with male breast cancer at P <= 5.0 x 10-7(Supplementary Figure 3).
+0	NA	NA	NA	INTRO	We attempted to validate the most significantly associated SNP mapping to each of the six regions in 438 cases and 474 controls recruited from 12 case-control series (Supplementary Methods; Supplementary Table 1).
+1	NA	NA	rs1314913	INTRO	In a combined analysis the associations of two SNPs, rs1314913 (P = 3.02 x 10-13, OR = 1.57) and rs3803662 (P = 3.87 x 10-15, OR = 1.50) attained genome-wide significance (Table 1; Supplementary Tables 3 & 4)
+1	NA	RAD51L1	rs1314913	INTRO	SNP rs1314913 localises to intron seven of the RAD51B gene (RAD51 homolog B) on chromosome 14q24.1 at 67,769,347 bp (NCBI build 36).
+0	NA	NA	NA	INTRO	It maps to the distal end of a linkage disequilibrium block of approximately 52 kb (Supplementary Figure 4).
+0	NA	RAD51	NA	INTRO	RAD51 family members function in both mitotic and meiotic homologous recombination and in DNA double-strand break repair.
+1	breast cancer	RAD51L1	rs999737	INTRO	rs999737, located in intron 10 of RAD51B, has previously been shown to be associated with risk of female breast cancer.
+1	NA	NA	rs1314913	INTRO	This SNP maps approximately 335 kb telomeric to rs1314913 and is separated from it by strong recombination hotspots (Figure 1a; Supplementary Figure 4).
+1	NA	NA	rs999737	INTRO	rs999737 and rs1314913 are only weakly correlated in the male breast cases (r2 = 0.02) and the HapMap CEU population (r2 = 0.006).
+1	NA	NA	rs1314913	INTRO	To test formally for independence between rs1314913 and rs999737 we fitted a logistic regression model, using the discovery phase samples, adjusted for rs999737 in which the OR for rs1314913 was 1.54 (P = 1.04 x 10-9).
+1	NA	NA	rs999737	INTRO	Conversely the OR for rs999737, adjusted for rs1314913, was 0.93 (P = 0.25)
+0	NA	NA	NA	INTRO	To provide further insight into the association at 14q24.1 we imputed genotypes in cases and controls using data from the 1,000 Genomes Project.
+1	male breast cancer	NA	rs1314913	INTRO	Fifty-two imputed SNPs were more strongly associated with male breast cancer than rs1314913 and delineated an 85 kb cluster from 67.68 Mb to 67.77 Mb (Figure 1a; Supplementary Table 5).
+0	NA	NA	NA	INTRO	To examine if any directly genotyped or imputed SNPs annotated a putative transcription factor binding site or enhancer element we conducted a bioinformatic search of the region (Supplementary Methods).
+1	NA	NA	rs1314913	INTRO	Seven associated SNPs, including rs1314913, were highly evolutionarily conserved (Supplementary Table 6).
+1	allergy	NA	rs1314913	INTRO	Analysis of ENCODE project data, including the Broad histone modification datasets for human mammary epithelial cells (HMECs), showed that two conserved SNPs, rs1314913 and an adjacent SNP, rs1316014, were located in a transcription factor-binding site lying within a DNAse hypersensitive site flanked by regions of high H3K4 mono/di-methylation and low tri-methylation, features that are characteristic of enhancer elements (Supplementary Figures 5 and 6).
+1	NA	NA	rs1314913	INTRO	In silico predictions are compatible with the minor alleles of both rs1314913 and rs1316014 abrogating the DNA binding sites of AP-1 and related transcription factors (Supplementary Figure 7).
+1	male breast cancer	NA	rs1314913	INTRO	It is possible that the role of AP-1 in modulating estrogen signalling and transcription might explain the association between rs1314913 and male breast cancer
+0	breast cancer	NA	rs3803662	INTRO	We have previously shown in a much smaller study that rs3803662, a synonymous SNP in LOC643714 mapping to chromosome 16q12.1 at 51,143,812 bp, was associated with male breast cancer risk, albeit not at genome-wide levels of significance.
+0	NA	NA	NA	INTRO	Here we provide robust confirmatory evidence of that association (Table 1).
+1	NA	TNRC9	NA	INTRO	Examination of imputed data suggests that the association spans a 61 kb region from 51.09 Mb to 51.16 Mb and is proximal to LOC643174(Figure 1b), localising to the gene TOX3 (TOX high mobility group family member three)
+0	breast cancer	BRCA2	NA	INTRO	Rare variants in two breast cancer susceptibility genes, BRCA2 and CHEK2, have larger ORs in males compared with females and we show here that this is also true for two common susceptibility alleles.
+1	NA	NA	rs1314913	INTRO	Both rs1314913 and rs3083662 are striking in the magnitude of their effects.
+0	breast cancer	NA	rs3803662	INTRO	Comparing the breast cancer OR for rs3803662 in our data with the published estimate for females (OR = 1.20 [1.16-1.24]), the effect was significantly greater in males (P = 7.76 x 10-5).
+1	breast cancer	NA	rs1314913	INTRO	Since rs1314913 is a novel breast cancer susceptibility variant there are no equivalent female estimates for comparison
+0	breast cancer	NA	NA	INTRO	Variants at 24 loci have so far been shown to influence female breast cancer risk.
+0	male breast cancer	NA	NA	INTRO	Their associations with male breast cancer are shown in Supplementary Table 7.
+0	NA	NA	rs3803662	INTRO	In addition to rs3803662, SNPs at 2q35, 6q25.1, 10q21.2, 11q13.3, 12p11.22 were significantly associated at P< 0.05.
+0	NA	NA	NA	INTRO	Loci at 3p24.1, 9p21.3 and 14q24.1 showed borderline associations at P <= 0.1.
+0	male breast cancer	FGFR2	rs2981582	INTRO	There was no significant association, however, between variants at the FGFR2 locus on chromosome 10q26.13 and male breast cancer risk (rs2981582; OR = 1.07 [0.96-1.20]; P = 0.21).
+0	breast cancer	ER	NA	INTRO	This observation is surprising since male breast cancer is almost entirely estrogen receptor (ER) positive.
+0	breast cancer	ER	rs2981582	INTRO	rs2981582 is the SNP with the strongest known association with ER positive breast cancer in females and the power of our study to detect an allele with the same effect size as for female breast cancer at P <= 0.05 is close to 100%.
+0	breast cancer	ER	rs3803662	INTRO	rs3803662, however, is strongly associated with both ER negative and ER positive breast cancer in females.
+0	male breast cancer	ER	NA	INTRO	Therefore the ER status of male breast cancers does not obviously explain the SNP associations
+0	breast cancer	NA	NA	INTRO	These data provide evidence for low penetrance susceptibility to male breast cancer.
+0	NA	NA	NA	INTRO	Given the modest size of our study it is likely that additional risk variants can be identified by future GWAS
+0	NA	NA	NA	FIG	Directly genotyped SNPs from the discovery phase are represented as diamonds and imputed SNPs as circles.
+0	NA	NA	NA	FIG	"A larger diamond indicates the GWAS ""hit"" in each region."
+0	NA	NA	NA	FIG	The strength of linkage disequilibrium between each SNP and the GWAS hit is indicated by the colour intensity of the symbol, from white (r2 = 0) to dark red (r2 = 1).
+0	NA	NA	NA	FIG	Recombination rates, plotted in dark blue, are based on the HapMap CEU samples and genomic coordinates are based on NCBI build 36 of the human genome.
+0	NA	NA	NA	FIG	Results are shown for the (a) 14q24.1 and (b) 16q12.1 loci.
+1	NA	RAD51L1	rs999737	FIG	The location of rs999737 is indicated in bold at the distal end of RAD51B in the 14q24.1 plot
+1	male breast cancer	NA	rs1314913	TABLE	Summary data for the 14q21.1 SNP rs1314913 and 16q12.1 SNP rs3803662 associated with risk of male breast cancer

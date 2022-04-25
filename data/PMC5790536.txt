@@ -1,0 +1,129 @@
+0	breast cancer	NA	NA	ABSTRACT	The majority of breast cancers are driven by the female hormone oestrogen via oestrogen receptor (ER) alpha.
+0	NA	NA	NA	ABSTRACT	ER-positive patients are commonly treated with adjuvant endocrine therapy, however, resistance is a common occurrence and aside from ER-status, no unequivocal predictive biomarkers are currently in clinical use.
+0	breast cancer	NA	NA	ABSTRACT	In this study, we aimed to identify constitutional genetic variants influencing breast cancer survival among ER-positive patients and specifically, among endocrine-treated patients.
+0	breast cancer	NA	NA	ABSTRACT	We conducted a meta-analysis of three genome-wide association studies comprising in total 3,136 patients with ER-positive breast cancer of which 2,751 had received adjuvant endocrine therapy.
+1	breast cancer	NA	rs992531	ABSTRACT	We identified a novel locus (rs992531 at 8p21.2) associated with reduced survival among the patients with ER-positive breast cancer (P = 3.77 x 10-8).
+0	NA	NA	rs7701292	ABSTRACT	Another locus (rs7701292 at 5q21.3) was associated with reduced survival among the endocrine-treated patients (P = 2.13 x 10-8).
+0	NA	NA	rs7701292	ABSTRACT	Interaction analysis indicated that the survival association of rs7701292 is treatment-specific and independent of conventional prognostic markers.
+1	NA	RHOBTB2	rs992531	ABSTRACT	In silico functional studies suggest plausible biological mechanisms for the observed survival associations and a functional link between the putative target genes of the rs992531 and rs7701292 (RHOBTB2 and RAB9P1, respectively).
+1	NA	NA	rs992531	ABSTRACT	We further explored the genetic interaction between rs992531 and rs7701292 and found a significant, treatment-specific interactive effect on survival among ER-positive, endocrine-treated patients (hazard ratio = 6.97; 95% confidence interval, 1.79-27.08, Pinteraction = 0.036).
+0	NA	NA	NA	ABSTRACT	This is the first study to identify a genetic interaction that specifically predicts treatment outcome.
+0	NA	NA	NA	ABSTRACT	These findings may provide predictive biomarkers based on germ line genotype informing more personalized treatment selection
+0	breast cancer	NA	NA	INTRO	Oestrogen receptor (ER) positive breast cancer is driven by oestrogen signalling and accounts for approximately 70% of all breast cancers.
+0	breast cancer	NA	NA	INTRO	ER-positive breast cancers can be successfully treated with endocrine therapies, but approximately one third do not respond to these treatments at all and the majority of tumours that initially respond to treatment will develop resistance over time.
+0	NA	NA	NA	INTRO	No biomarkers that identify such non-responders are currently in clinical use
+0	breast cancer	NA	NA	INTRO	Both somatic mutations and germ-line variants are likely to contribute to breast cancer survival, e.g.
+0	cancers	NA	NA	INTRO	by influencing tumour progression, host-tumour interactions, or pharmacogenomical mechanisms.
+0	breast cancer	NA	NA	INTRO	Genome-wide association studies (GWASs) have investigated single nucleotide polymorphism (SNPs) associating with breast cancer survival, including our previous research investigating 10-year disease free survival among all breast cancer cases based on a meta-analysis of two GWAS studies.
+0	breast cancer	NA	NA	INTRO	Previous studies have also identified variants associating with survival in breast cancer subgroups defined by ER status, or by particular anticancer treatments.
+0	breast cancer	NA	NA	INTRO	We have previously investigated association of genetic variants with 10-year overall survival among chemotherapy-treated patients, and based on a two-study GWAS meta-analysis, we identified a locus 19q13.41 associating with 10-year breast cancer specific survival after endocrine treatment.
+0	NA	NA	NA	INTRO	Our earlier studies, albeit including partly the same data sets as in the current analysis, have had different approaches on study design and sample selection.
+0	cancers	NA	NA	INTRO	Here, our goal was to identify prognostic and predictive SNPs among patients with ER-positive tumours.
+0	NA	NA	NA	INTRO	To this end, we conducted a meta-analysis of SNP data from three independent GWAS studies
+0	breast cancer	POSH	NA	RESULTS	This analysis included 3,136 patients with ER-positive breast cancer (HEBCS 513, POSH 165, SUCCESS-A 2,458) (Supplementary Figure 1 and Supplementary Table 1).
+0	death	NA	NA	RESULTS	The fixed-effects meta-analysis of the three study GWASs analysis was carried out using five-year follow-up for first event as defined by a combined survival endpoint of local recurrence, distant metastasis or death.
+0	NA	NA	NA	RESULTS	Our sensitivity analysis indicated that this combined survival end-point is robust in this study (Supplementary Figures 2 and 3).
+0	NA	NA	NA	RESULTS	In the three data sets, together 275,827 SNPs were common and passed the QC process.
+0	NA	NA	NA	RESULTS	We conducted the analysis under additive, dominant and recessive inheritance models.
+0	NA	NA	NA	RESULTS	The strongest meta-analysis result indicated an association with survival at a genome-wide significance level (P < 5 x 10-8) under a dominant inheritance model (Supplementary Figure 4A and 4C).
+1	NA	NA	rs992531	RESULTS	The minor allele of rs992531 was associated with poor survival among ER-positive patients (hazard ratio (HR) 1.85; 95% confidence interval (CI), 1.63-2.07, P = 3.77 x 10-8) (Table 1).
+1	NA	NA	rs2314686	RESULTS	Two imputed SNPs, rs2314686 and rs4996307, with high LD (r2 = 1) had a slightly stronger signal (P = 1.70 x 10-8 and P = 3.58 x 10-8, respectively) (Supplementary Table 2 and Supplementary Figure 5A).
+1	NA	NA	rs992531	RESULTS	The haplotype analysis of the three SNPs (rs992531, rs2314686 and rs4996307) showed that the haplotype with rare alleles for each of the SNPs had the strongest association HR = 1.71; 95% CI, 1.40-2.07, P = 1.91 x 10-7) (Supplementary Table 3).
+1	NA	NA	rs992531	RESULTS	No association with survival was seen among 1,706 ER-negative patients: HR = 0.97; 95% CI, 0.74-1.28; P = 0.833 for the genotyped SNP rs992531 (Table 1).
+1	NA	NA	rs992531	RESULTS	In a study-stratified multivariate analysis of the pooled ER-positive data set, adjusted for standard prognostic factors, rs992531 remained statistically significant (HR = 1.60; 95% CI, 1.28-2.02; P = 5.09 x 10-5) (Supplementary Table 4)
+1	cancers	NA	rs992531	RESULTS	The survival association of rs992531 was consistent between studies in all patients and in tumour phenotype and treatment-based subgroups (Supplementary Figure 6)
+0	NA	POSH	NA	RESULTS	A total of 2,751 cases had received adjuvant endocrine therapy (HEBCS 227, POSH 122, SUCCESS-A 2,402) (Supplementary Figure 1 and Supplementary Table 1).
+0	NA	NA	NA	RESULTS	The meta-analysis accepted all endocrine treated patients, combining anti-oestrogen, aromatase inhibitor and LHRH agonist treatments.
+0	NA	NA	rs7701292	RESULTS	The minor allele of rs7701292 was associated with poor survival after adjuvant endocrine therapy among ER-positive patients (per-allele HR = 1.79; 95% CI, 1.59-1.99, P = 2.13 x 10-8) (Table 1 and Supplementary Figures 4B, 4D and 5B).
+0	NA	NA	NA	RESULTS	A similar effect was seen in the tamoxifen-only subgroup (HR = 1.71; 95% CI, 1.51-1.92; P = 2.75 x 10-7).
+0	NA	NA	NA	RESULTS	No effect was seen among ER-positive patients not receiving endocrine therapy, nor among ER-negative patients (Table 1).
+0	NA	NA	NA	RESULTS	No stronger association signals at this locus were detected in imputed genotype data (Supplementary Figure 5B).
+0	NA	NA	NA	RESULTS	The effect of the SNP in ER-positive patients receiving endocrine therapy was consistent throughout the three studies (Table 1 and Supplementary Figure 7)
+0	NA	NA	rs7701292	RESULTS	Next, we performed an interaction test between rs7701292 and endocrine treatment in a pooled data set of all ER-positive cases, adjusted for adjuvant chemotherapy and standard prognostic factors.
+0	NA	NA	NA	RESULTS	In both the co-dominant and additive models, assuming no interaction, the SNP and endocrine treatment were both independently prognostic.
+0	NA	NA	NA	RESULTS	In the co-dominant model, the effect size depended on allele dose: AG genotype HR = 1.44 (95% CI 1.15-1.80, P = 0.0015); GG genotype HR = 3.22 (95% CI 1.70-6.13, P = 0.0004) (Table 2).
+0	NA	NA	NA	RESULTS	The additive model estimated the per-allele hazard at HR = 1.52, 95% CI 1.25-1.86; P = 3.09 x 10-5) (Table 2).
+0	NA	NA	rs7701292	RESULTS	In the models with an interaction term, a statistically significant interaction was detected between rs7701292 and endocrine treatment: the per-allele HR for rs7701292:endocrine treatment was 1.92; 95% CI, 1.11-3.31, likelihood-ratio test Pinteraction = 0.0157 (Table 2)
+0	breast cancer	NA	rs8113308	RESULTS	We have previously identified a SNP rs8113308 at locus 19q13.14 to associate with poor survival in endocrine treated patients based on two-study meta-analysis using 10-year breast cancer specific survival.
+0	NA	NA	rs8113308	RESULTS	In the current analysis rs8113308 did not reach genome wide significance.
+0	NA	NA	NA	RESULTS	Additionally, we inspected whether the identified SNPs remain significant when adjusting for the SNPs found in the previous survival studies utilizing partly the same data sets as in the current analysis.
+0	NA	NA	NA	RESULTS	The results for the identified SNPs remain similar after adjustment (data not shown)
+1	metastases	NA	rs7701292	RESULTS	The analyses for SNP rs7701292 and SNP rs992531 were carried out using five-year follow-up for first event as defined by a combined endpoint of local recurrence, distant metastasis or death (any cause) that was the only endpoint available for SUCCESS-A study with adequate analytic power (mean follow-up 4.0 years).
+0	NA	POSH	NA	RESULTS	However, since follow up for patients in HEBCS and POSH data sets is considerably longer (HEBCS mean follow-up 14.7 years, POSH mean follow-up 5.3 years), and also distant disease-free survival (DDFS) information is available, we carried out a sensitivity analysis for each SNP using also alternative endpoints of five year DDFS in HEBCS and POSH data sets and 10 year overall survival in all three studies (Supplementary Figures 2 and 3).
+0	NA	NA	NA	RESULTS	The results were very similar for both SNPs for DDFS.
+1	NA	POSH	rs992531	RESULTS	In ER-positive patients results for rs992531 were HEBCS, HR = 1.98; 95% CI, 1.65-2.29 and POSH, HR = 2.21; 95% CI, 1.69 - 2.72, and in the subgroup of ER-positive patients who received endocrine treatment results for rs7701292 were, HEBCS, HR = 2.32; 95% CI, 1.83-2.81 and POSH, HR = 2.07; 95% CI, 1.57-2.56.
+0	NA	NA	NA	RESULTS	(Supplementary Figures 2 and 3).
+1	NA	NA	rs992531	RESULTS	The same trend was also seen for the less powered 10 year overall survival analysis in the subgroup of ER-positive patients for rs992531 and among ER-positive endocrine treated patients for rs7701292 (Supplementary Figures 2 and 3)
+1	metastases	NA	rs992531	RESULTS	The SNP rs992531 was associated with M-status (metastasis at diagnosis) in the ER positive subgroup: carriers of the rare allele had more metastases at diagnosis than carriers of the common homozygote genotype (P = 0.004) (Supplementary Table 5).
+0	NA	NA	rs7701292	RESULTS	The rare homozygote of rs7701292 also associated with a higher rate of metastasis at diagnosis, but only among ER-negative cases (P = 0.003) (Supplementary Table 6)
+0	NA	NA	rs99253	RESULTS	Neither of the SNPs were associated with ER-status (rs99253: chi2 = 0.31, P = 0.58 and rs7701292: chi2 = 0.44, P = 0.80)
+1	cancers	NA	rs992531	RESULTS	In order to test whether SNP rs992531 in chromosome 8 or rs7701292 in chromosome 5 or their tag SNPs in the linkage disequilibrium region (r2 > 0.1) associate with mRNA expression, we performed a quantitative expression trait (eQTL) analysis in 1142 breast cancer tumours in the METABRIC project.
+0	NA	NA	NA	RESULTS	We conducted the analysis both in cis, defined as eQTL within +-1 Mb from any SNP in the LD region, and trans, defined as any eQTLs outside these regions
+1	NA	NA	rs992531	RESULTS	SNP rs992531 resides in a gene-dense region with 55 genes.
+1	NA	PDLIM2	NA	RESULTS	The analysis utilizing a linear model identified two cis-eQTL genes, PDLIM2 and RHOBTB2, which remained statistically significant after multiple testing correction (Supplementary Table 7).
+0	NA	NA	NA	RESULTS	No trans-eQTLs were observed at this locus
+1	NA	RAB9P1	rs7701292	RESULTS	In the cis-region of rs7701292, the SNP rs2061968 (a tag SNP for rs7701292; r2 = 1) associated with the expression of RAB9P1 (P = 3.55 x 10-2) (Supplementary Table 8).
+1	NA	RAB9P1	rs2061968	RESULTS	Low RAB9P1 mRNA expression level was associated with the rs2061968 rare homozygote genotype.
+0	NA	NA	rs7701292	RESULTS	Rs7701292 and its tag SNPs were also associated with seven statistically significant trans-eQTL genes (Supplementary Table 9)
+1	NA	AP-1	rs992531	RESULTS	In the rs992531 locus, the SNP rs4996307 (r2 = 1) is located in the binding motif of the transcription factor AP-1, a predicted regulator of RHOBTB2.
+0	breast cancer	NA	NA	RESULTS	The genomic region spanning the binding motif is active in several cell lines including human mammary epithelial cell line and MCF-7 breast cancer cell line indicated by the histone modification data.
+1	NA	NA	rs992531	RESULTS	Inspection of haplotypes at the rs992531 locus revealed that the survival-associated haplotypes contain the rare alleles of rs992531 and rs4996307 (Supplementary Table 10).
+0	NA	NA	rs7701292	RESULTS	In the rs7701292 locus, we found a binding motif for hypoxia-inducible factor 1beta (HIF-1beta) that is affected by rs1712662 (tag SNPs for rs7701292, r2 = 0.79 D' = 1).
+0	breast cancer	NA	NA	RESULTS	As indicated by the histone modification data, the genomic region spanning the binding motif for HIF-1beta is active in several cell lines including MCF-7 breast cancer cell line.
+1	breast cancer	RAB9P1	NA	RESULTS	HIF-1beta targets RAB9P1 in MCF-7 breast cancer cells
+1	NA	RHOBTB2	rs992531	RESULTS	According to Kaplan-Meier Plotter, one of the two cis-eQTL genes associating with rs992531, RHOBTB2, was associated with survival consistently with the association seen in the eQTL analysis.
+0	NA	RHOBTB2	NA	RESULTS	Low expression of the RHOBTB2 gene was associated with poor prognosis among ER positive patients (HR = 1.17; 95% CI 1.05-1.31; P = 0.0038) whereas among ER-negative patients the effect was opposite (HR = 0.87; 95% CI 0.77-0.98; P = 0.02) (Supplementary Figure 8).
+1	NA	RHOBTB2	rs1550281	RESULTS	This is consistent with the results of the cis-eQTL analysis: the heterozygote and rare homozygote genotypes of rs1550281 (a tag SNP for rs992531, r2 = 0.414, D' = 1) were associated with decreased RHOBTB2 expression, which in turn was associated with poor survival
+1	NA	RAB9P1	NA	RESULTS	The only identified cis-eQTL association in the 5q21.3 locus was RAB9P1.
+1	NA	RAB9P1	NA	RESULTS	In line with the eQTL result, high RAB9P1 expression was associated with better survival (HR = 0.80, 95% CI 0.71-0.91, P = 8.1 x 10-4).
+1	NA	RAB9P1	NA	RESULTS	The effect was similar in ER-positive cases, HR = 0.75; 95% CI 0.61-0.92, P = 5.7 x 10-3 and in ER-negative cases, HR = 0.73; 95% CI 0.56-0.97, P = 0.028, indicating that the association between RAB9P1 expression and survival is not specific to the ER-positive subgroup.
+1	NA	RAB9P1	NA	RESULTS	Since the cis-eQTL RAB9P1 gene is a pseudogene, and a pseudogene may affect the function of its cognate protein coding gene, we also investigated its parent gene, RAB9A.
+0	cancers	RAB9A	NA	RESULTS	In the Kaplan-Meier plotter analysis, high RAB9A expression was associated with poor survival among patients with ER-positive cancers who received endocrine treatment (HR = 2.05 (1.48-2.83), P = 8.6 x 10-6) whereas an opposite effect was seen among ER-negative cases (HR = 0.70 (0.53-0.94), P = 0.015) (Supplementary Figure 9)
+1	NA	NA	rs992531	RESULTS	Finally, in order to evaluate a possible biological connection between the two loci (see Discussion), we performed an exploratory interaction test between the minor allele of rs992531 and the rare homozygote of rs7701292, and found a statistically significant interaction specifically within the ER-positive endocrine treated group (interaction term HR 6.97, 95% CI 1.79-27.08, Pinteraction = 0.036) (Supplementary Table 11)
+1	NA	NA	rs992531	DISCUSS	We have identified one new locus (rs992531 at 8p21.2) associated with poor survival in the ER-positive subgroup and a second locus (rs7701292 at 5q21.3) that is prognostic specifically among endocrine-treated patients.
+0	breast cancer	NA	rs7701292	DISCUSS	In a multivariate analysis adjusted for adjuvant chemotherapy and conventional prognostic factors, we found an interaction between rs7701292 and endocrine treatment indicating a predictive, treatment-specific effect of the SNP on breast cancer survival
+1	NA	AP-1	rs992531	DISCUSS	In the rs992531 locus, the statistically most significant imputed SNP (rs4996307) resides in the binding motif of the transcription factor AP-1, predicted to be the main transcriptional regulator of RHOBTB2.
+1	breast cancer	RHOBTB2	rs992531	DISCUSS	Our results indicate that the rs992531 minor allele associates with decreased expression of RHOBTB2 which, in turn, associates with poor survival in ER-positive breast cancer patients.
+0	cancers	RHOBTB2	NA	DISCUSS	RHOBTB2 has been implicated as a tumour suppressor gene associated with breast cancer survival.
+0	breast cancer	CCND1	NA	DISCUSS	Its growth-inhibitory effect may be mediated via down-regulation of cyclin D1 which binds the oestrogen receptor and has been shown to associate with poor prognosis in ER-positive breast cancer.
+0	NA	CCND1	NA	DISCUSS	Cyclin D1 and its associated cyclin-dependent kinases (CDKs) are potential therapeutic targets: improved survival has been achieved with a combination therapy of CDK4/6 inhibitor palbociclib and fulvestrant, an ER antagonist, compared to fulvestrant alone.
+1	breast cancer	RHOBTB2	rs992531	DISCUSS	The molecular mechanism behind SNP rs992531 and poor breast cancer outcome in ER-positive cases may therefore involve altered RHOBTB2 expression and its interplay with cyclin D1 and the oestrogen receptor (Figure 1A)
+1	NA	NA	rs992531	FIG	Putative biological mechanism of (A) SNP rs992531 and (B) rs7701292
+1	NA	RAB9P1	rs7701292	DISCUSS	In the rs7701292 locus, the minor allele was found to associate with decreased expression of RAB9P1.
+1	breast cancer	RAB9P1	rs1712662	DISCUSS	Rs1712662, a tag SNP for rs7701292 (r2 = 0.79 D' = 1), disrupts a binding motif for HIF-1beta, a regulator of RAB9P1 in the ER-positive MCF-7 breast cancer cell line.
+1	NA	RAB9P1	NA	DISCUSS	RAB9P1 is a pseudogene that shares high sequence homology with its parent/cognate protein coding gene RAB9A, and may influence its function.
+0	cancers	NA	NA	DISCUSS	Rab GTPases have central roles in tumour progression and the development of drug resistance, and are dysregulated in many cancers, including breast cancer.
+0	breast cancer	RAB9A	NA	DISCUSS	Rab GTPases, including RAB9A, are also involved in the regulation of autophagy, a biological process known to facilitate the progression of ER-positive breast cancer cells to anti-oestrogen resistance.
+0	NA	RAB9A	NA	DISCUSS	In KM-plotter data, high expression of RAB9A was associated with poor survival in the ER-positive subgroup, and the ER-positive endocrine treated subgroup, whereas an opposite effect was seen in the ER-negative subgroup.
+1	Neurological and Communication Disorders	RAB9P1	rs7701292	DISCUSS	The biological rationale for the rs7701292 association might thus be that under-expression of RAB9P1, possibly due to impaired HIF-1beta mediated regulation, may upregulate RAB9A expression or activity, leading to anti-oestrogen resistance and consequent poor survival (Figure 1B)
+1	NA	RHOBTB2	rs992531	DISCUSS	There appears to be a possible functional link between the rs992531 and rs7701292 loci and their putative target genes RHOBTB2 and RAB9A.
+0	NA	RHOBTB2	NA	DISCUSS	RHOBTB2 belongs to the RhoBTB family and RAB9A binds another member of the same family, RHOBTB3.
+0	NA	RHOBTB2	NA	DISCUSS	RHOBTB2 and RHOBTB3 are capable of dimerizing through the BTB domain region.
+0	NA	CUL3	NA	DISCUSS	Both proteins participate in vesicle transport and interact with CUL3, a ubiquitin E3 ligase that co-activates ER.
+0	breast cancer	RHOBTB2	NA	DISCUSS	Downregulation of RHOBTB2 and RHOBTB3 is common in breast cancer.
+1	NA	NA	rs992531	DISCUSS	Based on this connection, we further explored the SNPs in the two identified loci, rs992531 and rs7701292, and found an interaction on survival between minor allele of rs992531 and the rare homozygote genotype of rs7701292 specifically within the ER-positive endocrine treated patient group.
+0	NA	NA	NA	DISCUSS	Certain caution is advisable in the interpretation of this result, however, as ER-positive endocrine-treated patients carrying the interacting genotypes represent only 0.2% of cases in the study
+1	breast cancer	NA	rs992531	DISCUSS	In conclusion, we have identified two SNPs associated with survival at genome wide significance level, one among patients with ER positive breast cancer (rs992531) and one associated with outcome specifically after endocrine treatment (rs7701292), independently of conventional prognostic factors and consistently across the studies.
+0	NA	NA	NA	DISCUSS	If validated in other large studies, these findings help identify patients unlikely to benefit from current approaches to adjuvant endocrine treatment.
+0	NA	NA	NA	DISCUSS	This is also the first study to detect a possible genetic interaction on patient survival that may specifically predict treatment outcome with potentially major clinical consequences for the patients
+0	NA	POSH	NA	METHODS	GWAS data was obtained from three studies with well characterized patient series: HEBCS, POSH and SUCCESS-A
+0	breast cancer	NA	NA	METHODS	The HEBCS GWS consisted of 805 cases, of which 563 originated from a prospective patient series of unselected, incident breast cancer patients and 242 from an ongoing collection of familial cases.
+0	breast cancer	POSH	NA	METHODS	The POSH GWS consisted of 536 participants from the prospective POSH study in which participants were diagnosed with invasive breast cancer aged 40 years or younger.
+0	NA	NA	NA	METHODS	SUCCESS-A is a sub-study of the Simultaneous Study of Gemcitabine-Docetaxel Combination adjuvant treatment, as well as Extended Bisphosphonate and Surveillance-Trial.
+0	NA	NA	NA	METHODS	The sample set used here consisted of 3,596 samples.
+0	NA	NA	NA	METHODS	All participants of the three studies provided written informed consent as part of the original study.
+0	NA	NA	NA	METHODS	Ethical approval was obtained from institutional review boards of the contributing centers.
+0	cancers	NA	NA	METHODS	See Supplementary Table 1 for details on patient and tumour characteristics and Supplementary Materials and Methods for a detailed description of case recruitment, genotyping, quality control, and genotype imputation
+0	metastases	Cox	NA	METHODS	Cox's proportional hazards models were used to analyse survival until first event as defined by a combined endpoint of local recurrence, distant metastasis or death (any cause), and adjusted for BRCA1/2 and age.
+0	NA	NA	NA	METHODS	The additive, dominant, and recessive genetic models were analysed.
+0	NA	NA	NA	METHODS	For the endocrine treatment subgroup, we combined anti-oestrogen, aromatase inhibitor and LHRH agonist treatments.
+0	metastases	NA	NA	METHODS	Follow-up time was calculated from the date of diagnosis to the date of last follow-up or local recurrence, distant metastasis or death (any cause) and right-censored at five years.
+0	metastases	NA	NA	METHODS	Patients with distant metastases near the time of diagnosis (M1) were excluded from the treatment-specific analyses
+0	NA	NA	NA	METHODS	Likelihood ratio tests were used to test for interaction between genotype and endocrine treatment in a pooled data set of all three studies, stratified by study.
+0	cancers	progesterone receptor	NA	METHODS	Clinically relevant covariates (tumour size [T], lymph node metastasis [N], progesterone receptor [PgR] status, age at diagnosis, tumour grade, and adjuvant chemotherapy treatment) were included in these Cox models.
+0	NA	NA	NA	METHODS	The interaction analyses were performed using both co-dominant (genotype-specific) and additive (per-allele) genetic models.
+0	NA	NA	NA	METHODS	Association between genotypes and clinical features was evaluated using chi-square tests
+0	breast cancer	NA	NA	METHODS	To detect eQTL genes likely to be affected by variants discovered in this study, we utilized breast tumour data from METABRIC.
+0	NA	NA	NA	METHODS	HaploReg4 was used for regulatory element prediction.
+0	NA	NA	NA	METHODS	To assess gene expression-based survival we utilized the online database Kaplan-Meier -Plotter.
+0	NA	NA	NA	METHODS	See Supplementary Materials and Methods for more details

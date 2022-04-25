@@ -1,0 +1,286 @@
+0	Breast and prostate cancer	PEGASUS	rs4646284	ABSTRACT	A genome-wide association study of prostate cancer in Kaiser Permanente health plan members (7,783 cases, 38,595 controls; 80.3% non-Hispanic white, 4.9% African-American, 7.0% East Asian, 7.8% Latino) revealed a new independent risk indel rs4646284 at the previously-identified locus 6q25.3 that replicated in PEGASUS (N=7,539) and MEC (N=4,679) (p=1.0x10-19, OR=1.18).
+1	NA	SLC22A1	rs4646284	ABSTRACT	Across the 6q25.3 locus, rs4646284 exhibited the strongest association with expression of SLC22A1 (p=1.3x10-23) and SLC22A3 (p=3.2x10-52).
+0	NA	PEGASUS	rs2659124	ABSTRACT	At the known 19q13.33 locus rs2659124 (p=1.3x10-13, OR=1.18) nominally replicated in PEGASUS.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	A risk score of 105 known risk SNPs was strongly associated with prostate cancer (p<1.0x10-8).
+0	NA	NA	NA	ABSTRACT	Comparing the highest to lowest risk score deciles, the OR was 6.22 for non-Hispanic Whites, 5.82 for Latinos, 3.77 for African-Americans, and 3.38 for East Asians.
+0	NA	NA	NA	ABSTRACT	In non-Hispanic whites, the 105 risk SNPs explained ~7.6% of disease heritability.
+0	allergy	NA	NA	ABSTRACT	The entire GWAS array explained ~33.4% of heritability, with a 4.3-fold enrichment within DNaseI hypersensitivity sites (p=0.004)
+0	Breast and prostate cancer	NA	NA	INTRO	Prostate cancer (PCa) is the second most common cancer diagnosed in men worldwide.
+0	NA	NA	NA	INTRO	PCa family history greatly increases risk; roughly 10-15% of men with PCa have an affected relative, and familial risk increases roughly two-fold for first-degree male relatives of affected individuals.
+0	cancers	NA	NA	INTRO	In addition, twin studies indicate PCa is among the most heritable cancers.
+0	NA	NA	NA	INTRO	It is essential to identify genetic risk factors to fully-characterize disease burden
+0	NA	NA	NA	INTRO	Eight years of genome-wide association studies (GWAS) identified at least 105 risk variants for PCa; most are common with modest effects, and alone explain little heritability.
+0	NA	NA	NA	INTRO	However, an overall genetic risk score combining these variants could be substantially more predictive of disease and explain a reasonable heritability proportion, although there still remain undiscovered loci.
+0	NA	NA	NA	INTRO	How many and where best to search remains unclear
+0	NA	NA	NA	INTRO	To further characterize PCa's genetic basis, we undertook a GWAS using multiple study cohorts within Kaiser Permanente (KP), a fully integrated health care delivery system: the Research Program on Genes, Environment and Health (RPGEH) cohort (dbGaP phs000674.p1), the ProHealth Study, and the California Men's Health Study (CMHS).
+0	NA	NA	NA	INTRO	This diverse population has not been included in any prior PCa GWAS, allowing for both novel risk variant discovery and assessment of the replication, prediction, and heritability explained by previously-reported risk variants across multiple ethnic populations.
+0	NA	NA	NA	INTRO	We first searched for novel PCa risk SNPs by conducting genome-wide scans using high throughput genotyping arrays optimized for four major race/ethnicity groups:non-Hispanic white, Latino, East Asian, and African-American :and meta-analyzing the corresponding results.
+0	NA	PEGASUS	NA	INTRO	We then tested the novel findings from this GWAS for independent replication in PEGASUS non-Hispanic whites and African-Americans comprised mostly of the Multiethnic cohort (MEC).
+0	NA	NA	NA	INTRO	Next, we looked at 105 previously-identified risk variants to assess how well they replicate in KP overall and within ethnic subgroups, and their ability to predict PCa.
+0	NA	NA	NA	INTRO	Finally, we evaluated the heritability explained in the largest race/ethnicity group (non-Hispanic whites) by the known SNPs, how much heritability remains unaccounted for, and which genomic regions are most likely to contain additional risk SNPs
+0	NA	NA	NA	RESULTS	Table 1 presents descriptive information for KP by PCa status (by study, Table S1), 7,783 men diagnosed with PCa and 38,595 men free from PCa.
+0	NA	NA	NA	RESULTS	Approximately 80% were non-Hispanic white, and this ethnic group had a higher case percentage than controls, as did the African-Americans.
+0	NA	NA	NA	RESULTS	Most men were over age 60, with an increased percentage of cases diagnosed between ages 60-70.
+0	NA	PSA	NA	RESULTS	On average, prostate specific antigen (PSA) levels were much higher in cases than controls, as PSA was used for annual PCa screening in KP.
+0	NA	NA	NA	RESULTS	Most cases have Gleason scores of six or seven
+0	NA	NA	NA	RESULTS	Our GWAS discovery stage detected 16 loci containing Pca-associated variants at genome-wide significance (p<5x10-8) (Figure 1, Table S2).
+0	NA	NA	NA	RESULTS	The genomic inflation factor was 1.052, suggesting our findings were not due to systematic bias.
+0	NA	NA	NA	RESULTS	Figure S1.1-1.36 shows Manhattan and Q-Q plots for the initial analysis of each race/ethnicity group, in addition to further analyses results conditioning on the genome-wide significant SNPs in KP.
+0	NA	NA	NA	RESULTS	Conditional analyses at known loci identified 10 additional independent secondary genome-wide significant variants (Table S2; conditioning round given in first column).
+0	NA	NA	NA	RESULTS	Of the 16 original plus 10 conditional genome-wide significant variants, 18 clearly replicated previous GWAS findings (discussed further below).
+0	NA	NA	rs13016083	RESULTS	Of the remaining eight variants, four were from our original GWAS: 2q22.3 (rs13016083), 6q25.3 (rs4646284), 14q23.1 (rs34582366), and 19q13.33 (rs2659124); and four were from the conditional analysis: 2p22.3 (rs36004513), 8q24.21 (rs77541621), 9p13.3 (b37 9:33975799), 12p12.1 (b37 12:25430787) (Table S2).
+0	NA	NA	NA	RESULTS	While some of these loci contain previously-reported PCa risk SNPs, there was generally limited linkage disequilibrium (LD) between them and the eight significant SNPs that we detected.
+0	NA	PEGASUS	NA	RESULTS	We assessed whether these eight SNPs were independent novel risk hits by undertaking analyses conditional on known risk SNPs at their corresponding loci and by replication in the PEGASUS and MEC studies
+0	NA	SLC22A1	rs4646284	RESULTS	The single base pair indel rs4646284 between SLC22A1 and SLC22A2, the site of a previously-reported locus at 6q25.3 was associated with PCa in the KP, PEGASUS and MEC populations (overall meta OR=1.18, p=1.0x10-19; Table 2a).
+0	NA	NA	NA	RESULTS	Within KP, the smallest p-value was observed among the non-Hispanic whites (p=6.7x10-11) as expected in light of it being the largest race/ethnic group.
+0	NA	NA	rs4646284	RESULTS	We observed nominal significance in African-Americans (p=0.029), and while not significant in Latinos, the estimated magnitude of rs4646284's effect on PCa was similar to that in non-Hispanic whites and African-Americans; rs4646284 did not exhibit any association among East Asians (Table 2a).
+0	NA	PEGASUS	NA	RESULTS	This SNP replicated at genome-wide significance in the PEGASUS study of non-Hispanic whites (p=1.4x10-8) and nominally in the MEC study of African-Americans (p=0.0094)
+1	NA	NA	rs4646284	RESULTS	The indel rs4646284 is in weak LD with two previously-reported PCa risk SNPs at 6q25.3: rs9364554 and rs651164 (pairwise r2 of these three SNPs was less than 0.20 in all race/ethnicity groups, except r2rs4646284,rs651164=0.55 in East Asians, see Table 2a).
+0	NA	NA	rs4646284	RESULTS	To verify that rs4646284 is associated with PCa independently of these two SNPs, we fit joint (conditional) models containing all three variants.
+0	NA	NA	rs4646284	RESULTS	Here, rs4646284 remained strongly associated with PCa overall (OR=1.16, p=5.4x10-12; Table 2a).
+1	NA	NA	rs9364554	RESULTS	The conditional analysis slightly weakened the association for rs9364554 (overall p-value went from 6.3x10-12 to 1.9x10-5 after conditioning), and completely attenuated the result for rs651165 (overall p-value decreased from 1.9x10-4 to 0.89 with conditioning).
+1	NA	NA	rs9364554	RESULTS	A 6q25.3 regional plot of association p-values conditioning on rs9364554 and rs651165 for KP shows that rs4646284 is a single hit, with very limited surrounding LD and no other strongly associated risk variants nearby (Figure 2a, each race/ethnicity group Figure S2.1-2.24)
+1	NA	SLC22A1	rs4646284	RESULTS	Our cis-eQTL analysis detected an association between rs4646284 and decreased expression of SLC22A1, SLC22A2, and SLC22A3 in prostate tissue (Table S3).
+1	NA	SLC22A1	rs4646284	RESULTS	In the Mayo Clinic data we observed extremely significant associations between the rs4646284 insertion and lower expression of SLC22A1 (effect size=-0.42, p=1.3x10-23) and SLC22A3 (coefficient=-0.68, p=3.2x10-52).
+1	NA	SLC22A1	rs4646284	RESULTS	Regional eQTL analysis of all variants within 1.1Mb of these two genes:including previously-reported PCa risk SNPs:indicated that the rs4646284 indel was clearly the strongest predictor of expression at SLC22A1 and SLC22A3 in the Mayo Clinic samples, with eQTL p-values for surrounding SNPs orders of magnitude larger (Figure S3.1-3.2).
+1	cancers	SLC22A1	NA	RESULTS	Our replication analyses in the PHS+HPFS normal/tumor and TCGA tumor tissues also showed reduced expression in SLC22A1 (overall coefficient=-0.07, one-sided p=0.046) and even more so in SLC22A3 (overall coefficient=-0.32, one-sided p=0.0012).
+0	NA	SLC22A1	NA	RESULTS	The PHS+HPFS normal tissue drove the limited replication for SLC22A1 expression (Table S3); in that study the expression array did not perform very well for SLC22A1 (90% expression mark=3.4, where >5 is desirable).
+0	NA	lipoprotein(a)-like 2	NA	RESULTS	This allele may also be associated with lower expression of lipoprotein(a)-like 2 (LPAL2), a pseudogene structurally similar to the gene that encodes lipoprotein(a) (LPA), but produces mRNA with a premature stop codon.
+0	NA	NA	rs4646284	RESULTS	Taken together, these results indicate rs4646284 is an independent risk indel for PCa that improves upon the previously-reported findings for the 6q25.3 locus
+0	NA	PEGASUS	rs2659124	RESULTS	Another genome-wide significant SNP in KP, rs2659124 at 19q13.33, replicated in the PEGASUS study.
+0	NA	PSA	NA	RESULTS	This SNP is near the 5' UTR terminus of KLK3 (kallikrein-related peptidase 3), which encodes PSA.
+0	NA	NA	NA	RESULTS	The KP meta-analysis yielded p=1.9x10-12, with similar ORs observed in the non-Hispanic whites, African-Americans, and Latinos (Table 2b).
+0	NA	PEGASUS	rs2659124	RESULTS	rs2659124 replicated in PEGASUS with p=0.0027 (overall pooled p=1.3x10-13, OR=1.18).
+0	NA	NA	rs2659124	RESULTS	The rs2659124 association was slightly attenuated but remained suggestive (pooled p=4.3x10-6) after adjusting for the previously-known risk SNP at 19q12.33 (rs2735839).
+0	NA	NA	rs2735839	RESULTS	In contrast, the conditional analysis completely attenuated the rs2735839 association with PCa (Table 2b).
+0	NA	NA	rs2735839	RESULTS	Figure 2b gives a regional plot for this locus, showing that rs2735839 is the strongest risk SNP
+0	NA	PEGASUS	NA	RESULTS	The remaining six genome-wide significant SNPs in our cohort did not clearly replicate in PEGASUS or MEC (Table S2).
+0	NA	PEGASUS	rs13016083	RESULTS	With regard to their PCa effects, rs13016083 in 2q22.3 had KP meta-analysis OR=1.13, but PEGASUS OR=1.03 and MEC OR=0.99.
+0	NA	PEGASUS	NA	RESULTS	For the SNP 9:33975799, the KP OR=0.86 but PEGASUS OR=1.05 and MEC OR=0.94.
+0	NA	PEGASUS	rs34582366	RESULTS	rs34582366 had KP OR=1.32 but PEGASUS and MEC had ORs in the opposite direction (0.90 and 0.96, respectively).
+0	NA	PEGASUS	NA	RESULTS	The SNP 12:25430787 had KP OR=0.74 but the effect was in the opposite direction in PEGASUS, OR=1.10; this SNP had too low an allele frequency among African-Americans to be tested in MEC.
+0	NA	PEGASUS	rs360054513	RESULTS	rs360054513 had KP OR=0.58 but MEC OR=0.98, and was too rare in non-Hispanic whites to test in PEGASUS.
+0	NA	NA	rs77541621	RESULTS	Finally, rs77541621 remained significant after conditioning on all 12 8q24 loci in KP non-Hispanic whites (OR=0.61) (it was very rare in African-Americans and Asians).
+0	NA	PEGASUS	NA	RESULTS	In the PEGASUS cohort, it was genome-wide significant before conditioning (OR=0.51, p=8.6x10-10), and was nominally significant after adjusting for the 12 8q24 loci (OR=0.68, p=0.02).
+0	NA	NA	NA	RESULTS	However, since we conditioned on 12 SNPs here, some which were imputed, we suspect this result may reflect incomplete tagging of existing 8q24 loci
+0	NA	NA	NA	RESULTS	The remaining 18 of 26 genome-wide significant associations were clear replications of previously-reported findings at 2p11.2, 3p11.2, 4q24, 6q22.1, 7p15.2, 8p21.2, 8q24.21, 10q11.23, 11q13.3, 12q13.12, 12q13.13, 17q12, 17q24.3, 19q13.33, and 22q13.2 (Figure 1).
+0	NA	NA	NA	RESULTS	Our 18 lead risk SNPs did not appear to improve upon or exhibit independence from those previously-reported.
+0	NA	NA	NA	RESULTS	Table S2 gives the correlation between these SNPs in non-Hispanic whites
+0	NA	NA	NA	RESULTS	Table S4 presents ORs and p-values for the associations between PCa and these 18 SNPs plus the other previously-reported variants (105 SNPs total) from the previous reports and from KP.
+0	NA	NA	NA	RESULTS	These 105 variants exhibited high replication based on the magnitude and direction of their associations with PCa.
+0	NA	NA	NA	RESULTS	In particular, we observed excellent agreement between the ORs for variant associations from previous reports and those from the KP GWAS (Meta-analysis in Figure 3; each race/ethnicity group in Figure S4).
+0	NA	NA	NA	RESULTS	A large majority of the ORs were larger in previous studies than observed in ours; nevertheless, we saw extremely high agreement: the slope of a line fit to the ORs was almost identical to 1 (Figure 3).
+0	NA	NA	NA	RESULTS	Moreover, within ethnic groups, 99/103 of the non-Hispanic white, 67/99 of East Asian, 79/102 of Latino, and 78/105 of African-American ORs were in the same direction as previously found (i.e., ORs>1.0).
+0	NA	NA	NA	RESULTS	Only four of the variants with ORs<1.0 were statistically significant: three for Asians; and one for African-Americans
+0	NA	NA	NA	RESULTS	The meta-analysis p-values were less than 0.05 for 66 of the 105 SNPs (62.9%) and less than the Bonferroni-corrected alpha-level of 0.00048=0.05/105 for 33 (31.4%).
+0	NA	NA	NA	RESULTS	When stratified by ethnic groups, most SNPs that had p-values less than these alpha levels did so in non-Hispanic whites, as expected since this population has been most commonly used for discovery efforts and is the largest ancestry group in the KP study.
+0	NA	NA	NA	RESULTS	In particular, the known risk variants had p<0.05 for 62 SNPs (59.0%) in non-Hispanic whites, 11 (10.5%) in Latinos, 13 (12.4%) in East Asians, and 13 (12.3%) in African-Americans.
+0	NA	NA	NA	RESULTS	The known risk variants had p<0.00048 for 30 SNPs in non-Hispanic whites, zero in Latinos, one (1.0%) in East Asians, and two (1.9%) in African-Americans
+0	NA	NA	NA	RESULTS	We used risk profile scoring to assess the predictive value of the 105 known GWAS risk SNPs for PCa in KP (which is independent of the populations in which these risk SNPs were discovered).
+0	NA	NA	NA	RESULTS	We combined the 105 SNPs into a single score by applying the previously estimated ORs to our genotype data (details in Methods).
+0	NA	NA	NA	RESULTS	The risk score was highly statistically significant for all four major ethnic groups: non-Hispanic white p=1.0x10-211, Latino p=3.5x10-16, East Asian p=1.0x10-8, and African-American p=1.1x10-15.
+0	NA	NA	NA	RESULTS	To see how the magnitude of the associations with risk scores varied across race/ethnic groups, we calculated PCa ORs for corresponding to increasing deciles of risk scores, using the lowest decile as the referent (Figure 4).
+0	NA	NA	NA	RESULTS	All four race/ethnic populations exhibited clear trends of increasing risk score ORs across increasing deciles, but the non-Hispanic white and Latino groups had substantially higher ORs than the African-Americans, and the East Asians always had the lowest ORs (Figure 4).
+0	NA	NA	NA	RESULTS	Comparing the highest to lowest risk score deciles, the association with PCa for non-Hispanic whites OR=6.22 (95% CI=5.38-7.19), for Latinos OR=5.82 (95% CI=3.36-10.1), for African-Americans OR=3.77 (95% CI=2.34-6.08), and for East Asians OR=3.38 (95% CI=1.91-5.97).
+0	NA	NA	NA	RESULTS	While the risk score was highly predictive across groups, it was much less predictive for the African-Americans and East Asians.
+0	NA	NA	NA	RESULTS	This may in part reflect lower LD in these ethnic groups
+0	NA	NA	NA	RESULTS	We also wanted to see how well we could predict PCa using the genetic risk score versus other covariates (i.e., body mass index (BMI), age, ancestry principal components (PCs)).
+0	NA	NA	NA	RESULTS	For each race/ethnicity group, we split the cohort in half for training/testing to estimate the non-genetic covariate coefficients.
+0	NA	NA	NA	RESULTS	Results for different combinations of genetic risk score and covariates are shown in Figure S5.
+0	NA	NA	NA	RESULTS	Relative to the other covariates alone, we generally observed an increase in AUC of approximately 5% with the genetic risk score.
+0	NA	NA	NA	RESULTS	Table S5 presents the variance in PCa explained by BMI, age, and ancestry covariates, compared to that explained by also including the risk score.
+0	NA	NA	NA	RESULTS	For non-Hispanic whites, including the risk score increased the variance explained from 0.077 to 0.127.
+0	NA	NA	NA	RESULTS	The increase was similar in the other groups, though the overall variance explained was lowest in African-Americans.
+0	NA	NA	NA	RESULTS	Ignoring the covariates and restricting the risk score to only include those SNPs with nominal (p<0.05), replication-wide (p<0.00048), and genome-wide (p<5x10-8) significance level in the non-Hispanic whites gave variance explained of 0.122, 0.122, and 0.114 respectively
+0	NA	NA	NA	RESULTS	We calculated the narrow sense heritability (i.e., the additive genetic component of the phenotypic variance) explained by variants typed and tagged by the GWAS array in the non-Hispanic whites.
+0	NA	NA	NA	RESULTS	The estimated heritability for the genotyped SNPs was h2=0.201 (standard error, SE=0.041).
+0	NA	NA	NA	RESULTS	When including the imputed SNPs this substantially increased to h2=0.334 (SE=0.060).
+0	NA	NA	NA	RESULTS	When we partitioned the data into the 105 previously-known genotyped SNPs versus the rest of the genome, the heritability estimates were 0.076 (SE=0.012) and 0.215 (SE=0.058), respectively.
+0	NA	NA	NA	RESULTS	These approximately sum to the entire study's heritability, and are close to the increase in variability explained
+0	NA	NA	NA	RESULTS	We then calculated the narrow sense heritability explained by variants within functional regions of the genome, and estimated whether certain regions explained a disproportionate amount of this heritability in comparison with their size.
+0	allergy	NA	NA	RESULTS	We found that the DNaseI hypersensitivity sites (DHSs) exhibited 4.3-fold increased enrichment (p=0.0039) and the intergenic regions had a 0.2-fold decreased enrichment (p=0.0058) (Table 3).
+0	NA	NA	NA	RESULTS	We also found non-significant enrichment in coding (4.6-fold), UTR (3.7-fold), and intronic (0.4-fold) regions (Table 3).
+0	NA	NA	NA	RESULTS	These results suggest that the SNPs underlying PCa are more likely located in the coding, DHS, and UTR regions, less likely located in the promoter regions, and least likely located in the intronic and intergenic regions (Table 3).
+0	NA	NA	NA	RESULTS	Looking at the previously-reported risk SNPs (102 autosomal) we found a similar but slightly weaker pattern of enrichment: coding, 2.4-fold; UTR, 0.7-fold, DHS, 2.5-fold; intron, 0.7-fold; and intergenic, 0.7-fold.
+0	NA	NA	rs4646284	RESULTS	For the two key variants reported here, rs4646284 is in a DHS and rs2659124 is intergenic.
+0	NA	NA	NA	RESULTS	Note that the smaller percentage of the genome in the promoter category observed here, in contrast with reflects our use of a more accurate promoter definition from the Eukaryotic Promoter Database new v003
+0	NA	PSA	rs4646284	DISCUSS	In this large, ethnically diverse, and previously unstudied cohort, we detected two risk variants for PCa: an indel (rs4646284 at 6q25.3) and a SNP that may be involved with PSA (rs2659124 at 19q13.33).
+0	NA	NA	NA	DISCUSS	We also replicated a large majority of the known risk SNPs, which taken together as a risk score in a polygenic model were very strongly associated with PCa, albeit with substantial variation across ethnic groups.
+0	NA	NA	NA	DISCUSS	In addition, we estimated that approximately 65% of the heritability assayed by the GWAS array remains unexplained by the 105 known risk SNPs, and that heritability is overall enriched in the DHS regions.
+0	NA	NA	NA	DISCUSS	This indicates that substantial genetic variation in PCa remains to be uncovered
+0	NA	SLC22A1	rs4646284	DISCUSS	The novel intergenic indel we identified (rs4646284) is in a recombination hotspot, and is positioned roughly 1.8kb downstream of the 3' UTR terminus of SLC22A1 and 56kb upstream from SLC22A2.
+1	NA	SLC22A3	rs9364554	DISCUSS	Previous work identified other PCa susceptibility variants at 6q25.3, including rs9364554 within intron 5 of SLC22A3 and, 250kb upstream, rs651164 outside the 3'UTR of SLC22A1; these SNPs appear to reflect independent susceptibility alleles.
+0	NA	NA	rs651164	DISCUSS	The rs651164 risk SNP is only 170 base pairs from the novel indel (rs4646284).
+1	NA	NA	rs4646284	DISCUSS	In our study, joint models including all three variants at 6q25 indicated that rs4646284 is more explanatory than the other two risk SNPs (rs651164 and rs9364554).
+1	NA	SLC22A1	rs4646284	DISCUSS	Furthermore, our cis-eQTL analysis found that the rs4646284 indel was strongly associated with decreased expression of SLC22A1 and SLC22A3, substantially more than any other variant at the 6q25 locus, including the two previous GWAS-identified PCa risk SNPs.
+0	Breast and prostate cancer	MYC	rs4646284	DISCUSS	This rs4646284 indel is within binding site signals from ENCODE ChIP-seq data for several transcription factors, and appears closer than rs651164 to a local binding site peak for c-Myc across several cell lines and to peaks for CTCF in both androgen treated and androgen untreated prostate adenocarcinoma (LNCaP) cells.
+0	NA	NA	rs4646284	DISCUSS	While rs4646284 is a common (insertion frequency ~30% in non-Hispanic whites) and highly statistically significant risk variant, previous work may not have detected this indel because it is not in HapMap and is in low LD with neighboring SNPs, making it difficult to cover with early-generation genotyping arrays.
+0	NA	NA	NA	DISCUSS	Our finding highlights the importance of studying indels in GWAS and that these can be imputed with high confidence with appropriate reference panels
+0	NA	PSA	rs2659124	DISCUSS	The suggestive SNP rs2659124 is 3.3kb from the 5' UTR terminus of KLK3, which encodes PSA and is one of 15 kallikrein genes located sequentially on 19q13.33-41.
+0	NA	PSA	rs2659124	DISCUSS	rs2659124 is 10kb away from rs2735839, a previously-reported risk SNP for both PCa and PSA levels.
+0	NA	PSA	rs2659124	DISCUSS	rs2659124 and rs2735839 are on the opposite sides of KLK3, and the latter SNP is <1kb from the 3' UTR terminus (r2=0.50 between these SNPs in KP non-Hispanic whites).
+0	aggressive disease	PSA	rs2735839	DISCUSS	There is evidence that the association between rs2735839 and PCa risk may depend on PSA levels or disease aggressiveness.
+0	NA	PSA	rs2659124	DISCUSS	rs2659124 was previously-reported as part of a fine mapping study of the KLK3 locus conducted among men from the Cancer Genetic Markers of Susceptibility Project (CGEMS):which is included in the PEGASUS sample:with nominal statistical significance (p=0.02)
+0	NA	NA	NA	DISCUSS	We replicated a large proportion of the 105 known risk SNPs, especially when considering the ancestry group in which the SNPs were discovered.
+0	NA	NA	NA	DISCUSS	"The ""winner's curse,"" that effect sizes are often larger in the populations in which they are discovered, may be one reason why some SNPs failed to replicate, and why ORs were generally smaller in our cohort than previously found."
+0	NA	NA	NA	DISCUSS	It is also possible that control misclassification yielded more conservative estimates at these and all SNPs.
+0	NA	NA	NA	DISCUSS	Nevertheless, the aggregate risk scores combining information across all 105 known SNPs were highly significant in all ethnic groups, although the magnitude of this association varied substantially by ethnicity.
+0	NA	NA	NA	DISCUSS	The variance in PCa risk explained by SNPs in KP increased as we relaxed the SNP inclusion criteria and incorporated larger numbers of variants: r2=0.112 for the risk SNPs exhibiting genome-wide significance; r2=0.122 for those replicating; and r2=0.127 for all 105 previously-reported risk SNPs.
+0	NA	NA	NA	DISCUSS	We also showed an increase of roughly 5% in the AUC when adding a genetic risk score to BMI, age, and PCs of ancestry.
+0	NA	NA	NA	DISCUSS	Finally, we showed that these aggregate risk scores had large ORs when comparing the upper to lower deciles.
+0	NA	NA	NA	DISCUSS	In these results, East Asians and African-Americans had much lower ORs for the highest decile than the non-Hispanic whites and Latinos.
+0	NA	NA	NA	DISCUSS	This may be due to different allele frequencies, LD patterns, or causal risk alleles in these populations, since the previous discovery cohorts were largely of European ancestry (Table S4).
+0	NA	NA	NA	DISCUSS	For example, African-Americans and East Asians have higher average absolute risk allele frequency differences from non-Hispanic whites (0.16 and 0.15, respectively) than Latinos (0.05).
+0	NA	NA	NA	DISCUSS	As more information becomes available for ethnic-specific PCa risk SNPs, ethnic-specific risk scores should improve prediction
+0	NA	NA	NA	DISCUSS	As expected, our estimated heritability among non-Hispanic whites (0.334, SE=0.060) was lower than that from twin studies (0.58), but higher than previous array heritability estimates (0.204, SE=0.056) that used a slightly smaller PCa lifetime risk of 0.09.
+0	NA	NA	NA	DISCUSS	The heritability estimate for the 105 known risk SNPs was 0.077 (SE=0.058); there is still an estimated heritability of 0.215 (SE=0.058) that remains unexplained.
+0	NA	NA	NA	DISCUSS	Our heritability estimate is unbiased from winner's curse since the known risk SNPs were previously discovered.
+0	NA	NA	NA	DISCUSS	This heritability appears enriched within the DHS regions, and possibly in the coding, UTR, and promoter regions.
+0	NA	NA	NA	DISCUSS	These enrichment result pattern is roughly similar to those found for the non-autoimmune phenotypes in.
+0	NA	NA	NA	DISCUSS	Further refining these regions may be a promising area of future research
+0	NA	NA	NA	DISCUSS	In summary, we were able to detect new risk variants for PCa, confirm many previously-reported associations at various levels across ethnic groups, and provide independent evidence that additional risk SNPs are still to be found.
+0	NA	NA	NA	DISCUSS	Since a large amount of narrow-sense genetic array heritability remains to be explained, larger analyses or meta-analyses may uncover further genetic variants associated with disease.
+0	cancers	NA	NA	DISCUSS	Additional advances may be possible by applying to existing data novel analytic approaches such as Bayesian models that incorporate local heritability estimates or prior biological knowledge, or by undertaking scans for pleiotropic effects that leverage data across multiple cancers.
+0	NA	NA	NA	DISCUSS	Additionally, we showed that the existing GWAS results are robust and predictive of PCa risk, which may have important implications for using risk SNPs to guide individualized screening for this common but complex disease
+0	NA	NA	NA	METHODS	Our primary analyses used cases and controls from three KP studies: RPGEH, ProHealth, and CMHS.
+0	NA	NA	NA	METHODS	RPGEH participants included men in the RPGEH Genetic Epidemiology Research on Aging (GERA) cohort (dbGaP phs000674.v1.p1), as well as PCa cases with a DNA sample in the RPGEH biorepository but who were not part of GERA.
+0	NA	NA	NA	METHODS	These studies have been previously described (dbGaP phs000674.v1.p1).
+0	NA	NA	NA	METHODS	Briefly, the ProHealth study focused on ascertaining KP Northern California African-American PCa cases.
+0	California Santa Cruz Genome	NA	NA	METHODS	The CMHS is a prospective cohort study of KP California men.
+0	KP Northern California Cancer	NA	NA	METHODS	PCa cases in these cohorts were identified from the KP Northern California Cancer Registry (KPNCCR), the KP Southern California Cancer Registry (KPSCCR) or through review of clinical electronic health records through the end of 2012.
+0	NA	NA	NA	METHODS	The Cancer Registries capture data on all PCa cases newly diagnosed or treated at KP facilities.
+0	cancers	NA	NA	METHODS	The Cancer Registries conform to standards of the North American Association of Central Cancer Registries and the National Cancer Institute's Surveillance, Epidemiology and End Results (SEER) program.
+0	cancers	NA	NA	METHODS	Controls were all men in GERA without PCa diagnosis; who could have had other cancers.
+0	NA	NA	NA	METHODS	Our analyses included 7,783 cases and 38,595 controls after exclusions described here.
+0	NA	NA	NA	METHODS	These men were genotyped at over 650,000 SNPs on four race/ethnicity-specific Affymetrix Axiom arrays optimized for individuals of European (EUR), African-American (AFR), East Asian (EAS), and Latino (LAT) race/ethnicity.
+0	NA	NA	NA	METHODS	Specific details of array designs including estimated genome-wide coverage have been previously published.
+0	NA	NA	NA	METHODS	Briefly, the proportion of common (MAF>0.05) 1000 Genomes SNPs (Interim Phase I release, 1,092 subjects) covered by the genome-wide array with r2>0.8 equals 0.93, 0.89, 0.93, and 0.95 for non-Hispanic whites, African-Americans, Asians, and Hispanics, respectively; the proportion of less common (0.01<MAF<=0.05) variants covered is 0.73, 0.65, 0.80, and 0.80, respectively.
+0	NA	NA	NA	METHODS	The arrays were designed using human genome b36, but the probesets were remapped to b37, used for all SNP locations reported here.
+0	NA	NA	NA	METHODS	For the EUR and EAS arrays, we used dbSNP v130, and for the LAT and AFR arrays we used dbSNP v132.
+0	NA	NA	NA	METHODS	All of the EAS and most of the EUR arrays (more details below) were processed using the Axiom v1 reagent kit, while the other arrays were processed on the Axiom v2 reagent kit.
+0	NA	NA	NA	METHODS	We note that a small number of participants in CMHS from Southern California overlap with MEC because these studies had overlapping geographic areas of recruitment.
+0	NA	NA	NA	METHODS	We identified and removed 107 subjects who overlapped between these studies using a set of 1,000 random non-AT/GC SNPs with MAF>5%.
+0	NA	NA	NA	METHODS	We also excluded any first-degree relatives based on the same analysis.
+0	NA	NA	NA	METHODS	The Kaiser Permanente and University of California Institutional Review Boards approved this project.
+0	NA	NA	NA	METHODS	Informed Consent was obtained, and the studies were conducted in accordance with the Declaration of Helsinki
+0	NA	NA	NA	METHODS	Genotype quality control (QC) procedures for the original GERA cohort assays were performed on an array-wise basis, as described previously (dbGap phs000674.v1.p1).
+0	NA	NA	NA	METHODS	This process was repeated including ProHealth, CMHS, and additional genotyped individuals not in the originally genotyped GERA cohort.
+0	NA	NA	NA	METHODS	Because we genotyped an additional set of individuals who were much more enriched for cases than the original GERA cohort, we additionally employed the following filters to control for batch effects: we removed SNPs with minor allele frequency (MAF)<0.01, call rate <95%, or Hardy-Weinberg equilibrium (HWE) p-value among homogeneous control groups <1x10-5.
+0	NA	NA	NA	METHODS	This completed QC for EAS and LAT, resulting in 653,943 and 678,790 SNPs, respectively.
+0	NA	NA	NA	METHODS	EAS individuals were genotyped using the same reagent kit, as were LAT individuals.
+0	NA	NA	NA	METHODS	In addition, the cases and controls were randomly distributed among the genotype packages to control for any potential batch effects
+0	NA	NA	NA	METHODS	On the EUR array, 3,843 men were run on a different reagent kit (Axiom v2 versus v1).
+0	NA	NA	NA	METHODS	To adjust for any potential kit effects, we undertook GWAS of the association between each SNP and reagent kit separately among cases and controls, adjusting for PCs.
+0	NA	NA	NA	METHODS	We removed kit-associated SNPs (p<1x10-4).
+0	NA	NA	NA	METHODS	We also genotyped each of the new PCa sample plates (those not genotyped with the original set of GERA individuals) with 12 other plates from the originally genotyped GERA cohort, and removed SNPs with >13/1,268 (1%) mismatches.
+0	NA	NA	NA	METHODS	This resulted in 604,255 SNPs
+0	NA	NA	NA	METHODS	Similarly, we addressed potential plate batch issues for 1,308 men genotyped with the AFR array through a GWAS of the association between SNPs and whether a subject was typed in the originally genotyped GERA cohort versus later in additional PCa batches separately among cases and controls, adjusting for PCs.
+0	NA	NA	NA	METHODS	Here, we removed batch-associated SNPs at p<0.05.
+0	NA	NA	NA	METHODS	We used a stronger batch filter threshold on the AFR array than on the EUR array because fewer individuals were analyzed on the AFR array, resulting in lower power to detect batch effects.
+0	NA	NA	NA	METHODS	As before, we also genotyped the individuals in packages with just the new plates, re-genotyped them with some of the previous plates, and removed SNPs with >2/78 (2.6%) mismatches.
+0	NA	NA	NA	METHODS	This resulted in 568,496 SNPs
+0	NA	NA	NA	METHODS	We were able to accurately impute (see below) many SNPs removed by the QC steps.
+0	NA	NA	NA	METHODS	Specifically, of those genotyped SNPs that failed QC (MAF>0.01), we imputed with accuracy r2>=0.3 (and r2>=0.8) a total of 58,333/63,863 or 91.3% (82.3%), 44,390/51,180 or 87.5% (77.6%), 30,273/35,765 or 84.6% (58.2%), and 305,303/312,202 or 97.8% (91.5%) of the SNPs among non-Hispanic whites, Latinos, East Asians, and African-Americans, respectively.
+0	NA	NA	NA	METHODS	The larger decrease in coverage with higher r2 values for East Asians may reflect having designed the array with only a greedy SNP selection as opposed to the hybrid greedy/imputation-based approach of the AFR and LAT arrays.
+0	NA	NA	NA	METHODS	Although the EUR array was also designed with exclusively greedy SNP selection, this population may have higher r2 than EAS because of a larger sample size (giving more accurate phasing) and stronger LD
+0	NA	NA	NA	METHODS	Imputation was also performed on an array-wise basis.
+0	NA	NA	NA	METHODS	First genotypes were pre-phased with Shape-it v2.5, including cryptic relatives to improve phasing.
+0	NA	NA	NA	METHODS	Variants were then imputed from the 1000 Genomes Project October 2014 release with 2,504 samples with singletons removed (which impute terribly) and as a cosmopolitan reference panel with Impute2 v2.3.1.
+0	NA	NA	NA	METHODS	The estimated QC rinfo2 metric given here is the info metric from Impute2, which estimates the correlation between the true and imputed genotype.
+0	NA	NA	NA	METHODS	Our GWAS analysis used 10,109,774; 9,283,528; 10,776,138; and 17,141,436 SNPs with r2>=0.3 and MAF>=0.01 for non-Hispanic white, East Asian, Latino, and African-American men, respectively (19,977,088 unique SNPs)
+0	NA	NA	NA	METHODS	We first analyzed each of the four race/ethnicity groups (non-Hispanic White, Latino, East Asian, and African-American) separately.
+0	NA	NA	NA	METHODS	Within these groups, each SNP was modeled using additive dosages to account for imputation uncertainty, which works well in practice.
+0	NA	NA	NA	METHODS	Each SNP association with Pca was tested via a logistic regression model adjusting for age and ancestry (described below).
+0	NA	PSA	NA	METHODS	Age is given at diagnosis for cases, and at last PSA measured for controls.
+0	NA	NA	NA	METHODS	For computational efficiency, we initially regressed the phenotype on all covariates excluding the SNP.
+0	NA	NA	NA	METHODS	We then computed the sum of the estimated beta coefficients times the original covariates to create a single covariate, and tested each SNP in a logistic regression model with this single covariate
+0	NA	NA	NA	METHODS	To adjust for genetic ancestry, we performed PC analysis using Eigenstrat v4.2 on each of the four race/ethnicity subgroups.
+0	NA	NA	NA	METHODS	We used a subset of 28,174 SNPs with CR>99% common to all arrays (dbGaP phs000674.p1).
+0	NA	NA	NA	METHODS	For the largest race/ethnicity group (non-Hispanic whites), we performed the PC analysis on 20,000 random individuals, projecting the remaining individuals into the same space, as has been shown to work very well in practice (dbGaP phs000674.v1.p1).
+0	NA	NA	NA	METHODS	The PC analysis are nearly identical to that previously been shown for GERA (dbGaP phs000674.p1).
+0	NA	NA	NA	METHODS	The top 10 eigenvectors were included in each logistic regression model.
+0	NA	NA	NA	METHODS	The genomic inflation factor was very modest for all GWAS analyses (all <=1.065; exact values given for each analysis in Figure S1.1-1.36)
+0	NA	NA	NA	METHODS	We undertook both random effects (RE) and fixed effects (FE) meta-analysis to combine the results of the four race/ethnicity groups using Metasoft.
+0	NA	NA	NA	METHODS	Then we assessed whether conditioning on the observed genome-wide significant results highlighted additional significant findings.
+0	NA	NA	NA	METHODS	Here, we used results from the meta-analysis to group clumps of genome-wide significant SNPs (p<5x10-8) and within 1Mb of another GWAS significant SNP.
+0	NA	NA	NA	METHODS	We chose the most significant SNP in each clump, and completely reran the full genome-wide analysis, adjusting for these SNPs.
+0	NA	NA	NA	METHODS	We iterated these conditional analyses until no additional genome-wide significant SNPs were found.
+0	NA	NA	NA	METHODS	We also looked for additional independent SNPs at loci that previously-known to be associated with PCa.
+0	NA	NA	NA	METHODS	We searched in a 1Mb window around known SNPs at 87 loci, constituting 2.9% of the genome, and so adjusted for multiple comparisons by 5.8x10-8x2.9%=2.1x10-6, but no additional loci were found
+0	NA	PEGASUS	NA	METHODS	To determine if any of the eight new genome-wide significant PCa associations from KP replicated, we evaluated them using independent data from PEGASUS and what we refer to as and consists mostly of MEC plus other African-American studies up (dbGaP phs000306.v3.p1).
+0	NA	PEGASUS	NA	METHODS	PEGASUS included 4,599 PCa cases and 2,940 controls of non-Hispanic white race/ethnicity, genotyped using Illumina HumanOmni2.5 and imputed using 1000 Genomes Project Phase I data (1,092 individuals).
+0	NA	PEGASUS	NA	METHODS	The PEGASUS replication analyses adjusted for statistically significant ancestry PCs.
+0	NA	NA	NA	METHODS	MEC included 2,265 cases and 2,414 controls of African-American race/ethnicity, genotyped using the Illumina Infinium 1MDuo (dbGap phs000306.v3.p1) and imputed using the same 1000 Genomes reference panel as by KP.
+0	NA	NA	NA	METHODS	The MEC replication analyses adjusted for the first 10 ancestry PCs.
+0	NA	NA	NA	METHODS	All individuals from these replication cohorts were independent of KP
+0	NA	NA	rs4646284	METHODS	We used two approaches to validate that we correctly imputed the rs4646284 variant.
+0	NA	NA	NA	METHODS	First, we Taqman genotyped (Life Technologies) 352 individuals who were also genotyped on our EUR array and imputed with our EUR individuals.
+0	NA	NA	NA	METHODS	We computed the correlation with the imputed genotype, and a bias-corrected and accelerated bootstrap CI (99,999 iterations).
+0	NA	NA	NA	METHODS	The genotyped indel showed high agreement with the imputed indel (r2=0.81, 95% CI=0.75-0.86).
+0	NA	NA	rs4646284	METHODS	Second, we subsetted the 1000 Genomes Project data to the SNPs on the EUR array, and imputed the rs4646284 indel in a leave-one-out manner as described in, using the 1000 Genomes Project data as a reference.
+0	NA	NA	NA	METHODS	We then computed the correlation between what was genotyped in 1000 Genomes and this imputed value.
+0	NA	NA	NA	METHODS	This also exhibited high agreement between the actual and imputed indel genotypes (r2=0.84)
+1	Breast and prostate cancer	IGF2R	rs4646284	METHODS	We evaluated the potential effect of the novel risk indel rs4646284 on expression of neighboring genes and pseudogenes (IGF2R, LOC729603, SLC22A1, SLC22A2, SLC22A3, LPAL2, and LPA) in normal and cancerous prostate tissue.
+0	NA	NA	NA	METHODS	This eQTL analysis was undertaken in three studies.
+0	NA	NA	NA	METHODS	First, the Mayo Clinic included normal prostate tissue from 471 men with Gleason <=7 disease undergoing radical prostatectomy or cystoprostatectomy.
+0	NA	NA	NA	METHODS	Surgical hematoxylin and eosin (H&E) sections from fresh frozen materials were reviewed to identify normal (non-cancerous) tissue samples and RNA-seq data was obtained with an Illumina HiSeq 2000.
+0	Breast and prostate cancer	NA	NA	METHODS	The second eQTL analysis included prostate tumor tissue samples from 99 men and normal prostate tissue from 56 men with incident PCa who participated in the Physicians' Health Study (PHS) and Health Professionals Follow-up Study (HPFS) (NCBI GEO GSE62872) using genotype data from the Breast and Prostate Cancer Cohort Consortium (BPC3) aggressive PCa GWAS.
+0	NA	NA	NA	METHODS	Prostate tissue was collected from archival trans-urethral resection or prostatectomy specimens (formalin-fixed paraffin-embedded).
+0	NA	NA	NA	METHODS	mRNA expression was assayed using the Affymetrix GeneChip Human Gene 1.0 ST microarray.
+0	Breast and prostate cancer	NA	NA	METHODS	The third study included prostate tumor tissue from 128 participants in The Cancer Genome Atlas (TCGA) (NCBI GEO GSE21032) using Illumina HiSeq 2000 mRNA expression data and genotypes from matched normal using the Affymetrix SNP 6.0 array.
+0	NA	NA	rs4646284	METHODS	All three studies successfully imputed the rs4646284 indel for the eQTL analyses (Mayo rallelic2=0.71, PHS rinfo2=0.87, HPFS rinfo2=0.89, TCGA rinfo2=0.84), and used linear regression on the dosage
+0	NA	NA	NA	METHODS	To determine whether the 105 previously-reported variants associated with PCa replicated in our cohort, we used a nominal significance level (0.05) and a Bonferroni-corrected alpha level of 0.05/105=0.00048.
+0	NA	NA	NA	METHODS	We computed the retrospective power with the R package GeneticsDesign, using the previously-reported ORs, numbers of cases and controls in KP, alpha level of 0.05/105=0.00048, the r2 estimate from imputation, and a PCa prevalence=0.12, the KP GERA cohort prevalence
+0	NA	NA	NA	METHODS	We constructed a risk score for each man by summing up the additive coding of each SNP previously associated with PCa weighted by the previously-reported log(OR) from.
+0	NA	NA	NA	METHODS	In the non-Hispanic white, Latino, and African-American race/ethnicity groups, no two SNPs had r2>0.3, so all were used.
+0	NA	NA	rs116041037	METHODS	In the East Asian race/ethnicity group, rs116041037 and rs7210100 had r2=0.87, and rs1016343 and rs6983562 has r2=0.55; the latter SNP was removed in both circumstances when computing the risk score.
+0	NA	NA	NA	METHODS	To estimate the variance explained by these risk scores, we report Nagelgerke's pseudo-r2 estimate
+0	NA	NA	NA	METHODS	We estimated the additive array heritability using GCTA v1.24.
+0	NA	NA	NA	METHODS	Array heritability estimates can be more sensitive to artifacts than GWAS results.
+0	NA	NA	NA	METHODS	Thus, to limit any potential batch effects, we limited this analysis to the homogeneous group of 30,598 non-Hispanic white men (3,605 cases and 26,993 controls) genotyped with the EUR array with Axiom v1 reagent kit.
+0	NA	NA	NA	METHODS	We also employed a stronger set of filters than used in the GWAS.
+0	NA	NA	NA	METHODS	Specifically, in addition to the filters noted above, we excluded SNPs with: HWE p<0.05 (in controls); significant differences in case-control missingness (p<0.05); and absolute MAF differences >0.15 compared to 1000 Genomes Project European ancestry individuals.
+0	NA	NA	NA	METHODS	We also removed 22 outlier individuals who were outside of five standard deviations of the first two PCs, and eliminated individuals such that there were no pairwise relationships with estimated kinship >0.05.
+0	NA	NA	NA	METHODS	We used only the autosomes, as is commonly done for estimating heritability.
+0	NA	NA	NA	METHODS	Finally, we LD-filtered the SNPs such that no two SNPs had a pairwise r2>0.8.
+0	NA	NA	NA	METHODS	This resulted in 26,226 individuals (3,143 cases and 23,083 controls), 402,748 genotyped SNPs, and 2,184,083 imputed SNPs with rinfo2>=0.3 and MAF>=0.01 used in the analysis.
+0	NA	NA	NA	METHODS	We assumed a population prevalence of PCa=0.12 in the liability threshold model
+0	NA	NA	NA	METHODS	We further partitioned the genome into several sets using a joint variance components fit in GCTA.
+0	NA	NA	NA	METHODS	We first tested the previously-known hits vs. the rest of the genome, and then partitioned into the functional categories, prioritized similarly to: coding, UTR, promoter, DHS, intron, and intergenic.
+0	NA	NA	NA	METHODS	SNPs that happened to fall in overlapping regions were assigned to the highest priority category.
+0	NA	NA	NA	METHODS	The coding, UTR, and intron regions were determined from the UCSC Genome Browser known gene database.
+0	NA	NA	NA	METHODS	Unlike, who defined the promoters as +/-2Kb of a transcription start site, we defined the promoters from the Eukaryotic Promoter Database new v003.
+0	NA	NA	NA	METHODS	The DHSs were determined from.
+0	NA	NA	NA	METHODS	For this partitioning, we defined enrichment for each category as the percentage of heritability explained divided by the percentage of genome.
+0	NA	NA	NA	METHODS	CIs and p-values were determined by 108 bootstrap iterations
+0	Breast and prostate cancer	NA	NA	FIG	Results from a genome-wide association study (GWAS) of prostate cancer in Kaiser Permanente population (8,399 cases and 38,745 controls), highlighting key chromosomal regions.
+0	Breast and prostate cancer	NA	NA	FIG	P-values are for variant associations with prostate cancer from trans-ethnic fixed-effects meta-analysis of four race/ethnicity GWAS (non-Hispanic white, Latino, African-American, East Asian), each adjusted for age and ancestry principal components.
+0	Breast and prostate cancer	NA	NA	FIG	Horizontal dashed lines indicated genome-wide statistical significance (p<5x10-8), Bonferroni-corrected significance for 105 know prostate cancer risk variants (p<0.05/105), and nominal significance (p<0.05).
+0	NA	NA	NA	FIG	Red points denote our findings for the 105 known risk SNPs, and pink indicate results for SNPs within a 0.5Mb window around these SNPs.
+0	Breast and prostate cancer	PSA	rs4646284	FIG	The new 6q25.3 indel rs4646284 is colored magenta, and the 19q13.33 prostate cancer or PSA SNP rs2659124 is noted in green.
+0	NA	NA	NA	FIG	Those loci containing previously-reported variants that we replicated at genome-wide significance are noted in black text.
+0	NA	NA	NA	FIG	Loci with variants that were novel in in the KP GWAS but failed to replicate are noted in gray text
+0	NA	NA	rs4646284	FIG	Regional fixed-effects meta-analysis plots from GWAS in Kaiser Permanente population of the two risk variants that replicated: (a) 6q25.3 (rs4646284), (b) 19q13.33 (rs2659124).
+0	NA	NA	NA	FIG	The color code for the points represents the r2 of each SNP with the risk variant (ranges defined in the legend).
+0	NA	NA	NA	FIG	The dotted vertical lines pass through the risk variants and the other significant SNPs in the region, on which analyses were conditioned
+0	Breast and prostate cancer	NA	NA	FIG	Comparison of variant associations from previous reports and results from the KP GWAS meta-analysis for 105 known prostate cancer risk SNPs.
+0	NA	NA	NA	FIG	Plotted values are the log odds ratios from the previous and current studies.
+0	NA	NA	NA	FIG	Error lines denote the 95% CIs for the respective studies, colored by chromosome.
+0	NA	NA	NA	FIG	Blue line is the diagonal and red is regression fit through the points, showing extremely high correlation between the previous and new odds ratios.
+0	NA	NA	rs116041037	FIG	The SNP rs116041037 appears to be an African-American specific SNP and is an outlier so we left it off of the plot to more easily view the other points; the SNP had a previous OR=2.45 (95% CI=1.65-3.62), and KP OR=2.67 (1.96, 3.64)
+0	NA	NA	NA	FIG	Impact of increasing deciles of risk profile scores based on 105 known risk SNPs across different race/ethnicity groups.
+0	NA	NA	NA	FIG	Risk scores generated by combining the 105 SNPs into a single score, applying the logs odds ratio estimated by previous studies to our KP study population genotype data.
+0	Breast and prostate cancer	NA	NA	FIG	Odds ratios for effect of risk profile scores on prostate cancers calculated within each decile of the scores, using the lowest decile of risk profile scores as the referent category.
+0	NA	NA	NA	FIG	The non-Hispanic white and Latino groups had substantially higher ORs than the African-Americans, and the East Asians always had the lowest ORs
+0	Breast and prostate cancer	NA	NA	TABLE	Descriptive factors for KP study population used in genome-wide association study of prostate cancer
+0	Breast and prostate cancer	NA	rs4646284	TABLE	Prostate cancer genome-wide association study results for new risk indel rs4646284 at 6q25.3 and for risk SNP rs2659124 at 19q13.33.
+0	NA	PEGASUS	NA	TABLE	These variants were detected in the KP study population and tested for replication in the PEGASUS and MEC cohorts.
+1	Breast and prostate cancer	NA	rs4646284	TABLE	(a) Single variant and conditional analyses for 6q25.3 indel rs4646284 and the previous prostate cancer risk SNPs rs9364554 and rs651164.
+0	Breast and prostate cancer	NA	rs2659124	TABLE	(b) Single variant and conditional analyses for 19q13.33 SNP rs2659124 detected here and the previous prostate cancer risk SNP rs2735839.
+0	NA	NA	NA	TABLE	Meta-analysis is given for the fixed effects (FE) and random effects (RE) analysis.
+0	NA	NA	NA	TABLE	Chromosome positions are given in b37.
+0	NA	NA	NA	TABLE	The risk allele frequency (RAF) is the pooled frequency across both cases and controls
+0	NA	NA	NA	TABLE	Array heritability enrichment of the coding, UTR, promoter, DHS, intron, and intergenic partitions for non-Hispanic whites using the imputed data.
+0	NA	NA	NA	TABLE	Results are from fitting each partition separately (univariate), and then subsequent results are from the joint multivariate fit, Kaiser Permanente Study Population
+0	Breast and prostate cancer	NA	NA	ABBR	Taken together, our findings of independent risk variants, ethnic variation in existing SNP replication, and remaining unexplained heritability have important implications for further clarifying the genetic risk of prostate cancer.
+0	NA	NA	NA	ABBR	It also suggests that there may be much promise in evaluating understudied variation such as indels and ethnically diverse populations

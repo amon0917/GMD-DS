@@ -1,0 +1,262 @@
+0	insulin-treated diabetes	NA	NA	ABSTRACT	Genetic studies of type 1 diabetes (T1D) have identified 50 susceptibility regions (www.T1DBase.org) revealing major pathways contributing to risk, with some loci shared across immune disorders.
+0	autoimmune disease	NA	NA	ABSTRACT	In order to make genetic comparisons across autoimmune disorders as informative as possible a dense genotyping array, the ImmunoChip, was developed, from which four novel T1D regions were identified (P < 5 x 10-8).
+0	juvenile idiopathic arthritis	NA	NA	ABSTRACT	A comparative analysis with 15 immune diseases (www.ImmunoBase.org) revealed that T1D is more similar genetically to other autoantibody-positive diseases, most significantly to juvenile idiopathic arthritis and least to ulcerative colitis, and provided support for three additional novel T1D loci.
+0	NA	NA	NA	ABSTRACT	Using a Bayesian approach, we defined credible sets for the T1D SNPs.
+0	NA	NA	NA	ABSTRACT	These T1D SNPs localized to enhancer sequences active in thymus, T and B cells, and CD34+ stem cells.
+0	NA	NA	NA	ABSTRACT	Enhancer-promoter interactions can now be analyzed in these cell types to identify which particular genes and regulatory sequences are causal
+0	insulin-treated diabetes	insulin	NA	INTRO	Type 1 diabetes (T1D) results from the autoimmune destruction of the pancreatic beta cells, leading to absolute dependence on exogenous insulin to regulate blood glucose levels.
+0	NA	NA	NA	INTRO	In the present study we designed and used the ImmunoChip, a custom Illumina Infinium high-density genotyping array, in order to (i) identify additional risk loci, (ii) refine mapping of T1D risk loci to their sets of most-associated credible SNPs in order to (iii) analyze the locations of the credible SNPs with respect to regulatory sequences in tissues and cell types, and (iv) assemble summary GWAS and ImmunoChip results from multiple immune diseases to allow comparisons of their genetic risk profiles
+0	NA	NA	NA	INTRO	"The T1D single nucleotide polymorphisms (SNPs) and indel content selected for inclusion on ImmunoChip was based on the 41 T1D regions known at the time (February, 2010) and on 3,000 ""wildcard"" SNPs that tagged candidate genes or other SNPs with suggestive evidence (5 x 10-8 < P < 10-5) of association from T1D GWAS."
+0	NA	NA	NA	INTRO	In parallel, we collected and curated all available association results for immune diseases for which the ImmunoChip was designed.
+0	NA	NA	NA	INTRO	For efficient comparison and downstream analysis by the research community, we created a publicly available, integrated, web-based portal (ImmunoBase) that contains complete association summary statistics that are available for querying, browsing, or bulk download
+0	insulin-treated diabetes	NA	NA	INTRO	After data cleaning and quality control, a total of 138,229 SNPs were scored in 6,670 T1D cases, 6,523 controls from the British 1958 Birth Cohort, 2,893 controls from the UK National Blood Service, 2,846 controls from the NIHR Cambridge Biomedical Research Centre Cambridge BioResource, 2,601 Type 1 Diabetes Genetics Consortium (T1DGC) affected sib-pair (ASP) and 69 T1DGC trio families.
+0	NA	NA	NA	INTRO	Case-control and family data were analyzed independently and combined by meta-analysis.
+0	NA	NA	NA	INTRO	We obtained evidence for T1D association in 44 regions at P <= 3.23 x 10-7 (an ImmunoChip Bonferroni-corrected P < 0.05; Table 1).
+1	NA	NA	rs6691977	INTRO	Thirty-eight of these are recognized T1D regions (T1DBase and ImmunoBase) and four are newly identified regions (genome-wide P < 5 x 10-8): 1q32.1/index SNP rs6691977, 2q13/rs4849135, 4q32.3/rs2611215, and 5p13.2/rs11954020.
+1	multiple sclerosis	IL7R	rs11954020	INTRO	rs11954020 is close to the multiple sclerosis (MS) candidate immune response gene, IL7R.
+0	primary biliary cirrhosis	NA	rs1052553	INTRO	Two remaining loci, 17q21.31 and 21q22.3, were marginally associated (P > 5 x 10-8) and, as we describe later, additional support for 17q21.31 comes from genome-wide significant association of the same SNP, rs1052553, with primary biliary cirrhosis (PBC)
+0	NA	NA	NA	INTRO	At each of the 44 loci, we investigated whether additional SNPs were independently associated with T1D.
+0	NA	NA	NA	INTRO	Logistic regression analyses, conditional on the most associated or index SNP in each region, identified five loci with more than one independently associated SNP (Table 1).
+1	NA	INS	NA	INTRO	Four were already known to encode for more than one causal variant but the fifth region, 11p15.5 (INS, INS-IGF2 candidate genes), was surprising as INS was the first non MHC region in T1D to be discovered, and therefore the region has been examined intensively.
+1	NA	NA	NA	INTRO	The likely causal candidates in this region are SNPs rs689/-23HphI, rs3842753/+1140A>C, and the 5' variable number tandem repeat (VNTR) polymorphism.
+0	NA	NA	NA	INTRO	In European-ancestry populations, these three sites are in near perfect linkage disequilibrium (LD).
+1	NA	NA	rs689	INTRO	SNPs rs689 and rs3842753 were assayed on the ImmunoChip, but both were eliminated following quality control.
+1	NA	NA	rs689	INTRO	We integrated pre-existing rs689 data with ImmunoChip data in the 6,670 UK GRID cases and 6,304 British 1958 Birth Cohort controls, and found rs689 to be the most associated SNP.
+1	NA	NA	rs689	INTRO	After conditioning on rs689, SNP rs72853903 still exhibited significant evidence for an independent association with T1D (P = 5.4 x 10-10; Table 1).
+1	NA	INS	rs3842753	INTRO	We did not have sufficient data to integrate rs3842753 or the INS VNTR in these analyses, but rs689 is known to tag the VNTR precisely.
+1	NA	INS	rs3842753	INTRO	We note annotation using VEP (Ensembl v75) identifies rs3842753 as an INS non-synonymous SNP (His-Pro).
+0	NA	NA	NA	INTRO	However, we found limited evidence for the annotation of the underlying transcript isoform and it is more likely to be a non-coding 3'UTR SNP
+0	NA	NA	NA	INTRO	Comorbidity between T1D and other immune-mediated diseases has been reported widely through epidemiological and clinical studies, but evidence for shared genetic etiology has not been assessed in a uniform manner across multiple diseases.
+0	NA	NA	NA	INTRO	We sought to compare the underlying genetic susceptibilities to T1D and each of 15 immune diseases curated in ImmunoBase (accessed February 13, 2014).
+0	NA	NA	NA	INTRO	We first divided the densely mapped regions of the ImmunoChip into two sets according to whether there was published association with the index disease and that region.
+0	NA	NA	NA	INTRO	We then tested whether T1D single SNP P-values differed between the two sets of regions using a variant set enrichment method that accounts for LD between SNPs (Supplementary Information).
+0	NA	NA	NA	INTRO	A difference in P-value distributions indicated that T1D showed stronger (or weaker) association with regions according to their association with the index disease
+0	juvenile idiopathic arthritis	NA	NA	INTRO	This comparison clearly delineated diseases with characteristic autoantibodies (e.g., juvenile idiopathic arthritis (JIA), rheumatoid arthritis (RA) and T1D) compared to auto-inflammatory disorders (e.g., ulcerative colitis (UC) and Crohn's disease (CD); Table 2; Fig.
+0	NA	NA	NA	INTRO	1A).
+0	NA	NA	NA	INTRO	The strongest positive and negative enrichments were observed with JIA (Fig.
+0	NA	NA	NA	INTRO	1B; P = 2 x 10-13) and UC (Fig.
+0	NA	NA	NA	INTRO	1C; P = 5.4 x 10-5), respectively.
+0	NA	NA	NA	INTRO	It should be noted that the susceptibility loci for each disease remain incomplete and the extent of the incompleteness varies between diseases.
+0	rheumatoid arthritis	NA	NA	INTRO	This limitation prevents us from drawing any conclusion that 'T1D is more like RA than ATD'; however, individually significant results are likely valid representations of disease overlap.
+1	NA	NA	NA	INTRO	The overlap between T1D and JIA was driven, in part, by sharing (P < 10-20) at 1p13.2/PTPN22, 12q24.11/SH2B3, and 10p15.1/IL2RA (Fig.
+0	NA	NA	NA	INTRO	1B and Fig.
+0	NA	NA	NA	INTRO	1C) whereas, for UC, no shared loci reached this level of significance
+0	NA	NA	NA	INTRO	We exploited this pleiotropy to identify additional T1D associations.
+0	NA	NA	NA	INTRO	Previously, T1D was compared with celiac disease and SNPs robustly associated (P < 5 x 10-8) with celiac disease and lesser associated (5 x 10-8 < P < 10-4) with T1D were considered T1D associated, and vice versa.
+0	NA	NA	NA	INTRO	Here, we demonstrate (Supplementary Information) that a SNP with P < 5 x 10-8 in any ImmunoChip disease study requires P < 10-5 for T1D to obtain a Bayesian posterior probability of T1D association > 0.9, given that different ImmunoChip disease studies shared many control samples.
+0	NA	NA	NA	INTRO	Using this analysis, we identified three additional T1D regions, bringing the number of known T1D regions to 57: 14q24.1/rs911263, 17q21.31/rs17564829 (that achieved Bonferroni correction, but not genome-wide significance in the primary analysis), and 6q23.3/rs17264332/rs6920220 (Table 3)
+0	NA	TNFAIP3	NA	INTRO	The 6q23.3 region contains the well-recognized candidate gene TNFAIP3, linking T1D susceptibility with the proinflammatory tumour necrosis factor (TNF) pathway.
+0	NA	RAD51L1	NA	INTRO	The three genes most proximal to the index SNP in the 14q24.1 region (RAD51B, ZFP36L1 and ACTN1) do not provide obvious insights into the biology of T1D nor do genes near the index SNPs in the three other regions (1q32.1/CAMSAP2/GPR25/C1orf106, 2q13/ACOXL and 4q32.3/LINC01179/CPE/TLL1).
+0	neuroendocrine system	CPE	NA	INTRO	CPE encodes Carboxypeptidase E, a protease active in the neuroendocrine system and, therefore, could be considered a candidate T1D gene.
+0	NA	SPPL2C	NA	INTRO	The gene content of the 17q21.31/rs17564829 region, containing a megabase-long inversion polymorphism with several copy number variants, is also not informative although SPPL2C, encoding signal peptide peptidase like 2C, could be considered a candidate gene.
+0	NA	insulin	NA	INTRO	Antigen presentation and associated proteolysis is important in the autoimmune process in T1D, including the processing of the major autoantigen, preproinsulin, into peptide epitopes some of which contain signal peptide amino acids
+0	NA	NA	NA	INTRO	We surveyed the NHGRI GWAS catalogue to determine overlap between diseases and traits with the seven novel loci.
+0	neurodegenerative disease	tau	NA	INTRO	After removing diseases curated in ImmunoBase, we found that 17q21.31/rs17564829, in intron 1 of the MAPT (microtubule-associated protein tau) gene, is in strong LD (r2>0.9) with the index SNP for several neurodegenerative diseases, including Parkinson's disease.
+0	NA	NA	NA	INTRO	We also examined two eQTL datasets in relevant tissues for overlap with our seven newly identified T1D associations.
+0	NA	NSF	rs17564829	INTRO	rs17564829 in the 17q21.31 region associated with expression of NSF, KANSL1, ARHGAP27 and MGC5736.
+0	NA	NA	NA	INTRO	This region overlaps a set of haplotypes in high LD that incorporate duplication and inversion events, complicating further interpretation.
+0	NA	NA	NA	INTRO	No other identified genes have strong functional candidacy
+0	NA	NA	NA	INTRO	It is well established that SNPs showing the strongest association with disease in any region are not necessarily the causal variants, owing to a combination of sampling variation and LD.
+0	NA	NA	NA	INTRO	Nevertheless, the dense coverage of the ImmunoChip increases the likelihood that causal variants are among the SNPs genotyped in the T1D loci.
+0	NA	NA	NA	INTRO	Although putative causal variants cannot be identified without further experimentation, identification of the most associated SNPs in each region allowed us to integrate the location of these SNPs and their flanking sequences with emerging knowledge of the regulatory sequences of the genome.
+0	NA	NA	NA	INTRO	Focusing on primary and conditional signals in each associated region to define, for each of the 44 loci listed in Table 1, we used a Bayesian approach similar to that described previously to define the 99% credible set of SNPs within which the causal variants are most likely to be present (Supplementary Table 1)
+0	NA	NA	NA	INTRO	We used the set of credible SNPs to interrogate 15 chromatin states across 127 tissues derived from the Epigenomics RoadMap and ENCODE projects.
+0	NA	NA	NA	INTRO	We observed a strong enrichment of SNPs in enhancer chromatin states in immunologically relevant tissues (Fig.
+0	NA	NA	NA	INTRO	2).
+0	NA	NA	NA	INTRO	Thymus, CD4+ and CD8+ T cells, B cells, and CD34+ stem cells exhibited the strongest enrichment in more than one sample of each tissue or cell type.
+0	NA	NA	NA	INTRO	There was less evidence of enrichment in promoter sequences (Fig.
+0	NA	NA	NA	INTRO	2), suggesting that variation of enhancer sequences is more relevant to T1D.
+0	NA	NA	NA	INTRO	Our Bayesian approach is more informative in selecting the relevant SNPs than the conventional r2-based approach that focuses on SNPs with r2>0.8 with index SNPs - the r2-based approach only identified enhancer enrichment in one subtype of CD4 T cells (data not shown).
+0	NA	NA	NA	INTRO	Recently, an analysis of active gene enhancers across multiple tissues reported enrichment of T1D GWAS SNPs in promoters, not enhancers.
+0	NA	NA	NA	INTRO	This difference could be attributable to the empirical technique in defining enhancers or their focus on enhancers generally, rather than tissue-specific enhancers, a failure to adjust for potential confounding by minor allele frequency, or reliance on the r2-approach rather than establishing a credible set of putatively causal SNPs.
+0	pancreatic islet enhancers	NA	NA	INTRO	Our analyses found no evidence of enrichment in pancreatic islet enhancers, a result supported by a recent detailed analysis of pancreatic islets that found evidence for enrichment of type 2 diabetes and fasting glucose GWAS signals in a subset of those enhancers, but not of T1D
+0	NA	NA	NA	INTRO	We also investigated whether analysis of available chromatin state data and its annotation could narrow our credible SNP lists and point to certain genes and SNPs.
+0	NA	NA	NA	INTRO	We focused on credible SNPs that were either non-synonymous/missense (as annotated by VEP Ensembl v75) or that overlapped enhancer regions in the tissues that showed an enrichment for T1D-associated SNPs in Fig.
+0	NA	NA	NA	INTRO	2 (Supplementary Data Set).
+0	NA	NA	NA	INTRO	While credible SNP sets can be large, this filtering reduced their median size from 28 to eight SNPs (Supplementary Figure 1).
+0	NA	NA	NA	INTRO	In Supplementary Table 2, we highlight 29 SNPs corresponding to 12 regions for which the size of filtered sets is relatively small (< 5).
+1	NA	PTPN22	NA	INTRO	The analyses did not identify any new candidate gene, other than the known candidate causal genes containing high confidence missense variants: PTPN22, IFIH1, CTSH, TYK2 and FUT2.
+1	NA	CTSH	NA	INTRO	Nevertheless, this analysis does identify SNPs that overlap potential enhancers near CTSH, TYK2 and UBASH3A that are worthy of specific laboratory investigations.
+0	NA	NA	NA	INTRO	In addition, we identified candidate enhancer SNPs in four other regions, 6q22.32, 7p12.1, 10q23.31, and 16q23.1, none of which have obvious candidate genes (Table 1 and Supplementary Data Set).
+0	NA	NA	NA	INTRO	Chromosome conformational capture can be used to directly determine the presence of physical interactions between promoters and potential enhancer sequences in the most enriched primary cell types using our credible SNP positions.
+1	NA	IL-10	NA	INTRO	There is a discrete cluster of enhancer credible SNPs 5' of the functional candidate gene IL10 (Supplementary Data Set), yet this potential regulatory sequence could interact with the promoter of the adjacent candidate gene, IL19 (or both).
+1	NA	AFF3	NA	INTRO	Genome-wide analysis of promoter-enhancer interactions will help identify new candidate causal genes Notwithstanding the current lack of data on promoter-enhancer interactions, these analyses identify AFF3 (2q11.2) and BCAR1 (16q23.1) as novel candidate genes for T1D
+0	NA	NA	NA	METHODS	Affected sib-pair families were collected by the T1DGC from five geographic regions through four recruitment networks.
+0	NA	NA	NA	METHODS	Recruitment criteria for the families have been discussed previously.
+0	diabetes	NA	NA	METHODS	A total of 6,808 T1D case samples were ascertained from the UK Genetic Resource Investigating Diabetes (UK GRID) cohort.
+0	NA	NBS	NA	METHODS	Control samples were obtained from the British 1958 Birth Cohort (N=6,929) and the UK National Blood Services collection (UK NBS, N=3,060), and the NIHR Cambridge Biomedical Research Centre Cambridge BioResource (CBR, N=2,846).
+0	NA	NA	NA	METHODS	Many of these samples (98% of cases, 59% of controls, and 57% of family samples) were also used in an earlier GWAS meta-analysis that initially identified many of the T1D regions.
+0	NA	NA	NA	METHODS	All samples included in this analysis have reported or self-declared European ancestry.
+0	NA	NA	NA	METHODS	All DNA samples were collected after approval from relevant institutional research ethics committees.
+0	NA	NA	NA	METHODS	Review boards of all contributing institutions approved all protocols and informed consent for sharing of data and sample collection; appropriate informed consent was obtained from all subjects and familie
+0	NA	NA	NA	METHODS	Genotyping was performed using a custom high-density genotyping array, ImmunoChip (Illumina, Inc; CA) according to manufacturer's protocols.
+0	HD	NA	NA	METHODS	The ImmunoChip, a custom Illumina Infinium HD array, was designed to densely genotype, using 1000 Genomes and any other available disease specific resequencing data, immune-mediated disease loci identified by common variant GWAS.
+0	autoimmune thyroid disease	NA	NA	METHODS	The ImmunoChip Consortium selected 186 distinct loci containing markers meeting genome wide significance criteria (P < 5x10-8) from twelve such diseases (autoimmune thyroid disease, ankylosing spondylitis, Crohn's disease, celiac disease, IgA deficiency, multiple sclerosis, primary biliary cirrhosis, psoriasis, rheumatoid arthritis, systemic lupus erythematosus, type 1 diabetes, and ulcerative colitis).
+0	NA	NA	NA	METHODS	All 1000 Genomes Project pilot phase CEU population variants (Sept 2009 release) within 0.1cM (HapMap3 CEU) recombination blocks around each GWAS region lead marker were submitted for array design.
+0	NA	NA	NA	METHODS	No filtering on correlated variants (linkage disequilibrium) was applied.
+0	NA	NA	NA	METHODS	Additional content included regional resequencing data (submitted by several groups) as well as a small proportion of investigator-specific undisclosed content including intermediate GWAS results
+0	NA	NA	NA	METHODS	All individuals from T1DGC affected sib-pair (ASP) and trio families (N=11,584), T1D cases (N=6,808) and British 1958 Birth Cohort controls (N=5,452) were genotyped at the Genome Sciences Laboratory within the Center for Public Health Genomics at the University of Virginia.
+0	NA	NA	NA	METHODS	An additional 1,477 control samples from the British 1958 Birth Cohort, 2,846 samples from the NIHR Cambridge Biomedical Research Centre Cambridge BioResource and 3,060 UK National Blood Service samples were genotyped at the Wellcome Trust Sanger Institute.
+0	NA	NA	NA	METHODS	The Illumina GeneTrain2 algorithm was used to cluster genotypes
+0	NA	NA	NA	METHODS	Sample and SNP quality control for the family data set and the case, control data set was performed separately.
+0	NA	NA	NA	METHODS	Initial sample quality control metrics included sample call rate, heterozygosity, and sex concordance check of reported versus genotyped.
+0	NA	NA	NA	METHODS	Relationship and population structure inference analyses were performed, and the inferred relationship and population membership for each individual determined from the genetic data were compared to the self-reported pedigree and ethnicity data (see sections on population inference and population structure for more detail).
+0	NA	NA	NA	METHODS	A total of 34 cases, 192 controls, and 20 individuals in T1DGC ASP families were removed for missing rate > 5%.
+0	NA	NA	NA	METHODS	Approximately 2,000 SNPs on the X chromosome and Y chromosome were used to infer sex based upon the genetic data.
+0	NA	NA	NA	METHODS	Individuals with low X chromosome heterozygosity and a large number of Y chromosome SNPs were defined as 'males'; individuals with a high X chromosome heterozygosity and a small number of Y chromosome SNPs were defined as 'females'.
+0	NA	NA	NA	METHODS	Inconsistency between the self-reported sex and the genetically determined sex for any individual was considered an error in sex.
+0	NA	NA	NA	METHODS	From this analysis, 39 T1D cases, 79 controls, and 59 individuals in T1DGC ASP families were removed.
+0	NA	NA	NA	METHODS	Samples with heterozygosity outside the range of 19% - 23.5% were removed, including 7 cases and 19 controls.
+0	NA	NA	NA	METHODS	A further 75 cases and 201 controls were removed for other reasons, comprising sample duplication, and inability to map sample IDs to demographic information, relatedness (see below) and population structure.
+0	NA	NA	NA	METHODS	A total of 6,683 cases, 12,173 controls, 2,601 ASP families and 69 trio families (10,796 total individuals) were used for analysis following quality control
+0	NA	NA	NA	METHODS	Monomorphic SNPs (~23,000) were identified and removed.
+0	NA	NA	NA	METHODS	A total of 527 SNPs in cases, 2,405 SNPs in controls and 1,387 in T1DGC ASP and trio family data were rejected due to failure to attain at least 95% genotyping rate.
+0	NA	NA	NA	METHODS	An additional 618 SNPs in the case and control data were removed due to low genotyping rate at less-frequent and rare variants (genotyping rate < 99% for SNPs with MAF < 1%, or genotyping rate less than (1-MAF) for SNPs with MAF < 5%.
+0	NA	NA	NA	METHODS	In the case and control collections, 1,432 SNPs failed Hardy-Weinberg Equilibrium tests (with HWE P < 10-6) in controls and 527 SNPs failed (with HWE P < 10-10) in cases.
+0	NA	NA	NA	METHODS	In the ASP families, 2,939 SNPs failed with Mendelian Inconsistency (MI) errors (with a standard MI error rate > 0.5% or an adjusted MI error rate > 5% for rare variants).
+0	NA	NA	NA	METHODS	A total of 163,924 SNPs passed quality control metrics in the case and control collections, and 164,643 SNPs passed quality control metrics in the families.
+0	NA	NA	NA	METHODS	Of these sets of SNPs, 154,939 SNPs overlapped and were used for initial analyses.
+0	NA	NA	NA	METHODS	The first iteration of identifying the best markers for dense regions produced a large number of markers with visually identified noisy signal clouds.
+0	NA	NA	NA	METHODS	As a result, further SNP-QC was undertaken, whereby the call-rate cut off was raised to 99%, the HWE cut off was lowered to P < 10-4.
+0	NA	NA	NA	METHODS	A further 8,349 SNPs were removed for lower call-rate and 10,708 for violation of HWE, and 34 for manually identified poor signal clouds.
+0	NA	NA	NA	METHODS	This strategy reduced the total number of SNPs analysed to 135,870 and produced top SNPs with much cleaner signal cloud data
+0	NA	NA	NA	METHODS	We observed inflation of test statistics across all SNPs that passed quality control, lambda_1000 = 1.09, which was expected as the ImmunoChip was designed to target robustly defined immune-mediated disease susceptibility loci.
+0	NA	NA	NA	METHODS	Excluding SNPs from regions reported in this paper, lambda_1000 was reduced to 1.07; excluding all densely genotyped regions reduced lambda_1000 to 1.03
+0	inflation of type I error	Cryptic	NA	METHODS	Cryptic relatedness can confound the result of population structure and association analyses and lead to inflated type I error rates.
+0	NA	NA	NA	METHODS	We used the relationship inference method that was implemented in KING to estimate the kinship coefficient between every pair of individuals based on their SNP data.
+0	NA	NA	NA	METHODS	Since only SNPs of these two individuals are used when the kinship coefficient is estimated for a pair of individuals, the estimation accuracy is independent of the population structure in the entire data
+0	NA	NA	NA	METHODS	Twenty-two autosomes are well covered on the ImmunoChip array, thus the SNP density provides sufficient power to correctly identify close relationships (1st- and 2nd-degree) with extremely low false positives (i.e., to separate unrelated pairs from close relatives).
+0	NA	Cryptic	NA	METHODS	After the cryptic relatedness was identified, pedigree errors were resolved by removing problematic individuals (within families) and/or by reconstructing the pedigree (both within and across families) incorporating the newly identified 1st and 2nd-degree relationships
+0	NA	NA	NA	METHODS	A total of 30 individuals were removed in family data due to the inconsistency between the estimated and documented relationships, and ~500 pairs of 1st-degree relatives that were not reflected in the documented pedigree have been incorporated in the pedigree data by pedigree reconstruction.
+0	NA	NA	NA	METHODS	Supplementary Figure 2 shows all pair-wise relationships in families after QC.
+0	IBS	NA	NA	METHODS	The estimated kinship coefficient of each pair of relatives is plotted against the proportion of zero IBS, with the documented relationships being indicated by colour.
+0	NA	NA	NA	METHODS	All 42 pairs of documented identical twins have estimated kinship coefficient > 0.4.
+0	NA	NA	NA	METHODS	Among 16,292 documented 1st-degree relative pairs, 16,270 pairs have estimated kinship coefficient between 0.177 and 0.36 (criteria to be inferred as 1st-degree relative in KING), 21 pairs have estimated kinship coefficient between 0.150 and 0.177, and 1 pair has estimated kinship coefficient 0.137.
+0	NA	NA	NA	METHODS	After pedigree reconstruction, there was no 1st-degree relatedness across any two families, and there were only 3 pairs of documented unrelated pairs with estimated kinship coefficient > 0.1 (all 3 kinship coefficients < 0.139).
+0	NA	NA	NA	METHODS	In the analysed data, a total of 10,796 individuals from 2,682 nuclear families have genotypes available.
+0	NA	NA	NA	METHODS	There were 1,670 families with both parents available, 652 with only one parent and 360 with neither parent.
+0	NA	NA	NA	METHODS	The distribution of affected siblings was 69 families with one affected, 2490 with two, 104 with three, 5 with four, and 2 with five
+0	NA	NA	NA	METHODS	In the T1D cases and the UK control data, 159 controls and 48 cases were removed for being close relatives.
+0	NA	NA	NA	METHODS	"After this level of QC, no remaining ""unrelated"" pairs in the case or control data have estimated kinship coefficient > 0.09, indicating all individuals are indeed unrelated."
+0	NA	NA	NA	METHODS	We also checked the UK T1D case and UK control for relatedness in the T1DGC ASP and trio family data set, since one of the four T1DGC collection sites was in the UK.
+0	NA	NA	NA	METHODS	A total of 5 pairs of individuals were identified with a genotype concordance rate > 99.99%; the related individuals were selectively removed from the T1DGC family data set
+0	NA	NA	NA	METHODS	We applied the principal component analysis (PCA) method that is implemented in KING for the identification of the population structure.
+0	NA	NA	NA	METHODS	We combined HapMap III data (1097 unrelated individuals were used, with 215 of European ancestry) with each cohort.
+0	NA	NA	NA	METHODS	We kept those SNPs that are present on both HapMap and ImmunoChip panels, and removed SNPs with r2 > 0.5 with other SNPs.
+0	NA	NA	NA	METHODS	After applying the QC filters, ~30,000 SNPs were used for the structure analysis.
+0	NA	NA	NA	METHODS	PCA was first carried out among the HapMap individuals only, and then each ImmunoChip individual was projected to the space that was expanded by the principal components of HapMap individuals.
+0	NA	NA	NA	METHODS	The projected principal components for each individual represent its ancestry relative to the HapMap populations.
+0	NA	NA	NA	METHODS	Using this algorithm, we obtained the principal components for case-control individuals by cohort, projected to either the entire HapMap III populations (Supplementary Figure 3), or the European ancestry populations only including CEU and TSI (Supplementary Figure 4); we also obtained the principal components for individuals in the family data (Supplementary Figure 5)
+0	NA	NA	NA	METHODS	In Supplementary Figure 3, population structure of our case-control data was compared with all HapMap III populations.
+0	SD	NA	NA	METHODS	A total of 69 individuals were identified to be greater than 3 standard deviations (SD) from the average of the second principal components in European populations, and these outliers were excluded from analysis.
+0	NA	NA	NA	METHODS	The principal components of all case-control individuals from four cohorts (GRID and 1958 British Cohort that were genotyped at UVA, 1958 British Cohort and National Blood Service that were genotyped at Sanger) are in the range of the European ancestry populations, clearly separated from non-European populations.
+0	NA	NA	NA	METHODS	In Supplementary Figure 4, case-control individuals were compared with European populations only, including CEU and TSI.
+0	NA	NA	NA	METHODS	The cluster on the left is for CEU that represents the northern European, and the cluster on the right is for TSI which represents the southern European.
+0	NA	NA	NA	METHODS	"A total of 55 ""outliers"" were identified in this analysis to cluster with the southern European and have been excluded prior to analysis."
+0	NA	NBS	NA	METHODS	Supplementary Figure 5 suggests that there is no substructure difference between our cases (UVA GRID) and controls (UVA 1958 BC, Sanger 1958 BC, and UK NBS).
+0	NA	NA	NA	METHODS	Supplementary Figure 5 shows the population structure in the family data, compared with the HapMap populations.
+0	NA	NA	NA	METHODS	Only individuals of European ancestry were used in the analysis
+0	NA	NA	NA	METHODS	The chromosomal locations of the ImmunoChip SNPs were standardized to build 37 (hg19) coordinates using the UCSC liftover utility.
+0	NA	NA	NA	METHODS	For each variant, the SNP alleles have been normalized so the reference and alternate alleles are reported on the reference (top) strand
+0	NA	NA	NA	METHODS	In order to test association between each SNP and T1D, we applied the Generalized Disequilibrium Test (GDT) method to the T1DGC ASP and trio families, and fit a logistic regression to the T1D case and control data.
+0	NA	NA	NA	METHODS	We then combined the family and case-control data using meta-analysis
+0	NA	NA	NA	METHODS	The GDT method computes the genotype difference between all pairs of phenotypically discordant relatives within each family.
+0	NA	NA	NA	METHODS	This method utilizes the information of all discordant relative pairs, including those nuclear families that are not efficiently used in family-based tests such as Transmission/Disequilibrium Test (TDT) or Family Based Association Test (FBAT).
+0	NA	NA	NA	METHODS	To estimate the effect at each variant, we carried out the TDT at each region and approximated the odds ratio of a variant by the transmission/non-transmission ratio at this region observed in parent-affected-offspring trios.
+0	NA	NA	NA	METHODS	In the logistic regression model for T1D in the case-control data, association between T1D and an additive genotype score at each SNP was performed with adjustment for sex and regions in UK (12 dummy variables created for the 13 regions).
+0	NA	NA	NA	METHODS	"The ""snp.rhs.estimates"" function from package snpS in R 3.0.2 was used for analysis"
+0	NA	NA	NA	METHODS	A weighted z-score was used to combine results from the case-control and the family data.
+0	NA	NA	NA	METHODS	An overall beta coefficient and standard error were computed as the weighted average of the individual beta statistics, and a corresponding P-value for that statistic was computed.
+0	NA	NA	NA	METHODS	The weights were proportional to the inverse variance (1 divided by the standard error squared) in each study an
+0	NA	NA	NA	METHODS	  scaled by the meta-variance (sigma2meta, equation above) so the weights summed to 1.
+0	NA	NA	NA	METHODS	For the family data, instead of using the total number of family members, we used twice of the number of parent-affected-offspring trios as the effective sample size for the meta-analysis
+0	NA	NA	NA	METHODS	To determine if additional SNPs within a region were significantly associated with T1D, independent of the most associated SNP identified in the primary analysis, we performed conditional analysis using the case-control data.
+0	NA	NA	NA	METHODS	For each T1D region the conditional analysis started with the SNP that was the most statistically significant as identified in the meta-analysis.
+0	NA	NA	NA	METHODS	A new logistic regression model was fit to the case-control data, adjusting for the previously identified SNP as a covariate.
+0	NA	NA	NA	METHODS	We repeated this procedure until no SNPs in the region attained our threshold for statistical significance
+0	NA	NA	NA	METHODS	For each disease in ImmunoBase we downloaded the set of curated index SNPs (http://www.immunobase.org/page/RegionsLanding accessed February 13, 2014).
+0	NA	NA	NA	METHODS	We excluded IBD as this is a combination of UC and Crohn's which are summarised individually.
+0	NA	NA	NA	METHODS	The MHC region(chr6:25Mb..35Mb GRCh37) was excluded from analysis.
+0	NA	NA	NA	METHODS	For each disease in turn, we used the index SNPs to label each of densely mapped regions of the ImmunoChip as associated with the index disease and that region or not.
+0	NA	NA	NA	METHODS	After LD pruning (r2 <= 0.95) to remove excessive correlation, distributions of T1D association meta-analysis P-values for SNPs were compared between the two sets or regions using a non-parametric Wilcoxon rank score test, as implemented in the R package, wgsea.
+0	NA	NA	NA	METHODS	LD between SNPs inflates the variance of the test statistic, so we estimated this variance empirically under the null hypothesis using 10,000 permutations of case vs control status.
+0	NA	NA	NA	METHODS	Given overall significant evidence of shared or disparate genetic architecture, we examined which loci were involved by summarizing the evidence for T1D association in a region using P = min(-log(p)) over all SNPs in a given dense region
+0	NA	NA	NA	METHODS	To define a query SNP set we took a 2Mb window centred on each novel index SNP and then filtered overlapping SNPs based on a linkage disequilibrium (LD) threshold of r2 >= 0.9 with the index SNP, using 1000 genomes data.
+0	NA	NA	NA	METHODS	To identify potential cis eQTL overlap we downloaded summary statistics from Fairfax et al.
+0	NA	NA	NA	METHODS	(their Table S7) and Westra et al.
+0	NA	NA	NA	METHODS	(Blood eQTL browser) and computed overlap with the query SNP set.
+0	NA	NA	NA	METHODS	For each significant overlap we computed the LD with the top eQTL SNP for that probe/tissue, again using 1000 genome data To look for trait/disease overlap outside ImmunoBase scope we used the query SNP set to examine overlap between NHGRI GWAS catalogue
+0	NA	NA	NA	METHODS	For each index SNP (Table 1) we considered all SNPs within a 50 kb window, and used the case control data to compare models containing the index SNP, i, or each alternative SNP, j, using approximate Bayes factors, by the relatio
+0	NA	NA	NA	METHODS	  where ABFij is the approximate Bayes factor comparing models containing SNPs i and j, and BICi is the Bayesian Information Criterion (BIC) calculated from a logistic model of case/control status against SNP i.
+0	NA	NA	NA	METHODS	For simplicity, this analysis was performed using only the case control cohort.
+1	NA	NA	rs10795791	METHODS	For multiple SNP models we considered the conditional SNPs as fixed; e.g., for chromosome 10p15.1, when considering rs10795791 as an index SNP and conditioning on rs61839660, we calculated BICs for the index model containing rs61839660 and rs10795791 and all alternative two SNP models containing rs61839660 and another SNP within a 50 kb window of rs10795791
+0	NA	NA	NA	METHODS	For any interval, we estimate the probability that any individual SNP j is the causal variant responsible for that signal (again, including conditional models where appropriate) by the posterior probability
+0	NA	NA	NA	METHODS	  and thus we create a 99% credible set of SNPs as the smallest set of SNPs with a total PP >= 99%
+0	NA	NA	NA	METHODS	Epigenomic Roadmap annotations were downloaded from the web portal.
+0	NA	NA	NA	METHODS	These were processed using R and Bioconductor packages to annotate those ImmunoChip SNPs overlapping tissue specific functional elements.
+0	NA	NA	NA	METHODS	According to the credible sets formed above, the ImmunoChip SNPs that passed QC could be divided into two sets
+0	NA	NA	NA	METHODS	those that are in any credible set, within ImmunoChip densely mapped regions - potential causal variants (n=1,256
+0	NA	NA	NA	METHODS	their complement, within ImmunoChip densely mapped regions - unlikely to be causal (n=78,692
+0	NA	NA	NA	METHODS	We tested for enrichment of T1D signals in enhancers in each cell type in turn by forming a series of 2x2 contingency tables, stratified by a SNP's MAF in controls (<0.05, <0.1, <0.2, <0.3, <0.4, <0.5) showing the overlap of SNPs in A and B with functional elements according to physical location.
+0	NA	NA	NA	METHODS	The stratification was important to control for confounding, as both enhancer presence/absence and membership of a SNP in a credible set were associated with MAF.
+0	NA	NA	NA	METHODS	We used Cochran-Armitage tests, with Mantel extension to test for association.
+0	NA	NA	NA	METHODS	The sign of the score statistic determined the direction of association
+0	NA	NA	NA	METHODS	To create a filtered set of credible SNPs which could be targeted in future functional studies, we first expanded the sets by considering all neighbouring SNPs in 1000 Genomes CEU release that were did not pass genotyping on the ImmunoChip.
+0	NA	NA	NA	METHODS	These 1000 Genomes SNPs were assigned to credible sets if the ImmunoChip SNP with which they should strongest LD according to r2 was in a credible set.
+0	NA	NA	NA	METHODS	For each set, we calculated the size of the expanded credible set, the number of SNPs in the credible set that overlap enhancers in tissues which showed are presented in Supplementary Table 1
+0	autoimmune disease	p<10-4	NA	METHODS	Loci have previously been assigned as associated with T1D on the basis of p<10-4 for a SNP that also shows p<5x10-8 in another autoimmune disease.
+0	NA	NA	NA	METHODS	Here, we explore the strength of evidence these thresholds provide, based on previous work.
+0	NA	NA	NA	METHODS	For any individual SNP and two diseases, there exist four hypotheses
+0	NA	NA	NA	METHODS	Realistic prior probabilities are:   that imply we expect about 1 in 1000 SNPs show association to either disease and, of SNPs associated to one disease, we expect about 1 in 10 to be associated with both diseases
+0	NA	NA	NA	METHODS	We use the approximate Bayes Factors presented previously to estimate phii, the Bayes Factor for association to disease i compared to no association to disease i given only single SNP p-values and the minor allele frequency (MAF) of the SNP in controls.
+0	NA	NA	NA	METHODS	If we assume the case and control datasets for each disease are independent, they can be combined to calculate Bayes Factors for each hypothesi
+0	NA	NA	NA	METHODS	Thus, the posterior probability for each hypothesis is given a
+0	NA	phi1/2	NA	METHODS	  where B = 1 + phi1 + phi2 + phi12.
+0	NA	NA	NA	METHODS	The conditional probability of association to disease 2, given we believe there is association to disease 1, i
+0	NA	NA	NA	METHODS	The ImmunoChip consortium genotyped a large sample of shared UK controls.
+0	NA	NA	NA	METHODS	This induces correlation between the p-values from different diseases, so BF12 cannot be expressed as a simple product of disease-specific Bayes Factors.
+0	NA	NA	NA	METHODS	Methods to account for this appear conservative, as they do not allow for the reasonable assumption that related diseases share genetic susceptibility variants.
+0	NA	PP2	NA	METHODS	Instead, we use simulation to explore the effect of non-independence on PP2 1.
+0	NA	NA	NA	METHODS	We use multinomial models and the approximate Bayes Factor to properly estimate the posterior probabilities of each hypothesis
+0	NA	NA	NA	METHODS	To explore the effect of shared controls, we considered two general scenarios, relating the sample sizes available in the WTCCC and the ImmunoChip papers (Supplementary Table 3).
+0	NA	PP2	NA	METHODS	Using pi to denote the single SNP p-value for disease I, the results (Supplementary Figure 6) show that, for independent controls, PP2 1 > 0.9 (median 0.97) whenever p2 < 10-4.
+0	NA	NA	NA	METHODS	However, for shared controls, we cannot be as confident of association.
+0	NA	PP2	NA	METHODS	PP2 1 is independent of p1, given that we believe the association with disease 1 is real.
+0	NA	PP2	NA	METHODS	The number of cases for each disease has a relatively minor effect on PP2 1, while the MAF and the number of shared controls have slightly larger effects.
+0	NA	NA	NA	METHODS	Conditional posterior probabilities increase with MAF, but decrease with an increasing number of shared controls.
+0	NA	PP2	NA	METHODS	The strongest determinant is p2, with PP2 1 in the interval (0.37, 0.61)(median 0.46) at p2 = 10-4 for all scenarios.
+0	autoimmune disease	PP2	NA	METHODS	When p2= 10-5, PP2 1 is in the interval (0.87,0.90)(median 0.89), suggesting that a p2 = 10-5 threshold may be more suitable for convincing evidence of association to a second autoimmune disease
+0	NA	NA	NA	METHODS	The R code is available at http://dx.doi.org/10.6084/m9.figshare.827246 and is based, in part, on functions from the R package colocCommonControl at https://github.com/mdfortune/colocCommonControl
+0	NA	NA	NA	FIG	T1D ImmunoChip p-value enrichment analysis.
+0	NA	NA	NA	FIG	Panel (a) shows Z scores for densely typed regions against diseases curated in ImmunoBase.
+0	NA	NA	NA	FIG	Diseases with positive Z scores indicate evidence for overall genetic overlap with T1D, within densely typed regions accessible on ImmunoChip.
+0	NA	NA	NA	FIG	Those with negative scores indicate evidence for negative association.
+0	NA	NA	NA	FIG	Each bar is labelled with the Wilcoxon rank sum test p-value and coloured by disease autoantibody positive/negative status.
+0	NA	NA	NA	FIG	The MHC region (chr6:25Mb..35Mb GRCh37) was excluded from analysis.
+0	ankylosing spondylitis	NA	NA	FIG	AA- Alopecia Areata, AS - Ankylosing Spondylitis ATD - Autoimmune thyroid disease,, CEL- Celiac disease, CD - Crohn's disease, JIA - Juvenile Idiopathic Arthritis, MS - Multiple Sclerosis, NAR - Narcolepsy, PBC - Primary Biliary Cirrhosis, PSC- Primary Sclerosing Cholangitis PSO - Psoriasis, RA - Rheumatoid Arthritis, SJO - Sjogren's syndrome, SLE Systemic Lupus Erythematosus, UC - Ulcerative Colitis.
+0	NA	NA	NA	FIG	Panels (b) and (c) show P' = min(-log(p.t1d.meta)) for each densely typed region accessible on the ImmunoChip excluding the MHC and autosomal regions.
+0	NA	NA	NA	FIG	Regions that overlap known T1D susceptibility regions are identified by blue bars, whereas yellow and pink show JIA and UC overlap respectively (http://www.ImmunoBase.org - accessed February 13, 2014).
+0	focal disease	NA	NA	FIG	Red bars denote shared overlap between T1D and focal disease.
+0	NA	NA	NA	FIG	The y-axis is truncated for clarity.
+0	NA	NA	NA	FIG	A fully interactive version of panels (b) and (c), along with further supporting resources are available at http://www.immunobase.org/poster/type-1-diabetes-immunochip-study-onengut-gumuscu/
+0	NA	NA	NA	FIG	Heat map showing chromatin state enrichment analysis of T1D 99% credible SNP set in ImmunoChip densely mapped regions versus the complement set, within Epigenomic Roadmap and ENCODE tissues.
+0	diabetes	NA	NA	FIG	The top coloured row groups cell-types into 4 anatomical categories with relevance to type 1 diabetes, subsequent rows use a red (enrichment) to blue (depletion) scale to illustrate enrichment in a particular chromatin state (1_TssA - Active Tss, 2_TssAFlnk - Flanking Active TSS, 3_TxFlnk - Transcribed at gene 5' and 3', 4_Tx - Strong transcription, 5_TxWk - Weak transcription, 6_EnhG - Genic Enhancer, 7_Enh - Enhancer, 8_ZNF/Rpts - ZNF genes & repeats, 9_Het - Heterochromatin, 10_TssBiv- Bivalent/Poised TSS, 11_BivFlnk - Flanking Bivalent TSS/Enhancer, 12_EnhBiv - Bivalent enhancer, 13_RepPC - Repressed PolyComb, 14_RepPCWk - Weak repressed polycomb, 15_Quies - Quiescent/Low)
+0	NA	NA	NA	TABLE	T1D associated loci on ImmunoChip.
+0	NA	NA	NA	TABLE	The most associated SNP in a region is shown, together with the effect of the minor allele relative to major.
+0	NA	NA	NA	TABLE	"Where secondary associations are found, they are conditional on SNPs shown in the column ""condition""."
+0	NA	NA	NA	TABLE	For previously known loci, the r2 between our lead SNP and previously reported index SNPs is shown.
+0	NA	NA	NA	TABLE	"Novel loci, at P < 3.23 x 10-7, are indicated by ""*""."
+0	NA	NA	NA	TABLE	Alleles are shown major > minor.
+0	NA	NA	NA	TABLE	MAF=minor allele frequency.
+1	NA	INS	rs689	TABLE	rs689 (11p15.5, INS) data obtained from previous TaqMan genotyping.
+0	NA	NA	NA	TABLE	Named candidate genes are genes for which there is additional evidence that they might be causal, or that they encode proteins with known immune functions that are part of the immune pathways already identified as involved in T1D pathogenesis.
+0	NA	NA	NA	TABLE	Since SNPs may alter enhancer sequences distant from the target gene, we have not named a gene (or a non-coding RNA) if the only evidence for a causal role is that the peak of SNP association lies in or very near a gene (unless those SNPs alter coding-sequence or splice signals in a potentially functional way).
+0	NA	C10orf59	NA	TABLE	For example, RNLS at 10q23.31 has no established role in the immune system and there is currently no specific functional data linked this gene to T1D etiology
+0	NA	NA	NA	TABLE	Enrichment Analysis of evidence for T1D association across densely genotyped non-MHC loci associated with other autoimmune or auto-inflammatory diseases.
+0	NA	NA	NA	TABLE	ImmunoChip densely mapped regions were assigned as associated or not associated with each index disease accorded to publications curated in ImmunoBase (accessed February 13, 2014) and tested whether the distribution of T1D P-values differed between these sets of regions.
+0	NA	NA	NA	TABLE	The numbers of SNPs that passed QC in our T1D study in the two sets of regions are shown.
+0	NA	NA	NA	TABLE	A positive (negative) Z-score implies T1D shows stronger (weaker) evidence of association in regions known to associate with the index disease
+0	NA	NA	NA	TABLE	Pleiotropic SNPs associated with T1D.
+0	NA	NA	NA	TABLE	We show all genome-wide significant index SNPs for immune mediated diseases that are in regions not associated with T1D at genome-wide significance, but have P < 10-5 in the case-control analysis presented here.
+0	NA	NA	NA	TABLE	Shown are the index SNPs and diseases, and the single SNP association test statistics for each index disease and T1D.
+0	NA	NA	NA	TABLE	Chromosome positions are given according to GRCh37

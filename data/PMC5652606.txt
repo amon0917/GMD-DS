@@ -1,0 +1,221 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	Type 2 diabetes (T2D) affects more than 415 million people worldwide, and its costs to the health care system continue to rise.
+0	NA	NA	NA	ABSTRACT	To identify common or rare genetic variation with potential therapeutic implications for T2D, we analyzed and replicated genome-wide protein coding variation in a total of 8,227 individuals with T2D and 12,966 individuals without T2D of Latino descent.
+0	NA	IGF2	NA	ABSTRACT	We identified a novel genetic variant in the IGF2 gene associated with ~20% reduced risk for T2D.
+0	NA	IGF2	NA	ABSTRACT	This variant, which has an allele frequency of 17% in the Mexican population but is rare in Europe, prevents splicing between IGF2 exons 1 and 2.
+0	NA	IGF2	NA	ABSTRACT	We show in vitro and in human liver and adipose tissue that the variant is associated with a specific, allele-dosage-dependent reduction in the expression of IGF2 isoform 2.
+0	NA	IGF2	NA	ABSTRACT	In individuals who do not carry the protective allele, expression of IGF2 isoform 2 in adipose is positively correlated with both incidence of T2D and increased plasma glycated hemoglobin in individuals without T2D, providing support that the protective effects are mediated by reductions in IGF2 isoform 2.
+0	NA	NA	NA	ABSTRACT	Broad phenotypic examination of carriers of the protective variant revealed no association with other disease states or impaired reproductive health.
+0	NA	IGF2	NA	ABSTRACT	These findings suggest that reducing IGF2 isoform 2 expression in relevant tissues has potential as a new therapeutic strategy for T2D, even beyond the Latin American population, with no major adverse effects on health or reproduction
+0	Type 2 diabetes	NA	NA	INTRO	Type 2 diabetes (T2D) affects 415 million people worldwide and is predicted to be the seventh leading cause of death by 2030.
+0	blindness	NA	NA	INTRO	T2D is also the leading cause of preventable blindness and end-stage renal disease and is a major risk factor for heart attack and stroke
+0	NA	NA	NA	INTRO	An individual's risk of developing T2D is influenced by a combination of lifestyle, environmental, and genetic factors.
+0	diabetes	NA	NA	INTRO	Uncovering the genetic contributors to diabetes holds promise for clinical impact by revealing new therapeutic targets aimed at the molecular and cellular mechanisms that lead to disease.
+0	NA	NA	NA	INTRO	Genome-wide association studies performed during the past decade have uncovered more than 100 regions associated with T2D.
+0	NA	NA	NA	INTRO	Although these studies have provided a better understanding of T2D genetics, the majority of identified variants fall outside protein-coding regions, leaving the molecular mechanism by which these variants confer altered disease risk obscure.
+0	NA	NA	NA	INTRO	Consequently, T2D genome-wide association studies have identified few loci with clear therapeutic potential
+0	NA	NA	NA	INTRO	The identification of loss-of-function variants associated with reduced risk of disease is of particular interest, as their protective genetic effect can be potentially recapitulated by pharmacological inhibition.
+0	NA	NA	NA	INTRO	Furthermore, if carriers of protective, loss-of-function variants are otherwise healthy, this suggests that specific pharmacological perturbation of the effector protein could confer benefit without significant adverse health effects
+0	NA	NA	NA	INTRO	Genetic explorations in traditionally understudied populations have succeeded in identifying novel T2D variants in Mexican populations, as well as in East Asians, Greenlanders, and African Americans.
+0	death	NA	NA	INTRO	In Mexico, T2D is one of the leading causes of death and has a prevalence twice that of non-Hispanic whites in the U.S. and is among the highest worldwide.
+0	NA	NA	NA	INTRO	Although different environmental and lifestyle risk factors in Mexico partially explain the increased prevalence of T2D, unique genetic influences also contribute.
+0	NA	NA	NA	INTRO	Here, we explored protein-coding variants present at higher frequency in people of Latino descent to shed further light on genetic risk factors for T2D in Mexico.
+0	NA	IGF2	NA	INTRO	We identified a novel T2D association with a protective, splice-acceptor variant that disrupts expression of IGF2 isoform 2, providing a clear hypothesis for future mechanism of action and therapeutic inquiries
+0	Type 2 diabetes	NA	NA	METHODS	This study was performed as part of the Slim Initiative in Genomic Medicine for the Americas (SIGMA) Type 2 Diabetes Consortium, whose goal is to improve the understanding of the genetic basis of T2D in Mexican and Latin American populations.
+0	NA	NA	NA	METHODS	The discovery data set consisted of four studies from Mexico or Mexicans living in the U.S. comprising a total of 4,210 case and 4,786 control subjects, which resulted in a final sample size of 4,052 case and 4,606 control subjects after quality control of the genotyping data (Table 1, details of these studies are provided in the Supplementary Data).
+0	NA	NA	NA	METHODS	All participants from the discovery and replication data sets provided informed consent for conducting this study.
+0	NA	NA	NA	METHODS	Their respective local ethics committees approved all contributing studies
+0	NA	NA	NA	TABLE	Study cohorts comprising the SIGMA T2D exome chip project data se
+0	NA	NA	NA	METHODS	The genotyping of the discovery sample was done using the Exome Illumina array at the Broad Institute Genomics Platform (Cambridge, MA), which received, quality controlled, and tracked DNA samples for Exome array processing.
+0	NA	NA	NA	METHODS	The exome array was designed to cover rare and low-frequency coding variants identified through whole-exome sequencing studies of 12,031 individuals from different populations including 362 individuals of Hispanic ancestry.
+0	NA	NA	NA	METHODS	Details on the genotyping of the different discovery and replication cohorts are provided in the Supplementary Data
+0	NA	IGF2	NA	METHODS	A total of 3,732 samples genotyped by the exome array also underwent whole-exome sequencing and were used to create a population-specific reference panel in order to fine-map the association at the IGF2 locus (Supplementary Figs.
+0	NA	NA	NA	METHODS	1 and 2 and Supplementary Data)
+0	NA	IGF2	rs149483638	METHODS	IGF2 minigenes, including the first three exons and two introns of the IGF2 gene (chr11:2150342-2156088, Hg19), and containing either the G or A allele of rs149483638, were synthesized by GENEWIZ and subcloned into the mammalian expression vector pcDNA3.1.
+0	NA	NA	NA	METHODS	A stop codon was introduced at the end of exon 3 to stop translation of the expressed protein.
+0	retinopathy and nephropathy complications	NA	NA	METHODS	Human embryonic kidney 293 cells were transfected with either minigene using TransIT transfection reagent (Mirus Bio).
+0	NA	NA	NA	METHODS	RNA was extracted from the cells 24 h posttransfection using the RNeasy Extraction Kit (Qiagen), and 1 mug of RNA was reverse-transcribed into cDNA using a High-Capacity cDNA Reverse Transcription Kit (Applied Biosystems)
+0	NA	IGF2	NA	METHODS	We used two probes to detect IGF2 expression by droplet digital PCR (ddPCR): one probe that targets exon 3 and recognizes all IGF2 isoforms (custom probe 10031276; Bio-Rad), and one probe that targets the exon 1-2 junction and recognizes only isoforms with exon 1-2 splicing (cat.
+0	NA	NA	NA	METHODS	# Hs04188275; Life Technologies).
+0	NA	ACTB	NA	METHODS	A probe targeting ACTB (cat.
+0	NA	IGF2	NA	METHODS	# 10031255; Bio-Rad) was used as an endogenous control for both IGF2 probes.
+0	NA	IGF2	NA	METHODS	Reaction mixtures consisted of 1 microL of cDNA (diluted 200x from the RT-PCR reaction), 1x of Supermix (Version 1) for Probes (Bio-Rad), 1x of each probe (IGF2 specific and ACTB specific), and water to a final volume of 20 microL.
+0	NA	NA	NA	METHODS	Each reaction was partitioned into droplets using a QX200 automatic droplet generator (Bio-Rad).
+0	NA	NA	C for 48	METHODS	The droplets then underwent PCR as follows: 95 C for 10 min, 40 cycles of 94 C for 30 s and 60 C for 1 min, followed by 98 C for 10 min.
+0	NA	ACTB	NA	METHODS	The QX200 droplet reader was then used to measure the fluorescence of each of the two fluorophores corresponding to the ACTB and IGF2 probes.
+0	NA	IGF2	NA	METHODS	After subtracting the background IGF2 signal detected in untransfected cells (which was minimal), IGF2 was normalized to ACTB within each sample.
+0	NA	IGF2	NA	METHODS	The level of exon 1-2 splicing is presented relative to the total IGF2 for that sample, as determined by the exon 3 probe
+0	obese	NA	NA	METHODS	Visceral adipose and liver tissue samples were collected from subjects undergoing bariatric surgery for severe obesity (BMI >40 kg/m2, or >35 kg/m2 with comorbid entities) or elective surgery in nonobese patients.
+0	NA	NA	NA	METHODS	Patients were selected for bariatric surgery after 6 months of rigorous lifestyle intervention.
+0	NA	NA	NA	METHODS	All individuals were Mexican Mestizos older than 18 years, carefully selected from the Integral Clinic of Surgery for Obesity and Metabolic Diseases or General Surgery Department at the Tlahuac Hospital in Mexico City.
+0	NA	NA	NA	METHODS	Tissue samples were obtained at the beginning of the surgery with harmonic scalpel in all cases as follows: visceral fat was obtained from the greater omentum at the middle of the greater curvature of the stomach, and liver biopsy was obtained at the distal end of the left hepatic lobe, just above the spleen.
+0	NA	NA	NA	METHODS	Visceral adipose and liver tissue samples were frozen immediately after removal.
+0	NA	NA	NA	METHODS	The protocol for collecting visceral adipose and liver tissue samples was approved by the respective local research and ethics committees and all patients signed an informed consent.
+0	diabetes	NA	rs149483638	METHODS	Genomic DNA was purified from whole-blood samples and the genotyping of the rs149483638 variant was performed as described in the Diabetes in Mexico Study 2 (DMS2) cohort.
+0	NA	NA	NA	METHODS	RNA was isolated at the Broad Institute Genomics Platform (Supplementary Data)
+0	NA	steroidogenic acute regulator	NA	METHODS	RNA-seq data sets for embryonic stem cell-derived human pancreatic progenitor cells; embryonic stem cell-derived neuronal progenitor, trophoblast, mesendoderm, and mesenchymal cells; and adult liver and adult pancreatic islets were aligned using STAR against the hg19 reference genome, allowing for up to 10 mismatches and disallowing multimapping.
+0	NA	NA	NA	METHODS	Exon expression level was calculated in reads per kilobase million as described in Mortazavi et al.
+0	NA	IGF2	NA	METHODS	The expression of IGF2 exon 2 across adult human tissues was queried using RNA sequencing data from the Genotype-Tissue Expression (GTEx) Consortium spanning 54 tissue types and 550 individuals (dbGaP Accession phs000424.v5.p1).
+0	NA	NA	NA	METHODS	The sample collection, sequencing, and data processing have been described previously.
+0	NA	NA	NA	METHODS	For these analyses, the exon-level quantifications were generated using RNA-SeQC with GENCODE version 18 reference annotations
+0	NA	IGF2	NA	METHODS	For the tissue samples, we used reverse-transcriptase ddPCR (RT-ddPCR) (Bio-Rad) to measure the expression of IGF2 using probes that targeted all IGF2 isoforms (assay Hs01005963; Life Technologies) and the specific isoform disrupted by the splice-site variant (assay Hs04188276; Life Technologies).
+0	NA	G2E3	NA	METHODS	Each assay was run separately, with an assay targeting G2E3 used as an endogenous control, which was selected for stability across different samples and for showing levels of expression similar to IGF2 isoform 2 (forward primer: GTCCACACACCCTTTGAAAGTT; reverse primer: CAGGTTTATGACACAGGATGCTA; probe: CACCAAGGGTTTTCAGACCCTGC, HEX-labeled).
+0	NA	IGF2	NA	METHODS	In adipose tissue, we used 30 ng of RNA to quantify exon 2 of IGF2 and 5 ng to quantify total IGF2 expression.
+0	NA	IGF2	NA	METHODS	In liver, we used 20 ng of RNA to quantify exon 2 of IGF2 and 15 ng to quantify total IGF2 expression.
+0	NA	IGF2	NA	METHODS	We used 1x of IGF2 assay, 1x of G2E3 assay primer probe mix (20x mixture containing 18 mumol/L of forward and reverse primers each and 5 mumol/L of fluorescent probe), 1x of 2x One-Step RT-ddPCR Supermix (Bio-Rad), 1 mmol/L manganese acetate (Bio-Rad), and water to a final volume of 20 muL.
+0	NA	NA	NA	METHODS	Each reaction was partitioned into thousands of nanoliter-sized droplets using a QX200 manual or automatic droplet generator (Bio-Rad).
+0	NA	NA	C for 48	METHODS	The droplets underwent PCR as follows: 60 C for 30 min, 95 C for 5 min, 50 cycles of 94 C for 30 s and 60 C for 1 min, followed by 98 C for 10 min.
+0	NA	IGF2	NA	METHODS	Following PCR, the fluorescence from each of the two fluorophores corresponding to IGF2 and G2E3 was read by a QX200 droplet reader (Bio-Rad), yielding precise, digital counts of the number of droplets containing the RNA targeted by each assay.
+0	NA	NA	NA	METHODS	Data were processed using QuantaSoft software (Bio-Rad), which estimates the absolute concentration of input RNA templates by Poisson-correcting the fraction of droplets that are positive for each amplicon.
+0	NA	IGF2	NA	METHODS	We used the ratio of IGF2 concentration to control G2E3 concentration as the normalized IGF2 expression value for downstream analyses
+0	NA	IGF2	rs149483638	METHODS	Total, circulating IGF2 levels were measured in plasma from 120 individuals, 40 per genotype at rs149483638, which were matched by ancestry, BMI, age, sex, and T2D status.
+0	NA	IGF2	NA	METHODS	IGF2 measurements were performed by the Vanderbilt University Medical Center Hormone Assay & Analytical Services Core, using a Millipore Human IGF-I, II Magnetic Bead Panel (cat.
+0	NA	NA	NA	METHODS	# HIGFMAG-52K).
+0	NA	NA	NA	METHODS	The assay was read on a Luminex MAGPIX instrument.
+0	NA	NA	NA	METHODS	The association results were compared using linear regression adjusting for the first two principal components, BMI, age, sex, and T2D status
+0	NA	NA	NA	METHODS	We used efficient mixed-model association (EMMAX) to test the genetic variants for association with T2D adjusted by age, BMI, and sex, while controlling for sample structure.
+0	NA	NA	NA	METHODS	Odds ratios (ORs) were estimated using logistic regression models on T2D status, adjusting for age, BMI, and ancestry as specified in the Supplementary Data.
+0	NA	NA	NA	METHODS	The experiment-wide statistical significance threshold was set to P < 5 x 10-8 to adjust for the number of variants evaluated
+0	NA	NA	NA	METHODS	For functional analyses, statistical analyses were performed using linear and logistic regression and nonparametric tests, and P < 0.05 was considered significant for these functional studies
+0	NA	NA	NA	METHODS	For the credible set analysis, we first built two data sets.
+0	NA	NA	NA	METHODS	One data set was comprised of 4,478 samples that had been genotyped by exome chip and OMNI2.5.
+0	NA	NA	NA	METHODS	The other data set comprised another subset of 3,732 samples genotyped by exome chip, OMNI2.5, and whole-exome sequencing, which we integrated to build a population-specific reference panel for protein-coding variation.
+0	NA	NA	NA	METHODS	We kept all the variants with a minor allele frequency (MAF) higher than 0.001 for both data sets.
+0	NA	NA	NA	METHODS	We phased both data sets with SHAPEIT2 (version 2.5,).
+0	NA	NA	NA	METHODS	We then imputed the 1000 Genomes (phase 3, released June 2014) into both data sets separately.
+0	NA	NA	NA	METHODS	We also imputed the whole-exome variants with the population-specific reference panel described above into the samples that did not undergo whole-exome sequencing.
+0	NA	NA	NA	METHODS	We used impute 2 information score >0.8 as a postimputation quality control.
+0	NA	NA	NA	METHODS	We then performed the association analysis separately in each cohort using SNPTEST and adjusted for BMI, age, sex, and the first two principal components to adjust for population stratification.
+0	NA	NA	NA	METHODS	We then meta-analyzed both results using METAL
+0	NA	NA	NA	RESULTS	We performed association analysis between T2D and each of the 158,892 nonmonomorphic variants genotyped in the Illumina exome array that passed stringent quality control in 4,210 T2D case and 4,786 control subjects from four different cohorts in Mexico or Mexicans living in the U.S. (Table 1 and Supplementary Data).
+0	NA	TCF7L2	NA	RESULTS	The top genome-wide significant (P < 5 x 10-8) signals replicated previously reported variants, including those at TCF7L2 and KCNQ1, with consistent effect sizes and directions of effect (Fig.
+0	NA	SLC16A11	NA	RESULTS	1A and Supplementary Table 1), and confirmed the association of variants in SLC16A11, originally identified in a genome-wide study of the same subjects included in the present analysis
+0	NA	NA	rs149483638	FIG	Discovery and replication of the rs149483638 T2D protective variant.
+0	NA	NA	NA	FIG	Quantile-quantile plot for all common variants (A) and for Mexican population-specific variants (B).
+0	NA	NA	NA	FIG	The plot shows the two most significant variants that have low frequency in Europeans but higher frequency in the Mexican population.
+0	NA	IGF2	rs149483638	FIG	C: Forest plot for the meta-analysis of rs149483638 variant in IGF2.
+0	NA	NA	rs149483638	FIG	We replicated the rs149483638 association in four independent data sets: 1,007 T2D case and 917 control subjects of Hispanic origin from T2D-GENES (MAF = 0.12, OR = 0.89, P = 0.3), 1,519 T2D case and 1,680 control subjects of full-heritage American Indian ancestry from the Pima cohort (MAF = 0.14, OR = 0.68, P = 1.09 x 10-5), 427 case and 751 control subjects of self-identified indigenous individuals from different ethnic groups in Mexico (DMS2 cohort) (MAF = 0.36, OR = 0.71, P = 0.001), and 1,064 case and 4,832 control subjects from the subset of subjects with Latino ancestry from the GERA cohort (MAF = 0.06, OR = 0.82, P = 0.11)
+0	NA	NA	NA	RESULTS	To identify variants enriched in the Mexican population, we next focused our analysis on variants of low or rare frequency in Europeans (MAF <0.05), but common (MAF >0.05) in Mexicans (Fig.
+0	NA	NA	NA	RESULTS	1B).
+0	NA	IGF2	rs149483638	RESULTS	Of novel findings in this analysis, a single nucleotide polymorphism predicted to disrupt a canonical splice acceptor site in IGF2 achieved the highest statistical significance (rs149483638, MAF = 0.17, OR = 0.80, P = 1.6 x 10-7).
+0	NA	NA	NA	RESULTS	Heterozygous carriers of this variant have a 22% decreased risk of T2D, and risk in homozygous carriers is reduced by 40%.
+0	NA	NA	rs149483638	RESULTS	We did not find associations between rs149483638 and other glycemic or metabolic traits (Supplementary Table 2).
+0	NA	NA	NA	RESULTS	This variant is rare in individuals of European ancestry (MAF = 0.0002) and at low frequency in individuals of East Asian (MAF = 0.01) or African ancestry (MAF = 0.001) (http://exac.broadinstitute.org).
+0	NA	NA	NA	RESULTS	This variant showed a stronger association with T2D when adjusting for population stratification using principal components, as the protective T allele was more frequent in individuals with higher Native American ancestry, which is also a risk factor for T2D.
+0	NA	NA	NA	RESULTS	Thus, we identified a protective genetic factor for T2D, present in 17% of a Latino population
+0	NA	NA	rs149483638	RESULTS	We performed several analyses that suggest rs149483638 is the most likely causal variant for the protective signal.
+0	NA	NA	NA	RESULTS	"First, we confirmed that other rare variants do not explain the association through a phenomenon called ""synthetic association"" (Supplementary Figs."
+0	NA	NA	NA	RESULTS	1-3 and Supplementary Data).
+0	NA	KCNQ1	rs149483638	RESULTS	Second, we established that known T2D variants at the nearby KCNQ1 locus do not explain the association signal, as the two independently associated variants at the KCNQ1 locus are in weak linkage disequilibrium with rs149483638 in our data set, (r2 with rs139647931 = 0.026, r2 with rs2237897 = 0.028), and the T2D association with rs149483638 remains significant after conditioning for these two variants (OR = 0.81, P = 6.9 x 10-6).
+0	NA	NA	NA	RESULTS	Last, we carried out an analysis to identify the most likely causal variant(s).
+0	NA	NA	NA	RESULTS	To do so, we first integrated whole-exome sequencing data, available for a subset of 3,732 samples, with exome chip and genotyping array data from OMNI2.5 and performed imputation with 1000 Genomes phase 3 reference panel in all the samples (Supplementary Figs.
+0	NA	NA	NA	RESULTS	1 and 2 and Supplementary Data).
+0	NA	NA	NA	RESULTS	We then used a Bayesian approach to prioritize and rank variants according to likelihood of being causal (Supplementary Data).
+0	NA	NA	rs149483638	RESULTS	This analysis identified the splice acceptor variant (rs149483638) as having the highest probability of being causal for the T2D-protective association (Supplementary Fig.
+0	NA	NA	NA	RESULTS	2 and Supplementary Table 3)
+0	diabetes	NA	rs149483638	RESULTS	We then sought to replicate the rs149483638 association in four independent data sets: T2D case and control subjects of Hispanic origin from the Type 2 Diabetes Genetic Exploration by Next-generation sequencing in multi-Ethnic Samples (T2D-GENES) Consortium (MAF = 0.12, OR = 0.89, P = 0.3), individuals of full-heritage American Indian ancestry from the Pima cohort (MAF = 0.14, OR = 0.68, P = 0.1 x 10-5), self-identified indigenous individuals from different ethnic groups in Mexico (DMS2 cohort) (MAF = 0.36, OR = 0.71, P = 0.001) (Supplementary Data), and a subsample of Hispanic individuals from the Genetic Epidemiology Research on Adult Health and Aging (GERA) cohort (MAF = 0.06, OR = 0.82, P = 0.11).
+0	NA	NA	NA	RESULTS	A meta-analysis of the discovery and these replication studies produced a genome-wide significant association (OR = 0.78, P = 5.6 x 10-14) (Fig.
+0	NA	NA	NA	RESULTS	1C).
+0	diabetes	NA	rs149483638	RESULTS	We also tested the association of rs149483638 with diabetes incidence in the subset of 616 Hispanic or American Indian individuals with prediabetes that were followed for an average of 3 years in the Diabetes Prevention Program (DPP).
+0	prediabetes	NA	NA	RESULTS	The direction of effect was consistent with the results in other data sets, but was not statistically significant (hazard ratio = 0.76, P = 0.24) (Supplementary Table 4), possibly because of lower power in this data set due to its smaller sample size and/or the inclusion of individuals with prediabetes who are at high risk for T2D at baseline.
+0	NA	NA	NA	RESULTS	As an additional replication, and to further confirm that the findings are not due to potential population stratification, we analyzed this variant in the San Antonio Families studies, using a family-based association approach (N = 2,980); results are consistent with those obtained through the population-based analyses (z = -2.3, P = 0.02) (Supplementary Table 5).
+0	NA	NA	rs149483638	RESULTS	The overall meta-analyses including these two last data sets further strengthened the observed association between rs149483638 and T2D (overall P = 4.8 x 10-14) (Supplementary Table 4)
+0	NA	NA	rs149483638	RESULTS	Having confirmed that the rs149483638 is driving the association for T2D protection, we performed experiments to understand the mechanism through which this beneficial metabolic action occurs.
+0	NA	IGF2	rs149483638	RESULTS	Using in silico analyses, we found that the protective A allele of rs149483638 variant (allele defined in the reverse strand, in which IGF2 is expressed) is predicted to disrupt a canonical splice-site acceptor controlling inclusion of exon 2 in IGF2 isoform 2 (P01344-3, Uniprot).
+0	NA	IGF2	NA	RESULTS	Compared with isoform 1, IGF2 isoform 2 has 56 additional N-terminal amino acids, encoded by exon 2.
+0	NA	NA	NA	RESULTS	Therefore, the A allele is predicted to specifically disrupt expression of isoform 2 (Fig.
+0	NA	NA	NA	RESULTS	2A).
+0	NA	IGF2	NA	RESULTS	IGF2 isoform 2 is lowly expressed in most adult tissues, showing the highest expression in pancreatic islets and liver and adipose tissue, where it represents approximately 1-2% of total IGF2 transcripts (Supplementary Figs.
+0	NA	NA	NA	RESULTS	5 and 6)
+0	NA	NA	rs149483638	FIG	rs149483638 prevents splicing in vitro.
+0	NA	IGF2	NA	FIG	A: This variant is located at a canonical splice acceptor site and is predicted to cause skipping of exon 2 of IGF2 isoform 2.
+0	NA	IGF2	rs149483638	FIG	B: 293T cells were transfected with IGF2 minigenes containing the first three exons and two introns of the IGF2 gene, and either allele of the rs149483638 C>T variant (G>A in the reverse strand) and cDNA were analyzed by ddPCR.
+0	NA	IGF2	rs149483638	FIG	This analysis revealed no expression of the IGF2 exon 1-2 junction in cells transfected with the minigene containing the T2D-protective rs149483638 A allele.
+0	NA	NA	NA	FIG	This was in contrast to the high levels of exon 1-2 splicing detected in cells transfected with the G allele.
+0	NA	NA	NA	FIG	C: One-dimensional plots of the ddPCR droplets plotted in B.
+0	NA	IGF2	NA	FIG	No IGF2 transcript was detected in untransfected samples.
+0	NA	ACTB	NA	FIG	ACTB was used as an internal control
+0	NA	IGF2	rs149483638	RESULTS	To determine if rs149483638 affects splicing as predicted, we measured exon 1-2 splicing in human cells transfected with IGF2 minigenes consisting of the first three exons and two introns of IGF2 (chr11:2150342-2156088) and containing either the G or A allele of rs149483638.
+0	NA	IGF2	NA	RESULTS	In contrast to the high level of exon 1-2 splicing detected from the G allele, no exon 1-2 splicing was detected in samples expressing the IGF2 minigene containing the A allele (Fig.
+0	NA	IGF2	rs14983836	RESULTS	2B and C), indicating a specific effect of the rs14983836 variant on IGF2 isoform 2 splicing
+0	NA	IGF2	rs149483638	RESULTS	To assess whether the alternative allele at rs149483638 alters transcript expression in vivo, we collected 34 liver and 133 adipose tissue samples from Mexican rs149483638 variant carriers and noncarriers and analyzed expression of IGF2 isoform 2 by measuring levels of the exon 1-2 splice junction using ddPCR.
+0	NA	IGF2	NA	RESULTS	The dosage of the A allele was negatively correlated with expression of IGF2 isoform 2 in both liver (rho = -0.75, Spearman P = 3.2 x 10-7) and adipose tissue (rho = -0.22, Spearman P = 0.01) (Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	IGF2	NA	RESULTS	In contrast, no significant correlation was detected for IGF2 isoform 1 expression, as measured by exon 3 (common to both isoforms but representative of isoform 1, which constitutes ~98% of IGF2 in these tissues (Supplementary Fig.
+0	NA	NA	NA	RESULTS	7A and B).
+0	NA	IGF2	rs149483638	RESULTS	Similarly, we observed no association between rs149483638 genotype and circulating levels of total IGF2, which is expected to reflect the majority isoform, isoform 1 (Supplementary Fig.
+0	NA	NA	NA	RESULTS	7C).
+0	NA	IGF2	NA	RESULTS	Together, in vitro and in vivo studies indicate that the T2D-protective A allele cause a reduction of the expression of IGF2 isoform 2 via disruption of exon 1-2 splicing
+0	NA	NA	rs149483638	FIG	rs149483638 prevents splicing between exon 2 in liver and in adipose tissue.
+0	NA	IGF2	NA	FIG	The dosage of the T2D-protective A allele is correlated with lower expression of IGF2 isoform 2 (as measured by expression levels of the exon 1-2 junction) in liver (GG, n = 21; GA, n = 9; AA, n = 4) (A) and in adipose tissue (GG, n = 83; GA, n = 43; AA, n = 5) (B)
+0	NA	IGF2	NA	RESULTS	Collectively, our results suggested that decreased expression of IGF2 isoform 2 is associated with decreased risk of T2D.
+0	diabetes	IGF2	NA	RESULTS	We formally tested the association between expression of IGF2 isoform 2 and T2D status and glycemic traits relevant to T2D in homozygous noncarriers (GG) and observed reduced expression of the isoform 2 in visceral adipose tissue in individuals without diabetes compared with those with T2D (P = 0.003) (Fig.
+0	NA	NA	NA	RESULTS	4A).
+0	NA	IGF2	NA	RESULTS	"This finding provides a link between the genetic association, gene expression, and T2D risk, suggesting that a ""dose-response"" curve may exist between IGF2 isoform 2 expression and T2D risk"
+0	NA	IGF2	NA	FIG	Expression of IGF2 isoform 2 is associated with T2D and HbA1c.
+0	NA	IGF2	NA	FIG	A: Boxplots representing the expression of IGF2 isoform 2 across T2D case and control subjects in individuals homozygous for the G common allele.
+0	NA	IGF2	NA	FIG	The linear model P value represents the association between IGF2 isoform 2 expression, adjusted by age, BMI, and sex.
+0	diabetes	IGF2	NA	FIG	B: IGF2 isoform 2 positively correlates with higher HbA1c in participants without diabetes.
+0	NA	NA	NA	FIG	The gray area limited by the dashed red lines represents the 95% CI of the slope of the linear regression.
+0	NA	NA	NA	FIG	Patients with HbA1c above 6.5% did not have T2D according to the diagnostic criteria of Mexico at the time of extraction, as HbA1c was not considered a criterion in Mexico at the time of extraction.
+0	NA	NA	NA	FIG	Therefore, none of the subjects were receiving any glucose-lowering treatment.
+0	NA	IGF2	NA	FIG	For clarity, as the genotype is strongly associated with IGF2 isoform 2 expression, only individuals carrying the GG genotype are plotted in A and B
+0	NA	IGF2	NA	RESULTS	Furthermore, expression of IGF2 isoform 2 in visceral adipose tissue is positively correlated with plasma glycated hemoglobin (HbA1c) in individuals without T2D, or untreated subjects with T2D, in homozygous noncarriers (GG) (P = 0.004) (Fig.
+0	NA	NA	NA	RESULTS	4B).
+0	NA	IGF2	NA	RESULTS	We did not detect significant associations between IGF2 isoform 2 expression and glycemic traits or T2D status in the liver, possibly due to smaller sample size and, therefore, reduced statistical power for this tissue.
+0	NA	IGF2	NA	RESULTS	We also did not find associations between the expression of isoform 1 and HbA1c or T2D in either adipose tissue or liver, suggesting the protective effect is specific to IGF2 isoform 2 (Supplementary Fig.
+0	NA	NA	NA	RESULTS	7D and E).
+0	NA	IGF2	rs149483638	RESULTS	Overall, these results suggest that pharmacological inhibition of IGF2 isoform 2 levels or activity could recapitulate the protective effect of the rs149483638 variant
+0	NA	NA	rs149483638	RESULTS	To assess potential negative effects of isoform 2 perturbation, we screened available data sets containing information on humans homozygous for the A allele of rs149483638.
+0	NA	NA	NA	RESULTS	In the Exome Aggregation Consortium database (ExAC) (http://exac.broadinstitute.org), we observed that there were 240 AA homozygotes (isoform 2 knockouts) within the Latin American population, all of whom were free of severe clinically recognized pediatric diseases.
+0	NA	NA	NA	RESULTS	Furthermore, within the discovery and replication cohorts, we identified 293 AA homozygous individuals for whom clinical history of other diseases and fertility records were available and compared them to up to 6,407 GG homozygous individuals.
+0	NA	NA	NA	RESULTS	We found that A allele homozygotes show reduced risk for T2D (OR = 0.63, P = 0.004) but do not exhibit increased prevalence of other diseases and have indistinguishable reproductive performance based on number of children and percentage of individuals with children (Supplementary Table 6 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	9).
+0	NA	NA	rs149483638	RESULTS	We also performed a phenome-wide association analysis in the GERA cohort, which revealed that rs149483638 is not associated with increased risk for any of the 18 available relevant medical conditions (Supplementary Table 7 and Fig.
+0	NA	NA	NA	RESULTS	5).
+0	NA	IGF2	NA	RESULTS	Together, these data suggest that reduced activity or levels of IGF2 isoform 2 do not a have a negative impact on general health or fertility
+0	NA	NA	rs149483638	FIG	Phenome-wide analysis of rs149483638 variant.
+0	NA	NA	NA	FIG	The protective variant was tested for association across 18 different disease traits previously categorized in the subsample of GERA cohort of Latino ancestry (5,896 individuals).
+0	NA	NA	rs149483638	FIG	Although the rs149483638 variant was associated with reduced risk of T2D, there was no significant association seen for other 18 conditions.
+0	NA	NA	NA	FIG	Association analyses were done by logistic regression analyses, considering additive model, and correcting for age, BMI, sex, and the first two principal components to correct for population stratification.
+0	IBS	NA	NA	FIG	IBS, irritable bowel syndrome; Mac.
+0	aggressive disease	NA	NA	FIG	Degen., macular degeneration; Psychiatric, any psychiatric condition; PVD, peripheral vascular disease; Stress, acute reaction to stress
+0	NA	NA	NA	DISCUSS	Human genetics has proved successful in uncovering genetic risk factors for both Mendelian and complex diseases.
+0	NA	NA	NA	DISCUSS	In addition to identifying individuals at increased risk for disease, knowledge of genetic variants that influence disease risk can be translated for clinical impact by identifying new potential therapeutic targets and improving the success rate of drug development.
+0	NA	NA	NA	DISCUSS	In particular, loss-of-function variants that are protective for disease are attractive drug development targets, as their reduced function can be mimicked by pharmacological inhibition.
+0	NA	IGF2	NA	DISCUSS	Through whole-genome screening of protein-coding variants in Latin Americans, we have identified a protective T2D variant that disrupts a protein-coding exon of IGF2, leading to lower IGF2 isoform 2 expression.
+0	diabetes	IGF2	NA	DISCUSS	Even in the absence of the protective variant, lower expression of IGF2 isoform 2 is observed in subjects without T2D compared with those with T2D and correlates with lower HbA1c levels in individuals with diabetes.
+0	NA	IGF2	NA	DISCUSS	Importantly, we found no genetic evidence that loss of IGF2 isoform 2 has a major negative impact on human health or reproduction.
+0	NA	IGF2	NA	DISCUSS	These findings suggest that reducing IGF2 isoform 2 levels could provide therapeutic benefit for patients with T2D without adverse side effects
+0	NA	IGF2	NA	DISCUSS	Although a role for IGF2 in T2D and related glycemic traits has been previously suggested, our findings validate IGF2 as a gene relevant to T2D pathophysiology in human populations.
+1	NA	INS	NA	DISCUSS	Recent human genetic studies in Latino and African American populations identified T2D risk associations at the INS-IGF2 locus; however, the effector gene responsible for the modified T2D risk was not identified.
+0	NA	IGF2	NA	DISCUSS	Here, we identified a protective signal for which the most probable causal variant is functionally validated as having an impact on IGF2 isoform 2 expression
+0	NA	NA	rs149483638	DISCUSS	It is unclear why the allele frequency of rs149483638 shows so much variability across populations.
+0	NA	NA	NA	DISCUSS	Even within different Latin American populations, the MAF ranges from ~5% in Puerto Ricans to ~23% in Peruvians.
+0	NA	NA	NA	DISCUSS	In Mexicans, the frequency increases with the percentage of Native American ancestry.
+0	NA	NA	NA	DISCUSS	Future analyses should clarify whether this protective variant underwent positive selection or its variable frequency is a result of genetic drift
+0	NA	IGF2	NA	DISCUSS	IGF2 has previously been implicated in T2D due to well-established metabolic functions of isoform 1.
+0	NA	IGF2	NA	DISCUSS	IGF2 is a peptide hormone with 47% amino acid sequence identity to insulin that regulates growth and metabolism through binding with insulin receptor, insulin-like growth factor 1 receptor, and insulin-like growth factor 2 receptor.
+0	NA	IGF2	NA	DISCUSS	IGF2 regulates fetal development and differentiation and has an important role in embryonic growth.
+0	NA	IGF2	NA	DISCUSS	In the adult, IGF2 is expressed in several tissues, with highest levels in liver, where it is synthesized and released into the periphery.
+0	NA	IGF2	NA	DISCUSS	In the pancreas, IGF2 promotes beta-cell proliferation and survival.
+0	growth retardation	IGF2	NA	DISCUSS	Dysregulation of IGF2 expression has been reported in several metabolic diseases, including growth disorders, obesity, and diabetes
+0	NA	IGF2	NA	DISCUSS	In mice, which only express isoform 1, Igf2 inactivation promotes brown preadipocyte differentiation, protecting from insulin resistance.
+0	hyperglycemia	IGF2	NA	DISCUSS	On the other hand, Igf2 isoform 1 overexpression in murine pancreatic beta-cells causes beta-cell dysfunction that ultimately leads to hyperglycemia.
+0	NA	IGF2	NA	DISCUSS	In humans, IGF2 has also been indirectly implicated in T2D due to the association of variants in IGF2 mRNA binding protein 2 (encoded by IGF2BP2) with T2D.
+0	obese	IGF2BP2	NA	DISCUSS	The protein encoded by IGF2BP2, IMP2, regulates IGF2 mRNA levels, and mice deficient for Igf2bp2 are resistant to diet-induced obesity and show higher glucose tolerance and insulin sensitivity.
+0	NA	IGF2	NA	DISCUSS	Although these studies support a potential role for IGF2 in T2D pathogenesis, they are based on the function of IGF2 isoform 1, while the function(s) of IGF2 isoform 2:the isoform implicated in our study:remains unknown.
+0	NA	IGF2	NA	DISCUSS	Future studies are needed to elucidate how IGF2 isoform 2 differs from isoform 1 in its regulation and its effects on human cellular metabolism and physiology
+0	NA	IGF2	NA	DISCUSS	Though the molecular and cellular links between reduced expression of IGF2 isoform 2, glucose regulation, and T2D have not yet been established, the observations reported here suggest inhibition of IGF2 isoform 2 might be a potential strategy for prevention or treatment of T2D.
+0	NA	NA	NA	DISCUSS	Previously identified loss-of-function mutations that cause beneficial metabolic phenotypes have spurred the development of recently approved drugs.
+0	oral antidiabetes	NA	NA	DISCUSS	One such example is that of sodium-glucose cotransporter 2 inhibitors, a new class of oral antidiabetes agents that lower blood glucose and, for at least one agent in the class, also reduce cardiovascular events among individuals at high risk for such events.
+0	familial renal glucosuria	SLC5A2	NA	DISCUSS	These agents mimic physiology observed in familial renal glucosuria, a condition caused by loss-of-function mutations in SLC5A2, which encodes sodium-glucose cotransporter 2.
+0	NA	IGF2	NA	DISCUSS	Therefore, perturbation of IGF2 isoform 2, which protects against T2D without observable adverse phenotypes in humans, has potential for development as a novel metabolic therapy.
+0	NA	IGF2	NA	DISCUSS	Our findings that reduced expression of IGF2 isoform 2 is correlated with lower prevalence of T2D in individuals who do not carry the protective allele further suggests that such a treatment could provide therapeutic benefit beyond Latin American populations
+0	genetic diseases	NA	NA	DISCUSS	Alternative splicing is a major source of proteome diversity, and missplicing of genes is a cause of several Mendelian diseases.
+0	NA	NA	NA	DISCUSS	Here, we demonstrate that disruption of a canonical splice-acceptor site is also associated with altered risk of a complex disease.
+0	NA	IGF2	NA	DISCUSS	This mechanism of variant action suggests a specific pharmacological strategy for T2D, namely, inducing exon skipping of IGF2 exon 2 to prevent IGF2 isoform 2 expression.
+0	Duchenne muscular dystrophy	DMD	NA	DISCUSS	Indeed, induction of exon-skipping through use of modified antisense oligonucleotides has been successfully applied as a molecular therapy for a form of Duchenne muscular dystrophy caused by a stop-coding mutation in exon 51 of DMD gene, and two drugs based on this idea are currently in advanced clinical trials.
+0	NA	IGF2	NA	DISCUSS	Overall, our identification of a T2D-protective splice variant in IGF2 suggests that modulating IGF2 isoform splicing, possibly in accessible hepatic tissue, could be a possible strategy for preventing or treating T2D and opens a new line of investigation to characterize the mechanism through which disruption of IGF2 isoform 2 protects against T2D
+0	NA	IGF2	NA	DISCUSS	In conclusion, genetic and functional evidence suggest a specific IGF2 isoform as functionally relevant for the T2D physiology.
+0	NA	NA	NA	DISCUSS	Loss of function of this isoform is associated with reduced risk of T2D and shows no evidence of increased risk for other diseases, highlighting this isoform as a potential therapeutic target for T2D.
+0	NA	IGF2	NA	DISCUSS	Our results open a new line of investigation to characterize the mechanism through which disruption of IGF2 isoform 2 protects against T2D

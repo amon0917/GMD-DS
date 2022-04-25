@@ -1,0 +1,90 @@
+0	Kidneys in Diabetes	NA	NA	ABSTRACT	The genetic determinants of diabetic nephropathy remain poorly understood.
+0	Kidneys in Diabetes	NA	NA	ABSTRACT	We aimed to identify novel susceptibility genes for diabetic nephropathy
+0	diabetes	NA	NA	ABSTRACT	We performed a genome-wide association study using 1000 Genomes-based imputation in type 1 diabetic patients comparing diabetic nephropathy cases with proteinuria with or without renal failure to controls with diabetes for more than 15 years and no evidence of renal disease
+0	NA	NA	NA	ABSTRACT	None of the SNPs tested in a discovery cohort composed of 683 cases and 779 controls reached genome-wide statistical significance.
+0	NA	NA	NA	ABSTRACT	The 46 top hits (p-value < 10-5) were then sought for first-stage analysis in US-GoKinD an independent population of 820 cases and 885 controls.
+1	Kidneys in Diabetes	SORBS1	NA	ABSTRACT	Two SNPs, in strong linkage disequilibrium with each other, located in the SORBS1 gene, were consistently and significantly (p < 10-4) associated with diabetic nephropathy.
+1	Kidneys in Diabetes	NA	NA	ABSTRACT	The minor rs1326934-C allele was less frequent in cases than in controls (0.34 vs 0.43) and was associated with a decreased risk for diabetic nephropathy: OR = 0.70 [0.60 - 0.82].
+0	Kidneys in Diabetes	NA	NA	ABSTRACT	However, this association was not observed in a second-stage with two additional diabetic nephropathy cohorts UK-ROI (p=0.15) and FINNDIANE (p = 0.44) totaling 2,142 cases and 2,494 controls.
+1	Kidneys in Diabetes	NA	NA	ABSTRACT	Altogether, the random-effect meta-analyzed rs1326934-C allele OR for diabetic nephropathy was 0.83 [0.72 - 0.96] (p = 0.009)
+1	Kidneys in Diabetes	SORBS1	NA	ABSTRACT	These data suggest that SORBS1 might be a gene involved in diabetic nephropathy
+0	Kidneys in Diabetes	NA	NA	INTRO	Diabetic nephropathy is a frequent condition affecting up to 40% of diabetes patients, and is a leading cause of end-stage renal disease.
+0	Kidneys in Diabetes	NA	NA	INTRO	The determinants of diabetic nephropathy are complex and include genetic factors, as supported by a strong familial aggregation of diabetic nephropathy
+0	Kidneys in Diabetes	NA	NA	INTRO	The precise nature of the genetic burden involved in diabetic nephropathy remains poorly understood.
+0	NA	NA	NA	INTRO	An alternative approach to candidate gene studies is to perform unbiased genome-wide association studies (GWAS).
+0	Kidneys in Diabetes	NA	NA	INTRO	To date, only a small number of GWAS for diabetic nephropathy have been performed.
+0	Kidneys in Diabetes	NA	NA	INTRO	Recently the GENIE consortium identified two loci associated with a population attributable risk of 0.5 to 10.5%; therefore, additional studies are needed to discover novel loci associated with diabetic nephropathy
+0	diabetes	NA	NA	INTRO	The aim of our research was to conduct a GWAS in a large-scale case-control study including French and Danish patients, based on latest 1000 Genomes imputation techniques, and to replicate our findings in available cohorts of patients with type 1 diabetes from European ancestry
+0	NA	NA	NA	METHODS	Studied participants were of White European origin.
+0	diabetes	NA	NA	METHODS	Briefly, patients were classified as cases or controls at the time of recruitment in all but the FINNDIANE study, where they were selected among a population-based consecutive collection of people with type 1 diabetes, and nephropathy status of the patients was defined based on the latest available data.
+0	NA	NA	NA	METHODS	All cohorts were multi-centric except the single-center LEACE study.
+0	NA	NA	NA	METHODS	Local ethics committees approved the study protocols.
+0	NA	NA	NA	METHODS	All participants gave written informed consent
+0	diabetes	ADA	NA	METHODS	Type 1 diabetes was diagnosed using ADA criteria: rapid definitive insulin requirement (within one year of diagnosis) and age at diabetes onset below 31 or 36 years, differing according to each cohort (Supplementary Table 1)
+0	proteinuria	NA	NA	METHODS	Phenotype determination was based on the clinical criteria proposed by the US-GoKinD study: cases had proteinuria with or without renal failure.
+0	proteinuria	NA	NA	METHODS	Proteinuria was uniformly defined on at least two of three sterile urine collections (details in Supplementary Table 1).
+0	diabetes	NA	NA	METHODS	Controls had long-term duration of diabetes (over 15 years), normo-albuminuria, without renal failure and were not prescribed drugs that blockade the renin-angiotensin system.
+0	NA	NA	NA	METHODS	Microalbuminuric patients were not considered for the current analyses
+0	NA	NA	NA	METHODS	The general research strategy adopted in this project is summarized in Supplementary Figure 1.
+0	NA	NA	NA	METHODS	Brief descriptions of the studied cohorts and patients can be found in the Supplementary Tables 1 & 2
+0	NA	NA	NA	METHODS	We ultimately assessed expression of identified gene in a post-hoc analysis of micro-dissected glomerular and tubule samples (Supplementary Tables 4 & 5)
+0	NA	NA	NA	METHODS	Genotyping platforms, quality control and imputation are detailed in ESM method
+0	Kidneys in Diabetes	NA	NA	METHODS	A logistic regression analysis was conducted to evaluate the association of each imputed SNP with diabetic nephropathy under an additive genetic model (allele dosage used as covariate for characterizing the tested SNP).
+0	NA	NA	NA	METHODS	Analyses were adjusted for age, sex and the first four principal components derived from the genome-wide genotyped SNPs computed by the Eigenstrat program.
+0	NA	NA	NA	METHODS	Association analyses were performed using the mach2dat (v 1.0.19) software
+0	Kidneys in Diabetes	p<10-5	NA	METHODS	All SNPs with suggestive evidence of association with diabetic nephropathy (p<10-5) were moved forward in the first-stage study.
+0	Kidneys in Diabetes	NA	NA	METHODS	Their center- and sex- adjusted association with diabetic nephropathy was tested by use of the SNPTEST program (https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html#introduction)
+0	Kidneys in Diabetes	NA	NA	METHODS	In the second-stage samples, association of candidate SNP with diabetic nephropathy was tested using the Cochran-Armitage (CA) trend test.
+0	NA	NA	NA	METHODS	Odds ratios derived from the application of the CA test in the four case-controls samples were finally combined into a random-effect model based meta-analysis using the GWAMA program
+0	NA	NA	NA	RESULTS	None of the 11,133,962 tested SNPs achieved the statistical threshold of 5 x 10-8 for declaring genome-wide significance (Supplementary Figures 2 & 3).
+0	NA	NA	NA	RESULTS	All SNPs with suggestive evidence for association at p < 10-5 (n = 46) were selected for further association testing in a first independent sample of 820 cases and 885 controls, the US-GoKinD (Supplementary Figure 1)
+1	Kidneys in Diabetes	NA	rs11188343	RESULTS	After Bonferroni correction, three SNPs demonstrated significant association with diabetic nephropathy: rs11188343 (p = 9.06 x10-5), rs1326934 (p = 9.85 x 10-5) and rs4917695 (p = 1.27 x 10-4) (Supplementary Table 3).
+1	NA	SORBS1	NA	RESULTS	These SNPs mapped to SORBS1 gene and were in nearly complete linkage disequilibrium (r2~ 1)
+1	Kidneys in Diabetes	NA	NA	RESULTS	In the discovery GWAS, the minor rs1326934-C allele was less frequent in cases than in controls (0.34 vs. 0.43) and was associated with a decreased risk for diabetic nephropathy of OR = 0.70 [0.60 - 0.82] (p = 7.87 x 10-6).
+1	NA	NA	NA	RESULTS	In the first-stage population, consistent association was observed with the rs1326934-C allele at lower frequency in cases (combined statistical evidence for association of p = 3.52 x 10-9) (Table 1)
+0	Kidneys in Diabetes	NA	rs13626934	RESULTS	To validate further the association of rs13626934 with diabetic nephropathy, we studied it in two additional case-control studies composed of 823 cases and 903 (UK-ROI) and 1,335 cases and 1,633 controls (FinnDiane) (Table 1).
+0	NA	NA	NA	RESULTS	In UK-ROI, the same trend of association, though not significant (p = 0.15), was observed: the rs13626934-C allele was less frequent in cases than in controls (0.42 vs. 0.45).
+0	NA	NA	NA	RESULTS	However, no association was observed in the FinnDiane population (p = 0.44) where the allele frequency of C allele was very similar in cases and controls (0.27 vs. 0.28)
+0	Kidneys in Diabetes	NA	NA	RESULTS	Combining the results of the four studies into a fixed-effect meta-analysis leads to an overall OR for diabetic nephropathy of 0.84 [0.79-0.90] (p = 5.69 x 10-7).
+0	Kidneys in Diabetes	NA	NA	RESULTS	However, this association was statistically heterogeneous across the four samples (p = 3.94 x 10-3), and the random-effect meta-analyzed OR for diabetic nephropathy was then 0.83 [0.72 - 0.96] (p = 0.009).
+0	NA	NA	NA	RESULTS	When excluding FINNDIANE patients, meta-analyzed OR was 0.795 [0.733 - 0.861], (p = 2.40 x 10-8)
+1	diabetes	SORBS1	NA	RESULTS	SORBS1 gene over-expression was observed in tubules of type 2 diabetes patients compared to controls (Figure 1a).
+1	NA	SORBS1	NA	RESULTS	We also observed significant inverse correlation between SORBS1 expression and estimated glomerular filtration rate (eGFR) (Figure 1b).
+1	Kidneys in Diabetes	SORBS1	rs1326934	RESULTS	Among the other genes mapping within 250kb of rs1326934, SORBS1 was the one demonstrated the strongest correlation with eGFR in control and diabetic nephropathy tubule samples (Figure 1c).
+1	NA	SORBS1	NA	RESULTS	SORBS1 was also found highly expressed in renal tubules and medium expressed in glomeruli at a protein level (www.proteinatlas.org)
+0	Kidneys in Diabetes	NA	NA	DISCUSS	In this report, a multi-stage based GWAS looked for novel susceptibility genes associated with diabetic nephropathy in patients with type 1 diabetes.
+1	Kidneys in Diabetes	SORBS1	rs1326934	DISCUSS	We did not detect any new loci passing genome-wide significance but observed promising evidence for association of SORBS1 rs1326934 (or any SNP in complete LD with it) with diabetic nephropathy, in three of four of the studied populations.
+0	NA	NA	NA	DISCUSS	Given the frequency of the risk allele observed in our control populations (i.e.
+0	Kidneys in Diabetes	NA	NA	DISCUSS	~0.55) and the associated OR for diabetic nephropathy (~1.25), the population attributable risk of the identified polymorphisms would be 12%
+0	NA	NA	NA	DISCUSS	No association was observed in the Finish population, which exhibited a marked difference in allele frequency at the candidate SNP compared to the three other studied populations.
+1	NA	SORBS1	NA	DISCUSS	We further interrogated databases with genome-wide genotype and gene expression but did not observe any association in monocytes, macrophages, hepatocytes, adipocytes nor endothelial cells with the SORBS1 gene expression.
+1	NA	SORBS1	rs1188343	DISCUSS	Nevertheless, the SORBS1 rs1188343 (in complete LD with the rs1326934) was predicted in the RegulomeDB database (http://regulome.stanford.edu) to be located at a potential binding site either for RFX3 or for histone interaction
+0	Kidneys in Diabetes	SORBS1	NA	DISCUSS	The sorbin protein, coded by SORBS1, was found to be differentially up-regulated in glomeruli of rats with DN compared to rats without diabetic nephropathy.
+0	NA	NA	NA	DISCUSS	High tubular and moderate glomerular expression of sorbin protein was observed in human kidney samples.
+1	diabetes	SORBS1	NA	DISCUSS	These findings from type 2 diabetes patients provide additional support for the association of SORBS1 with diabetic nephropathy.
+1	NA	SORBS1	NA	DISCUSS	Gene expression changes of the SORBS1 were easier to detect in tubules, as SORBS1 has a higher tubular expression.
+1	NA	SORBS1	NA	DISCUSS	Although SORBS1 expression was significantly up-regulated only in tubules, we cannot exclude the importance of glomerular SORBS1.
+0	Kidneys in Diabetes	NA	NA	DISCUSS	Diabetic nephropathy not only involves glomeruli but also tubules, and genes identified through GWAS are likely to impact both renal structures
+0	Kidneys in Diabetes	insulin	NA	DISCUSS	The function of sorbin is not fully established but we speculate it plays a key role in several processes involved in diabetic nephropathy including insulin resistance and cytoskeleton architecture.
+0	NA	NA	NA	DISCUSS	Sorbin acts in the genesis of stress fibers and might then be involved in podocyte alterations of the slit diaphragm barrier
+0	diabetes	NA	NA	DISCUSS	The lack of homogenous replicated associations in our work is unlikely due to clinical heterogeneity of the studied populations as the same definitions for type 1 diabetes and diabetic nephropathy were used.
+1	NA	SORBS1	NA	DISCUSS	Conversely, the different patterns of allelic heterogeneity and LD across European populations may explain the lack of replication of the SORBS1 signal in the Finnish population.
+1	Kidneys in Diabetes	SORBS1	NA	DISCUSS	Characterizing the exact variability at the SORBS1 locus is needed to validate SORBS1 as a new susceptibility gene for diabetic nephropathy and identify the disease-associated functional variant(s)
+0	NA	NA	NA	DISCUSS	The main limitation of the present study is its design.
+0	NA	NA	NA	DISCUSS	We adopted a multi-stage strategy using all available GWAS resources imputed for 1000G reference dataset at the time this work was launched.
+0	NA	NA	NA	DISCUSS	A more powerful approach would have been to conduct a comprehensive meta-analysis of the four populations.
+0	NA	NA	NA	DISCUSS	An international initiative has been set up to overcome this limitation.
+0	Kidneys in Diabetes	NA	NA	DISCUSS	Another caveat is that the diabetic nephropathy phenotype was defined by the presence of proteinuria, regardless renal function, and genetic susceptibility to proteinuria might differ from genetic predisposition to renal failure.
+0	Kidneys in Diabetes	NA	NA	DISCUSS	However, the diabetic nephropathy cohorts we used all had this combined diabetic nephropathy phenotype permitting international collaboration
+1	Kidneys in Diabetes	SORBS1	NA	DISCUSS	In conclusion, our study provides preliminary support for SORBS1 gene acting as a new susceptibility gene for diabetic nephropathy
+1	NA	SORBS1	NA	FIG	The y-axis represents the relative expression of the SORBS1 transcript.
+0	Kidneys in Diabetes	NA	NA	FIG	Control samples: white bars, diabetic kidney disease (DKD): black bars.
+1	NA	SORBS1	NA	FIG	The tubular expression of SORBS1 is significantly up-regulated in DKD compared to control samples in tubules (P = 0.0006) (a)
+1	NA	SORBS1	NA	FIG	The y-axis shows the relative normalised tubular expressions of SORBS1 (sorbin and SH3 domain containing 1), while the x-axis represents eGFR (estimated glomerular filtration rate, ml/min/1.73m2) for each sample.
+0	NA	NA	NA	FIG	Each dot represents transcript levels and eGFR values from a single kidney sample.
+0	NA	NA	NA	FIG	The line represents the fitted linear correlation values (b)
+1	NA	NA	rs1326934	FIG	The x-axis represents the genomic position of each gene on chromosome 10 (q24.1) in the 500 kb vicinity of rs1326934 and rs11188343 loci (triangle).
+0	NA	NA	NA	FIG	The y-axis represents the negative logarithm of the p-value (significance) between the expression of each gene and eGFR (estimated glomerular filtration rate, ml.min-1 per 1.73m2).
+1	NA	SORBS1	rs1326934	FIG	Not only the SORBS1 transcript, but also other transcripts correlate with renal function in the vicinity of rs1326934 and rs11188343 loci.
+0	NA	PDLIM1	NA	FIG	Gene symbols are official symbols approved by HGNC (HUGO Gene Nomenclature Committee): PDLIM1 (PDZ and LIM domain 1), ALDH18A1 (aldehyde dehydrogenase 18 family, member A1), TCTN3 (tectonic family member 3) and ENTPD1 (ectonucleoside triphosphate diphosphohydrolase 1) (c)
+1	Kidneys in Diabetes	SORBS1	rs1326934	TABLE	Association of SORBS1 rs1326934 with diabetic nephropathy in the four studied cohort

@@ -1,0 +1,135 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	Genome-wide association studies (GWAS) of multiple populations with distinctive genetic and lifestyle backgrounds are crucial to the understanding of Type 2 Diabetes Mellitus (T2DM) pathophysiology.
+0	NA	NA	NA	ABSTRACT	We report a GWAS on the genetic basis of T2DM in a 3,286 Lebanese participants.
+0	NA	NA	NA	ABSTRACT	More than 5,000,000 SNPs were directly genotyped or imputed using the 1000 Genomes Project reference panels.
+1	NA	CDKAL1	rs7766070	ABSTRACT	We identify genome-wide significant variants in two loci CDKAL1 and TCF7L2, independent of sex, age and BMI, with leading variants rs7766070 (OR = 1.39, P = 4.77 x 10-9) and rs34872471 (OR = 1.35, P = 1.01 x 10-8) respectively.
+0	NA	NA	NA	ABSTRACT	The current study is the first GWAS to find genomic regions implicated in T2DM in the Lebanese population.
+1	NA	CDKAL1	NA	ABSTRACT	The results support a central role of CDKAL1 and TCF7L2 in T2DM susceptibility in Southwest Asian populations and provide a plausible component for understanding molecular mechanisms involved in the disease
+0	Type 2 diabetes	NA	NA	INTRO	Type 2 diabetes mellitus (T2DM) is a chronic metabolic disease with a complex pathogenesis defined by genetic predisposition and environmental factors.
+0	NA	NA	NA	INTRO	In Lebanon, T2DM was evaluated on 8,050 Lebanese cases in 1990.
+0	NA	NA	NA	INTRO	Its prevalence and incidence, similar to the international averages, were 5.0% and 1.5 to 1.7% respectively.
+0	glucose homeostasis	NA	NA	INTRO	In 1992, a study on 436 cases from all over the Lebanese territory gave prevalence of 7 to 8% for T2DM and 10 to 11% for impaired glucose tolerance.
+0	NA	NA	NA	INTRO	In 2005, a study on 3,000 exclusively Lebanese individuals from Greater Beirut showed a prevalence of 11.3% which increased with older age.
+0	NA	NA	NA	INTRO	The combined prevalence of previously and newly diagnosed T2DM was 15.8%.
+0	diabetes	NA	NA	INTRO	At that time, in the U.S., 6.3% of the population had T2DM: 4.5% diagnosed and 1.8% undiagnosed according to the 2004 National Diabetes Fact Sheet.
+0	NA	NA	NA	INTRO	These results suggest that the prevalence of T2DM in Greater Beirut is relatively high and is increasing among the Lebanese population
+0	diabetes	NA	NA	INTRO	Furthermore, according to the latest figures in the American National Diabetes Statistics Report, 29.1 million children and adults in the United States have diabetes, and 86 million people have prediabetes.
+0	hypertension	NA	NA	INTRO	The pathogenesis of T2DM is closely associated with a positive family history, male gender, age over 45 years, overweight, hypertension, and abnormal lipid levels.
+0	NA	NA	NA	INTRO	In addition, the genetic contribution to T2DM is well recognized with a total of 91 established associated susceptibility loci.
+0	NA	NA	NA	INTRO	The common variants in the reported loci however account for only a small proportion of the heritability of T2DM and the functional role of most of these variants remains far from clear.
+0	NA	NA	NA	INTRO	It is possible that a large number of highly-penetrant but rare T2DM susceptibility genetic variants remain to be identified.
+0	genetic diseases	NA	NA	INTRO	Additional genome-wide explorations including whole genome and exome sequencing in well-established groups of patients and controls may unravel these additional important genetic disease contributors which will undoubtedly help us understand the complex mechanisms involved in the development of T2DM
+0	NA	NA	NA	INTRO	The prevalence of T2DM is distinctly variable across populations and this variability adds to the disease complexity.
+0	NA	NA	NA	INTRO	This variability could be due to differences in lifestyle factors such as dietary habits, as well as behavioral patterns among populations.
+0	NA	NA	NA	INTRO	Multiple established T2DM susceptibility genetic loci have been identified from previous Genome Wide Association Studies (GWAS) in populations of European and Asian ethnicities.
+0	NA	NA	NA	INTRO	It is however, equally important to replicate the behavior of these previously discovered associated variants in ethnically different populations and to identify novel predisposing genetic factors that may be stronger in their association than in previously studied populations
+0	NA	NA	NA	INTRO	To identify T2DM susceptibility loci in the Lebanese population, we performed a GWAS of more than 5,000,000 SNPs, which were directly genotyped or imputed using the 1000 Genomes Project reference panels.
+0	NA	NA	NA	INTRO	Our study enrolled 1,388 patients and 1,902 non-diabetic subjects with detailed cross-sectional demographic and clinical information.
+0	NA	NA	NA	INTRO	Previously, targeted T2DM susceptibility SNP replication studies have been conducted in the Lebanese population.
+0	NA	NA	NA	INTRO	However, this study seeks to establish a baseline association for T2DM in the Lebanese population and thus it is the first genome-wide scan to find genomic regions implicated in T2DM.
+0	diabetes	NA	NA	INTRO	We also make use of recent reference data from the 1000 Genomes Project, which was previously shown to identify novel and refined associations for type 2 diabetes mellitus
+0	NA	NA	NA	RESULTS	The study population has a mean age of 62.9 (+-11.1) (Table 1).
+0	NA	NA	NA	RESULTS	The healthy control group has a mean age of 62.40 (+-11.82), compared to 63.62 +- (9.98) for the T2DM patients.
+0	NA	NA	NA	RESULTS	Sixty-three percent of the individuals were males with 40.05 percent suffering from T2DM.
+0	NA	NA	NA	RESULTS	The mean BMI was of 28.1 (+-4.6) according to standard measures.
+0	NA	NA	NA	RESULTS	52 samples that failed genotype call rate (<95%) and that showed relatedness (kinship coefficient range > 0.0442), were removed
+0	NA	NA	NA	RESULTS	37995922 sites were imputed.
+0	NA	MAF	NA	RESULTS	The final set included 5891794 SNPs kept after QC (MAF > 0.05, AIMs removal).
+0	NA	NA	NA	RESULTS	The accuracy of the genotype imputation depends on the array SNP coverage and the similarity of haplotypes between the study dataset and the reference panels.
+0	NA	NA	NA	RESULTS	The Lebanese population was previously shown to be genetically very close to Europeans that are well represented in the 1000 Genomes Project references.
+0	NA	NA	NA	RESULTS	This resulted in high imputation accuracy as shown by Impute2 certainty metric (Figure 1).
+0	NA	NA	NA	RESULTS	Figure 1 shows biased imputation confidence depending on chip with the HumanOmniExpress (~700,000 SNPs) having better imputation accuracy compared to the Quad BeadChips (~550,000 SNPs).
+0	NA	NA	NA	RESULTS	However, leading principal components reveals no bias regarding population coverage or stratification between chips (FigureS1)
+0	NA	NA	NA	RESULTS	To map genetic loci associated with T2DM, genotyped and imputed data in 3,286 Lebanese individuals were tested for association with the disease (Figure 2).
+0	NA	NA	NA	RESULTS	We identify variations located on chromosomes 4, 6, 9, 10, 12, and 18 that show trends of association with T2DM reaching P < 10-5 under an additive model (Supplementary Table 1).
+1	NA	CDKAL1	rs7766070	RESULTS	Seven variants located in CDKAL1 (cyclin-dependent kinase 5 regulatory subunit associated protein 1-like 1) reached genome-wide significance (P < 5 x 10-8) with lead signal rs7766070 (OR = 1.38, P = 9.37 x 10-9) (Figure 3, Table 2)
+1	NA	CDKAL1	NA	RESULTS	Adjustment for sex, age, and BMI (Table 2) identified 16 additional genome-wide significant variants in CDKAL1 and TCF7L2 (Transcription factor 7-like 2) and showed that association of these two loci with T2DM appear to be independent from age and BMI.
+0	NA	NA	NA	RESULTS	These variants are also added to Table S1 along with imputation scores
+0	NA	NA	NA	RESULTS	The genomic control inflation factor (lambda) which compares observed association statistics against the expected distribution, was 1.073 suggesting possible but marginal over-dispersion of the association statistics (Figure 4)
+0	NA	ROR2	NA	RESULTS	SNPs of interest that showed trend of association but did not reach genome-wide significance were 12 variants on chromosome 9 (Supplementary Table 1), overlapping a region with microRNA 3910-1 and 3910-2 downstream the gene ROR2 (receptor tyrosine kinase-like orphan receptor 2)
+1	NA	NA	rs7766070	RESULTS	Three of the SNPs, rs7766070, rs9368222, and rs34872471, identified in Table 2 were significant in DIAGRAM consortium.
+0	NA	NA	rs10440833	RESULTS	One other, rs10440833, was identified but not genome wide significant (Table S2), but which may be of particular interest in Middle Eastern populations.
+0	NA	NA	NA	RESULTS	Table S2 lists DIAGRAM consortium study SNPs along with comparisons with our results and imputation confidence scores
+0	NA	NA	NA	DISCUSS	T2DM global prevalence has been steadily increasing over the past 50 years and is today considered a major international health concern.
+0	NA	NA	NA	DISCUSS	In addition to environmental factors such as diet and lifestyle, genetic susceptibility appears to have substantial role in the etiology of T2DM.
+0	NA	NA	NA	DISCUSS	Furthermore, T2DM risk alleles show significant disparity in frequencies across worldwide populations.
+0	genetic diseases	NA	NA	DISCUSS	Studies analyzing distribution patterns of genetic diseases found that T2DM risk alleles demonstrated the most extreme differentiation, with population frequencies decreasing from Sub-Saharan Africa, and through Europe to East Asia
+0	NA	NA	NA	DISCUSS	The current work contributes to the ongoing worldwide effort to identify the genetic factors that affect the risk of T2DM.
+0	NA	NA	NA	DISCUSS	We provide analysis in a novel population that is highly admixed with ancestral components from the Middle East, Europe, Central Asia, and sub-Saharan Africa.
+0	NA	NA	NA	DISCUSS	The risk alleles identified in the Lebanese population could assist in understanding the disparity in T2DM prevalence across worldwide populations
+0	NA	NA	NA	DISCUSS	We report the first genome-wide scan for genetic susceptibility to T2DM in Lebanese subjects.
+1	NA	CDKAL1	NA	DISCUSS	We demonstrate strong association of T2DM with CDKAL1 and TCF7L2 genes previously shown to predispose to this condition.
+0	NA	NA	NA	DISCUSS	A large number of genetic variants have recently been identified to be associated with T2DM in GWASs in Europeans.
+0	NA	NA	NA	DISCUSS	The elucidation of the genetic mechanisms responsible for the heterogeneous condition of T2DM in different ethnicities may give important contributions to better understand the complexity of this disease.
+0	NA	TCF7L2	NA	DISCUSS	While some associations are consistent across different ethnic groups, some, like the TCF7L2 variants, have been found to be heterogeneous.
+1	NA	CDKAL1	NA	DISCUSS	Our study confirmed genome-wide association of 23 different variants across the CDKAL1 and TCF7L2 genes previously reported to play a role in T2DM in different populations.
+0	NA	NA	NA	DISCUSS	This association remained significant after adjustment for sex, age, and BMI, suggesting that these risk factors are not likely to be major contributors to the observed association
+1	NA	CDKAL1	NA	DISCUSS	After adjusting for age and BMI, most variants in CDKAL1 and TCF7L2 showed stronger association to T2DM, indicating that these genes confer susceptibility to T2DM independently from the classical clinical risks.
+0	NA	NA	NA	DISCUSS	Functional studies of these two genes show their implication in down-regulating blood glucose level.
+1	pancreatic islet enhancers	CDKAL1	NA	DISCUSS	CDKAL1 encodes a 65 kD protein of unknown function expressed in pancreatic islet and skeletal muscle.
+1	NA	CDKAL1	NA	DISCUSS	CDKAL1 shows homology with CDK5 regulatory subunit associated protein 1 (CDK5RAP1), an inhibitor of CDK5 activation.
+0	pancreatic	CDK5	NA	DISCUSS	CDK5 plays a role in the regulation of pancreatic beta cell function by down-regulating insulin expression.
+0	blood glucose	NA	NA	DISCUSS	The TCL7L2 gene product is a high mobility group (HMG) box-containing transcription factor implicated in blood glucose homeostasis.
+0	NA	NA	NA	DISCUSS	TCL7L2 acts through regulation of proglucagon through repression of the proglucagon gene in enteroendocrine cells via the Wnt signaling pathway
+0	NA	NA	NA	DISCUSS	T2DM is a socio-economic burden in Lebanon and genetic studies aim at posing important public health questions in regard to strategies for diagnosis, treatment, and prevention of the disease.
+1	NA	COL8A1	NA	DISCUSS	Previous replication studies examining a total of 29 SNPs in the Lebanese population have identified variants associated with T2DM in COL8A1, KCNQ1, ALX4, HNF1 (n = 2071), CDKAL1 (n = 1422), and TCF7L2 (n = 1610)
+1	NA	CDKAL1	NA	DISCUSS	Our genome-wide analysis of more than 5,000,000 SNPs in the largest T2DM study to date in the region has only identified variations in the CDKAL1 and TCF7L2 genes to be genome wide significantly associated with the disease
+0	NA	NA	NA	DISCUSS	Lebanon represents a Levantine region with higher European affinity than other parts of the Middle East, and therefore potentially fills in the map between SNPs identified in European populations contrasted with other Middle Eastern populations.
+0	NA	NA	NA	DISCUSS	Further, since T2DM is an emerging issue within the Middle East, these populations may differentially highlight some variants distinct from other regions.
+0	NA	NA	NA	DISCUSS	Even accepting relatively low power compared to that available in meta-studies, the moderately small number of replicated GWS significant SNPs in our study is less than expected, especially given the affinity of Lebanon with other European populations
+0	NA	NA	NA	DISCUSS	Our results contribute to ongoing efforts to identify and confirm risk alleles associated with T2DM.
+0	NA	NA	NA	DISCUSS	Mapping disease alleles in different populations can provide important perspectives in disease diagnosis and steer functional studies to provide better understanding of the pathogenesis of T2DM
+0	NA	NA	NA	METHODS	The Lebanese study participants were all of Lebanese origin and were recruited to this study in three phases.
+0	NA	NA	NA	METHODS	A first recruitment campaign, conducted with the collaboration of the Lebanese University Medical Center, led to the recruitment of 506 subjects from the suburbs of Beirut, the capital of Lebanon.
+0	NA	NA	NA	METHODS	In a second campaign conducted in North Lebanon, 492 subjects were successfully recruited.
+0	NA	NA	NA	METHODS	"The 2,292 remaining participants were recruited as part of the Functional Genomic Diagnostic Tools for Coronary Artery Disease project initiative (FGENTCARD) from the Rafic Hariri University Hospital, and the ""Centre Hospitalier du Nord"" in Lebanon."
+0	NA	NA	NA	METHODS	Research and methods were carried out in compliance with the Helsinki Declaration and with the approval of the LAU institutional review board and local ethics committees on human research (Reference number SMPZ08072010-4).
+0	NA	NA	NA	METHODS	All participants signed an informed consent and data and blood samples were obtained from each individual.
+0	Fanconi-Bickel syndrome	NA	NA	METHODS	By taking part in the two recruitment campaigns, participants (1) answered a detailed questionnaire, (2) gave a blood sample for DNA analysis and (3) gave a blood sample for HbA1C, fasting blood glucose (FBS), and lipid profile measures after 12 hours fasting.
+0	NA	NA	NA	METHODS	For the remaining FGENTCARD 2,292 participants, a detailed questionnaire was duly filled, a blood sample was obtained for DNA and metabolites analysis and annotations were coded from medical charts for data such as laboratory tests, prescribed medications, and presence of clinical conditions.
+0	NA	NA	NA	METHODS	Table 1 describes clinical and demographic characteristics of the study participants.
+0	NA	NA	NA	METHODS	"Previously reported analysis of these subjects showed association with recruitment for questionnaire variables, such as ""exercise level,"" ""smoking usage""."
+0	coronary artery disease	NA	NA	METHODS	However, blood panel associations showed very consistent odds ratios for T2DM and coronary artery disease risk independently of recruitment
+0	diabetes	NA	NA	METHODS	For the 998 participants selected through the two recruitment campaigns, an HbA1C of 48 mmol/mol (6.5%) was used as the cut-off point for diagnosing T2DM in line with the World Health Organization definition of type 2 diabetes mellitus diagnosis.
+0	NA	NA	NA	METHODS	For the 2,292 participants from the FGENTCARD project, T2DM was diagnosed by an ascertained physician supported by subjects HbA1C levels and or their two-hour plasma glucose concentration after an oral glucose tolerance test as documented in their medical records.
+0	NA	NA	NA	METHODS	For the control dataset, 85.23% of the participants were >=50 years old and have no history of T2DM.
+0	NA	NA	NA	METHODS	Body mass index (BMI) was calculated according to standard measurements.
+0	NA	NA	NA	METHODS	Selection criteria for DNA analysis were based on the complete availability of the genotyping data and the T2DM-relevant characteristics, resulting in the selection of 3,286 subjects
+0	NA	NA	NA	METHODS	DNA was extracted using a standard phenol-chloroform extraction procedure.
+0	NA	NA	NA	METHODS	Samples were genotyped using Illumina HumanOmniExpress-12V1-1 Multi-use (623 controls, 839 cases, ~700,000 SNPs) and Illumina Human610-660W Quad BeadChips (1279 controls, 545 cases, ~550,000 SNPs).
+0	NA	MAF	NA	METHODS	Plink was used for data management and quality control keeping 3,286 samples with call rate >=95%, SNPs call rate >=98%, Hardy-Weinberg p > 10-6, MAF >= 1%.
+0	NA	NA	NA	METHODS	Genotype data was converted to NCBI genome build 37 using LiftOver (http://genome.ucsc.edu/cgi-bin/hgLiftOver).
+0	NA	NA	NA	METHODS	Chromosomes were phased with SHAPEIT using the 1000 Genomes Phase I haplotypes provided on the IMPUTE2 website (1000 Genomes Phase I integrated haplotypes (produced using SHAPEIT2), September 2013) based on sequence data for 1,092 TGP samples from release 20110521.
+0	NA	NA	NA	METHODS	IMPUTE2 was employed to impute genotypes in blocks of ~5 Mb using all populations in the 1000 Genomes Phase I data.
+0	NA	NA	NA	METHODS	"Accuracy of imputation was measured using IMPUTE2's information metric ""info"""
+0	NA	NA	NA	METHODS	GWAS can be confounded by population stratification.
+0	NA	NA	NA	METHODS	The most common approach to correct for population stratification is to include the principal components from the PCA as covariates.
+0	NA	NA	NA	METHODS	However, there is no solid method to determine how many components to include and selection is usually subjective with inconclusive results.
+0	NA	NA	NA	METHODS	Correction for stratification becomes even more complicated in populations like the Lebanese where genetic structure is recent and not driven by the usual factors of distance and geography.
+0	NA	NA	NA	METHODS	Furthermore, previous studies have shown that historical migrations to Lebanon have potentially created disease-associated population structures that are similar to those in the source populations.
+0	NA	NA	NA	METHODS	In this study, we use insights from our previous studies on population stratifications in the Lebanese to avoid type 1 errors in the GWAS
+0	NA	NA	NA	METHODS	1- mclust (http://www.stat.washington.edu/mclust/) uses model-based hierarchical clustering and Bayesian Information Criterion to classify samples into related groups
+0	NA	NA	NA	METHODS	2- ADMIXTURE assigns individuals in a model-based manner into ancestral populations using maximum likelihood estimates
+0	NA	NA	NA	METHODS	We apply a method that uses available 1000 Genomes Project reference panels to impute a resolved ancestry dataset as well as the current T2DM cohort to the same SNP coverage resolution.
+0	NA	NA	NA	METHODS	We next use two model-based clustering methods to unambiguously classify subjects into groups (Figure 5)
+0	NA	NA	NA	METHODS	The two methods identified similar population structures and assigned samples into three ancestral groups (Figure 5) similar to previous ancestry reports on the Lebanese.
+0	NA	NA	NA	METHODS	We next proceed by extracting 192,310 ancestry informative markers (AIMs) between the groups and exclude it from the GWA analysis.
+0	NA	NA	NA	METHODS	We have also tested our method by using the identified ancestry groups as covariates in the GWAS and obtained identical results
+0	NA	NA	NA	METHODS	Association tests were performed using SNPTEST v2.4, employing frequentist association tests and taking into account uncertainty in imputed genotypes (calling threshold 0.9).
+0	NA	NA	NA	METHODS	At each SNP, an additive, dominant, or recessive model was tested versus a model of no association.
+0	NA	NA	NA	METHODS	Association tests were also conditioned on age, sex, and BMI to test for a genetic effect over and above that explained by these covariates.
+0	NA	NA	NA	METHODS	Chip type and enrollment were also both included in a separate analysis; results showed correlated but no genome-wide significant SNPs.
+0	NA	NA	NA	METHODS	Further, a PCA painted by chip type (Figure S1) shows no significant bias.
+0	NA	NA	NA	METHODS	LocusZoom was used to plot regional association results from the genome-wide association scans
+0	NA	NA	NA	FIG	Per-sample imputation confidence scores between true genotypes and genotypes predicted by imputation, averaged over imputation chunks.
+0	NA	NA	NA	FIG	Accuracy increases with increased array SNP coverage
+0	NA	NA	NA	FIG	Plot shows results of T2DM GWA analysis assuming additive impact in 3286 Lebanese using >5,000,000 genotyped or imputed SNPs.
+0	NA	NA	NA	FIG	The Y-axis corresponds to the significance of the association (-log10 p-values).
+0	NA	NA	NA	FIG	The X-axis represents the physical location of the variant colored by chromosome
+0	NA	NA	NA	FIG	Each regional plot shows the chromosomal position (hg 19) of SNPs in the specific region against -log10 p values estimated assuming additive impact.
+0	NA	NA	NA	FIG	The SNP with the highest association signal at each locus is shown as a purple star; the other SNPs are colored according to the extent of LD with that SNP.
+0	NA	NA	NA	FIG	Estimated recombination rates from the 1000 Genomes Project European population (release March 2012) are shown as light blue lines
+0	NA	NA	NA	FIG	Plot compares observed -log10 p values of the tested SNPs on the vertical axis to expected -log10 p values under the null hypothesis on the horizontal axis.
+0	NA	NA	NA	FIG	The genomic control ratio was 1.073, indicating the lack of strong effect of systematic error such as population stratification
+0	NA	NA	NA	FIG	A) Principal component analysis shows an orthogonal population structure.
+0	NA	NA	NA	FIG	Model-based clustering using mclust identifies three groups similar to previously reported stratification in the Lebanese.
+0	NA	NA	NA	FIG	B) Estimation of individual ancestry using ADMIXTURE at K = 3 shows three groups with disparate proportions of ancestral allele frequencies

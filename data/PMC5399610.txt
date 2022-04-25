@@ -1,0 +1,104 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	Few genome-wide association studies (GWAS) of type 2 diabetes (T2D) have been conducted in U.S. Hispanics/Latinos of diverse backgrounds who are disproportionately affected by diabetes.
+0	NA	NA	NA	ABSTRACT	We conducted a GWAS in 2,499 T2D case subjects and 5,247 control subjects from six Hispanic/Latino background groups in the Hispanic Community Health Study/Study of Latinos (HCHS/SOL).
+1	NA	TCF7L2	NA	ABSTRACT	Our GWAS identified two known loci (TCF7L2 and KCNQ1) reaching genome-wide significance levels.
+1	NA	KCNQ1	rs1049549	ABSTRACT	Conditional analysis on known index single nucleotide polymorphisms (SNPs) indicated an additional independent signal at KCNQ1, represented by an African ancestry-specific variant, rs1049549 (odds ratio 1.49 [95% CI 1.27-1.75]).
+0	diabetes	NA	NA	ABSTRACT	This association was consistent across Hispanic/Latino background groups and replicated in the MEta-analysis of type 2 DIabetes in African Americans (MEDIA) Consortium.
+0	NA	NA	NA	ABSTRACT	Among 80 previously known index SNPs at T2D loci, 66 SNPs showed consistency with the reported direction of associations and 14 SNPs significantly generalized to the HCHS/SOL.
+0	obese	NA	NA	ABSTRACT	A genetic risk score based on these 80 index SNPs was significantly associated with T2D (odds ratio 1.07 [1.06-1.09] per risk allele), with a stronger effect observed in nonobese than in obese individuals.
+1	NA	KCNQ1	NA	ABSTRACT	Our study identified a novel independent signal suggesting an African ancestry-specific allele at KCNQ1 for T2D.
+0	NA	NA	NA	ABSTRACT	Associations between previously identified loci and T2D were generally shown in a large cohort of U.S. Hispanics/Latinos
+0	diabetes	NA	NA	INTRO	U.S. Hispanics/Latinos, who now make up the nation's largest minority group, are disproportionately affected by diabetes.
+0	NA	NA	NA	INTRO	Our recent data from the Hispanic Community Health Study/Study of Latinos (HCHS/SOL) showed a diabetes prevalence of ~17% in Hispanic adults.
+0	Type 2 diabetes	NA	NA	INTRO	Previous genome-wide association studies (GWAS) have identified a number of type 2 diabetes (T2D) susceptibility loci primarily in populations of European ancestry.
+0	NA	SLC16A11	NA	INTRO	Few GWAS have been conducted in Hispanic/Latino populations (mostly comprising individuals of Mexican origin) and identified novel T2D loci (e.g., SLC16A11).
+0	NA	T2D loci and 2	NA	INTRO	To further understand the genetic basis of T2D in U.S. Hispanics/Latinos of diverse backgrounds, we conducted a GWAS including 2,499 T2D case subjects and 5,247 control subjects from the HCHS/SOL with the purpose of 1) searching for novel T2D loci and 2) examining previously known T2D loci in U.S. Hispanics/Latinos
+0	NA	NA	NA	METHODS	The HCHS/SOL is a population-based study of 16,415 Hispanic/Latino adults, 18-74 years old, living in four U.S. metropolitan areas (Bronx, NY; Chicago, IL; Miami, FL; and San Diego, CA).
+0	NA	NA	NA	METHODS	A comprehensive battery of interviews relating to personal and family characteristics and health status and behaviors, as well as a clinical assessment with blood draw, were conducted at an in-person clinic baseline visit during 2008-2011.
+0	NA	NA	NA	METHODS	The study was approved by the institutional review boards at all participating institutions, and all participants gave written informed consent.
+0	NA	NA	NA	METHODS	The analyses described here included 7,746 individuals comprising 2,499 T2D case subjects and 5,247 control subjects who consented to participation in genetic studies (Supplementary Table 1)
+0	NA	NA	NA	METHODS	Individuals with T2D were defined as those with fasting time >8 h and fasting glucose levels >=126 mg/dL, fasting <=8 h and fasting glucose >=200 mg/dL, post-oral glucose tolerance test glucose >=200 mg/dL, HbA1c >=6.5% (48 mmol/mol), or on current treatment with antihyperglycemia medications.
+0	NA	NA	NA	METHODS	Control subjects were defined as those with fasting time >8 h and fasting glucose levels <100 mg/dL, post-oral glucose tolerance test glucose <140 mg/dL, and HbA1c <5.6% (38 mmol/mol).
+0	NA	NA	NA	METHODS	Individuals with intermediate phenotypes (prediabetes) were excluded from this analysis
+0	NA	NA	NA	METHODS	Genotyping was performed with an Illumina custom array (15041502 B3), which consists of the Illumina Omni 2.5M array (HumanOmni2.5-8 v1.1) plus ~150,000 custom single nucleotide polymorphisms (SNPs), with the quality control performed at HCHS/SOL Genetic Analysis Center.
+0	NA	NA	NA	METHODS	Genome-wide imputation was carried out using the 1000 Genomes Project phase 1 reference panel SHAPEIT2 and IMPUTE2 software, as described previously.
+0	NA	NA	NA	METHODS	An iterative procedure was used to simultaneously estimate principal components (PCs) reflecting population structure and kinship coefficients measuring familial relatedness.
+0	NA	NA	NA	METHODS	Genetic analysis groups (Hispanic/Latino background groups: Cuban, Dominican, Puerto Rican, Mexican, Central American, or South American) were constructed based on a combination of self-identified Hispanic/Latino background and genetic similarity
+0	NA	NA	NA	METHODS	We used the generalized linear mixed model association test (GMMAT) to test SNP-T2D genome-wide associations using the score test applied on a logistic model.
+0	NA	NA	NA	METHODS	Our study had a power of 80% to detect a genetic variant that could explain 0.64% variance of T2D on a liability scale, at the genome-wide significance level (P < 5.0 x 10-8).
+0	NA	NA	NA	METHODS	Correlations between participants were accounted for by incorporating covariance matrices corresponding to genetic relatedness (kinship), household, and census block group as random effects.
+0	NA	NA	NA	METHODS	The model also included center, age, sex, the first five PCs to adjust for ancestry, and sampling weights
+1	NA	KCNQ1	NA	METHODS	Conditional analyses were performed at the KCNQ1 locus using GMMAT, with known index SNP and lead SNPs as covariates.
+1	NA	KCNQ1	NA	METHODS	We identified haplotypes of KCNQ1 based on four SNPs using the phased imputation data.
+0	NA	NA	NA	METHODS	Haplotypes that appeared at least 50 times in both case and control subjects were tested for associations with T2D using GMMAT, with the most common haplotype as a reference
+0	NA	NA	NA	METHODS	For 80 known index SNPs identified and/or summarized in previous studies, we used GMMAT to estimate the odds ratios (ORs) and 95% CI per risk allele of each SNP on T2D.
+0	NA	NA	NA	METHODS	We calculated post hoc power for these 80 SNPs using a previously reported method, under the risk allele frequencies and effect sizes of SNPs observed in the HCHS/SOL, at a P of 6.25 x 10-4 (Bonferroni correction for 80 SNPs).
+0	NA	NA	NA	METHODS	To study whether these associations vary by Hispanic/Latino groups, we included SNP x group interaction terms (as fixed effects) in the models.
+0	NA	NA	NA	METHODS	Binomial tests were conducted to examine whether the observed consistency of 80 known T2D index SNPs with the previously reported associations is due to chance.
+0	NA	NA	NA	METHODS	We tested these 80 known index SNPs for generalization in the HCHS/SOL by calculating false discovery rate-controlling r values, to account for multiple testing of the generalization null hypothesis
+0	NA	NA	NA	METHODS	An unweighted genetic risk score (GRS) was constructed for each participant by summing all risk allele dosages of 80 known T2D index SNPs.
+0	NA	insulin	NA	METHODS	To test potential differences between two sets of T2D SNPs according to their possible biological categories, two sub-GRSs were calculated based on 36 beta-cell function-related SNPs and 18 insulin resistance-related SNPs, respectively.
+0	obese	NA	NA	METHODS	Similar GMMAT models were used to examine the ORs and 95% CI per unit of the GRSs on T2D in all samples, and subgroups were stratified by age-group (dichotomized at median: 45 years old), sex, BMI status (dichotomized at the cutoff for obesity: 30 kg/m2), and Hispanic/Latino background
+0	NA	NA	NA	RESULTS	In a GWAS of T2D including all individuals, there was no evidence of genomic inflation due to population stratification (lambda = 0.99; Supplementary Fig.
+0	NA	NA	NA	RESULTS	1).
+1	NA	TCF7L2	rs7903146	RESULTS	There were two genome-wide significant T2D loci (P < 5.0 x 10-8), and both are known: TCF7L2 (lead SNP rs7903146, P = 1.3 x 10-11) and KCNQ1 (lead SNP rs2283228, P = 8.4 x 10-13) (Supplementary Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	NA	RESULTS	Further adjustment for BMI did not change the results materially
+0	NA	NA	NA	RESULTS	We then evaluated association results at 80 known T2D loci to examine whether lead SNPs in the HCHS/SOL are different from the reported index SNPs.
+1	NA	TCF7L2	NA	RESULTS	There were eight loci with lead SNPs of P < 6.25 x 10-4 (Bonferroni adjustment for 80 tested loci), four of which (TCF7L2, INS-IGF2, KCNQ1, and MTNR1B) reached significance after correction for the number of independent SNPs calculated using the simpleM methods at the respective locus (Supplementary Fig.
+0	NA	NA	NA	RESULTS	3).
+1	NA	INS	rs1049549	RESULTS	The observed lead SNPs in the HCHS/SOL were identical or in moderate-to-high linkage disequilibrium (LD) (r2 > 0.5) with known index SNPs at these loci, except SNP rs1049549 at INS-IGF2 and SNP rs2283228 at KCNQ1 (r2 < 0.2 with known index SNPs).
+1	NA	INS	rs1049549	RESULTS	Of note, SNP rs1049549 is located between the INS-IGF2 and KCNQ1 genes and relatively closer to KCNQ1 than to INS-IGF2.
+1	NA	KCNQ1	rs1049549	RESULTS	Thus, rs1049549 was considered as a SNP at the KCNQ1 locus in our following analyses
+1	NA	KCNQ1	NA	RESULTS	Conditional analyses at the KCNQ1 locus also yielded two additional independent signals represented by SNP rs2283228/rs2237896 (in high LD with r2 = 0.83) and SNP rs1049549, respectively (Fig.
+0	NA	NA	NA	RESULTS	1 and Supplementary Table 2).
+0	NA	NA	rs1049549	RESULTS	A potentially novel signal represented by SNP rs1049549 showed a significant association with T2D (OR 1.49 [95% CI 1.27-1.75]; P = 5.5 x 10-6) in primary analysis (Fig.
+1	NA	NA	rs163184	RESULTS	1A), and the result did not change materially after conditioning on index SNP rs163184 (Fig.
+1	NA	NA	rs163184	RESULTS	1B) or after conditioning on both index SNP rs163184 and lead SNP rs2237896 (Fig.
+0	NA	NA	NA	RESULTS	1C).
+0	NA	NA	rs3888647	RESULTS	In addition, there was another signal represented by SNP rs3888647 showing varied associations with T2D in primary analysis and conditional analyses (Supplementary Table 2).
+1	NA	NA	NA	RESULTS	This might be due to the correlations between this SNP and SNPs rs2283228/rs2237896 (Supplementary Table 3), indicating that this might not be an independent signal
+1	NA	KCNQ1	NA	FIG	Regional association plots for the KCNQ1 locus in the HCHS/SOL.
+0	NA	NA	NA	FIG	A: Primary analysis.
+1	NA	NA	rs163184	FIG	B: Conditional analysis on the index SNP rs163184.
+1	NA	NA	rs163184	FIG	C: Second conditional analysis on the index SNP rs163184 and the conditional lead SNP rs2237896.
+0	NA	NA	NA	FIG	Values of r2 for LD were estimated in the HCHS/SOL
+1	NA	KCNQ1	rs1049549	RESULTS	Haplotype analyses of the KCNQ1 locus based on four SNPs, rs1049549, rs163184, rs2237896, and rs3888647, further supported the independence of SNP rs1049549 in association with T2D (Supplementary Table 4).
+0	NA	NA	rs1049549	RESULTS	The most common haplotype T-G-G-G in the HCHS/SOL (frequency 0.30) has nonrisk allele (C allele) of rs1049549 and risk alleles (G alleles) of other three SNPs for T2D.
+0	NA	NA	rs1049549	RESULTS	The haplotype C-G-G-G, with the risk allele (C allele) of rs1049549, showed a significant association with increased T2D risk compared with the haplotype T-G-G-G (P = 9.6 x10-4)
+0	NA	NA	rs1049549	RESULTS	Associations between SNP rs1049549 and T2D were highly consistent across Hispanic/Latino background groups (I2 = 0; Pheterogeneity = 0.77) (Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	NA	RESULTS	Previously inferred local ancestry estimates in the HCHS/SOL indicated that this C allele is an African ancestry-specific allele, with relative high frequency in African ancestry (minor allele frequency [MAF] 0.32) and very low frequency in European ancestry and Native American ancestry (MAF <0.02).
+0	diabetes	NA	NA	RESULTS	We replicated this association in the MEta-analysis of type 2 DIabetes in African Americans (MEDIA) Consortium.
+0	NA	NA	rs7124991	RESULTS	A proxy SNP rs7124991 (r2 = 1 with rs1049549 in both Hispanics and Africans; MAF 0.23 in African Americans) was significantly associated with T2D (P = 0.006)
+1	NA	KCNQ1	rs1049549	FIG	Associations between SNP rs1049549 at KCNQ1 and T2D across Hispanic/Latino background groups.
+0	NA	NA	rs1049549	FIG	Data are ORs (95% CI) for each minor allele of rs1049549 on T2D, adjusted for age, sex, center, sampling weights, relatedness, and population structure (kinship coefficients and eigenvectors).
+0	NA	NA	NA	FIG	Overall results were combined by fixed-effects meta-analysis and did not account for low-level relatedness between groups
+0	NA	NA	NA	RESULTS	Table 1 provides information on consistency of 80 index SNPs at known T2D loci between the HCHS/SOL and previous studies.
+0	NA	NA	NA	RESULTS	A total of 69 SNPs showed consistency with the previously reported direction of associations (binomial test P = 8.67 x 10-12).
+0	NA	NA	NA	RESULTS	Characteristics of 80 known index SNPs, SNP-T2D associations, and post hoc power calculation in the HCHS/SOL are shown in Supplementary Table 5.
+0	NA	NA	NA	RESULTS	There were no significant interactions between these SNPs and Hispanic/Latino backgrounds on T2D (all Pinteraction > 0.05).
+0	NA	NA	NA	RESULTS	In the generalization analysis, 14 index SNPs were generalized to the HCHS/SOL
+0	NA	NA	NA	TABLE	Consistency of the direction of effects of 80 known index SNPs on T2D between the HCHS/SOL and previously reported studie
+0	NA	NA	NA	RESULTS	The total GRS based on 80 known index SNPs showed a highly significant association with T2D (OR 1.07 [95% CI 1.06-1.08] per risk allele; P = 2.31 x 10-39) (Table 2).
+0	obese	NA	NA	RESULTS	Association between GRS and T2D was stronger in nonobese (BMI <30 kg/m2) compared with obese (BMI >=30 kg/m2) individuals (OR 1.10 [95% CI 1.08-1.11] vs. 1.06 [1.04-1.08]; Pinteraction = 2.84 x 10-3).
+0	NA	insulin	NA	RESULTS	Obesity status showed significant interactions with the beta-cell function GRS (Pinteraction = 8.55 x 10-5) but not the insulin resistance GRS (Pinteraction=0.34).
+0	NA	NA	NA	RESULTS	We did not find significant interactions between the GRSs and age, sex, or Hispanic/Latino background on T2D (all Pinteraction > 0.05).
+0	NA	NA	NA	RESULTS	Another GRS based on 66 SNPs that did not pass generalization testing also showed a significant association with T2D (P = 6.12 x 10-14)
+0	NA	NA	NA	TABLE	Associations between the GRSs and T2D according to age, sex, BMI status, and Hispanic background in the HCHS/SO
+1	NA	KCNQ1	rs1049549	DISCUSS	In this GWAS of T2D in U.S. Hispanics/Latinos, we identified an independent association signal represented by an African ancestry-specific variant, SNP rs1049549, in addition to two known association signals at the KCNQ1 locus.
+0	NA	NA	NA	DISCUSS	Consistent results across different Hispanic/Latino background groups and successful replication in African Americans from the MEDIA Consortium strengthened the reliability of this observed association.
+1	NA	CD81	rs1049549	DISCUSS	SNP rs1049549 is located at the 3' untranslated region of CD81, ~3.3 kb upstream of TSSC4 and ~4.8 kb upstream of KCNQ1, which often contains regulatory elements (ENCODE databases can be found in the University of California, Santa Cruz, Genome Browser at https://genome.ucsc.edu/).
+0	allergy	NA	rs1049549	DISCUSS	Further examination indicated that SNP rs1049549 is in a high LD with a set of SNPs (r2 > 0.8) clustered with regulatory elements, such as the transcription factor binding regions, DNase I hypersensitivity sites, and H3K27Ac mark
+0	NA	NA	NA	DISCUSS	It is not surprising that only 14 known index SNPs formally generalized to the HCHS/SOL, due to limited power of our study.
+1	NA	TCF7L2	rs7903146	DISCUSS	Top SNPs, TCF7L2 rs7903146 and KCNQ1 rs2283228, in our study explained 0.28% and 0.33% variance of T2D, respectively, indicating that our GWAS was underpowered.
+0	NA	NA	NA	DISCUSS	However, we demonstrated that both the GRS based on all 80 known index SNPs and the GRS that excluded generalized SNPs showed highly significant associations with T2D.
+0	NA	NA	NA	DISCUSS	The observed effect of the GRS in U.S. Hispanics/Latinos (~7% increased risk of T2D per allele) is very similar to those observed in two large studies of Europeans and Chinese.
+0	NA	NA	NA	DISCUSS	Consistent with previous studies, we found a stronger genetic association with T2D in leaner individuals, which might be driven by beta-cell function-related variants
+0	NA	NA	NA	DISCUSS	One unique feature of our study is the diversity of Hispanic/Latino backgrounds, which have been rarely investigated in previous T2D GWAS.
+0	NA	NA	NA	DISCUSS	This provides both challenges and advantages for genetic association studies.
+0	NA	NA	NA	DISCUSS	Heterogeneity among diverse Hispanic/Latino groups may increase genomic inflation, confounding effects, or other artifacts and decrease statistical power, although appropriate statistical approaches have been applied to account for heterogeneous variances among groups in our genetic association analyses.
+1	NA	KCNQ1	NA	DISCUSS	On the other hand, the diversity of Hispanic/Latino groups with different ancestries provides opportunities to identify potential ancestry-specific alleles (e.g., the newly identified African ancestry-specific allele at KCNQ1 in this study) and/or group-specific genetic effects in relation to human diseases.
+0	NA	NA	NA	DISCUSS	Our study, the largest study of U.S. Hispanics/Latinos of diverse backgrounds to date, is still limited by inadequate sample size.
+0	NA	NA	NA	DISCUSS	Additional studies of U.S. Hispanics/Latinos are clearly needed to fill this gap
+1	NA	KCNQ1	NA	DISCUSS	In summary, our study identified a potentially novel independent signal suggesting an African ancestry-specific allele at KCNQ1 for T2D and provides evidence for the similarity of known genetic predisposition to T2D between U.S. Hispanics/Latinos and other populations.
+0	NA	NA	NA	DISCUSS	Larger meta-analyses of T2D GWAS efforts are needed to confirm our findings and identify more T2D loci among this understudied population

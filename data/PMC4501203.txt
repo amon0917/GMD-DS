@@ -1,0 +1,290 @@
+0	diabetes	NA	NA	ABSTRACT	This study identified susceptible loci related to the Yu-Zhi (YZ) constitution, which indicates stasis-stagnation, found in a genome-wide association study (GWAS) in patients with type 2 diabetes and possible regulated traditional Chinese medicine (TCM) using docking and molecular dynamics (MD) simulation
+0	diabetes	NA	NA	ABSTRACT	Non-aboriginal Taiwanese with type 2 diabetes were recruited.
+0	NA	NA	NA	ABSTRACT	Components of the YZ constitution were assessed by a self-reported questionnaire.
+0	NA	NA	NA	ABSTRACT	Genome-wide SNP genotypes were obtained using the Illumina HumanHap550 platform.
+0	NA	PON2	NA	ABSTRACT	The world's largest TCM database (http://tcm.cmu.edu.tw/) was employed to investigate potential compounds for PON2 interactions
+0	diabetes	NA	NA	ABSTRACT	The study involved 1,021 unrelated individuals with type 2 diabetes.
+0	NA	NA	NA	ABSTRACT	Genotyping data were obtained from 947 of the 1,021 participants.
+0	NA	NA	NA	ABSTRACT	The GWAS identified 22 susceptible single nucleotide polymorphisms on 13 regions of 11 chromosomes for the YZ constitution.
+0	NA	PON2	NA	ABSTRACT	Genotypic distribution showed that PON2 on chromosome 7 was most significantly associated with the risk of the YZ constitution.
+0	NA	NA	NA	ABSTRACT	Docking and MD simulation indicated 13-hydroxy-(9E_11E)-octadecadienoic acid was the most stable TCM ligand
+0	atherosclerotic	PON2	NA	ABSTRACT	Risk loci occurred in PON2, which has antioxidant properties that might protect against atherosclerosis and hyperglycemia, showing it is a susceptible gene for the YZ constitution and possible regulation by 13-hydroxy-(9E_11E)-octadecadienoic acid
+0	NA	NA	NA	ABSTRACT	The online version of this article (doi:10.1186/s12906-015-0761-x) contains supplementary material, which is available to authorized users
+0	NA	NA	NA	INTRO	Differences exist between traditional Chinese medicine (TCM) and conventional western medicine.
+0	NA	NA	NA	INTRO	These differences include not only the treatment approach (such as herbal medicine and acupuncture in TCM) but also the underlying theories.
+0	NA	NA	NA	INTRO	A principle component of TCM theory is the concept of constitution, which provides a method for classifying patients according to type.
+0	NA	NA	NA	INTRO	Constitution demonstrates individual differences in structure and function, temperament, and environmental adaptability.
+0	NA	NA	NA	INTRO	Patients with different constitutions have different susceptibilities, development, and prognoses for certain diseases.
+0	NA	NA	NA	INTRO	According to Huang Di Nei Jing, a textbook of TCM internal medicine written approximately 2,000 years ago, a certain constitution is partially developed from congenital factors.
+0	NA	NA	NA	INTRO	"This view is similar to ""personalized medicine,"" which highlights the genetic background for disease susceptibility."
+0	NA	NA	NA	INTRO	Genetic studies to investigate the congenital factors of constitution are increasing in the post-genome era.
+0	NA	NA	NA	INTRO	Chen et al.
+0	Deficiency	DPB1	NA	INTRO	reported that allele frequencies of human leukocyte antigens including DPB1*0501 in the Yin-deficiency group (Frequency 51.6 % vs 35.6 %, relative risk 1.9), DRB1*09012 in the Phlegmwetness group (Frequency 23.4 % vs 12.8 %, relative risk 2.1), and DQB1*03032 in the Qi-deficiency (Frequency 22.2 % vs 8.1 %, relative risk 3.2) and Phlegm-wetness groups (Frequency 19.9 % vs 8.1 %, relative risk 2.8) differ significantly from those in the normal constitution.
+0	NA	NA	NA	INTRO	Wang et al.
+0	Yang-deficiency constitution	NA	NA	INTRO	conducted an expression array and identified 785 upregulated genes and 954 downregulated genes in the Yang-deficiency constitution, compared with those in normal individuals.
+0	NA	NA	NA	INTRO	"The most significant enriched Gene Ontology Cluster of upregulated genes is ""response to stress"" which contained interleukin factors and their receptors."
+0	NA	NA	NA	INTRO	"The most significant enriched Gene Ontology Cluster of downregulated genes is ""nucleobase, nucleoside, nucleotide and nucleic acid metabolism"" which contained thyroid hormone receptor signal pathway."
+0	Yang-deficiency constitution	PPARD	rs2267669	INTRO	A study of polymorphisms further identified the biased distribution of single nucleotide polymorphisms (SNPs) in PPARD (peroxisome proliferator-activated receptors delta) rs2267669 and rs2076167 and APM1 (adipose most abundant gene transcript 1) rs7627128 and rs1063539 in the Yang-deficiency constitution; PPARD rs2076167 and APM1 rs266729 and rs7627128 in Phlegm-wetness constitution; and in PPARG (peroxisome proliferator-activated receptors gamma) Pro12Ala in the Yin-deficiency constitution.
+0	NA	NA	NA	INTRO	Gene expression is influenced by environmental factors in the posttranscriptional process and candidate gene studies are limited to a certain viewing region
+0	cardiovascular disease	NA	NA	INTRO	Cardiovascular disease is a major complication in patients with diabetes mellitus (DM), especially in those with type 2 diabetes, resulting in both comorbidity and mortality.
+0	DM	NA	NA	INTRO	One meta-analysis reported that DM tends to double the risk of cardiovascular disease.
+0	NA	NA	NA	INTRO	Screening for high cardiovascular risk in patients and providing more effective protection for these patients are important in clinical practice.
+0	pain	NA	NA	INTRO	The Yu-Zhi (YZ) constitution in TCM indicates stasis and stagnation, which expressed dull, lusterless skin color; dry, cracked, scaly or tough skin; dull purple lips or tongue; localized pain or numbness; knotted, intermittent, or uneven pulse.
+0	blood stasis syndrome	NA	NA	INTRO	It is one of the body constitutions that tend to express blood stasis syndrome (BSS), a morbid state caused by blood circulation disturbance, included extravasated blood, blood circulating sluggishly, or blood congested in viscera, that may turn into pathogenic factors.
+0	cardiovascular disease	NA	NA	INTRO	BSS is usually considered a link to cardiovascular complications.
+0	coronary artery disease	NA	NA	INTRO	A study of hospitalized patients with coronary artery disease (CAD) noted that BSS was the most common TCM pattern in over three-quarters of the patients.
+0	dyslipidemia	NA	NA	INTRO	The risk of BSS increases with the carotid intima-media thickness in patients with dyslipidemia.
+0	cardiovascular disease	NA	NA	INTRO	According to TCM theory, BSS constitutes the main mechanism of cardiovascular diseases, including diabetic cardiovascular complications.
+0	abnormal hemorheological factors	NA	NA	INTRO	The pathogenesis of BSS includes microcirculation disturbance, abnormal hemorheological factors, and hemodynamic changes.
+0	NA	NA	NA	INTRO	Some small samples molecular studies also detected differences in cell surface antigens and gene expression between those with BSS and healthy controls.
+0	NA	NA	NA	INTRO	As mentioned earlier, congenital factors are considered to be a principal component of constitutional formation; possible genetic variations underlying the YZ constitution are of interest.
+0	diabetes	NA	NA	INTRO	In the present study, a genome-wide association study was conducted to identify susceptible loci related to the YZ constitution in patients with type 2 diabetes.
+0	NA	NA	NA	INTRO	Genes related to the susceptible loci are considered susceptible genes of the YZ constitution.
+0	NA	NA	NA	INTRO	Computer-aided drug design (CADD) has been widely used in studies investigating new treatments, and could help accelerate the development of leading drugs.
+0	pain	NA	NA	INTRO	CADD could be employed to approaches in the design of drugs for anti-inflammation, anti-virus, pain regulation, weight loss, stroke therapy, and cancer therapy.
+0	NA	NA	NA	INTRO	Hence, we employed a TCM database (http://tcm.cmu.edu.tw) and natural compounds to conduct virtual screening for proteins of susceptible genes by molecular docking to find potential TCM or natural compounds.
+0	NA	NA	NA	INTRO	Then we performed molecular dynamics (MD) simulation to study the protein-ligand interactions and stabilized conformations for the top candidates
+0	diabetes	NA	NA	METHODS	Our study population comprised adult patients with type 2 diabetes in Taiwan.
+0	NA	NA	NA	METHODS	Patients willing to participate in a genetic study in nonaboriginal Taiwanese were recruited from the outpatient clinic of China Medical University Hospital (Taiwan) between September 2006 and June 2007.
+0	diabetes	NA	NA	METHODS	Type 2 diabetes was diagnosed according to the criteria of the 1997 American Diabetes Association.
+0	diabetes	NA	NA	METHODS	Patients with type 1 diabetes, gestational diabetes, or maturity-onset diabetes of the young were all excluded.
+0	NA	NA	NA	METHODS	This research was approved by the China Medical University Hospital Institutional Review Board, and all participants gave informed consent
+0	diabetes	NA	NA	METHODS	Patient information (age, sex, age at diagnosis of diabetes, smoking history) was collected by a questionnaire.
+0	NA	NA	NA	METHODS	Systolic and diastolic blood pressures were obtained by averaging two measurements with a resting interval of at least 5 min.
+0	hypertension	NA	NA	METHODS	Patients with hypertension were defined as having a systolic pressure of more than 130 mmHg, and a diastolic pressure of more than 80 mmHg, or those who were receiving antihypertensive agents.
+0	NA	NA	NA	METHODS	The body height and weight of subjects (wearing light clothing and no shoes) were measured by experienced research staff.
+0	NA	NA	NA	METHODS	The body mass index was calculated by dividing the body weight (kg) by the square of the body height (m).
+0	NA	NA	NA	METHODS	Blood samples were drawn between 8:00 and 10:00 a.m. after the patients had fasted overnight, and separated serum was stored at -70  C until assayed.
+0	NA	NA	NA	METHODS	Fasting plasma glucose was detected by the hexokinase method.
+0	NA	NA	NA	METHODS	Serum total cholesterol, triglycerides, high- (HDL) and low-density lipoprotein (LDL) cholesterol, creatinine, and uric acid levels were measured by standard laboratory methods.
+0	NA	C-reactive protein	NA	METHODS	High-sensitivity C-reactive protein was measured by immunoturbidimetry (Integra 700; Roche, Mannheim, Germany).
+0	NA	NA	NA	METHODS	Hemoglobin A1c was gauged by the high-performance liquid chromatography method (HLC-723G7; TOSOH Bioscience, Tokyo, Japan).
+0	NA	NA	NA	METHODS	The albumin-to-creatinine ratio (ACR) was obtained from a morning spot urine test and data were categorized as normoalbuminuria (ACR   30 mg/g), microalbuminuria (30 mg/g < ACR < 300 mg/g) or macroalbuminuria (ACR   300 mg/g).
+0	NA	NA	NA	METHODS	Biochemical analyses were performed at the Taipei Institution of Pathology
+0	NA	NA	NA	METHODS	The YZ body constitution was assessed by a questionnaire, which was developed using a psychometrically sound method as reported previously, and comprises eight self-reported symptomatic items(Supp.).
+0	NA	NA	NA	METHODS	Each item was assessed on a 5-point Likert scale (never, occasionally, sometimes, often, and always).
+0	NA	NA	NA	METHODS	The YZ score was obtained by a summation of the scores of the eight items, and a higher score indicated stronger intensity of the YZ constitution
+0	NA	NA	NA	METHODS	Genomic DNA was extracted from peripheral blood mononuclear cells for a genome-wide association study.
+0	NA	NA	NA	METHODS	The procedures for genomic DNA extraction, whole genome genotyping, genotype calling and quality control have been described previously.
+0	NA	NA	NA	METHODS	PUREGENE DNA isolation kit (Gentra Systems, Minneapolis, MN) was use to extract genomic DNA from peripheral blood mononuclear cells, and Illumina HumanHap550-Duo BeadChips was used to perform the whole genome genotyping in deCODE genetics (Reykjavi'k, Iceland).
+0	NA	NA	NA	METHODS	The standard procedure implemented in BeadStudio, with default parameters suggested by the platform manufacturer was used to perform Genotype calling.
+0	NA	NA	NA	METHODS	Genotyping validation was performed using the Sequenom iPLEX assay (Sequenom MassARRAY system; Sequenom, San Diego, CA, USA).
+0	NA	NA	NA	METHODS	By examining several summary statistics, quality control of the genotype data was performed.
+0	NA	NA	NA	METHODS	First, by calculating the ratio of loci having heterozygous calls on the X chromosome, sex of the patients was double-checked.
+0	NA	NA	NA	METHODS	Second, total successful call rate and the minor allele frequency were also calculated for each SNP.
+0	NA	NA	NA	METHODS	The exclusion situations for SNPs were as follows: no polymorphism, a total call rate of < 95 %, or a minor allele frequency of < 5 % and a total call rate < 99 %.
+0	NA	NA	NA	METHODS	A total of 560,184 SNPs were genotyped, 38,700 SNPs were excluded due to quality control criteria, 12,723 SNPs were excluded due to Hardy-Weinberg equilibrium principle (P <0.0001) and 508,761 SNPs were used in final analysis
+0	NA	NA	NA	METHODS	Data from continuous variables were expressed as mean +- standard deviation and categorical variables were expressed as percentages.
+0	NA	NA	NA	METHODS	Participants were divided into high and low YZ score groups according to the median score (YZ score = 10).
+0	NA	NA	NA	METHODS	Differences between the high and low YZ score groups were compared using Student's t-test for continuous variables and the chi2 test for categorical variables.
+0	NA	NA	NA	METHODS	Association analysis was carried out to compare allele frequency and genotype distribution between the high and low YZ score groups using 6 single point methods for each SNP: genotype, allele, trend (Cochran-Armitage test), additive, dominant, and recessive models using PLINK (PLINK 1.07, http://pngu.mgh.harvard.edu/~purcell/plink/contact.shtml#cite) and SAS (SAS Institute Inc., 100 SAS Campus Drive, Cary, NC 27513-2414, USA)
+0	NA	NA	NA	METHODS	The associated SNPs were selected from those at least showing p-values < 10-5 under the most significant test statistic obtained from any of the 6 statistical models.
+0	NA	NA	NA	METHODS	We then used a multivariate logistic regression model to determine the genotype odds ratios (ORs) and 95 % confidence intervals (CIs) of associated SNPs in the best model.
+0	NA	NA	NA	METHODS	For ORs, p-values < 0.05 were considered statistically significant
+0	NA	PON2	NA	METHODS	Because the PON2 structure is not available in the PDB database, the sequence of PON2 (UniProt ID: Q15165) was obtained from the UniProt database for 3D structure modeling.
+0	NA	PON2	NA	METHODS	The sequence of PON2 was submitted to the I-TASSER server (iterative threading assembly refinement algorithm) to generate a 3D structure of PON2.
+0	NA	NA	NA	METHODS	For 3D structure validation, we also employed a Ramachandran plot, profile-3D (Discovery Studio Client v2.5; Accelrys, San Diego, CA, USA.)
+0	NA	PON2	NA	METHODS	and PONDR-FIT (DisProt, http://www.disprot.org/) to validate the PON2 modelling structure.
+0	NA	PON2	NA	METHODS	The residue His114 of PON2 was regarded as the binding site for screening TCM compounds based on protein-ligand interaction.
+0	NA	PON2	NA	METHODS	We used the LigandFit module of DS 2.5 to calculate docking poses of TCM compounds in the PON2 protein structure.
+0	NA	NA	NA	METHODS	Each binding pose of the TCM ligands was generated by Monte-Carlo techniques.
+0	NA	NA	NA	METHODS	The minimization of TCM compounds utilized the CHARMm force field.
+0	NA	NA	NA	METHODS	The minimization step in each docking pose was performed with 1000 steps of the Steepest Descent and Conjugate Gradient.
+0	NA	PON2	NA	METHODS	The generated conformations of ligands were docked into the defined binding site of the PON2 modeling structure.
+0	NA	NA	NA	METHODS	All of the TCM compounds with docking poses had various scoring functions including the piecewise linear potential (-PLP1, -PLP2), potential of mean force (-PMF), and Dock Scores
+0	NA	PON2	NA	METHODS	The MD simulation was carried out by the GROMACS 4.5.5 package to simulate the dynamic condition of the protein-ligand complex from the docking results of PON2.
+0	NA	NA	NA	METHODS	The edge of the box between the protein complexes was set as 1.2 nm.
+0	NA	NA	NA	METHODS	We choice the charmm27 force field for the simulation system.
+0	NA	NA	NA	METHODS	The protein-ligand complex containing water molecules was placed by TIP3P model cubic cells.
+0	van der Waals	NA	NA	METHODS	Non-bonded interactions included Coulomb terms and van der Waals (VDW).
+0	NA	NA	NA	METHODS	The particle mesh Ewald method was used to define Coulomb interactions as electrostatic in this experiment, and the cut-off distance of VDW residues was set at 1.4 nm.
+0	NA	NA	NA	METHODS	The linear constraint solver algorithm was used to fix all bond lengths among all atoms of the protein-ligand complexes.
+0	NA	PON2	NA	METHODS	Topology files and parameters of TCM compounds in PON2 complexes were generated from the SwissParam web server for the GROMACS simulation.
+0	NA	PON2	NA	METHODS	For ion setting of solvent concentrations, the Na+ and Cl- ions were randomly replaced the water molecules in the solvent system with a concentration of 0.145 M. The minimization of energy was used to stabilize the protein-ligand complex by the steepest descent method with 5000 steps, followed by equilibration performed under position restraints with 1 ns for balance of the water molecules between PON2 complexes.
+0	NA	NA	NA	METHODS	The condition of equilibration was under constant temperature dynamics (NVT type) at a temperature of 310 K. In the final step, a production run was performed for 20,000 ps with constant pressure and temperature dynamics (NPT type).
+0	NA	NA	NA	METHODS	The temperature of the production run was set at 310 K. All frames of MD conformation were sampled every 20 ps for trajectory analysis under GROMACS4.5.5
+0	diabetes	NA	NA	RESULTS	This study enrolled 1,021 patients with type 2 diabetes who were 20 years old or older.
+0	NA	NA	NA	RESULTS	Participants were divided into a high YZ score group and low YZ score group according to the median (numbers of high YZ score: low YZ score = 583: 438).
+0	NA	NA	NA	RESULTS	The patient information and clinical characteristics of the high and low YZ score groups are summarized in Table 1.
+0	diabetes	NA	NA	RESULTS	Compared with the low YZ score group, the high YZ score group was significantly older (61.3 +- 11.4 vs 59.7 +- 10.5 years; p = 0.020), included more women (53.5 vs 47.3 %; p = 0.048), had a longer duration of diabetes (11.9 +- 7.4 vs 10.8 +- 6.8 years; p = 0.017), and displayed poorer control of serum glucose (hemoglobin A1c 8.0 +- 1.5 vs 7.8 +- 1.4 %; p = 0.015)
+0	NA	NA	NA	FIG	Quantile-quantile plots of genotype, allele, trend (Cochran-Armitage test), additive, dominant, and recessive models.
+0	NA	NA	NA	FIG	Observed p-values were compared with the expected p-values under the null distribution for each mode
+0	NA	NA	NA	FIG	Manhattan plots of genotype, allele, trend (Cochran-Armitage test), additive, dominant, and recessive model
+0	diabetes	NA	NA	TABLE	Summary of the SNPs associated with high Yu-Zhi score in type 2 diabete
+0	NA	NA	NA	RESULTS	Genotyping data were obtained from 947 (numbers of high YZ score: low YZ score = 539: 408) of the 1,021 participants using Illumina HumanHap550duov3 chips.
+0	NA	NA	NA	RESULTS	Quantile-quantile plots for each model were shown that the distribution of observed p-values deviated from expected p-values in Fig.
+0	NA	NA	NA	RESULTS	1.
+0	NA	NA	NA	RESULTS	Manhattan plots of p-values across all chromosomes for each model were shown in Fig.
+0	NA	NA	NA	RESULTS	2.
+0	NA	NA	NA	RESULTS	SNPs in autosomal chromosomes with a p-value < 9.8 x 10-8 were not detected in all the 6 statistical models.
+0	NA	NA	NA	RESULTS	Table 2 summarizes the SNPs selected from results showing p-values < 10-5 under the most significant test statistic obtained from any of the 6 statistical models.
+0	NA	NA	NA	RESULTS	However, the false discovery rate was high.
+1	NA	PCDH10	rs7694118	RESULTS	The SNP rs7694118 is located on chromosome 4 in the 5' untranslated region (UTR) of PCDH10 (protocadherin 10).
+1	NA	PON2	rs7493	RESULTS	The SNP rs7493 is located on chromosome 7 in an exon region of PON2 (paraoxonase 2) and is in complete linkage disequlibrium with rs2299263 and rs17166875 (D' = 1.0, r2 = 1.0) in intron regions.
+1	NA	NA	rs4526895	RESULTS	The SNP rs4526895 is in tight linkage disequlibrium with rs12865228 (D' = 1; r2 = 0.97).
+1	NA	FREM2	NA	RESULTS	Two of the SNPs are located in an intron of FREM2 (FRAS1 [Fraser syndrome 1] related extracellular matrix protein 2) on chromosome 13.
+0	NA	NA	rs11660953	RESULTS	The SNP rs8093481was strongly associated with the YZ constitution (p = 9.64 x 10-7) and in complete linkage disequilibrium with rs11660953 (D' = 1; r2 = 1).
+1	NA	PIEZO2	NA	RESULTS	Two of the SNPs are located in an intron region of the PIEZO2 (piezo-type mechanosensitive ion channel component 2) gene on chromosome 18.
+1	NA	ZNF665	rs4801958	RESULTS	The SNP rs4801958 is located on chromosome 19 in an exon region of the ZNF665 (zinc finger protein 665) and is completely linked with rs12460170 (D' = 1.0, r2 = 1.0), which is also in an exon region.
+1	NA	ZNF665	rs12971799	RESULTS	It is also tightly linked with rs12971799 (D' = 1.0, r2 = 0.989) and rs1133146 (D' = 1.0, r2 = 0.989) in the 3' UTR, and with rs4803055 (D' = 0.987, r2 = 0.824) in an intron region of the ZNF665
+0	diabetes	NA	NA	TABLE	Genotypic distribution between high and low Yu-Zhi score, and adjusted odds ratios of SNPs associated with high Yu-Zhi Score in type 2 diabete
+0	NA	NA	NA	RESULTS	Table 3 shows the results of multiple logistic regression analysis of the genotypic distribution of susceptible SNPs in patients with high YZ scores among the high and low YZ score groups.
+0	diabetes	NA	NA	RESULTS	The results showed that 20 SNPs in 11 regions of 10 chromosomes were significantly associated with high YZ scores in the best model, after controlling for age, sex, diabetes duration, and hemoglobin A1c.
+0	NA	NA	NA	RESULTS	The risk genotypes were defined by homozygous risk alleles (higher allele frequency in the high YZ score group than in the low YZ score group).
+1	NA	PON2	rs7493	RESULTS	Under the best model, the risky CC genotype of rs7493, AA genotype of rs2299263 and TT genotype of rs17166875 within the PON2 gene in chromosome 7 were associated with a high YZ score, with an 8.62-fold (95 % CI, 2.60-28.52) increase in risk.
+1	NA	PIEZO2	rs8093481	RESULTS	The risky AA genotype of rs8093481 and TT genotype of rs11660953 within the PIEZO2 gene in chromosome 18 increased the risk of a high YZ score 2.33-fold (95 % CI, 1.31-4.14).
+0	NA	NA	rs194045	RESULTS	The risky GG genotype of rs194045 in chromosome 16 increased the risk of a high YZ score 2.2-fold (95 % CI, 1.52-3.19).
+0	NA	NA	rs7565310	RESULTS	The risky AA genotype of rs7565310 in chromosome 2 was associated with a 2.11-fold (95 % CI, 1.49-2.99) increase in risk
+1	NA	ZNF665	rs1133146	RESULTS	The ZNF665 gene's completely linked SNPs, the risky AA genotype of rs1133146 and the GG genotype of rs12971799, were associated with a 1.94-fold (95 % CI, 1.10-3.42) increase in risk.
+1	NA	ZNF665	rs4801958	RESULTS	The risky TT genotype of rs4801958 and GG genotype of rs12460170 within the ZNF665 gene in chromosome 19 were associated with a 1.67-fold (95 % CI, 1.28-2.18) and 1.65-fold (95 % CI, 1.26-2.15) increase in risk for a high YZ score, respectively.
+0	NA	NA	rs4803055	RESULTS	The risky CC genotype of rs4803055 was associated with a 2.25-fold increase in risk (95 % CI, 1.27-3.97)
+0	NA	NA	rs1932064	RESULTS	The risky TT genotype of rs1932064 in chromosome 1 was associated with a 1.78-fold increase in risk (95 % CI, 1.01-3.13).
+0	NA	NA	rs8179355	RESULTS	Two tightly linked SNPs, the CC genotype of rs8179355 and the TT genotype of rs9633289, carried a 1.78-fold (95 % CI, 1.36-2.31) and 1.73-fold (95 % CI, 1.13-2.63) increase in risk, respectively.
+1	NA	FREM2	rs12865228	RESULTS	The SNP rs12865228 within the FREM2 gene on chromosome 13 and its completely linked SNP rs4526895 were associated with a 1.59-fold (95 % CI, 1.21-2.10) increase in risk
+1	diabetes	PCDH10	rs7694118	RESULTS	By contrast, rs7694118 in PCDH10 of chromosome 4, rs164368 in chromosome 5 and rs17118382 of chromosome 14 decreased the risk of high YZ score by 73 % (OR 0.27; 95 % CI, 0.10-0.72), 70 % (OR 0.30; 95 % CI, 0.14-0.64), and 58 % (OR 0.42; 95 % CI, 0.19-0.95), respectively, in the dominant model, after controlling for age, sex, diabetes duration, and hemoglobin A1c.
+0	NA	NA	NA	RESULTS	For the remaining SNPs, no differences emerged between patients with high versus low YZ scores
+0	NA	PON2	NA	FIG	Ramachandran plot of the PON2 modelling structure.
+0	NA	NA	NA	FIG	The modelling structure was built from the ITASSER server.
+0	NA	PON2	NA	FIG	There are 86.6 % and 5.1 % of residues of PON2 in the *favoured and disfavoured regions, respectivel
+0	NA	PON2	NA	FIG	3D-profile of the best PON2 modelling structure.
+0	NA	NA	NA	FIG	A score above zero indicates the modelling residue is reliabl
+0	NA	PON2	NA	FIG	The disorder analysis of the PON2 sequence by PONDR-FIT prediction.
+0	NA	NA	NA	FIG	Values of disorder disposition under 0.5 denote ordered residue
+0	NA	PON2	NA	RESULTS	The PON2 protein was built from the I-TASSER server and we validated the simulated PON2 structural residues by Ramachandran plot (Fig.
+0	NA	PON2	NA	RESULTS	3), with 86.6 % of residues of PON2 located in the favoured region, and only 5.1 % of residues in the disfavoured regions.
+0	NA	NA	NA	RESULTS	We also used 3D-profiling to observe the reliability of each residue.
+0	NA	PON2	NA	RESULTS	Most PON2 residues had validation scores with positive score values (Fig.
+0	NA	NA	NA	RESULTS	4).
+0	NA	NA	NA	RESULTS	The score for the active residue, His144, displayed that it was reliable from the modelling structure, indicating that this key residue was not affected by the docking screen process.
+0	protein disorder	NA	NA	RESULTS	For protein disorder analysis (Fig.
+0	NA	NA	NA	RESULTS	5), most of the sequence (including residue His114) revealed that the disorder disposition was below 0.5.
+0	NA	PON2	NA	RESULTS	The prediction of disorder analysis illustrated that the PON2 protein is a folded structure, and may not affect TCM compounds during the docking process
+0	NA	PON2	NA	TABLE	Scoring functions of the top ten candidates from TCM database screening of PON2 protein structur
+0	NA	NA	NA	FIG	The docking poses of the top three candidates from TCM database screening: (a) divaricatacid, (b)13-hydroxy-(9E_11E)-octadecadienoic acid, and (c) 9-hydroxy-(10E)-octadecenoic acid.
+0	NA	NA	NA	FIG	The active residue His114 is in re
+0	NA	NA	NA	RESULTS	The docking analysis was based on -PLP1, -PLP2, -PMF, and Dock Scores to select the docking poses of TCM compounds from database screening.
+0	NA	NA	NA	RESULTS	From the scoring analysis, we analysed the top ten TCM ligands with high -PMF scores as candidates (Table 4).
+0	NA	NA	NA	RESULTS	Furthermore, we found the docking poses of the top three candidates, divaricatacid, 13-hydroxy-(9E_11E)-octadecadienoic acid, and 9-hydroxy-(10E)-octadecenoic acid, were very close to the key residue His114 (Fig.
+0	NA	NA	NA	RESULTS	6).
+0	NA	PON2	NA	RESULTS	The docking poses showing that the three candidates can interact with His114, and have the potential to activate PON2 for antioxidation.
+0	NA	PON2	NA	RESULTS	In a further study, we performed MD simulation to observe the stability of TCM candidates in the PON2 structures under dynamic condition
+0	NA	PON2	NA	FIG	Plots of (a) protein root mean square deviation (RMSD) and (b) radius of the gyration and ligand RMSD values in the analysis of PON2 systems during a simulation time of 20 n
+0	NA	PON2	NA	FIG	Total energy of the PON2 systems for a simulation time of 20 n
+0	NA	PON2	NA	RESULTS	For the trajectory analysis of the MD simulation, the root mean square deviation (RMSD) and gyration of protein atoms were used to observe the stability of the protein structure for PON2 and protein-ligand complexes.
+0	NA	NA	NA	RESULTS	The value of the protein RMSD was around 0.2 and 0.3 nm from 2 ns to 20 ns (Fig.
+0	NA	NA	NA	RESULTS	7a).
+0	NA	PON2	NA	RESULTS	The apo form of the PON2 and PON2 complexes with TCM candidates revealed stable fluctuation during all of the MD simulation time, and 20 ns of simulation time facilitated all simulation systems into constant conditions.
+0	NA	PON2	NA	RESULTS	The gyration of the PON2 structure was state in 2.05 from 8 ns to 20 ns (Fig.
+0	NA	NA	NA	RESULTS	7b).
+0	NA	PON2	NA	RESULTS	The apo form revealed a decreasing value of gyration, which was more compact than the PON2 complexes with TCM candidates, illustrating that TCM compounds not leave aware from the PON2 structure during all MD simulation times.
+0	NA	NA	NA	RESULTS	For the ligand RMSD, we can found that 9-hydroxy-(10E)-octadecenoic acid displayed fluctuating RMSD values from 6 ns to 20 ns.
+0	NA	NA	NA	RESULTS	Divaricatacid and 13-hydroxy-(9E_11E)-octadecadienoic acid revealed stable ligand RMSDs during the overall simulation time (Fig.
+0	NA	NA	NA	RESULTS	7c).
+0	NA	PON2	NA	RESULTS	Hence, 9-hydroxy-(10E)-octadecenoic acid may not be suitable to interact with the PON2 structure.
+0	NA	PON2	NA	RESULTS	The total energy of the PON2 complexes (Fig.
+0	NA	PON2	NA	RESULTS	8) with divaricatacid, 13-hydroxy-(9E_11E)-octadecadienoic acid, and 9-hydroxy-(10E)-octadecenoic acid was -8.74 x 105 during the initial simulation time (from 0 ns to 2 ns), but in the final step of the simulation time, the total energy tended to be stable at -8.78 x 105 which was similar to the apo form of PON2.
+0	NA	PON2	NA	RESULTS	The results for total energy show that all systems of PON2 are stable after 20 ns of MD simulation time
+0	NA	PON2	NA	FIG	Root mean square fluctuation values for each residue of the PON2 structure in the apo form and protein-ligand complexes for a simulation time of 20 n
+0	NA	PON2	NA	FIG	Solvent accessible hydrophilic (a) and hydrophobic (b) surface areas for the PON2 structure with TCM compound
+0	NA	PON2	NA	RESULTS	We further calculated the root mean square fluctuation (RMSF) values for each residue of the PON2 protein structure (Fig.
+0	NA	NA	NA	RESULTS	9).
+0	NA	PON2	NA	RESULTS	Interestingly, we found the residues revealed high fluctuations from 50 to 100 on the apo form of PON2 (Fig.
+0	NA	NA	NA	RESULTS	9a).
+0	NA	NA	NA	RESULTS	The high RMSF values indicate the residue was flexible at all simulation times.
+0	NA	PON2	NA	RESULTS	The PON2 structure with docked TCM compounds was more stable than the apo form, which suggests that TCM compounds can stabilize the protein structure in the protein-ligand complex type.
+0	NA	PON2	NA	RESULTS	Because of the flexible residues on the apo form of PON2 near the key residue His114, reducing the variation of these residues denotes that TCM compounds could tightly interact with the PON2 structure.
+0	NA	NA	NA	RESULTS	We also calculated the solvent accessible hydrophobic and hydrophilic surface areas for the three TCM compounds.
+0	NA	NA	NA	RESULTS	The results show that divaricatacid is suitable for hydrophobic solvents, because the hydrophilic areas of 13-hydroxy-(9E_11E)-octadecadienoic acid and 9-hydroxy-(10E)-octadecenoic acid were wider than that of divaricatacid (Fig.
+0	NA	NA	NA	RESULTS	10)
+0	MSD	NA	NA	FIG	The mean square displacement (MSD) of different ligands (a) for a simulation time of 20 ns.
+0	MSD	NA	NA	FIG	A high MSD value indicates the ligand has migrated farther from the initial site.
+0	NA	RbAp48	NA	FIG	The distance between the centers of mass of RbAp48 and each ligand (b) during a simulation time of 20 n
+0	MSD	PON2	NA	RESULTS	To analyze the migration of each TCM compound during the MD simulation time, we computed the mean square displacement (MSD) value to measure the variation of each ligand in the PON2 structure.
+0	MSD	NA	NA	RESULTS	9-hydroxy-(10E)-octadecenoic acid displayed a significantly higher MSD value during the 20 ns simulation time than the other two candidates (Fig.
+0	NA	NA	NA	RESULTS	11a).
+0	NA	PON2	NA	RESULTS	In addition, we further calculated the distance between PON2 and the three candidates.
+0	NA	PON2	NA	RESULTS	The distance between 13-hydroxy-(9E_11E)-octadecadienoic acid and the PON2 structure did not change much during the simulation time of 20 ns (Fig.
+0	NA	PON2	NA	RESULTS	11b), but divaricatacid and 9-hydroxy-(10E)-octadecenoic acid gradually moved away from the PON2 structure
+0	NA	PON2	NA	FIG	Ligand tunnel prediction for the PON2 system in apo form (a) condition and protein-ligand complexes with TCM compounds: (a) divaricatacid, (b)13-hydroxy-(9E_11E)-octadecadienoic acid, and (c) 9-hydroxy-(10E)-octadecenoic aci
+0	NA	PON2	NA	FIG	The final snapshots of PON2 with three TCM compounds: (a) divaricatacid, (b)13-hydroxy-(9E_11E)-octadecadienoic acid, and (c) 9-hydroxy-(10E)-octadecenoic acid from the results of MD simulatio
+0	NA	PON2	NA	RESULTS	We employed CAVER 3.0 software to predict the ligand tunnels in the PON2 structure for the three TCM candidates (Fig.
+0	NA	NA	NA	RESULTS	12).
+0	NA	NA	NA	RESULTS	The predicted tunnels are represented by red, blue, green, yellow, cyan and orange solid phases.
+0	NA	PON2	NA	RESULTS	The apo form of the PON2 structure revealed a broad space of tunnels (Fig.
+0	NA	PON2	NA	RESULTS	12a), because there was no docked ligand in the PON2 binding site.
+0	MSD	NA	NA	RESULTS	A comparison of the MSD values showed that 13-hydroxy-(9E_11E)-octadecadienoic acid was the most stable for all MD simulation times, and hence, the predicted tunnel reveals a narrow space in Fig.
+0	NA	NA	NA	RESULTS	12c, which is represented by the green solid phase.
+0	NA	NA	NA	RESULTS	For the other two TCM candidates, divaricatacid and 9-hydroxy-(10E)-octadecenoic acid, the predicted tunnels display spacious areas in Fig.
+0	NA	NA	NA	RESULTS	12b and 12c.
+0	NA	NA	NA	RESULTS	In the 20 ns snapshot (Fig.
+0	NA	NA	NA	RESULTS	13), 13-hydroxy-(9E_11E)-octadecadienoic acid is still close to the key residue His114, which confirms the ligand RMSD, migration analysis and the measurement of the protein-ligand distance (Fig.
+0	NA	NA	NA	RESULTS	13b).
+0	NA	NA	NA	RESULTS	The final snapshot showed large distances between His114 and both divaricatacid and 9-hydroxy-(10E)-octadecenoic acid (Fig.13a and 13c).
+0	NA	PON2	NA	RESULTS	This illustrates that 13-hydroxy-(9E_11E)-octadecadienoic acid is the best potential TCM compound to interact with the PON2 structure
+0	NA	NA	NA	DISCUSS	The results of this genome-wide association study identified 22 YZ constitutionally susceptible SNPs, representing 13 regions of 11 chromosomes.
+1	NA	PON2	NA	DISCUSS	Genotypic distribution showed that high YZ scores were significantly associated with PON2 on chromosome 7, PIEZO2 on chromosome 18, ZNF665 on chromosome 19, FREM2 on chromosome 13, and unknown genes on chromosomes 1p, 2q, and 16p.
+1	diabetes	PCDH10	NA	DISCUSS	PCDH10 on chromosome 4q, and unknown genes on chromosome 5q and chromosome 14q were significantly associated with lower risk of the YZ constitution after controlling for age, sex, diabetes duration, and hemoglobin A1c
+0	NA	NA	NA	DISCUSS	Without doubt, the YZ constitution is a consequence of complicated polygenic influences.
+0	NA	NA	NA	DISCUSS	Genome-wide association studies can provide an overview of whole genomes, and this is an appropriate method for examining the genetic factors of the YZ constitution.
+0	NA	NA	NA	DISCUSS	This technique had been adapted to explore the genetic base of Korean Sasang constitutional medicine
+0	pain	NA	NA	DISCUSS	Common manifestations of YZ include dull, lusterless skin color; dry, cracked, scaly or tough skin; dull purple lips or tongue; and localized pain or numbness.
+0	NA	NA	NA	DISCUSS	A patient with a YZ constitution tends to express BSS, which according to TCM theory, indicates a morbid state of blood stagnancy in a certain area of the body.
+0	NA	NA	NA	DISCUSS	The various expressions of BSS are classified according to the severity and area of blood stagnancy.
+0	cardiovascular disease	NA	NA	DISCUSS	Given its characteristics of circulation disturbance, BSS is considered to be relevant to cardiovascular complications
+1	NA	PON2	rs7493	DISCUSS	The rs7493, rs2299263, and rs17166875 polymorphisms, located in PON2 on chromosome 7q, belong to one of the paraoxonase (PON) gene families, which encode enzymes participating in the hydrolysis of organophosphates.
+0	NA	PON	NA	DISCUSS	The PON gene cluster contains 3 adjacent gene members, PON1, PON2, and PON3.
+0	NA	PON	NA	DISCUSS	All 3 PON genes share high sequential homology and a similar beta propeller protein structure and are thought to have antiatherosclerotic properties.
+0	atherosclerotic	PON	NA	DISCUSS	Thus the PON gene cluster has been considered a target in the treatment of atherosclerosis.
+0	NA	PON2	NA	DISCUSS	PON2 has been shown to prevent LDL oxidation, to reverse the oxidation of mildly oxidized LDL, and to inhibit oxidized LDL-induced monocyte chemotaxis.
+0	atherosclerotic	NA	NA	DISCUSS	It also increases cholesterol efflux and decreases the size of atherosclerotic lesions
+0	NA	PON2	NA	DISCUSS	PON2 is a ubiquitously expressed intracellular protein that is expressed in a wide range of tissues.
+0	NA	PON2	NA	DISCUSS	PON2 exhibits antioxidant functions at the cellular level, in addition to a host of intracellular antioxidative enzymes that act against oxidative stress.
+0	NA	PON2	NA	DISCUSS	PON2 is localized in the inner mitochondrial membrane, associated with respiratory complex III, and binds with high affinity to coenzyme Q10.
+0	NA	NA	NA	DISCUSS	Decreased activity of mitochondrial electron transport chain (ETC.)
+0	atherosclerotic	NA	NA	DISCUSS	complexes is implicated in the development of many inflammatory diseases, including atherosclerosis.
+0	NA	PON2	NA	DISCUSS	PON2 protects ETC.
+0	NA	NA	NA	DISCUSS	complexes against oxidative stress by lowering reactive oxygen species.
+0	mitochondria dysfunction	NA	NA	DISCUSS	The intracellular antioxidative effect plays a role in antiatherosclerosis by avoiding endothelial dysfunction caused by mitochondria dysfunction.
+1	NA	PON2	rs7493	DISCUSS	A common polymorphism rs7493, also known as Ser311Cys, a missense SNP in PON2, has also been associated with the risk of CAD.
+0	hepatic insulin	PON2	NA	DISCUSS	In addition, PON2 plays a role in hepatic insulin signalling.
+0	NA	NA	NA	DISCUSS	PON2-deficient mice display elevated hepatic oxidative stress, coupled with an exacerbated inflammatory response, because of PON2-deficient macrophages.
+0	hepatic insulin	PON2	NA	DISCUSS	PON2 deficiency is associated with inhibitory insulin-mediated phosphorylation of hepatic insulin receptor substrate-1.
+0	hepatic insulin	PON2	NA	DISCUSS	PON2 may enhance the influence of the macrophage-mediated inflammatory response in hepatic insulin sensitivity.
+0	diabetes	PON2	NA	DISCUSS	The PON2 G148 variant has been associated with elevated fasting plasma glucose in patients with type 2 diabetes.
+0	NA	PON2	NA	DISCUSS	The role of PON2 provides the genetic basis underlying the YZ constitution.
+0	cardiovascular disease	PON2	NA	DISCUSS	Patients with a strongly YZ constitution may have PON2 polymorphism with a low protein function which tends to decrease its antioxidative efficacy, resulting in cardiovascular disturbance and hyperglycemia.
+0	NA	PON2	NA	DISCUSS	Thus, PON2 may be a candidate gene for the YZ constitution.
+0	diabetes	PON2	NA	DISCUSS	Treatment using herbal medicines or natural compounds that could potentially regulate PON2 might be useful in protecting type 2 diabetes patients with a YZ constitution from cardiovascular complications
+0	NA	NA	NA	DISCUSS	From the docking results of TCM database screening, we chose three potential TCM candidates based on -PMF scores, divaricatacid, 13-hydroxy-(9E_11E)-octadecadienoic acid and 9-hydroxy-(10E)-octadecenoic acid.
+0	NA	PON2	NA	DISCUSS	We further simulated the interaction between PON2 and TCM compounds under dynamic conditions for 20 ns.
+0	NA	PON2	NA	DISCUSS	13-hydroxy-(9E_11E)-octadecadienoic acid was more stable than the other two candidates for binding with the PON2 structure, which was still connected with active residue His114 after an MD simulation time of 20 ns.
+0	NA	PON2	NA	DISCUSS	According to this result, 13-hydroxy-(9E_11E)-octadecadienoic acid should be a ligand with the ability to regulate PON2.
+0	NA	NA	NA	DISCUSS	13-hydroxy-(9E_11E)-octadecadienoic acid is isolated from the seed of Coix lacryma-jobi L. Coix oil had been reported the efficacy to decrease adipose tissue and LDL concentrations and increase the total antioxidant capacity in hyperlipidemic rats.
+0	NA	PON2	NA	DISCUSS	13-hydroxy-(9E_11E)-octadecadienoic acid may play a role in antiatherosclerosis by avoiding endothelial dysfunction by regulating the antioxidant effect of PON2
+1	NA	ZNF665	rs1133146	DISCUSS	The polymorphisms of rs1133146, rs12971799, rs4801958, rs12460170, and rs4803055 are located in the ZNF665 of chromosome 19q, belonging to the Kruppel zinc finger family.
+0	NA	NA	NA	DISCUSS	Zinc fingers are the most abundant DNA-binding motifs in humans.
+0	NA	NA	NA	DISCUSS	The zinc finger protein families are mainly involved in recognizing DNA sequences, but are also able to bind RNA, DNA-RNA hybrids, and even proteins.
+0	NA	NA	NA	DISCUSS	They work as transcription factors to interact with the control region and achieve gene expression.
+0	NA	NA	NA	DISCUSS	Kruppel type zinc finger genes are widely present in the human genome, and are usually involved in cell growth and differentiation.
+1	NA	ZNF665	NA	DISCUSS	To date, specific details of the function of ZNF665 have not been documented.
+1	NA	ZNF665	NA	DISCUSS	We speculated that the polymorphisms of ZNF665 might lead to poor gene expression because of poor DNA binding ability, which might disturb cell growth and differentiation; in turn, this disturbance might impede epithelial repair and lead to the dry, cracked, scaly, or tough skin that is characteristic of patients with the YZ constitution.
+0	atherosclerotic	NA	NA	DISCUSS	In addition, poor cell growth and differentiation in endothelial progenitor cells might disturb epithelial repair and lead to endothelial dysfunction, which is thought to be a key event in the development of atherosclerosis
+1	NA	FREM2	rs12865228	DISCUSS	The rs12865228 and rs4526895 polymorphisms are located in FREM2 on chromosome 13q.
+0	NA	FRAS1	NA	DISCUSS	This gene encodes a membrane protein that belongs to the FRAS1 family.
+0	NA	NA	NA	DISCUSS	This extracellular matrix protein forms a ternary complex localized on the basement membrane, and plays a role in epidermal-dermal interactions during morphogenetic processes.
+0	retinopathy and nephropathy complications	NA	NA	DISCUSS	The protein is thought to be necessary in maintaining the integrity of skin epithelium, vascular stability, and the differentiated state of renal epithelia.
+1	bruised skin	FREM2	NA	DISCUSS	The polymorphism of FREM2 in patients with high YZ scores might be implicated in skin changes and microcirculation disturbances, leading to dry, cracked, scaly, tough, and bruised skin, and a dull and lusterless face
+1	Type 2 diabetes	PIEZO2	NA	DISCUSS	Our study found that SNPs located in PIEZO2 on chromosome 18p were also associated with high YZ scores among patients with type 2 diabetes.
+0	NA	NA	NA	DISCUSS	PIZEO2 is a large transmembrane protein with 24 to 36 predicted transmembrane domains, and is a component of the mechanosensitive channel.
+0	NA	NA	NA	DISCUSS	This channel is required for the rapid adaptation of mechanically activated currents in dorsal root ganglia.
+0	pain	NA	NA	DISCUSS	Mechanical stimuli drive many physiological processes, including touch and pain sensation, hearing, and blood pressure regulation.
+0	abnormal sensations	NA	NA	DISCUSS	Dysfunction of PIZEO2 might be the source of the abnormal sensations reported by patients with the YZ constitution, including numbness, tightness, tingling pain, and a dull sensation
+1	NA	PCDH10	NA	DISCUSS	PCDH10 on chromosome 4q was associated with a lower risk of the YZ constitution.
+1	NA	PCDH10	NA	DISCUSS	PCDH10 belongs to the protocadherin gene family, a subfamily of the cadherin superfamily.
+1	cancers	PCDH10	NA	DISCUSS	PCDH10 is a putative tumor suppressor gene, and is also known to guide the development of axons.
+0	NA	NA	NA	DISCUSS	Furthermore, several SNPs located in the intergenic area on chromosomes 1p, 2q, 5q, 14q, and 16p require further investigation to clarify their relationship with the YZ constitution
+0	diabetes	NA	NA	CONCL	The findings of this study contribute to an understanding of the genetic susceptibility of patients with type 2 diabetes to the YZ constitution.
+0	atherosclerotic	PON2	NA	CONCL	Risk loci occurred in PON2 that encoded intracellular proteins with antioxidant properties, which normally protect against atherosclerosis and hyperglycemia.
+0	cardiovascular disease	NA	NA	CONCL	Disturbance of this genetic function might constitute one of the mechanisms of cardiovascular disturbance induced by the YZ constitution.
+0	NA	PON2	NA	CONCL	Docking and molecular dynamic simulation showed that 13-hydroxy-(9E_11E)-octadecadienoic acid is a stable ligand of PON2 that may have the ability to regulate the antioxidant effects of PON2.
+1	NA	ZNF665	NA	CONCL	Other related genes included ZNF665, FREM2, PIZEO2, PCDH10 and several SNPs located in genes of unknown function

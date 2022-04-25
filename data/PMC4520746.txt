@@ -1,0 +1,190 @@
+0	pancreatic cancer	NA	NA	INTRO	Pancreatic cancer is the fourth leading cause of cancer death in the developed world.
+0	NA	BRCA2	NA	INTRO	Both inherited high-penetrant mutations in BRCA2, ATM, PALB2, BRCA1, STK11, CDKN2A and mismatch repair genes as well as low-penetrant loci are associated with increased risk.
+0	pancreatic cancer	NA	NA	INTRO	To identify novel loci, we performed a genome-wide association study on 9,925 pancreatic cancer cases and 11,569 controls, including 4,164 newly genotyped cases and 3,792 controls in 9 studies from North America, Central Europe and Australia.
+1	NA	LINC00673	rs11655237	INTRO	Three newly associated regions were identified: 17q25.1 (LINC00673, rs11655237, OR=1.26, 95%CI:1.19-1.34, P=1.42x10-14), 7p13 (SUGCT, rs17688601, OR=0.88, 95%CI:0.84-0.92, P=1.41x10-8), and 3q29 (TP63, rs9854771, OR=0.89, 95%CI:0.85-0.93, P=2.35x10-8).
+1	NA	ETAA1	rs1486134	INTRO	Significant association was detected on 2p13.3 (ETAA1, rs1486134, OR=1.14, 95%CI:1.09-1.19, P=3.36x10-9), a region with prior suggestive evidence in the Han Chinese.
+1	NA	ABO blood group	NA	INTRO	We replicate previously reported associations at 9q34.2(ABO), 13q22.1(KLF5), 5p15.33 (TERT, CLPTM1), 13q12.2 (PDX1), 1q32.1(NR5A2), 7q32.3(LINC-PINT), 16q23.1(BCAR1) and 22q12.1 (ZNRF3).
+0	pancreatic cancer	NA	NA	INTRO	Our study identifies novel loci associated with pancreatic cancer risk
+0	pancreatic cancer	NA	NA	INTRO	We conducted a two-stage genome-wide association study (GWAS) of pancreatic cancer (Fig.
+0	NA	NA	NA	INTRO	1).
+0	pancreatic cancer	NA	NA	INTRO	First, genome-wide genotyping of 8052 subjects from nine studies within the Pancreatic Cancer Case-Control Consortium (PanC4) (Supplementary Table 1) was conducted using the HumanOmniExpressExome-8v1 array.
+0	NA	NA	NA	INTRO	The overall study was approved by the Johns Hopkins Institutional Review Board (IRB).
+0	NA	NA	NA	INTRO	Each individual study obtained IRB approval from their parent institution.
+0	NA	NA	NA	INTRO	After quality control (Online Methods, Fig.
+0	NA	NA	NA	INTRO	1, Supplementary Table 2), 7,956 individuals (4,164 cases and 3,792 controls) and 654,470 SNPs with call rates greater than 98% were analyzed.
+0	NA	NA	NA	INTRO	Unconditional logistic regression analysis adjusted for age and the first seven principal component eigenvectors was conducted under the log-additive genetic model (Fig.
+0	NA	NA	NA	INTRO	2, Supplementary Fig.
+0	NA	NA	NA	INTRO	1)
+1	pancreatic cancer	LINC00673	rs7214041	INTRO	Analysis of 7,956 newly genotyped PanC4 individuals identified a novel locus at 17q25.1 (LINC00673, rs7214041, OR=1.38, 95%CI:1.26-1.51, P=1.95x10-10) significantly associated with pancreatic cancer risk (Table 1, column 'PanC4').
+0	pancreatic cancer	NA	NA	INTRO	In addition we replicate regions that had previously been reported to be associated with pancreatic cancer in the Caucasian population (Supplementary Table 3).
+1	NA	ABO blood group	rs505922	INTRO	These include: 9q34.2 (ABO, rs505922, OR=1.27, 95%CI:1.19-1.35, P=1.72x10-13), 13q22.1 (KLF5, rs9543325, OR=1.24, 95%CI:1.16-1.32, P=2.26x10-10), 5p15.33 (CLPTM1, rs401681, OR=1.2, 95% CI:1.13-1.28, P=2.7x10-8), 13q12.2 (PDX1, rs9581943, OR=1.17, 95%CI:1.10-1.24, P=1.94x10-7), 1q32.1 (NR5A2, rs3790844, OR=0.83, 95%CI:0.77-0.90, P=3.05x10-6), 7q32.3 (LINC-PINT, rs6971499, OR=0.81, 95%CI:0.74-0.88, P=7.1x10-6), 5p15.33 (TERT, rs2736098, OR=0.85, 95%CI: 0.78-0.93, P=2.31x10-5), 16q23.1 (BCAR1, rs7190458, OR=1.4, 95%CI=1.22-1.60, P=1.01x10-4), and 22q12.1 (ZNRF3, rs16986825, OR=1.14, 95% CI= 1.04-1.24, P= 2.72x10-3).
+1	pancreatic cancer	ETAA1	rs2035565	INTRO	In contrast, other than 2p13.3 (ETAA1, rs2035565, OR=1.15, 95%CI=1.07-1.25, P=2.69x10-4) (Supplementary Table 3) we observed no evidence of association (P>0.05) for SNPs previously reported to be associated (P<1x10-6) with pancreatic cancer in Asian populations.
+0	NA	NA	NA	INTRO	While all ethnic groups were included in our analyses, over 92% of our study population reported Caucasian ancestry.
+0	NA	NA	NA	INTRO	We obtained similar results when analysis was limited to individuals reporting European ancestry.
+0	NA	NA	NA	INTRO	Because of limited sample sizes we did not conduct independent analysis of other ethnic groups(results not shown)
+0	NA	NA	NA	INTRO	We then conducted a genome-wide meta-analysis of the PanC4 data with data from PanScan 1 and PanScan 2 (Combined Stage 1, Fig.
+0	NA	NA	NA	INTRO	1).
+0	NA	NA	NA	INTRO	After quality control (Online Methods and Supplementary Table 4), we analyzed 528,179 SNPs and 3,746 individuals (1,856 cases and 1,890 controls) from PanScan 1 and 557,555 SNPs and 3,300 individuals (1,618 cases and 1,682 controls) from PanScan 2.
+0	NA	NA	NA	INTRO	Since the genotyping platforms differed across studies, missing genotypes were imputed using IMPUTE v2, with 1000 Genomes (release Dec 2013) and HapMap3 (release #2,2009) as reference panels.
+0	NA	NA	NA	INTRO	For PanScan 1 and PanScan 2, we conducted association analysis using unconditional logistic regression including age and the first four principal components eigenvectors as covariates.
+0	NA	NA	NA	INTRO	Data from PanC4, PanScan 1, and PanScan 2 were combined (7,638 cases and 7,364 controls and 866,891 SNPs) and analyzed using a fixed-effects model implemented in METAL (Fig.
+0	NA	NA	NA	INTRO	3).
+0	NA	NA	NA	INTRO	A QQ plot (Supplementary Fig.
+0	NA	NA	NA	INTRO	2) indicated appropriate control of type-1 errors, with lambda values of 1.025 for PanC4, 0.998 for PanScan 1, and 1.017 for PanScan 2
+1	NA	TP63	rs9854771	INTRO	The Combined Stage 1 Analysis (Table 1, column 'Combined Stage 1') yielded a second novel region of association at 3q29 (TP63, rs9854771, OR=0.87, 95%CI:0.83-0.92, P=4.08x10-8).
+1	NA	NA	rs11655237	INTRO	A second SNP on 17q25.1 (rs11655237, OR=1.27, 95%CI:1.19-1.36, P=6.74x10-12), which is in high LD (r2=0.95) with rs7214041, also gave significant evidence of association in these combined data
+0	NA	NA	NA	INTRO	We next conducted a Stage 2 analysis in an independent set of 2,497 cases and 4,611 controls from the PANDoRA consortium.
+0	NA	NA	NA	INTRO	We selected twenty-five SNPs from 23 independent regions (Supplementary Table 5) with p-values below 10-5 in either PanC4 or the Combined Stage 1 analyses.
+0	NA	NA	NA	INTRO	When multiple SNPs per region were associated, the most significant SNP was selected; SNPs on 17q25.1 and 2p13.3 were exceptions.
+0	NA	NA	NA	INTRO	After quality control (Online Methods, Supplementary Table 6), 2,287 cases and 4,205 controls from the PANDoRA study were analyzed.
+0	NA	NA	NA	INTRO	Age-adjusted association analyses by country were carried out, and results were combined using a fixed-effect model.
+0	NA	NA	rs7214041	INTRO	We observed independent evidence of association at 17q25.1 in the PANDoRA study (Table 1, column 'PANDoRA': rs7214041, OR=1.25, 95%CI:1.11-1.41, P=3.37x10-4)
+1	NA	ETAA1	rs1486134	INTRO	Combined analysis of the Stage 1 and 2 data for the 25 SNPs (Table 1 and Supplementary Table 5, column 'Combined Stage 1&2') revealed two additional significantly associated loci: 2p13.3(ETAA1, rs1486134, OR=1.14, 95%CI:1.09-1.19, P=3.36x10-9) and 7p13(SUGCT, rs17688601, OR=0.88, 95%CI:0.84-0.92, P=1.41x10-8).
+1	NA	GRP	rs1517037	INTRO	Promising signals (Supplementary Table 7) arose at 18q21.2(GRP, rs1517037, OR=0.87, 95%CI:0.83-0.92, P=3.17x10-7), 12q24.31(HNF1A, rs7310409, OR= 1.11, 95%CI:1.06-1.15, P=6.34x10-7), 1p13.1(WNT2B, rs351365, OR=0.89, 95%CI:0.85-0.93, P=7.39x10-7), and 20q13.11 (rs6073450, OR=1.11, 95%CI:1.06-1.15, P=9.21x10-7)
+0	NA	NA	NA	INTRO	We identified and replicated a novel region for association on 17q25.1 (Fig.
+0	NA	NA	NA	INTRO	4a).
+1	pancreatic cancer	NA	rs11655237	INTRO	Two highly correlated variants (rs11655237 and rs7214041, r2=0.95) were associated with pancreatic cancer risk.
+1	NA	LINC00673	rs7214041	INTRO	Variant rs7214041 is to LINC00673 (long inter-genic non-protein coding RNA 673).
+1	allergy	FOXA1	rs11655237	INTRO	rs11655237, a non-coding transcript variant, shows significant DNase hypersensitivity in multiple cancer cell lines and binds transcription factors including P300, FOXA1, FOXA2, and the DNA repair protein RAD21 according to HaploReg v2.
+1	NA	HNF1A	rs7214041	INTRO	HaploRegV2 also indicated rs7214041 alters regulatory motifs for HNF1.
+1	NA	HNF1A	rs7310409	INTRO	Interestingly, we also found suggestive evidence of an association with rs7310409 located at the HNF1A locus (12q24.31, Supplementary Fig.
+0	NA	NA	NA	INTRO	3a and Supplementary Table 7).
+1	pancreatic cancer	HNF1A	NA	INTRO	A recent study of the pancreatic cancer transcriptome suggests HNF1A may act as a tumor suppressor in pancreatic cancers.
+1	Type 2 diabetes	HNF1A	NA	INTRO	Variation in HNF1A has been associated with risk of Type 2 diabetes, a well-established risk factor for pancreatic cancer, and maturity onset diabetes of the young (MODY).
+1	pancreatic cancer	HNF1A	rs7310409	INTRO	Furthermore, variants in HNF1A (in particular rs7310409) and HNF4A were identified as risk factors for pancreatic cancer in pathway-based and candidate-SNP-based analyses of the PanScan data
+1	NA	TP63	rs9854771	INTRO	We also identified significant association for two variants in high LD (rs9854771 and rs1515496, r2=0.99) located in an intron of TP63 on 3q29 (Fig.
+0	NA	NA	NA	INTRO	4b).
+1	arrest	TP63	NA	INTRO	p63 is a p53 homologue implicated in tumorigenesis and metastasis by playing a role in cell-cycle arrest and apoptosis.
+1	NA	TP63	NA	INTRO	Overexpression of p63 can mimic p53 activation in certain experimental models.
+1	cancers	TP63	NA	INTRO	Interestingly, different isoforms of p63 have opposing effects; TAp63 has tumor suppressive effects while DNp63 has oncogenic effects.
+0	pancreatic cancer	NA	NA	INTRO	Danilov and colleagues suggested DNp63alpha was the predominant isoform in pancreatic cancer cell lines and promoted pancreatic cancer growth, motility and invasion.
+1	lung cancer	TP63	NA	INTRO	Previous GWAS studies of lung cancer and bladder cancer have demonstrated significant evidence of association for SNPs in TP63.
+0	NA	GERP	NA	INTRO	HaploReg query of this region showed that both are predicted to be conserved elements via GERP, suggesting functional roles
+1	NA	NA	rs1486134	INTRO	Our analysis revealed genome-wide significance in a region on 2p13.3 (rs1486134).
+0	pancreatic cancer	NA	rs2035565	INTRO	A pancreatic cancer GWAS in Han Chinese subjects found suggestive evidence for another SNP on 2p13.3 (rs2035565) (Supplementary Table 3).
+0	NA	NA	NA	INTRO	High LD is present throughout this region (Fig.
+1	NA	NA	rs1486134	INTRO	4c), including strong LD between rs1486134 and rs2035565 in European and Asian populations based on 1000 Genomes samples (r2=0.91 and r2=0.90 respectively).
+1	NA	ETAA1	NA	INTRO	This region includes the gene ETAA1 (Ewing tumor-associated antigen 1), alias ETAA16, that may function as a tumor-specific cell surface antigen in the Ewing's family of tumors
+1	NA	SUGCT	rs17688601	INTRO	We observed significant association on 7p13 for rs17688601, located in an intron of the SUGCT (succinyl-CoA:glutarate-CoA transferase) gene (alias c7orf10) (Fig.
+0	NA	NA	NA	INTRO	4d).
+1	NA	HNF1A	NA	INTRO	This variant is predicted in HaploREGV2 to alter binding of HNF1-4 and other DNA binding proteins.
+1	NA	SUGCT	NA	INTRO	The SUGCT protein is involved in glutarate metabolism and mutations in this gene are associated with glutaric aciduria.
+0	pancreatic cancer	NA	NA	INTRO	While there is evidence of altered tricarboxylic acid cycle metabolism in pancreatic cancer, the role of this gene in pancreatic cancer risk is unclear
+1	NA	HNF1A	NA	INTRO	Combined Stage 1 and Stage 2 identified suggestive evidence of association (P<1x10-6) in four regions: 12q24.31(HNF1A) (Supplementary Fig.
+1	NA	GRP	NA	INTRO	3a), 18q21.2(GRP) (Supplementary Fig.
+1	NA	WNT2B	NA	INTRO	3b), 1p13.1(5' of WNT2B) (Supplementary Fig.
+0	NA	NA	NA	INTRO	3c), and 20q13.11 (Supplementary Fig.
+0	NA	NA	NA	INTRO	3d).
+1	pancreatic cancer	GRP	NA	INTRO	GRP (gastrin releasing peptide) production has been associated with pancreatic tumor growth in vitro.
+0	NA	NA	NA	INTRO	WNT signaling plays an important role in pancreas development.
+1	pancreatic cancer	WNT2B	NA	INTRO	WNT2B (Wingless-Type MMTV Integration Site Family, Member 2B) is overexpressed in pancreatic cancer and has been associated with decreased survival.
+0	diabetes	HNF4A	NA	INTRO	The 20q13.11 variant is located ~20kb of the HNF4A (MODY) gene, mutations of which are associated with early-onset diabetes
+0	NA	NA	NA	INTRO	In the PanC4 study we observed 11 SNPs on chromosome 9q31.3 (Supplementary Fig.
+0	NA	SMC2	rs10991043	INTRO	3e) in moderate to high LD (r2 values between 0.6 and 1) with p-values from 7.00x10-8 to 2.73x10-6, including rs10991043 (OR=1.19, 95%CI:1.12-1.26, P=7.00x10-8) nearby the SMC2 (structural maintenance of chromosome 2) gene.
+0	NA	NA	NA	INTRO	This gene plays an important role in DNA repair in humans.
+0	NA	NA	NA	INTRO	While there was no evidence of association in the other study populations examined, the strong signal across multiple SNPs in PanC4 suggest that this region merits further investigation
+0	NA	NA	NA	INTRO	Further functional characterization of these associated regions is needed, including examining if these SNPs are functional through eQTL.
+0	pancreatic	NA	NA	INTRO	Performing eQTL analysis of pancreatic tissues is challenging.
+0	pancreatic	NA	NA	INTRO	Normal pancreatic tissue is primarily comprised of acinar cells (>90%), but pancreatic ductal adenocarcinoma has a ductal phenotype, and the appropriate normal tissue to analyze is debatable because the cell of origin of pancreatic ductal adenocarcinomas is debated.
+0	pancreatic cancer	NA	NA	INTRO	eQTL analysis of pancreatic tumor tissue is also problematic because the tumor tissue of a pancreatic ductal adenocarcinomas contains a variable mixture of cell types including fibroblasts, multiple types of immune cells, non-neoplastic pancreatic cells and cancer cells, with cancer cells representing only a minority of the total cell population.
+0	pancreatic	NA	NA	INTRO	Furthermore, gene expression analysis of normal pancreatic tissue is often limited by the RNA degradation associated with high level RNAase expression in pancreatic acinar cells.
+0	pancreatic	NA	NA	INTRO	An ideal study of pancreatic eQTLs for pancreatic cells would take into account these challenges
+0	pancreatic cancer	NA	NA	INTRO	Smoking is a well-established risk factor for pancreatic cancer.
+0	NA	NA	NA	INTRO	For all nine SNPs identified in Table 1 and Supplementary Table 7, we conducted an analysis stratified by smoking status (ever smoker vs. never smoker) in PanC4 samples.
+0	NA	NA	NA	INTRO	No qualitative differences in effect size between current smokers and never smokers were observed (results not shown).
+0	NA	NA	NA	INTRO	Furthermore, when we included an interaction term in the model, this term was not significant at the 0.05 level
+0	pancreatic cancer	NA	NA	INTRO	We estimated the heritability of pancreatic cancer due to common GWAS SNPs using data from PanC4 samples of Caucasian ancestry using only directly genotyped SNPs(3,828 cases, 3,551 controls and 620,357 SNPs) as well as the combined dataset (7,032 cases 6,866 controls 268,681 SNPs).
+0	pancreatic cancer	NA	NA	INTRO	Using a disease prevalence of 0.0149, reflecting the lifetime risk of pancreatic cancer, we estimated that 16.4% (95%CI: 10.4%-22.4%) in PanC4 and 13.1% (95%CI 9.9%-16.3%) for the combined dataset of the total phenotypic variation was explained by genome-wide common SNPs.
+0	NA	NA	NA	INTRO	The established associated regions (loci in Table 1 and Supplemental Table 3), accounted for 3.0% (95%CI: 2.0%-3.9%) and 2.1%(95%CI 1.7%-3.1%) of the total phenotypic variation in the Panc4 population and the combined dataset, respectively
+0	pancreatic cancer	NA	NA	INTRO	We identified several novel regions involved in pancreatic cancer susceptibility, and provided additional evidence to support many of the established associations.
+0	NA	NA	NA	INTRO	While it is of interest that many of these highly associated variants are located in the introns of genes, these associations could be due to more distant genomic effects.
+0	pancreatic cancer	NA	NA	INTRO	Follow-up studies, including functional studies, are needed to fully understand how these variants (either directly or indirectly) impact risk of pancreatic cancer.
+0	pancreatic cancer	NA	NA	INTRO	Our work highlights the importance of common variation in pancreatic cancer risk
+0	pancreatic cancer	NA	NA	METHODS	In total, 8052 individuals were selected for genotyping from studies participating in the Pancreatic Cancer Case-Control Consortium (PanC4).
+0	NA	NA	NA	METHODS	Participating sites included: The Central Europe study coordinated by the International Agency for Research on Cancer (IARC/Central Europe), Johns Hopkins Hospital, Mayo Clinic, MD Anderson Cancer Center, Memorial Sloane-Kettering Cancer Center, University of Toronto, Queensland, University of California San Francisco (UCSF), and Yale University (Supplementary Table 1).
+0	pancreatic cancer	NA	NA	METHODS	Cases were defined as individuals with adenocarcinoma of the pancreas.
+0	pancreatic cancer	NA	NA	METHODS	DNA samples from these individuals from PanC4, 180 study duplicates, 176 HapMap control samples, and 26 replicates from the previous pancreatic cancer GWAS PanScan 2, were genotyped on the IlluminaHumanOmniExpressExome-8v1 array at the Johns Hopkins Center for Inherited Disease Research (CIDR).
+0	NA	NA	NA	METHODS	Genotypes were called using GenomeStudio version 2011.1, Genotyping Module 1.9.4 and GenTrain version 1.0
+0	chromosomal anomalies	NA	NA	METHODS	Genotyping results were inspected for quality by assessing the missing call rate, allelic imbalance, heterozygosity, discordance in reported versus genotyped gender, relatedness, ancestry and chromosomal anomalies.
+0	NA	NA	NA	METHODS	Unexpected relatedness between pairs of samples was assessed using the method of moments implemented in SNPRelate.
+0	NA	NA	NA	METHODS	The median genotype call rate was 99.9%, with all individuals having a call rate greater than 98%.
+0	NA	NA	NA	METHODS	After removing individuals with excessive allele sharing, duplicates and subjects with incomplete information on age, 7,956 subjects (4,164 cases and 3,792 controls) were available for statistical analyses (Supplementary Table 2).
+0	error and experimental error	NA	NA	METHODS	SNPs with the following characteristics were excluded from statistical analyses: positional duplicates, more than two discordant calls in study duplicates, technical failures or missing call rate greater than 2%, more than one Mendelian error in HapMap control trios, Hardy-Weinberg equilibrium p-value<10-6, sex difference in allele frequency greater than 0.2 for autosomes/XY in samples of European ancestry, and minor allele frequencies (MAF) less than 0.005.
+0	NA	NA	NA	METHODS	Overall 654,470 SNPs passed the quality control filters applied; the median missing call rate was 0.024% and 98% of SNPs had a missing call rate less than 1% (Supplementary Table 2)
+0	NA	NA	NA	METHODS	PanScan 1 and PanScan 2 data were obtained from dbGAP (dbGaP study accession: phs000206.v4.p3).
+0	NA	NA	NA	METHODS	Data from all participating sites apart from Group Health (which required a separate data sharing agreement) were included in the analysis.
+0	NA	NA	NA	METHODS	Previously published PanScan 1 and PanScan 2 studies used the Illumina HumanHap550 and Illumina Human 610-Quad chips respectively.
+0	NA	NA	NA	METHODS	Quality control was performed as described above for PanC4.
+0	NA	NA	NA	METHODS	Forty-five unexpected duplicates between PanScan 1, PanScan 2, and PanC4 were identified and removed from analyses of the PanScan datasets.
+0	NA	NA	NA	METHODS	After data cleaning, 528,179 SNPs and 3,746 individuals (1,856 cases, 1,890 controls) remained in PanScan 1, and 557,555 SNPs and 3,300 individuals (1,618 cases and 1,682 controls) remained in PanScan 2 (See Supplementary Table 4)
+0	NA	NA	NA	METHODS	To investigate population structure, principal components analysis (PCA) was conducted separately for PanC4, PanScan 1 and PanScan 2 using SNPRelate (Supplementary Fig.
+0	NA	NA	NA	METHODS	4).
+0	NA	NA	NA	METHODS	Genotype imputation was performed separately for PanScan 1, PanScan 2 and PanC4 using IMPUTE v2.
+0	NA	NA	NA	METHODS	Since PanScan 1 and PanScan 2 SNPs were originally mapped using an older genome assembly (NCBI build 36), we converted their genome position to genome assembly NCBI build 37 by using LIFTOVER.
+0	NA	NA	NA	METHODS	Markers not identified in the build 37 assembly were removed.
+0	NA	NA	NA	METHODS	To decrease computational time, we pre-phased genotypes to produce best-guess haplotypes using SHAPEIT v2 software.
+0	NA	NA	NA	METHODS	Both 1000 Genomes Phase I-integrated haplotypes (release Dec 2013) and HapMap3 (release #2,2009) were used as reference panels during imputation
+0	NA	NA	NA	METHODS	After imputation, SNPs with quality scores < 0.3 were excluded from all subsequent analysis.
+0	NA	NA	NA	METHODS	Only SNPs directly genotyped in either PanC4, PanScan 1, or PanScan 2 and passing quality control filters were retained for analysis.
+0	NA	NA	NA	METHODS	This resulted in 866,891 SNPs in the Combined Stage 1 analysis.
+0	NA	NA	NA	METHODS	The expected genotype counts were then analyzed using the frequentist test option of SNPTEST.
+0	NA	NA	NA	METHODS	Decade of age and eigenvectors from PCA were included as covariates.
+0	pancreatic cancer	NA	NA	METHODS	The number of eigenvectors to include was chosen based on inspection of the scree plot and p-values from association between eigenvectors and pancreatic cancer status.
+0	NA	NA	NA	METHODS	The results from each study were then combined using a fixed-effects inverse standard error approach implemented by METAL (see Supplementary Table 5, column 'Combined Stage 1').
+0	NA	NA	NA	METHODS	Test statistic inflation (lambda), was estimated to be 1.025 for PanC4, 0.998 for PanScan 1, and 1.017 for PanScan 2.
+0	NA	NA	NA	METHODS	Test statistics for PanC4 and PanScan 2 were adjusted to account for small amounts of population stratification using METAL's genomic control option.
+0	NA	NA	NA	METHODS	Our sample size gives us over 80% power to detect an odds ratio of 1.2 for SNPs with a minor allele frequency greater than 0.20.
+0	NA	NA	NA	METHODS	Manhattan and QQ plots of PanC4 GWAS are shown in Fig.
+0	NA	NA	NA	METHODS	2 and Supplementary Fig.
+0	NA	NA	NA	METHODS	1, respectively.
+0	NA	NA	NA	METHODS	Manhattan and QQ plots showing association results from the Combined Stage 1 analysis are shown in Fig.
+0	NA	NA	NA	METHODS	3 and Supplementary Fig.
+0	NA	NA	NA	METHODS	2.
+0	NA	NA	NA	METHODS	To examine whether our association results were confounded by population stratification, we conducted a secondary analysis, restricting our samples to those of European ancestry based on a PCA analysis performed with PanC4 and Hapmap3 samples.
+0	NA	NA	NA	METHODS	The loci identified through association testing did not change, and their odds ratios and p-values did not vary significantly (results not shown)
+0	PANcreatic Disease	NA	NA	METHODS	Twenty-five SNPs from 23 independent regions identified as showing evidence of association (P<1x10-5) in either the PanC4 analysis or the Combined Stage 1 analysis, were genotyped in samples from the PANcreatic Disease ReseArch (PANDoRA) consortium with TaqMan technology.
+0	NA	NA	NA	METHODS	These samples were drawn from case-control studies in six European countries: Czech Republic, Germany, Greece, Italy, Lithuania, and Poland.
+0	pancreatic cancer	NA	NA	METHODS	In total, 2497 cases with pancreatic cancer and 4611 controls were genotyped.
+0	NA	NA	NA	METHODS	8% of samples were duplicated and overall concordance was >99%.
+0	NA	NA	NA	METHODS	Supplementary Table 6 shows the features of the PANDoRA dataset.
+0	NA	NA	NA	METHODS	Samples missing more than 2 SNPs (~15%) or missing covariate information were excluded from analyses.
+0	NA	NA	NA	METHODS	In total, 2,287 cases and 4,205 controls from the PANDoRA study remained after quality control
+0	NA	NA	NA	METHODS	Because PANDoRA is a collection of samples from various centers, we analyzed each country separately.
+0	NA	NA	NA	METHODS	Logistic regression models with additive effects of each allele were fit, as implemented in PLINK (Supplementary Table 5, column 'PANDoRA').
+0	NA	NA	rs16867971	METHODS	Two SNPs, rs16867971 for Greece and rs10850078 for Lithuania, showed evidence of departure from HWE in controls (P<0.001).
+0	NA	NA	NA	METHODS	The SNP violating HWE was not analyzed for that country.
+0	NA	NA	NA	METHODS	A final fixed-effects meta-analysis of PanC4, PanScan 1, PanScan 2, and PANDoRA (Combined Stage 1 and 2 analysis) was then conducted using METAL on the 25 SNPs chosen for inclusion in Stage 2.
+0	NA	NA	NA	METHODS	Results are in Supplementary Table 5, column 'Combined Stage 1&2'.
+0	NA	NA	NA	METHODS	To further interrogate these regions we examined all 1000G imputed SNPs (as described above) in regions with significant or suggestive (P<1x10-6) evidence of association (Fig.
+0	NA	NA	NA	METHODS	4 and Supplemental Fig.
+0	NA	NA	NA	METHODS	3)
+0	NA	NA	NA	METHODS	In our Combined Stage 1 analysis (Supplementary Table 5, column 'Combined Stage 1'), two SNPs selected for replication were observed to have heterogeneity p-values below 0.001.
+0	NA	NA	NA	METHODS	When restricting our analysis to individuals of European ancestry, heterogeneity p-values from the meta-analysis remained virtually unchanged, implying that the heterogeneity was not due to population stratification.
+0	NA	NA	rs16867971	METHODS	One SNP, rs16867971, was directly genotyped in PanC4 and imputed in PanScan 1 and PanScan 2.
+0	NA	NA	rs16867971	METHODS	We found evidence of association for rs16867971 in PanC4, but not in PanScan 1 or PanScan 2 (P>0.05).
+0	NA	NA	rs6706539	METHODS	The second SNP, rs6706539, was also directly genotyped in PanC4 and imputed in PanScan 1 and PanScan 2.
+0	NA	NA	rs6706539	METHODS	For rs6706539, allele A was associated with increased risk in PanScan 1 and PanScan 2 (P=0.008 and P=0.04, respectively) but protective in PanC4 (P=3.4x10-6).
+0	NA	NA	rs6706539	METHODS	Upon examination of the imputed and non-imputed SNPs adjacent to rs6706539, we found that r2 values between this SNP and other SNPs within 10kb were low, ranging from 0.05 to 0.18 in 1000 Genomes CEU samples.
+0	NA	NA	NA	METHODS	It is possible that this low LD made imputation of this SNP rather difficult.
+0	NA	NA	NA	METHODS	Additionally, inspection of the alleles coded as reference and alternate alleles for this SNP in PanC4 and 1000 Genomes suggests that this oddity is not due to differences in strand alignment
+0	NA	NA	NA	METHODS	Forest plots of our top hits (Supplemental Fig.
+0	NA	NA	NA	METHODS	"5a-5i) showing the magnitude of odds ratios for each study population show that in the majority of the ""top"" SNPs, those with p-value <1x10-6, the direction of the effect was consistent across populations."
+0	NA	NA	NA	METHODS	Additionally, none of the top SNPs showed significant heterogeneity (at the 0.05 level) in the Combined Stage 1 and Stage 2 analysis.
+0	NA	NA	NA	METHODS	However, in many instances the effect size in the PanScan I population was smaller than the association observed in PanScan II, PanC4 and PANDoRA.
+0	NA	NA	NA	METHODS	We conducted a random effects meta-analysis as well and overall the results were consistent with the results observed from the fixed-effect meta-analysis (results not shown)
+0	NA	NA	NA	METHODS	Heritability analysis was performed using GCTA software.
+0	NA	NA	NA	METHODS	This analysis estimates the percentage of phenotypic variance explicated by common SNPs.
+0	NA	NA	NA	METHODS	We assumed a prevalence of 0.0149 (risk to age 90 in the US Caucasian population; SEER data collected in 2009-2011).
+0	NA	NA	NA	METHODS	We excluded individuals not clustering with HapMap CEU (CEPH- Utah residents with ancestry from northern and western Europe) samples in PCA analysis as well as individuals with estimated relationships > 0.05 or missing genotype rate >0.01.
+0	NA	NA	NA	METHODS	SNPs with missing rate>0.05, MAF <0.01 and HWE p-value<5x10-4 were also excluded.
+0	NA	NA	NA	METHODS	We estimated the overall heritability in the PanC4 study using SNP data, as well as the heritability attributed to the 12 regions with significant evidence of association in the Caucasian population plus the 6 suggestive regions identified
+0	NA	NA	NA	METHODS	HaploReg is a tool used for exploring functional annotations of non-coding variants.
+0	NA	NA	NA	METHODS	For each variant and region identified in this study, we used HaploReg to gain insight into functional annotations including chromatin state (promoters and enhancers), conserved regions, variant effect on regulatory motifs and protein binding sites.
+0	NA	NA	NA	METHODS	Regions were defined by SNPs with r2>0.8 to the associated SNP
+0	NA	NA	NA	FIG	Manhattan plot of PanC4 association analysis.
+0	pancreatic cancer	NA	NA	FIG	Loci previously associated with pancreatic cancer in Caucasians are shown in black, 2p13.3 in blue and novel loci in red
+0	NA	NA	NA	FIG	Manhattan plot of Combined Stage 1 association analysis.
+0	pancreatic cancer	NA	NA	FIG	Loci previously associated with pancreatic cancer in Caucasians are shown in black, 2p13.3 in blue and novel loci in red
+0	NA	NA	NA	FIG	Regional association and linkage disequilibrium (LD) plots for four novel genome-wide significant loci: (a) 17q25.1, (b) 3q29, (c) 2p13.3, and (d) 7p13.
+0	NA	NA	NA	FIG	Association p-values are shown for three analyses: PanC4 only (black circles), Combined Stage 1 (PanC4, PanScan 1, and PanScan 2) (grey circles), and Combined Stage 1 and 2 (PanC4, PanScan 1, PanScan 2, and PANDoRA) (red circles).
+0	NA	NA	NA	FIG	LD plots are based on 1000 Genomes European samples

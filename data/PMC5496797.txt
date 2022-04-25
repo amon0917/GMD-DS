@@ -1,0 +1,149 @@
+0	Alzheimer's disease	NA	NA	ABSTRACT	Genetic loci for Alzheimer disease (AD) have been identified in whites of European ancestry, but the genetic architecture of AD among other populations is less understood
+0	Alzheimer's disease	NA	NA	ABSTRACT	We conducted a transethnic genome-wide association study (GWAS) for late-onset AD in Stage 1 sample including whites of European Ancestry, African Americans, Japanese, and Israeli-Arabs assembled by the Alzheimer's Disease Genetics Consortium (ADGC).
+0	Alzheimer's disease	NA	NA	ABSTRACT	Suggestive results from Stage 1 from novel loci were followed up using summarized results in the International Genomics Alzheimer's Project (IGAP) GWAS dataset
+1	NA	NA	NA	ABSTRACT	Genome-wide significant (GWS) associations in SNP-based tests (P<5x10-8) were identified for SNPs in PFDN1/HBEGF, USP6NL/ECHDC3, and BZRAP1-AS1, and for the interaction of the APOE epsilon4 allele with NFIC SNP.
+0	NA	TPBG	NA	ABSTRACT	We also obtained GWS evidence (P<2.7x10-6) for gene-based association in the total sample with a novel locus, TPBG (P=1.8x10-6)
+0	Alzheimer's disease	NA	NA	ABSTRACT	Our findings highlight the value of transethnic studies for identifying novel AD susceptibility loci
+0	Alzheimer's disease	NA	NA	INTRO	Alzheimer disease (AD) is the most prevalent neurodegenerative disease in persons aged 65 years and older and the sixth leading cause of death in the United States.
+0	dementia	NA	NA	INTRO	Total healthcare payments in 2014 for people aged 65 years and older with dementia are estimated at $214 billion.
+0	Alzheimer's disease	NA	NA	INTRO	By the middle of the century, the number of Americans with AD is projected at 13.8 million with one new case developing every 33 seconds or almost one million new cases per year.
+0	Alzheimer's disease	NA	NA	INTRO	The global burden of AD or dementia in 2015 is more daunting with new cases of dementia in every 3 seconds, and the estimated worldwide costs of dementia are about $818 billion, rising to $2 trillion by 2030.
+0	dementia	NA	NA	INTRO	The number of people living with dementia in 2015 is estimated to be 9.4 million in the Americas, 10.5 million in Europe, 4.0 million in Africa, and 22.9 million in Asia.
+0	NA	NA	NA	INTRO	This is a tremendous global epidemic in elderly persons regardless of ethnic background
+0	Alzheimer's disease	NA	NA	INTRO	AD with onset age after 65 years is highly heritable with an estimated 74% of the liability explained by genetic factors.
+0	Alzheimer's disease	apolipoprotein E	NA	INTRO	A major genetic risk factor for AD is APOE genotype which accounts for approximately 35% of the genetic variance.
+0	NA	apolipoprotein E	rs429358	INTRO	The three common APOE alleles (epsilon2, epsilon3 and epsilon4) are determined by combinations of polymorphic amino acid residues at Arg112 (rs429358) and Cys158 (rs7412).
+0	NA	NA	NA	INTRO	Among non-Hispanic whites of European Ancestry (EA), epsilon4 heterozygotes have a 2.5 to 3.0 fold increased risk and epsilon4 homozygotes have a 10-12 fold increased risk, compared to persons with the epsilon3/epsilon3 genotype.
+0	Alzheimer's disease	NA	NA	INTRO	The epsilon2 allele is protective such that carriers of this allele have a 40% reduction in AD risk compared to epsilon3/epsilon3 individuals.
+0	Alzheimer's disease	apolipoprotein E	NA	INTRO	The effect of APOE genotype to AD risk is highly variable in other populations.
+0	Alzheimer's disease	NA	NA	INTRO	The epsilon4 frequency is lower in Asians and associated with higher AD risk among Japanese compared to EAs.
+0	Alzheimer's disease	NA	NA	INTRO	In contrast, the effect of epsilon4 on AD risk is much less in African Americans among whom the epsilon4 frequency is about 50% higher than in EAs.
+0	dementia	NA	NA	INTRO	It is noteworthy that the epsilon4 allele is virtually absent among Arabs living in northern Israeli community where the prevalence of dementia is roughly double than in EA populations
+0	Alzheimer's disease	NA	NA	INTRO	More than 20 loci have been robustly associated with AD and are enriched in immune response, regulation of endocytosis, cholesterol transport, and protein ubiquitination pathways.
+0	Alzheimer's disease	NA	NA	INTRO	A recent genome-wide association study (GWAS) identified significant association of AD with multiple single nucleotide polymorphisms (SNPs) in the MAPT-KANSL1 region among EAs lacking an APOE epsilon4 allele.
+0	Alzheimer's disease	NA	NA	INTRO	Genetic studies in other populations have increased our understanding of the genetic architecture of AD.
+0	NA	apolipoprotein E	NA	INTRO	For example, the effect of the APOE epsilon4 allele is much greater in Japanese and substantially weaker in African American and some Hispanic groups, due in part to varying frequencies of this allele across populations.
+0	Alzheimer's disease	sortilin-related receptor L(DLR class A) repeats-containing	NA	INTRO	Three loci (SORL1, ABCA7, and ACE) whose association with AD attained genome-wide significance in EAs were found to have larger effects on AD risk in African Americans, (ABCA7), Japanese (SORL1), and Israeli-Arabs (ACE).
+0	NA	PLXNA4	NA	INTRO	Some loci including PLXNA4 and SORL1 demonstrate allelic heterogeneity among genetically diverse populations.
+0	Alzheimer's disease	NA	NA	INTRO	In the current study, we leveraged genetic diversity across ethnic groups to increase discovery of additional AD risk loci by combining GWAS results obtained from samples of EAs, African Americans, Japanese and Israeli-Arabs
+0	Alzheimer's disease	NA	NA	METHODS	Details of subject recruitment and genotyping for individual case-control and family-based datasets, genotype imputation, quality control, population substructure, and statistical methods for association analyses were reported previously for Alzheimer's Disease Genetics Consortium (ADGC) datasets containing EAs, African Americans (AA), Japanese (JPN), and Israeli-Arab (IA).
+0	NA	NA	NA	METHODS	Characteristics of the 33,269 ADGC subjects (26,320 EA, 4,983 AA, 1,845 JPN, and 115 IA) used for discovery in Stage 1 were shown in Supplementary Table 1.
+0	Alzheimer's disease	NA	NA	METHODS	Summarized results archived in the NIA Genetics of Alzheimer's Disease Data Storage Site (https://www.niagads.org/) that are from a previous GWAS of EAs conducted by the International Genomics Alzheimer's Project (IGAP) including 5,813 AD cases and 20,474 controls after excluding the ADGC datasets were used in Stage 2 follow-up analyses (Supplementary Table 1)
+0	NA	NA	NA	METHODS	The primary analysis was a single GWAS including all discovery datasets.
+0	NA	NA	NA	METHODS	Analyses were performed separately for each dataset and the results were pooled sequentially, first within ethnic groups and then across ethnic groups.
+0	NA	NA	NA	METHODS	The minimum detectable genotype relative risk for EAs range from 1.16 for MAF=0.5 to 1.73 for MAF=0.01.
+0	NA	NA	NA	METHODS	The corresponding ranges for AAs and JPN are 1.40-2.69 and 1.74-3.78, respectively.
+0	NA	NA	NA	METHODS	GRRs of <5 are not detectable with 80% power in the small IA sample.
+0	NA	NA	NA	METHODS	However, the goal of this study was not for novel discovery within ethnic groups but rather in the total transethnic sample.
+0	NA	apolipoprotein E	NA	METHODS	Prompted by findings of previous studies, we also conducted separate GWAS in subgroups of subjects who have or lack an APOE epsilon4 allele.
+0	Alzheimer's disease	apolipoprotein E	NA	METHODS	We also applied a complementary approach for assessing a differential effect of association by APOE genotype by evaluating association of AD with an interaction of SNP and epsilon4 status
+0	NA	apolipoprotein E	NA	METHODS	Within each dataset, genome-wide association analyses were conducted using more than 7 million imputed SNPs in the total sample, as well as in subgroups of subjects with and without the APOE epsilon4 allele, using regression models including age, sex, the first three PCs.
+0	NA	NA	NA	METHODS	An additive effect of a SNP was included in the model as a quantitative estimate between 0 and 2 representing the probability score of the effect allele to incorporate the uncertainty of the imputation estimates.
+0	NA	NA	NA	METHODS	Models were evaluated using a logistic generalized linear model in case-control datasets and a logistic generalized estimating equation in family-based datasets.
+0	NA	apolipoprotein E	NA	METHODS	We also evaluated models including a term for the interaction of the SNP dosage with the APOE epsilon4 status and models among subgroups stratified by APOE epsilon4 status.
+0	NA	NA	NA	METHODS	Results for each model across datasets were combined by meta-analysis separately within each ethnic group using a fixed-effects, inverse-variance weighted meta-analysis in the METAL program.
+0	NA	NA	NA	METHODS	SNPs with a minor allele frequency >=1% and imputation quality>=0.4 that were available in at least 50% of the datasets were included in the meta-analysis.
+0	NA	NA	NA	METHODS	The meta-analysis P-value for association was estimated by the summarized test statistic, after applying genomic control within each individual study.
+0	NA	NA	NA	METHODS	Meta-analysis was also conducted using Han and Eskin's modified random effects model (RE-HE) that is optimized to detect associations under effect heterogeneity, as implemented in METASOFT.
+0	NA	NA	NA	METHODS	This model has similar power to the fixed effects model when heterogeneity is modest, e.g., when the standard deviation of the different ethnicities log odds ratios is <=0.5 times the mean log odds ratio, but has better power than the fixed effects model for substantial heterogeneity.
+0	NA	NA	NA	METHODS	Thus, we do not expect the RE-HE model to produce substantially different results from the fixed effects model unless substantial heterogeneity among ethnicities exists
+0	NA	NA	NA	METHODS	We conducted genome-wide gene-based tests using ethnic-specific association results from SNP-based tests.
+0	NA	NA	NA	METHODS	Intragenic SNPs and SNPs within 30 kilobases (kb) of transcription start and stop sites were included in each gene-based test.
+0	NA	NA	NA	METHODS	We used the GATES method, which computes a gene-based P-value using SNP-based p values and SNP-SNP correlations by penalizing lack of association in correlated SNPs.
+0	NA	NA	NA	METHODS	Ethnic-specific gene-based results for EA, AA, JPN, and IA groups were combined using the sample-size weighted Z-score method in METAL assuming the same direction of effect
+0	NA	p<10-5	NA	METHODS	In Stage 2, we attempted to replicate Stage 1 top-ranked SNP-based (P<10-5) results and validate gene-based (P<10-4) results from each ethnic subgroup.
+0	Alzheimer's disease	NA	NA	METHODS	Previously known AD genes were evaluated in Stage 2 only when both SNP-based and gene-based P values met threshold criteria for follow up.
+0	NA	NA	NA	METHODS	These analyses incorporated summarized results for the Stage 2 ADGC datasets and previously reported results for IGAP datasets excluding those from the ADGC that are described in Supplementary Table 1.
+0	NA	NA	NA	METHODS	The genome-wide significance threshold was set at P<5x10-8 for individual SNPs and P<2x10-6 for gene-based tests in the Stage 1+2 analyses
+0	Alzheimer's disease	apolipoprotein E	NA	RESULTS	There was little evidence for genomic inflation in SNP-based GWA results in the total sample with main effect (lambda=1.02) and interaction effect of a SNP with APOE epsilon4 status on AD risk (lambda=1.02), as well as in APOE epsilon4+ subjects (lambda=0.99) and APOE epsilon4- subjects (lambda=0.99) (Supplementary Fig.
+0	NA	NA	NA	RESULTS	1).
+0	Alzheimer's disease	CR1	NA	RESULTS	In the total sample, we confirmed genome-wide significant (GWS) association (p<5x10-8) with SNPs in several previously implicated AD loci including CR1, BIN1, PTK2B, MS4A2/MS4A6A, PICALM (Supplementary Table 2, Supplementary Fig.
+0	NA	NA	NA	RESULTS	2).
+1	NA	NFIC	NA	RESULTS	GWS association was also observed with SNPs in NFIC and PRKCE through interaction with APOE (Supplementary Fig.
+1	NA	ECHDC3	NA	RESULTS	2B) and with SNPs between USP6N and ECHDC3 among subjects lacking APOE epsilon4 (Supplementary Fig.
+0	NA	NA	NA	RESULTS	2D).
+0	NA	PICALM	NA	RESULTS	Top-ranked SNPs in EA for PICALM, SORL1, and ABCA7 had strong support for association in Japanese, whereas the top-ranked SNPs in CR1, BIN1, and EPHA1 were consistently associated in EA and AA (Supplementary Table 2).
+0	NA	NME8	NA	RESULTS	In contrast, the effect direction was significantly opposite in EA versus AA for NME8, ABCA7, and CASS4 SNPs (Supplementary Table 2).
+0	NA	NA	NA	RESULTS	A total of 35 SNPs from nine novel loci met criteria for follow up in Stage 2 (Supplementary Table 3).
+0	NA	apolipoprotein E	rs7412	RESULTS	Extensive evaluation of SNPs from the APOE region across the different ethnic groups demonstrated that only the APOE epsilon2 SNP (rs7412) remained genome-wide significant among APOE epsilon4- subjects (Supplementary Table 4), confirming our prior observation that APOE accounts for all association signals in this region.
+0	NA	NA	NA	RESULTS	SNPs in other loci showed suggestive evidence for association (P<10-6) in EAs or AAs (Supplementary Table 5), but these results were much less significant in the transethnic meta-analyses.
+1	NA	apolipoprotein E	rs9749589	RESULTS	Analysis of models including an interaction term for each SNP with APOE epsilon4 status identified a GWS significant interaction (interaction: P = 1.5x10-8) for NFIC SNP rs9749589 (Table 1).
+0	Alzheimer's disease	NA	NA	RESULTS	This SNP appeared protective in epsilon4+ subjects (OR=0.83, P=6.4x10-6) but slightly increased risk of AD in epsilon4- subjects (OR=1.11, P=6.0x10-3) (Supplementary Table 6)
+0	Alzheimer's disease	CR1	NA	RESULTS	In the combined Stage 1+2 sample, GWS association was observed with SNPs in several previously established AD loci (CR1, BIN1, PTK2B, MS4A4A, and PICALM) (Supplementary Fig.
+0	NA	NA	NA	RESULTS	3, Supplementary Fig.
+0	NA	NA	NA	RESULTS	4).
+1	NA	NA	NA	RESULTS	Follow-up of the 35 SNPs from novel loci in Stage 2 revealed nominally significant associations for nine SNPs in PFDN1/HBEGF, USP6NL/ECHDC3, and BZRAP1-AS1 (Supplementary Table 6).
+1	NA	PFDN1	rs11168036	RESULTS	In the combined Stage 1+2 sample, GWS association was attained with two intergenic SNPs between PFDN1 and HBEGF (best SNP: rs11168036, P=7x10-9), six intergenic SNPs between USP6NL and ECHDC3 (best SNP: rs7920721, P=3x10-8), BZRAP1-AS1 SNP rs2632516 (P=4x10-8) (Table 1, Fig.
+0	NA	NA	NA	RESULTS	1, Supplementary Table 6).
+1	NA	NA	NA	RESULTS	Analyses of models that conditioned on the top SNP at the PFDN1/HBEGF, USP6NL/ECHDC3, and BZRAP1-AS1 loci confirmed a single association signal in each region (Supplementary Fig.
+0	NA	NA	NA	RESULTS	5).
+1	NA	NFIC	rs9749589	RESULTS	The significant interaction between NFIC SNP rs9749589 and epsilon4 status in Stage 1 was not significant in Stage 2 (P=0.2), however the magnitude and direction of effect was the same and the interaction P value in the total sample was not diminished (Table 1, Fig.
+0	NA	NA	NA	RESULTS	1).
+1	NA	NA	rs7920721	RESULTS	These GWS associations, except for rs7920721, were supported by evidence in multiple ethnic groups (Fig.
+0	NA	NA	NA	RESULTS	2).
+1	NA	NA	rs7920721	RESULTS	Further evaluation of the Stage 1+2 findings revealed that the association with the USP6NL/ECHDC3 SNPs was exclusive to subjects lacking APOE epsilon4 (e.g., rs7920721: epsilon4+, P=0.07, OR=1.05; epsilon4-, P=2.7x10-9, OR=1.14; interaction P = 0.01) and comparable in terms of effect size and direction in the non-European ancestry groups (Supplementary Table 6 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	6).
+0	NA	NA	NA	RESULTS	All GWS findings were similar using the METASOFT Han and Eskin modified random effects model (Supplementary Table 7)
+0	NA	p<10-4	NA	RESULTS	In Stage 1 analyses, there was strong evidence of association (gene-based P<10-4) with previously established loci and novel loci in the total sample (Supplementary Fig.
+0	NA	CR1	NA	RESULTS	7 and Supplementary Table 8), but only seven known genes (CR1, BIN1, PTK2B, CLU, MS4A4A, PICALM, and ABCA7) and one novel one (TPBG) were GWS (P<2.7x10-6) in the combined Stage 1+2 sample (Table 2, Supplementary Table 8).
+0	NA	TPBG	NA	RESULTS	Both EAs and AAs contributed to the association with TPBG.
+0	NA	apolipoprotein E	NA	RESULTS	No additional genes were identified as GWS in interaction models or APOE genotype subgroups
+1	Alzheimer's disease	NA	NA	DISCUSS	In this large transethnic genetic study of AD, we identified robust associations with several novel loci at the individual SNP level (PFDN1/HBEGF, USP6NL/ECHDC3, BZRAP1-AS1 and NFIC) and gene level (TPBG) in a sample of AD subjects and cognitively normal elders in cohorts containing whites of European ancestry, African Americans, Japanese, and Israeli-Arabs.
+0	NA	NA	NA	DISCUSS	Most of these findings are supported by evidence in more than one ethnic group (Fig.
+0	NA	NA	NA	DISCUSS	2 and Table 2).
+1	NA	NA	NA	DISCUSS	Previous GWAS using the EA discovery cohorts in this study did not detect genome-wide significant association with any of these loci, although there was suggestive evidence of association (P>10-7) for the top SNPs in the PFDN1/HBEGF and USP6NL/ECHDC3 regions in EAs.
+0	Alzheimer's disease	NA	NA	DISCUSS	The other novel genes identified in this study were not previously reported to be associated with AD in any ethnic groups.
+1	NA	NA	NA	DISCUSS	The association with SNPs in the USP6NL/ECHDC3 region was specific to persons lacking the APOE epsilon4 allele.
+0	Alzheimer's disease	CR1	NA	DISCUSS	Our study also showed that associations for several genes that have previously been robustly implicated in AD in Caucasians of European descent (CR1, BIN1, PTK2B, MS4A4A, and PICALM) were evident in other populations even at the SNP level
+1	cardiac hypertrophy	HBEGF	NA	DISCUSS	HBEGF, heparin EGF like growth factor, has roles in wound healing, cardiac hypertrophy, and heart development.
+0	Alzheimer's disease	HBEGF	NA	DISCUSS	Although the biological role for this gene in AD is not obvious, an HBEGF knock-out mouse that does not express HBEGF in cortex and hippocampus has psychiatric and cognitive dysfunctions that accompany down-regulated NMDA receptors.
+0	NA	HBEGF	NA	DISCUSS	Another study showed that rats exposed to the pesticide cypermethrin had a reduction of HBEGF expression leading to upregulation of GSK3b-dependent Abeta and phosphorylated tau
+1	Alzheimer's disease	NA	rs7920721	DISCUSS	A recent GWAS demonstrated pleiotrophic effects of SNPs in the USP6NL/ECHDC3 (including rs7920721) and BZRAP1-AS1 loci for AD and plasma C-reactive protein and lipid levels.
+1	NA	NA	NA	DISCUSS	The pleiotropy at USP6NL/ECHDC3 may be related to the association finding at this locus among persons lacking the APOE epsilon4 allele.
+1	NA	USP6NL	NA	DISCUSS	USP6NL, ubiquitin specific peptidase 6 N-terminal like, has a role in the EGF receptor (EGFR) signaling pathway by acting as a GTPase-activating protein and inhibiting internalization of EGFR.
+1	NA	USP6NL	NA	DISCUSS	Insight for a role of USP6NL may be gained from information about USP6 which regulates ubiquitylation and trafficking of cargo protein by clathrin-independent endocytosis.
+0	Alzheimer's disease	PICALM	NA	DISCUSS	There is a growing body of evidence from studies in humans and mice supporting a role for clathrin-mediated endocytosis in AD In addition, the association of the phosphatidylinositol binding clathrin assembly protein (PICALM) gene to AD is well established
+1	acute myocardial infarction	ECHDC3	NA	DISCUSS	ECHDC3, enoyl CoA hydratase domain containing 3, is involved in fatty acid biosynthesis in mitochondria and its expression is increased in patients with acute myocardial infarction.
+0	Alzheimer's disease	NA	NA	DISCUSS	It has been observed that ECHD3 expression is altered in brains from persons with AD compared to controls.
+1	NA	ECHDC3	rs7920721	DISCUSS	Although rs7920721 is closer to ECHDC3 than USP6NL, it is located on USP6NL side of a recombination hotspot between these two genes (Fig.
+0	NA	NA	NA	DISCUSS	1B).
+1	NA	NA	rs7920721	DISCUSS	Therefore, we cannot rule out either of these genes, or even one not adjacent to rs7920721, as explaining the association signal in this region
+1	NA	BZRAP1	NA	DISCUSS	BZRAP1, benzodiazepine-associated protein 1 (renamed as TSPO associated protein 1, TSPOAP1), is a subunit of the benzodiazepine receptor complex in mitochondria and a marker of neuroinflammation.
+0	dementia	NA	NA	DISCUSS	A recent prospective cohort study of 8,240 individuals aged 65 years and older showed an increased risk of dementia with use of long half-life benzodiazepines, a drug often prescribed for treatment of anxiety.
+0	aggressive disease	TSPO	NA	DISCUSS	A TSPO ligand (Ro5-4864) has been shown to reverse beta-amyloid accumulation and behavioral impairment in 3xTgAD mice.
+0	Alzheimer's disease	TSPO	NA	DISCUSS	A recent PET imaging study demonstrated that the change over time of TSPO binding to radioligand 11C-PBR28 is correlated with progression of AD
+0	Alzheimer's disease	NA	NA	DISCUSS	The relationship of AD to the other novel loci identified in this study is less clear.
+0	carcinomas of the colon	PFDN1	NA	DISCUSS	PFDN1, a prefoldin subunit, is upregulated in colorectal cancer.
+1	NA	NFIC	NA	DISCUSS	NFIC is a CCAAT-binding transcription factor.
+1	cognitive defects	NFIC	NA	DISCUSS	A study comparing brain gene expression profiles between HIV seropositive individuals with cognitive impairment and AD cases identified NFIC as having significant high co-expression connectivity in white matter.
+0	NA	TPBG	NA	DISCUSS	Trophoblast glycoprotein (TPBG), also known as 5T4, regulates development of the olfactory bulb GABAgenic interneurons and its overexpression in newborns is associated with abnormal dendrites
+0	NA	NA	NA	DISCUSS	Our study highlights the benefit of combining results obtained from genetically diverse populations.
+1	NA	NA	NA	DISCUSS	The transethnic approach applied here identified three novel loci (BZRAP1-AS1, NFIC, and TPBG) and GWS association for the first time with two other loci (PFDN1/HBEGF and USP6NL/ECHDC3) noting that the size of the discovery sample in this study was less than 45% of the one included in a previous GWAS that contained more than 74,000 EA subjects.
+0	NA	NA	NA	DISCUSS	The improved power in our smaller sample can be ascribed to allele frequency differences and allelic heterogeneity among the ethnic groups.
+1	NA	NA	NA	DISCUSS	As an example highlighting the importance of these differences, the top SNPs from BZRAP1-AS1 and NFIC had different minor allele frequencies across ethnic groups, but the effect sizes were similar and association signals were greater in fixed effect meta-analysis.
+0	NA	TPBG	NA	DISCUSS	In addition, gene-based tests, which consider association patterns with all SNPs in the locus, identified TPBG.
+0	NA	NA	NA	DISCUSS	Importantly, the most significant SNPs in these two regions differed among the ethnic groups.
+0	Alzheimer's disease	TREM2	NA	DISCUSS	Gene-based tests also indicated potential allelic heterogeneity among ethnic groups for previously established AD genes including TREM2 and ABCA7.
+0	NA	NA	NA	DISCUSS	The novel GWS SNP associations were robust in analyses allowing for heterogeneity across different ethnic groups, and the P-values for the RE-HE approach were slightly larger than for the fixed effect model, suggesting that the effect size heterogeneity across the groups is modest
+0	NA	NA	NA	DISCUSS	Our study also revealed that the effect direction for several SNPs vary across ethnic groups.
+0	NA	NME8	NA	DISCUSS	For example, the top-ranked SNPs in NME8, ABCA7, and CASS4 (Supplementary Table 2) were nominally significant in EAs and AAs, but the referent allele was associated with increased risk in one group and decreased risk in the other.
+0	NA	NA	NA	DISCUSS	One explanation for these differences is that the SNPs are tagging different functional variants across groups.
+0	NA	NA	NA	DISCUSS	This idea is consistent with our findings from gene-based tests showing that the constellation of variants contributing to the association with some genes was different across ethnic groups.
+0	NA	NA	NA	DISCUSS	Alternatively, when examining a large number of variants it is expected that a few will show nominal significance in opposite directions among groups
+0	NA	NA	NA	DISCUSS	There are several limitations associated with our study.
+0	NA	NA	NA	DISCUSS	The sample size imbalance between the EAs and the other populations weakened the opportunity to identify association patterns that may be unique to the non-EA groups.
+0	NA	NA	NA	DISCUSS	The small size of the non-EA groups also reduced power to detect novel gene associations if the functional variants (and the SNPs that tag them) differ among ethnic groups.
+0	weakness	NA	NA	DISCUSS	An additional weakness is the lack of replication samples for the non-EA populations.
+0	Alzheimer's disease	NA	NA	DISCUSS	Despite these limitations, our study highlights the importance of investigating the genetic architecture for AD in ethnically diverse populations
+0	NA	NA	NA	DISCUSS	Our findings warrant further replication in independent samples, deep sequencing and bioinformatics studies to identify the potentially functional variants, and experimental validation.
+0	NA	NA	NA	DISCUSS	We expect that additional novel gene discoveries will emerge in future transethnic studies including larger samples from non-European ancestry populations
+1	NA	NA	NA	FIG	Regional association plots in the combined stage 1 and stage 2 sample including main effects at (A) PFDN1/HBEGF, (B) USP6NL/ECHDC3, (C) BZRAP1-AS1, and (D) SNP*APOE epsilon4 interaction near NFIC
+1	NA	NA	rs11168036	FIG	Forest plots for by ethnicity and stage for (A) rs11168036 atPFDN1/HBEGF, (B) rs7920721 at USP6NL/ECHDC3, (C) rs2632516 at BZRAP1-AS1, (D) NFIC rs9749589*APOE epsilon4 interaction
+0	NA	NA	NA	TABLE	Genome-wide significant results from individual SNP and SNP*APOE-epsilon4 interaction tests (P<5x10-8) in transethnic meta-analysis
+0	NA	NA	NA	TABLE	Genome-wide significant results (p<2.7x10-6) from gene-based tests in Stage 1+2
+0	Alzheimer's disease	NA	NA	REF	Systematic review: We reviewed previously published genome-wide association studies (GWAS) for late onset Alzheimer disease (AD) including reports for non-white populations.
+0	NA	NA	NA	REF	Few GWAS have been conducted in populations of non-white European ancestry
+1	NA	NA	NA	REF	Interpretation: Transethnic meta-analysis of GWAS results for whites of European Ancestry, African Americans, Japanese, and Israeli-Arabs identified novel genome-wide significant associations with SNPs in PFDN1/HBEGF, USP6NL/ECHDC3, and BZRAP1-AS1, and with TPBG using a gene-based test.
+0	Alzheimer's disease	NA	NA	REF	These findings further our understanding of the genetic basis of AD and provide insight about mechanisms leading to AD
+0	NA	NA	NA	REF	Future directions: These results should be confirmed in independent samples including subjects from the same ethnic populations and tested in populations of other genetic backgrounds.
+0	Alzheimer's disease	NA	NA	REF	DNA sequencing studies are needed to identify the functional variants in these genes and their biological roles in AD should be determined experimentally

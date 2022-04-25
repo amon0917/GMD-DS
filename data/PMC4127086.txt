@@ -1,0 +1,193 @@
+0	NA	NA	NA	ABSTRACT	Performing genetic studies in multiple human populations can identify disease risk alleles that are common in one population but rare in others, with the potential to illuminate pathophysiology, health disparities, and the population genetic origins of disease alleles.
+0	Type 2 diabetes	NA	NA	ABSTRACT	We analyzed 9.2 million single nucleotide polymorphisms (SNPs) in each of 8,214 Mexicans and Latin Americans: 3,848 with type 2 diabetes (T2D) and 4,366 non-diabetic controls.
+1	NA	SLC16A11	NA	ABSTRACT	In addition to replicating previous findings, we identified a novel locus associated with T2D at genome-wide significance spanning the solute carriers SLC16A11 and SLC16A13 (P=3.9x10-13; odds ratio (OR)=1.29).
+0	NA	NA	NA	ABSTRACT	The association was stronger in younger, leaner people with T2D, and replicated in independent samples (P=1.1x10-4; OR=1.20).
+0	NA	SLC16A11	NA	ABSTRACT	The risk haplotype carries four amino acid substitutions, all in SLC16A11; it is present at  50% frequency in Native American samples and  10% in East Asian, but rare in European and African samples.
+0	NA	NA	NA	ABSTRACT	Analysis of an archaic genome sequence indicated the risk haplotype introgressed into modern humans via admixture with Neandertals.
+0	NA	SLC16A11	NA	ABSTRACT	The SLC16A11 mRNA is expressed in liver, and V5-tagged SLC16A11 protein localizes to the endoplasmic reticulum.
+0	NA	SLC16A11	NA	ABSTRACT	Expression of SLC16A11 in heterologous cells alters lipid metabolism, most notably causing an increase in intracellular triacylglycerol levels.
+0	NA	SLC16A11	NA	ABSTRACT	Despite T2D having been well studied by genome-wide association studies (GWAS) in other populations, analysis in Mexican and Latin American individuals identified SLC16A11 as a novel candidate gene for T2D with a possible role in triacylglycerol metabolism
+0	Type 2 diabetes	NA	NA	INTRO	The Slim Initiative in Genomic Medicine for the Americas (SIGMA) Type 2 Diabetes Consortium set out to characterize the genetic basis of T2D in Mexican and Latin American populations, where the prevalence is roughly twice that of U.S. non-Hispanic whites.
+0	NA	NA	NA	INTRO	This report considers 3,848 T2D cases and 4,366 controls (Table 1) genotyped using the Illumina OMNI 2.5 array that were unrelated to other samples, and that fall on a cline of Native American and European ancestry (Extended Data Fig.
+0	NA	NA	NA	INTRO	1).
+0	NA	NA	NA	INTRO	Association analysis included 9.2 million variants that were imputed from the 1,000 Genomes Project Phase I release based on 1.38 million SNPs directly genotyped at high quality with minor allele frequency (MAF) >1%
+0	NA	NA	NA	INTRO	The association of SNP genotype with T2D was evaluated using LTSOFT, a method that increases power by jointly modeling case-control status with non-genetic risk factors.
+0	NA	NA	NA	INTRO	Our analysis utilized body mass index (BMI) and age to construct liability scores and also included adjustment for sex and ancestry via principal components.
+0	NA	NA	NA	INTRO	The quantile-quantile (QQ) plot is well calibrated under the null (lambdaGC = 1.05; Fig.
+0	NA	p<10-4	NA	INTRO	1a, red), indicating adequate control for confounders, with substantial excess signal at P<10-4
+0	NA	NA	NA	INTRO	We first examined SNPs previously reported to be associated to risk of T2D.
+1	NA	TCF7L2	rs7903146	INTRO	Two such variants reached genome-wide significance: TCF7L2 (rs7903146; P=2.5x10-17; OR=1.41 [95% confidence interval 1.30-1.53]) and KCNQ1 (rs2237897; P=4.9x10-16; OR=0.74 [0.69-0.80]) (Extended Data Figs.
+0	NA	NA	NA	INTRO	2, 3a), with effect sizes and frequencies consistent with previous studies.
+1	NA	KCNQ1	rs2237897	INTRO	At KCNQ1, we identified a signal of association that shows limited linkage disequilibrium both to rs2237897 (r2=0.056) and to rs231362 (r2=0.028) (previously seen in Europeans), suggesting a third allele at this locus (rs139647931; after conditioning, P=5.3x10-8; OR=0.78 [0.70-0.86]; Extended Data Fig.
+0	NA	NA	NA	INTRO	3b; Supplementary Note)
+0	NA	NA	NA	INTRO	More generally, of SNPs previously associated with T2D at genome-wide significance, 56 of 68 are directionally consistent with the initial report (P=3.1x10-8; Supplementary Table 1).
+0	NA	NA	NA	INTRO	Nonetheless, a QQ plot excluding all SNPs within 1 Mb of the 68 T2D associations remains strikingly non-null (Fig.
+0	NA	NA	NA	INTRO	1a, blue)
+0	NA	NA	NA	INTRO	This excess signal of association is entirely attributable to two regions of the genome: chromosome 11p15.5 and 17p13.1 (Fig.
+0	NA	NA	NA	INTRO	1a, black).
+0	NA	insulin	NA	INTRO	The genome-wide significant association at 11p15.5 spans insulin, IGF2, and other genes (Extended Data Fig.
+0	NA	NA	NA	INTRO	3a).
+0	NA	IGF2	rs11564732	INTRO	The strongest association lies in the 3'-UTR of IGF2 and the non-coding INS-IGF2 transcript (rs11564732, P=2.6x10-8; OR=0.77 [0.70-0.84]; Supplementary Table 2).
+1	NA	KCNQ1	NA	INTRO	The associated SNPs are ~700 kb from the genome-wide significant signal in KCNQ1 (above), and analysis conditional on the two significant KCNQ1 SNPs reduced the INS-IGF2 association signal to just below genome-wide significance (P=7.5x10-7, Extended Data Fig.
+0	NA	NA	NA	INTRO	3c).
+1	NA	KCNQ1	NA	INTRO	Conditioning on the two KCNQ1 SNPs and the INS-IGF2 SNP reduces the signal to background (Extended Data Fig.
+0	NA	NA	NA	INTRO	3d).
+1	NA	INS	NA	INTRO	Further analysis is needed to determine whether the INS-IGF2 signal is reproducible and independent of that at KCNQ1
+1	NA	SLC16A11	NA	INTRO	The strongest novel association is at 17p13.1 spanning SLC16A11 and SLC16A13 (Fig.
+0	NA	NA	NA	INTRO	1b), both poorly characterized members of the monocarboxylic acid transporter family of solute carriers.
+0	NA	SLC16A11	NA	INTRO	The strongest signal of association includes a silent mutation as well as four missense SNPs, all in SLC16A11 (Fig.
+0	NA	NA	NA	INTRO	1d, e).
+0	NA	NA	NA	INTRO	These five variants are (a) in strong LD (r2 >= 0.85 in 1,000 Genomes samples from the Americas) and co-segregate on a single haplotype, (b) common in samples of Mexican and Latin American ancestry, and (c) show equivalent levels of association to T2D (P=2.4x10-12 to P=3.9x10-13; OR=1.29 [1.20-1.38]; Supplementary Tables 3, 4, and 5).
+0	NA	NA	NA	INTRO	Analysis conditional on any of these variants leaves no genome-wide significant signal (Fig.
+0	NA	NA	NA	INTRO	1c, Extended Data Fig.
+0	NA	NA	NA	INTRO	4).
+0	NA	NA	rs13342692	INTRO	"Computational prediction with SIFT (which considers each site independently) labels one of the missense SNPs (rs13342692, D127G) as damaging and the other three ""tolerated"" (Supplementary Table 6)"
+0	NA	NA	NA	INTRO	Individuals with T2D that carry the risk haplotype develop T2D 2.1 years earlier (P=3.1x10-4), and at 0.9 kg/m2 lower BMI (P=5.2x10-4) than non-carriers (Extended Data Fig.
+0	NA	NA	NA	INTRO	5).
+0	NA	NA	NA	INTRO	The odds ratio for the risk haplotype estimated using young cases (<= 45 years) was higher than in older cases (OR=1.48 versus 1.11; Pheterogeneity=1.7x10-3).
+0	NA	NA	NA	INTRO	We tested the haplotype for association with related metabolic quantitative traits in the fasting state in a subset of SIGMA participants (n=1,505-3,855).
+0	NA	NA	NA	INTRO	No associations surpass nominal significance (P<0.05; Supplementary Table 7)
+0	NA	NA	NA	INTRO	Given that large GWAS have been performed for T2D in samples of European and Asian ancestry, it may seem surprising that associated variants at SLC16A11/13 were not previously identified.
+0	NA	NA	NA	INTRO	"Using data generated by the 1,000 Genomes Project and the current study, we observed that the risk haplotype (henceforth referred to as ""5 SNP"" haplotype) is rare or absent in samples from Europe and Africa, has intermediate frequency ( 10%) in samples from East Asia, and up to  50% frequency in samples from the Americas (Fig."
+0	NA	NA	NA	INTRO	1d; Extended Data Fig.
+0	NA	NA	NA	INTRO	6a).
+0	NA	NA	rs13342692	INTRO	"A second haplotype carrying one of the four missense SNPs (D127G) and the synonymous variant (termed the ""2 SNP"" haplotype) is very common in samples from Africa but rare elsewhere, including in the Americas (Fig."
+0	NA	NA	NA	INTRO	1d).
+0	NA	NA	NA	INTRO	The low frequency of the 5 SNP haplotype in Africa and Europe may explain why this association was not found in previous studies
+0	NA	NA	NA	INTRO	We attempted to replicate this association in ~22,000 samples from a variety of ancestry groups.
+0	NA	SLC16A11	NA	INTRO	A proxy for the 5 SNP haplotype of SLC16A11 showed strong association with T2D (Preplicaton=1.1x10-4; ORreplication=1.20 [1.09-1.31]; Pcombined=5.4x10-15; ORcombined=1.25 [1.18-1.32]; Fig.
+0	NA	NA	NA	INTRO	1f; Supplementary Table 8).
+0	NA	NA	NA	INTRO	The association was clearly observed in East Asian samples, a population which lacks admixture of Amerindian and European populations and shows little genetic substructure.
+0	NA	NA	NA	INTRO	This result argues against population stratification as an explanation for the finding in Latino populations
+0	NA	NA	NA	INTRO	We estimated the difference in disease prevalence attributable to a risk factor with OR=1.20 (1.09-1.31), 26% frequency in Mexican Americans (as in the SIGMA control samples), and 2% in European Americans.
+0	NA	NA	NA	INTRO	Approximately 20% (9.2%-29%) of the difference in prevalence could be explained by such a risk factor (Online Methods)
+0	NA	NA	NA	INTRO	Two population genetic features of the 5 SNP haplotype struck us as discordant.
+0	NA	NA	NA	INTRO	The haplotype sequence is highly divergent, with an estimated time to most recent common ancestor (TMRCA) of 799k years to a European haplotype (Supplementary Table 9 and Supplementary Note).
+0	NA	NA	NA	INTRO	"This long precedes the ""out of Africa"" bottleneck."
+0	NA	NA	NA	INTRO	And yet, the haplotype is not observed in Africa and is rare throughout Europe (Fig.
+0	NA	NA	NA	INTRO	1d)
+0	NA	NA	NA	INTRO	This combination of age and geographic distribution could be consistent with admixture from Neandertals into modern humans.
+0	NA	NA	NA	INTRO	Neither the published Neandertal genome nor the Denisova genome contained the variants observed on the 5 SNP haplotype.
+0	NA	SLC16A11	NA	INTRO	However, an unpublished genome of a Neandertal from Denisova Cave is homozygous across 5 kb for the 5 SNP haplotype at SLC16A11, including all four missense SNPs.
+0	NA	NA	NA	INTRO	Over a span of 73 kb this Neandertal sequence is nearly identical to that of individuals from the 1000 Genomes Project who are homozygous for the 5 SNP haplotype (Supplementary Note)
+0	NA	NA	NA	INTRO	Two lines of evidence suggest that the 5 SNP haplotype entered modern humans through archaic admixture.
+0	NA	NA	NA	INTRO	First, the Neandertal sequence is more closely related to the 5 SNP haplotype than to random non-risk haplotypes (mean TMRCA=250k years versus 677k years; Supplementary Tables 10 and 11, Supplementary Note), forming a clade (Extended Data Fig.
+0	NA	NA	NA	INTRO	6b), with a coalescence time that postdates the range of estimated split times between modern humans and Neandertals.
+0	NA	NA	NA	INTRO	Second, the genetic length of the 73 kb haplotype is longer than would be expected if it had undergone recombination for ~9,000 generations since the split with Neandertals (P=3.9x10-5; Supplementary Note).
+0	NA	NA	NA	INTRO	These two features indicate that the 5 SNP haplotype is not only similar to the Neandertal sequence, but was likely introduced into modern humans relatively recently through archaic admixture.
+0	NA	NA	NA	INTRO	We note that while this particular Neandertal-derived haplotype is common in the Americas, Latin Americans have the same proportion of Neandertal ancestry genome-wide as other Eurasian populations (~2%)
+0	NA	SLC16A11	NA	INTRO	With an absence of multiple independently segregating functional mutations in the same gene, we lack formal genetic proof that SLC16A11 is the gene responsible for association to T2D at 17p13.1.
+0	NA	SLC16A11	NA	INTRO	Nonetheless, as the associated haplotype encodes four missense SNPs in a single gene (Supplementary Table 12), we set out to begin characterizing the function of SLC16A11
+0	NA	SLC16A11	NA	INTRO	We examined the tissue distribution of SLC16A11 mRNA expression using Nanostring and ~55,000 curated microarray samples.
+0	NA	SLC16A11	NA	INTRO	In both datasets, we observed SLC16A11 expression in liver, salivary gland, and thyroid (Extended Data Figs.
+0	NA	NA	NA	INTRO	7 and 8).
+0	NA	SLC16A11	NA	INTRO	We used immunofluorescence to determine the subcellular localization of V5-tagged SLC16A11 introduced into HeLa cells.
+0	NA	NA	NA	INTRO	SLC16A11-V5 co-localizes with the endoplasmic reticulum membrane protein Calnexin, but shows minimal overlap with plasma membrane, Golgi apparatus and mitochondria (Fig.
+0	NA	NA	NA	INTRO	2a).
+1	NA	NA	NA	INTRO	Distinct patterns were seen for other SLC16 family members, which are known to have diverse cellular functions: SLC16A13-V5 localizes to the Golgi apparatus and SLC16A1-V5 appears at the plasma membrane (Extended Data Fig.
+0	NA	NA	NA	INTRO	9, data not shown)
+0	NA	SLC16A11	NA	INTRO	As SLC16 family members are solute carriers, we expressed SLC16A11 (or control proteins) in HeLa cells (which do not express SLC16A11 at appreciable levels) and profiled ~300 polar and lipid metabolites.
+0	NA	SLC16A11	NA	INTRO	Expression of SLC16A11 resulted in substantial increases in triacylglycerol (TAG) levels (P=7.6x10-12), with smaller increases in intracellular diacylglycerols (P=7.8x10-3) and decreases in lysophosphatidylcholine (P=2.0x10-3), cholesterol ester (P=9.8x10-4) and sphingomyelin (P=3.9x10-3) lipids (Fig.
+0	NA	NA	NA	INTRO	2b, c, Supplementary Tables 13 and 14).
+0	NA	SLC16A11	NA	INTRO	As TAG synthesis takes place in the endoplasmic reticulum in the liver, these results suggest that SLC16A11 may play a role in hepatic lipid metabolism.
+0	NA	insulin	NA	INTRO	We note that serum levels of specific TAGs have been prospectively associated with future risk of T2D and accumulation of intracellular lipids has been implicated in insulin resistance in human populations
+0	NA	SLC16A11	NA	INTRO	In summary, GWAS in Mexican and Latin American samples identified a haplotype containing four missense SNPs, all in SLC16A11, that is much more common in individuals with Native American ancestry than in other populations.
+0	NA	NA	NA	INTRO	Each haplotype copy is associated with a ~20% increased risk of T2D.
+0	NA	NA	NA	INTRO	With these properties, the haplotype would be expected to contribute to the higher burden of T2D in Mexican and Latin American populations.
+0	NA	NA	NA	INTRO	The haplotype derives from Neandertal introgression, providing an example of Neandertal admixture affecting physiology and disease susceptibility today.
+0	diabetes	SLC16A11	NA	INTRO	Our data suggest the hypothesis for future studies that SLC16A11 may influence diabetes risk through effects on lipid metabolism in the liver.
+0	NA	NA	NA	INTRO	Our results also indicate that genetic mapping in understudied populations can identify previously undiscovered aspects of disease pathophysiology
+0	NA	NA	NA	METHODS	DNA samples were prepared using strict quality control procedures and genotyped using the Illumina HumanOmni2.5 array.
+0	NA	NA	NA	METHODS	Stringent sample and SNP quality (including ancestry) filters were applied on the resulting genotypes.
+0	NA	NA	NA	METHODS	Following imputation, SNPs were quality filtered (MAF >= 1% and info score >= .6) and association testing was performed via LTSOFT with T2D status, BMI, and age modeling liability and adjusting for sex and top 2 principal components as fixed effect covariates.
+0	NA	NA	NA	METHODS	P-values were corrected for genomic control (lambdaGC=1.046).
+0	NA	NA	NA	METHODS	Odds ratios (ORs) are from logistic regression in PLINK using BMI, age, sex, and top 2 PCs as covariates.
+0	NA	NA	NA	METHODS	Proportion of Native American ancestry was estimated using ADMIXTURE (K=3) run including unadmixed individuals from several populations
+0	NA	NA	NA	METHODS	Odds ratios for young (<=45 years) and older age of onset cases were calculated using logistic regression in each group compared to two randomly selected non-overlapping sets of controls.
+0	NA	NA	NA	METHODS	Significance testing used a Z-score calculated from these ORs
+0	NA	NA	NA	METHODS	Population prevalence was modeled using OR to approximate relative risk in a log-additive effect model.
+0	NA	NA	NA	METHODS	Relative change in population prevalences is reported based on removing a locus with relative risk of 1.20 and the indicated frequency
+0	NA	NA	NA	METHODS	Gene expression analyses were performed on data collected using Nanostring and a compendium of publicly available Affymetrix U133 Plus 2.0 microarrays.
+0	NA	NA	NA	METHODS	The subcellular localization of SLC16A11-V5 and metabolic profiling studies were performed following expression of C-terminus, V5-tagged SLC16A11 in HeLa cells.
+0	NA	NA	NA	METHODS	Metabolite values were normalized to the total metabolite signal obtained for each sample.
+0	NA	NA	NA	METHODS	Measurements were obtained in replicate from each of three independent experiments, with data combined after subtracting the mean of the log-transformed values.
+0	NA	SLC16A11	NA	METHODS	The Wilcox rank sum test was used to test for differences in individual metabolite levels in cells expressing SLC16A11 compared to controls; the Wilcoxon signed rank test was used to assess differences in lipid classes
+0	Garcia-Ortiz6	NA	NA	SUPPL	Amy L. Williams1,2, Suzanne B. R. Jacobs1, Hortensia Moreno-Macias3, Alicia Huerta-Chagoya4,5, Claire Churchhouse1, Carla Marquez-Luna6, Humberto Garcia-Ortiz6, Maria Jose Gomez-Vazquez4,7, Noel P. Burtt1, Carlos A. Aguilar-Salinas4, Clicerio Gonzalez-Villalpando8,*, Jose C. Florez1,9,10,*, Lorena Orozco6,*, Christopher A. Haiman11,*, Teresa Tusie-Luna4,5,*, and David Altshuler1,2,9,10,12,13,14,
+0	Stephan Ripke	NA	NA	METHODS	Amy L. Williams1,2, Carla Marquez-Luna6, Alicia Huerta-Chagoya4,5, Stephan Ripke1,15, Maria Jose Gomez-Vazquez4,7, Alisa K. Manning1, Hortensia Moreno-Macias3, Humberto Garcia-Ortiz6, Benjamin Neale1,15, Noel P. Burtt1, Carlos A. Aguilar-Salinas4, David Reich1,2, Daniel O. Stram11, Juan Carlos Fernandez-Lopez6, Sandra Romero-Hidalgo6, David Altshuler1,2,9,10,12,13,14, Jose C. Florez1,8,10, Teresa Tusie-Luna4,5, Nick Patterson1, and Christopher A. Haiman1
+0	diabetes	NA	NA	METHODS	Diabetes in Mexico Study: Irma Aguilar-Delfin6, Angelica Martinez-Hernandez6, Federico Centeno-Cruz6, Elvia Mendoza-Caamal6, Cristina Revilla-Monsalve16, Sergio Islas-Andrade16, Emilio Cordova6, Eunice Rodriguez-Arellano17, Xavier Soberon6, and Lorena Orozco
+0	diabetes	NA	NA	METHODS	Mexico City Diabetes Study: Clicerio Gonzalez-Villalpando8 and Maria Elena Gonzalez-Villalpando
+0	NA	NA	NA	METHODS	Multiethnic Cohort Study: Christopher A. Haiman11, Brian E. Henderson11, Kristine Monroe11, Lynne Wilkens18, Laurence N. Kolonel18, and Loic Le Marchand1
+0	diabetes	NA	NA	METHODS	UNAM/INCMNSZ Diabetes Study: Laura Riba5, Maria Luisa Ordonez-Sanchez4, Rosario Rodriguez-Guillen4, Ivette Cruz-Bautista4, Maribel Rodriguez-Torres4, Linda Liliana Munoz-Hernandez4, Tamara Saenz4, Donaji Gomez4, and Ulices Alvirde
+0	NA	NA	NA	METHODS	Noel P. Burtt1, Robert C. Onofrio19, Wendy M. Brodeur19, Diane Gage19, Jacquelyn Murphy1, Jennifer Franklin19, Scott Mahan19, Kristin Ardlie19, Andrew T. Crenshaw19, and Wendy Winckler1
+0	NA	NA	NA	METHODS	Kay Prufer20, Michael V. Shunkov21, Susanna Sawyer20, Udo Stenzel20, Janet Kelso20, Monkol Lek1,15, Sriram Sankararaman1,2, Amy L. Williams1,2, Nick Patterson1, Daniel G. MacArthur1,15, David Reich1,2, Anatoli P. Derevianko21, and Svante Paabo2
+0	NA	NA	NA	METHODS	Suzanne B. R. Jacobs1, Claire Churchhouse1, Shuba Gopal22, James A. Grammatikos22, Ian C. Smith23, Kevin H. Bullock22, Amy A. Deik22, Amanda L. Souza22, Kerry A. Pierce22, Clary B. Clish22, and David Altshuler1,2,9,10,12,13,1
+0	NA	NA	NA	METHODS	Broad Institute of Harvard and MIT: Timothy Fennell19, Yossi Farjoun19, Broad Genomics Platform19, and Stacey Gabriel1
+0	NA	NA	NA	METHODS	Singapore Chinese Health Study: Daniel O. Stram11, Myron D. Gross24, Mark A. Pereira24, Mark Seielstad25, Woon-Puay Koh26,27, and E-Shyong Tai,26,27,2
+0	NA	NA	NA	METHODS	T2D-GENES Consortium: Jason Flannick1,9, Pierre Fontanillas1, Andrew Morris29, Tanya M. Teslovich30, Noel P. Burtt1, Gil Atzmon31, John Blangero32, Don W. Bowden33, John Chambers34,35,36, Yoon Shin Cho37, Ravindranath Duggirala32, Benjamin Glaser38,39, Craig Hanis40, Jaspal Kooner35,36,41, Markku Laakso42, Jong-Young Lee43, E-Shyong Tai26,27,28, Yik Ying Teo44,45,46,47,48, James G. Wilson49, and the T2D-GENES Consortiu
+0	NA	NA	NA	METHODS	Multiethnic Cohort Study: Christopher A. Haiman11, Brian E. Henderson11, Kristine Monroe11, Lynne Wilkens18, Laurence N. Kolonel18, and Loic Le Marchand1
+0	NA	San	NA	METHODS	Texas Biomedical Research Institute and University of Texas Health Science Center at San Antonio: Sobha Puppala32, Vidya S. Farook32, Farook Thameem50, Hanna E. Abboud50, Ralph A. DeFronzo51, Christopher P. Jenkinson51, Donna M. Lehman52, Joanne E. Curran32, John Blangero32, and Ravindranath Duggirala3
+0	NA	NA	NA	METHODS	David Altshuler1,2,9,10,12,13,14, Jose C. Florez1,9,10, Christopher A. Haiman11, Brian E. Henderson11, Carlos A. Aguilar-Salinas4, Clicerio Gonzalez-Villalpando8, Lorena Orozco6, and Teresa Tusie-Luna4,
+0	NA	NA	NA	FIG	(a) QQ plot of association statistics in genome-wide scan shows calibration under the null and enrichment in the tail for all SNPs (red), and after removing SNPs within 1 Mb of previously published T2D associations (blue).
+0	NA	NA	NA	FIG	Removal of sites within 1 Mb of 68 known loci and two novel loci results in a null distribution (black).
+1	NA	SLC16A11	NA	FIG	(b) Regional plot of association at 17p13.1 that spans SLC16A11 and SLC16A13.
+0	NA	NA	rs13342232	FIG	(c) Analysis conditional on genotype at rs13342232 (the top associated variant) reduces signal to far below genome-wide significance across the surrounding region.
+0	NA	NA	NA	FIG	Color indicates r2 to the most strongly associated site; recombination rate is shown, each based on the 1,000 Genomes ASN population.
+0	NA	SLC16A11	NA	FIG	(d) Graphical depictions of SLC16A11 haplotypes constructed from the synonymous and four missense SNPs associated to T2D, with haplotype frequencies derived from the 1,000 Genomes Project and SIGMA samples.
+0	NA	NA	NA	FIG	AFR, Africa (n=185); EUR, European (n=379); ASN, East Asian (n=286); MXL, Mexican samples from Los Angeles (n=66).
+0	NA	NA	NA	FIG	"Frequencies from SIGMA samples are calculated from genotypes and represent either the entire dataset (""All"") or only samples estimated to have >=95% Native American ancestry ("">=95 N.A."
+0	NA	NA	NA	FIG	""", n=290; Supplementary Note)."
+0	NA	NA	NA	FIG	Haplotypes with population frequency <1% are not depicted.
+0	NA	SLC16A11	NA	FIG	(e) Predicted membrane topology of human SLC16A11 generated using TMHMM 2.0 and visualized with TeXtopo.
+0	NA	NA	NA	FIG	Locations of SNPs carried by the T2D-associated haplotype are indicated.
+1	NA	NA	rs75493593	FIG	(f) Forest plot depicting odds ratio estimates at rs75493593 from the four SIGMA cohorts, the SIGMA pooled mega-analysis, the replication cohorts, replication-only meta-analysis, and the overall meta-analysis (including all replication cohorts and the SIGMA mega-analysis).
+0	NA	NA	NA	FIG	Accompanying table lists ethnicity, cohort names, estimated odds ratio (OR) and 95% confidence interval (95% CI).
+0	diabetes	NA	NA	FIG	Replication cohorts are the Type 2 Diabetes Genetic Exploration by Next-generation sequencing in multi-Ethnic Samples (T2D-GENES), Multiethnic Cohort (MEC), and Singapore Chinese Health Study (SCHS).
+0	NA	NA	NA	FIG	Further details provided in Supplementary Table 8
+0	NA	SLC16A11	NA	FIG	(a) Localization of SLC16A11 to the endoplasmic reticulum.
+0	NA	SLC16A11	NA	FIG	HeLa cells expressing C-terminus, V5-tagged SLC16A11 were immunostained for SLC16 expression (alpha-V5) along with markers for the endoplasmic reticulum (alpha-Calnexin), cis-Golgi apparatus (alpha-Golph4), or mitochondria (MitoTracker).
+0	NA	NA	NA	FIG	Imaging of each protein was optimized for clarity of localization rather than comparison of expression level across proteins.
+0	NA	NA	NA	FIG	(b) Changes in intracellular lipid metabolites following expression of SLC16A11-V5 in HeLa cells.
+0	NA	SLC16A11	NA	FIG	The fold-change in cells expressing SLC16A11 relative to cells expressing control proteins is plotted for individual lipid metabolites, with lipid classes indicated by point color and P-values (of the Wilcox rank sum test) by point size.
+0	NA	NA	NA	FIG	(c) Fold change plotted for both polar and lipid metabolites, grouped according to metabolic pathway or class.
+0	NA	NA	NA	FIG	Each point within a pathway or class shows the fold-change of a single metabolite within that pathway or class.
+0	NA	NA	NA	FIG	Pathway names and statistical analyses are shown in Extended Data Fig.
+0	NA	NA	NA	FIG	10 and Supplementary Table 14
+0	NA	NA	NA	FIG	PCA projection of SIGMA onto HGDP Yoruba, French, Karitiana and Han (Chinese) populations (a) before ancestry quality control filters were applied, with cohort centroids as indicated and (b) after all quality control filters were applied, with case and control centroids as indicated.
+0	NA	NA	NA	FIG	Principal components 3 and 4 (c) before filtering samples on ancestry (a small number of samples in the MEC cohort show East Asian admixture) and (d) after all quality control filters were applied.
+0	NA	NA	NA	FIG	Additional plots as in (b) but separating (e) cases and (f) controls
+1	NA	NA	rs7903146	FIG	Point color indicates r2 to the most strongly associated site (rs7903146) and recombination rate is also shown, both based on the 1,000 Genomes ASN population
+1	NA	INS	rs2237897	FIG	Regional plots are shown for the interval spanning INS-IGF2 and KCNQ1 (a) without conditioning, (b) conditional on rs2237897 at KCNQ1, (c) conditional on rs2237897 and rs139647931 (both at KCNQ1), and (d) conditional on rs2237897 and rs139647931 (both at KCNQ1) and rs11564732 (the top associated variant in the INS-IGF2-TH region).
+1	NA	KCNQ1	NA	FIG	The top SNPs in 11p15.5 and KCNQ1 are ~700 kb away from each other, but despite this proximity, there is a strong residual signal of association at INS-IGF2 after analysis conditional on genotype at KCNQ1.
+0	NA	NA	rs11564732	FIG	Point color indicates r2 to rs11564732 and recombination rate is also shown, both based on the 1,000 Genomes ASN population
+1	NA	SLC16A11	rs117767867	FIG	Association signal at chromosome 17p13 (a) without conditioning, or conditional on the four missense SNPs in SLC16A11: (b) rs117767867, (c) rs13342692, (d) rs75418188, and (e) rs75493593.
+0	NA	NA	rs13342232	FIG	Point color indicates r2 to the most strongly associated SNP (rs13342232) and recombination rate is also shown, both based on the 1,000 Genomes ASN population
+0	NA	NA	rs13342232	FIG	(a) Distribution of age-of-onset in T2D cases based on genotype at rs13342232, binned every 5 years with upper bounds indicated (carriers n=1,126; non-carriers n=594).
+0	NA	NA	rs13342232	FIG	(b) Distribution of BMI in T2D cases for carriers and non-carriers of rs13342232, binned every 2.5 kg/m2 with upper bounds indicated (carriers n=2,161; non-carriers n=1,647).
+0	NA	NA	NA	FIG	P-values from two-sample t-test between T2D risk haplotype carriers and T2D non-carriers
+0	NA	NA	rs117767867	FIG	(a) Allele frequency of missense SNP rs117767867 (tag for risk haplotype) in the 1,000 Genomes Phase I dataset.
+0	NA	NA	NA	FIG	(b) Dendrogram generated from haplotypes across the 73 kb Neandertal introgressed region.
+0	NA	NA	NA	FIG	Nodes for modern human haplotypes are labeled in red or blue with the 1,000 Genomes population in which the corresponding haplotype resides.
+0	NA	NA	NA	FIG	Archaic Neandertal sequences are labeled in black and include the low coverage Neandertal sequence (labeled Vindija), and the unpublished Neandertal sequence that is homozygous for the 5 SNP risk haplotype (Altai).
+0	NA	NA	NA	FIG	H1 includes haplotypes from MXL and FIN, and H2 and H3 both include haplotypes from CLM, MXL, CHB, and ASW.
+0	000,000 SNPs	NA	NA	FIG	Modern human sequences included are all 1,000 Genomes Phase I samples that are homozygous for the 5 SNP risk haplotype (n=15), and 16 non-risk haplotypes:four haplotypes (from two randomly selected individuals) from each of the CLM, MXL, CHB, and FIN 1,000 Genomes populations (the populations with carriers of the 5 SNP haplotype).
+0	NA	NA	NA	FIG	The red subtree depicts the Neandertal clade, with all risk haplotypes clustering with the Altai and Vindija sequences.
+0	NA	NA	NA	FIG	In blue are all other modern human haplotypes.
+0	NA	NA	NA	FIG	The dendrogram was generated by the R function hclust using a complete linkage clustering algorithm on a distance matrix measuring the fraction of SNPs called in the 1000 genomes project at which a pair of haplotypes differs (the Y-axis represents this distance).
+0	NA	NA	NA	FIG	Since haplotypes are unavailable for the archaic samples, we picked a random allele to compute the distance matrix
+0	NA	NA	NA	FIG	Data measured using nCounter is shown as mean, normalized mRNA counts per 200ng RNA +/- SEM.
+0	NA	NA	NA	FIG	Threshold for background (non-specific) binding is indicated by the red line.
+0	pancreatic cancer	NA	NA	FIG	Sample size for each tissue (n): pancreas (5), adipose, brain, colon, liver, skeletal muscle, and thyroid (3), adrenal, fetal brain, breast, heart, kidney, lung, placenta, prostate, small intestine, spleen, testes, thymus, and trachea (2), bladder, cervix, esophagus, fetal liver, ovary, salivary gland, fetal skeletal muscle, skin, umbilical cord, and uterus (1)
+0	NA	SLC16A11	NA	FIG	"(a) Results from the ""55k screen"", a survey of gene expression in 55,269 samples profiled on the Affymetrix U133 plus 2.0 array, are shown as the fraction of samples of a given tissue in which SLC16A11 is expressed."
+0	pancreatic cancer	NA	NA	FIG	Sample size for each tissue (n): adipose (394), adrenal (69), brain (1990), breast (4104), heart (178), kidney (675), liver (721), lung (1442), pancreas (150), placenta (107), prostate (578), salivary gland (26), skeletal muscle (793), skin (947), testis (102), thyroid (108).
+0	NA	SLC16A11	NA	FIG	"(b) Histograms show the expression level distribution of SLC16A11 and other well-studied liver genes in 721 liver samples from the ""55k screen."""
+0	NA	INS	NA	FIG	INS is shown as reference for a gene not expressed in liver.
+0	NA	NA	NA	FIG	Based on negative controls a normalized log2 expression of 4 is considered baseline and log2 expression values greater than 6 are considered expressed
+1	NA	SLC16A13	NA	FIG	HeLa cells transiently expressing C-terminus, V5-tagged (a) SLC16A13 or (b) BFP were immunostained for SLC16A13 or BFP expression (alpha-V5) along with specific markers for the endoplasmic reticulum (alpha-Calnexin), cis-Golgi apparatus (alpha-Golph4) and mitochondria (MitoTracker).
+0	NA	NA	NA	FIG	Due to heterogeneity in expression levels of overexpressed proteins and endogenous organelle markers, imaging of each protein was optimized for clarity of localization and varied across images; therefore, images are not representative of relative expression levels of each protein as compared to the other proteins
+0	NA	NA	NA	FIG	Changes in metabolite levels in HeLa cells expressing SLC16A11-V5 compared to control-transfected cells are plotted in groups according to metabolic pathway or class.
+0	carnitines	NA	NA	FIG	Pathways shown include all KEGG pathways from the human reference set for which metabolites were measured as well as eight additional classes of metabolites covering carnitines and lipid sub-types.
+0	NA	NA	NA	FIG	Each point within a pathway or class shows the fold-change of a single metabolite within that pathway or class.
+0	NA	NA	NA	FIG	For each pathway or class with at least six measured metabolites, enrichment was computed as described in Online Methods.
+0	NA	NA	NA	FIG	Asterisks indicate pathways with P <= 0.05 and FDR <= 0.25.
+0	NA	NA	NA	FIG	Supplementary Table 14 shows additional details from the enrichment analysis
+0	NA	NA	NA	TABLE	Study cohorts comprising the SIGMA T2D Project dataset with sample location, study design, numbers of cases and controls (including numbers before quality control (QC) checks), % male participants, age +- standard deviation (SD), age-of-onset in cases +- SD, body mass index +- SD, and fasting plasma glucose in controls +- SD

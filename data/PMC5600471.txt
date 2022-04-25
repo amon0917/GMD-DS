@@ -1,0 +1,191 @@
+0	breast cancer	E1	NA	ABSTRACT	Estrone (E1), the major circulating estrogen in postmenopausal women, promotes estrogen-receptor positive (ER+) breast tumor growth and proliferation.
+1	NA	E1	NA	ABSTRACT	Two major reactions contribute to E1 plasma concentrations, aromatase (CYP19A1) catalyzed E1 synthesis from androstenedione and steroid sulfatase (STS) catalyzed hydrolysis of estrone conjugates (E1Cs).
+0	breast cancer	NA	NA	ABSTRACT	E1Cs have been associated with breast cancer risk and may contribute to tumor progression since STS is expressed in breast cancer where its activity exceeds that of aromatase
+0	breast cancer	E1	NA	ABSTRACT	We performed genome-wide association studies (GWAS) to identify SNPs associated with variation in plasma concentrations of E1Cs, E1, and androstenedione in 774 postmenopausal women with resected early-stage ER+ breast cancer.
+0	NA	NA	NA	ABSTRACT	Hormone concentrations were measured prior to aromatase inhibitor therapy
+0	NA	SLCO1B1	NA	ABSTRACT	Multiple SNPs in SLCO1B1, a gene encoding a hepatic influx transporter, displayed genome-wide significant associations with E1C plasma concentrations and with the E1C/E1 ratio.
+0	NA	E1C	rs4149056	ABSTRACT	The top SNP for E1C concentrations, rs4149056 (p = 3.74E-11), was a missense variant that results in reduced transporter activity.
+0	NA	E1C	NA	ABSTRACT	Patients homozygous for the variant allele had significantly higher average E1C plasma concentrations than did other patients.
+0	NA	SLCO1B1	rs4149056	ABSTRACT	Furthermore, three other SLCO1B1 SNPs, not in LD with rs4149056, were associated with both E1C concentrations and the E1C/E1 ratio and were cis-eQTLs for SLCO1B3.
+0	NA	E1	NA	ABSTRACT	GWAS signals of suggestive significance were also observed for E1, androstenedione, and the E1/androstene-dione ratio
+0	breast cancer	E1C	NA	ABSTRACT	These results suggest a mechanism for genetic variation in E1C plasma concentrations as well as possible SNP biomarkers to identify ER+ breast cancer patients for whom STS inhibitors might be of clinical value
+0	breast cancer	ER	NA	INTRO	Estrogens are important drivers of the growth and proliferation of normal mammary tissue and of estrogen-receptor positive (ER+) breast cancer.
+0	NA	E1	NA	INTRO	Estrone (E1) and estradiol (E2) are the two major active estrogens.
+0	breast cancer	E1	NA	INTRO	E1 is more abundant than E2 in postmenopausal women, the group with the highest incidence of breast cancer in the United States.
+0	breast cancer	E1	NA	INTRO	E1 activates ER, and potentiates estrogenic effects such as the growth and survival of hormone-responsive breast cancer.
+0	NA	E1	NA	INTRO	However, since E1 can be converted to E2 by 17-beta-hydroxysteroid dehydrogenase, the estrogenic effects observed for E1 may be driven by E2 as it has a much higher affinity for ER.
+0	NA	E1	NA	INTRO	There are two major precursors for E1, androstenedione and estrone-3-sulfate (E1S).
+1	breast cancer	ARo	NA	INTRO	In post-menopausal women, androstenedione is converted to E1 by aromatase (CYP19A1) in adipose tissue, the adrenal glands, liver, and in breast tumors.
+0	NA	E1	NA	INTRO	E1 can then be conjugated to form E1S.
+0	NA	E1	NA	INTRO	"E1S is biologically inactive, but is a ""reservoir"" for active estrogen since it can be hydrolyzed to E1 by steroid sulfatase (STS)."
+0	NA	E1	NA	INTRO	Circulating E1S concentrations are an order of magnitude higher than those of E1 in post-menopausal women.
+0	NA	NA	NA	INTRO	The major site of sulfation and desulfation of estrone is the liver, and this cycling of estrone is believed to be an intracellular mechanism for regulating estrogen activity
+0	breast cancer	E1	NA	INTRO	Epidemiological studies have demonstrated a positive association between circulating E1 or E1S concentrations and breast cancer risk.
+0	breast cancer	E1	NA	INTRO	Furthermore, E1 concentrations in breast tumors are higher than in the plasma of postmenopausal women.
+0	NA	NA	NA	INTRO	This may be due to the in situ biosynthesis of estrogens from both androgens and conjugated estrogen precursors.
+0	cancers	NA	NA	INTRO	Aromatase inhibitors (AI), the major endocrine therapy for ER+ tumors in the adjuvant setting, target only one source of estrogens, i.e., their synthesis from androgens.
+0	NA	NA	NA	INTRO	That leaves another source uninhibited, i.e., synthesis from E1S catalyzed by STS.
+0	breast cancer	NA	NA	INTRO	Therefore, drugs that target this source of estrogens, i.e., STS inhibitors, have been developed as an additional approach to the treatment of ER+ breast cancer
+0	breast cancer	NA	NA	INTRO	"In this era of ""Precision Medicine,"" understanding factors that govern individual variation in plasma concentrations of estrogens might help us understand their role in individual variation in risk for breast cancer occurrence and/or recurrence."
+0	NA	NA	NA	INTRO	Together with factors such as body mass index (BMI), age, and diet, genetics also influences circulating estrogen concentrations.
+1	NA	ARo	NA	INTRO	Polymorphisms in genes such as CYP19A1, ESR1, and SHBG have all been shown to affect circulating estrogen concentrations.
+0	NA	NA	NA	INTRO	However, application of an agnostic approach such as GWAS might help us to identify additional genetic factors.
+0	NA	NA	NA	INTRO	For example, Liu et al.
+1	breast cancer	TSPYL5	NA	INTRO	in a GWAS for E2 plasma concentrations in post-menopausal women with ER+ breast cancer, identified a novel genome-wide significant SNP signal in TSPYL5, and demonstrated that TSPYL5 encoded a transcription factor that regulated the expression of CYP19A1 in a SNP-dependent fashion.
+0	NA	E1	NA	INTRO	Most published GWAS for estrogens in post-menopausal women have focused on E2, rather than the more abundant E1, and its precursor E1S.
+0	NA	E1	NA	INTRO	No GWAS results have been published for plasma E1, E1S, or androstenedione in postmenopausal women.
+0	breast cancer	NA	NA	INTRO	We hypothesized that genetic factors might contribute to variation in the concentrations of plasma hormones in the estrone biosynthesis and metabolism pathways, so we performed a comprehensive series of GWAS for plasma concentrations of these hormones in postmenopausal women with ER+ breast cancer prior to adjuvant AI therapy.
+0	NA	NA	NA	INTRO	"We also performed GWAS of ratios of hormones and their precursors as phenotypes to ""isolate"" specific reactions in this pathway."
+0	NA	E1C	NA	INTRO	The studies described subsequently identified genome-wide significant SNP signals associated with variation in plasma E1C and the E1C/E1 ratio across the SLCO1B1 gene, a gene encoding OATP1B1, an E1S transporter.
+0	breast cancer	NA	NA	INTRO	These observations might ultimately help us identify individualized approaches for the therapy and/or prevention of ER+ breast cancer
+0	NA	NA	NA	METHODS	Details of the Mayo/MDA/MSK study were described previously.
+0	breast cancer	NA	NA	METHODS	Briefly, our study population consisted of 774 postmenopausal women with resected early-stage ER+ breast cancer.
+0	cancers	NA	NA	METHODS	These patients were recruited from three Mayo Clinic locations (i.e., Rochester, MN, Jacksonville FL, and Scottsdale, AZ) as well as from MD Anderson Cancer Center and Memorial Sloan Kettering Cancer Center.
+0	NA	NA	NA	METHODS	Demographic information about the study population is listed in Table 1.
+0	NA	E*2	NA	METHODS	Prior to the initiation of anastrozole therapy, plasma samples were collected and assayed for E2, E1, and total E1 conjugates (E1C), which included both sulfate and glucuronide conjugates (with E1 sulfate as the predominant conjugate), testosterone, and androstenedione using gas chromatography-tandem mass spectrometry.
+0	NA	NA	NA	METHODS	DNA from the subjects was genotyped for over 600,000 SNPs using the Ilumina Human610-Quad BeadChip.
+0	NA	NA	NA	METHODS	SNPs with minor allele frequencies (MAFs) <0.01 and/or Hardy-Weinberg equilibrium p values <1.0E-06 were excluded from the analyses.
+0	NA	NA	NA	METHODS	Approximately 8 million SNPs were imputed using reference populations from the 2010 release of the 1000 Genomes Project.
+0	NA	MAF	NA	METHODS	Reference SNPs with MAF values <0.005 were removed prior to imputation performed using BEAGLE v3.3.1.
+0	NA	MAF	NA	METHODS	Imputed SNPs with dosage r2 values <0.3 and/or MAF values <0.01 were excluded from analyses.
+0	NA	NA	NA	METHODS	See supplemental information for details
+0	NA	E1	NA	METHODS	The phenotypes analyzed were plasma concentrations of E1, E1C, androstenedione, and the ratios of E1/androstenedione and E1C/E1.
+0	NA	NA	NA	METHODS	These values were analyzed as continuous quantitative variables.
+0	NA	NA	NA	METHODS	Van Der Waerden transformations were applied to phenotypes with skewed distributions to satisfy the assumption of a Gaussian distribution.
+0	NA	NA	NA	METHODS	To identify potential confounders, univariate linear regression analyses were performed with the hormone phenotypes and clinical variables such as BMI, age at diagnosis, recruitment site, smoking history, and eigenvectors from a principal component analysis (PCA) of population substructure.
+0	NA	NA	NA	METHODS	Covariates with the association of p values of 0.01 or lower were included in a multivariate linear regression model for the GWAS.
+0	NA	NA	NA	METHODS	For each phenotype, two analyses were performed, one using an unadjusted model without covariates, and another in which we adjusted for relevant covariates including eigenvectors from a PCA substructure analyses.
+0	NA	NA	NA	METHODS	The best model was determined by examining Quantile-Quantile (Q-Q) plots of the observed association of p values for adherence to the null distribution.
+0	NA	NA	NA	METHODS	This strategy was used for the genotyped SNP analyses.
+0	NA	NA	NA	METHODS	The best model emerging from the application of this approach was then applied to the analyses of the imputed SNPs.
+0	NA	NA	NA	METHODS	We used a p value of 5.0E-08 as the threshold for genome-wide significance.
+0	NA	NA	NA	METHODS	All analyses were performed using R statistical computing software (v3.0.2) and Plink (v1.07)
+0	NA	E1	NA	RESULTS	Associations among E1, E1C, androstenedione, E1C/E1, and E1/androstenedione and relevant clinical variables are listed in Table 2.
+0	NA	E1	NA	RESULTS	E1 and E1C displayed significant positive associations with BMI as did the E1/androstenedione ratio.
+0	NA	NA	NA	RESULTS	E1C/E1 was not associated with BMI.
+0	NA	E1	NA	RESULTS	Age at the time of diagnosis was positively associated with E1 and the E1/androstenedione ratio, and was negatively associated with E1C/E1.
+0	NA	E1C	NA	RESULTS	Age did not appear to be associated with the plasma concentrations of androstenedione or E1C.
+0	NA	E1C	NA	RESULTS	Smoking status was only associated with E1C concentrations, with smokers having a lower mean E1C concentration than did non-smokers (p = 0.01).
+0	NA	E1C	NA	RESULTS	Women with prior exposure to hormone replacement therapy had lower mean E1C concentrations than did those who had not been treated with those agents (p = 0.01).
+0	NA	NA	NA	RESULTS	With regard to race, the only significant association observed in our data involved the E1/androstenedione ratio.
+0	NA	NA	NA	RESULTS	African-American women had a higher mean E1/androstenedione than did patients of European ancestry (p = 1.0E-03) (Table 2)
+0	NA	E1C	NA	RESULTS	In the GWAS for circulating E1C concentrations (Q-Q plots in Supplementary Fig.
+0	NA	SLCO1B1	NA	RESULTS	1), we observed a genome-wide significant SNP signal across SLCO1B1, a gene that encodes a solute carrier (SLC) transporter that is highly expressed in liver (Figs.
+0	NA	NA	NA	RESULTS	1A, 2A, Supplementary Table 1).
+0	NA	MAF	rs4149056	RESULTS	The minor allele (C) of the top SNP, rs4149056 (MAF = 0.14), was associated with increased E1C concentrations with a p value of 3.74E-11 (Table 3).
+0	NA	SLCO1B1	rs4149056	RESULTS	This non-synonymous (ns) SNP (521T>C) resulted in an amino acid change from valine to alanine (Val174Ala) at residue 174 of the OATP1B1 protein encoded by SLCO1B1, resulting in a transporter with reduced activity.
+0	NA	SLCO1B1	NA	RESULTS	OATP1B1 is involved in hepatic uptake from the systemic circulation of both endogenous molecules such as E1C and xenobiotics such as statins.
+0	NA	E1C	NA	RESULTS	Given the reduced activity conferred by this SNP, patients with the C allele had higher concentrations of E1C in the circulation compared to those with the T allele (CC: mean = 873.6 pg/mL, TT: mean = 285.6 pg/mL) (Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	E1C	NA	RESULTS	Higher circulating E1C results in greater systemic exposure to E1C by tissues such as the breast
+0	NA	E1C	NA	RESULTS	As anticipated, there was a strong association between plasma concentrations of E1C and those of its precursor, E1 (Pearson's r = 0.63, p = 5.15E-83).
+0	NA	E1	rs4149056	RESULTS	However, regression analyses showed that there was no direct effect of the rs4149056 nsSNP on E1 concentrations, but the positive relationship between E1 and EIC concentrations was modified by rs4149056 (Supplementary Table 2).
+0	NA	E1	NA	RESULTS	Specifically, individuals homozygous for the variant allele had, on average, a smaller increase in E1 per unit increase in E1C concentrations, whereas those homozygous for the wildtype genotype had, on average, a greater increase in E1 per unit increase in E1 (Supplementary Fig.
+0	NA	NA	rs4149056	RESULTS	2):compatible with the functional effect of the rs4149056 C allele.
+0	NA	E1C	NA	RESULTS	This suggests that even when there was a similar quantitative increase in E1C among our subjects, the subsequent increase in E1 was smaller in women who were homozygous variant for the SLCO1B1 missense SNP.
+0	NA	SLCO1B1	NA	RESULTS	Perhaps, this might be due to fewer EIC molecules entering the liver for desulfation in subjects with decreased OATP1B1 transport activity
+0	NA	NA	NA	RESULTS	The Manhattan plot for the GWAS of the E1C/E1 ratio is shown in Fig.
+0	NA	NA	NA	RESULTS	1B (Q-Q plots in Supplementary Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	SLCO1B1	NA	RESULTS	Numerous SNPs in this GWAS achieved genome-wide significance (Supplementary Table 3) and they all mapped to SLCO1B1 (Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	SLCO1B1	NA	RESULTS	The linkage disequilibrium (LD) structure among the top SNPs suggested the existence of two independent signals in the SLCO1B1 gene.
+0	NA	E1C	rs4149056	RESULTS	The rs4149056 nsSNP that was the top GWAS signal for E1C concentration also displayed a genome-wide significant association with E1C/E1 (p = 8.67E-09) (Table 3).
+1	NA	NA	rs10841753	RESULTS	However, this SNP was not in LD (r2 = 0.013) with the top SNP for the E1C/E1 GWAS, rs10841753 (p = 2.95E-12), (see Fig.
+0	NA	NA	NA	RESULTS	2B) an intronic SNP with a minor allele C that was associated with decreased E1C/E1.
+0	NA	SLCO1B1	rs11045819	RESULTS	This SNP was not an expression quantitative trait locus (eQTL) for SLCO1B1, but it was in perfect LD (r2 = 1) with another SLCO1B1 missense variant, rs11045819, that was also associated with E1C/E1 (p = 3.87E-08) (Table 3).
+0	NA	SLCO1B1	rs11045819	RESULTS	This second missense variant, rs11045819 (463C>A), resulted in a proline to threonine (Pro155Thr) change in the protein encoded by SLCO1B1 and had a minor allele (A) frequency of 15% in our sample of women who were primarily of European ancestry.
+0	NA	MAF	NA	RESULTS	This variant was absent in populations of East Asian ancestry and had a MAF of 6% in populations of African ancestry based on 1000 Genomes data.
+0	NA	SLCO1B1	rs4149056	RESULTS	Unlike rs4149056, rs11045819 does not appear to alter the activity of the OATP1B1 transporter
+0	NA	SLCO1B1	rs11045828	RESULTS	Three of the top SNPs from this GWAS, rs11045828 (p = 5.33E-11), rs10841755 (p = 8.13-11), and rs11045834 (p = 3.08E-11) (Table 3), mapped to an SLCO1B1 intron and were significant eQTLs for the nearby SLCO1B3 gene, but not for SLCO1B1 (GTEx).
+0	NA	NA	rs11045828	RESULTS	For each of these SNPs, the variant allele was associated with decreased E1C/E1 and with decreased expression of SLCO1B3 (rs11045828: effect size for expression = -0.4, p = 1.6E-06; rs10841755: effect size = -0.4, p = 1.7E-06; 11045834: effect size = -0.38 p = 4.7E-06).
+0	NA	SLCO1B3	NA	RESULTS	SLCO1B3 also encodes a hepatic influx transporter, maps 200 kb upstream of SLCO1B1, and transports E1Cs.
+0	NA	SLCO1B3	NA	RESULTS	All three of the SNPs that were eQTLs for SLCO1B3 were in high LD [r2 = 1.0] with each other.
+0	NA	NA	rs11045828	RESULTS	In addition to being associated with E1C/E1, these SNPs were also significantly associated with decreased E1C concentrations (rs11045828: p = 5.68E-06, rs10841755: p = 8.68E-06, 11045834: p = 1.61E-06) but not with E1 concentrations.
+0	NA	SLCO1B3	NA	RESULTS	Since SLCO1B3 encodes an influx transporter one might anticipate that SNPs associated with decreased expression of SLCO1B3 might be associated with increased E1C concentrations, but our data clearly demonstrate the opposite
+0	NA	E1	NA	RESULTS	We also performed a GWAS for E1 concentrations (Fig.
+0	NA	NA	NA	RESULTS	1C, Supplementary Fig.
+1	NA	NA	rs12586722	RESULTS	4) and the top SNP was rs12586722 which mapped to LOC105370555 on chromosome 14 (Table 3, Supplementary Table 4), but this SNP did not achieve genome-wide significance.
+0	NA	MAF	NA	RESULTS	The minor allele A (MAF = 0.16) for this SNP was associated with increased E1 concentrations (p = 1.48E-06).
+0	NA	ADAM20P1	NA	RESULTS	This SNP was a cis-eQTL for ADAM20P1, a nearby processed pseudogene.
+0	NA	NA	NA	RESULTS	The minor allele for the SNP was associated with decreased expression.
+1	NA	ADAM21	rs114864695	RESULTS	Another SNP of possible interest in this region was rs114864695 (p = 2.55E-06), a missense variant in exon 2 of ADAM21 (Table 3).
+0	NA	NA	rs114864695	RESULTS	It resulted in a 739A>C change in the genomic sequence and a Lys247Gln change in the encoded amino acid sequence.
+0	NA	NA	NA	RESULTS	The functional consequences of this missense variant are unknown.
+0	NA	ADAM21P1	NA	RESULTS	According to GTEx, this SNP is also a cis-eQTL for ADAM21P1, and the C allele is associated with increased expression of this putative pseudogene (effect size = -0.49, p = 1.8E-09)
+0	NA	NA	NA	RESULTS	Although there were no SNPs that reached genome-wide significance in the E1/androstenedione GWAS (Supplementary Fig.
+0	NA	NA	NA	RESULTS	5), there were several SNPs with suggestive significance.
+1	NA	CDK14	NA	RESULTS	Those polymorphisms included SNPs in or near CDK14, ASB18, PTPRM, and CYP19A1 (Table 3, Supplementary Table 5).
+1	NA	ARo	NA	RESULTS	CYP19A1 was of interest since it encodes aromatase, the enzyme that catalyzes the conversion of androstenedione to E1 and of testosterone to E2.
+1	NA	NA	rs17601876	RESULTS	The minor allele (G) for the top SNP in this gene, rs17601876 (p = 3.50E-06), was associated with an increased E1/androstenedione (Table 3).
+1	NA	ARo	rs7175531	RESULTS	Several of the SNPs from this GWAS were cis-eQTLs for CYP19A1, including rs7175531 (MAF = 0.34, p = 6.18E-05) and rs2414095 (MAF = 0.34, p = 7.02E-05).
+1	NA	NA	NA	RESULTS	Minor alleles for both SNPs were associated with decreased E1/androstenedione among our patients and with decreased CYP19A1 expression.
+1	NA	ARo	NA	RESULTS	Since decreased CYP19A1 would result in decreased conversion of androstenedione to E1, the directional effects for both relationships were consistent
+0	NA	NA	NA	RESULTS	In our androstenedione GWAS (Supplementary Fig.
+1	NA	NA	rs57712673	RESULTS	6c), the main signal included intronic SNPs for EMR2/ADGRE2, with rs57712673 having the lowest p value (p = 1.39E-07) (Table 3).
+1	NA	EMR2	NA	RESULTS	The minor allele for this SNP (A) was associated with increased androstenedione concentrations as well as decreased expression of EMR2 (effect size = -0.2, p = 8.0E-07).
+1	NA	CYP11B1	NA	RESULTS	Another signal of interest involved a cluster of SNPs on chromosome 8 within and flanking CYP11B1 and CYP11B2 (Supplementary Fig.
+0	NA	NA	NA	RESULTS	6c, Supplementary Table 6), genes encoding enzymes in the steroid hormone biosynthesis pathway.
+1	NA	NA	rs6988985	RESULTS	Within this region, the minor allele (T) of the SNP with the lowest p value, rs6988985, was associated with increased androstenedione (p = 6.65E-07) (Table 3).
+0	NA	CYP11B1	NA	RESULTS	CYP11B1 expression is regulated by adrenocorticotrophic hormone (ACTH) which regulates the quantity of 17-hydroxyprogesterone available for conversion to androstenedione in the adrenal glands
+0	NA	E1C	rs4149056	DISCUSS	The major signal observed in our E1C GWAS was a missense variant in SLCO1B1, rs4149056.
+0	NA	NA	rs11045819	DISCUSS	GWAS for the ratio of E1C/E1 yielded the same signal, as well as an additional independent signal that included another SLCO1B1 missense variant, rs11045819.
+0	NA	SLCO1B1	NA	DISCUSS	These two nsSNPs are approximately 1700 bp apart and map to adjacent SLCO1B1 exons, 5 and 6, but they are not in LD with each other in European, African, or Asian populations.
+0	NA	SLCO1B1	rs4149056	DISCUSS	The variant allele for rs4149056 (521T>C) results in a Val174Ala amino acid change in the fourth transmembrane segment of the OATP1B1 protein.
+0	cardiothoracic conditions	NA	NA	DISCUSS	This variant is a well-studied pharmacogenomic marker identified initially during a GWAS for statin-induced myopathy.
+0	NA	sex hormone-binding globulin	NA	DISCUSS	This variant has also been associated with concentrations of bilirubin, sex hormone-binding globulin, and various metabolites.
+0	NA	SLCO1B1	NA	DISCUSS	OATP1B1, the transporter encoded by SLCO1B1, is expressed primarily in hepatic tissue, and transports numerous endogenous compounds, including E1Cs (E1S), from the systemic circulation into hepatocytes.
+0	NA	SLCO1B1	rs4149056	DISCUSS	Functional studies have shown that the rs4149056 variant allele is associated with decreased membrane expression of the OATP1B1 transporter, and thus, reduced transport activity.
+0	NA	SLCO1B1	NA	DISCUSS	Reduced transport would increase the plasma concentration and systemic exposure to OATP1B1 substrates, which is compatible with our observations.
+0	NA	E1C	rs4149056	DISCUSS	In our patients, those with one or more copies of the rs4149056 C variant allele had higher mean plasma concentrations of E1C than patients homozygous for the major allele (CC: 873.6 pg/mL, TT: 285.6 pg/mL) (Fig.
+0	NA	NA	NA	DISCUSS	3).
+0	NA	NA	NA	DISCUSS	Thus, women who carried the minor allele had increased systemic exposure to E1Cs
+0	NA	SLCO1B1	rs11045819	DISCUSS	The second SLCO1B1 missense variant, rs11045819 (463C>A), resulted in a Pro155Thr change in the extra-cellular loop region of OATP1B1.
+0	NA	NA	rs11045819	DISCUSS	However, in vitro studies failed to show that 463C>A affects either protein expression for the encoded transporter or its uptake activity.
+0	NA	NA	NA	DISCUSS	In our patients, the variant allele (A) for this SNP was associated with decreased E1C/E1, and thus a lower exposure to circulating E1C.
+0	NA	NA	NA	DISCUSS	There were no patients in our sample who were homozygous for variants for both mis-sense SNPs.
+0	NA	NA	rs11045819	DISCUSS	The 463C>A variant might be significantly associated with E1C/E1 because it is in modest LD (r2 = 0.517) with 3 intronic SNPs that displayed statistically significant associations with the E1C/E1 ratio, and which were also cis-eQTLs for SLCO1B3.
+0	NA	SLCO1B3	NA	DISCUSS	That gene encodes OATP1B3, a solute carrier transporter that is also capable of transporting E1Cs, but with lower transport efficiency than OATP1B1
+0	breast cancer	SLCO1B1	NA	DISCUSS	Both the non-synonymous and other variants in SLCO1B1 associated with elevated plasma E1C concentrations may be clinically important since elevated E1C concentrations have previously been linked to increased breast cancer risk in postmenopausal women.
+0	breast cancer	SLCO1B1	NA	DISCUSS	In addition, ten SNPs in SLCO1B1 were previously shown to be associated with increased risk for breast cancer in postmenopausal women in the California Teachers Study (CTS).
+0	NA	E1C	rs4149058	DISCUSS	Although none of those SNPs showed genome-wide significant associations with E1C concentrations in our data, seven were nominally associated, and one SNP (rs4149058) exhibited suggestive statistical significance (p = 5.02E-06).
+0	breast cancer	E1C	NA	DISCUSS	That SNP was associated with a 23% increase in breast cancer risk in the CTS and with increased E1C concentrations in our study.
+0	NA	E1C	rs4149058	DISCUSS	Rs4149058 was in modest LD (r2 = 0.59) with the rs4149056 missense variant that was the top SNP signal in our E1C GWAS.
+0	NA	E1C	rs4149056	DISCUSS	Rs4149056 was not genotyped in the CTS, nor were most of our variants that displayed genome-wide significant associations with E1C or E1C/E1
+0	breast cancer	E1C	rs4149056	DISCUSS	The increase in systemic exposure to E1C by ER+ breast cancer patients who were homozygous variant for rs4149056 may mean that their tumors take up more E1C, a precursor for E1.
+0	cancers	SLCO1B1	NA	DISCUSS	Since SLCO1B1 is not expressed in either normal or cancerous breast tissue according to the GTEx (39) and TCGA databases (46-47), one can assume that this missense SNP will not affect E1C transport into breast tumor tissue.
+0	breast cancer	OATP2B1	NA	DISCUSS	Other OATPs that have the capacity to transport E1S (33), such as OATP2B1, OATP3A1, and OATP4A1, are highly expressed in breast tumors.
+0	NA	SLCO1B1	NA	DISCUSS	Those OATPs tend to be ubiquitously expressed, but have lower hepatic expression than does OATP1B1 (35).
+0	breast cancer	ER	NA	DISCUSS	Furthermore, TCGA data indicate that the breast tumor expression of these genes is comparable to key breast cancer genes such as ESR1 and CCND1.
+0	breast cancer	E1	NA	DISCUSS	Hypothetically, elevated circulating E1Cs could indirectly augment the proliferation of breast tumors that have the capacity to take up and hydrolyze E1Cs to form E1.
+0	NA	E1C	NA	DISCUSS	In kinetic studies, ER+ cell lines have much higher rates of E1C uptake than do normal breast cell lines.
+0	breast cancer	NA	NA	DISCUSS	Furthermore, ER+ cell lines had lower Km values for OATP-mediated transport of E1Cs compared to other breast cancer cell lines, indicating that ER+ cell lines may have greater transport efficiency.
+0	NA	NA	NA	DISCUSS	Higuchi et al.
+0	breast cancer	SLCO1B1	NA	DISCUSS	demonstrated up-regulation of the expression of the OATP1B1, OATP1A2, OATP4A2, and OATP5A1 transporters in a letrozole-resistant MCF7 breast cancer cell line.
+0	NA	E1C	NA	DISCUSS	Those cell lines were shown to proliferate preferentially in E1C supplemented media, a situation analogous to elevated circulating plasma concentrations.
+0	NA	NA	NA	DISCUSS	They also showed that treatment with an STS inhibitor reduced proliferation of the letrozole-resistant cell lines, results that support the possible clinical application of STS inhibitors.
+0	NA	NA	NA	DISCUSS	Further highlighting the biological and potential clinical importance of the STS-mediated pathway for estrogen production, Utsumi et al.
+0	breast cancer	steroid sulfatase	NA	DISCUSS	demonstrated that patients with high steroid sulfatase [STS] expression in breast tumors had a higher risk of recurrence than those with low expression.
+0	cancers	E1C	NA	DISCUSS	This implies that higher plasma E1C exposure, higher tumor E1C uptake, and higher STS expression might contribute to risk for tumor recurrence.
+0	breast cancer	E1C	NA	DISCUSS	Therefore, STS inhibitors might prove beneficial for ER+ breast cancer patients with high circulating E1C during adjuvant AI therapy.
+0	NA	NA	rs4149056	DISCUSS	Selection of patients for STS inhibitor trials has been a challenge, and it is possible that rs4149056 could help address this issue.
+0	NA	E1C	NA	DISCUSS	We assume that patients with high circulating concentrations of E1C might benefit from STS inhibition.
+0	NA	NA	rs4149056	DISCUSS	Thus, patients who are homozygous variant for rs4149056 and are on an aromatase inhibitor could be selected for clinical trials of STS inhibitor as add-on therapy
+0	breast cancer	E1	NA	DISCUSS	In summary, our GWAS of plasma E1 and its major precursors in postmenopausal women with ER+ breast cancer identified SNP signals across SLCO1B1 that point to a mechanism that might contribute to increased tumor exposure to estrogen.
+0	NA	NA	NA	DISCUSS	"The SLCO1B1-encoded hepatic influx transporter regulates circulating concentrations of E1C, a ""reservoir"" for E1 that can increase the exposure of patients to active estrogens after hydrolysis of the conjugates."
+0	NA	NA	NA	DISCUSS	This pathway remains active in patients who are on aromatase inhibitor therapy.
+0	NA	SLCO1B1	NA	DISCUSS	We found that two independent missense variants in SLCO1B1 were associated with either increased or decreased circulating E1C concentrations and/or E1C/E1 ratio:results that require replication in future studies.
+0	breast cancer	E1C	NA	DISCUSS	These variants may provide a means by which to identify ER+ breast cancer patients on AI therapy who are at increased risk for tumor recurrence because of elevated tumor E1C exposure, and who might benefit from additional therapy such as STS inhibition
+0	NA	NA	NA	FIG	Manhattan plots showing GWAS results for plasma concentrations of (A).
+0	NA	E1C	NA	FIG	Estrone Conjugates (E1C), (B).
+0	NA	NA	NA	FIG	the ratio of E1C/E1, (C).
+0	breast cancer	E1	NA	FIG	Estrone (E1) in 774 postmenopausal women with ER+ breast cancer prior to the initiation of endocrine therapy.
+0	NA	NA	NA	FIG	Dashed lines represent thresholds for genome-wide significance (p <= 5.0E-08, green) and suggestive significance (p <= 5.0E-06, gray
+0	NA	SLCO1B1	NA	FIG	Regional plots of the genome-wide significant SNP signal across SLCO1B1 from (A).
+1	NA	E1C	rs4149056	FIG	GWAS of E1C which shows the top SNP, rs4149056 (blue arrow), a missense variant that results in a plasma membrane transporter with reduced activity, (B) GWAS of E1C/E1 which shows the top SNP, rs10841753 (purple point), which is an intronic variant that is in high LD (R2 = 1.00, CEU population, distance = 8443 bp), with another missense variant, rs11045819 (red arrow) in populations of European descent, but it is a signal independent from rs4149056 (R2 = 0.013, CEU population, distance = 101179 bp).
+0	breast cancer	SLCO1B3	rs11045828	FIG	The black arrow highlights 3 SNPs (rs11045828, rs10841755, and rs11045834) that are cis-eQTLs for SLCO1B3 and are associated with breast cancer ris
+0	breast cancer	E1C	rs4149056	FIG	Mean plasma E1C concentrations for each genotype of rs4149056 (with 95% confidence intervals shown) in postmenopausal women with ER+ breast cancer.
+0	NA	NA	NA	FIG	Red points with red horizontal bars indicate the mean values for each genotyp
+0	breast cancer	NA	NA	TABLE	Patient Characteristics for 774 postmenopausal women with ER+ breast cance
+0	breast cancer	NA	NA	TABLE	Association between plasma hormone concentrations or ratios of concentrations and clinical and demographic variables among 774 postmenopausal women with ER+ breast cance
+0	NA	NA	NA	TABLE	List of top and selected SNP signals from the GWAS analyse

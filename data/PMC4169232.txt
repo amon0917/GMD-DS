@@ -1,0 +1,168 @@
+0	lung cancer	NA	NA	ABSTRACT	To identify common genetic variants that contribute to lung cancer susceptibility, we conducted a multistage genome-wide association study of lung cancer in Asian women who never smoked.
+0	lung cancer	NA	NA	ABSTRACT	We scanned 5,510 never-smoking female lung cancer cases and 4,544 controls drawn from 14 studies from mainland China, South Korea, Japan, Singapore, Taiwan, and Hong Kong.
+0	NA	NA	NA	ABSTRACT	We genotyped the most promising variants (associated at P < 5 x 10-6) in an additional 1,099 cases and 2,913 controls.
+1	NA	NA	rs7086803	ABSTRACT	We identified three new susceptibility loci at 10q25.2 (rs7086803, P = 3.54 x 10-18), 6q22.2 (rs9387478, P = 4.14 x 10-10) and 6p21.32 (rs2395185, P = 9.51 x 10-9).
+0	NA	NA	NA	ABSTRACT	We also confirmed associations reported for loci at 5p15.33 and 3q28 and a recently reported finding at 17q24.3.
+0	lung cancer	NA	NA	ABSTRACT	We observed no evidence of association for lung cancer at 15q25 in never-smoking women in Asia, providing strong evidence that this locus is not associated with lung cancer independent of smoking
+0	lung cancer	NA	NA	INTRO	It is estimated that 25% of lung cancer cases arise in individuals who never smoked.
+0	cancers	NA	NA	INTRO	Lung cancer in never smokers ranks as the seventh most common cause of cancer death worldwide.
+0	lung cancer	NA	NA	INTRO	A number of observations suggest that the molecular pathogenesis of lung cancer differs by smoking status.
+0	NA	ErbB	NA	INTRO	Differences have been reported by smoking status for cellular and molecular carcinogenic pathways, distinct profiles of oncogenic mutations (for example, in EGFR), and response to targeted therapy.
+0	lung cancer	NA	NA	INTRO	Compared to lung cancer in smokers, cases in never smokers are more likely to arise in women at a younger age and there is a greater proportion of cases with the adenocarcinoma histology subtype.
+0	lung cancer	NA	NA	INTRO	Epidemiological studies of lung cancer in never smokers have shown that the incidence of lung cancer in women is particularly high in Asia, which is partially attributed to exposure to environmental tobacco smoke, combustion products from indoor heating and cooking fuel, and cooking oil fumes
+0	lung cancer	NA	NA	INTRO	To gain insight into the etiology of lung cancer among never-smoking women, we formed the Female Lung Cancer Consortium in Asia (FLCCA), which includes studies drawn from mainland China, South Korea, Japan, Singapore, Taiwan, and Hong Kong.
+0	lung cancer	TERT	NA	INTRO	Previously, we published the first genome-wide association study (GWAS) of lung cancer in never-smoking Asian women, including 584 cases and 585 controls with large-scale replication, reporting an association at 5p15.33 near the TERT gene ; in this study, it was also notable that the estimated effect of the associated locus was greater in non-smoking Asian women than the reported effect size observed in primarily smokers of European ancestry.
+1	NA	TP63	NA	INTRO	We also confirmed an association signal in TP63 at 3q28, replicating the report from a GWAS conducted in Japan
+0	lung cancer	NA	NA	INTRO	To identify new susceptibility loci in Asian never-smoking women, we conducted a lung cancer GWAS in 14 studies (13 case-control studies and 1 cohort study, Supplementary Note, Supplementary Table 1).
+0	cancers	NA	NA	INTRO	Samples were scanned at 6 centers (Online Methods): the United States National Cancer Institute (NCI) Cancer Genomic Research (CGR) Laboratory, the Genome Institute of Singapore, Memorial Sloan-Kettering Cancer Center, GeneTech Biotech Co. in Taiwan, Gene-Square Biotech in Beijing, and deCODE Genetics in Iceland.
+0	lung cancer	NA	NA	INTRO	After stringent quality control analysis of genotypes (Online Methods), we combined datasets for 5,510 lung cancer cases and 4,544 controls using a previously described clustering algorithm.
+0	NA	NA	NA	INTRO	The primary analysis was performed using logistic regression for genotype trend effect (with 1 degree of freedom) adjusted for study center, age and three eigenvectors (on the basis of principal- components analysis).
+0	NA	NA	NA	INTRO	A comparison of the observed and expected p-values in the quantile-quantile (Q-Q) plot showed an enrichment of observed signals with small p-values compared to the null distribution of no association, with little evidence for genomic inflation (unscaled lambda = 1.014, lambda1000 = 1.003; Supplementary Figure 1)
+0	NA	NA	NA	INTRO	The overall association results are shown in a Manhattan plot, in which we observed both new and known loci that exceeded the threshold for genome-wide significance, P < 5 x 10-8 (Fig.
+0	NA	NA	NA	INTRO	1).
+1	NA	NA	rs2736100	INTRO	We observed an association at two previously established loci, rs2736100 at 5p15.33, and rs4488809 at 3q28.
+0	NA	NA	rs7216064	INTRO	We also observed support for an association at a recently reported locus marked by rs7216064 at 17q24.3 (Supplementary Table 2).
+0	lung cancer	NA	NA	INTRO	Notably, there was no evidence for association across the 15q25 region, which has been associated with smoking-related lung cancer.
+0	NA	NA	NA	INTRO	We did not observe strong signals for other loci reported in either European or Asian populations (Supplementary Table 2)
+1	NA	NA	rs7086803	INTRO	In our primary scan, we observed one new locus at 10q25.2, marked by rs7086803, that substantially exceeded the threshold for genome-wide significance (OR = 1.32, 95% CI = 1.24-1.41, P = 5.04 x 10-17) (Fig.
+0	NA	NA	NA	INTRO	1, Table 1).
+0	NSCLC-adenocarcinoma	NA	NA	INTRO	We developed assays to genotype 13 SNPs associated at P < 5 x 10-6 in the initial scan, using analysis of all cases or the most common subtype in non-smokers, adenocarcinoma.
+0	NA	NA	NA	INTRO	We genotyped 1,099 new cases and 2,913 controls drawn from the same studies as in the initial scan.
+1	NA	NA	rs7086803	INTRO	In a combined analysis of 6,609 cases and 7,457 controls, 3 new loci achieved associations at genome-wide significance (Table 1): 10q25.2 (rs7086803, OR = 1.28, 95% CI = 1.21-1.35, P = 3.54 x 10-18); 6q22.2 (rs9387478, OR = 0.85, 95% CI = 0.81-0.90, P = 4.14 x 10-10); and 6p21.32 (rs2395185, OR = 1.17, 95% CI = 1.11-1.23, P = 9.51 x 10-9) (Table 1, Fig.
+0	NA	NA	NA	INTRO	2, Supplementary Figure 2, Supplementary Tables 3 and 4)
+0	lung cancer	NA	rs9387478	INTRO	Analysis by histological subtype of lung cancer showed that both the 6q22.2 locus (rs9387478) and 6p21.32 locus (rs2395185) were associated with adenocarcinoma only, which comprised 71% of cases (Table 2).
+0	NA	NA	NA	INTRO	The estimated effects were consistent across studies (Supplementary Figure.
+0	NA	NA	NA	INTRO	2).
+1	squamous disease	NA	rs7086803	INTRO	We note that rs7086803 showed a somewhat larger effect for squamous carcinoma compared to adenocarcinoma (Table 2), but, as the number of squamous carcinoma cases analyzed was small, we consider this a preliminary observation requiring independent replication
+0	lung cancer	NA	NA	INTRO	To explore the relationship between these three regions and lung cancer in populations of European ancestry, we analyzed data from a previously reported GWAS of 5,718 lung cancer cases and 5,739 controls, including men and women who were primarily ever smokers.
+0	NA	NA	NA	INTRO	We found no evidence for association at the three newly associated loci.
+0	NA	NA	rs2395185	INTRO	In a sub-analysis of 350 never-smoker cases and 1,379 never smoker controls drawn from this study, we observed some evidence of association for rs2395185 but larger studies are warranted (unpublished data, T Landi)
+0	cancers	NA	NA	INTRO	We imputed SNPs catalogued in the 1000 Genomes Project March 2012 release and the Division of Cancer Epidemiology and Genetics Imputation Reference Set version 1 using the IMPUTE2 program across a 1-Mb region centered on the index SNP (see Online Methods).
+0	NA	NA	NA	INTRO	The association analysis did not identify new signals that were substantially stronger than the genotyped SNPs for the two non-HLA regions (Supplementary Figure.
+0	NA	NA	NA	INTRO	3a,b).
+0	NA	NA	NA	INTRO	Although there appear to be stronger signals in the imputed data for the HLA Class II region (Supplementary Figure.
+0	NA	NA	NA	INTRO	3c), HLA-typing will be necessary to unravel the specific haplotypes
+0	NA	NA	rs9387478	INTRO	At the 6q22 locus, six SNPs were highly correlated with rs9387478 (r2 = 0.99 - 1.00).
+0	NA	NA	rs9387478	INTRO	Two SNPs, rs9387478 and rs6937083 (pairwise r2 = 1), were observed within a region defined by the Encyclopedia of DNA Elements (ENCODE) as containing both chromatin state segmentation and enhancer- and promoter-associated histone marks.
+0	NA	DCBLD1	rs6937083	INTRO	Although the evidence for evolutionary conservation is weak (i.e., a cross-species sequence alignment comparison indicated conservation at the site of ~29.2 million years since divergence from a common ancestor), rs6937083 falls within an ENCODE predicted transcription factor binding site and an exon of the AceView predicted gene, DCBLD1.
+0	NA	NA	NA	INTRO	The architecture of the region on chromosome 10q25 is more complicated because there are 23 perfectly correlated SNPs (r2 = 1) and 1 highly correlated SNP (r2 = 0.99).
+1	NA	VTI1A	NA	INTRO	All localize to intron 7 or the untranslated region (UTR) of one transcript of the vesicle transport through interaction with the t-SNAREs homolog 1A (yeast) gene (VTI1A).
+1	allergy	VTI1A	rs11196080	INTRO	Sixteen fall within putatively functional regions, defined as ENCODE DNase I hypersensitivity clusters, chromatin state segmentation, the UTR of VTI1A, ENCODE enhancer- and promoter-associated histone marks, and/or highly conserved (i.e., a cross-species sequence alignment comparison indicated conservation at the site of 300 million years since divergence from a common ancestor) regions (see Supplementary Table 5); rs11196080 is noteworthy because many of the functionally-predicted areas converge on this SNP, making this a high priority variant for functional follow-up studies
+1	prostate carcinogenesis	VTI1A	rs7086803	INTRO	The strongest new association signal, rs7086803 at 10q25.2, maps to intron 7 of the VTI1A gene, which has been implicated in lung carcinogenesis.
+1	neuro-degeneration	VTI1A	NA	INTRO	Loss of VTI1A activity has been reported to reduce high-frequency spontaneous neurotransmitter release and rapid progressive neuro-degeneration in the peripheral ganglia.
+1	NA	VTI1A	NA	INTRO	VTI1A is also involved in Acrp30-containing vesicles in adipocytes, and lower amounts of VTI1A in cultured adipocytes can inhibit adiponectin secretion.
+0	lung cancer	adiponectin	NA	INTRO	Lower amounts of adiponectin have previously been associated with advanced lung cancer.
+1	carcinomas of the colon	NA	NA	INTRO	A recent study reported recurrent VTI1A-TCF7L2 fusions in colorectal cancers, and a colorectal carcinoma cell line with the fusion gene was shown to be dependent on VTI1A-TCF7L2 for anchorage-independent growth
+0	NA	DCBLD1	rs9387478	INTRO	The rs9387478 SNP at 6q22.2 is located in an interval that contains two candidate genes: DCBLD1 (encoding discoidin, CUB and LCCL domain containing 1) and ROS1 (encoding the ROS proto-oncogene receptor tyrosine kinase).
+0	NA	ROS1	NA	INTRO	ROS1 functions as both an integral membrane protein and a receptor tyrosine kinase.
+0	lung cancer	Ros1	NA	INTRO	Expression of Ros1 is specifically increased in lung cancer tissue in mice, and ROS1 expression levels are increased in non-small cell lung cancer (NSCLC).
+0	lung adenocarcinomas	ROS1	NA	INTRO	ROS1 fusions in lung adenocarcinoma and NSCLC, particularly in Asian never smokers, have been identified as drivers of oncogenesis .
+0	lung adenocarcinomas	ROS1	NA	INTRO	ROS1 rearrangements were found to be more common in lung adenocarcinomas from never smokers and younger affected individuals.
+0	metastases	DCBLD1	NA	INTRO	There is limited evidence concerning the functional role of the protein encoded by DCBLD1; a related gene at 3q12.2, DCBLD2 (encoding discoidin, CUB and LCCL domain containing 2, also known as CLCP1), regulates cellular proliferation and invasion and may have an important role in cancer metastasis
+0	NA	HLA-DRA	rs2395185	INTRO	The third locus, marked by rs2395185 at 6p21.3, is located within 20 kb of HLA-DRA (encoding major histocompatibility complex, class II, DR alpha) and 52 kb downstream of HLA-DRB5 (encoding major histocompatibility complex, class II, DR beta 5).
+0	lung cancer	NA	NA	INTRO	There was no evidence for strong linkage disequilibrium between this SNP and other SNPs reported for lung cancer at 6p21.32.
+0	lung cancer	NA	rs3817963	INTRO	There was little LD with a recently reported SNP, rs3817963, and lung cancer in a Japanese population, also on 6p21.3; the r2 in Han Chinese and Japanese HapMap samples was 0.18 and 0.10, respectively, and D' was 0.57 and 0.43, respectively.
+0	lung cancer	NA	NA	INTRO	These data suggest that our locus probably represents a new HLA Class II-related finding for nonsmoking lung cancer susceptibility.
+0	lung cancer	NA	NA	INTRO	Further mapping across the complex HLA region is required to characterize the specific susceptibility alleles or haplotypes involved in non-smoking lung cancer risk.
+0	ulcerative colitis	NA	rs2395185	INTRO	We also note that rs2395185 has been previously associated with ulcerative colitis, Hodgkin lymphoma, and type 1 diabetes
+0	lung cancer	NA	NA	INTRO	In previous GWAS of lung cancer, in which a majority of cases were smokers, SNPs across a region at 15q25 have been associated with lung cancer risk.
+0	lung cancer	NA	NA	INTRO	However, studies of smoking related behavior have also identified variants at 15q25, raising the possibility that the variants previously identified by GWAS for lung cancer could mediate risk through effects on tobacco use.
+0	lung cancer	NA	NA	INTRO	We previously genotyped additional SNPs across 15q25 in Asian studies and observed no evidence of association with lung cancer in never-smoking Asian females.
+0	lung cancer	NA	NA	INTRO	Notably, in our current, larger study, there was no evidence for association with lung cancer at 15q25 in the never-smoking population overall or in the major subtypes.
+0	lung cancer	NA	NA	INTRO	These data provide strong evidence that this locus is not associated with lung cancer independent of smoking in never-smoking females in Asia, which contrasts with the results from a smaller Asian study, but is consistent with previous reports from smaller studies conducted in populations of European ancestry
+0	NA	NA	NA	INTRO	We investigated the relationship between our new loci and known environmental exposures.
+0	NSCLC-adenocarcinoma	NA	NA	INTRO	The association between exposure to environmental tobacco smoke (ETS) in the home and adenocarcinoma in the five studies with data available yielded an OR of 1.36 (P = 1.2 x 10-4) in an analysis of 1,770 cases and 2,675 controls, consistent with previous reports.
+0	NA	NA	rs2395185	INTRO	The effect of ETS was stronger for subjects with the GG genotype at rs2395185, with OR = 1.78 (P = 1.15 x 10-5), compared to subjects with GT/TT genotypes, OR = 1.16 (P = 0.15), with Pinteraction = 0.002.
+0	NSCLC-adenocarcinoma	NA	rs2395185	INTRO	The association between the T allele at rs2395185 and risk of adenocarcinoma in subjects with and without exposure to ETS yielded OR = 1.13 (P = 0.031) and OR = 1.43 (P = 5.6 x 10-4), respectively, with Pinteraction = 0.037.
+0	NA	NA	NA	INTRO	There was no evidence of interaction with the other two new loci reported here
+0	lung cancer	NA	NA	INTRO	In summary, we conducted a GWAS of lung cancer in never-smoking females in Asia and identified three new susceptibility loci at 10q25.2, 6q22.2, and 6p21.32.
+0	NA	NA	NA	INTRO	We also confirmed associations with two previously reported regions at 5p15.33, 3q28 and a recently reported locus at 17q24.3.
+0	lung cancer	NA	NA	INTRO	It is notable that our strongest finding at 10q25.2 has not been reported previously in lung cancer GWAS.
+0	lung cancer	NA	NA	INTRO	This observation suggests that the etiology of lung cancer among never-smokers in Asia may have unique genetic characteristics.
+0	lung cancer	NA	NA	INTRO	This is consistent with the distinct pattern of environmental risk factors that have been causally linked to lung cancer among never-smoking females in Asia, and the distinct molecular phenotypes of lung cancer in never-smokers.
+0	NA	NA	NA	INTRO	Further work is warranted to map the new regions.
+0	NA	NA	NA	INTRO	Functional work is required to identify the variants that directly account for the underlying association as well as to study how the genetic variants interact with established environmental risk including ETS, cooking fumes, and fuel use among never-smoking females in Asia
+0	NA	NA	NA	METHODS	Participants were drawn from 14 studies (Supplementary Table 1).
+0	lung cancer	NA	NA	METHODS	Cases had histologically confirmed lung cancer.
+0	NA	NA	NA	METHODS	Each participating study obtained informed consent from study participants and approval from its respective Institutional Review Board for this study.
+0	NA	NA	NA	METHODS	Studies obtained institutional certification permitting data sharing in accordance with the NIH Policy for Sharing of Data Obtained in NIH Supported or Conducted Genome-Wide Association Studies (GWAS), with the exception of the component of the GELAC study that was not scanned at NCI (see below)
+0	NA	NA	NA	METHODS	Genome-wide scanning data came from two sources.
+0	cancers	NA	NA	METHODS	Internal sets (HKS, SNU, CNULCS, SWHS, YLCS and components of samples from Japan and GELAC) were genotyped at the NCI Cancer Genomic Research (CGR) Laboratory using the Illumina 660W SNP microarray.
+0	cancers	NA	NA	METHODS	External sets were genotyped as follows: a) samples from CAMSCH, FLCS, GDS, SLCS, TLCS, and WLCS were genotyped on contract at Gene-Square Biotech, Inc. in Beijing using the Illumina 660W SNP microarray; b) samples from GELAC were genotyped on contract at GeneTech Biotech Co., Taiwan on the Illumina 370k SNP microarray in a pilot project and remaining samples were genotyped on contract at deCODE Genetics, Iceland using the Illumina 610Q SNP microarray and initially reported elsewhere; c) a subset of samples from Japan were genotyped at Memorial Sloan-Kettering Cancer Center (MSKCC) using the Illumina 610Q SNP microarray; and d) samples from Singapore were genotyped at the Genome Institute of Singapore on the Illumina 660W SNP microarray.
+0	NA	NA	NA	METHODS	The scanned intensity data from external sources were collected, and genotypes were clustered and called at the CGR using Illumina Genome Studio v2011.1 on the basis of the GenTrain2 calling algorithm.
+0	NA	NA	NA	METHODS	Genotype clusters were estimated from samples with preliminary completion rates greater than 98% per cluster group
+0	NA	NA	NA	METHODS	Genotyping was attempted for a total of 5,568 samples on the Illumina 660W SNP microarray at the CGR.
+0	NA	NA	NA	METHODS	Six samples could not be loaded into the Illumina Genome Studio because of their low intensities, and 16 samples failed to scan because of broken chips.
+0	NA	NA	NA	METHODS	In addition, a total of 5,946 samples were genotyped at Gene-Square Biotech, Inc. (3,828), deCODE, Iceland and GeneTech Biotech Co., Taiwan (1,232), MSKCC (374) and Singapore (512); the distribution of samples genotyped per SNP microarray chip was as follows: Illumina 660W (4,340), Illumina 610Q (1,494), and Illumina 370K (112) arrays.
+0	NA	NA	NA	METHODS	Seven samples (all from Gene Square) could not be loaded to the Illumina Genome Studio because of their low intensities.
+0	NA	NA	NA	METHODS	In addition, 111 samples from 4 studies (FLCS, GDS, SLCS, and TLCS) were excluded due to lab processing errors.
+0	NA	NA	NA	METHODS	The combined 11,374 samples with genotypes mapped to 11,025 unique individuals drawn from 14 studies
+0	NA	NA	NA	METHODS	We subsequently performed quality control filtering at the sample level in 19 QC groups (Supplementary Tables 6a,b,c).
+0	NA	NA	NA	METHODS	Samples were excluded that had low completion rates (n = 725 samples) and extreme mean heterozygosity rates (n = 116).
+0	NA	NA	NA	METHODS	Thresholds were chosen on the basis of the sample completion rate or sample mean heterozygosity distribution for each QC group (Supplementary Table 6a) and on the basis of discordant expected duplicate samples (n = 6).
+0	NA	NA	NA	METHODS	There were samples that were excluded for multiple reasons, and the total number of unique samples excluded was 761 (Supplementary Table 6b).
+0	NA	NA	NA	METHODS	Genotype data for the remaining 10,613 samples were merged, resulting in data from 10,312 unique individuals.
+0	NA	NA	NA	METHODS	The genotype concordance rate for the expected duplicates (n = 311) was greater than 99.9%.
+0	NA	NA	NA	METHODS	Further QC analysis at the individual level led to the exclusion of samples with: (i) gender discordance (n = 94); (ii) less than 86% Asian ancestry (n = 3); (iii) first-degree relatives who were also genotyped in the study (n=136 subjects); and (iv) incomplete phenotype or unknown histology, as well as those who had ever smoked or were deemed ineligible (n=15).
+0	NA	NA	NA	METHODS	Thus, the total number of scanned subjects after both QC and analytic exclusions was 10,054 (5,510 cases and 4,544 controls).
+0	NA	NA	NA	METHODS	A summary of the number of excluded loci by study is shown in Supplementary Table 6c
+0	NA	NA	NA	METHODS	TaqMan custom genotyping assays (ABI) were designed and optimized for 13 SNPs, including 9 in the NCI scan data and 4 surrogates not in this scan.
+0	NA	NA	NA	METHODS	In an analysis of 385 samples from 7 studies, the comparison of the Illumina calls with the TaqMan assays conducted at the NCI CGR showed an average concordance rate of 99.97% (with a range of 99.7-100%) for the overlapping 9 SNPs.
+0	cancers	NA	NA	METHODS	The Cancer Institute and Hospital, Chinese Academy of Medical Sciences also conducted TaqMan genotyping for 7 SNPs on 201 previously scanned samples from 5 studies.
+0	NA	NA	NA	METHODS	The comparison of the Illumina calls with the TaqMan assays showed an average concordance rate of 99.93% (with a range of 99.5-100%).
+0	NA	NA	rs2395185	METHODS	In examining the concordance between rs2395185 (scan) and its perfect surrogate rs28366298 (TaqMan), we applied genotype mapping GG AA, GT AC and TT CC in order to confirm reproducibility of genotyping between platforms
+0	NA	NA	NA	METHODS	For the replication phase, we analyzed an additional 3,933 individuals (1,023 cases and 2,910 controls) with TaqMan data, and an additional 79 individuals (76 cases and 3 controls) genotyped using the Illumina 660W array at Gene-Square were available for analysis.
+0	NA	NA	NA	METHODS	Thus, the final number of subjects used in the analyses was 14,066 (6,609 cases and 7,457 controls; Supplementary Table 1).
+0	NA	NA	NA	METHODS	SNP assays with locus call rates lower than 90% or Hardy-Weinberg Equilibrium (HWE) p values less than 1.0 x 10-7 in each QC group were excluded.
+0	NA	NA	NA	METHODS	In total, 596,032 SNPs remained in the analytic data set.
+0	NA	NA	NA	METHODS	After setting the minimum minor allele frequency (MAF) to 0.01, we excluded 83,806 loci from the association analysis.
+0	NA	NA	NA	METHODS	Thus, 512,226 SNPs were analyzed in the association studies reported here
+0	NA	NA	NA	METHODS	Data analysis and management were performed with GLU (Genotyping Library and Utilities version 1.0), a suite of tools available as an open-source application for the management, storage and analysis of GWAS data.
+0	NA	NA	NA	METHODS	Assessment of the population structure of study participants was performed with the GLU struct.admix module using the JPT+CHB, CEU and YRI samples as the reference populations (HapMap Build 28).
+0	NA	NA	NA	METHODS	A set of 33,165 SNPs with low pairwise correlation (r2 < 0.01) was selected for this analysis.
+0	NA	NA	NA	METHODS	Three individuals were estimated to have less than 86% Asian ancestry (Supplementary Fig.
+0	NA	NA	NA	METHODS	4)
+0	NA	NA	NA	METHODS	The genotypes for all subject pairs were computed for cryptic relatedness using the GLU qc.ibds module with the same set of selected SNPs.
+0	NA	NA	NA	METHODS	In addition to 68 pairs of unexpected duplicates, we detected 33 parent-offspring and 41 full-sibling pairs.
+0	NA	NA	NA	METHODS	For the 142 unexpected duplicates and first-degree relative pairs, 1 subject from each simple pair was excluded.
+0	NA	NA	NA	METHODS	For each family with multiple relative pairs detected, only one randomly chosen subject was included in the principal-components analysis (PCA).
+0	NA	NA	NA	METHODS	To address the underlying population substructure, PCA was conducted using the GLU struct.pca module, a program similar to EIGENSTRAT, with the same set of SNPs (Supplementary Fig.
+0	NA	NA	NA	METHODS	5a,b).
+0	NA	NA	NA	METHODS	Three samples with less than 86% Asian ancestry were excluded on the basis of PCA
+0	NA	NA	NA	METHODS	Association analyses were conducted using logistic regression, adjusted for age (in 10-year categories), study group and eigenvectors if they were significant when analyzed in the base models.
+0	NA	EV1	NA	METHODS	For analysis of all cases versus controls, we adjusted for EV1, EV2 and EV4.
+0	NSCLC-adenocarcinoma	EV2	NA	METHODS	For analysis of adenocarcinoma cases versus controls, we adjusted for EV2 and EV4.
+0	NA	NA	NA	METHODS	For analysis of squamous cell cases versus controls, we adjusted for EV8.
+0	NA	NA	NA	METHODS	Each SNP genotype was coded as a count of minor alleles (i.e.
+0	NA	NA	NA	METHODS	trend effect).
+0	NA	NA	NA	METHODS	A score test with one degree of freedom was performed on all genetic parameters in each model to determine statistical significance.
+0	NA	NA	NA	METHODS	The unscaled lambda value for all cases versus controls in the main effect model was 1.014, and lambda1000 was 1.003, with lambdacorrected=1+(lambda-1) x (ncase-1+ncontrol-1)/(2 x 10-3)
+0	NA	NA	NA	METHODS	We assessed heterogeneity in genetic effects across studies using the Cochran's Q statistic, which conforms to a chi-square distribution with k-1 degree of freedom, where k is the number of studies
+0	NA	NA	rs2395185	METHODS	For the inclusion of TaqMan data for the SNPs that failed assay design (rs2395185 and rs10197940), we conducted a fixed effects meta-analysis by combining the aggregate results from their perfect surrogates (rs28366298 and rs2290368, respectively) scanned in the GWAS with their own results based only on the additional TaqMan samples not used in the GWAS association analyses
+0	NA	NA	NA	METHODS	Genotype-environment interactions with ETS were assessed using logistic regression for studies with such information available and adjusted by age, study group, the main effect of the SNP and ETS, and the interaction term
+0	NA	NA	NA	METHODS	To identify recombination hotspots in the region, we used SequenceLDhot, a program that uses the approximate marginal likelihood method and calculates likelihood ratio statistics at a set of possible hotspots.
+0	NA	NA	NA	METHODS	Drawn from scanned controls, 100 individuals were randomly sampled from Han Chinese, Japanese and Korean samples.
+0	NA	NA	NA	METHODS	Three independent recombination hotspot inferences were analyzed and represented as three different colored lines in Fig.
+0	NA	NA	NA	METHODS	1.
+1	NA	VTI1A	NA	METHODS	Specifically, for the VTI1A regional plot, genotypes of 70 SNPs spanning chr10: 114,362,000 - 114,593,000 (UCSC Genome Build hg18) were phased using PHASE v2.1 to calculate background recombination rates.
+0	NA	NA	NA	METHODS	The PHASE outcome was used as direct input for the SequenceLDhot program and LD was estimated as r2 for 70 SNPs within a ~230 kb region, and a heat map was drawn using the snp.plotter program.
+0	NA	NA	NA	METHODS	Similarly, we started with the genotypes of 63 SNPs for the ROS1/DCBLD1 regional plot and the genotypes of 59 SNPs for the HLA class II locus
+0	NA	NA	NA	METHODS	To begin to fine map newly identified regions, we imputed all the SNPs catalogued in the 1000 Genomes Project data, March 2012 release, and the DCEG Imputation Reference Set version 1.
+0	NA	NA	NA	METHODS	The IMPUTE2 program was used to impute a 1 Mb region centered on the index SNP for each of the three regions, using recommended default settings.
+0	NA	NA	NA	METHODS	Imputed SNPs with INFO < 0.3 were excluded from association analysis using the SNPTEST program v2.3 (see URLs), which considered probabilistic genotypes out of imputation.
+0	NA	NA	NA	METHODS	Because 1000 Genomes Project data was based on the NCBI Build 37 reference genome, we conducted liftover (see URLs) on our scan data from Build 36 to 37 before imputation
+0	NA	NA	NA	METHODS	The CGEMS data portal provides access to individual level data for investigators from certified scientific institutions after approval of their submitted Data Access Request
+0	lung cancer	NA	NA	FIG	Manhattan plot based on P values derived from 1-degree-of-freedom tests of genotype trend effect in an unconditional logistic regression analysis adjusted for study, age and three eigenvectors in a GWAS of lung cancer in never-smoking Asian females, including 5,510 lung cancer cases and 4,544 controls.
+0	NA	NA	NA	FIG	The x axis represents chromosomal location, and the y axis shows P values on a negative logarithmic scale.
+0	NA	NA	NA	FIG	The red horizontal line represents the genome-wide significance threshold of P = 5 x 10-8.
+1	NA	TERT	NA	FIG	Labeled are two previously associated loci (TERT at 5p15.33 and TP63 at 3q28) together with three newly identified loci (VTI1A on chromosome 10 and ROS1-DCBLD1 and the HLA Class II region on chromosome 6)
+0	NA	NA	NA	FIG	Top, association results of GWAS data (grey diamonds), TaqMan data (blue diamonds) and combined data (red diamonds) are shown in the top panel with -log10(P) values (left y axis).
+0	NA	NA	NA	FIG	Overlaid are the likelihood ratio statistics (right y axis) to estimate putative recombination hotspots across the region on the basis of 3 sets of 100 randomly selected control samples representing Han Chinese, Japanese and Korean (connected lines in green, blue, and red, respectively) individuals.
+0	NA	NA	NA	FIG	Bottom, LD heatmap based on pairwise r2 values from total control populations for all SNPs included in the GWAS.
+1	NA	VTI1A	NA	FIG	(a) A 229.7- kb region at 10q25.2 spanning the VTI1A gene.
+0	NA	ROS1	NA	FIG	(b) A 223.4- kb region at 6q22.2 spanning the ROS1, DCBLD1 and GOPC genes.
+0	NA	NA	NA	FIG	(c) A 279.6- kb region at 6p21.32 spanning multiple genes in the HLA class II region.
+0	NA	NA	rs2395185	FIG	Because a Taqman assay could not be designed for rs2395185, we instead genotyped rs28366298, its perfect surrogate (r2 = 1.0), by TaqMan.
+0	NA	NA	rs2395185	FIG	The reported P value is based on meta-analysis of the rs2395185 results in the GWAS and the rs28366298 results in the TaqMan set.
+0	NA	NA	NA	FIG	Genomic coordinates are based on NCBI Human Genome Build 36.
+0	NA	NA	NA	FIG	Schematic gene structures are taken from the UCSC Genome Browser and are scaled to the x-axis

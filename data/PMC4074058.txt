@@ -1,0 +1,239 @@
+0	lung cancer	NA	NA	ABSTRACT	We conducted imputation to the 1000 Genomes Project of four genome-wide association studies of lung cancer in populations of European ancestry (11,348 cases and 15,861 controls) and genotyped an additional 10,246 cases and 38,295 controls for follow-up.
+0	lung cancer	NA	K3326X	ABSTRACT	We identified large-effect genome-wide associations for squamous lung cancer with the rare variants of BRCA2-K3326X (rs11571833; odds ratio [OR]=2.47, P=4.74x10-20) and of CHEK2-I157T (rs17879961; OR=0.38 P=1.27x10-13).
+1	lung adenocarcinomas	TP63	rs13314271	ABSTRACT	We also showed an association between common variation at 3q28 (TP63; rs13314271; OR=1.13, P=7.22x10-10) and lung adenocarcinoma previously only reported in Asians.
+0	lung cancer	NA	NA	ABSTRACT	These findings provide further evidence for inherited genetic susceptibility to lung cancer and its biological basis.
+0	cancers	NA	NA	ABSTRACT	Additionally, our analysis demonstrates that imputation can identify rare disease-causing variants having substantive effects on cancer risk from pre-existing GWAS data
+0	lung cancer	NA	NA	INTRO	Lung cancer causes over 1 million deaths each year worldwide.
+0	lung cancer	NA	NA	INTRO	While primarily caused by tobacco smoking, studies have also implicated inherited genetic factors in its etiology; notably genome-wide association studies (GWAS) in Europeans have consistently identified polymorphic variation at 15q25.1 (CHRNA5-CHRNA3-CHRNB4), 5p15.33 (TERT-CLPTM1) and 6p21.33 (BAT3-MSH5) as determinants of lung cancer risk.
+0	lung cancer	NA	NA	INTRO	Additionally, susceptibility loci for lung cancer at 3q28, 6q22.2, 13q12.12, 10q25.2 and 22q12.2 in Asians have been identified through GWAS
+0	NSCLC	NA	NA	INTRO	Non-small cell lung cancer (NSCLC) is the commonest lung cancer histology, comprised primarily of adenocarcinoma (AD) and squamous cell carcinoma (SQ).
+0	lung cancer	NA	NA	INTRO	These lung cancer histologies have different molecular characteristics reflective of differences in etiology and carcinogenesis.
+0	lung cancer	NA	NA	INTRO	Perhaps not surprisingly there is variability in genetic effects on lung cancer risk by histology with subtype-specific associations at 5p15.33 (TERT-CLPTM1) for AD and at 9p21 (CDKN2A/CDKN2B) and 12q13.33 (RAD52) for SQ.
+0	Alzheimer's disease	NA	NA	INTRO	In addition the 6p21.33 associations are stronger for SQ than AD
+0	lung cancer	NA	NA	INTRO	To identify additional lung cancer susceptibility loci we conducted a meta-analysis of four lung cancer GWAS in populations of European ancestry, the MD Anderson Cancer Center (MDACC) GWAS; the Institute of Cancer Research (ICR) GWAS; the National Cancer Institute (NCI) GWAS and the International Agency for Research on Cancer (IARC) GWAS (Online Methods) that were genotyped using either Illumina HumanHap 317, 317+240S, 370Duo, 550, 610 or 1M arrays (Supplementary Table 1).
+0	NA	NA	NA	INTRO	After filtering the studies provided genotypes on 11,348 cases and 15,861 controls (Supplementary Table 1).
+0	NA	NA	NA	INTRO	Prior to undertaking meta-analysis of the GWAS, we searched for potential errors and biases in the datasets.
+0	NA	NA	NA	INTRO	Quantile-quantile (Q-Q) plots of genomewide association test statistics showed minimal inflation rendering substantial cryptic population substructure or differential genotype calling between cases and controls unlikely (lambda=1.01 to 1.05; Supplementary Figure 1).
+0	NA	NA	NA	INTRO	To bring genotype data obtained from different arrays into a common platform and recover untyped genotypes, we imputed >10 million SNPs using 1000 Genomes Project data as reference.
+0	NA	NA	NA	INTRO	Q-Q plots for all SNPs and restricted to rare SNPs (minor allele frequency (MAF) <1%) post imputation did not show evidence of substantive over-dispersion introduced by imputation (lambda=0.99-1.06 and 0.82-1.05 respectively; Supplementary Figure 1)
+0	NA	NA	NA	INTRO	Pooling data from each GWAS, we derived joint odds ratios (ORs) and 95% confidence intervals (CIs) under a fixed effects model for each SNP and associated per allele P-values.
+0	cancers	NA	NA	INTRO	To explore the variability in associations according to tumour histology we derived ORs for all lung cancer, AD and SQ
+0	lung cancer	NA	NA	INTRO	Meta-analysis identified 50 SNPs that showed evidence of an association with either lung cancer, AD or SQ (P<5.0x10-6; Figure 1) at loci not previously reported in Europeans (Figure 1).
+0	NA	NA	NA	INTRO	1Mb regions encompassing these 50 SNPs were evaluated for association through in silico replication in the Harvard and deCODE series.
+0	NA	NA	NA	INTRO	Nine of the SNPs within these 50 regions showed support for an association (combined P-value <5.0x10-7).
+0	NA	NA	NA	INTRO	Genotyping of these nine SNPs was attempted in four additional series, Heidelberg-EPIC replication, ICR replication, IARC replication and Toronto replication (Supplementary Table 3 (b), Online Methods).
+0	NA	NA	rs185577307	INTRO	rs185577307 could not be genotyped due to repetitive sequence.
+0	NA	NA	NA	INTRO	Collectively genotypes are available from 21,594 cases and 54,156 controls, providing 80% power to detect a variant with MAF of 0.01 conferring a relative risk of >=1.5.
+1	NA	NA	K3326X	INTRO	In the combined analysis of all GWAS plus replication series, SNPs mapping to 13q13.1 (rs11571833, rs56084662), 22q12.1 (rs17879961) and 3q28 (rs13314271) showed evidence for an association, which was statistically significant after adjustment for multiple testing (i.e.
+0	NA	NA	NA	INTRO	P<3.0x10-9; Figure 2, Supplementary Table 2).
+1	NA	NA	K3326X	INTRO	We confirmed the high fidelity of imputation by genotyping rs11571833, rs17879961 and rs13314271 in subsets of ICR-GWAS, IARC-GWAS, NCI-GWAS and MDACC-GWAS (Supplementary Table 3, Online Methods).
+0	NA	NA	NA	INTRO	The NCI-GWAS comprised samples from Finland, Italy and the US.
+0	NA	NA	NA	INTRO	The IARC-GWAS comprised samples from 10 series from Western and Eastern Europe, and the US.
+0	NA	NA	NA	INTRO	While adjustment of test statistics for principle components generated on common SNPs had been applied to these GWAS, confounding of rare variants in spatially structured populations is not necessarily corrected by such methods.
+0	NA	NA	NA	INTRO	We therefore investigated if country of origin had an impact on the associations at 13q13.1 and 22q12.1; the associations remained statistically highly significant (Supplementary Table 4)
+0	NA	BRCA2	K3326X	INTRO	Both rs11571833 and rs56084662 localizing to 13q13.1, near or within BRCA2, are rare SNPs (MAF<0.01), map 103kb apart (32,972,376bps, 32,869,614bps) and are moderately correlated (r2=0.45, D'=0.82, based on genotypes from Heidelberg-EPIC, IARC replication, ICR-replication and Toronto-replication series; Figure 3).
+0	NA	NA	K3326X	INTRO	rs11571833 (c.9976A>T) is responsible for BRCA2-K3326X whereas rs56084662 is located in the 3'UTR of FRY.
+0	NA	NA	K3326X	INTRO	While the association provided by rs11571833 was substantially stronger than rs56084662 in the combined analysis (OR=1.83, P=2.11x10-19 and P=1.88x10-15) conditional analysis based on directly genotyped samples in the replication series was consistent with the two SNPs tagging the same haplotype.
+0	Alzheimer's disease	NA	K3326X	INTRO	The rs11571833 association is primarily driven by a relationship with SQ rather than AD histology (OR=2.47, P=4.74x10-20 and OR=1.47, P=4.66x10-4 respectively; Figure 2, Supplementary Table 2).
+0	Alzheimer's disease	BRCA2	NA	INTRO	A more significant role for BRCA2 in SQ etiology than in AD is reflected in the higher observed mutational frequency in respective lung cancers (~6% and 1%).
+0	breast cancer	NA	K3326X	INTRO	c.9976T has recently been shown to confer a 1.26-fold increased breast cancer risk and previously suggested as a risk factor for esophageal and pancreatic cancers.
+0	lung cancer	NA	K3326X	INTRO	We found no evidence for an association between c.9976T and lung cancer risk in non-smokers using directly genotyped samples (Supplementary Table 3), however these cases comprised <10% of each cohort hence our power to demonstrate a relationship was limited.
+0	lung cancer	BRCA2	NA	INTRO	Previous analysis of families carrying highly penetrant BRCA2 mutations have either found no evidence for any excess or a reduced lung cancer risk in carriers.
+0	Colon and Ovarian (PLCO) Cancer	NA	NA	INTRO	A possible explanation for these observations is that members of studied breast-ovarian cancer families tend to smoke less than the general population
+0	cancers	NA	NA	INTRO	The rad51-brca2 interaction is pivotal for brca2-mediated double stranded break repair (DSBR) and exon 27 of BRCA2 encodes one of the highly conserved rad51 binding domains; homozygous deletion of exon 27 in mice confers susceptibility to tumours including lung cancer.
+0	NA	brca2	K3326X	INTRO	c.9976T leads to the loss of the C-terminal domain of brca2 inviting speculation that the SNP is functional.
+1	NA	RAD51	T3387A	INTRO	While the deleted region is distal to the rad51 binding domain and an impact on nuclear localisation is debated the nearby mutation at BRCA2 T3387A interrupts chk2-phosphorylation and abrogates BRCA2-Chk2-Rad51 mediated recombination repair.
+0	NA	BRCA2	NA	INTRO	Alternatively, the association might be a consequence of linkage disequilibrium (LD) with another BRCA2 mutation.
+0	breast cancer	BRCA2	c.6275delTT	INTRO	Studies of breast cancer families with northern European ancestry show the BRCA2 c.6275delTT and c.4889C>G mutations which are highly penetrant for breast and ovarian cancer originated on a K3326X haplotype.
+0	lung cancer	NA	K3326X	INTRO	To gain further insight into a probable genetic basis of the 13q13.1 lung cancer association we sequenced germline DNA from 70 lung cancer cases which carried c.9976A>T from the UK Genetic Lung Cancer Predisposition Study for c.6275delTT and c.4889C>G mutations.
+0	NA	NA	c.6275delTT	INTRO	In none were c.6275delTT and c.4889C>G mutations identified.
+0	lung cancer	BRCA2	K3326X	INTRO	Similarly sequencing the coding region of BRCA2 identified no clearly pathogenic mutations amongst 13 individuals from 1958BC, 11 IARC lung cancer cases or 24 TCGA lung cancer cases carrying c.9976T.
+0	Colon and Ovarian (PLCO) Cancer	BRCA2	K3326X	INTRO	In Iceland c.9976T is not correlated with the founder BRCA2 mutation p.256_257del (999del5) which greatly increases breast and ovarian cancer risk.
+0	lung cancer	NA	K3326X	INTRO	Paradoxically while c.9976T is a risk factor for lung cancer in this population the SNP is not associated with breast or ovarian cancer risk cancer (Supplementary Table 5).
+0	lung cancer	NA	K3326X	INTRO	Although in vitro studies have failed to demonstrate K3326X affects DNA repair our findings raise the possibility K3326X may have a direct effect on lung cancer risk.
+0	lung cancer	BRCA2	K3326X	INTRO	Since somatic mutation of BRCA2 is not associated with K3326X carrier status  (Supplementary Table 6 (a)) it suggests that any impact the SNP has on lung cancer risk is mediated through alternative mechanisms
+0	NA	NA	rs17879961	INTRO	The relationship at 22q12.1 between the SNP rs17879961 (c.470T>C) and SQ in the combined series (OR=0.38, P=1.27x10-13) validates an association previously reported (Figure 2, Supplementary Table 2, Supplementary Table 4).
+0	NA	NA	rs17879961	INTRO	The frequency of rs17879961 varies significantly between populations with the MAF being ~5% in Eastern Europeans (e.g.
+0	NA	NA	NA	INTRO	IARC series) but almost monomorphic in most Northern Europeans.
+0	NA	NA	NA	INTRO	This is likely to account for a failure to demonstrate a significant relationship in the ICR, MDACC, Toronto and deCODE series which comprise largely Western European populations (Figure 2, Supplementary Table 2).
+1	arrest	CHEK2	rs17879961	INTRO	rs17879961 is responsible for the I157T missense mutation in CHEK2, a cell cycle control gene encoding a pluripotent kinase that can cause arrest or apoptosis in response to DNA damage.
+1	lung cancer	CHEK2	NA	INTRO	Acquired mutation of CHEK2 is rarely seen in lung cancer and CHEK2-I57T genotype does not appear to correlate with mutation (Supplementary Table 6 (a)) raising the possibility that carrier status per se influences cancer risk.
+1	NA	CHEK2	rs17879961	INTRO	I157T lies in a functionally important domain of chek2 causing reduced or abolished binding of principal substrates.
+0	breast cancer	NA	rs17879961	INTRO	While c.470C increases breast cancer risk here c.470C was associated with reduced lung cancer risk.
+0	NA	NA	NA	INTRO	A mechanism for the paradoxical associations is not immediately apparent.
+1	NA	CHEK2	NA	INTRO	CHEK2 can however have opposite effects on damaged stem cells retarding stem cell division until DNA damage is repaired, or activating apoptosis if damage cannot be repaired.
+1	squamous disease	CHEK2	I151T	INTRO	Although speculative, in the presence of continued DNA damage to squamous epithelia by tobacco smoke the normal stem cell defences involving chek2 might be attenuated by a reduction in chek2 activity as a result of I151T.
+0	lung cancer	NA	NA	INTRO	Concordant with such a model is that a paradoxically increased lung cancer risk was seen in non-smokers (P=0.05), and correlated subgroups of AD and women, albeit based on small numbers (Supplementary Table 3)
+1	lung cancer	NA	rs13314271	INTRO	The association between variation at 3q28 marked by rs13314271 and lung cancer risk was restricted to AD (OR=1.13, P=7.22x10-10Figure 2, Supplementary Table 2).
+1	NA	TP63	rs13314271	INTRO	rs13314271 maps within intron 1 of TP63 (Figure 3).
+1	Alzheimer's disease	TP63	rs4488809	INTRO	Variation at TP63 defined by the intron 1 SNP rs4488809, which is in complete LD with rs13314271 (r2=1.00, D'=1.00) is associated with AD in Asians.
+0	Alzheimer's disease	NA	NA	INTRO	Our findings provide robust evidence for the generalisability of a relationship between 3q28 variation and AD.
+1	lung cancer	NA	rs13314271	INTRO	A weak association between rs13314271 and lung cancer risk was shown in non-smokers (P=0.03; Supplementary Table 3 (b)).
+1	cancers	TP63	NA	INTRO	TP63 is a member of the tumor suppressor TP53 gene family, which is pivotal to cellular differentiation and responsiveness to cellular stress.
+1	NA	TP63	NA	INTRO	Exposure of cells to DNA damage leads to induction of TP63 and both isoforms have the ability to transactivate TP53 target genes, hence impacting on cellular responsiveness to DNA damage.
+1	NA	NA	rs13314271	INTRO	While rs13314271 does not map to an evolutionary conserved region (ECR), rs7636839 which is correlated with rs13314271 and rs4488809 (r2=1.0) maps to an ECR and has predicted enhancer activity (Supplementary Table 6 (b)).
+1	NA	TP63	rs4488809	INTRO	Moreover, rs4488809 has been shown to be an eQTL for p63 in lung tissue.
+1	Alzheimer's disease	TP63	NA	INTRO	Although the mechanism by which 3q28 variation affects AD development is unknown, accumulation of DNA damage and lack of response to genotoxic stress is recognized to contribute to lung carcinogenesis; hence loss of fidelity of repair as a consequence of differential TP63 expression is likely to be deleterious
+1	lung cancer	NA	K3326X	INTRO	There was no association between rs11571833, rs17879961 and rs13314271 genotypes and cigarette consumption using smoking information on 43,693 Icelandic subjects (Supplementary Table 7); in contrast to the 15q25 association and risk of lung cancer
+1	Alzheimer's disease	NA	NA	INTRO	While there is overlap distinct DNA lesions are ostensibly repaired by different DNA repair pathways and the histology specific relationships seen implicate the brca2-chek2-rad52 DSBR-homologous recombination pathways as a determinant of SQ and defective tp53/tert apoptosis-telomerase regulation as a basis of AD risk
+0	lung cancer	NA	NA	INTRO	In conclusion, our findings provide further evidence for inherited genetic susceptibility to lung cancer and underscore the importance of searching for histology-specific risk variants.
+0	NA	NA	NA	INTRO	Our data also provide an important proof of principle that 1000 Genomes imputation can be used to detect novel, low frequency-large effect associations, thereby extending the utility of pre-existing GWAS data.
+0	lung cancer	BRCA2	K3326X	INTRO	Notably this has facilated the identification of BRCA2 c.9976T which represents by far the stongest genetic association in lung cancer reported so far.
+0	lung cancer	NA	NA	INTRO	For a smoker carrying this variant (2% of the population) the risk of developing lung cancer is approximately doubled, which may have implications for identifying high risk ever-smoking subjects for lung cancer screening.
+0	lung cancer	PARP	K3326X	INTRO	Additionally, study of the effect of PARP inhibition for smokers with lung cancer carrying BRCA2 c.9976T may be warranted
+0	cancers	NA	NA	METHODS	The study was conducted under the auspices of the Transdisciplinary Research In Cancer of the Lung (TRICL) Research Team, which is a part of the Genetic Associations and MEchanisms in ONcology (GAME-ON) consortium, and associated with the International Lung Cancer Consortium (ILCCO).
+0	NSCLC-adenocarcinoma	NA	NA	METHODS	Tumours from patients were classified as adenocarcinomas (AD), squamous carcinomas (SQ), large-cell carcinomas (LCC), mixed adenosquamous carcinomas (MADSQ) and other non-small cell lung cancer (NSCLC) histologies following either the International Classification of Diseases for Oncology (ICD-O) or World Health Organisation (WHO) coding.
+0	NA	NA	NA	METHODS	Tumours with overlapping histologies were classified as mixed
+0	NA	NA	NA	METHODS	All participants provided informed written consent.
+0	NA	NA	NA	METHODS	All studies were reviewed and approved by institutional ethics review committees at the involved institutions
+0	lung cancer	NA	NA	METHODS	The meta-analysis was based on data from four previously reported lung cancer GWAS of European populations: the MD Anderson Cancer Center lung cancer study (MDACC-GWAS); the UK lung cancer GWAS from the Institute for Cancer Research (ICR-GWAS); the NCI lung cancer GWAS (NCI-GWAS) and the IARC lung cancer GWAS (IARC-GWAS).
+0	NA	NA	NA	METHODS	In each of the studies, SNP genotyping had been performed using Illumina HumanHap 317, 317+240S, 370, 550, 610 or 1M arrays (Supplementary Table 1)
+0	lung cancer	NA	NA	METHODS	The IARC-GWAS comprised 3,062 lung cancer cases and 4,455 controls derived from five case-control studies: (i) Carotene and Retinol Efficacy Trial (CARET) cohort; (ii) The Central Europe multicenter hospital-based case-control; (iii) The hospital-based case-control study from France; (iv) The hospital based case-control lung cancer study from Estonia; and (v) The population-based HUNT2/Tromso IV lung cancer studies.
+0	NA	NA	NA	METHODS	Patient and control DNAs were derived from EDTA-venous blood samples.
+0	lung cancer	NA	NA	METHODS	The lung cancer patients were classified according to ICD-O-3; SQ: 8070/3, 8071/3, 8072/3, 8074/3; AD: 8140/3, 8250/3, 8260/3, 8310/3, 8480/3, 8560/3, 8251/3, 8490/3, 8570/3, 8574/3; with tumours with overlapping histologies classified as mixed.
+0	NA	NA	NA	METHODS	After applying standardized quality control procedures 2,533 cases and 3,791 controls were included in the current analysis (Supplementary Table 1)
+0	NA	NA	NA	METHODS	Details of the NCI-GWAS have been previously reported.
+0	lung cancer	NA	NA	METHODS	Briefly, the study comprised samples from four series: (i) The Environment and Genetics in Lung cancer Etiology (EAGLE), a population-based case-control study of 2,100 lung cancer cases and 2,120 healthy controls enrolled in Italy between 2002 and 2005.
+0	cancers	NA	NA	METHODS	Cancers were classified according to the ICD-O coding for histology and grading.
+0	cancers	NA	NA	METHODS	Histology of ~10% of tumours was confirmed by an independent pathologist from NCI.
+0	cancers	NA	NA	METHODS	(ii) The Alpha-Tocopherol, Beta-Carotene Cancer Prevention Study (ATBC), a randomized primary prevention trial of 29,133 male smokers enrolled in Finland between 1985 and 1993; ICD-O-2 and ICD-O-3 was used to classify tumours.
+0	NA	NA	NA	METHODS	Cases diagnosed between 1985 and 1999 had histology reviewed by at least one pathologist.
+0	cancers	NA	NA	METHODS	After 1999, histological coding (ICD-O-2 and ICD-O-3) was derived from the Finnish Cancer Registry.
+0	cancers	NA	NA	METHODS	(iii) The Prostate, Lung, Colon, Ovary Screening Trial (PLCO), a randomized trial of 150,000 individuals enrolled in ten U.S. study centers between 1992 and 2001; ICD-O-2 was used to classify tumors and quality assurance measures included reabstraction of 50 lung cancer diagnoses per year; (iv) The Cancer Prevention Study II Nutrition Cohort (CPS-II), a cohort study of approximately 184,000 individuals enrolled by the American Cancer Society between 1992 and 1993 in 21 U.S. states of which 109,379 provided a blood (36%) or buccal (64%) sample between 1998 and 2003.
+0	NA	NA	NA	METHODS	Tumour histology was abstracted from Certified Tumor Registrars and coded using WHO ICD-O-2 and ICD-O-3.
+0	cancers	NA	NA	METHODS	Quality assurance was done by re-abstracting 10% of all cancer diagnoses per year.
+0	NA	NA	NA	METHODS	After initial data control, the NCI-GWAS included 5,739 cases and 5,848 controls; however, an additional 26 cases and 112 controls were excluded due to changes in case status and further quality control filtering.
+0	lung cancer	NA	NA	METHODS	The current meta-analysis included 5,713 lung cancer cases and 5,736 controls from the NCI-GWAS (Supplementary Table 1)
+0	lung cancer	NA	NA	METHODS	This comprised 1,952 cases (1,166 male; mean age at diagnosis 57 years, SD 6) with pathologically confirmed lung cancer ascertained through the Genetic Lung Cancer Predisposition Study (GELCAPS) conducted between March 1999 and July 2004.
+0	NA	NA	NA	METHODS	All cases were British residents and self-reported to be of European Ancestry.
+0	lung cancer	NA	NA	METHODS	To ensure that data and samples were collected from bona fide lung cancer cases and avoid issues of bias from survivorship only incident cases with histologically or cytologically (only if not AD) confirmed primary disease were ascertained.
+0	Alzheimer's disease	NA	NA	METHODS	Tumours from patients were classified according to ICD-O3; Specifically, SQ: 8070/3, 8071/3, 8072/3, 8074/3; AD: 8140/3, 8250/3, 8260/3, 8310/3, 8480/3, 8560/3, 8251/3, 8490/3, 8570/3, 8574/3; with tumours with overlapping histologies classified as mixed.
+0	NA	NA	NA	METHODS	Patient DNA was derived from EDTA-venous blood samples using conventional methodologies.
+0	NA	NA	NA	METHODS	Genotype frequencies were compared with publicly accessible data generated by the UK Wellcome Trust Case-Control Consortium 2 (WTCCC2) study of individuals from the 1958 British Birth Cohort (58BC) and blood service typed using Illumina Human1.2M-Duo Custom_v1 Array BeadChips
+0	NA	NA	NA	METHODS	Cases and controls were ascertained from a case-control study at the U.T.
+0	NA	NA	NA	METHODS	M.D.
+0	cancers	NA	NA	METHODS	Anderson Cancer Center conducted between 1997 and 2007.
+0	lung cancer	NA	NA	METHODS	Cases were newly diagnosed, patients with histologically-confirmed lung cancer presenting at M.D.
+0	cancers	NA	NA	METHODS	Anderson Cancer and who had not previously received treatment other than surgery.
+0	lung cancer	NA	NA	METHODS	Clinical and pathological data were abstracted from patient medical records and lung cancer histology was coded according to the major histological groups.
+0	Alzheimer's disease	NA	NA	METHODS	Specifically, as per ICD-O-2 these groups were, SQ: 8070/3, AD: 8140/3, 8250/3, 8260/3, 8310/3, 8480/3, 8251/3 and 8490/3.
+0	Alzheimer's disease	NA	NA	METHODS	Only patients with predominantly or wholly AD or SQ cancers were included; those with mixed histology or unspecified lung cancers, were excluded from the study.
+0	NA	NA	NA	METHODS	Controls were healthy individuals seen for routine care at Kelsey-Seybold Clinics, in the Houston Metropolitan area.
+0	NA	NA	NA	METHODS	Controls were frequency matched to cases according to smoking behaviour, age in 5-year categories, ethnicity, and sex.
+0	NA	NA	NA	METHODS	Former smoking controls were further frequency matched to former smoking cases according to the number of years since smoking cessation (in 5-year categories).
+0	NA	NA	NA	METHODS	After applying quality control data were available on 1,150 cases and 1,134 controls
+0	NA	NA	NA	METHODS	Standard quality control was performed on all scans excluding individuals with low call rate (<90%) and extremely high or low heterozygosity (i.e.
+0	NA	NA	NA	METHODS	P<1.0x10-4), as well as all individuals evaluated to be of non-European ancestry (using the HapMap version 2 CEU, JPT/CHB and YRI populations as a reference; Supplementary Table 1).
+0	NA	NA	NA	METHODS	For apparent first-degree relative pairs, we removed the control from a case-control pair; otherwise, we excluded the individual with the lower call rate
+0	NA	NA	NA	METHODS	To validate promising associations from meta-analysis were made use of in silico data and imputed genotypes from Harvard and deCODE GWAS datasets together with data from direct genotyping Heidelberg-EPIC, ICR, IARC and Toronto replication series
+0	lung cancer	NA	NA	METHODS	Harvard For the Harvard Lung Cancer Susceptibility Study, details of participant recruitment have been described previously.
+0	NA	NA	NA	METHODS	Replication was based on data derived from 1,000 cases and 1,000 controls genotyped using Illumina Humanhap610-Quad arrays.
+0	NSCLC	NA	NA	METHODS	Cases were patients aged >18 years, with newly diagnosed, histologically confirmed primary NSCLC.
+0	cancers	NA	NA	METHODS	Controls were healthy non-blood-related family members and friends of patients with cancer or with cardiothoracic conditions undergoing surgery.
+0	lung cancer	NA	NA	METHODS	The histological classification of lung tumors was performed by two staff pulmonary pathologists at the Massachusetts General Hospital according to ICD-O-3; Specifically, AD: 8140/3, 8250/3, 8260/3, 8310/3, 8480/3 8560/3; LCC: 8012/3, 8031/3; SQ: 8070/3, 8071/3, 8072/3, 8074/3; and other NSCLC: 8010/3, 8020/3, 8021/3, 8032/3, 8230/3.
+0	NA	NA	NA	METHODS	Unqualified samples were excluded if they fit the following QC criteria: (i) overall genotype completion rates <95%; (ii) gender discrepancies; (iii) unexpected duplicates or probable relatives (based on pairwise identity by state value, PI_HAT in PLINK>0.185); (iv) heterozygosity rates >6 times the standard deviation from the mean; or (v) individuals evaluated to be of non-Caucasians (using the HapMap release 23 including JPT, CEPH, CEU and YRI populations as a reference).
+0	NA	NA	NA	METHODS	Unqualified SNPs were excluded when they fit the following QC criteria: (i) SNPs were not mapped on autosomes; (ii) SNPs had a call rate <95% in all GWAS samples; (iii) SNPs had MAF <0.01; or (iv) the genotype distributions of SNPs deviated from those expected by Hardy-Weinberg equilibrium (P<1.0x10-6).
+0	NA	NA	NA	METHODS	After applying these pre-specified quality controls genotype data were available for 984 cases and 970 controls
+0	lung cancer	NA	NA	METHODS	deCODE The Icelandic lung cancer study has been described previously.
+0	lung cancer	NA	NA	METHODS	The primary source of information on the Icelandic lung cancer cases is the Icelandic Cancer Registry (ICaR) which covers the entire population of Iceland (http://www.cancerregistry.is).
+0	NA	NA	NA	METHODS	The sources of data in the ICaR are all pathology and hematology laboratories, all hospital departments and health care facilities in the country.
+0	NA	NA	NA	METHODS	ICaR registration is based on the ICD system and included information on histology (Systemized Nomenclature of Medicine, SNOMED).
+0	NA	NA	NA	METHODS	The ICaR registration also uses the ICD-O system which takes histology diagnosis into account.
+0	NA	NA	NA	METHODS	Over 94% of diagnoses in the ICaR have histological confirmation.
+0	lung cancer	NA	NA	METHODS	According to the ICaR, Briefly, according to the ICaR a total of 4,252 lung cancer patients were diagnosed from January 1, 1955, to December 31, 2010.
+0	lung cancer	NA	NA	METHODS	Recruitment of both prevalent and incident cases was initiated in 1998, the recruitment is ongoing and DNA samples from lung cancer cases are subjected to whole-genome genotyping as they are collected.
+0	NA	NA	NA	METHODS	The controls used in this study consisted of individuals from other GWASs, age and sex-matched to cases with no individual disease group accounting for >10% of all controls.
+0	NA	NA	NA	METHODS	Samples were assayed with the Illumina HumanHap300, HumanCNV370, HumanHap610, HumanHap1M, HumanHap660, Omni-1, Omni 2.5 or Omni Express bead chips at deCODE genetics.
+0	NA	NA	NA	METHODS	SNPs were excluded if they had (i) a yield <95%, (ii) MAF <1% in the population, (iii) deviation from Hardy-Weinberg equilibrium (HWE; P<10-6), (iv) inheritance error rate (>0.001) or (v) if there was a substantial difference in allele frequency between chip types (in which case the SNP was removed from a single chip type if that resolved the difference, but if it did not then the SNP was removed from all chip types).
+0	NA	NA	NA	METHODS	All samples with a call rate of <97% were removed from the analysis.
+0	NA	NA	NA	METHODS	The Icelandic sample set is drawn from the Icelandic population, a small homogeneous founder population with almost no detectable population substructure.
+0	NA	NA	NA	METHODS	Thus there was no need adjust for such substructure in the association analysis.
+0	NA	NA	NA	METHODS	In addition, the comprehensive Icelandic genealogy database allowed us to exclude individuals not of Icelandic origin from the analysis.
+0	NA	NA	NA	METHODS	SNP genotypes were phased using the method of long range phasing; for the HumanHap series of chips, 304,937 SNPs were used for long range phasing, whereas for the Omni series of chips 564,196 SNPs were used.
+0	NA	NA	NA	METHODS	An initial imputation step was carried out on each chip series separately to create a single harmonized, long-range phased genotype dataset consisting of 707,525 SNPs for 95,085 Icelandic individuals.
+0	NA	NA	NA	METHODS	Two sets of genotypes were imputed into this dataset with methods previously described : (i) genotypes for about 38 million variants using the 1000 genomes phase I integrated variant set (v3) as training set, and (ii) genotypes for about 34 million variants identified in 2,230 whole genome sequenced Icelanders.
+0	NA	NA	NA	METHODS	The first set of imputed genotypes was used for replicating the association with variants in the 5p15.33, 9p21 and 12q13.33 regions, using IMPUTE (v2.1.1) to perform the cases-control analysis.
+0	cancers	NA	K3326X	METHODS	The second set was used when testing the relationship between K3326X, 999del5 genotypes and risk of different cancer types in the Icelandic population using a method that allowed including individuals that had not been chip typed, but for which genotype probabilities were imputed using methods of familial imputation
+0	lung cancer	NA	NA	METHODS	Heidelberg-EPIC comprised 1,253 EPIC-Heidelberg controls and 1,362 lung cancer cases from the Heidelberg lung cancer study recruited between 1994-1998 and 1996-2007, respectively.
+0	lung cancer	NA	NA	METHODS	Details of the EPIC-Heidelberg controls and the Heidelberg lung cancer study have been previously described .
+0	NA	NA	NA	METHODS	All subjects were aged 18 years or older and information on lifestyle risk factors, medical and family history was collected through interviews based on standardised questionnaires.
+0	NA	NA	NA	METHODS	The EPIC Lung and the Heidelberg-EPIC studies were performed independently with no sample overlap with those analysed as part of the IARC-replication series.
+0	cancers	NA	NA	METHODS	Histological classification of tumours was obtained from pathology reports, where it was recorded by staff pulmonary pathologist according to WHO.
+0	cancers	NA	NA	METHODS	Blood samples from patients with malignant lung disease categorized as follows were included: AD, SCLC, NSCLC, LCC, carcinoid, mixed lung tumors, mixed without SCLC.
+0	NA	NA	NA	METHODS	The above EPIC Lung and the Heidelberg-EPIC studies were performed independently with no sample overlap.
+1	NA	NA	rs13314271	METHODS	Genotypes for SNPs showed no significant departure from Hardy-Weinberg equilibrium with the exception of rs13314271 in cases
+0	lung cancer	NA	NA	METHODS	ICR-replication comprised 2,448 cases (1,664 male; mean age at diagnosis 71.8 years, SD 6.7) with pathologically confirmed lung cancer ascertained through GELCAPS and 2,989 controls (1,469 male, mean age at sampling 60.6 years, SD 12.0) collected through the National Study of Colorectal Cancer Genetics with no personal history of malignancy.
+0	NA	NA	NA	METHODS	Cases were sub-classified into histological subtypes based on ICD coding as described above (Study description: ICR-GWAS).
+0	NA	NA	NA	METHODS	Both cases and controls were British residents and had self-reported European Ancestry.
+0	NA	NA	NA	METHODS	The genotype distributions of genotypes for each of the SNPs typed in replication showed no significant departure from HWE
+0	cancers	NA	NA	METHODS	IARC-replication comprised three studies: (i) EPIC Lung, a nested case control study performed within the EPIC (European Prospective Investigation into Cancer and Nutrition) prospective cohort totalling 1,119 lung cancer cases and 2,546 controls (matched 1-2 to cases for age, sex, centre, and time of recruitment), selected from eight of the 10 countries participating in EPIC (Sweden, Netherlands, UK, France, Germany, Spain, Italy and Norway); (ii) Szczecin case-control study a consecutive series of 849 incident lung cancer cases ascertained from the outpatient oncology clinic in the regional hospital of Szczecin between 2004-2007.
+0	cancers	NA	NA	METHODS	The 1,072 controls were individuals without a diagnosed cancer or family history of cancer matched to cases by sex, age and region recruited via general medical practitioners; (iii) Moscow L2, 1,081 newly diagnosed lung cancer cases and 2,119 controls recruited from three hospitals within the Moscow area of Russia between 2007 and 2011.
+0	NA	NA	NA	METHODS	Information on lifestyle risk factors, medical and family history was collected from subjects by interview using a standard questionnaire.
+0	NA	NA	NA	METHODS	Cases were sub-classified into histological subtypes based on ICD-O3 coding as described above (Study description: IARC-GWAS).
+0	NA	NA	NA	METHODS	The genotype distributions of genotypes for each of the SNPs typed in replication showed no departure from HWE in each country/study series
+0	NA	NA	NA	METHODS	The Toronto study was conducted in the Great Toronto Area from 2008 to 2013.
+0	cancers	NA	NA	METHODS	Lung cancer cases were recruited at the hospitals in the network of University of Toronto.
+0	NA	NA	NA	METHODS	Controls were randomly selected from individuals registered in the family medicine clinics databases, frequency matched with cases on age and sex.
+0	NA	NA	NA	METHODS	All subjects were interviewed and information on lifestyle risk factors, occupational history, medical and family history collected using a standard questionnaire.
+0	NA	NA	NA	METHODS	Tumours were centrally reviewed by the reference pathologist (a member of the IASLC committee) and a second pathologist in the University Health Network.
+0	NA	NA	NA	METHODS	If reviews conflicted, consensus was arrived at following discussion.
+0	NA	NA	NA	METHODS	Coding of histology was based on 2001 WHO/IASLC.
+0	NA	NA	NA	METHODS	After applying standardized quality control procedures and restricting to participants with self-reported European ancestry, data and samples were available on 1,084 cases and 966 controls.
+0	NA	NA	NA	METHODS	The genotype distributions of genotypes for each of the SNPs typed in replication showed no significant departure from HWE
+1	NA	NA	rs1519542	METHODS	Genotyping of rs1519542, rs13314271, rs55731496, rs149423192, rs4592420, rs11571833, rs56084662 and rs17879961 was performed using either competitive allele-specific PCR KASPar chemistry (LGC, Hertfordshire, UK; UK replication series), Sequenom (Sequenom, Inc. San Diego, US; Toronto replication, Heidelberg-EPIC replication [rs1519542, rs55731496, rs149423192, rs4592420, rs11571833, rs56084662, rs17879961],) or Taqman (Carlsbad, CA; IARC-replication series, Heidelberg-EPIC replication [rs13314271]).
+0	NA	NA	NA	METHODS	All primers, probes and conditions used are available on request.
+0	NA	NA	NA	METHODS	Call rates for SNP genotypes were >95% in each of the replication series
+0	NA	NA	NA	METHODS	To ensure quality of genotyping in all assays, at least two negative controls and 1-10% duplicates (showing a concordance >99%) were genotyped at each centre.
+0	NA	NA	NA	METHODS	To exclude technical artefact in genotyping, at the ICR and IARC we performed cross-platform validation of 96 samples and sequenced a set of 96 randomly selected samples from each case and control series to confirm genotyping accuracy.
+0	NA	NA	NA	METHODS	Assays were found to be performing robustly; concordance >99%
+0	NA	NA	NA	METHODS	Data were imputed for all scans for over 10 million SNPs using data from the 1000 Genomes Project (Phase 1 integrated release 3, March 2012) as reference, using IMPUTE2 v2.1.1, MaCH v1.0 or minimac (version 2012.10.3) software (Supplementary Table 1).
+0	NA	NA	NA	METHODS	Genotypes were aligned to the positive strand in both imputation and genotyping.
+0	NA	NA	NA	METHODS	Imputation was conducted separately for each scan in which prior to imputation each GWAS dataset was pruned to a common set of SNPs between cases and controls.
+0	NA	NA	NA	METHODS	As previously advocated we set thresholds for imputation quality to retain both potential common and rare variants for validation.
+0	NA	NA	NA	METHODS	Specifically, poorly imputed SNPs defined by an RSQR<0.30 with MaCH or an information measure Is<0.40 with IMPUTE2 were excluded from the analyses.
+0	lung cancer	NA	NA	METHODS	Tests of association between imputed SNPs and lung cancer was performed under a probabilistic dosage model in SNPTEST v2.5, ProbABEL, MaCH2dat v.124 or glm function in R. Principle components generated using common SNPs were included in the analysis in order to limit the effects of cryptic population stratification that might cause inflation of test statistics.
+0	lung cancer	NA	NA	METHODS	The association between each SNP and lung cancer risk was assessed by the Cochran-Armitage trend test.
+0	NA	NA	NA	METHODS	The adequacy of the case-control matching and possibility of differential genotyping of cases and controls were formally evaluated using quantile-quantile (Q-Q) plots of test statistics.
+0	NA	NA	NA	METHODS	Meta-analysis was undertaken using inverse-variance approaches.
+0	NA	NA	NA	METHODS	The inflation factor lambda was based on the 90% least significant directly typed SNPs.
+0	NA	NA	NA	METHODS	Odds ratios (ORs) and associated 95% confidence intervals (CIs) were calculated by unconditional logistic regression using R (v2.6), Stata v.10 (State College, Texas, US) and PLINK (v1.06) software.
+0	NA	NA	NA	METHODS	Cochran's Q-statistic to test for heterogeneity and the I2 statistic to quantify the proportion of the total variation due to heterogeneity were calculated.
+0	NA	NA	NA	METHODS	I2 values >=75% are considered characteristic of large heterogeneity.
+0	NA	NA	NA	METHODS	Additionally analyses stratified by histology, sex, age and smoking status (current, former, never) were performed.
+0	NA	NA	NA	METHODS	All statistical tests are two-sided
+0	NA	NA	NA	METHODS	The fidelity of imputation as assessed by the concordance between imputed and directly genotyped SNPs was examined in a subset of samples from the UK-GWAS, MDACC-GWAS, IARC-GWAS and NCI-GWAS discovery series (Supplementary Table 3)
+0	NA	NA	NA	METHODS	LD metrics were calculated in PLINK using 1000 genomes data and plotted using SNAP.
+0	NA	NA	NA	METHODS	LD blocks were defined on the basis of HapMap recombination rate (cM/Mb) as defined using the Oxford recombination hotspots and on the basis of distribution of confidence intervals defined by Gabriel et al
+1	NA	BRCA2	K3326X	METHODS	To examine the relationship between rs11571833 (BRCA2 K3326X), rs17879961 (CHEK2 I157T) and rs13314271 (TP63) genotype and cigarette consumption (cigarette per day) we made use of data on using 43,693 Icelandic subjects (including 34,850 chip typed individuals)
+0	NA	BRCA2	c.6275delTT	METHODS	At the ICR targeted sequencing for c.6275delTT and c.4889C>G BRCA2 mutations was performed by Sanger implemented on an ABI3700 analyzer (Applied Biosystems; primer sequences and conditions available on request).
+0	NA	BRCA2	NA	METHODS	Mutational analysis of the complete coding region of BRCA2 was based on exome sequencing data generated using Illumina TruSeq capture technology (Illumina, Inc, San Diego, CA 92122 USA).
+0	NA	NA	NA	METHODS	Analysis of Illumina HiSeq2000 (Illumina, Inc, San Diego, USA) sequence data from was performed using an in-house pipeline based on the GATK tool kit
+0	NA	BRCA2	K3326X	METHODS	At IARC Qiagen Generead (SABiosciences/Qiagen Hilde, Germany) was used to amplify the coding region of BRCA2 in rs11571833 heterozygotes.
+0	NA	NA	NA	METHODS	Following library preparation (New England Biolabs, Ipswich, MA, USA) sequencing was performed using an IonTorrent PGM desktop sequencer (Life Technologies, Guilford, San Francisco, CA).
+0	NA	NA	NA	METHODS	Genotypes were called using Ionsuite software.
+0	breast cancer	NA	NA	METHODS	Sequence changes were referenced to Leiden Open Variation Database (LOVD2) and BReast CAncer IARC databases
+0	NA	NA	NA	METHODS	The exomes of 243 LUSC and 338 LUAD TCGA individuals (Project Number #3230) were analyzed at IARC using an in-house pipeline based on the GATK tool set.
+0	NA	NA	NA	METHODS	Variant calls were annotated using ANNOVAR making use of use the NHLBI Exome Sequencing Project and 1000 Genomes data
+0	NA	NA	NA	METHODS	This was assessed from Human SNP Array 6.0 data.
+0	NA	NA	NA	METHODS	We retrieved level 3 TCGA data comprising normalized log2 ratios of the fluorescence intensities between the target sample and a reference sample.
+0	NA	NA	NA	METHODS	We included in our analysis only tumour-normal paired data.
+0	NA	NA	NA	METHODS	We considered a log2 ratio <-0.5 as reflecting loss, and a log2 ratio >0.5 reflecting gain.
+0	NA	NA	NA	METHODS	Annotation was performed adding the genes contained in each of the remaining segments using EnsEMBL databases
+0	lung cancer	NA	NA	FIG	(a) All lung cancer, (b) AD and (c) SQ.
+0	NA	NA	NA	FIG	Shown are the genomewide P-values (two-sided) obtained using the Cochran-Armitage trend test from analysis of 8.9 million successfully imputed autosomal SNPs in 11,348 cases and 15,861 controls from discovery phase.
+0	NA	NA	NA	FIG	The red and blue horizontal lines represent the significance threshold of P=5.0x10-8 and P=5.0x10-6 respectively.
+0	NA	NA	NA	FIG	Any region contains at least one association signal better than P=5.0x10-6 were selected for the in silico replication
+0	lung cancer	NA	NA	FIG	All lung cancer based on 21,594 lung cancer cases and 54,156 controls (a-d), SQ based on 6,477 SQ and 53,333 controls (e-h) and AD based on 7,031 AD and 53,189 controls (i-l).
+0	NA	NA	NA	FIG	Studies are weighted according to the inverse of the variance of the log of the OR calculated by unconditional logistic regression.
+0	NA	NA	NA	FIG	Horizontal lines: 95% confidence intervals (95% CI).
+0	NA	NA	NA	FIG	Box: OR point estimate; its area is proportional to the weight of the study.
+0	NA	NA	NA	FIG	Diamond (and broken line): overall summary estimate, with confidence interval given by its width.
+0	NA	NA	NA	FIG	Unbroken vertical line: at the null value (OR = 1.0)
+0	Alzheimer's disease	NA	NA	FIG	SQ related panels (a, b) were based on 3,275 SQ and 15,038 controls from discovery phase; and AD related panel (c) was based on 3,442 AD and 14,894 controls from discovery phase.
+0	NA	NA	NA	FIG	Association results of both genotyped (circles) and imputed (diamonds) SNPs in the GWAS samples and recombination rates for each locus: For each plot, -log10P values (y axis) of the SNPs are shown according to their chromosomal positions (x axis).
+0	NA	NA	NA	FIG	The top genotyped SNP in each combined analysis is a large diamond and is labeled by its rsID.
+0	NA	NA	NA	FIG	The color intensity of each symbol reflects the extent of LD with the top genotyped SNP: white (r2=0) through to dark red (r2=1.0).
+0	NA	NA	NA	FIG	Genetic recombination rates (cM/Mb), estimated using HapMap CEU samples, are shown with a light blue line.
+0	NA	NA	NA	FIG	Physical positions are based on NCBI build 37 of the human genome.
+0	NA	NA	NA	FIG	Also shown are the relative positions of genes and transcripts mapping to each region of association.
+0	NA	NA	NA	FIG	Genes have been redrawn to show the relative positions; therefore, maps are not to physical scale

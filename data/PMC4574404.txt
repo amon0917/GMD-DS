@@ -1,0 +1,217 @@
+0	breast cancer	ER	NA	ABSTRACT	Although most estrogen receptor (ER)-positive breast cancer patients benefit from endocrine therapies, a significant proportion do not.
+0	NA	NA	NA	ABSTRACT	Our aim was to identify inherited genetic variations that might predict survival among patients receiving adjuvant endocrine therapies
+0	breast cancer	NA	NA	ABSTRACT	We performed a meta-analysis of two genome-wide studies; Helsinki Breast Cancer Study, 805 patients, with 240 receiving endocrine therapy and Prospective study of Outcomes in Sporadic versus Hereditary breast cancer, 536 patients, with 155 endocrine therapy-patients, evaluating 486,478 single nucleotide polymorphisms (SNPs).
+0	NA	NA	NA	ABSTRACT	The top four associations from the endocrine treatment subgroup were further investigated in two independent datasets totalling 5011 patients, with 3485 receiving endocrine therapy
+0	NA	NA	rs8113308	ABSTRACT	A meta-analysis identified a common SNP rs8113308, mapped to 19q13.41, associating with reduced survival among endocrine treated patients (hazard ratio (HR) 1.69, 95% confidence interval (CI) 1.37-2.07, P = 6.34 x10-7) and improved survival among ER-negative patients, with a similar trend in ER-positive cases not receiving endocrine therapy.
+0	breast cancer	NA	rs8113308	ABSTRACT	In a multivariate analysis adjusted for conventional prognostic factors, we found a significant interaction between the rs8113308 and endocrine treatment indicating a predictive, treatment-specific effect of the SNP rs8113308 on breast cancer survival, with the per-allele HR for interaction 2.16 (95% CI 1.30 - 3.60, Pinteraction = 0.003) and HR=7.77 (95% CI 0.93 - 64.71) for the homozygous genotype carriers.
+0	NA	NA	NA	ABSTRACT	A biological rationale is suggested by in silico functional analyses
+0	NA	NA	rs8113308	ABSTRACT	Our findings suggest carrying the rs8113308 rare allele may identify patients who will not benefit from adjuvant endocrine treatment
+0	breast cancer	NA	NA	INTRO	Breast cancer is the most common cancer among women worldwide and a leading cause of cancer-related deaths.
+0	breast cancer	ER	NA	INTRO	Breast cancer can be divided into two major types by the estrogen receptor alpha (ER) status; ER-positive breast cancer is driven by the female hormone estrogen whereas ER-negative breast cancer does not depend on estrogen.
+0	breast cancer	NA	NA	INTRO	Endocrine therapies target the ER-positive type, which accounts for about 70% of all breast cancer.
+0	NA	ER	NA	INTRO	Currently available endocrine therapies aim to either selectively block the estrogen receptor by binding ER (tamoxifen), decrease ovarian estrogen production (ovarian ablation, luteinising hormone releasing hormone (LHRH) agonists) or, in post-menopausal women, blocking the conversion of androgen to estrogen in peripheral fat (aromatase inhibitors) or selectively down-regulating ER (e.g.
+0	NA	NA	NA	INTRO	fulvestrant).
+0	breast cancer	NA	NA	INTRO	Randomized controlled trials have demonstrated that breast cancer recurrence and death may be reduced by approximately one third by endocrine adjuvant treatments in patients with ER-positive breast cancer.
+0	breast cancer	NA	NA	INTRO	However, approximately 30% of ERalpha-positive breast cancers do not respond to endocrine therapies (de novo resistance) and in addition, the majority of tumors that initially respond to treatment develop resistance over time (acquired resistance)
+0	cancers	ER	NA	INTRO	There are several potential mechanisms of resistance to endocrine therapy (reviewed in) including e.g., as the most important mechanism, loss of expression of ER alpha (due to an emerging subclone of ER-negative cancer).
+0	metabolic disorder	ER	NA	INTRO	Beside mechanisms related to ER, resistance to endocrine therapy may also occur due to increased growth factor signalling and dysfunctional metabolism of hormonal agents.
+0	NA	CYP2D6	NA	INTRO	As an example, patients carrying inactive alleles of CYP2D6 (approximately 7-10% of Caucasian women) fail to convert tamoxifen to its primary active metabolite, endoxifen, and may consequently be less responsive to tamoxifen.
+0	NA	NA	NA	INTRO	However, the association with endocrine treatment outcome remains currently controversial.
+0	NA	NA	NA	INTRO	Presently, aside from ER status, no unequivocal biomarkers have been identified to determine whether a patient will benefit from adjuvant endocrine therapy
+0	breast cancer	NA	NA	INTRO	Germline genetic variations, such as single nucleotide polymorphisms (SNPs), have been assessed as potential predictors of survival for breast cancer patients in general and in different subgroups including those defined by endocrine therapies.
+0	NA	NA	NA	INTRO	A majority of these studies have applied a candidate gene approach focusing on SNPs within pre-specified genes of interest.
+0	NA	NA	NA	INTRO	These studies have provided some indicative results, but further studies will be needed to validate the findings.
+0	breast cancer	ARRDC3	NA	INTRO	Recently, genome-wide association studies (GWASs) have been performed with the aim of identifying genetic variants influencing the outcome of breast cancer, including our previous studies that identified ARRDC3 locus influencing prognosis in especially early-onset breast cancer.
+0	NA	NA	NA	INTRO	Further, a GWAS conducted in subgroup of patients receiving adjuvant tamoxifen therapy in a Japanese population detected significant associations with recurrence-free survival at 10q22
+0	breast cancer	POSH	NA	INTRO	The availability of GWA data from the patient population in our Helsinki Breast Cancer Study (HEBCS) study together with GWA data from Prospective study of Outcomes in Sporadic versus Hereditary breast cancer (POSH) study enables an agnostic genome-wide approach to identify common genetic variants associated with survival for breast cancer.
+0	breast cancer	NA	NA	INTRO	In the present study, we focus on ER-positive breast cancer treated with adjuvant endocrine therapy in order to identify putative genetic markers for endocrine treatment outcome.
+0	breast cancer	NA	NA	INTRO	We implemented a two-stage study design with 1341 breast cancer patients from the two above mentioned GWAS in stage I and then a further 5011 patients from the two in stage II validation datasets
+0	NA	POSH	NA	METHODS	Samples included in stage I discovery dataset came from participants of the HEBCS and POSH studies.
+0	NA	NA	NA	METHODS	For HEBCS GWS, 805 cases were included.
+0	breast cancer	NA	NA	METHODS	Of these, 563 cases originated from a prospective patient series of unselected, incident breast cancer patients while 242 cases were obtained from additional familial patient series.
+0	NA	NA	NA	METHODS	All cases were ascertained at the Helsinki University Hospital; see Supplementary Methods for the details of the collection.
+0	NA	NA	NA	METHODS	Of the 805 samples, 240 samples were recorded to have received endocrine therapy (Table 1)
+0	NA	POSH	NA	METHODS	The POSH GWS consisted of 574 participants from the POSH study.
+0	breast cancer	POSH	NA	METHODS	Prospective early onset breast cancer cases were included in the POSH study, with participants diagnosed with invasive breast cancer aged 40 years or younger.
+0	NA	NA	NA	METHODS	Details of the patient selection are provided in the Supplementary Methods.
+0	NA	POSH	NA	METHODS	POSH GWS included 155 patients that had received endocrine therapy (Table 1).
+0	NA	NA	NA	METHODS	All participants of both studies provided written informed consent before participating in the study
+0	breast cancer	POSH	NA	METHODS	A further 1415 breast cancer patients from the POSH study unselected for any differential survival were included in the stage II validation dataset.
+0	NA	POSH	NA	METHODS	POSH validation included 1027 patients that had received endocrine therapy (Table 1)
+0	NA	NA	NA	METHODS	As an additional independent validation dataset in stage II we used a series of 3596 patients from the prospectively randomized SUCCESS-A trial.
+0	NA	NA	NA	METHODS	Details of the collection are provided in the Supplementary Methods.
+0	NA	NA	NA	METHODS	A total of 2458 cases of the 3596 cases had received endocrine treatment
+0	cancers	POSH	NA	METHODS	The age and tumor characteristics of study participants from HEBCS GWS, POSH GWS, POSH validation and SUCCESS-A are presented in Table 1.
+0	NA	NA	NA	METHODS	The flow of samples through the various stages of the study has been summarized in Supplementary Fig.
+0	NA	NA	NA	METHODS	S1
+0	NA	POSH	NA	METHODS	Genotyping of the Helsinki samples was conducted using the Illumina 550 platform and POSH GWS using the Illumina 660-Quad SNP array as previously described.
+0	NA	POSH	NA	METHODS	To ensure the harmonisation of genotype calling between HEBCS and POSH GWS, the HEBCS GWS intensity files were processed with Illumina's Genome Studio software to call genotypes consistently with the POSH genotypes using a GenCall threshold of 0.15.
+0	NA	MAF	NA	METHODS	Rare SNPs were excluded from analysis based on a MAF cut-off of 0.01, a genotyping call rate <95% and Hardy-Weinberg equilibrium P value <0.0001.
+0	NA	NA	NA	METHODS	The detailed description of harmonized quality control is in
+0	NA	POSH	NA	METHODS	For replication genotyping we selected the top four associations from the genome wide meta-analysis of HEBCS and POSH GWS in the ER-positive endocrine treatment subgroup that fulfilled the following criteria: most significant independent associations with meta-P < 1.0 x 10-4 within the ER-positive endocrine treatment subgroup, showing significant (Pheterogeneity < 0.01) heterogeneity by endocrine treatment evaluating ER-positive endocrine treated subgroup and ER-positive subgroup not treated with endocrine therapy, and having significant interaction with endocrine treatment (likelihood ratio test P-value per allele < 1.0 x 10-3) in a pooled dataset of HEBCS and POSH GWS ER-positive cases.
+0	NA	POSH	NA	METHODS	These four SNPs were genotyped in the 1415 additional young onset cases from the POSH stage II validation study.
+0	NA	NA	NA	METHODS	SNPs were genotyped by KBiosciences using the KASPar chemistry, which is a competitive allele-specific PCR SNP genotyping system.
+0	NA	NA	NA	METHODS	The SUCCESS-A GWAS was genotyped on the Illumina HumanOmniExpress-12v1 G FFPE array
+0	NA	POSH	NA	METHODS	The imputation of genome wide SNP information in HEBCS and POSH GWS was performed based on 1000 Genomes Project phase 1 and release version 3 European reference haplotypes.
+0	NA	MAF	NA	METHODS	Quality control measures applied to imputed data included excluding SNPs with HWE P value < 1 x 10-6, MAF < 5%, and imputed genotype call rate <=90% and individuals call rate <=90%.
+0	NA	NA	NA	METHODS	The detailed description of imputation is in
+0	NA	NA	NA	METHODS	See Supplementary Methods for a detailed description of the statistical analyses.
+0	breast cancer	Cox	NA	METHODS	In stage I, Cox's proportional hazards models were used to derive hazard ratios (HR) for breast cancer specific mortality in association with each SNP.
+0	breast cancer	NA	NA	METHODS	Follow-up time was calculated from the date of diagnosis to the date of last follow-up or breast cancer related death and right-censored at 10 years
+0	breast cancer	POSH	NA	METHODS	In stage II, the follow-up time was calculated from the date of diagnosis to the date of last follow-up or breast cancer related death for POSH validation dataset.
+0	death	NA	NA	METHODS	For SUCCESS-A the follow-up time was calculated from the date of diagnosis to the date of last follow-up or death from any cause, due to lack of cause-of-death information.
+0	NA	NA	NA	METHODS	The meta-analysis in stage I as well as the meta-analysis of stage I and stage II was performed with R package MetABEL.
+0	NA	Cox	NA	METHODS	The Cox's proportional hazard models were performed with R package GenABEL
+0	breast cancer	POSH	NA	METHODS	For HEBCS GWS, POSH GWS and POSH validation we had cause-of-death information that enabled us to evaluate the breast cancer specific survival.
+0	death	NA	NA	METHODS	For SUCCESS-A the only outcome information was overall survival (endpoint: all-cause mortality) and progression free survival (endpoints: local or metastatic recurrence or death).
+0	NA	NA	NA	METHODS	In order to assess differences in survival when using different endpoints, we further conducted a sensitivity analysis.
+0	NA	NA	NA	METHODS	In the sensitivity analysis we analysed the survival across all the four studies using a common endpoint; either 10 year overall survival or 5 year progression free survival
+0	NA	Cox	NA	METHODS	In order to test for interaction between endocrine treatment and a given SNP of interest, SNP genotype data was fitted into two multivariate Cox's proportional hazards models including also clinically relevant covariates: one with both endocrine treatment and the SNP represented as individual covariates, and one that included an interaction term between the two.
+0	NA	NA	NA	METHODS	A likelihood ratio test between models was then conducted to examine whether the interaction model is a better fit for the prognostic data.
+0	breast cancer	NA	NA	METHODS	The interaction tests, specifying breast cancer related death as the endpoint, were conducted in a pooled dataset of ER-positive cases only and were stratified by study
+0	breast cancer	NA	NA	METHODS	In order to analyse the correlation between the loci of interest and gene expression we utilized the breast cancer sample data generated by the METABRIC project.
+0	retinopathy and nephropathy complications	NA	NA	METHODS	The expression data was obtained from the European Genome-Phenome Archive, which is hosted by the European Bioinformatics Institute, under accession number EGAS00000000083.
+0	NA	NA	NA	METHODS	See Supplementary Methods for the details of the data preparation for eQTL analysis.
+0	NA	NA	NA	METHODS	The analysis was conducted with R-package Matrix eQTL using linear regression and ANOVA models.
+0	NA	NA	NA	METHODS	In addition we utilized online results of the peripheral blood eQTL meta-analysis and lymphoblastoid exon expression QTL in Geuvadis project
+0	NA	NA	NA	METHODS	In order to investigate whether the loci of interest harbour known or predicted regulatory elements, we explored the ENCODE data using HaploReg2 and RegulomeDB.
+0	NA	NA	NA	METHODS	To assess gene expression-based survival we utilized BreastMark that integrates gene expression and survival data from 26 datasets on 12 different microarray platforms corresponding to ~17,000 genes in up to 4,738 samples.
+0	NA	NA	NA	METHODS	The genes that were identified by eQTL analysis were analysed at the protein level by exploring the protein-protein interaction network with STRING program
+0	NA	POSH	NA	RESULTS	We performed a fixed-effects meta-analysis to combine HR estimates from HEBCS and POSH stage I GWS studies including 805 and 536 study subjects.
+0	NA	NA	NA	RESULTS	In the two datasets altogether 486,478 SNPs were common and passed the QC process.
+0	NA	ARo	NA	RESULTS	The meta-analysis was performed including all cases and in the subgroup of endocrine treated patients; combining anti-estrogen, aromatase inhibitor and LHRH agonist treatments totalling 240 endocrine treated patients in HEBCS GWS and 155 in POSH GWS.
+0	NA	POSH	rs8113308	RESULTS	After LD-pruning, the top four associations (rs8113308, rs4082843, rs4767413, and rs11085098 in chromosomes 19, 4, 12, and 19, respectively; Supplementary Table S1) were selected from the genome-wide meta-analysis of HEBCS and POSH GWS in the ER-positive endocrine treatment subgroup for genotyping in the stage II POSH validation samples.
+0	NA	NA	NA	RESULTS	The selected SNPs fulfilled the following criteria: the most significant independent associations with meta-P < 1.0 x 10-4 within the ER-positive endocrine treatment subgroup, showing significant (Pheterogeneity < 0.01) survival heterogeneity by endocrine treatment and having significant interaction with endocrine treatment (likelihood ratio test P-value per allele < 1.0 x 10-3) in a pooled dataset of HEBCS and POSH GWS ER-positive cases.
+0	NA	NA	NA	RESULTS	All the SNPs were identified under an additive inheritance model
+0	NA	POSH	NA	RESULTS	Of the four SNPs which were formally tested for replication, all were successfully genotyped and two SNPs demonstrated nominal replication signals in the same direction as in the stage I (HEBCS and POSH GWS) patients.
+0	NA	NA	NA	RESULTS	As an additional independent validation dataset in stage II we used SUCCESS-A.
+0	NA	NA	NA	RESULTS	Since SUCCESS-A was genotyped in a different version of Illumina genotyping chip, there were no exact SNP matches for two of the SNPs.
+0	NA	NA	rs8113308	RESULTS	For SNP rs8113308 we utilized the genotype information of a tag SNP rs8108525 (r2 = 0.81).
+0	NA	NA	rs4082843	RESULTS	For SNP rs4082843 no tag SNP could be found with r2 > 0.80.
+0	NA	NA	NA	RESULTS	For remaining SNPs an exact SNP match was present in SUCCESS-A genotyping data
+0	NA	NA	rs8113308	RESULTS	In the meta-analysis of stage I and stage II, the strongest replication and meta-analysis signal was observed at rs8113308 under the additive inheritance model.
+0	NA	NA	NA	RESULTS	The minor allele was found to consistently associate with poor survival specifically after adjuvant endocrine therapy among ER-positive patients (HR = 1.69; 95% confidence interval (CI), 1.37-2.07, P = 6.34 x 10-7).
+0	NA	NA	NA	RESULTS	The most common endocrine treatment regimen in all the four datasets was tamoxifen (Table 1), and a similar effect was found within the tamoxifen-treated subgroup (HR = 1.65; 95% CI, 1.35 - 2.03; P = 1.44 x 10-6).
+0	breast cancer	NA	NA	RESULTS	However, the minor allele associated with improved breast cancer outcome in ER-negative patients (HR = 0.71; 95% CI, 0.56 - 0.91; P= 6 x 10-3), with a similar trend in ER-positive patients not receiving endocrine therapy (HR = 0.66; 95% CI, 0.40 - 1.07; P= 9.32 x 10-2), (Table 2), suggesting a treatment specific effect.
+0	NA	NA	rs8113308	RESULTS	The Kaplan-Meier plots of cumulative 10-year survival of rs8113308 genotypes among ER-positive endocrine treated patients in pooled stage I (HEBCS and POSH GWS), ER-positive non-treated (available only for HEBCS) and ER-negative patients in pooled stage I (HEBCS and POSH GWS) are presented in Fig.
+0	NA	NA	NA	RESULTS	1.
+0	NA	NA	NA	RESULTS	The Kaplan-Meier plots separately for all the four studies are presented in Supplementary Fig.
+0	NA	NA	NA	RESULTS	S2 and S3
+0	NA	NA	rs8113308	RESULTS	We further investigated the survival association of rs8113308 in all patients and in phenotype- and treatment-based subgroups separately in each of the four studies (Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	NA	RESULTS	The association of the SNP in ER-positive patients receiving endocrine therapy was found consistent throughout the four studies (Fig.
+0	NA	NA	NA	RESULTS	2 and Table 2
+0	NA	NA	NA	RESULTS	Based on the sensitivity analysis where we analysed the survival across all the four studies using also 10 year overall survival or 5 year progression free survival, very similar association was seen as in the main meta-analysis, regardless of the used endpoint (Supplementary Fig.
+0	NA	NA	NA	RESULTS	S4)
+0	NA	NA	rs8113308	RESULTS	In addition to the SNP rs8113308, one further SNP, rs4767413, showed a consistent association across all four studies among ER-positive endocrine treated patients, however, the result was not significant in stage II studies (POSH validation and SUCCESS-A).
+0	NA	NA	rs4767413	RESULTS	SNP rs4767413, located in an intergenic region in chromosome 12, was found to associate with poor survival among ER-positive patients receiving endocrine treatment with HR = 1.39; 95% CI, 1.15 - 1.67; P = 5.86 x 10-4, but not among ER-positive patients not treated with endocrine therapy (HR = 0.91; 95% CI, 0.56 - 1.48).
+0	NA	NA	NA	RESULTS	No consistent association was seen among the four studies in ER-negative subgroup.
+0	NA	NA	NA	RESULTS	The remaining two SNPs from stage I included in the meta-analysis of stage I and stage II did not show concordant association in stage II (Table 2)
+0	NA	NA	rs8113308	RESULTS	Given that endocrine treatment is predominantly administered to ER-positive cases, it is possible that an apparent interaction between rs8113308 and endocrine treatment actually indicates an interaction between the SNP and ER status instead of a predictive, treatment-specific effect.
+0	breast cancer	NA	NA	RESULTS	In order to address this possibility, the interaction test, specifying breast cancer related death as the endpoint, was conducted in a pooled dataset of ER-positive cases only, including HEBCS GWS, POSH GWS and POSH validation datasets - due to lack of cause-of-death information, SUCCESS-A study was not included.
+0	cancers	Cox	rs8113308	RESULTS	In the multivariate Cox's proportional hazards model including the SNP rs8113308 and endocrine treatment separately along with the following covariates; progesterone receptor status, tumor size, lymph node metastasis, distant metastasis at diagnosis, age at diagnosis, and tumor histologic grade, we found both the SNP and the endocrine treatment to be independently prognostic; per allele HR = 1.27, 95% CI 1.02 - 1.59; P = 0.036 and endocrine treatment HR = 0.59; 95% CI, 0.44 - 0.80; P = 6.76 x 10-4.
+0	breast cancer	NA	rs8113308	RESULTS	In contrast, when an interaction term (SNP * endocrine treatment) was added to the model, the SNP lost its independent prognostic value and the interaction between SNP rs8113308 and endocrine treatment associated significantly with poor breast cancer survival, HR for per-allele rs8113308:endocrine treatment = 2.16; 95% CI, 1.30 - 3.60; P = 3.13 x 10-3 (Table 3).
+0	NA	NA	NA	RESULTS	The interaction model is a better fit for the prognostic data than the model without an interaction term (likelihood ratio test P value = 0.0021).
+0	NA	NA	NA	RESULTS	When using a co-dominant model, the interaction remained statistically significant despite the loss of power introduced by the additional genotype covariate (likelihood ratio test P value = 0.0078) (Table 3), while the effect size depended on allele dose: the hazard ratio for the interaction between endocrine treatment and the heterozygous AG genotype is HR = 1.95; 95% CI, 1.08 - 3.49, and HR = 7.77; 95% CI, 0.93 - 64.71 for the interaction between endocrine treatment and rare homozygous GG genotype
+0	breast cancer	POSH	rs8113308	RESULTS	We assessed the association of SNP rs8113308 and rs4767413 with clinical predictors of breast cancer prognosis in a pooled set of HEBCS and POSH GWS and POSH validation (Supplementary Tables S2 and S3).
+0	NA	NA	rs8113308	RESULTS	There were no significant associations between SNP rs8113308 or rs4767413 and clinical features
+0	NA	POSH	rs8113308	RESULTS	We next examined the rs8113308 LD region (r2>=0.2) for stronger associations conducting a meta-analysis of HEBCS and POSH imputed data of 869 SNPs.
+0	NA	NA	rs10410393	RESULTS	We identified an association with HR= 3.40; 95% CI, 2.04 - 5.66 (P = 2.64 x 10-6) for one imputed SNP, rs10410393 (r2 = 0.2).
+0	NA	NA	NA	RESULTS	However, it did not show concordant direction of association in the SUCCESS-A data.
+0	NA	NA	NA	RESULTS	Additionally, the minor allele frequency for this SNP in European population is 0.036, being very rare.
+0	NA	NA	rs8113308	RESULTS	Subsequently, the rs8113308 remained the strongest associated variant in the region (Supplementary Fig.
+0	NA	NA	NA	RESULTS	S5).
+0	NA	POSH	rs4767413	RESULTS	Similarly, we investigated the LD region (r2>=0.2) of SNP rs4767413 and found stronger associations for four imputed SNPs in the HEBCS and POSH data sets, with rs11611797 (r2 = 0.87) being strongest (HR= 2.05; 95% CI, 1.76 - 2.57 (P = 1.76 x 10-6).
+0	NA	NA	NA	RESULTS	However, none of the four imputed SNPs were significant in SUCCESS-A data
+0	breast cancer	NA	rs8113308	RESULTS	In order to test for correlation of the SNP rs8113308 genotypes and RNA expression, we performed an eQTL analysis in 821 ER-positive and 321 ER-negative breast tumors in the METABRIC project.
+0	NA	NA	NA	RESULTS	We conducted the analysis both in cis and in trans.
+1	NA	ZNF613	rs8113308	RESULTS	For cis-eQTL analysis we included all the genes within 100kb of the SNP rs8113308; ZNF613, ZNF350, ZNF615 and ZNF649.
+1	NA	ZNF615	NA	RESULTS	The re-annotation of Illumina probes by Barbosa-Morais and colleagues classified the probes for ZNF615 and ZNF649 as unreliable and probes for ZNF613 and ZNF350 as reliable; the eQTL was only considered for reliable probes.
+0	NA	NA	NA	RESULTS	The appliance of a linear regression model did not reveal any significant cis or trans eQTLs.
+0	breast cancer	ZBRK1	rs11881650	RESULTS	The cis-eQTL analysis utilizing the ANOVA model, allowing genotype to have both additive and dominant effects, indicated an association between rs11881650 (a tag SNP for rs8113308; r2 = 0.81) and expression of ZNF350 (P = 3.85 x 10-3) in ER-positive breast tumors whereas no association was seen in ER-negative breast tumors (Supplementary Table S4).
+0	NA	ZBRK1	NA	RESULTS	The cis eQTL for ZNF350 remains significant also after Bonferroni adjustment (adjusted P = 9.22 x 10-3).
+0	NA	ZBRK1	rs11881650	RESULTS	The high ZNF350 mRNA expression level was linked to SNP rs11881650 rare homozygote genotype compared to the common homozygote and heterozygote genotypes, P = 0.018 and P = 0.015, respectively (Fig.
+0	breast cancer	NA	NA	RESULTS	3A) in ER-positive breast tumors; no difference was seen among ER-negative tumors.
+0	NA	ZBRK1	rs7246064	RESULTS	Concordant supportive evidence was seen in peripheral blood tissue where rs7246064 (a tag SNP for rs8113308; r2 = 1) and ZNF350 mRNA expression were correlated (P = 3.27 x 10-3) (Supplementary Table S5), no significant correlation between SNP rs8113308 and ZNF350 mRNA expression was seen in lymphoblastoid cell lines.
+0	breast cancer	EPS8L1	NA	RESULTS	The trans-eQTL analysis of the METABRIC data utilizing ANOVA model with Bonferroni adjusted P of < 0.05 and applied to the reliable probes revealed association with expression of the EPS8L1 and ZNF347 genes in 19q13 locus and CYP26A1 in 10q23 in ER-positive breast tumors, with no significant eQTL for these genes among ER-negative tumors (Supplementary Table S6).
+0	NA	NA	rs4767413	RESULTS	The eQTL analysis for SNP rs4767413 did not reveal any statistically significant cis- or trans-eQTL correlations
+0	NA	NA	NA	RESULTS	We searched BreastMark database to analyse and visualize survival differences based on mRNA expression differences in public mRNA expression data.
+0	NA	NA	NA	RESULTS	In the BreastMark the only endocrine treatment group available is tamoxifen, and no other information for endocrine treatment is given.
+0	NA	ZBRK1	NA	RESULTS	ZNF350 showed gene expression-based survival difference in ER-positive tamoxifen treated patients with high ZNF350 expression associating with poor survival with HR 1.61 (1.14 - 2.27), logrank P = 0.006, whereas no survival difference by different ZNF350 expression levels was seen in ER-positive tamoxifen non-treated patients or in ER-negative tamoxifen non-treated patients (Fig.
+0	NA	NA	NA	RESULTS	3B-D).
+0	NA	ZNF615	NA	RESULTS	No survival difference by gene expression level was seen for ZNF615, nor for EPS8L1, ZNF347 or CYP26A1.
+0	NA	MAP1LC3B2	rs4767413	RESULTS	For genes within 100kb of the SNP rs4767413 (MAP1LC3B2 and MIR4472-2) survival difference by gene expression could not be analysed due to lack of the probe data for these genes in BreastMark
+0	NA	NA	rs8113308	RESULTS	In order to assess the functional role of the rs8113308 locus we explored ENCODE data with designated tools HaploReg2 and RegulomeDB for regulatory elements and protein binding sites residing in the region.
+0	NA	ZBRK1	rs11879758	RESULTS	The Encode data indicates that the rs11879758, a tag SNP for rs8113308 (r2 = 0.85) locates in the site where there are promoter histone marks in nine cell lines and, based on the regulatory chromatin states, one active promoter in mammary epithelial cells with the closest annotated gene being ZNF350.
+0	NA	NA	NA	RESULTS	Protein-protein interaction networks were searched by STRING program (Supplementary Fig.
+0	NA	RNF11	NA	RESULTS	S6) demanding a high confidence score for interactions (0.700) derived from experimental studies, databases and text mining and it showed RNF11, ATXN2, BRCA1 and GADD45A proteins interacting with ZNF350
+0	breast cancer	NA	NA	DISCUSS	ER-positive breast cancer is commonly treated with adjuvant endocrine therapies.
+0	NA	NA	NA	DISCUSS	Adjuvant endocrine treatment has been shown to increase overall survival and in light of recent studies is likely to be recommended for even longer duration in the adjuvant setting.
+0	NA	NA	NA	DISCUSS	However many patients do not benefit from these therapies and predictors for response or resistance to endocrine treatment are urgently needed.
+0	breast cancer	NA	NA	DISCUSS	In this study we report a meta-analysis of two genome wide studies and two validation datasets for identifying genetic variants associated with breast cancer related mortality specifically after adjuvant endocrine treatment.
+0	NA	NA	rs8113308	DISCUSS	In a meta-analysis involving individuals treated with adjuvant endocrine therapy we identified SNP rs8113308 specifically and significantly predicting outcome after endocrine treatment.
+0	cancers	NA	rs8113308	DISCUSS	We were further able to show that among patients with ER-positive tumors, there is a significant interaction between the rs8113308 and endocrine treatment indicating a predictive, treatment-specific effect on survival, independent of conventional prognostic markers.
+0	NA	NA	rs4767413	DISCUSS	In addition, SNP rs4767413 showed a consistent association across all four studies among ER-positive endocrine treated patients and a significant interaction result with endocrine treatment in stage I.
+0	NA	POSH	NA	DISCUSS	However, the survival association was not significant in stage II studies (POSH validation and SUCCESS-A), and no further supportive evidence could be obtained from the eQTL and gene expression survival analyses.
+0	NA	NA	NA	DISCUSS	These results thus remain inconclusive and warrant further studies
+0	breast cancer	NA	NA	DISCUSS	Our primary interest in this study was to evaluate the breast cancer specific survival.
+0	breast cancer	POSH	NA	DISCUSS	In stage I studies (HEBCS GWS and POSH GWS) and stage II POSH validation the analyses were performed using breast cancer specific mortality as the endpoint.
+0	NA	NA	NA	DISCUSS	A randomized clinical trial, SUCCESS-A, with data available via dbGAP was added to further validate our stage I findings.
+0	NA	NA	NA	DISCUSS	Since the only outcome data available for SUCCESS-A was overall or progression free survival, we used overall survival as the endpoint for SUCCESS-A in the stage II main meta-analysis but further performed also a sensitivity analysis assessing alternative endpoints throughout all four studies which showed very similar association, regardless of endpoint
+0	NA	NA	NA	DISCUSS	Various endocrine therapies work by different mechanisms to antagonize the growth-promoting activity of estrogen and different endocrine therapies are administered to pre-menopausal and post-menopausal women.
+0	NA	ARo	NA	DISCUSS	In our study we combined anti-estrogen, aromatase inhibitor and LHRH agonist treatments in order to gain more statistical power.
+0	NA	NA	NA	DISCUSS	However, the most common endocrine treatment regimen in all the three datasets was tamoxifen and a similar result was found specifically within the tamoxifen-treated subgroup
+0	breast cancer	POSH	NA	DISCUSS	The direction of the association was consistent across the studies and remained statistically significant in the study-stratified pooled analyses even though patients in HEBCS GWS had relatively later onset breast cancer and POSH GWS contains only early-onset breast cancer patients.
+0	NA	NA	NA	DISCUSS	Furthermore, the age-adjusted multivariate analysis suggests that the treatment interaction was not affected by the patients' age.
+0	NA	NA	NA	DISCUSS	In stage I we could specifically assess also the ER-positive patients not treated with endocrine therapy which allowed us to elucidate whether the association is linked to ER positivity or endocrine treatment.
+0	NA	NA	rs8113308	DISCUSS	The significant interaction between endocrine treatment and rs8113308 among ER-positive patients provided strong evidence that the identified association links specifically and significantly to endocrine treatment subgroup
+0	NA	NA	NA	DISCUSS	Based on HapMap, 27% of the population carries at least one allele of this SNP and 3% carry the homozygous genotype.
+0	NA	POSH	NA	DISCUSS	In HEBCS GWS, POSH GWS and POSH validation, 26%, 22% and 25% of the cases carried at least one allele (HR = 2.16) and 2.11%, 2.06%, 2,35% were homozygous carriers, respectively, (HR = 7.17).
+0	NA	NA	NA	DISCUSS	Previously, Kiyotani and colleagues performed a GWAS to assess the genetic factors influencing survival among patients receiving adjuvant tamoxifen therapy in Japanese population.
+0	NA	NA	rs10509373	DISCUSS	They reported significant association with recurrence-free survival for SNP rs10509373 at 10q22 utilizing 240 patients in GWAS and 105 and 117 patients in the replication phase.
+0	NA	NA	NA	DISCUSS	We did not find any significantly associated SNPs on chromosome 10, but because of the differences in allele frequencies comparison between the two studies is difficult
+1	NA	ZNF613	rs8113308	DISCUSS	The SNP rs8113308 is located on the long arm of the chromosome 19, in intron five of a gene ZNF613 encoding for Zinc Finger Protein 613.
+0	NA	NA	NA	DISCUSS	The 100kb flanking region harbours a multitude of zing finger genes.
+0	NA	ZBRK1	rs11881650	DISCUSS	The cis-eQTL analysis indicated an association between rs11881650 (a tag SNP for rs8113308; r2 = 0.81) and mRNA levels of ZNF350 (also known as ZBRK1) as well as trans eQTL associations to EPS8L1, ZNF347 and CYP26A1.
+0	NA	ZBRK1	rs8113308	DISCUSS	However, a tag SNP (r2 = 0.85) for rs8113308 locates in an active promoter site which is specifically active in mammary epithelial cells with the closest annotated gene being ZNF350; only ZNF350 showed gene expression-based survival difference among ER-positive tamoxifen-treated patients, with the high ZNF350 expression associating with poor survival.
+0	cancers	NA	rs11881650	DISCUSS	When investigating the correlation of the tag SNP rs11881650 genotypes and RNA expression in ER-positive tumorous breast tissue we found that the rare allele correlated with increased ZNF350 mRNA expression levels.
+0	breast cancer	ZBRK1	rs8113308	DISCUSS	Together these data indicate that the rs8113308 rare allele associates with increased expression of ZNF350 and poor survival of breast cancer patients after endocrine treatment
+0	NA	ZBRK1	NA	DISCUSS	In a network analysis with a high confidence score we saw an interplay with ZNF350, RNF11, GADD45A and BRCA1, with the two latter interacting with ER (Supplementary Fig.
+0	NA	NA	NA	DISCUSS	S6).
+0	Carcinoma	ZBRK1	NA	DISCUSS	ZNF350 expression is altered in different human carcinomas including breast cancer.
+0	NA	ZBRK1	NA	DISCUSS	Zinc Finger Protein 350 can bind GADD45A in a BRCA1-dependent manner as well as via binding sites located in the GADD45A promoter region, suggesting that ZNF350 represses GADD45A expression via multiple binding sites.
+0	NA	ZBRK1	NA	DISCUSS	The overexpression of ZNF350 has been shown to cause a decrease in both GADD45A transcripts and protein.
+0	arrest	GADD45A	NA	DISCUSS	GADD45A takes part in several cellular processes, including cell cycle arrest and apoptosis.
+0	NA	GADD45A	NA	DISCUSS	Functional assays on GADD45 family proteins, including GADD45A, have shown that they bind to nuclear hormone receptors including ER alpha and act as nuclear co-activators.
+0	breast cancer	GADD45A	NA	DISCUSS	Recently it has also been found that high level of GADD45A protein expression correlates with ER-positivity and low level with ER-negativity in breast cancer.
+0	NA	GADD45A	NA	DISCUSS	Since aberrant expression of cell cycle regulators has been suggested to contribute to tamoxifen resistance it could be hypothesised that altered expression of GADD45A might have an effect on endocrine treatment response.
+0	NA	GADD45A	NA	DISCUSS	Moreover, the role of GADD45A as co-activator of ER alpha could affect the antagonist effect of endocrine treatments that block the estrogen receptor binding, e.g.
+0	NA	NA	NA	DISCUSS	tamoxifen.
+0	breast cancer	ZBRK1	rs8113308	DISCUSS	The biological rationale behind the identified association of rs8113308 and breast cancer outcome after endocrine treatment might thus be the altered ZNF350 expression levels and subsequent alterations in the expression and activity of GADD45A and its interacting partners, including ER alpha, but further studies are required to elucidate the actual mechanism
+0	breast cancer	NA	NA	DISCUSS	To our knowledge, this is the first meta-analysis of two genome-wide studies and two validation sets to assess the genetic factors influencing survival for breast cancer patients receiving adjuvant endocrine treatment among women of European descent.
+0	NA	NA	NA	DISCUSS	It should be noted that our findings do not reach genome-wide significance as such, despite our use of GWAS as a starting point.
+0	cancers	NA	rs8113308	DISCUSS	However, the results are supported by the significant statistical interaction between the rs8113308 and endocrine treatment among patients with ER-positive tumors, indicating a predictive, treatment-specific effect on survival, independent of conventional prognostic markers, as well as by consistent in silico functional findings and a biological rationale.
+0	NA	NA	NA	DISCUSS	Pending further validation in other large datasets, our findings may potentially influence personalized treatment by identifying patients who would not benefit from endocrine treatment.
+0	NA	NA	NA	DISCUSS	Further fine mapping studies will help to identify the causative and most significant variants responsible for the observed associations, while functional studies will be necessary to fully elucidate the underlying biological mechanism
+0	breast cancer	NA	NA	REF	Endocrine therapies target ER-positive breast cancer, which accounts for the majority of all breast cancers.
+0	breast cancer	NA	NA	REF	However, approximately 30% of ER-positive breast cancers do not respond to endocrine therapies.
+0	breast cancer	NA	rs8113308	REF	We identified a common rs8113308 SNP variation that was found to associate with poor breast cancer outcome after adjuvant endocrine therapy and improved breast cancer outcome in ER-negative patients, with a similar trend in ER-positive patients not treated with endocrine therapy.
+0	cancers	NA	rs8113308	REF	In addition we found a significant interaction between the rs8113308 and endocrine treatment among patients with ER-positive tumors indicating a predictive, treatment-specific effect on survival, independent of conventional prognostic markers.
+0	NA	NA	NA	REF	A biological rationale is suggested by in silico functional analyses.
+0	breast cancer	NA	NA	REF	Pending further validation in additional datasets, this may have significant impact on personalized breast cancer treatment for identification of patients for whom adjuvant endocrine treatment would be ineffective and who could therefore be selected for clinical trials of alternative therapies
+0	breast cancer	POSH	rs8113308	FIG	Kaplan-Meier plots of cumulative breast cancer specific 10-year survival of rs8113308 genotypes A) in a pooled stage I (HEBCS + POSH GWS) data among ER-positive patients receiving endocrine therapy, B) in HEBCS GWS data among ER-positive patients not receiving endocrine therapy, C) in a pooled stage I (HEBCS + POSH GWS) data among ER-negative patients.
+0	NA	NA	NA	FIG	Number of patients at risk is presented under each Kaplan-Meier -plot
+0	NA	NA	rs8113308	FIG	Forest plots of HRs and their CIs for the SNP rs8113308 in the entire sample set and within phenotype- and treatment-based subgroups separately in each of the four studies.
+0	breast cancer	Cox	NA	FIG	Cox's proportional hazards models were used to derive hazard ratios (HR) for breast cancer specific mortality in HEBCS GWS, POSH GWS and POSH validation and for all-cause mortality for SUCCESS-A
+0	NA	ZBRK1	NA	FIG	ZNF350 mRNA levels by genotype using Metabric data (A) and gene expression-based disease-free survival of ZNF350 using online web-based service BreastMark (B-D).
+0	NA	ZBRK1	rs11881650	FIG	A) Boxplot of ZNF350 mRNA levels by SNP rs11881650 (a tag SNP for rs8113308; r2 = 0.81) genotype (0=common homozygote, 1=heterozygote, 2=rare homozygote).
+0	cancers	NA	NA	FIG	* Wilcoxon rank sum test for common homozygote vs. rare homozygote, P = 0.018 in ER-positive tumors.
+0	NA	NA	NA	FIG	Survival in B) ER-positive patients receiving tamoxifen treatment (N = 614, events = 149), C) ER-positive patients not receiving tamoxifen treatment (N = 1376, events = 451) and D) ER-negative patients (N = 423, events = 197).
+0	NA	NA	NA	FIG	The cut-off for expression level was set to high, i.e.
+0	NA	NA	NA	FIG	the top 25% expression level based on the inter quartile range.
+0	NA	NA	NA	FIG	The follow-up time was not adjustable
+0	NA	Cox	rs8113308	TABLE	Cox's proportional hazards models to test for interaction between endocrine treatment and rs8113308 in the pooled dataset of HEBCS and POSH GWS and POSH validation.
+0	breast cancer	NA	NA	TABLE	The model was stratified by study and adjusted by age and used 10y breast cancer specific survival and included ER-positive cases only; per allele model assuming no interaction and per allele model including per allele SNP:endocrine interaction term.
+0	NA	NA	NA	TABLE	Likelihood ratio test P= 0.0021.
+0	NA	NA	NA	TABLE	Codominant model assuming no interaction and codominant model including per genotype SNP:endocrine interaction term.
+0	NA	NA	NA	TABLE	Likelihood ratio test P = 0.0078

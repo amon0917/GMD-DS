@@ -1,0 +1,188 @@
+0	insulin-treated diabetes	NA	NA	ABSTRACT	Autoimmune thyroid diseases (AITD) and Type 1 diabetes (T1D) frequently occur in the same individual pointing to a strong shared genetic susceptibility.
+0	autoimmune polyglandular syndrome	NA	NA	ABSTRACT	Indeed, the cooccurrence of T1D and AITD in the same individual is classified as a variant of the autoimmune polyglandular syndrome type 3 (designated APS3v).
+0	NA	NA	NA	ABSTRACT	Our aim was to identify new genes and mechanisms causing the co-occurrence of T1D+AITD (APS3v) in the same individual using a genome-wide approach.
+0	NA	NA	NA	ABSTRACT	For our discovery set we analyzed 346 Caucasian APS3v patients and 727 gender and ethnicity matched healthy controls.
+0	NA	NA	NA	ABSTRACT	Genotyping was performed using the Illumina Human660W-Quad.v1.
+0	NA	NA	NA	ABSTRACT	The replication set included 185 APS3v patients and 340 controls.
+0	NA	NA	NA	ABSTRACT	Association analyses were performed using the PLINK program, and pathway analyses were performed using the MAGENTA software.
+0	NA	DQB1	NA	ABSTRACT	We identified multiple signals within the HLA region and conditioning studies suggested that a few of them contributed independently to the strong association of the HLA locus with APS3v.
+0	NA	DQB1	NA	ABSTRACT	Outside the HLA region, variants in GPR103, a gene not suggested by previous studies of APS3v, T1D, or AITD, showed genome-wide significance (p<5x10-8).
+0	NA	PTPN22	NA	ABSTRACT	In addition, a locus on 1p13 containing the PTPN22 gene showed genome-wide significant associations.
+0	NA	CD40	NA	ABSTRACT	Pathway analysis demonstrated that cell cycle, B-cell development, CD40, and CTLA-4 signaling were the major pathways contributing to the pathogenesis of APS3v.
+0	NA	NA	NA	ABSTRACT	These findings suggest that complex mechanisms involving T-cell and B-cell pathways are involved in the strong genetic association between AITD and T1D
+0	autoimmune disease	NA	NA	INTRO	The most common autoimmune endocrine disorders are type 1 (autoimmune) diabetes (T1D) and autoimmune thyroid diseases (AITD).
+0	pancreatic	NA	NA	INTRO	T1D and AITD are both characterized by T-cell infiltration and production of autoantibodies directed at the target organs (pancreatic islets and thyroid, respectively), resulting in their dysfunction or destruction.
+0	NA	NA	NA	INTRO	Epidemiological data have shown that T1D and AITD frequently occur together in the same family and in the same individual, suggesting a strong shared genetic susceptibility.
+0	NA	TPOA	NA	INTRO	In different studies, up to 44% of T1D patients were positive for thyroid antibodies (TAb) (thyroid peroxidase [TPO] and/or thyroglobulin [Tg] antibodies) .
+0	NA	NA	NA	INTRO	Similarly, 2.3% of children with AITD have islet cell antibodies compared with 0% of controls.
+0	autoimmune polyglandular syndrome	NA	NA	INTRO	Indeed, the co-occurrence of T1D and AITD in the same individual is classified as one of the variants of autoimmune polyglandular syndrome type 3 (APS3) (since the phenotype of T1D+AITD in the same individual is a known as a variant of APS3 we refer to it as APS3v in this manuscript)
+0	NA	NA	NA	INTRO	Family studies also support a strong shared genetic susceptibility to T1D and AITD.
+0	diabetes	NA	NA	INTRO	One of the largest family studies of T1D and AITD in the US , showed that among female diabetic probands Hashimoto's thyroiditis (HT) was diagnosed in 54 - 75% of cases, and among female relatives, the frequency of HT was 22 - 44%.
+0	NA	NA	NA	INTRO	Two other studies, one from the UK and one from Colombia showed similar results.
+0	NA	NA	NA	INTRO	Thus, epidemiological data support a significant shared genetic susceptibility to T1D and AITD.
+0	NA	NA	NA	INTRO	However, while much has been learned about the genetics of T1D and AITD individually, less is known about the joint genetic etiology of these two diseases
+0	NA	NA	NA	INTRO	In view of the strong evidence for shared susceptibility for T1D and AITD we have previously mapped joint susceptibility genes for T1D and AITD using linkage studies in a large cohort of multiplex families in which T1D and AITD clustered.
+0	NA	NA	NA	INTRO	We used both the candidate gene approach , and whole genome linkage approach.
+0	NA	NA	NA	INTRO	A striking finding of these studies was that the phenotype of T1D+AITD in the same individual (APS3v) was a unique phenotype with a genetic predisposition distinct from that of T1D or AITD alone .
+0	NA	NA	NA	INTRO	The most significant contribution to T1D+AITD (APS3v) genetic susceptibility came from a sequence variant in HLA-DR.
+0	NA	DQB1	NA	INTRO	In addition to the HLA class II susceptibility contribution we mapped three non-MHC loci showing evidence for linkage - CTLA-4, PTPN22, and FOXP3.
+0	NA	TNFalpha	NA	INTRO	These genes as well as other genes, such as IL-2alpha/CD25 and TNFalpha have been reported by other groups studying APS3v.
+0	NA	NA	NA	INTRO	The aim of the present study was to identify genes unique for APS3v using the robust genome wide association study (GWAS) approach in order to identify novel shared mechanisms and pathways for T1D and AITD
+0	NA	NA	NA	METHODS	The project was approved by the Icahn School of Medicine Institutional Review Board.
+0	diabetes	NA	NA	METHODS	SEARCH for Diabetes in the Youth study participants >= 18 years old or a parent/guardian of participants < 18 years provided written informed consent for data collection including DNA.
+0	NA	NA	NA	METHODS	We performed a two-stage GWAS using a discovery set and an independent replication set
+0	NA	TPOA	NA	METHODS	The discovery set included 346 non-Hispanic White (NHW) patients with T1D who were also confirmed to be positive for TPO antibodies.
+0	diabetes	NA	NA	METHODS	These patients represent a subset of the SEARCH for Diabetes in Youth study prevalent and incident cohorts (for a full description of the SEARCH cohort see).
+0	diabetes	GAD65	NA	METHODS	T1D was based on physicians' diagnosis of T1D and confirmed at the time of the SEARCH study visit based on a positive autoantibody titer for GAD65 or IA-2, consistent with the ADA criteria for type 1A (autoimmune) diabetes.
+0	NA	NA	NA	METHODS	Controls included 727 healthy Caucasians (NHW) that were obtained from the Illumina iControlDB database (http://genomeinformaticsalliance.org/science/icontroldb.ilmn).
+0	NA	NA	NA	METHODS	Patients and controls were gender and ethnicity matched.
+0	NA	NA	NA	METHODS	The breakdown of the discovery set recruitment is detailed in Supplemental Table G
+0	NA	NA	NA	METHODS	The replication set included a separately enrolled dataset of 185 Caucasian (NHW) patients with T1D+AITD (consisting of a T1D+AITD cohort previously described with additional patients enrolled since 2010); 340 healthy Caucasians (NHW) were used as replication controls.
+0	NA	NA	NA	METHODS	The breakdown of the replication set recruitment is detailed in Supplemental Table G
+0	NA	NA	NA	METHODS	Genotyping of the cases and controls was performed at the Cincinnati Children's Hospital Medical Center DNA core.
+0	NA	NA	NA	METHODS	DNA samples were genotyped using the Illumina Human660W-Quad v1 BeadChips assays.
+0	NA	NA	NA	METHODS	This chip provides 87% genomic coverage in Caucasians at r2 > 0.8.
+0	NA	NA	NA	METHODS	Quality control (QC) testing (including testing for Hardy-Weinberg equilibrium, identity by descent, missing rate < 5%, and minor allele frequency [MAF] > 0.01) was performed using PLINK (http://pngu.mgh.harvard.edu/purcell/plink/).
+0	NA	NA	NA	METHODS	514,008 single nucleotide polymorphisms (SNPs) passed the QC testing and were used in the association analysis.
+0	NA	NA	NA	METHODS	To ensure that our cases and controls were appropriately matched for ethnicity, avoiding effects of population stratification, we performed Principal Component Analysis (PCA).
+0	NA	NA	NA	METHODS	For the PCA we used 100,000 representative SNPs from the GWAS panel and analyzed them using 2 PC's.
+0	NA	NA	NA	METHODS	Cases and controls were matched on their principal component scores.
+0	NA	NA	NA	METHODS	The program EIGENSOFT was used to perform the PCA
+0	NA	NA	NA	METHODS	After QC testing, association analysis was performed using PLINK for PCA matched samples (346 patients and 727 controls) via logistic regression while using the first 2 principal components as covariates to adjust for the effect of population stratification on the results.
+0	NA	NA	NA	METHODS	SNPs with a p-value < 5x10-8 were considered to have genome-wide level of significance, while SNPs with a p-value <= 1x10-5 were considered showing suggestive evidence for association
+0	NA	DQB1	NA	METHODS	SNPs were selected for analysis in the replication set based on the following criteria: (1) To reduce the likelihood of false positive results there had to be at least 2 associated SNPs (p <= 1x10-5) within the same gene in the discovery set for the gene to be analyzed in the replication set; (2) we did not analyze in the replication set SNPs within HLA class I & II genes (since these have already been shown to be strongly associated with APS3v ), as well as SNPs within multiple MHC genes that are in tight Linkage Disequilibrium (LD) with each other.
+0	NA	NA	NA	METHODS	Based on these criteria we selected for the replication set 116 SNPs showing suggestive evidence for association (p <= 1x10-5).
+0	NA	NA	NA	METHODS	To these we added 28 SNPs that showed borderline significance (p< 5x10-4), but were located within genes already selected for replication based on the above 2 criteria to improve coverage of these genes.
+0	NA	NA	NA	METHODS	The list of 24 genes (containing 144 SNPs) with suggestive evidence for association that were tested in the replication set is shown in Supplemental Table A.
+0	NA	NA	NA	METHODS	These 144 SNPs were genotyped in the replication set using the Illumina custom-made Goldengate assays.
+0	NA	NA	NA	METHODS	PCA was not performed in the replication set since only 144 SNPs were genotyped in that set and they did not include ancestry informative markers.
+0	NA	NA	NA	METHODS	In order to test the effect the PCA might have had on the replication set we redid the association analysis on the 144 SNPs identified in the discovery set without adjusting the results by PCA.
+0	NA	NA	rs4589926	METHODS	The analysis showed that for all the SNPs except one (rs4589926) the results with and without adjusting by PCA were comparable (Supplemental Table B).
+0	NA	NA	NA	METHODS	These results confirmed that the lack of adjustment for PCA in the replication set should have had minimal if any effect on the results
+0	NA	NA	NA	METHODS	The PLINK association output including odds ratio and standard error values were generated from the discovery and replication datasets, respectively.
+0	NA	NA	NA	METHODS	Meta-analysis was then performed on these two association outputs using PLINK to derive meta-p-values with Mantel-Haenszel correction
+0	NA	MHC	NA	METHODS	Linkage disequilibrium (LD) analysis was performed for the MHC and 1p13 loci since several genes in these loci were found to be associated with APS3v.
+0	NA	NA	NA	METHODS	For the LD analysis we used the Haploview program and analyzed the discovery set data
+0	NA	MHC	NA	METHODS	To test whether the non-HLA genes within the MHC locus that showed genome-wide significant associations had independent effects or were associated due to strong LD with HLA class I and II genes (known to be associated with APS3v) we ran logistic regression models and performed a Likelihood Ratio- (LR) based omnibus association test on the discovery set.
+0	NA	NA	NA	METHODS	This analysis enabled us to test whether the overall haplotype variation of the SNPs within these genes influenced the presence of the APS3v phenotype.
+0	NA	NA	NA	METHODS	We then performed conditional LR-based tests in order to (1) test for an independent effect of each SNP (independent of the haplotypic effects formed by the remaining SNPs); and (2) test for any marginal omnibus significant association controlling for each SNP (i.e., we tested if for SNPs that had independent effects, the remaining SNPs in the haplotype jointly contributed association information beyond the tested SNP alone)
+0	NA	MHC	NA	METHODS	For this analysis we used 23 SNPs in the MHC region that showed genome wide significance.
+0	NA	DQB1	NA	METHODS	They included the 4 highest scoring SNPs within the HLA class II genes, 3 highest scoring SNPs within the HLA class I genes, and 16 highest scoring SNPs within the non-HLA MHC genes that showed significant association (Supplemental Table C1).
+0	NA	NA	NA	METHODS	This analysis was performed using PLINK v1.07
+1	NA	MAGI3	NA	METHODS	Logistic regression analysis was also performed on the 4 most associated SNPs within 4 genes in this locus, MAGI3, PHTF1, PTPN22, BCL2L15, in order to determine whether any of these genes had independent effects
+0	NA	NA	NA	METHODS	3 SNPs within this locus showed significant associations with APS3v and we performed logistic regression analysis using allelic, as well as dominant and recessive models to determine which model is most likely contributing to the association with APS3v
+0	NA	NA	NA	METHODS	Pathway analysis was performed using the Meta-Analysis Gene-set Enrichment of variant Associations (MAGENTA) program (http://www.broadinstitute.org/mpg/magenta/).
+0	NA	NA	NA	METHODS	For the pathway analysis we used only the discovery dataset.
+0	NA	NA	NA	METHODS	The 1000 SNPs that had the lowest p-values were used in this analysis.
+0	NA	NA	NA	METHODS	The probability that SNPs for a pathway/gene-set were significantly enriched when compared to randomly selected SNP-sets was computed.
+0	NA	NA	NA	METHODS	A p-value < 0.05 was considered significant
+0	NA	NA	NA	RESULTS	Detailed characteristics of the discovery set are provided in Table 1.
+0	NA	NA	NA	RESULTS	The discovery set included 346 Caucasian (NHW) APS3v patients; of them 216 (62%) were females and 130 (38%) were males resulting in a female to male (F:M) ratio of 1.6:1.
+0	NA	NA	NA	RESULTS	This ratio is significantly higher than the reported F:M ratio in T1D which is close to 1.0, but is consistent with the female preponderance of AITD.
+0	NA	NA	NA	RESULTS	The control discovery set consisted of 727 North American Caucasians.
+0	NA	NA	NA	RESULTS	There were 451 (62%) females and 276 (38%) males in the control group (F:M ratio 1.6:1).
+0	NA	NA	NA	RESULTS	In order to control for population stratification we performed a PCA in the discovery set.
+0	NA	NA	NA	RESULTS	PCA demonstrated that our APS3v patients and controls were ethnically matched North American Caucasians of European ancestry along the axes of statistically significant principal components.
+0	NA	NA	NA	RESULTS	The lambda gc (genomics inflation factor) of the PCA was 1.016 demonstrating a very close ethnicity matching of patients and controls
+0	NA	NA	NA	RESULTS	The quantile-quantile (QQ) plot, which illustrates results of the distribution of association analyses for all the tested SNPs, showed an excess of SNPs in several loci that were significantly associated with APS3v at the tail of the distribution (Supplemental Figure A, blue line).
+0	NA	DQB1	NA	RESULTS	To examine the effects of HLA genes (known to be strongly associated with APS3v) on the QQ plot we re-analyzed the QQ plot after removal of SNPs within HLA class I and class II genes (Supplemental Figure A, red line).
+0	NA	DQB1	NA	RESULTS	The QQ plot without HLA genes showed a substantial reduction in the number of SNPs that are significantly associated with APS3v, confirming the major role of HLA genes in the etiology of APS3v.
+0	NA	NA	NA	RESULTS	The results of the association analysis using the Human660W-Quad v1 SNPs in APS3v patients compared to controls are summarized in the Manhattan plot shown in Figure 1.
+0	NA	MHC	NA	RESULTS	The strongest association was seen at the MHC (6p) locus with many SNPs in this locus showing genome wide significance (p < 5 x 10-8); however, other non-MHC loci also showed significant associations (Figure 1).
+0	NA	NA	NA	RESULTS	307 SNPs showed suggestive evidence of association (p <= 1 x 10-5) (Supplemental Tables D1 and D2)
+0	NA	NA	NA	RESULTS	For the replication analysis we tested 144 selected SNPs.
+0	NA	DQB1	NA	RESULTS	These SNPs were chosen because they were located within or near 24 genes-loci showing suggestive evidence of association (p <= 1x10-5) in at least 2 SNPs, excluding HLA class I and II genes.
+0	NA	NA	NA	RESULTS	After QC, 11 SNPs were removed leaving a total of 133 that were analyzed.
+0	NA	NA	NA	RESULTS	The replication analysis identified 107 SNPs within 22 genes-loci that showed a nominal p-value of less than 0.05 (Supplemental Table E).
+1	NA	MAGI3	NA	RESULTS	Of these, 20 genes-loci contained one or more SNPs that showed genome wide significance (p < 5x10-8) in the combined sets (Table 2) and one gene (MAGI3) had a SNP giving a combined p-value close to genome wide significance (p = 4.18x10-7).
+1	NA	MHC	NA	RESULTS	Of these 21 replicated genes-loci, 16 are non-HLA genes located within the MHC locus on chromosome 6p (Figure 2), and 5 genes (MAGI3, PHTF1, PTPN22, BCL2L15 and GPR103) are located outside the MHC locus.
+1	NA	MAGI3	NA	RESULTS	Interestingly 4 of the 5 non-MHC genes (MAGI3, PHTF1, PTPN22, and BCL2L15) are located on chromosome 1p13
+0	NA	MHC	NA	RESULTS	LD analysis for the MHC region showed that the MHC gene-locus where the 16 replicated genes were located consisted of 4 LD blocks, suggesting that while some genes may show association with APS3v because of LD others may have independent contributions (Figure 3A).
+1	NA	PHTF1	NA	RESULTS	LD analysis for the 1p13 locus showed tight LD between PHTF1 and PTPN22 and weaker LD between these two genes and BCL2L15, while MAGI3 did not show significant LD with the other 3 genes (Figure 3B), suggesting that more than one gene in this locus may have independent effects
+0	NA	MHC	NA	RESULTS	The overall variation of the haplotypes formed by the 23 SNPs located within associated MHC genes influenced the presence of the APS3v phenotype (omnibus association LR test p-value < 1x10-8).
+0	NA	MHC	NA	RESULTS	Intriguingly, even though the MHC region had 4 LD blocks only one gene, HSPA1L showed independent effect on disease risk after adjusting for the effect of the entire haplotype (Supplemental Table C1).
+0	NA	HSPA1L	rs2227956	RESULTS	SNP rs2227956, located within HSPA1L, showed the strongest independent effect (conditional LR test p-value=0.00227).
+0	NA	HSPA1L	rs2227956	RESULTS	Moreover, for rs2227956 (HSPA1L) we found that the other SNPs jointly contributed to the association with APS3v beyond the effect of rs2227956 alone (marginal omnibus association LR test p-value = 1.72x10-42, Supplemental Table C1)
+1	NA	MAGI3	NA	RESULTS	Logistic regression analysis was performed on the 4 most associated SNPs within 4 genes in this locus, MAGI3, PHTF1, PTPN22, BCL2L15, in order to determine whether any of these genes had independent effects.
+0	NA	PTPN22	NA	RESULTS	The analysis showed that only PTPN22 had independent effect on the susceptibility to APS3v (conditional LR test p-value=0.008), suggesting that it is the causative gene and not the other 3 genes in this locus (Supplemental Table C2)
+0	NA	NA	NA	RESULTS	3 SNPs in this locus showed significant association with APS3v by the logistic regression analysis.
+0	NA	NA	NA	RESULTS	Analyses for allelic variation, as well as genotypic variation under dominant and recessive models all showed significant associations (Supplemental Table C3)
+0	NA	NA	NA	RESULTS	Pathway analysis was performed to provide insight into mechanisms underlying the etiology of APS3v.
+0	NA	NA	NA	RESULTS	Several pathways were found to be significantly associated with APS3v (Supplemental Table F).
+0	NA	CD40	NA	RESULTS	The three most strongly associated pathways were cell cycle, B-cell development and CD40 signaling
+0	autoimmune disease	NA	NA	DISCUSS	Organ-specific autoimmune diseases, such as T1D and AITD, share common underlying pathogenetic mechanisms.
+0	autoimmune disease	NA	NA	DISCUSS	Indeed, genetic studies have demonstrated the existence of common autoimmunity genes predisposing to several autoimmune diseases .
+0	autoimmune disease	NA	NA	DISCUSS	One of the strongest phenotypic associations between two different organ-specific autoimmune diseases is the association between T1D and AITD, suggesting a significant shared genetic susceptibility.
+0	NA	NA	NA	DISCUSS	In the current study we dissected the joint genetic susceptibility for T1D and AITD using a genome-wide approach, analyzing patients who developed both T1D and AITD (i.e.
+0	NA	NA	NA	DISCUSS	APS3v).
+0	NA	MHC	NA	DISCUSS	Our data demonstrated that the majority of SNPs showing genome-wide significant associations were located within or near the MHC locus.
+0	NA	MHC	NA	DISCUSS	These findings confirm previous studies by us and others  demonstrating the key role the MHC region plays in the etiology of APS3v
+0	NA	DQB1	NA	DISCUSS	The mechanism by which HLA class II proteins predispose to APS3v was shown by us to be through alteration of antigen presentation.
+0	NA	DQB1	NA	DISCUSS	Antigen presentation is determined by the HLA class II pocket structure, which is genetically determined by its inherited sequence that has high population variability.
+0	NA	DQB1	NA	DISCUSS	Certain autoantigenic peptides that fit within the HLA class II pocket are more likely to be presented to T-cells that escaped tolerance thereby triggering disease
+0	NA	MHC	NA	DISCUSS	We also identified SNPs in 16 additional non-HLA genes within the MHC region that were strongly associated with APS3v.
+0	NA	DQB1	NA	DISCUSS	In order to determine if they are associated with APS3v by virtue of LD with HLA class II or whether they confer independent effects we performed a conditional logistic regression analysis.
+0	NA	MHC	NA	DISCUSS	Our logistic regression analysis suggested that at least one of these 16 non-HLA genes in the MHC region, HSPA1L, had an independent effect on the risk for disease (Supplemental Table C1).
+0	NA	MHC	NA	DISCUSS	Moreover, LD analysis (Figure 3A) showed 4 LD blocks in the MHC region suggesting that other MHC genes may have independent effects that could not be detected in our dataset.
+0	heat shock proteins	HSPA1L	NA	DISCUSS	Heat shock 70kDa protein 1-like (HSPA1L) is a member of the heat shock proteins (HSPs) that are upregulated in cells in response to stressful stimuli, and have been previously shown to play a role in AITD and T1D.
+0	diabetes	HSPA1L	NA	DISCUSS	Recently, the HSPA1L protein was identified in islets of enterovirus-associated fulminant type 1 diabetes suggesting a role in T1D
+1	NA	MHC	NA	DISCUSS	In addition to the 16 MHC genes demonstrating significant associations with APS3v, we identified SNPs in 5 non-MHC genes that were associated with APS3v: BCL2L15 (B-cell lymphoma 2-like protein 5), MAGI3 (membrane associated guanylate kinase WW and PDZ domain containing 3), PHTF1 (putative homeodomain transcription factor 1), PTPN22 (protein tyrosine phosphatase non-receptor type 22), and GPR103 (G protein-coupled receptor 103).
+1	NA	MAGI3	NA	DISCUSS	Interestingly, 4 of the 5 non-MHC genes found to be associated with APS3v in our GWAS (MAGI3, PHTF1, PTPN22, BCL2L15) are located within a 350 Kb region on chromosome 1p13 suggesting that they are all in LD.
+0	NA	PHTF1	NA	DISCUSS	LD analysis showed that only PHTF1 and PTPN22 are in tight LD (Figure 3B).
+0	NA	NA	NA	DISCUSS	This suggested that more than one gene in this locus may have an independent effect on the etiology of APS3.
+0	autoimmune disease	PTPN22	NA	DISCUSS	However, logistic regression analysis demonstrated that only the PTPN22 gene had an independent effect on disease risk confirming earlier studies showing that PTPN22 is a major autoimmunity gene .
+0	NA	PTPN22	NA	DISCUSS	These results confirmed our previous studies, using linkage analysis that showed strong linkage of PTPN22 with APS3v .
+0	NA	PTPN22	NA	DISCUSS	The PTPN22 gene encodes the lymphoid tyrosine phosphatase (LYP) protein, a potent inhibitor of T-cell activation.
+0	autoimmune disease	NA	rs2476601	DISCUSS	A non-synonymous SNP causing a tryptophan to arginine change at position 620 has been associated with several autoimmune diseases , but the substitution results in gain-of-function and increases suppression of T-cell receptor signaling.
+0	NA	NA	NA	DISCUSS	It is hypothesized that this substitution may allow escape of self-reactive T-cells from deletion by central tolerance
+0	NA	GPR103	NA	DISCUSS	The GPR103 gene is especially interesting since it is a novel gene-locus identified to be unique for the APS3v phenotype.
+0	pancreatic	GPR103	NA	DISCUSS	The GPR103 gene (also designated as QRFPR gene) is a G-protein-coupled receptor that is expressed mostly in brain, but also in human pancreatic islets and it may have an effect on insulin secretion.
+0	NA	GPR103	NA	DISCUSS	Moreover, the ligand for GPR103 (P518) is expressed in thyroid cells.
+0	NA	GPR103	NA	DISCUSS	Taken together these expression data suggest a role for GPR103 and/or its signaling pathway in APS3v.
+0	autoimmune disease	GPR103	NA	DISCUSS	The GPR103 gene is located on chromosome 4q27 and it has not been previously reported to be associated with autoimmunity.
+0	autoimmune disease	GPR103	NA	DISCUSS	However, a locus on chromosome 4q27 that is approximately 625 Kb downstream the GPR103 gene was previously reported to be associated with T1D, as well as with other autoimmune diseases including rheumatoid arthritis, Celiac disease, and ulcerative colitis.
+0	NA	NA	NA	DISCUSS	Currently it is unclear whether this is the same locus as the one associated with APS3v, and further studies are needed to explore this possibility
+0	NA	GPR103	NA	DISCUSS	No previous studies tested the GPR103 locus on 4q27 for association with AITD, and therefore we tested the two GPR103 SNPs showing association with APS3v, for association with AITD in our AITD dataset (251 GD patients, 114 HT patients and 365 matched controls).
+1	NA	NA	rs1513695	DISCUSS	The analysis showed that SNPs rs1513695 and rs7679475 were both associated with HT (p=0.04 and p=0.02, respectively) but not with GD.
+0	NA	NA	NA	DISCUSS	These data are consistent with the fact that most APS3v patients have HT and only a minority has GD
+0	NA	CTLA4	NA	DISCUSS	Previous studies by us and others showed strong linkage and association of CTLA-4 with APS3v, while in the current study CTLA-4 markers did not reach genome wide significance.
+0	NA	CTLA4	NA	DISCUSS	However, our pathway analysis did show significant association of the CTLA-4 signaling pathway with APS3v confirming earlier results.
+0	NA	NA	NA	DISCUSS	These data show the power of pathway analysis to identify important mechanisms underlying common diseases.
+0	death	CD40	NA	DISCUSS	Other pathways that were significantly associated with APS3v included cell cycle, B-cell development, CD40 signaling, death receptor signaling, IL12 and IL-2 signaling pathways.
+0	NA	CD40	NA	DISCUSS	The association with CD40 signaling pathway is consistent with previous data showing that CD40 plays a role in the etiology of both AITD and T1D.
+0	NA	IL-2	NA	DISCUSS	The association with the IL-2 and IL-12 signaling pathways suggests that abnormalities in T-cell activation are also important to the etiology of APS3v
+0	NA	NA	NA	DISCUSS	The main limitation of our study is the small cohort size that may have limited our ability to identify common variants with weak effects.
+0	NA	NA	NA	DISCUSS	Even though our study had a relatively small sample size its main strength was the phenotype selection.
+0	diabetes	TPOA	NA	DISCUSS	All the patients in the discovery set developed both type 1 diabetes and TPO antibodies before age 20.
+0	autoimmune disease	NA	NA	DISCUSS	The development of two autoimmune diseases in childhood supports a strong genetic contribution to the T1D+AITD phenotype of our patients (since children have less time for environmental exposures), and therefore enabled us to identify the strongest genetic effects in our cohort
+0	NA	NA	NA	DISCUSS	Several GWAS studies have been performed in T1D (reviewed in) identifying over 30 genes-loci.
+0	NA	MHC	NA	DISCUSS	By far the strongest association is with the MHC locus.
+0	NA	DQB1	NA	DISCUSS	Similarly, in our study the HLA class II genes showed the strongest association (Supplemental Table D1), and 16 out of the 21 genes we identified were located within the MHC region.
+0	NA	MHC	NA	DISCUSS	Therefore, for both phenotypes, T1D alone and T1D+AITD (APS3v), the MHC region is the most important susceptibility locus.
+0	NA	PTPN22	NA	DISCUSS	Among non-MHC genes the PTPN22 overlapped between T1D and APS3v, suggesting that some T1D susceptibility genes have a major contribution to the APS3v phenotype, as well.
+0	NA	NA	NA	DISCUSS	Several genes are specific to the APS3v phenotype.
+0	NA	CTLA4	NA	DISCUSS	These include the CTLA-4 gene that has been previously shown to be unique for APS3v , and the GPR103 gene identified in the current study.
+0	NA	NA	NA	DISCUSS	These data support the notion that APS3v is a unique phenotype with specific genetic susceptibility
+0	NA	NA	NA	DISCUSS	In summary, this is the first GWAS study performed in patients that developed both T1D+AITD in childhood.
+0	NA	MHC	NA	DISCUSS	Our data support a major role for MHC genes with contributions from non-MHC genes.
+0	NA	NA	NA	DISCUSS	Identifying the mechanisms by which these genes predispose to disease will hopefully facilitate the development of novel mechanism-based therapeutic strategies
+0	NA	NA	NA	FIG	Manhattan plot showing the results of the association analysis in the Discovery set.
+0	NA	NA	NA	FIG	The X-axis shows the chromosomal location of the analyzed SNPs and the Y-axis shows the - log(p-value).
+0	NA	MHC	NA	FIG	As expected the strongest association was seen on chromosome 6 at the MHC (HLA) locus with many SNPs in this locus showing genome wide significance (p < 5x10-8); however, other non-MHC loci also showed significant associations
+0	NA	MHC	NA	FIG	Schematic diagram of the MHC region showing non-HLA genes within the MHC locus found to be associated with T1D+AITD (APS3v).
+0	NA	MHC	NA	FIG	Of 21 replicated genes 16 were located within the MHC locus on chromosome 6p but are not HLA genes.
+0	NA	HLA-A	NA	FIG	Shown are HLA-A, HLA-C, and HLA-DQB1 (gray boxes), as well as 9 of the 16 genes within the MHC region that were replicated.
+0	NA	NA	NA	FIG	Gene names are indicated below the line representing chromosome 6p and their chromosomal location in bp is indicated above the line
+0	NA	MHC	NA	FIG	(A) Linkage disequilibrium (LD) analysis of SNPs within 16 MHC genes that were replicated.
+0	NA	MHC	NA	FIG	LD analysis showed that the MHC region, where the replicated genes are located, consisted of 4 LD blocks.
+0	NA	NA	NA	FIG	These results suggested that while some genes that are located within the same LD block (e.g.
+0	NA	HCP5	NA	FIG	HCP5 and MICA) may show association with APS3v because of LD, others that are outside these blocks may have independent contributions.
+0	NA	NA	NA	FIG	(B) LD analysis of the 1p13 locus.
+1	NA	PHTF1	NA	FIG	The PHTF1 and PTPN22 genes show tight LD with a D' of 0.99 while the BCL2L15 gene was in weaker LD with PTPN22 (D'=0.85) and PHTF1 (D'=0.93).
+1	NA	MAGI3	NA	FIG	In contrast, MAGI3 was not in LD with the other 3 genes at the locus showing D'<0.80 with all 3 genes
+0	NA	NA	NA	TABLE	Combined association analysis in the Discovery and Replication sets in 22 genes that showed nominal association (p<0.05) in at least one SNP for the Replication se
+0	insulin-treated diabetes	NA	NA	REF	Autoimmune thyroiditis (AITD) and Type 1 diabetes (T1D) are genetically associated
+0	NA	NA	NA	REF	We mapped multiple loci predisposing to T1D+AITD using a genome wide approach
+0	NA	MHC	NA	REF	Sixteen genes were non-HLA genes located in the MHC locus
+0	NA	GPR103	NA	REF	We identified GPR103 as a novel susceptibility gene for T1D+AITD
+0	NA	CD40	NA	REF	Major pathways predisposing to T1D+AITD included CD40 and CTLA-4 signaling

@@ -1,0 +1,209 @@
+0	neuropathic pain	NA	NA	ABSTRACT	Neuropathic pain is defined as pain arising as a direct consequence of a lesion or a disease affecting the somatosensory system and it affects around 1 in 4 diabetic patients in the UK.
+0	NA	NA	NA	ABSTRACT	The purpose of this genome-wide association study (GWAS) was to identify genetic contributors to this disorder.
+0	neuropathic pain	NA	NA	ABSTRACT	Cases of neuropathic pain were defined as diabetic patients with a multiple prescription history of at least one of five drugs specifically indicated for the treatment of neuropathic pain.
+0	diabetes	NA	NA	ABSTRACT	Controls were diabetic individuals who were not prescribed any of these drugs, nor amitriptyline, carbamazepine, or nortriptyline.
+0	diabetic neuropathic pain	NA	NA	ABSTRACT	Overall, 961 diabetic neuropathic pain cases and 3260 diabetic controls in the Genetics of Diabetes Audit and Research Tayside (GoDARTS) cohort were identified.
+1	NA	NA	rs71647933	ABSTRACT	We found a cluster in the Chr1p35.1 (ZSCAN20-TLR12P) with a lowest P value of 2.74 x 10- 7 at rs71647933 in females and a cluster in the Chr8p23.1, next to HMGB1P46 with a lowest P value of 8.02 x 10- 7 at rs6986153 in males.
+0	NA	NA	NA	ABSTRACT	Sex-specific narrow sense heritability was higher in males (30.0%) than in females (14.7%).
+1	diabetic neuropathic pain	NA	NA	ABSTRACT	This GWAS on diabetic neuropathic pain provides evidence for the sex-specific involvement of Chr1p35.1 (ZSCAN20-TLR12P) and Chr8p23.1 (HMGB1P46) with the disorder, indicating the need for further research
+0	diabetic neuropathic pain	NA	NA	ABSTRACT	The case definition of diabetic neuropathic pain in this study is matched with those used in epidemiological studies
+0	diabetic neuropathic pain	NA	NA	ABSTRACT	We confirmed that diabetic neuropathic pain is a heritable trait
+0	diabetic neuropathic pain	NA	NA	ABSTRACT	We provided new genetic evidence of sex-specific involvement of two chromosome loci with diabetic neuropathic pain
+0	diabetic neuropathic pain	NA	NA	ABSTRACT	Using a pragmatic case definition, we identified two new genetic areas that may be involved in diabetic neuropathic pain, a common and debilitating complication of diabetes.
+0	NA	NA	NA	ABSTRACT	One of these is more significant in males, the other in females.
+0	neuropathic pain	NA	NA	ABSTRACT	Furthermore, we calculated that the contribution of genes to developing neuropathic pain in diabetic men is about twice that in diabetic women.
+0	neuropathic pain	NA	NA	ABSTRACT	These findings help to explain why some people are more vulnerable to this complication, and help to elucidate the biological mechanisms of neuropathic pain.
+0	NA	NA	NA	ABSTRACT	They will inform personalised (gender-specific) approaches to treatment, and the development of new drugs
+0	neuropathic pain	NA	NA	INTRO	Neuropathic pain is defined by the International Association for the Study of Pain as pain arising as a direct consequence of a lesion or a disease affecting the somatosensory system.
+0	neuropathic pain	NA	NA	INTRO	The prevalence of neuropathic pain is estimated to be around 7% in a general population while in a diabetic population around 1 in 4 patients will suffer from this disorder.
+0	neuropathic pain	NA	NA	INTRO	The current treatment of neuropathic pain is far from satisfactory, with fewer than 30% of patients achieving satisfactory relief of diabetic neuropathic pain.
+0	pain	NA	NA	INTRO	Compared to people without pain and patients with non-neuropathic pain, diabetic neuropathic pain has a significant negative effect on patients' quality of life.
+0	NA	NA	NA	INTRO	In addition, the disorder represents a significant economic burden to healthcare systems
+0	neuropathic pain	NA	NA	INTRO	Cross-sectional epidemiological studies have identified multiple risk factors for neuropathic pain.
+0	NA	NA	NA	INTRO	These include older age, female gender, manual occupation, lower educational attainment, and living in a rural area or in poor accommodation.
+0	NA	NA	NA	INTRO	These risk factors are difficult to modify and are not suitable for clinical intervention, though they are still of academic and political interest.
+0	diabetic neuropathic pain	NA	NA	INTRO	Specifically for diabetic neuropathic pain, modifiable risk factors including smoking, hypertension, obesity, hypercholesterolemia and duration of diabetes have been identified.
+0	neuropathic pain	NA	NA	INTRO	Unfortunately, there are no published clinical trials that suggest a reduction in the incidence or severity of neuropathic pain through addressing these modifiable risk factors.
+0	NA	NA	NA	INTRO	Further effort is required in this area.
+0	diabetic neuropathic pain	NA	NA	INTRO	Studies have found that, although glycaemic control can reduce the incidence of diabetic neuropathy, there is limited impact in decreasing the incidence of accompanying neuropathic pain, even with long-term excellent glycaemic control.
+0	NA	NA	NA	INTRO	Epidemiological studies, such as genetic association studies, can identify independent risk factors which are clinically important, and offer these risk factors as covariates for basic research studies, or as new factors to address clinically
+0	diabetic neuropathic pain	NA	NA	INTRO	Diabetic neuropathic pain is considered as a complex trait which is affected by both environmental risk factors and genetic risk factors.
+0	neuropathic pain	NA	NA	INTRO	Unlike well documented environmental risk factors, the understanding of the genetic contributors to neuropathic pain is rather poor, though evidence from animal models and human studies have both confirmed that it is a heritable trait.
+0	neuropathic pain	P2X7	NA	INTRO	Studies on animal models have proposed candidate genes for neuropathic pain such as P2X7, P2X4, TLR4, and CACNG2.
+0	diabetic neuropathic pain	GFRA2	NA	INTRO	The first genome-wide association study (GWAS) on diabetic neuropathic pain in humans reported that GFRA2 might be associated with a subgroup of this disorder.
+0	NA	NA	NA	INTRO	All these candidate genes need further replications to validate their biological roles
+0	diabetic neuropathic pain	NA	NA	INTRO	We conducted a population-based GWAS of diabetic neuropathic pain in which our case definition was matched with previous population-based observational studies of diabetic neuropathic pain, seeking candidate genes that might not have been identified using the previous, more exclusive case definition
+0	diabetes	NA	NA	METHODS	Genetic resources: The Genetics of Diabetes Audit and Research Tayside (GoDARTS) project recruits diabetic patients and non-diabetic matched controls in Tayside, Scotland to identify genetic contributors relating to the susceptibility of diabetes, the complications of diabetes, the response to diabetes treatment and the prognosis of diabetes.
+0	NA	NA	NA	METHODS	(http://diabetesgenetics.dundee.ac.uk/).
+0	diabetes	NA	NA	METHODS	So far, the project has recruited 9439 diabetic patients who have provided their DNA samples along with written consent to use their clinical data and biological samples for research.
+0	diabetes	NA	NA	METHODS	Among these 9434 diabetic individuals, 3673 were genotyped by Affymetrix SNP6.0 chips supported by the Wellcome Trust Case Control Consortium 2 (WTCCC2) project (http://www.wtccc.org.uk/ccc2/) and 3254 were genotyped by Illumina OmniExpress chips supported by the Surrogate markers for Micro- and Macro-vascular hard endpoints for Innovative diabetes Tools (SUMMIT) project (http://www.imi-summit.eu/).
+0	NA	NA	NA	METHODS	The GoDARTS study was approved by Tayside Committee on Medical Research Ethics (REC reference 053-04)
+0	NA	NA	NA	METHODS	E-health resources: Since 1993, every person registered with the National Health Service (NHS) in Scotland has been assigned a unique Community Health Index (CHI) number.
+0	NA	NA	NA	METHODS	This number appears in the records of all personal medical activities within the NHS framework which paves the way for anonymous data linkage.
+0	NA	NA	NA	METHODS	The GoDARTS project includes consent from participants for the genetic data to be anonymously linked with datasets sourced from participants' NHS medical histories, including prescribing data, blood test results, radiology examination results, hospital admissions, and outpatient appointments.
+0	NA	NA	NA	METHODS	The current prescription history dataset used in this study covers from Jan, 1993 to Dec, 2013
+0	neuropathic pain	NA	NA	METHODS	In this study, we defined a neuropathic pain case as a type 2 diabetic patient who has a history of multiple usages (minimum twice) of at least one of the following five medicines which are recommended and effective in diabetic peripheral neuropathy and prescribed uncommonly for other disorders: duloxetine, gabapentin, pregabalin, capsaicin cream (or patch) and lidocaine patch
+0	diabetes	NA	NA	METHODS	A control was defined as a type 2 diabetic patient who has not been prescribed any of these five drugs before.
+0	neuropathic pain	NA	NA	METHODS	Individuals who had a prescription history of amitriptyline, carbamazepine, or nortriptyline were not included as controls because these drugs are often used for the treatment of other medical conditions, as well as neuropathic pain.
+0	diabetes	NA	NA	METHODS	In other words, diabetic individuals using these drugs could be correctly classified as neuropathic pain cases or wrongly classified if these drugs were used for treating other disorders such as depression or epilepsy.
+0	NA	NA	NA	METHODS	It is not possible to differentiate these two situations with certainty based on the available clinical information.
+0	NA	NA	NA	METHODS	To avoid the potential for incorrect phenotyping, those individuals were also removed from the control group
+0	NA	NA	NA	METHODS	We excluded individuals with a history of only one single prescription for any of these five drugs from both cases and controls
+0	NA	NA	NA	METHODS	The quality control steps of the genotype data were applied based on the standard methods that were used for the WTCCC2 studies, and the SUMMIT studies
+0	NA	NA	NA	METHODS	Non-genotyped single nucleotide polymorphisms (SNPs) in the Affymetrix SNP6.0 chips and Illumina OmniExpress chips were imputed by SHAPEIT and IMPUTE2 based on shared reference files from the 1000 genome phase I datasets.
+0	NA	NA	NA	METHODS	An r2 score was used to assess the accuracy of an imputed genotype.
+0	NA	NA	NA	METHODS	It is suggested to adopt an r2 > 0.3 to remove imputed SNPs with poor quality.
+0	NA	NA	NA	METHODS	PLINK was the main GWAS software for genetic data manipulation and standardised quality control steps were frequently performed during analyses (For example, SNPs with over 10% genotyping missing were excluded, SNPs with minor allele frequency less than 1% were removed, SNPs which failed Hardy-Weinberg tests (P < 0.000001) were removed, and individuals with more than 10% genotype data missing were not included).
+0	NA	NA	NA	METHODS	SNPs on the sex chromosomes and mitochondrial SNPs were not included in the analyses since we do not have these data.
+0	NA	NA	NA	METHODS	The detection of individuals with different ancestry was done by the multidimensional scaling method implanted in PLINK.
+0	NA	NA	NA	METHODS	A lambda value generated by this method indicates the level of population stratification.
+0	NA	NA	NA	METHODS	The lambda value should be very close to 1 in a homogeneous population with little ancestry mixture.
+0	NA	NA	NA	METHODS	Related samples were identified by calculating pi-hat values greater than 0.125 in PLINK.
+0	NA	NA	NA	METHODS	Logistic regression analyses were applied to generate P values for SNP association tests.
+0	NA	NA	NA	METHODS	A P value of less than 10- 6 was considered to be a suggestive association, worth further exploration.
+0	NA	NA	NA	METHODS	SNP functional annotation was searched by SNPnexus and Manhattan plots were generated by HaploView.
+0	NA	NA	NA	METHODS	Regional visualisation was achieved by LocusZoom.
+0	NA	NA	NA	METHODS	The Q-Q plot of P values, a tool to assess whether there are confounders and the impact of these potential confounders (different genotyping machines, different genotyping chips, different DNA extraction methods, etc) between cases and controls, was visualised by SNPEVG.
+0	NA	NA	NA	METHODS	The whole workflow is summarised in Fig.
+0	NA	NA	NA	METHODS	1.
+0	NA	NA	NA	METHODS	Narrow-sense heritabilities of the overall dataset and sex-specific dataset were performed by restricted maximum likelihood analysis using the recognized approach to genome-wide complex trait analysis (GCTA).
+0	NA	NA	NA	METHODS	Narrow-sense heritability represents the ratio of total phenotypic variance which is caused by additive genetic effects of individual SNPs.
+0	NA	NA	NA	METHODS	Comparisons of means of age and BMI between cases and controls were performed using independent t test in SPSS 21 (IBM Corp, New York, USA).
+0	NA	NA	NA	METHODS	The gender difference was evaluated using chi-square (2 x 2 tables)
+0	diabetes	NA	NA	RESULTS	We identified 1043 diabetic patients who had a prescription record of minimum twice usage of at least one of the five relevant neuropathic pain drugs (Duloxetine, Gabapentin, Pregabalin, Capsaicin cream (or patch) and Lidocaine patch, see Methods section for details) among the genotyped diabetic population of the GoDARTS project, representing 15.06% of the cohort.
+0	diabetes	NA	NA	RESULTS	In addition, we found 3759 diabetic individuals who were identifiable as controls, as they had not been prescribed any of these five drugs, nor other drugs that can be used (non-exclusively) to treat neuropathic pain (amitriptyline, carbamazepine, or nortriptyline).
+0	diabetes	NA	NA	RESULTS	After removing ethnically outlying samples, genetically related samples, type 1 diabetic samples and those who had had a single prescription of neuropathic pain drugs, the final cohort for analysis comprised 961 neuropathic pain cases (male = 470, female = 491) and 3260 controls (male = 2021, female = 1239).
+0	NA	NA	NA	RESULTS	We then derived data summarising the age and body mass index (BMI) for the overall dataset, male only dataset and female only dataset (Table 1).
+0	NA	NA	NA	RESULTS	In the overall dataset, the average age (mean +- standard deviation, years) and BMI (mean +- standard deviation, kg/m2) in cases were 72.60 +- 10.54, and 27.79 +- 6.01, respectively.
+0	NA	NA	NA	RESULTS	The average age and BMI in controls were 75.51 +- 10.79, and 26.91 +- 5.51, respectively.
+0	NA	NA	NA	RESULTS	There were statistically significant differences in age and BMI between cases and controls as well as in gender (P < 0.01).
+0	NA	NA	NA	RESULTS	In the male only dataset, the average age and BMI in cases were 72.71 +- 9.96, and 27.06 +- 5.01, respectively.
+0	NA	NA	NA	RESULTS	The average age and BMI in controls were 74.82 +- 10.69, and 26.83 +- 4.94, respectively.
+0	NA	NA	NA	RESULTS	There was no statistical difference in BMI between cases and controls, but the difference in age was statistically significant (P < 0.01).
+0	NA	NA	NA	RESULTS	In the female only dataset, the average age and BMI in cases were 72.48 +- 11.08, and 28.49 +- 6.56, respectively.
+0	NA	NA	NA	RESULTS	The average age and BMI in controls were 76.63 +- 10.90, and 27.06 +- 6.33, respectively.
+0	NA	NA	NA	RESULTS	The differences in age and BMI between cases and controls were statistically significant (P < 0.01)
+0	NA	NA	NA	RESULTS	Altogether 6,906,962 genotyped and imputed SNPs survived for analysis, after standardised quality control of genotyping and imputation (r2 > 0.3).
+0	NA	NA	NA	RESULTS	Since the lambda value (indicating the level of population stratification) was 1.014 for the cleaned overall dataset, no extra adjustment was adopted based on population stratification.
+0	NA	NA	NA	RESULTS	Using logistic regression testing, with age, sex, and BMI as covariates for the overall dataset, there was a peak showing in chromosome 1 on the Manhattan plot (Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	NA	RESULTS	The associated Q-Q plot is shown in Supplementary File 1.
+0	NA	NA	NA	RESULTS	Although none of the SNPs reached formal genome-wide significance (5 x 10- 8), the cluster in Chromosome 1p35.1 (Chr1p35.1), spanning ZSCAN20-TLR12P area, still indicated possible associations.
+0	NA	ZSCAN20	rs35260355	RESULTS	The most significant SNP in this region was rs35260355 in the ZSCAN20 with a lowest P value of 3.84 x 10- 7 and an odds ratio (OR) of 1.66 (95% confidence interval: 1.37-2.02).
+0	NA	ZSCAN20	rs71647933	RESULTS	Similar logistic regression in the female only dataset found that the peak in the Chr1p35.1 still existed and the top SNP rs71647933 in the ZSCAN20 achieved a lower P value of 2.74 x 10- 7 with an OR of 2.31 (95% confidence interval: 1.68-3.17) (Fig.
+0	NA	NA	NA	RESULTS	3).
+1	NA	HMGB1P46	rs6986153	RESULTS	In the male only dataset, the SNP cluster in the Chr1p35.1 disappeared while a new peak showed in the Chr8p23.1, next to HMGB1P46 and the P value of the top SNP rs6986153 was 8.02 x 10- 7 with an OR of 1.67 (95% confidence interval: 1.34-2.08) (Fig.
+0	NA	NA	NA	RESULTS	4).
+0	NA	NA	NA	RESULTS	Table 2 summarises all the significant SNPs found in the regions in the three datasets.
+0	NA	NA	NA	RESULTS	Fig.
+0	NA	NA	NA	RESULTS	5, Fig.
+0	NA	NA	NA	RESULTS	6 show the regional plots of the identified loci in the female only dataset and the male only dataset, respectively.
+0	neuropathic pain	NA	NA	RESULTS	It was estimated that the narrow-sense heritability of neuropathic pain was 14.7% in the overall dataset, but 30.0% among males, compared with 14.7% among females
+0	diabetic neuropathic pain	NA	NA	DISCUSS	Utilising a genetic dataset and e-health linkage dataset, we performed a GWAS on diabetic neuropathic pain using case and control definitions matched with previous population-based epidemiological studies and the results suggested two loci that may be involved with painful diabetic neuropathy
+0	neuropathic pain	NA	NA	DISCUSS	Standard protocols of the assessment of neuropathic pain have been widely agreed for specialist settings and primary care.
+0	neuropathic pain	NA	NA	DISCUSS	However, there is no common approach or consensus reached by clinicians or researchers to define neuropathic pain in population-based settings or in general cohorts.
+0	neuropathic pain	NA	NA	DISCUSS	As GoDARTS participants were recruited through community-based clinics and general hospitals, there is no formal record of neuropathic pain status made by specialists.
+0	NA	NA	NA	DISCUSS	We acknowledge that expert clinical examination would have increased the robustness of the case definition in this cohort.
+0	neuropathic pain	NA	NA	DISCUSS	However, without clinical examination evidence, it is reasonable to use an alternative, acceptable definition to represent neuropathic pain cases.
+0	neuropathic pain	NA	NA	DISCUSS	We adopted a pragmatic approach to define cases using a multiple prescription history of the five main drugs used exclusively or mainly to treat neuropathic pain (rather than other disorders) in a diabetic population.
+0	diabetes	NA	NA	DISCUSS	A combination of diagnostic codes for type 2 diabetes and prescription of neuropathic pain drugs has been used in previous epidemiological studies to identify patients with painful diabetic neuropathy.
+0	diabetes	NA	NA	DISCUSS	Members of our population-based cohort were already identified as having type 2 diabetes, and so our method of identifying neuropathic pain makes this study reasonably consistent with these previous studies.
+0	neuropathic pain	NA	NA	DISCUSS	While amitriptyline, carbamazepine, and nortriptyline are also frequently used in neuropathic pain, we considered that these are relatively likely to be used for indications other than neuropathic pain and we did not include individuals who had been prescribed these drugs as either cases or controls.
+0	neuropathic pain	NA	NA	DISCUSS	To have a more homogeneous population, we removed individuals with only a single prescription of the five neuropathic pain drugs from both cases and controls.
+0	neuropathic pain	NA	NA	DISCUSS	It has previously been highlighted that patients in primary care with neuropathic pain are often not prescribed any of the specific medications for its treatment.
+0	pain	NA	NA	DISCUSS	As there is no pain status recorded in the GoDARTS, no direct assessment of the presence of (neuropathic) pain can be made among cases or controls.
+0	pain	NA	NA	DISCUSS	Furthermore, we did not assess whether cases or controls had received any other prescriptions for pain, such as opioid medications, and it is possible that some with neuropathic pain were treated with drugs that are not specifically indicated for this.
+0	neuropathic pain	NA	NA	DISCUSS	Therefore the definition in our study is possible to have classified some who have neuropathic pain as controls but few controls as cases.
+0	NA	NA	NA	DISCUSS	The subsequent P values and ORs may be underestimated, though we cannot measure the extent of this
+0	NA	NA	rs35260355	DISCUSS	The most significant SNP cluster in the overall dataset was found in Chr1p35.1 with a lowest P value of 3.84 x 10- 7 at rs35260355, spanning ZSCAN20-TLR12P area.
+0	NA	ZSCAN20	NA	DISCUSS	The function of ZSCAN20 (zinc finger and SCAN domain containing 20) gene is not known yet and it has not been noted to be associated with any disorders.
+0	NA	NA	NA	DISCUSS	One of the proteins it codes contain typical C2H2 zinc finger domain, which enables zinc finger protein to bind other molecules such as RNA and DNA and affect transcription and translation.
+0	neuropathic pain	NA	NA	DISCUSS	There have been attempts to use zinc finger proteins to treat neuropathic pain since the receptor specific transcription factors of zinc-finger proteins have been developed to target gene repression in cell line models and in vitro.
+0	NA	NA	rs71647933	DISCUSS	It is worth noting that the top SNP from the female only dataset rs71647933 is suggested to be a transcription factor binding site of the zinc interaction domain (SNPnexus).
+0	NA	NA	NA	DISCUSS	Toll-like receptors (TLRs) are a class of proteins which exist in various cell types in the central nervous system, including neuronal and non-neuronal cells.
+0	NA	NA	NA	DISCUSS	TLRs share structural and functional similarities.
+0	neuropathic pain	TLR2	NA	DISCUSS	Specifically, the deletion or inhibition of TLR2 and TLR4 in animal models will impair nerve injury-induced neuropathic pain.
+0	neuropathic pain	TLR4	NA	DISCUSS	When using a TLR4 antagonist to treat both wild type mice and TLR4 knockout mice suffering neuropathic pain, pain relief can be achieved in the wild type mice but not in the TLR4 knockout mice.
+0	NA	TLR12P	NA	DISCUSS	TLR12P is a unitary pseudogene with a transcript but there is no protein product of this gene in the human.
+0	NA	NA	NA	DISCUSS	The function of its homolog in mice is unclear although it is suggested it may be involved in the immune system against pathogens.
+0	abnormal sensations	NA	NA	DISCUSS	There is emerging evidence showing that TLRs are involved in the control of (neuropathic) pain while the mechanisms are still far from being elucidated.
+0	diabetic neuropathic pain	NA	NA	DISCUSS	In the females only dataset (1730 individuals), the P value of the SNPs in the cluster were lower than in the overall dataset, indicating that the male samples were not contributing so much to the associations in this cluster, and that the identified ZSCAN20-TLR12P locus has a gender specific influence on diabetic neuropathic pain.
+0	NA	NA	NA	DISCUSS	This is consistent with the findings of other TLR genes.
+0	NA	NA	NA	DISCUSS	Studies have found that variants in TLR genes are gender-specifically linked with multiple situations.
+0	insufficient	NA	NA	DISCUSS	The mechanism of sex-specific phenomena is not clear and the evidence for hormone involvement is insufficient and controversial
+1	NA	HMGB1P46	rs6986153	DISCUSS	We also identified a peak in the Chr8p23.1 next to HMGB1P46 when analysing the male only dataset, and the P value of the top SNP rs6986153 was 8.02 x 10- 7 with an OR of 1.67.
+1	NA	HMGB1P46	NA	DISCUSS	HMGB1P46 is a pseudogene of high mobility group box-1 (HMGB1).
+0	pain	high mobility group box-1	NA	DISCUSS	It is suggested that the induction of high mobility group box-1 in the dorsal root ganglion can contribute to pain hypersensitivity after peripheral nerve injury.
+0	hyperalgesia	HMGB1	NA	DISCUSS	In addition, Feldman et al found that the persistent endogenous release of HMGB1 by sensory neurons contributes to tactile hyperalgesia in a neuropathic pain rat model.
+0	nerve injury	high mobility group box-1	NA	DISCUSS	The synthesis and release of HMGB1 from spinal neurons due to nerve injury facilitates the activity of both microglia and neurons which leads to symptoms of neuropathic pain.
+0	NA	high mobility group box-1	NA	DISCUSS	It is interesting to know that HMGB1 signalling and TLR pathways, to some extent, are overlapping together.
+0	NA	NA	NA	DISCUSS	There is evidence that pseudogenes are involved in the biological process.
+0	NA	HMGA1	NA	DISCUSS	For example, the low level of high mobility group A1 (HMGA1) was also associated with a high level of HMGA1 pseudogene (HMGA1-p) mRNA.
+0	diabetes	HMGA1-p	NA	DISCUSS	It was observed that knockdown of HMGA1-p RNA in the cells of diabetic patients led to partially restored HMGA1 mRNA levels which suggested a competing relationship between the two types of transcripts.
+0	NA	high mobility group box-1	NA	DISCUSS	It is therefore hypothesised that a competing relationship might also exist between HMGB1 and its pseudogenes
+0	NA	NA	NA	DISCUSS	There were no SNPs found with a P value of less than 5 x 10- 8 in the overall dataset, male only or female only datasets.
+0	NA	NA	NA	DISCUSS	Although a P value of 5 x 10- 8 is generally adopted as the cut-off P value for GWAS significance, it has been suggested that this might be too stringent and risks missing important associations (i.e.
+0	NA	NA	NA	DISCUSS	false negatives).
+0	NA	NA	NA	DISCUSS	Using a lower threshold raises the chance of detecting associated SNPs, but also of detecting spurious associations (false positives), and we need to beware of that in interpreting this study.
+0	diabetic neuropathic pain	NA	NA	DISCUSS	The narrow-sense heritability (variance explained by SNPs, excluding genetic variation due to dominance, epistasis, and environment) of diabetic neuropathic pain in the overall dataset was estimated to be 14.7%, which is similar to that found in our previous analysis.
+0	NA	NA	NA	DISCUSS	However when calculated by gender, we found males had a higher heritability (30.0%) than females (14.7%).
+0	NA	NA	NA	DISCUSS	Sex-specific heritability has been observed in other traits.
+0	NA	NA	NA	DISCUSS	The reasons behind the different gender-specific heritabilities are unknown although it may result from parent-of-origin effects, interaction with sex chromosomes and the sex-specific hormonal environment.
+0	neuropathic pain	NA	NA	DISCUSS	It is worth considering sex-specific genetic effects in future association studies of neuropathic pain.
+0	pain	NA	NA	DISCUSS	There are some reports indicating that genetic effects are different between genders in determining pain.
+0	analgesia	Mc1r	NA	DISCUSS	Experiments in mice found that the Mc1r gene mediates kappa-opioid analgesia in female mice only.
+0	NA	MC1R	NA	DISCUSS	Correspondingly in a human study, females with two variant MC1R alleles showed greater analgesic responses from the kappa-opioid, pentazocine, than males and females who did not have the variant alleles.
+0	pain	OPRM1	NA	DISCUSS	In addition, polymorphisms in the OPRM1 gene have been reported to be associated with pressure-related pain sensitivity in men but not in women.
+0	pain	OPRM1	NA	DISCUSS	Sato et al found that there were significant associations between the opioid receptor genes (OPRM1, OPRD1 and opioid OPRK1) and experimental pain sensitivity.
+0	neuropathic pain	NA	NA	DISCUSS	Our results showing genetic differences associated with neuropathic pain between genders are consistent with these findings, though the biological mechanisms remain unclear and highlight the need for further research in this area.
+0	neuropathic pain	NA	NA	DISCUSS	The heritability of neuropathic pain has been calculated as around 30% in rat models, similar to that measured here among men, though twice that found among women.
+0	neuropathic pain	NA	NA	DISCUSS	Using an additive model integrated in the CaTS, we had 80% power for the overall dataset (961 cases and 3260 controls), assuming a minor disease allele frequency of 0.20, a genotypic relative risk for this variant of 1.31, a prevalence of neuropathic pain in the diabetic population of 0.25, and the significance level is 10- 6.
+0	Neurological and Communication Disorders	NA	NA	DISCUSS	In our previous analysis, our case definition also included evidence of neuropathy, based on recorded results of monofilament testing.
+0	NA	NA	NA	DISCUSS	As we did not consider the results of monofilament testing in this study, our case definition was more inclusive and therefore less specific.
+0	neuropathic pain	NA	NA	DISCUSS	Although there are power benefits of including more cases, there is also a possibility that neuropathic pain with and without neuropathy evidence might have separate genetic risk markers, as well as shared genetic mechanisms.
+0	neuropathic pain	NA	NA	DISCUSS	No studies have been reported examining whether there is any genetic difference between neuropathic pain with and without neuropathy evidence.
+0	neuropathic pain	NA	NA	DISCUSS	The peaks we have identified in this paper could reflect some 'general' genetic mechanisms of neuropathic pain while the different peaks identified in our previous GWAS may be specifically associated with neuropathic pain with neuropathy evidence.
+0	NA	NA	NA	DISCUSS	In other disorders, a phenotype and its subtypes have been shown to have both shared and different genetic risks.
+0	diabetic neuropathic pain	NA	NA	DISCUSS	Similarly, we did not remove those who were prescribed strong opioid drugs from the control group since opioid drugs are neither indicated first- or second-line treatments, nor commonly used to treat diabetic neuropathic pain.
+0	NA	NA	NA	DISCUSS	A good phenotype, endophenotype and subgroup definition should aim to reflect the underlying genetic mechanisms
+0	pain	NA	NA	DISCUSS	There are some recent GWAS published in the field of pain research.
+0	pain	CCT5	NA	DISCUSS	A locus between CCT5 and FAM173B located at Chr5p15.2 has been proposed to be associated with chronic widespread pain.
+0	postoperative pain	TAOK3	NA	DISCUSS	TAOK3 was suggested to be associated with morphine requirement and postoperative pain in a retrospective paediatric day surgery population.
+0	fibromyalgia	MYT1L	Rs11127292	DISCUSS	Rs11127292 in the MYT1L was found to be associated to fibromyalgia with low comorbidities.
+0	NA	NA	rs2952768	DISCUSS	Another GWAS study suggested rs2952768 in the Chr2q33.3 was involved with analgesic requirements in humans.
+0	pain	NA	NA	DISCUSS	These GWAS have shed light on the elucidation of the genetic pathways for pain while further research is needed, including replication studies, functional studies, and agreement on feasible, valid and reproducible phenotype ascertainment
+0	neuropathic pain	NA	NA	DISCUSS	The limitations of our study include that the P values of tops SNPs are only close to GWAS significance but yet reached; no replication study to confirm the results; though the case definition is matched with those used epidemiological studies, we might misclassify some cases who have neuropathic pain but not prescribed medications into controls; we might also misclassify an individual into a control group who uses opioid to treat neuropathic pain
+1	neuropathic pain	NA	NA	DISCUSS	We have provided genetic evidence that SNPs in Chr1p35.1 (ZSCAN20-TLR12P) and Chr8p23.1 (HMGB1P46) may be involved with neuropathic pain in diabetes.
+0	NA	NA	NA	DISCUSS	Sex-specific associations are also suggested.
+0	NA	NA	NA	DISCUSS	Our findings should be treated with caution and, while we have also presented their consistency with known biological factors, they can only guide the nature of future research, which will be based on the findings reported in this paper.
+0	neuropathic pain	NA	NA	DISCUSS	Any replication of our findings will help to confirm hypothesised pathways involved in the genetic mechanisms of neuropathic pain and provoke research on new potential drug targets for the treatment of pain
+0	NA	NA	NA	FIG	Q-Q plot expected and observed log10(1/P) values.
+0	NA	NA	NA	FIG	Only SNPs with P values less than 0.01 were used and P values were multiplied to 100 before plotting
+0	NA	NA	NA	DISCUSS	The following is the supplementary data related to this article
+0	NA	NA	NA	DISCUSS	Supplementary data to this article can be found online at http://dx.doi.org/10.1016/j.ebiom.2015.08.001
+0	NA	NA	NA	AUTH_CONT	WM analysed the data and prepared the manuscript.
+0	HD	NA	NA	AUTH_CONT	HD contributed to the imputation dataset.
+0	NA	NA	NA	AUTH_CONT	YL contributed to e-health linkage dataset.
+0	NA	NA	NA	AUTH_CONT	HC read the paper and provided suggestions to the discussion.
+0	NA	NA	NA	AUTH_CONT	NT and CP reviewed the paper and made a contribution to the discussion.
+0	NA	NA	NA	AUTH_CONT	BS contributed to the design of the study, and contributed significantly to the manuscript
+0	NA	NA	NA	ACK_FUND	Funding sources did not have any involvement in the study design; the collection, analysis and interpretation of data; writing of the report; or the decision to submit the article for publication
+0	neuropathic pain	NA	NA	FIG	Manhattan plot of the GWAS on neuropathic pain in the overall dataset
+0	NA	NA	NA	FIG	X axis represents 22 autosomes.
+0	NA	NA	NA	FIG	Y axis means the -log10 of P values.
+0	NA	NA	NA	FIG	The blue line is the cut-off P value of 10- 6.
+0	NA	NA	NA	FIG	Cases and controls included 961 and 3260 samples, respectively.
+0	NA	NA	NA	FIG	(Only SNPs whose P < 0.01 were used to make the plot)
+0	neuropathic pain	NA	NA	FIG	Manhattan plot of the GWAS on neuropathic pain in the female only dataset
+0	NA	NA	NA	FIG	X axis represents 22 autosomes.
+0	NA	NA	NA	FIG	Y axis means the -log10 of P values.
+0	NA	NA	NA	FIG	The blue line is the cut-off P value of 10- 6.
+0	NA	NA	NA	FIG	Cases and controls included 491 and 1239 individuals, respectively
+0	NA	NA	NA	FIG	(Only SNPs whose P < 0.01 were used to make the plot)
+0	neuropathic pain	NA	NA	FIG	Manhattan plot of the GWAS on neuropathic pain in the male only dataset
+0	NA	NA	NA	FIG	X axis represents 22 autosomes.
+0	NA	NA	NA	FIG	Y axis means the -log10 of P values.
+0	NA	NA	NA	FIG	The blue line is the cut-off P value of 10- 6.
+0	NA	NA	NA	FIG	Cases and controls included 470 and 2021 individuals, respectively
+0	NA	NA	NA	FIG	(onLy SNPs whose P < 0.01 were used to make the plot)
+0	NA	NA	NA	TABLE	Significant SNPs in the overall, female only and male only dataset

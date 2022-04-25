@@ -1,0 +1,160 @@
+0	Diabetes Complications	NA	NA	ABSTRACT	Skin fluorescence (SF) noninvasively measures advanced glycation end products (AGEs) in the skin and is a risk indicator for diabetes complications.
+0	NA	N-acetyltransferase 2	NA	ABSTRACT	N-acetyltransferase 2 (NAT2) is the only known locus influencing SF.
+0	insulin-treated diabetes	NA	NA	ABSTRACT	We aimed to identify additional genetic loci influencing SF in type 1 diabetes (T1D) through a meta-analysis of genome-wide association studies (N = 1,359) including Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications (DCCT/EDIC) and Wisconsin Epidemiologic Study of Diabetic Retinopathy (WESDR).
+0	NA	NA	rs7533564	ABSTRACT	A locus on chromosome 1, rs7533564 (P = 1.9 x 10-9), was associated with skin intrinsic fluorescence measured by SCOUT DS (excitation 375 nm, emission 435-655 nm), which remained significant after adjustment for time-weighted HbA1c (P = 1.7 x 10-8).
+0	NA	NA	rs7533564	ABSTRACT	rs7533564 was associated with mean HbA1c in meta-analysis (P = 0.0225), mean glycated albumin (P = 0.0029), and glyoxal hydroimidazolones (P = 0.049), an AGE measured in skin biopsy collagen, in DCCT.
+0	diabetes	NA	rs7533564	ABSTRACT	rs7533564 was not associated with diabetes complications in DCCT/EDIC or with SF in subjects without diabetes (nondiabetic [ND]) (N = 8,721).
+0	NA	NA	NA	ABSTRACT	In conclusion, we identified a new locus associated with SF in T1D subjects that did not show similar effect in ND subjects, suggesting a diabetes-specific effect.
+0	diabetes	NA	NA	ABSTRACT	This association needs to be investigated in type 2 diabetes
+0	hyperglycemia	NA	NA	INTRO	Hyperglycemia and duration of diabetes are the two major risk factors for both microvascular (i.e., retinopathy, nephropathy, and neuropathy) and macrovascular (i.e., cardiac) complications of diabetes.
+0	hyperglycemia	NA	NA	INTRO	Hyperglycemia accelerates glycation, the result of nonenzymatic covalent bonding between the amino groups of proteins, lipids, or nucleic acids and reducing sugars (e.g., glucose or fructose), known as Maillard reactions.
+0	NA	NA	NA	INTRO	These early glycation products undergo further complex reactions to become irreversible advanced glycation end products (AGEs).
+0	NA	NA	NA	INTRO	Glycation and accumulation of AGEs in tissues deteriorate their structural integrity and physiological function
+0	long QT syndrome	NA	NA	INTRO	Skin collagens undergo glycation, and due to their long half-life (15 years), they capture decades-long glycemia.
+0	diabetes	NA	NA	INTRO	Skin AGEs measured in skin biopsies have been associated with macro- and microvascular complications of diabetes even after adjustment for mean HbA1c levels over time.
+0	NA	NA	NA	INTRO	However, skin biopsy is an invasive method and is not practical for large studies
+0	NA	NA	NA	INTRO	As some AGEs fluoresce, accumulated levels of AGEs in the skin can be measured noninvasively by optical spectroscopy.
+0	NA	NA	NA	INTRO	Two very similar devices, SCOUT DS (Miraculins, Winnipeg, Manitoba, Canada) and AGE Reader (DiagnOptics Technologies BV, Groningen, the Netherlands), both reliably measure skin fluorescence (SF) with high reproducibility.
+0	Diabetes Complications	NA	NA	INTRO	SF has been associated with both micro- and macrovascular complications of diabetes.
+0	NA	NA	NA	INTRO	The associations remained significant even after adjustment for decades-long HbA1c, suggesting that SF can capture both glycemic and nonglycemic aspects of tissue damage
+0	NA	NA	NA	INTRO	Barat et al.
+0	insulin-treated diabetes	NA	NA	INTRO	compared SF in children with type 1 diabetes (T1D) and their siblings without diabetes (nondiabetic [ND]) and observed a significant correlation of SF levels among siblings even after adjustment for HbA1c and age.
+0	skin and eye pigmentation	NA	NA	INTRO	Another study found familial correlation of SF in 50 mothers and their children with T1D after adjustment for skin pigmentation and race.
+0	NA	NA	NA	INTRO	Both studies suggest that shared genetic and/or environmental factors between family members influence SF.
+0	glucose homeostasis	NA	NA	INTRO	Although there have been no twin studies of SF, a twin study of lens autofluorescence, a related phenotype, showed that heritability contributed ~28% to interindividual variation after adjustment for age, glucose homeostasis, and smoking habits.
+0	diabetes	NA	NA	INTRO	Recently, two genome-wide association studies (GWAS) of SF were performed in parallel: the Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications (DCCT/EDIC), including T1D subjects, and LifeLines, including mainly ND subjects.
+0	NA	N-acetyltransferase 2	NA	INTRO	N-acetyltransferase 2 (NAT2) was the only locus that exceeded the genome-wide significance threshold in both GWAS.
+0	diabetes	NA	NA	INTRO	These results were replicated in two independent studies of T1D subjects, the Wisconsin Epidemiologic Study of Diabetic Retinopathy (WESDR) and Pittsburgh Epidemiology of Diabetes Complications (EDC), and in an independent study of mainly ND subjects, LonGenity.
+0	diabetes	N-acetyltransferase 2	NA	INTRO	The NAT2 effect appeared to be stronger in subjects with T1D with higher levels of HbA1c over time and in subjects with type 2 diabetes (T2D) compared with ND subjects, suggesting larger genetic effects in those with chronic hyperglycemia
+0	NA	NA	NA	INTRO	We believe that there is a continuum of loci with different effect sizes on SF.
+0	NA	NA	NA	INTRO	Therefore, in the current study, we aimed to identify additional genetic loci influencing SF in T1D subjects through a meta-GWAS and to determine whether the identified loci show similar associations in ND and T2D subjects
+0	NA	NA	NA	METHODS	We performed a meta-GWAS of skin intrinsic fluorescence (SIF) on directly genotyped and imputed single nucleotide polymorphisms (SNPs) from individuals with T1D of European ancestry from two studies, DCCT/EDIC and WESDR.
+0	NA	NA	NA	METHODS	Then, association of the identified locus with SF was investigated in two other studies, LonGenity and LifeLines, including mainly ND subjects with a subset of subjects with T2D (Table 1, Supplementary Table 1, and Supplementary Fig.
+0	NA	NA	NA	METHODS	1)
+0	NA	NA	NA	METHODS	In all four studies, ungenotyped autosomal SNPs were imputed using 1000 Genomes data (worldwide reference panel of all 1,092 samples from the phase I integrated variant set) (v3, released March 2012) using IMPUTE2, version 2.3.0 (https://mathgen.stats.ox.ac.uk/impute/impute_v2.html)
+0	Diabetes Complications	NA	NA	METHODS	In DCCT/EDIC and WESDR, both genotyped and imputed autosomal SNPs were tested for association primarily with SIF1 (excited at 375 nm, emission range 435-655 nm, kx 0.6, km 0.2, natural log transformed), with the SIF having strongest association with diabetes complications, by SNPTEST, version 2.5 (https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html#introduction), using dosage data.
+0	NA	N-acetyltransferase 2	rs1495741	METHODS	Factors influencing SIF including age, sex, skin tone, clinic latitude, smoking status, and estimated glomerular filtration rate (eGFR) (Supplementary Table 2), as well as NAT2 rs1495741 genotype, coded additively, were included in the model as covariates with the aim of increasing statistical power (Table 1)
+0	NA	N-acetyltransferase 2	NA	METHODS	Association of only genotyped SNPs on chromosome X was tested with SIF1 (natural log transformed) in DCCT/EDIC and WESDR using linear regression under additive genetic model adjusting for the factors mentioned above, except for the NAT2 SNP, using PLINK, version 1.07 (http://pngu.mgh.harvard.edu/~purcell/plink/)
+0	NA	NA	NA	METHODS	SNPs with a minor allele frequency (MAF) of >0.01 and high imputation quality (INFO >0.80) were included in meta-analysis performed using METAL, version 1.5 (http://www.sph.umich.edu/csg/abecasis/Metal/index.html), with the STDERR method.
+0	NA	NA	NA	METHODS	P values <=5E-8 were considered genome-wide significant
+0	NA	NA	NA	METHODS	The GWAS in DCCT/EDIC and WESDR were repeated including the newly identified SNP genotype (coded additively) as a covariate in the model, and subsequently, the results were combined through meta-analysis using METAL, version 1.5, with the STDERR method
+0	SIF2-15	N-acetyltransferase 2	NA	METHODS	Association of identified SNPs was tested with the other SIFs (SIF2-15) similar to SIF1 in both DCCT/EDIC and WESDR considering that NAT2 SNP showed strongest association with SIF12 (Supplementary Fig.
+0	NA	NA	NA	METHODS	1)
+0	NA	NA	NA	METHODS	In all four studies, the genotypes of identified SNPs were extracted from dosage data according to the best guess (threshold for calling genotypes = 0.80) using GTOOL, version 0.7.5 (http://www.well.ox.ac.uk/~cfreeman/software/gwas/gtool.html).
+0	NA	NA	NA	METHODS	Subsequently, extracted genotypes were used for further analyses performed in SAS, version 9.3 (SAS, Cary, NC)
+0	NA	NA	NA	METHODS	Association of the identified locus with SIF1 in LonGenity, and skin autofluorescence (SAF) in LifeLines, was tested among ND and T2D subjects separately using linear regression under an additive genetic model including factors associated with SF (e.g., age, sex, smoking status, and eGFR) (Supplementary Table 2, Table 1, and Supplementary Fig.
+0	NA	NA	NA	METHODS	1)
+0	hypoglycemia	NA	NA	METHODS	The identified SNP was tested for association with each of the covariates in the model as well as a number of related phenotypes including HbA1c, glycated albumin (GA), 7-point capillary blood glucose profiles, hypoglycemia, AGEs measured by skin biopsy, nephropathy, retinopathy, neuropathy, and coronary artery calcification (Supplementary Table 3 and Supplementary Fig.
+0	NA	NA	NA	METHODS	1)
+0	NA	N-acetyltransferase 2	NA	METHODS	For testing of whether association of the identified SNP on SIF1 differs by status of any of the covariates in the model or HbA1c levels, a SNP-covariate/HbA1c interaction term was added in to the model including all covariates (except for NAT2 genotype) in both DCCT/EDIC and WESDR.
+0	NA	NA	NA	METHODS	Similarly, for investigation of whether association of the identified SNP on SIF1 differs by cohort, former treatment group, or caffeine levels (another factor influencing SF) in DCCT/EDIC, a SNP-cohort/group/caffeine interaction term was included in the model
+0	NA	N-acetyltransferase 2	NA	METHODS	The association of identified SNP with SIF1 was also tested separately in subjects with time-weighted HbA1c levels above and below the median using linear regression, along with all the other covariates (except for NAT2 genotype).
+0	NA	NA	NA	METHODS	For testing of whether association of the identified locus with SIF1 is statistically different in subjects having time-weighted HbA1c above and below median, HbA1c was dichotomized, and its interaction with SNP was added to the model
+0	diabetes	NA	NA	METHODS	For investigation of whether association of the identified locus with SIF differs by diabetes status, data from all studies that measured SIF (DCCT/EDIC, WESDR, and LonGenity) were combined.
+0	diabetes	NA	NA	METHODS	"Then, linear regression was used to test whether the association of the SNP with SIF was different between T1D subjects (N = 1,363 from DCCT/EDIC and WESDR) and those without diabetes (N = 453 from two subgroups in LonGenity [designated in that study as ""OPEL"" and ""OPUS""]) by including a SNP-T1D interaction term in the model."
+0	diabetes	NA	NA	METHODS	Linear regression was also used to test whether the association of SNP with SIF differs between subjects with diabetes (N = 1,421 T1D from both DCCT/EDIC and WESDR and T2D from LonGenity) and those without diabetes (N = 453 from OPEL and OPUS) by adding a SNP-diabetes interaction term to the model.
+0	NA	NA	NA	METHODS	Age, sex, smoking status (ever smoker vs. nonsmoker), skin tone, and eGFR at SIF measurement were also included in the model as covariates
+0	NA	NA	NA	METHODS	Br2 (http://www.utstat.toronto.edu/sun/Software/BR2/), which implements a bootstrap-based bias-reduction method to correct for the effect of the winner's curse in GWAS, was used to calculate bias-reduced effect sizes for the SNP identified to be associated with SIF1 in DCCT/EDIC (threshold for significance was 1E-5 for suggestive association).
+0	NA	NA	NA	METHODS	Subsequently, the corrected beta for the identified SNP was used to estimate the required sample size to detect the effect of the identified locus among T2D and ND subjects assuming that the SNP effect is similar to its effect in T1D subjects, using QUANTO, version 1.2.4 (http://biostats.usc.edu/Quanto.html)
+0	NA	NA	NA	RESULTS	A total of 1,359 subjects (1,081 subjects from DCCT/EDIC plus 278 subjects from WESDR) were included in the meta-analysis (Table 1).
+0	T2DM-ESRD	N-acetyltransferase 2	NA	RESULTS	Four subjects were excluded from the analysis: one from DCCT/EDIC owing to missing data regarding NAT2 genotype and three from WESDR owing to having end-stage renal disease at baseline (no eGFR data).
+0	NA	NA	NA	RESULTS	Subject characteristics and distribution of SIFs are summarized in Tables 2 and 3.
+0	NA	NA	NA	RESULTS	In total, 7,735,748 autosomal SNPs having MAF >0.01 and INFO >0.8 in both DCCT/EDIC and WESDR were included in the meta-analysis.
+0	NA	NA	NA	RESULTS	Genomic control was 1.02 (Supplementary Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	rs7533564	RESULTS	We identified two SNPs, rs7533564 (chromosome 1: 78825912 [GRCh37/hg19]; T>C; beta = 0.138; P = 1.88E-9) and rs7533823 (chromosome 1: 78828438; T>G; beta = 0.134; P = 9.31E-9) (Table 4), 2,526 base pairs apart in complete linkage disequilibrium (r2 = 1, D' = 1) associated with SIF1 exceeding the genome-wide significance threshold (Supplementary Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	NA	NA	RESULTS	The SNPs are located within intron 4 of a noncoding RNA, MGC27382, having 6 exons.
+0	NA	prostaglandin F receptor	NA	RESULTS	The nearest gene is prostaglandin F receptor (PTGFR) (Fig.
+0	NA	NA	NA	RESULTS	1)
+0	NA	NA	rs7533564	TABLE	Association of rs7533564 (T>C) with SIFs in DCCT/EDIC and WESD
+0	NA	NA	rs7533564	FIG	Regional plot of 200 kb surrounding rs7533564 with SNP P values from DCCT/EDIC and WESDR meta-GWAS (A) and LifeLines (B), with ND subjects on the left y-axis, their genomic position (GRCh37/hg19) on the x-axis, and estimated recombination rates on the right y-axis.
+0	NA	NA	NA	FIG	The plot was made using LocusZoom (http://locuszoom.sph.umich.edu/locuszoom/).
+0	NA	NA	NA	FIG	The linkage disequilibrium measures and recombination rates are based on the HapMap CEU population (release 22)
+0	NA	NA	rs7533564	RESULTS	rs7533564 was imputed with high quality in DCCT/EDIC (INFO = 0.958) and genotyped in WESDR (Supplementary Fig.
+0	NA	NA	NA	RESULTS	4).
+0	NA	NA	rs7533564	RESULTS	In DCCT/EDIC, we genotyped rs7533564 in a subset (53 common homozygotes and 34 heterozygotes) using TaqMan assays, and genotypes for all 87 subjects perfectly matched with the best guess from imputation.
+0	NA	NA	NA	RESULTS	There was no deviation from Hardy-Weinberg equilibrium in either study (P = 1).
+0	NA	NA	rs7533564	RESULTS	Considering the low MAF (0.020 and 0.022 in DCCT/EDIC and WESDR, respectively), none of the subjects in DCCT/EDIC or WESDR were homozygous for minor allele of rs7533564 (CC).
+0	NA	NA	NA	RESULTS	Heterozygous subjects (TC) (N = 43 and 12 in DCCT/EDIC and WESDR, respectively) had higher levels of SIF1 compared with TT homozygotes (N = 1,038 and 266 in DCCT/EDIC and WESDR, respectively) in both DCCT/EDIC (LnSIF1 mean [SD] 3.22 [0.29] vs. 3.09 [0.20]; Delta = 0.13) and WESDR (LnSIF1 mean [SD] 3.33 [0.18] vs. 3.17 [0.22)]; Delta = 0.16) (Fig.
+0	NA	NA	NA	RESULTS	2), and the effect sizes were similar in both studies, with no evidence for heterogeneity (Table 4)
+0	NA	NA	rs7533564	FIG	Bee swarm plots showing level of SIF1 for each participant in the DCCT/EDIC and WESDR according to rs7533564 genotype.
+0	NA	NA	NA	FIG	SIF1 is natural log transformed
+0	SIF2-15	NA	rs7533564	RESULTS	rs7533564 showed strong association with SIF2-15, which were highly correlated to SIF1 and to each other (Supplementary Table 4), with slightly less significant P values (Table 4)
+0	NA	NA	rs7533564	RESULTS	After inclusion of rs7533564 in the model, no other SNP reached the genome-wide threshold in DCCT/EDIC or WESDR or in the meta-analysis (Supplementary Figs.
+0	NA	NA	NA	RESULTS	2 and 3)
+0	NA	NA	NA	RESULTS	None of the SNPs on chromosome X reached the genome-significant threshold in DCCT/EDIC (N = 25,095), WESDR (N = 18,156), or the meta-analysis (N = 11,702)
+0	NA	NA	rs7533564	RESULTS	rs7533564 was not significantly associated with SIF1 in 447 ND and 55 T2D subjects from LonGenity or with SAF in 8,702 ND and 318 T2D subjects from the LifeLines cohort study (Table 5)
+0	NA	NA	rs7533564	TABLE	Association of rs7533564 (T>C) with SIF1/SAF in LonGenity and LifeLine
+0	NA	NA	rs7533564	RESULTS	Using data from the three studies that measured SIF, there was significant heterogeneity of an rs7533564 effect on SIF1 dependent on T1D status (beta [SE] 0.097 [0.040], P = 0.0157).
+0	diabetes	NA	NA	RESULTS	Similarly, there was also heterogeneity of SNP effect by diabetes status (T1D or T2D vs. ND) on SIF1 (beta [SE] 0.090 [0.040], P = 0.0263)
+0	NA	NA	rs7533564	RESULTS	rs7533564 was not significantly associated with any of the covariates in the model in DCCT/EDIC or WESDR (Supplementary Table 5).
+0	NA	NA	NA	RESULTS	However, in DCCT/EDIC, the SNP had a positive interaction with smoking status during EDIC years 11-16 (P = 0.003) and a negative interaction with skin tone (P = 0.016) affecting SIF1.
+0	NA	NA	NA	RESULTS	In addition, there was a significant interaction with DCCT former treatment group (P = 0.020); the SNP effect was larger in the former conventional group than in the intensive group (beta [SE] 0.191 [0.037] vs. 0.072 [0.038]).
+0	NA	NA	NA	RESULTS	This interaction remained significant after adjustment for time-weighted HbA1c (P = 0.005).
+0	NA	NA	rs7533564	RESULTS	There was also a positive interaction between rs7533564 and mean caffeine consumption during both DCCT (P = 2.66E-4) and EDIC (P = 0.0142) (Supplementary Tables 6 and 7)
+0	SIF2-15	NA	NA	RESULTS	Time-weighted HbA1c was significantly associated with SIF1-15, explaining 5.2-8.2% and 2.9-8.3% of their variation in DCCT/EDIC and WESDR, respectively (Supplementary Table 8)
+0	NA	NA	rs7533564	RESULTS	The association of rs7533564 with SIF1 was independent of HbA1c levels and remained strongly significant after further adjustment for time-weighted HbA1c in both DCCT/EDIC (beta [SE] 0.127 [0.025], P = 5.49E-7) and WESDR (beta [SE] 0.121 [0.048], P = 0.011) as well as in the meta-analysis (beta [SE] 0.126 [0.022], P = 1.65E-8)
+0	NA	NA	rs7533564	RESULTS	Although association of rs7533564 with time-weighted HbA1c was not statistically significant in DCCT/EDIC (P = 0.099) or WESDR (P = 0.090) separately (Supplementary Table 5), it was statistically significant in meta-analysis (beta [SE] 0.292 [0.128], P = 0.023).
+0	NA	NA	rs7533564	RESULTS	Association of rs7533564 with time-weighted HbA1c in the meta-analysis did not remain significant after adjustment for SIF1 (beta [SE] 0.138 [0.126], P = 0.27)
+0	NA	NA	rs7533564	RESULTS	In addition, rs7533564 was positively associated with HbA1c at WESDR follow-up years 25 (P = 0.0088) and 30 (P = 0.0379) (Supplementary Table 9), and there was a positive interaction between the SNP and mean HbA1c during DCCT (P = 0.009) affecting SIF1 (Supplementary Table 6)
+0	NA	NA	rs7533564	RESULTS	The estimate of rs7533564 effect on SIF1 was greater for subjects having time-weighted HbA1c levels above median (beta [SE] 0.147 [0.036], P < 0.0001) in DCCT/EDIC compared with those having time-weighted HbA1c level below median (beta [SE] 0.098 [0.038], P = 0.0096).
+0	NA	NA	NA	RESULTS	However, the difference in the SNP effect on SIF1 between the two groups was not statistically significant (P = 0.428).
+0	NA	NA	NA	RESULTS	In contrast, in WESDR, the effect estimate was smaller in subjects having time-weighted HbA1c levels above median (beta [SE] 0.075 [0.056], P = 0.182) compared with below median (beta [SE] 0.228 [0.100], P = 0.0241).
+0	NA	NA	NA	RESULTS	However, similar to DCCT/EDIC, the difference between the two groups was not statistically significant (P = 0.165)
+0	NA	NA	NA	RESULTS	The mean GA in a subset of participants measured during DCCT (27.37 mg/mL [SD 6.58]) was associated with SIF1 in all 10 imputed data sets (average beta [SE] 0.007 [0.002], P = 0.0024) (Supplementary Table 10)
+0	NA	NA	rs7533564	RESULTS	rs7533564 was associated with mean GA during DCCT in all 10 imputed data sets (N = 455; average beta [SE] 0.119 [0.040], P = 0.0029).
+0	cardiovascular disease	NA	NA	RESULTS	This association remained significant after further adjustment for indicators of the three case-control statuses (i.e., cardiovascular disease, retinopathy, and nephropathy) (average beta [SE] 0.110 [0.038], P = 0.0041).
+0	NA	NA	rs7533564	RESULTS	rs7533564 was still associated with mean GA during DCCT after further adjustment for SIF1 (average beta [SE] 0.098 [0.043], P = 0.022) (Supplementary Table 11).
+0	NA	NA	NA	RESULTS	The SNP did not show any significant interaction with any of the complications affecting mean GA and was not associated with any of them in the GA subset
+0	NA	NA	NA	RESULTS	Mean blood glucose during DCCT (190.59 mg/dL [SD 53.26]) was associated with SIF1 (beta [SD] = 0.0005 [0.0002], P = 0.0019 [adjusted for former treatment group]).
+0	NA	NA	rs7533564	RESULTS	rs7533564 was not associated with mean blood glucose during DCCT (beta [SE] 0.041 [0.029], P = 0.164) and was not associated with repeated measures of pre- or postprandial blood glucose either
+0	retinopathy and nephropathy complications	NA	rs7533564	RESULTS	rs7533564 was not associated with nephropathy (Supplementary Tables 12 and 13), retinopathy (Supplementary Table 14), neuropathy, coronary artery calcification, or hypoglycemia (Supplementary Table 12)
+0	NA	NA	NA	RESULTS	Characteristics of AGEs measured by skin biopsy are summarized in Supplementary Table 15.
+0	diabetes	NA	NA	RESULTS	Furosine, fructose-lysine, glucosepane, and total glucose-bound skin biopsy AGEs were positively associated with SIF1 in the multivariate analysis (adjusted for age, duration of diabetes, and treatment group).
+0	NA	NA	NA	RESULTS	Additional AGEs were also associated with SIF1 in the univariate analysis (Supplementary Table 15).
+0	NA	G-H1	rs7533564	RESULTS	rs7533564 was associated with higher levels of glyoxal hydroimidazolones (G-H1) in the multivariate analysis (beta [SE] 1.374 [0.694], P = 0.0494) (Table 6)
+0	NA	NA	NA	DISCUSS	We used meta-GWAS of two T1D studies, DCCT/EDIC and WESDR, to identify a new locus on chromosome 1 associated with SIF1 (excitation 375 nm, emission 435-655 nm) at genome-wide significance level.
+0	NA	NA	rs7533564	DISCUSS	The C allele of rs7533564 (T>C) was associated with higher levels of SIF1 in both studies, explaining 1.5 and 2.5% of the variation in SIF1 in DCCT/EDIC and WESDR, respectively.
+0	SIF2-15	N-acetyltransferase 2	rs7533564	DISCUSS	rs7533564 showed similar associations in terms of effect direction and size with SIF2-15 (excitation 375-456 nm, emission 435-655 nm) but at slightly less significance, whereas NAT2, the previously identified locus, had the strongest association with SIF12 (excitation 435 nm, emission 470-655 nm) with much larger effect size compared with SIF1
+0	NA	NA	rs7533564	DISCUSS	rs7533564 did not show similar association with SF in a large population of ND subjects (LifeLines) or in a small population of T2D subjects, suggesting that the effect of SNP on SF is restricted to T1D subjects.
+0	NA	NA	rs7533564	DISCUSS	The bias-reduced effect estimate for rs7533564 on SIF1 was 0.071 in DCCT/EDIC.
+0	NA	NA	NA	DISCUSS	With use of this estimate, at least 1,585 subjects would be required to detect the effect with good power (1-beta = 80%) for SIF1 (mean [SE] 3.10 [0.20]) with type I error rate (two sided) 0.05 and allele frequency 0.02.
+0	NA	NA	NA	DISCUSS	Therefore, our study did not have sufficient power to detect an association in T2D subjects (N = 376 including 318 and 58 T2D subjects from LifeLines and LonGenity, respectively) if we assume that the SNP effect is as large as in T1D subjects.
+0	diabetes	NA	NA	DISCUSS	However, diabetes duration was much longer in T1D subjects compared with T2D subjects, and diabetes duration is associated with higher levels of AGEs in the skin as well as SF.
+0	hyperglycemia	NA	NA	DISCUSS	In addition, former intensive therapy in DCCT, which results in lower levels of HbA1c, attenuated the effect of the SNP on SIF1 in DCCT/EDIC, indicating that the SNP effect is larger in those who have experienced higher levels of hyperglycemia, and T1D subjects had higher levels of HbA1c over time than T2D subjects (Table 2).
+0	hyperglycemia	NA	NA	DISCUSS	Therefore, the SNP effect may be larger in those who have been exposed to higher levels of hyperglycemia for a longer period of time and consequently accumulated more AGEs in skin.
+0	diabetes	NA	NA	DISCUSS	Similarly, in ND subjects the effect size could be smaller than in those with diabetes, as they were not exposed to hyperglycemia, and larger studies would be needed to detect this.
+0	diabetes	NA	NA	DISCUSS	The interaction analysis also suggested that the SNP effect on SIF differs by diabetes status: having T1D or diabetes in general (i.e., T1D or T2D) compared with ND.
+0	NA	NA	NA	DISCUSS	The other point to consider is that in T1D subjects, SIF was measured by SCOUT DS, whereas in the majority of our T2D and ND subjects, SAF was measured using AGE Reader.
+0	NA	NA	NA	DISCUSS	Although the two devices use similar technology, they use different protocols to correct and calculate the final value, which is reported by both in arbitrary units, and to our knowledge the two devices have never been directly compared.
+0	NA	NA	NA	DISCUSS	We included nongenetic factors influencing SF in the model, and it is unlikely that the results were confounded by any of these factors.
+0	NA	NA	NA	DISCUSS	Besides, the identified SNP was not associated with any except for HbA1c
+0	NA	NA	rs7533564	DISCUSS	Association of rs7533564 with SIF was independent of mean HbA1c over time.
+0	hyperglycemia	NA	NA	DISCUSS	However, the SNP was associated with higher levels of both time-weighted HbA1c and mean GA, indicating that at least part of this association is due to hyperglycemia over decades prior to SIF measurement.
+0	NA	NA	NA	DISCUSS	The association with mean GA appeared to be partly independent of its association with SIF, and the SNP was not associated with blood glucose levels, but both measurements were obtained during the DCCT, ~16-26 years before SIF measurement, and did not reflect glycemia when SIF was measured
+0	NA	NA	rs7533564	DISCUSS	We could not confirm whether the SNP effect differed by mean HbA1c over time, as the results from DCCT/EDIC and WESDR were discrepant (e.g., rs7533564 effect on SIF1 appeared to be greater in subjects having higher levels of HbA1c over time in DCCT/EDIC, whereas the opposite was observed in WESDR) and statistically not significant, most probably due to lack of statistical power, especially in WESDR.
+0	NA	NA	NA	DISCUSS	In addition, there were some differences between DCCT/EDIC and WESDR in terms of age, mean eGFR, and mean HbA1c over time, which makes interpreting the results difficult (Table 2).
+0	NA	NA	NA	DISCUSS	Besides, HbA1c was measured annually in DCCT/EDIC, whereas it was measured approximately every 5 years in WESDR
+0	NA	NA	rs7533564	DISCUSS	rs7533564 had positive interaction with smoking status during the 6 years prior to SIF measurement (EDIC years 11-16) and with mean caffeine during both DCCT and EDIC, suggesting that smoking and caffeine consumption could augment its effect on SIF1.
+0	NA	NA	NA	DISCUSS	In contrast, the negative interaction between the SNP and skin tone indicated that the SNP effect could be attenuated in subjects with darker skin
+0	hypoglycemia	NA	NA	DISCUSS	We could not detect any association between the SNP and incidence of severe hypoglycemia or risk of developing any of the long-term diabetes complications including retinopathy and nephropathy.
+0	NA	NA	NA	DISCUSS	However, our study may not have sufficient power to detect such associations
+0	NA	G-H1	rs7533564	DISCUSS	rs7533564 was associated with higher levels of G-H1, an AGE measured by skin biopsy.
+0	NA	G-H1	NA	DISCUSS	G-H1 does not fluoresce, but, interestingly, is the same AGE associated with NAT2.
+0	NA	G-H1	rs7533564	DISCUSS	The significant association of rs7533564 with G-H1 implies that a process involving free serum glyoxal or glycoaldehyde is implicated in G-H1 formation and influenced by the SNP
+0	NA	prostaglandin F receptor	rs7533564	DISCUSS	PTGFR is the nearest gene to rs7533564; the SNP is located 130 kb 5' upstream of the gene.
+0	NA	prostaglandin F receptor	NA	DISCUSS	PTGFR produces the receptor for prostaglandin F2-alpha, a potent luteolytic agent, and is mainly expressed in the uterus (http://biogps.org).
+0	pleural lung fibrosis	prostaglandin F receptor	NA	DISCUSS	PTGFR has recently been identified as a fibrosis hormone and is involved in the accumulation of collagen I and III in myocardium in insulin resistance state leading to diabetic cardiomyopathy.
+0	Diabetes Complications	prostaglandin F receptor	NA	DISCUSS	Prostaglandin F2-alpha receptor silencing improves insulin resistance in T2D and has a protective effect on diabetes-induced vascular remodeling.
+0	NA	prostaglandin F receptor	rs7533564	DISCUSS	rs7533564 is not a known expression quantitative trait loci for the nearby genes including PTGFR (http://www.gtexportal.org, eqtl.uchicago.edu, and http://www.muther.ac.uk [as of February 2016]).
+0	NA	NA	rs7533564	DISCUSS	However, due to low allele frequency of rs7533564, expression studies could be underpowered to detect the effect.
+0	NA	NA	NA	DISCUSS	The identified locus has not been associated with T1D or related phenotypes in GWAS.
+0	coronary artery disease	NA	rs7533564	DISCUSS	The T allele of rs7533564 was nominally associated with higher levels of LDL in meta-GWAS (the opposite of its effect on SIF), but it has not been associated with the other lipids, HbA1c in ND, risk of T2D, or risk of coronary artery disease and myocardial infarction (Supplementary Table 16).
+0	NA	insulin	rs7533564	DISCUSS	rs7533564 was not associated with insulin sensitivity (GENESIS [GENEticS of Insulin Sensitivity] consortium) (J. Knowles, personal communication), whereas a nonsynonymous SNP in NAT2 (rs1208 [803A>G, K268R]) was strongly associated with decreased insulin sensitivity in GWAS.
+0	insufficient	NA	rs7533564	DISCUSS	However, since the allele frequency of rs7533564 is 2%, insufficient power to detect its association could lead to false negative results
+0	NA	NA	NA	DISCUSS	In conclusion, we identified a locus on chromosome 1 associated with SIF in T1D subjects that needs confirmation.
+0	Diabetes Complications	NA	NA	DISCUSS	Functional studies are required to identify the exact causal variant and affected gene in the region, which could lead to identification of new pathways involved in development of diabetes complications.
+0	NA	NA	NA	DISCUSS	The SNP is not significantly associated with SF in ND subjects or has a much smaller effect.
+0	NA	NA	NA	DISCUSS	Our study was underpowered to detect association with SF in T2D subjects; studies with larger numbers are required.
+0	diabetes	NA	NA	DISCUSS	Studies with larger sample sizes are also required to investigate association of the identified locus with long-term complications of diabetes

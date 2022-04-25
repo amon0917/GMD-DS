@@ -1,0 +1,205 @@
+0	AMD	NA	NA	ABSTRACT	Age-related macular degeneration (AMD) is a common cause of blindness in older individuals.
+0	AMD	NA	NA	ABSTRACT	To accelerate understanding of AMD biology and help design new therapies, we executed a collaborative genomewide association study, examining >17,100 advanced AMD cases and >60,000 controls of European and Asian ancestry.
+0	AMD	NA	NA	ABSTRACT	We identified 19 genomic loci associated with AMD with p<5x10-8 and enriched for genes involved in regulation of complement activity, lipid metabolism, extracellular matrix remodeling and angiogenesis.
+0	NA	NA	NA	ABSTRACT	Our results include 7 loci reaching p<5x10-8 for the first time, near the genes COL8A1/FILIP1L, IER3/DDR1, SLC16A8, TGFBR1, RAD51B, ADAMTS9/MIR548A2, and B3GALTL.
+0	NA	NA	NA	ABSTRACT	A genetic risk score combining SNPs from all loci displayed similar good ability to distinguish cases and controls in all samples examined.
+0	AMD	NA	NA	ABSTRACT	Our findings provide new directions for biological, genetic and therapeutic studies of AMD
+0	AMD	NA	NA	INTRO	AMD is a highly heritable progressive neurodegenerative disease that leads to loss of central vision through death of photoreceptors.
+0	AMD	NA	NA	INTRO	In developed countries, AMD is the leading cause of blindness in those >65 years.
+0	NA	NA	NA	INTRO	Genes in the complement pathway and a region of chromosome 10  have now been implicated as the major genetic contributors to disease.
+0	AMD	NA	NA	INTRO	Association has also been demonstrated with several additional loci, each providing an entry-point into AMD biology and potential therapeutic targets
+0	AMD	NA	NA	INTRO	To accelerate the pace of discovery in macular degeneration genetics, 18 research groups from across the world formed the AMD Gene Consortium in early 2010, with support from the National Eye Institute (Table 1, Supplementary Table 1, Supplementary Note).
+0	advanced disease	NA	NA	INTRO	To extend the catalog of disease associated common variants, we first organized a meta-analysis of genomewide association scans (GWAS) - combining data for >7,600 cases with advanced disease (geographic atrophy, neovascularization, or both) and >50,000 controls.
+0	NA	NA	NA	INTRO	Each study was first subject to GWAS quality control filters (customized taking into account study specific features as detailed in Supplementary Table 2) and standardized to the HapMap reference panel and statistical genotype imputation.
+0	NA	NA	NA	INTRO	Results were combined through meta-analysis and thirty-two variants representing loci with promising evidence of association were genotyped in an additional >9,500 cases and >8,200 controls (Supplementary Tables 1-3; summary meta-analysis results available online).
+0	NA	NA	NA	INTRO	Our overall analysis of the most promising variants thus included >17,100 cases and >60,000 controls
+0	NA	NA	NA	INTRO	Our meta-analysis evaluated evidence for association at 2,442,884 SNPs (Figure 1).
+0	NA	NA	NA	INTRO	Inspection of Q-Q plots (Supplementary Figure 1) and the genomic control value (lambdaGC=1.06) suggest that unmodeled population stratification does not significantly impact our findings (Supplementary Table 4 for details).
+0	NA	NA	NA	INTRO	Joint analysis of discovery and follow-up studies resulted in 19 loci reaching p<5x10-8 (Figure 1, Table 2, Supplementary Table 5).
+0	NA	NA	NA	INTRO	These 19 loci include all susceptibility loci previously reaching p<5x10-8, except the 4q12 gene cluster for which association was reported in a Japanese population.
+0	NA	NA	NA	INTRO	In addition, the set includes seven loci reaching p<5x10-8 for the first time
+0	NA	NA	NA	INTRO	We evaluated heterogeneity between studies using the I2 statistic, which compares variability in effect size estimates between studies to chance expectations.
+1	NA	ARMS2	NA	INTRO	We observed significant (p<.05/19) heterogeneity only for loci near ARMS2 (I2=75.7%, p<1x10-6) and near CFH (I2=85.4%, p<1x10-6).
+0	NA	NA	NA	INTRO	Although these two loci were significantly associated in every sample examined, the magnitude of association varied more than expected.
+0	Geographic atrophy	NA	NA	INTRO	To explore sources of heterogeneity, we carried out a series of sub-analyses: we repeated the genomewide meta-analysis adding an age-adjustment, separating neovascular (NV) and geographic atrophy (GA) cases, in men and women, and in European- and Asian-ancestry samples separately (Figure 3, Supplementary Figure 2).
+1	NA	CFH	NA	INTRO	These sub-analyses of the full GWAS dataset did not uncover additional loci reaching p<5x10-8; furthermore heterogeneity near CFH and ARMS2 remained significant in all sub-analyses (I2>65%, p <.001).
+1	NA	ARMS2	NA	INTRO	Consistent with previous reports, separate analysis of NV and GA cases showed ARMS2 risk alleles preferentially associated with risk of NV (ORNV=2.97, ORGA=2.50, pdifference=.0008) whereas CFH risk alleles preferentially associated with risk of GA (ORNV=2.34, ORGA=2.80, pdifference=.0006).
+1	NA	CFH	NA	INTRO	We also observed large differences in effect sizes when stratifying by ethnicity, with variants near CFH exhibiting stronger evidence for association among Europeans (p=.0000001) and those near TNFRSF10A among East Asians (p=.002).
+0	NA	NA	NA	INTRO	Potential explanations include differences in linkage disequilibrium between populations or differences in environmental or diagnostic factors that modify genetic effects
+0	AMD	NA	NA	INTRO	Identifying the full spectrum of allelic variation that contributes to disease in each locus will require sequencing of AMD cases and controls.
+0	AMD	NA	NA	INTRO	To conduct an initial evaluation of the evidence for multiple AMD risk alleles in the nineteen loci described here, we repeated genomewide association analyses conditioning on the risk alleles listed in Table 2.
+0	NA	NA	NA	INTRO	We then examined each of the 19 implicated loci for variants with independent association (at p<.0002, corresponding for an estimate of ~250 independent variants per locus).
+1	NA	CFH	NA	INTRO	This analysis resulted in the identification of the previously well documented independently associated variants near CFH and C2/CFB and of additional independent signals near C3, CETP, LIPC, FRK/COL10A1, IER3/DDR1, RAD51B (Supplementary Table 6).
+0	NA	NA	NA	INTRO	In four of these loci, the independently associated variants mapped very close (within <60kb) to the original signal.
+0	NA	NA	NA	INTRO	This shows each locus can harbor multiple susceptibility alleles, encouraging searches for rare variants that elucidate gene function in these regions
+0	AMD	NA	NA	INTRO	To prioritize our search for likely causal variants, we examined each locus in detail (see LocusZoom plots in Supplementary Figure 3) and investigated whether AMD risk alleles were associated with changes in protein sequence, copy number variation or insertion deletion polymorphisms.
+0	NA	NA	NA	INTRO	One quarter of associated variants altered protein sequence, either directly (N=2) or through linkage disequilibrium (r2>.6; N=3) with a nearby non-synonymous variant (Supplementary Table 7).
+1	NA	ARMS2	NA	INTRO	Some coding variants point to well-studied genes (ARMS2, C3 and APOE) while others help prioritize nearby genes for further study.
+1	NA	CCDC109B	rs4698775	INTRO	In chromosome 4q25, index SNP rs4698775 is in strong linkage disequilibrium (r2=.88) with a potentially protein damaging variant in CCDC109B, a coiled coil domain containing protein that may be involved in the regulation of gene expression.
+1	NA	COL10A1	rs3812111	INTRO	In chromosome 6q22, index SNP rs3812111 is a perfect proxy for a coding variant in COL10A1, a collagen protein that could be important in maintaining the structure and function of the extra-cellular matrix.
+1	NA	CFH	rs1061170	INTRO	Interestingly, rs1061170 (NP_000177.2[CFH]:p.His402Tyr) was not in disequilibrium with rs10737680, the most strongly associated SNP in the CFH region but, instead, was tagged by a secondary and weaker association signal (Supplementary Tables 6&7).
+0	NA	NA	NA	INTRO	This is consistent with prior haplotype analyses of the locus
+0	NA	NA	NA	INTRO	We used publicly available data to check whether any of our index SNPs might be proxies for copy number variants or insertion-deletion polymorphisms (indels), which are hard to directly interrogate with genotyping arrays.
+1	NA	ARMS2	rs10490924	INTRO	This analysis identified a single strong association (r2=.99), between rs10490924, a coding variant in the ARMS2 gene which is the peak of association in 10q26, and a 3' UTR indel polymorphism associated with ARMS2 mRNA instability.
+1	NA	HTRA1	rs10490924	INTRO	Since index SNP rs10490924 is also in strong disequilibrium (r2=.90) with a nearby SNP, rs11200638, that regulates HTRA1, our data does not directly answer whether HTRA1 or ARMS2 is the causal gene in this locus.
+1	NA	CFHR1	rs10737680	INTRO	Although a common deletion of the CFHR1 and CFHR3 genes has been proposed, there was only modest signal in this study which is likely due to linkage disequilibrium with our most significantly associated variants in the locus (r2=.31 between rs10737680 and 1000 Genomes Project MERGED_DEL_2_6731) as previously suggested
+0	NA	NA	NA	INTRO	Using RNA-sequencing, we examined mRNA levels of 85 genes within 100 kb of our index SNPs in post-mortem human retina (Supplementary Table 8).
+0	NA	NA	NA	INTRO	Of 19 independent risk loci, three had no genes with expressed transcripts in either old or young retina.
+1	NA	CFH	NA	INTRO	Two genes showed differential expression between post-mortem retina of young (ages 17-35) and elderly (ages 75 and 77) individuals: CFH (p=.009) and VEGFA (p=.003), both with increased expression in older individuals.
+0	NA	NA	NA	INTRO	Using previously published data, we also examined the expression of associated genes in fetal and adult retinal pigment epithelium (RPE).
+0	NA	NA	NA	INTRO	This revealed increased C3 expression in adult RPE compared to fetal RPE (p=.0008).
+1	AMD	CFH	NA	INTRO	CFH, VEGFA and C3 are thus up-regulated with aging, and their role in AMD may indicate an accelerated aging process.
+1	NA	CFH	NA	INTRO	In addition to C3 and CFH, all the complement genes with detectable expression in the retina or RPE experiments showed higher expression levels in older tissue
+0	NA	NA	NA	INTRO	To identify biological relationships among our genetic association signals, we catalogued the genes within 100kb of the variants in each association peak (r2>0.8 with the index SNP listed in Table 1).
+0	atherosclerotic	NA	NA	INTRO	Ingenuity Pathway Analysis (Ingenuity Systems, Redwood, CA) highlighted several biological pathways, particularly the complement system and atherosclerotic signaling, to be enriched in the resulting set of 90 genes (Table 3, Supplementary Table 9).
+0	NA	NA	NA	INTRO	To account for features of genomewide association studies (such as the different number of SNPs in each gene), we carried out two additional analyses.
+0	NA	NA	NA	INTRO	First, we repeated our analysis for 50 sets of 19 control loci drawn from the NHGRI GWAS catalog.
+0	atherosclerotic	NA	NA	INTRO	In these 50 control sets, Ingenuity enrichment p-values for the complement system and for atherosclerosis signaling genes were exceeded 16% and 32% of the time respectively (although these two specific pathways were never implicated in a control dataset).
+0	NA	NA	NA	INTRO	We also repeated our enrichment analyses using the INRICH tool, which is specifically designed for the analysis of genomewide association studies - but accesses a more limited set of annotations.
+0	NA	NA	NA	INTRO	The INRICH analyses showed enrichment for genes encoding collagen and extra-cellular region proteins (both with p=10-5 and after adjustment for multiple testing padjust=.0006), complement and coagulation cascades (p=.0002, padjust=.03), lipoprotein metabolism (p=.0003, padjust=.04), and regulation of apoptosis (p=.0009, padjust=.09) (Supplementary Table 10)
+0	NA	NA	NA	INTRO	To explore the connections between our genetic association signals, we tested for interaction between pairs of risk alleles - looking for situations where joint risk was different than expected based on marginal effects.
+0	NA	NA	NA	INTRO	This analysis resulted in 171 tests of interaction, of which 9 were nominally significant (p<.05, see Supplementary Table 11), consistent with chance expectations.
+1	NA	CFH	rs10737680	INTRO	The strongest observed interaction involved risk alleles at rs10737680 (near CFH) and rs429608 (near C2/CFB), the only association that remained significant after adjusting for multiple testing (p=.000052, <0.05/171=.00029).
+0	NA	NA	NA	INTRO	Individuals carrying risk alleles at both these loci where at slightly higher risk of disease than expected
+0	AMD	NA	NA	INTRO	The proportion of the variability in the risk of AMD that is due to genes, or heritability, has been estimated at 45-70% 2.
+0	NA	NA	NA	INTRO	Estimating the proportion of disease risk explained by the susceptibility loci identified  depends greatly on the disease prevalence - which is difficult to estimate in our sample, as it includes cases and controls of different ages and collected through a variety of ascertainment schemes.
+0	AMD	NA	NA	INTRO	Using a model that assumes an underlying normally distributed but unobserved disease risk score or liability, the nineteen loci described here account for between 10% (if AMD prevalence is close to 1%) and 30% (if AMD prevalence is closer to 10%) of the variability in disease risk (corresponding to 15-65% of the total genetic contribution to AMD).
+0	AMD	NA	NA	INTRO	The variants representing the peak of association at loci previously reaching genomewide significance account for the bulk of this variability: the new loci identified here account for 0.5-1.0% of the total heritability of AMD whereas secondary signals at novel and known loci account for 1.5-3.0% of the total heritability
+0	NA	NA	NA	INTRO	We report here the most comprehensive genetic association study of macular degeneration yet conducted, involving 18 international research groups, and a large set of cases and controls.
+0	AMD	NA	NA	INTRO	Our data reveal 19 susceptibility loci, including 7 loci reaching p<5x10-8 for the first time, nearly doubling the number of known AMD loci outside the complement pathway.
+0	NA	NA	NA	INTRO	Our results show some susceptibility alleles exhibit different association across ethnic groups and may be preferentially associated with specific subtypes of disease.
+0	NA	NA	NA	INTRO	As with other GWAS meta-analysis, differences in genotyping methods, quality control steps and imputation strategies between samples might have a minor effect in our results - future studies may document that more uniform approaches across larger sample sizes might uncover more signals.
+0	advanced disease	NA	NA	INTRO	A conundrum of macular degeneration genetics remains that the loci identified to date contribute to both GA and NV, two different phenotypes of advanced disease.
+0	NA	NA	NA	INTRO	In our sample, subtype specific GWAS analyses considering GA or NV cases only did not identify additional loci.
+0	NA	NA	NA	INTRO	Consistent with observations for other complex diseases, the majority of common disease susceptibility alleles do not alter protein sequences and are not associated with insertions or deletions of coding sequence or with copy number variation.
+0	NA	NA	NA	INTRO	We expect that the loci identified here will provide an ideal starting point for studies of rare variation
+0	NA	NA	NA	INTRO	In contrast to most other complex diseases, a risk score combining information across our 19 loci, can distinguish cases and controls relatively well (Figure 4, area under the ROC curve [AUC]=.52 including only new loci or AUC=.74 including new and previously reported loci; Supplementary Figure 4).
+0	NA	NA	NA	INTRO	It may be possible to use similar scores to identify and prioritize at risk individuals so they receive preventative treatment prior to the onset of disease.
+0	neovascular disease	NA	NA	INTRO	Monotherapies are increasingly utilized to manage neovascular disease, but offer only a limited repertoire of treatment options to patients.
+0	NA	NA	NA	INTRO	Identification of novel genes and pathways enables us to pursue a larger range of disease-specific targets for development of new therapeutic interventions.
+0	AMD	NA	NA	INTRO	We expect that future therapies directed at earlier stages of the disease process will allow patients to retain visual function for longer periods, improving the quality of life for individuals with AMD
+0	NA	NA	NA	METHODS	Genotyping was performed on a variety of different platforms summarized in Supplementary Table 2.
+0	NA	NA	NA	METHODS	Each group submitted results from association tests using genotyped and imputed data where the allelic dosages were computed with either MACH, IMPUTE, BEAGLE, or snpStats using the HapMap2 reference panels.
+0	NA	VRF	NA	METHODS	The CEU panel was used as a reference for imputation-based analyses for most samples (predominantly of European ancestry), with two exceptions: for the JAREDS samples (predominantly of East Asian ancestry), the CHB+JPT panel was used as a reference; for the VRF samples (predominantly of South Asian ancestry) the combined CEU and CHB+JPT panels were used.
+0	AMD	NA	NA	METHODS	For most data sets association tests were run under a logistic regression model using either Plink, Mach2dat, ProbABEL, or snpStats, though for one dataset containing related individuals the generalized estimating equations algorithm as implemented in R. In addition to the primary analysis which tested for SNP associations with advanced AMD unadjusted for age, an age-adjusted sensitivity analysis was conducted by each group with available age.
+0	AMD	NA	NA	METHODS	Each group also provided stratified results by sex or AMD subtype (GA or NV) as long as the sample size per stratum exceeded 50 subjects.
+0	NA	NA	NA	METHODS	For all analyses, study-specific control for population stratification was conducted (Supplementary Table 4)
+0	insufficient	NA	NA	METHODS	Genotyping of the selected SNPs was performed on different platforms; the same models, sensitivity and stratified analyses were computed by each follow-up partner, while SNPs with insufficient call rate were excluded based on study-specific thresholds.
+0	NA	NA	NA	METHODS	If the index SNP could not be genotyped, a highly correlated proxy was used whenever possible (Supplementary Tables 2&3)
+0	NA	NA	NA	METHODS	Before meta-analysis, all study-specific files underwent quality control procedures to check for completeness and plausible descriptive statistics on all variables as well as for compliance of allele frequencies with HapMap.
+0	NA	NA	NA	METHODS	In addition, we excluded SNP results of a study into meta-analysis (i) for discovery: if imputation quality measures were too low (MACH & PLINK <0.3; SNPTEST <0.4) or if effect sizes ( beta ) or standard errors were too extreme (>=5) indicating instability of the estimates, (ii) for follow-up: if Hardy-Weinberg equilibrium was violated (p<0.05/32)
+0	NA	NA	NA	METHODS	For both discovery and follow-up, we performed meta-analyses using the inverse variance weighted fixed effect model, which pools the effect size and standard error of each participated GWAS.
+0	NA	NA	NA	METHODS	Using an alternative weighted z-score method, which is based on a weighted sum of z-score statistics, we obtained a very similar set of test statistics (correlation of -log10(p-value) >0.98).
+0	NA	NA	NA	METHODS	All analyses were performed using METAL and R. For the discovery, we applied two rounds of genomic control corrections to each individual GWAS and the combined meta results, respectively .
+0	NA	NA	NA	METHODS	All results were analyzed and validated among four independent teams
+0	NA	NA	NA	METHODS	Extended analyses were conducted on the identified loci and particularly on the top SNP of each locus
+0	AMD	NA	NA	METHODS	To detect potential independent signals within the identified AMD loci, each study partner with genotypes for all identified SNPs available re-analyzed their data for all SNPs in the respective loci (index SNP +-1Mb) using a logistic regression model containing all identified index SNPs.
+0	NA	NA	NA	METHODS	Quality control procedures were performed as before.
+0	NA	NA	NA	METHODS	The beta estimates for each SNP were meta-analyzed applying the effective sample size weighted z-score method and two rounds of genomic control correction.
+0	NA	NA	NA	METHODS	The significance threshold (p<0.05) for an independent association signal within any of the identified loci was Bonferroni-adjusted using the average effective number of SNPs involved across the identified loci determined by SNPSpD.
+0	NA	NA	NA	METHODS	To this analysis, 13 studies contributed including 7,489 cases and 51,562 controls
+0	NA	NA	NA	METHODS	Utilizing a pre-specified R-scripts (see URLs), GWAS partners performed 171 logistic regression analyses modeling the pair-wise interaction of the 19 index SNPs assuming an additive model for main and interaction effects.
+0	NA	NA	NA	METHODS	Study-specific covariates were included to the model if required.
+0	NA	NA	NA	METHODS	Per study, quality control included a check for consistency of SNP main effects between discovery and interaction analysis.
+0	NA	NA	NA	METHODS	SNPs with low imputation quality measures and pairs with  beta >5 or standard errors >5 were excluded before meta-analyzing the interaction effects with the inverse variance weighted fixed effect model in METAL.
+0	NA	NA	NA	METHODS	To this analysis, 12 studies contributed including 6,645 cases and 49,410 controls
+0	NA	NA	NA	METHODS	The meta-analyzed effect sizes, betaj, for each of the 19 SNPs were calculated in the meta-analysis described above and normalized:  , j=1,...,19.
+0	AMD	NA	NA	METHODS	Using these as weights, each study partner with all 19 SNPs available computed the individuals' genetic risk score as a normalized weighted sum of the AMD risk increasing alleles among the identified SNPs a
+0	NA	NA	NA	METHODS	  where xij is the genotype of the ith individual at the jth SNP, so Si ranges from 0 to 2.
+0	NA	NA	NA	METHODS	This data was available from 12 studies including 7,195 cases and 49,149 controls
+0	NA	NA	NA	METHODS	For each study, we used a leave-one-out cross-validation to access the prediction of the risk score.
+0	NA	NA	NA	METHODS	For the kth subject, we fitted a logistic regression model from all subjects in the study excluding the kth subjects:  , i!
+0	NA	NA	NA	METHODS	= k, alpha is the intercept and gamma is the effect of the genetic risk score.
+0	NA	NA	NA	METHODS	The fitted probability of the kth subject was then estimated as yk = 1/(1+e-(alpha+gammaSk)).
+0	NA	NA	NA	METHODS	We sorted the fitted probabilities and calculated sensitivity and specificity by varying the risk threshold (the value compared with the fitted probability to dichotomize the subject into case or control) from 0 to 1.
+0	NA	NA	NA	METHODS	These were utilized to compute the area-under-the curve (AUC) of the receiver-operating-curve (ROC)
+0	NA	NA	NA	METHODS	LD estimates were calculated using genotype data of the identified risk loci (index SNPs +-500kb) of individuals with European ancestry from the 1000 Genomes Project (March 2012 release) or from HapMap (release #28).
+0	NA	NA	NA	METHODS	Variants correlated (r2>0.6) with one of the GWAS index SNPs were identified using PLINK.
+0	NA	NA	NA	METHODS	To filter coding variants, all correlated variants were mapped against RefSeq transcripts using ANNOVAR
+0	AMD	NA	NA	METHODS	We evaluated expression of genes within 100kb of one of the 19 index SNPs, as well as of several retina-specific, RPE-specific and housekeeping genes unrelated to AMD for comparison in retina (RNA-sequencing data from three young [17-35 yrs age] and two old individuals [75 and 77 yrs age]) as well as in fetal and adult retinal pigment epithelium (RPE; published data in the Gene Expression Omnibus database).
+0	NA	NA	NA	METHODS	Expression was analyzed using previously described protocols (Supplementary Table 8)
+0	NA	NA	NA	METHODS	Functional enrichment analysis was performed using the Ingenuity Pathway Analysis software (IPA, Ingenuity  Systems).
+0	AMD	NA	NA	METHODS	Any gene located within 100kb of a SNP in high LD (r2>0.8) with one of the index SNPs was considered a potential AMD risk associated gene and considered for subsequent pathway enrichment analysis.
+0	NA	NA	NA	METHODS	LD estimates were calculated as described above.
+0	AMD	NA	NA	METHODS	Applying the above inclusion filters, 90 genes appear to be implicated by our 19 replicated AMD SNPs (Supplementary Table 8).
+0	NA	NA	NA	METHODS	Because genes with related function sometimes cluster in the same locus, we trimmed gene lists during analysis so that only one gene per locus was used to evaluate enrichment for each pathway.
+0	NA	NA	NA	METHODS	The P-value of the association between our implicated gene list and any of the canonical pathways and/or functional gene sets as annotated by IPA's Knowledge Base was computed using a one-sided Fisher's exact test.
+0	NA	NA	NA	METHODS	The Benjamini-Hochberg method was used to estimate False Discovery Rates.
+0	NA	NA	NA	METHODS	To evaluate significance of observed enrichment, we repeated our Ingenuity analysis starting with 50 lists of 19 SNPs randomly drawn from the NHGRI GWAS catalog and, again, using the INRICH tool.
+1	NA	C2	NA	METHODS	When using INRICH, we used gene sets defined in the Broad's Molecular Signatures database (ver3.0) representing manually curated canonical pathway, Gene Ontology biological process, cellular component and molecular function gene sets (C2:CP, C5:BP, C5:CC and C5:MF).
+0	NA	NA	NA	METHODS	We provided INRICH with our full GWAS SNP list and allowed it to carry out 100,000 permutations, matching selected loci in terms of gene count, SNP density and total number of SNPs
+0	Stephan Ripke	Cain	NA	APPENDIX	Lars G Fritsche [1,2, *], Wei Chen [2,3,*], Matthew Schu [4,*], Brian L Yaspan [5,6,*], Yi Yu [7,*], Gudmar Thorleifsson [8], Donald J Zack [9,10,11,12], Satoshi Arakawa [13], Valentina Cipriani [14], Stephan Ripke [15,16], Robert P Igo, Jr. [17,18], Gabrielle H S Buitendijk [19,20], Xueling Sim [2,21], Daniel E Weeks [22,23], Robyn H Guymer [24], Joanna E Merriam [25], Peter J Francis [26], Gregory Hannum [27], Anita Agarwal [28,29], Ana Maria Armbrecht [30], Isabelle Audo [10,31,32,33], Tin Aung [34,35], Gaetano R Barile [25], Mustapha Benchaboune [36], Alan C Bird [14], Paul N Bishop [37,38], Kari E Branham [39], Matthew Brooks [40], Alexander J Brucker [41], William H Cade [42,43], Melinda S Cain [24], Peter A Campochiaro [11,44], Chi-Chao Chan [45], Ching-Yu Cheng [34,35,46,47], Emily Y Chew [48], Kimberly A Chin [7], Itay Chowers [49], David G Clayton [50], Radu Cojocaru [40], Yvette P Conley [51], Belinda K Cornes [34], Mark J Daly [15], Baljean Dhillon [30], Albert O Edwards [52], Evangelos Evangelou [53], Jesen Fagerness [54,55], Henry A Ferreyra [56], James S Friedman [40], Asbjorg Geirsdottir [57], Ronnie J George [58], Christian Gieger [59], Neel Gupta [40], Stephanie A Hagstrom [60], Simon P Harding [61], Christos Haritoglou [62], John R Heckenlively [39], Frank G Holz [63], Guy Hughes [56,64], John P A Ioannidis [65,66,67], Tatsuro Ishibashi [68], Peronne Joseph [17,18], Gyungah Jun [4,69,70], Yoichiro Kamatani [71], Nicholas Katsanis [72,73,74], Claudia N Keilhauer [75], Jane C Khan [50,76,77], Ivana K Kim [78,79], Yutaka Kiyohara [80], Barbara E K Klein [81], Ronald Klein [81], Jaclyn L Kovach [82], Igor Kozak [56], Clara J Lee [56,64], Kristine E Lee [81], Peter Lichtner [83], Andrew J Lotery [84], Thomas Meitinger [83,85], Paul Mitchell [86], Saddek Mohand-Said [31,32,36,87], Anthony T Moore [14], Denise J Morgan [88], Margaux A Morrison [88], Chelsea E Myers [81], Adam C Naj [42,43], Yusuke Nakamura [89], Yukinori Okada [90], Anton Orlin [91], M Carolina Ortube [92,93], Mohammad I Othman [39], Chris Pappas [88], Kyu Hyung Park [94], Gayle J T Pauer [60], Neal S Peachey [60,95], Olivier Poch [96], Rinki Ratna Priya [40], Robyn Reynolds [7], Andrea J Richardson [24], Raymond Ripp [96], Guenther Rudolph [62], Euijung Ryu [97], Jose-Alain Sahel [10,31,32,33,36,98,99], Debra A Schaumberg [78,100], Hendrik P N Scholl [44,63], Stephen G Schwartz [82], William K Scott [42,43], Humma Shahid [50,101], Haraldur Sigurdsson [57,102], Giuliana Silvestri [103], Theru A Sivakumaran [104], R Theodore Smith [25,105], Lucia Sobrin [78,79], Eric H Souied [106], Dwight E Stambolian [107], Hreinn Stefansson [8], Gwen M Sturgill-Short [95], Atsushi Takahashi [90], Nirubol Tosakulwong [97], Barbara J Truitt [17,18], Evangelia E Tsironi [108], Andre G Uitterlinden [19,109], Cornelia M van Duijn [19], Lingam Vijaya [58], Johannes R Vingerling [19,20], Eranga N Vithana [34,35], Andrew R Webster [14], H.-Erich Wichmann [110,111,112,113], Thomas W Winkler [114], Tien Y Wong [24,34,35], Alan F Wright [115], Diana Zelenika [116], Li Zhang [56,64,117], Ling Zhao [56,64], Kang Zhang [56,64,117], Michael L Klein [26], Gregory S Hageman [88,118], G Mark Lathrop [71,116], Kari Stefansson [8,102], Rando Allikmets [25,119,+], Paul N Baird [24,+], Michael B Gorin [92,93,120,+], Jie Jin Wang [24,86,+], Caroline C W Klaver [19,20,+], Johanna M Seddon [7,121,+], Margaret A Pericak-Vance [42,43,+], Sudha K Iyengar [17,18,122,123,124,+], John R W Yates [14,50,+], Anand Swaroop [39,40,+], Bernhard H F Weber [1,+], Michiaki Kubo [13,+], Margaret M DeAngelis [88,+], Thierry Leveillard [10,31,32,+], Unnur Thorsteinsdottir [8,102,+], Jonathan L Haines [5,6,+], Lindsay A Farrer [4,69,70,125,126,+], Iris M Heid [59,114,+], Goncalo R Abecasis [2,+
+0	AMD	NA	NA	AUTH_CONT	AMD Gene Analysis Committee: L.G.F., W.C., M.S., B.L.Y., Y.Y., L.A.F., I.M.H.
+0	NA	NA	NA	AUTH_CONT	(co-lead), G.R.A.
+0	NA	NA	NA	AUTH_CONT	(co-lead)
+0	AMD	NA	NA	AUTH_CONT	AMD Gene Steering Committee: B.H.F.W.
+0	NA	NA	NA	AUTH_CONT	(chair, senior executive committee), G.R.A.
+0	NA	NA	NA	AUTH_CONT	(senior executive committee), M.M.D.
+0	NA	NA	NA	AUTH_CONT	(senior executive committee), J.L.H.
+0	NA	NA	NA	AUTH_CONT	(senior executive committee), S.K.I.
+0	NA	NA	NA	AUTH_CONT	(senior executive committee), M.A.P.
+0	NA	NA	NA	AUTH_CONT	(senior executive committee), R.A., P.N.Ba., C.C.W.K., B.E.K.K., M.L.K., M.K., T.L., J.M.S., U.T., D.E.W., J.R.W.Y., K.Z.
+0	NA	NA	NA	AUTH_CONT	AMD-EU-JHU Study: D.J.Z., I.A., M.Be., A.C.B., P.A.C., I.C., F.G.H., Y.Ka., N.K., A.J.L., S.M., O.P., R.Ri., J-A.S., H.P.N.S., E.H.S., A.R.W., D.Z., G.M.L., T.L.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the AMD-EU-JHU study
+0	NA	NA	NA	AUTH_CONT	BDES Study: R.P.I., B.E.K.K., R.K., K.E.L., C.E.M., T.A.S., B.J.T., S.K.I.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the BDES study
+0	NA	NA	NA	AUTH_CONT	Blue Mountains Eye Study: X.S., P.M., T.Y.W., J.J.W.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the BMES study
+0	NA	NA	NA	AUTH_CONT	BU/Utah Study: M.S., G.S.H., G.J., I.K.K., D.J.M., M.A.M., C.P., K.H.P., D.A.S., G.S., E.E.T., M.M.D., L.A.F.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the BU/UTAH study
+0	NA	NA	NA	AUTH_CONT	CCF/VAMC Study: S.A.H., P.J., G.J.T.P., N.S.P., G.M.S., R.P.I., S.K.I.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the CCF/VAMC study
+0	NA	NA	NA	AUTH_CONT	CEI Study: P.J.F., M.L.K.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the CEI study
+0	NA	NA	NA	AUTH_CONT	Columbia Study: J.E.M., G.R.B., R.T.S., R.A. contributed phenotype, genotypes and analysis for the Columbia study
+0	NA	NA	NA	AUTH_CONT	deCode: G.T., H.Si., H.St., K.S., U.T.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the deCode study
+0	NA	NA	NA	AUTH_CONT	Japan Age Related Eye Diseases Study: S.A., T.I., Y.Ki., Y.N., Y.O., A.T., M.K.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the JAREDS study
+0	NA	NA	NA	AUTH_CONT	Melbourne Study: R.H.G., M.R.N.C., A.J.R., P.N.Ba.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the Melbourne study
+0	NA	NA	NA	AUTH_CONT	Miami/Vanderbilt Study: B.L.Y., A.A., W.H.C., J.L.K., A.C.N., S.G.S., W.K.S., M.A.P., J.L.H.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the Miami/Vanderbilt study
+0	NA	NA	NA	AUTH_CONT	MMAP/NEI Study: W.C., K.E.B., M.Br., A.J.B., C-C.C., E.Y.C., R.C., A.O.E., J.S.F., N.G., J.R.H., A.O., M.I.O., R.R.P., E.R., D.E.S., N.T., A.S., G.R.A.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the MMAP/NEI study
+0	NA	NA	NA	AUTH_CONT	Rotterdam Study: G.H.S.B., A.G.U., C.M.v.D., J.R.V., C.C.W.K.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the Rotterdam study
+0	NA	SAGE	NA	AUTH_CONT	SAGE Study: T.A., C-Y.C., B.K.C., E.N.V.
+0	NA	SAGE	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the SAGe study
+0	AMD	NA	NA	AUTH_CONT	Southern German AMD Study: L.G.F., C.G., C.H., C.N.K., P.L., T.M., G.R., H.-E.W., T.W.W., B.H.F.W., I.M.H.
+0	AMD	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the Southern German AMD study
+0	NA	NA	NA	AUTH_CONT	Tufts/Massachussets General Hospital Study: Y.Y., S.R., K.A.C., M.J.D., E.E., J.F., J.P.A.I., R.Re., L.S., J.M.S.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the Tufts/MGH study
+0	NA	NA	NA	AUTH_CONT	U.K. Cambridge/Edinburgh Study: V.C., A.M.A., P.N.Bi., D.G.C., B.D., S.P.H., J.C.K., A.T.M., H.Sh., A.F.W., J.R.W.Y.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the UK Cambridge/Edinburgh study
+0	NA	NA	NA	AUTH_CONT	University of Pittsburgh/UCLA Study: D.E.W., Y.P.C., M.C.O., M.B.G.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the Univ.
+0	NA	NA	NA	AUTH_CONT	of Pittsburgh/UCLA study
+0	NA	NA	NA	AUTH_CONT	UCSD Study: G.Ha., H.F., G.Hu., I.K., C.J.L., L.Zhang, L.Zhao, K.Z.
+0	NA	NA	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the USCD study
+0	NA	VRF	NA	AUTH_CONT	VRF Study: R.J.G., L.V., R.P.I., S.K.I.
+0	NA	VRF	NA	AUTH_CONT	contributed phenotype, genotypes and analysis for the VRF study
+0	NA	NA	NA	AUTH_CONT	Gene Expression and RNA-Sequencing Data: These data were contributed and analyzed by M.Br., J.S.F., N.G., R.R.P and A.S
+0	NA	NA	NA	AUTH_CONT	METAL, http://www.sph.umich.edu/csg/abecasis/Metal/; R, http://www.R-project.org/; gee, http://CRAN.R-project.org/package=gee; Single Nucleotide Polymorphism Spectral Decomposition, http://gump.qimr.edu.au/general/daleN/SNPSpDlite/; Pre-specified R-scripts, http://www.epi-regensburg.de/wp/genepi-downloads; The 1000 Genomes Project, http://www.1000genomes.org/; The HapMap Project, http://www.hapmap.org/genotypes/; PolyPhen-2, http://genetics.bwh.harvard.edu/pph2/; Ingenuity  Systems, http://www.ingenuity.com; NHGRI GWAS catalog, http://www.genome.gov/gwastudies/, INRICH, http://atgu.mgh.harvard.edu/inrich; Full Result Set, http://www.sph.umich.edu/csg/abecasis/public/amdgene2012
+0	NA	NA	NA	COMP_INT	A.A., G.R.A., K.E.B., V.C., Y.P.C., M.J.D., A.O.E., L.G.F., M.B.G., J.L.H., A.T.M., D.A.S., W.K.S., J.M.S., A.S., B.H.F.W., D.E.W., and J.R.W.Y.
+0	AMD	NA	NA	COMP_INT	are co-inventors or beneficiaries of patents related to genetic discoveries in AMD.
+0	NA	NA	NA	COMP_INT	J.L.H.
+0	NA	NA	NA	COMP_INT	is a shareholder in ArcticDX.
+0	NA	NA	NA	COMP_INT	S.G.S.
+0	NA	NA	NA	COMP_INT	is a consultant for Alimera, Bausch + Lomb, and Eyetech; receives royalties from IC Labs.
+0	NA	NA	NA	COMP_INT	U.T., K.S., G.T, and H.St.
+0	NA	NA	NA	COMP_INT	are affiliated and/or employed by deCODE Genetics and own stock and/or stock options in the company.
+0	NA	NA	NA	COMP_INT	P.M. is on advisory boards for Allergan, Bayer, Novartis, Pfizer and Solvay and has received travel, honorarium and research support from these companies; he has no stocks, equity, contract of employment or named position on company board
+0	NA	NA	NA	FIG	Summary of genomewide association scan results in the discovery GWAS sample.
+0	NA	NA	NA	FIG	Previously described loci reaching p < 5x10-8 are labeled in blue; new loci reaching p < 5x10-8 for the first time after follow-up are labeled in green
+0	NA	NA	NA	FIG	The top left panel compares estimated effect sizes for the original analysis and for an age-adjusted analysis (where age was included as a covariate and samples of unknown age were excluded).
+0	NA	NA	NA	FIG	The top right panel compares analyses stratified by sex.
+0	NA	NA	NA	FIG	The bottom left panel evaluates stratification by disease subtype.
+0	NA	NA	NA	FIG	The bottom right panel evaluates stratification by ethnicity.
+0	NA	NA	NA	FIG	The size of each marker reflects confidence intervals (with height reflecting confidence interval along the Y axis and width reflecting confidence interval along the X axis).
+0	NA	NA	NA	FIG	Comparisons reaching p < 0.05 are labeled and colored in red
+0	NA	NA	NA	FIG	We calculated a risk score for each individual, defined as the product of the number of risk alleles at each locus and the associated effect size for each allele (measured on the log-odds scale).
+0	NA	NA	NA	FIG	The plot summarizes the ability of these overall genetic risk scores to distinguish cases and controls
+0	NA	NA	NA	TABLE	For additional details, including a breakdown of the number of cases and controls in individual samples, see Supplementary Table 1.
+0	atrophy	NA	NA	TABLE	NCASES includes only cases with geographic atrophy, choroidal neovasculartization, or both
+0	NA	NA	NA	TABLE	All results reported here include a genomic control correction for individual studies and also for the final meta-analysis
