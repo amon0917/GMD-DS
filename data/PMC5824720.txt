@@ -1,0 +1,113 @@
+0	breast cancer	NA	NA	ABSTRACT	Taxane containing chemotherapy extends survival for breast cancer patients.
+0	likely peripheral neuropathy	NA	NA	ABSTRACT	However, taxane induced peripheral neuropathy (TIPN) cannot be predicted, prevented or effectively treated.
+0	NA	NA	NA	ABSTRACT	Using genome wide analyses (GWA), we sought to identify common risk variants for TIPN
+0	breast cancer	NA	NA	ABSTRACT	Women with high-risk breast cancer enrolled in SWOG 0221 were genotyped using the Illumina 1M chip.
+0	neurotoxicity	NA	NA	ABSTRACT	GWA were performed in relation to Common Terminology Criteria for Adverse Events (CTCAE) grade 3+ neurotoxicity in European and African Americans.
+0	NA	NA	NA	ABSTRACT	Data were meta-analyzed with GW associations of CTCAE >=grade 3 vs <grade 3 in CALGB40101 assuming a fixed effects model
+0	Neurological and Communication Disorders	NA	NA	ABSTRACT	The percentage of >=grade 3 neuropathies in 1269 European Americans (EA) and 139 African Americans (AA) in S0221, was 11.6% and 22.3%, respectively.
+0	Neurological and Communication Disorders	NA	NA	ABSTRACT	CALGB40101 >=grade 3 neuropathy was 7.2%.
+1	Neurological and Communication Disorders	GNGT1	rs1858826	ABSTRACT	The most significant association with >=grade 3 neuropathy was the G allele of rs1858826 in GNGT1 (Pmeta=1.1 x 10-7), which showed a decrease in risk of >=grade 3 TIPN (OR=.29, 95% CI .18-.46)
+0	Neurological and Communication Disorders	NA	NA	ABSTRACT	The genetic variants associated with >=grade 3 CTCAE neuropathy are hypothesized to have biochemical functions and reside in and near genes involved in diabetes and diabetic neuropathy.
+0	NA	NA	NA	ABSTRACT	This finding is consistent with results from CALGB 40101 pathway analyses.
+0	Neurological and Communication Disorders	NA	NA	ABSTRACT	Larger homogeneous trials with similar dosing and criteria for defining neuropathy are needed to properly assess the relationship of genomics with the neuropathy spectrum
+0	breast cancer	NA	NA	INTRO	Multi-drug regimens for the treatment of breast cancer, particularly those including taxanes, have resulted in improved survival for breast cancer patients.
+0	NA	NA	NA	INTRO	However, these drugs have both short- and long-term effects that profoundly impact function and quality of life.
+0	toxicity	NA	NA	INTRO	Importantly, toxicities can also result in dose reduction or termination, thus reducing treatment efficacy.
+0	likely peripheral neuropathy	NA	NA	INTRO	Taxane-induced peripheral neuropathy (TIPN), one of the most common side effects, cannot be predicted, prevented or effectively treated, and a substantial number of patients still experience grade 3 and 4 toxicities with symptoms lasting up to two years post treatment
+0	NA	NA	NA	INTRO	Predictive markers of TIPN could be clinically relevant for prevention of this debilitating side effect.
+0	NA	NA	NA	INTRO	A number of studies, reviewed in, have sought to determine the underlying genetic susceptibility to TIPN, although results have not been consistent.
+0	toxicity	NA	NA	INTRO	The goal of the present study was to perform a meta-analyses of genome wide associations with NCI Common Toxicity Criteria for Adverse Events (CTCAE) grade 3 and greater sensory neuropathies in two clinical trials, the North American Breast Cancer Intergroup clinical trial led by SWOG (S0221) and CALGB 40101.
+0	breast cancer	NA	NA	INTRO	S0221 included 3294 women with high risk breast cancer registered to differing dose and schedule of cyclophosphamide, anthracycline and taxane, with blood samples collected from 1874 patients.
+0	breast cancer	NA	NA	INTRO	CALGB40101 was a phase III randomized trial comparing cyclophosphamide and doxorubicin versus single-agent paclitaxel as adjuvant therapy for patients with breast cancer who were at relatively low risk for relapse
+0	Neurological and Communication Disorders	NA	NA	INTRO	Herein, we report on common genetic variants that confer susceptibility to grade 3 or greater clinical neuropathy, as well as those previously tested for association with neuropathy outcomes following treatment with paclitaxel
+0	breast cancer	NA	NA	METHODS	Patients participating in the North American Breast Cancer Intergroup clinical trial S0221 (NCT00070564) led by SWOG comprise the patient population.
+0	breast cancer	NA	NA	METHODS	In this trial, patients with node positive or high-risk node-negative operable breast cancer first received treatment with one of three different regimens of doxorubicin and cyclophosphamide (AC) and then were randomly assigned to either a standard-dose treatment of paclitaxel (T) given every two weeks for 12 weeks with pegfilgrastim support, or a low-dose weekly regimen for 12 weeks.
+0	breast cancer	NA	NA	METHODS	"The premise of the trial was to test whether a continuous ""metronomic"" schedule (low-dose weekly regimen) is superior to an accelerated but more conventional schedule of AC-T for breast cancer."
+0	cancers	NA	NA	METHODS	To be eligible for the trial, patients must have had node-positive or high-risk (tumor >=2 cm) node-negative operable stage II or III invasive breast cancer with known ER/ PR status and no prior cancer, have undergone breast surgery, and have had no prior chemotherapy
+0	NA	NA	NA	METHODS	All S0221 patients who participated in the sub-study gave written informed consent to have blood drawn for germline genetic analysis.
+0	capillary malformation-arteriovenous malformation and Parkes-Weber syndrome	NA	NA	METHODS	Blood was drawn into a 10-ml purple top tube upon registration to S0221 and shipped to the Roswell Park Cancer Institute (RPCI) laboratory, where it was processed and stored at -80 C. For this study, DNA was extracted from whole blood using Qiagen flexigene Kit  according to manufacturer's protocol.
+0	NA	NA	NA	METHODS	Genotyping was performed at the University of Southern California using the Illumina 1M chip
+0	toxicity	NA	NA	METHODS	Toxicities were monitored and reported using the CTCAE Version 3.0, which contains descriptive terminology to be used for adverse event (AE) reporting.
+0	toxicity	NA	NA	METHODS	Grade 3 toxicities interfere with activities of daily living, and grade 4 AEs are life-threatening and often require hospitalization.
+0	toxicity	NA	NA	METHODS	Required toxicity reporting for S0221 included only those individuals experiencing grades 3 or 4.
+0	toxicity	NA	NA	METHODS	For each individual, only the maximum toxicity experienced following taxane treatment was reported.
+0	sensory toxicities	NA	NA	METHODS	Due to the small number of grade 4 sensory toxicities (<5), we consider >=grade 3 CTCAE collectively
+0	NA	NA	NA	METHODS	A total of 1,966 total samples were sent for genotyping, including 44 replicate pairs (n=88) and 9 hapmap CEU trios (n=27).
+0	toxicity	NA	NA	METHODS	Samples were randomized to plates based on toxicity reported (yes/no) and treatment arm.
+0	NA	NA	NA	METHODS	Following sample quality control, SNPs were removed if they could not be mapped to current genome build, could not be called, there was evidence of Mendelian or replicate errors, excess missingness (>2%), minor allele frequency (MAF) <1%, or if they were out of Hardy Weinberg equilibrium proportions at p<.005 (separately tested in EA and AA populations).
+0	NA	NA	NA	METHODS	"Principal components were constructed using a set of independent SNPs in all patients self-declaring ""White"" race and ""Non-Hispanic"" ethnicity and mean values for the first three eigenvectors within were determined."
+0	NA	NA	NA	METHODS	To address population heterogeneity, individuals with any of the first three eigenvectors > two standard deviations from each mean value were excluded.
+0	NA	NA	NA	METHODS	"This was repeated for all individuals self-declaring ""Black"" race and ""Non-Hispanic"" ethnicity."
+0	NA	NA	NA	METHODS	All quality control measures were implemented in Plink and R statistical software
+0	NA	NA	NA	METHODS	Genotype data were imputed using Impute2 v2.0.
+0	NA	NA	NA	METHODS	A reference panel of haplotypes was constructed using 1000 Genomes Phase 3 CEU and YRI data and imputed SNP genotypes using all Illumina SNPs that passed the previously described QC.
+0	NA	NA	NA	METHODS	Imputation results were removed at info score threshold of < 0.70, certainty <.70 and a minor allele frequency < 0.01 using QCTool
+0	Neurological and Communication Disorders	NA	NA	METHODS	Logistic regression models for each SNP, adjusted for age and treatment arm, were used to calculate odds ratios (ORs) and 95% confidence intervals (CI) for the association of each SNP with >=grade 3 neuropathies.
+0	NA	NA	NA	METHODS	SNP p-values were determined using likelihood ratio tests.
+0	NA	NA	NA	METHODS	Genomic inflation factor was estimated for all analyses
+0	Neurological and Communication Disorders	NA	NA	METHODS	Calculations of risk that is detectable with 80% power were performed considering allele frequency ranges between 10%-50% and assuming frequency of neuropathy at ~12%.
+0	NA	NA	NA	METHODS	Applying Bonferroni correction for one million tests (threshold of p=5 x 10-8) we are able to detect with >80% power variants with ORs in the range of 2.45 down to 1.78 per copy of the risk allele assuming an effected allele frequency between 10% and 50%, respectively.
+0	NA	NA	NA	METHODS	This odds ratio range is consistent with those found in the published literature
+0	cancers	NA	NA	METHODS	Cancer and Leukemia Group B trial 40101 (NCT00041119, Alliance for Clinical Trials in Oncology) was conducted using a phase III 2 x 2 factorial design to determine whether six cycles of a chemotherapy regimen are superior to four cycles, and whether paclitaxel is as efficacious as AC, but with reduced toxicity.
+0	breast cancer	NA	NA	METHODS	Data were available 855 Northern European and 117 African American patients with breast cancer who were treated with taxanes typed at 521,600 SNPs using the HumanHap610-Quad Genotyping BeadChip (Illumina).
+0	NA	NA	NA	METHODS	Imputed data were not available for analysis.
+0	NA	NA	NA	METHODS	Only specimens from patients enrolled in CALGB 40101 who had signed a protocol-specific informed consent for sample use, in accordance with federal and institutional guidelines, were available for analysis.
+0	Neurological and Communication Disorders	NA	NA	METHODS	Although these data have been analyzed for neuropathy associations with cumulative dose and ordinal neuropathy grades, in order for meta-analyses to be done on comparable phenotypes across trials logistic regression was performed using data from the 855 Northern European patients; 59 experienced >=grade 3 toxicity and 796 experienced < grade 3 toxicity.
+0	toxicity	NA	NA	METHODS	In AA patients, 103 experienced < grade 3 toxicity, and 14 >=grade 3 toxicity.
+0	Neurological and Communication Disorders	NA	NA	METHODS	Regression models for each SNP, adjusted for age and treatment arm, were used to calculate odds ratios (ORs) and 95% confidence intervals (CI) for the association of each SNP with >=grade 3 neuropathies.
+0	NA	NA	NA	METHODS	SNP p-values were determined using likelihood ratio tests
+0	NA	NA	NA	METHODS	Meta-analyses were performed using S0221 EA, S0221 AA and CALGB40101 Northern Europeans.
+0	toxicity	NA	NA	METHODS	Due to the small number of AA patients with >=grade 3 toxicity in CALGB 40101 we did not include these results in the meta-analyses.
+0	NA	NA	NA	METHODS	P-values for the three data sets were combined using METAL software with weights proportional to the sample size.
+0	NA	NA	NA	METHODS	Regional associations plots of the most significant regions were constructed using SNIPA
+0	Neurological and Communication Disorders	NA	NA	METHODS	More than 70 studies have been published testing associations between genetic variation and neuropathy, measured using CTCAE grades, FACT-TAX scores and/or cumulative paclitaxel dose to event.
+0	NA	NA	NA	METHODS	We tested SNPs from these candidate studies, as well as those presented in the CALGB 40101 GWAS main and **Supplemental results and ECOG analyses for association with CTCAE >=grade 3 in S0221
+0	NA	NA	NA	RESULTS	The Consort Flow diagram for S0221 (Supplemental Figure 1) shows details of the study schema for patients for whom there were DNA and genotype data available, as well as the results of the data cleaning and quality control steps (details provided in Supplemental Materials).
+0	NA	NA	NA	RESULTS	Study design for both the meta-analyses and tests of previous candidate SNP associations is shown in Supplemental Figure 2.
+0	NA	NA	NA	RESULTS	Following quality assurance and control, 1269 EA (147 >=grade 3) and 139 AA (31 >=grade 3) individuals with CTCAE grade information were available for analysis.
+0	NA	NA	NA	RESULTS	Patient characteristics are summarized in Table 1.
+0	NA	NA	NA	RESULTS	SNP quality control yielded a total of 741,726 and 775,449, EA and AA typed SNPs, respectively
+0	NA	NA	NA	RESULTS	>=grade 3 The Manhattan and QQplot of S0221 p-values are provided in Supplemental Figures 3 and 4, respectively.
+0	Neurological and Communication Disorders	NA	NA	RESULTS	Meta-analyses of the S0221 EA, S0221 AA and CALGB40101 EA did not identify loci that display genome wide significant association with >=grade 3 neuropathy.
+0	Neurological and Communication Disorders	NA	NA	RESULTS	Table 2 shows the most significant meta-analysis associations with >=grade 3 neuropathy.
+1	NA	NA	rs1858826	RESULTS	The most significant association was the G allele in rs1858826, which correlates with a reduced odds of >=grade 3 (ORmeta=.28; 95% CI 0.12-0.55, Pmeta=1.0 x 10-7) and shows consistent evidence of association across S0221 EA (OR= .21; 95% CI, 0.10-0.46, p=8.2 x 10-7), S0221 AA (OR= 0.26; 95% CI 0.07-.95, p=.04) and CALGB40101 EA (OR=.47, 95% CI, 0.20-1.09, p=.07).
+0	NA	NA	rs910920	RESULTS	The second most significant association, the A allele in rs910920 in NXN, also correlates with a reduced odds of >=grade 3 (ORmeta=.57; 95% CI 0.45-0.73, Pmeta=4.9 x 10-6).
+1	NA	NA	rs1858826	RESULTS	Regional association plots of rs1858826 and rs910920 are shown in Supplemental Figures 4 and 5, respectively
+0	NA	NA	NA	RESULTS	Results of these analyses by published candidate gene study are shown in Supplemental Table 1.
+0	NA	NA	NA	RESULTS	Of the 209 unique SNPs identified, 177 independent SNPs were tested for association; 10 SNPs were in very strong linkage disequilibrium (LD) with another candidate SNP (r2>.9) and thus were considered dependent and 22 were either not imputed to a high degree of confidence (info score <.7) or did not have a proxy (r2>.8) available for testing.
+0	NA	NA	NA	RESULTS	Proxy SNPs were defined as being in linkage disequilibrium, r2>.8, with the candidate SNP in the 1000 Genomes Phase 3 CEU as estimated using LDlink.
+0	NA	NA	NA	RESULTS	We report SNP ORs and p-values for all CTCAE >=grade 3 associations for both S0221 EA and AA as well as r2 and distance from candidate SNP for those proxy SNPs selected.
+0	Neurological and Communication Disorders	FGFR4	rs3088050	RESULTS	The most significant candidate association with grade 3+ neuropathy, rs3088050 (OR=1.6, 95% CI=1.2-2.1, p=.0006, padjusted=.10), is a proxy SNP for rs1966265, a coding variant in FGFR4.
+0	NA	NA	NA	RESULTS	This variant was not significant in either the ordinal or cox regression analyses in CALGB40101
+0	Neurological and Communication Disorders	NA	NA	DISCUSS	Defining sets of SNPs associated with neuropathy following taxane treatment could provide valuable biological insight as to the causes of this side effect or potentially be the first step in determining those at risk of neuropathy.
+0	Neurological and Communication Disorders	NA	NA	DISCUSS	The assignment of alternative chemotherapeutic regimens a priori, could thwart the decrease in quality of life due to neuropathy experience, and also improve treatment efficacy by avoiding dose reductions.
+0	Neurological and Communication Disorders	NA	NA	DISCUSS	Therefore, we set out to identify and validate common genetic variants that infer susceptibility to clinical neuropathy in patients treated with Taxanes for breast cancer
+0	NA	NA	NA	DISCUSS	We did not identify genome-wide significant (p<5 x 10-8) SNPs associated with TIPN >= grade 3 versus <grade 3 in the meta-analysis of S0221 and CALGB4010.
+0	diabetes	NA	NA	DISCUSS	Our strongest associations on Chromosome 7 and 16 are hypothesized to have biochemical functions and have been correlated with genes involved in diabetes and diabetic neuropathy, a finding consistent with CALGB 40101 pathway analyses
+1	NA	HNF4A	rs1858826	DISCUSS	ChiP-Seq experiments have shown hepatocyte nuclear factor 4 alpha (HNF4A) binds in the region containing rs1858826.
+0	diabetes	NA	NA	DISCUSS	This transcription factor associates with gluconeogenesis and maturity onset diabetes of the young, a metabolic and genetic disorder that is a consequence of beta-cell dysfunction.
+0	NA	MYBL1	NA	DISCUSS	Furthermore, the neuropathy-associated G allele occupies a very significant position in the predicted motif MYBL1, which is hypothesized to have a role in the proliferation and/or differentiation of neurogenic, spermatogenic and B-lymphoid cells.
+0	NA	NA	NA	DISCUSS	Collectively, these data indicate that this SNP is likely to affect transcription factor binding
+0	Neurological and Communication Disorders	NA	rs910920	DISCUSS	The A allele in the variant, rs910920, showed a reduction in odds of neuropathy and is linked to a number of biochemical functions.
+0	NA	VPS53	NA	DISCUSS	This variant has strong potential to impact transcription factor binding, is a cis eQTL for VPS53 and the G allele (risk increasing) occupies a prominent position in the (predicted) MEF2D motif, as well as in BCL6 and MTF1 motifs.
+0	neuronal loss	Ataxia telangiectasia mutated	NA	DISCUSS	The gene Ataxia telangiectasia mutated (ATM), which plays a role in cellular responses to DNA damage, phosphorylates and activates the MEF2D transcription factor, and knockdowns of endogenous MEF2D in mice have been shown to increase sensitivity to etoposide-induced DNA damage and neuronal cell death.
+0	Charcot-Marie-Tooth disease type 1C	BCL6	NA	DISCUSS	BCL6, a master transcription factor, has been hypothesized to regulate LITAF, and mutations in the latter cause abnormalities in protein degradation in Charcot-Marie-Tooth disease type 1C, a demyelinating neuropathy disease.
+0	NA	MTF1	NA	DISCUSS	MTF1 is involved in DNA damage repair as it induces expression of metallothioneins and other genes involved in metal homeostasis in response to heavy metals.
+0	insulin-treated diabetes	NA	rs910920	DISCUSS	Furthermore, previous studies of diabetic neuropathy in type 1 diabetes have found associated SNPs in NXN, approximately 68kb away from rs910920, but in moderate LD, r2=.65 and SNPs within NXN also show genome-wide significant associations with type 2 diabetes
+0	NA	FGD2	rs12202642	DISCUSS	The variant rs12202642 is a synonymous coding variant in FGD2 and cis-eQTL for peptidase inhibitor 16, PI16, in blood; rs1857798 is not linked to annotation data which indicates any biochemical functio
+0	coronary artery disease	ZFPM2	NA	DISCUSS	ZFPM2, a gene containing the most significant association in the ordinal model for CALGB40101, which also harbored some evidence of association with linked SNPs in S0221 AA (Supplemental Table 1) contains variants associated with coronary artery calcification in African Americans.
+0	cardiovascular disease	NA	NA	DISCUSS	A number of studies have demonstrated a relationship between cardiovascular diabetic neuropathy in patients with both type 1 and type 2 diabetes.
+0	diabetes	VEGFA	NA	DISCUSS	In addition, this gene harbors variants associated with circulating VEGF levels, which have been associated with diabetes, diabetic neuropathy and protective effects on neuronal cells
+0	NA	NA	NA	DISCUSS	Chhibber et al.
+0	Neurological and Communication Disorders	NA	NA	DISCUSS	recently demonstrated the idea that common genetic pathways contribute to neuropathy..
+0	Neurological and Communication Disorders	NA	NA	DISCUSS	Using GCTA analyses, the authors showed that the heritable component of paclitaxel-induced neuropathy is driven, in part, by genes involved in axon outgrowth.
+0	analgesia	NA	NA	DISCUSS	They further hypothesized that disruption of axon outgrowth may be one of the mechanisms by which paclitaxel treatment results in sensory peripheral neuropathy in susceptible patients.
+0	diabetes	NA	NA	DISCUSS	While different mechanisms cause neuron damage in diabetes and following paclitaxel treatment, the Chhibber et al.
+0	diabetic neuropathic pain	NA	NA	DISCUSS	results, in conjunction with gene expression analyses in mouse and human studies of diabetic neuropathy, suggest that susceptibility to sensory peripheral neuropathy is driven by the same sets of genes.
+0	diabetes	NA	NA	DISCUSS	Diabetes status was not made available on S0221 patients.
+0	Neurological and Communication Disorders	NA	NA	DISCUSS	BMI between EA women experiencing CTCAE >= 3 neuropathy and those with <3 shows some evidence of significant difference (p=.02) however BMI was not significant in the genetic association models (p>.10) and there was no evidence of effect modification or confounding by BMI
+0	NA	NA	NA	DISCUSS	This study has both strengths and limitations.
+0	NA	NA	NA	DISCUSS	This study is appropriately powered to detect clinically relevant genetic effects and done clinical trial removes potential random variation that arises in observational studies.
+0	Neurological and Communication Disorders	NA	NA	DISCUSS	However, we do not have dates of neuropathy onset or cumulative dosage, without this information, we are not able to more sensitive analyses that could reveal genetic susceptibility to neuropathy onset given drug exposure.
+0	Neurological and Communication Disorders	NA	NA	DISCUSS	Larger studies on more diverse patient populations to validate, replicate and discover variation related to neuropathy are warranted
+0	Neurological and Communication Disorders	NA	NA	TABLE	Most significant single SNP associations with >=grade 3 neuropathy in meta-analyses of S0221 and CALGB4010

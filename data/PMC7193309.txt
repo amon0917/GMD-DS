@@ -1,0 +1,195 @@
+0	metabolic disorder	NA	NA	ABSTRACT	A growing number of studies clearly demonstrate a substantial link between metabolic dysfunction and the risk of Alzheimer's disease (AD), especially glucose related dysfunction; one hypothesis for this comorbidity is the presence of a common genetic etiology.
+0	Alzheimer's disease	NA	NA	ABSTRACT	We conducted a large-scale cross-trait GWAS to investigate the genetic overlap between AD and 10 metabolic traits.
+0	Alzheimer's disease	insulin	NA	ABSTRACT	Among all the metabolic traits, fasting glucose, fasting insulin and HDL were found to be genetically associated with AD.
+0	Alzheimer's disease	NA	NA	ABSTRACT	Local genetic covariance analysis found 19q13 region had strong local genetic correlation between AD and T2D (P=6.78x10-22), LDL (P=1.74x10-253) and HDL (P=7.94x10-18).
+0	Alzheimer's disease	insulin	NA	ABSTRACT	Cross-trait meta-analysis identified 4 loci that were associated with AD and fasting glucose, 3 loci that were associated with AD and fasting insulin, and 20 loci that were associated with AD and HDL (Pmeta<1.6x10-8, single trait P < 0.05).
+0	NA	NA	NA	ABSTRACT	Functional analysis revealed that the shared genes are enriched in amyloid metabolic process, lipoprotein remodeling and other related pathways; pancreas, liver, blood and other tissues.
+0	Alzheimer's disease	insulin	NA	ABSTRACT	Our work identifies common genetic architectures shared between AD and fasting glucose, fasting insulin and HDL, and sheds light on molecular mechanisms underlying the association between metabolic dysregulation and AD
+0	Alzheimer's disease	NA	NA	INTRO	Alzheimer's disease (AD) is a progressive and devastating neurodegenerative disorder characterized by impairments of memory, cognitive function, language and behavior.
+0	NA	NA	NA	INTRO	In 2016, over 44 million people worldwide were estimated to be affected, and by 2050, the prevalence will nearly triple.
+0	NA	NA	NA	INTRO	While aging is the major risk factor for the vast majority of cases, susceptibility is also influenced by genetics.
+0	Alzheimer's disease	NA	NA	INTRO	During the last decade, 19 loci have been identified for AD, a number of which are related to metabolism.
+0	cognitive defects	NA	NA	INTRO	"The link between metabolic dysregulation and impaired cognition has recently become clearer, leading some to consider late-onset AD a ""metabolic"" disease."
+0	diabetes	NA	NA	INTRO	Diabetes mellitus, both type 1 (T1D) and type 2 (T2D), increases the risk of AD four-fold.
+0	ovarian cell metabolism	NA	NA	INTRO	The metabolic syndrome, a clinical entity including abdominal obesity, hypertension, low HDL, hyperglycemia and hypertriglyceridemia is associated with cognitive decline and structural brain changes such as cortical thinning
+0	Alzheimer's disease	NA	NA	INTRO	One hypothesis to account for the link between metabolism and AD is a common genetic etiology.
+0	Alzheimer's disease	NA	NA	INTRO	Metabolic traits and AD may have similar clinical or epidemiological risk factors, and these risk factors can be originated from the same genetic variants.
+0	Alzheimer's disease	insulin	NA	INTRO	Specifically, our initial hypothesis was that AD is associated with glucose-related traits, represented by T2D, fasting glucose and fasting insulin.
+0	NA	NA	NA	INTRO	The sharing of multiple risk factors for two complex diseases could be due to an overlap in causal genes and pathways.
+0	NA	NA	NA	INTRO	Thus, grouping the genetic variants common to multiple diseases or traits could provide insight into specific biological processes underlying their comorbidity; in addition, except for population stratification bias which were usually accounted for using principal components of genome-wide association studies (GWAS) data, these shared genetic variants are not likely affected by confounding factors at the phenotypic level, such as diet and other environmental factors.
+0	asthma	NA	NA	INTRO	For example, we recently identified 38 loci that shared by asthma and allergic diseases and these loci were found to be enriched in epithelium and immune related biological process; and we also found 11 loci shared by AD and 5 common cancers.
+0	Alzheimer's disease	NA	NA	INTRO	Genetic factors play a significant role in AD, as evidenced by twin data indicating heritability varying between 58% and 79%, even after accounting for shared environmental influences.
+0	metabolic disorder	NA	NA	INTRO	The co-occurrence of metabolic disorders and AD in the same individual suggests the potential of pleiotropic effects, which may have a substantial genetic contribution.
+0	Alzheimer's disease	NA	NA	INTRO	A recent study assessed the genetic causality between AD and metabolic traits.
+0	Alzheimer's disease	NA	NA	INTRO	However, no genome-wide study has been conducted to identify the shared genetic loci between AD and metabolic traits and provide biological interpretation of the shared loci.
+0	Alzheimer's disease	NA	NA	INTRO	We therefore conducted a large-scale cross-trait GWAS analysis to investigate the shared heritability between AD and 10 metabolic traits, at both globally whole-genome level and individual variant level
+0	NA	NA	NA	METHODS	The overall study design is shown in Supplementary Figure 1.
+0	Alzheimer's disease	insulin	NA	METHODS	We retrieved summary statistics from publically available GWAS studies, including AD from the International Genomics of Alzheimer's Project (IGAP) consortium (N = 54,162), body mass index (BMI) (N= 236,231 ) and waist-to-hip ratio (WHR) (N= 142,762 ) from the GIANT Consortium, T2D from the DIAGRAM Consortium (N= 159,208 ), fasting glucose (N= 58,047) and fasting insulin (N=51750 ) from the MAGIC Consortium, and blood lipids (HDL-C [N= 60,812], LDL-C [N= 58,381], TC [N= 60,027], and TG [N= 62,166]) from ENGAGE Consortium.
+0	NA	NA	NA	METHODS	Details of each of the datasets can be found in supplementary table 1
+0	NA	NA	NA	METHODS	We applied standardization of GWAS summary data to minimize potential biases due to the different array platforms and QC procedures.
+0	NA	NA	NA	METHODS	First, we used the LiftOver (http://genome.sph.umich.edu/wiki/LiftOver) tool to convert any GWAS summary data that have reference genome NCBI36/hg18 to GRCh37/hg19.
+0	NA	NA	NA	METHODS	We further filtered out variants with a minor allele frequency (MAF) <1%.
+0	NA	NA	NA	METHODS	In this study, we restricted our analysis to autosomal chromosomes
+0	NA	NA	NA	METHODS	We conducted post-GWAS genome-wide genetic correlation analysis by LD score regression (LDSC) using all SNPs after merging with HapMap3 SNP excluding the HLA region.
+0	NA	NA	NA	METHODS	LDSC estimates genetic correlation between the true causal effects of two traits (ranging from -1 to 1) from summary statistics using the fact that the GWAS effect size estimate for each SNP represents the effects of all SNPs in linkage disequilibrium with that SNP.
+0	NA	NA	NA	METHODS	SNPs in a high linkage disequilibrium region would have higher chi2 statistics than SNPs in a low linkage disequilibrium region, and a similar relationship is observed when single-study test statistics are replaced with the product of the z-scores from two studies of traits with some correlation.
+0	NA	NA	NA	METHODS	LDSC applied a self-estimated intercept during the analysis to account for shared subjects between studies
+0	Alzheimer's disease	NA	NA	METHODS	To characterize the genetic overlap at the level of functional categories, we estimated genetic correlation between AD and 3 metabolic traits in 11 large genomic functional annotation using partitioned LDSC, where each annotation contains more than 200,000 SNPs that are in common with our GWAS data.
+0	allergy	NA	NA	METHODS	These annotations included transcribed region, transcription factor binding sites (TFBS), Super Enhancer, intron, DNaseI digital genomic footprinting (DGF) region, DNase I hypersensitivity sites (DHSs), fetalDHS and histone marks H3K9ac, H3K4me1, H3K4me3, H3K27ac.
+0	NA	NA	NA	METHODS	For each annotation, we re-calculated LD scores for SNPs assigned to that particular category and then used the annotation-specific LD scores for estimating the AD-metabolic trait genetic correlation for each partition separately
+0	Alzheimer's disease	NA	NA	METHODS	To investigate whether there is local genetic correlations between AD and metabolic traits, we performed rho-HESS, a method to estimate the local genetic correlation between a pair of traits at each LD independent region in the genome.
+0	NA	NA	NA	METHODS	Approximately independent LD blocks with average 1.5Mb long were used for the calculation of each local genetic heritability and genetic covariance.
+0	Alzheimer's disease	NA	NA	METHODS	The traits were included in this nalysis based on 2 criteria: the genome-wide genetic correlation estimate from LDSC analysis is greater than 10%, the summary statistic data is based on 1000 genome imputation to ensure non-zero number of variants in each local region in rho-HESS, thus three traits pairs were included in this analysis, AD and T2D, AD and LDL, AD and HDL
+0	NA	insulin	NA	METHODS	The fasting glucose and fasting insulin GWAS summary statistics were derived from the MAGIC consortium, with a sample size of 58,047 and 51,750 respectively.
+0	NA	NA	NA	METHODS	All participants were adults with European ancestry.
+0	NA	NA	NA	METHODS	Both traits were measured from whole blood, plasma or serum with standard and used for GWAS linear regression model.
+0	Alzheimer's disease	NA	NA	METHODS	However, the power of each GWAS trait was limited by their sample size in terms of their genetic correlation with AD.
+0	glucose metabolism alterations	insulin	NA	METHODS	Thus in order to boost the power of GWAS for glucose metabolism phenotype, we used inverse-variance-weighted meta-analysis from METAL to combine the GWAS summary statistics from fasting glucose and fasting insulin.
+0	NA	insulin	NA	METHODS	We flipped the sign of effect estimates of fasting insulin before the meta-analysis in order to incorporate the known negative biological relationship between insulin and glucose.
+0	NA	NA	NA	METHODS	To account for the genomic inflation due to shared samples where the two GWAS summary statistics were calculated, Z-score output from METAL meta-analysis were further adjusted by dividing the square root of LDSC intercept (1.333) of meta-analysis summary statistics.
+0	NA	NA	NA	METHODS	P-values were re-calculated based on adjusted Z-scores.
+0	NA	insulin	NA	METHODS	Thus, the adjusted genomic inflation factor for fasting glucose and fasting insulin meta-analysis result is 1.061
+0	Alzheimer's disease	insulin	NA	METHODS	After assessing genetic correlations among all traits, we applied cross-trait GWAS meta-analysis by using the R package Cross Phenotype Association (CPASSOC) to combine the association evidence for AD with fasting glucose, fasting insulin and HDL respectively at individual variants as exploratory post-hoc analysis based on the criteria of both Rg>10% and P<0.05 from LDSC.
+0	Alzheimer's disease	insulin	NA	METHODS	This method combines effect estimate and standard error of the GWAS summary statistics to test hypothesis of association between the SNP with both traits, for example AD and fasting glucose, or AD and fasting insulin, or AD and HDL.
+0	NA	NA	NA	METHODS	A heterogeneous version of CPASSOC (SHet) was used in this study
+0	NA	NA	NA	METHODS	SHet is a cross phenotype meta-analysis method based on fixed effect model.
+0	NA	NA	NA	METHODS	It can be viewed as the maximum of weighted sum of trait-specific test statistics, which is closely related to a gamma distribution.
+0	NA	NA	NA	METHODS	It is more powerful when there is heterogeneous effect present between studies, which is common in meta-analysis of different phenotypes.
+0	NA	NA	NA	METHODS	SHet uses the sample size for a trait as a weight instead of variance.
+0	NA	NA	NA	METHODS	It can also account correlation due to overlapping or related subjects within and among different studies or cohorts
+0	NA	NA	NA	METHODS	We applied PLINK clumping function (parameters: --clump-p1 1.6e-8 --clump-p2 1e-5 --clump-r2 0.2 --clump-kb 500) to determine top loci that are independent to each other, i.e.
+0	NA	NA	NA	METHODS	variants with P-value less than 1x10-5, has r2 more than 0.2 and less than 500 kb away from the peak will be assigned to that peak's clump.
+0	SNPs falling	NA	NA	METHODS	We identified all genes falling within each clump region.
+0	NA	NA	NA	METHODS	A P-value of 1.6x10-8 (5x10-8/3) was used as genome-wide significance level for cross-trait meta-analysis to account of 3 meta-analysis testing
+0	Alzheimer's disease	insulin	NA	METHODS	In order to understand the biological insights of the shared genes between 3 trait pairs, AD and fasting glucose, AD and fasting insulin, AD and HDL, we have performed multiple post-GWAS functional analyses using shared genes identified from cross-trait meta-analysis.
+0	Alzheimer's disease	NA	NA	METHODS	We used the WebGestalt tool to assess overrepresented enrichment of the identified shared gene set between AD and 3 metabolic traits in the Gene Ontology (GO) biological process functional categories.
+0	NA	NA	NA	METHODS	The Benjamini-Hochberg procedure was used for correcting multiple testing in pathway analysis.
+0	NA	NA	NA	METHODS	The GTEx tissue enrichment analysis was performed based on 30 general tissue types.
+0	NA	NA	NA	METHODS	Integrative transcriptome-wide association analyses was performed using FUSION package based on 44 post-mortal GTEx (version 6) tissues expression weights.
+0	Alzheimer's disease	NA	NA	METHODS	In order to identify association between AD and metabolic traits with gene expressions in specific tissues, we conducted a TWAS using FUSION software package based on 44 post-mortal GTEx (version 6) tissues expression weights.
+0	NA	NA	NA	METHODS	Bonferroni correction was applied for each trait's all gene-tissue pairs on TWAS P-values to account for multiple testing
+0	NA	NA	NA	METHODS	We used 2 methods to prioritize the genes to be discussed among the candidates within the region boundaries from cross-trait meta-analysis.
+0	NA	NA	NA	METHODS	First, we prioritized the genes that are overlap with TWAS functional analysis.
+0	NA	NA	NA	METHODS	When there is not overlapped genes with TWAS, we review the literature for all genes within the boundaries, and then discuss genes/gene families with the most biologically relevance to our traits
+0	Alzheimer's disease	NA	NA	METHODS	We performed MR analysis using MR-PRESSO between 2 types of continuous traits (fasting glucose and HDL) and AD in since they are genetically correlated.
+0	NA	NA	NA	METHODS	We built the MR instruments based on LD-independent SNPs.
+0	NA	insulin	NA	METHODS	We did not include fasting insulin trait because no genome-wide significant SNPs was presented
+0	Alzheimer's disease	NA	NA	RESULTS	We evaluated the genetic correlation of AD and 10 metabolic traits using cross-trait LD score regression from both GWASs to estimate their genetic relationship.
+0	Alzheimer's disease	insulin	NA	RESULTS	Fasting glucose and fasting insulin both have substantial magnitude of genetic correlation with AD, though statistical significance were marginal (Rg = 0.169, P= 0.081 for fasting glucose; Rg = -0.196, P= 0.087 for fasting insulin).
+0	Alzheimer's disease	NA	NA	RESULTS	Their genetic correlations with AD were in opposite direction with similar magnitude.
+0	Alzheimer's disease	NA	NA	RESULTS	We did not observe substantial genetic correlation between AD and obesity traits (BMI and WHR, both Rg<0.05 and P>0.3), T2D (Rg=0.106, P>0.2) and other lipid traits (LDL, TC and TG, Rg= 0.104, -0.076, 0.022, respectively, all P>0.17) (Table 1).
+0	NA	insulin	NA	RESULTS	Considering the well-known inverse direct relationship between glucose and insulin, we carried out cross-trait meta-analysis between FG and FINS to boost GWAS power for glucose regulation effect.
+0	blood glycemia	NA	NA	RESULTS	This meta-analysis would increase the power to detect genetic effects that increase glucose level via reduction of insulin secretion.
+0	Alzheimer's disease	NA	NA	RESULTS	We observed that FG-FINS meta-analysis effect have an even greater magnitude of genetic correlation with AD and is statistically significant (Rg = 0.254, P=0.016).
+0	Alzheimer's disease	NA	NA	RESULTS	We also observed that HDL had a significant genetic correlation with AD (Rg = -0.137, P=0.0436)
+0	Alzheimer's disease	NA	NA	RESULTS	In partitioned LDSC analysis, we evaluated the genetic correlation between AD and 3 metabolic traits by 11 functional annotations to pin down specific regions on the genome that may explain more of the genetic effect sharing than others.
+0	Alzheimer's disease	NA	NA	RESULTS	In this analysis, we found AD and metabolic traits to have a similar genetic correlation pattern
+0	NA	NA	NA	RESULTS	The genetic correlation suggested various signals but with similar trends in all the regions.
+0	Alzheimer's disease	insulin	NA	RESULTS	Notably, the Rg estimate was negatively correlated between AD and fasting insulin, AD and HDL, among all partitioned categories.
+0	Alzheimer's disease	insulin	NA	RESULTS	We identified intron had the highest level of genetic correlation between AD and fasting insulin (Rg= -0.366) (Figure 1 and Supplementary Table 2), which does not involved in coding of mRNA but might harboring genetic variants related to alternative splicing.
+0	Alzheimer's disease	NA	NA	RESULTS	In addition, the transcribed region was found to have the highest level of genetic correlation between AD and HDL (Rg= -0.1471), where this region can transcribe DNA sequence to mRNA
+0	Alzheimer's disease	NA	NA	RESULTS	On the contrary, positive genetic correlations were observed among fasting glucose and the FG-FINS meta-analysis in almost all the functional categories for AD.
+0	Alzheimer's disease	NA	NA	RESULTS	Specifically, we identified intron had the highest level of genetic correlation between AD and FG-FINS meta-analysis (Rg= 0.1946) (Figure 1 and Supplementary Table 2)
+0	Alzheimer's disease	NA	NA	RESULTS	Although the genome-wide genetic correlation between AD and some metabolic traits was not significant, we additionally performed rho-HESS to investigate whether a specific region of genome can be genetically correlated between them.
+0	NA	NA	NA	RESULTS	In the analysis among 3 trait pairs (AD-T2D, AD-LDL, AD-HDL), we identified 1 region (chromosome 19: 44744108-46102697) that showed a strong local genetic correlation between each of the 2 traits (P=6.78x10-22 for AD-T2D, 1.74x10-253 for AD-LDL, 7.94x10-18 for AD-HDL) (Figure 2 and Supplementary Table 3-5).
+1	Alzheimer's disease	apolipoprotein E	NA	RESULTS	This region is known for the APOE gene, who serves as a modulator between AD and T2D
+0	Alzheimer's disease	NA	NA	RESULTS	We used CPASSOC to perform genome-wide meta-analysis to identify genetic loci that were associated with both AD and metabolic traits (meta-analysis P<5x10-8, and trait-specific P<0.05)
+0	Alzheimer's disease	NA	NA	RESULTS	After pruning, we found 4 loci that were associated with both AD and fasting glucose at the genome wide significance level in the cross-trait meta-analysis (Table 2).
+1	NA	MADD	rs10501320	RESULTS	The first locus (index SNP: rs10501320, Pmeta=2.80x10-16), was in close proximity to genes MADD, ACP2 and AGBL2, which was found to play roles in insulin sensitivity, lysosome and cerebellar function and immune complexes.
+1	NA	C11orf94	rs12805422	RESULTS	The second loci (index SNP: rs12805422, Pmeta=1.57x10-13) was mapped to the genes C11orf94 and CRY2 which encode for a flavin adenine dinucleotide-binding protein involved in regulating the circadian clock.
+1	NA	OR4S1	rs1483121	RESULTS	The third loci (index SNP rs1483121 Pmeta=6.10x10-10) was in close proximity to an intergenic region closest to the OR4S1 gene, which is related to G-protein coupled receptor activity and transmembrane signaling receptor activity.
+1	Alzheimer's disease	TCF7L2	rs17747324	RESULTS	In addition, we found that genetic loci represented by rs17747324 (Pmeta=4.52x10-9) on TCF7L2 is associated with both AD and fasting glucose after meta-analysis.
+1	diabetes	TCF7L2	NA	RESULTS	Notably, TCF7L2 is a well-known risk gene for diabetes, which exerts a strong inhibitory effect on glucose-induced insulin secretion
+0	Alzheimer's disease	insulin	NA	RESULTS	A total of 3 loci were identified after meta-analysis of AD and fasting insulin (Table 3).
+1	cancers	CLU	rs2279590	RESULTS	The first one (index SNP: rs2279590, Pmeta=1.14x10-17) was mapped on CLU, a gene that encodes a secreted chaperone protein involved in basic biological events such as cell death, tumor progression, and neurodegenerative disorders.
+0	NA	NA	rs6656401	RESULTS	The second locus represented by rs6656401 (Pmeta=3.71x10-15) was mapped on CR1 and CR2, genes encoding for membrane protein.
+1	Alzheimer's disease	BCL3	rs4803750	RESULTS	The third locus (index SNP: rs4803750, Pmeta=6.54x10-13) located in close proximity to BCL3, which encodes the apolipoprotein J/clusterin, whose polymorphisms have been related to AD susceptibility in published GWAS
+0	Alzheimer's disease	NA	NA	RESULTS	The cross phenotype meta-analysis between AD and HDL identified 20 genome-wide significant loci (Supplementary Table 6).
+1	NA	NA	rs157595	RESULTS	The most significant locus is characterized by the APOE/APOC1 gene (index SNP rs157595, Pmeta=1.21x10-97).
+0	Alzheimer's disease	NA	NA	RESULTS	We noticed that this locus was not only significant after meta-analysis, but also reached genome-wide significance in both single trait GWAS of AD (P=3.76x10-101) and HDL (P=1.92x10-8).
+1	NA	NA	NA	RESULTS	Among 20 independent loci, eight of them were from 19q13.32 region, which is known for the APOE/APOC1/APOC2 gene cluster.
+1	Alzheimer's disease	BIN1	rs6733839	RESULTS	In addition, BIN1 on 2q14.3 (index SNP rs6733839, Pmeta=3.19x10-25) and CCDC116 on 22q11.21 (index SNP rs5754166, Pmeta=3.61x10-12) showed moderately strong association with both AD and HDL, which drove the overall significance of the meta-analysis
+0	NA	NA	NA	RESULTS	For assisting in further functional annotation, we checked our cross-trait meta-analysis for the 3 pairs with recent published study pQTL study.
+0	NA	NA	NA	RESULTS	We compared the genomic position of our significant SNP clumps with the pQTL genomic regions for overlap checking (Table 2-3 and Supplementary Table 6-8).
+0	NA	NA	NA	RESULTS	A total of 23 loci are overlap with pQTL regions.
+1	NA	apolipoprotein E	NA	RESULTS	Notably, we identified 19q13.32 (known for APOE) and 19q13.42 (known for LILRA3) regions were associated with many correlated proteins
+0	Alzheimer's disease	NA	NA	RESULTS	Pathway analyses were performed to identify biological pathways enriched of shared loci (Pmeta<1.6x10-8) related to AD and metabolic traits.
+0	Alzheimer's disease	insulin	NA	RESULTS	We found that AD shared amyloid metabolic process pathways with both fasting glucose trait and fasting insulin trait (FDR<0.01), and shared protein lipid remodeling reverse cholesterol transport and sensory perception related pathways with HDL trait (FDR<0.01) (Supplementary Table 9-11)
+0	Alzheimer's disease	insulin	NA	RESULTS	The GTEx enrichment analysis identified five independent tissues expression that were significantly enriched (after Benjamin-Hochberg correction) for expression of cross-trait associated genes for each of the 3 trait pairs, including blood, heart, liver, muscle and pancreas for AD and fasting glucose; blood, liver, pancreas, small intestine and spleen for AD and fasting insulin; blood esophagus, heart, liver and pancreas for AD and HDL (Figure 3).
+0	NA	NA	NA	RESULTS	Among them, the most strongly enriched tissue was part of the hormone and enzyme producing system (pancreas)
+0	Alzheimer's disease	NA	NA	RESULTS	In order to identify association between AD and metabolic traits with gene expressions in specific tissues, we conducted a TWAS in 44 GTEx tissues (Supplementary Table 12-14).
+0	NA	NA	NA	RESULTS	We used the Bonferroni correction for each trait's all gene-tissue pairs on TWAS P-values to account for multiple testing.
+0	Alzheimer's disease	insulin	NA	RESULTS	A total of 33 gene-tissue pairs were significantly associated with AD, 66 gene-tissue pairs with fasting glucose, and 37 gene-tissue pairs with fasting insulin.
+0	Alzheimer's disease	MADD	NA	RESULTS	Specifically, MADD, a gene expressed in multiple tissues, such as pituitary, artery and esophagus, was shared by AD (PTWAS=2.49x10-8) and fasting glucose trait (PTWAS=4.5x10-10).
+0	Alzheimer's disease	MADD	NA	RESULTS	Interestingly, MADD was also found to be genome-wide significant in AD and fasting glucose cross-trait meta-analysis (Pmeta=2.80x10-16)
+0	Alzheimer's disease	NA	NA	DISCUSS	To our knowledge, this is the first study to identify genome-wide genetic correlation and shared genetic variants between AD and metabolic traits.
+0	Alzheimer's disease	insulin	NA	DISCUSS	Specifically, we found a genetic correlation between AD and fasting glucose, fasting insulin and HDL.
+0	Alzheimer's disease	NA	NA	DISCUSS	In the LDSC analysis between AD and metabolic traits (Table 1), only FG-FINS meta-analysis and HDL had a statistically significant genetic correlation with AD
+0	cognitive defects	NA	NA	DISCUSS	These findings are consistent with the known association between higher glucose levels and cognitive impairment, including AD.
+0	Alzheimer's disease	NA	NA	DISCUSS	Previous studies also found HDL is negatively correlated with AD.
+0	Alzheimer's disease	NA	NA	DISCUSS	Our findings suggest that the phenotypic correlation between AD and metabolic traits were due to a common genetic predisposition base.
+0	Alzheimer's disease	NA	NA	DISCUSS	However, we did not observe genetic correlation between AD and obesity traits, which suggests that the phenotypic association between AD and BMI may due to environmental factors, such as lifestyle.
+0	Alzheimer's disease	insulin	NA	DISCUSS	In the analysis of partitioned co-heritability by functional categories, we observed positive genetic correlation between AD and fasting glucose or FG-FINS meta-analysis, and negative genetic correlation between AD and fasting insulin or HDL in different functional categories.
+0	NA	NA	NA	DISCUSS	We found the genetic correlation estimates were significant in super enhancer, H3K9ac, H3K27ac and DGF for AD-sugar traits pairs (Figure 1a); and genetic correlation estimates were significant in transcribed, TFBS, super enhancer, H3K4me1, H3K27ac and DGF in AD-HDL trait pair (Figure 1b).
+0	Alzheimer's disease	NA	NA	DISCUSS	This indicates the possible role of genetic correlation with respect to these functional categories in the shared genetic etiology of AD and these traits
+1	Alzheimer's disease	MADD	NA	DISCUSS	With regard to fasting glucose, we found 6 significant loci related to AD, including the genes MADD, CRY2 and OR4S1.
+0	Alzheimer's disease	MADD	NA	DISCUSS	MADD has been shown to play a critical role in glucose-induced insulin release as well as AD.
+0	Alzheimer's disease	MADD	NA	DISCUSS	The reduced expression of MADD was found to link with declined long-term neuronal viability in late-onset AD.
+0	Alzheimer's disease	insulin	NA	DISCUSS	With regard to fasting insulin, our results indicated 3 significant loci related to AD.
+1	NA	CLU	NA	DISCUSS	The top locus is CLU, which induces the differentiation of pancreatic duct cells into insulin-secreting cells.
+1	Alzheimer's disease	CLU	NA	DISCUSS	CLU has also been found to be increased in affected cortical areas in AD and is present in amyloid plaques and in the cerebrospinal fluid of patients with ADs.
+0	Alzheimer's disease	NA	NA	DISCUSS	Twenty loci were identified from the cross-trait meta-analysis of HDL and AD.
+1	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	Among them, the most significant gene was APOE, a well-established risk factor for late-onset AD.
+1	NA	apolipoprotein E	NA	DISCUSS	Notably, in the single trait GWAS analysis, APOE also achieved genome-wide significance with HDL level (P=1.92x10-8) (Supplementary Table 6), indicating a potential important pleotropic effect.
+1	NA	apolipoprotein E	NA	DISCUSS	Recent studies suggest that APOE is the major cholesterol carrier in the central nervous system, and that APOE-containing HDL contributes to the redistribution of cholesterol for cellular remodeling and repair in the brain
+1	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	In local genetic correlation analysis, we also found the APOE region to have a strong genetic correlation with both AD and T2D.
+1	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	The presence of APOE in T2D cases with AD is associated with increased neurofibrillary tangles, amyloid plaques, and cerebral amyloid angiopathy
+0	Alzheimer's disease	NA	NA	DISCUSS	In addition, we also tested SNPs that were identified from our cross-trait meta-analysis in 3 AD related endophenotypes: hippocampal volume, Alzheimer's disease progression score and cortical amyloid beta load, to see if these SNPs are also nominally significant in these additional 3 GWAS results (Supplementary Table 15).
+1	Alzheimer's disease	NA	rs2279590	DISCUSS	We found rs2279590 was significant in cortical amyloid beta load (P=0.0197) and rs157595 was significant in hippocampal volume (P=0.0265), which may provide additional insight of these shared loci in terms of endophenotypes of AD
+0	Alzheimer's disease	NA	NA	DISCUSS	The post-GWAS functional analyses provided biological insights into the shared genes between AD and 3 metabolic traits.
+0	NA	NA	NA	DISCUSS	The GTEx tissue enrichment analysis identified shared genes enriched in several tissues, such as pancreas, liver and spleen, which are known to play important roles in regulating the hormone and enzyme function.
+0	NA	NA	NA	DISCUSS	These hormones and enzymes can further impact the glucose and lipid level in the blood or brain.
+0	NA	NA	NA	DISCUSS	Blood, as a transporting carrier for nutrients, hormones and enzymes, was also found the be enriched in all 3 trait pairs.
+0	Alzheimer's disease	insulin	NA	DISCUSS	From TWAS analysis, we identified 14 significant unique gene-tissue pairs associated with AD, 21 with fasting glucose, and 5 with fasting insulin.
+0	Alzheimer's disease	MADD	NA	DISCUSS	Of these, MADD was the only gene significantly associated with AD and fasting glucose, exclusively in pituitary tissue; it is also the only shared gene found in both cross-trait meta-analysis and TWAS.
+0	NA	MADD	NA	DISCUSS	MADD is known to improve insulin sensitivity, especially proinsulin-to-insulin conversion, for the variant with higher fasting glucose.
+0	NA	NA	NA	DISCUSS	The pituitary plays a central role the endocrine axis because its hormones regulate the function of other endocrine glands.
+0	diabetes	NA	NA	DISCUSS	The relationship between diabetes and pituitary function is well known, but research has also noted an association between pituitary function and AD.
+0	Alzheimer's disease	NA	NA	DISCUSS	Our results thus supported the hypothesis that the pituitary may link fasting glucose and AD.
+0	Alzheimer's disease	MADD	NA	DISCUSS	Even though MADD was only found to be significantly associated with AD in pituitary tissue, we found this gene expressed in 4 other tissues in fasting glucose trait, including the tibial artery, the aorta, and the muscularis and mucosa of the esophagus, which showed the importance of vascular and epithelium system in AD and neurodegeneration
+0	Alzheimer's disease	NA	NA	DISCUSS	The genetic correlation between AD and metabolic traits may be due to both pleiotropy and causality.
+0	Alzheimer's disease	NA	NA	DISCUSS	Our MR analysis showed no causal relationship between fasting glucose or HDL and AD after adjusting pleiotropy (Supplementary Table 16).
+0	Alzheimer's disease	NA	NA	DISCUSS	These results further supported our findings that the shared genetic effects between metabolic traits and AD are more likely to be pleiotropic effects, rather than causal etiology or mechanism
+0	Alzheimer's disease	NA	NA	DISCUSS	In addition to the genetic contribution to AD and metabolic traits, environmental and behavioral factors also play important role in their comorbidity.
+0	Alzheimer's disease	NA	NA	DISCUSS	The combination of diet and exercise, and some drugs that modulate metabolism, are a few interventions that have been shown to improve cognition in AD, and currently represent the most hopeful approach to its prevention and treatment
+0	NA	NA	NA	DISCUSS	We also acknowledge the limitations of our work.
+0	Alzheimer's disease	NA	NA	DISCUSS	First, our study power is also limited by the sample size of the AD IGAP consortium.
+0	Alzheimer's disease	tau	NA	DISCUSS	A larger sample size AD or its related endophenotypes, such as infarcts, amyloid, tau accumulation and vascular dementia, are needed to identify more novel shared loci between AD and metabolic traits.
+0	NA	NA	NA	DISCUSS	With the understanding that the power of individual GWAS traits are limited, we seek evidences based on multiple analyses from the genome-wide level, to locus, gene and genetic variant level, where we can take advantage of the benefit of each methods.
+0	NA	NA	NA	DISCUSS	For example, LDSC can be used to determine the genome-wide genetic correlation, which takes the sum of local genetic covariance but diminishes the power of each individual locus, where rho-HESS can help to unveil.
+0	NA	NA	NA	DISCUSS	The TWAS and cross-trait meta-analysis can further investigate genetic overlap on gene and genetic variant level, which provide higher functional significance.
+0	NA	NA	NA	DISCUSS	There were 2 reasons we did not apply Bonferroni correction for 10 traits in this study.
+0	NA	insulin	NA	DISCUSS	Our primary focus is based on glucose-related traits, given the high correlation between T2D, fasting glucose and fasting insulin; the Bonferroni correction would seem too conservative.
+0	NA	NA	NA	DISCUSS	Nevertheless, it is still significant after accounting for 2 traits: T2D and FG-FINS analysis (p<0.025).
+0	NA	NA	NA	DISCUSS	In addition, our study is based on publicly available GWAS summary statistics.
+0	NA	insulin	NA	DISCUSS	Even though we have tried to standardize the data using ImpG summary statistic imputation to the 1000 Genome reference panel, the fasting glucose and fasting insulin summary statistics did not yield good quality imputed data, with only ~1.5 million SNPs' imputation quality having a r2pred >0.6.
+0	NA	insulin	NA	DISCUSS	Thus, we kept original fasting glucose and fasting insulin summary statistics data for downstream analysis, which is based on HapMap 2 imputation.
+0	NA	NA	NA	DISCUSS	However, the HapMap 2 platform can also provide powerful and accurate results for the entire genome
+0	Alzheimer's disease	NA	NA	CONCL	In conclusion, our novel genome-wide cross-trait analysis reinforced the idea that AD and disorders of metabolism are connected.
+0	Alzheimer's disease	NA	NA	CONCL	Evaluation of the genetic overlap between AD and metabolic traits can be beneficial to understand the shared biological mechanisms underlying this comorbidity.
+1	Alzheimer's disease	apolipoprotein E	NA	CONCL	We highlighted the key roles of APOE and MADD genes played for shared etiology between AD and metabolic traits.
+0	Alzheimer's disease	NA	NA	CONCL	More work is needed to fully characterize the heritable component of the metabolic origins of AD
+0	NA	NA	NA	FIG	Partitioned genetic correlation.
+0	NA	NA	NA	FIG	a.
+0	Alzheimer's disease	NA	NA	FIG	Genetic correlation between Alzheimer's disease and sugar traits by functional category.
+0	NA	NA	NA	FIG	b.
+0	Alzheimer's disease	NA	NA	FIG	Genetic correlation between Alzheimer's disease and HDL by functional category category.
+0	NA	NA	NA	FIG	Vertical axis represents the genetic correlation estimate Rg (standard error), horizontal axis represents 11 functional categories.
+0	NA	NA	NA	FIG	Asterisk represents significance (P<0.05).
+0	allergy	NA	NA	FIG	DGF: DNaseI Digital Genomic Footprinting; DHS: DNase I hypersensitivity Site; TFBS: Transcription Factor Binding Sites.
+0	Alzheimer's disease	insulin	NA	FIG	AD: Alzheimer's disease; FG: fasting glucose; FINS: fasting insulin; FGFINSmeta: meta-analysis of fasting glucose and fasting insulin
+0	Alzheimer's disease	NA	NA	FIG	Local genetic correlation and local SNP-heritability between Alzheimer's disease and T2D (2a), LDL (2b) and HDL (2c) respectively.
+0	NA	NA	NA	FIG	For each sub-figure, top part represents local genetic correlation, middle part represents local genetic covariance, and significant local genetic correlation and covariance after multiple testing correction are highlighted in blue; bottom part represents local SNP-heritability for individual trait
+0	Alzheimer's disease	NA	NA	TABLE	Genetic correlation and SNP based heritability between AD and metabolic trait
+0	Alzheimer's disease	NA	NA	TABLE	Cross-trait meta-analysis between AD and fasting glucose (Pmeta < 1.6x10-8; single trait P < 0.05
+0	Alzheimer's disease	insulin	NA	TABLE	Cross-trait meta-analysis between AD and fasting insulin (Pmeta < 1.6x10-8; single trait P < 0.05

@@ -1,0 +1,164 @@
+0	diabetic retinopathy/macular edema disease	NA	NA	ABSTRACT	Diabetic macular edema (DME) and proliferative diabetic retinopathy (PDR) are sight-threatening complications of diabetes mellitus and leading causes of adult-onset blindness worldwide.
+0	diabetes	NA	NA	ABSTRACT	Genetic risk factors for diabetic retinopathy (DR) have been described previously, but have been difficult to replicate between studies, which have often used composite phenotypes and been conducted in different populations.
+0	diabetes	NA	NA	ABSTRACT	This study aims to identify genetic risk factors for DME and PDR as separate complications in Australians of European descent with type 2 diabetes
+0	diabetes	NA	NA	ABSTRACT	Caucasian Australians with type 2 diabetes were evaluated in a genome-wide association study (GWAS) to compare 270 DME cases and 176 PDR cases with 435 non-retinopathy controls.
+0	NA	NA	NA	ABSTRACT	All participants were genotyped by SNP array and after data cleaning, cases were compared to controls using logistic regression adjusting for relevant covariates
+0	NA	NA	rs1990145	ABSTRACT	The top ranked SNP for DME was rs1990145 (p = 4.10 x 10- 6, OR = 2.02 95%CI [1.50, 2.72]) on chromosome 2.
+0	NA	NA	rs918519	ABSTRACT	The top-ranked SNP for PDR was rs918519 (p = 3.87 x 10- 6, OR = 0.35 95%CI [0.22, 0.54]) on chromosome 5.
+0	diabetes	MALRD1	rs12267418	ABSTRACT	A trend towards association was also detected at two SNPs reported in the only other reported GWAS of DR in Caucasians; rs12267418 near MALRD1 (p = 0.008) in the DME cohort and rs16999051 in the diabetes gene PCSK2 (p = 0.007) in the PDR cohort
+0	diabetes	NA	NA	ABSTRACT	This study has identified loci of interest for DME and PDR, two common ocular complications of diabetes.
+0	diabetes	NA	NA	ABSTRACT	These findings require replication in other Caucasian cohorts with type 2 diabetes and larger cohorts will be required to identify genetic loci with statistical confidence.
+0	tumour subtype	NA	NA	ABSTRACT	There is considerable overlap in the patient cohorts with each retinopathy subtype, complicating the search for genes that contribute to PDR and DME biology
+0	NA	NA	NA	ABSTRACT	The online version of this article (10.1186/s12881-018-0587-8) contains supplementary material, which is available to authorized users
+0	diabetes	NA	NA	INTRO	Diabetic retinopathy (DR) is a common and potentially blinding complication of both type 1 and type 2 diabetes mellitus.
+0	blindness	NA	NA	INTRO	The disease affects multiple vascular and neural cell types of the retina and is the leading cause of new cases of blindness in working aged adults.
+0	retinal microaneurysms	NA	NA	INTRO	The early non-proliferative DR (NPDR) stages are characterized by retinal microaneurysms, lipid and protein deposits and cotton wool spots due to damage to retinal vasculature.
+0	NA	NA	NA	INTRO	The later stage, characterised by neovascularisation of the retina is called proliferative DR (PDR).
+0	diabetic retinopathy/macular edema disease	NA	NA	INTRO	Patients may also develop diabetic macular edema (DME) characterized by build-up of fluid in and beneath the macula, affecting detailed central vision, with or without PDR or NPDR.
+0	retinopathy	NA	NA	INTRO	The prevalence of any retinopathy among patients with diabetes is 40.3%, with a prevalence of 8.2% for sight threatening DR, classified as severe NPDR, PDR or DME
+0	diabetes	NA	NA	INTRO	Longer duration of diabetes, poor glycemic control, hypertension, dyslipidemia, central obesity, smoking and high blood pressure are well-documented risk factors for ocular diabetic complications.
+0	NA	NA	NA	INTRO	Genetic factors, however, also play an important role.
+0	NA	NA	NA	INTRO	Family studies have shown that siblings have a greater chance of developing DR, irrespective of other risk factors and the heritable component of DR has been calculated in the range of 25-50%.
+0	NA	NA	NA	INTRO	Candidate gene studies have identified numerous genetic variants that may contribute to risk, but have often been inconsistent.
+0	NA	NA	NA	INTRO	Genome-wide association studies (GWAS) are an efficient method to search for genetic variants associated with complex diseases, including DR
+0	NA	NA	NA	INTRO	Six GWAS for DR related phenotypes have been reported to date.
+0	diabetes	NA	NA	INTRO	The first was conducted in Mexican-Americans with type 2 diabetes with severe NDPR or PDR.
+0	NA	NA	NA	INTRO	Subsequent studies in Taiwanese and Japanese participants used a similar disease definition whereas a study in Chinese patients was limited to PDR.
+0	diabetes	NA	NA	INTRO	The most recent study in type 2 diabetes used a composite definition of blinding DR which included patients with severe NPDR, PDR or DME and was conducted in Caucasian participants for the first time.
+0	diabetes	NA	NA	INTRO	Only one GWAS for DR has been reported in patients with type 1 diabetes.
+0	NA	NA	NA	INTRO	This study was also conducted in a Caucasian cohort and included patients with DME and PDR as cases.
+0	NA	NA	NA	INTRO	Although many loci have been suggested through these studies, there has been limited success in replicating findings between studies, partly due to small study sizes increasing the likelihood of false positive findings and partly due to different ethnic groups and disease definitions under investigation
+0	NA	NA	NA	INTRO	Previous GWAS in Caucasian cohorts have, to date, only considered composite phenotypes.
+0	NA	NA	NA	INTRO	This may limit the results by creating heterogeneous groups with different underlying genetic risk factors.
+0	diabetes	NA	NA	INTRO	Therefore, we undertook a re-analysis of our previously reported GWAS in Australians with type 2 diabetes stratified by patients with PDR and those with DME, separately.
+0	NA	NA	NA	INTRO	We then compared our findings to those reported in the only other published DR GWAS of Caucasian patients, reported by Grassi et al.
+0	NA	NA	NA	METHODS	In South Australia, ethics approval was obtained from the Southern Adelaide Health Service Flinders University Clinical Research Ethics Committee (Flinders Medical Centre and Repatriation General Hospital), and the Human Research Ethics Committees (HREC) of the Royal Adelaide Hospital and Queen Elizabeth Hospital.
+0	NA	NA	NA	METHODS	In New South Wales and Victoria, the HREC of Southeastern Sydney and Illawara Northern Hospital Network (Sydney Eye Hospital), and the HREC of Melbourne Health (Royal Melbourne Hospital) approved this study.
+0	NA	NA	NA	METHODS	The ACT Health HREC approved this study in the Australian Capital Territory.
+0	NA	NA	NA	METHODS	This retrospective, cross sectional study adhered to the tenets of the Declaration of Helsinki.
+0	NA	NA	NA	METHODS	Written informed consent was obtained from all study participants, who have been previously described.
+0	diabetes	NA	NA	METHODS	Briefly, patients with medically treated type 2 diabetes for at least 5-years were recruited and underwent a thorough ophthalmological examination.
+0	NA	NA	NA	METHODS	DR and DME was graded on clinical examination according to recognised severity scales based on ETDRS criteria.
+0	NA	NA	NA	METHODS	Participants completed a detailed questionnaire and concurrent clinical measurements for blood pressure, renal function and HbA1c were obtained.
+0	NA	NA	NA	METHODS	Patients were classified as controls if they had no sign of DR or DME.
+0	NA	NA	NA	METHODS	Cases were defined as those with PDR and those with DME present in their worst affected eye, to be analyzed as two separate case cohorts.
+0	NA	NA	NA	METHODS	Patients with mild, moderate or severe NPDR were excluded from the current analysis although some patients with DME had NPDR concurrently.
+0	NA	NA	NA	METHODS	Those with both DME and PDR were included in both case cohorts
+0	NA	NA	NA	METHODS	Genotyping of single nucleotide polymorphisms (SNPs) across the whole genome have been previously described.
+0	NA	NA	NA	METHODS	Briefly, genomic DNA extracted from whole blood from each individual was genotyped on the OmniExpress SNP array (Illumina).
+0	NA	NA	NA	METHODS	Standard quality control filters were applied to the genotype data and 617,130 SNPs were included in the subsequent analyses.
+0	NA	NA	NA	METHODS	Principal components analysis was conducted using Eigenstrat and individuals falling greater than six standard deviations from the mean of each vector were removed.
+0	NA	NA	NA	METHODS	Q-Q and Manhattan plots were generated using the qqman package in R (https://www.r-project.org/)
+0	NA	NA	NA	METHODS	Demographic and clinical characteristics were compared using t-tests for continuous traits and chi-squared tests for dichotomous traits.
+0	diabetes	NA	NA	METHODS	Association of each SNP passing quality control with each DR phenotype (DME and PDR) was assessed using logistic regression adjusted for the covariates age, diabetes duration, sex, hypertension, nephropathy, HbA1c and the first three principal components, using PLINK.
+0	NA	NA	NA	METHODS	P-values < 5 x 10- 8 were deemed to be significant at a genome-wide level.
+0	NA	NA	NA	METHODS	SNPs for comparison with other Caucasian GWAS were chosen from Grassi et al., 2011.
+0	NA	NA	NA	METHODS	For reported SNPs that were not directly genotyped in the current study, a proxy SNP with r2 > 0.8 with the reported SNP in HapMap was chosen as described previously.
+0	NA	NA	NA	METHODS	Where no such SNP was available, the SNP with the smallest p-value within 50 kb from the reported SNP was selected.
+0	NA	NA	NA	METHODS	When assessing the eight previously reported loci a p-value < 0.0063 was considered significant under a Bonferroni correction for eight independent tests
+0	retinopathy	NA	NA	TABLE	Retinopathy grading of study cohorts.
+0	diabetes	NA	NA	TABLE	All participants had type 2 diabete
+0	NA	NA	NA	RESULTS	The DR phenotypes of all participants are shown in Table 1.
+0	NA	NA	NA	RESULTS	The PDR cohort consisted of 176 cases (with or without DME) while the DME cohort had 270 cases (with or without PDR).
+0	NA	NA	NA	RESULTS	93 participants had both DME and PDR and were common to both case cohorts.
+0	NA	NA	NA	RESULTS	The controls with no PDR or DME were also common to both groups
+0	NA	NA	NA	TABLE	Demographics and clinical characteristics of DME and PDR cases and comparison to control
+0	NA	NA	NA	RESULTS	The demographics and clinical characteristics of both cases compared to controls are shown in Table 2.
+0	diabetes	NA	NA	RESULTS	Well known DR risk factors including; duration of diabetes, hypertension, nephropathy and HbA1c were significantly different between the control and case groups in both cohorts.
+0	NA	NA	NA	RESULTS	Age and sex were associated with PDR with cases being younger and more likely to be male than controls, but this association was not seen with DME
+0	NA	NA	NA	FIG	Q-Q plots and Manhattan plots for DME and PDR GWAS.
+0	diabetic retinopathy/macular edema disease	NA	NA	FIG	Q-Q plots for (a) Diabetic Macular Edema and (b) Proliferative Diabetic Retinopathy GWAS.
+0	diabetic retinopathy/macular edema disease	NA	NA	FIG	Manhattan plots for (c) Diabetic Macular Edema and (d) Proliferative Diabetic Retinopathy GWAS.
+0	NA	NA	NA	FIG	The blue horizontal line represents suggestive association at p = 1.0 x 10-
+0	NA	NA	NA	RESULTS	The effects of population stratification were assessed through visualisation of the Q-Q plots (Fig.
+0	NA	NA	NA	RESULTS	1a and b) and lambda values (lambda = 0.981, lambda1000 = 0.943 for DME; lambda = 1.001, lambda1000 = 1.004 for PDR) and determined to be negligible following adjustment for the first three principal components.
+0	NA	NA	NA	RESULTS	The Manhattan plots (Fig.
+0	NA	NA	NA	RESULTS	1c and d) show the association results for both DME and PDR analyses
+0	NA	NA	NA	TABLE	Top ranked SNPs associated with DME and PDR.
+0	NA	NA	NA	TABLE	SNPs with p < 1.0 x 10- 5 for each phenotype are show
+0	NA	NA	NA	RESULTS	Association results for DME (Additional file 1) and PDR (Additional file 2) showed 7 variants reaching suggestive significance (Table 3).
+0	NA	NA	NA	RESULTS	None of the SNPs reached genome-wide significance (p < 5 x 10- 8).
+0	NA	NA	NA	RESULTS	In the DME analysis, only two SNPs displayed p-values < 1.0 x 10- 5.
+1	NA	MRPL19	rs1990145	RESULTS	The highest ranked SNP was rs1990145 (p = 4.10 x 10- 6, OR = 2.02 95%CI [1.50, 2.72]) located in an intron of the MRPL19 gene on chromosome 2.
+1	NA	LINC00343	rs4771506	RESULTS	The second SNP, rs4771506 (p = 6.94 x 10- 6, OR = 1.97 [1.46, 2.64]), is on chromosome 13 near the LINC00343 gene.
+0	NA	IL12B	rs918519	RESULTS	In the PDR analysis the top ranked SNP, rs918519 (p = 3.87 x 10- 6, OR = 0.35 [0.22, 0.54]) and the fifth ranked SNP, rs918520 (p = 6.66 x 10- 6, OR = 0.34 [0.21, 0.54]) on chromosome 5, are near the long non-coding RNA gene LOC285626 while the closest protein coding gene is IL12B.
+1	NA	NRXN3	NA	RESULTS	Three SNPs near the NRXN3 gene on chromosome 14 are also suggestive of association with PDR
+0	NA	NA	NA	TABLE	Comparison of GWAS findings for DME and PDR with a previously published GWAS for sight-threatening DR in a Caucasian population (Grassi et al., 2011
+0	NA	NA	NA	RESULTS	We compared our results to the only other published GWAS of DR in Caucasians.
+0	diabetes	NA	NA	RESULTS	SNPs associated with sight-threatening DR in the type 1 diabetes cohorts reported by Grassi et al.
+0	NA	NA	NA	RESULTS	(2011) were evaluated in the DME and PDR datasets.
+0	NA	NA	NA	RESULTS	Although none of the SNPs reached formal statistical significance for the eight loci tested at p <  0.006, two SNPs showed a strong trend towards association with p <= 0.008 (Table 4).
+0	NA	MALRD1	rs12267418	RESULTS	The chromosome 10 SNP rs12267418 near MALRD1, was associated with DME, but clearly not with PDR.
+0	NA	PCSK2	rs16999051	RESULTS	Further, the chromosome 20 proxy SNP rs16999051 within PCSK2 was associated with PDR (p = 0.007) and was also nominally associated with DME (p = 0.038).
+0	NA	NA	NA	RESULTS	Both these associations are in the same direction as in the original report
+0	NA	NA	NA	DISCUSS	These GWAS analysed DME and PDR as separate phenotypes of the previously reported sight-threatening DR phenotype of Burdon et al.
+0	NA	NA	NA	DISCUSS	(2015).
+0	NA	NA	NA	DISCUSS	This is the first reported GWAS of DME in any ethnic group.
+0	NA	NA	NA	DISCUSS	Although no SNPs reached genome wide statistical significance, several suggestive loci have been identified for future investigation in other cohorts with DME phenotyping.
+1	NA	MRPL19	rs1990145	DISCUSS	The top ranked SNP for DME, rs1990145 is within the second intron of the mitochondrial ribosomal protein L19 (MRPL19).
+0	diabetes	NA	NA	DISCUSS	Although there have been no reports on this gene's involvement with diabetic retinopathy, it is expressed in the retina (The Ocular Tissue Database).
+0	mitochondrial dysfunction	NA	NA	DISCUSS	Evidence suggests a key role for mitochondrial dysfunction in age-related macular degeneration.
+0	mitochondrial dysfunction	NA	NA	DISCUSS	Polymorphisms in this gene may result in mitochondrial dysfunction and associated eye pathology, with underlying subclinical phenotypes unmasked by conditions of stress such as diabetes and hyperglycaemia.
+0	retinitis pigmentosa	MRPL9	NA	DISCUSS	At least three other MRP genes; MRPL9, MRPL23, and MRPL39 map to genomic regions associated with retinitis pigmentosa indicating the importance of this pathway in retinal pathology.
+1	NA	LINC00343	rs4771506	DISCUSS	The second ranked DME SNP, rs4771506, is approximately 80 kb from the long intergenic non-protein coding RNA 343 (LINC00343).
+0	NA	DAOA	NA	DISCUSS	The nearest protein coding gene is DAOA, D-amino acid oxidase activator, approximately 350 kb upstream from the SNP.
+0	NA	NA	NA	DISCUSS	It is difficult to hypothesise a functional role for this SNP or the nearest genes in DME and replication of these findings is clearly required
+0	NA	NA	NA	DISCUSS	This study is the first GWAS of PDR in Caucasians.
+1	NA	NRXN3	NA	DISCUSS	We identified suggestive association of two SNPs within LOC285626 and three SNPs within NRXN3 with PDR.
+0	NA	NA	NA	DISCUSS	The presence of multiple SNPs at each locus with similar statistical evidence provides confidence in the findings, although, as for DME, replication and larger studies are clearly needed.
+0	NA	NA	NA	DISCUSS	LOC285626 is approximately 35 kb upstream of the two chromosome 5 SNPs and encodes an uncharacterised, long non-coding RNA.
+0	NA	IL12B	NA	DISCUSS	The nearest protein coding gene is IL12B (Interleukin 12B), a further 33 kb upstream.
+0	Type 2 diabetes	IL12B	NA	DISCUSS	IL12B is expressed in the retina (The Ocular Tissue Database) and has been implicated in both type 1 and type 2 diabetes, although there are no prior reports of a role in diabetic eye disease.
+1	NA	NRXN3	NA	DISCUSS	NRXN3 (Neurexin 3) is located approximately 90 kb upstream from the three associated SNPs on chromosome 14 and is strongly expressed in the retina.
+0	NA	NA	NA	DISCUSS	The gene encodes multiple transcripts and although the exact function of each is unknown, neurexin proteins function as cell adhesion molecules and receptors in neurons.
+1	obese	NRXN3	NA	DISCUSS	Genetic variants in NRXN3 have been associated with increased waist circumference and obesity, which are important risk factors for and features of type 2 diabetes and central obesity is a risk factor for DR. NRXN3 polymorphisms are also associated with smoking behaviour, which in turn is a risk factor for age-related macular degeneration although the contributory role of smoking to DR is less than for age-related macular degeneration.
+1	diabetes	NRXN3	NA	DISCUSS	If NRXN3 is confirmed to be important in PDR, there may be overlapping genetic risk factors for risk of type 2 diabetes and PDR
+0	NA	NA	NA	DISCUSS	None of the highest ranked SNPs in this study have previously been reported in other GWAS of DR. All but one of these studies were of non-Caucasian participants.
+0	NA	NA	NA	DISCUSS	If there is a genetic component to susceptibility which is linked with ethnicity, it could explain the difficulty in replicating results from these other studies.
+0	NA	NA	NA	DISCUSS	The lack of support for SNPs found in this current study with other published GWAS does not discount their possible association with DR. Replication analyses with larger numbers of participants would provide greater statistical power to confirm their association with PDR and/or DME.
+0	NA	NA	NA	DISCUSS	Similarly, molecular manipulation of cultured cell and animal models may be informative
+0	NA	NA	NA	DISCUSS	We have also directly compared the results of our DME and PDR GWAS to the only other DR GWAS of Caucasians.
+0	NA	NA	NA	DISCUSS	Grassi et al.
+0	diabetes	NA	NA	DISCUSS	reported a GWAS of severe DR in type 1 diabetes in Caucasian Americans, defined as PDR or DME.
+0	NA	NA	NA	DISCUSS	Similar to the current study, no variants were reported at the genome-wide significant level, however, several loci showed suggestive association (p < 1 x 10- 5).
+0	NA	NA	rs12267418	DISCUSS	One of the top ranked variants, rs12267418, trended towards association with severe DR in the earlier report (p = 8.2 x 10- 6) and with DME in the current study (p = 0.008, 8 loci tested).
+0	NA	MALRD1	NA	DISCUSS	This SNP is located within an intron of the MALRD1 gene on chromosome 10.
+0	NA	MALRD1	NA	DISCUSS	Very little is known about the function of MALRD1 (MAM and LDL receptor class A domain containing 1).
+0	diabetes	MALRD1	rs17670074	DISCUSS	Another recent study on DR in a Chinese type 2 diabetic population included two SNPs within the MALRD1 gene, although an association was not found (rs17670074 p = 0.27, rs9888035 p = 0.30).
+0	NA	NA	NA	DISCUSS	Further research is needed to understand the possible role of this gene in DR and whether ethnic differences or epigenetic effects might be responsible for the differing results
+0	NA	PCSK2	NA	DISCUSS	We also show nominal association at the chromosome 20 locus near PCSK2 reported by Grassi et al.
+0	NA	NA	rs16999051	DISCUSS	Due to the use of different SNP arrays in the two studies, we report results for rs16999051 whereas the earlier report was for rs737141.
+0	NA	NA	NA	DISCUSS	The association of this SNP with PDR was very close to significance (p = 0.007) and the SNP also reached nominal significance with DME (p = 0.038).
+0	Diabetes Complications	NA	NA	DISCUSS	This may suggest some overlap in the genetic susceptibility to different diabetic ocular complications, but may also be due to the number of DME patients who also have PDR.
+0	NA	PCSK2	NA	DISCUSS	This SNP is located within an intron of the PCSK2 gene on chromosome 20.
+0	diabetes	PCSK2	NA	DISCUSS	The proprotein convertase subtilisin/kexin-type 2 gene has been well-documented in its link to susceptibility to type 2 diabetes
+0	diabetes	NA	NA	DISCUSS	This study compared type 2 diabetes participants with type 1 diabetic participants in Grassi et al.
+0	NA	NA	NA	DISCUSS	(2011).
+0	insulin-treated diabetes	NA	NA	DISCUSS	The similar trends at several SNPs may suggest that some loci are associated with DR regardless of diabetes type.
+0	diabetes	NA	rs9896052	DISCUSS	Similarly, the DR associated SNP found in our original report, rs9896052, was found in the discovery type 2 diabetes cohort as well as the replication type 1 diabetes group, again suggesting that at least some DR risk factors are common between types of diabetes
+0	NA	NA	NA	DISCUSS	A strength of this study is the size of the original cohort relative to other DR studies, and the detailed clinical evaluation of the participants.
+0	NA	NA	NA	DISCUSS	Stratifying the sight-threatening phenotype of our earlier study into DME and PDR provided more homogeneous groups for analysis.
+0	retinopathy	NA	NA	DISCUSS	This study is comparable in size to other published GWAS for DR phenotypes and provides a useful breakdown of data from the previously reported composite phenotype of blinding retinopathy, although we have a limited ability to detect small effect sizes.
+0	NA	NA	NA	DISCUSS	A recognised limitation is that 93 participants have both PDR and DME, indicating that these phenotypes may not be independent even though we have conducted the analyses separately.
+0	diabetes	NA	NA	DISCUSS	This issue will affect any cohort of diabetic patients and can only be unravelled using larger cohorts and laboratory based functional testing.
+0	NA	NA	NA	DISCUSS	It is noteworthy that many participants have either DME or PDR, supporting the hypothesis that different factors lead to these different clinical phenotypes.
+0	NA	NA	NA	DISCUSS	Further value could be gained from the data by a meta-analysis with other reported studies, following harmonization of phenotypes.
+0	NA	NA	NA	DISCUSS	Imputation of un-genotyped SNPs may also reveal additional loci, however, most loci detected through imputation are also tagged by directly genotyped SNPs.
+0	NA	NA	NA	DISCUSS	Such analyses are likely to be of limited value in this small cohort.
+0	NA	NA	NA	DISCUSS	Replication cohorts are also required to fully evaluate the findings reported herein, particularly as genome-wide statistical significance was not reached.
+0	NA	NA	NA	DISCUSS	Relevant basic science studies are also merited
+1	NA	MRPL19	NA	CONCL	This is the first GWAS specifically targeting DME and PDR separately as ocular complications of sight-threatening DR. MRPL19 and NRXN3 have been identified as novel loci with suggestive association with DME and PDR respectively.
+1	diabetes	LINC00343	NA	CONCL	Two long non-coding RNAs of unknown function (LINC00343 and LOC285626) have also been highlighted as possible candidates for these common, blinding complications of diabetes, however, further genetic studies are warranted to confirm these findings.
+0	NA	MALRD1	NA	CONCL	This study has also provided supportive evidence for previously reported loci, PCKS2 and MALRD1 in DR in Caucasians.
+0	diabetes	NA	NA	CONCL	Despite recent advances in treatment for diabetes related systemic risk factors and of local DME and PDR with anti-VEGF therapies and fenofibrate, many patients remain visually impaired.
+0	blindness	NA	NA	CONCL	Studies such as this can lead to clearer understanding of important biological pathways relevant to disease and will be important tools in the global fight to prevent blindness from diabetes
+0	NA	ELL	NA	AUTH_CONT	SA, MCG, MD, BP, AWH, ELL, NP, MAB, JEC and KPB contributed to the conceptualization of the study and obtained funding.
+0	NA	ELL	NA	AUTH_CONT	MCG, MD, RWE, JHC, SRL, BP, AJJ, AWH ELL, PGH, NP and JEC recruited patients and collected clinical data.
+0	NA	PSG	NA	AUTH_CONT	PSG, GK, SA, MAB and KPB curated the data and performed the analyses.
+0	NA	PSG	NA	AUTH_CONT	PSG and KPB prepared the original draft and all authors contributed to editing and review and provided intellectual input to the final manuscript.
+0	NA	NA	NA	AUTH_CONT	All authors read and approved the final manuscript
+0	NA	NA	NA	AUTH_CONT	In South Australia, ethics approval was obtained from the Southern Adelaide Health Service Flinders University Clinical Research Ethics Committee (Flinders Medical Centre and Repatriation General Hospital), and the Human Research Ethics Committees (HREC) of the Royal Adelaide Hospital and Queen Elizabeth Hospital.
+0	NA	NA	NA	AUTH_CONT	In New South Wales and Victoria, the HREC of Southeastern Sydney and Illawara Northern Hospital Network (Sydney Eye Hospital), and the HREC of Melbourne Health (Royal Melbourne Hospital) approved this study.
+0	NA	NA	NA	AUTH_CONT	The ACT Health HREC approved this study in the Australian Capital Territory.
+0	NA	NA	NA	AUTH_CONT	The study adhered to the tenets of the Declaration of Helsinki
+0	NA	NA	NA	COMP_INT	Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations

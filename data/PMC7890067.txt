@@ -1,0 +1,334 @@
+0	breast cancer	BRCA1	NA	ABSTRACT	Breast cancer (BC) risk for BRCA1 and BRCA2 mutation carriers varies by genetic and familial factors.
+0	NA	NA	NA	ABSTRACT	About 50 common variants have been shown to modify BC risk for mutation carriers.
+0	NA	NA	NA	ABSTRACT	All but three, were identified in general population studies.
+0	NA	NA	NA	ABSTRACT	Other mutation carrier-specific susceptibility variants may exist but studies of mutation carriers have so far been underpowered.
+0	NA	BRCA1	NA	ABSTRACT	We conduct a novel case-only genome-wide association study comparing genotype frequencies between 60,212 general population BC cases and 13,007 cases with BRCA1 or BRCA2 mutations.
+0	NA	BRCA1	NA	ABSTRACT	We identify robust novel associations for 2 variants with BC for BRCA1 and 3 for BRCA2 mutation carriers, P < 10-8, at 5 loci, which are not associated with risk in the general population.
+1	NA	MADD	rs60882887	ABSTRACT	They include rs60882887 at 11p11.2 where MADD, SP11 and EIF1, genes previously implicated in BC biology, are predicted as potential targets.
+0	NA	BRCA1	NA	ABSTRACT	These findings will contribute towards customising BC polygenic risk scores for BRCA1 and BRCA2 mutation carriers
+0	breast cancer	NA	NA	ABSTRACT	Breast cancer risk for BRCA1/BRCA2 mutation carriers varies depending on other genetic factors.
+0	breast cancer	NA	NA	ABSTRACT	Here, the authors perform a case-only genome-wide association study and highlight novel loci associated with breast cancer risk for BRCA1/BRCA2 mutation carriers
+0	breast cancer	NA	NA	INTRO	Breast cancer (BC) is the most common cancer in women worldwide and BC family history is one of the most important risk factors for the disease.
+0	NA	NA	NA	INTRO	Women with a history of BC in a first-degree relative are about two times more likely to develop BC than women without a family history.
+0	NA	BRCA1	NA	INTRO	Around 15-20% of the familial risk of BC can be explained by rare mutations in the BRCA1 or BRCA2 genes.
+0	NA	BRCA1	NA	INTRO	A recent prospective cohort study estimated the cumulative risk of BC by 80 years to be 72% for BRCA1 mutation carriers and 69% for BRCA2 mutation carriers.
+0	NA	NA	NA	INTRO	This study also demonstrated that BC risk for mutation carriers varies by family history of BC in first and second degree relatives, suggesting the existence of other genetic factors that modify BC risks
+0	NA	NA	NA	INTRO	A total of 179 common BC susceptibility single nucleotide polymorphisms (SNPs) or small insertions or deletions (INDELs) have been identified through genome-wide association studies (GWAS) in the general population.
+0	NA	NA	NA	INTRO	Although risk alleles at individual SNPs (hereafter used as a generic term to refer to common variants, which also includes the small INDELs) are associated with modest increases in BC risk, it has been shown that they combine multiplicatively on risk, resulting in substantial levels of BC risk stratification in the population.
+0	NA	BRCA1	NA	INTRO	Similarly, more than 50 of the common genetic BC susceptibility variants have also been shown to be associated with BC for BRCA1 and BRCA2 mutation carriers and their joint effects, summarised as polygenic risk scores (PRS), result in large differences in the absolute risks of developing BC for mutation carriers at the extremes of the PRS distribution.
+0	NA	BRCA1	NA	INTRO	BC GWAS for BRCA1 and BRCA2 mutation carriers have been carried out through the Consortium of Investigators of Modifiers of BRCA1/2 (CIMBA).
+0	NA	BRCA1	NA	INTRO	However, despite the large number of BRCA1 and BRCA2 mutation carriers included, the power to detect genetic modifiers of risk remains limited in comparison to that available in the general population.
+0	NA	BRCA1	NA	INTRO	To date, no variants specifically associated with BC risk for BRCA1 and BRCA2 carriers have been identified
+0	breast cancer	NA	NA	INTRO	Here, we apply a novel strategy using a case-only GWAS design, in which SNP genotype frequencies in 7,257 BRCA1 and 5,097 BRCA2 mutation carrier BC cases are compared to those in 60,212 BC cases from the Breast Cancer Association Consortium (BCAC), unselected for mutation status.
+0	NA	BRCA1	NA	INTRO	We aim (1) to identify novel SNPs that modify BC risk for BRCA1 or BRCA2 mutation carriers but are not associated with risk in the general population and (2) for the known 179 BC susceptibility SNPs, assess whether there is evidence of an interaction between the SNPs and BRCA1 or BRCA2 mutations and therefore evaluate whether the SNP effect size estimates applicable to mutation carriers are different
+0	NA	BRCA1	NA	INTRO	We identify robust novel associations for 2 variants with BC for BRCA1 and 3 for BRCA2 mutation carriers, P < 10-8, at 5 loci, which are not associated with risk in the general population.
+1	NA	MADD	rs60882887	INTRO	They include rs60882887 in 11p11.2 where MADD, SP11 and EIF1, genes previously implicated in BC biology, are predicted as potential targets.
+0	NA	BRCA1	NA	INTRO	These findings will contribute towards customising BC PRS for BRCA1 and BRCA2 mutation carriers
+0	NA	BRCA1	NA	FIG	Sample selection for a BRCA1 and b BRCA2 case-only analysis.
+0	breast cancer	HER2	NA	FIG	*Four studies were excluded because they were included in clinical trials based on breast tumour characteristics as HER-2 receptor status (see Supplementary Table 2)
+0	NA	BRCA1	NA	FIG	Sample selection for a BRCA1 and b BRCA2 control-only analysis
+0	NA	BRCA1	NA	RESULTS	A total of 60,212 BCAC cases and 7,257 BRCA1 mutation carrier cases were available for the BRCA1 case-only analyses and 57,725 BCAC cases and 5,097 BRCA2 mutation carrier cases were available for the BRCA2 case-only analyses (Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	BRCA1	NA	RESULTS	A total of 45,881 BCAC controls and 5,750 unaffected BRCA1 mutation carriers were available for the BRCA1 control-only analyses and 43,549 BCAC controls and 4,456 unaffected BRCA2 mutation carriers for the BRCA2 control-only analyses (see Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	NA	RESULTS	Only women of European ancestry were included with 60.9% samples from European countries, 31.1% from the USA, 6.1% from Australia and 1.7% from Israel (Supplementary Tables 1-4).
+0	NA	BRCA1	NA	RESULTS	The mean age at BC diagnosis for mutation carrier cases in CIMBA was 42.5 years (40.9 for BRCA1 mutation carriers; 44.1 for BRCA2 mutation carriers) and 58.4 years for cases in BCAC
+0	NA	NA	NA	FIG	Strategy followed for analysing the associations for the 179 known BC susceptibility SNPs
+0	NA	NA	NA	RESULTS	The analytical process for assessing interactions with known BC susceptibility SNP is summarised in Fig.
+0	NA	NA	NA	RESULTS	3 and for the detection of novel modifiers in Fig.
+0	NA	NA	NA	RESULTS	4
+0	NA	BRCA1	NA	RESULTS	Under a case-only study design, it is important to establish independence between the SNPs and BRCA1 or BRCA2 mutation carrier status.
+0	NA	NA	NA	RESULTS	This was assessed a genome-wide level using a control-only analysis which included controls from BCAC and unaffected mutation carriers from CIMBA with SNP data imputed based on the 1,000 genomes project.
+0	NA	NA	NA	RESULTS	Genotypes had been imputed separately by each consortium.
+0	NA	BRCA1	NA	RESULTS	In the analysis of BRCA1 mutation carriers, 2,164 SNPs were excluded because they were located in or within 500 kb of BRCA1.
+0	NA	BRCA1	NA	RESULTS	2,070 SNPs were excluded from further analyses because they showed associations at p < 10-8 with BRCA1 mutation carrier status in the control-only analysis (2,012 SNPs located on chromosome 17 and 58 on other chromosomes).
+0	NA	BRCA2	NA	RESULTS	In the analysis of BRCA2 mutation carriers, 2,947 SNPs were excluded because they were located in or within 500 kb of BRCA2.
+0	NA	BRCA2	NA	RESULTS	A further 626 SNPs were excluded from further analyses because they were found to be associated with BRCA2 mutation carrier status in the control-only analysis (566 SNPs on chromosome 13, and 60 on other chromosomes).
+0	NA	NA	NA	RESULTS	A total of 9,068,301 SNPs remained for the BRCA1case-only association analysis and 9,043,830 SNPs for the BRCA2case-only analysis
+0	NA	NA	NA	RESULTS	Based on published data, 179 SNPs were considered as established BC susceptibility SNPs (Fig.
+0	breast cancer	NA	NA	RESULTS	3); 158 SNPs were associated with overall BC risk and 21 additional SNPs were found to be associated through studies in ER-negative breast cancer (see Supplementary Table 11 in Milne et al.).
+0	NA	BRCA2	K3326X	RESULTS	One of the 158 SNPs, rs11571833 located within BRCA2 was excluded from the BRCA2 analysis.
+0	NA	NA	NA	RESULTS	The detailed results are shown in Supplementary Data 1-3
+0	NA	BRCA1	NA	TABLE	Known BC susceptibility SNPs demonstrating associations in the BRCA1 case-only analysis
+0	breast cancer	BRCA1	NA	RESULTS	For BRCA1 mutation carriers, previous studies have demonstrated heterogeneity in the associations of the SNPs with ER-positive and ER-negative breast cancer.
+0	NA	BRCA1	NA	RESULTS	Since BRCA1 mutation carriers develop primarily ER-negative BC, to comprehensively assess the evidence of interaction with BRCA1 mutation status, we followed a two-step process; we first assessed the associations using all BC cases from BCAC and then we restricted the comparison to BCAC ER-negative BC cases.
+0	NA	BRCA1	NA	RESULTS	Of the 158 SNPs, 59 were associated with BRCA1 mutation carrier status when compared to all BC cases (P < 0.05, Supplementary Data 1).
+0	NA	NA	NA	RESULTS	However, after adjusting for multiple testing, only four of these SNPs were associated (P < 2.7 x 10-4) and also showed evidence of association (P < 0.05) when compared with ER-negative BC cases (Table 1).
+0	NA	BRCA1	rs17529111	RESULTS	Two additional SNPs on chromosome 1 and 6 (chr1_10566215_A_G and rs17529111) were associated at P < 2.7 x 10-4 with BRCA1 mutation status only when compared with ER-negative BCAC cases.
+0	NA	BRCA1	NA	RESULTS	The OR estimates for association with BRCA1 mutation status for these six SNPs were similar under both case-only analyses (all BC and ER-negative BC cases analyses) and varied from 0.85 to 1.07, suggesting that the magnitude of their associations with BC risk for BRCA1 mutation carriers differs from that observed in the general population.
+0	NA	BRCA1	NA	RESULTS	For the other 152 SNPs, there was no evidence of association with BRCA1 mutation status when compared against the ER-negative BC cases from BCAC (Supplementary Data 1), suggesting that the OR estimated using case-control data from BCAC are also applicable to BRCA1 mutation carriers
+0	NA	NA	rs66823261	RESULTS	Among the 21 ER-negative SNPs reported in Milne et al., only one (rs66823261) demonstrated significant evidence of association in the ER-negative case-only analysis (OR = 0.88, p < 2.7 x 10-4) (Table 1 and Supplementary Data 2).
+0	NA	NA	NA	RESULTS	For the 20 other showing no association, the ORs estimated in Milne et al.
+0	NA	BRCA1	NA	RESULTS	would be applicable to BRCA1 mutation carriers
+0	NA	BRCA1	NA	RESULTS	To estimate the association of the seven significant SNPs with BC for BRCA1 mutation carriers (ORcomputed), the OR estimated using case-control data from BCAC (ORBCAC) was multiplied by the OR estimated using the case-only analysis (OR).
+0	NA	BRCA1	rs17426269	RESULTS	For three SNPs, rs17426269, chr10_80841148_C_T and rs17529111, the magnitude of the association with BC for BRCA1 mutation carriers was greater than that in the general population (ORBCAC) and for two of these three, the ORcomputed was in the opposite direction than the ORBCAC (Table 1).
+0	NA	BRCA1	rs13281615	RESULTS	For the four other SNPs (rs13281615, chr16_52599188_C_T, chr1_10566215_A_G and rs66823261), the estimated interaction OR resulted in the OR for associations with BRCA1 BC risk being closer to 1 (Table 1)
+0	NA	BRCA1	NA	RESULTS	Among the remaining 172 SNPs (152 + 20) that showed no associations with BRCA1 mutation status, the estimated ORcomputed was smaller (i.e., closer to 1) than those estimated in the general population (ORBCAC) for 146 SNPs  (85%, Supplementary Data 1 and 2).
+0	cancers	NA	NA	RESULTS	Based on the analysis of ER- tumours, the proportion of SNPs for which the ORcomputed was closer to 1 than the ORBCAC estimates was 59% (Supplementary Data 1 and 2)
+0	NA	BRCA2	NA	TABLE	Known BC susceptibility SNPs demonstrating associations in the BRCA2 case-only analysis
+0	NA	BRCA2	NA	RESULTS	For BRCA2 mutation carriers, among the 157 SNPs known to be associated with BC risk in the general population, 43 were associated with BRCA2 mutation carrier status at P < 0.05 in the case-only analysis that included all BCAC BC cases (Supplementary Data 3).
+1	NA	NA	rs62355902	RESULTS	However, only three SNPs (rs62355902, rs10759243 and chr22_40876234_C_T) showed associations after adjusting for multiple testing (P < 2.7 x 10-4) with OR estimates in the range of 0.88 to 0.89 (Table 2)
+0	NA	BRCA2	NA	RESULTS	For these three SNPs, the observed interaction resulted in the magnitude of association with BC risk for BRCA2 mutation carriers (ORcomputed) being closer to 1 (Table 2)
+0	NA	BRCA2	NA	RESULTS	Of  the 154 SNPs that showed no significant associations with BRCA2 mutation status, 79% had ORs of BC for BRCA2 mutation carriers (ORcomputed) that were closer to 1 when compared to the ORs estimated using data in the general population (ORBCAC) (Supplementary Data 3)
+0	NA	BRCA1	NA	RESULTS	To identify novel SNPs that modify BC risks for BRCA1 and BRCA2 mutation carriers, we used a case-only design to investigate the associations of SNPs that had not been previously shown to be associated with BC in the general population (Fig.
+0	NA	NA	NA	RESULTS	4)
+0	NA	BRCA1	NA	RESULTS	For BRCA1 mutation carriers, a total of 924 SNPs showed associations at P < 10-8 in all BC case-only analysis.
+0	cancers	NA	NA	RESULTS	To ensure that none of these associations are driven by differences in the distribution of ER-positive and ER-negative tumours in BCAC cases, an intermediate step was applied, in which we re-analysed the associations after restricting the BCAC data to only ER-negative cases.
+0	NA	NA	NA	RESULTS	220 of these SNPs remained significant at P < 10-7 located in 11 distinct genomic regions.
+0	NA	NA	NA	RESULTS	SNPs were considered to belong to the same region if they were located within 500 kb of each other
+0	NA	BRCA1	NA	TABLE	List of potential novel SNP modifiers associated in the case-only analysis for BRCA1 mutation carriers
+0	NA	NA	NA	RESULTS	To ensure that none of these associations was driven by differences in the genotype imputation in the BCAC and CIMBA data (which had been carried out separately), all the SNPs in these 11 distinct genomic regions were re-imputed in the BCAC and CIMBA samples jointly and the associations for all SNPs in the regions were re-assessed in the control-only and case-only analyses.
+0	NA	NA	NA	RESULTS	After the exclusion of 614 SNPs (613 on chromosome 17) that showed associations in the control-only analysis, 71 SNPs in two regions remained significant at P < 10-8 (Supplementary Data 4) in the case-only analyses including all BCAC cases.
+0	NA	NA	NA	RESULTS	None of these SNPs had been previously reported in GWAS in the general population (p-values of association ranged from 0.51 to 5.9 x 10-5 with effect sizes in the range 0.96-1.04 in BCAC case-control analyses).
+0	NA	NA	NA	RESULTS	A forward step-wise regression analysis within each of these two regions (restricted to the SNPs exhibiting associations at p < 10-8) starting with the most significant SNP and adding sequentially the other SNPs, identified a set of four conditionally independent SNPs (top SNPs) (Table 3): all SNPs were imputed, with r2 > 0.5, and had minor allele frequency (MAF) > 10%.
+0	NA	NA	NA	RESULTS	Three of the top SNPs are located in 17q21.2.
+1	NA	KRTAP4-5	rs58117746	RESULTS	rs58117746 is an insertion of 16 bp within an exon of KRTAP4-5 leading to a frameshift of the amino acid sequence.
+1	NA	LEPREL4	rs5820435	RESULTS	rs5820435 and rs11079012 are both intronic and located in LEPREL4 (also named P3H4) and JUP, respectively, while rs80221606 is intronic and located in 11p11.2, within CELF1.
+0	NA	NA	NA	RESULTS	The OR estimates of these four top SNPs ranged from 0.78 to 1.22.
+0	NA	NA	NA	RESULTS	All showed evidence of heterogeneity in the OR by country (P < 0.05) (Table 3); however, in a leave-one-out analysis, in which each country was left out in turn, the overall associations remained similar (Supplementary Fig.
+0	NA	NA	NA	RESULTS	1 and 2) suggesting that no individual country had a big impact on the observed associations
+0	NA	BRCA2	NA	TABLE	List of potential novel SNP modifiers associated in the case-only analysis for BRCA2 mutation carriers
+0	NA	BRCA2	NA	RESULTS	For BRCA2 mutation carriers, the case-only analysis identified 273 SNPs, located across 22 regions, with evidence of association at P < 10-8.
+0	NA	NA	NA	RESULTS	After the joint re-imputation of the SNPs in these 22 regions, only 102 SNPs located in four regions (2p14, 13q13.1, and 13q13.2) remained associated at P < 10-8 (Supplementary Data 5).
+0	NA	NA	NA	RESULTS	The step-wise regression analysis suggested that associations in each of the four regions were driven by a single variant (top SNPs) (Table 4).
+0	NA	NA	NA	RESULTS	All four variants were imputed (with r2 > 0.5) and had MAF higher than 5%.
+0	NA	ETAA1	rs12470785	RESULTS	At 2p14, rs12470785 (r2 = 0.98) is within an intron of ETAA1.
+0	NA	B3GALTL	rs79183898	RESULTS	At 13q13.1, rs79183898 (r2 = 0.84) is located between B3GALTL and RXFP2 and rs736596 (r2 = 0.66) is within an intron of STARD13.
+1	NA	NA	rs4943263	RESULTS	At 13q13.2, rs4943263 (r2 = 0.99) is located between RP11-266E6.3 and RP11-307O13.1.
+0	NA	NA	NA	RESULTS	None of these SNPs had been previously reported to be associated with BC risk in BCAC studies in the general population (p-values from 0.01 to 0.90 in BCAC case-control analyses).
+0	NA	NA	NA	RESULTS	The OR estimates of these four SNPs ranged from 0.85 to 1.37.
+0	NA	NA	NA	RESULTS	All showed evidence of heterogeneity in the OR by country at p = 0.05 (Table 4).
+0	NA	NA	rs79183898	RESULTS	In the leave-one-country-out sensitivity analysis the two intergenic SNPs, rs79183898 and rs736596 were no longer significant at P < 10-4 when studies from the USA were excluded from the analysis and the OR estimates were substantially attenuated (Supplementary Figs.
+0	NA	NA	NA	RESULTS	3 and 4)
+0	NA	NA	NA	RESULTS	"In order to determine the likely target genes of each region of the eight novel mutation carriers' BC risk-associated SNPs, we first defined credible set of SNPs candidates to be causal (credible causal variants [CCVs]) (see ""Methods"")"
+0	NA	BRCA1	NA	TABLE	List of most significant SNPs in the CCV analysis for BRCA1 mutation carriers
+0	NA	BRCA1	NA	RESULTS	Sets of CCVs were sought for the two regions found in the previous step-wise analyses to be associated with risk in BRCA1 mutation carriers.
+0	NA	NA	NA	RESULTS	In the region located at 11p11.2, only one signal composed of 74 CCVs was found (Table 5).
+0	NA	NA	NA	RESULTS	All these 74 CCVs were imputed with a r2 higher than 0.92 (Supplementary Data 6).
+0	NA	NA	NA	RESULTS	In the region located in 17q21.2, we found nine signals which contained from one to 13 CCVs (Table 5).
+0	NA	NA	NA	RESULTS	Two of these CCVs were genotyped and the others had an r2 between 0.50 and 0.98 (Supplementary Data 6)
+0	NA	NA	NA	RESULTS	"We used INQUISIT to prioritize target genes by intersecting each CCV with publicly available annotation data from breast cells and tissues (see ""Methods"")."
+0	NA	BRCA1	NA	RESULTS	The results for BRCA1 mutation carriers are summarized in Supplementary Data 7.
+0	NA	BRCA1	NA	RESULTS	For BRCA1 mutation carriers, we predicted 38 unique target genes for six of the 10 independent signals.
+1	NA	MTCH2	NA	RESULTS	Seven target genes in two regions (MTCH2, MADD, PSMC3, RP11-750H9.5, SLC39A13, SPI1, and EIF1) were predicted with high confidence (designated Level 1, scoring range between Level 1 [highest confidence] to Level 3 [lowest confidence]).
+0	NA	NA	NA	RESULTS	All seven Level 1 genes were predicted to be distally regulated by CCVs
+0	NA	BRCA2	NA	TABLE	List of most significant SNPs in the CCV analysis for BRCA2 mutation carriers
+0	NA	BRCA2	NA	RESULTS	Similarly, sets of CCVs were sought from the four regions found in the previous step-wise analyses to be associated with risk in BRCA2 mutation carriers.
+0	NA	NA	NA	RESULTS	A total of 17 signals were found.
+0	NA	NA	NA	RESULTS	One signal composed of 78 CCVs was found in the region located at 2p14 (Table 6).
+0	NA	NA	NA	RESULTS	One CCV was genotyped and the others were imputed with r2 between 0.95 and 0.99 (Supplementary Data 8).
+0	NA	NA	NA	RESULTS	Twelve signals were found from the two regions previously found in 13q13.1 which contained from one to 46 CCVs.
+0	NA	NA	rs79183898	RESULTS	The analysis in the region of rs79183898 in 13q13.1 found three signals out of the 12, which are located in 13q12.3 (with top SNPs: rs71434801, rs77197167, rs114300732).
+0	NA	NA	NA	RESULTS	Finally, four signals in the previously identified region located in 13q13.2 containing from three to 40 CCVs were found.
+0	NA	NA	NA	RESULTS	Among all CCVs, 11 are genotyped and the imputed ones have an r2 higher than 0.58 (Table 6 and Supplementary Data 8)
+0	NA	BRCA2	NA	RESULTS	For BRCA2 mutation carriers, we predicted 24 unique target genes for 10 of the 17 independent signals, including one high confidence target gene, STARD13 at chr13:33395975-34395975.
+0	NA	STARD13	NA	RESULTS	STARD13 was also predicted to be targeted by three independent signals.
+0	NA	NA	NA	RESULTS	All results are presented in Supplementary Data 9
+0	NA	BRCA1	NA	DISCUSS	To identify novel genetic modifiers of BC risk for BRCA1 and BRCA2 mutation carriers and to further clarify the effects of known BC susceptibility SNPs on BC risk for carriers, a novel case-only analysis strategy was used based on GWAS data from unselected BC cases in BCAC and mutation carriers with BC from CIMBA.
+0	NA	NA	NA	DISCUSS	This strategy provides increased statistical power for detecting new associations and for clarifying the risk associations of known BC susceptibility SNPs in mutation carriers
+0	cancers	BRCA1	NA	DISCUSS	Of the 179 known BC susceptibility SNPs identified through GWAS in the general population, only 10 showed evidence of interaction with BRCA1 or BRCA2 mutation carrier status after taking the tumour ER-status into account.
+0	NA	NA	NA	DISCUSS	None of these 10 SNPs was among the fifty SNPs previously shown to be associated with BC for mutation carriers.
+0	NA	NA	NA	DISCUSS	However, 82% of all 179 known susceptibility SNPs showed a predicted OR point estimate for mutation carriers closer to 1 than that estimated in the general population.
+0	NA	NA	NA	DISCUSS	The effect sizes in the general population may be somewhat exaggerated as the BCAC dataset used here contributed to the discovery of most of the loci, although this effect is likely to be small as most loci are highly significant and the effects have been replicated in independent datasets.
+0	NA	NA	NA	DISCUSS	Taken together, these results suggest that, while most SNPs associated with risk in the general population are associated with risk for mutation carriers, the average effect sizes for mutation carriers are smaller.
+0	NA	NA	NA	DISCUSS	These findings are in line with previous results by Kuchenbaecker et al.
+0	NA	BRCA1	NA	DISCUSS	and suggest that a PRS built using data from the general population will have a smaller effect size for BRCA1/2 mutation carriers
+0	NA	BRCA1	NA	DISCUSS	For 10 SNPs, an interaction was observed with BRCA1 or BRCA2 mutation carrier status, suggesting that these SNPs have different effect sizes in BRCA1 or BRCA2 mutation carriers compared to the general population (seven for BRCA1 mutation carriers and three for BRCA2 mutation carriers).
+0	NA	NA	NA	DISCUSS	Specifically, for seven SNPs the confidence intervals were consistent with no effect on BC risk for mutation carriers, one SNP was associated with a larger OR for mutation carriers compared to the general population and two were associated in the opposite direction to that observed in the general population.
+0	NA	NA	NA	DISCUSS	However, distinguishing between a smaller effect size for mutation carriers compared to the general population OR estimates and no association for mutation carriers is very challenging since, even with the large sample size here, it is not possible to estimate precisely the effect sizes for individual variants.
+0	NA	NA	NA	DISCUSS	Larger sample sizes will be required for this purpose.
+0	cancers	BRCA1	NA	DISCUSS	Determining the precise effects of the SNPs in BRCA1 and BRCA2 mutation carriers will provide insights for understanding the biological basis of cancer development associated with BRCA1 and BRCA2 mutations
+0	NA	BRCA1	NA	DISCUSS	We also identified eight novel conditionally independent common SNPs associated with BC risk (four for BRCA1 mutation carriers, four for BRCA2 mutation carriers).
+0	NA	NA	NA	DISCUSS	These have not been reported in previous association studies.
+0	NA	BRCA2	NA	DISCUSS	The case-only OR estimates for these SNPs varied from 0.85 to 1.37 for BRCA2 mutation carriers and from 0.78 to 1.22 for BRCA1 mutation carriers.
+0	NA	BRCA1	NA	DISCUSS	For five of these SNPs the estimated ORs from the case-only analysis results were in the same direction as the estimated HRs from previously reported GWAS using cohort analyses restricted in BRCA1 and BRCA2 mutation carriers in CIMBA.
+1	NA	BRCA1	rs58117746	DISCUSS	Two of these five SNPs also demonstrated some evidence of association in mutation carriers (p = 2.2 x 10-2 for rs58117746 for BRCA1 mutation carriers; and p = 7.7 x 10-5 for rs12470785 in ETAA1 for BRCA2 mutation carriers; Tables 3 and 4).
+0	NA	BRCA1	rs5820435	DISCUSS	For the remaining three variants, rs5820435 and rs11079012 at 17q21.2 and rs736596 at 13q13.1, the associations in BRCA1 or BRCA2 mutation carriers in the CIMBA data were not consistent with the observed interactions and might be artefactual.
+0	NA	BRCA1	NA	DISCUSS	One possibility is that the associations with SNPs on 17q and 13q in BRCA1 and BRCA2 carriers respectively, reflect confounding due to linkage disequilibrium (LD) with specific mutations.
+0	NA	NA	NA	DISCUSS	Although we excluded variants with evidence of association in the control only analyses, it is possible that residual confounding due to specific mutations was still present
+1	NA	MADD	rs60882887	DISCUSS	Seven genes at a locus at 11p11.2 marked by rs60882887, were predicted with high confidence as targets, including MADD, SP11 and EIF1 which have previously been reported to be associated with BC biology.
+0	NA	NA	NA	DISCUSS	However, no likely target genes were predicted at the 17q21.2 region.
+0	NA	NA	NA	DISCUSS	The lack of target gene predictions may be due to reliance on breast cell line data which does not represent the in vivo tissue of interest or due to the fact that the target transcripts are not annotated
+0	NA	STARD13	NA	DISCUSS	Only one gene, STARD13, was predicted as a potential target of SNPs at 13q13.1.
+0	cancers	NA	NA	DISCUSS	This tumour suppressor gene has been previously implicated in metastasis, cell proliferation and development of BC.
+0	NA	NA	rs736596	DISCUSS	However, rs736596, localized at 13q13.1, showed no association in CIMBA analyses and the association observed in our case-only analysis showed heterogeneity by country
+0	NA	ETAA1	NA	DISCUSS	At the 2p14 locus, INQUISIT-predicted target genes included ETAA1 with lower confidence.
+0	NA	NA	NA	DISCUSS	The OR estimates obtained in the case-only analysis for the SNPs located in this gene were consistent with the HR estimated in previously reported CIMBA analyses.
+0	NA	BRCA2	NA	DISCUSS	Moreover, around one hundred correlated SNPs, were associated with BRCA2 mutation carrier status at p < 10-8, including the genotyped SNP chr2_67654113_C_T
+0	NA	NA	NA	DISCUSS	The validity of the case-only analysis as evidence of interaction relies on the assumption of independence between the mutation status and the SNPs under investigation.
+0	NA	BRCA1	NA	DISCUSS	Therefore, based on the control-only analyses, we excluded ~2,000 SNPs which were associated with BRCA1 or BRCA2 mutation carrier status and also showed an association with risk in the case-only analyses (Supplementary Fig.
+0	NA	NA	NA	DISCUSS	5).
+0	NA	BRCA1	NA	DISCUSS	While most of these associations are probably spurious, due to (intra- or inter-chromosomal) LD with BRCA1 or BRCA2 mutations, it is possible that some may reflect true associations and that the higher frequency in unaffected BRCA1/2 may be because they are relatives of BC cases.
+0	NA	NA	NA	DISCUSS	These associations may warrant further evaluation using other study designs.
+0	NA	NA	NA	DISCUSS	A recent publication using data from the Framingham Heart Study suggested that interchromosomal LD can be caused by bio-genetic mechanisms possibly associated with favourable or unfavourable epistatic evolution.
+0	NA	NA	NA	DISCUSS	SNPs for which no association with mutation carrier status was found at the significance level of 10-8 were assumed to be independent of the mutation status.
+0	NA	BRCA1	NA	DISCUSS	However, this does not necessarily rule out residual LD between the novel SNPs on chromosomes 13 and 17 and BRCA1 or BRCA2 mutations.
+0	NA	NA	NA	DISCUSS	Therefore, the OR estimates for these SNPs might be biased and may further explain the lack of evidence of association in the CIMBA only analyses
+0	NA	NA	NA	DISCUSS	Our findings highlight the importance of imputation in GWAS.
+0	NA	NA	NA	DISCUSS	The imputed genome-wide genotype data used in the main case-only association analyses were based on carrying out the imputation separately for the BC cases from BCAC and CIMBA.
+0	NA	BRCA1	NA	DISCUSS	We found that 28 out of the 33 regions associated with BRCA1 or BRCA2 mutation carrier status were no longer associated with risk after re-imputing all samples together.
+0	NA	NA	NA	DISCUSS	By re-imputing all the data together we ensured that the associations observed for the remaining regions are robust to potential differences in the imputation accuracy between the BCAC and CIMBA samples
+0	NA	NA	NA	DISCUSS	Under our analytical strategy, only the regions for which evidence of associated with BC risk was observed were re-imputed using all BCAC and CIMBA samples combined.
+0	NA	NA	NA	DISCUSS	This re-imputation was not done at genome-wide level due to computational constraints and this may have led to false-negative associations being excluded for further evaluation as potential novel modifiers.
+0	NA	NA	NA	DISCUSS	Future analyses should aim to analyse the genome-wide associations after the genome-wide re-imputation across the combined BCAC and CIMBA dataset.
+0	NA	NA	NA	DISCUSS	However, our approach using joint one-step imputation should have ensured that associations we report (all of which are common SNPs with imputation scores > 0.5) are not driven by inaccuracies in imputation
+0	NA	NA	NA	DISCUSS	Due to the recruitment of participants in CIMBA studies primarily through genetic counselling, the mean age at diagnosis of mutation carriers was 16 years younger than the BC cases participating in BCAC.
+0	NA	NA	NA	DISCUSS	Although all analyses were adjusted for age, the observed associations might be related to the ageing process instead of interactions with mutation carrier status.
+0	NA	NA	NA	DISCUSS	Another source of bias could be related to the fact that there are 1.5 times more prevalent cases among CIMBA (68.1%) than BCAC (42.3%) with a delay between diagnosis and study recruitment of 6.83 years and 2.07 years respectively.
+0	NA	NA	NA	DISCUSS	An observed association might be due to a differential survival between CIMBA and BCAC cases.
+0	NA	NA	NA	DISCUSS	However, none of the identified SNPs has been found to be associated with BC survival
+0	NA	BRCA1	NA	DISCUSS	The majority (92.5%) of cases and controls in BCAC were not tested for BRCA1/2 mutations at the time of enrolment, potentially leading to some attenuation in the interaction OR (as some BCAC cases will be carriers).
+0	NA	BRCA1	NA	DISCUSS	However, most BCAC studies were population-based case-control studies and the proportion of cases and controls that carry pathogenic BRCA1/2 mutations will be small (<5%), hence any attenuation is likely to be negligible
+0	NA	BRCA2	rs79183898	DISCUSS	Despite heterogeneity in the interaction ORs by country for some SNPs, results were generally robust to the exclusion of each country sequentially except, for two SNPs (rs79183898 and rs736596) found associated with BRCA2 mutation carrier status; for these, the association seemed to be driven by data from the USA.
+0	NA	NA	NA	DISCUSS	For the other SNPs, the observed heterogeneity may be due to random error, given the relatively small sample sizes of each country.
+0	NA	BRCA1	NA	DISCUSS	However, if these differences are real, future PRS for BRCA1 and BRCA2 carriers should consider the country-specific differences
+0	NA	BRCA1	NA	DISCUSS	This is the first analysis of genetic modifiers of BC risk that investigated the differences in the association of common genetic variants with BC risk in the general population and in women with BRCA1 or BRCA2 mutations.
+0	NA	NA	NA	DISCUSS	The inclusion of unselected BC cases resulted in increased sample size and hence a gain in statistical power for identifying novel SNPs.
+0	NA	NA	NA	DISCUSS	These represent the largest currently available datasets, but it is important to replicate these observations in independent samples.
+0	NA	NA	NA	DISCUSS	This should be possible through the ongoing CONFLUENCE (https://dceg.cancer.gov/research/cancer-types/breast-cancer/confluence-project) large-scale genotyping experiment.
+0	NA	BRCA1	NA	DISCUSS	More detailed fine mapping and functional analysis will be required to elucidate the role of the novel variants identified in BC development for BRCA1 and BRCA2 mutation carriers.
+0	NA	BRCA1	NA	DISCUSS	Our findings should contribute to the improved performance of BC PRS for absolute risk prediction for BRCA1 and BRCA2 mutation carriers, which will help inform decisions on the best timing for risk-reducing surgery, risk reduction medication, or the start of surveillance
+0	NA	NA	NA	METHODS	We used data from two international consortia, BCAC and CIMBA.
+0	NA	NA	NA	METHODS	BCAC included data from 108 studies of BC from 33 countries in North America, Europe and Australia, the majority (88%) of which were case-control studies.
+0	NA	BRCA1	NA	METHODS	The majority of BCAC cases/controls were not tested for BRCA1/2 mutations at the time of enrolment.
+0	NA	BRCA1	NA	METHODS	However, most studies were population-based, hence the proportion of cases and controls that carry pathogenic BRCA1/2 mutations will be small.
+0	NA	BRCA1	NA	METHODS	CIMBA participants were women with pathogenic mutations in BRCA1 or BRCA2.
+0	NA	NA	NA	METHODS	All participants were at least 18 years old.
+0	cancers	NA	NA	METHODS	The majority of mutation carriers were recruited through cancer genetics clinics and enroled into national or regional studies.
+0	NA	BRCA1	NA	METHODS	Data were available on 30,500 BRCA1 mutation carriers and 20,500 BRCA2 mutation carriers from 77 studies in 32 countries.
+0	NA	NA	NA	METHODS	A total of 188,320 BC cases and 161,669 controls were available from both consortia.
+0	NA	NA	NA	METHODS	All studies provided information on disease status, age at diagnosis or at interview.
+0	NA	NA	NA	METHODS	Oestrogen receptor status was available for 72% of BCAC cases and 71% of CIMBA cases.
+0	NA	NA	NA	METHODS	All subjects provided written informed consent and participated in studies with protocols approved by ethics committees at each participating institution
+0	NA	NA	NA	METHODS	BCAC cases were women diagnosed with BC.
+0	Colon and Ovarian (PLCO) Cancer	NA	NA	METHODS	To define disease status in CIMBA participants, women were censored at the first of the following events: age at BC diagnosis, age at ovarian cancer diagnosis, other cancer, bilateral prophylactic mastectomy or age at study recruitment.
+0	NA	NA	NA	METHODS	Subjects censored at a BC diagnosis were considered as cases
+0	NA	BRCA1	NA	METHODS	A control-only analysis was carried out to test the independence between the SNPs and the BRCA1 and BRCA2 mutation carrier status.
+0	NA	NA	NA	METHODS	In BCAC, controls were defined as individuals unaffected by BC at study recruitment.
+0	NA	NA	NA	METHODS	In CIMBA, participants were considered as controls if they were unaffected at recruitment
+0	NA	NA	NA	METHODS	Only women of European ancestry were included.
+0	cancers	HER2	NA	METHODS	To minimise the chance of observing spurious associations due to differences in the distribution of BC cases in the population by tumour characteristics (defined as unselected BC cases), 3,478 BCAC cases from four studies were excluded because they were included in clinical trials based on breast tumour characteristics as HER-2 receptor status (see Supplementary Table 2).
+0	NA	BRCA1	NA	METHODS	Because all the analyses were adjusted for country, to ensure that the number of subjects in each country stratum was large enough, we excluded the CIMBA data from any country for which there were less than ten BC cases with BRCA1 or BRCA2 mutation.
+0	NA	BRCA2	NA	METHODS	Consequently, data from Poland and Russia were excluded from the BRCA2 analyses (Supplementary Table 3).
+0	NA	BRCA1	NA	METHODS	Finally, duplicate subjects between BCAC and CIMBA were excluded from the BCAC data (114 and 80 subjects from the BRCA1 and BRCA2 case-only analyses, respectively; eight subjects from control-only analyses)
+0	NA	BRCA1	NA	METHODS	A total of 60,212 BCAC cases and 7,257 BRCA1 mutation carrier cases were available for the BRCA1 case-only analyses and 57,725 BCAC cases and 5097 BRCA2 mutation carrier cases were available for the BRCA2 case-only analyses (Fig.
+0	NA	NA	NA	METHODS	1).
+0	NA	BRCA1	NA	METHODS	A total of 45,881 BCAC controls and 5,750 BRCA1 mutation carrier controls were available for the BRCA1 control-only analyses and 43,549 BCAC controls and 4,456 BRCA2 mutation carrier controls for the BRCA2 control-only analyses (Fig.
+0	NA	NA	NA	METHODS	2)
+0	NA	NA	NA	METHODS	All the study samples were genotyped using the OncoArray Illumina beadchip.
+0	cancers	NA	NA	METHODS	The array includes a backbone of ~260,000 SNPs that provide genome-wide coverage of most common variants, together with markers of interest for breast and other cancers identified through GWAS, fine-mapping of known susceptibility regions, and other approaches
+0	NA	NA	NA	METHODS	A standard genotype quality control process was followed for both the BCAC and CIMBA samples which have been described in detail elsewhere.
+0	NA	NA	NA	METHODS	Briefly, this involved excluding SNPs located on chromosome Y; SNPs with call rates <95%; SNPs with MAF < 0.05 and call rate <98%; monomorphic SNPs; and SNPs for which evidence of departure from Hardy-Weinberg equilibrium was observed (P < 10-7 based on a country-stratified test)
+0	NA	NA	NA	METHODS	Genotypes for ~21 million SNPs were imputed for all subjects using the 1000 Genomes Phase III data (released October 2014) as reference panel, as described previously.
+0	NA	NA	NA	METHODS	Briefly, the number of reference haplotypes used as templates when imputing missing genotypes was fixed to 800 (-k_hap = 800).
+0	NA	NA	NA	METHODS	A two-stage imputation approach was used: phasing with SHAPEIT and imputation with IMPUTE2 using 5 Mb non-overlapping intervals.
+0	NA	NA	NA	METHODS	Genotypes were imputed for all SNPs that were found polymorphic (MAF > 0.1%) in either European or Asian populations
+0	NA	NA	NA	METHODS	The genome-wide imputation process described above was carried out separately for the BCAC and CIMBA samples.
+0	NA	NA	NA	METHODS	However, this may potentially lead to spurious associations if there are differences in the quality of the imputation (measured using the imputation accuracy r2 metric) for a given SNP between the two datasets.
+0	NA	NA	NA	METHODS	To address this, a stringent approach was employed which involved including only SNPs for which the difference in r2 between the BCAC and CIMBA SNP imputations (Deltar2) was minimal relative to their r2 values.
+0	NA	NA	NA	METHODS	SNPs with r2 > 0.9 in both BCAC and CIMBA were kept in the analyses only if Deltar2 < 0.05; SNPs with 0.8 < r2 <= 0.9 in both BCAC and CIMBA were kept if Deltar2 < 0.02 and, SNPs with 0.5 < r2 <= 0.8 in both BCAC and CIMBA were kept if Deltar2 < 0.01.
+0	NA	NA	NA	METHODS	All SNPs with r2 < 0.5 in either CIMBA or BCAC were excluded.
+0	NA	NA	NA	METHODS	Only SNPs with a MAF > 0.01 in BCAC cases were included
+0	NA	BRCA1	NA	METHODS	Consequently, 9,072,535 SNPs were included in the BRCA1 analyses (402,336 genotyped and 8,670,199 imputed SNPs) and 9,047,403 SNPs in the BRCA2 analyses (402,397 genotyped and 8,645,006 imputed SNPs)
+0	NA	NA	NA	METHODS	The comparison of SNP frequency between CIMBA cases and BCAC cases (case-only analyses), or between unaffected CIMBA subjects and BCAC controls (control-only analyses), was performed using logistic regression adjusted for age at BC diagnosis in the case-only analyses and for age at interview for BCAC controls or at censure for CIMBA unaffected subjects in the control-only analyses, as well as for country and principal components (PCs) to account for population structure.
+0	NA	BRCA1	NA	METHODS	Separate analyses were carried out for BRCA1 and BRCA2 mutation carriers.
+0	NA	NA	NA	METHODS	To define the number of PC for inclusion in the models, the principal component analysis was carried out using 35,858 uncorrelated genotyped SNPs on the OncoArray and purpose-written software (http://ccge.medschl.cam.ac.uk/software/pccalc/).
+0	NA	NA	NA	METHODS	The inflation statistic was calculated and converted to an equivalent statistic for a study of 1,000 subjects for each outcome (lambda1,000) by adjusting for effective study size:where n and m are the numbers of BCAC and CIMBA subjects respectively.
+0	NA	NA	NA	METHODS	The models were adjusted with the first four PCs (lambda1,000 with and without PCs in the model = 1.03 and 1.21, respectively) since additional PCs did not result in further reduction in the inflation of the test statistics
+0	NA	NA	NA	METHODS	The analytical process is summarised in Figs.
+0	NA	NA	NA	METHODS	3 and 4.
+0	NA	NA	NA	METHODS	A fundamental assumption when using a case-only design in this context is that the SNPs and mutation carrier status are independent.
+0	NA	BRCA1	NA	METHODS	To confirm independence, SNPs likely to be in linkage disequilibrium (LD) with BRCA1 or BRCA2 mutations, i.e., those located in or within 500 kb of either gene, were excluded.
+0	NA	NA	NA	METHODS	However, LD also exists between variants at long-distance on the same chromosome or even on a different chromosome (interchromosomal LD).
+0	NA	NA	NA	METHODS	Therefore, control-only analyses were performed to further exclude SNPs associated with mutation carrier status in unaffected women, using a stringent statistical significance level of 10-8)
+0	NA	BRCA1	NA	METHODS	After excluding SNPs in LD or in interchromosomal LD with BRCA1 or BRCA2 mutations, case-only analyses were performed to assess the association between SNPs and BRCA1 or BRCA2 mutation carrier status.
+0	NA	NA	NA	METHODS	We considered two categories of SNPs depending on whether they had been previously found to be associated with BC in published BCAC studies.
+0	NA	NA	NA	METHODS	For known BC susceptibility SNPs (Fig.
+0	NA	NA	NA	METHODS	3) we used a significance threshold of 2.7 x 10-4 (applying Bonferroni correction to 179 tests) and for potential novel SNP modifier (Fig.
+0	NA	NA	NA	METHODS	4) a stringent significance threshold of 10-8 was used
+0	cancers	NA	NA	METHODS	Because BRCA1mutation-associated tumours are more often ER-negative than those in the general population, a subsequent case-only analysis was performed restricting the BCAC cases to those with ER-negative disease.
+0	NA	NA	NA	METHODS	We used this strategy for two reasons.
+0	cancers	NA	NA	METHODS	First, we wished to exclude associations driven by differences in the tumour ER-status distributions between BRCA1 carriers and BCAC cases.
+0	NA	BRCA1	NA	METHODS	Therefore, in the BRCA1 analysis, SNPs were considered to be associated with mutation carrier status only if they were also associated in the ER-negative case-only analysis at a prior defined significance threshold of 10-7 for novel SNP modifiers (Fig.
+0	NA	BRCA1	NA	METHODS	4) and of 0.05 for the established BC susceptibility SNPs after a pre-selection at P < 2.7 x 10-4 in the BRCA1 overall case-only analysis (Fig.
+0	NA	NA	NA	METHODS	3).
+0	cancers	NA	NA	METHODS	The second reason we applied this strategy was to identify novel SNP modifiers specific to BRCA1/ER-negative tumours that had not been detected in the overall analysis; for this we applied a significance threshold of 10-8
+0	NA	NA	NA	METHODS	To confirm that potentially novel associations in the case-only analysis were not driven by differences in the imputation accuracy between the CIMBA and BCAC data, each of the regions defined as +-500 kb around the associated SNP, were re-imputed for the combined CIMBA and BCAC samples.
+0	NA	NA	NA	METHODS	The more accurate one-stage imputation was carried out, using IMPUTE2 without pre-phasing.
+0	NA	NA	NA	METHODS	Associations with all the SNPs in the re-imputed regions were then re-evaluated using the control-only and case-only analytical approaches described above.
+0	NA	NA	NA	METHODS	Finally, we used a step-wise regression analysis using a significance threshold of 10-8 in order to determine whether associations with SNPs in the same region are independent and to define the conditionally independent SNPs (top SNPs)
+0	NA	NA	NA	METHODS	Among the 179 established BC susceptibility SNPs, 107 were genotyped and 71 were imputed.
+0	NA	NA	NA	METHODS	As previously, although none of these 71 SNPs were excluded based on their Deltar2, to exclude potentially spurious associations, regions around these 71 SNPs were re-imputed using the one-stage imputation applied to BCAC and CIMBA data combined, and before performing the control-only and case-only analyses
+0	NA	NA	NA	METHODS	For the potentially novel SNP modifiers the risk ratio of BC applicable to mutation carriers was assumed to be equal to the OR estimate from the case-only analysis (with the hypothesis that their relative risk equals 1 in the general population, given that none of them was found to be associated with BC in BCAC)
+0	NA	BRCA1	NA	METHODS	For the known BC susceptibility SNPs, a significant association in the case-only analysis implies that the magnitude of association is different for BRCA1 or BRCA2 mutation carriers than for the general population.
+0	NA	NA	NA	METHODS	Therefore, the risk ratio of BC for mutation carriers was computed as the product of OR x ORBCAC where OR was obtained from the case-only analysis, and ORBCAC was the odds ratio of association obtained from either Michailidou et al.
+0	NA	NA	NA	METHODS	for the SNPs associated with overall BC risk and from Milne et al.
+0	NA	NA	NA	METHODS	for the SNPs associated with ER-negative BC
+0	NA	NA	NA	METHODS	For all associated SNPs in case-only analyses, heterogeneity by country was assessed using likelihood ratio tests that compared models with and without an SNP by country interaction term.
+0	NA	NA	NA	METHODS	When the heterogeneity test was significant at P < 0.05, a leave-one-out analysis was performed, by excluding each country in turn to assess the influence of a data from a specific country on the overall association
+0	NA	NA	NA	METHODS	For each novel region, we defined sets of credible causal variants (CCVs) to use in the prediction of the likely target genes.
+0	NA	NA	NA	METHODS	For this purpose, we defined a first set of CCVs including the top SNP of the region of interest and the SNPs with p-values of association within two orders of magnitude of the top SNP association.
+0	NA	NA	NA	METHODS	Then, we sequentially performed logistic regression analyses using all other SNPs in the region, adjusted for the top SNP.
+0	NA	NA	NA	METHODS	We defined a second set of CCVs which included the most significant SNP after adjusting for the top SNP and the SNPs with p-values within two orders of magnitude of the most significant SNP association.
+0	NA	NA	NA	METHODS	This was repeated (conditioning on the previously found most significant SNPs) to define additional sets of CCVs as long as at least one p-value remained <10-6
+0	cancers	NA	NA	METHODS	Data from BC tumours and adjacent normal breast tissue were accessed from The Cancer Genome Atlas (TCGA).
+0	NA	NA	NA	METHODS	Germline SNP genotypes (Affymetrix 6.0 arrays) from individuals of European ancestry were processed and imputed to the 1000 Genomes reference panel (October 2014).
+0	NA	NA	NA	METHODS	Tumour tissue copy number was estimated from the Affymetrix 6.0 and called using the GISTIC2 algorithm.
+0	NA	NA	NA	METHODS	Complete genotype, RNA-seq and copy number data were available for 679 genetically European patients (78 with adjacent normal tissue).
+0	NA	NA	NA	METHODS	Further, RNA-seq for normal breast tissue and imputed germline genotype data were available from 80 females from the GTEx Consortium.
+0	NA	NA	NA	METHODS	Genes with a median expression level of 0 RPKM across samples were removed, and RPKM values of each gene were log2 transformed.
+0	NA	NA	NA	METHODS	Expression values of samples were quantile normalized.
+0	NA	ER	NA	METHODS	Genetic variants were evaluated for association with the expression of genes located within +-2 Mb of the lead variant at each risk region using linear regression models, adjusting for ESR1 expression.
+0	NA	NA	NA	METHODS	Tumour tissue was also adjusted for copy number variation.
+0	NA	NA	NA	METHODS	eQTL analyses were performed using the MatrixEQTL program in R
+0	NA	NA	NA	METHODS	Candidate target genes were evaluated by assessing each CCV's potential impact on regulatory or coding features using a computational pipeline, INtegrated expression QUantitative trait and In SIlico prediction of GWAS Targets (INQUISIT).
+0	NA	NA	NA	METHODS	Briefly, genes were considered as potential targets of candidate causal variants through effects on: (1) distal gene regulation, (2) proximal regulation, or (3) a gene's coding sequence.
+0	NA	NA	NA	METHODS	We intersected CCV positions with multiple sources of genomic information chromatin interaction analysis by paired-end tag sequencing (ChIA-PET) in MCF7 cells and genome-wide chromosome conformation capture (Hi-C) in HMECs.
+0	breast cancer	NA	NA	METHODS	We used breast cell line computational enhancer-promoter correlations (PreSTIGE, IM-PET, FANTOM5) breast cell super-enhancer, breast tissue-specific expression variants (eQTL) from multiple independent studies (TCGA (normal breast and breast tumour) and GTEx breast:see eQTL methods), transcription factor and histone modification chromatin immunoprecipitation followed by sequencing (ChIP-seq) from the ENCODE and Roadmap Epigenomics Projects together with the genomic features found to be significantly enriched for all known breast cancer CCVs, gene expression RNA-seq from several breast cancer lines and normal samples (ENCODE) and topologically associated domain (TAD) boundaries from T47D cells (ENCODE).
+0	NA	NA	NA	METHODS	To assess the impact of intragenic variants, we evaluated their potential to alter primary protein coding sequence and splicing using Ensembl Variant Effect Predictor using MaxEntScan and dbscSNV modules for splicing alterations based on ada and rf scores.
+0	NA	NA	NA	METHODS	Nonsense and missense changes were assessed with the REVEL ensemble algorithm, with CCVs displaying REVEL scores >0.5 deemed deleterious
+0	NA	NA	NA	METHODS	Each target gene prediction category (distal, promoter or coding) was scored according to different criteria.
+0	NA	NA	NA	METHODS	Genes predicted to be distally regulated targets of CCVs were awarded points based on physical links (for example ChIA-PET), computational prediction methods, or eQTL associations.
+0	NA	NA	NA	METHODS	All CCVs were considered as potentially involved in distal regulation.
+0	NA	NA	NA	METHODS	Intersection of a putative distal enhancer with genomic features found to be significantly enriched were further upweighted.
+0	NA	NA	NA	METHODS	Multiple independent interactions were awarded an additional point.
+0	NA	NA	NA	METHODS	CCVs in gene proximal regulatory regions were intersected with histone ChIP-Seq peaks characteristic of promoters and assigned to the overlapping transcription start sites (defined as -1.0 kb - +0.1 kb).
+0	NA	NA	NA	METHODS	Further points were awarded to such genes if there was evidence for eQTL association, while a lack of expression resulted in down-weighting as potential targets.
+0	NA	NA	NA	METHODS	Potential coding changes including missense, nonsense and predicted splicing alterations resulted in addition of one point to the encoded gene for each type of change, while lack of expression reduced the score.
+0	breast cancer	NA	NA	METHODS	We added an additional point for predicted target genes that were also breast cancer drivers (278 genes).
+0	NA	NA	NA	METHODS	For each category, scores potentially ranged from 0 to 8 (distal); 0 to 4 (promoter) or 0 to 3 (coding).
+0	NA	NA	NA	METHODS	We converted these scores into 'confidence levels': Level 1 (highest confidence) when distal score > 4, promoter score >=3 or coding score >1; Level 2 when distal score <= 4 and >=1, promoter score = 1 or = 2, coding score = 1; and Level 3 when distal score <1 and >0, promoter score <1 and >0, and coding <1 and >0.
+0	NA	NA	NA	METHODS	For genes with multiple scores (for example, predicted as targets from multiple independent risk signals or predicted to be impacted in several categories), we recorded the highest score
+0	NA	NA	NA	METHODS	Further information on research design is available in the Nature Research Reporting Summary linked to this article
+0	NA	NA	NA	AUTH_CONT	A.C.A., D.F.E.
+0	NA	NA	NA	AUTH_CONT	and N.A.
+0	NA	NA	NA	AUTH_CONT	conceived the study design.
+0	NA	NA	NA	AUTH_CONT	J.C., N.A.
+0	NA	NA	NA	AUTH_CONT	and A.C.A.
+0	NA	NA	NA	AUTH_CONT	drafted the initial manuscript, while the complete writing group consisted of J.C., N.A., A.C.A., G.C.T.
+0	NA	NA	NA	AUTH_CONT	and D.F.E.
+0	NA	NA	NA	AUTH_CONT	J.C. performed the statistical analyses and J.B. and T.A.O.
+0	NA	NA	NA	AUTH_CONT	the INQUISIT predictions.
+0	NA	NA	NA	AUTH_CONT	M.L.
+0	NA	NA	NA	AUTH_CONT	and J.P.T.
+0	NA	NA	NA	AUTH_CONT	contributed to bioinformatics analyses.
+0	NA	NA	NA	AUTH_CONT	D.R.B.
+0	NA	NA	NA	AUTH_CONT	contributed to statistics analyses.
+0	NA	NA	NA	AUTH_CONT	J.D., L.M., G.L.
+0	NA	NA	NA	AUTH_CONT	and M.K.B.
+0	NA	NA	NA	AUTH_CONT	performed the data management.
+0	NA	NA	NA	AUTH_CONT	M.A.A., S.A., T.A., K.A., I.L.A., H.A-.C., V.A., N. Arnold, K.J.A., B.K.A., A.A., J.A., C.B., H.B., M.B., L.B., K.B., C. Blomqvist, D.B., S.E.B., B.B., A.B., H.B., H. Brenner, B. Burwinkel, S.S.B., T.C., M.A.C., D.C., B.D.C., J.E.C., J.C-.C., S.J.C., F.J.C., W.K.C., K.B.M.C., C.L.C., J.M.C., D.M.C., K.C., M.B.D., P.D., O.D., Y.C.D., S.M.D., T.D., I.D-.S-.S., A.M.D., M.D., D.M.E., A.H.E., C.E., M.E., D.G.E., P.A.F., H.F., F.F., E.F., L.F., D.F., M.G-.D., S.M.G., J.G., V.G-.B., M.G-.C., J.A.G-.S., M.M.G., S.A.G., A.G., V.G., G.G.G., A.K.G., M.S.G., D.E.G., A.G-.N., M.H.G., P.G., L.H., E.H., C.A.H., N.H., P.H., U.H., P.A.H., S.N.H., W.H., F.B.L.H., A.H., J.L.H., D.J.H., P.J.H., D.J.
+0	NA	NA	NA	AUTH_CONT	Hunter, E.N.I., A.J., A. Jakubowska, P.A.J., U.B.J., E.M.J., M.E.J., R.K., P.M.K., B.Y.K., R. Keeman, E.K., J.I.K., Y-.D.K., V-.M.K., P.K., A.W.K., Y.L., D.L., L.L.M., J.L., F.L., T.L., A.L-.F., J.T.L., C.L., A.M., S.M., S. Margolin, J.W.M.M., N.M., A. Meindl, A. Miller, R.L.M., M.M., K.L.N., S.L.N., H.N., F.C.N., K.M.O'.B., O.I.O., J.E.O., H.O., A.O., K.O., L.O., T-.W.P-.S., M.T.P., I.S.P., B.P., P.P., J.P., P.D.P.P., K-.A.P., E.C.P., B. Poppe, N.P., M.A.P., K.P., S.K.P., P.R., J.R., M.U.R., G.R., H.S.R., M.R., A.R., M. Rossing, E.S., D.P.S., R.S., M.T.S., M.K.S., G.S., C.S., P.S., P. Soucy, M.C.S., J.J.S., Z.S., J.S., J.
+0	NA	NA	NA	AUTH_CONT	Stone, R.K.S., D.S-.L., A.S., R.M.T., W.J.T., J.A.T., M.B.T., A.T., D.L.T., M.T., M. Tischkowitz, A.E.T., D.T., A.H.T., T.T., N.T., C.M.V., A.V., J.V., Q.W., B.W., C.R.W., J.N.W., C.W., A.W., S.Y., X.R.Y., D.Y., W.Z., A.Z., K.K.Z., KConFab Investigators, HEBON Investigators, ABCTB Investigators, GEMO Study Collaborators, EMBRACE Collaborators provided DNA samples and/or phenotypic data.
+0	NA	NA	NA	AUTH_CONT	All authors read and approved the final manuscript.
+0	NA	NA	NA	AUTH_CONT	The funders had no role in the design of the study, the collection, analysis, or interpretation of the data, the writing of the manuscript, or the decision to submit the manuscript for publication
+0	NA	NA	NA	SUPPL	Among BCAC data used in this study, data from 2SISTER, BREOGAN, CGPS, CPSII, EPIC, MEC, NBHS, MCCS, NHS, NHS2, PBCS, PLCO, SEARCH, SISTER, SMC, WAABCS and WHI are available in the dbGaP database under accession code phs001265.v1.p1.
+0	NA	NA	NA	SUPPL	Among CIMBA data used in this study, data from KCONFAB, KUMC, MAYO, MSKCC, MUV, NCI, NNPIO, NORTHSHORE, OSU CCG, PBCS, SMC, SWE-BRCA, UCHICAGO, UCSF, UPENN, UPITT, UTMDACC, VFCTG and WCP studies are available in the dbGaP database under accession code phs001321.v1.p1.
+0	NA	NA	NA	SUPPL	The complete dataset is not publicly available due to restraints imposed by the ethical committees of individual studies.
+0	NA	NA	NA	SUPPL	Requests for the complete data can be made to the corresponding author or the Data Access Coordinating Committees (DACCs) of BCAC (BCAC@medschl.cam.ac.uk) and CIMBA (ljm26@medschl.cam.ac.uk).
+0	NA	POSH	NA	SUPPL	BCAC DACC approval is required to access data from the following studies ABCFS, ABCS, ABCTB, BBCC, BBCS, BCEES, BCFR-NY, BCFR-PA, BCFR-UTAH, BCINIS, BSUCH, CBCS, CECILE, CGPS, CTS, DIETCOMPLYF, ESTHER, GC-HBOC, GENICA, GEPARSIXTO, GESBC, HABCS, HCSC, HEBCS, HUBCS, KARBAC, KBCP, LMBC, MARIE, MBCSG, MCBCS, MISS, MMHS, MSKCC, MTLGEBCS, NC-BCFR, OFBCR, ORIGO, PBCS, pKARMA, POSH, PREFACE, RBCS, SKKDKFZS, SUCCESSB, SUCCESSC, SZBCS, TNBCC, UCIBCS, UKBGS and UKOPS (see Supplementary Table 2:for a list of all studies).
+0	NA	NA	NA	SUPPL	CIMBA DACC approval is required to access data from studies BCFR-ON, BRICOH, CONSIT TEAM, DKFZ, EMBRACE, FPGMX, G-FAST, GC-HBOC, GEMO, HEBCS, HEBON, IHCC, INHERIT, IOVHBOCS, MCGILL, NRG_ONCOLOGY, OUH and UKGRFOCR (see Supplementary Table 1:for a list of all CIMBA studies).
+0	NA	NA	NA	SUPPL	Case-control summary results from CIMBA and BCAC consortia are publicly available and can be downloaded at http://cimba.ccge.medschl.cam.ac.uk/oncoarray-complete-summary-results/ and at http://bcac.ccge.medschl.cam.ac.uk/bcacdata/oncoarray/oncoarray-and-combined-summary-result/gwas-summary-associations-breast-cancer-risk-2020/).
+0	NA	NA	NA	SUPPL	The top 10 000 SNPs from the current BCAC-CIMBA case-only study can be found at http://cimba.ccge.medschl.cam.ac.uk/projects/BCAC-CIMBA_Case-only_analysis.
+0	NA	NA	NA	SUPPL	The remaining data are available within the Article, Supplementary Information or available from the authors upon request.
+0	NA	NA	NA	SUPPL	Source data are provided with this paper

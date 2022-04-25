@@ -1,0 +1,430 @@
+0	retinopathy and nephropathy complications	NA	NA	ABSTRACT	Increased levels of the urinary albumin-to-creatinine ratio (UACR) are associated with higher risk of kidney disease progression and cardiovascular events, but underlying mechanisms are incompletely understood.
+0	NA	NA	NA	ABSTRACT	Here, we conduct trans-ethnic (n = 564,257) and European-ancestry specific meta-analyses of genome-wide association studies of UACR, including ancestry- and diabetes-specific analyses, and identify 68 UACR-associated loci.
+0	proteinuria	NA	NA	ABSTRACT	Genetic correlation analyses and risk score associations in an independent electronic medical records database (n = 192,868) reveal connections with proteinuria, hyperlipidemia, gout, and hypertension.
+1	NA	transforming growth factor beta	NA	ABSTRACT	Fine-mapping and trans-Omics analyses with gene expression in 47 tissues and plasma protein levels implicate genes potentially operating through differential expression in kidney (including TGFB1, MUC1, PRKCI, and OAF), and allow coupling of UACR associations to altered plasma OAF concentrations.
+1	NA	OAF	NA	ABSTRACT	Knockdown of OAF and PRKCI orthologs in Drosophila nephrocytes reduces albumin endocytosis.
+1	NA	PRKCI	NA	ABSTRACT	Silencing fly PRKCI further impairs slit diaphragm formation.
+0	albuminuria	NA	NA	ABSTRACT	These results generate a priority list of genes and pathways for translational research to reduce albuminuria
+0	retinopathy and nephropathy complications	NA	NA	ABSTRACT	Urinary albumin-to-creatinine ratio (UCAR) is associated with various clinical outcomes such as kidney disease and cardiovascular disease.
+0	NA	NA	NA	ABSTRACT	Here, the authors report genome-wide meta-analysis in over 500,000 individuals and find 68 UACR loci, followed by statistical fine-mapping, gene prioritization and experimental validation in flies
+0	T2DM-ESRD	NA	NA	INTRO	Higher levels of the urinary albumin-to-creatinine ratio (UACR) are associated with adverse clinical outcomes, such as end-stage kidney disease, cardiovascular disease (CVD), and mortality.
+0	retinopathy and nephropathy complications	NA	NA	INTRO	Elevated UACR is a measure of kidney damage that is used to diagnose and stage chronic kidney disease (CKD), which affects >10% of adults worldwide, and represents a hallmark of diabetic kidney disease.
+0	NA	NA	NA	INTRO	Even moderate elevations in UACR predict poorer health outcomes, independently of the glomerular filtration rate.
+0	NA	NA	NA	INTRO	Lowering of UACR by pharmacological inhibition of the renin-angiotensin-aldosterone system (RAAS) is considered renoprotective standard of care to slow CKD progression.
+0	albuminuria	NA	NA	INTRO	RAAS blockage is associated with a reduction of albuminuria and lower risk of end-stage kidney disease and CVD events.
+0	NA	NA	NA	INTRO	However, the risk of CVD events among CKD patients remains high.
+0	albuminuria	NA	NA	INTRO	A better understanding of the pathways related to the development and consequences of albuminuria may facilitate the search for novel therapies to treat or prevent CKD progression and CVD
+0	diabetes	NA	NA	INTRO	Levels of UACR have a heritable component in population-based studies and groups at high risk of CKD, such as certain indigenous populations or persons with diabetes.
+0	NA	NA	NA	INTRO	However, the identification of genetic loci for UACR through genome-wide association studies (GWAS) has proven difficult, and detected loci showed variable effects across ancestries or disease groups.
+1	NA	CUBN	NA	INTRO	Initial GWAS of UACR identified only two genome-wide significant loci, CUBN and HBB.
+0	NA	BCL2L11	NA	INTRO	A complementary approach using admixture mapping also identified the BCL2L11 locus.
+0	insulin-treated diabetes	was	NA	INTRO	One additional finding in patients with type I diabetes was not detected in type II diabetes patients or the general population.
+0	NA	NA	NA	INTRO	Only very recently, a Mendelian Randomization study assessing a potentially causal effect of UACR on cardiometabolic traits based on data from the UK Biobank (UKBB) reported 33 genome-wide significant single-nucleotide polymorphisms (SNPs) associated with UACR.
+0	NA	NA	NA	INTRO	The study supported a causal effect of higher UACR on elevated blood pressure and postulated that inhibition of UACR-increasing pathways could have anti-hypertensive effects and thereby reduce CVD risk
+0	diabetes	NA	NA	INTRO	In this project, we characterize known and identify additional novel genetic loci for UACR through trans-ethnic meta-analysis of GWAS from 564,257 participants, including an internal validation step and secondary analyses among participants with diabetes.
+0	NA	NA	NA	INTRO	To prioritize the most likely causal variants, genes, tissues, and pathways in associated loci, we perform functional enrichment analyses, statistical fine-mapping and integrative trans-Omics analyses, including with gene expression in 47 human tissues and plasma protein levels.
+0	NA	NA	NA	INTRO	Clinical correlates are identified through genome-wide genetic correlation analyses and a phenome-wide association scan of a genetic risk score for UACR in a large independent population.
+1	albuminuria	OAF	NA	INTRO	We evaluate translation to mechanistic insights in proof-of-concept studies for OAF and PRKCI using an experimental model of albuminuria.
+0	NA	NA	NA	INTRO	Together, the implicated variants, genes, proteins, tissues, and pathways provide a rich resource of new targets for translational research
+0	NA	NA	NA	RESULTS	The workflow of our study, which identified 68 UACR-associated loci across primary and secondary analyses, is illustrated in Supplementary Fig.
+0	NA	NA	NA	RESULTS	1
+0	NA	NA	NA	RESULTS	The data based on 564,257 individuals from 54 studies were combined in a trans-ethnic meta-analysis of UACR, including 547,361 of European ancestry (EA), 6795 African Americans (AA), 6324 of East Asian ancestry, 2335 of South Asian ancestry, and 1442 Hispanics (Supplementary Data 1).
+0	NA	was	NA	RESULTS	The median of the median UACR across studies was 7.5 mg/g, and an average of 14.9% (range 3.2-70.9%) of participants had microalbuminuria (MA, UACR > 30 mg/g).
+0	NA	NA	NA	RESULTS	Study-specific GWAS of UACR were carried out using imputed genotypes (Methods, Supplementary Data 2).
+0	NA	NA	NA	RESULTS	We performed study-specific variant filtering and quality control (QC), followed by fixed-effects inverse-variance weighted meta-analysis.
+0	NA	was	NA	RESULTS	There was no evidence of unaccounted stratification (LD score regression intercept 0.95; genomic control (GC) parameter lambdaGC 1.03).
+0	NA	NA	NA	RESULTS	Downstream analyses were based on 8,034,757 SNPs available after variant filtering (Methods).
+0	NA	was	NA	RESULTS	Using SNPs of minor allele frequency (MAF) > 1% across the genome, the heritability of UACR was estimated as 4.3%
+0	NA	NA	NA	FIG	Genome-wide association results.
+0	NA	NA	NA	FIG	The circos plot provides an overview of the association results: Red band: -log10(p) for association in the trans-ethnic meta-analysis of urinary albumin-to-creatinine ratio (UACR), ordered by chromosomal position.
+0	NA	NA	NA	FIG	The blue line indicates genome-wide significance (p = 5 x 10-8).
+0	NA	NA	NA	FIG	Black gene labels indicate novel loci, blue labels indicate known loci (known index SNP within +- 500 kb region of current index SNP), gray labels indicate loci not associated with UACR at the nominal significance level (p >= 0.05) in the 53 CKDGen cohorts without UKBB.
+0	NA	NA	NA	FIG	Blue band: -log10(p) for association with microalbuminuria (MA), ordered by chromosomal position.
+0	NA	NA	NA	FIG	The red line indicates genome-wide significance (p = 5 x 10-8).
+0	NA	NA	NA	FIG	Green band: measures of heterogeneity related to the UACR-associated index SNPs, where the dot sizes are proportional to two measures of heterogeneity, I2 and the -log10(p) for heterogeneity attributed to ancestry (pA
+0	NA	NA	NA	RESULTS	We identified 59 UACR-associated loci, defined as 1 Mb genomic segments carrying at least one SNP associated with UACR with p < 5 x 10-8 (Methods; Fig.
+0	NA	NA	NA	RESULTS	1, Supplementary Data 3).
+0	NA	NA	NA	RESULTS	The index SNP mapped within 500 kb of previously reported index SNPs for UACR at 27 loci, considered known, and the remaining 32 loci were considered novel.
+0	NA	NA	NA	RESULTS	These 59 SNPs explained 0.69% of the variance of the inverse normal transformed UACR residuals.
+0	NA	was	NA	RESULTS	There was little evidence of between-study heterogeneity (median I2 statistic 3.2%; Supplementary Data 3), with all index SNPs showing an I2 of <50%.
+0	NA	NA	NA	RESULTS	In meta-regression analysis (Methods), none of the 59 index SNPs showed evidence of ancestry-related heterogeneity after multiple testing correction (p < 8.5 x 10-4, Fig.
+0	NA	NA	NA	RESULTS	1; Supplementary Data 3).
+0	NA	NA	NA	RESULTS	Regional association plots of all loci are displayed in Supplementary Fig.
+0	NA	NA	NA	RESULTS	2
+1	Alport syndrome	CUBN	NA	RESULTS	Some of the loci contain biologically plausible candidates in addition to the known CUBN (cubilin) locus: for example, rare mutations in COL4A4 (Collagen Type IV Alpha 4 Chain) cause Alport syndrome, a monogenic disease of basement membranes that frequently leads to end-stage kidney disease.
+0	glomerulosclerosis	COL4A4	NA	RESULTS	Recent sequencing studies show that the phenotypic spectrum of rare COL4A4 mutations extends to focal segmental glomerulosclerosis, which typically presents with proteinuria.
+0	NA	COL4A4	NA	RESULTS	Our study extends the genetic spectrum to common COL4A4 variants associated with UACR in mostly population-based studies.
+0	NA	NR3C2	NA	RESULTS	Another example is NR3C2 (Nuclear Receptor Subfamily 3 Group C Member 2), which encodes the mineralocorticoid receptor that mediates aldosterone action.
+0	albuminuria	NA	NA	RESULTS	Pharmacological inhibition of the RAAS is the mainstay treatment to lower albuminuria, illustrating the potential for pharmacological intervention on pathways identified in this project
+0	NA	NA	NA	RESULTS	Lastly, we estimated the number of expected discoveries and the corresponding percentage of GWAS heritability explained in future studies of yet larger sample size (Methods) and found that such studies can be expected to detect additional UACR loci (Supplementary Fig.
+0	NA	NA	NA	RESULTS	3)
+0	NA	NA	NA	FIG	Internal concordance of the urinary albumin-to-creatinine ratio (UACR) results, and association with microalbuminuria, urinary creatinine and albumin.
+0	NA	NA	NA	FIG	a Comparison of effect estimates of the 59 genome-wide significant trans-ethnic UACR index SNPs in the UKBB (x-axis) and in the CKDGen cohorts without UKBB (y-axis).
+0	NA	NA	NA	FIG	Blue dots indicate nominal significance (p < 0.05) in the CKDGen cohorts without UKBB, and loci at genome-wide significance (p < 5 x 10-8) in that meta-analysis are labeled with the closest gene.
+0	NA	NA	NA	FIG	b Comparison of effect estimates of the 59 trans-ethnic UACR index SNPs (x-axis) with their corresponding estimate from the GWAS of microalbuminuria (MA; y-axis).
+0	NA	NA	NA	FIG	Blue dots indicate significance in the MA results after multiple testing correction (p < 0.05/59 = 8.5 x 10-4), and loci that achieved genome-wide significance (p < 5 x 10-8) for MA are labeled.
+0	NA	NA	NA	FIG	In both panels, the dashed line represents the line of best fit through the effect estimates.
+0	NA	NA	NA	FIG	c Comparison of effect estimates of the 59 genome-wide significant trans-ethnic UACR index SNPs for their effect on urinary creatinine (x-axis) and urinary albumin levels (y-axis) in the UKBB sample.
+0	NA	NA	NA	FIG	Blue, red, and purple color indicate significant associations after multiple testing correction (p < 0.05/59 = 8.5 x 10-4) with urinary creatinine, urinary albumin, and both, respectively.
+0	NA	NA	NA	FIG	Significant associations are labeled with the closest gene name.
+0	NA	NA	NA	FIG	The dashed line represents the median y = x.
+0	NA	NA	NA	FIG	In all panels, error bars indicate 95% confidence intervals (CIs), and the Pearson correlation coefficient r between the effect estimates is shown.
+0	NA	NA	NA	FIG	The effect directions correspond to the effect allele of the trans-ethnic UACR meta-analysis result
+0	NA	NA	NA	RESULTS	To assess the influence of the UKBB, the largest study in the discovery sample (n = 436,392), we compared association statistics for the 59 index SNPs from the UKBB to the corresponding estimates from the 53 other studies participating in the CKDGen Consortium (n <= 127,865).
+0	NA	was	NA	RESULTS	Effect direction was consistent for all 59 index SNPs (pbinomial test = 3.5 x 10-18; Fig.
+0	NA	NA	NA	RESULTS	2a), and 53 showed nominally significant associations in the CKDGen cohorts alone (p < 0.05; Supplementary Data 4).
+0	NA	AHR	NA	RESULTS	Two loci with strong effects in UKBB but not significant in CKDGen were AHR (aryl hydrocarbon receptor) and CYP1A1 (Cytochrome P450 Family 1 Subfamily A Member 1), potentially reflecting factors related to standardized sample handling, storage, and measurements in the UKBB, or population-specific exposures
+0	NA	NA	NA	RESULTS	First, we conducted ancestry-specific meta-analyses for EA (n = 547,361) and for AA (n = 6795), where ancestry-specific loci have been described.
+0	NA	was	NA	RESULTS	There was little evidence of inflation of the results (lambdaGC 1.06 for AA and 1.01 for EA; Methods).
+0	NA	NA	NA	RESULTS	These meta-analyses identified 61 loci in EA, of which 56 overlapped with those from the primary trans-ethnic meta-analysis (Supplementary Data 5 and further discussed below), and no genome-wide significant loci in AA.
+1	NA	beta globin	rs334	RESULTS	The known UACR-associated sickle cell trait variant rs334 in HBB showed suggestive association in the AA-specific analysis (p = 6.1 x 10-8)
+1	diabetes	was	NA	RESULTS	The other secondary analysis was restricted to 51,541 individuals with diabetes, in whom a larger effect of the known CUBN locus has been reported.
+0	NA	NA	NA	RESULTS	This analysis identified eight loci (Supplementary Fig.
+0	NA	KAZN	NA	RESULTS	4), four of which were not detected in the primary meta-analysis (KAZN [Kazrin, Periplakin Interacting Protein], MIR4432HG-BCL11A, FOXP2, and CDH2).
+0	NA	NA	NA	RESULTS	Internal validation of the UKBB (n = 21,703) and CKDGen cohorts (n <= 29,812) statistics found the effects to be direction consistent, of similar magnitude and at least nominally significant in both subsets at all eight loci (Supplementary Data 6).
+1	diabetes	CUBN	NA	RESULTS	Index SNPs at CUBN and HPN (Hepsin) showed larger effect sizes among those with diabetes compared with the overall sample (Supplementary Data 6).
+1	insulin deficiency	BCL11A	NA	RESULTS	Among the novel loci, it is noteworthy that BCL11A, a transcriptional regulator of insulin secretion, is involved in fetal-to-adult globin switching, as is the known UACR risk gene HBB.
+0	NA	KAZN	NA	RESULTS	KAZN encodes for a protein with a role in actin organization and adhesion that is highly abundant in glomeruli.
+0	NA	NA	NA	RESULTS	QQ plots and Manhattan plots of the secondary meta-analyses are shown in Supplementary Figs.
+0	NA	NA	NA	RESULTS	5 and 6
+0	NA	NA	NA	RESULTS	We searched for tissues, cell types, and systems that are enriched for the expression of genes mapping to the UACR-associated loci (Methods).
+0	NA	was	NA	RESULTS	Based on all SNPs with p < 5 x 10-8 from the trans-ethnic meta-analysis, there was no significant (false discovery rate [FDR] < 0.05) enrichment after correction for multiple testing (Supplementary Data 7).
+0	NA	NA	NA	RESULTS	Nominally significant associations (p < 0.05) were observed for 37 annotations mapping into six systems (urogenital including kidney, endocrine, digestive including liver, musculoskeletal, respiratory, sense organs; Supplementary Fig.
+0	NA	NA	NA	RESULTS	7) and five tissues (exocrine glands, prostate, mucous membrane, membranes, and respiratory mucosa).
+0	NA	NA	NA	RESULTS	These results reveal plausible enrichments although they did not reach significance after correction for multiple testing
+0	embryonic lethality	NA	NA	RESULTS	Next, we evaluated whether reconstituted gene sets were significantly (FDR < 0.05) enriched for genes mapping to UACR-associated loci, and identified three sets with FDR < 0.01 (embryonic development, partial embryonic lethality during organogenesis, abnormal placental labyrinth vasculature morphology).
+0	albuminuria	NA	NA	RESULTS	"The remaining significant gene sets included terms that can be reconciled with existing knowledge about albuminuria, including ""tube development"", ""abnormal kidney morphology"", and several terms related to vascular development and morphology (Supplementary Data 8)"
+0	toxicity	NA	NA	RESULTS	Clinical MA (UACR > 30 mg/g) is associated with increased risk for adverse kidney and cardiovascular outcomes, as well as mortality.
+0	NA	NA	NA	RESULTS	We therefore evaluated the association of the 59 UACR index SNPs with MA by meta-analyzing data from 36 cohorts and 347,283 individuals (Supplementary Data 1; Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	was	NA	RESULTS	Figure 2b shows that for all UACR index SNPs, the allele associated with higher UACR was associated with an increased risk of MA (Supplementary Data 3).
+0	NA	NA	NA	RESULTS	Of the 59 SNPs, 49 were significantly associated with MA after correction for multiple testing (p < 0.05/59 = 8.5 x 10-4), including 17 that reached genome-wide significance.
+1	NA	CUBN	rs45551835	RESULTS	The low-frequency missense SNP rs45551835 in CUBN showed the largest effect with an odds ratio (OR) of 1.76 (95% CI 1.67-1.87) per minor allele.
+0	NA	NA	NA	RESULTS	When 232,751 UKBB participants were grouped into quartiles based on a UACR genetic risk constructed from the 59 index SNPs, each quartile showed a significantly higher OR for MA compared with the lowest quartile (e.g., OR of 1.69 for quartile 4 vs. 1, p = 3.0 x 10-191, Supplementary Table 1)
+0	NA	NA	NA	RESULTS	The UACR is a ratio.
+0	NA	NA	NA	RESULTS	Understanding whether a genetic locus is more strongly associated with its numerator, albumin, or with its denominator, creatinine, may provide important physiological insights.
+0	NA	NA	NA	RESULTS	We therefore performed separate tests for urinary albumin and creatinine in the UKBB sample (nUalbumin = 436,398; nUcreatinine = 436,412).
+0	NA	NA	NA	RESULTS	Of the 59 index SNPs, 31 were significantly associated with urinary albumin (p < 8.5 x 10-4), 21 with urinary creatinine, and two with both.
+1	NA	CUBN	NA	RESULTS	The CUBN locus showed the largest effect on urinary albumin, and was not significantly associated with urinary creatinine levels (Fig.
+1	NA	ST8SIA6	NA	RESULTS	2c), followed by ST8SIA6 (ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 6), PRKCI (protein kinase C iota), TRIM46/MUC1 (Mucin 1, cell surface associated), HNRNPUL1/TGFB1 (transforming growth factor beta 1), FOXD2, KCNK5, WIPF3 (WAS/WASL interacting protein family member 3), LRMDA, and NR3C2
+0	NA	NA	NA	FIG	Phenome-wide association scan of a genetic urinary albumin-to-creatinine ratio (UACR) risk score.
+0	NA	NA	NA	FIG	PheWAS association results were obtained from EA participants of the Million Veteran Program.
+0	NA	NA	NA	FIG	Association test -log10(p-values) are plotted on the y-axis, and the corresponding trait or disease category on the x-axis.
+0	NA	NA	NA	FIG	Significant results, after correcting for the 1422 phenotypes tested (p < 0.05/1422 = 3.5 x 10-5), are labeled in the figur
+0	NA	was	NA	RESULTS	Next, we evaluated whether a weighted genetic risk score (GRS) composed of UACR-increasing alleles was associated with clinical endpoints in a large, independent electronic medical record database to detect diagnoses with potentially shared genetic components or co-regulation.
+0	NA	NA	NA	RESULTS	We tested associations with 1422 billing code-based phenotypes of up to 192,868 EA participants of the Million Veteran Program (MVP) from US Veterans' Administration facilities.
+0	proteinuria	NA	NA	RESULTS	Significant associations (p < 3.5 x10-5, 0.05/1,422) were detected with 10 diagnoses: proteinuria, four related to hyperlipidemia, two related to hypertension, two related to gout, as well as Fuchs' dystrophy (Fig.
+0	NA	NA	NA	RESULTS	3).
+0	Fuchs' dystrophy	NA	NA	RESULTS	While the association with disorders of lipoid metabolism had the lowest p-value (p = 4.1 x 10-11), the association with Fuchs' dystrophy showed the greatest magnitude (OR = 6.68 per SD increase of log[UACR], 95% CI 3.06-14.59, p = 1.9 x 10-6), followed by proteinuria (OR = 2.7, 95% CI 1.76-4.14, p = 5.0 x 10-6).
+0	metabolic disorder	NA	NA	RESULTS	Many other associations that approached statistical significance were related to the kidney and metabolic diseases (Supplementary Data 9)
+0	Fuchs' dystrophy	was	NA	RESULTS	The association with Fuchs' disease, a dystrophy of the corneal endothelium, was unexpected and assessed in greater detail.
+1	Fuchs' dystrophy	TCF4	rs11659764	RESULTS	Autosomal-dominant forms of Fuchs' dystrophy have been attributed to genetic variation in TCF4 (transcription factor 4), a novel UACR-associated locus identified here (index rs11659764, p = 2.8 x 10-11; r2 = 0.21, D' = -0.97 with rs613872, a previously reported Fuchs index SNP).
+1	proteinuria	TCF4	NA	RESULTS	After exclusion of the TCF4 index SNP, the GRS was still significantly associated with proteinuria, hyperlipidemia codes, gout, and hypertension with nearly identical ORs, but the association with Fuchs' dystrophy disappeared (p = 0.2).
+0	NA	NA	NA	RESULTS	This illustrates that unexpected significant associations from PheWAS require careful evaluation
+0	NA	NA	NA	RESULTS	We also evaluated an association of the GRS with cardiovascular outcomes based on published GWAS and the UKBB (Supplementary Table 2).
+0	hypertension	NA	NA	RESULTS	This revealed significant (p < 0.007, Methods) positive associations of the GRS with an increased risk of hypertension (p = 2.4 x 10-21).
+0	diabetes	NA	NA	RESULTS	Conversely, weighted genetic risk scores based on recently published GWAS of systolic and diastolic blood pressure as well as of type 2 diabetes were positively associated with UACR (p = 3.5 x 10-63 for systolic and p = 1.2 x 10-24 for diastolic blood pressure, p = 1 x 10-10 for type 2 diabetes; Supplementary Table 2)
+0	NA	NA	NA	FIG	Genetic correlation of urinary albumin-to-creatinine ratio (UACR) with other traits and diseases.
+0	NA	NA	NA	FIG	Significant (p < 9.7 x 10-5) genetic correlations based on the genome-wide summary statistics from the EA UACR GWAS and 517 pre-computed and publicly available GWAS summary statistics of UKBB traits and diseases, available through LDHub.
+0	NA	NA	NA	FIG	Traits are shown on the x-axis, and colored according to broad physiological categories.
+0	NA	NA	NA	FIG	Genetic correlations between traits and UACR are reported on the y-axis.
+0	NA	NA	NA	FIG	Dot size is proportional to the -log10(p) of the corresponding genetic correlatio
+0	albuminuria	NA	NA	RESULTS	Albuminuria is associated with multiple cardiovascular and metabolic traits and diseases.
+0	NA	NA	NA	RESULTS	In addition to the GRS analyses, we thus also assessed genome-wide genetic correlations between the EA-specific UACR association statistics and 517 traits and diseases (Methods; Supplementary Data 10).
+0	NA	NA	NA	RESULTS	Significant genetic correlations (p < 9.7 x 10-5 [0.05/517]) were observed for 67 traits (Fig.
+0	NA	NA	NA	RESULTS	4).
+0	hypertension	NA	NA	RESULTS	The strongest negative correlations were observed for urinary creatinine and other urinary parameters, and the largest positive genetic correlations with different measures of hypertension.
+0	albuminuria	NA	NA	RESULTS	These findings provide support for the observational association between albuminuria and blood pressure on a genetic level, the significant associations between the UACR GRS and hypertension in the MVP population, and the recent Mendelian Randomization study of UACR.
+0	NA	NA	NA	RESULTS	Negative genetic correlations with anthropometric measures are potentially explained by their positive associations with muscle mass, and hence creatinine concentrations
+0	NA	was	NA	RESULTS	Statistical fine-mapping was performed using summary statistics to prioritize SNPs or sets of SNPs (credible set) driving each association signal (Methods).
+0	NA	NA	NA	RESULTS	These analyses were limited to EA, comprising > 97% of the total sample, for whom large data sets to estimate reference LD for summary statistics-based fine-mapping were publicly accessible.
+0	NA	NA	NA	RESULTS	Based on 57 combined genomic regions from the 61 genome-wide significant loci in EA (Methods, Supplementary Data 5), we identified 63 independent SNPs (Supplementary Data 11).
+0	NA	NA	NA	RESULTS	Next, 99% credible sets were computed based on Approximate Bayes Factors, resulting in a set of SNPs that with 99% posterior probability (PP) contained the variant(s) driving the association signal for each of the 63 conditionally independent signals.
+0	NA	NA	NA	RESULTS	The credible sets contained a median of 25 SNPs (Quartile 1: 10; Quartile 3: 74).
+1	NA	CUBN	NA	RESULTS	Two credible sets at CUBN and one at PRKCI consisted of a single SNP (Supplementary Data 12).
+1	NA	CUBN	rs45551835	RESULTS	The previously described CUBN missense SNP rs45551835 (p.A2914V) had a PP of causing the association signal of >99.9%.
+0	NA	NA	NA	RESULTS	There were 11 small credible sets with <=5 SNPs, representing candidate causal variants for further study
+0	NA	NA	NA	FIG	Fine-mapping and functional annotation of potentially causal variants.
+0	NA	NA	NA	FIG	Overview of 995 SNPs with a posterior probability of association with urinary albumin-to-creatinine ratio (UACR) of >1%.
+0	NA	NA	NA	FIG	The x-axis indicates the 99% credible set size and the y-axis the SNPs' posterior probability of association.
+0	NA	NA	NA	FIG	In panel a, missense SNPs are marked by triangles, with size proportional to the SNP CADD score.
+0	NA	NA	NA	FIG	In panel b, SNPs are color-coded with respect to location in regulatory regions of specific kidney tissues.
+0	NA	NA	NA	FIG	The labels show the closest gene, and are restricted to variants mapping to small credible sets (<=5 SNPs), or to variants with high individual posterior probability (>0.5) of driving the association signal.
+1	NA	CUBN	NA	FIG	For the CUBN locus, a credible set was computed for each independent SN
+0	NA	NA	NA	RESULTS	All 995 SNPs with PP > 1% were annotated.
+0	NA	was	NA	RESULTS	Regulatory potential was assessed via mapping into regions of open chromatin identified from primary cultures of human tubular and glomerular cells (GEO accession number GSE115961) and from publicly available kidney cells types (ENCODE and Roadmaps Projects; Methods).
+0	NA	NA	NA	RESULTS	Supplementary Data 12 summarizes annotation information for all variants with PP > 1% that mapped into small credible sets or those containing a SNP with PP > 50%.
+1	NA	CUBN	NA	RESULTS	Among these, there were four missense SNPs in CUBN, CPS1, EDEM3, and GCKR (Fig.
+0	NA	NA	NA	RESULTS	5a; Supplementary Table 3).
+1	NA	NUMA1	NA	RESULTS	One non-exonic SNP near NUMA1 with PP > 50% mapped into open chromatin in both glomerular and tubular primary cell cultures, and four other SNPs in or near WIPF3, WDR81, CUBN, and CYP26A1 mapped into putative regulatory regions in other kidney tissues or cell lines (Fig.
+0	NA	NA	NA	RESULTS	5b, Supplementary Data 12)
+0	NA	NA	NA	RESULTS	We investigated whether the UACR-association signals co-localized with association signals for transcript abundance of any genes in cis across 47 tissues, thereby implicating effector genes at associated loci (Methods).
+0	cancers	was	NA	RESULTS	Gene expression was quantified via RNA-seq in 44 tissues from the GTEx Project [https://gtexportal.org/] and in kidney cortex from The Cancer Genome Atlas, and via microarray from microdissected glomerular and tubulointerstitial portions of kidney biopsies from participants of the NEPTUNE study (Methods)
+0	NA	NA	NA	FIG	Co-localization of associations signals for urinary albumin-to-creatinine ratio (UACR) and gene expression in kidney tissues.
+0	NA	NA	NA	FIG	The plot shows the nine genes for which there is a high likelihood (posterior probability >= 80%) of a shared causal signal for gene expression in at least one of three kidney tissues and UACR.
+0	NA	NA	NA	FIG	The loci are colored-coded and shown on the y-axis with the closest gene next to the index SNP.
+0	NA	NA	NA	FIG	Co-localization with gene expression across all tissues (x-axis) is shown as dots, where the size of the dots (implying that eQTL data were available) corresponds to the posterior probability of the co-localization.
+0	NA	NA	NA	FIG	The change in UACR is color-coded relative to the change in gene expression, or gray in case of a posterior probability < 80
+0	NA	NA	NA	RESULTS	We identified nine genes for which cis eQTLs in kidney tissues co-localized with the UACR association signals with a high PP (>=80%), implicating a shared underlying variant (Fig.
+0	NA	NA	NA	RESULTS	6).
+0	NA	NA	NA	RESULTS	These represent candidate causal genes for further investigation (Table 1).
+1	NA	MUC1	NA	RESULTS	Alleles associated with higher UACR were associated with higher expression of MUC1 and PRKCI across a range of tissues.
+0	retinopathy and nephropathy complications	MUC1	NA	RESULTS	This observation is consistent with a gain-of-function mechanism proposed for the monogenic kidney disorder caused by MUC1 variation.
+1	NA	OAF	NA	RESULTS	Conversely, alleles associated with higher UACR were associated with lower OAF and TGFB1 expression.
+0	retinopathy and nephropathy complications	was	rs17158386	RESULTS	The co-localization with expression of WIPF3 in glomerular kidney portions illustrates an example of a potentially regulatory causal variant, rs17158386, which maps into open chromatin in kidney tissue (Figs.
+0	NA	NA	NA	RESULTS	5b,  6).
+0	retinopathy and nephropathy complications	was	NA	RESULTS	Across kidney tissues, co-localization was most often observed in glomerular kidney portions, consistent with the prominent role of the glomerular filtration barrier in albuminuria.
+0	NA	NA	NA	RESULTS	Altogether, there were 90 significant co-localizations in at least one of the 47 evaluated tissues (Supplementary Fig.
+0	NA	NA	NA	RESULTS	8)
+0	NA	was	NA	RESULTS	Association with gene expression in trans requires large sample sizes and was thus evaluated for all index SNPs in whole blood.
+0	NA	was	rs12714144	RESULTS	Excluding the extended MHC region, there was one SNP associated with expression of one or more transcripts in trans in more than one study (Supplementary Table 4): genotype at rs12714144, upstream of PARTICL on chromosome 2, was associated with the expression of DPEP3, encoded on chromosome 16
+0	NA	NA	NA	RESULTS	Recently, large GWAS of plasma protein levels have been published, which allow for systematic investigations of associated variants (pQTLs).
+0	NA	NA	NA	RESULTS	Using these data, we investigated the association of the 61 EA index SNPs in a pQTL study of 3301 healthy EA participants of the INTERVAL study.
+0	NA	NA	NA	RESULTS	Genome-wide significant associations were identified between 17 UACR-associated SNPs and plasma levels of 53 unique proteins, for a total of 56 associations (Supplementary Data 13).
+0	NA	gastrokine-2	rs34257409	RESULTS	Interestingly, concentrations of three proteins each showed associations with two UACR-associated index SNPs on different chromosomes, thereby connecting the two genetic loci through association with plasma concentrations of the same protein: SNPs rs34257409 on chromosome 1 and rs838142 on chromosome 19 with plasma gastrokine-2 (GKN2) concentrations, rs12714144 on chromosome 2 and rs1010553 on chromosome 3 with concentrations of Janus kinase and microtubule interacting protein 3 (JAKMIP3), and rs1010553 on chromosome 3 and rs2954021 on chromosome 8 with inter-alpha-trypsin inhibitor heavy chain 1 (ITIH1) concentrations
+1	NA	OAF	NA	FIG	Co-localization of association signals of the OAF locus.
+1	NA	OAF	NA	FIG	Regional association plots of the OAF locus in the European ancestry urinary albumin-to-creatinine ratio (UACR) GWAS (a), with OAF gene-expression levels in healthy kidney tissue sections (b), and with OAF plasma levels (c, d).
+0	NA	NA	NA	FIG	The dots are colored according to their correlation r2 with the index SNP estimated based on the 1000 Genomes EUR reference samples (gray for missing data).
+1	NA	OAF	rs117554512	FIG	This locus has two independent pQTLs for OAF levels, where panel c shows the association between the index pQTL at the locus (rs117554512) conditioned on its secondary signal (indexed by rs508205), and panel d shows the association with a conditionally independent SNP (rs508205, r2 < 0.01 in 1000 Genomes EUR).
+1	NA	NA	rs508205	FIG	The secondary signal rs508205 has strong evidence of co-localization with the UACR association signal (posterior probability H4 = 0.99, Methods), while the signal rs117554512 has not (posterior probability H4 = 0).
+1	NA	was	NA	FIG	There was strong evidence of co-localization between the UACR association signal and OAF expression in kidney tissue (posterior probability H4 = 0.97
+1	NA	OAF	NA	RESULTS	Co-localization of UACR association signals with those for pQTLs of 38 proteins (Methods, Supplementary Table 5) provided evidence for a shared underlying SNP for plasma concentrations of the Out At First Homolog (OAF) protein.
+1	NA	was	rs12790943	RESULTS	This was consistent with the eQTL co-localization analyses, with the minor T allele at rs12790943 associated with higher levels of UACR as well as with both lower OAF transcript levels in multiple tissues and lower OAF plasma levels (Fig.
+0	NA	NA	NA	RESULTS	7).
+0	NA	NA	NA	RESULTS	Association patterns with UACR (Fig.
+1	NA	OAF	NA	RESULTS	7a) and OAF transcript levels (Fig.
+0	NA	NA	NA	RESULTS	7b) looked similar, as expected for a shared underlying variant.
+1	NA	OAF	rs117554512	RESULTS	The pattern looked different for OAF plasma levels, and conditional analyses revealed two independent SNPs (rs117554512 and rs508205; r2 = 0, D '= 0.02 in the 1000 Genomes Project EUR sample).
+1	NA	was	rs117554512	RESULTS	There was no evidence for a shared variant underlying the associations of UACR and OAF plasma levels for the signal tagged by the initial index SNP for OAF plasma levels, rs117554512 (PP H4 = 0; Fig.
+0	NA	was	NA	RESULTS	7c), which was also significantly associated with plasma levels of IL25 in trans (p = 1.3 x 10-12, Supplementary Data 13).
+1	NA	was	rs508205	RESULTS	Conversely, there was strong evidence for a shared variant underlying associations with UACR and OAF plasma levels tagged by the second, independent signal at rs508205 (PP H4 = 0.99; Fig.
+0	NA	NA	NA	RESULTS	7d), allowing to follow associations from genetic variants to transcript, protein, and phentoype.
+1	NA	OAF	rs508205	RESULTS	The SNP rs508205 is located upstream of OAF, and was also the index variant identified in the trans-ethnic meta-analysis of UACR (r2 = 0.94 with rs12790943 in the 1000 Genomes Project EUR sample).
+0	NA	NA	NA	RESULTS	It represents an interesting regulatory candidate variant because of its relatively small credible set of eight SNPs, a CADD score of 13, and its localization in open chromatin in kidney tissue
+0	albuminuria	NA	NA	RESULTS	Finally, we used a Drosophila model to establish proof-of-principle that prioritized candidates can be used to gain mechanistic insights into albuminuria.
+0	NA	NA	NA	RESULTS	Drosophila nephrocytes are specialized cells that harbor a slit diaphragm formed by the orthologs of the mammalian slit diaphragm proteins.
+1	NA	CUBN	NA	RESULTS	These cells exhibit size-dependent molecule filtration across the slit diaphragm, followed by endocytosis via the scavenger receptor Cubilin and finally lysosomal degradation or storage.
+0	NA	NA	NA	RESULTS	Protein endocytosis mainly occurs within a network of membrane invaginations, the labyrinthine channels.
+0	NA	NA	NA	RESULTS	Formation of the labyrinthine channels depends on presence of functional slit diaphragms.
+0	protein endocytosis	NA	NA	RESULTS	Thus, these cells reflect aspects of glomerular (slit diaphragm) and proximal tubular function (protein endocytosis).
+0	loss of slit diaphragms	NA	NA	RESULTS	Studying endocytosis of a tracer molecule able to pass the slit diaphragm, such as albumin, renders an integrative read-out of nephrocyte function: FITC-albumin uptake declines both through loss of slit diaphragms and also through impaired protein endocytosis.
+0	NA	NA	NA	RESULTS	We selected three candidates for functional study, based on their associations with urinary albumin (Fig.
+1	NA	OAF	NA	RESULTS	2c), support from downstream fine-mapping and co-localization analyses (Table 1), and degree of conservation and availability of at least two independent Drosophila RNAi lines per gene: OAF, PRKCI, and WIPF3.
+1	NA	OAF	NA	RESULTS	Orthologs of OAF (oaf), PRKCI (aPKC), and WIPF3 (Vrp1) were silenced specifically in nephrocytes by crossing Dorothy-GAL4 with the respective UAS-RNAi line
+0	NA	NA	NA	FIG	In vivo results of Drosophila orthologs.
+1	NA	OAF	NA	FIG	The Drosophila orthologs of OAF and PRKCI (aPKC) are both required for nephrocyte function and aPKC-RNAi affects slit diaphragm formation.
+0	NA	NA	NA	FIG	a Garland cell nephrocytes were exposed to FITC-albumin.
+1	NA	OAF	NA	FIG	Nephrocytes expressing control RNAi exhibit intense endocytosis, while expression of RNAi directed against oaf and aPKC (ortholog of PRKCI) decreases tracer uptake.
+0	NA	NA	NA	FIG	b Quantitation of fluorescence intensity from FITC-albumin uptake is shown for the indicated genotypes.
+0	NA	NA	NA	FIG	Values are presented as mean +- standard deviation of the ratio to a control experiment.
+0	NA	was	NA	FIG	Statistical significance was calculated using ANOVA and Dunnett's post hoc analysis.
+1	NA	NA	NA	FIG	A statistically significant difference (defined as p < 0.05) is observed for oaf-RNAi-1 (N = 4), oaf-RNAi-2 (N = 3), aPKC-RNAi-1 (N = 3), and aPKC-RNAi-2 (N = 4), where ** indicate p < 0.01 and ***p < 0.001. c Staining the slit diaphragm proteins Sns (ortholog of nephrin) and Kirre (ortholog of NEPH1) in control nephrocytes shows regular formation of slit diaphragms.
+0	NA	NA	NA	FIG	Airyscan technology partially allows for distinguishing individual slit diaphragms (insets).
+0	NA	NA	NA	FIG	d Tangential sections through the surface of control nephrocytes reveals the regular fingerprint-like pattern of slit diaphragm proteins.
+1	NA	NA	NA	FIG	e, f Expression of oaf-RNAi-1 does not entail an overt phenotype, suggesting reduced nephrocyte function may be a consequence of impaired protein reabsorption while slit diaphragm formation is not affected.
+0	NA	NA	NA	FIG	g, h Expression of aPKC-RNAi-1 results in a clustered and irregular pattern of slit diaphragm proteins (insets in g) and a complete loss of slit diaphragm protein distinct areas on the cell surface.
+0	impairment to disease	NA	NA	FIG	This suggests the loss of nephrocyte function is a consequence of impaired slit diaphragm formation.
+0	NA	NA	NA	FIG	All scale bars represent 10 micro
+0	NA	aPKC	NA	RESULTS	Nephrocytes stained with an available antibody for aPKC showed a strongly reduced signal using two independent aPKC-RNAi lines (Supplementary Fig.
+0	NA	NA	NA	RESULTS	9A-C).
+0	NA	NA	NA	RESULTS	We observed no effect of Vrp1-RNAi on nephrocyte function studying FITC-albumin endocytosis (Supplementary Fig.
+0	NA	NA	NA	RESULTS	9D, E).
+1	NA	OAF	NA	RESULTS	In contrast, we detected a significant reduction of tracer endocytosis upon silencing oaf and aPKC (Fig.
+0	NA	NA	NA	RESULTS	8a, b).
+0	NA	NA	NA	RESULTS	This indicates a functional requirement of these genes within nephrocytes and supports a role of their human orthologs in glomerular filtration or tubular re-uptake of albumin.
+0	ocular disorders	NA	NA	RESULTS	To distinguish between these roles, we studied immunofluorescence of the Drosophila slit diaphragm proteins, whose staining patterns remain unaltered in isolated defects of protein endocytosis.
+1	NA	NA	NA	RESULTS	Despite the significant impairment of nephrocyte function, we observed a slit diaphragm staining pattern comparable to control conditions for oaf-RNAi (Fig.
+0	NA	NA	NA	RESULTS	8c-f).
+1	NA	OAF	NA	RESULTS	This suggests that oaf may be dispensable for slit diaphragm formation, but likely is involved in protein reabsorption.
+1	NA	OAF	NA	RESULTS	Accordingly, co-localization with OAF gene expression in human kidney was observed in the renal cortex, reflecting largely tubulointerstitial portions, and protein staining in the Human Protein Atlas is observed in tubules but not glomeruli.
+1	NA	PRKCI	NA	RESULTS	Conversely, silencing the ortholog of PRKCI entailed an extensive loss of slit diaphragm proteins (Fig.
+0	NA	NA	NA	RESULTS	8g, h; 3D reconstruction Supplementary Fig.
+0	NA	NA	NA	RESULTS	9K).
+0	NA	aPKC	NA	RESULTS	This implies that the polarity factor aPKC is directly involved in slit diaphragm formation, consistent with studies in murine podocytes.
+1	NA	OAF	NA	RESULTS	Staining patterns were comparable when silencing oaf and aPKC using second RNAi lines (Supplementary Fig.
+0	NA	NA	NA	RESULTS	9F-I).
+1	Fanconi-Bickel syndrome	OAF	NA	RESULTS	In summary, the Drosophila data support a role of OAF in tubular protein endocytosis and PRKCI in slit diaphragm formation
+0	NA	was	NA	DISCUSS	In this GWAS meta-analysis of UACR, we identified 68 loci in total, the majority of which was associated with urinary albumin concentrations and MA.
+0	NA	NA	NA	DISCUSS	Statistical fine-mapping and co-localization analyses with gene expression across 47 human tissues and with plasma protein levels resolved GWAS loci into novel driver genes and variants.
+1	proteinuria	OAF	NA	DISCUSS	This approach allowed for translating two genes prioritized in our workflow, OAF and PRKCI, into mechanistic insights in an in vivo experimental model of proteinuria.
+0	genetic diseases	NA	NA	DISCUSS	Genome-wide genetic correlation analyses and a phenome-wide association study of a genetic risk score for UACR in a large independent population highlighted a common genetic component or co-regulation with traits and diseases with renal, hepatic, or endothelial components.
+0	albuminuria	NA	NA	DISCUSS	Together, these results represent a comprehensive resource for translational research into albuminuria
+1	NA	CUBN	NA	DISCUSS	Until recently, GWAS of UACR in mostly population-based studies only identified and replicated two loci: CUBN and HBB, detected through an earlier candidate gene study.
+0	NA	BCL2L11	NA	DISCUSS	In addition to these two loci, we also identified the BCL2L11 locus, reported in an earlier admixture mapping study, with the index SNP mapping to the neighboring ACOXL gene.
+0	NA	ACOXL	NA	DISCUSS	Our fine-mapping workflow did not provide strong evidence for either ACOXL or BCL2L11 as the likely causal gene.
+0	diabetes	RAB38	NA	DISCUSS	We did not identify genome-wide significant signals at RAB38 and HS6ST1 among persons with diabetes, which we reported in an earlier study at suggestive significance.
+0	NA	NA	NA	DISCUSS	Potential reasons include differences in quantification and statistical transformation of UACR, different participating studies, and false-positive results in the initial report.
+0	albuminuria	NA	NA	DISCUSS	Twenty-eight of the 61 loci detected in EA individuals were also reported in the recent Mendelian Randomization study of albuminuria, which is not surprising given the inclusion of UKBB data in our meta-analysis.
+0	diabetes	NA	NA	DISCUSS	Still, our study identifies 32 additional loci for UACR in the overall sample, as well as four among people with diabetes.
+0	NA	NA	NA	DISCUSS	Moreover, results allow for prioritization of loci with respect to their association with urinary albumin, whereas previous studies have not evaluated whether UACR-associated loci were driven by associations with urinary albumin, creatinine, or both
+0	albuminuria	NA	NA	DISCUSS	Previous GWAS of albuminuria have not resolved associated loci into underlying genes and variants.
+1	retinopathy and nephropathy complications	PRKCI	NA	DISCUSS	Our workflow identified co-localization of UACR-associations with differential gene expression of PRKCI, TGFB1, WIPF3, PTH1R, CYP2S1, and MUC1 in glomerular kidney portions and OAF, SRD5A3, and CCDC157 in tubulointerstitial tissue.
+1	diabetes	transforming growth factor beta	NA	DISCUSS	Some of these genes already have established roles in the function of the glomerular filter in diabetic (TGFB1) and monogenic kidney disease (MUC1), while others such as OAF or WIPF3 represent novel candidates or, as for PRKCI, have not yet been implicated in humans.
+1	NA	PRKCI	NA	DISCUSS	Our combination of human and Drosophila studies support a role of PRKCI in glomerular filtration function and of OAF in tubular protein reabsorption, where reduced endocytosis upon gene silencing reflects the human allele associated with higher UACR and lower OAF expression and plasma levels.
+0	insufficient	was	NA	DISCUSS	The lack of a phenotype upon silencing of the WIPF3 ortholog may reflect the unclear state of orthology, a lack of evolutionary conservation, or potentially an insufficient knockdown
+0	NA	NA	NA	DISCUSS	Several insights from our study are of clinical interest.
+1	albuminuria	CUBN	NA	DISCUSS	First, the clinical relevance of genes detected in our screen, CUBN and COL4A4, is underscored by a respective monogenic disease featuring albuminuria and kidney disease, Imerslund-Grasbeck (MIM 261100) and Alport syndrome (MIM 203780).
+0	albuminuria	NR3C2	NA	DISCUSS	Second, the identification of NR3C2, encoding an essential component of the RAAS, links this pathway to both albuminuria and adverse clinical outcomes.
+0	T2DM-ESRD	NA	NA	DISCUSS	Pharmacological inhibition of the RAAS has been shown to be associated with reduced risk of end-stage kidney disease and cardiovascular events, suggesting that genetic studies of UACR in large human populations may identify pathways amenable to pharmacological intervention that reduce both albuminuria and CVD risk.
+0	NA	NA	NA	DISCUSS	Third, the genome-wide genetic correlations of UACR and the UACR GRS associations may point toward diseases with a common genetic basis or to co-regulation of disease-relevant cell types.
+0	hypertension	NA	NA	DISCUSS	The latter could be reflected in the role of the liver in lipid metabolism and albumin production, the role of the kidney in urate metabolism and albumin excretion, and the role of the endothelium in hypertension and glomerular filtration.
+0	NA	VEGFA	NA	DISCUSS	"A potential role of the endothelium and the vasculature is further corroborated by the significantly enriched pathway ""abnormal placental labyrinth vasculature morphology"" and many other nominally enriched pathways related to angiogenesis, as well as the identification of the VEGFA (Vascular Endothelial Growth Factor A; LINC01512) locus, an important growth factor for vascular endothelial cell migration and proliferation."
+1	NA	CUBN	NA	DISCUSS	Interestingly, a recent Mendelian Randomization analysis of UACR and blood pressure supported a causal relationship between the two, but reported that SNPs in CUBN and CYP1A1 were only associated with UACR and not blood pressure.
+1	NA	CUBN	NA	DISCUSS	We find that the index SNPs in CUBN and CYP1A1 are related to UACR via tubular albumin reabsorption and an association with urinary creatinine but not albumin, respectively.
+0	albuminuria	NA	NA	DISCUSS	This may indicate that the increased filtration of albumin in the glomerulus, potentially as a result of endothelial damage, and not albuminuria per se may link albuminuria to hypertension and increased CVD risk.
+0	albuminuria	NA	NA	DISCUSS	Fourth, albuminuria is a hallmark of diabetic kidney disease and associated with unfavorable outcomes.
+0	albuminuria	NA	NA	DISCUSS	Understanding pathways underlying albuminuria in diabetes may therefore be of particular relevance, and the four novel diabetes-specific loci identified in our study may represent a first step into this direction.
+1	NA	OAF	NA	DISCUSS	Lastly, translation of GWAS loci into differential plasma protein levels as observed for OAF is of particular interest, as plasma protein levels represent both potential biomarkers and interventional targets
+0	diabetes	NA	NA	DISCUSS	Strengths of our study include its standardized approach to phenotype definition, its large samples size, internal locus validation, and the study of participants with diabetes.
+0	NA	NA	NA	DISCUSS	The identification of a previous Amerindian-specific locus in our trans-ethnic analysis underscores the value of studying diverse ancestries, but EA individuals are still strongly overrepresented, which limits the power to detect heterogeneity correlated with ancestry.
+0	NA	NA	NA	DISCUSS	Limitations that are not specific to our study are related to the accurate quantification of UACR, which is influenced by biologic variation of urinary albumin, by the sensitivity and variation of albumin assays, and by standardization to urinary creatinine to account for urine dilution.
+0	NA	NA	NA	DISCUSS	We addressed these issues by harmonizing UACR calculation across cohorts, and by separate assessment of associations with urinary albumin and creatinine.
+0	NA	was	NA	DISCUSS	Across-cohort variation was overcome to some degree by the use of a central lab in the large UKBB, but may also introduce findings related to UKBB-specific sample handling, storage, measurement, or exposures.
+0	NA	NA	NA	DISCUSS	The statistical fine-mapping focused on SNPs available in the majority of studies, which might have limited the discovery of novel associations or the fine-mapping of population-specific or low-frequency variants.
+0	NA	NA	NA	DISCUSS	Such analyses represent avenues for future research.
+0	NA	NA	NA	DISCUSS	Other fine-mapping methods such as Bayesian approaches that incorporate priors based on variant annotation exist, but ultimately all statistically prioritized variants need to be experimentally validated
+0	NA	NA	NA	DISCUSS	In summary, we identified and characterized 68 loci associated with UACR and highlight potential causal genes, driver variants, target tissues, and pathways.
+0	albuminuria	NA	NA	DISCUSS	These findings will inform experimental studies and advance the understanding of albuminuria and correlated traits, an essential step for the development of novel therapies to reduce the burden of CKD and potentially CVD
+0	NA	NA	NA	METHODS	We set up a collaborative meta-analysis based on a distributive data model.
+0	NA	was	NA	METHODS	An analysis plan was developed and circulated to all participating studies via a Wiki system [https://ckdgen.eurac.edu/mediawiki/index.php/CKDGen_Round_4_EPACTS_analysis_plan].
+0	NA	NA	NA	METHODS	Phenotypes were generated and quality checks performed within each study in a standardized manner through scripts provided to all study centers.
+0	NA	PDF	NA	METHODS	Before conducting the analyses, studies uploaded automatically generated PDF and text files.
+0	NA	NA	NA	METHODS	After approval of the phenotype quality, ancestry-specific GWAS were performed in each study and uploaded centrally.
+0	NA	NA	NA	METHODS	Files were quality controlled using GWAtoolbox and customized scripts, harmonized, and meta-analyzed.
+0	NA	NA	NA	METHODS	Details regarding each step are provided below.
+0	NA	was	NA	METHODS	Each study was approved by the respective ethics committee, and all participants provided written informed consent.
+0	NA	was	NA	METHODS	Drosophila research was carried out in compliance with all relevant ethical regulations.
+0	NA	NA	NA	METHODS	Drosophila experiments are exempt from a specific regulatory approval
+0	NA	NA	NA	METHODS	Methods for the measurement of urinary albumin and creatinine in each study are reported in Supplementary Data 1.
+0	NA	was	NA	METHODS	Urinary albumin values below the detection limit of the used assays were set to the lower limit of detection, and the UACR was assessed in mg/g and calculated as urinary albumin (mg/l)/urinary creatinine (mg/dl) x 100.
+0	NA	NA	NA	METHODS	MA cases were defined as UACR > 30, and controls as UACR < 10 mg/g, no other exclusions were applied.
+0	NA	NA	NA	METHODS	These steps were all included in the distributed phenotyping script.
+0	NA	NA	NA	METHODS	MA GWAS analyses were limited to studies with >=100 MA cases
+0	NA	was	NA	METHODS	In each study, genotyping was performed using genome-wide arrays followed by application of study-specific quality filters prior to phasing and imputation.
+0	NA	NA	NA	METHODS	Genome-wide data were imputed to the Haplotype Reference Consortium (HRC) version 1.1, 1000 Genomes Project (1000G) phase 3 v5 ALL, or the 1000G phase 1 v3 ALL reference panels using the Sanger [https://imputation.sanger.ac.uk/] and Michigan Imputation Server [https://imputationserver.sph.umich.edu/].
+0	NA	NA	NA	METHODS	Detailed information on study-specific genotyping, imputation, and QC is provided in Supplementary Data 2.
+0	NA	NA	NA	METHODS	Unless indicated differently, variants are annotated according to the GRCh37 (hg19) reference build
+0	NA	NA	NA	METHODS	The inverse normal transformed age-adjusted and sex-adjusted residuals of log-transformed UACR, as well as urinary albumin and urinary creatinine levels separately for the sensitivity analysis in the UKBB sample, were used as the dependent variable in a linear regression model fitted in each study-specific GWAS.
+0	NA	was	NA	METHODS	For MA, a logistic regression model adjusted for sex and age was used.
+0	NA	NA	NA	METHODS	The models were adjusted for study-specific covariates, such as recruitment site and genetic principal components where applicable.
+0	NA	NA	NA	METHODS	Family-based studies used mixed-effect models by including the relationship of the individuals as a variance component.
+0	NA	NA	NA	METHODS	Additive genetic models were fitted using the SNP's allele dosage as an independent variable.
+0	NA	NA	NA	METHODS	The analysis programs used for the GWAS are provided in Supplementary Data 2
+0	NA	NA	NA	METHODS	For UACR, studies contributed a total of 54 GWAS summary statistics files.
+0	NA	was	NA	METHODS	After QC, the total samples size was 564,257 (547,361 individuals of European ancestry [EA], 6324 of East Asian ancestry [EAS], 6795 African Americans [AA], 2335 of South Asian ancestry [SA], and 1442 Hispanics; Supplementary Data 1).
+0	NA	NA	NA	METHODS	For MA, a total of 38 GWAS summary files were contributed, totaling a post-QC samples size of 348,954 (51,861 cases; Supplementary Data 1).
+0	diabetes	NA	NA	METHODS	Both meta-analyses included individuals with and without diabetes
+0	NA	beta-amyloid (Abeta)	NA	METHODS	Before meta-analysis, study-specific GWAS files were filtered to retain only SNPs with imputation quality (IQ) score > 0.6 and MAC > 10, effective sample size >= 100, and a  beta  < 10 to remove implausible outliers.
+0	NA	was	NA	METHODS	Within study, we estimated the genomic inflation factor lambdaGC and applied GC correction when lambdaGC was >1.
+0	NA	was	NA	METHODS	Fixed effects inverse-variance weighted meta-analysis of the study-specific GWAS result files was performed using METAL, which was adapted to obtain effects and standard errors of higher precision if required (seven decimal places instead of four).
+0	NA	NA	NA	METHODS	After meta-analysis of 37,915,339 SNPs, we retained only variants that were present in >=50% of the GWAS data files (27 studies) and had a total MAC of >=400.
+0	NA	NA	NA	METHODS	Across ancestries, this yielded 8,034,757 variants for UACR (8,603,712 in EA with an observed MAF > 0.3%), and 8,326,000 variants for MA
+0	NA	was	NA	METHODS	The inflation of p-values attributed to reasons other than polygenicity was assessed by LD score regression.
+0	NA	was	NA	METHODS	The intercept was estimated as 0.95, and thus <=1, indicating that any residual inflation was likely due to polygenicity rather than confounding.
+0	NA	NA	NA	METHODS	Therefore, p-values were not corrected for a second round of genomic control after the meta-analysis
+0	NA	was	NA	METHODS	The genome-wide significance level was set at 5 x 10-8.
+0	NA	was	NA	METHODS	Between-study heterogeneity was assessed using the I2 statistic.
+0	NA	NA	NA	METHODS	Variants were assigned to loci by selecting the SNP with the lowest p-value genome-wide as the index SNP, defining the corresponding locus as the +-500 kb region around it, and repeating the procedure until no further genome-wide significant SNP remained.
+0	NA	was	NA	METHODS	A locus was considered novel if it did not contain any variant identified by previous GWAS of UACR.
+0	NA	NA	NA	METHODS	The loci were named according to the nearest gene of the index SNP, the SNP with the lowest p-value within a locus
+0	NA	beta-amyloid (Abeta)	NA	METHODS	For UACR, we evaluated heterogeneity correlated with ancestry using study-specific GWAS files filtered for polymorphic SNPs with an IQ score > 0.3, an effective sample size >= 100, and a  beta  < 10.
+0	NA	was	NA	METHODS	Analysis was performed using the software Meta-Regression of Multi-Ethnic Genetic Association (MR-MEGA v0.1.2.25), where the meta-regression model included the three axes explaining the largest genetic variation estimated from allele frequencies provided in the study-specific GWAS files
+0	NA	was	NA	METHODS	The narrow-sense heritability of the trait based on all SNPs with a MAF > 1% was estimated using the genome-wide summary statistics for UACR with the MHC region removed as input for the LD score regression software, using the 1000 Genomes phase 3 EUR reference panel for estimating LD.
+0	NA	was	NA	METHODS	The proportion of phenotypic variance explained by the index SNPs was estimated as beta2*2*MAF*(1-MAF), with beta representing the SNP effect and accounting for a trait variance of 1 due to the inverse normal transformation of the analyzed trait.
+0	NA	NA	NA	METHODS	Thus, the estimates provide the proportion of the variance of sex- and age-adjusted log-transformed UACR that is explained by the respective SNPs.
+0	NA	was	NA	METHODS	The expected number of discoveries in future, larger studies and the corresponding percentage of GWAS heritability explained with increases in sample size was estimated using a recently published method.
+0	NA	NA	NA	METHODS	The summary statistics of the UACR trans-ethnic meta-analysis were used as input
+0	NA	NA	NA	METHODS	We used DEPICT version 1 release 194 to identify gene sets and tissue/cell types enriched in UACR-associated loci.
+0	NA	NA	NA	METHODS	DEPICT performs gene set and tissue-/cell-type enrichment analysis by testing whether genes in GWAS-associated loci are enriched in 14,461 reconstituted gene sets.
+0	NA	NA	NA	METHODS	These reconstituted gene sets were generated based on a large number of predefined gene sets from diverse molecular pathway databases including protein-protein interactions, and gene sets from mouse gene knockout studies.
+0	NA	was	NA	METHODS	The function of each gene in 14,461 reconstituted gene sets was predicted from co-regulation analyses of 77,840 expression microarray samples.
+0	NA	was	NA	METHODS	Tissues and cell-type enrichment was conducted in DEPICT by testing whether the genes in associated regions were highly expressed in any of 209 MeSH annotations for 37,427 microarrays.
+0	NA	NA	NA	METHODS	We included all variants that reached a genome-wide significant p-value of association with UACR (p < 5 x 10-8) from the trans-ethnic meta-analysis.
+0	NA	was	NA	METHODS	DEPICT analysis was conducted with 500 repetitions to compute FDR and 5000 permutations to compute enrichment test p-values adjusted for gene length by using 500 null GWAS
+0	NA	NA	NA	METHODS	"All analyses were conducted using standard PheWAS coding methodologies using the R-package ""PheWAS""."
+0	NA	NA	NA	METHODS	Models were adjusted for ten genetic principal components and sex, when appropriate.
+0	NA	NA	NA	METHODS	All analyses were conducted among 192,868 participants of European ancestry in the Million Veteran Program sample.
+0	NA	was	NA	METHODS	A weighted genetic risk score was first built using the 59 UACR-associated SNPs (Supplementary Data 3) where the UACR-increasing allele was coded as the effect allele.
+0	NA	NA	NA	METHODS	Based on the number of covariates included in the model, only traits with >=100 cases were included in the analysis resulting in evaluation of 1422 traits.
+0	NA	was	NA	METHODS	A Bonferroni threshold of 3.5 x 10-5 (0.05/1422) was applied for assessing significance of the association test
+0	NA	was	NA	METHODS	"The genetic UACR risk score was also tested for association with additional outcomes using GWAS summary statistics with association testing implemented in the function grs.summary of the R-package ""gtx""."
+0	hypertension	NA	NA	METHODS	The summary statistics for hypertension and heart failure were calculated in the UKBB prior to the risk score association analysis.
+0	hypertension	NA	NA	METHODS	Hypertension cases were defined based on ICD-10 codes (I10, I11, I11.0, I11.9, I12, I12.0, I12.9, I13, I13.0, I13.1, I13.2, I15, I15.0, I15.1, I15.2, I15.8, and I15.9), as self-reported hypertension or essential hypertension, by measured systolic blood pressure >= 140 mmHg, diastolic blood pressure >= 90 mmHg, or by taking blood pressure medication.
+0	Hear failure	NA	NA	METHODS	Hear failure cases were defined based on ICD-10 codes (I11.0, I13.0, I13.2, I25.5, I42.0, I42.5, I42.8, I42.9, I50, I50.0, I50.1, and I50.9), or by self-reported cardiomyopathy, excluding hypertrophic cardiomyopathy.
+0	NA	NA	NA	METHODS	The summary statistics for other outcomes were based on results from published GWAS meta-analyses with references provided in Supplementary Table 2.
+0	NA	was	NA	METHODS	Statistical significance was defined as p < 0.007 of the association test after correction for the number of evaluated associations (0.05/7)
+0	NA	was	NA	METHODS	Genome-wide genetic correlations between UACR and UK Biobank traits and diseases were evaluated to investigate whether there was evidence of co-regulation or a shared genetic basis, both known and novel.
+0	NA	NA	NA	METHODS	Using LD score regression that can account for overlapping samples and the EA association summary statistics as input, we evaluated pair-wise genetic correlations between UACR and each of 517 pre-computed GWAS summary statistics of UKBB traits and diseases available through the web-platform LDHub.
+0	NA	NA	NA	METHODS	An overview of the sources of these summary statistics and their corresponding sample sizes is available at [http://ldsc.broadinstitute.org].
+0	NA	was	NA	METHODS	Statistical significance was assessed at the Bonferroni corrected level of 9.7 x 10-5 (0.05/517)
+0	NA	NA	NA	METHODS	To identify additional, independent UACR-associated variants within the identified loci, approximate conditional analyses were carried out that incorporated LD information from an ancestry-matched reference population.
+0	NA	was	NA	METHODS	We used the genome-wide UACR summary statistics from the EA meta-analysis as input, because an LD reference sample scaled to the size of our meta-analysis was only available for EA individuals.
+0	NA	NA	NA	METHODS	We randomly selected 15,000 participants from the UK Biobank data set (UKBB; application ID 2027, data set ID 8974).
+0	NA	NA	NA	METHODS	Individuals who withdrew consent and those not meeting data cleaning requirements were excluded, keeping only those who passed sex check, had a genotyping call rate of >=95%, and did not represent outliers with respect to SNP heterozygosity.
+0	NA	was	NA	METHODS	For each pair of individuals, the proportion of variants shared identical-by-descent (IBD) was computed using PLINK [https://www.cog-genomics.org/plink/].
+0	NA	NA	NA	METHODS	We retained only one member of each pair with an IBD coefficient of >=0.1875.
+0	NA	NA	NA	METHODS	Individuals were restricted to those of EA by excluding outliers along the first two PCs from a principal component analysis using the HapMap phase 3 release 2 populations as reference.
+0	NA	NA	NA	METHODS	The final data set to estimate LD included 13,558 EA individuals and 16,969,363 SNPs
+0	NA	NA	NA	METHODS	Basis for statistical fine-mapping were the 61 1-Mb genome-wide significant loci identified in the EA meta-analysis, clipping at chromosome borders.
+0	NA	NA	NA	METHODS	Overlapping loci as well as pairs of loci whose respective index SNPs were correlated (r2 > 0.1 in the UKBB data set described above) were merged, resulting in a final list of 57 regions prior to fine-mapping.
+0	NA	was	NA	METHODS	Within each region, the GCTA stepwise model selection procedure (cojo-slct algorithm) was used to identify independent variants employing a stepwise forward selection approach.
+0	NA	NA	NA	METHODS	We used the default collinearity cutoff of 0.9 and set the significance threshold to identify independent SNPs to 5 x 10-8
+0	NA	was	NA	METHODS	Statistical fine-mapping was carried out for each of the 57 merged regions used as input for GCTA cojo-slct.
+0	NA	NA	NA	METHODS	For each region that contained multiple independent SNPs identified by the GCTA stepwise forward selection approach, approximate conditional analyses conditioned on all remaining independent SNP of this region were carried out using the GCTA cojo-cond algorithm to estimate conditional effect sizes.
+0	NA	NA	NA	METHODS	The derived effect estimates were used in the Wakefield's formula as implemented in the R-package'gtx' version 2.0.1 [https://github.com/tobyjohnson/gtx] to derive approximate Bayes factors (ABF) from conditional estimates in regions with multiple independent SNPs, and from the original estimates for regions with a single independent SNP.
+0	NA	was	NA	METHODS	Given that 95% of the SNP effects from the UACR GWAS were within +-0.03, the standard deviation prior was chosen as 0.0153 based on formula (8) in the original publication.
+0	NA	was	NA	METHODS	For each variant within an evaluated region, the Approximate Bayes Factor obtained from the effect and its standard error of the marginal (single signal region) or conditional estimates (multi-signal regions) was used to calculate the PP for the variant driving the association signal (causal variant).
+0	NA	was	NA	METHODS	For each region, 99% credible sets, representing the set of SNPs that contain with a 99% PP the variant causing the association, were calculated by summing up the PP-ranked variants until the cumulative PP was >99%
+0	NA	v3.2	NA	METHODS	Functional annotations of index variants of associated loci and credible set variants were performed by querying the SNiPA database v3.2 (March 2017) [https://snipa.helmholtz-muenchen.de/snipa/].
+0	NA	NA	NA	METHODS	SNiPA includes extensive annotations ranging from regulatory elements, over gene annotations to variant annotations and published GWAS associations.
+0	NA	v3.2	NA	METHODS	SNiPA release v3.2 is based on 1000 the Genomes phase 3 version 5 and Ensembl version 87 data sets.
+0	NA	was	NA	METHODS	The Ensembl VEP tool [https://www.ensembl.org/info/docs/tools/vep/] was used for primary effect prediction of SNPs.
+0	NA	v1.3	NA	METHODS	The CADD score provided by SNiPA is based on CADD release v1.3 and presented as PHRED-like transformation of the C score
+0	NA	was	NA	METHODS	Co-localization analysis was based on the genetic associations with UACR in the EA sample (because the great majority of gene expression data sets was generated from EA).
+0	NA	was	NA	METHODS	Gene expression was quantified from microdissected human glomerular and tubulointerstitial kidney portions from 187 individuals participating in the NEPTUNE study, as well as from the 44 tissues included in the GTEx Project version 6p release [https://gtexportal.org/].
+0	NA	NA	NA	METHODS	The eQTL and GWAS effect alleles were harmonized.
+0	NA	NA	NA	METHODS	For each locus, we identified tissue-gene pairs with reported eQTL data within +-100 kb of each GWAS index variant.
+0	NA	was	NA	METHODS	The region for each co-localization test was defined as the eQTL cis window defined in the underlying GTEx and NephQTL studies.
+0	NA	gtx	NA	METHODS	"We used the default parameters and prior definitions set in the ""coloc.fast"" function from the R-package ""gtx"" version 2.0.1 [https://github.com/tobyjohnson/gtx], which is an adapted implementation of Giambartolomei's co-localization method."
+0	NA	was	NA	METHODS	The same package was also used to estimate the direction of effect as the ratio of the average PP (that was obtained from credible set estimation) weighted GWAS effects over the PP weighted eQTL effects
+0	NA	was	NA	METHODS	An additional co-localization analysis was performed using a complementary gene-expression data set derived from healthy human kidney tissue.
+0	NA	was	NA	METHODS	The corresponding eQTL data set was generated by correlating genotype with RNA-seq-based gene expression levels from 96 human kidney samples.
+0	NA	was	NA	METHODS	Co-localization analysis of GWAS signals and eQTL signals was performed using Coloc, using the same distance criteria to identify shared eQTL and GWAS regions as above, including variants within the cis-window (+-1 Mb from TSS) of each identified candidate gene, and the parameters p1 = 1 x 10-4, p2 = 1 x 10-4, and p12 = 1 x 10-5
+0	NA	was	NA	METHODS	For all co-localization analyses, a PP >= 0.8 of the H4 test (one common causal variant underlying UACR and eQTL association signal) was applied to select a significant result
+0	NA	NA	NA	METHODS	We performed trans-eQTL annotation through LD mapping based on the 1000 Genomes phase 3 version 5 European reference panel with a r2 cutoff of >0.8.
+0	NA	NA	NA	METHODS	We limited annotation to index SNPs with a fine-mapping PP >=1% in at least one fine-mapped-region.
+0	NA	NA	NA	METHODS	Due to expected small effect sizes, only available genome-wide trans-eQTL studies of either peripheral blood mononuclear cells or whole blood with a sample size of >=1000 individuals were considered, resulting in five non-overlapping studies.
+0	NA	NA	NA	METHODS	For the study by Kirsten et al., we had access to an update with larger sample size combining two nonoverlapping studies (LIFE-Heart and LIFE-Adult) resulting in a total sample size of 6645.
+0	NA	NA	NA	METHODS	To improve stringency of results, we focused the analysis on inter-chromosomal trans-eQTLs with association test p-values of p < 5 x 10-8 reported by >=2 studies (Supplementary Table 4)
+0	NA	NA	NA	METHODS	The pQTL data were generated using an aptamer-based multiplex protein assay (SOMAscan) to quantify 3622 proteins from stored EDTA plasma of 3301 healthy participants of the INTERVAL study, which were genotyped on the Affymetrix Axiom UK Biobank genotyping array and imputed to a combined 1000 Genomes Phase 3-UK10K reference panel.
+0	NA	NA	NA	METHODS	For this lookup, all pQTLs with p < 1 x 10-4 were selected
+0	NA	was	NA	METHODS	Co-localization analysis for pQTL data was performed using the same analysis approach as described for eQTL co-localization.
+0	NA	NA	NA	METHODS	For associations with plasma protein concentrations, pQTL results of 1927 genetic associations with 1478 proteins obtained by the Somalogic proteomics platform GWAS were included.
+0	NA	NA	NA	METHODS	In a first instance, pQTLs within a +- 500 kb region of each UACR-associated SNP (Supplementary Data 5) were identified.
+0	NA	NA	NA	METHODS	In case a pQTL region contained multiple independent index SNPs, additional pQTLs were calculated conditioning on the respective index SNP.
+0	NA	NA	NA	METHODS	"Next, the conditional and unconditional pQTLs (n = 38) were included in the co-localization analysis using the coloc.abf function with default priors of the R-package ""coloc"" implementing the co-localization method of Giambartolomei"
+1	NA	OAF	NA	METHODS	The intra-assay coefficient of variation for the OAF protein, for which evidence for co-localization of the UACR association and OAF plasma levels was identified, was 5.7% and 16.9% in the two batches of SOMAscan measurements
+0	NA	NA	NA	METHODS	Transgenic RNAi studies were performed using the UAS/GAL4 system, flies were raised on standard agar cornmeal molasses.
+0	Vienna Drosophila	NA	NA	METHODS	RNAi crosses were grown at 30  C. The RNAi stocks were obtained from the Bloomington Drosophila Stock Center at Indiana University (oaf-RNAi-1 BDSC #40926, aPKC-RNAi-1 BDSC # 35001, aPKC-RNAi-2 BDSC #34332) or the Vienna Drosophila Resource Center respectively (oaf-RNAi-2 VDRC #38257, Vrp1-RNAi-1 VDRC #102253, Vrp1-RNAi-2 VDRC #23888).
+0	NA	was	NA	METHODS	Control RNAi was directed against EGFP (BSDC# 41553).
+0	NA	was	NA	METHODS	Dorothy-GAL4 (BDSC #6903) was used to drive expression in nephrocytes
+0	NA	NA	NA	METHODS	To perform the FITC-albumin endocytosis assay, garland cell nephrocytes were dissected from wandering third instar larvae in PBS and incubated with 0.2 mg/ml FITC-albumin (Sigma) for 30 s. Cells were rinsed briefly with ice-cold PBS four times and fixed immediately for 5 min in 8% paraformaldehyde in presence of Hoechst 33342 (1:1000).
+0	NA	NA	NA	METHODS	Cells were mounted in Roti-Mount FluorCare (Carl Roth GmbH) and imaged using a Zeiss LSM 880 confocal microscope.
+0	NA	was	NA	METHODS	Quantification of fluorescent tracer uptake was performed with ImageJ software.
+0	NA	was	NA	METHODS	Average fluorescence of the three brightest cells was measured and intensity of the background subtracted.
+0	NA	was	NA	METHODS	The results are expressed as a ratio to a control experiment with EGFP-RNAi that was performed in parallel
+0	NA	NA	NA	METHODS	For immunohistochemistry, garland cell nephrocytes were dissected from wandering third instar larvae, fixed for 20 min in PBS containing 4% paraformaldehyde, and stained according to the standard procedure.
+0	NA	was	NA	METHODS	The following primary antibodies were used: rabbit anti-sns (1:500, gift from S. Abmayr), guinea pig anti-Kirre (1:200, gift from S. Abmayr), and rabbit anti anti-PKCzeta (C20) (1:200, sc-216-G, Santa Cruz Biotechnology) that was previously shown to detect Drosophila aPKC.
+0	NA	was	NA	METHODS	For imaging, a Zeiss LSM 880 confocal microscope was used.
+0	NA	was	NA	METHODS	Image processing was done by ImageJ and Gimp software.
+0	NA	was	NA	METHODS	Three-dimensional reconstruction of confocal images was done using Imaris software
+0	NA	NA	NA	METHODS	Further information on research design is available in the Nature Research Reporting Summary linked to this article
+0	NA	NA	NA	SUPPL	Summary genetic association results are freely available on the CKDGen Consortium website [https://ckdgen.imbi.uni-freiburg.de/].
+0	NA	NA	NA	SUPPL	The source data underlying Figs.
+0	NA	NA	NA	SUPPL	1, 2, 5-8 and Supplementary Figs.
+0	NA	NA	NA	SUPPL	8 and 9 are provided as a Source Data file.
+0	NA	NA	NA	SUPPL	The source data underlying Figs.
+0	NA	NA	NA	SUPPL	3, 4, and Supplementary Fig.
+0	NA	NA	NA	SUPPL	7 are provided in Supplementary Data 9, 10, and 7, respectively, and the data underlying the Supplementary Figs.
+0	NA	NA	NA	SUPPL	2-6 are based on the respective downloadable summary genetic association results
+0	NA	NA	NA	SUPPL	The script for generating the phenotypes used in the GWAS is available via GitHub [https://github.com/genepi-freiburg/ckdgen-pheno]

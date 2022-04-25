@@ -1,0 +1,230 @@
+0	lung cancer	NA	NA	ABSTRACT	Radon is a risk factor for lung cancer and uranium miners are more exposed than the general population.
+0	lung cancer	NA	NA	ABSTRACT	A genome-wide interaction analysis was carried out to identify genomic loci, genes or gene sets that modify the susceptibility to lung cancer given occupational exposure to the radioactive gas radon
+0	cancers	NA	NA	ABSTRACT	Samples from 28 studies provided by the International Lung Cancer Consortium were pooled with samples of former uranium miners collected by the German Federal Office of Radiation Protection.
+0	NA	NA	NA	ABSTRACT	In total 15,077 cases and 13,522 controls, all of European ancestries, comprising 463 uranium miners were compared.
+0	NA	NA	NA	ABSTRACT	The DNA of all participants was genotyped with the OncoArray.
+0	NA	NA	NA	ABSTRACT	We fitted single-marker and in multi-marker models and performed an exploratory gene-set analysis to detect cumulative enrichment of significance in sets of genes
+0	NA	NA	rs12440014	ABSTRACT	We discovered a genome-wide significant interaction of the marker rs12440014 within the gene CHRNB4 (OR=0.26, 95%.CI: 0.11-0.60, p=0.0386 corrected for multiple testing).
+0	NA	NA	NA	ABSTRACT	At least suggestive significant interaction of linkage disequilibrium blocks was observed at the chromosomal regions 18q21.23 (p=1.2x10-6), 5q23.2 (p=2.5x10-6), 1q21.3 (p=3.2x10-6), 10p13 (p=1.3x10-5) and 12p12.1 (p=7.1x10-5).
+0	NA	NA	NA	ABSTRACT	"Genes belonging to the Gene Ontology term ,,DNA dealkylation involved in DNA repair"" (GO:0006307; p=0.0139) or the gene-family HGNC:476 ,,microRNAs"" (p=0.0159) were enriched with LD-block-wise significance"
+0	lung cancer	NA	NA	ABSTRACT	The well-established association of the genomic region 15q25 to lung cancer might be influenced by exposure to radon among uranium miners.
+0	lung cancer	NA	NA	ABSTRACT	Further, lung cancer susceptibility is related to the functional capability of DNA damage signalling via ubiquitination processes and repair of radiation-induced double-strand breaks by the single-strand annealing mechanism
+0	NA	NA	NA	INTRO	You cannot see it; you cannot hear it and you cannot smell it; but be aware it is omnipresent in indoor and outdoor air and contaminates many underground mines.
+0	NA	NA	NA	INTRO	Radon is a radioactive noble gas released by the uranium decay chain.
+0	lung cancer	NA	NA	INTRO	An increased risk for lung cancer (LC), the main cause of cancer-related death worldwide, caused by inhalation of radon has been consistently demonstrated in several studies of indoor-exposure in dwellings as well as for uranium miners.
+0	NA	NA	NA	INTRO	It was estimated, that ionising radiation due to residential radon causes 3% to 15% of LC cases in the general population.
+0	NA	NA	NA	INTRO	That is why radon is the second strongest risk factor for LC and among the top 4 environmental risks to public health in the United States
+0	lung cancer	NA	NA	INTRO	Pooled analyses of genome-wide association studies (GWASs) within the International Lung Cancer Consortium (ILCCO) have revealed that genomic variations at e.g.
+0	NA	NA	NA	INTRO	5p15.33, 6p21-22 and 15q25 and further 42 LC susceptibility loci influence LC risk in European populations.
+0	NA	NA	NA	INTRO	In total 92 genes are postulated to be suspected causal genes for LC.
+0	NA	NA	NA	INTRO	Although the strongest genetic association with an odds ratio (OR) of 7.2 was reported for 15q25 in a familial form of LC, for sporadic LC an OR of only ~1.3 was observed, albeit highly significant (p = 3.08 x 10-103).
+0	NA	NA	NA	INTRO	"However, ""cumulative effects of loci have shown promising results to improve the discriminatory performance of risk prediction models"" Nevertheless, genes can be associated to several traits and contribute to the functional efficacy of multiple interlocked biological processes."
+0	NA	NA	NA	INTRO	One may assume that for example nicotine dependency or DNA repair play a role in an individual's susceptibility to developing LC.
+0	chronic obstructive pulmonary disease	CHRNA5	NA	INTRO	For example, some genetic variants in CHRNA5 on chromosome 15q25.1 increase the risk for smoking-related disorders such as LC and chronic obstructive pulmonary disease (COPD) but are also associated with delayed smoking cessation.
+0	NA	NA	NA	INTRO	Taken together, the harming mechanisms of smoking consist at least in parts of a complex interplay between tobacco exposure, previous diseases and genetics.
+0	NA	NA	NA	INTRO	However, smoking is the most important but an avoidable risk factor
+0	NA	NA	NA	INTRO	Exposure to radon is ubiquitous and not self-inflicted, but can be reduced in homes and buildings; the related biological defence mechanisms are complex.
+0	prostate carcinogenesis	NA	NA	INTRO	DNA damage, induced by radioactive alpha particles emitted by radon progenies, is considered as pivotal mechanism of carcinogenesis in the lung.
+0	NA	NA	NA	INTRO	A heritable component in the capacity to repair DNA-damage was demonstrated.
+0	NA	NA	NA	INTRO	Ionizing radiation induces oxidation of DNA bases and generates single-strand breaks (SSBs) and double-strand breaks (DSBs).
+0	NA	NA	NA	INTRO	An individual's capacity to repair DSBs is recognised as a risk factor or an effect modifier in LC.
+0	lung cancer	NA	NA	INTRO	DSBs capacity determining genes are widely investigated as susceptibility genes for lung cancer.
+0	NA	GSTM	NA	INTRO	The interaction of radon with some genes belonging to biological mechanisms other than DNA damage response was also investigated with candidate gene approaches in either high dose exposed uranium miners (SIRT1; P53; CDKN2A and MGMT; IL6) or low dose exposed humans in dwellings (GSTM, GSTT and EPHX1; P53).
+0	NA	NA	NA	INTRO	Nevertheless, it is still unclear which genomic dispositions make one susceptible to radiation-induced LC
+0	NA	NA	NA	INTRO	The uranium miners of the former German Wismut mining company, with about 400 000 employees, form a large population with documented radiation exposure.
+0	NA	NA	NA	INTRO	In 2009 the German Federal Office of Radiation Protection (Bundesamt fur Strahlenschutz, BfS) started to build up the German Uranium Miners Bio- and Databank (GUMB) with DNA from blood and/or tissue samples from LC cases and healthy controls of former uranium miners of this company.
+0	NA	NA	NA	INTRO	Exposure estimations and data are captured in the same way as for a large cohort study of the same population and includes an estimate of the cumulative occupational exposure to radon progeny
+0	cancers	NA	NA	INTRO	This work was conducted as collaboration between the Transdisciplinary Research of Cancer in Lung and the International Lung Cancer Consortium (TRICL/ILCCO), the German Federal Office of Radiation Protection (BfS) and the University Medical Centre Gottingen.
+0	NA	NA	NA	INTRO	We merged phenotypic and genotypic information from TRICL/ILCCO and from BfS.
+0	NA	NA	NA	INTRO	Genotypes were yielded by the OncoArray, to perform a genome-wide search for radon x gene interaction -without restricting the investigation to any presumed mode of action
+0	NA	NA	NA	METHODS	The participating studies of TRICL/ILCCO are individually described in the supplement of, Table 1 and Supplementary Table I (Online Resource 1).
+0	NA	NA	NA	METHODS	The LC cases of the BfS sample collection were recruited for a study investigating indoor-radon exposure between 1990 und 1997.
+0	NA	NA	NA	METHODS	The cancer-free BfS controls are former uranium miners recruited from 2009-2012, who continuously participated in health surveillance program of the German Social Accident Insurance and are long term survivors.
+0	NA	NA	NA	METHODS	This control samples stored in German Uranium Miners Biobank (GUMB) of the BfS were drawn from these miners, which were either very high (>750 Working Level Months, WLM) or low (<=50 WLM) radiation exposed in a targeted and no-representative ratio of 2:1.
+0	NA	NA	NA	METHODS	The method how radon exposures was measured is given elsewhere (see Scaling residential and occupational radon exposure, Online Resource 1)
+0	lung cancer	NA	NA	METHODS	The analysed sample consisted of 28 599 study participants with European ancestry and valid information on age at diagnosis/interview, sex and smoking status (15 077 cases : 13 522 controls); 463 thereof are former uranium miners of the Wismut mining company (61 cases : 402 controls), 949 are from the German Lung Cancer Study (471 cases : 478 controls), the remaining are from 25 studies of TRICL/ILCCO (14 545 cases : 12 642 controls) (see Table 1 and Supplementary Table I, Online Resource 1).
+0	NA	NA	NA	METHODS	49 of 15 077 (0.3%) LC cases and 259 of 13 522 cancer-free controls (1.9%) had been occupationally exposed by a high cumulative dose exposure to radon and its progeny (WLM>50).
+0	NA	NA	NA	METHODS	It is unlikely that a cumulative lifetime exposure solely due to an exposure by indoor or other environmental radon sums up to more than 50 WLM.
+0	NA	NA	NA	METHODS	"Thus, we categorised occupational radon exposure into <=50 (""unexposed"") and >50 WLM (""exposed""), a threshold for significant elevated relative LC-risk."
+0	NA	NA	NA	METHODS	All TRICL/ILCCO participants were assigned to the exposure categories <=50 WLM.
+0	NA	NA	NA	METHODS	Misclassification would be conservative.
+0	NA	NA	NA	METHODS	A detailed justification is given in the supplement (see Online Resource 1)
+0	NA	NA	NA	METHODS	The Infinium OncoArray-500K was used for high-throughput genotyping.
+0	NA	NA	NA	METHODS	Quality control (QC) was performed following the approach previously described for the OncoArray.
+0	NA	NA	NA	METHODS	To validate the European ancestry of the participants the probability of being Caucasian based on a set of 159 ancestry- and PCA-informative markers was estimated applying the program ADMIXTURE.
+0	NA	NA	NA	METHODS	407 117 markers entered the analysis, after excluding markers of low quality genotyping or a minor allele frequencies (MAF) <1%.
+0	NA	NA	NA	METHODS	These remaining markers could be clustered into 103 983 blocks (67 161 LD blocks and 36 822 hot spots; for definition see Online Resource 1)
+0	NA	NA	NA	METHODS	The crude odds ratio (OR) for the occupational radon exposure within participants of the BfS sample collection was OR=2.25.
+0	NA	NA	NA	METHODS	Because naively adding the TRICL/ILCCO participants would biased this association to OR=0.17, we down-weighted the cases of TRICL/ILCCO by the factor 1 : 13.6.
+0	NA	NA	NA	METHODS	In this way we avoided this unjustified inversion of the crude association, and still use all available information for analysis.
+0	NA	NA	NA	METHODS	However, we have fixed the marginal risk of a radon exposure at the point estimate from the BfS sample collection (for a more detailed explanation see Online Resource 1)
+0	NA	GSA	NA	METHODS	We fitted two models to individual data and also carried out a gene-set analysis (GSA) to search for accumulated significance in pre-defined groups of genes for pathways and gene families of interest.
+0	NA	NA	NA	METHODS	All calculations, data handling and image acquire were performed using PLINK 1.9 and SAS 9.4 of the SAS Institute Inc., Cary.
+0	NA	NA	NA	METHODS	NC.
+0	NA	NA	NA	METHODS	USA
+0	NA	NA	NA	METHODS	We first performed single-marker interaction analysis fitting the log-additive model:
+0	NA	NA	NA	METHODS	where D is the disease status (D=1: LC patient; D=0: control); G is minor allele count at marker m; E is the exposure category (0: <=50 WLM, 1: WLM>50); PS is a propensity score comprising the probability being a case explained by age, sex and smoking.
+0	NA	NA	NA	METHODS	To adjust for genomic population stratification we calculated the principal components (PC) of genotypes.
+0	NA	NA	NA	METHODS	Only the first four PCs were included in the statistical modelling, because the fifth PC was significantly correlated with the disease status.
+0	NA	NA	NA	METHODS	The remaining inflation factor (median of the chi2-distribution for unadjusted association) was lambda~1.1, which is acceptable close to 1.0
+0	NA	NA	NA	METHODS	The data at hand are not a representative data set of a well-defined source population.
+0	NA	NA	NA	METHODS	Thus the effect estimate of interaction, expressed as odds ratio, is potentially proportionally biased.
+0	NA	NA	NA	METHODS	Therefore, the tilde is added to indicate that a weighted sample was used for estimation (see Merging samples).
+0	NA	NA	NA	METHODS	However, estimating OR is not our main interest, rather than testing the null hypothesis, which is still valid
+0	NA	NA	NA	METHODS	With as global level of significance, we use as Bonferroni-corrected, genome-wide level of significance.
+0	NA	NA	NA	METHODS	A suggestive level of significance was set to.
+0	NA	NA	NA	METHODS	Significance was determined according the Hybrid 2-step (H2) method of.
+0	NA	NA	NA	METHODS	All markers were first grouped into four classes: (a) disease-gene (DxG) effect only, (b) environmental-gene (ExG) effect only, (c) both or (d) none.
+0	NA	NA	NA	METHODS	Correction for multiple testing was performed within these groups, however under accounting for a tuning parameter that can take values between 0.5 to 1-10-20 (for a more detailed explanation see Online Resource 1)
+0	NA	NA	NA	METHODS	We also searched for the best fitting model of each LD block, allowing all markers of a block to enter the model (denoted as complete model).
+0	NA	NA	NA	METHODS	We then applied a backward selection with the best model chosen according to Akaike's information criteria (AIC), requiring at least one interaction with a marker (denoted as AIC-best model) (for a more detailed explanation see Online Resource 1)
+0	NA	NA	NA	METHODS	We applied a Gene-Set Enrichment Analysis (GSEA), based on the p-values obtained from the multi-marker interaction analysis.
+0	NA	GSA	NA	METHODS	For GSA we assigned markers to genes according to ENSEMBL, and genes to gene sets according to Gene Ontology (GO) and the Human Genome Nomenclature Committee (HGNC).
+0	NA	NA	NA	METHODS	In addition, the gene set of homeobox (HOX) genes in regulatory networks with respect to LC was defined based on literature.
+0	NA	NA	NA	METHODS	In total 119 gene sets were considered for analysis.
+0	NA	GSA	NA	METHODS	Due to the subjective and in parts data driven selection of gene sets, the GSA was performed as explorative data analysis.
+0	NA	NA	NA	METHODS	The global level of significance of alpha=0.05 was used.
+0	NA	NA	NA	METHODS	For a list of all investigated gene sets, along with literature references and further detailed explanations see Online Resource 1
+0	NA	NA	NA	RESULTS	Of 20 study participants each, 9 are from North America (43%), 9 from Europe (46%) and 2 from Israel or Russia (11%).
+0	NA	NA	NA	RESULTS	63% of the total sample were man, 37% were women.
+0	NA	NA	NA	RESULTS	The median age was 63 years.
+0	NA	NA	NA	RESULTS	20% of the participants never smoked during their lifetime; 33% were former smokers and 42% were current smokers at the time the entered the particular study (see Supplementary Table I, Online Resource 1).
+0	NA	NA	NA	RESULTS	The proportion of never smokers as well as of current smokers where higher in uranium miners (unexposed: 36%, respectively 51%; exposed: 26%, respectively 55%).
+0	NA	NA	NA	RESULTS	"However, investigating all available former Wismut employees concluded, that ""... there was [only] a low correlation between smoking and cumulative radon exposure."
+0	lung cancer	NA	NA	RESULTS	"Thus, it is unlikely that smoking is a major confounder [for the estimation of radon-related risk of lung cancer]""."
+0	NA	NA	NA	RESULTS	Radon exposure among the 308 exposed spread from 51 to 1479 WLM (mean 966 WLM).
+0	NA	NA	NA	RESULTS	The second smallest observed value within exposed LC cases was 335 WLM, corresponding to about 2850 Bq/m3, which is a very unlikely level of elevated indoor radon exposure
+0	NA	NA	NA	RESULTS	For three markers we achieved suggestive significant gene-radon (GxE; gene-environment) interaction when applying a Bonferroni correction for multiple testing.
+0	NA	NA	rs6891344	RESULTS	Two of them, rs6891344 and rs11747272, are near each other at chromosome 5q23.2 but belong to different LD blocks.
+0	NA	NA	NA	RESULTS	We estimated an interaction effect of (95% CI: 2.2-7.0) and (95% CI: 2.0-5.7).
+0	NA	NA	C for 48	RESULTS	Both can be assigned to the gene CSNK1G3 (casein kinase 1 gamma 3), which encodes a member of a family of serine/threonine protein kinases that phosphorylate caseins and other acidic proteins.
+0	NA	NA	rs10911725	RESULTS	The third marker, rs10911725, is located in an inter-genetic region of chromosome 1q25.3 (see Table 2 and Supplementary Figure 1, Online Resource 1
+0	genetic diseases	NA	rs12440014	RESULTS	Applying the Hybrid 2-step (H2) method and choosing the parameter rho=1-1x10-16 (the screening weight is almost completely set to the genetic-disease (GxD) marginal effects), we could detect a genome-wide significant interaction for marker rs12440014.
+0	NA	NA	NA	RESULTS	The H2-corrected p-value of pmt=0.03856 would correspond to a fictive uncorrected p-value of p* = 0.03856 / 103 983 LD block = 3.7 x 10-7with an estimated odds ratio  (95% CI: 0.11-0.60).
+0	NA	NA	rs6495309	RESULTS	This marker, and five closely related markers with suggestive significance (rs6495309, rs28534575, rs1316971, rs17487514 and rs6495314), are located on chromosome 15q25.1, nearby or within the gene CHRNB4 encoding the cholinergic receptor nicotinic beta 4 subunit.
+0	NA	CHRNA5	NA	RESULTS	This is a well-known LC region; however the strongest association was observed 69 kb upstream nearby the gene CHRNA5 (ORG=1.29; p=3.6x10-101).
+0	NA	NA	rs12440014	RESULTS	The marker rs12440014 was found associated with LC by McKay, et al.
+0	NA	NA	NA	RESULTS	(p=1.6x10-51; OR=0.81), but no genetic (G) main effect was seen in our analysis (=0.99, 95% CI: 0.88-1.12).
+0	NA	NA	NA	RESULTS	Changing the tuning parameter rho diminishes the significance of all these markers (see Supplementary Figure 2, Online Resource 1)
+0	NA	NA	NA	RESULTS	"The ""inflation factor"" of the chi2-test statistics for unadjusted association was lambda~1.0 for the complete as well as the AIC-best models, indicating no distracting influence of residual population stratification or model selection"
+0	NA	NA	NA	RESULTS	For one block (no.
+0	NA	NA	rs1346830	RESULTS	91734) on chromosome 18q21.32 we observed a suggestive significant gene-radon (GxE) interaction (p=2.6x10-6), when all five markers of the block (rs1346830, rs11659206, rs7237496, rs9946324) were included in the model.
+0	NA	NA	NA	RESULTS	However, fitting the model results in a strong increase in the estimated association strength of the radon (E) main effect (=197 instead of ~2.25).
+0	NA	NA	rs1346830	RESULTS	At the same time the GxE interaction of the marker rs1346830 was estimated with =0.09 (95% CI: 0.03-0.22; p=2.0x10-7).
+0	NA	NA	NA	RESULTS	Potentially, strong collinearity between the marker and the exposure results in such extreme point estimates.
+0	NA	NA	NA	RESULTS	Hence, the estimated ORs are untrustworthy and no marker can be highlighted.
+0	NA	NA	NA	RESULTS	This block is also merely surrounded by two uncharacterized gens (LOC107985187, LOC105372156) and two pseudogenes (CTBP2P3 / ENSG00000267153, RP11-325K19.2 / ENSG00000267382)
+0	NA	NA	NA	RESULTS	Allowing for marker selection (AIC-best model) revealed a suggestive gene-radon (GxE) interaction within the block no.
+0	NA	NA	NA	RESULTS	33137 on chromosome 5q23.2.
+0	NA	NA	rs11747272	RESULTS	This interaction is related to the single marker rs11747272 discussed above (see Table 3)
+0	NA	NA	NA	RESULTS	When the Hybrid 2-step (H2)-method was applied, genome-wide significance for the block no.
+0	NA	NA	NA	RESULTS	91734 on chromosome 18q21 was achieved, consistent across a wide range of the tuning parameter rho.
+0	NA	NA	NA	RESULTS	Additional, we observed suggestive gene-radon (GxE) interaction of the blocks no.
+0	NA	NA	NA	RESULTS	2271 on chromosome 1p21.3 and the blocks no.
+0	NA	NA	NA	RESULTS	33135 and no.
+0	NA	NA	NA	RESULTS	33137 on chromosome 5q23.2 (see Figure 1 and Supplementary Figure 3, Online Resource 1)
+0	NA	NA	NA	RESULTS	The block no.
+0	NA	NA	NA	RESULTS	2271 on chromosome 1p21.3 contains in total 10 markers, 7 of these remained in the AIC-best model; three of these with a local significant GxE interaction, while no marker carried a genetic (G) main effect.
+0	NA	NA	rs2029868	RESULTS	The strongest LC risk increasing effect was observed for marker rs2029868, with an estimated OR=22.6 for each minor allele (95% CI: 1.7-109; p=0.0001).
+0	NA	UBE2U	NA	RESULTS	The block covers the gene UBE2U (ubiquitin conjugating enzyme E2 U), a member of the gene family UBE2
+0	NA	NA	NA	RESULTS	Setting rho=0.5 of the Hybrid 2-step (H2)-method, the block no.
+0	NA	NA	NA	RESULTS	58899 on chromosome 10p13 (pmt=0.1878) and the block no.
+0	NA	NA	NA	RESULTS	69267 on chromosome 12p12.1 (pmt=0.9875) advanced to suggestive significance (see Figure 1; more details are given in the Online Resource 1)
+0	NA	GSA	NA	RESULTS	In total 148 sets of genes were considered for the analysis; 29 too small or duplicate sets were excluded (see Supplementary Table IV, Online Resource 1); hence 119 gene sets entered the GSA.
+0	NA	NA	NA	RESULTS	Among them are 95 sets build according to GO terms, 23 HGNC gene families and one set was built on basis of the literature.
+0	NA	NA	NA	RESULTS	These sets contained 6 to 3946 genes (median: 46) and cover 5 to 7237 LD blocks (median: 67)
+0	NA	NA	NA	RESULTS	For two gene sets we observed local significance (see Table 4), further two were borderline significant
+0	NA	NA	NA	RESULTS	"The most significant gene set was ,,DNA dealkylation involved in DNA repair"" (GO:0006307;pGS = 0.0139)."
+0	NA	NA	NA	RESULTS	It consists of 10 genes and comprises genotyped markers in 90 LD blocks.
+0	NA	NA	NA	RESULTS	For 15 of these 90 LD blocks (16%) at least local significant interactions were observed in the multi-marker analysis, in contrast to 6404 out of all remaining 90 768 LD-blocks (7%).
+0	NA	NA	NA	RESULTS	"This set hosts 7 ,,driving""-genes assigned to 21 ,,driving""-LD blocks."
+0	NA	NA	NA	RESULTS	The most significant LD-block (no.
+0	NA	NA	NA	RESULTS	84619, p=0.0005 for gene-radon interaction) is located within the gene FTO (fat mass and obesity-associated protein) on chromosome 16q12.2, also known as ALKBH9 (alpha-ketoglutarate dependent dioxygenase)
+0	NA	NA	NA	RESULTS	Within the GO hierarchy of terms, GO:0006307 is a direct subtopic of DNA repair (GO:0006281) which yielded a pGS=1.0, as well as of DNA dealkylation (GO:0035510), which was not tested.
+0	NA	NA	NA	RESULTS	The second best subtopic of DNA repair (GO:0006281) was the double-strand break repair via single-strand annealing (GO:0045002) with a pGS =0.1574, which was rank 8 within all tested gene sets.
+0	NA	NA	NA	RESULTS	For comparison, e.g.
+0	NA	NA	NA	RESULTS	double-strand break repair (GO:0006302) attained rank 75 with pGS =0.834
+0	NA	NA	NA	RESULTS	"The other significant set was the gene family HGNC:476 ,,microRNAs"" (pGS=0.0159), which consists by definition of 1776 very short, non-coding genes, but markers were genotyped for only 147 of these genes."
+0	NA	NA	NA	RESULTS	"This set hosts in total 38 ,,driving"" genes assigned to 44 ,,driving"" LD-blocks, spread over all chromosomes"
+0	NA	NA	NA	RESULTS	"The gene sets ,,acyl-CoA metabolic process"" (GO:0006637, pGS=0.0538) and ""Membrane"" (GO:0016020, pGS=0.0558) were borderline significant"
+0	lung cancer	NA	NA	DISCUSS	Lung cancer has a complex disease mechanism, in particular with respect to the interaction of environmental and genetic factors.
+0	NA	NA	NA	DISCUSS	Environmental exposure to the radioactive noble gas radon is considered as the second strongest risk factor for LC in the general population; but the occupational exposure of former uranium miners, e.g.
+0	NA	NA	NA	DISCUSS	of the Wismut mining company, can be tens of times higher.
+0	NA	NA	NA	DISCUSS	We conducted a genome-wide gene-radon interaction analysis on LC using data of 28599 samples from 27 studies in men and women of European descent.
+0	NA	NA	NA	DISCUSS	Although heterogeneity in genetic susceptibility across histological subtypes of LC was demonstrated, the informative sample (n=463 miners, comprising 49 exposed LC cases) is too small to stratify the analysis by histological subtypes or by smoking behaviour.
+0	NA	NA	NA	DISCUSS	We performed three types of analyses: single-marker and multi-marker interaction analyses and gene-set enrichment analysis on top of the latter.
+0	NA	NA	NA	DISCUSS	We determined significance according to the Hybrid 2-step (H2) method of.
+0	NA	NA	NA	DISCUSS	In brief, markers or regions with marginal effect in a disease-gene (DxG) or an environmental-gene (ExG) model are given a higher a-priori weight for the final test on gene-environmental (GxE) interaction on then disease (D)
+0	NA	NA	rs12440014	DISCUSS	We detected a genome-wide significant gene-radon interaction for marker rs12440014 (pmt=0.03856) located within the gene CHRNB4 on chromosome 15q25.1, a well-known LC susceptibility region.
+0	NA	NA	NA	DISCUSS	Previously this intronic marker was described as associated with LC (p=2.8x10-52; OR=0.80; 95% CI: 0.78-0.83) in Caucasians.
+0	NA	NA	NA	DISCUSS	In our analysis we observed no significant genetic main effect (=0.99, 95% CI: 0.88-1.12), but a lower LC risk for carriers of the minor allele among the occupationally radon exposed miners (>=50 WLM), compared to non-carriers or not occupationally exposed individuals, respectively (=0.26 per minor allele, 95% CI: 0.11-0.60).
+0	NA	CHRNA5	NA	DISCUSS	The region 15q25.1 hosts three genes (CHRNA5, CHRNA3 and CHRNB4) that encode nicotinic acetylcholine receptor (nAChR) subunits.
+0	NA	NA	NA	DISCUSS	Due to strong linkage disequilibrium in this region, the observed interaction may possibly only mark interactions of functional variants in neighbouring genes.
+0	lung cancer	NA	NA	DISCUSS	It is also believed that the association of this region with lung cancer cannot be reduced to a single variant, but is modified by age and smoking.
+0	prostate carcinogenesis	CHRNA3	NA	DISCUSS	In vitro studies examining the functional role of the genes at 15q24-25.1 in human lung tissue notified an involvement of CHRNA3 and CHRNA5 in lung carcinogenesis.
+0	lung adenocarcinomas	CHRNA5	NA	DISCUSS	An up-regulation of CHRNA5 and a down-regulation of CHRNA3 in lung adenocarcinoma as compared with the normal lung was observed.
+0	cancers	CHRNA3	NA	DISCUSS	However CHRNA3 is not required to maintain cancer cell proliferation
+0	NA	CHRNA3	rs16969968	DISCUSS	The marker rs16969968 assigned to CHRNA3 was most detailed discussed as associated with smoking quantity and nicotine dependence, suggesting that this variant confers risk of LC through its effect on tobacco addiction.
+0	NA	NA	NA	DISCUSS	Interestingly, no modification of risk was found across smoking categories or histological subtypes of LC.
+0	prostate carcinogenesis	NA	NA	DISCUSS	Also, evidence exists that nAChRs can be directly associated with lung carcinogenesis owing to the complexity of nAChR function in the brain.
+0	NA	NA	NA	DISCUSS	This is of interest, since a sub-multiplicative interaction between radon and smoking in causing LC was speculated independently in several uranium miner cohorts and case-control studies.
+0	NA	NA	NA	DISCUSS	The estimated excess relative risk (ERR) per WLM was higher for never than for current smokers (e.g.
+0	NA	NA	NA	DISCUSS	ERR/WLM=0.012 for never and long-term ex-smokers vs. ERR/WLM=0.007 for short-term ex- and current smokers.
+0	NA	NA	NA	DISCUSS	This resulted in a small decrease of the point estimate of the relative risk for current smokers compared to never smokers from RR=6.70 (unadjusted on radon exposure) to RR=6.41 (adjusted on radon exposure).
+0	NA	NA	NA	DISCUSS	However, the difference was statistically not significant.
+0	NA	NA	NA	DISCUSS	Accordingly, a protective effect of smoking against radon induced LC was hypothesized and justified by thicker mucus layer and increased mucus velocities.
+0	NA	NA	NA	DISCUSS	Contrary, calculated the local radiation dose due to inhaled radon progeny in bronchial target cells to be twice as high in heavy smokers compares to never smokers.
+0	NA	NA	NA	DISCUSS	"However, the apparent ""LC protection by smoking"" perhaps results from interaction in opposite direction of genes at chromosome 15q25.1 with smoking- respectively radon-induced LC"
+0	NA	NA	rs8034191	DISCUSS	Furthermore, the risk of LC for homozygous carriers of the minor allele of two markers within 15q25.1 (rs8034191, rs1051730) was estimated as at least five-fold higher in subjects who had a familial history of LC.
+0	NA	NA	NA	DISCUSS	We have discovered LC-risk stratification within this genomic region with respect to radon.
+0	NA	NA	NA	DISCUSS	Thus the observed familial risk of the region 15q25.1 may in part be caused by a common environmental radon exposure, albeit at a lower level than the occupational exposure of former uranium miners
+0	NA	UBE2U	NA	DISCUSS	The most significant gene-radon interaction outside suspected LC susceptibility regions was observed for UBE2U (1p21.3), a gene of the family of ubiquitin-conjugating enzymes UBE2, also known as E2 enzymes.
+0	death	NA	NA	DISCUSS	The coded enzyme performs a central step in the ubiquitination reaction that targets a protein for degradation, a major factor for life and death of proteins.
+0	NA	NA	NA	DISCUSS	Protein ubiquitination is a pivotal regulatory reaction promoting the cellular responses to DNA damage.
+0	NA	UBE2U	NA	DISCUSS	UBE2U was recently identified as a positive regulator of TP53BP1, which promotes the formation of ionizing radiation-induced foci and thereby chromatin responses at DSBs in human cell lines.
+0	NA	NA	NA	DISCUSS	E2 ligases are in general involved in multiple biological processes, for example UBE2T (1q32.1) promotes efficient DNA repair; UBE2B (5q31.1) is involved in UV mutagenesis, and UBE2N (12q22) is implicated in post-replication DNA repair following UV and ionizing radiations.
+0	NA	NA	NA	DISCUSS	UBE2N was associated with LC by a candidate gene approach (p=7x10-6).
+0	NA	UBE2U	NA	DISCUSS	The strong involvement of the human E2 ubiquitin- and ubiquitin-like conjugating enzymes in DNA damage signalling and DNA-repair processes confirms mechanistically the plausibility for the observed gene-radon interaction of UBE2U resulting in an increased radiations sensitivity for individuals bearing this genetic make-up
+0	cancers	NA	NA	DISCUSS	In a review of DNA repair and cancer risk recently stated that defects in DNA repair genes are the genetic events most commonly involved in hereditary cancers.
+0	NA	NA	NA	DISCUSS	Once the DNA is damaged 16 or more repair mechanisms can be engaged, and a substantial cross-talk between these pathways exist.
+0	NA	NA	NA	DISCUSS	Exposure of a cell to a dose of 1 Gy of X-rays can cause more than 1000 base lesions, about 1000 single-strand breaks (SSBs) and 30-40 double-strand DNA breaks (DSBs).
+0	NA	NA	NA	DISCUSS	DSBs, the most harmful lesions, are repaired by an intricate network of multiple DNA repair pathways; inter alia single-strand annealing (SSA), non-homologous end-joining (NHEJ) or homologous recombination (HR).
+0	NA	NA	NA	DISCUSS	Seven of the 93 genes suspected to affect susceptibility to LC are DNA repair genes: BRCA2, CHEK2, GTF2H4, MSH5, PMS1, RAD52, XRCC4.
+0	NA	NA	NA	DISCUSS	Only the first (HR and SSA), the second last (HR and SSA) and the last (NHEJ) belong to DSB repair pathways
+0	NA	NA	NA	DISCUSS	Because gene-radon interaction with a long-term occupational exposure to radon was investigated, we expected findings to be related to DNA repair, in particular DSB.
+0	NA	NA	NA	DISCUSS	To our surprise we did not achieve cumulative significance overall on DNA-repair genes (GO:0006281, p=1.0), nor for DSB repair (GO:0006302, p=0.8340) or SSB repair (GO:0000012, p=0.9204).
+0	NA	GSA	NA	DISCUSS	This missing significance may be attributed to the nature of the applied test in the GSA.
+0	NA	NA	NA	DISCUSS	The power for broadly defined gene sets of interest is low, because these contain too many not associated genes.
+0	NA	NA	NA	DISCUSS	For the more specifically defined pathway SSA of DSB repair we achieved a stronger, albeit not significant signal for association (GO:0045002, p=0.1574).
+0	NA	NA	NA	DISCUSS	Local significance was achieved for genes involved in DNA dealkylation involved in DNA repair (G0:0006307, p=0.0139), a reaction to DNA damage caused by free radicals and other reactive species generated by metabolism which results in alkylated bases.
+0	NA	NA	NA	DISCUSS	Ionizing radiation induces this type of DNA damage by indirect radiation reactions through the induction of ROS.
+0	NA	NA	NA	DISCUSS	Bases can become oxidized, alkylated, or hydrolysed through interactions with these agents.
+0	NA	NA	NA	DISCUSS	These lesions are repaired through base excision repair
+0	NA	NA	NA	DISCUSS	To our knowledge, this is the first genome-wide investigation for radon exposure x gene interaction with respect to LC.
+0	NA	NA	NA	DISCUSS	We have combined samples of disparate sizes from several sources, resulting in an extreme relation of 1 exposed to about 90 unexposed individuals.
+0	NA	NA	NA	DISCUSS	The most informative subsample consists of only 463 former uranium miners but with carefully determined occupational exposure to radon.
+0	NA	NA	NA	DISCUSS	To have enough power for the genome-wide analysis, we had to include such a large amount of controls.
+0	lung cancer	NA	NA	DISCUSS	This should be seen as a necessity rather than a disadvantage, given the small available sample of occupational radon-exposed lung cancer cases.
+0	NA	NA	NA	DISCUSS	We were further forced to make some assumptions, e.g.
+0	lung cancer	NA	NA	DISCUSS	no participant of a TRICL/ILCCO study was substantial long-term exposed to radon (WLM < 50) However, even long-term but low-dose exposure to radon, occupational as well as residential, was previously associated with a small increase in lung cancer risk.
+0	NA	NA	NA	DISCUSS	Thus, the small risk of misclassifying few of the many participants of a TRICL/ILCCO study is more likely for cases than for controls.
+0	NA	NA	NA	DISCUSS	Hence the allocation made is conservative in terms of statistical testing
+0	NA	NA	NA	DISCUSS	We also needed to fix the marginal odds ratio for radon exposure to the value observed within the miners.
+0	cancers	NA	NA	DISCUSS	Subgroup analysis by histological cancer type could not be performed owing to the small number of exposed cases, in particular those with reliable records
+0	lung cancer	NA	NA	DISCUSS	The risk of confounding effect due to smoking on radon-associated risk for lung cancer was previously investigated in a case-control study nested in the cohort of German uranium miners.
+0	lung cancer	NA	NA	DISCUSS	The estimation of radon-related lung cancer risks was robust against model fitting with and without smoking.
+0	NA	NA	NA	DISCUSS	Consequently, smoking does not act as a major confounder.
+0	NA	NA	NA	DISCUSS	Potential confounding due to other mining related exposures was also examined within the German uranium miners cohort.
+0	NA	NA	NA	DISCUSS	The correlation between measured radon exposure with external gamma radiation, long-lived radionuclides or arsenic was low; the correlation with fine dust or silica dust was moderate.
+0	NA	NA	NA	DISCUSS	The influence of adjustment for these potential confounders on the exposure-response relationship was only modest.
+0	NA	NA	NA	DISCUSS	Hence major confounding by these other occupational risk factors can be excluded
+0	NA	NA	NA	DISCUSS	The reported study was restricted to Caucasian populations to minimize population stratification.
+0	NA	NA	NA	DISCUSS	Although the miners came from a small area in the middle of Germany, no differing genetic background compared to the TRICL/ILCCO samples from Russia to Hawaii was found.
+0	NA	NA	NA	DISCUSS	The results may not be generalized to other ethnicities because of different genetic background.
+0	NA	NA	NA	DISCUSS	It should also be noted that within the small sample of miners, controls are long-term survivors with a disproportionally high sampling of high radon exposed subjects.
+0	lung cancer	NA	NA	DISCUSS	To discover further susceptibility genes for radon-related lung cancer or to assess the usefulness of determining the susceptibility of a subject, e.g.
+0	NA	NA	NA	DISCUSS	genetic testing requires further study
+0	NA	NA	NA	CONCL	We could demonstrate that the well-established association of the genomic region 15q25 might be influenced in parts by exposure to radon among uranium miners.
+0	lung cancer	NA	NA	CONCL	Further, the susceptibility to lung cancer is related to the functional capability of DNA damage signalling via ubiquitination processes and repair of radiation-induced double strand breaks by the single-strand annealing mechanism
+0	NA	NA	NA	FIG	Each point represents the significance of a gene-radon (GxE) interaction within a LD block., p-value are modified according to Hybrid 2-step (H2) method of
+0	NA	NA	NA	TABLE	Markers with genome-wide significance or suggestive significance for gene-radon (GxE) interactio

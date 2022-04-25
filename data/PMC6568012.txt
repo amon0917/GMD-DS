@@ -1,0 +1,239 @@
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Genome-wide association studies (GWAS) and fine-mapping efforts to date have identified more than 100 prostate cancer (PrCa)-susceptibility loci.
+0	NA	NA	NA	ABSTRACT	We meta-analyzed genotype data from a custom high-density array of 46,939 PrCa cases and 27,910 controls of European ancestry with previously genotyped data of 32,255 PrCa cases and 33,202 controls of European ancestry.
+0	NA	NA	NA	ABSTRACT	Our analysis identified 62 novel loci associated (P<5.0x10-8) with PrCa and one locus significantly associated with early-onset PrCa (<=55 years).
+1	NA	ATM	rs1800057	ABSTRACT	Our findings include missense variants rs1800057 (odds ratio (OR) = 1.16; P = 8.2x10-9; G>C, p.Pro1054Arg) in ATM and rs2066827 (OR = 1.06; P = 2.3 x 10-9; T>G, p.Val109Gly) in CDKN1B.
+0	NA	NA	NA	ABSTRACT	The combination of all loci captured 28.4% of the PrCa familial relative risk, and a polygenic risk score conferred an elevated PrCa risk for men in the ninetieth to ninety-ninth percentiles (relative risk = 2.69; 95% confidence interval (CI): 2.55-2.82) and first percentile (relative risk = 5.71; 95% CI: 5.04-6.48) risk stratum compared with the population average.
+0	NA	NA	NA	ABSTRACT	These findings improve risk prediction, enhance fine-mapping, and provide insight into the underlying biology of PrCa
+0	cancers	NA	NA	INTRO	Although PrCa is the most common noncutaneous cancer among men in the Western world, and one in seven men will be diagnosed during their lifetime, very few modifiable risk factors have been established.
+0	NA	NA	NA	INTRO	Epidemiological studies have identified age, positive family history, and ancestry as the most prominent risk factors for PrCa.
+0	NA	NA	NA	INTRO	PrCa incidence is highest among men of African ancestry, followed by men of European and Asian ancestries.
+0	NA	NA	NA	INTRO	These observations of ancestral differences in PrCa risk, in conjunction with studies demonstrating the influence of family history, highlight the contribution of genetics to PrCa etiology.
+0	NA	NA	NA	INTRO	Our previous work, using a multiplicative model, has estimated that more than 1,800 common SNPs independently contribute to PrCa risk among populations of European ancestry.
+0	NA	NA	NA	INTRO	GWAS have reported more than 100 of these PrCa variants across multiancestral populations, most of which were identified in populations of European ancestry
+0	cancers	NA	NA	INTRO	To facilitate additional discovery of PrCa genetic risk factors, we developed a custom high-density genotyping array, the OncoArray, including a 260,000-SNP backbone designed to adequately tag most common genetic variants (minor allele frequency (MAF) >5% in Europeans), and 310,000 SNPs from meta-analyses of five cancers (breast, colorectal, lung, ovarian, and prostate).
+0	NA	NA	NA	INTRO	Approximately 80,000 PrCa-specific markers derived from our previous multiancestral meta-analysis (including populations of European, African American, Japanese, and Latino ancestry), fine-mapping of known PrCa loci, and candidate SNPs nominated by study collaborators were included on the OncoArray.
+0	NA	NA	NA	INTRO	We assembled a new PrCa sample series from 52 studies to genotype with the OncoArray (Supplementary Tables 1 and 2).
+0	NA	NA	NA	INTRO	After application of rigorous quality control (QC) criteria and removal of overlapping samples from previous studies, our OncoArray sample yielded 46,939 PrCa cases and 27,910 controls without a known diagnosis of PrCa and of European ancestry for analysis (Methods and Supplementary Table 3).
+0	NA	NA	NA	INTRO	Genotypes were phased and imputed to the cosmopolitan panel of the 1000 Genomes Project (1KGP; June 2014 release) in SHAPEIT and IMPUTEv2 (ref.)
+0	NA	NA	NA	INTRO	software (Methods and Supplementary Table 3).
+0	NA	NA	NA	INTRO	We performed a fixed-effects meta-analysis combining the summary statistics from our OncoArray analysis and seven previous PrCa GWAS or high-density SNP panels of European ancestry imputed to the 1KGP The final meta-analysis included 79,194 PrCa cases and 61,112 controls without a known diagnosis of PrCa (Fig.
+0	NA	NA	NA	INTRO	1)
+0	NA	NA	NA	INTRO	We performed study- and consortia-specific meta-analyses to identify novel PrCa risk loci.
+0	NA	NA	NA	INTRO	We established a P-value threshold of 5.0 x 10-8 to determine genome-wide significance.
+0	NA	NA	NA	INTRO	Our large sample size enabled several stratified meta-analyses focusing on key clinical and biological parameters (Methods and Supplementary Tables 4 and 5).
+0	NA	NA	NA	INTRO	All analyses used a likelihood-ratio test to minimize bias from rare variants, and a logistic-regression framework was used for all analyses, except for the Gleason score, for which linear regression was used.
+0	NA	NA	NA	INTRO	The genotype doses were incorporated in an allelic genetic model.
+0	NA	NA	NA	INTRO	The average lambda1000, an inflation statistic calibrated to a sample size of 1,000 cases and 1,000 controls, across the eight GWAS studies was 1.02 (range 0.98-1.09) and 1.00 for the overall meta-analysis (Supplementary Table 6).
+0	NA	NA	NA	INTRO	Our novel findings excluded variants within defined fine-mapped regions of previously reported PrCa risk loci (Supplementary Table 7)
+0	NA	NA	NA	INTRO	After the exclusion of all known susceptibility regions (fine-mapping coordinates provided in Supplementary Table 7 and Supplementary Note), we identified 64 loci associated with overall PrCa susceptibility and 1 locus associated with early-onset PrCa (P < 5.0 x 10-8) in the meta-analysis (Supplementary Fig.
+0	NA	NA	NA	INTRO	1), of which 53 were imputed, and 12 were genotyped with the OncoArray.
+0	NA	NA	NA	INTRO	The cluster plots for the genotyped makers are presented in Supplementary Fig.
+0	NA	NA	NA	INTRO	2.
+0	NA	NA	NA	INTRO	Although most of the imputed markers were of high quality, with an average imputed r2 >0.80 for 61 of the 65 loci across all contributing GWAS (Supplementary Table 8), we closely examined four variants with a poor imputation quality score (r2 <0.80) in the OncoArray samples by inspecting linkage disequilibrium (LD) plots including only genotyped SNPs from the OncoArray and performing an imputation QC assessment (Methods).
+0	NA	NA	rs6602880	INTRO	After reviewing the LD plots and the imputation QC, we determined that loci rs6602880 and rs144166867 were probably false positives due to imputation artifacts (Supplementary Fig.
+0	NA	NA	NA	INTRO	3 and Supplementary Table 9).
+0	NA	NA	NA	INTRO	Overall, we identified 62 novel loci associated with overall PrCa risk and one novel locus associated with early-onset PrCa (Table 1).
+0	NA	NA	NA	INTRO	The consortia-specific associations were consistent across the eight contributing GWAS studies (Supplementary Table 10)
+0	NA	NA	NA	INTRO	We performed several stratified analyses defined by clinical and population parameters.
+0	NA	NA	rs138004030	INTRO	We detected a novel variant, rs138004030, which was significantly associated with early-onset disease (Table 1) but was only nominally significant for overall PrCa risk (P = 0.02).
+0	NA	NA	NA	INTRO	In addition, we detected four markers significantly associated (P < 5 x 10-8) with advanced PrCa and two markers associated with early-onset PrCa (Supplementary Table 11).
+0	NA	NA	NA	INTRO	However, the case-only analyses of these markers indicated marginal statistical significance (P < 1.0 x 10-3).
+0	aggressive disease	NA	NA	INTRO	Additionally, these markers were in LD with nearby index markers associated with overall PrCa and were not significantly associated with overall aggressive disease after adjustment for the index marker (Supplementary Table 11).
+1	NA	NA	rs111599055	INTRO	A similar association pattern was observed for rs111599055, which was in LD with rs7295014 (r2 = 0.54), a marker associated with overall disease.
+0	NA	NA	rs77777548	INTRO	The early-onset marker rs77777548 was independent of novel and known PrCa-risk loci.
+0	NA	NA	NA	INTRO	However, the marker was relatively rare (effect-allele frequency <0.02), was indicated as monomorphic in the 1KGP, and had a moderate imputation quality score (average r2 = 0.57); hence, we did not include it in further analyses
+0	NA	NA	NA	INTRO	Among the 63 novel associations, 38 variants were found to be located within gene-rich regions (Supplementary Table 12): intronic (32 SNPs), missense (4 SNPs), and 3' untranslated region (UTR) (2 SNPs).
+0	cancers	NA	NA	INTRO	Analyses of expression quantitative trait loci (eQTL) in The Cancer Genome Atlas (TCGA) database identified statistically significant associations (P < 0.05; Supplementary Table 12) in normal PrCa tissue for 17 of the novel associations, including both 3'-UTR SNPs and 11 of the 32 intronic SNPs.
+1	NA	HAUS6	rs1048169	INTRO	Cis-eQTL associations were identified for 3'-UTR variant rs1048169 with HAUS6 (3'-UTR) and intronic variants rs182314334 with MBNL1, rs4976790 with COL23A1, rs9469899 with UHRF1BP1, rs878987 with B3GAT1, rs11629412 with PAX9, and rs11666569 with MYO9B.
+0	NA	NA	NA	INTRO	The eQTL associations were consistent with the observed PrCa-SNP associations, given that we assessed colocalization between the GWAS and eQTL SNPs.
+0	NA	NA	NA	INTRO	The TCGA data analysis did not identify an eQTL association with any of the four missense SNPs
+0	NA	PSA	NA	INTRO	We assessed the association of our newly discovered loci with prostate-specific antigen (PSA) levels by using a series of disease-free controls (n = 9,090; Methods).
+1	NA	NA	rs8093601	INTRO	Among the 48 available loci, we observed a significant association for rs8093601 (P = 5.0 x 10-4; Supplementary Table 13) after correction for multiple testing (P = 0.05/48 = 1.0 x 10-3).
+1	NA	MBD2	NA	INTRO	This marker lies near MBD2 (encoding methyl-CpG binding domain protein 2) and has not previously been associated with either PrCa risk or PSA levels.
+0	NA	NA	NA	INTRO	The effect estimates of PrCa clinical features and overall PrCa did not differ (Supplementary Table 14).
+0	NA	NA	NA	INTRO	LD plots incorporating several functional annotation features for each of the 63 novel markers are presented in Supplementary Fig.
+0	NA	NA	NA	INTRO	4
+1	NA	ATM	NA	INTRO	Several strong candidate genes were identified among the PrCa-susceptibility loci, including ATM, a key gene within the DNA-damage response pathway, in which truncating variants contribute to PrCa susceptibility and progression, particularly aggressive PrCa.
+0	NA	NA	rs1800057	INTRO	The index variant within this region is the missense variant rs1800057, exerting a modestly increased risk of PrCa (OR = 1.16; P = 8.15 x 10-9; G>C, p.Pro1054Arg; Fig.
+0	NA	NA	NA	INTRO	2a).
+0	NA	NA	rs1800057	INTRO	Although rs1800057 is designated 'benign' by ClinVar (see URLs), it has been suggested to be associated with a twofold-increased risk of early-onset PrCa in a small clinical series and has been found to be unassociated with morbidity after treatment.
+1	NA	ATM	p.Val109Gly	INTRO	In addition to the ATM region, we identified missense variants at three separate loci: rs2066827 within CDKN1B, encoding a cyclin-dependent-kinase inhibitor that controls cell-cycle progression; rs33984059 within RFX7, encoding a transcription factor; and rs2277283 within INCENP, encoding a centromere-interacting protein
+1	NA	HAUS6	rs1048169	INTRO	rs1048169 at 9p22 is located in the 3' UTR of HAUS6 (Fig.
+0	NA	NA	NA	INTRO	2b), which encodes a subunit of augmin, a protein complex required for proper microtubule formation and chromosome segregation during cell division.
+1	NA	HAUS6	rs1048169	INTRO	rs1048169 is also an eQTL for HAUS6 expression.
+1	NA	HAUS8	rs11666569	INTRO	Interestingly, an additional lead SNP identified in this study, rs11666569 at 19p13, was found to be an eQTL for two genes, including HAUS8, which encodes another member of the augmin complex.
+0	NA	NA	NA	INTRO	These discoveries may implicate a potential role of augmin in PrCa susceptibility
+1	NA	NA	rs7968403	INTRO	rs7968403 (OR = 1.06; P = 3.38 x 10-12; Fig.
+1	NA	RASSF3	NA	INTRO	2c) is situated within the first intron of RASSF3.
+1	cancers	RASSF3	NA	INTRO	Members of the Ras-association-domain family (RASSF) are putative tumor suppressors implicated in a range of biological processes.
+1	NA	RASSF3	NA	INTRO	RASSF3 is ubiquitously expressed across tissue types and has been observed to arrest the cell cycle in the G1 phase and to induce apoptosis through the p53 pathway.
+0	NA	RASSF6	NA	INTRO	A PrCa-risk locus, ~100 kb away, within RASSF6 has been identified in a previous study.
+1	NA	WIF1	rs7968403	INTRO	However, rs7968403 was also an eQTL for the distant WIF1 (encoding WNT-inhibitory factor 1; Fig.
+0	NA	NA	NA	INTRO	2c).
+0	cancers	WIF1	NA	INTRO	WIF1 inhibits Wnt signaling and is frequently downregulated in PrCa, whereas aberrant activation of Wnt signaling is common in many solid tumor types.
+0	cancers	WIF1	NA	INTRO	Restoration of WIF1 expression has also been demonstrated to decrease cell motility and invasiveness in a metastatic PrCa cell line and to reduce tumor growth in a mouse xenograft model.
+1	NA	RASSF3	NA	INTRO	Both RASSF3 and WIF1 therefore are plausible mechanisms for the modulation of PrCa risk at this locus
+1	NA	CHD3	rs28441558	INTRO	rs28441558 at 17p13 was the lead variant for a cluster of highly correlated SNPs centered on the CHD3 gene (Fig.
+0	NA	NA	NA	INTRO	2d).
+1	NA	CHD3	NA	INTRO	CHD3 encodes an ATPase that forms a component of the nucleosome-remodeling and deacetylase (NuRD) histone deacetylase complex, which is involved in chromatin remodeling.
+0	NA	NA	NA	INTRO	NuRD plays an important role in regulating gene expression, as both a silencer and an activator of transcription, in addition to its roles in maintaining genomic integrity and in the DNA-damage response.
+0	cancers	NA	NA	INTRO	Alterations in NuRD function have been implicated in several cancer types and found to act in a highly complex manner.
+1	NA	GUCY2D	rs28441558	INTRO	However, rs28441558 was also observed to be an eQTL for three genes: LOC284023, encoding a currently uncharacterized noncoding RNA transcript; GUCY2D, encoding a guanylate cyclase enzyme expressed predominantly in the retina; and ALOX15B, encoding a member of the lipoxygenase family of enzymes that produce fatty acid hyperoxides.
+1	NA	CHD3	NA	INTRO	Although CHD3 appears to be the most biologically plausible candidate gene for this locus, we cannot exclude roles of any of these genes
+0	NA	NA	NA	INTRO	Our pathway analysis based on mapping each SNP to the nearest gene (Methods) by using the meta-analysis summary association statistic identified several pathways implicated in PrCa susceptibility.
+0	NA	NA	NA	INTRO	The top 53 pathways detected (enrichment score (ES) >0.50) are provided in Supplementary Table 15.
+0	NA	NA	NA	INTRO	The most significant pathway detected was PD-1 signaling (ID: 389948), ES = 0.74, as defined by the REACTOME database (Supplementary Fig.
+0	NA	NA	NA	INTRO	5).
+0	NA	NA	NA	INTRO	This pathway is intriguing, given the therapeutic potential of several checkpoint inhibitors focusing on the PD-1 signaling pathway to enhance immune responses
+0	NA	NA	NA	INTRO	In summary, we identified 63 novel PrCa-susceptibility variants, including strong candidate loci highlighting the DNA-repair and cell-cycle pathways.
+0	NA	NA	NA	INTRO	Previous studies have probably overestimated the effect estimates of PrCa loci as a result of the 'winner's curse', thus yielding a biased familial relative risk (FRR) and polygenic risk score (PRS).
+0	NA	NA	NA	INTRO	Here, we applied a weighted Bayesian correction approach and demonstrated that our large sample size minimized the winner's curse bias (Methods and Supplementary Fig.
+0	NA	NA	NA	INTRO	6).
+0	NA	NA	NA	INTRO	We applied the beta estimates calculated in our overall meta-analysis to the OncoArray sample set to calculate the FRR and PRS risk models (Supplementary Table 16).
+0	NA	NA	NA	INTRO	Our prediction models included 85 previously reported PrCa loci replicating in our overall meta-analysis and our 62 novel loci associated with overall PrCa risk.
+0	NA	NA	NA	INTRO	Assuming a familial risk estimate of 2.5 for PrCa, we demonstrated that our 147 loci captured 28.4% of the FRR (Supplementary Table 17).
+0	NA	NA	NA	INTRO	The 62 newly identified PrCa loci increased the FRR by 4.4%.
+0	NA	NA	NA	INTRO	On the basis of the assumption of a log-additive model, the estimated RR for PrCa relative to men in the twenty-fifth to seventy-fifth PRS percentiles (baseline group) was 5.71 (95% CI: 5.04-6.48) for men in the top first percentile of the PRS distribution and 2.69 (95% CI: 2.55-2.82) for individuals in the ninetieth to ninety-ninth percentiles of the PRS distribution (Table 2).
+0	NA	NA	NA	INTRO	The PRS score was positively associated with overall PrCa risk (OR = 1.86; 95% CI: 1.83-1.89; Supplementary Table 18).
+0	NA	NA	NA	INTRO	Our novel associations highlight several biological pathways that warrant further investigation.
+0	NA	PSA	NA	INTRO	The increased PRS can be used to improve the identification of men at high risk for PrCa and therefore inform PSA guidelines for screening and management to reduce the burden of over-testing
+0	NA	NA	NA	METHODS	Methods, including statements of data availability and any associated accession codes and references, are available at https://doi.org/10.1038/s41588-018-0142-8
+0	NA	NA	NA	METHODS	A brief overview and study details for participating PrCa studies in the newly genotyped OncoArray project are provided in Supplementary Table 1 for men of European ancestry.
+0	NA	NA	NA	METHODS	All studies were approved by the appropriate ethics committees (as described in the references for each study listed in Supplementary Table 1), and informed consent was obtained from all participants.
+0	Breast and prostate cancer	NA	NA	METHODS	Supplementary Table 2 summarizes the PrCa sample series of the Elucidating Loci Involved in Prostate Cancer Susceptibility (ELLIPSE) consortium contributing both newly obtained genotyping data for the OncoArray and previous GWAS.
+0	NA	NA	NA	METHODS	Most of the studies contributing to the OncoArray were case-control studies primarily based in either the United States or Europe.
+0	NA	PSA	NA	METHODS	In total, 52 new studies provided core data on disease status, age at diagnosis (age at observation or questionnaire for controls), family history of PrCa, and clinical factors for cases (for example, PSA at diagnosis and Gleason score) for 48,455 PrCa cases and 28,321 disease-free controls.
+0	NA	NA	NA	METHODS	Previous GWAS contributed an additional 32,255 PrCa cases and 33,202 disease-free controls of European ancestry to the overall meta-analysis.
+0	NA	NA	NA	METHODS	Supplementary Table 3 provides QC information by consortia (e.g., OncoArray project, UK GWAS, and so forth) for both samples and SNPs.
+0	NA	NA	NA	METHODS	After removal of all overlapping samples, the OncoArray contribution for newly genotyped samples was 46,939 PrCa cases and 27,910 disease-free controls
+0	aggressive disease	NA	NA	METHODS	Several strata-specific analyses were implemented to evaluate the effects of genetic variation on PrCa disease aggressiveness.
+0	NA	NA	NA	METHODS	Supplementary Table 4 describes the analysis title, outcome and reference groups, and the statistical model used.
+0	low aggressiveness	NA	NA	METHODS	Several classification schemes (low aggressiveness, intermediate aggressiveness, and so forth) were implemented to better assess the spectrum of genetic involvement.
+0	cancers	PSA	NA	METHODS	All classification schemes incorporated the diagnostic clinical features PSA, tumor stage, and Gleason score.
+0	NA	NA	NA	METHODS	To compare the results with those from previous PrCa aggressive analyses by our research group, we included the 'advanced (plus death due to PrCa)' classification.
+0	NA	NA	NA	METHODS	Contributing study groups missing clinical features were excluded (Supplementary Table 2).
+0	NA	NA	NA	METHODS	Individuals with missing or granular clinical information were excluded.
+0	NA	NA	NA	METHODS	The strata-specific sample sizes from the PrCa GWAS consortium are provided in Supplementary Table 5.
+0	NA	NA	NA	METHODS	Furthermore, we analyzed Gleason score as a continuous variable
+0	NA	NA	NA	METHODS	The NCI GAME-ON consortium (http://epi.grants.cancer.gov/gameon/) provided SNPs to be included in the Illumina OncoArray.
+0	cancers	NA	NA	METHODS	Approximately 50% of the OncoArray was a compilation of SNP lists by the GAME-ON disease consortium of cancer (breast, colorectal, lung, ovarian, and prostate), a common set of variants for common risk regions, other related traits (BMI, age at menarche, and so forth), pharmacogenetics, and candidates.
+0	NA	NA	NA	METHODS	The remaining content of the OncoArray was selected as a 'GWAS backbone' (Illumina HumanCore), which aimed to provide high coverage for most common variants through imputation.
+0	NA	NA	NA	METHODS	Approximately 79,000 SNPs were selected specifically for their relevance to PrCa, on the basis of prior evidence of association with overall or subtype-specific disease, fine-mapping of known PrCa regions, and candidate submissions (survival, exome sequencing, and so forth).
+0	NA	NA	NA	METHODS	To maximize the efficiency of the array, cancer-specific candidate lists were merged to remove redundant genetic variation
+0	NA	NA	NA	METHODS	Details of the genotype calling and QC for the iCOGS and GWAS have been described elsewhere
+0	NA	NA	NA	METHODS	Of the 568,712 variants selected for genotyping on the OncoArray, 533,631 were successfully manufactured on the array (including 778 duplicate probes).
+0	NA	NA	NA	METHODS	OncoArray genotyping of ELLIPSE studies was conducted at five sites (Cambridge, CIDR, Copenhagen, USC, and NCI).
+0	NA	NA	NA	METHODS	Details of the genotype calling for the OncoArray have been described in more detail elsewhere.
+0	NA	NA	NA	METHODS	Briefly, we developed a single calling pipeline that was applied to more than 500,000 samples across the GAME-ON consortium.
+0	NA	NA	NA	METHODS	An initial cluster file was generated by using 56,284 samples selected from all major genotyping centers and ancestries, with the Gentrain2 algorithm.
+0	NA	NA	NA	METHODS	Variants likely to have problematic clusters were selected for manual inspection on the basis of the following criteria: call rate <99%, MAF <0.001, poor Illumina intensity and clustering metrics, deviation from the MAF observed in the 1KGP, by using the criterion , where p0 and p1 are the minor frequencies in the 1KGP and OncoArray datasets, respectively, and C = 0.008.
+0	NA	NA	NA	METHODS	This procedure resulted in manual adjustment of the cluster file for 3,964 variants and the exclusion of 16,526 variants.
+0	NA	NA	NA	METHODS	The final cluster file was then applied to the full dataset
+0	NA	NA	NA	METHODS	Our QC pipeline for ELLIPSE excluded SNPs with a call rate <95% by study, not in Hardy-Weinberg equilibrium (P < 10-7 in controls or P < 10-12 in cases) or with concordance <98% among 11,260 duplicate pairs.
+0	NA	MAF>1%	NA	METHODS	To minimize imputation errors, we additionally excluded SNPs with a MAF <1% and a call rate <98% in any study, SNPs that could not be linked to the 1KGP reference, those with MAF for Europeans that differed from that for the 1KGP, and a further 16,526 SNPs for which the cluster plot was judged to be not ideal.
+0	NA	NA	NA	METHODS	Of the 533,631 manufactured SNPs on the OncoArray, we retained 498,417 SNPs among our samples of European ancestry after QC
+0	NA	NA	NA	METHODS	We excluded duplicate samples and first-degree relatives within each study, duplicates across studies, samples with a call rate <95%, and samples with extreme heterozygosity (>4.9 s.d.
+0	NA	NA	NA	METHODS	from the mean for the reported ancestry).
+0	NA	CAPS	NA	METHODS	We excluded duplicated samples as well as first-degree relatives across the GWAS studies CAPS1, CAPS2, UK Stage 1, UK Stage 2, and iCOGS.
+0	NA	NA	NA	METHODS	Duplicate and first-degree-related samples were assessed across the BPC3 and Pegasus GWAS studies as well.
+0	NA	NA	NA	METHODS	Ancestry was computed through principal component analysis using 2,318 informative markers on a subset of ~47,000 samples and projected onto the complete OncoArray dataset.
+0	NA	NA	NA	METHODS	The current analysis was restricted to men of European ancestry, defined as individuals with an estimated proportion of European ancestry >0.8, with reference to the HapMap populations, on the basis of the first two principal components.
+0	NA	NA	NA	METHODS	Of the 78,182 samples genotyped (regardless of ancestry), the final dataset consisted of 74,849 samples, of which 46,939 PrCa cases and 27,910 disease-free controls (Supplementary Table 3), after exclusion of overlap samples, were meta-analyzed with previous studies
+0	NA	NA	NA	METHODS	We imputed genotypes for ~70 million SNPs for all samples by using the October 2014 (Phase 3) release of the 1KGP data as the reference panel.
+0	NA	NA	NA	METHODS	We imputed the OncoArray and GWAS datasets through a two-stage imputation approach, using SHAPEIT for phasing and IMPUTEv2 (ref. )
+0	NA	NA	NA	METHODS	for imputation.
+0	NA	NA	NA	METHODS	The imputation was performed in 5-Mb nonoverlapping intervals.
+0	NA	NA	NA	METHODS	All subjects were split into subsets of ~10,000 samples, with subjects from the same group in the subset.
+0	NA	NA	NA	METHODS	We imputed genotypes for all SNPs that were polymorphic (MAF > 0.1%) in European samples.
+0	NA	NA	NA	METHODS	We excluded data for all monomorphic SNPs and those with an imputation r2 <0.3, thus leaving a total of 20,370,935 SNPs across chromosomes 1-22 and chromosome X.
+0	NA	MAF>1%	NA	METHODS	Of the SNPs imputed, 49.3% had a MAF <1%, 15.2% had a MAF ranging between 1% and 5%, and 35.5% had a MAF >=5%
+0	NA	NA	NA	METHODS	Per-allele odds ratios and standard errors were generated for the OncoArray and each GWAS, with adjustment for principal components and study-relevant covariates through logistic regression.
+0	NA	NA	NA	METHODS	The OncoArray and iCOGS analyses were additionally stratified by country and study, respectively.
+0	NA	NA	NA	METHODS	We used the first seven principal components in our analysis of individuals of European ancestry, because additional components did not further decrease inflation in the test statistics
+0	NA	NA	NA	METHODS	OR estimates were derived with either SNPTEST (https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html) or an in-house C++ program (Supplementary Table 3).
+0	NA	NA	NA	METHODS	OR estimates and standard errors were combined by a fixed-effects inverse variance meta-analysis in METAL.
+0	NA	NA	NA	METHODS	All statistical tests conducted were two sided
+0	NA	NA	NA	METHODS	Our analyses included overall PrCa and several clinically relevant strata.
+0	NA	NA	NA	METHODS	These strata comprised: (i) high versus low aggressive PrCa; (ii) high versus low/intermediate aggressive PrCa; (iii) advanced versus nonadvanced PrCa; (iv) advanced PrCa versus controls; (v) early-onset PrCa (<=55 years) versus controls; and (iv) Gleason score (Supplementary Tables 4 and 5).
+0	cancers	PSA	NA	METHODS	We defined low aggressive as tumor stage <=T1 and Gleason score <=6 and PSA <10 ng/mL; intermediate aggressive as tumor stage T2 or Gleason score = 7 or PSA 10-20 ng/mL; high aggressive as tumor stage T3/T4 or N1 or M1, or Gleason score >=8 or PSA >20 ng/mL; and advanced as either metastatic disease, Gleason score >=8, PSA > 100 or PrCa-related death (Supplementary Table 4)
+0	NA	NA	NA	METHODS	To search for novel loci, we assessed all SNPs excluding those within a known PrCa locus, defined by current fine-mapping assessments (Supplementary Table 7).
+0	NA	NA	NA	METHODS	SNPs that were associated with disease risk at P < 5 x 10-8 in the meta-analysis (GWAS and OncoArray) were considered novel.
+0	NA	NA	NA	METHODS	The SNP with the lowest P value in a region was considered the lead SNP.
+0	NA	NA	NA	METHODS	Imputation quality was assessed on the basis of IMPUTE2 imputation r2 in the OncoArray dataset (Supplementary Table 8)
+0	NA	NA	NA	METHODS	For ten regions where the newly identified locus was near a previously known region, we reported a novel association if the pairwise r2 between the new and the previously known SNP was <0.2.
+0	NA	NA	NA	METHODS	For novel PrCa associations for which the variant was imputed in the OncoArray study sample series and had an imputed quality score <0.70, we assessed the quality of the imputation by masking the variant in a subset of the 1KGP European sample and calculating the concordance after reimputation in the remaining 1KGP samples
+0	NA	NA	NA	METHODS	Novel SNPs with an IMPUTE2 r2 <0.80 among the OncoArray sample series (Supplementary Table 8) were flagged for further investigation to minimize the probability of false positives.
+0	NA	NA	NA	METHODS	First, we examined LD plots (http://locuszoom.org/) for poorly imputed SNPs (+-500 kb), including only genotyped SNPs within the region.
+0	NA	NA	NA	METHODS	The imputed index SNP was included in the plot to determine the strength of LD with nearby signals and to assess a pattern of association.
+0	NA	NA	NA	METHODS	Furthermore, we performed an imputation experiment using the 2,504 1KGP Phase 3 samples.
+0	NA	NA	NA	METHODS	We split this sample into two parts: a random sample of 259 individuals of European ancestry (excluding Finnish individuals) and a mixed-population reference panel of 2,245 individuals.
+0	NA	NA	NA	METHODS	The random sample of 259 individuals of European ancestry was filtered to include only the genetic variants available from the OncoArray after QC.
+0	NA	NA	NA	METHODS	This procedure ensured that the same imputation input was used in the overall imputation.
+0	NA	NA	NA	METHODS	The 259 individuals were imputed by using 2,245 individuals as the reference panel.
+0	NA	NA	NA	METHODS	A 5-Mb segment of the genome was selected on the basis of the target SNP (+-250 Mb).
+0	NA	NA	NA	METHODS	SHAPEIT2 was used for prephasing, and IMPUTE2 was used for imputation.
+0	NA	NA	NA	METHODS	Customized imputation settings included an effect size of 20,000, allowance of large-region imputation and a random seed of 12345.
+0	NA	NA	NA	METHODS	A weighted linear kappa statistic was calculated to determine the correlation of the imputation with the true genotypes
+1	NA	NA	rs527510716	METHODS	We evaluated four SNPs whose IMPUTE2 r2 was <0.80 in the OncoArray sample series: rs527510716 (chr 7), rs6602880 (chr 10), rs533722308 (chr 18), and rs144166867 (chr X).
+0	NA	NA	NA	METHODS	Supplementary Fig.
+0	NA	NA	NA	METHODS	3 includes the LD plots for three of the poorly imputed SNPs.
+0	NA	NA	rs144166867	METHODS	The variant rs144166867 (chr X) could not be plotted, because no genotype SNPs were available within +-500 kb on the OncoArray.
+1	NA	NA	rs527510716	METHODS	Both LD plots for markers rs527510716 (chr 7) and rs533722308 (chr 18) showed significant associations (P < 1 x 10-3) for several genotype markers with moderate LD of the index SNP The kappa coefficients for markers rs527510716 (chr 7) and rs533722308 (chr 18) were 0.911 and 0.931, respectively (Supplementary Table 9).
+0	NA	NA	rs6602880	METHODS	The marker rs6602880 (chr 10) had a kappa coefficient of 0.812 and was the only significant variant in the LD plot.
+0	NA	NA	rs144166867	METHODS	The kappa coefficient for marker rs144166867 (chr X) was 0.665 (Supplementary Table 9).
+0	NA	NA	rs6602880	METHODS	The markers rs6602880 (chr 10) and rs144166867 (chr X) were probably false positives due to poor imputation for these regions
+0	NA	NA	NA	METHODS	The contribution of the known SNPs to the familial risk of PrCa, under a multiplicative model, was computed with the formula  where lambda0 is the observed familial risk to first-degree relatives of PrCa cases, assumed to be 2.5, and lambdak is the familial relative risk due to locus k, given by:  where pk is the frequency of the risk allele for locus k, qk = 1-pk, and rk is the estimated per-allele odds ratio
+0	NA	NA	NA	METHODS	On the basis of the assumption of a log-additive model, we constructed a PRS from the summed risk-allelic doses weighted by the per-allele log ORs.
+0	NA	NA	NA	METHODS	Thus, for each individual j, we derived:  where N is the number of SNPs, gij is the allele dose at SNPi for individual j, and betai is the per-allele log-odds ratio of SNPi
+0	NA	NA	NA	METHODS	The risk of PrCa was estimated for the percentiles of the distribution of the PRS (<1, 1-10, 10-25, 25-75, 75-90, 90-99, >99 and <10, 10-25, 25-75, 75-90, >90) for which cumulative score thresholds were determined according to the observed distribution among controls.
+0	NA	NA	NA	METHODS	We applied effect sizes and allele frequencies obtained from the overall meta-analysis of Europeans to estimate risk scores for individuals of European ancestry in the OncoArray study.
+0	NA	NA	NA	METHODS	A standardized PRS score was calculated by dividing the observed PRS score by the s.d.
+0	NA	NA	NA	METHODS	of the PRS score among controls.
+0	NA	NA	NA	METHODS	A logistic-regression framework was used to evaluate the percentile comparisons and to determine the risk estimate.
+0	NA	NA	NA	METHODS	The models were adjusted for the first seven principal components to account for population stratification and stratified by country
+0	NA	NA	NA	METHODS	The FRR and PRS risk estimation was limited to the variants for which our overall meta-analysis indicated a statistically significant association.
+0	NA	NA	NA	METHODS	In total, we included 147 PrCa index SNPs in our risk-score modeling, including 85 previously published associations and the 62 novel findings reported here.
+0	NA	NA	NA	METHODS	To correct for potential bias in effect estimation of newly discovered variants, we implemented a fully Bayesian version of a weighted correction given in equation (3).4 in ref. .
+0	NA	NA	NA	METHODS	Specifically, we placed a normal prior distribution on MLE effect estimates of the form betam ~ N (betaCor, tau2).
+0	NA	NA	NA	METHODS	Here, betam is the log OR from the overall meta-analysis; betaCor is the bias-corrected estimate calculated with the expectation-adjusted estimator from equation (3).1 in in ref.
+0	NA	NA	NA	METHODS	; and tau is a prespecified variance of the effect distribution reflecting the bias and is defined as
+0	NA	NA	NA	METHODS	Genotype and gene expression data were downloaded from TCGA for 494 samples with PrCa (https://gdc-portal.nci.nih.gov/).
+0	NA	NA	NA	METHODS	QC was performed on both these datasets as follows: on the genotype, we filtered out samples with high heterozygosity (mean heterozygosity +-2 s.d.)
+0	NA	NA	NA	METHODS	and missing genotypes and duplicated or related samples.
+0	NA	NA	NA	METHODS	We then performed principal component analysis on the 494 samples plus 2,506 samples from 1KGP to infer the ancestry of the TCGA samples; samples of non-European ancestry were removed.
+0	NA	NA	NA	METHODS	We also filtered out variants with missing call rate >5%.
+0	NA	NA	NA	METHODS	For the expression data, samples from two plates had, on average, much higher expression values than did the remaining samples and therefore were excluded.
+0	NA	NA	NA	METHODS	We also filtered genes with mean expression across samples <=6 counts.
+0	NA	NA	NA	METHODS	Finally, expression values were quantile-normalized by samples and rank-transformed by genes.
+0	NA	NA	NA	METHODS	After QC, we used the data from 359 samples.
+0	NA	NA	NA	METHODS	For the eQTL analysis, 35 PEER factors from the top 10,000 expressed genes were used as covariates, plus three genotyping PCs (which explained 18% of total variation).
+0	NA	NA	NA	METHODS	eQTL analysis was performed in FastQTL with 1,000 permutations over the 85 regions.
+0	NA	NA	NA	METHODS	We used a window of 1 Mb (upstream/downstream) from the transcription start site of each gene
+0	NA	NA	NA	METHODS	The file Human_GOBP_AllPathways_no_GO_iea_September_01_2016_symbol.gmt (http://baderlab.org/GeneSets/) from the GeneSets database, was used for all analyses.
+0	NA	NA	NA	METHODS	This database contains pathways from Reactome, NCI Pathway Interaction Database, Gene Ontology (GO) biological process, HumanCyc, MSigdb, NetPath, and Panther.
+0	NA	PDK1	NA	METHODS	We manually corrected several pathways in which the c gene was entered as PDK1.
+0	NA	NA	NA	METHODS	GO pathways inferred from electronic annotation terms were excluded.
+0	NA	NA	NA	METHODS	The same pathway (for example, apoptosis) may be defined in two or more databases with potentially different sets of genes, and all versions of these duplicate/overlapping pathways were included.
+0	NA	NA	NA	METHODS	Pathway size was determined by the total number of genes in the pathway to which SNPs in the imputed GWAS dataset could be mapped.
+0	NA	NA	NA	METHODS	To provide more biologically meaningful results, and to reduce false positives, only pathways that contained between 10 and 200 genes were considered
+0	NA	NA	NA	METHODS	Gene information (hg19) was downloaded from the ANNOVAR website (http://annovar.openbioinformatics.org/).
+0	NA	NA	NA	METHODS	SNPs were mapped to the nearest gene within 500-kb windows; those that were further away from any gene were excluded.
+0	NA	NA	NA	METHODS	Gene significance was calculated by assigning the lowest P value observed across all SNPs assigned to a gene, on the basis of the combined European meta-analysis (previous GWAS and OncoArray)
+0	NA	NA	NA	METHODS	The gene-set enrichment analysis (GSEA) algorithm, as implemented in the GenGen package (http://gengen.openbioinformatics.org/en/latest/), was used to perform pathway analysis.
+0	NA	NA	NA	METHODS	Briefly, the algorithm calculates an ES for each pathway on the basis of a weighted Kolmogorov-Smirnov statistic.
+0	NA	NA	NA	METHODS	To calculate the ES, we performed 100 permutations and averaged the final score.
+0	NA	NA	NA	METHODS	Pathways with most of their genes at the top of the ranked list of genes obtain higher ES values.
+0	NA	NA	NA	METHODS	Only pathways with positive ES and at least one gene with P < 5 x 10-8 were retained for subsequent analysis.
+0	NA	NA	NA	METHODS	An enrichment map was created in the Enrichment Map (EM) v 2.1.0 application in Cytoscape v3.40 (ref.
+0	NA	NA	NA	METHODS	), with application of force-directed layout, in weighted mode.
+0	NA	NA	NA	METHODS	We restricted our pathway analysis to those with an ES >= 0.50 to ensure a true-positive rate >0.20 and a false-positive rate <0.15
+0	NA	NA	NA	METHODS	Further information on experimental design is available in the Nature Research Reporting Summary linked to this article
+0	NA	NA	NA	METHODS	The OncoArray genotype data and relevant covariate information (ancestry, country, principal components, and so forth) generated during this study have been deposited in dbGaP under accession code phs001391.v1.p1.
+0	NA	NA	NA	METHODS	In total, 47 of the 52 OncoArray studies encompassing nearly 90% of the individual samples will be available (Supplementary Table 19).
+0	NA	NA	NA	METHODS	The previous meta-analysis summary results and genotype data are available in dbGaP under accession code phs001081.v1.p1.
+0	NA	NA	NA	METHODS	The complete meta-analysis summary associations statistics are publicly available at the PRACTICAL website (http://practical.icr.ac.uk/blog/)
+0	NA	NA	NA	FIG	The top section describes the PrCa GWAS meta-analysis published in 2014, in which 23 novel variants were identified.
+0	NA	NA	NA	FIG	The current PrCa GWAS meta-analysis incorporated an additional 46,939 PrCa cases and 27,910 controls independent of the meta-analyses.
+0	NA	NA	NA	FIG	The current meta-analysis discovered 62 novel variants associated with overall PrCa and 1 novel variant associated with early-onset PrCa
+0	Breast and prostate cancer	NA	NA	TABLE	Prostate cancer OncoArray and GWAS meta-analysis for 63 novel region
+0	NA	NA	NA	TABLE	Estimation of polygenic risk scores by using 147 prostate cancer-susceptibility variant

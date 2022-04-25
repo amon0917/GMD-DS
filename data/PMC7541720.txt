@@ -1,0 +1,164 @@
+0	lung cancer	NA	NA	ABSTRACT	Lung cancer remains the leading cause of cancer death worldwide with 15-20% occurring in never-smokers.
+0	lung cancer	NA	NA	ABSTRACT	To assess genetic determinants for prognosis among never smokers, we conducted a genome-wide investigation in the International Lung Cancer Consortium(ILCCO)
+0	lung cancer	NA	NA	ABSTRACT	Genomic and clinical data from 1569 never-smoking lung cancer patients of European ancestry from 10 ILCCO studies were included.
+0	NA	NA	NA	ABSTRACT	Hazard ratios(HRs) and 95% confidence intervals of overall survival were estimated.
+0	NA	NA	NA	ABSTRACT	We assessed whether the associations were mediated through mRNA expression based 1553 normal lung tissues from the Lung expression quantitative trait loci(eQTL) dataset and GTEx.
+0	NA	NA	NA	ABSTRACT	For cross-ethnicity generalization, we assessed the associations in a Japanese study(N=887)
+0	lung adenocarcinomas	LMO7DN	NA	ABSTRACT	One locus at 13q22.2 was associated with lung adenocarcinoma survival at genome-wide level, with carriers of rs12875562-T allele exhibiting poor prognosis(HR=1.71(1.41-2.07), p=3.60x10-8), and altered mRNA expression of LMO7DN in lung tissue(GTEx, p=9.40x10-7; Lung eQTL dataset, p=0.003).
+1	NA	CAPZB	NA	ABSTRACT	Furthermore, two of 11 independent loci that reached the suggestive significance level(p<10-6) were significant eQTL affecting mRNA expression of nearby gene in lung tissues, including CAPZB at 1p36.13 and UBAC1 at 9q34.3.
+1	NA	NA	NA	ABSTRACT	One locus encoding NWD2/KIAA1239 at 4p14 showed associations in both European(HR=0.50(0.38-0.66), p=6.92x10-7) and Japanese populations(HR=0.79(0.67-0.94), p=0.007)
+0	lung cancer	NA	NA	ABSTRACT	Based on the largest genomic investigation on the lung cancer prognosis of never smokers to date, we observed that lung cancer prognosis is affected by inherited genetic variants
+0	NA	LMO7DN	NA	ABSTRACT	We identified one locus near LMO7DN at genome-wide level and several potential prognostic genes with cis-effect on mRNA expression.
+0	cancers	NA	NA	ABSTRACT	Further functional genomics work is required to understand their role in tumor progression
+0	death	NA	NA	INTRO	With over 1 million deaths each year, lung cancer continues to be the leading cause of cancer mortality worldwide, and the five-year survival rate remains low at only 10 to 20%.
+0	lung cancer	NA	NA	INTRO	While it is well established that tobacco smoking is the primary cause of lung cancer, inherited genetic variations has also been established as etiological factors through genome-wide association studies (GWAS), which identified susceptibility loci including CHRNA3/5, TERT-CLPTM1L, the HLA/MHC region, CHEK2 and more in the last decade
+0	lung cancer	NA	NA	INTRO	Approximately 15 to 20% of lung cancer cases occur in individuals who are lifelong never smokers.
+0	lung cancer	NA	NA	INTRO	Many studies have shown significant differences in the etiology and clinical characteristics between never and ever smokers, and lung cancer in never smokers is being recognized as a distinct disease entity.
+0	NSCLC-adenocarcinoma	ErbB	NA	INTRO	Most notably, smokers and never smokers have different histological presentation with adenocarcinoma being the main histological type among never smoking patients, and never smokers have a higher prevalence of EGFR mutations and those with EGFR mutations show longer survival after treatment with EGFR inhibitors than ever smokers do.
+0	lung cancer	NA	NA	INTRO	Additional features that distinguish lung cancer in never smokers and ever smokers are differences in their somatic mutations and methylation profiles
+0	lung cancer	NA	NA	INTRO	Inherited genetic variation has been hypothesized to influence lung cancer survival and several genome-wide association studies (GWAS) were performed with a focus on overall survival; in early stage lung cancer patients, patients who received platinum based chemotherapies, and advanced non-small cell lung cancer, although most studies have relatively modest sample sizes ranging from 100 to 400 lung cancer patients.
+0	lung cancer	NA	NA	INTRO	Moreover, we hypothesize that there are distinctive genetic factors contribute to lung cancer prognosis in smokers and never smokers, and analyzing never smokers separately would provide a greater insight on the genetic components of lung cancer survival for this specific population.
+0	lung cancer	NA	NA	INTRO	To increase our power for genomic discovery, we conducted a meta-analysis of ten GWAS with clinical prognosis data based on a total of 1569 never-smoking lung cancer patients of European ancestry in a two-stage analysis.
+0	NA	NA	NA	INTRO	The generalizability of the candidate association across ethnicity was tested in the Japanese non-smoking population in the second stage.
+0	NA	NA	NA	INTRO	The potential functional significance of the genetic regions related to prognosis was investigated using expression quantitative trait loci (eQTL) analysis based on four independent studies from the Universities of Laval, University of British Columbia and Groningen, and the Genotype-Tissue Expression (GTEx) data
+0	lung cancer	NA	NA	METHODS	A total of 12 studies in the International Lung Cancer Consortium (ILCCO) participated in this analysis, including 10 lung cancer GWAS of European populations and 2 studies in Japanese populations to asses for generalizability.
+0	NA	NA	NA	METHODS	Never smokers were defined as individuals who smoked fewer than 100 cigarettes during their lifetime, with the exception of Liverpool Lung Project in which the definition was individuals who smoked 10 cigarettes per week regularly (among those 98.5% also fit under the former definition).
+0	NA	NA	NA	METHODS	All participants provided written informed consent and research protocols of all studies were reviewed and approved by the local institutional review boards of each participating study.
+0	NA	Materials	NA	METHODS	Information of each study is summarized in Table 1, and included in the Supplementary Materials
+0	NA	NA	NA	METHODS	Genotyping in each study was conducted using Illumina HumanHap300K, 370K, 610K, 660K, OmniExpress or OncoArray.
+0	NA	NA	NA	METHODS	In general, the quality control procedures were similar across studies with exclusion of variants based on low call rate (<90%), and low minor allele frequency (<1%).
+0	NA	NA	NA	METHODS	Individuals with high missing rate (>5 or 10%), gender discrepancies, unexpected duplicates or relatedness were excluded.
+0	lung cancer	NA	NA	METHODS	Details of genotyping and quality control procedures as applied to the lung cancer OncoArray project have been previously published.
+0	lung cancer	NA	NA	METHODS	After applying quality control steps and restricting to genotyped individuals of European ancestry with no smoking history and complete clinical follow-up information, data were available on a total of 1,569 never smoking lung cancer patients, including 208 from Toronto, 327 from MDACC, 349 from Mayo, 59 from Central Europe, 92 from Harvard study and 534 in the five studies genotyped in the OncoArray project.
+0	NA	NA	NA	METHODS	The key characteristics of all participating studies are summarized in Table 1
+0	NA	NA	NA	METHODS	To facilitate the meta-analysis across genotyping platforms, genotype imputation was conducted in each study based on the March 2012 release of the 1000-Genomes Project.
+0	NA	NA	NA	METHODS	The Toronto and Mayo Clinic studies were imputed using IMPUTE2, and the IARC-Central Europe and Harvard studies were imputed using MaCH software.
+0	NA	NA	NA	METHODS	Variants that were not present in any genotyping array, or with sub-optimal imputation quality were excluded from the analysis based on IMPUTE2 Info < 0.3 and MACH RSQR < 0.3.
+0	NA	NA	NA	METHODS	After applying quality control filters, 629,283 SNPs were available for the meta-analysis.
+0	lung cancer	NA	NA	METHODS	For the Japanese GWAS study, the 887 lung cancer patients from National Cancer Center Hospital and Aichi Cancer Centre were genotyped using Illumina HumanOmini1-Quad and Illumina 660W.
+0	NA	NA	NA	METHODS	The Japanese study was imputed using IMPUTE2.
+0	NA	NA	NA	METHODS	Standard quality control steps applied to remove potential errors and biases have been previously described.
+0	NA	NA	NA	METHODS	Briefly, individuals with gender discrepancies, low call rates (<98%) and first-degree relatives were excluded, and variants with Hardy-Weinberg Equilibrium (P < 10-6) were removed
+0	lung cancer	NA	NA	METHODS	Overall survival time was defined as the time from date of lung cancer diagnosis to date of death or the last known date alive.
+0	lung cancer	NA	NA	METHODS	Cox proportional-hazards model was applied to assess marginal effects of patient characteristics on lung cancer survival.
+0	NA	NA	NA	METHODS	Genomic inflation factor was estimated by comparing observed and expected p-values.
+0	NA	NA	NA	METHODS	Quantile-quantile (Q-Q) plots were used to assess the extent to which the observed distribution of the test statistic follows the expected distribution for each study.
+0	NA	NA	NA	METHODS	OncoArray project data were pooled and analysed as one study as they were all genotyped and processed at the same time.
+0	NA	NA	NA	METHODS	The analytical process was summarized in Supplementary Figure 1
+0	lung cancer	NA	NA	METHODS	For each variant that passed QC procedures as described, multivariate Cox proportional hazards regression was used to assess the association of lung cancer survival within each study.
+0	NA	NA	NA	METHODS	The probabilistic genotype dosage model was used for the main analysis and included potential confounding factors that might influence patient survival including age (as a continuous variable), sex (male or female), clinical stage (IA-IIIA, IIIB-IV), and where available, treatment information.
+0	NA	NA	NA	METHODS	To limit inflation of the calculated test-statistics due to population sub-structure, each study was independently adjusted by the top two to six principal components (PCs).
+0	NA	NA	NA	METHODS	The Japanese studies were adjusted by the top five PCs.
+0	NA	NA	NA	METHODS	Hazard Ratios (HR) and their corresponding 95% confidence intervals (95% CI) for survival were computed based on cox regression models
+0	death	NA	NA	METHODS	Survival rates were estimated using the Kaplan-Meier method and median survival times were calculated based on diagnosis and death dates.
+0	NA	NA	NA	METHODS	Log-rank tests were used to examine for differences between survival estimates of genotypes pooled across studies
+0	NA	NA	NA	METHODS	A fixed-effects meta-analysis was performed to combine study-specific hazard ratios (HR) of sequence variants using an inverse variance-based weighting method implemented in the METAL program.
+0	NA	NA	NA	METHODS	The combined estimates were only computed for those variants observed in at least three studies.
+0	NA	Phet	NA	METHODS	I2 statistic was calculated to assess the proportion of the total variation due to heterogeneity, and I2 > 75% and PHET < 0.05 were applied to filter out variants with high study heterogeneity
+0	lung cancer	NA	NA	METHODS	Given the biological heterogeneity across lung cancer histological types, we have also conducted additional analysis restricted to 1,065 adenocarcinoma patients, as this is the predominant histological type of never smokers.
+0	NA	NA	NA	METHODS	We did not consider a subgroup analysis for other histology types due to small sample size.
+0	NA	NA	NA	METHODS	For genetic variants with p-value of less than 10-6, we assessed the generalizability based on the Japanese study.
+0	NA	NA	NA	METHODS	All statistical tests were two-sided
+0	lung cancer	NA	NA	METHODS	Genetic variants with combined p-value less than 10-6 for lung cancer survival were followed up for potential functional significance through an expression quantitative trait loci (eQTL) investigation based on the Lung eQTL dataset, which includes 3 independent studies and GTEx data.
+0	NA	NA	NA	METHODS	All data sources have been described previously.
+0	NA	NA	NA	METHODS	Briefly for the Lung eQTL dataset, whole-genome gene expression profiling in the lung was performed on a custom Affymetrix array (GPL10379).
+0	NA	NA	NA	METHODS	Microarray pre-processing and quality controls were conducted as previously described.
+0	NA	NA	NA	METHODS	Genotyping was carried on the Illumina Human 1M-Duo BeadChip array.
+0	lung cancer	NA	NA	METHODS	Only cis-eQTL were considered in this study, testing probe sets located within 1 Mb up and downstream of the SNPs associated with lung cancer survival.
+0	NA	NA	NA	METHODS	Genotypes and gene expression were available in a total of 1038 individuals including 409 from Laval University, 287 patients from the University of British Columbia (UBC), and 342 from University of Groningen.
+0	NA	NA	NA	METHODS	Association tests were carried in each cohort and then meta-analyzed using Fisher's method.
+0	NA	NA	NA	METHODS	Expression QTL analyses were performed adjusted for age, sex and smoking status.
+0	NA	NA	NA	METHODS	In addition, the Genotype-Tissue Expression (GTEx) database (http://www.gtexportal.org/home/) of RNAseq analysis was queried to examine the functional association between candidate variants and expressions of nearby genes in 515 human lung tissues (Release V7)
+0	lung cancer	NA	NA	RESULTS	The baseline characteristics of 1,569 never-smoking lung cancer patients with European ancestry and 887 Asian lung cancer patients from Japan are shown in Table 1.
+0	NA	NA	NA	RESULTS	All studies had similar age distribution with mean age at diagnosis of approximately 62 years across all studies with European ancestry.
+0	lung adenocarcinomas	NA	NA	RESULTS	As expected, approximately two-thirds of the patients were females, and lung adenocarcinoma was the primary histological type in all studies.
+0	NA	NA	NA	RESULTS	Median follow-up time (MFT) ranged from 26 months in the MDACC-OncoArray study to 126 months in the Mayo Clinic study.
+0	NA	NA	NA	RESULTS	Overall, 53% of patients were diagnosed with localized stage (I-IIIA) and the remaining 47% with advanced stage (IIIB-IV).
+0	NA	NA	NA	RESULTS	The association between key patient characteristics and survival is shown in Supplementary Table 1.
+0	NA	NA	NA	RESULTS	As expected, clinical stage is the most prominent factor associated with survival.
+0	NA	NA	NA	RESULTS	Treatment information was available in five of the studies as surgery, chemotherapy or radiation
+0	NA	NA	NA	RESULTS	A total of 629,283 single nucleotide variants (SNVs) were included in the combined analysis after quality control filtering procedures previously described.
+0	NA	NA	NA	RESULTS	The distribution of the bottom 95% of P-values was similar to the expected distribution, and the genomic control parameter was 1.02 based on the combined analysis.
+0	lung cancer	NA	NA	RESULTS	The associations between genetic variants and lung cancer overall survival for all lung cancer and adenocarcinoma patient across chromosomes are shown in Manhattan plots (Supplementary Figure 2).
+0	lung cancer	NA	NA	RESULTS	The main findings for overall survival among all lung cancer patients and adenocarcinoma patients are summarized in Table 2.
+0	lung cancer	NA	NA	RESULTS	For lung cancer overall, no regions reached genome-wide significance and four variants at 1p22.3, 8q2.3, 9q31.3 and 10p14 were associated with overall survival at p-value less than 10-6 (Supplementary Figure 3A-3D)
+0	lung adenocarcinomas	NA	rs12875562	RESULTS	When restricting the analysis to 1,065 lung adenocarcinoma patients, the intergenic region at 13q22.2 (represented by rs12875562) reached significance GWAS level with T allele was associated with shorter survival time (HR = 1.71, 95%CI=1.41-2.07, P=3.60x10-8) (Table 2, Figure 1).
+0	NA	NA	NA	RESULTS	In addition, seven other loci had suggestive evidence of association with overall survival at p-value <= 10-6(Table 2).
+1	NA	CAPZB	rs214346	RESULTS	Among those loci that showed suggestive evidence, it was worthwhile to mention that loci encoding CAPZB gene at 1p36.13 (represented by rs214346), and encoding UBAC1 gene at 9q34.3 (represented by rs6569) both conferred consistent association across studies with HR of 0.72 (95%CI=0.63-0.82, p=5.86x10-7) and 0.72 (95%CI= 0.63-0.82, p=5.94x10-7), respectively (Figure 2a and Figure 3a).
+1	NA	DLG2	rs17148028	RESULTS	The genetic locus that conferred the most distinctive survival patterns by genotype is located in 11q14 (represented by rs17148028) encoding DLG2 (Table 2 and Supplementary Figure 3i) with HR of 0.48 (0.36-0.64) with carriers of T allele exhibiting better prognosis.
+0	NA	NA	NA	RESULTS	The forest plots and regional plots of the remaining loci are shown in the Supplementary Figure 3
+1	lung cancer	NA	rs17603438	RESULTS	Among the total 12 loci, the locus encoding NWD2/KIAA1236 located at 4p14 (represented by rs17603438) also showed an association with lung cancer survival in the Japanese cohort.
+0	NA	NA	NA	RESULTS	The major allele A was correlated with longer survival time in both the European cohorts (HR = 0.50, 95%CI= 0.38-0.66, P=6.92x10-7) and in the Japanese study (HR = 0.79, 95%CI= 0.67-0.94, P=0.0072).
+0	NA	NA	NA	RESULTS	No other loci showed generalizable association across ethnic groups
+0	NA	NA	NA	RESULTS	Supplementary Table 2 summarizes the result of genetic variants previously reported to be associated with lung prognosis based on two of the studies included in this analysis.
+0	NA	NA	NA	RESULTS	Three of the eight loci remained to be nominally significant (Supplementary Table 2) at p-value of 10-2 to 10-4 based on ten studies.
+0	NA	NA	NA	RESULTS	No follow-up analyses were performed on these variants given the weak level of evidence
+0	lung cancer	NA	NA	RESULTS	To investigate whether the variants associated with lung cancer survival may modulate the mRNA expression in the lung tissues, we conducted eQTL analysis for the top 12 loci identified by overall and adenocarcinoma only analysis in a total of four independent studies, including three lung microarray studies and GTEx, based on a total of 1553 lung tissues.
+0	NA	NA	NA	RESULTS	Variants that were shown to have significant cis-effect on the mRNA expression of a nearby gene across all four studies are shown in Table 3 (Table 3)
+0	NA	LMO7DN	rs12875562	RESULTS	Three loci demonstrated consistent cis-effects across all 4 eQTL studies, including the only GWAS level significant variant, rs12875562 located at 13q22.2 with significant eQTL effect on LMO7 Downstream Neighbour (LMO7DN) gene expression with p-value of 9.40x10-7 in GTEx and 3.44x10-3 in Lung eQTL dataset and 9.40x10-7 in GTEx (Table 3 and Figure 1).
+0	NA	LMO7DN	NA	RESULTS	Patients with the minor allele T had a poor survival and lower LMO7DN expressions.
+1	NA	CAPZB	rs214346	RESULTS	The strongest eQTL signal came from rs214346 located in CAPZB at 1p36.13, which showed a consistent association with increased expression of CAPZB with in Lung eQTL dataset (p-value of 2.78x10-10) and in GTEx lung tissue (p=1.10x10-9) (Table 3 and Figure 2).
+1	NA	CAPZB	NA	RESULTS	Patients with minor A allele have better survival and lower CAPZB expression in lung tissue.
+1	NA	UBAC1	rs6569	RESULTS	Finally, rs6569, located at 9q34.3 in UBAC1 gene was found to be associated with decreased expression of UBAC1 in both Lung eQTL dataset (p= 1.14x10-3) and GTEx (p=9.20x10-14) (Table 3 and Figure 3).
+1	NA	UBAC1	NA	RESULTS	The minor allele A of this variant was associated with longer survival (HR=0.71, 95%CI=0.62-0.81, P=5.94x10-7) and a higher expression of UBAC1
+0	lung cancer	NA	NA	DISCUSS	Based on the largest GWAS on lung cancer prognosis for never smokers conducted to date, we identified one locus that reached GWAS significance level at ch13q22 for patients with lung adenocarcinoma, and 11 loci that provided suggestive evidence; among those ch4p14 was also associated lung cancer prognosis in Japanese population.
+0	NA	NA	NA	DISCUSS	Three of the top 12 loci were shown to affect mRNA expression in nearby genes as cis-eQTL across multiple studies, including the region with top signal in ch13q22, which provided additional level of evidence of the association related prognosis
+0	NA	LMO7	NA	DISCUSS	The variant at the 13q22 locus is located adjacent to the LMO7 gene and LMO7 Downstream Neighbour (LMO7DN).
+0	NA	LMO7	NA	DISCUSS	LMO7 encodes a fibrous actin-binding protein that is commonly expressed in many human tissues, but particularly high in the lung epithelial cells.
+0	cancers	LMO7	NA	DISCUSS	It was suggested to be involved in the maintenance of epithelial architecture, and is considered to act as tumor suppresser gene, as LMO7 knock-out mice were shown to develop spontaneous lung adenocarcinoma.
+0	lung cancer	LMO7	NA	DISCUSS	LMO7 expression was shown to be associated with lung cancer prognosis, but the direction of effect is not yet conclusive, which can be attributed to histological types included in the studies as well as other related genes in the same regulatory pathway.
+0	lung adenocarcinomas	LMO7	NA	DISCUSS	We did not observe a consistent eQTL association with LMO7 per se, but with its downstream neighbour (LMO7DN) instead, with carriers of T allele exhibited poor prognosis for lung adenocarcinoma and lower LMO7DN expression.
+0	lung cancer	LMO7DN	NA	DISCUSS	This suggests that LMO7DN might play a more important role in lung tumor progression.
+0	lung cancer	LMO7DN	NA	DISCUSS	This is the first time LMO7DN is identified as a gene associated with lung cancer prognosis at the genome-wide level
+1	NA	CAPZB	NA	DISCUSS	The region in ch1p36.13 encodes CAPZB gene, whose mRNA expression is affected by the variant with A allele associated with lower level of expression.
+1	sarcoma	CAPZB	NA	DISCUSS	CAPZB is a regulator of actin filament length that determines the mitotic cortex thickness during cell cycle progression, and it is associated with cell growth and motility in epithelioid sarcoma.
+0	Crohn's disease	NA	NA	DISCUSS	Variants within the same locus were previously associated with total platelet mass, autoimmune related disorders such as Crohn's disease and psoriasis.
+0	lung cancer	NA	NA	DISCUSS	Other variants of the same gene have also been shown to be related to lung function, although the exact mechanism of how this gene is associated with lung cancer prognosis in never smokers is not clear
+1	NA	UBAC1	NA	DISCUSS	The region in ch9q34.3 encodes UBAC1, which is associated with innate immune system and Class I MHC mediated antigen processing.
+0	NA	interleukin-4	NA	DISCUSS	The sequence variants in this gene have been shown to be associated with interleukin-4 and interleukin-6 levels.
+0	cancers	NA	NA	DISCUSS	It has not been previously reported to be associated with cancer risk or prognosis.
+0	cancers	NA	NA	DISCUSS	It is biologically plausible that this gene may modulate tumor progression through the innate immune pathway.
+1	squamous disease	DLG2	NA	DISCUSS	Finally, genetic variants of DLG2 located at 11q14.1 were previously shown to be associated with lung function and familial squamous cell lung carcinoma, as well as anthropometric measurement such as body fat mass, fat and body mass index, which support a role of this gene in lung carcinogenesis and prognosis
+0	lung cancer	NA	NA	DISCUSS	Although previous studies have identified several genetic loci associated with lung cancer overall survival, primarily in smoking related lung cancer and early stage non-small cell lung cancer, we did not observe the association with those previously reported loci in our study of never smokers.
+0	lung cancer	NA	NA	DISCUSS	This is not a surprise as we expect distinctive genetic architecture contribute to lung cancer survival in smokers and never smokers
+1	NA	NA	NA	DISCUSS	For cross-ethnic generalizability, we observed only one association in ch4p14, encoding NWD2/KIAA1239 gene that was potentially generalizable between European and Japanese populations.
+0	NA	NA	NA	DISCUSS	This could be due to differences in the genetic background or different linkage disequilibrium patters underlying causal variants between European and Japanese population.
+0	NA	NA	NA	DISCUSS	In addition, the Japanese study has different characteristics such as distribution of sex, stage, treatment modality and overall survival, which could also contribute to limited generalizability across different ethnicities.
+0	NA	NA	NA	DISCUSS	Interestingly, the 4p14 locus was previous reported to be associated with smoking behaviour
+0	NA	NA	NA	DISCUSS	Our study has several limitations - First, potential heterogeneity between patient characteristics across studies may not be fully accounted for.
+0	NA	NA	NA	DISCUSS	In particular treatment information was not available for studies included in the OncoArray project and therefore could not be adjusted for in the model.
+0	NA	NA	NA	DISCUSS	However, it is expected that adjustment for clinical stage would mitigate the potential confounding effect of treatment as these two factors are highly correlated.
+0	NA	ErbB	NA	DISCUSS	Similarly, we do not have information on somatic mutations such as EGFR or ALK, which would affect prognosis.
+0	NA	NA	NA	DISCUSS	It is likely that the differences we observed across ethnic population are due to the differences in these mutations, which are markedly different by ethnic groups.
+0	lung cancer	NA	NA	DISCUSS	Second, our sample size might be underpowered due to relatively rare occurrence of lung cancer in never smokers, which can lead to potential false negative results.
+0	lung cancer	NA	NA	DISCUSS	Nevertheless, this is the largest genome-wide analysis for lung cancer prognosis among never smokers conducted to date, and the results have high relevance considering the percentage of never smokers are increasing among lung cancer patients
+0	cancers	NA	NA	DISCUSS	In summary, we identified one locus at genome-wide significant level at 13q22 which was consistent with known role of genetic region encoding LMO7/LMO7DN in cancer pathology, along with several potential loci that would require further validations.
+0	lung cancer	NA	NA	DISCUSS	The integrated evidence from both the associations with lung cancer survival and eQTL are complementary and provide support of our hypothesis that inherited genetic factors affect lung cancer survival in never smokers.
+0	NA	NA	NA	DISCUSS	Functional genomic experiments to assess the effect of altered gene regulation would be required to further understand the therapeutic potential of these biologically plausible genes
+0	NA	NA	NA	FIG	(a) Forest plots for study-specific hazard ratios (HR) and 95% confidence intervals (CI
+0	NA	NA	NA	FIG	(b) Kaplan-Meier plot by genotype of the sentinel variant over 5-year time period
+0	NA	NA	rs12875562	FIG	(c) Regional plot that include the 1Mb around the sentinel variant rs12875562.
+0	NA	NA	NA	FIG	X-axis represent the chromosome position and Y-axis represent -log10 (p-value) with color representing the linkage disequilibrium with the sentinel variant in r
+0	NA	NA	NA	FIG	(d) eQTL p-value from the GTEx data based on normal lung tissue
+0	NA	NA	NA	FIG	(e) eQTL P-values from the Lung eQTL dataset: Laval University, University of British Columbia (UBC) and University of Groningen.
+0	NA	NA	NA	FIG	The left y axis represents gene expression levels in the lung adjusted for age, sex and smoking status.
+0	NA	NA	NA	FIG	The x axis represents genotyping groups for rs12875562
+0	NA	NA	NA	FIG	(a) Forest plots for study-specific hazard ratios (HR) and 95% confidence intervals (CI
+0	NA	NA	NA	FIG	(b) Kaplan-Meier plot by genotype of the sentinel variant over 5-year time period
+0	NA	NA	rs214346	FIG	(c) Regional plot that include the 1Mb around the sentinel variant rs214346.
+0	NA	NA	NA	FIG	X-axis represent the chromosome position and Y-axis represent -log10 (p-value) with color representing the linkage disequilibrium with the sentinel variant in r
+0	NA	NA	NA	FIG	(d) eQTL p-value from the GTEx data based on normal lung tissue
+0	NA	NA	NA	FIG	(e) eQTL P-values from the Lung eQTL dataset: Laval University, University of British Columbia (UBC) and University of Groningen.
+0	NA	NA	NA	FIG	The left y axis represents gene expression levels in the lung adjusted for age, sex and smoking status.
+0	NA	NA	NA	FIG	The x axis represents genotyping groups for rs21434
+0	NA	NA	NA	FIG	(a) Forest plots for study-specific hazard ratios (HR) and 95% confidence intervals (CI
+0	NA	NA	NA	FIG	(b) Kaplan-Meier plot by genotype of the sentinel variant over 5-year time period
+1	NA	NA	rs6569	FIG	(c) Regional plot that include the 1Mb around the sentinel variant rs6569.
+0	NA	NA	NA	FIG	X-axis represent the chromosome position and Y-axis represent -log10 (p-value) with color representing the linkage disequilibrium with the sentinel variant in r
+0	NA	NA	NA	FIG	(d) eQTL p-value from the GTEx data based on normal lung tissue
+0	NA	NA	NA	FIG	(e) eQTL P-values from the Lung eQTL dataset: Laval University, University of British Columbia (UBC) and University of Groningen.
+0	NA	NA	NA	FIG	The left y axis represents gene expression levels in the lung adjusted for age, sex and smoking status.
+1	NA	NA	NA	FIG	The x axis represents genotyping groups for rs656
+0	NA	NA	NA	TABLE	Patient characteristics of the participating studies with European and Asian ancestry after quality control filter
+0	lung cancer	NA	NA	TABLE	The associations of sentinel variants representing each locus and overall survival of all lung cancer and adenocarcinom
+0	NA	NA	NA	TABLE	Expression quantitative trait loci (eQTL) identified in both Lung MicroArray project and GTEx databas

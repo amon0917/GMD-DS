@@ -1,0 +1,98 @@
+0	coronary artery disease	NA	NA	ABSTRACT	Coronary artery disease (CAD) is a common complication among individuals with diabetes.
+0	NA	NA	NA	ABSTRACT	A better understanding of the genetic background of CAD in this population has the potential to suggest novel molecular targets for screening, risk assessment and drug development
+0	diabetes	NA	NA	ABSTRACT	We performed a genome-wide association study of CAD in 15,666 unrelated individuals (3,968 CAD cases and 11,698 controls) of white British ancestry with diabetes at inclusion in the UK Biobank study.
+0	diabetes	NA	NA	ABSTRACT	Our results were compared with results from participants without diabetes
+0	NA	NA	rs74617384	ABSTRACT	We found genome-wide significant evidence for association with CAD at the previously well-established LPA locus (lead variant: rs74617384; OR 1.38 [95% CI 1.26, 1.51], p = 3.2 x 10-12) and at 9p21 (lead variant: rs10811652; OR 1.19 [95% CI 1.13, 1.26], p = 6.0 x 10-11).
+0	diabetes	NA	NA	ABSTRACT	Moreover, other variants previously associated with CAD showed similar effects in the participants with and without diabetes, indicating that the genetic architecture of CAD is largely the same
+0	diabetes	NA	NA	ABSTRACT	Our results indicate large similarities between the genetic architecture of CAD in participants with and without diabetes.
+0	NA	NA	NA	ABSTRACT	Larger studies are needed to establish whether there are important diabetes-specific CAD loci
+0	NA	NA	NA	ABSTRACT	The online version of this article (10.1007/s00125-018-4686-z) contains peer-reviewed but unedited supplementary material, which is available to authorised users
+0	diabetes	NA	NA	INTRO	Diabetes mellitus confers about two-fold increased risk of coronary artery disease (CAD).
+0	diabetes	NA	NA	INTRO	Better understanding of the genetic background of CAD among individuals with diabetes can suggest novel molecular targets for screening, risk assessment, and drug development.
+0	diabetes	NA	NA	INTRO	The aim of our study was to identify genetic variation associated with CAD among individuals with diabetes and to assess previously established CAD loci
+0	diabetes	NA	NA	METHODS	We used an algorithm to define diabetes status among UK Biobank participants at baseline (2006-2010) based on self-reported disease, medication and age at diabetes onset.
+0	NA	NA	NA	METHODS	Participants were genotyped on the Affymetrix UK Biobank Lung Exome Evaluation (UK BiLEVE) Axiom array or the Affymetrix UK Biobank Axiom array.
+0	NA	NA	NA	METHODS	Quality control and imputation using the Haplotype Reference Consortium (HRC) was conducted centrally at the UK Biobank, yielding a total of about 39 million single-nucleotide polymorphisms (SNPs).
+0	Type 2 diabetes	NA	NA	METHODS	Out of 24,680 individuals with available genetic data and possible/probable type 1 or type 2 diabetes, we proceeded with 20,644 individuals deemed unrelated with genetic data that passed quality control.
+0	NA	NA	NA	METHODS	Of these, 4,978 individuals of non-white non-British ancestry were excluded from main analyses but were eligible for secondary analyses where we defined (1) 'European, non-British white ancestry', (2) 'Asian or Asian British ancestry' and (3) 'Black or Black British ancestry' subsets based on self-reported ancestry and being within +-2 SD of the two first principal components of that population (ESM Fig.
+0	NA	NA	NA	METHODS	1).
+0	NA	NA	NA	METHODS	Hence, the main data set contained 15,666 individuals of white British ancestry.
+0	death	NA	NA	METHODS	The outcome of interest was CAD based on UK Biobank's baseline assessment verbal health interview, combined with linked data from hospital admissions and death registries (accessed 28 November 2017; last event recorded 15 January 2016; ESM Methods).
+0	diabetes	NA	NA	METHODS	We considered CAD events before and after diabetes onset.
+0	NA	NA	NA	METHODS	UK Biobank received ethics approval from the National Health Service Research Ethics Service (reference 11/NW/0382) and participants gave informed consent.
+0	NA	NA	NA	METHODS	The current analyses were conducted under approved UK Biobank data applications 11140 and 13721
+0	NA	NA	NA	METHODS	Using the Genetic Association Study Power Calculator (http://csg.sph.umich.edu/abecasis/cats/gas_power_calculator/reference.html, accessed 14 February 2018), we found that for a significance level of 5 x 10-8 we had >80% power to detect variants with an allele frequency of 25% and a per-allele OR >=1.17 and to detect variants with an allele frequency of 1% and an OR >=1.80 (ESM Fig.
+0	NA	NA	NA	METHODS	2).
+0	NA	NA	NA	METHODS	We tested 9,087,334 autosomal variants with a quality score (IMPUTE2 information metric) >0.8 and a minor allele count >=30 in cases and controls in a series of logistic regression models adjusting for age, sex, the first 20 principal components and genotyping batch (3 levels; the UK BiLEVE, UK Biobank release 1 and 2).
+0	NA	NA	NA	METHODS	The association tests were performed in PLINK v2.00 (www.cog-genomics.org/plink/2.0/)) using dosages (additive coding).
+0	NA	NA	NA	METHODS	We applied distance-based pruning followed by conditional analysis as described in the ESM Methods.
+0	NA	NA	NA	METHODS	Gene-based and gene-set pathway analyses with MAGMA v1.6 implemented in FUMA (http://fuma.ctglab.nl/, accessed 5 March 2018) were performed based on SNP association results, as described in the ESM Methods.
+0	NA	NA	NA	METHODS	Regional association plots were created with the Locuszoom tool
+0	diabetes	glutamate decarboxylase	rs10911021	METHODS	In secondary analyses, we assessed (1) associations of identified SNPs with incident CAD (comparing 2,316 individuals with CAD diagnosis after diabetes diagnosis with controls); (2) associations of identified loci in other ancestry groups; (3) 63 variants previously reported as being associated with CAD in the Coronary ARtery DIsease Genome wide Replication and Meta-analysis plus The Coronary Artery Disease Genetics (CARDIoGRAMplusC4D) consortium using a Bonferroni-corrected p value (0.05/61 available SNPs = 0.0008) in the 15,666 individuals with diabetes, as well as in 321,281 non-related individuals of British ancestry without diabetes from the UK Biobank; (4) two variants previously reported as being associated with CAD among individuals with diabetes: GLUL rs10911021 and PPARG rs1801282 (Pro12Ala); (5) associations of identified SNPs among those with probable type 1 and type 2 diabetes only and among those with probable type 2 diabetes only; and (6) associations of identified SNPs excluding individuals with angina only
+0	diabetes	NA	NA	FIG	Overview of the association results from the genome-wide association study of CAD in UK Biobank participants of white British ancestry and with diabetes mellitus (3968 CAD cases and 11,698 controls).
+0	NA	NA	NA	FIG	Each tested SNP is visualised as a dot with location on the genome shown on the x-axis and -log10-transformed p values on the y-axis.
+0	NA	NA	NA	FIG	(a) Results for all chromosomes with the consensus threshold for genome-wide significance (5 x 10-8) marked with a horizontal line.
+0	NA	NA	NA	FIG	(b, c) Regional (Locuszoom) plots of the two loci LPA (b) and 9p21 (c).
+0	NA	NA	NA	FIG	SNPs are coloured based on their correlation with the index SNP in each locus in the regional plots.
+0	NA	NA	NA	FIG	Previously reported phenotypes in genome-wide association studies are annotated.
+1	NA	CDKN2A-AS1	NA	FIG	CDKN2A-AS1 is also known as CDKN2A-DT.
+0	cardiovascular disease	LpPLA2	NA	FIG	CVD, cardiovascular disease; LDL-C, LDL-cholesterol; Lp(a), lipoprotein(a); LpPLA2, lipoprotein-associated phospholipase A2; MI, myocardial infarctio
+0	diabetes	NA	NA	RESULTS	In our analyses of 15,666 individuals with diabetes (3,968 CAD cases and 11,698 controls; ESM Table 1, ESM Table 2), we found genome-wide significant evidence for association with CAD at two loci (Fig.
+0	NA	NA	NA	RESULTS	1a-c).
+0	NA	NA	rs74617384	RESULTS	The strongest association was observed in the LPA locus at 6q25 (lead variant: rs74617384) with the T allele (frequency 8.2%) having an OR of 1.38 (95% CI 1.26, 1.51, p = 3.2 x 10-12).
+0	NA	NA	rs10811652	RESULTS	The second association was found in 9p21 (lead variant: rs10811652), with the C allele (frequency 49.4%) having an OR of 1.19 (95% CI 1.13, 1.26, p = 6.0 x 10-11).
+0	NA	NA	NA	RESULTS	No additional independent variants were identified in these loci.
+0	NA	NA	NA	RESULTS	No indication of genomic inflation was observed (ESM Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	PSRC1	NA	RESULTS	Results from gene-based analyses suggested variation in PSRC1 and CYGB-PRCD to be associated with CAD (ESM Fig.
+0	NA	NA	NA	RESULTS	4).
+0	NA	NA	rs72860151	RESULTS	The CYGB-PRCD locus has not been reported associated with CAD previously, but we noted one variant, rs72860151, showing suggestive association (p = 3.5 x 10-5) in summary statistics from CARDIoGRAMplusC4D.
+0	NA	NA	NA	RESULTS	No gene sets were significantly enriched in the pathway analysis
+0	diabetes	NA	NA	FIG	(a) Association of the two genetic variants associated with CAD among individuals with diabetes in different ancestry groups.
+0	diabetes	NA	NA	FIG	(b) Scatterplot of the estimated CAD effects for 61 previously reported CAD variants in UK Biobank participants with diabetes (n = 15,666) compared with the UK Biobank participants without diabetes (n = 321,281).
+0	NA	NA	NA	FIG	Estimates on the scatterplot are loge-transformed ORs with 95% CIs.
+0	NA	NA	NA	FIG	The slope from a weighted linear regression without intercept is 0.93 (95% CI 0.80, 1.07) and is shown as a red lin
+0	diabetes	NA	rs74617384	RESULTS	In our secondary analyses including only 2,316 CAD cases occurring after diabetes onset, the two top variants had similar effect estimates: rs74617384, OR 1.35 (95% CI 1.20, 1.50, p = 1.6 x 10-7) and rs10811652, OR 1.17 (95% CI 1.10, 1.25, p = 1.5 x 10-6).
+0	NA	NA	rs74617384	RESULTS	We found evidence of an association (OR 1.35; 95% CI 1.01, 1.79) of rs74617384 with CAD in the European, non-British population, but not in the other ethnic groups (Fig.
+0	NA	NA	NA	RESULTS	2a).
+0	diabetes	NA	NA	RESULTS	Five of 61 previously reported CAD variants were associated with CAD in the population with diabetes at a p value of <0.0008 (ESM Table 3).
+0	NA	SORT1	NA	RESULTS	In addition to variants in the LPA and 9p21 loci, variants in the SORT1 and KCNE2 loci were also associated.
+0	NA	NA	NA	RESULTS	Out of the remaining 56 variants, 13 were associated at a p value of <0.05 and 36 additional variants showed the same effect direction and similar effect sizes as in the non-diabetic population (Fig.
+0	NA	NA	NA	RESULTS	2b; p value from binomial test <10-6).
+0	diabetes	NA	NA	RESULTS	The previously reported association of two variants with CAD in individuals with diabetes could not be replicated for either variant in the present study.
+0	NA	NA	rs10911021	RESULTS	The effect estimates were OR 1.01 (0.95, 1.07) for each T allele of rs10911021; and 1.05 (0.97, 1.14) for each G allele of Pro12Ala (rs1801282), respectively.
+0	diabetes	NA	NA	RESULTS	Association results were similar using different definitions of diabetes and different definitions of CAD (ESM Table 4)
+0	diabetes	NA	NA	DISCUSS	We report the largest genome-wide association study of CAD among individuals with diabetes to date.
+0	NA	NA	NA	DISCUSS	There are three main findings.
+0	NA	NA	NA	DISCUSS	First, we report two genome-wide significant loci (LPA and 9p21) previously linked to CAD in the general population with similar effect sizes.
+0	diabetes	SORT1	NA	DISCUSS	Second, among 61 previously identified CAD variants in the general population, two:SORT1 and KCNE2:were significantly associated with CAD among individuals with diabetes.
+0	diabetes	NA	NA	DISCUSS	Moreover, in the diabetic population, 49 of the remaining 56 non-significant variants showed effect directions and sizes consistent with those observed in the non-diabetic population.
+0	NA	NA	NA	DISCUSS	Third, we could not replicate findings from previous studies on diabetes-specific CAD loci, highlighting the limitations of small study samples, lack of replication and/or candidate gene-based approaches.
+0	diabetes	NA	NA	DISCUSS	Overall, our study provides evidence that the genetic mechanisms underlying CAD in participants with diabetes are similar to those in individuals without diabetes
+0	diabetes	PSRC1	NA	DISCUSS	Our gene-based analyses provided some evidence for association of variation in or near three genes with CAD in the population with diabetes: PSRC1, CYGB and PRCD.
+0	NA	PSRC1	NA	DISCUSS	PSRC1 lays within the CELSR2-PSRC1-SORT1 locus, which has been associated with LDL-cholesterol and CAD, where there is convincing evidence for SORT1 being the causal gene.
+0	NA	CYGB	NA	DISCUSS	CYGB and PRCD are located in the same locus on chromosome 17, where we also found some orthogonal evidence of a signal in the CARDIoGRAMplusC4D data.
+0	NA	CYGB	NA	DISCUSS	The gene CYGB encodes the protein cytoglobin, which is a recently discovered globin expressed in fibroblasts and smooth muscle cells, and is reported to be an important regulator of cardiovascular tone in mice.
+0	atherosclerotic	CYGB	NA	DISCUSS	The results of these gene-based analyses need to be replicated in other data sets, but tentatively suggest CYGB as an interesting candidate gene, especially given increasing recognition of the important role of smooth muscle cells in atherosclerosis
+0	diabetes	NA	NA	DISCUSS	In this study, we did not detect genetic variants specific to CAD in the population with diabetes.
+0	NA	NA	NA	DISCUSS	In our study, power was limited for lower allele frequencies and smaller effect sizes, and so we cannot exclude the possibility that such variants will be detected in larger future studies.
+0	diabetes	NA	NA	DISCUSS	However, the general interpretation of our findings is that the genetic architecture of CAD in the population without diabetes and in those with diabetes is largely similar
+0	NA	NA	NA	DISCUSS	Limitations of this study include a limited power in other ethnicities than white British, although it is reasonable to assume that the underlying biology, but not necessarily linkage disequilibrium structure, is similar across ethnic backgrounds.
+0	NA	NA	NA	DISCUSS	Another limitation is that individuals in the control group are likely to have subclinical or clinical CAD not captured by our definition.
+0	NA	NA	NA	DISCUSS	Such misclassification likely attenuated our estimates and thereby increases the chance of false negative findings and underestimation of effects.
+0	diabetes	NA	NA	DISCUSS	Finally, our study included only participants with previously diagnosed diabetes and a mean age of 63 years, which is rather young for a diabetes cohort.
+0	diabetes	NA	NA	DISCUSS	In the future, when the biomarker data (including glucose and HbA1c) become available in the UK Biobank, it will be possible to extend the current study to those with undiagnosed diabetes
+0	diabetes	NA	NA	DISCUSS	Our results indicate large similarities between the genetic architecture of CAD in the individuals with and without diabetes.
+0	NA	NA	NA	DISCUSS	Larger studies are needed to establish whether there are diabetes-specific CAD loci with smaller effect sizes
+0	NA	NA	NA	ABBR	Coronary ARtery DIsease Genome wide Replication and Meta-analysis plus The Coronary Artery Disease Genetic
+0	NA	NA	NA	ABBR	TF is responsible for the integrity of the work as a whole.
+0	NA	NA	NA	ABBR	TF and SG performed statistical analysis.
+0	NA	NA	NA	ABBR	TF, SG, MO-M and EI provided substantial contributions to conception and design of the study and interpretation of data.
+0	NA	NA	NA	ABBR	TF drafted the article and SG, MO-M and EI critically revised it for important intellectual content.
+0	NA	NA	NA	ABBR	All authors approved the final version to be published
+0	NA	NA	NA	ACK_FUND	The study was conducted with support from the Swedish Research Council (2015-03477), Swedish Heart-Lung Foundation (20150429), Borgstroms foundation, Goran Gustafssons Stiftelse (1637), National Institutes of Health (R01DK106236) and Axel and Signe Lagerman's Foundation
+0	NA	NA	NA	SUPPL	This research has been conducted using the UK Biobank resource.
+0	NA	NA	NA	SUPPL	All bona fide researchers can apply to use the UK Biobank resource for health-related research that is in the public interest (www.ukbiobank.ac.uk/register-apply/).
+0	NA	NA	NA	SUPPL	CARDIoGRAMplusC4D data was accessed from www.cardiogramplusc4d.org/
+0	NA	NA	NA	COMP_INT	EI is a scientific advisor for Precision Wellness, and has received consulting fees from Olink Proteomics for work unrelated to the present project.
+0	NA	NA	NA	COMP_INT	The other authors have no duality of interest

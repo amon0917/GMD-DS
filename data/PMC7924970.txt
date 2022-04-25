@@ -1,0 +1,163 @@
+0	NA	NA	NA	ABSTRACT	In genome-wide association studies, signals associated with rare variants and interactions between genes are hard to detect even when the sample size is in tens of thousands.
+0	NA	NA	NA	ABSTRACT	To overcome these problems, we examine the concept of supervariant.
+0	NA	NA	NA	ABSTRACT	Like the classic concept of the gene, a supervariant is a combination of alleles in multiple loci, but the contributing loci can be anywhere in the genome.
+0	NA	NA	NA	ABSTRACT	We hypothesize that supervariants are easy to detect and the aggregated signals are more stable in their associations with the disease than that from a single nucleoid polymorphism.
+0	NA	NA	NA	ABSTRACT	Using the UK Biobank databases, we develop a ranking and aggregation method for identifying supervariants.
+0	breast cancer	NA	NA	ABSTRACT	Specifically, we examine 9,377 breast cancer cases with 46,861 controls matched by sex and age.
+0	NA	NA	NA	ABSTRACT	In our simulations, the use of supervariants outperforms single-nucleotide polymorphism-based association method in detecting rare variants and signals with interactive structure.
+0	cancers	NA	NA	ABSTRACT	In real data analysis, we identify supervariants on Chromosomes 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 16, and 22 which cover previously reported loci that have associations with breast or other cancers, and several novel loci on Chromosomes 2, 5, 9, and 12.
+0	NA	NA	NA	ABSTRACT	These findings demonstrate the validity of supervariants and its potential of discovering replicable and novel results for complex disease
+0	NA	NA	NA	INTRO	Genome-wide association studies (GWAS) have been popular in detecting association between single-nucleotide polymorphisms (SNPs) and disease, where the association is usually determined via the test of the marginal effect of an SNP.
+0	breast cancer	NA	NA	INTRO	This has led to successful findings for many complex diseases including breast cancer and type 2 diabetes.
+0	breast cancer	NA	NA	INTRO	However, the risk attributed to genetic factors is still far from satisfactory; for instance, the common genetic variation only explains 18% of the twofold familial relative risk for breast cancer.
+0	NA	NA	NA	INTRO	One of the major impediments is the focus on the additive effects of individual SNPs.
+0	NA	NA	NA	INTRO	Although there have been growing efforts in identifying gene-gene interactions for complex diseases, the success has been limited by the lack of effective approaches of identifying potential interactions
+0	NA	NA	NA	INTRO	To overcome the aforementioned bottleneck, we consider the concept of supervariant.
+0	NA	NA	NA	INTRO	On one hand, like the classic concept of the gene, a supervariant consists of a combination of alleles in multiple loci.
+0	NA	NA	NA	INTRO	On the other hand, the loci contributing to a supervariant can be anywhere in the genome while a gene refers to a physically connected region of the chromosome.
+0	NA	NA	NA	INTRO	The combination of alleles for a supervariant is expected to reflect both the individual and interactive effects of contributing alleles.
+0	NA	NA	NA	INTRO	We hypothesize that the supervariants are easy to detect and the aggregated signals are more stable in their associations with the disease than that from a single SNP
+0	NA	NA	NA	INTRO	Specifically, we introduce a ranking and aggregation approach to identifying supervariants.
+0	NA	NA	NA	INTRO	It is based on the rank but generally weak association between an individual locus and a disease of interest.
+0	discrimination ability	NA	NA	INTRO	SNPs are first divided into sets by their physical positions that may or may not be adjacent to each other, and then ranked within the sets by their importance in terms of disease discrimination ability.
+0	NA	NA	NA	INTRO	To account for integrated effects of multiple SNPs, the importance of an individual SNP is measured by the so-called depth-importance in a tree and forest based framework.
+0	NA	NA	NA	INTRO	A supervariant is formed by a certain number of top SNPs within the set.
+0	NA	NA	NA	INTRO	The number of top SNPs is selected by considering all possible numbers of top SNPs and selecting the one with the strongest association between the resulting supervariant and disease
+0	breast cancer	NA	NA	INTRO	With access to the UK Biobank databases, we apply our method to identify supervariants for breast cancer and empirically demonstrate the validity and power of using supervariants.
+0	breast cancer	NA	NA	INTRO	We consider breast cancer because it is not only a common and complex disease but also has been extensively studied in the genetic literature.
+0	NA	NA	NA	INTRO	The UK Biobank databases, including genetic data on ~500,000 individuals, have become valuable sources for genetic studies of complex diseases
+0	NA	NA	NA	METHODS	We consider the following generalization of the logistic model:  where F is a function not limited to be linear, and Yi indicates the disease status, vi includes all genotyped variants, and zi denotes all confounding covariates to be adjusted.
+0	NA	NA	NA	METHODS	We consider the tree-based method to fit the unknown function F which allows potential nonlinear relations and any possible interactions
+0	NA	NA	NA	METHODS	To facilitate the identification of supervariants, we adopt the transformation in which relies on an ordering of the estimated effect sizes of all variants.
+0	NA	NA	NA	METHODS	To be consistent with the nonparametric spirit, we use the depth importance score as a proxy to the effect size of each variant, and to provide the ordering.
+0	NA	NA	NA	METHODS	The idea of depth importance score is to measure the importance of the variable by the depth at which a variable is used as a splitting node in a tree classifier.
+0	NA	NA	NA	METHODS	The assumption behind such measure is that an important variable tends to be used in the early stage of the construction of a tree.
+0	NA	NA	NA	METHODS	To provide a more stable measure, we also consider the ensemble approach to estimating the importance.
+0	NA	NA	NA	METHODS	Specifically, for a given set g of SNPs, we construct forest f consisting of a total number of  f  trees.
+0	NA	NA	NA	METHODS	Each tree in the forest is built without pruning based on a randomly selected subset of variants in g. Then, the depth importance score of variant vjg, the jth variant in set g, in tree T is defined as  where Lt is the depth of node t and Gt is the chi2 independence test statistics of node t. Then, the overall depth importance score is given by  over all  f  trees in the forest f. Once we obtain the ordering of variants within the set g, let djg be the index of the variant with the jth largest depth importance score.
+0	NA	NA	NA	METHODS	Define  where Jg is the total number of variants considered in set g, 1 <=i <=n and n is the total number of subjects.
+0	NA	NA	NA	METHODS	In other words, for each subject, the transformation returns the rank of first variant with minor allele within the depth-importance-ordered variants list of set g. This transformation considers the dominant mode of transmission.
+0	NA	NA	NA	METHODS	Similarly, we can define a transformation based on the recessive mode of transmission.
+0	NA	NA	NA	METHODS	Define  where Jg is the total number of variants considered in set g, 1 <=i <=n and n is the total number of subjects.
+0	NA	NA	NA	METHODS	In this way, the transformation returns the rank of the first variant with two copies of minor allele within the ordered list of set g
+0	NA	NA	NA	METHODS	Finally, to obtain a supervariant, we inspect all possible thresholds for variable Xg with observations x1g,...,xng.
+0	NA	NA	NA	METHODS	For each threshold, the variable is turned into binary; that is, for a threshold c, Sg = I(Xg < c), where I is the indicator function, and c {x1g,...,xng}.
+0	NA	NA	NA	METHODS	A univariate logistic regression is carried out to investigate its effect, and the final threshold is the one that gives the smallest p value among all possible thresholds.
+0	NA	NA	NA	METHODS	This leads to the supervariant constructed with top variants in the depth-importance-ordered variants list and the total number of variants used to form the supervariant is the same as the final threshold.
+0	NA	NA	NA	METHODS	Here, the threshold is selected to enhance the association between the disease and the supervariant to be formed.
+0	NA	NA	NA	METHODS	After supervariants are identified, univariate, and/or multivariable regression can be performed in both discovery and verification datasets.
+0	NA	NA	NA	METHODS	Hence, the tree and forest methods are used to select putative supervariants for further evaluation, and not to determine nor to fit the final model of analysis
+0	NA	NA	NA	METHODS	We apply our proposed method at 41,502,298 genetic variants of UK Biobank imputed SNP datasets after genotyping quality controls.
+0	NA	NA	NA	METHODS	Specifically, we consider the biallelic variants coded based on the number of copies of the minor allele.
+0	NA	NA	NA	METHODS	We remove variants with low call rate (missing probability >= 0.1) and disrupted Hardy-Weinberg equilibrium (p < 1 x 10-7).
+0	NA	set1	NA	METHODS	We divide the whole SNP dataset into 2,734 nonoverlapping local sets by the physical position so that each set consists of SNPs within a segment of physical length 1 Mb; for instance, SNPs on Chromosome 1 with base-pair position value falling in 1 to 999,999 are in SNP set 1, and those with base-pair position value between 1,000,000 to 1,999,999 are in SNP set 2.
+0	NA	NA	NA	METHODS	This is similar to commonly used sliding window, except no overlapping so that the same SNP will not appear in multiple supervariants.
+0	NA	NA	NA	METHODS	Our method still works without this constraint but we find it reasonable not to allow the same SNP to appear repeatedly.
+0	NA	NA	NA	METHODS	Otherwise, there would be many more possible supervariants with many of them overlapping each other and highly correlated.
+0	NA	NA	NA	METHODS	Information of linkage disequilibrium (LD) is not used in the identification of the supervariants
+0	NA	NA	NA	METHODS	To reduce the confound of population structure, we only keep individuals considered to have recent British ancestry using the quality control information provided by UK Biobank.
+0	breast cancer	NA	NA	METHODS	We select individuals with self-reported breast cancer as cases and those without any self-reported cancer diseases as control candidates.
+0	breast cancer	NA	NA	METHODS	We use the difference between the reported date of breast cancer and the date of birth as the age of cases.
+0	cancers	NA	NA	METHODS	We use the difference between the date of the last survey on cancer and the date of birth as the age of controls.
+0	NA	NA	NA	METHODS	Individuals without age information are excluded.
+0	NA	NA	NA	METHODS	We also exclude individuals whose genetic and self-reported genders are inconsistent.
+0	NA	NA	NA	METHODS	The construction and selection of supervariants do not involve further covariates for simplicity
+0	NA	NA	NA	METHODS	We randomly select 60% of the cases and create a nominally unrelated subset (without relatives closer than third cousins) following existing procedures.
+0	NA	NA	NA	METHODS	This gives the cases of the discovery set.
+0	NA	NA	NA	METHODS	We match each case subject with five control subjects with same age and gender to complete the discovery set.
+0	NA	NA	NA	METHODS	In addition, we avoid picking controls who are relatives of any selected individuals.
+0	NA	NA	NA	METHODS	We use the remaining 40% cases and the same 1:5 matching rule for controls to generate the validation set.
+0	NA	NA	NA	METHODS	In the end, after sample quality control, we obtain a discovery set with 5,653 cases and 28,241 controls, and a validation set with 3,724 cases and 18,620 controls.
+0	NA	NA	NA	METHODS	There are 150 and 95 male cases included in discovery and validation set, respectively, and in total 1,470 male samples in combined datasets
+0	breast cancer	NA	NA	METHODS	In the simulation, we use the SNP data on Chromosome 17 from UK Biobank breast cancer dataset because there is no significant signal identified on this chromosome from this dataset.
+0	NA	NA	NA	METHODS	We randomly sample 10,000 subjects from the controls of discovery dataset.
+0	NA	NA	NA	METHODS	We then randomly sample 30 SNP sets and 500 random SNPs (with minor allele frequency (MAF) > 0.01) from each set to form the whole synthetic genetic dataset.
+0	NA	NA	NA	METHODS	The physical order of selected 15,000 (=500 x 30) SNPs is kept.
+0	NA	NA	NA	METHODS	The disease status is generated according to the following model: Yi ~ Bernoulli(pi), and  where xiBj_k is the kth SNP in SNP set j for subject i, 1 <= i <= 10, 000, 1 <= j <= 30, and 1 <= k <= 500.
+0	NA	NA	NA	METHODS	Therefore, have 12 true signals in total from six different SNP sets with three different structures, individual signal, interactive signal with group sizes 2 and 3, respectively.
+0	NA	NA	NA	METHODS	After the disease status generation, the whole dataset is divided into two sets, one for discovery and one for validation to mimic the procedure we adopt in the real data application.
+0	NA	NA	NA	METHODS	Each set consists of 5,000 samples and the case-control ratio is kept close.
+0	NA	NA	NA	METHODS	We apply the traditional single SNP-based association method and the proposed method with transformation based on the dominant mode of transmission to detect associations.
+0	NA	NA	NA	METHODS	The whole process is repeated 100 times
+0	NA	NA	NA	METHODS	To calculate the depth importance score of SNPs in each SNP set in the discovery dataset, we construct a forest with 3,000 trees, given the average size of one SNP set is about 15,000 SNPs, and each tree is constructed with randomly selected one sixtieth of total SNPs in the given set with RTEE.
+0	NA	NA	NA	METHODS	Transformations based on both dominant and recessive modes of transmission are considered.
+0	NA	NA	NA	METHODS	We use 3.66 x 10-5 (i.e., 0.1/2,734) as the threshold for supervariant-level association as we consider 2,734 SNP sets.
+0	NA	NA	NA	METHODS	We use 0.1/2,734 instead of 0.05/2,734 to limit false-positive errors while being more inclusive of potentially important SNPs.
+0	NA	NA	NA	METHODS	The association between any of the discovered supervariants is assessed by a univariate logistic regression with age and gender properly controlled
+0	NA	NA	NA	METHODS	To demonstrate the potential of supervariant, we also conduct the traditional single SNP-based association analysis as a benchmark for comparison.
+0	NA	NA	NA	METHODS	We consider the same discovery, verification, and combined sets for fair comparison.
+0	NA	NA	NA	METHODS	Age and gender are included as control variables
+0	NA	NA	NA	RESULTS	We first provide a summary of the simulation setup.
+0	breast cancer	NA	NA	RESULTS	The average case-control ratio of 100 repetitions is about 0.225 (close to 1-to-5 ratio which is used in breast cancer data analysis).
+0	NA	NA	NA	RESULTS	On average, 3.44 out of 12 signal SNPs have its MAF less than 0.05 in the simulation repetitions
+0	NA	NA	NA	RESULTS	For the use of the traditional single SNP-based association method, an SNP is considered to be significant on discovery set if its p value is less than 3.33 x 10-6 (i.e., 0.05/15,000), and a supervariant is significant if its p value on discovery set is less than .0017 (i.e., 0.05/30 as there are in total 30 supervariants, one for each set)
+0	NA	NA	NA	RESULTS	We first consider the number of SNP sets that each method selects.
+0	NA	NA	NA	RESULTS	In total, there are six sets with true signals and 24 sets without signal.
+0	NA	NA	NA	RESULTS	On average, on the discovery dataset, the traditional single SNP-based association method covers 5.40 (out of six) sets with true signals, while the proposed method identified 5.94 supervariants from six sets with true signals.
+0	NA	NA	NA	RESULTS	At the same time, on the discovery set, there are on average 9.78 identified supervariants coming from 24 sets without signal, and only 0.07 such sets are selected by the traditional single SNP-based association method.
+0	NA	NA	NA	RESULTS	However, if we also require p value of a supervariant to be less than .01 on the validation set, then on average the number of verified supervariants coming from sets without signal is less than 1, and there are still 5.82 supervariants covering six sets with true signals
+0	NA	NA	NA	RESULTS	Because some SNPs are in LD with others, for both methods, if any SNP in the neighborhood of the true signal SNP is selected, we consider this signal SNP as being identified.
+0	NA	NA	NA	RESULTS	In the simulation, we take 60 nearby SNPs, 30 SNPs on the left and 30 on the right, as the neighborhood.
+0	NA	NA	NA	RESULTS	The frequency of true signal identification for two methods is shown in Table 1.
+0	NA	NA	NA	RESULTS	Supervariant clearly outperforms the traditional single SNP-based association method
+0	NA	NA	NA	RESULTS	The concept of supervariant is proposed to enhance the association study of rare variants and interactions.
+0	NA	NA	NA	RESULTS	The power of identifying rare variants and their interactions is given in Tables 2 and 3, respectively.
+0	NA	CASP	NA	RESULTS	Here, we consider an interaction being identified if all true signal SNPs within the same set, such as the two B3_1 and B3_301 on SNP set 3, are identified at the same time.
+0	NA	NA	NA	RESULTS	From Table 2, the proposed method is much more powerful than the traditional single SNP-based association method, even when a rare variant is inside a group signal.
+0	NA	NA	NA	RESULTS	Similarly, in terms of interaction, Table 3 shows that the proposed method outperforms the traditional single SNP-based association method by a large margin
+0	NA	NA	NA	RESULTS	The Manhattan plot based on the discovery dataset is shown in Figure 1, and details of verified top SNPs in each LD block are given in Table 4.
+0	NA	NA	NA	RESULTS	Here, an SNP is verified if its p value is less than 5 x 10-8 on discovery set and is less than .01 on validation set.
+0	NA	NA	NA	RESULTS	Regional plots of verified regions with multiple SNPs are shown in Figure 2, and the plots are based on the combined dataset
+0	NA	NA	NA	RESULTS	We find 510 supervariants with p values below 3.66 x 10-5 (96 from recessive model and 414 from dominant model), and 24 of them has p value less than .01 in the validation dataset (7 from recessive model and 17 from dominant model).
+0	NA	NA	NA	RESULTS	We also assess the association of these 24 supervariants in the combined dataset (discovery plus validation datasets), and all of them have p values in the range of 10-7 (see Table 5).
+0	NA	NA	NA	RESULTS	The specific formation of the 24 verified supervariants are given in Table 6 where the odds ratio and corresponding p values are calculated on the combined dataset.
+0	NA	NA	NA	RESULTS	The LD heat maps of the SNPs in the verified supervariants involving multiple SNPs are displayed in Figure 3
+0	NA	NA	NA	RESULTS	We find that our verified supervariants cover SNP signals in all LD blocks identified by the traditional single SNP-based association method.
+0	NA	NA	NA	RESULTS	Moreover, we identify 13 additional supervariants that are verified.
+0	breast cancer	NA	NA	RESULTS	In addition, we find that there exist specific studies that provide support for associations between some SNPs in the supervariants we identified and the breast cancer or cancer in general (see Table 7).
+0	NA	NA	NA	RESULTS	The confirmation of the known genes demonstrates the validity of the supervariants and its capability of unifying existing results.
+0	breast cancer	LOC107985979	rs11836367	RESULTS	Moreover, we find several novel loci in gene LOC107985979 on Chromosome 2, LOC105374655, LOC105377739, LINC01411, and LINC01485 on Chromosome 5, and LOC107987084 on Chromosome 9, and a novel SNP rs11836367 on Chromosome 12 and have not yet been previously associated to breast cancer
+0	NA	NA	NA	DISCUSS	In this study, we introduce the concept of supervariant, similar to but different from the classic concept of the gene, to group any number of loci together as the basis of genetic risk factor.
+0	NA	NA	NA	DISCUSS	Supervariant is designed to enhance the risk detection, and its associations with the disease are expected to be more stable than that of single SNP as there are usually (but not necessarily) a collection of SNPs involved in a supervariant.
+0	NA	NA	NA	DISCUSS	We propose a ranking and aggregation method to facilitate the search of disease-associated supervariants.
+0	NA	NA	NA	DISCUSS	We demonstrate in simulations that supervariant can be more powerful than the traditional single SNP-based association method in detecting rare variants and signals with interactive structure.
+0	breast cancer	NA	NA	DISCUSS	We apply our method to a UK Biobank breast cancer dataset, and are able to replicate several previously reported breast cancer-associated genes documented in the literature as well as to identify several novel genes for further investigation
+0	NA	NA	NA	DISCUSS	Our results show that supervariants usually manifest stronger association signals than individual SNPs.
+0	NA	NA	NA	DISCUSS	As can be seen from Tables 5 and 6, SNPs on Chromosome 7 have p values at most at the level of 10-5 individually on the combined dataset while the supervariant Chr7_156 has a p value of level 10-7.
+0	NA	NA	NA	DISCUSS	The same is true for Chr2_218, Chr5_13, Chr5_56, and Chr5_174 where the supervariants have p values smaller than that of any contributing SNPs.
+0	NA	NA	NA	DISCUSS	This means that if a given significance level is used to detect association, a supervariant is more likely to be retained than the contributing SNPs.
+0	NA	NA	NA	DISCUSS	Of note, the number of candidate supervariants is much smaller than the number of SNPs, and therefore, in terms of the control of false-discovery, the use of supervariants is advantageous over the use of SNPs
+0	NA	NA	NA	DISCUSS	Furthermore, we demonstrate that supervariants are able to group SNPs in multiple genetic regions together.
+0	NA	C6orf97	NA	DISCUSS	For instance, on Chromosome 6, SNPs located in CCDC170 and those that may participate in the regulation of ESR1 are grouped together.
+1	NA	INSIG1	NA	DISCUSS	The same is true for Chr7_156 where SNPs in INSIG1, CNPY1, and BLACE are components of the same supervariant, and it also happens for Chr16_53 where SNPs in TOX3 and CASC16 are components of the same supervariant.
+0	NA	NA	NA	DISCUSS	Thus, not only can several risk loci be detected at the same time, but it may also indicate the existence of interactive effects between those SNPs.
+0	NA	NA	NA	DISCUSS	Such interactions may have implications to the underlying mechanisms involving multiple genes.
+0	cancers	INSIG1	NA	DISCUSS	It is also interesting to observe that supervariant captures the association between breast cancer and gene INSIG1 and CNPY1 on Chromosome 7, which is previously discovered via gene expression analysis
+0	NA	LOC107985979	rs11836367	DISCUSS	All supervariants identified by our method pass the tests with Bonferroni correction on a combined dataset including several novel SNPs in gene LOC107985979 on Chromosome 2, in gene LOC105374655, LOC105377739, LINC01411, and LINC01485 on Chromosome 5, and gene LOC107987084 on Chromosome 9, and a novel SNP rs11836367 on Chromosome 12.
+0	NA	NA	NA	DISCUSS	Although there is limited knowledge on these SNPs and genes, it points to a direction for further investigation
+0	NA	NA	NA	DISCUSS	Certainly, there are genes in the literature that we are not able to identify with the proposed method by using this particular dataset.
+0	breast cancer	NA	NA	DISCUSS	In a recent large breast cancer GWAS analysis, 122,977 number of cases and 105,974 number of controls were used.
+0	breast cancer	NA	NA	DISCUSS	It would be useful to apply the proposed method to this large sample of breast cancer dataset
+0	NA	NA	NA	DISCUSS	SNPs in a supervariant may be in high LD if the initial SNP sets are selected by their physical distance.
+0	NA	NA	NA	DISCUSS	However, whether SNPs are in high LD or not, their associations are not assessed individually, even though they are ranked by their individual effects
+0	NA	NA	NA	DISCUSS	It is worth noting that there is a critical difference between supervariant and haplotype.
+0	NA	NA	NA	DISCUSS	For haplotype analysis, we need to first infer the haplotypes through possible origins of the transmitted alleles.
+0	NA	NA	NA	DISCUSS	Supervariants are simply a combination of genotypes in multiple loci and do not depend on the origins of the transmission
+0	NA	NA	NA	DISCUSS	While highly promising, the use and identification of supervariants warrant further investigation.
+0	NA	NA	NA	DISCUSS	One aspect could be considered is how to best segment genotypes on all chromosomes to form SNP sets.
+0	NA	NA	NA	DISCUSS	In this study, we set the initial SNP sets to be physically close for convenience.
+0	NA	NA	NA	DISCUSS	However, LD, gene or pathway information may be considered to form more informative SNP sets for identification.
+0	NA	NA	NA	DISCUSS	Another aspect to consider is how to best rank the SNPs within the sets.
+0	NA	NA	NA	DISCUSS	In general, ranking variables is a challenging task in its own right
+0	NA	NA	NA	DISCUSS	The concept of supervariant and the ranking and aggregation method are proposed to identify sets of SNPs or mutations that can be used in the future for causal inference beyond association analysis or prediction.
+0	NA	NA	NA	DISCUSS	The ideas in the related literature such as polygenic risk scores, which involves two datasets but is largely prediction oriented, may be useful to improve our method.
+0	NA	NA	NA	DISCUSS	This is another possible direction for future work
+0	NA	NA	NA	FIG	Manhattan plot of single SNP-based association analysis on discovery dataset.
+0	NA	NA	NA	FIG	SNP, single-nucleotide polymorphis
+0	NA	NA	NA	FIG	Regional plots of verified GWAS regions with multiple SNPs.
+0	NA	NA	NA	FIG	GWAS, genome-wide association studies; SNPs, single-nucleotide polymorphis
+0	NA	NA	NA	FIG	The linkage disequilibrium heat map of SNPs in the verified supervariants.
+0	NA	NA	NA	FIG	The top row from left to right are for SNPs selected on Chromosomes 2, 3, 5, 6, and 7, respectively.
+0	NA	NA	NA	FIG	The bottom row from left to right are for SNPs selected on Chromosomes 8, 9, 10, 11, and 16, respectively.
+0	NA	NA	NA	FIG	SNP, single-nucleotide polymorphis
+0	NA	NA	NA	TABLE	Marginal effects of 24 verified supervariants on discovery, validation, and combined dataset

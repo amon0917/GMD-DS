@@ -1,0 +1,167 @@
+1	Alzheimer's disease	apolipoprotein E	NA	ABSTRACT	The risk of APOE for Alzheimer's Disease (AD) is modified by age.
+1	NA	apolipoprotein E	NA	ABSTRACT	Beyond APOE, the polygenic architecture may also be heterogeneous across age.
+0	Alzheimer's disease	NA	NA	ABSTRACT	We aim to investigate age-related genetic heterogeneity of AD and identify genomic loci with differential effects across age.
+0	Alzheimer's disease	NA	NA	ABSTRACT	Stratified gene-based genome-wide association studies (GWAS) and polygenic variation analyses were performed in the younger (60-79 years, N = 14,895) and older (>= 80 years, N = 6,559) age-at-onset groups using Alzheimer's Disease Genetics Consortium data.
+0	NA	age	NA	ABSTRACT	We showed a moderate genetic correlation (rg = 0.64) between the two age groups, supporting genetic heterogeneity.
+1	NA	apolipoprotein E	NA	ABSTRACT	Heritability explained by variants on chromosome 19 (harboring APOE) was significantly larger in younger than in older onset group (P < 0.05).
+1	NA	apolipoprotein E	NA	ABSTRACT	APOE region, BIN1, OR2S2, MS4A4E and PICALM were identified at the gene-based genome-wide significance (P < 2.73x10-6) with larger effects at younger age (except MS4A4E).
+0	NA	OR2S2	NA	ABSTRACT	For the novel gene OR2S2, we further performed leave-one-out analyses, which showed consistent effects across subsamples.
+0	NA	NA	NA	ABSTRACT	Our results suggest using genetically more homogeneous individuals may help detect additional susceptible loci
+0	Alzheimer's disease	NA	NA	INTRO	Alzheimer's disease (AD) is a progressive neurodegenerative disorder.
+0	dementia	NA	NA	INTRO	It is the most common form of dementia and is characterized by progressive memory loss and cognitive impairment.
+0	dementia	NA	NA	INTRO	The population with dementia worldwide, estimated to be 46.8 million in 2015, is expected to double every 20 years.
+0	Alzheimer's disease	NA	NA	INTRO	AD is becoming one of the leading causes of death in the United States.
+0	death	NA	NA	INTRO	In 2013 it was the sixth-leading cause of death and deaths attributed to AD increased 71%, while other major causes decreased between 2000 and 2013
+0	Alzheimer's disease	age	NA	INTRO	Age is the most important risk factor of AD.
+0	Alzheimer's disease	NA	NA	INTRO	Although this may result from a considerable accumulation of environmental exposures, genetic components also play a substantial role in AD, with heritability estimates of approximately 60% based on the twin study design and 24-53% based on GWAS.
+1	Alzheimer's disease	apolipoprotein E	NA	INTRO	For late onset sporadic AD, APOE is the most hazardous susceptibility gene with moderate risk allele (epsilon4 allele) frequency (~15% in the US).
+0	Alzheimer's disease	NA	NA	INTRO	People with one or two copies of the epsilon4 allele were found to have, respectively, 3 or 12 times higher risk and earlier ages of AD onset compared to non-carriers of the epsilon4 allele.
+0	Alzheimer's disease	age	NA	INTRO	The lifetime risk of AD by age 85 was estimated to be 18-35% for one-copy-epsilon4 carriers and 51-68% for two-copy-epsilon4 carriers, relative to the estimated 4-12% risk for non-epsilon4 carriers in the European ancestry population.
+1	NA	apolipoprotein E	NA	INTRO	However, APOE alone only accounts for 6% of the phenotypic variations.
+1	Alzheimer's disease	apolipoprotein E	NA	INTRO	Several international collaborative consortia have conducted genome-wide association studies (GWAS) and identified at least 20 susceptibility loci with common allele frequencies but smaller effects (odds ratio < 2) on AD than APOE epsilon4.
+0	Alzheimer's disease	NA	NA	INTRO	These genetic loci associated with AD reaching GWAS significance accounted for only 2% of the phenotypic variations.
+0	NA	NA	NA	INTRO	In addition, these susceptibility genes are largely involved in cholesterol and lipid metabolism, immune response and endosomal vesicle cycling pathways.
+0	Alzheimer's disease	tau	NA	INTRO	Some are also associated with putative related etiology of AD including clearance of amyloid beta and tau toxicity.
+1	Alzheimer's disease	apolipoprotein E	NA	INTRO	Beyond APOE and known susceptibility loci of AD, 25% of the phenotypic variations remains to be attributable to genetic variations, suggesting that many risk loci are still to be discovered
+0	Alzheimer's disease	NA	NA	INTRO	One potential reason for the relatively few identified risk genes is that the population of AD is genetically heterogeneous.
+1	Alzheimer's disease	apolipoprotein E	NA	INTRO	APOE effects on AD have been shown to be heterogeneous across age in both retrospective and prospective studies, and in particular, the epsilon4 allele was associated with greater increase in risk among those aged 60-75 years than in older adults.
+1	Alzheimer's disease	age	NA	INTRO	The association between age at onset of AD cases and APOE has been observed in genome-wide linkage studies and recently, confirmed by two GWAS which reported that one additional copy of the epsilon4 allele decreased age at onset in patients by 2.45 years.
+1	Alzheimer's disease	apolipoprotein E	NA	INTRO	In addition, genome-wide studies also found that multiple chromosomal regions and loci other than APOE were involved in age at onset, suggesting that the effect of these loci on AD may interact with age in a similar way as APOE.
+0	NA	age	NA	INTRO	Such genetic heterogeneity across age has not been investigated in genome-wide studies
+0	Alzheimer's disease	NA	NA	INTRO	Here, we investigated the genetic heterogeneity of AD by performing stratified analyses for two age-at-onset groups (60-79 years and >= 80 years, details in Materials and Methods) in terms of single nucleotide polymorphism (SNP) heritability estimates and their genetic correlation using a Genome-wide Complex Trait Analysis (GCTA) tool based on a multi-cohort sample from Alzheimer's Disease Genetics Consortium (ADGC).
+0	Alzheimer's disease	age	NA	INTRO	We hypothesized that stratified analyses would reveal genetic heterogeneity between younger and older age at onset of AD, and enable identification of loci with differential effects on the two age groups
+0	NA	age	NA	METHODS	Briefly, phase 1 of ADGC enrolled 15 cohorts from 1989 to 2011 based on case-control data, including 18,844 individuals with European ancestry aged >= 60 years and known covariates such as age, sex, and top 10 principal components for correcting population stratification.
+0	Alzheimer's disease	age	NA	METHODS	Phase 2 enrolled 15 cohorts, including 5,342 European ancestry individuals with covariates as phase 1 above, in which all participants were aged >= 60 years (except one AD case with age at onset of 58 years).
+0	NA	NA	NA	METHODS	The details of each cohort in phase 1 and phase 2 have been described elsewhere.
+0	NA	NA	NA	METHODS	The sample quality control included genotyping call rate, X-chromosome analysis for sex, identity by descent for relatedness and sample duplication.
+0	NA	NA	NA	METHODS	Genotyped SNPs were excluded due to low minor allele frequencies (< 0.02 for Affymetrix chips or < 0.01 for Illumina chips) or violation of Hardy-Weinberg equilibrium (P value < 10-6).
+0	NA	NA	NA	METHODS	Genome-wide SNP imputation was performed in each cohort using 1000 Genomes reference panel and imputed SNPs were removed if imputation quality (R2) < 0.5
+0	Alzheimer's disease	age	NA	METHODS	In our study, age of participants was defined as age at onset for AD cases and age at last visit for unaffected individuals.
+0	NA	NA	NA	METHODS	We stratified participants into two age-at-onset groups in the stratification analyses of heritability and GWAS; 60-79 years (including one case with age 58 years) and >= 80 years.
+0	NA	age	NA	METHODS	We chose an age cutoff of >= 80 years based on prior findings that epsilon4 effects are reduced in this age group relative to younger ages.
+0	NA	age	NA	METHODS	Additionally, our preliminary analyses revealed a smaller genetic correlation (rg), indicating greater genetic heterogeneity, between the older and younger groups based on the age >= 80 (rg = 0.64) cut-off than when age >= 75 years (rg = 0.75) was selected as the cut-off
+0	Alzheimer's disease	NA	NA	METHODS	The heritability of AD was estimated by calculating the proportion of phenotypic variance explained by SNPs from the whole genome, which is implemented by Genome-wide Complex Trait Analysis (GCTA).
+0	seizures	NA	NA	METHODS	GCTA fits effects of all SNPs simultaneously as random effects and effects of other covariates as fixed effects in a mixed linear model.
+0	NA	NA	NA	METHODS	In the regression model, the variance explained by SNPs can be estimated by the restricted maximum likelihood (REML) approach using the genetic relationship matrix (GRM), which reflects the genetic correlations across all SNPs between individuals.
+0	NA	NA	NA	METHODS	In our analysis, SNPs with minor allele frequencies > 0.01 were retained to estimate genetic relationship matrix (GRM) and we excluded related individuals using an individual-pairwise GRM threshold of < 0.025.
+0	NA	age	NA	METHODS	The overall and stratified heritability estimates in the two age groups (60-79 years and >= 80 years) were calculated based on GRMs (random effects) in the mixed-model regression analyses with covariates (fixed effects) such as age, sex, cohort indicators, and 10 principal components.
+0	NA	NA	NA	METHODS	The heritability estimates were also partitioned into chromosome 19 and other chromosomes by using two GRMs, one generated from chromosome 19 and the other generated from the other 21 autosomal chromosomes, in the mixed model.
+0	NA	age	NA	METHODS	After removing individuals with GRM > 0.025, we combined ADGC phase 1 and 2 samples, including 12,698 and 5,198 individuals in age groups of 60-79 years and >= 80 years, respectively, for estimations of heritability and genetic correlation.
+0	NA	age	NA	METHODS	The genetic correlation between the two age groups was estimated using the bivariate REML method, and we determined whether the resulting correlation significantly differed from 1, which implies genetic heterogeneity between the two groups.
+0	Alzheimer's disease	NA	NA	METHODS	In the case-control study design, the prevalence of AD in the population should be used to correct ascertainment due to oversampled cases in the case-control ADGC sample.
+0	Alzheimer's disease	NA	NA	METHODS	In our study, we assigned the prevalence of AD for the population aged >= 60 years at 0.0613, aged 60-79 years at 0.0259, and aged >= 80 years at 0.2217.
+0	Alzheimer's disease	NA	NA	METHODS	"Detailed information of the prevalence of AD source and calculation is shown in the section of ""Prevalence of AD."
+0	NA	NA	NA	METHODS	In whole-genome heritability estimation, heritability can be partitioned by chromosome.
+0	NA	age	NA	METHODS	We estimated heritability for chromosome 19 and the other 21 chromosomes simultaneously in a mixed linear model including two GRMs and covariates (such as age, sex, cohort indicators, and 10 principal components).
+1	NA	apolipoprotein E	NA	METHODS	To estimate heritability of the APOE epsilon4 alleles, in the mixed linear model, we only included one GRM generated from the other 21 autosomal chromosomes and covariates and then calculated the best linear unbiased prediction (BLUP), which is the total genetic effect, and residual effect, which is the difference between BLUP and the phenotypic value for each individual.
+1	NA	apolipoprotein E	NA	METHODS	We regressed residuals generated from BLUP estimation on the number of APOE epsilon4 alleles and obtained R2, which is the proportion of the variance of residuals that can be explained by APOE epsilon4 alleles.
+0	NA	age	NA	METHODS	Therefore, the heritability of APOE epsilon4 alleles was denoted as R2 in combined ADGC phase 1 and 2 samples (N = 17,046) and across the two age groups (60-79 years, N = 12,064, and >= 80 years, N = 4,982).
+0	NA	NA	NA	METHODS	We also estimated effects of epsilon4 alleles in terms of odds ratios using logistic regression in the younger and older groups.
+0	Alzheimer's disease	NA	NA	METHODS	We simultaneously calculated effects of one epsilon4 allele and two epsilon4 alleles for AD in the same model.
+0	NA	NA	NA	METHODS	The sample sizes were slightly smaller than those for whole-genome estimation due to missing APOE epsilon4 status for some individuals
+0	Alzheimer's disease	NA	NA	METHODS	As AD accounts for the majority of dementia cases, we used age-specific dementia prevalence (Supplementary Table 1) in the United State from a systemic meta-analysis, which included 5-year prevalence for those over 60 years of age, to estimate the prevalence of AD.
+0	NA	age	NA	METHODS	We recalculated average prevalences for those aged 60-79 years and >= 80 years (Supplementary Table 1) weighted by annual estimates of the resident population by single year of age of the United States in 2015 from United States Census Bureau (Supplementary Table 1, https://www2.census.gov/programs-surveys/popest/datasets/2010-2015/national/asrh/nc-est2015-agesex-res.csv)
+0	NA	NA	NA	METHODS	Genome-wide association analyses for 38,043,082 SNPs were performed in the two age-at-onset groups using logistic regressions implemented in PLINK 1.9.
+0	NA	age	NA	METHODS	Age, sex, cohort indicators and the top 10 principal components for population structure correction were included as covariates.
+0	NA	NA	NA	METHODS	Individual-pairwise GRM > 0.1 were excluded from analyses to ensure sample independence.
+0	NA	age	NA	METHODS	In the age 60-79 years group, 11,358 individuals (5,703 cases and 5,655 controls) in phase 1 and 3,537 individuals (1,613 cases and 1,924 controls) in phase 2 were included; in the age >= 80 years group, 4,801 individuals (1,942 cases and 2,859 controls) in phase 1 and 1,758 individuals (457 cases and 1,301 controls) in phase 2 were included (see details in Supplementary Table 2).
+0	NA	age	NA	METHODS	We combined phase 1 and 2 samples for association analyses in the two age groups (N = 14,895 and 6,559 for the age 60-79 and >= 80 years groups), respectively, and obtained significant SNPs at the genome-wide significance level of P value = 5x10-8.
+0	NA	NA	NA	METHODS	Linkage disequilibrium (LD)-independent SNPs were identified within the significant loci after removing correlated SNPs at LD r2 > 0.1 that are within 250 kb of the top SNP base on empirical LD from European reference panel of 1000 Genomes Project phase 3 (released in May 2013) using PLINK 1.9.
+0	NA	NA	NA	METHODS	These remaining SNPs were LD-independent and the most significant in the LD block
+0	NA	NA	NA	METHODS	To reduce the number of tests that were conducted in SNP-based GWAS and aggregate the weak effect of each SNP within a gene, we then performed gene-based analyses using MAGMA implemented in FUMA.
+0	NA	age	NA	METHODS	We used stratified whole GWAS results in the two age groups.
+0	NA	NA	NA	METHODS	The gene-based P value was calculated based on the mean of the summary statistic (chi2 statistic) of GWAS for the SNPs in a gene.
+0	NA	NA	NA	METHODS	SNPs with minor allele frequencies >= 0.01 in the European reference panel of 1000 Genomes Project were included.
+0	NA	NA	NA	METHODS	The distance between two LD blocks < 250 kb were merged into a locus.
+0	NA	NA	NA	METHODS	In our analyses, SNPs within the genes were mapped to 18,334 loci (genes).
+0	NA	NA	NA	METHODS	The P value significance threshold was corrected by Bonferroni method, which is 2.73x10-6, i.e., 0.05 divided by the number of genes (18,334) and, in addition, the suggestive threshold was set to be 10-5.
+0	NA	age	NA	METHODS	The stratified gene-based analyses in the age 60-79 and >= 80 years using summary statistics generated by stratified GWAS were performed to obtain significant genes for the two age groups, respectively.
+0	NA	age	NA	METHODS	In addition, we showed the most significant SNP within each gene for the two age groups and performed Cochran's Q-test implemented in METAL for heterogeneity of the SNP effects between the younger and older groups
+0	Alzheimer's disease	NA	NA	RESULTS	The heritability estimate of AD in combined phase 1 and 2 samples (N = 17,896) was 18.8% (95% CI 15.0% to 22.6%) for the full sample using GCTA.
+0	NA	age	NA	RESULTS	The heritability estimates in the two age groups and chromosomal partitioned estimates are shown in Fig.
+0	NA	NA	NA	RESULTS	1.
+0	Alzheimer's disease	age	NA	RESULTS	The contributions of chromosome 19 were considerably different between the two age groups, with chromosome 19 having a larger impact on the younger population of AD.
+0	NA	age	NA	RESULTS	The genetic correlation (rg) between the two age groups was 0.64 (95% CI 0.30-0.97, P value for H0: rg = 1 was 0.043), suggesting divergent genetic components in the two age groups
+0	NA	age	NA	RESULTS	The heritability of APOE epsilon4 was estimated to be 9.56% in the combined phase 1 and 2 samples (N = 17,046) and, 12.49% and 4.30% in the younger (N = 12,064) and older (N = 4,982) age groups, respectively.
+1	Alzheimer's disease	apolipoprotein E	NA	RESULTS	In terms of APOE effects (odds ratio) on AD, one APOE epsilon4 allele was estimated to increase risk of AD by 4.59 (95% CI 4.17 to 5.04) fold and two alleles 14.98 (95% CI 12.22 to 18.52) fold in the younger group.
+0	NA	NA	NA	RESULTS	Corresponding values in the older group were 2.83 (95% CI 2.46 to 3.27) and 3.62 (95% CI 2.16 to 6.20) fold.
+0	Alzheimer's disease	age	NA	RESULTS	The results suggest differential contribution of APOE epsilon4 alleles to risk of AD in the two age groups, with epsilon4 being a more important risk factor in the younger population of AD
+0	NA	age	NA	RESULTS	To characterize diverse genetic impacts between the younger and older age groups we performed SNP-based and gene-based genome-wide association analyses in each group
+0	NA	NA	NA	RESULTS	In the younger group (N = 11,358), we identified 28 significant LD-independent SNPs on four different chromosomes (Supplementary Table 3) at P value < 5x10-8.
+0	NA	NA	NA	RESULTS	Among those SNPs, 24 SNPs were located on chromosome 19 and four SNPs on chromosomes 1, 2 and 11.
+0	Alzheimer's disease	NA	NA	RESULTS	In addition to chromosome 19, three SNPs on chromosomes 2 and 11 were significant in the younger group but not (P value > 0.05) in the older group and their genetic effects for AD were stronger in the younger than the older group (Supplementary Table 3).
+0	NA	NA	NA	RESULTS	The loci on chromosomes 1, 2 and 11 where significant SNPs were located have been reported in previous GWAS.
+1	NA	apolipoprotein E	NA	RESULTS	In the older group (N = 4,801), we identified two significant LD-independent SNPs on chromosomes 19 (Supplementary Table 3), which were also identified in the younger group within APOE (Supplementary Table 3)
+0	Alzheimer's disease	age	NA	RESULTS	To detect novel associated loci for AD, stratified gene-based analyses were then performed in the two age groups.
+1	NA	apolipoprotein E	NA	RESULTS	In the younger group (N = 14,895), in addition to genes on chromosome 19 surrounding APOE region, we identified four significant genes (BIN1, OR2S2, MS4A4E and PICALM) on chromosomes 2, 9 and 11 at P value < 2.73x10-6, and three genes (CR1, MS4A6A and GNPNAT1) on chromosomes 1, 11 and 14 are suggestive at P value < 10-5 (Table 1 and Fig.
+0	NA	NA	NA	RESULTS	2A).
+0	Alzheimer's disease	OR2S2	NA	RESULTS	Two novel genes, OR2S2 (at the significance level) and GNPNAT1(at the suggestive level), were not reported in previous GWAS of AD.
+0	NA	BIN1	NA	RESULTS	It is notable that effects of BIN1, OR2S2, PICALM and GNPNAT1 were suggestively significant (P value < 10-5) in the younger group but not (P value > 0.05) in older group in terms of the SNPs with smallest P values within genes (Table 1).
+1	NA	age	rs6431219	RESULTS	The confidence intervals of odds ratios of four SNPs (rs6431219, rs1237868, rs639012 and rs73298734) in the younger and older groups were largely non-overlapping and their P values for testing heterogeneity (Cochran's Q-test) between the two age groups were significant, except rs1237868 which was borderline significant.
+0	Alzheimer's disease	NA	NA	RESULTS	The results indicated their genetic effects for AD were distinct in the younger and older groups and, furthermore, they were stronger in the younger than the older group.
+0	NA	NA	NA	RESULTS	(Table 1).
+0	NA	MYOZ2	NA	RESULTS	In the older group (N = 6,559), other than chromosome 19, we identified two suggestive genes, MYOZ2 and ST13, on chromosomes 4 and 22 (Table 1 and Fig.
+0	Alzheimer's disease	NA	NA	RESULTS	2B), which are novel for AD.
+0	Alzheimer's disease	NA	NA	RESULTS	Similarly, their effects had lower P values (P value   10-5) in the older group but not (P value > 0.05) in the younger with non-overlapping confidence intervals (significant for heterogeneity from the Cochran's Q-test) and their genetic effects for AD were stronger in the older group than in the younger group (Table 1)
+0	NA	OR2S2	NA	RESULTS	For the significant locus, OR2S2, that we identified by gene-based GWAS in the younger group, we verified that the differential effects across age were observed in the phase 1 and phase 2 datasets (phase 1: Z value: 4.07, P value: 2.37 x 10-5 for the younger group, and Z value: -1.24, P value > 0.05 for the older group; phase 2: Z value: 1.59, P value = 0.056 for the younger group, and P value > 0.05 for the older group).
+0	NA	NA	NA	RESULTS	Because the phase 2 data are under power, we were only able to observe the trend.
+0	NA	NA	NA	RESULTS	Furthermore, to evaluate the consistency of associations within the individual cohorts in Phase 1 and Phase 2, we performed stratified gene-based analyses in the subsets of the whole sample (ADGC combined phase 1 and 2 samples) using a leave-out one cohort approach.
+0	NA	NA	NA	RESULTS	All analytic procedures and covariates for adjustment followed the stratified gene-based GWAS.
+0	NA	OR2S2	NA	RESULTS	This leave-one-out method verified that P values of OR2S2 in the all subsets (Supplementary Table 4) were consistent with the P value calculated from the whole ADGC sample (Table 1)
+0	NA	NA	NA	DISCUSS	The partitioned heritability results showed that chromosome 19 explained approximately a half of heritability in the younger age-at-onset group compared to a very small proportion in the older age-at-onset group, suggesting different genetic architectures between these two age groups (Fig.
+0	NA	NA	NA	DISCUSS	1).
+1	Alzheimer's disease	NA	NA	DISCUSS	Using age-stratified gene-based GWAS, in addition to APOE region on chromosome 19, we identified one significant novel locus, OR2S2, which were not reported in previous GWAS using AD cases across all age groups, in the younger group (age 60-79 years).
+1	NA	apolipoprotein E	NA	DISCUSS	The APOE region, BIN1, PICALM and OR2S2 that we identified had stronger effects in the younger than the older group.
+0	NA	OR2S2	NA	DISCUSS	We further performed leave-one-out analyses, which showed consistent effects of OR2S2 across subsamples.
+0	Alzheimer's disease	age	NA	DISCUSS	Our findings suggested that analysis in more restricted age groups with genetically homogeneous AD cases may help detect potential susceptibility loci
+1	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	An interaction of APOE with age in risk of developing AD has been shown in candidate-gene approach, genome-wide linkage analysis, and GWAS, using age at onset as the outcome variable.
+0	Alzheimer's disease	NA	NA	DISCUSS	In particular, a recent longitudinal study observed that the risk of AD for APOE epsilon4 carriers showed an inverted U-shaped function with peak risk between ages 70 and 75.
+0	NA	NA	NA	DISCUSS	Our results based on genome-wide analyses from the large ADGC sample are consistent with this finding.
+0	Alzheimer's disease	age	NA	DISCUSS	We found that APOE epsilon4 was more deleterious for the younger cases of AD (age 60-79 vs. >= 80 years).
+0	Alzheimer's disease	NA	NA	DISCUSS	In addition to AD, APOE epsilon4 has been reported to increase the risk of other age-related phenotypes, such as cognitive decline, cardiovascular disease, and mortality.
+0	NA	NA	NA	DISCUSS	Collectively, these findings support the idea that younger carriers of APOE epsilon4 are more vulnerable to these adverse outcomes than older carriers.
+0	NA	age	NA	DISCUSS	Once carriers age successfully, the risks associated with APOE epsilon4 appear to be reduced, suggesting the potential presence of counteracting effects, such as other protective genes and/or behaviors, e.g., physical activity which may reduce age-related neuroinflammation
+0	NA	BIN1	NA	DISCUSS	In addition to several significant hits on chromosome 19, four significant genes (BIN1, OR2S2, MS4A4E and PICALM) and three suggestive genes (CR1, MS4A6A and GNPNAT1) on chromosomes 2, 9 and 11 were identified in age 60-79 years (Table 1).
+1	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	We also found that APOE, BIN1, OR2S2 and PICALM have larger effects for AD in younger age group.
+1	Alzheimer's disease	age	NA	DISCUSS	Our findings supported associations between age at onset and know susceptibility loci of AD (BIN1, PICALM and APOE) which has been reported in a GWAS using age at onset as the outcome variable.
+0	NA	OR2S2	NA	DISCUSS	The novel gene, OR2S2 (olfactory receptor family 2 subfamily S member 2), is a member of olfactory receptors involved in a neuronal response that triggers the perception of a smell and has been reported to be associated with urate levels in previous GWAS
+0	NA	age	NA	DISCUSS	Chromosome 19 contributes the partition of heritability by 9.6% and 0.7% for the younger and older age groups, respectively (Fig.
+0	NA	NA	NA	DISCUSS	1).
+0	NA	NA	NA	DISCUSS	Similarly, APOE epsilon4 explained 12.79% and 4.45% of the phenotypic variation in the younger and older groups, respectively.
+0	seizures	NA	NA	DISCUSS	The chromosomal partition heritability was estimated using GCTA based on the restricted maximum likelihood which fits all SNPs jointly in a random-effect model so that each SNP effect is fitted conditioning on the joint effects of all the other SNPs (i.e., it accounts for LD between the SNPs), and therefore, in this case, APOE epsilon4 explains higher variations in the regression model.
+1	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	Our result highly supported that AD is polygenic, particularly in older AD cases with higher heritability which may be contributed from other genes in addition to APOE
+0	Alzheimer's disease	NA	NA	DISCUSS	In our study, heritability of AD was estimated to be 18.8% (N = 17,896, including ADGC phase 1 and 2) compared with 53.24% (N = 9,699, ADGC phase 1) in a recent study, that also used subsets of the ADGC sample.
+0	Alzheimer's disease	NA	NA	DISCUSS	The discrepancy of heritability estimates between the two studies might be due to differences in covariate adjustments, prevalences of AD, quality control criteria for including subjects, and methods to generate principal components.
+0	NA	age	NA	DISCUSS	First, we included covariates, such as age, sex, source cohorts of individuals recruited (cohort indicators) and 10 principal components, but cohort indicators were not included in the study of Ridge et al..
+0	NA	NA	NA	DISCUSS	In order to compare with the previous estimations we then excluded cohort indicators from the model of the current study, and thereafter heritability was estimated to be 31.9% (95% CI 27.7% to 36.2%), which is comparable to 33% from a previous study of Ridge et al.
+0	NA	NA	NA	DISCUSS	in 2013 using a subset of ADGC phase 1 sample.
+0	NA	NA	NA	DISCUSS	As a result, adjustment for cohort indicators showed high impact on heritability reduction in our study.
+0	Alzheimer's disease	NA	NA	DISCUSS	Second, for case-control study design with ascertainment bias of proportion of cases, heritability estimate is required to adjust for the prevalence of AD in the population.
+0	dementia	NA	NA	DISCUSS	Based on 2015 age-specific population from United States Census Bureau and age-specific dementia prevalence from a systemic meta-analysis, we estimated the prevalence of AD to be 0.0613 among population over age 60 years (Supplementary Table 1), in contrast with 0.13 among population over age 65 years applied in the study of Ridge et al.. Third, all individuals in our heritability analysis were non-missing for AD status, age, sex and principal components as well as their GRM < 0.025, whereas Ridge et al.
+1	Alzheimer's disease	age	NA	DISCUSS	removed individuals with more closely related than third cousins, and those with missing data for AD status, age, sex, principal components, APOE genotype or genotypes of the 21 known susceptibility loci of AD.
+0	NA	NA	NA	DISCUSS	Finally, 10 principal components were calculated within each cohort in our study, whereas Ridge et al.
+0	NA	NA	NA	DISCUSS	estimated principal components using whole ADGC sample
+0	Alzheimer's disease	age	NA	DISCUSS	In our stratified analyses to investigate heterogeneity of AD based on a continuous variable, age, we were confronted with three challenges: constant diagnostic accuracy across age, dichotomization of age and reduction of sample size in each age group.
+0	Alzheimer's disease	NA	NA	DISCUSS	First, the previous study showed that the positive predictive value of AD based on the clinical diagnosis was 83%, which indicates that 17% of AD cases might be misdiagnosed.
+0	Alzheimer's disease	age	NA	DISCUSS	If the positive predictive value decreases with age at onset, we will include more non-cases in the older group than in the younger, and such misclassification will dilute effect sizes of susceptibility genes of AD and lead to being undetected.
+1	NA	apolipoprotein E	NA	DISCUSS	Second, the detrimental effect of APOE epsilon4 allele is higher among those aged 60-75 years and gradually diminishes in older adults.
+0	Alzheimer's disease	NA	NA	DISCUSS	Moreover, our results from polygenic analyses showed contributions from other genetic risks become more evident to support genetic heterogeneity between AD cases below and above 80.
+0	NA	NA	NA	DISCUSS	Third, in general for stratified analysis that splits the sample into two subgroups sample size is halved at most in one group and GWAS are vulnerable to insufficient sample size, although GWAS power may increase in genetically more homogeneous groups.
+1	Alzheimer's disease	age	NA	DISCUSS	Future studies that include more older cases with AD (age >= 80 years), for which APOE have a moderate impact, may aid in identifying potential genes that may function to neutralize or postpone the effect of APOE
+1	Alzheimer's disease	age	NA	DISCUSS	Our analytical strategy for stratified analyses first used polygenic modeling to detect genetic heterogeneity of AD in terms of age at onset (60-79 vs. >= 80 years) and second used GWAS to uncover susceptibility genes (i.e., APOE, BIN1, OR2S2 and PICALM) with different effects in younger and older cases with AD.
+0	Alzheimer's disease	NA	NA	DISCUSS	This strategy may help identify divergent biological mechanisms for AD cases with distinct features and/or subtypes of AD cases and provide insights for pharmaceutical development in personalized medicine
+0	NA	age	NA	FIG	The overall and partitioned heritability estimates in combined phase 1 and 2 samples across two age groups (age 60-79 and >= 80 years).
+0	NA	NA	NA	FIG	The heritability estimates are 16.9% (95% CI 12.9 to 20.9%) and 24.1% (95% CI 5.6 to 42.6%) for the younger (N = 12,698) and older (N = 5,198) age-at-onset groups, respectively.
+0	NA	NA	NA	FIG	In the younger group, heritability estimates of chromosome 19 and others are 9.6% (95% CI 8.1 to 11.1%) and 12.2% (8.5 to 15.9%), whereas in the older group, they are 0.7% (0 to 3.8%) and 23.4% (5.1 to 41.8%), respectively.
+0	NA	age	NA	FIG	In addition, the genetic correlation (rg) between the two age groups is 0.64 (95% CI 0.30-0.97) which significantly differs from 1 (P value for H0: rg = 1 is 0.043)
+0	NA	age	NA	FIG	Manhattan plots of gene-based genome-wide association analyses in ADGC combined phase 1 and phase 2 samples of (A) the younger age (age 60-79 years, N = 11,358) and (B) the older age (age >= 80 years, N = 4,801).
+0	NA	NA	NA	FIG	The red line denotes the gene-based genome-wide significance level of P value = 2.73x10-6 and blue line denotes the suggestive level of P value = 2.73x10-6.
+0	NA	NA	NA	FIG	The gene symbols are shown here if their P values calculated by gene-based analyses are less than the suggestive level.
+1	NA	apolipoprotein E	NA	FIG	APOE region is shown as representatives of significant genes on chromosome 19
+0	NA	NA	NA	TABLE	Significant (P value < 2.73x10-6) and suggestive (P value < 10-5) genes identified by stratified gene-based genome-wide analyses in ages 60-79 and >= 80 years using ADGC combined phase 1 and 2 samples.
+0	NA	NA	NA	TABLE	The top SNPs with smallest P values within genes are shown
+0	Alzheimer's disease	NA	NA	REF	Genetic heterogeneity of Alzheimer's disease between the younger and older patients
+0	NA	age	NA	REF	Heritability explained by chromosome 19 was markedly larger at younger than older age
+0	NA	OR2S2	NA	REF	A novel gene, OR2S2, was found in the younger individuals using gene-based genome-wide association studies
+1	NA	apolipoprotein E	NA	REF	APOE, BIN1, OR2S2 and PICALM had stronger effects in the younger than the older age
+0	Alzheimer's disease	NA	NA	REF	Our strategy may help identify divergent biological mechanisms and Alzheimer's disease subtypes

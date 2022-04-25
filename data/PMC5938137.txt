@@ -1,0 +1,194 @@
+0	Alzheimer's disease	NA	NA	ABSTRACT	Genetic associations for endophenotypes of Alzheimer's disease (AD) in cognitive stages preceding Alzheimer disease have not been thoroughly evaluated
+0	cognitive defects	tau	NA	ABSTRACT	We conducted GWAS for AD-related endophenotypes including hippocampal volume (HPV), logical memory scores (LMT), and cerebrospinal fluid (CSF) amyloid beta42 and total/phosphorylated tau (t-/p-Tau) in cognitively normal (CN), mild cognitive impairment (MCI), and AD dementia subjects from the Alzheimer's Disease Neuroimaging Initiative study
+0	NA	SRRM4	NA	ABSTRACT	In CN subjects, study-wide significant (SWS; P<8.3x10-9) loci were identified for t-Tau near SRRM4 and C14orf79 and for HPV near MTUS1.
+0	NA	ZNF804B	NA	ABSTRACT	In MCI subjects, SWS association was found with SNPs near ZNF804B for LMT-delayed recall.
+0	NA	MTUS1	NA	ABSTRACT	We found consistent expression patterns of C14orf40 and MTUS1 in carriers with risk alleles of eSNPs and in brains of AD patients, compared with in the non-carriers and in brains of controls
+0	NA	NA	NA	ABSTRACT	Our findings for AD-related brain changes prior to AD provide insight about early AD-related biological processes
+0	Alzheimer's disease	NA	NA	INTRO	Alzheimer's disease (AD) is the most common type of dementia and typically occurs after age 65 years.
+0	NA	apolipoprotein E	NA	INTRO	It is highly heritable, but the known genetic risk factors (currently numbering more than 25 loci including APOE) account for no more than 50% of the heritability of the disorder.
+0	NA	NA	NA	INTRO	However, genetic association findings based on AD risk do not explain the whole genetic architecture of AD because the mechanistic complexity underlying AD is not captured entirely by disease status, especially in preclinical stages.
+0	memory impairment	beta-amyloid (Abeta)	NA	INTRO	To overcome this limitation and understand preclinical stages of AD, researchers have examined the genetic underpinnings of AD-related endophenotypes including cerebrospinal fluid (CSF) levels of beta amyloid peptide (Abeta42) and tau proteins, structural brain changes quantified by magnetic resonance imaging (MRI), and neuropsychological test measures of cognitive functioning, including memory loss.
+0	Alzheimer's disease	NA	NA	INTRO	Genome-wide association (GWA) studies for AD-related endophenotypes have identified novel loci in the Alzheimer's Disease Neuroimaging Initiative (ADNI) study which enrolled appreciable numbers of subjects across three stages: AD dementia, mild cognitive impairment (MCI), and normal cognitive functioning (CN).
+0	NA	NA	NA	INTRO	Previous ADNI studies indicated the importance of delineating different stages of subjects.
+0	Alzheimer's disease	NA	NA	INTRO	We hypothesized that some genes may contribute to AD-related processes specifically during stages prior to AD dementia onset.
+0	NA	NA	NA	INTRO	Genes and pathways that are strongly associated with AD-related endophenotypes in early disease stages may be promising targets for developing AD biomarkers and preventive medicines.
+0	NA	NA	NA	INTRO	To test this hypothesis, we conducted GWA analyses for AD-related endophenotypes in the ADNI sample stratified by stage.
+0	Alzheimer's disease	NA	NA	INTRO	Here, we focused on the association tests in the CN and MCI subgroups because we were interested in identifying genes that may contribute to AD-related processes prior to AD dementia onset
+0	NA	NA	NA	METHODS	GWA and phenotype data for ADNI participants were downloaded from a public-access database (http://www.loni.usc.edu).
+0	NA	NA	NA	METHODS	A total of 1,189 subjects before QC were available with GWA data from two different chips (ADNI-1, n=757 and ADNI-GO/2, n=432).
+0	Alzheimer's disease	NA	NA	METHODS	We stratified subjects by stage (CN, MCI, and AD dementia) based on diagnosis at the baseline assessment as defined by the standard ADNI protocol.
+0	NA	NA	NA	METHODS	Demographic information and mean endophenotype values stratified by stage as well as for the entire sample are presented in Supplementary Table 1.
+0	NA	NA	NA	METHODS	Age is similarly distributed in each subgroup.
+0	NA	NA	NA	METHODS	Sample sizes for analyses of CSF biomarkers were considerably smaller than for those of other traits
+0	NA	NA	NA	METHODS	Previously suggested AD-related endophenotypes including CSF biomarkers, MRI brain imaging measures and episodic memory tests were selected for GWA analyses in this study.
+0	NA	tau	NA	METHODS	CSF biomarkers of Abeta42, total tau (t-Tau), and phosphorylated tau (p-Tau), brain MRI measure for hippocampal volume (HPV), and scores for logical memory immediate (LMiT) and delayed (LMdT) recall tests which were all measured at baseline were analyzed in this study.
+0	NA	NA	NA	METHODS	Details about collection of CSF biomarkers, brain MRI scan data, and neuropsychological tests are reported elsewhere
+0	NA	NA	NA	METHODS	Details of quality control, genotype imputation, and population substructure analyses are described in Supplementary Information.
+0	Alzheimer's disease	NA	NA	METHODS	After QC, the ADNI-1 sample with genotype data consisted of 187 CN, 329 MCI, and 163 AD dementia subjects, and the ADNI-GO/2 sample contained 118 CN, 252 MCI, and 27 AD dementia subjects with genotype data
+0	NA	NA	NA	METHODS	Prior to the association tests, each of the six endophenotypes was adjusted for covariates using linear regression.
+0	NA	NA	NA	METHODS	Age and sex were used as covariates for the six endophenotypes.
+0	NA	NA	NA	METHODS	A term for education level was also included in the regression models for LMiT and LMdT, and the model for HPV was further adjusted for total intracranial volume.
+0	NA	NA	NA	METHODS	The residuals derived from the regression models were rank-transformed for normalization as previously described.
+0	NA	NA	NA	METHODS	Analyses were conducted for all autosomal SNPs using the expected genotype dose, a quantitative measure between 0 and 2 of the number of effect alleles computed from the imputed genotype probabilities as the predictor.
+0	NA	NA	NA	METHODS	Association of the rank-normalized endophenotypes with each SNP was evaluated using a linear regression model including covariate terms for the first three principal components (PC) of population substructure using the R software package.
+0	NA	NA	NA	METHODS	The two ADNI datasets were analyzed independently for the CN and MCI subjects and the results from the two ADNI datasets were combined by meta-analysis using inverse variance weights as implemented in the METAL program.
+0	NA	NA	NA	METHODS	AD cases from the two ADNI datasets were analyzed as one group because the ADNI-GO/2 sample included only 27 AD subjects, and regression models for this group included an extra covariate for ADNI dataset.
+0	NA	NA	NA	METHODS	The genome-wide significant (GWS) threshold was set at 5.0x10-8.
+0	NA	NA	NA	METHODS	We determined a conservative study-wide significant (SWS) level of 8.3x10-9 which was calculated as the GWS level divided by the effective number of two independent endophenotypes and three clinical subgroups.
+0	NA	NA	NA	METHODS	The effective number of independent endophenotypes was computed by counting the number of eigenvalues greater than one from the PC analysis of all six endophenotypes.
+0	NA	NA	NA	METHODS	A threshold of P<10-6 was considered as suggestive evidence of association in the functional/pathway analysis
+0	capillary malformation-arteriovenous malformation and Parkes-Weber syndrome	NA	NA	METHODS	We examined association of the SWS SNPs (allele counts) with transcript-level expression, i.e., expression SNP (eSNP), using a publically available database via the GTEx Portal (http://www.gtexportal.org)
+0	NA	NA	NA	METHODS	Differential gene expression (DGE) was evaluated for genes containing or near significantly associated SNPs in two independent human brain expression datasets from the Eisai Bio Bank (EBB) and Mt.
+0	NA	NA	NA	METHODS	Sinai Hospital (MSH) (which was downloaded from Gene Expression Omnibus [GEO]: GSE44772).
+0	NA	NA	NA	METHODS	The EBB has gene expression measures obtained from RNA sequencing from the hippocampus (HIPP) of samples collected from autopsied brains from 35 AD cases and 16 normal subjects ascertained at the University of Miami and McLean Hospital (Belmont, MA).
+0	NA	NA	NA	METHODS	A measure of neurofibrillary tangles (Braak stage) in the same samples was assessed following an established protocol.
+0	NA	NA	NA	METHODS	Details about sample collection and preparation, and demographic characteristics are provided in Supplementary Information.
+0	NA	NA	NA	METHODS	The association of log2-transformed transcript expression levels (outcome) with AD status (predictor) was evaluated using linear regression adjusting for site, age, sex, and RNA integrity number (RIN).
+0	NA	NA	NA	METHODS	A model testing the effect of Braak stage (0-6 stages) on transcript expression levels was also evaluated and included the same covariates.
+0	NA	NA	NA	METHODS	The MSH microarray expression data (GEO: GSE44772) were generated from autopsied brain tissue collected from dorsolateral prefontal cortex (DLPFC), visual cortex (VCX), and cerebellum (CER) regions in 129 AD patients and 101 controls.
+0	NA	NA	NA	METHODS	Samples were profiled on a custom-made Agilent 44K array containing 40,638 probes.
+0	NA	NA	NA	METHODS	Gene expression data were normalized using Rosetta Resolver gene-expression analysis software as previously described.
+0	NA	NA	NA	METHODS	The association of log2-transformed gene expression level (outcome) and AD status (predictor) was tested using a linear regression model adjusting for RIN, postmortem interval (PMI), batch, preservation method, tissue pH, age, and sex.
+0	NA	MTUS1	NA	METHODS	A significance threshold to correct for the number of eQTL analysis tests was applied which in this case was P=0.025 since only two genes (C14orf40 and MTUS1) were tested
+0	NA	NA	NA	METHODS	The top-ranked genes at or near (< 50kb) loci that achieved suggestive significance (P<10-6) in GWA tests of any trait in CN or MCI subjects or in the total sample were further evaluated for gene co-expression networks.
+0	NA	NA	NA	METHODS	We built gene co-expression networks in the EBB HIPP RNA-Seq data (41,249 transcripts) by weighted gene co-expression network analysis (WGCNA), an approach which defines modules (or subsets) of genes that are highly co-expressed (or co-regulated).
+0	NA	NA	NA	METHODS	Details of this approach are described in Supplementary Information.
+0	NA	NA	NA	METHODS	In the HIPP co-expression network, we selected modules which carry both the top-ranked genes from this study and previously known AD genes.
+0	NA	NA	NA	METHODS	The selected modules were functionally annotated by two enrichment analyses of 'gene ontology (GO)' and 'disease-associated genes' with a hypergeometric test.
+0	NA	NA	NA	METHODS	The 'disease-associated genes', genes involved in risk of diseases, were downloaded from GWASdb2.
+0	NA	NA	NA	METHODS	A P-value of significance for each enrichment test was calculated along with a false discovery rate (FDR), estimated using the Benjamini-Hochberg procedure.
+0	NA	NA	NA	METHODS	We used an FDR threshold of 0.05 to define associated GOs or diseases.
+0	NA	NA	NA	METHODS	The selected modules were further examined for correlations with traits (AD status and Braak stages) using the EBB sample by calculating the Pearson's correlations between the module eigengene and the traits
+0	NA	NA	NA	METHODS	We evaluated predicted functions of SNPs showing suggestive evidence for association (P<10-6) from the GWA tests using HaploReg (http://www.broadinstitute.org/mammals/haploreg/).
+0	NA	NA	NA	METHODS	ENCODE data were used to evaluate potential regulatory function.
+0	NA	NA	NA	METHODS	We also investigated the expression profiles of the top-ranked gene from mouse and human brain from the cerebral cortex (http://web.stanford.edu/group/barres_lab/brainseqMariko/brainseq2.html).
+0	NA	NA	NA	METHODS	To identify shared functions among the top-ranked genes, we performed functional analysis using Ingenuity Pathway Analysis software (IPA, QIAGEN, Redwood, CA).
+0	NA	NA	NA	METHODS	IPA determines which molecular/cellular function terms (e.g., top-ranked genes in association tests) are statistically over represented, suggesting the GWA findings capture functional mechanisms underlying disease-related biological processes.
+0	NA	NA	NA	METHODS	We used a nominal P-value threshold of 0.05 to flag associated functions.
+0	NA	NA	NA	METHODS	We also examined neuronal cell type-specific expression for the top-ranked genes using single cell RNA sequencing data (which was downloaded from GEO: GSE67835).
+0	NA	NA	NA	METHODS	Further details of this analysis are described in Supplementary Information
+0	NA	NA	NA	RESULTS	There was slight genomic inflation in GWA results for Abeta42 and LMdT in CN subjects (lambda=1.02 for both traits; Supplementary Figs.
+0	NA	NA	NA	RESULTS	1-12).
+0	NA	apolipoprotein E	NA	RESULTS	Associations of the APOE epsilon4 allele were SWS with the CSF biomarkers and suggestive with the other traits in MCI subjects, whereas epsilon4 was significantly associated only with Abeta42 level in CN subjects (Supplementary Table 2).
+0	NA	CR1	NA	RESULTS	Eleven of 25 other previously known AD loci - CR1, INPP5D, MEF2C, HBEGF, HLA region, ZCWPW1, USP6NL, MS4A region, PICALM, SLC2A4A, and CASS4 - were nominally significant (P<0.05) with at least one trait in CN and/or MCI groups (Supplementary Table 3)
+0	NA	NA	NA	RESULTS	Novel SWS associations were observed for several endophenotypes in the CN and/or MCI groups (Table 1).
+0	NA	SRRM4	rs10775009	RESULTS	Among CN subjects, t-Tau was associated with SNPs located 28 kb upstream of SRRM4 (best SNP: rs10775009, P=1.6x10-9; Fig.
+0	NA	C14orf79	rs2819438	RESULTS	1A) and 66.8 kb upstream of C14orf79 (rs2819438; P=6.9x10-9; Fig.
+0	NA	NA	NA	RESULTS	1B).
+0	NA	PDGFRL	rs4921790	RESULTS	In the same group, HPV was associated with rs4921790 in PDGFRL and near MTUS1 (P=4.6x10-9; Fig.
+0	NA	NA	NA	RESULTS	1C).
+0	NA	MTUS1	rs4921790	RESULTS	This finding was supported by associations with many SNPs in high LD (r2>0.8 and D`>0.9) with rs4921790 which span MTUS1.
+0	NA	ZNF804B	rs73705514	RESULTS	In the MCI subgroup, LMdT was associated with three SNPs in ZNF804B (best SNP: rs73705514; P=2.9x10-9; Fig.
+0	NA	NA	NA	RESULTS	1D).
+1	NA	LINC00271	NA	RESULTS	Association was also observed between HPV and a SNP near LINC00271 and PDE7B (P=1.76x10-8)in AD subjects (Supplementary Fig.
+0	NA	NA	NA	RESULTS	13A).
+0	NA	GRIN2B	rs74442473	RESULTS	Several GWS associations are also noteworthy (Supplementary Table 4) including Abeta42 level with GRIN2B SNP rs74442473 (P=2.52x10-8; Supplementary Fig.
+0	NA	BRIP1	rs2378873	RESULTS	13B) and rs2378873 near BRIP1 and NACA2 (P=2.03x10-8) in CN subjects, LMdT with DAB1 SNP rs74834332 (P=4.20x10-8) and PRKG1 SNP rs12268753 (P=2.01x10-8) in CN subjects, LMdT with ARHGAP24 SNP rs111882035 (P=2.74x10-8) in MCI subjects, and LMiT with NRG1 SNP rs118130881 (P=1.72x10-8; Supplementary Fig.
+0	NA	GFRA2	rs55644114	RESULTS	13C) in MCI subjects, and Abeta42 level with rs55644114 near GFRA2 and LZTS1 in the total sample
+0	NA	NA	NA	RESULTS	According to the GTEx Portal database, several eSNPs under the SWS association peaks for the endophenotypes in the CN or MCI groups are significantly associated with expression of genes in those regions (Table 2).
+0	NA	C14orf79	rs2819438	RESULTS	The major allele C of intergenic SNP rs2819438, which is associated with increasing CSF t-Tau, was significantly associated with lower expression of C14orf79 in brain (P-values in HIPP = 3.8x10-4 and CER=6.0x10-3; Supplementary Fig.
+0	NA	PLD4	rs2819438	RESULTS	14A), but not with expression of PLD4 and AHNAK2 which are located between rs2819438 and C14orf79.
+0	NA	MTUS1	rs4921790	RESULTS	Rs4921790 was not associated with expression of MTUS1 (P>0.05), however the major allele G of rs55653268 (a proxy SNP for rs4921790; r2 = 0.7; D' = 1.0), which is associated with decreasing HPV, was significantly associated with increased expression of MTUS1 in the caudate (P=9.7x10-3; Supplementary Fig.
+0	NA	NA	NA	RESULTS	14B).
+0	NA	PDGFRL	NA	RESULTS	PDGFRL expression was not tested, since its expression in brain is extremely low according to the GTEx database.
+0	NA	SRRM4	rs119390525	RESULTS	SRRM4 SNP rs119390525 and ZNF804B SNP rs73705514 were not significantly associated with expression in any brain regions (P>0.05)
+0	capillary malformation-arteriovenous malformation and Parkes-Weber syndrome	C14orf79	NA	RESULTS	Further examination of C14orf79 and MTUS1, whose expression levels were associated with SWS SNPs (or their proxy SNPs), in the EBB RNA-Seq and the MSH microarray datasets revealed multiple significant associations with AD status and Braak stage in several brain regions (Table 3).
+0	NA	C14orf79	NA	RESULTS	C14orf79 was not differentially expressed in HIPP (P=0.76), but its expression was significantly lower in AD cases than controls in CER (P=7.5x10-8), DLPFC (P=3.3x10-7, Fig 2A), and VCX (P=2.1x10-8).
+0	NA	C14orf79	NA	RESULTS	The association of C14orf79 expression with decreasing Braak stage was nearly nominally significant (beta [SE]=-0.07 [0.03], P=0.06) (Fig.
+0	NA	NA	NA	RESULTS	2A).
+0	NA	MTUS1	NA	RESULTS	MTUS1 expression was nominally higher in AD cases than controls in HIPP (P=0.02), DLPFC (P=0.01, Fig.
+0	NA	NA	NA	RESULTS	2B) and VCX (P=0.01).
+0	NA	MTUS1	NA	RESULTS	MTUS1 expression was also positively correlated with Braak stage (beta [SE]=0.16 [0.04], P=3.9x10-4; Fig.
+0	NA	NA	NA	RESULTS	2B).
+0	NA	Mtus1	NA	RESULTS	According to a publicly available murine brain expression profile data obtained from the cerebral cortex, Mtus1 is highly expressed in microglia and myeloid cells.
+0	NA	NA	NA	RESULTS	Moreover, expression is highest in activated microglia (Supplementary Figure 15A).
+0	NA	MTUS1	NA	RESULTS	However, MTUS1 expression in mature human brain is ranked the second lowest in microglia/macrophage cells, whereas expression in adult mouse brain was ranked the second highest among glia, neurons, and vascular cells.
+0	NA	Mtus1	NA	RESULTS	This finding suggests that the role of MTUS1 may differ in mouse and human myeloid cells (Supplementary Figure 15B)
+0	NA	NA	NA	RESULTS	Sixteen of 61 top-ranked genes (Supplementary Table 5) were clustered together with 17 known AD genes as co-expressed networks.
+0	NA	NA	NA	RESULTS	Eight of 17 modules from WGCNA based on the human HIPP transcriptome (M1-M8) were enriched with the genes (P<1.0x10-6; Supplementary Table 5) identified in our GWAS analyses with AD-related endophenotypes (Supplementary Table 6).
+0	NA	NA	NA	RESULTS	These eight modules were also significantly correlated with AD status or Braak stages (Fig.
+0	NA	NA	NA	RESULTS	3A).
+0	NA	C14orf79	NA	RESULTS	C14orf79 was co-expressed with MAPT-AS1 in M1.
+0	NA	MTUS1	NA	RESULTS	MTUS1 was co-expressed with ZCWPW1 in M4.
+0	NA	SRRM4	NA	RESULTS	SRRM4 and ZNF804B were co-expressed with previously known AD genes - APP, BZRAP1, MAPT, MEF2C, PLXNA4, PTK2B, and PSEN2 - in M7.
+0	NA	NA	NA	RESULTS	The M7 module is enriched for genes involved in neuronal processes including 'chemical synaptic transmission' (FDR=1.8x10-84), 'dendrite' (FDR=1.7x10-33), and 'axon guidance' (FDR=1.6x10-24).
+0	NA	NA	NA	RESULTS	Modules M2, 4, 5, 6, and 8 are enriched for genes involved in 'protein binding', 'signal transduction', and 'microtubule binding' (Supplementary Table 6).
+0	aggressive disease	NA	NA	RESULTS	Among the eight modules enriched for previously known AD risk genes and genes identified in the current study as associated with AD endophenotypes, modules 1, 2, 5, 7, and 8 were also highly enriched with genes for other neurodegenerative and neuropsychiatric disorders including Parkinson disease and schizophrenia, as well as for cognitive performance (Supplementary Table 6).
+0	NA	NA	NA	RESULTS	The correlation matrix of expression levels among the genes in Modules 4 and 7 (Fig.
+0	NA	NA	NA	RESULTS	3B) is shown in Supplementary Table 7.
+0	NA	NA	NA	RESULTS	Further evaluation revealed that M2 and M7 contained the largest number of known AD genes among all modules co-regulated in the hippocampal region (Supplementary Table 8)
+0	NA	NA	NA	RESULTS	The top-ranked genes from the GWA analyses in the CN and MCI groups (Supplementary Tables 5) are enriched in neuronal processes including synapse plasticity (P=3.4x10-5), axon quantity (P=2.6x10-4), microtubule dynamics (P=2.8x10-4), abnormal morphology of dentate gyrus (P=3.4x10-4), and neuronal development (P=3.5x10-4).
+0	Alzheimer's disease	NA	NA	RESULTS	These findings indicate that genes associated with AD-related endophenotypes among participants in clinical stages preceding AD dementia have particular roles in functioning of neuronal synapses (Fig.
+0	NA	NA	NA	RESULTS	3C).
+0	NA	NA	NA	RESULTS	Single-cell transcriptome analysis of the human brain confirmed that the genes in Fig.
+0	NA	NA	NA	RESULTS	3C were highly expressed in neurons.
+1	NA	apolipoprotein E	NA	RESULTS	Some genes were also expressed in other cell types: APOE, MTUS1, ERBIN, and AKAP9 in astrocytes; MTUS1, ERBIN, and AKAP9 in oligodendrocytes; and AKAP9 and RCAN1 in endothelial cells.
+0	NA	NRG1	rs111969453	RESULTS	Bioinformatic analysis using HaploReg and ENCODE suggests that GWS SNPs upstream of NRG1 may be located in a transcriptional regulatory site and rs111969453, a SNP in high linkage disequilibrium (r2=0.94 and D`=0.97) with the SNP (rs118130881) that is significantly associated with LMiT (P=5.9x10-8), is located on an enhancer histone mark in brain
+0	NA	NA	NA	DISCUSS	A goal of this study was to identify genes that were both associated with AD-related endophenotypes in older, non-demented individuals and co-regulated with known AD genes.
+0	NA	SRRM4	NA	DISCUSS	Using a GWA approach, we identified SWS associations in cognitively normal elders including CSF t-Tau level with SRRM4 and C14orf79, HPV with MTUS1, and CSF Abeta42 level with APOE.
+0	NA	ZNF804B	NA	DISCUSS	In MCI subjects we detected SWS associations for LMdT with ZNF804B, and for CSF levels of Abeta42, t-Tau, and p-Tau with APOE
+0	NA	AGT	NA	DISCUSS	Angiotensin II interacting (AT2) protein (ATIP) isoforms encoded by MTUS1 are highly expressed in most brain regions.
+0	NA	NA	NA	DISCUSS	ATIP1 binds to AT2 proteins, mediating neuronal differentiation survival and regeneration in brain.
+0	NA	NA	NA	DISCUSS	ATIP3 colocalizes with microtubules and regulates their polymerization, thereby regulating neuronal differentiation and neurite outgrowth.
+0	NA	MTUS1	NA	DISCUSS	Gene expression analysis revealed that the risk allele of eSNP near MTUS1 was associated with increased expression of MTUS1 in caudate.
+0	NA	MTUS1	NA	DISCUSS	DGE analyses demonstrated that expression of MTUS1 was higher in AD cases than controls in HIPP, DLPFC, and VCX.
+0	NA	MTUS1	NA	DISCUSS	Also, expression of MTUS1 was significantly greater in brains showing severe neurofibrillary tangle involvement.
+0	cognitive defects	MTUS1	NA	DISCUSS	The ADNI GWAS findings together with these expression findings suggest that MTUS1 expression may be related to changes in hippocampal volume prior to onset of cognitive impairment
+0	NA	SRRM4	NA	DISCUSS	SRRM4 encodes the neural-specific Ser/Arg repeat-related protein of 100kDa (nSR100) that promotes neurite outgrowth and alternative splicing and controls most neural microexons.
+0	autism	SRRM4	NA	DISCUSS	Down-regulated SRRM4 alters splicing of microexons in autism brains.
+0	NA	SRRM4	rs1997111	DISCUSS	"Association of SRRM4 SNP rs1997111 with t-Tau level in a subset of ADNI controls (i.e., from ""ADNI 1"" only) was previously identified at a significance level one order of magnitude less (P=1.1x10-8) than the result we obtained among CN subjects in our study (P=1.76x10-9)."
+0	NA	C14orf79	NA	DISCUSS	The functional relevance of C14orf79 and ZNF804B, the two other SWS but poorly characterized genes, to AD is unclear
+0	NA	GRIN2B	NA	DISCUSS	GRIN2B encodes the GluN2B subunit of the N-methyl-D-aspartate (NMDA) receptor (GluN2B-NMDA) which is involved in synaptic plasticity and memory function.
+0	NA	NA	NA	DISCUSS	GluN2B-NMDA is the target of memantine, a drug that provides symptomatic relief in patients with AD by antagonizing the GluN2B-NMDA receptor.
+0	NA	GRIN2B	NA	DISCUSS	A suggestive association of GRIN2B with temporal lobe volume (P=1.3x10-7) was reported in a previous GWA study in the ADNI-1 sample.
+0	NA	NRG1	NA	DISCUSS	NRG1 functions as an epidermal growth factor in the nervous system and is involved in the neuregulin signal transduction pathway for synapse maturation and dendritic morphology
+1	NA	AKAP9	NA	DISCUSS	Among the known AD genes, we found suggestive evidence for association with several SNPs located 381 kb upstream of AKAP9 with p-Tau level in MCI subjects (Supplementary Table 2, Supplementary Fig.
+0	NA	NA	NA	DISCUSS	13D).
+1	Alzheimer's disease	AKAP9	rs149454736	DISCUSS	We also found a suggestive association between rs149454736, located between exons 45 and 46 of AKAP9, and HPV in AD dementia subjects (P=2.2x10-7).
+1	NA	AKAP9	rs144662445	DISCUSS	Previously, we identified significant association of AD with two rare coding AKAP9 missense mutations in exons 31 (rs144662445) and 46 (rs149979685) in African Americans, and our study is the first to report association with this gene for AD risk in European ancestry individuals.
+1	NA	NA	rs149454736	DISCUSS	Rs149454736 is located 1.5 kb away from rs149979685.
+1	NA	AKAP9	NA	DISCUSS	AKAP9 has functional similarity with the tau protein in terms of microtubule stability and assembly
+0	NA	apolipoprotein E	NA	DISCUSS	With the exception of APOE, there is little overlap in GWS findings between our study and an investigation of genetic determinants of CSF Abeta42, t-Tau, and p-Tau levels in a much larger sample which included 787 ADNI subjects.
+0	NA	NA	NA	DISCUSS	Some of the differences may be explained by our study design which conducted analyses within separate groups of CN, MCI, and AD subjects.
+0	NA	NA	NA	DISCUSS	The prior study combined cognitive groups and included multiple cohorts with highly variable ascertainment and distributions of subjects across cognitive groups.
+0	NA	NA	NA	DISCUSS	In addition, we extended our findings by incorporating them in analyses of co-regulated transcriptional networks enriched with previously established AD genes.
+0	NA	apolipoprotein E	NA	DISCUSS	Further comparison of results across the two studies revealed that four of the six GWS SNPs (excluding the APOE region) in the Deming et al.
+0	NA	NA	NA	DISCUSS	report were nominally significant in specific cognitive groups in our study (Supplementary Table 9).
+0	NA	GLIS1	rs185031519	DISCUSS	For example, the association of rs185031519 near GLIS1 CSF Abeta42 (P=2.1x10-8) in the prior study was nominally significant in the CN group (P=8.3x10-3) in our study.
+0	NA	SRRM4	NA	DISCUSS	Several of our most significant findings (including SRRM4, MTUS1, and GRIN2B) are consistent with results of other studies of AD-related endophenotypes (Supplementary Table 10)
+0	NA	NA	NA	DISCUSS	Our findings may provide important insights about the sequence of processes leading to AD.
+0	NA	SRRM4	NA	DISCUSS	The SWS associations in CN subjects (SRRM4 with t-Tau and MTUS1 with HPV) implicate neuronal signaling, development and loss, but with the exception of APOE, they do not involve Abeta processing in the asymptomatic stage of AD.
+0	NA	apolipoprotein E	NA	DISCUSS	It is noteworthy that the APOE E4 allele was not associated with the CSF Tau biomarkers and other endophenotypes in cognitively normal subjects.
+0	NA	NA	NA	DISCUSS	The variants associated with CSF biomarkers and HPV could also be interpreted to be markers of cognitive reserve/resilience because they predict the extent of AD pathology in cognitively normal persons, but not in MCI or AD subjects.
+0	NA	NA	NA	DISCUSS	There is extensive evidence supporting the cognitive reserve hypothesis in AD.
+0	NA	NA	NA	DISCUSS	Also, the variants identified for memory performance and HPV in cognitively normal individuals could be markers of inherent memory function and hippocampal volume, completely independent of AD
+0	NA	NA	NA	DISCUSS	Our study has several limitations.
+0	NA	NA	NA	DISCUSS	First, the sample sizes for analyses of all traits in each clinical group, especially AD cases, were relatively small.
+0	NA	NA	NA	DISCUSS	Thus, we had low power to identify variants having small effects.
+0	NA	NA	NA	DISCUSS	In addition, it is possible that our top findings are false positives.
+0	NA	NA	NA	DISCUSS	However, the significant SNPs were supported by evidence in both constituent datasets (ADNI-1 and -GO/2) and from expression data analysis.
+0	NA	NA	NA	DISCUSS	Second, in the transcriptomic analyses we did not consider differences in cellular composition between AD and control brain tissue.
+0	neuronal loss	NA	NA	DISCUSS	Therefore, our results may have resulted from the excessive neuronal death in brains from AD subjects compared to controls.
+0	NA	NA	NA	DISCUSS	However, this concern would not impact our finding of increased MTSU1 expression in AD brains.
+0	NA	NA	NA	DISCUSS	Third, the two expression datasets generated using different platforms (RNA-seq versus microarray) from different brain regions (HIPP versus CER/DLPFC/VCX) limit direct comparisons between these datasets.
+0	NA	NA	NA	DISCUSS	Finally, it is necessary to repeat analyses in independent samples to confirm our findings and increase power to elevate the significance of true associations which did not attain study-wide significance
+0	NA	NA	NA	DISCUSS	In summary, we identified novel genes associated with AD-related endophenotypes in cognitively normal and MCI subjects.
+0	NA	NA	NA	DISCUSS	These genes had not been previously identified with AD risk and most of them are involved in neuronal development and signaling.
+0	cognitive defects	NA	NA	DISCUSS	Our findings suggest that genes influencing AD-related processes in individuals with normal cognition or with mild cognitive impairment may differ from those influencing these processes in individuals with AD dementia, but regulated together in the transcription level
+0	NA	SRRM4	NA	FIG	Regional association plots of (A) SRRM4 and (B) C14orf79 for CSF total tau in the CN subjects, (C) MTUS1 for hippocampal volume in the CN subjects, and (D) ZNF804B for logical memory delayed recall test in the MCI subjects
+0	NA	C14orf79	NA	FIG	Expression studies of (A) C14orf79 and (B) MTUS1 including boxplots for differentially expressed genes in the brain dorsolateral prefontal cortex (DLPFC) in the microarray data (GEO: GSE44772; left column) and in the hippocampus (HIPP) in the RNA-Seq data (Eisai Bio Bank data; middle column), and regression plots of gene expression by Braak stage in the RNA-Seq data (Eisai Bio Bank data; right column).
+0	NA	NA	NA	FIG	P-values in plots were computed from linear regression models after adjusting for covariates (details in the Methods)
+0	NA	NA	NA	FIG	(A) A heat-map of correlations between AD traits and the first principal component values of genes in modules.
+0	NA	NA	NA	FIG	Deeper colors indicate higher correlation with the traits (red: positive and blue: negative).
+0	NA	NA	NA	FIG	Values in the heat-map are correlation P-values.
+0	NA	NA	NA	FIG	(B) Connectivity plot of genes in modules M4 and M7, which were identified in this study or in previously reported in AD genome-wide association studies (GWAS).
+0	NA	NA	NA	FIG	Light colored circles indicate the genes identified in this study, and deep colored circles indicate previously identified AD genes.
+0	NA	brain-derived neurotrophic factor	NA	FIG	(C) The role of genes identified in GWAS of AD-related endophenotypes among cognitively normal and mild cognitively impaired subjects in the top-ranked canonical pathways; colors indicate the level of association significance of the genes identified in this study (red = study-wide significance; blue = genome-wide significance; brown = P<1.0x10-6 (except for BDNF in Supplementary Fig.
+0	NA	NA	NA	FIG	13H)
+0	cognitive defects	NA	NA	TABLE	Genome-wide significant association (P<5.0x10-8) of novel genes in cognitively normal (CN), mild cognitive impairment (MCI), or AD dementia subjects with CSF protein levels (Abeta42 and total and phosphorylated taus), hippocampal volume (HPV), and logical memory tests of immediate (LMiT) and delayed (LMdT) recall
+0	NA	NA	NA	TABLE	Genotype specific effect of the expression level among study-wide significant (8.33x10-9) SNPs using the GTEx Portal database
+0	NA	MTUS1	NA	TABLE	Summary statistics of association between expression levels of the genes (MTUS1 and C14orf79) and AD status as well as Braak Stage
+0	Alzheimer's disease	NA	NA	SUPPL	Genetic factors for Alzheimer disease related endophenotypes influencing prediagnosis stages is evaluate
+0	Alzheimer's disease	NA	NA	SUPPL	Genetic factors affecting early changes for Alzheimer disease via expression are proposed
+0	Alzheimer's disease	NA	NA	SUPPL	Co-regulated gene expression network containing genetic signatures associated with early changes in Alzheimer disease related endophenotypes that are interconnected with known AD risk genes
+0	Alzheimer's disease	NA	NA	SUPPL	Genes and pathways in early biological processes in Alzheimer disease are enriched in neuronal or synaptic function

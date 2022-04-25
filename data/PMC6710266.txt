@@ -1,0 +1,333 @@
+0	chronic kidney disease	NA	NA	ABSTRACT	Chronic kidney disease (CKD), defined by low estimated glomerular filtration rate (eGFR), contributes to global morbidity and mortality.
+0	chronic kidney disease	NA	NA	ABSTRACT	Here we conduct a transethnic Genome-Wide Association Study of eGFR in 280,722 participants of the Million Veteran Program (MVP), with replication in 765,289 participants from the Chronic Kidney Disease Genetics (CKDGen) Consortium.
+0	NA	NA	NA	ABSTRACT	We identify 82 previously unreported variants, confirm 54 loci, and report interesting findings including association of the sickle cell allele of betaglobin among non-Hispanic blacks.
+0	NA	NA	NA	ABSTRACT	Our transcriptome-wide association study of kidney function in healthy kidney tissue identifies 36 previously unreported and nine known genes, and maps gene expression to renal cell types.
+0	kidney stones	NA	NA	ABSTRACT	In a Phenome-Wide Association Study in 192,868 MVP participants using a weighted genetic score we detect associations with CKD stages and complications and kidney stones.
+0	retinopathy and nephropathy complications	NA	NA	ABSTRACT	This investigation reinterprets the genetic architecture of kidney function to identify the gene, tissue, and anatomical context of renal homeostasis and the clinical consequences of dysregulation
+0	chronic kidney disease	NA	NA	ABSTRACT	Persistently low levels of estimated glomerular filtration rate (eGFR) are a biomarker of chronic kidney disease.
+0	retinopathy and nephropathy complications	NA	NA	ABSTRACT	Here, the authors reinterpret the genetic architecture of kidney function across ancestries, to identify not only genes, but the tissue and anatomical contexts of renal homeostasis
+0	chronic kidney disease	NA	NA	INTRO	Chronic kidney disease (CKD), defined by an estimated glomerular filtration rate (eGFR) lower than 60 ml/min/1.73 m2 for three or more months, is a global health concern and is associated with premature death.
+0	NA	NA	NA	INTRO	CKD has a prevalence of 15% and affects 30 million people in the US.
+0	T2DM-ESRD	NA	NA	INTRO	In addition to the risk of progressing to end-stage-renal disease (ESRD), CKD is associated with significant cardiovascular morbidity and mortality.
+0	NA	NA	NA	INTRO	Patients with an eGFR of <15 ml/min/1.73 m2, for example, have a threefold increased mortality than those with normal renal function
+0	diabetes	NA	NA	INTRO	Diabetes is the most common comorbidity associated with ESRD worldwide, occurring in 44-60% of ESRD cases.
+0	diabetes	NA	NA	INTRO	CKD in diabetics is multifactorial and also related to hyperglycemia, hypertension, atherosclerosis, and aging.
+0	T2DM-ESRD	NA	NA	INTRO	Currently there are few therapies that slow CKD progression and life-extending treatments for ESRD are restricted to dialysis and transplantation
+0	NA	NA	NA	INTRO	There is a great need to understand the biological mechanisms that lead to CKD so that treatments that target those biological factors can be developed.
+0	NA	NA	NA	INTRO	Kidney function, as measured by eGFR, is a heritable trait that has been studied in genetic association studies, and over 50 eGFR loci have been definitively identified.
+0	NA	NA	NA	INTRO	A small proportion of variance in eGFR is explained by the subtle effects of previously reported variants, and the genetic etiology of this trait is highly complex.
+0	NA	NA	NA	INTRO	The inferences of what genes influence eGFR are often unclear from loci detected by genome-wide association studies (GWAS) of common variants, which comprise a large proportion of known genetic determinants.
+0	NA	NA	NA	INTRO	Regulatory effects may account for significant additional heritability in GWAS, and GWAS results are enriched for regulatory single-nucleotide polymorphisms (SNPs) compared with the proportion of the genome containing regulatory elements.
+0	NA	NA	NA	INTRO	In recent large-scale GWAS meta-analyses of eGFR, it was shown that many significant SNPs map into tissue-specific regulatory regions, and that gene expression may mediate many of the associations between genetic variants and eGFR.
+0	NA	NA	NA	INTRO	Several methods were recently developed to leverage multiple variants to perform gene-based tests of association between imputed gene expression levels and phenotypes.
+0	NA	NA	NA	INTRO	These tests are tissue-specific and provide effect estimates with interpretable direction and magnitude compared with studies that only evaluate associations between SNPs and traits
+0	NA	NA	NA	INTRO	Thus, to capitalize on our large electronic health record-based study of patients receiving care in a standardized setting and to leverage available analytical possibilities, we conduct a transethnic GWAS of eGFR in 280,722 participants of the U.S.
+0	chronic kidney disease	NA	NA	INTRO	Veteran's Administration Million Veteran Program, with replication in an additional 765,289 participants from the Chronic Kidney Disease Genetics (CKDGen) Consortium.
+0	diabetes	NA	NA	INTRO	In addition, because of the important role of diabetes in nephropathy, we stratify analysis by diabetes status.
+0	NA	NA	NA	INTRO	We also evaluate associations between genetically predicted gene expression (GPGE) in a human healthy kidney expression quantitative trait locus (eQTL) reference panel and eGFR, followed by comparison of significant GPGE associations with gene expression profiles in murine kidney cell types to identify the specific cells where gene expression effects likely arise.
+0	NA	NA	NA	INTRO	Finally, we evaluate clinical translation by performing a phenome-wide association study (PheWAS) of a weighted genetic risk score (GRS) of eGFR in the electronic health records across 192,868 MVP participants
+0	diabetes	NA	NA	RESULTS	A total of 280,722 participants were available from MVP for analyses of eGFR, ~33% were diabetic (Table 1).
+0	hypertension	NA	NA	RESULTS	Most participants were non-Hispanic whites (80%), male (93%), and hypertensive (70%).
+0	diabetes	NA	NA	RESULTS	When evaluating the data stratified by diabetes status, there were more diabetics than non-diabetics who were hypertensive within both race groups (non-Hispanic white diabetics and hypertensive 91%; non-Hispanic black diabetics and hypertensive 93%).
+0	diabetes	NA	NA	RESULTS	Across both race groups, eGFR was lower in diabetics than in non-diabetics, and eGFR was higher in non-Hispanic blacks than in non-Hispanic whites
+0	diabetes	MAF	NA	RESULTS	Meta-analyses of GWAS data were performed on all variants (minor allele frequency, MAF, >=1%), with data stratified by race, diabetes status, and hypertension status.
+0	diabetes	NA	NA	RESULTS	Meta-analysis of both race groups across all diabetes and hypertension strata identified 136 genome-wide significant loci, of which 122 were available and evaluated for replication in a transethnic GWAS meta-analysis of eGFR from the CKDGen Consortium (n = 765,289).
+0	NA	NA	NA	RESULTS	Fourteen of these SNPs or proxies from the all-ancestry analyses were unavailable for replication
+0	NA	NA	NA	TABLE	Summary of significant known and novel loci from analysis of common variant
+0	NA	NA	NA	FIG	Manhattan plot summarizing transethnic discovery meta-analysis of eGFR.
+0	NA	NA	NA	FIG	The y axis shows the -log10 P-values and the x axis shows the chromosomal positions.
+0	NA	NA	NA	FIG	The horizontal red line represents the thresholds of P-value = 5 x 10-8 for genome-wide significance.
+0	NA	NA	NA	FIG	SNPs in red are in previously-identified kidney function loci, whereas SNPs in orange are in novel loc
+0	NA	NA	NA	RESULTS	Of the 122 variants, 79 were replicated at the Tier 1 definition (p <= 5 x 10-8) and an additional 28 were Tier 2 replicated (5 x 10-8 < p <= Bonferroni correction for 122 SNPs = 0.0004), and 11 were Tier 3 replicated (0.0004 < p <= 0.05) (Supplementary Data 1, Table 2, Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	NA	NA	RESULTS	Only four showed no evidence of association in CKDGen.
+0	NA	NA	NA	RESULTS	Meta-analysis of p-values from MVP and CKDGen results identified all Tier 1 and seven Tier 2 results as genome-wide significant.
+0	NA	NA	NA	RESULTS	Across the three tiers of successful replication, 2.75% of variance in eGFR was explained.
+0	retinopathy and nephropathy complications	NA	NA	RESULTS	Fifty-seven of these results have been previously detected in GWAS of eGFR, while six others have associated with overt kidney disease, microalbuminuria, or other related phenotypes in prior studies.
+1	NA	NRIP1	rs2823139	RESULTS	Among 64 novel variants, the most significantly associated was rs2823139 near NRIP1 (pdiscovery = 1.82 x 10-18, effect = -0.45 mL/min/1.73 m2 [standard error (SE) = 0.051]; preplication =  5.24 x 10-16).
+0	NA	NA	NA	RESULTS	Evaluation of conditionally independent signals within the discovery meta-analysis results using GCTA identified 18 SNPs from 15 loci (five novel) that are significantly independently associated with eGFR (Supplementary Table 1)
+0	NA	NA	NA	RESULTS	We also conducted analyses limiting to non-Hispanic white individuals.
+0	NA	NA	NA	RESULTS	Similar to the trans-ancestry analyses, the majority of variants replicated in CKDGen (n = 567,401; Supplementary Data 2).
+0	NA	NA	NA	RESULTS	Six variants failed to replicate (p > 0.05).
+0	NA	NA	NA	RESULTS	Of the 105 replicated SNPs, 61 were Tier 1 (p <= 5 x 10-8), 29 were Tier 2 (5 x 10-8 < p <= 0.00048), and 9 were Tier 3 (0.00048 < p <= 0.05)
+0	NA	NA	NA	RESULTS	We identified 14 variants that were significant in non-Hispanic blacks (Supplementary Table 2) within our MVP discovery population.
+1	NA	C15orf43	rs75113983	RESULTS	Among these four were novel (rs75113983 near OLFR690, rs200950799, which is intergenic on chromosome 12, rs144803907 near C15orf43, rs10084572 near AGPAT3).
+0	NA	NA	rs13230509	RESULTS	Only one of these novel variants was also identified in non-Hispanic white analyses (rs13230509).
+0	NA	beta globin	rs334	RESULTS	An interesting finding among the non-Hispanic blacks is the strong association with rs334 (p = 1.54 x 10-18) in HBB, the variant which encodes the sickle cell allele of beta globin.
+0	NA	NA	NA	RESULTS	The origins of this variant have been recently described.
+0	NA	beta globin	NA	RESULTS	The derived A allele on the + strand that encodes for the sickle version of the beta globin protein is associated with lower kidney function.
+0	NA	NA	NA	RESULTS	This allele has also been previously associated with increased urinary albumin-to-creatinine ratio
+0	NA	NA	NA	RESULTS	We compared the effect sizes for significant discovery GWAS results across non-Hispanic black and non-Hispanic white subjects MVP (Supplementary Fig.
+0	NA	NA	NA	RESULTS	1, Supplementary Table 3).
+0	NA	NA	NA	RESULTS	Most of the effects were in the same direction except for three variants.
+0	NA	LDB2	rs142314590	RESULTS	One was a novel variant (rs142314590 in LDB2) and two were known variants (rs532086 and rs2235826 near C2 and PRK1, respectively).
+0	NA	NA	NA	RESULTS	The effect sizes across non-Hispanic black and non-Hispanic white subjects were more correlated among known (r2 = 0.25) loci than novel (r2 = 0.13) variants (Supplementary Table 3).
+0	NA	NA	NA	RESULTS	The overall allele frequencies across ancestry groups for significant variants were highly correlated (r2 = 0.67)
+0	diabetes	NA	NA	RESULTS	There were 91,279 patients with diabetes.
+0	NA	NA	NA	RESULTS	In our GWAS for this group we identified 32 variants reaching genome-wide significance, which make up a subset of the loci discovered in combined analysis.
+0	NA	NA	NA	RESULTS	Seventeen of these variants were in known loci and 15 were novel loci (Supplementary Data 3, Supplementary Figs.
+0	NA	NA	NA	RESULTS	2 and 3).
+1	NA	UMOD	NA	RESULTS	The top six hits were near UMOD (p = 2.43 x 10-82), PRKAG2 (p = 7.89 x 10-23), MPPED2/DCDC5 (p = 9.85 x 10-22) GATM/SPATA5L1 (p = 2.21 x 10-17), SHROOM3 (p = 1.63 x 10-13), and HBB (p = 7.95 x 10-13).
+0	diabetes	NA	NA	RESULTS	Comparison of the association effect sizes in the stratified analysis in subjects with (Supplementary Data 3) and without diabetes (Supplementary Data 4) demonstrated generally consistent effects reflecting the shared pathways between diabetic and non-diabetic kidney disease (Supplementary Fig.
+0	NA	NA	NA	RESULTS	4)
+0	NA	NA	NA	RESULTS	Subsequently, we utilized the LD Score Regression approach in each contributing group to ascertain whether inflation was due to residual population stratification or polygenicity.
+0	diabetes	NA	NA	RESULTS	Calculation of the intercept in the MVP non-Hispanic white discovery analysis datasets were 1.02 (SE = 0.01), 1.04 (SE = 0.01), 1.03 (SE = 0.01), and 0.99 (SE = 0.01), for diabetics with hypertension, non-diabetics with hypertension, non-diabetics without hypertension and diabetics without hypertension, respectively, suggesting that little of the observed inflation in the lambda is due to population stratification (Supplementary Table 4).
+0	diabetes	NA	NA	RESULTS	Similarly, intercepts in the MVP non-Hispanic black discovery analysis datasets were 1.01 (SE = 0.003), 1.02 (SE = 0.004), 1.00 (SE = 0.003), and 1.00 (SE = 0.003), for diabetics with hypertension, non-diabetics with hypertension, non-diabetics without hypertension, and diabetics without hypertension, respectively
+0	NA	NA	NA	RESULTS	Evaluation of SNP-based heritability was assessed using LD score regression across groups and indicated that eGFR was most heritable among non-diabetics and non-hypertensive individuals in both non-Hispanic whites (h2 = 0.15, SE = 0.02) and non-Hispanic blacks (h2 = 0.13, SE = 0.04) (Supplementary Table 4).
+0	NA	NA	NA	RESULTS	In general, heritability was higher in non-Hispanic whites than in non-Hispanic blacks
+0	NA	NA	NA	FIG	Juxtaposed mirror plots for S-PrediXcan and GWAS for eGFR.
+0	NA	NA	NA	FIG	Log10(p-values) for associations between genetically predicted gene expression (GPGE) analyses with eGFR in kidney tissue are juxtaposed with -log10(p-values) from transethnic GWAS analyses (triangles represent odd numbered chromosomes, circles represent even numbered chromosomes).
+0	NA	NA	NA	FIG	GWAS plot represents transethnic discovery meta-analysis results (chromosomes alternate by light gray and black coloration
+0	NA	NA	NA	RESULTS	Common variants from transethnic meta-analyses were used to evaluate the association between eGFR and GPGE in human healthy kidney tissue using S-PrediXcan with the healthy kidney eQTL reference described by Ko et al.
+0	NA	NA	NA	RESULTS	(Fig.
+0	NA	NA	NA	RESULTS	2, Supplementary Data 5).
+0	NA	NA	NA	RESULTS	We identified 45 significant results for transethnic analyses, among these 36 were novel genes which had not been identified by GWAS, either in the original reports or by the GWAS catalog mapping.
+1	NA	SPATA5L1	NA	RESULTS	The strongest result was with a known CKD locus, SPATA5L1 (effect = -2.38; p = 1.01 x 10-110).
+0	NA	TPRKB	NA	RESULTS	The strongest novel result was at TPRKB, a protein coding gene for the TP53RK-binding protein (effect = -10.78; p = 3.40 x 10-22).
+0	NA	NA	NA	RESULTS	Twenty-five of the 45 genes with significant results were associated with a decrease in kidney function with increasing renal gene expression.
+0	NA	NA	NA	RESULTS	Among all significant results, 19 also had SNPs likely to be causal for both gene expression and eGFR differences, as identified through the COLOC approach
+0	diabetes	NA	NA	RESULTS	We also conducted secondary GPGE analyses stratifying subjects by diabetes status (Supplementary Data 5).
+1	diabetes	SPATA5L1	NA	RESULTS	SPATA5L1 was the strongest result in analyses of diabetic and non-diabetic participants, with stronger effects estimated in the non-diabetics.
+0	diabetes	NA	NA	RESULTS	In analyses of diabetic participants, we identified seven significant associations.
+0	diabetes	HLA-H	NA	RESULTS	Two of the genes (HLA-H, UBD) identified in analyses of diabetic participants were not observed in overall analyses (combining diabetics and non-diabetics) or in analyses limiting to non-diabetic subjects.
+0	NA	NA	NA	RESULTS	Both genes were associated with a decrease in kidney function with increasing expression and neither gene has been previously associated with eGFR.
+0	NA	HLA-H	NA	RESULTS	HLA-H has been associated with non-albumin protein levels and UBD with blood proteins.
+0	diabetes	NA	NA	RESULTS	All significant results in analyses of non-diabetics were also identified in overall analyses combining diabetics and non-diabetics
+0	NA	NA	NA	FIG	Mapping eGFR-associated genes to kidney cell type clusters.
+0	diabetes	NA	NA	FIG	Average expression level of GWAS/eQTL defined genes across overall transethnic (ALL), diabetic (DM), and non-diabetic (Non DM) analyses.
+0	NA	NA	NA	FIG	Mean expression values of the genes were calculated in each cluster.
+0	NA	NA	NA	FIG	Color scheme is based on z-score distribution.
+0	NA	NA	NA	FIG	Each row represents one gene and each column is single cell type cluster (as defined by Park et al.)
+0	NA	NA	NA	FIG	on the heatmap.
+0	NA	NA	NA	FIG	Endo: endothelial, vascular, descending loop of Henle, Podo: podocyte, PT: proximal tubule, LOH: ascending loop of Henle, DCT: distal convoluted tubule, CD-PC: collecting duct principal cell, CD-IC: CD intercalated cell, Fib: fibroblast, Macro: macrophage, Neutro: neutrophil, NK: natural killer cel
+0	NA	NA	NA	RESULTS	We also evaluated homologs of genes identified in GPGE analyses using an atlas of kidney cell type-specific RNA expression from single cell sequencing of murine kidney cells (Fig.
+0	NA	NA	NA	RESULTS	3, Supplementary Table 5).
+0	NA	NA	NA	RESULTS	Cells were clustered into 13 types that represent structural features and other cell types of the kidney.
+0	NA	NARS2	NA	RESULTS	We identified six genes (NARS2, ARNT, TPRKB, RNF152, BST2, and RGS14) across five cell types (podocyte, proximal tubule, collecting duct principal cell, fibroblast, and neutrophil) that had a 1.96 or greater fold increase in gene expression, though none of these were significant after accounting for multiple tests.
+0	NA	TPRKB	NA	RESULTS	Cross-referencing protein expression levels in the Human Protein Atlas confirmed findings from murine kidney, including higher expression of TPRKB protein in tubules compared with glomeruli (Supplementary Table 6)
+0	NA	NA	NA	RESULTS	To assess the potential pleiotropic effects of associated eGFR variants we tested the association between an eGFR weighted GRS (w-GRS) and diseases throughout the phenome using 63 SNPs with independent weights identified previously in the CKDGen Consortium (Supplementary Table 7) and clinical phenotype data from 192,868 self-reported/administratively identified non-Hispanic white MVP individuals (Supplementary Table 8).
+0	NA	NA	NA	RESULTS	We regressed PheWAS outcomes onto the w-GRS, adjusting for sex and the top ten principal components of ancestry.
+0	NA	NA	NA	RESULTS	We identified nine conditions that were significantly associated with the eGFR w-GRS.
+0	T2DM-ESRD	NA	NA	RESULTS	The majority were diseases related to genitourinary systems (n = 6), the strongest result was with chronic renal failure (p = 3.55 x 10-57, OR per SD of w-GRS = 0.88).
+0	kidney stones	NA	NA	RESULTS	Interesting results included calculus of kidney, calculus of ureter, and urinary calculus, which were all significant and positively associated with the weighted GRS (i.e., increased eGFR [improved kidney function] associated with increased risk of kidney stones).
+0	absence of renal failure	NA	NA	RESULTS	In addition, we observed significant associations with stage III of CKD and renal failure
+0	NA	NA	NA	DISCUSS	We present the results from a multi-omic transethnic GWAS of eGFR with discovery and replication in over a million participants.
+0	NA	NA	NA	DISCUSS	We identified several novel loci using multiple statistical and bioinformatics approaches and validated previously reported loci, with replicated SNPs explaining 2.75% of eGFR variance.
+0	NA	NA	NA	DISCUSS	Significant strengths of this study include our large discovery and replication populations, transethnic analyses of diverse populations, incorporation of GPGE from a healthy human kidney reference, identification of cell-specific eGFR-associated gene expression from murine kidney, and evaluation of the clinical phenome through PheWAS of an eGFR w-GRS.
+0	diabetes	NA	NA	DISCUSS	We also assessed heterogeneity of effect estimates at GWAS loci between diabetic and non-diabetic populations.
+0	NA	NA	NA	DISCUSS	In addition to identifying novel and known loci, our discovery analyses using the MVP population showed heritability estimates consistent with published studies of eGFR, supporting the quality of our EHR phenotyping.
+0	NA	NA	NA	DISCUSS	These data provide insight into the genetic architecture and clinical factors of eGFR
+0	NA	GFR	NA	DISCUSS	The limitations of estimating GFR from creatinine and/or cystatin C include low sensitivity in detecting early CKD and poor prediction of the course of CKD.
+0	NA	NA	NA	DISCUSS	These limitations have been described previously in detail.
+0	NA	NA	NA	DISCUSS	However, despite these limitations, eGFR is the outcome most often used in genetic association studies of kidney function because of its clinical utility and the translational potential of inferences, as well as the availability of large numbers relative to alternative measures
+0	retinopathy and nephropathy complications	NA	NA	DISCUSS	We identified several novel common variants associated with eGFR, some of which may tag genes implicated in Mendelian forms of kidney disease.
+0	NA	PKD1	NA	DISCUSS	For instance, we detected a common (and reportedly benign) missense variant in PKD1 (polycystin 1) associated with eGFR.
+0	polycystic kidney disease	PKD1	NA	DISCUSS	Mutations in PKD1 can cause autosomal dominant polycystic kidney disease (OMIM #173900).
+0	polycystic kidney disease	NOS3	NA	DISCUSS	Variants in NOS3 (nitric oxide synthase 3), where we also detected an association with eGFR, may act as a modifier among those with polycystic kidney disease through the nitric oxide pathway.
+1	NA	NRIP1	NA	DISCUSS	We also identified associations near the NRIP1 gene (nuclear receptor interacting protein 1), with supporting GPGE evidence.
+1	congenital anomalies of the kidney	NRIP1	NA	DISCUSS	NRIP1 mutations have recently been implicated in congenital anomalies of the kidney and urinary tract (OMIM# 610805), which are a leading cause of CKD among those under 30.
+0	NA	NA	NA	DISCUSS	It has been suggested that mutations in this gene cause CKD through disruption of retinoic acid signaling
+0	NA	NA	NA	DISCUSS	Novel SNP associations were found at or nearby genes previously reported in GWAS of other renal and urological phenotypes.
+0	retinopathy and nephropathy complications	KLHDC7A	NA	DISCUSS	Specifically, loci were identified with urate/urea/uric acid levels (KLHDC7A, MTX1, RREB1, and MIR1538), urine albumin-to-creatinine ratio (C9orf3), IgA Nephropathy (MTMR3), and frequency of urinary tract infection (ZNF165).
+0	diabetes	NA	NA	DISCUSS	We also observed an association at a pharmacogenetic locus strongly related to tacrolimus dose in renal transplant patients, as well as development of new-onset diabetes after transplant.
+0	NA	NA	NA	DISCUSS	However, transplant patients were excluded from this analysis
+1	NA	TET2	NA	DISCUSS	Loci implicated in platelet and red blood cell phenotypes were also represented among novel eGFR-associated SNPs, including TET2, HIST1H1C, UBE2H, TRIB1-LOC105375746, FAM53B, TPM1, NRIP1, A4GALT, DOCK7, PLCB1, and SERTAD2.
+0	NA	NA	NA	DISCUSS	It has been previously shown that mean platelet volume, platelet counts, and platelet distribution width are associated with eGFR.
+0	NA	NA	NA	DISCUSS	Higher values of mean platelet volume are observed among CKD patients, while platelet count and distribution width decrease along with eGFR.
+0	absence of renal failure	NA	NA	DISCUSS	CKD patients also demonstrate an attenuated response to antiplatelet therapy relative to those without renal insufficiency
+0	cerebral infarctions	NA	NA	DISCUSS	Ischemic stroke is a common secondary occurrence in CKD patients, which may be due to shared risk factors.
+0	Stroke	NA	NA	DISCUSS	Reduced kidney function among stroke patients is a risk factor for mortality.
+0	cerebral infarctions	USP38	NA	DISCUSS	We identified four novel eGFR-associated loci which have been previously associated with ischemic stroke in other studies, specifically USP38, ZFHX3, PMF1-BGLAP, and TTBK1.
+0	cerebral infarctions	APOL1	NA	DISCUSS	A previous analysis of the APOL1 high risk variants showed increased risk of ischemic stroke.
+0	NA	NA	NA	DISCUSS	Combined with our results, this suggests that the genetic architecture of kidney function may predispose to other small vessel disease outcomes
+0	NA	APOL1	NA	DISCUSS	We examined the APOL1 locus extensively for association with eGFR in black MVP participants in anticipation that there would be a relationship there with eGFR and did not observe an association with an additive genotype coding.
+0	retinopathy and nephropathy complications	APOL1	NA	DISCUSS	It has been suggested in multiple studies where participants had predominantly normal kidney function that APOL1 is a kidney disease gene and has not been significantly associated with eGFR.
+0	NA	APOL1	NA	DISCUSS	This suggests that the lack of association between APOL1 genetic variants and eGFR is likely not due to low power, as has been true in previous studies of African-descent populations
+0	NA	NA	NA	DISCUSS	We evaluated our transethnic sentinel SNPs for consistency of effect size across racial groups and found that in general effects were of similar direction, with only three variants being of opposite effect in non-Hispanic blacks (Supplementary Fig.
+0	NA	NA	NA	DISCUSS	1).
+0	NA	PCK2	rs532086	DISCUSS	These included two known variants: rs532086 at C2, rs2235826 at PCK2 and a novel variant, rs12646572 at LDB2.
+0	NA	NA	NA	DISCUSS	Effect sizes of these three SNPs in non-Hispanic blacks were small (<0.01) and likely represented null effects.
+0	NA	NA	NA	DISCUSS	Comparison of variants identified in non-Hispanic blacks with non-Hispanic whites demonstrated consistency of direction across known variants with effect sizes generally similar or larger in non-Hispanic blacks.
+0	NA	NA	NA	DISCUSS	When eGFR effects across the entire genome were compared between white and black MVP participants using the Popcorn software package, the genetic effects were highly correlated and not significantly different from no difference (rge = 0.94, p = 0.45).
+0	NA	NA	NA	DISCUSS	Novel variants detected in non-Hispanic blacks were not observed in non-Hispanic whites.
+1	NA	UMOD	NA	DISCUSS	Our analysis of eGFR in non-Hispanic whites was largely consistent with previous European-ancestry cohorts, replicating many strongly associated loci among our top hits, such as UMOD, GATM/SPATA5L1, SHROOM3, CPS1, PRKAG2, and SLC31A1
+0	NA	beta globin	rs334	DISCUSS	An interesting finding among the non-Hispanic blacks is the strong association with rs334 (p = 1.54 x 10-18, SNPTEST info score = 0.75) in HBB, which encodes the sickle cell allele of beta globin.
+0	NA	NA	NA	DISCUSS	This variant has been previously associated with increased urinary albumin-to-creatinine ratio.
+0	NA	NA	NA	DISCUSS	The sickling allele was present at a frequency of 5.7% among MVP non-Hispanic blacks, despite sickle cell trait carriers being restricted from serving in certain roles in the United States armed forces.
+0	NA	MAF	NA	DISCUSS	This observed frequency is higher than that in the African Americans from the southwestern United States in 1000 Genomes (MAF = 1.6%), but substantially lower than in continental African populations (MAF 10.1-13.9%).
+0	NA	NA	NA	DISCUSS	Screening for sickle cell in the United States Military has undergone several changes since the initial policy was introduced in 1969, in which the Navy began screening all recruits.
+0	NA	NA	NA	DISCUSS	Currently universal sickle cell screening is performed prior to military ascension in the U.S. Navy, Air Force, and Marine Corps, while in the U.S. Army screening is performed only in specific scenarios related to deployment and certain occupational hazards.
+0	NA	NA	NA	DISCUSS	Similarly, in other countries' militaries, sickle cell allele carriers may be barred from diving, submarine, and aircrew service.
+0	exertional rhabdomyolysis	NA	NA	DISCUSS	A recent study found that sickle cell trait was not associated with increased risk of mortality among black soldiers in the U.S. Army, but that it was associated with increased risk of exertional rhabdomyolysis (breakdown of skeletal-muscle tissue).
+0	NA	NA	NA	DISCUSS	However, the effect of sickle cell trait was less than that of recent statin use.
+0	NA	NA	NA	DISCUSS	Our results suggest that this allele also negatively affects kidney function, which may indicate that carriers should be monitored clinically for decreases in eGFR
+0	insulin-treated diabetes	CDKAL1	NA	DISCUSS	Associations were also identified near loci previously implicated in diabetes and insulin/glucose homeostasis (CDKAL1, SLC9B2, RREB1, RAI1, and PPARG).
+0	diabetes	CDKAL1	NA	DISCUSS	CDKAL1, RREB1, and PPARG  were not significant in either arm of the diabetes stratified analysis, while RAI1 and SLC9B2 were significant in the non-diabetes group.
+0	diabetes	NA	NA	DISCUSS	We identified 36 SNPs that reached genome-wide significance in our diabetes strata, 12 were novel and not significant in non-diabetics, but were observed in the overall transethnic analysis combining diabetic groups.
+0	diabetes	NA	NA	DISCUSS	We also did an exploratory comparison of the association effect size in the subjects with and without diabetes.
+0	NA	NA	NA	DISCUSS	The effects were generally consistent across groups (Supplementary Fig.
+0	NA	NA	NA	DISCUSS	3).
+0	diabetes	UMOD	NA	DISCUSS	Uromodulin (UMOD) has been recently detected in a GWAS of diabetic eGFR that limited to diabetic subjects.
+0	diabetes	UMOD	NA	DISCUSS	We observed similar associations for UMOD in separate analyses within diabetic and non-diabetic participants (sentinel SNP [A effect allele] effect size for UMOD diabetic 0.11 and non-diabetic 0.07), suggesting the association is not specific to diabetics.
+0	retinopathy and nephropathy complications	UMOD	NA	DISCUSS	UMOD is known to affect kidney function and mutations in that gene cause several syndromic kidney disorders.
+0	diabetes	NA	NA	DISCUSS	Few variants have reached genome wide significance for studies of eGFR in patients with diabetes, potentially due to power and heterogeneity of renal disease phenotypes in diabetics
+0	NA	NA	NA	DISCUSS	We leveraged the human healthy kidney eQTL reference first described by Ko et al.
+0	NA	NA	NA	DISCUSS	to investigate the relationship between GPGE and eGFR using S-PrediXcan.
+0	NA	NA	NA	DISCUSS	We detected associations with 45 genes, 18 of which are not annotated for any trait in the GWAS catalog, either by the original report or by the catalog mapping.
+0	retinopathy and nephropathy complications	NA	NA	DISCUSS	When we restricted the GWAS catalog to genes identified by studies of eGFR, CKD, kidney disease, urinary albumin to creatinine ratio, or urinary metabolites, 36 of the 45 genes we detected were novel.
+1	NA	SPATA5L1	NA	DISCUSS	The most statistically significant association with GPGE was for the spermatogenesis associated protein 5-like 1 gene (SPATA5L1).
+0	NA	NA	NA	DISCUSS	This locus has been previously reported to be associated with eGFR.
+0	NA	GATM	NA	DISCUSS	However, there are several genes in the region and Kottgen et al suggested the nearby gene glycine amidinotransferase (GATM), based on a pathway-level connection of that gene to creatinine biosynthesis.
+1	NA	SPATA5L1	rs2467853	DISCUSS	The sentinel non-coding SNP rs2467853 in this region is within the SPATA5L1 gene and is more strongly associated with SPATA5L1 expression in human kidney than GATM (rs2467853 SPATA5L1 beta = 0.77, p = 8.2 x 10-8; GATM beta = 2 x 10-4, p = 0.99).
+0	NA	GATM	NA	DISCUSS	In our evaluation of RNAseq and genotypes in cis with GATM from healthy human kidney, no models could be constructed that sufficiently predict GATM expression to use in GPGE analysis.
+1	NA	SPATA5L1	NA	DISCUSS	We detected an association between GPGE and eGFR for SPATA5L1 and not for GATM, as well as a COLOC signal with a high posterior probability (P4 = 0.98) of several SNPs in the region being causal for both SPATA5L1 expression levels and the eGFR association signal, and no COLOC or GPGE evidence supporting GATM.
+1	NA	SPATA5L1	NA	DISCUSS	The mechanism underlying the relationship between SPATA5L1 gene product abundance and kidney function is unclear
+0	NA	TPRKB	NA	DISCUSS	The most statistically significant novel gene detected in S-PrediXcan analysis was the TP53RK-binding protein (TPRKB), which is significantly highly expressed in murine proximal tubules.
+0	nephrotic syndrome	TPRKB	NA	DISCUSS	Consanguineous families with homozygous missense mutations in TPRKB have been diagnosed with Galloway-Mowat syndrome-5 (OMIM #617731), in which affected people exhibit early-onset nephrotic syndrome, as well as dysmorphologies and delayed psychomotor development.
+0	NA	NARS2	NA	DISCUSS	The NARS2 gene is also novel and significantly highly expressed in murine podocytes.
+0	impaired pancreatic beta	NA	NA	DISCUSS	Mutations of this gene have been observed in a phenotype similar to Alpers syndrome that included renal dysfunction (OMIM #612803)
+0	NA	UMOD	NA	DISCUSS	It is also notable that UMOD from the chr16p12.3 region was not associated in the GPGE association analysis.
+0	NA	UMOD	NA	DISCUSS	No SNPs in the UMOD region were sufficiently associated with UMOD expression in the human kidney reference data to create predictive models for S-PrediXcan analysis.
+0	NA	UMOD	NA	DISCUSS	This suggests that the relationship between UMOD genotypes and kidney function is mediated by a mechanism other than gene expression, or that the proportion of cells from which UMOD is expressed is small and difficult to detect in bulk RNA sequencing of whole kidney.
+0	nephrotic syndrome	UMOD	rs77924615	DISCUSS	The sentinel SNP nearby UMOD from our study (rs77924615) is a nominally significant eQTL within NephQTL (a database of nephrotic syndrome human kidneys) in the kidney tubules (p = 0.0014) and has a non-significant effect in the glomerulus (p = 0.079).
+0	NA	UMOD	rs111285796	DISCUSS	The conditionally independently associated SNP rs111285796 in UMOD is also nominally associated in NephQTL with UMOD expression in tubules (p = 3.6 x 10-4) and less associated with other genes at this locus (PDILT p = 0.047), and less significant for glomerulus (UMOD p = 0.021).
+0	retinopathy and nephropathy complications	UMOD	rs111285796	DISCUSS	Within a healthy kidney eQTL atlas (Online Methods) rs111285796 is not associated with UMOD in tubules (p = 0.214) but is nominally associated in glomerulus (p = 0.004).
+0	nephrotic syndrome	NA	NA	DISCUSS	This demonstrates that there are important differences between the nephrotic and healthy kidney reference data with regard to cis-eQTL effects at this locus and suggests that SNPs in this locus influence gene expression in a context-dependent manner
+0	NA	NA	NA	DISCUSS	We constructed a w-GRS of eGFR and performed a PheWAS using EHRs from 192,868 non-Hispanic white MVP participants.
+0	NA	NA	NA	DISCUSS	To our knowledge this is the first PheWAS of an eGFR w-GRS.
+0	NA	NA	NA	DISCUSS	We observed several associations between our w-GRS and kidney disease-related phenotypes.
+0	T2DM-ESRD	NA	NA	DISCUSS	The most significant PheWAS association (p = 3.55 x 10-57) was with chronic renal failure, followed by related renal failure phenotypes, and CKD stage III (p = 6.13 x 10-24), all diseases defined by eGFR.
+0	hypertension	NA	NA	DISCUSS	Our w-GRS was associated with hypertensive kidney disease but not essential hypertension.
+0	kidney stones	NA	NA	DISCUSS	In addition, we observed an association with kidney stones that was positively associated with our w-GRS; a relationship that has not been previously reported with eGFR.
+0	hypercalciuria	NA	NA	DISCUSS	Our results are consistent with a prior study that reported an association between increased eGFR and hypercalciuria.
+0	kidney stones	NA	NA	DISCUSS	It is known that some individual genes that influence eGFR are also important for kidney stone formation.
+0	kidney stones	UMOD	NA	DISCUSS	For example, decreased production of UMOD is associated with kidney stone formation as uromodulin impairs the aggregation of calcium oxalate crystals, hypertension, arterial stiffness, and CKD
+0	NA	NA	NA	DISCUSS	In conclusion, we identified multiple novel loci associated with eGFR levels after conducting a transethnic GWAS and several post-GWAS bioinformatic analyses.
+0	NA	NA	NA	DISCUSS	We identified several novel loci and genes with additional confirmation and refinement through GPGE analyses, including cell-specific expression.
+0	NA	NA	NA	DISCUSS	We observed consistent effects across racial groups for associated GWAS loci.
+0	retinopathy and nephropathy complications	NA	NA	DISCUSS	Furthermore, we evaluated the clinical phenome associated with our eGFR w-GRS and identified associations among diseases related to kidney and endocrine disease phenotypes.
+0	NA	NA	NA	DISCUSS	Overall, our study leveraged a racially diverse clinical population to identify novel eGFR loci common across racial groups and remapped previously reported loci using GPGE, leading to a greater understanding of the genetic architecture of kidney function
+0	NA	NA	NA	METHODS	The central Veterans Affairs (VA) institutional review board (IRB) and site-specific IRBs approved the Million Veteran Program study
+0	NA	NA	NA	METHODS	The Million Veteran Program (MVP) is a large cohort of fully consented participants who were recruited from the patient populations of 63 VA medical facilities.
+0	NA	NA	NA	METHODS	MVP recruitment was initiated in 2011 and conducted in-person, after responding to an invitation letter.
+0	NA	NA	NA	METHODS	Full MVP participation includes completion of baseline and lifestyle surveys, providing access to medical records, a blood sample, and giving permission to recontact.
+0	NA	NA	NA	METHODS	Informed consent is provided after counseling by research staff and access to informational materials.
+0	NA	NA	NA	METHODS	All study materials and protocols are approved by the VA Central Institutional Review Board.
+0	NA	NA	NA	METHODS	Genotyping was performed on the Affymetrix Axiom Biobank Array chip, with custom content included to provide better coverage of African and Hispanic haplotypes.
+0	NA	NA	NA	METHODS	All samples are de-identified for research purposes, and investigators are not permitted or able to link study data to a participant's identity
+0	NA	NA	NA	METHODS	Blood samples were obtained from MVP participants by phlebotomists and shipped to a central biorepository in Boston, Massachusetts for biobanking.
+0	NA	NA	NA	METHODS	DNA was extracted and provided to two external sites for genotyping.
+0	NA	v1.18	NA	METHODS	Standardized quality control and genotype calling algorithms using the Affymetrix Power Tools Suite (v1.18) were applied to the data in batches by the MVP genomics working group.
+0	NA	NA	NA	METHODS	Quality control pipelines included the exclusion of duplicate samples, those with discordant reported and genotyped sex, and samples with more heterozygosity than expected.
+0	NA	NA	NA	METHODS	One of each pair of related individuals as measured by the KING software(halfway between 2nd and 3rd degree relatives or closer) were excluded from genetic analysis
+0	NA	NA	NA	METHODS	 Prior to imputation, variants that were poorly called or that deviated from their expected allele frequency based on reference data from the 1000 Genomes Project were excluded.
+0	NA	NA	NA	METHODS	After pre-phasing using EAGLE v2, genotypes from the 1000 Genomes Project phase 3, version 5 reference panel were imputed into Million Veteran Program (MVP) participants via Minimac3 software.
+0	NA	NA	NA	METHODS	Principal component analysis was performed using the FlashPCA, to generate the top ten genetic principal components explaining the greatest variability
+0	NA	NA	NA	METHODS	Information on race and ethnicity (Hispanic: Yes or No) were extracted from standardized survey forms (self-report), or from the corporate data warehouse (CDW), or observational medical outcomes partnership (OMOP) data, when information from self-report was unavailable, and data were combined to form administratively assigned variables.
+0	NA	NA	NA	METHODS	Race and ethnicity categories used in this study included non-Hispanic whites and non-Hispanic blacks
+0	NA	NA	NA	METHODS	Baseline estimated glomerular filtration rate (eGFR) was determined using the creatinine closest to enrollment.
+0	NA	NA	NA	METHODS	For the vast majority of the patients creatinine was measured using the IDMS reference method.
+0	retinopathy and nephropathy complications	GFR	NA	METHODS	GFR was calculated using chronic kidney disease epidemiology collaboration (CKD-EPI) serum creatinine equation.
+0	NA	NA	NA	METHODS	The eGFR CKD-EPI equation is (1)
+0	NA	GFR	NA	METHODS	GFR = 141 xmin(Scr xkappa-1,1)alpha x max(Scr x kappa-1, 1)-1.209 x 0.993Age  x 1.018 [if female] x 1.159 [if Black
+0	NA	NA	NA	METHODS	where Scr is serum creatinine (mg/dL), kappa is 0.7 for females and 0.9 for males, alpha is -0.329 for females and -0.411 for males, min indicates the minimum of Scr x kappa-1 or 1, and max indicates the maximum of Scr x kappa-1 or 1.
+0	NA	NA	NA	METHODS	We excluded individuals that were on dialysis, had a kidney transplant, amputees, individuals on HIV medications which may increase creatinine clearance, BMI < 18, and Scr values less than 0.4 mg/dl as they may have represented lab errors.
+0	diabetes	NA	NA	METHODS	Diabetic patients were defined as those subjects on any anti-diabetic medications or those who had at least two outpatient ICD-9 codes for diabetes (ICD9 250.
+0	NA	NA	NA	METHODS	*) on separate dates within 365 days prior to enrollment.
+0	diabetes	NA	NA	METHODS	Subjects lacking codes and not on anti-diabetes medications were categorized as non-diabetics.
+0	hypertension	NA	NA	METHODS	Hypertension was defined as the presence of a hypertension code, being on antihypertensive drug or having two SBP's > 140 mmHg and/or two DBP's > 90.
+0	NA	GFR	NA	METHODS	BMI was estimated using the closest weight to the GFR measure, and the height mode as weight (kg) x (height (m))-2
+0	NA	NA	NA	METHODS	For the MVP GWAS we performed linear regression association tests with additive models for untransformed eGFR.
+0	NA	NA	NA	METHODS	We adjusted linear regression models analyzing SNP associations for age at eGFR measure, age2, sex, BMI, and the top ten genetic principal components (PCs) in analyses.
+0	diabetes	NA	NA	METHODS	All primary analyses for the MVP were conducted by stratum of administratively assigned race, as well as by the presence or absence of diabetes and hypertension.
+0	NA	NA	NA	METHODS	All regression-based analyses were conducted in SNPTEST-v2.5.4-beta.
+0	NA	MAF	NA	METHODS	Inference was limited to genotyped and imputed variants with SNPTEST Info scores of 0.4 or higher, with Hardy-Weinberg equilibrium p-value > 5 x 10-8 for common variant analysis (MAF > 0.1).
+0	NA	NA	NA	METHODS	Meta-analyses across race and strata were performed using fixed-effects, inverse variance-weighted meta-analysis implemented in METAL
+0	hypertension	NA	NA	METHODS	Genomic inflation factors were calculated, and lambdaGC for the discovery from MVP were 1.11, 1.16, 1.15, and 1.01 for the diabetic hypertensive participants, non-diabetic hypertensive participants, non-diabetic non-hypertensive participants, and diabetic non-hypertensive participants in whites, respectively, 1.03, 1.03, 1.02, and 0.99 for the diabetic hypertensive participants, non-diabetic hypertensive participants, non-diabetic non-hypertensive participants, and diabetic non-hypertensive participants in blacks, respectively, and 1.36 in the overall discovery analysis (Supplementary Fig.
+0	NA	NA	NA	METHODS	3)
+0	NA	NA	NA	METHODS	Genome-wide significant loci were defined by one or more SNPs attaining genome-wide significance (p < 5 x 10-8) which were at least 1MB away from other signals, or if within that distance, were not in linkage disequilibrium (r2 < 0.1).
+0	NA	NA	NA	METHODS	Sentinel variants and up to two proxies (r2 >  0.8 and prioritized by correlation and then by distance from lead SNP) were selected for replication
+0	NA	NA	NA	METHODS	We approximated the proportion of variance explained in the transethnic meta-analysis by all independent sentinel SNPs (novel and known) and novel SNPs, separately.
+0	NA	NA	NA	METHODS	Variance explained by each SNP was first estimated by the following equation (2):The sum of the variances of the independent sentinel SNPs for common variants provided estimates for the proportion of variance explained for all SNPs, and novel SNPs for eGFR.
+0	NA	NA	NA	METHODS	The transformation of the relationship between t-statistic and r2 to  statistic to r2 is described in Supplementary Note 1
+0	chronic kidney disease	NA	NA	METHODS	The Chronic Kidney Disease Genetics (CKDGen) Consortium is a collaborative effort that includes mainly population-based studies from different ethnicities to perform GWAS of renal function traits aimed at uncovering the genetic basis of CKD.
+0	NA	NA	NA	METHODS	We interrogated data from the most recent CKDGen meta-analysis that included 121 GWAS, totaling 765,289 individuals of European (n = 567,401), East Asian (n = 165,726), South Asian (n = 13,359), African American (n = 13,842), and Hispanic (n = 4961) ancestries .
+0	chronic kidney disease	NA	NA	METHODS	Following a centralized analysis plan, participating studies estimated the eGFR based on serum creatinine using the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) or the Schwartz's equations, depending on whether adults or <=18 year old children were concerned.
+0	NA	NA	NA	METHODS	eGFR values were winsorized at 15 and 200 ml/min/1.73 m2.
+0	NA	NA	NA	METHODS	Studies had a median mean eGFR of 89 ml/min/1.73 m2 (interquartile range: 81-94) and a median mean age of 54 years.
+0	NA	NA	NA	METHODS	Overall, 50% participants were females.
+0	NA	NA	NA	METHODS	Each study performed genotype imputation based on the Haplotype Reference Consortium (HRC) v1.1 or the 1000 Genomes Project phase 3 v5 ALL or phase 1 v3 ALL panels.
+0	NA	NA	NA	METHODS	Sex- and age-adjusted linear regression models were fitted to the logarithm of eGFR.
+0	NA	NA	NA	METHODS	GWAS were performed by regressing the residuals of the linear models on SNP dosage levels, assuming additive genetic effects.
+0	NA	NA	NA	METHODS	Family-based studies accounted for relatedness including kinship estimation or genetic principal components into the linear models.
+0	NA	NA	NA	METHODS	After selecting SNPs with imputation quality score >0.6 and minor allele count >10, genomic control correction was applied in case of an inflation factor lambda > 1.
+0	NA	NA	NA	METHODS	GWAS were pooled using fixed effects inverse-variance weighted meta-analysis.
+0	NA	NA	NA	METHODS	After meta-analysis, SNPs that were not present in at least 50% of the studies were discarded, leaving 8,221,591 variants from >=61 GWAS across all ancestries and 8,834,748 variants from >=42 GWAS in the European ancestry subset.
+0	NA	NA	NA	METHODS	No further genomic control correction was applied.
+0	NA	NA	NA	METHODS	Genome-wide significance level was set at 5 x 10-8
+0	NA	NA	NA	METHODS	Summary statistics for selected variants from the CKDGen consortium were used for replication.
+0	NA	NA	NA	METHODS	105 variants were assessed for the non-Hispanic white-only meta-analysis in a maximum of 567,453 individuals from up to 84 studies.
+0	NA	NA	NA	METHODS	As many as 120 studies provided summary statistics for 122 variants for a maximum of 765,346 participants for the all-ancestry analysis.
+0	NA	NA	NA	METHODS	We performed a sample-size weighted z-score linear combination meta-analysis of MVP and CKDgen results (Supplementary Data 1)
+0	DM	NA	NA	METHODS	Enrichment analyses in DEPICT were conducted using significant GWAS sentinel SNPs from three separate analyses as input: (1) transethnic analyses of all MVP subjects, (2) transethnic analyses of MVP subjects with DM, and (3) transethnic analyses of MVP subjects without DM.
+0	NA	NA	NA	METHODS	DEPICT incorporates predefined phenotypic gene sets from multiple databases with expression microarray data (Affymetrix HGU133a2.0) from more than37k subjects to provide gene sets with high expression for Medical Subject Heading (MeSH) tissue and cell type annotations.
+0	NA	NA	NA	METHODS	DEPICT output includes enrichment p-values for both tissue level and gene-set features, as well as an indicator for whether each enrichment test had an FDR q-value of <0.05
+0	NA	NA	NA	METHODS	Subsequently, we utilized the LD Score Regression approach in each contributing group to ascertain whether inflation was due to residual population stratification or polygenicity.
+0	NA	NA	NA	METHODS	Among whites we used 1000 Genomes precomputed LD Scores and for non-Hispanic blacks we calculated LD Scores in 2217 African American participants from BioVU using Illumina Mega Array (Illumina, Inc) genotype data imputed to 1000 Genomes phase 3 haplotypes.
+0	hypertension	NA	NA	METHODS	Calculation of the intercept in the MVP non-Hispanic white discovery analysis datasets were 1.02 SE = 0.01), 1.04 (SE = 0.01), 1.03 (SE = 0.01), and 0.99 (SE = 0.01), for the diabetic hypertensive participants, non-diabetics hypertensive participants, non-diabetics non-hypertensive participants, and diabetic non-hypertensive participants, respectively, suggesting that little of the observed inflation in the lambda is due to population stratification.
+0	hypertension	NA	NA	METHODS	Similarly, intercepts in the MVP Blacks discovery analysis datasets were 1.01 (SE = 0.003), 1.02 (SE = 0.004), 1.00 (SE = 0.003), and 1.00 (SE = 0.003), for the diabetic hypertensive participants, non-diabetic hypertensive participants, non-diabetic non-hypertensive participants, and diabetic non-hypertensive participants, respectively.
+0	NA	NA	NA	METHODS	Heritability was also assessed within each strata of the MVP data using LD Score regression.
+0	NA	NA	NA	METHODS	We also used the related Popcorn software to evaluate the transethnic genetic effect correlation across the entire genome
+0	NA	NA	NA	METHODS	For conditional analysis of common variants we used two parallel approaches implemented in the genome-wide complex traits analysis (GCTA) software: (i) genome-wide joint conditional analysis; and (ii) locus-specific conditional analysis
+0	NA	NA	NA	METHODS	Conditional analysis was conducted within GCTA software, using the -cojo method, which performs iterative conditional and joint analysis simultaneously with stepwise model selection.
+0	NA	NA	NA	METHODS	The summary statistics from the GWAS discovery whites was used as the input summary data, and the imputed, hard-called BioVU EA genetic data (n = 19,726) was used as the reference genotype-level data, in PLINK format.
+0	NA	MAF	NA	METHODS	Combination of these two input data files restricted the GCTA analysis to the imputed SNPs in common to the GWAS discovery meta-analysis (which was itself restricted to MAF > 1%).
+0	NA	NA	NA	METHODS	Within the BioVU genetic data, LD was calculated between all pairwise SNPs.
+0	NA	NA	NA	METHODS	A p-value cutoff of 5 x 10-8 was used as the selection threshold within GCTA, and the collinearity threshold was set at the default value of 0.9, so that SNPs are not selected if the multiple regression with the current SNPs in the model has R2 >= 0.9.
+0	NA	NA	NA	METHODS	After combining results across all 22 chromosomes, each trait-specific analysis resulted in a distinct set of jointly independent significant signals.
+0	NA	NA	NA	METHODS	Hence all final SNPs are pairwise-LD-independent
+0	NA	MAF	NA	METHODS	Analysis of each significant or previously reported locus was performed across all regional (1 Mb locus region centered +- 500 kb around the sentinel SNP) imputed SNPs with MAF >= 1%, conditioning on the sentinel SNP, using the --cojo-cond command in GCTA.
+0	NA	NA	NA	METHODS	As in the genome-wide approach, GWAS discovery meta-analysis results were used as the input summary data, with the BioVU EA imputed genetic data used as the reference PLINK dataset for LD computation.
+0	NA	NA	NA	METHODS	This approach provides conditional analysis results for each SNP within the implicated regions after conditioning on the sentinel SNP(s).
+0	NA	NA	NA	METHODS	These results yield a list of potential secondary SNPs which are evaluated according to the criteria below to identify those which are both significant and independent
+0	NA	NA	NA	METHODS	(a)p < 5 x 10-8 from original (unconditioned) GWAS discovery analysis, (i.e., SNP is significantly associated with eGFR itself
+0	NA	NA	NA	METHODS	(b)pc < 5 x 10-8 from the conditional analysis (i.e., the SNP is significantly associated with eGFR after conditioning on the sentinel/published SNPs
+0	NA	NA	NA	METHODS	(c)independent of any of the sentinel SNPs (r2 <  0.1
+0	NA	NA	NA	METHODS	Significant independent SNPs meeting the above criteria, from any locuswere combined into a single list.
+0	NA	NA	NA	METHODS	This list is more comprehensive than that from approach (i), as it contains all possible secondary SNPs, rather than a single lead SNP at each independent signal.
+0	NA	NA	NA	METHODS	These secondary SNPs may be in LD with each other within a given locus
+0	NA	NA	NA	METHODS	The outputs from the two different approaches were then combined to identify those SNPs which are genome-wide significant in the discovery dataset and jointly independent on a genome-wide level.
+0	NA	NA	NA	METHODS	For robustness, a secondary signal was only claimed if the SNP is validated from both approaches
+0	NA	NA	NA	METHODS	Genetically predicted gene expression was evaluated for the discovery GWAS with S-PrediXcan, a gene-level approach which estimates the genetically determined component of gene expression in each tissue and tests it for association with SNP-level summary statistics.
+0	NA	NA	NA	METHODS	We utilized a human kidney gene expression atlas published by Ko et al.
+0	NA	NA	NA	METHODS	to conduct our genetically predicted gene expression analyses with our eGFR outcome
+0	NA	NA	NA	METHODS	Human kidney tissues (n = 151) were microdissected in RNAlater to obtain glomerular and tubular renal compartments.
+0	NA	NA	NA	METHODS	An unbiased review of the tissue section was performed by a renal pathologist by scoring of multiple parameters.
+0	NA	NA	NA	METHODS	One microgram of total RNA from each compartment was used for isolation of poly(A) purified mRNA using the Illumina TruSeq RNA Preparation Kit.
+0	NA	NA	NA	METHODS	Samples were sequenced in single-end 100 bp reads, and annotated RNA counts were calculated by Illumina's CASAVA 1.8.2 to generate fastq.
+0	NA	NA	NA	METHODS	Alignment of trimmed reads to the Gencode human genome (GRCh37) was performed using STAR-2.4.1d.
+0	NA	NA	NA	METHODS	RNA-seq data are available at Gene Expression Omnibus (GSE115098)
+0	NA	NA	NA	METHODS	Compartmental eQTL data sets were generated from 121 tubule samples and 119 glomerulus samples, respectively.
+0	NA	NA	NA	METHODS	The cis expression window was defined as 1 Mb on either side of the gene transcriptional start site.
+0	NA	NA	NA	METHODS	eQTL analyses were performed using linear regression in FastQTL software under an additive model and adjusted for six genetic PCs
+0	NA	NA	NA	METHODS	Homologs of human genes detected in S-PrediXcan analyses of healthy human kidney eQTL reference and GWAS summary statistics were further investigated for kidney cell type-specific RNA expression using single cell sequencing in murine kidney cells.
+0	NA	NA	NA	METHODS	Cells were clustered by expression profiles into groups representing kidney structural features and additional cell types found in the kidney.
+0	NA	NA	NA	METHODS	Confirmation of murine kidney findings was performed through cross-reference of protein expression levels available in the Human Protein Atlas
+0	NA	NA	NA	METHODS	We constructed a weighted genetic risk score (w-GRS) for eGFR by calculating a linear combination of weights derived from previous publications from CKDGen for index SNPs at each of the 63 statistically significant replicated loci (Supplementary Table 7).
+0	NA	NA	NA	METHODS	GRSs were constructed for self-reported/administratively assigned non-Hispanic white individuals in the MVP only
+0	NA	NA	NA	METHODS	We performed a phenome wide association study (PheWAS) of GRS in MVP non-Hispanic whites (Nmax = 192,868), leveraging the full catalog of ICD-9 diagnosis codes.
+0	NA	NA	NA	METHODS	We used logistic regression to separately model each of 1813 PheWAS traits as a function of GRS, adjusted for sex and ten PCs.
+0	NA	NA	NA	METHODS	We report the results from these analyses as odds ratios where the estimate is the average change in odds of the PheWAS trait per weighted eGFR-increasing allele.
+0	NA	NA	NA	METHODS	Multiple testing thresholds for significance were set to p <= 2.75 x 10-5(0.05/1813)
+0	NA	NA	NA	METHODS	Further information on research design is available in the Nature Research Reporting Summary linked to this article
+0	NA	NA	NA	AUTH_CONT	Writing of the manuscript: J.N.H., D.R.V.E., A.G., T.L.E., A.M.H.
+0	NA	NA	NA	AUTH_CONT	Critical revision of the manuscript: J.N.H., D.R.V.E., A.G., C.P.C., D.K., C.P., A.K., K.S., T.L.E., A.M.H.
+0	NA	NA	NA	AUTH_CONT	Discovery analysis contributor: J.N.H., D.R.V.E., A.G., E.S.T., J.M.K., O.D.W., C.P.C., C.R.-C., C.L.R., E.S., E.A.A., J.M.G., C.P.K., P.W.F.W., C.J.O., T.L.E., A.M.H.
+0	NA	NA	NA	AUTH_CONT	Replication study contributor: M.G., M.W., M.L., Y.L., A.K., C.P.
+0	NA	NA	NA	AUTH_CONT	Human kidney and mouse model systems: C.Q., J.P., K.S.
+0	NA	NA	NA	AUTH_CONT	PheWAS: A.G., S.M.D., D.K., S.L.D., P.S.T
+0	NA	NA	NA	SUPPL	Full summary statistics relating to the Million Veteran Program (MVP) studies are available at dbGAP accession phs001672.v2.p1.
+0	NA	NA	NA	SUPPL	Statistically significant reports for S-PrediXcan results for human kidney tissues and PheWAS analyses for eGFR are made available in the supplementary data and tables.
+0	NA	NA	NA	SUPPL	Human Kidney RNA-seq data are available at Gene Expression Omnibus (GSE115098)
+0	NA	NA	NA	COMP_INT	The authors declare no competing interests.
+0	NA	NA	NA	COMP_INT	This publication does not represent the views of the Department of Veterans Affairs or the United States Government

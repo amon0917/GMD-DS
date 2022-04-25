@@ -1,0 +1,122 @@
+0	diabetes	NA	NA	ABSTRACT	Patients with type 1 diabetes are more at risk of coronary artery disease than the general population.
+0	coronary artery disease	NA	NA	ABSTRACT	Although evidence points to a genetic risk there have been no study investigating genetic risk factors of coronary artery disease specific to individuals with type 1 diabetes.
+0	coronary artery disease	NA	NA	ABSTRACT	To identify low frequency and common genetic variations associated with coronary artery disease in populations of individuals with type 1 diabetes
+0	NA	NA	NA	ABSTRACT	A two-stage genome wide association study was conducted.
+0	insulin-treated diabetes	NA	NA	ABSTRACT	The discovery phase involved the meta-analysis of three genome-wide association cohorts totaling 434 patients with type 1 diabetes and coronary artery disease (cases) and 3123 T1D individuals with no evidence of coronary artery disease (controls).
+0	NA	p<10-5	NA	ABSTRACT	Replication of the top association signals (p < 10-5) was performed in five additional independent cohorts totaling 585 cases and 2612 controls
+1	NA	MAP1B	rs115829748	ABSTRACT	One locus (rs115829748, located upstream of the MAP1B gene) reached the statistical threshold of 5 x 10-8 for genome-wide significance but did not replicate.
+1	coronary artery disease	CDK18	rs138760780	ABSTRACT	Nevertheless, three single nucleotide polymorphisms provided suggestive evidence for association with coronary artery disease in the combined studies: CDK18 rs138760780 (OR = 2.60 95% confidence interval [1.75-3.85], p = 2.02 x 10-6), FAM189A2 rs12344245 (OR = 1.85 [1.41-2.43], p = 8.52 x 10-6) and PKD1 rs116092985 (OR = 1.53 [1.27-1.85], p = 1.01 x 10-5).
+0	coronary artery disease	ANKS1A	NA	ABSTRACT	In addition, our analyses suggested that genetic variations at the ANKS1A, COL4A2 and APOE loci previously found associated with coronary artery disease in the general population could have stronger effects in patients with type 1 diabetes
+0	coronary artery disease	NA	NA	ABSTRACT	This study suggests three novel candidate genes for coronary artery disease in the subgroup of patients affected with type 1 diabetes.
+0	NA	NA	NA	ABSTRACT	The detected associations deserve to be definitively validated in additional epidemiological studies
+0	NA	NA	NA	ABSTRACT	The online version of this article (10.1186/s12933-018-0705-0) contains supplementary material, which is available to authorized users
+0	insulin-treated diabetes	insulin	NA	INTRO	Type 1 diabetes (T1D) is a chronic disease characterized by an increase in blood glucose due to a lack of insulin production.
+0	diabetes	NA	NA	INTRO	Diabetes is a major health concern globally with a prevalence ranging between 4 and 7.8% in industrialized countries; among persons with diabetes, it is estimated that 5-10% are affected with T1D.
+0	death	NA	NA	INTRO	Recent large-scale epidemiological studies suggest that T1D is associated with a reduced lifespan of approximately 12 years due to at least two-fold increased risk for death due to cardiovascular (CV) events
+0	diabetes	NA	NA	INTRO	Of note, in a nation-based registry of type 1 diabetes, coronary heart disease was 4 times more prevalent in patients with type 1 diabetes compared to sex- and age-matched controls
+0	cardiovascular disease	NA	NA	INTRO	However, studies exploring cardiovascular disease (CVD) risk variants in T1D patients are lacking.
+0	diabetes	NA	NA	INTRO	Traditional risk factors for CVD including age, circulating lipid levels, and smoking are well established in the general population and in patients with type 1 diabetes.
+0	coronary artery disease	NA	NA	INTRO	Coronary artery disease (CAD) could be strongly influenced by genetic factors.
+0	diabetes	NA	NA	INTRO	However, to the best of our knowledge, the relationship between genetic factors and CAD in type 1 diabetes was largely examined with a candidate gene approach.
+0	NA	NA	NA	INTRO	Another important question is whether genetic markers of CAD established in the general population, known to roughly explain 10% of the heritability, also play a role in individuals with T1D
+0	NA	NA	NA	INTRO	In an attempt to unravel the genetic determinants of CAD among T1D patients, we examined the association of genome-wide genotype array data with CAD in multiple T1D cohorts of European descent (The British Isles, Denmark and France)
+0	NA	NA	NA	METHODS	The present work reports the results of a two-stage research strategy for common genetic variations associated with CAD risk in T1D patients.
+0	NA	NA	NA	METHODS	The first (discovery) stage was based on the meta-analysis of three GWAS cohorts totaling 434 T1D patients with CAD (cases) and 3123 T1D patients with no evidence of CAD (controls).
+0	NA	p<10-5	NA	METHODS	The second stage consisted of a replication of the top discovery signals with association p < 10-5 in five additional T1D studies totaling 585 cases and 2612 controls
+0	NA	NA	NA	METHODS	All participants were patients with T1D diagnosed using ADA criteria
+0	acute myocardial infarction	NA	NA	METHODS	Controls were patients with T1D without history of CAD while cases were patients with T1D and a personal history of myocardial infarction or coronary artery revascularization (coronary artery angioplasty or by-pass grafting)
+0	NA	NA	NA	METHODS	The discovery phase was composed of European-ancestry adults from (1) France (pooled cohorts of T1D from Corbeil Essonnes, Poitiers, Nantes, Paris, Toulouse and two large scale multicenter cohorts i.e.
+0	NA	NA	NA	METHODS	GENESIS/GENEDIAB), (2) Denmark (After-EU cohort) and (3) British Isles (UK-ROI study).
+0	NA	NA	NA	METHODS	The replication phase included five independent T1D cohorts recruited in North America (Additional file 1: Table S1)
+0	NA	NA	NA	METHODS	All participating studies were approved by their respective institutional review board/ethics committee and an informed consent was obtained from all participating individuals
+0	NA	NA	NA	METHODS	For each participating study, DNA samples were genotyped with high-density SNP arrays and further imputed for SNPs available in the 1000 Genomes reference dataset.
+0	NA	NA	NA	METHODS	Summary descriptions of genotyping technologies, quality control procedures, and used imputation methods (MACH/Impute2) are shown in Additional file 1: Table S1
+0	NA	NA	NA	METHODS	Association analyses of imputed SNPs with CAD risk were performed separately in each study.
+0	NA	NA	NA	METHODS	Analyses were performed using either of the MACH, Quicktest (http://toby.freeshell.org/software/quicktest.shtml), or Plink analyses tools implementing a logistic regression model where the allele dosage representing the expected number of a given reference allele at the imputed SNP was used as covariate to estimate SNP effect.
+0	NA	NA	NA	METHODS	Analyses were adjusted for sex, age, DN status and potential population sub-structure as defined by SNPs derived principal components
+0	NA	NA	NA	METHODS	Only SNPs with acceptable imputation quality (r2 > 0.3) in the three discovery cohorts and with estimated minor allele frequency (MAF) >= 1% were kept for meta-analysis.
+0	NA	NA	NA	METHODS	This was performed by use of a fixed-effects model based on the inverse-variance weighting method as implemented in the METAL software.
+0	NA	NA	NA	METHODS	The statistical threshold (p < 5 x 10-8) was used for declaring genome-wide statistical significance while controlling for the number of independent tests across the genome.
+0	NA	NA	NA	METHODS	The Cochran's Q statistic was used to assess heterogeneity of the SNP associations across studies whose magnitude was expressed by the I2 index.
+0	NA	NA	NA	METHODS	Power calculations were performed using the CaTS power calculator (http://csg.sph.umich.edu/abecasis/cats/)
+0	NA	NA	NA	METHODS	Similar logistic regression models as those employed in the discovery were used for assessing the association of tested SNPs with CAD risk (Additional file 1: Table S1).
+0	NA	NA	NA	METHODS	Results obtained in the independent replication cohorts were then meta-analyzed using the same methodology as in the discovery step.
+0	NA	NA	NA	METHODS	The Bonferroni threshold corresponding to 0.05 divided by the number of tested SNPs was used to declare statistical replication.
+0	NA	NA	NA	METHODS	Unilateral hypothesis testing was adopted at the replication stage.
+0	NA	NA	NA	METHODS	For SNPs that replicated, a meta-analysis of the combined discovery and replications cohorts was performed to produce a more robust estimate of the effect size
+0	NA	NA	NA	RESULTS	A total of 6,728,637 imputed SNPs were tested for association with CAD in 3557 T1D patients made of 434 with CAD cases and 3123 controls in the discovery dataset.
+0	NA	NA	NA	RESULTS	The meta-analysis results of the discovery GWAS have been summarized in the Manhattan and QQ plots shown in Additional file 2: Figure S1, Additional file 3: Figure S2, respectively
+1	NA	MAP1B	rs115829748	RESULTS	One locus at chromosome 5q13.2 reached genome-wide significance (p < 5 x 10-8) with the lead SNP, rs115829748, located upstream of the MAP1B gene.
+0	NA	NA	NA	RESULTS	The T allele of this low frequency SNP (MAF ~ 0.04), was associated with an Odds Ratio (OR) of 3.16 [95% confidence interval (CI) 2.18-4.59] (p = 1.36 x 10-9).
+0	NA	NA	NA	RESULTS	No other SNP demonstrated suggestive association with CAD at this locus (Additional file 4: Figure S3)
+0	NA	NA	NA	RESULTS	At the p < ~ 1.0 x 10-5 threshold, 20 additional loci demonstrated evidence for suggestive association with CAD with little heterogeneity across cohorts (Table 1).
+0	NA	NA	NA	RESULTS	Imputation metrics of the top SNPs are provided in the Additional file 5: Table S2.
+0	NA	NA	NA	RESULTS	Therefore, we sought to replicate the top 21 signals in five independent T1D cohorts totaling 585 CAD cases and 2612 controls.
+1	NA	NA	rs34319244	RESULTS	Replication was feasible for 17 SNPs while four SNPs (rs34319244, rs373009901, rs143723948, rs571622299) were not properly imputed in the replication stage (Table 1).
+0	NA	NA	NA	RESULTS	While none of the 17 SNPs reached the pre-specified Bonferroni threshold of 3.0 x 10-3 for positive statistical replication, three were however nominally (p < 0.05) associated with CAD in the replication stage, with genetic effects consistent between the discovery and replication studies (Table 1).
+1	NA	MAP1B	rs115829748	RESULTS	Of note, no trend for association was observed (p = 0.279) with the MAP1B rs115829748 that came out first in the discovery GWAS and that showed similar allele frequencies in the discovery and replication studies.
+1	NA	CDK18	NA	RESULTS	The strongest association was observed at the CDK18 locus where, in the replication stage, the rs138760780-T allele, with frequency 0.02, was associated with an increased odds ratio (OR) for disease of 1.88 [1.07-3.31] (p = 0.014).
+0	NA	NA	NA	RESULTS	This value has to compare with 3.48 [2.00-6.04] observed in the discovery cohorts.
+0	NA	NA	rs138760780	RESULTS	In the combined discovery and replication cohorts, the meta-analyzed OR associated with the rs138760780 T allele was 2.60 [1.75-3.85] (p = 2.02 x 10-6) with no heterogeneity across the discovery and replication stage (p = 0.545)
+1	NA	FAM189A2	NA	RESULTS	The second suggestive association holds at the FAM189A2 locus.
+1	NA	NA	NA	RESULTS	The rs12344245-G allele found associated with an increased OR of 2.52 [1.68-3.81] in the discovery cohorts also demonstrated a trend for association with the disease in the replication stage, OR = 1.45 [1.01-2.08] (p = 0.022).
+0	NA	NA	NA	RESULTS	Combining the discovery and replication study led to a meta-analyzed OR for disease of 1.85 [1.41-2.43] (p = 8.52 x 10-6) with no significant evidence for heterogeneity across stage (p = 0.426)
+0	NA	PKD1	NA	RESULTS	The third suggestive association was observed for the PKD1 locus.
+0	NA	NA	rs116092985	RESULTS	The rs116092985 minor G associated with a 1.85 [1.408-2.44] and a 1.29 [1.00-1.67] increased risk of CAD in the discovery and replication cohorts, respectively.
+0	NA	NA	NA	RESULTS	Altogether, the combined statistical evidence for association of the rs116092985-G allele reached p = 1.01 x 10-5 (OR = 1.53 [1.27-1.85]) (p = 0.220 for heterogeneity across studies)
+0	NA	NA	NA	TABLE	Replication of CAD SNPs previously identified in the general populatio
+0	NA	NA	NA	RESULTS	About 90 loci have been found, through GWAS studies, to harbor common susceptibility alleles associated with CAD in the general population.
+0	NA	NA	NA	RESULTS	We sought to investigate how these loci associate with CAD in T1D patients.
+0	NA	NA	NA	RESULTS	Results of this investigation are summarized in Table 2.
+0	NA	NA	NA	RESULTS	From CAD SNPs identified in previous GWAS, 95 were well imputed in our discovery phase and showed genetic effects with directionality in our T1D populations that were consistent with those previously reported (Table 2).
+0	NA	NA	NA	RESULTS	Imputation quality for these 95 SNPs is given in Additional file 6: Table S3.
+0	NA	NA	NA	RESULTS	For three SNPs ANKS1A_rs17609940, COL4A2_rs11838776 and TOMM40_rs2075650 (near the APOE locus), the statistical evidence for association with the disease was rather strong with p < 5 x 10-3 even though it did not achieve multiple testing correction for the number of tested SNPs (~ 5 x 10-4 = 0.05/95).
+0	NA	NA	NA	RESULTS	For these three SNPs, the amplitude of the genetic association even tended to be stronger in our T1D patients than that previously reported (Table 2).
+0	NA	COL4A1	NA	RESULTS	As an illustration, in our discovery T1D population, the COL4A1 rs11838776-A allele was associated with an OR of 1.33 [1.11-1.61] while the OR reported in the literature was slightly lower (OR = 1.07).
+0	NA	CDKN2B-AS1	NA	RESULTS	Conversely, the association of the polymorphism at the non-coding ANRIL loci on 9p21, that is known to associate the most with CAD among common polymorphisms, showed a very similar association in our T1D patients (OR = 1.16 [0.993-1.362], p = 0.03) compared to that previously reported (OR ~ 1.21)
+0	NA	NA	NA	DISCUSS	The present work was aimed at identifying susceptibility alleles for CAD risk in patient population of T1D using a GWAS approach with a two-step framework (discovery + replication).
+1	NA	MAP1B	NA	DISCUSS	Albeit we identified one locus (MAP1B) reaching genome-wide significance in the discovery stage, it did not replicate with similar effects.
+1	NA	CDK18	NA	DISCUSS	Nevertheless, in the combined T1D dataset of 1019 cases and 5735 controls, we observed strong statistical evidence for association with CAD at three biological candidate genes, CDK18, PKD1 and FAM189A2
+0	diabetes	NA	NA	DISCUSS	We consider our study as very original as it is the first one, to the best of our knowledge, to use a GWAS approach for CAD, in patients with type 1 diabetes.
+0	diabetes	NA	NA	DISCUSS	We have thus pooled the largest collection of type 1 diabetes patients with available genetic data
+1	NA	CDK18	NA	DISCUSS	The low frequency CDK18 rs138760780-T allele (frequency ~ 0.02) was found associated with ~ 2.5 fold increased risk of CAD.
+0	NA	NA	NA	DISCUSS	According to public database (e.g.
+0	NA	NA	NA	DISCUSS	Haploreg), this SNP does not show strong linkage disequilibrium (LD) (pairwise r2 > 0.80) with other SNPs at this locus, consistent with the regional association plot that does not suggest any evidence of disease associated SNPs (Additional file 7: Figure S4).
+0	NA	NA	NA	DISCUSS	Interrogating the functional status of this SNP through HaploReg tool suggested that this SNP may be involved in some epigenetic regulatory mechanisms.
+1	NA	CDK18	NA	DISCUSS	CDK18 encodes for a cyclin-dependent kinase, suggesting a role in cell cycle.
+0	NA	CDK1	NA	DISCUSS	This predicted protein is also related to CDK1, which is involved in the G2/M transition in eukaryotic cells.
+1	NA	CDK1	NA	DISCUSS	Although cell cycle is a very broad pathway, CDK1 has also been associated with T1D, but at this point little is known about a potential involvement of CDK18 in the pathophysiology of T1D or its complications
+1	NA	FAM189A2	rs12344245	DISCUSS	We also observed some evidence that the low frequency FAM189A2 rs12344245 G allele, (frequency ~ 0.04), associated with a ~ 1.8 fold-increased risk of CAD.
+0	NA	NA	NA	DISCUSS	We did not find any evidence suggesting that this intronic SNP, or any other SNPs in LD (Additional file 8: Figure S5: regional association plot) with it, could be functional.
+0	NA	NA	NA	DISCUSS	Nevertheless, even though not much is known about the role of the encoded protein, this locus is a good candidate.
+0	NA	NA	NA	DISCUSS	Indeed, genetic variations at this locus have been found associated with albumin to creatinine ratio.
+1	diabetes	FAM189A2	rs10780297	DISCUSS	More interestingly, two FAM189A2 SNPs (rs10780297 and rs10120442) have been reported to moderately associate (p = 9.3 x 10-4) in a large GWAS for CAD in ~ 63,000 non-diabetic populations, suggesting that this locus could be a CAD locus in some specific at-risk groups of diabetic patients.
+1	NA	NA	rs12344245	DISCUSS	The latter two SNPs are in moderate LD (D' = 1 but r2 = 0.05) with our lead rs12344245 SNP, indicating that a fine mapping analysis of this locus would warrant further investigations.
+0	diabetes	NA	NA	DISCUSS	Of interest, it was not identified as a common gene in both type 2 diabetes and CAD.
+0	NA	NA	NA	DISCUSS	It can thus be speculated this gene is an important gene in high-glucose environment rather than a gene leading to high-glucose
+0	NA	PKD1	rs116092985	DISCUSS	Finally, we observed an association of the non-synonymous PKD1 rs116092985 (Trp1399Arg) with CAD among T1D patients where the Arg1399 minor allele (frequency ~ 0.10), was associated with an increased CAD risk (OR ~ 1.5).
+0	NA	PKD1	NA	DISCUSS	The regional plot (Additional file 9: Figure S6) shows that there are several SNPs in LD with this PKD1 top SNP that associate with CAD.
+0	NA	PKD1	NA	DISCUSS	PKD1 encodes for the Polycystin 1, Transient Receptor Potential Channel Interacting protein, a member of the polycystin protein family.
+0	renal tubular function	PKD1	NA	DISCUSS	Recent reports have suggested a role of PKD1 not only in renal tubular function and structure but rare mutations in this gene as the main also cause underlying polycystic kidney disease, highlighting its importance in kidney complications.
+0	NA	PKD1	NA	DISCUSS	One important question is whether PKD1 risk allele is involved in a common genetic background linking DN and CAD.
+0	NA	NA	NA	DISCUSS	This question was not duly analyzed due to power issue.
+0	NA	NA	NA	DISCUSS	However, no clear association was established with DN in previous GWAS focusing on this question
+0	NA	NA	NA	DISCUSS	Our study also enabled us to assess in patients with T1D the impact of common SNPs that have been found associated with CAD in large GWAS performed in unselected individuals.
+0	NA	ANKS1A	NA	DISCUSS	Beyond the observation that most of the previously reported SNPs showed consistent association with CAD in our T1D population, this look-up identified a few CAD loci (ANKS1A, COL4A2, TOMM40/APOE) where the reported CAD associated SNP could have a stronger effect in T1D patients.
+0	NA	NA	NA	DISCUSS	However, this hypothesis would require further investigation
+0	NA	NA	NA	DISCUSS	Some limitations must be acknowledged.
+0	NA	NA	NA	DISCUSS	We did not consider differently T1D patients with and without DN, and all of the analyses were not stratified on DN status in order to keep all CAD patients in the analysis.
+0	NA	NA	NA	DISCUSS	However, this should have limited impact on our main results as none of the SNPs identified here were positive considering previously reported GWAS with regard to DN as primary endpoint.
+0	NA	NA	NA	DISCUSS	Another limitation pertains to limited power of our sample size required, particular to overcome the harsh genome-wide statistical significance threshold.
+0	NA	NA	NA	DISCUSS	Indeed, our discovery GWAS was not well powered to identify common SNPs associated with moderate genetic effects as those frequently encountered in a GWAS context.
+0	NA	NA	NA	DISCUSS	For instance, our discovery study had no power to detect at the genome-wide statistical threshold the genetic effect of a variant with an associated allelic OR less than 1.40.
+0	NA	NA	NA	DISCUSS	It was only well powered (> 80%) to detect OR greater than 1.6 as soon as the allele frequency of the disease allele is greater than 0.28 and well powered to detect OR greater than ~ 2 for allele frequency greater than 0.05.
+0	NA	NA	NA	DISCUSS	In particular, we had no power to detect the well-established association of the 9p21 locus at the 5 x 10-8 threshold while we had a chance of 60% to detect it would the liberal threshold of 0.05 had been used.
+0	NA	NA	NA	DISCUSS	Similarly, we acknowledge the low power of our replication studies where none of the tested associations achieved the Bonferroni threshold of 3 x 10-3.
+1	NA	CDK18	rs13876070	DISCUSS	We only had a power of 53, 38 and 26% to detect at this threshold a significant association at the CDK18 rs13876070, PKD1 rs116092985 and the FAM189A2 loci, respectively
+0	NA	NA	NA	DISCUSS	Despite these limitations, we have assembled the largest cohort available and conducted novel analyses to discover novel candidate loci for CAD in T1D patients that need to be further studied with additional epidemiological data and functional work to confirm our findings.
+0	NA	NA	NA	DISCUSS	Of interest, our negative study could suggest a role of epigenetics beyond genomics.
+0	atherosclerotic	insulin	NA	DISCUSS	In this regard, insulin promotes the expression of DNA methyltransferases leading to methylation resulting in atherosclerosis, broadening the research field of CAD in type 1 diabetes
+0	NA	NA	NA	CONCL	We identified three new candidate loci for CAD in individuals with T1D, these loci weren't previously found associated with CAD in the general population.
+0	NA	ANKS1A	NA	CONCL	Three other loci previously reported in the general population were found associated with CAD in our setting, namely ANKS1A, COL4A2 and TOMM40/APOE.
+0	NA	NA	NA	CONCL	Although this work needs further investigation, studying the function of these loci could lead to a better understanding of the physiological pathways involved in the development of CAD as a complication of T1D

@@ -1,0 +1,207 @@
+0	breast cancer	NA	NA	ABSTRACT	Genome-wide association studies (GWAS) have successfully identified about 70 genomic loci associated with breast cancer.
+0	NA	NA	NA	ABSTRACT	Owing to the complexity of linkage disequilibrium and environmental exposures in different populations, it is essential to perform regional GWAS for better risk prediction.
+0	breast cancer	NA	NA	ABSTRACT	This study aimed to investigate the genetic architecture and to assess common genetic risk model of breast cancer with 6,669 breast cancer patients and 21,930 female controls in the Japanese population.
+1	NA	ALCAM	rs9862599	ABSTRACT	This GWAS identified 11 genomic loci that surpass genome-wide significance threshold of P < 5.0 x 10-8 with nine previously reported loci and two novel loci that include rs9862599 on 3q13.11 (ALCAM) and rs75286142 on 21q22.12 (CLIC6-RUNX1).
+0	breast cancer	NA	NA	ABSTRACT	Validation study was carried out with 981 breast cancer cases and 1,394 controls from the Aichi Cancer Center.
+0	breast cancer	NA	NA	ABSTRACT	Pathway analyses of GWAS signals identified association of dopamine receptor medicated signaling and protein amino acid deacetylation with breast cancer.
+0	breast cancer	NA	NA	ABSTRACT	Weighted genetic risk score showed that individuals who were categorized in the highest risk group are approximately 3.7 times more likely to develop breast cancer compared to individuals in the lowest risk group.
+0	breast cancer	NA	NA	ABSTRACT	This well-powered GWAS is a representative study to identify SNPs that are associated with breast cancer in the Japanese population
+0	breast cancer	NA	NA	INTRO	Breast cancer is the most common malignancy among women worldwide.
+0	cancers	NA	NA	INTRO	Based on the report of Cancer Statistics in Japan 2018, it is estimated that the incidence of breast cancer will rise to 86,500 in the year 2018, which comprise approximately 20% of all female cancers.
+0	breast cancer	NA	NA	INTRO	Breast cancer is also the fifth leading cause of cancer death among women in Japan, with an estimated death of 14,285 in the year of 2017.
+0	breast cancer	NA	NA	INTRO	Despite better 5-year survival rates for breast cancer compared to other malignancies, the age-adjusted incidence and mortality rate in Japan has increased steadily since the 1970s.
+0	breast cancer	NA	NA	INTRO	Hence, predictive genetic markers and early detection screening methods to identify individuals at risk of breast cancer are crucial to reduce breast-cancer associated death
+0	breast cancer	NA	NA	INTRO	Breast cancer is a complex polygenic disease with diverse risk factors that include lifestyle and genetic mutations.
+0	breast cancer	BRCA1	NA	INTRO	Common mutations linked to breast cancer include highly-penetrant BRCA1 and BRCA2 genes, moderate effect size genes (CHEK2, PALB2, PTEN and ATM) as well as common variants conferring small effect sizes.
+0	breast cancer	NA	NA	INTRO	A total of 28 genome-wide association studies (GWAS) showing association with breast cancer risk have been published.
+0	NA	NA	NA	INTRO	These studies successfully identified common variants in 70 genetic loci from diverse worldwide populations: Europe (70 loci), East Asians (8 loci), Africans (3 loci), Latinos (2 loci) and Ashkenazi Jews (1 loci).
+0	NA	NA	NA	INTRO	Risk loci and risk variants differ across different populations due to several possible reasons.
+0	NA	NA	NA	INTRO	These include insufficient statistical power in individual studies, complexity in linkage disequilibrium, and differences in allele frequencies as well as environmental exposure.
+0	NA	NA	NA	INTRO	Notably, studies have indicated the importance of carrying out regional GWAS to identify specific genetic risk factors that are associated with complex disease, which could facilitate better risk assessment in the regional clinical settings.
+1	breast cancer	FGFR2	NA	INTRO	Our group has published two breast cancer GWAS: The first reported association of chromosome 10q26 (FGFR2) and 16q12 (TOX-LOC643714) to breast cancer while the second showed association of 3q25.1 (SIAH2) with hormonal-positive breast cancer in the Japanese population.
+0	NA	NA	NA	INTRO	The size of our current study is three times that of our previous two studies.
+0	breast cancer	NA	NA	INTRO	To the best of our knowledge, it is the largest and most well-powered GWAS to date that aims to investigate the genetic architecture as well as to assess the common genetic risk model of breast cancer in the Japanese population
+0	NA	NA	NA	RESULTS	Two sets of GWAS were performed in this study with samples obtained from Phase I-II and Phase III Biobank Japan that consist of 6,669 breast cases and 21,930 female controls
+0	NA	NA	NA	RESULTS	For sample quality control, identity-by-state analysis was carried out to assess close relatedness in the sample population, no samples were removed as all the samples were independent from each other (Data not shown).
+0	NA	NA	NA	RESULTS	Subsequently, principal component analysis (PCA) was performed to assess population substructure of the sample populations.
+0	NA	NA	NA	RESULTS	PCA revealed that case and control subjects that participate in this study were clustered into two major clusters, the mainland (Hondo) cluster and the Ryuukyu (southern island of Japan) cluster (Supplementary Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	NA	NA	RESULTS	Association analyses were carried out by incorporating principal components as covariates to avoid the bias effects from population substructure.
+0	NA	NA	NA	RESULTS	The quantile-quantile (Q-Q) plot and the genomic inflation factor (lambdaGC) of the test statistic for the GWAS of Phase I-II and Phase III were 1.202 and 1.019, respectively (Supplementary Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	NA	RESULTS	As lambdaGC value increase correspondingly with sample size, the lambdaGC value adjusting to a sample size of 1000 was evaluated for GWAS of Phase I-II.
+0	NA	NA	NA	RESULTS	The adjusted lambda1000 value was 1.025, indicating a low possibility of false-positive association by population stratification.
+0	NA	NA	NA	RESULTS	The two GWAS studies were subsequently combined by meta-analysis after whole-genome imputation and quality control.
+0	genetic diseases	NA	NA	RESULTS	A total of 4,946,503 SNPs was evaluated to identify common genetic variations that are associated with breast cancer susceptibility.
+0	NA	NA	NA	RESULTS	The Manhattan plot of the whole-genome meta-analysis was plotted by using -log10(P-value) against chromosome location (Supplementary Fig.
+0	NA	NA	NA	RESULTS	3)
+0	NA	NA	NA	TABLE	SNPs that surpassed genome-wide significance threshold after meta-analysis of GWAS I + II
+1	NA	ALCAM	NA	FIG	Regional plot for two novel associated loci that include 3q13.11 (ALCAM) and 21q22.12 (CLIC6-RUNX1)
+0	breast cancer	NA	NA	RESULTS	This study identified a total of 11 genomic loci that surpassed the genome-wide significance level with P-value threshold of 5.0 x 10-8 to be associated with breast cancer.
+1	NA	NA	NA	RESULTS	These loci included 2q33.1 (TRAK2-ALS2CR11), 3q13.11 (ALCAM), 3q25.1 (SIAH2), 5p12 (FGF10-MRPS30), 5q11.2 (MAP3K1), 6q25.1 (CCDC170-ESR1), 10q26.13 (FGFR2), 12p11.22 (PTHLH), 12q24.21 (UBA52P7), 16q12.1 (2 independent SNPs on TOX3-CASC16) and 21q22.12 (CLIC6-RUNX1) shown in Table 1.
+1	breast cancer	ALCAM	NA	RESULTS	We compared them with previously reported breast cancer susceptibility loci that are identified from GWAS of multiple ethnicities, European, East Asian, African and Ashkenazi Jews, and found that nine loci identified from this study were previously reported while 3q13.11 (ALCAM) and 21q22.12 (CLIC6-RUNX1) are novel associated loci that surpassed genome-wide significance threshold (Table 1 and Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	NA	NA	RESULTS	In addition, a total of 40 previously reported SNPs from 37 genomic loci remained to be suggestively associated with the range of P-value from 4.88 x 10-2 to 6.01 x 10-6 in this GWAS study (Supplementary Table 2)
+0	breast cancer	NA	NA	RESULTS	The association of the 12 genome-wide significant SNPs comprises breast cancer patients of various cancer subtypes.
+0	cancers	NA	NA	RESULTS	To evaluate the effect of cancer subtype towards SNP association, a subset analysis was performed for ER+, PR+ and HER2+ respectively (Supplementary Table 3).
+0	breast cancer	NA	NA	RESULTS	In general, breast cancer subtype associations for all SNPs were weaker compared to the cumulative cohort (Supplementary Table 3).
+0	NA	NA	NA	RESULTS	Validity of the associations were confirmed through permutation, with the permutated P-values of combined cohorts for all SNPs in different subtypes showing less than 5% false positives (Supplementary Table 3).
+0	cancers	NA	NA	RESULTS	However, the effect size shows a similar trend across different cancer subtypes.
+0	cancers	NA	NA	RESULTS	The results suggest that association of the 12 genome-wide significant SNPs show a consistent trend across different cancer subtypes and the lack of genome-wide significance is due to insufficient statistical power
+0	NA	NA	NA	RESULTS	In our replication study, none of the 12 genome-wide significant SNPs was statistically significant after adjusting for multiple testing at P < 0.002 (0.05/22 independent tests).
+0	NA	NA	NA	RESULTS	Despite this, the 12 SNPs showed similar effect size trends with Phase I-II and III cohorts.
+0	NA	NA	NA	RESULTS	In addition, the inclusion of the replication cohort improved association P-values in the meta-analysis combining GWAS and replication studies (Supplementary Table 4).
+1	NA	ALCAM	rs9862599	RESULTS	For example, the association of rs9862599 and rs75286142 on ALCAM and CLIC6-RUNX1 were not replicated after considering multiple testing.
+1	breast cancer	NA	rs9862599	RESULTS	However, the combined P-values of rs9862599 (P = 1.14 x 10-8; OR = 1.216; 95% CI = 1.136-1.301) and rs75286142 (P = 2.42 x 10-9; OR = 1.157; 95% CI = 1.103-1.214) imply an established link between these SNPs and breast cancer susceptibility (Table 2 and Fig.
+0	NA	NA	NA	RESULTS	1)
+0	breast cancer	NA	NA	RESULTS	Pathway analysis that incorporated whole-genome imputed SNPs to MAGENTA software have identified two significant pathways to be associated with breast cancer.
+0	NA	EPB41	NA	RESULTS	The first associated pathway is dopamine receptor medicated signaling pathway (GSEA P-value = 8.10 x 10-5, FDR = 2.90 x 10-3) from Panther database that encompasses with genes mostly from the CLIC, EPB41 and FRMD families (Supplementary Table 5).
+0	NA	NA	NA	RESULTS	The second pathway is protein amino acid deacetylation from GOTERM database (GSEA P-value = 1.00 x 10-4, FDR = 3.72 x 10-2), which mostly consist of genes from the SIRT family (Supplementary Table 5)
+0	NA	NA	NA	RESULTS	In order to assess the effects of SNPs with the expression of the nearby genes within the locus, eQTL analyses were performed for the 12 SNPs that surpassed the genome-wide significant threshold by using GTEx Portal, focusing with breast mammary tissue.
+0	NA	NA	NA	RESULTS	The analysis also included all LD-linked (LD >  = 0.8) SNPs as well.
+0	NA	NA	NA	RESULTS	eQTL was detected for rs2540431-linked SNPs rs2714486 and rs2540334 (Supplementary Fig.
+0	NA	NA	NA	RESULTS	4A,B).
+0	NA	NA	rs2540431	RESULTS	No eQTL was detected for rs2540431 itself.
+0	NA	CASP8	NA	RESULTS	The risk allele rs2714486-A is correlated with lower expression of CASP8 (P = 4.2 x 10-12; Normalized effect size = -0.44) and higher expression of ALS2CR12(P = 5.2 x 10-7; Normalized effect size = 0.35) in breast mammary tissue (Supplementary Fig.
+0	NA	NA	NA	RESULTS	4A).
+0	NA	CASP8	NA	RESULTS	The same trend was observed for risk allele rs2540334-T with lower expression of CASP8 (P = 6.9 x 10-12; Normalized effect size = -0.43) and higher expression of ALS2CR12(P = 7.8 x 10-7; Normalized effect size = 0.34) (Supplementary Fig.
+0	NA	NA	NA	RESULTS	4B
+0	breast cancer	NA	NA	RESULTS	wGRS was calculated to evaluate the cumulative effect of the significantly associated SNPs with breast cancer risk.
+1	NA	NA	rs2540431	RESULTS	The 12 SNPs that surpassed P < 5.0 x 10-8 were selected and their corresponding weight were calculated to be incorporated into the regression model; these SNPs include rs2540431 (0.08853), rs9862599 (0.18249), rs1838337 (0.11120), rs7701466 (0.10993), rs79160707 (0.18772), rs6900157 (0.17682), rs2912778 (0.19709), rs805583 (0.16442), rs10744856 (0.12644), rs3803662 (0.12069), rs4784227 (0.18744) and rs75286142 (0.15262).
+0	NA	NA	NA	RESULTS	The risk score groups were divided into 5 categories, odds ratio of each category increased concordantly to the level of risk score.
+0	NA	NA	NA	RESULTS	Individuals (4% of cases and 2% of controls) in group 5, who carry the most risk alleles, have approximately 3.7 times higher risk to develop when comparing group 1 as reference with AUC of 0.593 (Supplementary Table 6 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	5).
+0	cancers	NA	NA	RESULTS	After genotyping the selected 12 SNPs in the replication set from Aichi Cancer Centre, the same wGRS model was used, and individuals categorized in group 5 was 4.7 times higher risk comparing with group 1 with the AUC of 0.595 (Supplementary Table 6 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	5)
+0	breast cancer	NA	NA	DISCUSS	This large-scale GWAS, which utilizes a total of 7,650 breast cancer cases and 23,324 female controls, validated nine previously reported loci and suggested two novel loci to be associated with breast cancer in the Japanese population
+1	breast cancer	FGFR2	NA	DISCUSS	Among the previously reported loci, FGFR2 on chr10q26.13 and TOX3-CASC16 on chr16q12.1 are the two most significant associated breast cancer susceptible loci across different populations, followed by MAP3K1 on chr5q11.2 and CCDC170-ESR1 on chr6q25.1.
+1	breast cancer	FGFR2	NA	DISCUSS	The locus of FGFR2 carries a significant disease burden, contributing approximately 16% of all breast cancers.
+1	NA	FGFR2	NA	DISCUSS	FGFR2 encodes for fibroblast growth factor receptor type 2, a receptor tyrosine kinase that play a role in growth and differentiation of cells in various tissues.
+1	NA	SPDEF	NA	DISCUSS	Recent systems biology approach identified SPDEF, ERalpha, FOXA1, GATA3 and PTTG1 as master regulators of FGFR2 signaling and demonstrated that ERalpha occupancy responds to FGFR2 signaling.
+1	NA	FGFR2	NA	DISCUSS	Another follow-up study indicated that risk alleles of SNPs on FGFR2 augment silencer activity after map to transcriptional silencer elements and the presence of risk variants results in reduced FGFR2 expression and increased estrogen responsiveness
+1	NA	TNRC9	NA	DISCUSS	Another susceptibility locus identified in our study is located on chr16q12.1, close to TOX3 and CASC16 genes.
+1	NA	TNRC9	NA	DISCUSS	TOX3 was reported to bind with BRCA1 promoter and negatively regulates BRCA1 expression.
+0	cancers	TOX3	NA	DISCUSS	Ectopic expression of TOX3 is associated with tumor progression in breast cancer mouse model.
+0	breast cancer	TOX3	NA	DISCUSS	In addition, hypomethylation of the promoter upregulate TOX3 luminal subtype breast cancer.
+0	breast cancer	TOX3	NA	DISCUSS	Taken together, both genetic and epigenetic factors play a role in TOX3 overexpression in breast cancer
+0	NA	MAP3K1	C for 48	DISCUSS	Mitogen-Activated Protein Kinase Kinase Kinase 1 (MAP3K1), is a serine/threonine kinase that involved in the mitogen-activated protein kinase (MAPK) pathway that involves Ras, Raf, Mek, and Erk.
+0	cancers	NA	NA	DISCUSS	MAPK cascade is known to be an important pathway for cancer cell survival, dissemination, and resistance to drug therapy.
+0	NA	ER	NA	DISCUSS	Lastly, ESR1 encode for ER-alpha known to acts as a transcriptional regulator by interacting with estrogen and other coactivator proteins.
+0	breast cancer	NA	NA	DISCUSS	Interestingly, previous study has reported that neoplastic ESR1-CCDC170 fusions is related to a more aggressive subset of ER + breast cancer
+1	breast cancer	ALCAM	rs9862599	DISCUSS	The first novel SNP, rs9862599, identified to be suggestively associated with breast cancer from this GWAS is located on chromosome 3q13.11 near to the 5' end of ALCAM gene.
+1	NA	ALCAM	NA	DISCUSS	ALCAM encode for Activated Leukocyte Cell Adhesion Molecule, which is a glycoprotein that binds to T-cell differentiation antigen CD6 as well as plays a role in the process of cell adhesion and migration.
+1	breast cancer	ALCAM	NA	DISCUSS	Decreased expression of ALCAM protein is reported as an indicator of poor prognosis in breast cancer.
+1	NA	NA	rs75286142	DISCUSS	The second novel SNP, rs75286142, is located on CLIC6-RUNX1.
+0	breast cancer	CLIC6	NA	DISCUSS	CLIC6 is one of the family members of chloride intracellular channels and CLIC6 expression profile was shown to be altered in breast cancer.
+1	NA	RUNX1	NA	DISCUSS	Runx1, a transcription factor, regulates various physiological processes that include cell proliferation, survival, differentiation and cell cycle progression.
+1	breast cancer	RUNX1	NA	DISCUSS	Importantly, RUNX1 somatic mutations were found in ER+, luminal subtype of breast cancer and indicate a tumor suppressor role for RUNX1.
+1	NA	ALCAM	NA	DISCUSS	Further in-silico or functional analysis should be carried out to further investigate the effect of the identified SNP to ALCAM and RUNX1 gene as well as the crosstalk in between germline variations and somatic mutations in these breast cancer-associated genes
+0	breast cancer	NA	NA	DISCUSS	Pathway analysis identified two pathways, dopamine receptor mediated signaling pathway and protein amino acid deacetylation, to be associated with breast cancer in this GWAS study.
+0	NA	CLIC1	NA	DISCUSS	Dopamine receptor mediated signaling pathway consists of Chloride intracellular ionic channels family (CLIC1-6), Proteins of the 4.1 family (EPB41), Serine/threonine-protein phosphatase family (PPP1C) and FERM Domain Containing (FRDM) family.
+0	NA	NA	NA	DISCUSS	Among these gene sets, there are substantial reports about the involvement of the CLIC protein in tumorigenic process.
+0	NA	CLIC4	NA	DISCUSS	For instance, the expression of CLIC4 transcript is regulated by p53 and tumor necrosis factor alpha as well as related to Myc-induced apoptosis.
+0	cancers	CLIC1	NA	DISCUSS	Additionally, CLIC1 protein levels were detected to increase in multiple cancers.
+0	NA	NA	NA	DISCUSS	The second associated pathway, protein amino acid deacetylation, consist of SIRT and HDAC families.
+0	cancers	Sirt1	NA	DISCUSS	Sirtuins (SIRT1-7) play a significant role in cancer by regulating cancer-associated metabolism, modifying tumor microenvironment and affecting the response to genomic instability.
+0	breast cancer	SIRT6	NA	DISCUSS	In breast cancer, besides SIRT6 that shows to have increased expression and act as oncogene, SIRT1, SIRT2, SIRT3 and SIRT4 exhibits to have reduced expression and act as tumor suppressor genes.
+0	breast cancer	NA	NA	DISCUSS	Although SNPs in these gene sets showed only moderate association with breast cancer, gene-set enrichment P-value indicated their cumulative association might be of significant for further investigations
+0	death	CASP8	NA	DISCUSS	As an apical caspase, CASP8 functions to initiate a caspase cascade upon receipt of apoptosis signaling from a death receptor-ligand interaction.
+0	NA	CASP8	NA	DISCUSS	In addition to its central role in apoptosis, CASP8 also plays a number of non-apoptotic roles in cells, namely promoting activation NFkappaB signaling, regulating autophagy and altering endosomal trafficking, and enhancing cellular adhesion and migration.
+0	NA	CASP8	NA	DISCUSS	The role of CASP8 varies and is highly dependent on cellular context.
+0	NA	CASP8	NA	DISCUSS	Based on the in silico GTEx eQTL analysis, the risk allele of rs2714486-A and rs2540334-T is correlated with lower expression of CASP8.
+0	breast cancer	NA	NA	DISCUSS	GWAS data show that both risk alleles are more frequent in breast cancer patients compared to healthy controls.
+0	breast cancer	CASP8	NA	DISCUSS	All factors considered, our data suggests that CASP8 plays an apoptotic role in breast cancer, suppressing tumor malignancy.
+0	NA	ALS2CR12	NA	DISCUSS	The ALS2CR12 gene product is a structural component of the sperm flagellum.
+0	breast cancer	NA	NA	DISCUSS	With no previous reports linking it to breast cancer, this makes ALSCR12 a weak candidate for breast cancer susceptibility
+0	breast cancer	NA	NA	DISCUSS	The AUC-value from wGRS analysis by utilizing 12 SNPs is 0.593, which indicates the current prediction model required further improvement by identifying additional markers that are associated with breast cancer susceptibility.
+0	genetic diseases	NA	NA	DISCUSS	Nevertheless, this well-powered GWAS is a representative study for the Japanese population to identify common genetic variations that are associated with breast cancer
+0	breast cancer	NA	NA	METHODS	Breast cancer case samples for the discovery study were recruited from the Biobank Japan (Phase I to III, http://biobankjp.org).
+0	NA	NA	NA	METHODS	Biobank Japan collaboratively collects and stores DNA and serum samples throughout Japan.
+0	breast cancer	NA	NA	METHODS	For the discovery set, a total of 5,272 and 1,397 breast cancer patients were recruited from Phase I-II and Phase III Biobank Japan Project, respectively.
+0	breast cancer	ER	NA	METHODS	In the Phase I-II study, there were 2412 estrogen receptor (ER+), 2010 progesterone receptor (PR+) and 2059 human epidermal growth factor receptor (HER+) breast cancer patients.
+0	breast cancer	ER	NA	METHODS	In the Phase III study, there were 998 ER+, 790 PR+ and 1143 HER+ breast cancer patients.
+0	cancers	NA	NA	METHODS	As for control, genotyping information of 16,496 and 5,434 female individuals who do not have cancer history from population-based cohorts of the Tohoku Medical Megabank organization (ToMMo) (http://www.megabank.tohoku.ac.jp/english/), Iwate Tohoku Medical Megabank Organization (IMM), Japan Multi-Institutional Collaborative Cohort (J-MICC) Study and the Japan Public Health Center-based Prospective (JPHC) Study, and a hospital-based cohort of Biobank Japan were collected, respectively
+0	breast cancer	NA	NA	METHODS	To validate the associations identified from GWAS, a total of 981 breast cancer cases and 1,394 females were collected from Aichi Cancer Centre.
+0	NA	NA	NA	METHODS	The detailed sample demographic and clinical parameters are summarized in Supplementary Table 1
+0	NA	NA	NA	METHODS	All participating studies obtained informed consent from all participants by following the protocols approved by their institutional ethical committees before enrollment.
+0	cancers	NA	NA	METHODS	The ethical committees from the Institute of Medical Science, the University of Tokyo, RIKEN Center for Integrative Medical Sciences, Tohoku Medical Megabank organization, Iwate Medical University, National Cancer Center, and Aichi Cancer Center have approved this project
+0	NA	NA	NA	METHODS	For genome-wide genotyping in the discovery study, all Phase I-II and Phase III subjects were genotyped by Illumina HumanOmniExpress v1.1.
+0	NA	NA	NA	METHODS	To perform sample quality control, samples with call rates < 98% were excluded from the study.
+0	NA	NA	NA	METHODS	We evaluated cryptic relatedness of our samples using identity-by-state.
+0	NA	NA	NA	METHODS	To assess population stratification, principal component analysis (PCA) by using EIGENSTRAT software (ver3.0) was carried out to compare the distribution of principal component scores between samples with four major reference population obtained from the HapMap Database that consist of Europeans (represented by Utah Residents (CEPH) with Northern and Western European Ancestry, CEU), Africans (represented by Yoruba in Ibadan, YRI) and East Asian (represented by Japanese from Tokyo, JPT, and Han Chinese in Beijing, CHB).
+0	NA	NA	NA	METHODS	The top two principal components that could distinguish the clusters were used to produce scatter plot for the evaluation of distribution (Supplementary Fig.
+0	NA	NA	NA	METHODS	1).
+0	NA	NA	NA	METHODS	Based on the PCA, 3 outliers were excluded from Phase III GWAS.
+0	NA	NA	NA	METHODS	For SNP quality control, SNPs with call rate < 0.99, SNPs that deviated from Hardy-Weinberg equilibrium among control samples at the threshold of 1.0 x 10-6, non-polymorphic SNPs, and SNPs from chromosome X, Y as well as mitochondrial SNPs were excluded from further study
+0	breast cancer	NA	NA	FIG	Schematic study workflow for the Biobank Japan Breast Cancer project
+0	NA	NA	NA	METHODS	Statistical analysis for both case-control GWAS, Phase I-II and Phase III, were performed by using logistic regression analysis by incorporating associated principal components as covariates.
+0	NA	NA	NA	METHODS	Quantile-quantile plot (Q-Q plot) of each GWAS was constructed between observed P-value versus expected P-value to evaluate potential population substructure (Supplementary Fig.
+0	NA	NA	NA	METHODS	2).
+0	NA	NA	NA	METHODS	The genomic inflation factor (lambdaGC) values were calculated to evaluate the deviation of the GWAS distribution from the null distribution.
+0	NA	NA	NA	METHODS	Since inflation factor scales with sample size and considering our large sample size, lambda1000 was also calculated.
+0	NA	NA	NA	METHODS	Calculation was done as previously described.
+0	NA	NA	NA	METHODS	We used Haploview 4.2 to visualize all SNP association P-values in a Manhattan plot, expressed as -log10(P-value) against chromosome position (Supplementary Fig.
+0	NA	NA	NA	METHODS	3).
+0	NA	NA	NA	METHODS	Whole genome imputation analysis was performed to infer missing genotypes that are not included in the genotyping SNP array.
+0	NA	NA	NA	METHODS	The 1000 G Phase I integrated release version 3 from East Asian descendant that include Japanese from Tokyo, Chinese from Beijing and Chinese from Southern China was used as a reference for this imputation analysis.
+0	NA	NA	NA	METHODS	In brief, SNPs with allele frequency differences that > 0.16 between GWAS and reference panel were excluded.
+0	NA	NA	NA	METHODS	Haplotypes of the samples were phased by using MaCH1.0 before imputation analysis was carried out referring to 1000 G reference panel with map crossover and error rates using 20 iterations of the Markov chain by using Minimac (2013.7.17) software.
+0	NA	NA	NA	METHODS	Association study of the imputed genotype dosage was carried out by using mach2dat (ver1.2.4).
+0	NA	NA	NA	METHODS	Stringent imputation quality (R2) threshold was applied by excluding SNPs with R2 < 0.9 for further studies.
+0	NA	NA	NA	METHODS	To combine Phase I-II GWAS and Phase III GWAS, whole-genome meta-analysis was carried out by using Inverse-variance meta-analysis method.
+0	NA	NA	NA	METHODS	The schematic study workflow is summarized in Fig.
+0	NA	NA	NA	METHODS	2.
+0	breast cancer	ER	NA	METHODS	To address the effect of breast cancer subtypes on the association analyses, subset analysis for estrogen receptor (ER+), progesterone receptor (PR+) and human epidermal growth factor receptor 2 (HER2+) breast cancer subtypes was carried out.
+0	NA	NA	NA	METHODS	Minimac dosages for Phase I-II and Phase III GWAS were converted to hard genotypes.
+0	breast cancer	ER	NA	METHODS	Subset association analysis of ER+, PR+ and HER2+ breast cancer was calculated in PLINK using logistic regression adjusting for covariates PC1, PC2 and age.
+0	NA	NA	NA	METHODS	Permutation was performed for 1000 iterations to confirm the validity of the associations, with permutation P-value < 0.05 considered a valid association
+0	breast cancer	NA	NA	METHODS	To select SNPs for validation study, logistic regression analysis was performed by including the effects of primary associated SNPs of a genomic locus in order to exclude SNPs that have the similar effects and to identify SNPs that are independently associated with breast cancer from the primary associated SNPs
+0	breast cancer	NA	NA	METHODS	A total of 22 SNPs with Pmeta < 1.0 x 10-5 that are not published previously to be associated with breast cancer were selected for validation study by using an independent samples group of 981 breast cases and 1,394 controls from the Aichi Cancer Centre, Japan.
+0	NA	NA	NA	METHODS	Genotyping of the SNPs were performed by using Multiplex Invader Assay.
+0	NA	NA	NA	METHODS	Considering the multiple testing for validation study, Bonferroni correction threshold at P < 5.00 x 10-3 was applied
+0	NA	NA	NA	METHODS	To evaluate the combined effects of discovery Phase I-II, Phase III GWAS and validation study, meta-analysis was performed using weighted inverse-variance
+0	breast cancer	NA	NA	METHODS	Meta-Analysis Gene-set Enrichment of variaNT Associations (MAGENTA, ver2.4) software was used to assess potential pathways that are associated with breast cancer by using GWAS and 1000 G imputed dataset (RSQ > 0.9).
+0	NA	NA	NA	METHODS	In brief, gene boundary between 110 kb upstream of the gene's most extreme transcript start site and 40 kb downstream to the gene's most extreme transcript end site was set.
+0	NA	NA	NA	METHODS	This boundary was suggested by a comprehensive study of putative functional regulatory element (cis-eQTLs) using expression data from human lymphoblastoid cell line.
+0	NA	NA	NA	METHODS	After assigning SNPs within the gene boundary, cumulative P-value of the SNPs within individual genes were calculated after correcting for confounders such as gene size, variant number and LD properties using step-wise multiple linear regression analysis.
+0	NA	NA	NA	METHODS	Gene-set enrichment analysis P-value was calculated by referring to a total of 3,217 gene-sets from Gene ontology, KEGG, PANTHER, Biocarta and Reactome databases.
+0	breast cancer	NA	NA	METHODS	False discovery rate (FDR < 0.05) was used to evaluate the significance of associations of the pathway with breast cancer
+0	NA	NA	NA	METHODS	To assess expression quantitative trait loci (eQTL), correlation between SNP genotypes and expression of the nearby genes in a genomic locus was evaluated from the GTEx portal V8 (http://www.gtexportal.org/home/) focusing specifically on breast-mammary tissue.
+0	NA	NA	NA	METHODS	The eQTL analysis was expanded to include all 12 genome-wide level linked variants (LD > = 0.8 ASN 1 K genomes) due to potential differences in the database SNP repository
+0	breast cancer	NA	NA	METHODS	wGRS analysis was carried out to evaluate the cumulative effects of genetic variants associated with breast cancer risk.
+0	NA	NA	NA	METHODS	A total of 12 SNPs that are with P < 5.0 x 10-8 from the whole-genome meta-analysis of Phase I + II and Phase III GWAS were utilized to establish the model.
+1	NA	NA	rs2540431	METHODS	These SNPs include rs2540431 on chromosome 2q33.1, rs9862599 on 3q13.11, rs1838337 on 3q25.1, rs7701466 on 5p12, rs79160707 on 5q11.2, rs6900157 on 6q25.1, rs2912778 on 10q26.13, rs805583 on 12p11.22, rs10744856 on 12q24.21, rs3803662 and rs4784227 on 16q12.1, rs75286142 on 21q22.12.
+0	NA	NA	NA	METHODS	The estimate (weight) of each associated SNP was evaluated by multivariate logistic regression analysis after incorporating 12 SNPs into the model.
+0	NA	NA	NA	METHODS	The cumulative risk scores were calculated by multiplying the weight (estimate) of the SNPs with the number of risk alleles (0/1/2) of the SNPs carried by each of the individual, subsequently the sum of the scores were taken across the number of SNPs in the model.
+0	NA	NA	NA	METHODS	The risk scores were then classified into four different categories that derived from mean and standard deviation (SD); group 1, < mean-1SD; group 2, mean-1SD to mean; group 3 mean to mean + 1 SD; group 4, mean + 1 SD to mean + 2 SD and group 5 > mean + 2 SD.
+0	NA	NA	NA	METHODS	Odds ratio and 95% confidence interval was evaluated by using group 1 as reference.
+0	cancers	NA	NA	METHODS	Validation of this model was carried out by genotyping the 12 SNPs using the sample groups from Aichi Cancer Centre.
+0	NA	NA	NA	METHODS	Similar categorization was performed to evaluate the validity of this model.
+0	breast cancer	NA	NA	METHODS	Lastly, receiving operating characteristic (ROC) curve was plotted to observe how well this model could be used as prediction model for breast cancer
+0	NA	NA	NA	AUTH_CONT	S.-K.L., M.K., T.K.
+0	NA	NA	NA	AUTH_CONT	and Y. Mi.
+0	NA	NA	NA	AUTH_CONT	conceived and designed the experiments.
+0	NA	NA	NA	AUTH_CONT	C.T., K.
+0	NA	NA	NA	AUTH_CONT	Matsud., S.-Y.M., N.N., A.S., S.S.N., T.Y., N.S., M.I., S.T., T.T., S.S., M.N.
+0	NA	NA	NA	AUTH_CONT	and K.W.
+0	NA	NA	NA	AUTH_CONT	initiated and administered tissue collection, storage, and sample data collection.
+0	NA	NA	NA	AUTH_CONT	Y.K.
+0	NA	NA	NA	AUTH_CONT	and Y. Mo.
+0	NA	NA	NA	AUTH_CONT	provided bioinformatic support.
+0	NA	NA	NA	AUTH_CONT	S.-K.L.
+0	NA	NA	NA	AUTH_CONT	performed genotype imputation and regression analyses.
+0	NA	NA	NA	AUTH_CONT	S.-K.L., H.I., K.
+0	NA	NA	NA	AUTH_CONT	Matsuo., H.S., Y.
+0	NA	NA	NA	AUTH_CONT	Mo., M.K., T.K.
+0	NA	NA	NA	AUTH_CONT	and Y. Mi.
+0	NA	NA	NA	AUTH_CONT	performed replication analyses.
+0	NA	NA	NA	AUTH_CONT	J.I., Y. Mu.
+0	NA	NA	NA	AUTH_CONT	Y.N., M.K., T.K.
+0	NA	NA	NA	AUTH_CONT	and Y. Mi.
+0	NA	NA	NA	AUTH_CONT	supervised this study.
+0	NA	NA	NA	AUTH_CONT	S.-K.L.
+0	NA	NA	NA	AUTH_CONT	wrote the draft manuscript.
+0	NA	NA	NA	AUTH_CONT	All authors read and approved the final manuscript
+0	NA	NA	NA	SUPPL	The summary statistics for the GWAS will be publicly available from the National Bioscience Database Center (NBDC) Human Database (https://humandbs.biosciencedbc.jp/en/).
+0	NA	NA	NA	SUPPL	The genotype data of case subjects in BBJ_Phase I-II and case and control subjects in BBJ_Phase III are available at the Japanese Genotype-phenotype Archive (JGA; http://trace.ddbj.nig.ac.jp/jga/index_e.html) with accession codes JGAS00000000114 for the study and JGAD00000000123 for the genotype data.
+0	NA	NA	NA	SUPPL	The other datasets generated during and/or analysed during the current study are available from the corresponding author on reasonable request

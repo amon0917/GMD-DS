@@ -1,0 +1,143 @@
+0	Alzheimer's disease	NA	NA	ABSTRACT	Variability exists in the disease trajectories of Alzheimer's disease (AD) patients.
+0	Alzheimer's disease	NA	NA	ABSTRACT	We performed a genome-wide association study to examine rate-of-cognitive-decline (ROD) in AD patients
+0	Alzheimer's disease	NA	NA	ABSTRACT	We tested for interactions between genetic variants and time since diagnosis to predict the ROD of a composite cognitive score in 3,946 AD cases and performed pathway analysis on the top genes
+0	NA	NA	rs3176205	ABSTRACT	Suggestive associations (p<1.0x10-6) were observed on chromosome 15 in DNA polymerase-gamma (rs3176205, p=1.11x10-7), chromosome 7 (rs60465337, p=4.06x10-7) in contactin-associated protein-2, in RP11-384F7.1 on chromosome 3 (rs28853947, p=5.93x10-7), and family with sequence similarity 214 member-A on chromosome 15 (rs2899492, p=5.94x10-7), and intergenic regions on chromosomes 16 (rs4949142, p=4.02x10-7), and 4 (rs1304013, p=7.73x10-7).
+0	Inflammation Laboratory's JDRF	NA	NA	ABSTRACT	Significant pathways involving neuronal development and function, apoptosis, memory, and inflammation were identified
+0	Alzheimer's disease	apolipoprotein E	NA	ABSTRACT	Pathways related to AD, intelligence, and neurological function determine AD progression, while previously identified AD risk variants, including APOE, do not have a major impact
+0	Alzheimer's disease	NA	NA	INTRO	Alzheimer 's disease (AD) is characterized by progressive cognitive deterioration and substantial variability exists in the cognitive trajectories of affected individuals.
+0	cognitive defects	NA	NA	INTRO	Several studies have examined factors associated with cognitive decline in non-demented adults, conversion from mild cognitive impairment (MCI) to AD and rate of decline (ROD) after AD diagnosis.
+0	NA	NA	NA	INTRO	Several non-genetic determinants of decline, including lifestyle factors, biomarkers and biometric variables, and co-morbid diagnoses have also been reported.
+0	Alzheimer's disease	NA	NA	INTRO	Several genetic and epigenetic factors that potentially contribute to ROD in AD cases have also been identified.
+0	Alzheimer's disease	LRFN2	NA	INTRO	Expression levels of leucine rich repeat and fibronectin type III domain containing 2 (LRFN2), beta-nerve growth factor (beta-NGF) and its receptors, myocyte-enhancer factor 2C (MEF2C), and inositol polyphosphate-5-phosphatase (INPP5D) have been associated with ROD in brains of people with AD.
+0	Alzheimer's disease	NA	NA	INTRO	Epigenetic protein dysregulation has also been implicated in AD progression.
+0	dementia	NA	NA	INTRO	A recent study identified 519 proteins whose abundance were associated with cognitive trajectory in adults without dementia at baseline.
+0	Inflammation Laboratory's JDRF	NA	NA	INTRO	These proteins were enriched in pathways related to neuronal mitochondrial activities synaptic abundance, inflammation, and apoptosis.
+0	Alzheimer's disease	NA	NA	INTRO	Two studies have examined the role of AD risk genes in cognitive decline and found specific SNPs and polygenic risk scores predict ROD in older, non-demented individuals.
+0	Alzheimer's disease	NA	NA	INTRO	A different study also found that the AD risk variants or polygenic risk scores do not affect ROD in AD individuals.
+0	Alzheimer's disease	AQP4	NA	INTRO	Genetic association studies identified two SNPs in astrocytic water channel aquaporin-4 (AQP4) that predict ROD, and a genome-wide association study (GWAS) identified variants in six genes that interacted with AD diagnosis (vs MCI) to predict longitudinal cognitive change.
+0	Alzheimer's disease	SPON1	NA	INTRO	We previously conducted a GWAS for ROD using AD cases from the Alzheimer's Disease Neuroimaging Initiative (ADNI, N=303) and cases from the Religious Orders Study and Rush Memory and Aging Project (ROS/MAP, N=323) as replication, and identified significant associations with variants in several genes, including F-spondin (SPON1), whose product binds the central domain of the amyloid precursor protein (APP).
+0	Alzheimer's disease	NA	NA	INTRO	We present here the results from a GWAS of ROD in an expanded sample of 3,946 AD cases of European ancestry and discuss methodological challenges related to analysis of cognitive data and interaction tests (SNP genotype x time with AD) using longitudinal data
+0	cognitive defects	NA	NA	METHODS	Eleven cohorts with longitudinal cognitive data and genome-wide SNP data were available for study: ADNI (PMID: 23932184), ROS/MAP the Three City Study (3C), AddNeuroMed (ANM), Myriad Flurizan phase III clinical trial, National Alzheimer's Coordinating Centers (NACC), Pfizer, Lilly Semagacestat phase III clinical trial, Washington University in St. Louis (WashU), the Adult Changes in Thought study (ACT), and the Washington Heights Inwood Community Aging Project (WHICAP).
+0	NA	NA	NA	METHODS	Details about the design, recruitment, and genotyping methods for each cohort are provided in supplemental materials
+0	NA	NA	NA	METHODS	Following genotype chip quality control (removal of low call rate SNPs and individuals, individuals with excess heterozygosity, or ambiguous sex) each dataset was phased and imputed to the 1,000 Genomes Project (phase 1 integrated release 3, March 2012)using SHAPEIT/IMPUTE2 or MaCH/Minimacsoftware.
+0	NA	NA	NA	METHODS	All reference population haplotypes were used for the imputation.
+0	NA	NA	NA	METHODS	Rare variants (MAF < 2%) and those with an r2 <0.70 were excluded from further analyses.
+0	NA	NA	NA	METHODS	In the mega-analysis, variants were excluded if they were missing or poorly imputed in > 30% of all samples.
+0	NA	NA	NA	METHODS	King Robust was used to generate a kinship coefficient for each pair of individuals using a set of genotyped SNPs common to each cohort (N = 41,625 after LD pruning) using a merged dataset from all eleven cohorts.
+0	NA	NA	NA	METHODS	The member of each related or duplicate pair (kinship coefficient >=0.1) with the shortest amount of follow-up time was removed.
+0	NA	NA	NA	METHODS	Individuals were assigned ancestry using K-means clustering implemented in R, where K=3 based on the three reference populations (Eur, Afr, Asn) in the 1000 Genomes populations.
+0	NA	NA	NA	METHODS	Individuals were assigned to the cluster.
+0	NA	NA	NA	METHODS	The member of each related pair (kinship coefficient >=0.1) with the shortest amount of follow-up time was removed.
+0	NA	NA	NA	METHODS	Individuals were assigned ancestry using K-means (K=3) clustering with the 1000 Genomes populations (Eur, Afr, Asn) whose centroid was nearest across the first 10 PCs.
+0	NA	NA	NA	METHODS	Those samples that didn't cluster with Eur reference population were removed from downstream analysis.
+0	NA	NA	NA	METHODS	Subsequent PC analysis was conducted within cohort and also in the combined sample
+0	NA	NA	NA	METHODS	Methods for combining cognitive tests in each cohort and harmonizing them across cohorts to produce a composite indicator of general cognitive performance (GCP) are published elsewhere.
+0	NA	NA	NA	METHODS	Each study administered at least two and as many as 21 cognitive tests (see).
+0	NA	NA	NA	METHODS	Briefly, we used item response theory (IRT) methods to derive a measure of general cognitive performance.
+0	NA	NA	NA	METHODS	We first identified common tests across studies (i.e., anchor tests) and tests that were not common.
+0	NA	NA	NA	METHODS	Anchor tests serve to anchor the cognitive metric across studies so that a unit difference in the underlying factor score has the same meaning across study.
+0	NA	NA	NA	METHODS	Next, we estimated a confirmatory factor analysis, consistent with a graded-response IRT model, of all tests across all studies and time.
+0	NA	NA	NA	METHODS	This approach allows items to be weighted differently, by accommodating different factor loadings.
+0	NA	NA	NA	METHODS	Items also provide measurement at different locations or points along the general cognitive trait depending on how well respondents do on the tests
+0	NA	NA	NA	METHODS	Association tests were performed using two regression-based repeated measures methods.
+0	NA	NA	NA	METHODS	In one approach, linear regression models were solved with generalized estimating equations (GEE) assuming an autoregressive correlation structure with GCP as the outcome.
+0	Alzheimer's disease	NA	NA	METHODS	To assess rate of decline rather than levels of cognitive performance, models included a term for the interaction between SNP allele dosage and time since AD diagnosis as the predictor of interest.
+0	NA	NA	NA	METHODS	This construct tests whether SNP genotype modifies the effect of duration of illness on cognitive performance.
+0	Alzheimer's disease	NA	NA	METHODS	All models were adjusted for age, sex, ancestry principal components (computed within cohorts for cohort specific analyses and in the total sample for the mega-analyses), the main effects of SNP and time since diagnosis, and squared and cubic terms for time since AD diagnosis which account for any non-linear effects of time since diagnosis on GCP.
+0	NA	NA	NA	METHODS	Analyses were conducted within cohort and in the total sample through fixed effects inverse variance meta-analysis.
+0	NA	NA	NA	METHODS	In another approach, analyzed the total sample using linear mixed effects models including the same interaction term and covariates with random intercepts for individual and cohort.
+0	NA	NA	NA	METHODS	All association tests were performed using Universal Genome Analyst (Koesterer, Ryan.
+0	NA	NA	NA	METHODS	Universal Genome Analyst (uga).
+0	NA	NA	NA	METHODS	https://github.com/rmkoesterer/uga.
+0	NA	NA	NA	METHODS	DOI: 10.5281/zenodo.578712.
+0	NA	NA	NA	METHODS	), which parallelizes tests within the R packages GEEpack (https://CRAN.R-project.org/package=geepack) and LME4 (https://github.com/lme4/lme4/).
+0	NA	NA	NA	METHODS	We limited analyses to cognitive tests performed during the first two years of post-diagnosis follow-up.
+0	NA	NA	NA	METHODS	The top variants were further tested for association with GCP after adjusting for years of education
+0	NA	NA	NA	METHODS	We assessed regulatory potential for genic and intergenic SNPs using the online databases Genotype-Tissue Expression project (GTEx, http://www.gtexportal.org/home/) and BRAINEAC (www.braineac.org) to identify any eQTLs among the top SNPs.
+0	allergy	NA	NA	METHODS	All SNPs were annotated using SNPeff which uses data from ENCODE and other sources to assign SNPs to promoter regions, CpG islands, DNAase hypersensitivity sites, and quantifies cross-species conservation and the impact of coding mutations
+0	NA	NA	NA	METHODS	Genes containing variants with p-values < 1x10-4 (N=334) in at least two models tested were included in an Ingenuity pathway analysis (QIAGEN Inc., https://www.qiagenbioinformatics.com/products/ingenuitypathway-analysis).
+0	NA	NA	NA	METHODS	Only SNPs within introns, exons, and 3' and 5' UTRs (according to SNPeff annotation) were considered
+0	Alzheimer's disease	NA	NA	RESULTS	After QC, 3,946 AD cases were available for analysis.
+0	NA	NA	NA	RESULTS	Table 1 shows characteristics of each cohort, including the mean age at baseline, length of follow-up, and change in GCP during the study period, which we limited to the first two years of follow-up.
+0	Alzheimer's disease	NA	NA	RESULTS	The interaction terms between time with AD and age (p=0.0001), sex (p=0.02), and education status (p=3.5x10-5) were significantly associated with GCP
+0	NA	NA	NA	RESULTS	Significant inflation (lambda) of the genome-wide interaction term test statistics was observed in several cohorts using both LME and GEE.
+0	NA	NA	NA	RESULTS	The lambda was moderately correlated with sample size.
+0	Alzheimer's disease	NA	NA	RESULTS	We attempted several approaches to reduce lambda, including computing p-values using F and t distributions, setting the degrees of freedom equal to the sample size minus the number of variables in the model, using the Boss R package, including terms for time with AD squared and cubed, and limiting the follow-up time to two years post diagnosis.
+0	Alzheimer's disease	NA	NA	RESULTS	Ultimately, none of these steps eliminated inflation, and in three cohorts lambda remained above 1.2 (ACT, ROS/MAP2, WHICAP) although inflation was reduced in models including non-linear time with AD terms and limiting to two years of follow-up.
+0	NA	NA	NA	RESULTS	Consequently, we corrected all test statistics for the cohort-specific lambda and conducted the meta-analyses with and without cohorts with lambda > 1.2.
+0	NA	NA	NA	RESULTS	Supplementary figures 1-3 show the lambda-corrected quintile-quintile plots for both the GEE (meta-analysis with (supplementary figure 1) and without (supplementary figure 2) ACT, ROS/MAP2, WHICAP, and LME (mega-analysis including all cohorts, supplementary figure 3)
+0	NA	NA	NA	RESULTS	Although multiple SNPs and structural variants in several independent regions were significantly associated with ROD in the GEE or LME models including all cohorts, none of these showed evidence in both GEE and LME models nor were they robust to the exclusion of the three cohorts with lambda > 1.2.
+0	NA	NA	NA	RESULTS	Using these stringent criteria, no SNPs showed genome-wide significance for associations with ROD.
+0	NA	NA	NA	RESULTS	Table 2 shows variants (trimmed for LD) with p-values < 1x10-4 in all three models, as well as any gene(s) whose expression was predicted to be significantly altered by the SNP according to the Genotype-Tissue Expression (GTEx) database (https://gtexportal.org/home/).
+0	NA	POLG	rs3176205	RESULTS	Suggestive associations (p<1.0x10-6) were observed in a large region on chromosome 15 spanning several genes including DNA polymerase-gamma (POLG) (rs3176205, pLME=1.11x10-7, figure 1), on chromosome 7 (rs60465337, pGEE=4.06x10-7, figure 2) in an intron of contactin-associated protein 2 (CNTNAP2), in the lincRNA RP11-384F7.1 gene region on chromosome 3 (rs28853947, pGEE=5.93x10-7), and family with sequence similarity 214 member A (FAM214A) on chromosome 15 (rs2899492, pGEE=5.94x10-7); and in intergenic regions on chromosomes 16 (rs4949142, pGEE=4.02x10-7), and 4 (rs1304013, pGEE=7.73x10-7).
+0	NA	SPON1	rs200230690	RESULTS	A variant in SPON1 was associated with ROD at (rs200230690, pGEE=2.36x10-5).
+0	NA	POLG	NA	RESULTS	Fourteen of the SNPs in Table 2 are significant eQTLs, including several predicted to affect POLG expression
+0	Alzheimer's disease	NA	NA	RESULTS	We also examined the top SNPs in 32 known AD risk genes, and also the SNPs tagging the APOE epsilon2 and epsilon4 alleles, for association with ROD.
+0	NA	finger CW-type and PWWP domain containing 1	rs1476679	RESULTS	After correcting for the number of SNPs tested, only rs1476679 in zinc finger CW-type and PWWP domain containing 1 (ZCWPW1, pLME=3.07x10-6, pGEE=3.9x10-4), was significantly associated with ROD.
+0	Alzheimer's disease	NA	NA	RESULTS	Notably, the minor allele (C) is protective for AD and associated with slower ROD.
+0	Alzheimer's disease	contactin-associated protein-like 2	NA	RESULTS	Although the associations were observed with different variants, CNTNAP2 and phospholipase C gamma 2 (PLCG2) have also recently been implicated as AD risk genes
+0	Alzheimer's disease	amyloid beta precursor protein binding family A member 1	NA	RESULTS	Among the genes that met criteria for inclusion in pathway analysis (Supplementary table 1), several have direct links to AD pathology, including amyloid beta precursor protein binding family A member 1 (APBA1), beta-secretase 1 (BACE1), paired immunoglobin like type 2 receptor alpha (PILRA), are in the same families as established AD risk genes such as ATP binding cassette subfamily A member 1 (ABCA1) and EPH receptor B1(EPHB1).
+0	neurodegenerative disease	NA	NA	RESULTS	Three genes are related to other neurodegenerative diseases.
+0	Parkinson's disease	SNCA	NA	RESULTS	Synuclein alpha (SNCA), and parkin RBR E3 ubiquitin protein ligase (PRKN) are associated with Parkinsons disease risk, and HECT, C2 and WW domain containing E3 ubiquitin protein ligase 1 (HECW1) is associated with familial amyotrophic lateral sclerosis.
+0	NA	NA	NA	RESULTS	Supplementary table 2 shows the individual SNP results for these genes.
+0	NA	NA	NA	RESULTS	Subsets of these genes were significantly overrepresented in 56 canonical pathways (many of which are closely related and contain a largely overlapping set of genes) at Benjamini-Hochberg p-value < 0.05 (Supplementary table 3).
+0	Geriatric Depression	Galphaq	NA	RESULTS	Many of these pathways are related to neuronal development and function (Galphaq signaling, ephrin signaling, synaptic long term depression, axonal guidance signaling), neuronal apoptosis (G beta gamma signaling, Huntington's disease signaling, phospholipase C signaling), memory (CREB signaling in neurons, protein kinase A signaling), and inflammation and immunity (CXCR4 signaling, thrombin signaling).
+0	NA	NA	NA	RESULTS	Similarly, a portion of these genes were significantly (FDR corrected p-value <= 0.05) overrepresented in 53 physiological systems (supplementary table 4) related to nervous system function, including development of neurons (p=7.03x10-9), neuritogenesis (p=9.02x10-8), morphology of the nervous system (p=9.08x10-8), neurite branching (p=1.64x10-7), neurotransmission (p=3.03x10-7), and synaptic transmission (p=3.61x10-7)
+0	Alzheimer's disease	NA	NA	DISCUSS	We report results from a GWAS for ROD in the largest cohort of AD cases with longitudinal cognitive data assembled to date.
+0	Alzheimer's disease	ZCWPW1	NA	DISCUSS	We identified several suggestive associations in genes with no previous links to AD risk, as well as one study-wide significant association with ZCWPW1 in tests focused on previously established AD risk genes, and identified novel variants in CNTNAP2 and PLCG2.
+0	Alzheimer's disease	NA	NA	DISCUSS	These newly implicated genes have roles in a diverse set of physiological pathways that have functions related to known AD processes and more generalized neural biology and development.
+0	NA	NA	NA	DISCUSS	Several of these pathways showed statistically significant enrichment of the top-ranked genes in the GWAS
+0	NA	POLG	NA	DISCUSS	POLG is involved in proofreading during mitochondrial DNA (mtDNA) replication.
+0	mitochondrial dysfunction	NA	NA	DISCUSS	Mutations in the gene have been associated with multiple mitochondrial disorders including Alpers type mtDNA depletion syndrome and progressive external ophthalmoplegia.
+0	NA	POLG	NA	DISCUSS	Several animal studies have induced accelerated aging phenotypes by altering the function of POLG, and the effects appear to be driven by increased neuronal apoptosis.
+0	mitochondrial dysfunction	NA	NA	DISCUSS	Given the well-established role of mitochondrial dysfunction in AD (reviewed in) and the links between variants in this gene and aging phenotypes, this gene is a biologically compelling candidate for a ROD mediator.
+0	NA	POLG	NA	DISCUSS	The top variant in the gene is a significant eQTL for POLG, suggesting its effects on ROD might be through increased expression
+0	NA	contactin-associated protein-like 2	NA	DISCUSS	CNTNAP2 encodes a neuronal member of the neurexin superfamily and is involved in neural-glia interactions and clustering of potassium channels in axons.
+0	NA	NA	NA	DISCUSS	It is expressed at high levels in the prefrontal and anterior temporal cortex, the dorsal thalamus, caudate, putamen, and amygdala, with enriched expression in circuits involved in higher cortical functions including language.
+0	developmental monogenic disorder	NA	NA	DISCUSS	Variants have been associated with neurodevelopmental disorders including autism, ADHD, intellectual disabilities through multiple protein function and regulatory mechanisms.
+0	Alzheimer's disease	NA	NA	DISCUSS	It is downregulated in the hippocampus of AD patients, possibly through increased expression of the transcription factor Storkhead box 1A (STOX1A).
+0	NA	NA	NA	DISCUSS	The variant we identified is intronic with no known regulatory effects
+0	NA	CLNK	NA	DISCUSS	There is evidence that several of the top-ranked genes have roles in the immune system and neuroinflammation, including (cytokine dependent hematopoietic cell linker) (CLNK), CD8b molecule (CD8B), and PLCG2.
+0	familial amyotrophic lateral sclerosis	HECW1	NA	DISCUSS	Hect, c2, and ww domains-containing e3 ubiquitin-protein ligase 1 (HECW1) binds to mutated superoxide dismutase 1 (SOD1) to produce Lewy body-like hyaline inclusions in ventral horn motor neurons in familial amyotrophic lateral sclerosis patients
+0	NA	NA	NA	DISCUSS	The pathway analysis results highlight additional mechanisms affecting ROD, broadly implicating neuronal development, apoptosis, and synapse formation.
+0	NA	G protein coupled receptor	NA	DISCUSS	The vast majority of the significant canonical pathways are linked by the involvement of genes encoding G protein coupled receptor (GPCR) subunits.
+0	NA	beta-amyloid (Abeta)	NA	DISCUSS	GPCRs regulate many neurotransmitters in the brain and also directly influence the amyloid cascade by modulating alpha-, beta-, and gamma-secretase, proteolysis of the amyloid precursor protein (APP), and regulation of amyloid-beta degradation.
+0	multiple disorders	Galphaq	NA	DISCUSS	The top pathway, Galphaq signaling, is involved in axon growth and has been a drug target for multiple disorders, including a negative phase 2 clinical trial for AD.
+0	Alzheimer's disease	NA	NA	DISCUSS	The second ranked pathway, G beta gamma signaling, has also been studied in the context of AD and affects apoptosis.The significant diseases and biological functions largely involve a different set of genes than those overrepresented in the canonical pathways and suggest roles for neural development and neurotransmission in ROD.
+0	NA	contactin-associated protein-like 2	NA	DISCUSS	CNTNAP2, APBA1, and BACE1 are all involved in the top functions, although it is unclear from these data whether these findings represent pre or post disease alterations
+0	NA	NA	NA	DISCUSS	Our findings also highlight genetic links between intelligence and AD-related pathways.
+0	NA	NA	NA	DISCUSS	A recent study identified 187 independent loci associated with intelligence from a meta-analysis of 248,482 non-demented subjects.
+0	NA	amyloid beta precursor protein binding family A member 1	NA	DISCUSS	Of these loci, ten (APBA1 pmin=1.63x10-6, BANK1 pmin=4.30x10-5, KCNH5 pmin=5.42x10-5, NEGR1 pmin=3.09x10-7, PDE4D pmin=1.01x10-6, PTPRN2 pmin=1.59x10-5, RBFOX1 pmin=2.23x10-5, SGCZ pmin=3.91x10-6, SLC17A3 pmin=4.27x10-5, and ZCCHC4 pmin=2.34x10-5 were among our top-ranked genes for ROD measured in individuals after onset of AD symptoms.
+0	NA	NA	NA	DISCUSS	Each of these associations remained or increased in significance after adjusting for years of education, suggesting that the effects of these genes are not limited to general, pre-disease cognitive ability and may actively alter disease pathology.
+0	NA	amyloid beta precursor protein binding family A member 1	NA	DISCUSS	Of these genes, only APBA1 is known to be involved in AD pathology.
+0	NA	NA	NA	DISCUSS	None of the top SNPs in these ten genes that were associated with ROD were tagged by the lead SNP associated with intelligence in, making it impossible to determine whether the effect directions matched, but also suggesting the possibility that different causal variants within those genes may affect ROD and general intelligence.
+0	NA	ZCWPW1	rs1476679	DISCUSS	These results, combined with the significant ROD pathways we identified and the observation that ROD is associated with rs1476679 in ZCWPW1 only among known AD risk variants (although different variants in CNTNAP2 and PLCG2 were associated with ROD), suggest that post-diagnosis cognitive functioning may be determined more by genetic variation influencing general neural function and connectivity than by genes involved in the cascade of events leading to AD-related pathology
+0	Alzheimer's disease	NA	NA	DISCUSS	In aggregate, these results suggest that like AD itself, cognitive decline is highly polygenic and controlled by a diverse set of pathways.
+0	mitochondrial dysfunction	beta-amyloid (Abeta)	NA	DISCUSS	The individual variant results suggest roles for mitochondrial dysfunction, neuron function, and immunity, while the pathway results implicate, GPRC-mediated amyloid-beta and/or neurotransmitter processing neuronal development, pruning, and survival
+0	NA	NA	NA	DISCUSS	Several limitations to this work should be noted.
+0	NA	NA	NA	DISCUSS	The data are comprised of multiple, relatively small cohorts with different ascertainment schemes.
+0	Alzheimer's disease	NA	NA	DISCUSS	This, combined with the inherently heterogeneous nature of AD presentation, symptom profile, and pathology, suggests that participants in this study may be at different stages of the disease and/or may represent multiple biologically distinct AD subtypes.
+0	NA	NA	NA	DISCUSS	The different sets of cognitive tests performed across cohorts may have limited our ability to detect true genetic associations with ROD, although our previous work demonstrated that the metric of the GCP composite factor is consistent across studies.
+0	NA	NA	NA	DISCUSS	Finally, the longitudinal interaction tests we used were associated with inflation in the test statistics for both LME and GEE models and, consequently, our results may be less robust after a heavy correction for genomic control.
+0	NA	NA	NA	DISCUSS	However, we minimized this concern by excluding datasets showing high levels of inflation
+0	NA	NA	NA	DISCUSS	Despite these issues, several indicators suggest our findings are robust.
+0	NA	NA	NA	DISCUSS	First, the significance of the top results are commensurate with the sample size, and the effect sizes and directions are generally consistent across cohorts, with no single sample exerting an excessive effect on the overall association.
+0	NA	NA	NA	DISCUSS	The variants reported are also associated with ROD using two distinct regression-based approaches to modeling correlated data, and are robust even when the cohorts showing the greatest inflation are excluded.
+0	NA	NA	NA	DISCUSS	The top-ranked findings were observed generally with relatively common variants that were well imputed (r2 >= 0.8).
+0	NA	NA	NA	DISCUSS	In addition, evidence suggesting we identified genes in AD-relevant pathways, significant pathways related to neuronal function, and genes that are also significantly associated with cognitive performance more broadly suggest our analysis uncovered true determinants of ROD.
+0	NA	NA	NA	DISCUSS	Future directions include further expanding the sample and repeating the analyses using pre-diagnosis cognitive scores.
+0	NA	NA	NA	DISCUSS	Finally, our phenotype is a measure of global cognitive function and it is possible that additional genes contribute to specific domains of cognition (i.e.
+0	NA	NA	NA	DISCUSS	memory or executive function)
+0	NA	NA	NA	FIG	Regional Manhattan plot (A) and forest plot (B) showing the full generalized estimating equations model results for the region containing DNA polymerase-gamma on chromosome 15.
+0	NA	NA	NA	FIG	SNPs are color coded according to their linkage disequilibrium with the lead SNP in the region.
+0	NA	NA	NA	FIG	The forest plot shows the beta and associated 95% confidence interval in each cohort
+0	NA	NA	NA	FIG	Regional Manhattan plot (A) and forest plot (B) showing the full generalized estimating equations model results for the region containing contactin-associated protein 2 on chromosome 7.
+0	NA	NA	NA	FIG	SNPs are color coded according to their linkage disequilibrium with the lead SNP in the region.
+0	NA	NA	NA	FIG	The forest plot shows the beta and associated 95% confidence interval in each cohort
+0	NA	NA	NA	INTRO	The authors reviewed the literature using PubMed sources.
+0	cognitive defects	NA	NA	INTRO	While the genetics of cognitive decline has not been widely studied (except by our group), non-genetic factors influencing AD progression have been identified.
+0	NA	NA	NA	INTRO	The relevant citations are appropriately cited
+0	cognitive defects	NA	NA	INTRO	Our findings point to novel variants and pathways affecting cognitive decline, and show a limited role for known AD risk variants.
+0	Alzheimer's disease	NA	NA	INTRO	These results may inform the design and analysis of future clinical trials of AD drugs
+0	cognitive defects	NA	NA	CONCL	The manuscript outlines a framework for the generation and analysis of longitudinal cognitive scores which will be applied to larger samples and specific domains of cognitive function in order to confirm and expand these findings.
+0	NA	NA	NA	CONCL	Functional studies are necessary to determine whether the genes/pathways identified are suitable for drug targets

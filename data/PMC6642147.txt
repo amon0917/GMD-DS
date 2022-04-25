@@ -1,0 +1,333 @@
+0	NA	NA	NA	ABSTRACT	Genome analysis of diverse human populations has contributed to the identification of novel genomic loci for diseases of major clinical and public health impact.
+0	Type 2 diabetes	NA	NA	ABSTRACT	Here, we report a genome-wide analysis of type 2 diabetes (T2D) in sub-Saharan Africans, an understudied ancestral group.
+0	NA	NA	NA	ABSTRACT	We analyze ~18 million autosomal SNPs in 5,231 individuals from Nigeria, Ghana and Kenya.
+0	NA	ZRANB3	NA	ABSTRACT	We identify a previously-unreported genome-wide significant locus: ZRANB3 (Zinc Finger RANBP2-Type Containing 3, lead SNP p = 2.831 x 10-9).
+0	pancreatic	NA	NA	ABSTRACT	Knockdown or genomic knockout of the zebrafish ortholog results in reduction in pancreatic beta-cell number which we demonstrate to be due to increased apoptosis in islets.
+0	Neurological and Communication Disorders	Zranb3	NA	ABSTRACT	siRNA transfection of murine Zranb3 in MIN6 beta-cells results in impaired insulin secretion in response to high glucose, implicating Zranb3 in beta-cell functional response to high glucose conditions.
+0	NA	NA	NA	ABSTRACT	We also show transferability in our study of 32 established T2D loci.
+0	NA	NA	NA	ABSTRACT	Our findings advance understanding of the genetics of T2D in non-European ancestry populations
+0	Type 2 diabetes	NA	NA	ABSTRACT	Type 2 diabetes (T2D) is prevalent in populations worldwide, however, mostly studied in European and mixed-ancestry populations.
+0	NA	ZRANB3	NA	ABSTRACT	Here, the authors perform a genome-wide association study for T2D in over 5,000 sub-Saharan Africans and identify a locus, ZRANB3, that is specific for this population
+0	Type 2 diabetes	NA	NA	INTRO	The genetic architecture of type 2 diabetes (T2D, MIM:125853) in Africa remains largely understudied.
+1	diabetes	TCF7L2	NA	INTRO	While the reduced linkage disequilibrium (LD) characteristic of African populations was used to refine and fine map the original TCF7L2 genetic association, genome-wide and/or high throughput studies of the genetics of T2D in Africa remain limited to a genome-wide linkage analysis, and a large-scale replication study, both from the Africa America Diabetes Mellitus (AADM) Study.
+0	NA	NA	NA	INTRO	African American populations, on the other hand, have been studied more comprehensively including several genome-wide association studies (GWAS) and meta-analysis of GWAS.
+0	NA	NA	NA	INTRO	However, African American populations should not be used as proxies for populations in Africa because of differences in genetic (African Americans have ~20% European admixture) as well as nongenetic risk factors (including lifestyle and behavioral factors).
+0	NA	NA	NA	INTRO	Therefore, despite the advances over the last decade in our understanding of the role of genetic variants influencing T2D risk and the identification of the role of the genes in pathophysiology, data from Africa remains scarce
+0	diabetes	NA	NA	INTRO	In the present study, we conduct a GWAS of T2D in Africa using data from over 5,000 Africans enrolled from Nigeria, Ghana, and Kenya as part of the Africa America Diabetes Mellitus (AADM) study, and extend the transferability of previously reported T2D loci in Africa.
+0	NA	ZRANB3	NA	INTRO	We identify a novel genome-wide significant locus for T2D:the Zinc Finger RANBP2-Type Containing 3 (ZRANB3) gene.
+0	NA	ZRANB3	NA	INTRO	Functional studies of the ZRANB3 ortholog in zebrafish show that either genomic knockout or antisense knockdown of the gene leads to reduction in beta-cell number in the developing embryo which we demonstrate to be due to a reproducible increase in apoptosis in islets.
+0	Neurological and Communication Disorders	Zranb3	NA	INTRO	Notably, Zranb3 knockdown in cultured MIN6 beta-cells results in impaired secretion of insulin in response to high glucose.
+0	NA	NA	NA	INTRO	Our findings represent an advance in our knowledge of the genetics of T2D in sub-Saharan Africa
+0	NA	NA	NA	RESULTS	The characteristics of the 5231 AADM study participants (2342 T2D cases and 2889 controls) are shown in Supplementary Table 1.
+0	NA	NA	NA	RESULTS	T2D cases were older than controls (mean age 55 years versus 46 years).
+0	NA	NA	NA	RESULTS	Mean body mass index (BMI) was similar between cases and controls.
+0	NA	NA	NA	RESULTS	However, cases had a significantly bigger waist circumference than controls (mean 93.7 cm versus 88.5 cm).
+0	NA	NA	NA	RESULTS	Fasting glucose values indicate that most of the T2D patients had not achieved glycemic control at the time of enrollment with a median fasting glucose of 153 mg/dl (8.5 mmol/L) and more than three-quarters of the participants having fasting glucose values greater than 109 mg/dl (6.1 mmol/L) at the time of enrollment into the study.
+0	NA	NA	NA	RESULTS	PC plots of the genotypes showed clustering of the study participants by geography and ethnolinguistic group (Supplementary Fig.
+0	NA	NA	NA	RESULTS	1)
+0	NA	NA	NA	TABLE	SNPs most significantly associated with T2D in 5231 sub-Saharan Africans (the AADM study
+1	NA	TCF7L2	NA	FIG	Regional association plots for TCF7L2 and ZRANB3 in the AADM GWAS for T2
+0	NA	NA	NA	RESULTS	The distribution of association statistics for the genome-wide association analysis is shown in the Manhattan plot (Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	NA	NA	RESULTS	There was minimal inflation of the association statistics (lambda = 1.013, Supplementary Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	NA	RESULTS	Analysis with or without BMI in the association model yielded essentially the same findings.
+1	NA	TCF7L2	rs7903146	RESULTS	Three genome-wide significant loci were identified (Table 1): TCF7L2 (lead single-nucleotide polymorphism (SNP) rs7903146, T allele frequency = 0.331, p = 7.288 x 10-13, score test), HMGA2 (lead marker rs138066904, deletion frequency = 0.096, p = 2.516 x 10-9, score test) and ZRANB3:Zinc Finger RANBP2-Type Containing 3 (lead SNP chr2:136064024, T allele frequency = 0.034, p = 2.831 x 10-9, score test).
+1	NA	TCF7L2	rs7903146	RESULTS	TCF7L2 is an established T2D risk locus and the lead SNP of TCF7L2 (rs7903146) in the present study is the same lead SNP reported in most GWAS of T2D to date (Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	HMGA2	NA	RESULTS	HMGA2 is also a known T2D locus in both Europeans and African Americans.
+0	NA	HMGA2	rs2258238	RESULTS	However, the genome-wide significant HMGA2 variant in the present study is a deletion (CCTAG/C), not a SNP like other HMGA2 markers that have previously been found to be genome-wide significant for T2D in Europeans (leading SNP rs2258238, 68.5 kb away from the deletion) and in African Americans (leading SNP rs343092, 38.6 kb away).
+0	NA	NA	NA	RESULTS	The LD between the deletion and these other SNPs is low (r2 0.052 and 0.003, respectively) in this study of sub-Saharan Africans
+0	NA	ZRANB3	NA	TABLE	Association tests for the ZRANB3 T2D locus in AADM discovery (n = 5231) and Zulu replication (n = 2578) studie
+0	NA	ZRANB3	NA	RESULTS	The association findings implicate ZRANB3 as a candidate locus for T2D as it has not been previously reported in relation to T2D.
+0	NA	NA	NA	RESULTS	The two genome-wide significant SNPs have a frequency of 3.6% and 6.9%, respectively (Table 2) and the r2 between them is 0.66.
+0	NA	NA	NA	RESULTS	They both appear to be African-specific as they are not present in other populations as evaluated through the 1000 Genomes and gNOMAD databases.
+0	diabetes	ZRANB3	NA	RESULTS	For evaluation of replication of ZRANB3 in another African ancestry population, we examined these variants in South African Zulu T2D cases and controls from the Durban Diabetes Case-Control Study (DCC) and the Durban Diabetes Study (DDS):Table 2.
+1	NA	ZRANB3	rs1465146591	RESULTS	The leading SNPs in ZRANB3 in AADM each showed consistency of direction of effect in the Zulu GWAS, despite the latter study showing lower effect allele frequencies (chr2:136064024: T allele frequency 0.9% Zulu versus 3.4% AADM; rs1465146591 (chr2:136019729) A allele frequency 2.6% Zulu versus 6.9% in AADM).
+0	NA	NA	NA	RESULTS	Although these findings did not reach nominal significance, the combined p values for the two leading SNPs across the discovery and replication samples remained genome-wide significant (Table 2)
+0	NA	ZRANB3	NA	RESULTS	ZRANB3 is a protein-coding gene with nucleic acid binding and endonuclease activity.
+0	NA	ZRANB3	NA	RESULTS	The ZRANB3 transcript is the target of nonsense-mediated decay (NMD) and is expressed in tissues relevant to T2D, including adipose tissue, skeletal muscle, pancreas, and liver (Supplementary Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	ZRANB3	NA	RESULTS	We identified haplotype blocks around the two genome-wide significant ZRANB3 SNPs and identified 35 and 43 target genes, respectively, from the significant trans-eQTL-gene associations in each haplotype block using the Framingham Heart Study (FHS) eQTL database (Supplementary Table 2).
+0	NA	ZRANB3	NA	RESULTS	We also identified five common target genes for cis-expression quantitative trait loci (eQTLs) in addition to ZRANB3.
+0	NA	MCM6	NA	RESULTS	Overlaying these associations with known T2D loci from the GWAS Catalog highlighted two known-T2D genes associated with cis-eQTLs (MCM6, DARS) and four with trans-eQTLs (DGKB, GTF3AP5-AGMO, IL23R/IL12RB2, SLC44A4).
+0	gestational diabetes	ZRANB3	NA	RESULTS	It is noteworthy that there is a ClinVar record of a duplication in ZRANB3 associated with gestational diabetes (ClinVar Accession SCV000191187.1: see Web Resources).
+0	NA	insulin	NA	RESULTS	Also, data from the Rat Genome Database shows that the syntenic region contains QTLs for insulin levels (insulin level quantitative trait locus (QTL) 44) and glucose level (glucose level QTLs 66 and 67) in the rat.
+0	NA	ZRANB3	NA	RESULTS	As of October 2018, there is no ZRANB3 variant in the NHGRI-EBI GWAS Catalog or in OMI
+0	NA	NA	NA	TABLE	Exact replication of established T2D loci in 5231 sub-Saharan African
+0	NA	NA	NA	RESULTS	We investigated the transferability of previously reported T2D SNPs in the AADM sample.
+0	NA	NA	NA	RESULTS	Of the 130 SNPs, 108 were present in our dataset.
+0	NA	NA	NA	RESULTS	Sixteen SNPs (or 15%) showed exact replication, i.e., consistent direction of effect for the alleles and p < 0.05:Table 3.
+0	NA	HMGA2	rs2258238	RESULTS	Two other SNPs [rs2258238 (HMGA2) and rs12595616 (PRC1)] showed a p < 0.05 with inconsistent direction of effect.
+0	NA	KCNJ11	NA	RESULTS	Sixteen other loci showed local replication, including KCNJ11, HHEX/IDE, THADA, MC4R, and ATP8B2 (Supplementary Table 3).
+0	NA	INS	rs3842770	RESULTS	Of the two loci first reported in an African ancestry GWAS meta-analysis for T2D (the MEDIA Consortium), we found exact replication for INS-IGF2 rs3842770 (p = 1.867 x 10-2, Table 3), but no evidence for replication for HLA-B rs2244020 (rs74995800, p = 0.798)
+0	atherosclerotic	NA	NA	RESULTS	We conducted an African ancestry T2D meta-analysis that included this GWAS and an African American meta GWAS consisting of five studies (n = 8599); the Atherosclerosis Risk in Communities (ARIC), the Cleveland Family Study (CFS), the Howard University Family Study (HUFS), Jackson Heart Study (JHS), and Multi-Ethnic Study of Atherosclerosis (MESA).
+0	NA	NA	NA	RESULTS	This African ancestry meta-analysis revealed four genome-wide significant loci (Supplementary Fig.
+1	NA	TCF7L2	rs386418874	RESULTS	4, Supplementary Table 4), namely TCF7L2 (lead SNP rs386418874 p = 6.33 x 10-11), TH-INS (lead SNP rs4072825 p = 2.35 x 10-8), KCNQ3 (lead SNP rs111248619 p = 2.71 x 10-8), and an intergenic locus (lead SNP rs4532315 p = 9.80 x 10-9).
+1	diabetes	TCF7L2	NA	RESULTS	TCF7L2 and TH-INS are well-known T2D loci and TH-INS has also been reported to be associated with other forms of diabetes (maturity-onset-diabetes of the young and transient neonatal diabetes) and other metabolic phenotypes.
+1	NA	KCNQ3	NA	RESULTS	KCNQ3 (potassium voltage-gated channel subfamily Q member 3) encodes a potassium voltage-gated channel which regulates neuronal excitability.
+1	epilepsy	KCNQ3	NA	RESULTS	Defects in the gene are a cause of a form of neonatal epilepsy (benign familial neonatal convulsions type 2 or BFNC2), but variants in the gene have not been associated with T2D or other metabolic phenotypes.
+0	NA	NA	rs4532315	RESULTS	The chromosome 5 intergenic locus with lead SNP rs4532315 has not been shown to be associated with any phenotype so far
+1	diabetes	TCF7L2	NA	RESULTS	Transethnic meta-analysis of the above African ancestry studies with a large GWAS of European ancestry individuals (the DIAGRAM meta-analysis of type 2 diabetes (T2D) based on the GoT2D integrated haplotypes) revealed multiple genome-wide significant loci as expected, including TCF7L2, KCNQ1, FTO, IDE, IGF2BP2, CDKAL1, and SLC30A8.
+0	NA	NA	NA	RESULTS	However, they are all known loci, and none is a novel locus for T2D
+0	NA	ZRANB3	NA	RESULTS	To examine a potential role for zranb3 in T2D etiology in vivo, we carried out functional studies of the zebrafish ortholog, zranb3, at larval stages.
+0	pancreatic	NA	NA	RESULTS	We first examined embryonic expression of the gene by RNA-seq in pancreatic beta-cells isolated by FACS from 5 dpf (days postfertilization) wild-type larvae, a stage at which the larval beta-cells are responsive to glucose and other nutrients and also exhibit calcium oscillations indicative of a functioning islet.
+0	NA	ZRANB3	NA	RESULTS	In comparison to other known beta-cell genes which were highly expressed, we also detected expression of zranb3 in beta-cells by RNA-seq, a finding which we did not observe for markers of other tissues including heart and bone (Supplementary Fig.
+0	NA	NA	NA	RESULTS	5a).
+0	NA	NA	NA	RESULTS	This finding was confirmed by quantitative polymerase chain reaction (qPCR) (Supplementary Fig.
+0	NA	NA	NA	RESULTS	5b)
+0	NA	ZRANB3	NA	FIG	Generation of zranb3 genomic zebrafish mutants.
+0	NA	INS	NA	FIG	a, b Identified mutations found in homozygous F2 animals by CRISPR/Cas9 in Tg(ins:mCherry) or wild-type animals.
+0	NA	NA	NA	FIG	In both lines genomic DNA deletions in exon 4 resulted in frame shift and premature stop codons (red box), confirmed by sequencing.
+0	NA	INS	NA	FIG	c Confocal microscopy images of ins:mCherry transgene (red) in principal islets of wild type or mutant 5 dpf larvae.
+0	NA	insulin	NA	FIG	d Confocal images of whole-mount immunostained islets of wild type or mutant 5 dpf larvae, using antibodies against insulin (red) or glucagon (green).
+0	NA	NA	NA	FIG	Scale bars = 25 micro
+0	NA	ZRANB3	NA	RESULTS	Next, we examined a role for zranb3 in the production or maintenance of beta-cells.
+0	NA	NA	NA	RESULTS	We targeted the gene in transgenic zebrafish larvae in which beta-cells could be visualized and quantified, Tg(insa:mCherry).
+0	NA	NA	NA	RESULTS	The zebrafish ortholog was targeted by two approaches.
+0	NA	ZRANB3	NA	RESULTS	We generated a model of genomic disruption of zranb3 by CRISPR/Cas9-mediated targeting of exon 4 of zranb3.
+0	NA	NA	NA	RESULTS	Tg(insa:mCherry) embryos co-injected with multiple zranb3-targeted short guide RNAs (sgRNA) and Cas9 mRNA were cultured until 5 dpf and beta-cell numbers were quantified by identifying locations of intracellular mCherry+.
+0	NA	NA	NA	RESULTS	We observed a significant reduction in beta-cell numbers in F0 animals injected with sgRNA (28.5 compared with 33.5 in controls, p = 0.0006, t test).
+0	NA	ZRANB3	NA	RESULTS	To confirm that these effects were due to heritable genomic disruption of zranb3, we propagated progeny of sgRNA-injected animals of either the Tg(insa:mCherry) or wild-type background by out-crossing the F0 mutation-carrying fish with wild-type fish to generate F1 heterozygous fish which we then in-crossed to generate F2 homozygous mutants.
+0	NA	NA	NA	RESULTS	In both lines, we identified fish homozygous for a deletion and early stop codons (Fig.
+0	NA	NA	NA	RESULTS	3a, b).
+0	NA	insulin	NA	RESULTS	We examined the F2 mutants in both lines for beta-cell mass using either visualization of mCherry in the transgenic line or immunostaining for insulin in the wild-type line.
+0	NA	ZRANB3	NA	RESULTS	We found that genomic mutation of the zranb3 gene in zebrafish larvae results in an observable reduction in beta-cells, identified as either transgenic ins:mCherry expression or the area of insulin+ antibody staining (Fig.
+0	NA	NA	NA	RESULTS	3c, d).
+0	NA	NA	NA	RESULTS	In F2 mutants (n = 3), we found a mean of 23.0 (SD = 1.63) beta-cells compared to wild-type age-matched control larvae (n = 15) in which we found a mean of 33.47 (SD = 0.87) beta-cells (t test with unequal variances p = 0.0057).
+0	NA	NA	NA	RESULTS	This reflects a mean reduction of 30% in F2-mutant beta-cells compared with wild-type age-matched control larvae.
+0	NA	NA	NA	RESULTS	Notably, we did not find observable changes in the domain of glucagon expression, detected by immunofluorescent antibody staining (Fig.
+0	NA	NA	NA	RESULTS	3d).
+0	NA	NA	NA	RESULTS	No developmental or morphological defects were observed in the mutant larvae at any of the experimental stages
+0	NA	ZRANB3	NA	FIG	Knockdown of zranb3 reduces beta-cell number in zebrafish larvae.
+0	NA	ZRANB3	NA	FIG	Injection of antisense oligonucleotide morpholinos (MO) targeting zranb3 reduced beta-cells in 5 dpf larval zebrafish, detected by Tg(ins:mCherry) expression imaged via whole-mount confocal microscopy (a, b).
+0	NA	NA	NA	FIG	c Depth coding of confocal microscopy images of whole-mount islets reveals individual cell resolution of beta-cells in 5 dpf larval islets, color coded by depth (distal to proximal) along the z-axis.
+0	NA	INS	NA	FIG	d, e Whole-mount immunostaining of MO-injected Tg(ins:mCherry) larval islets using antibody against glucagon (green).
+0	NA	INS	NA	FIG	f Quantification of beta-cell number in 5 dpf larval islets of Tg(ins:mCherry) injected with indicated concentrations of MO against zranb.
+0	NA	NA	NA	FIG	(n = 17-19).
+0	NA	NA	NA	FIG	Bars represent average across groups.
+0	NA	NA	NA	FIG	Error bars represent SEM.
+0	NA	NA	NA	FIG	p Values are from the t test.
+0	NA	NA	NA	FIG	Scale bars = 25 micro
+0	NA	ZRANB3	NA	RESULTS	To validate these observations, we also injected transgenic one-cell embryos with a morpholino (MO) designed to disrupt splicing of the endogenous zranb3 transcript at exon 4.
+0	toxicity	ZRANB3	NA	RESULTS	We first validated the efficacy of the MO to significantly suppress zranb3 mRNA expression without inducing off-target toxicity by assessing transcript levels of endogenous zranb3 and by examining the presence of a marker of MO-induced toxicity, the delta113 isoform of p53, respectively (Supplementary Fig.
+0	NA	NA	NA	RESULTS	6A).
+0	NA	NA	NA	RESULTS	We cultured injected embryos to 5 dpf and we quantified beta-cell number.
+0	NA	ZRANB3	NA	RESULTS	Quantification by counting of mCherry-expressing cells in larvae with suppression of zranb3 expression identified a significant reduction of beta-cells (26.8 beta-cells per larva compared with 33.3 in control larvae, p = 0.0001, t test; Fig.
+0	NA	NA	NA	RESULTS	4).
+0	NA	NA	NA	RESULTS	Quantification of beta-cells identified using epifluorescence was confirmed by confocal microscopy and pseudocolor-coding of whole-mount islets to resolve individual cells within the primary islet (Fig.
+0	NA	NA	NA	RESULTS	4c).
+0	NA	ZRANB3	NA	RESULTS	These findings were consistent with the observations in the CRISPR/Cas9 targeted embryos, suggesting that MO-induced beta-cell phenotypes are likely due to disruption of zranb3 expression.
+0	NA	NA	NA	RESULTS	The MO-induced effect was directly relevant to knockdown as the impact on beta-cell number increased with increased MO dose (Fig.
+0	NA	NA	NA	RESULTS	4f).
+0	NA	NA	NA	RESULTS	No developmental morphological defects were observed in the morphants at any dose and at all stages assayed (Supplementary Fig.
+0	NA	NA	NA	RESULTS	6B).
+0	NA	ZRANB3	NA	RESULTS	Importantly, zranb3 loss appeared to specifically impact beta-cells because we found no significant change in expression of glucagon (Fig.
+0	NA	NA	NA	RESULTS	4d, e).
+0	NA	NA	NA	RESULTS	Moreover, we did not detect differences in glucose uptake in peripheral tissues in these animals as determined by treatment with fluorescent 2-NBDG and quantification of retinal fluorescence (Supplementary Fig.
+0	NA	NA	NA	RESULTS	7)
+0	NA	ZRANB3	NA	RESULTS	To further characterize the role of zranb3 on beta-cell numbers, we examined both proliferation and apoptosis.
+0	NA	NA	NA	RESULTS	We assessed proliferation in zranb3-deficient Tg(insa:mCherry) embryos using FACS analyses and mCherry+ expression to identify beta-cells.
+0	NA	NA	NA	RESULTS	Cell cycle analysis was completed using DNA content quantification.
+0	NA	NA	NA	RESULTS	We found similar proportions of beta-cells in G1, S, and G2/M phases as compared to control beta-cells, suggesting no significant change in proliferation of these cells (Supplementary Fig.
+0	NA	NA	NA	RESULTS	8).
+0	NA	NA	NA	RESULTS	We then asked whether the reduction in beta-cell number may be attributable to increased cell death in beta-cells.
+0	NA	caspase-3	NA	RESULTS	To test this, we used whole-mount immunostaining of zebrafish larvae using an antibody against activated caspase-3, a marker of apoptosis which can be observed in zebrafish larval beta-cells.
+0	NA	Caspase-3	NA	RESULTS	Compared to control larvae in which we found only 4% of larvae expressing caspase-3 in mCherry-positive islets, we found caspase-3 co-localization with mCherry in 44% of zranb3-depleted larvae (Fig.
+0	NA	ZRANB3	NA	RESULTS	5, p < 0.0001, chi-square test), consistent with an increase in islet apoptosis accompanying knockdown of zranb3
+0	NA	Zranb3	NA	FIG	Suppression of Zranb3 in MIN6 beta-cells impairs insulin secretion in response to glucose.
+0	NA	Zranb3	NA	FIG	a Reduced Zranb3 expression upon treatment of MIN6 cells with siRNA targeting Zranb3; n = 4 independent experimental replicates for each, each dot representing independent experiment and bars represent average values across experiments.
+0	NA	insulin	NA	FIG	b Quantification of total insulin secreted by MIN6 cells into culture media upon low- (2.5 mM) and high-(16.7 mM) glucose conditions.
+0	NA	NA	NA	FIG	n = 16-24 replicates for each experiment and averages across experiments indicated.
+0	NA	NA	NA	FIG	Error bars represent SE
+0	NA	NA	NA	RESULTS	Our observations of reduced beta-cell number due to apoptosis may be consistent with dysfunctional beta-cells.
+0	NA	ZRANB3	NA	RESULTS	To test this possibility, we turned to cultured mammalian beta-cells and asked whether suppression of Zranb3 impacts function.
+0	NA	Zranb3	NA	RESULTS	Upon transfection of siRNA specifically targeting murine Zranb3 (Fig.
+0	insulin deficiency	insulin	NA	RESULTS	6), we treated MIN6 beta-cells with low- or high-glucose conditions and quantified total insulin secreted into the culture media after 1 h. We found that, whereas control cells exhibited a marked increase in insulin secretion upon treatment with high-glucose media, cells transfected with siZranb3 did not increase the amount of insulin secreted over the basal amount secreted in low-glucose media (Fig.
+0	NA	NA	NA	RESULTS	6).
+0	NA	ZRANB3	NA	RESULTS	These observations suggest a necessary role for Zranb3 in beta-cell functional response to high-glucose conditions
+0	NA	NA	NA	FIG	Significant genes on integrative GWAS and transcriptomic analysis.
+0	NA	NA	NA	FIG	a Displays genes with gene-set p < 10-3 colored in deep red.
+0	NA	NA	NA	FIG	"Transcriptomic data from whole blood (11 studies), ""Fat Grouped"" (Grundberg et al."
+0	NA	NA	NA	FIG	and GTeX adipose tissue), adipose tissue (GTeX adipose tissue only), skeletal muscle (GTeX skeletal muscle only).
+0	NA	NA	NA	FIG	b Plot of gene-based versus best single variant association p values for whole bloo
+0	NA	NA	NA	RESULTS	Integrative analysis that combines GWAS summary statistics with eQTL data were performed to identify potential new candidate genes.
+0	NA	NA	NA	RESULTS	The most significant genes are shown in Fig.
+0	NA	NA	NA	RESULTS	7.
+0	NA	MARCH1	NA	RESULTS	Most of these genes have not been reported as T2D-risk loci except for MARCH1 which associated with T2D.
+0	metabolic disorder	LIPC	NA	RESULTS	LIPC which is associated with closely related phenotypes, including the metabolic syndrome, and circulating levels of total cholesterol, HDL-cholesterol and triglycerides in multiple studies
+0	NA	NA	NA	DISCUSS	The vast diversity of genetic characteristics and environments across the world indicates that common complex disorders such as T2D need to be studied in diverse global populations.
+0	NA	NA	NA	DISCUSS	Nowhere is this truer than in sub-Saharan Africa, which is not only the cradle of humanity but is also home to a vast diversity of populations with widely divergent lifestyle, behavioral and environmental factors including long term exposure to pathogens that have shaped the genomic architecture of African peoples.
+0	diabetes	NA	NA	DISCUSS	In the present study, we report a genome-wide analysis of T2D in over 5000 sub-Saharan Africans from a single diabetes association study conducted on the continent.
+1	NA	TCF7L2	rs7903146	DISCUSS	Reassuringly, TCF7L2 rs7903146 was genome-wide significant as expected from previous T2D studies in Africa, and consistent with the findings of most populations studied around the world.
+0	NA	NA	NA	DISCUSS	We also replicated several previously reported T2D loci.
+0	NA	NA	NA	DISCUSS	Using exact replication strategies (same SNP, consistent direction of effect, p value < 0.05), we demonstrated that 15% of the reported loci were significantly associated in this study of sub-Saharan Africans.
+0	NA	NA	NA	DISCUSS	This is consistent with our estimates of the power of our study to replicate known loci considering effect allele frequencies and reported effect sizes.
+0	NA	NA	NA	DISCUSS	Using local replication strategies, which help to identify significant loci which would otherwise have been missed because of allele frequency and/or LD differences between populations, we replicated additional sixteen loci (i.e., significant p value in a SNP in LD with the original reported SNP).
+0	NA	NA	NA	DISCUSS	These findings extend our previous studies of transferability of T2D loci in sub-Sharan Africa.
+0	NA	NA	NA	DISCUSS	Notably, the present study's exact replication rate of 15% is marginally more than the 11% that we previously reported in a smaller sample from the same study.
+0	NA	NA	NA	DISCUSS	While this difference is not statistically significant (p = 0.369, test of difference between proportions), it suggests that larger sample sizes may lead to increased numbers of replicated variants because of increased statistical power.
+0	NA	NA	NA	DISCUSS	It should be noted that transferability of reported T2D genome-wide significant variants between populations has always been demonstrable for a relatively small fraction of all such loci, especially with African ancestry populations.
+0	NA	NA	NA	DISCUSS	Perhaps this is not unexpected given that transferability is affected by several factors, including sample sizes, effect allele frequencies, LD structure, and genetic architecture of the trait.
+0	NA	NA	NA	DISCUSS	While acknowledging that increased sample size is just one of these variables, an appreciation of the final set of consistently replicable variants across populations will probably become possible when sample sizes (and the resultant statistical power) in non-European studies begin to approach those of European GWAS
+0	NA	ZRANB3	NA	DISCUSS	A notable finding in the present study is the identification of a previously unidentified locus for T2D, namely ZRANB3 (Zinc Finger RANBP2-Type Containing 3).
+0	NA	NA	NA	DISCUSS	Two intronic SNPs in the gene were genome-wide significant and the direction of effect was consistent for the top four SNPs in a South African Zulu sample with the meta-analysis p values of the two SNPs remaining genome-wide significant.
+0	NA	NA	NA	DISCUSS	The SNPs are African-specific and were discovered by sequencing of African genomes in the African Genome Resources Haplotype Reference Panel.
+0	NA	ZRANB3	NA	DISCUSS	Our functional annotation of the ZRANB3 locus identified several cis- and trans-eQTLs, indicating that the locus contains multiple functional variants.
+0	NA	MCM6	NA	DISCUSS	Of relevance to T2D is our findings of two known-T2D associated genes associated with cis-eQTLs (MCM6, DARS) and four with trans-eQTLs (DGKB, GTF3AP5-AGMO, IL23R/IL12RB2, SLC44A4).
+0	NA	NA	NA	DISCUSS	The DGKB/GTF3AP5-AGMO region has the most annotation to GWAS hits with variants in the genes showing genome-wide significant associations with T2D, fasting plasma glucose (FPG) traits and glycated hemoglobin.
+0	NA	NA	NA	DISCUSS	IL23R/IL12RB2 is a known GWAS locus for age of onset of T2D, while variants in SLC44A4 have been implicated in the interaction between T2D and iron status biomarkers.
+0	NA	MCM6	NA	DISCUSS	Variants in MCM6 and DARS were recently shown to be associated with total cholesterol change in response to fenofibrate in statin-treated T2D
+0	NA	ZRANB3	NA	DISCUSS	Our functional assays in zebrafish focused on the role of the ZRANB3 ortholog in the pancreas, one of the key tissues in T2D.
+0	pancreatic	ZRANB3	NA	DISCUSS	RNA-seq expression datasets of isolated beta-cells showed expression of zranb3 in the principal zebrafish pancreatic islet.
+0	pancreatic	ZRANB3	NA	DISCUSS	Knockdown of the gene led to reduced zranb3 expression and to reduction in pancreatic beta-cell number in the developing organism, which we confirmed in progeny of animals having nonsense mutations introduced into zranb3 by CRISPR.
+0	NA	Zranb3	NA	DISCUSS	These observations are consistent with recent evidence suggesting that Zranb3 is highly expressed in replicating murine beta-cells, suggesting a likely critical role of the gene in production or maintenance of beta-cells.
+0	NA	ZRANB3	NA	DISCUSS	The reduction in zebrafish beta-cell mass that we observed was shown to be due to a reproducible increase in apoptosis present in islets of animals with zranb3 knockdown.
+0	pancreatic cancer	ZRANB3	NA	DISCUSS	The effect of zranb3 deficiency in the pancreas seems to be specific to beta-cells as glucagon in islets is similar between knockout/knockdown and wild-type zebrafish.
+0	NA	insulin	NA	DISCUSS	Glucose tolerance/uptake studied in the animals did not show a defect in glucose uptake that would indicate changes in insulin sensitivity or glucose disposal.
+0	Neurological and Communication Disorders	ZRANB3	NA	DISCUSS	We also found that Zranb3 knockdown in a mammalian cell line (MIN6 beta-cells) resulted in an impairment of secretion of insulin in response to high glucose.
+0	Neurological and Communication Disorders	ZRANB3	NA	DISCUSS	Overall, the findings from these experiments support an important role for ZRANB3 in T2D that is mediated through a mechanism of impaired insulin response at the level of maintenance and function of beta-cell mass.
+0	glucose metabolism alterations	ZRANB3	NA	DISCUSS	These findings in combination with the eQTL findings suggest that the ZRANB3 locus may act directly, through other loci that it regulates (e.g., DGKB, GTF3AP5-AGMO, and IL23R/IL12RB2) or in combination with those loci to produce the pathophysiological changes that lead to altered glucose metabolism and T2D
+0	NA	NA	NA	DISCUSS	Integrative analysis of GWAS and transcriptomic studies are increasingly being utilized to identify novel candidate genes which may not have been detected through either type of study alone as illustrated by loci above the null line and towards the upper right quadrant of Fig.
+0	NA	NA	NA	DISCUSS	7b.
+0	NA	NA	NA	DISCUSS	We utilized this approach to generate new leads for further studies.
+0	NA	MARCH1	NA	DISCUSS	We found some candidate genes of which two (MARCH1 and LIPC) are established T2D-related loci.
+0	NA	NA	NA	DISCUSS	The fact that they were not significant in our study indicates that integrative analysis can boost the capacity of a GWAS to identify and/or prioritize loci for further study.
+0	NA	NA	NA	DISCUSS	One of the major drawbacks of this type of integrative analysis is the relatively small sample sizes of most transcriptomic datasets, which limits the power of the eQTL studies.
+0	NA	NA	NA	DISCUSS	However, this limitation would gradually diminish as more data are generated
+0	NA	NA	NA	DISCUSS	The identification of a previously unidentified candidate T2D locus in the present study provides further support for the notion that genome analysis studies in diverse global populations have the potential to discover novel risk loci and improve our knowledge of the genetic architecture of many common complex disorders.
+0	Type 2 diabetes	SLC6A11	NA	DISCUSS	For T2D, this has been demonstrated in studies which identified SLC6A11 in Mexicans by the SIGMA Type 2 Diabetes Consortium, SGCG in Punjabi Sikhs, and KCNQ1 in East Asians as novel risk loci for T2D.
+0	NA	NA	NA	DISCUSS	In the search for novel loci, this strategy of including populations of different ancestries complements the strategy of increasing sample sizes to boost statistical power to detect small effect sizes
+0	NA	NA	NA	DISCUSS	The present study addressed discovery science in the context of under-represented populations in genomic research, partly in response to the lack of diversity and predominance of European ancestry populations in genomic studies.
+0	NA	NA	NA	DISCUSS	Several examples now exist for how lack of diversity in genomic studies is resulting in missed opportunities for discoveries and for more robust understanding of heterogeneity in effect sizes across ethnic groups.
+0	NA	NA	NA	DISCUSS	A recent example from the Population Architecture using Genomics and Epidemiology study demonstrated that one-quarter of genetic associations in the NHGR-EBI GWAS Catalog show significant heterogeneity in effects sizes between ethnicities.
+0	NA	NA	NA	DISCUSS	Given that effect sizes are estimates of risk, this implies that risk prediction would vary substantially depending on the ethnic group.
+0	NA	NA	NA	DISCUSS	It is important to recognize that the effects of this lack of diversity extend beyond discovery science to translational studies because the resulting gaps in knowledge may lead to missed opportunities for developing clinical guidelines, better tailoring of clinical guidelines and treatment protocols and developing new therapeutic agents.
+0	NA	NA	NA	DISCUSS	Highlighting these issues further is the recent call for better calibration of polygenetic risk scores (PRS) to enhance transethnic utility with the hope of not exacerbating already unacceptable health disparities as PRS is used to identify high-risk individuals for early intervention in clinical and public health settings
+0	NA	NA	NA	DISCUSS	The strengths of the present study include a relatively large sample size, a focus on an understudied ancestral group, use of state-of-the-art SNP microarrays and imputation to an African enriched reference panel providing an unparalleled comprehensive opportunity to test millions of common SNPs across African genomes.
+0	NA	NA	NA	DISCUSS	A potential limitation is that SNPs with small effect sizes are not detectable with the present sample size.
+0	NA	NA	NA	DISCUSS	More studies in Africans and combined analysis using meta-analytic procedures would overcome this limitation
+1	NA	TCF7L2	NA	DISCUSS	In summary, this GWAS of T2D in over 5000 sub-Saharan Africans replicated several known T2D loci, including TCF7L2 and identified ZRANB3 as a T2D locus.
+0	NA	ZRANB3	NA	DISCUSS	Functional experiments in zebrafish suggest that ZRANB3 is important in beta-cell mass, and thereby the capacity of the pancreas to respond to insulinogenic stimuli
+0	NA	NA	NA	METHODS	All human research was conducted according to the Declaration of Helsinki and all relevant ethical regulations for work with human participants.
+0	NA	NA	NA	METHODS	The study protocol was approved by the institutional ethics review board (IRB) of the National Institutes of Health/National Human Genome Research Institute (protocol HG-09-N070) and the IRBs of each participating institution, including University of Lagos, Lagos, Nigeria; College of Medicine, University of Ibadan, Ibadan, Nigeria; University of Nigeria Teaching Hospital, Enugu, Nigeria; University of Science and Technology, Kumasi, Ghana; University of Ghana Medical School, Accra, Ghana.
+0	NA	NA	NA	METHODS	Written informed consent was obtained from each participant prior to enrollment
+0	NA	NA	NA	METHODS	All experiments performed on animals have been approved by the University of Maryland Baltimore IACUC under protocol approval number 1218020
+0	diabetes	NA	NA	METHODS	Study participants are from the Africa America Diabetes mellitus (AADM) study.
+0	NA	NA	NA	METHODS	This is a study of the genetic epidemiology of T2D in Africa that enrolled participants from Nigeria, Ghana, and Kenya.
+0	NA	NA	NA	METHODS	The study eligibility criteria and enrollment procedures have been described in detail elsewhere.
+0	NA	NA	NA	METHODS	Briefly, participants were Africans enrolled through major medical centers in Nigeria (Ibadan, Lagos, and Enugu), Ghana (Accra and Kumasi), and Kenya (Eldoret).
+0	NA	NA	NA	METHODS	The most common ethnolinguistic groups in the study sample were Yoruba and Igbo (Nigeria); Akan and Gaa-Adangbe (Ghana); and Luhya, Kikuyu, and Kalenjin (Kenya).
+0	NA	NA	NA	METHODS	Participants identified at each center were first consented for the study and underwent the same enrollment procedures, which included collection of demographic details, medical history, and clinical examination.
+0	NA	NA	NA	METHODS	Clinic procedures included anthropometry for weight, height, waist circumference, and hip circumference; three blood pressure measurements in the sitting position; and collection of fasting blood samples.
+0	NA	NA	NA	METHODS	Weight and height were measured in light clothes.
+0	NA	NA	NA	METHODS	Weight was measured to the nearest 0.1 kg using an electronic scale while height was measured to the nearest 0.1 cm with a clinical stadiometer.
+0	NA	NA	NA	METHODS	BMI was calculated using the formula: weight (kg)/height2 (m)
+0	diabetes	NA	NA	METHODS	The case definition of T2D was done using the criteria of the American Diabetes Association (ADA).
+0	NA	NA	NA	METHODS	The criteria were a FPG concentration >= 7.0 mmol/L (126 mg/dl) or an oral glucose tolerance test (OGTT) 2 h postglucose load >= 11.1 mmol/L (200 mg/dl) on more than one occasion.
+0	NA	NA	NA	METHODS	A diagnosis of T2D was also accepted if a patient was on physician prescribed pharmacological treatment for T2D and a review of clinical records showed that pre-treatment fasting glucose and/or OGTT criteria was consistent with the diagnosis.
+0	diabetes	NA	NA	METHODS	To exclude probable cases of type 1 diabetes, patients with autoantibodies to glutamic acid decarboxylase and/or a fasting C-peptide <= 0.03 nmol/L were excluded.
+0	diabetes	NA	NA	METHODS	T2D controls were required to meet the following criteria: FPG < 6.1 mmol/L (110 mg/dl) or OGTT 2 h postglucose load < 7.8 mmol/L (140 mg/dl) and must have none of the classical symptoms of diabetes (polyuria, polydipsia, and unexplained weight loss)
+0	NA	NA	NA	METHODS	The 5231 samples were genotyped on two platforms: 1808 samples were genotyped using both the Affymetrix Axiom  PANAFR SNP array (an array with ~2.1 million SNPs that is optimized for African ancestry populations (see Web Resources)) and the Affymetrix 319(R) Exome Array and 3423 samples were genotyped using the Illumina Consortium array: Multi-Ethnic Global Array (MEGA) (see Web Resources).
+0	NA	NA	NA	METHODS	Each of the resulting datasets underwent separate quality control.
+0	NA	NA	NA	METHODS	After technical quality control, sample-level genotype call rate was at least 0.95 for all subjects.
+0	NA	NA	NA	METHODS	Each SNP dataset was filtered for missingness, Hardy-Weinberg equilibrium (HWE) and allele frequency.
+0	NA	NA	NA	METHODS	SNP passing the following filters were retained: missingness < 0.05, HWE p < 1 x 10-6 and minor allele frequency > 0.01.
+0	NA	NA	NA	METHODS	SNPs that passed quality control were used as the basis for imputation.
+0	NA	NA	NA	METHODS	Imputation of all samples was performed using the African Genome Resources Haplotype Reference Panel (a new African genome reference panel based on 4956 samples from all African and non-African 1000 Genomes Phase 3 populations and additional African genomes from Uganda, Ethiopia, Egypt, Namibia, and South Africa) using the Sanger Imputation Service (see Web Resources).
+0	NA	NA	NA	METHODS	The additional African genomes included 2298 African samples with whole-genome sequence data from the African Genome Variation Project (AGVP) and the Uganda 2000 Genomes Project (UG2G).
+0	NA	NA	NA	METHODS	This new panel both increased the number of imputed variants and improved the information score and imputation accuracy for African populations when compared with the 1000 Genomes Phase 3 Version 5 reference panel.
+0	NA	NA	NA	METHODS	The resulting imputation dataset of all samples was filtered for variants with MAF >= 0.01 and information score (info) >= 0.3 for association analysis
+0	NA	NA	NA	METHODS	Association analysis was done using the generalized linear mixed model association test (GMMAT) R package, a software package for association tests based on generalized linear mixed models.
+0	NA	NA	NA	METHODS	We computed PCs using an LD-pruned subset of SNPs (Supplementary Fig.
+0	NA	NA	NA	METHODS	1).
+0	NA	NA	NA	METHODS	Similar to our previous study, we found that the first three PCs were significant and were therefore included in downstream analyses.
+0	NA	NA	NA	METHODS	To account for relatedness between individuals in the sample, we computed a genetic relatedness matrix (GRM) using the Genome-wide Efficient Mixed Model Association algorithm.
+0	NA	NA	NA	METHODS	Association testing for T2D was done using the mixed logistic model as implemented in GMMAT.
+0	NA	NA	NA	METHODS	This is a score test which was done with the imputed genotype dosages with age, gender, BMI, the GRM and the first three PCs as covariates
+0	NA	NA	NA	METHODS	The power of the study for discovery was estimated using Quanto and assuming an alpha of 5 x 10-8.
+0	NA	NA	NA	METHODS	For a variant with a minor allele frequency (MAF) of 0.05, the study has 80% power to detect a genetic risk ratio (GRR) of 1.7 and 94% power to detect a GRR of 1.8.
+0	NA	NA	NA	METHODS	For a variant with MAF of 0.10, the study has 82% power to detect a GRR of 1.5 and 98% power to detect a GRR of 1.6
+0	diabetes	ZRANB3	NA	METHODS	To evaluate replication of ZRANB3 in another African population, we examined the significant variants in South African Zulu T2D cases and controls from the Durban Diabetes Study (DDS) and the Durban Diabetes Case-Control Study (DCC).
+0	DDS	NA	NA	METHODS	The DDS is a population-based cross-sectional study of nonpregnant urban black African individuals aged 18 years and above living in the city of Durban, South Africa.
+0	NA	NA	NA	METHODS	They all belonged to the Zulu ethnolinguistic group and a diagnosis of T2D was based on WHO criteria.
+0	diabetes	NA	NA	METHODS	Participants in the DCC consisted of South African Zulu patients who were diagnosed with type 2 diabetes based on WHO criteria and were attending a diabetes clinic at either Inkosi Albert Luthuli Central Hospital in Durban, South Africa, or one of three peripheral clinics.
+0	NA	NA	NA	METHODS	A total of 2578 Zulu participants (1602 T2D cases and 976 controls) were included in the replication study
+0	NA	ZRANB3	NA	METHODS	For eQTL annotation of the genome-wide significant ZRANB3 SNPs, we utilized data from the FHS eQTL Study accessed via the NCBI Molecular QTL Browser (see Web Resources).
+0	NA	NA	NA	METHODS	This is a microarray-based genome-wide study that analyzed both cis- and trans-eQTLs in whole blood samples from over 5000 study participants.
+0	NA	NA	NA	METHODS	We chose this database because till date it is currently the largest, single site study of both cis-eQTLs and trans-eQTLs.
+0	NA	NA	NA	METHODS	First, we used the haplotype block definition method of Gabriel et al.
+0	NA	NA	NA	METHODS	to construct haplotypes around the two genome-wide significant SNPs, resulting in an 18.7 kb haplotype block around 2:136064024 and a 16.8 kb haplotype bock around 2:136019729.
+0	NA	NA	NA	METHODS	Next, we retrieved significant eQTLs in these two haplotype blocks from the FHS-eQTL Study and identified cis- as well as trans-eQTL SNP-gene pairs.
+0	NA	NA	NA	METHODS	We then overlaid the gene lists from the retrieved eQTL data on the list of significant associations with T2D in the NHGRI-EBI GWAS Catalog.
+0	NA	ZRANB3	NA	METHODS	To provide finer resolution, we annotated the SNPs flanking each genome-wide significant ZRANB3 SNP for eQTLs
+0	NA	NA	NA	METHODS	Given the paucity of genome-wide data on Africans characterized for T2D, we conduct a meta-analysis of our GWAS with an African ancestry dataset: a GWAS of African American samples for T2D (n = 8599) conducted on African American participants from five studies (ARIC, the CFS, the HUFS, JHS, and MESA) retrieved under controlled access from dbGAP.
+0	NA	NA	NA	METHODS	We used a fixed effects model with inverse weighting of effect sizes as implemented in METAL with double genome inflation correction.
+0	NA	NA	NA	METHODS	As a check, we utilized a meta-analysis method that allows for heterogeneity of effects as implemented in MetaSoft and obtained essentially the same findings (thus, results from METAL are presented).
+0	NA	NA	NA	METHODS	For transethnic meta-analysis, we conduct a meta-analysis for T2D with data from the present GWAS, the African American studies and the DIAGRAM meta-analysis of 13 cohorts imputed from the GoT2D integrated haplotype reference panel
+0	NA	NA	NA	METHODS	We looked for evidence of transferability of established T2D loci reported in the literature and curated with the aid of the NHGRI-EBI GWAS Catalog and updated with the latest meta-analysis studies.
+0	NA	NA	NA	METHODS	We considered a p value < 0.05 associated with a SNP with the same direction of effect as evidence of transferability.
+0	NA	NA	NA	METHODS	Where the exact SNP was not present or did not show significant association in our dataset, we examined all SNPs with LD r2 > 0.3 and within +250 kb of the reported index SNP for association with T2D.
+0	NA	NA	NA	METHODS	Nominal association p values were adjusted for the total number of SNPs within the region using the method of effective degrees of freedom.
+0	NA	NA	NA	METHODS	A locus was considered to show local replication if it had at least one of the tested SNPs with adjusted association p value < 0.05
+0	NA	NA	NA	METHODS	Experiments were carried out using Tg(insa:mCherry) or wild-type animals of the Tubingen strain.
+0	NA	NA	NA	METHODS	Adult zebrafish were housed and naturally mated according to standard protocol.
+0	NA	NA	NA	METHODS	All zebrafish work was conducted in accordance with University of Maryland IACUC guidelines
+0	NA	ZRANB3	NA	METHODS	MO antisense oligonucleotides (MOs) that block splicing (SB) at the splice junction of exon 4 of zranb3 mRNA were injected into one- to two-cell stage embryos.
+0	NA	NA	NA	METHODS	We designed SB MO (5'-GATACTCCTGCAAAGCAAACAAACA-3').
+0	NA	NA	NA	METHODS	A control nonspecific MO was used (5'-CCTCTTACCTCAGTTACAATTTATA-3').
+0	NA	NA	NA	METHODS	The embryos were grown at 28  C until harvesting for analyses.
+0	toxicity	NA	NA	METHODS	MO efficacy and off-target toxicity was assessed in cDNA generated from total RNA isolated from homogenates of whole 5 days postfertilization (dpf) larvae and qPCR analysis
+0	NA	NA	NA	METHODS	Target sites for CRISPR were determined and designed according to published protocols.
+0	NA	ZRANB3	NA	METHODS	We identified target sites within either exon 4 or exon 7 of zranb3 to which we generated sgRNAs by in vitro transcription using the following oligo sequences
+0	NA	NA	NA	METHODS	The sgRNAs, at 25 pg/microl, along with Cas9 mRNA, at 300 pg/microl, were microinjected directly into the cell during the single cell stage of embryonic development
+0	NA	NA	NA	METHODS	Zebrafish were anesthetized with MS-222, before removing a small section of caudal fin, or grinding up a 24 hpf embryo.
+0	NA	NA	NA	METHODS	RNA was extracted from the sample using Trizol reagent (Life Technologies) according to manufacturer's protocol and purified using the RNeasy Kit (QIAGEN).
+0	NA	NA	NA	METHODS	cDNA was transcribed using the Fermentas First Strand cDNA Transcription Kit (Thermo Scientific) according to manufacturer's protocol, diluted to 1:9 and added to a reaction including target-specific primers (sequences provided in Supplementary Note 1) and LightCycler 480 SybrGreen (Roche) and run on a LightCycler 480 (Roche) for 5 min at 95  C then 40 cycles of 95  C (10 s), 58  C (10 s), 72  C (10 s) then 5 min at 72  C. A reverse-transcriptase-free sample was used as a negative control.
+0	NA	EF1alpha	NA	METHODS	All samples were run in duplicate with the CT value normalized to Actin, RPIII, and/or EF1alpha to calculate relative expression for each gene in each sample.
+0	NA	NA	NA	METHODS	Biological replicates were repeated
+0	NA	NA	NA	METHODS	Zebrafish embryos were fixed overnight in 4% paraformaldehyde, washed three times in PBS + Tween20 (0.1%).
+0	NA	NA	NA	METHODS	Embryos were transferred to 150 mM Tris pH9 for 5 min at room temperature, then 15 min at 70  C. Embryos were then cryoprotected in 30% sucrose overnight at 4  C and then processed for immunofluorescence or imaged using a Nikon W1 confocal microscope at 60x.
+0	NA	NA	NA	METHODS	Images were compiled and analyzed using Fiji.
+0	NA	Caspase-3	NA	METHODS	Immunofluorescent staining was carried as per previous protocols using activated caspase-3 and insulin antibodies or antibody against glucagon (Sigma, 2654) used at 1:100 concentration
+0	NA	insulin	NA	METHODS	The Tg (insa:mCherry) line which labels beta-cells specifically by expressing mCherry under the control of the preproinsulin (insa) promoter was used to quantify the number of beta-cells according to previous published protocol.
+0	NA	NA	NA	METHODS	Briefly, embryos were fixed in 4% PFA, washed in phosphate buffered saline with Tween-20 and flat mounted in ProLong Gold antifade (Life Technologies) with the right lateral side facing the coverslip.
+0	NA	NA	NA	METHODS	Sufficient pressure was applied to disrupt the islets in order to visualize individual cells.
+0	NA	NA	NA	METHODS	The number of beta-cells was counted manually under an Olympus IX71 fluorescence microscope and imaged and analyzed using CellSens software.
+0	NA	insulin	NA	METHODS	Quantification was confirmed in separate experiments using whole-mount 5 dpf larvae immunostained for insulin and imaged on the Nikon W1 confocal microscope at 60x.
+0	NA	NA	NA	METHODS	Images were compiled and analyzed for depth resolution using Fiji.
+0	NA	NA	NA	METHODS	The analysis of beta-cells was performed on embryos collected from three different injections of either control or test morpholinos or embryos generated from mutant adults
+0	NA	NA	NA	METHODS	Embryos at 5 days post-fertilization (dpf) were incubated with 0, 300, 600, or 1000 muM 2-(N-(7-Nitrobenz-2oxa-1,3-diazol-4-yl)Amino)-2-Deoxyglucose (2-NBDG, abcam), a fluorescent glucose mimetic, for 6 h at 28.5  C. Embryos were immobilized using 3-amino benzoic acid ethyl ester (Tricaine) and imaged on a Lionheart FX at 4x (BioTek Instruments).
+0	NA	NA	NA	METHODS	Total retinal fluorescence images were compiled and quantified using Fiji
+0	NA	NA	NA	METHODS	Single-cell dissociation was carried out on Tg(insa:mCherry) embryos as per published protocols, and stained for DNA content using DyeCycle Violet (Life Technologies).
+0	NA	NA	NA	METHODS	DNA content analysis was carried out by FACS on a BD LSR II and analyzed using the FlowJo software package (FlowJo, LLC)
+0	NA	NA	NA	METHODS	Five days post-fertilization larvae were dissociated into single cells using published methodology.
+0	Aria II	NA	NA	METHODS	For RNA-Seq analysis, the single-cell suspension was sorted via mCherry+ signal using a BD FACS Aria II (BD BioSciences) and RNA was extracted from isolated beta-cell fraction via extraction kit (Qiagen).
+0	NA	NA	NA	METHODS	RNA quantity and quality were assessed via 260/280 absorption.
+0	NA	NA	NA	METHODS	Samples were provided in duplicate for library preparation and quantitative analysis using Next Generation Sequencing and an Illumina HiSeq 2 x 150 PE (GENEWIZ).
+0	NA	NA	NA	METHODS	Fragments were aligned to the GRZ10 genome with CLC Genomics Server program v10.0.1.
+0	NA	NA	NA	METHODS	We used three hundred 5 dpf larvae for sorting and isolated approximately 0.08% of all cells, based on expression of the mCherry reporter gene (i.e., beta-cells).
+0	NA	NA	NA	METHODS	In total, 1500-2000 cells were used for generation of the RNA-Seq dataset
+0	NA	NA	NA	METHODS	Culture of MIN6 cells (CRL11506; American Type Culture Collection) were cultured in DMEM-H (American Type Culture Collection) supplemented with 15% heat-inactivated fetal bovine serum and 1x penicillin/streptomycin (Sigma).
+0	NA	NA	NA	METHODS	Knockdowns were accomplished using Lipofectamine 3000 (Life Technologies) and either scrambled control or Zranb3-targeted siRNA (Life Technologies).
+0	NA	NA	NA	METHODS	Efficacy of siRNA knockdown was evaluated via qRT-PCR.
+0	NA	NA	NA	METHODS	Glucose stimulation of cultured beta-cells was performed on cells plated at equal densities, as determined by hemocytometer counts, using 2.5 and 16.7 mM glucose as baseline and high-glucose concentrations, respectively.
+0	NA	insulin	NA	METHODS	Insulin was assessed in media collected at the indicated time points using high-sensitivity insulin ELISA (Mercodia Mouse Insulin ELISA Catalog number 10-1247-10)
+0	NA	NA	NA	METHODS	To identify potentially novel candidate genes and generate new hypotheses, we leveraged our GWAS to conduct functional gene set-based analysis of the AADM GWAS summary statistics using publicly available transcriptomic data on selected T2D-related tissues.
+0	NA	NA	NA	METHODS	We conducted gene-based association analysis of eQTLs with the intention of combining genome-wide association statistics with transcriptomic data to co-localize T2D loci which may not have been discovered by using either approach alone.
+0	NA	NA	NA	METHODS	We used a gene-based method instead of a single-SNP method because under the assumption that the expression of a gene is causally-related to disease status and gene expression is determined by multiple independent SNPs, a gene-based test that captures the aggregate effects of these SNPs should have better power over testing each SNP individually.
+0	NA	NA	NA	METHODS	We used EUGENE v1.3b using the AADM GWAS summary statistics as input and accounted for LD between variants with the 1000 Genomes AFR data.
+0	NA	NA	NA	METHODS	We restricted our analyses to adipose tissue, skeletal muscle and whole blood (T2D-related target tissues for which reference eQTL data are available) using precomputed eQTL reference data provided by the software authors.
+0	NA	NA	NA	METHODS	We used Satterthwaite's approximation to estimate the significance of the gene-based sum statistic (i.e., GCTA-fastBAT), a method which is more efficient than using simulations to estimate the gene-based sum statistic and is recommended as the default approach to estimate significance
+0	NA	NA	NA	METHODS	For Affymetrix Axiom  PANAFR array, see https://www.thermofisher.com/order/catalog/product/901788?ICID=search-product; for ClinVar Accession SCV000191187.1, see https://www.ncbi.nlm.nih.gov/clinvar/variation/156804/; for dbGaP, see https://www.ncbi.nlm.nih.gov/gap; for Eugene, see https://genepi.qimr.edu.au/staff/manuelF/eugene/download.html; for GMMAT, see https://content.sph.harvard.edu/xlin/software.html#gmmat; for Illumina Multi-Ethnic Global Array (MEGA), see https://www.illumina.com/science/consortia/human-consortia/multi-ethnic-genotyping-consortium.html; for MetaSoft, see http://genetics.cs.ucla.edu/meta/index.html; for The NHGRI-EBI Catalog of published genome-wide association studies, see https://www.ebi.ac.uk/gwas/; for NCBI Molecular QTL Browser, see https://preview.ncbi.nlm.nih.gov/gap/eqtl/studies/; for OMIM, see http://www.omim.org/; for Sanger Imputation Service, see https://imputation.sanger.ac.uk/
+0	NA	NA	NA	METHODS	Further information on research design is available in the Nature Research Reporting Summary linked to this article
+0	NA	NA	NA	AUTH_CONT	C.R., A.A., G.D., and F.C.
+0	NA	NA	NA	AUTH_CONT	designed the study; O.F., T.J., B.E., K.A., J.A., W.B., C.A., A.A.2, J.A,.
+0	NA	NA	NA	AUTH_CONT	D.C., C.A., G.O., and J.O.
+0	NA	NA	NA	AUTH_CONT	did participant recruitment, phenotyping, and field laboratory assays; A.D. and S.C. did molecular laboratory assays and genotyping; A.A., A.B., J.Z., G.C., and D.S.
+0	NA	NA	NA	AUTH_CONT	did data management and statistical analysis; T.H., C.L., J.E.N., and N.Z.
+0	NA	NA	NA	AUTH_CONT	performed the zebrafish experiments and analyzed the data; A.A., A.B., A.D., and N.Z.
+0	NA	NA	NA	AUTH_CONT	drafted the paper; C.R., D.S., A.B., A.D., N.Z., and A.A. edited the paper; all authors reviewed and approved the paper
+0	NA	NA	NA	SUPPL	The GWAS summary statistics are available at dbGap [Accession number phs001844.v1.p1] for disease-related research consistent with the ethical approvals governing the study.
+0	NA	NA	NA	SUPPL	"The RNA-Seq datasets are accessible online at the Gene Expression Omnibus (GEO) under the accession ""GSE125354"" [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE125354]."
+0	NA	NA	NA	SUPPL	All other data are contained within the article and its Supplementary Information or upon reasonable request from the corresponding author

@@ -1,0 +1,206 @@
+0	diabetes	NA	NA	ABSTRACT	Most replicated genetic determinants for type 1 diabetes are common (minor allele frequency [MAF] >5%).
+0	diabetes	NA	NA	ABSTRACT	We aimed to identify novel rare or low-frequency (MAF <5%) single nucleotide polymorphisms with large effects on risk of type 1 diabetes.
+0	diabetes	NA	NA	ABSTRACT	We undertook deep imputation of genotyped data followed by genome-wide association testing and meta-analysis of 9,358 type 1 diabetes case and 15,705 control subjects from 12 European cohorts.
+0	NA	NA	NA	ABSTRACT	Candidate variants were replicated in a separate cohort of 4,329 case and 9,543 control subjects.
+0	NA	MHC	NA	ABSTRACT	Our meta-analysis identified 27 independent variants outside the MHC, among which 3 were novel and had MAF <5%.
+0	NA	NA	NA	ABSTRACT	Three of these variants replicated with Preplication < 0.05 and Pcombined < Pdiscovery.
+1	NA	STK39	rs60587303	ABSTRACT	In silico analysis prioritized a rare variant at 2q24.3 (rs60587303 [C], MAF 0.5%) within the first intron of STK39, with an effect size comparable with those of common variants in the INS and PTPN22 loci (combined [from the discovery and replication cohorts] estimate of odds ratio [ORcombined] 1.97, 95% CI 1.58-2.47, Pcombined = 2.9 x 10-9).
+0	NA	Stk39	NA	ABSTRACT	Pharmacological inhibition of Stk39 activity in primary murine T cells augmented effector responses through enhancement of interleukin 2 signaling.
+0	diabetes	NA	NA	ABSTRACT	These findings provide insight into the genetic architecture of type 1 diabetes and have identified rare variants having a large effect on disease risk
+0	diabetes	NA	NA	INTRO	Type 1 diabetes accounts for 5-10% of diabetes cases, affecting ~20 million individuals worldwide, and represents the majority of diabetes diagnoses in individuals <20 years of age.
+0	diabetes	NA	NA	INTRO	Its prevalence is consistently rising worldwide at an annual rate of ~2-5% and it is estimated that by 2050, 5 million people, among whom more than half a million youths, will be living with type 1 diabetes in the U.S..
+0	diabetes	NA	NA	INTRO	Type 1 diabetes is a chronic autoimmune disorder caused by destruction of the insulin-producing pancreatic beta-cell, which generally occurs in genetically susceptible individuals and may be precipitated by environmental factors.
+0	diabetes	NA	NA	INTRO	Thus, understanding the genetic determinants of type 1 diabetes and their effects can provide a better understanding of the pathophysiology of the disease and enable new treatment approaches, with potentially important public health benefits
+0	diabetes	NA	NA	INTRO	Our knowledge on the genetic architecture of type 1 diabetes has expanded substantially with the emergence of genome-wide association studies (GWAS).
+0	diabetes	MHC	NA	INTRO	In the pre-GWAS era, the few genetic loci established to contribute to type 1 diabetes risk were identified primarily through linkage studies, such as the human leukocyte antigen (HLA) class II genes in the MHC, or through candidate gene studies, such as the genes encoding insulin (INS), cytotoxic T-cell-associated protein 4 (CTLA4), protein tyrosine phosphatase, nonreceptor type 22 (PTPN22), and interleukin 2 receptor alpha (IL2RA).
+0	diabetes	NA	NA	INTRO	In comparison, recent GWAS comprising thousands of type 1 diabetes cases have identified 57 loci associated with risk of type 1 diabetes.
+0	diabetes	PTPN22	NA	INTRO	However, with a few exceptions, the identified variants by GWAS are common (defined as variants with a minor allele frequency [MAF] >5%) and have modest effects on type 1 diabetes risk (odds ratios [ORs] <1.5) compared with those of the previously identified HLA, INS, and PTPN22 variants (ORs >6 for the HLA and >2 for the INS and PTPN22 loci, respectively).
+0	diabetes	NA	NA	INTRO	Evaluation of rare and low-frequency variants for association with type 1 diabetes is an important area, and a recent study showed the utility of rare variants for identifying potential causal genes in type 2 diabetes.
+0	NA	NA	NA	INTRO	In addition, understanding the biology of most GWAS loci remains challenging, as fine mapping and functional validation are typically lacking.
+0	NA	NA	NA	INTRO	Furthermore, the small effect sizes attributed to most common variants decreases the ability to dissect their function through approaches such as genome editing via CRISPR-Cas9, since the anticipated effect sizes on relevant phenotypes would be smaller than variants of larger effect.
+0	diabetes	NA	NA	INTRO	Therefore, larger effect size variants may help us to better understand the genetic pathways that increase risk of type 1 diabetes
+0	diabetes	NA	NA	INTRO	It has been shown that known loci explain ~80% of the heritability of type 1 diabetes, with the HLA variants accounting for the largest portion of this variance.
+0	diabetes	NA	NA	INTRO	Therefore, about 20% of the genetic risk of type 1 diabetes remains unexplained.
+0	inability	NA	NA	INTRO	The rest of this unidentified genetic component has been attributed to undetected susceptibility loci, possibly due to the inability of past studies to interrogate loci containing low-frequency or rare genetic variants (defined as variants with an MAF <=5% and >1% or <=1%, respectively), despite the strong effects that some of them may have.
+0	diabetes	TYK2	NA	INTRO	Interestingly, among the 57 known type 1 diabetes loci, only 3 loci include low-frequency or rare variants, specifically in the tyrosine kinase 2 (TYK2), interferon induced with helicase C domain 1 (IFIH1), and RNA binding motif protein 17 (RBM17) (in the same locus as IL2RA) genes, which were identified mainly through fine mapping of previously known autoimmune loci.
+0	NA	NA	NA	INTRO	The recent availability of large human whole-genome sequencing data sets has enabled the interrogation of rare genetic variation by imputation from directly genotyped data, allowing identification of rare single nucleotide polymorphisms (SNPs) with large effects on complex traits.
+0	diabetes	NA	NA	INTRO	Here, we sought to apply these recent advances in genomics to type 1 diabetes, with the aim of identifying additional low-frequency and rare loci of large effect.
+0	diabetes	NA	NA	INTRO	To do so, we undertook a GWAS of ~9 million SNPs in 9,358 type 1 diabetes case and 15,705 control subjects from 12 cohorts of predominantly European descent and replicated our findings using de novo genotyping in a separate cohort of 4,329 type 1 diabetes case subjects from the Type 1 Diabetes Genetics Consortium (T1DGC) and 9,543 control subjects from the UK Biobank.
+0	NA	NA	NA	INTRO	In addition, potential biological effects of the top low-frequency locus were explored using in vitro functional experiments
+0	diabetes	NA	NA	METHODS	For our ascertained case-control association study, similar to a previous type 1 diabetes GWAS, we used data from multiple type 1 diabetes case cohorts and control cohorts.
+0	NA	NA	NA	METHODS	In the discovery stage, the cohorts who were genotyped on Affymetrix or Illumina platforms were pooled separately and genotypes were imputed using the Haplotype Reference Consortium reference panel, which allows improved imputation of rare variants.
+0	NA	NA	NA	METHODS	Next, association studies were performed separately for each one of the two platform types.
+0	NA	NA	NA	METHODS	The summary statistics of the two association studies were then meta-analyzed to generate the final discovery GWAS estimates (Supplementary Fig.
+0	NA	NA	NA	METHODS	1).
+0	diabetes	NA	NA	METHODS	Individual-level genotype data for the discovery meta-analysis were drawn from 12 cohorts of predominantly European descent totaling, before quality control, 9,684 type 1 diabetes case and 17,153 control subjects.
+0	diabetes	NA	NA	METHODS	Specifically, among 3,173 type 1 diabetes case subjects genotyped on the Affymetrix 500K array, 1,173 subjects were from the Genetics of Kidneys in Diabetes (GoKinD) study and 2,000 were from the Wellcome Trust Case Control Consortium (WTCCC).
+0	diabetes	NA	NA	METHODS	These were then compared with 5,998 similarly genotyped control subjects from WTCCC, specifically, 1,999 subjects from the type 2 diabetes (T2D) study, 2,001 subjects from the hypertension (HT) study, and 1,998 individuals from the bipolar disorder (BD) study.
+0	diabetes	NA	NA	METHODS	Among the 6,511 type 1 diabetes case subjects genotyped on Illumina arrays (HumanHap550 or Human1-2M-DuoCustom_v1_A), 514 individuals were from McGill University, 483 from Children's Hospital of Philadelphia (CHOPTDT), 1,385 from the Diabetes Control and Complications Trial-Epidemiology of Diabetes Interventions and Complications (DCCT-EDIC) cohort, and 4,129 from T1DGC.
+0	NBS	NA	NA	METHODS	These were compared with 9,745 similarly genotyped control subjects recruited from TwinsUK (n = 2,249), and two WTCCC studies (2,836 individuals from the 1958 British Cohort [58BC] and 2,633 individuals from the U.K. National Blood Service sample [NBS], respectively).
+0	diabetes	NA	NA	METHODS	In the replication stage, we used 4,329 type 1 diabetes case subjects from T1DGC and 9,543 randomly selected control subjects of white-British ancestry from the UK Biobank
+0	NA	NA	NA	METHODS	All participating studies in the GWAS meta-analysis were approved by the institutional review boards and the ethics committees of the respective institutions.
+0	NA	NA	NA	METHODS	Written informed consent was obtained from each participant in accordance with institutional requirements and the Declaration of Helsinki principles
+0	NA	NA	NA	METHODS	For a detailed description of the discovery study cohorts, see Supplementary Data and Supplementary Table 1
+0	NA	NA	NA	METHODS	Genotype quality assessment was performed according to published guidelines.
+0	NA	NA	NA	METHODS	This quality control removed individuals with problematic sex assignment, increased genotype missingness, increased proportion of identity by descent, and extreme heterozygosity rate.
+0	NA	NA	NA	METHODS	It also removed low-quality genetic variants, by retaining only array SNPs with an MAF >1%, missingness <0.05, and Hardy-Weinberg equilibrium P > 1 x 10-5.
+0	diabetes	NA	NA	METHODS	In the CHOPTDT case-parent trios cohort, we retained the single type 1 diabetes case per trio for association analysis, as the model used does not adjust for familial relatedness.
+0	NA	NA	NA	METHODS	A detailed description of the quality-control pipeline appears in the Supplementary Data.
+0	NA	NA	NA	METHODS	All individuals from cohorts genotyped on the same platform (Affymetrix or Illumina) were merged into a single data set, with only SNPs retained that were in common between all cohorts being merged (337,727 and 456,168 markers for Affymetrix- and Illumina-based arrays, respectively).
+0	NA	NA	NA	METHODS	Population stratification was assessed using EIGENSTRAT, version 6.0.1.
+0	NA	NA	NA	METHODS	This assessment was performed for the merged cohorts genotyped by the same platform that passed quality control (Supplementary Table 1 [N(total) = 25,063]).
+0	NA	NA	NA	METHODS	For the Affymetrix- and Illumina-based data sets, 52,598 and 99,742 SNPs, respectively, were used as input into the analysis for population stratification, which were those that passed the aforementioned genotype quality control, followed by further filtering steps described in the Supplementary Data.
+0	NA	NA	NA	METHODS	Low-frequency and rare variant associations can be prone to bias from population stratification; therefore, additional steps were taken to decrease such potential effects.
+0	NA	NA	NA	METHODS	Specifically, analysis for population stratification removed 268 and 545 individuals identified as ancestral outliers from the Affymetrix- and Illumina-based arrays, respectively.
+0	NA	NA	NA	METHODS	The top 10 principal components for the remaining individuals were used as covariates in the GWAS to adjust for potential residual population stratification.
+0	NA	NA	NA	METHODS	An additional principal component analysis was conducted by projecting study samples to 2,504 samples from 1000 Genomes phase 3.
+0	NA	NA	NA	METHODS	This additional analysis revealed that the EIGENSTRAT-based population stratification analysis successfully removed individuals of non-European ancestry and that remaining individuals across case/control status or across individual cohorts are of European ancestry (Supplementary Fig.
+0	NA	NA	NA	METHODS	2).
+0	NA	NA	NA	METHODS	The quality-control and population stratification analysis resulted in a total of 24,250 individuals used for genotype imputation.
+0	NA	NA	NA	METHODS	This included 2,903/5,678 case/control subjects and 6,093/9,576 case/control subjects for the Affymetrix- and Illumina-based data sets, respectively (Supplementary Table 1)
+0	NA	NA	NA	METHODS	The Sanger Institute online service was used to impute the available genotypes to the Haplotype Reference Consortium, version R1.1, on ~39 million SNPs, separately in the Illumina and Affymetrix data sets.
+0	NA	NA	NA	METHODS	Association testing was undertaken using logistic regression as implemented in SNPTEST, version 2.5.2, on samples from the same genotyping platform and including the top 10 principal components from EIGENSTRAT to adjust for population stratification.
+0	diabetes	NA	NA	METHODS	We then combined the association results from the Affymetrix and Illumina cohorts in a fixed effects inverse variance meta-analysis using METAL to generate the discovery cohort totaling 25,063 type 1 diabetes case and control subjects.
+0	NA	NA	NA	METHODS	We retained SNPs with an MAF in control subjects >0.5% and those with an imputation quality score (INFO) >0.3, resulting in 9,061,522 SNPs.
+0	NA	NA	NA	METHODS	The MAF cutoff was decided based on a power calculation using the genetic analysis calculator (https://zzz.bwh.harvard.edu/gpc/) and the following assumptions: perfect LD between the causative variant and the markers that were genotyped, an additive genetic model, a disease prevalence of 0.0033, and an alpha of 1 x 10-5 (similar to previous GWAS).
+0	NA	NA	NA	METHODS	We declared genome-wide statistical significance at P <= 1.2 x 10-8 to account for the increased number of statistical tests compared with a common variant-based GWAS.
+0	NA	NA	NA	METHODS	Conditional analysis was performed using the GCTA-COJO package.
+0	NA	MHC	NA	METHODS	Among the SNPs that remained genome-wide significant after conditional analysis, we considered as candidates for replication only variants that were not within 1 Mb of MHC and that had at least three SNPs with discovery P value <0.0001 within 40 kb, henceforth referred to as satellite SNPs (Supplementary Data)
+0	diabetes	NA	NA	METHODS	Replication de novo genotyping was performed in a cohort consisting of 4,329 type 1 diabetes case subjects from the sibling-pair set of T1DGC and 9,543 control subjects from UK Biobank.
+0	NA	NA	NA	METHODS	A detailed description of the replication cohort and of its assessment for population stratification is provided in the Supplementary Data.
+0	diabetes	NA	NA	METHODS	De novo genotyping of the lead SNPs for the replication in type 1 diabetes case subjects from the T1DGC was performed by LGC Genomics applying KASP genotyping.
+0	NA	NA	NA	METHODS	Association testing for the replication cohort was performed using GMMAT, using a relatedness matrix built using GEMMA.
+0	NA	NA	NA	METHODS	SNPs achieving a P value <=0.05 in the replication cohort and same direction of effect were combined with the discovery cohort in a fixed effects inverse variance meta-analysis to create combined estimates of OR (ORcombined) and P values (Pcombined) and heterogeneity statistics from the discovery and replication cohorts
+0	NA	NA	NA	METHODS	Since low-frequency and rare variants can be strongly influenced by subtle differences in frequency across ancestral populations, we undertook an admixture analysis using PCAdmix
+1	NA	STK39	rs60587303	METHODS	Specifically, the local admixture analysis was performed on 16,124 Illumina-based imputed genotypes on a 2 Mb region surrounding rs60587303 (STK39) (21,380 SNPs).
+0	NA	NA	NA	METHODS	Admixture of each individual was determined in comparison with genotype data from the European (CEU) (N = 99), African (YRI) (N = 108), and Asian (CHB/JPT) (N = 207) populations in 1000 Genomes phase 3.
+0	NA	NA	rs60587303	METHODS	The distribution of probabilities of CEU, YRI, and CHB/JPT ancestries was stratified by dosage of the effect allele (C) at rs60587303 and type 1 diabetes case/control status
+0	NA	NA	NA	METHODS	We undertook fine mapping using FINEMAP to prioritize variants at all GCTA-COJO conditionally independent loci.
+0	allergy	NA	NA	METHODS	Putative functional targets were identified in silico as genes mapping in the same topological domain as the fine mapped SNPs or genes with fine mapped SNPs overlapping transcription factor binding sites and DNase I hypersensitivity clusters (Supplementary Data)
+0	NA	Stk39	NA	METHODS	Given the commercial availability of an antiparasitic agent, closantel, which has been shown to specifically inhibit stk39 activity in cell lines and in mice, we tested the effects of this agent on cytokine responses in murine CD4+ T cells.
+0	NA	interferon-gamma	NA	METHODS	Cytokine secretion assays for interferon gamma (IFNgamma) and interleukin-2 (IL-2) were performed on activated CD4+ T cells in the presence or absence of closantel at titrated doses (see Supplementary Data for further details)
+0	NA	GRASP	NA	METHODS	The GWAS summary-level results will become available through GRASP (Genome-Wide Repository of Associations Between SNPs and Phenotypes) (https://grasp.nhlbi.nih.gov/)
+0	diabetes	NA	NA	RESULTS	After quality control, imputation to 9,061,522 SNPs, and platform-specific case-control GWAS performed separately for the Affymetrix and Illumina genotyped samples, our discovery meta-analysis included a total of 9,358 type 1 diabetes case and 15,705 control subjects.
+0	NA	NA	NA	RESULTS	The power of our meta-analysis to find variants with an MAF of 0.5% and a relative risk of 2.0 was 98% at an alpha of 1 x 10-5.
+0	NA	NA	NA	RESULTS	After controlling for population stratification, the lambda for this meta-analysis was 1.19 (Fig.
+0	diabetes	NA	NA	RESULTS	1), which is similar to that reported in previous type 1 diabetes GWAS.
+0	NA	MHC	NA	RESULTS	Based on our criteria for prioritization of our independent lead variants (MAF in control subjects >0.5%, INFO >0.3, P value <1.2 x 10-8 after conditional analysis, not being in the MHC region, and presence of at least three satellite SNPs), our list of lead variants included 27 independent variants in 27 loci (Supplementary Table 3).
+0	NA	NA	NA	RESULTS	Among these, 23 were common, mostly at known autoimmune loci (n = 15) reported in ImmunoBase (available from https://genetics.opentargets.org/immunobase).
+0	NA	NA	NA	RESULTS	Five were low-frequency or rare variants, four of which were located in loci not previously described to be associated with an autoimmune trait.
+0	diabetes	TYK2	rs34536443	RESULTS	One low-frequency variant (rs34536443) was located in the TYK2 locus, which has previously been associated with type 1 diabetes risk
+0	NA	NA	NA	FIG	Discovery meta-analysis.
+0	diabetes	NA	NA	FIG	A: Manhattan plot depicting genome-wide association of 9.06 million genetic variants with type 1 diabetes risk [y-axis is truncated at -log10(P value) of 100].
+0	diabetes	NA	NA	FIG	Blue diamonds represent lead independent genetic variants at known type 1 diabetes loci, red diamonds represent the novel low-frequency/rare loci, and white diamonds represent the remaining GCTA-COJO independent loci.
+0	diabetes	NA	NA	FIG	B: Quantile-quantile plot depicting the observed versus expected -log10 P values for the genome-wide association of 9.06 million genetic variants with type 1 diabetes risk
+0	NA	NA	NA	RESULTS	The four novel low-frequency/rare variants were brought forward to the replication stage (Supplementary Table 4).
+0	NA	NA	NA	RESULTS	In addition, two novel common variants with >40 satellite SNPs were tested for replication by de novo genotyping in 4,329 case and 9,543 control subjects.
+1	NA	TYK2	rs34536443	RESULTS	We used two variants, in TYK2 (rs34536443) and INS (rs689), as positive controls in the replication stage.
+0	NA	NA	rs61944716	RESULTS	One of the two novel common SNPs (rs61944716) failed replication genotyping.
+0	NA	NA	NA	RESULTS	Four of the five novel SNPs replicated at Preplication < 0.05.
+0	NA	NA	NA	RESULTS	"For these four variants, we combined the ""discovery"" and ""replication"" P values to create a Pcombined."
+0	NA	NA	NA	RESULTS	"We considered as ""replicated"" the SNPs that presented a Preplication < 0.05, Pcombined < Pdiscovery, and Pcombined <= 1.2 x 10-8 with consistent direction of association."
+0	NA	NA	NA	RESULTS	Based on these criteria, three out of the four novel low-frequency/rare SNPs and the single novel common variant replicated (Fig.
+0	NA	NA	NA	RESULTS	2, Table 1, and Supplementary Table 5)
+0	diabetes	NA	NA	FIG	Forest plot with the effects on type 1 diabetes of the variants from the discovery and replication meta-analysis.
+0	NA	NA	NA	FIG	The variants used as positive controls appear in blue.
+1	NA	STK39	NA	FIG	For facilitation of comparison, the novel STK39 variant appears in red.
+0	diabetes	NA	NA	FIG	EAF, effect allele frequency; OR, OR of type 1 diabetes after combining discovery and replication results
+0	NA	NA	NA	RESULTS	To prioritize variants for in vitro and in vivo functional exploration among the four novel variants that successfully replicated, we performed an in silico analysis of the four SNPs by considering their spatial proximity to putative functional elements and target genes (Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	NA	NA	RESULTS	Specifically, the top candidate genes were determined as genes within a region of elevated chromatin interactions with the lead SNP or, if lacking, nearby genes.
+0	NA	NA	NA	RESULTS	Further, expression of these genes was assessed in type 1 diabetes-relevant cell types.
+1	NA	STK39	NA	RESULTS	These approaches converged upon STK39, since it resides in a region of elevated chromatin interaction with the lead SNP.
+1	NA	STK39	NA	RESULTS	The local chromatin interaction map for the STK39 locus and its proximity to regulatory elements are shown in Fig.
+0	NA	NA	NA	RESULTS	3
+1	NA	STK39	NA	FIG	The STK39 locus.
+0	NA	NA	NA	FIG	A, top: A regional view of the 2q24.3 locus in the UCSC Genome Browser with tracks showing chromatin state in various immune cell types (green means active).
+1	NA	STK39	NA	FIG	From this, we can see that STK39 is active in immune cells but also nearby genes such as CERS6.
+1	NA	STK39	NA	FIG	A, middle: Topological associated domains for the STK39 region.
+0	NA	NA	NA	FIG	Deeper red color indicates that there is increased pairwise interaction within the genomic interval.
+1	NA	STK39	rs60587303	FIG	A topologically associated domain, a region of increased interaction, is clearly visible that encompasses both the associated variant, rs60587303, and the promoter of STK39 but excludes CERS6.
+0	NA	NA	rs60587303	FIG	A, bottom: Zoomed-in view of region around rs60587303 shows clear overlap with active regulatory elements containing numerous transcription factor binding sites and open chromatin sites in 68 cell types.
+0	NA	NA	rs60587303	FIG	B: Regional Manhattan and fine mapping plots centered on rs60587303.
+0	NA	NA	rs60587303	FIG	Top panel depicts the results from the discovery meta-analysis of a region centered on rs60587303.
+0	NA	NA	NA	FIG	This genetic variant is the lead signal and is supported by multiple genome-wide suggestive genetic variants.
+0	NA	NA	rs60587303	FIG	In the bottom panel, statistical fine mapping of this further locus supports rs60587303 as the lead putatively causal genetic variant (yellow diamond with x), accompanied by two highly correlated genetic variants of lower log10 Bayes factor (open yellow diamonds).
+0	NA	NA	NA	FIG	chr, chromosome
+1	NA	STK39	rs60587303	RESULTS	The lead variant with the most compelling in silico functional evidence was rs60587303 (C), a rare variant (MAFcontrol subjects 0.5%) that resides in the first intron of the STK39 gene.
+1	NA	NA	rs689	RESULTS	With an ORcombined of 1.97 (95% CI 1.58-2.47, Pcombined = 2.9 x 10-9), the magnitude of its effect is comparable with that of the lead INS common variant in our analysis (rs689 [A], MAF 14%, OR 2.21, 95% CI 2.26-2.67, Pcombined = 1.44 x 10-160).
+0	allergy	NA	rs60587303	RESULTS	rs60587303 overlaps a DNase I hypersensitivity cluster of 68 cell types, as well as a cluster of transcription factor binding sites (Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	NA	rs60587303	RESULTS	Statistical fine mapping experiments also prioritized rs60587303 as one of the five top plausibly causal SNPs at the 2q24.3 locus (Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	LRP1B	NA	RESULTS	Another low-frequency variant was located in the second intron of the LDL receptor-related protein 1B gene (LRP1B).
+0	NA	NA	rs192324744	RESULTS	With an MAFcontrol subjects of 1.3%, rs192324744 (G) had an ORcombined of 1.63 (95% CI 1.41-1.87, Pcombined = 2.4 x 10-11).
+0	NA	NA	NA	RESULTS	Fine mapping also prioritized this variant in the 2q22.2 locus (Supplementary Fig.
+0	NA	NA	NA	RESULTS	4), but there was less compelling in silico functional evidence from the TAD (topologically associating domain) analysis.
+0	NA	NA	rs2128344	RESULTS	The third low-frequency variant that successfully replicated was intergenic (rs2128344 [A]) at the 21q22.1 locus, with an MAFcontrol subjects of 0.55% and an ORcombined of 2.12 (95% CI 1.71-2.63, Pcombined = 8.0 x 10-12).
+0	NA	NA	NA	RESULTS	In silico functional evidence in support of this variant was lacking.
+1	NA	phosphoglucomutase 1	NA	RESULTS	Finally, the single common variant that successfully replicated was an SNP in the 7th intron of the phosphoglucomutase 1 (PGM1) gene.
+1	NA	NA	rs2269247	RESULTS	rs2269247 (T) had an MAFcontrol subjects of 18% and an ORcombined of 1.19 (95% CI 1.12-1.26, Pcombined = 7.3 x 10-9).
+1	NA	phosphoglucomutase 1	NA	RESULTS	Fine mapping prioritized this variant at the 1.p31.3 locus, and this SNP appeared to be in the same TAD as PGM1 (Supplementary Fig.
+0	NA	NA	NA	RESULTS	4)
+0	NA	NA	NA	RESULTS	Since rare and low-frequency variants are more prone to confounding by population stratification than common variants, we undertook a principal component analyses separately in the Affymetrix and Illumina discovery cohorts and in the replication cohort.
+0	NA	NA	NA	RESULTS	While the population structure between case and control subjects is unlikely to be similar, given that case and control subjects come from different cohorts, our analysis found no evidence for ancestral differences between case and control subjects in the discovery Affymetrix data (Supplementary Fig.
+0	NA	NA	NA	RESULTS	2A), in the Illumina data (Supplementary Fig.
+0	NA	NA	NA	RESULTS	2B), or in the replication cohort (Supplementary Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	NA	NA	RESULTS	Moreover, using seeds from the 1000 Genomes phase 3 data set, our principal component analysis demonstrated that the outliers removed by EIGENSTRAT lie outside the 1000 Genomes European superpopulation, whereas the inliers largely overlap or are in close proximity to the European superpopulation in the Affymetrix, Illumina, and replication data (Supplementary Figs.
+0	NA	NA	NA	RESULTS	2 and 3)
+0	NA	NA	rs60587303	RESULTS	We also undertook an admixture analysis, where we queried the MAF of the rs60587303 (C) in different ethnicities in the 1000 Genome phase 3 release V3+.
+0	NA	NA	NA	RESULTS	We found that its MAF varied by ancestry (East Asian MAF 0.250, American MAF 0.030, African MAF 0.248, European MAF 0.007, and South Asian MAF 0.053).
+1	NA	STK39	NA	RESULTS	Since this variant is common in East Asians and Africans, but almost absent in Europeans, we undertook an admixture analysis in our GWAS population to interrogate whether there was an enrichment of Asian or African descent among case subjects, which could have influenced the association signal from the STK39 variant.
+0	NA	NA	rs60587303	RESULTS	The distributions of probabilities of CEU, YRI, and CHB/JPT ancestries were stratified by dosage of the effect allele (C) at rs60587303 and case/control status (Fig.
+0	NA	NA	NA	RESULTS	4).
+0	diabetes	NA	NA	RESULTS	This analysis showed that the type 1 diabetes case subjects of our GWAS had less African or Asian admixture compared with control subjects.
+1	NA	STK39	rs60587303	RESULTS	This strongly decreases the probability that this finding has arisen due to population stratification or admixture because these effects would bias results at rs60587303 near STK39 toward the null.
+0	NA	NA	rs60587303	RESULTS	Interestingly, when we looked at the MAF of rs60587303 in European subpopulations available from the gnomAD database (version 2) (https://gnomad.broadinstitute.org/variant/2-169046632-T-C?dataset=gnomad_r2_1) we obtained the following results: Ashkenazi Jewish, 0.03793; European (Finnish), 0.01900; and European (non-Finnish), 0.009853.
+0	NA	NA	NA	RESULTS	In the newest version, version 3, of gnomAD (https://gnomad.broadinstitute.org/variant/2-168190122-T-C?dataset=gnomad_r3), which is not overlapping with the previous version, we obtained the following results: Ashkenazi Jewish, 0.03101; European (Finnish), 0.01518; European (non-Finnish), 0.006926; and Amish, 0.000.
+0	NA	NA	NA	RESULTS	These results suggest differences in MAF in different European subpopulations, and in particular, the MAF is double in the Finnish population compared with the non-Finnish European population.
+0	diabetes	NA	NA	RESULTS	This is an interesting observation, considering Finland has the highest rate of type 1 diabetes in the world
+0	NA	NA	rs60587303	FIG	Admixture analysis for rs60587303, showing the probability of European (CEU), African (YRI), and Asian (CHB/JPT) ancestry of the individual from the Illumina platform from our discovery meta-analysis, further stratified by type 1 diabetes case/control status and alleles at rs60587303.
+0	NA	Mbp	rs60587303	FIG	Admixture analysis was conducted for a 2 Mbp region centered on rs60587303.
+0	NA	NA	NA	FIG	We observed limited non-CEU ancestry for case subjects, whereas there is an elevated number of individuals with likely YRI ancestry among control subjects who carry one or more minor alleles at rs60587303
+0	NA	Stk39	NA	RESULTS	We next sought to explore the functional effects of Stk39 using a commercially available specific STK39 inhibitor (closantel) to determine whether inhibition of Stk39 activity would affect murine T cell activation and functions in vitro.
+0	NA	NA	NA	RESULTS	In T-cell receptor-activated, primary freshly isolated murine CD4+ T cells, treated with titrated concentrations of closantel, STK39 inhibition had no significant impact on T-cell activation or proliferation at doses that did not affect cell viability.
+0	NA	interferon-gamma	NA	RESULTS	However, we observed that closantel treatment enhanced the secretion of IFNgamma and IL-2 by effector T (TEFF) cells.
+0	NA	interleukin-2 receptor alpha chain	NA	RESULTS	Closantel also increased the level of expression of the IL-2 receptor alpha chain (CD25), the high-affinity binding component of the functional IL-2 receptor, indicating that closantel might augment the sensitivity of activated T cells to IL-2 (Fig.
+0	NA	NA	NA	RESULTS	5)
+1	NA	STK39	NA	FIG	STK39 inhibition regulates TEFF functions.
+0	NA	interferon-gamma	NA	FIG	A: Secretion of IFNgamma and IL-2 by TEFF cells 72 h following anti-CD3 activation in the presence of indicated concentrations of closantel.
+0	NA	NA	NA	FIG	Gated on viable CD4+ Foxp3- cells.
+0	NA	interleukin-2 receptor alpha chain	NA	FIG	B: Expression of cell surface CD25 on TEFF cells 72 h following activation in the presence of indicated concentration of closantel.
+0	NA	NA	NA	FIG	Gated on viable CD4+ Foxp3- cells.
+0	NA	NA	NA	FIG	Plots shown from one representative experiment of three, done in triplicate.
+0	NA	NA	NA	FIG	Error bars represent SD for that experiment.
+0	NA	NA	NA	FIG	Unpaired parametric t test done for all comparisons.
+0	NA	NA	NA	FIG	*P <= 0.05; **P <= 0.005; ***P < 0.0005
+0	diabetes	NA	NA	DISCUSS	In an effort to discover new loci harboring not previously identified low-frequency and rare variants, we have carried out a large GWAS for type 1 diabetes, including the largest number of SNPs to date.
+1	NA	STK39	rs2128344	DISCUSS	Our analysis revealed the presence of three novel low-frequency/rare variants, the intergenic variant rs2128344, the rs60587303 in STK39, and the rs192324744 in LRP1B:all validated by replication using de novo genotyping and all with ORs >=1.5, effects comparable with those of the lead non-MHC common variants at INS and PTPN22 loci.
+1	diabetes	STK39	NA	DISCUSS	Functional exploration of the STK39 locus provided evidence supporting a role for STK39 in type 1 diabetes
+1	NA	STK39	rs60587303	DISCUSS	Our in silico exploration approach prioritized rs60587303 in the STK39 gene for our in vitro experiments.
+0	diabetes	NA	NA	DISCUSS	Specifically, carrying one risk allele of this variant appears to approximately double the risk of type 1 diabetes in individuals of European ancestry.
+0	NA	NA	C for 48	DISCUSS	This gene encodes a serine/threonine kinase that is thought to function in the cellular stress response pathway.
+1	autoimmune disease	STK39	NA	DISCUSS	Although not previously associated with autoimmunity, STK39 is linked in protein-protein interaction networks to protein kinase C theta (PRKCQ), which then interacts with CD28.
+0	diabetes	interleukin-2 receptor alpha chain	NA	DISCUSS	The IL2RA and PRKCQ loci on chromosome 10 are well-replicated type 1 diabetes GWAS gene loci.
+0	NA	Stk39	NA	DISCUSS	Our in vitro experiments using a cellular murine model of immunity provided evidence that STK39 could be involved in T-cell activation and effector functions.
+0	diabetes	Stk39	NA	DISCUSS	Pharmacological inhibition of STK39 in vitro appeared to enhance inflammatory responses from TEFF, providing a mechanistic hypothesis for a possible role of STK39 in type 1 diabetes.
+0	NA	Stk39	NA	DISCUSS	We emphasize that further functional validation of STK39's role in immunity is required
+1	cancers	LRP1B	NA	DISCUSS	Additional association signals were identified from variants near LRP1B and PGM1:genes with known roles in metabolism: specifically, LRP1B encodes the LDL receptor protein 1B, which has been previously involved in tumor suppression pathways.
+1	NA	phosphoglucomutase 1	NA	DISCUSS	PGM1 encodes the phosphoglucomutase-1 enzyme, which catalyzes the transfer of phosphate between the 1 and 6 positions of glucose.
+1	diabetes	phosphoglucomutase 1	rs2269247	DISCUSS	The novel PGM1 variant (rs2269247) identified in our study is in linkage disequilibrium with a variant (rs2269241) in the same locus, previously shown to present a genome-wide suggestive P value for type 1 diabetes.
+1	diabetes	LRP1B	NA	DISCUSS	These findings provide rationale for further functional studies investigating the role of both LRP1B and PGM1 genes in type 1 diabetes pathophysiology
+0	NA	NA	NA	DISCUSS	Our study has limitations.
+0	diabetes	NA	NA	DISCUSS	Similar to previous type 1 diabetes genetic association studies, the case-control design of our GWAS meta-analysis did not allow for matching of case subjects to control subjects within the same European population because of the lack of availability of control samples in each participating case cohort.
+0	NA	NA	NA	DISCUSS	Instead, we matched case subjects to control subjects from different cohorts of similar ancestry.
+0	NA	NA	NA	DISCUSS	Also, case and control samples were not matched for demographics, such as age and sex.
+0	NA	NA	NA	DISCUSS	This approach could induce bias from population stratification; however, control for population stratification was applied.
+0	diabetes	NA	NA	DISCUSS	Also, most studies included adult individuals, and most cases of type 1 diabetes are manifested in childhood and early adulthood, making the likelihood of misclassification of control subjects very low.
+0	NA	NA	NA	DISCUSS	Moreover, the likelihood of similar population stratification issues being present in discovery and replication is low.
+0	NA	NA	NA	DISCUSS	Thus, given that both discovery and replication cohorts showed similar effects, the probability that both were biased by population stratification in the same direction is unlikely.
+1	NA	STK39	NA	DISCUSS	Further, in the case of STK39, the increased allele frequency in non-Europeans should have biased our results toward the null, since control subjects were demonstrated to have a higher component of admixture from non-Europeans.
+1	NA	STK39	NA	DISCUSS	On the other hand, differences in allele frequency of the STK39 variant within European populations (for instance, in the Finnish population compared with the general European population) could present residual population stratification, but the likelihood that this phenomenon has biased both the discovery and replication results is very low.
+0	NA	NA	NA	DISCUSS	Although we applied a liberal imputation INFO cutoff of 0.3 to select variants to include in our GWAS, all results replicated in separate cohorts using direct genotyping, which does not depend on imputation.
+0	NA	NA	NA	DISCUSS	Finally, ideally, the design of this study should have included, along with imputed GWAS data, exome chip or whole-exome sequencing data, which provide more insight on rare variants.
+0	diabetes	NA	NA	DISCUSS	Unfortunately, to date, large-scale exome studies, providing adequate statistical power to study less common diseases, such as type 1 diabetes, are not available
+0	diabetes	NA	NA	DISCUSS	In summary, our findings demonstrate the utility of deep imputation to enable the characterization of low-frequency and rare genetic variation, offering new insights into the pathophysiology of type 1 diabetes and enabling the identification of new potential drug targets

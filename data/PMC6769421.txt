@@ -1,0 +1,193 @@
+0	multifactorial disease	NA	NA	ABSTRACT	Systematic epistasis analyses in multifactorial disorders are an important step to better characterize complex genetic risk structures.
+0	Alzheimer's disease	NA	NA	ABSTRACT	We conducted a hypothesis-free sex-stratified genome-wide screening for epistasis contributing to Alzheimer's disease (AD) susceptibility.
+0	Alzheimer's disease	NA	rs3733980	ABSTRACT	We identified a statistical epistasis signal between the single nucleotide polymorphisms rs3733980 and rs7175766 that was associated with AD in males (genome-wide significant pBonferroni-corrected=0.0165).
+0	NA	KIBRA	NA	ABSTRACT	This signal pointed toward the genes WW and C2 domain containing 1, aka KIBRA; 5q34 and TLN2 (talin 2; 15q22.2).
+0	NA	NA	rs1477307	ABSTRACT	Gene-based meta-analysis in 3 independent consortium data sets confirmed the identified interaction: the most significant (pmeta-Bonferroni-corrected=9.02*10-3) was for the single nucleotide polymorphism pair rs1477307 and rs4077746.
+0	Alzheimer's disease	KIBRA	NA	ABSTRACT	In functional studies, WW and C2 domain containing 1, aka KIBRA and TLN2 coexpressed in the temporal cortex brain tissue of AD subjects (beta=0.17, 95% CI 0.04 to 0.30, p=0.01); modulated Tau toxicity in Drosophila eye experiments; colocalized in brain tissue cells, N2a neuroblastoma, and HeLa cell lines; and coimmunoprecipitated both in brain tissue and HEK293 cells.
+0	NA	NA	NA	ABSTRACT	Our finding points toward new AD-related pathways and provides clues toward novel medical targets for the cure of AD
+0	Alzheimer's disease	NA	NA	INTRO	Alzheimer's disease (AD) is a progressive, irreversible neurodegenerative disorder characterized by the development of amyloid plaques and neurofibrillary tangles, the loss of connections between neurons, and nerve cell death.
+0	Alzheimer's disease	NA	NA	INTRO	AD is highly heritable and genetically heterogeneous with 58%-79% of risk attributed to genetic factors.
+0	Alzheimer's disease	NA	NA	INTRO	Although genome-wide association studies have strongly improved our knowledge of AD genetics, genetic risk factors explain no more than 30% of heritability.
+0	Alzheimer's disease	age	NA	INTRO	In this contribution, we focus on late-onset AD, the most common form of the disease with onset age >65 years.
+0	Alzheimer's disease	apolipoprotein E	NA	INTRO	The most established genetic factor for AD, apolipoprotein E gene ([APOE] gene, 19q13), exhibits allelic heterogeneity:APOE's epsilon4 allele is a risk enhancer, whereas the epsilon2 allele is protective
+0	Alzheimer's disease	NA	NA	INTRO	AD presents notable sexual dimorphism.
+0	glucose metabolism alterations	NA	NA	INTRO	Records exist of sex differences in the brain, such as in brain anatomy, age-related declines in brain volume and brain glucose metabolism, and sex hormones influencing AD progression.
+0	Alzheimer's disease	NA	NA	INTRO	Risk associated with the APOE-epsilon4 allele is stronger in females than in males, and loss of chromosome Y have been associated with increased AD risk in males.
+0	Alzheimer's disease	NA	NA	INTRO	These data support complex interplay between sex and genetic background regarding AD predisposition
+0	dependency	NA	NA	INTRO	Gene regulatory and biochemical networks create dependencies among genes that are realized as gene-gene interactions (epistasis).
+0	NA	NA	NA	INTRO	Although epistasis has been well studied in model organisms using biological experiments, hypothesis-free discovery of biological epistasis via statistical methods remains challenging in humans.
+0	NA	NA	NA	INTRO	This is in part due to the conceptual discrepancy between statistical and biological epistasis, the utility of oversimplified population-level models to capture complex individual phenomena, insufficient power, and the gross multiple testing burden inherent in genome-wide epistasis screening.
+0	Alzheimer's disease	NA	NA	INTRO	Therefore, most evidence for epistasis in AD is hypothesis-driven, using prior biological or statistical knowledge.
+0	Alzheimer's disease	NA	NA	INTRO	The same holds for sex-specific searches for coinvolvement of multiple genetic loci in AD
+0	NA	NA	NA	INTRO	Gusareva et al.
+0	Alzheimer's disease	KHDRBS2	rs6455128	INTRO	published the first replicable interaction associated with AD using a genome-wide exhaustive screening approach that combines strengths over different analytic approaches, identified a statistical interaction between KHDRBS2 (rs6455128) and CRYL1 (rs7989332), and exhibited downstream functional consequences.
+0	Alzheimer's disease	NA	NA	INTRO	Here, we used the same European AD Initiative Investigators (EADI1) consortium cohort (2259/6017 AD cases/controls) and an adapted hypothesis-free genome-wide exhaustive epistasis screening protocol to identify sex-specific interactions with AD.
+0	NA	KIBRA	NA	INTRO	We identified AD-associated male-specific statistical interaction between variants of the genes WWC1 (WW and C2 domain containing 1 or kidney and brain expressed protein, aka KIBRA; locus 15q22.2) and TLN2 (talin 2, locus 15q22.2).
+0	NA	NA	NA	INTRO	This novel statistical epistasis signal was replicated in 2 of 3 independent consortium data sets via gene-based replication strategy.
+0	NA	NA	NA	INTRO	Extensive biological validation studies (subcellular colocalization and immunoprecipitation [IP] analyses, transcriptome analysis, experiments in model organisms [Drosophila melanogaster], as well as in silico protein docking and molecular dynamics assessments) further helped elucidate the epistatic relationship
+0	Alzheimer's disease	NA	NA	METHODS	The discovery cohort consisted of a sample of 2259 late-onset AD patients and 6017 controls from 3 cities in France (Bordeaux, Dijon, and Montpellier), as part of EADI1.
+0	Alzheimer's disease	NA	NA	METHODS	Follow-up statistical analyses used data from 3 AD consortia: (1) the Genetic and Environmental Risk for AD consortium (GERAD1) including cohorts from Germany, UK, and the USA; (2) the Rotterdam Study (RS), a prospective cohort study that started in 1990 in Rotterdam (the Netherlands); and (3) the AD Genetic Consortium (ADGC) that collects genetic data from over 30 studies in the US .
+0	NA	NA	NA	METHODS	Data collection quality control procedures have been described in the corresponding references.
+0	NA	age	NA	METHODS	Only subjects with complete information on sex and age were included in the analyses.
+0	NA	age	NA	METHODS	Sex-specific sample size distributions and age characteristics are given in the Table S1
+0	NA	NA	NA	METHODS	The EADI1 and RS samples were genotyped by Illumina Human 610-Quad BeadChip, the GERAD1 samples by Illumina 610-quad chip and by Illumina HumanHap550 Beadchip, the ADGC subjects by Illumina or Affymetrix high-density single nucleotide polymorphism (SNP) microarrays.
+0	NA	NA	NA	METHODS	Applied genotype filtering procedure as described in the Note S2 leaving 312,064 SNPs for epistasis analyses with EADI1.
+0	NA	NA	NA	METHODS	Replication cohorts used only directly genotyped SNPs
+0	Alzheimer's disease	NA	NA	METHODS	Following guidelines in Gusareva et al., we tested for all pairwise statistical interactions between SNPs in association to AD in sex-stratified samples within EADI1.
+0	NA	NA	NA	METHODS	Two different analytic techniques both parametric (customized version of the BOolean Operation-based Screening and Testing [BOOST] with stringent Bonferroni correction) and nonparametric (model-based multifactor dimensionality reduction [MB-MDR]) that uses permutation-based gammaMAXT algorithm for multiple testing correction were adopted in this study with default options (Note S3).
+0	NA	age	NA	METHODS	Statistical epistasis signals at the genome-wide significance level of 0.05 were followed up with a logistic regression analyses adjusting for age at time of subject examination and the first 4 SNP-based principal components (to adjust for confounding by shared genetic ancestry).
+0	NA	NA	NA	METHODS	Evidence of interaction was based on a likelihood-ratio test statistic with 4 degrees of freedom to reflect 2 SNPs with 3 genotypes each (in the absence of missing multilocus genotypes).
+0	NA	NA	NA	METHODS	Main effect single-SNP associations were assessed via Cochrane-Armitage trend test in SVS Version 7.5 software (Golden Helix, Inc)
+0	NA	KIBRA	NA	METHODS	For replication analysis, we selected 68 and 98 SNPs assigned to WWC1 (5q34: 167651670-167829334 bp) and TLN2 (15q22.2: 60726802-60920733 bp), respectively, according to NCBI B36 genome assembly (SNP list is provided in Table S2).
+0	NA	KIBRA	NA	METHODS	We did not consider SNPs from any regulatory regions outside WWC1 and TLN2 genes.
+0	SNPs falling	KIBRA	NA	METHODS	Thus, all the SNPs falling into the boundaries of WWC1 and TLN2 genes and typed in all the study cohorts (discovery EADI1 and the 3 replication cohorts: GERAD1, RS, and ADGC) were exhaustively tested for 2-way intergenic interactive association with AD, in males and females separately.
+0	NA	age	NA	METHODS	We used logistic regression adjusted for age and genetic population stratification as before.
+0	NA	NA	NA	METHODS	The number of independent tests was 1564 (of 6664 total).
+0	NA	NA	NA	METHODS	All obtained p-values (not corrected for multiple testing pnominal) for EADI1, GERAD1, RS, and ADGC were meta-analyzed using Fisher's combined p-value and Stouffer's Z score methods, giving rise to meta-analysis p-values (pmeta).
+0	NA	NA	NA	METHODS	Details on the applied significance criteria are described in the Note 4
+0	NA	KIBRA	NA	METHODS	We used transcriptome analysis to assess coexpression of WWC1 and TLN2 in temporal cortex and cerebellum human brain regions with data from the brain expression GWA study (eGWAS) (Note 5).
+0	NA	KIBRA	NA	METHODS	The laboratory fruit fly Drosophila melanogaster was used to further explore the role of WWC1 and TLN2 in model organisms (Note S6).
+0	Alzheimer's disease	NA	NA	METHODS	In addition, formalin-fixed temporal cortexes of male AD patients were used to perform brain immunohistochemistry (Note S7).
+0	NA	NA	NA	METHODS	The latter was performed in 2 independent labs to robustly establish reproducibility.
+0	NA	KIBRA	NA	METHODS	To assess subcellular localization of WWC1 and TLN2, we performed immunofluorescence and confocal microscopy analyses (Note S8).
+0	NA	KIBRA	NA	METHODS	We also investigated the presence of WWC1 and TLN2 in the same complex via IP analysis (Note S9).
+0	NA	KIBRA	NA	METHODS	Molecular mechanisms of interaction between WWC1 and TLN2 were modeled via protein docking (Note S10) and molecular dynamics in silico experiments (Note S11)
+0	NA	NA	rs3733980	RESULTS	Both parametric (BOOST) and nonparametric (MB-MDR) analyses highlighted epistasis between the SNPs rs3733980 and rs7175766 (minor allele frequencies=0.365, 0.307 in EADI1, respectively) as genome-wide significant in males (BOOST: PBonferroni-corrected=0.018, MB-MDR: ppermutation-based=0.005).
+0	NA	NA	NA	RESULTS	"Case/control distributions within the 9 multilocus genotype combinations and MB-MDR ""high risk""/""low risk"" labeling are in the Table S3."
+0	NA	NA	rs3733980	RESULTS	Only rs3733980 also showed a main effect (Pnominal=0.015, trend test), which would not withstand stringent multiple testing correction.
+0	NA	age	NA	RESULTS	The identified epistasis signal remained statistically significant in a logistic regression model accounting for age and the first 4 PCs (pBonferroni-corrected=0.0165).
+0	NA	apolipoprotein E	NA	RESULTS	The APOE gene did not confound the identified interaction because we found no dependence between the APOE epsilon4 AD-risk allele and the 9-level categorical SNP pair for these SNPs (p-value=0.999,).
+0	NA	NA	NA	RESULTS	No female-specific epistasis was identified (BOOST, MB-MDR p>0.05)
+0	NA	KIBRA	NA	RESULTS	We considered all pairwise intergenic interactions between the directly genotyped 68 SNPs of WWC1 and 98 SNPS of TLN2 (Table S2) for follow-up replication analysis in both sexes with the GERAD1, RS, and ADGC data sets.
+0	NA	NA	rs3733980	RESULTS	In males, the SNP pair rs3733980 and rs7175766 was significant in a single study (EADH: PBonferroni-corrected=5.29*10-10).
+0	Alzheimer's disease	NA	rs7175766	RESULTS	Rs7175766 appeared 4 times in the top 10 male-specific meta-analysis results but did not show any marginal association with AD (pnominal=0.546, trend test).
+0	NA	NA	rs1477307	RESULTS	Interaction between rs1477307 and rs4077746 was found in 3 study populations (EADI1: pnominal=0.040, RS: pnominal=9.37*10-4, and ADGC: pnominal=5.06*10-5, but not in GERAD1: pnominal=0.544; Fisher's combined pmeta-Bonferroni-corrected=2.74*10-3, and Stouffer's Z score pmeta-Bonferroni-corrected=9.02*10-3; Table S4).
+0	NA	NA	NA	RESULTS	In females, similar meta-analysis gave no replicable epistasis signals (Table S5)
+0	Alzheimer's disease	KIBRA	NA	RESULTS	Transcriptome analysis revealed significant positive association between expression levels of WWC1 (probe ID-ILMN_1658619) and TLN2 (probe ID-ILMN_1700042) in temporal cortex brain samples from autopsied AD subjects (beta=0.17, p=0.01) and from combined autopsied AD and non-AD subjects (beta=0.20, p=0.0003).
+0	Alzheimer's disease	NA	NA	RESULTS	These associations were mostly driven by females (temporal cortex from autopsied AD females: beta=0.28, p=0.005, combined autopsied AD and non-AD females beta=0.20, p=0.016) but were not prominent in males.
+0	NA	NA	NA	RESULTS	This association was only marginally significant for autopsied non-AD subjects (beta=0.19, p=0.05).
+0	NA	KIBRA	NA	RESULTS	In the cerebellar tissue, no significant associations between expression levels of WWC1 and TLN2 genes were observed (Table S6)
+0	Alzheimer's disease	KIBRA	NA	RESULTS	We also tested whether WWC1 and TLN2 could modulate AD physiopathology in human Tau (2N4R)-expressing Drosophila, an in vivo model of AD (review).
+0	NA	KIBRA	NA	RESULTS	Kibra, ortholog of WWC1 (Fig.
+0	NA	TLN2	NA	RESULTS	2A-C), and rhea, ortholog of TLN2 (Fig.
+0	toxicity	tau	NA	RESULTS	2A and D and E), were tested as modifiers of Tau toxicity in Drosophila eye.
+0	NA	KIBRA	NA	RESULTS	In Drosophila, kibra belongs to the growth controlling Hippo pathway.
+0	NA	KIBRA	NA	RESULTS	Gain (loss) of kibra results in smaller (bigger) eyes, which we also observed (Fig.
+0	NA	NA	NA	RESULTS	2A and B).
+0	NA	tau	NA	RESULTS	Expression of human Tau (2N4R) in the eye with the GMR driver resulted in smaller rough eyes.
+0	haploinsufficiency	KIBRA	NA	RESULTS	The eye size was partially restored in kibra2+ haploinsufficient background, on RNAi-mediated knockdown of kibra (Fig.
+0	haploinsufficiency	NA	NA	RESULTS	2B and C) and in rhea1/+ haploinsufficient background (Fig.
+0	NA	NA	NA	RESULTS	2D and E).
+0	NA	KIBRA	NA	RESULTS	Coexpression of kibra with Tau resulted in lethality and the only escapers that we obtained had smaller eyes.
+0	NA	KIBRA	NA	RESULTS	For kibra knockdown and kibra overexpression, the effect may be additive as in both conditions without Tau expression, fly eyes are respectively bigger and smaller (Fig.
+0	NA	NA	NA	RESULTS	2A and B).
+0	haploinsufficiency	KIBRA	NA	RESULTS	For kibra haploinsufficiencies, only 1 of 4 independent null mutations restored the eye size precluding us to firmly conclude that kibra interacts with Tau in Drosophila eye.
+0	haploinsufficiency	NA	NA	RESULTS	The result in the rhea1/+ haploinsufficient background (Fig.
+0	NA	tau	NA	RESULTS	2D and E) suggested that rhea interacted functionally with human Tau in Drosophila eye
+0	Alzheimer's disease	KIBRA	NA	RESULTS	Immunohistochemistry of the brain of a male autopsied AD patient indicated strong expression of WWC1 in the soma of neuronal cells throughout the temporal lobe of the cerebral cortex (Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	KIBRA	NA	RESULTS	In these neurons, WWC1 presented in the cytoplasm with presumed membrane and/or cytoskeleton associations and strong neuritic accumulations in some cells.
+0	NA	TLN2	NA	RESULTS	TLN2 also presented in the cytoplasm of neuronal cells, although immunoreactivity was low.
+0	NA	TLN2	NA	RESULTS	In addition to the weak neuronal signal, a strong TLN2 signal was detected in the endothelial cells of blood vessels
+0	NA	NA	NA	RESULTS	We also performed coimmunofluorescent staining analyses of human Braak I and Braak VI brains (Fig.
+0	NA	NA	NA	RESULTS	4).
+0	NA	TLN2	NA	RESULTS	After performing quantitative pixel intensity spatial correlation analysis (extracting Pearson's, Manders', and Costes' parameters [autothreshold and randomization]), we determined that TLN2 (Talin2) and WWC1 (aka KIBRA) colocalized in all cases.
+0	NA	KIBRA	NA	RESULTS	Interestingly, WWC1 staining appeared to be more cellular in Braak I compared to Braak VI tissue, where the staining appeared stronger and more widely distributed
+0	neuroblastoma	KIBRA	NA	RESULTS	In complement, we confirmed colocalization of WWC1 and TLN2 in HeLa cell lines and in mouse N2a neuroblastoma cells.
+0	NA	KIBRA	NA	RESULTS	When overexpressed in HeLa cells, WWC1 displayed diffuse cytoplasm localization and small perinuclear rings (Fig.
+0	NA	NA	NA	RESULTS	5, Flag-WWC1), and TLN2-GFP displayed cytoplasmic focal adhesion localization with elongated fibrillar adhesions through the cell body (Fig.
+0	NA	NA	NA	RESULTS	5, TLN2-GFP), consistent with previous studies.
+0	NA	KIBRA	NA	RESULTS	Coexpression of both WWC1 and TLN2 dramatically changed TLN2 localization.
+0	NA	KIBRA	NA	RESULTS	In the presence of WWC1, TLN2-GFP appeared concentrated in cytoplasmic foci (Fig.
+0	NA	TLN2	NA	RESULTS	5, compare GFP staining for TLN2 and WWC1+TLN2) surrounded by Flag-WWC1 rings (Fig.
+0	NA	NA	NA	RESULTS	5, WWC1+TLN2-GFP, merge image).
+0	NA	WWC1	NA	RESULTS	In N2a cells, WWC1 and TLN2 were found to colocalize in cytoplasm and in filopodia-like protrusions (Fig.
+0	NA	NA	NA	RESULTS	S1).
+0	NA	NA	NA	RESULTS	However, different colocalization patterns observed in N2a cells may be due to different levels of the proteins expressions
+0	NA	KIBRA	NA	RESULTS	Furthermore, IP analysis both in human brain samples and in HEK293 cells indicated the presence of WWC1 and TLN2 in the same protein complex.
+0	NA	NA	NA	RESULTS	The levels of the 2 proteins were variable in all conditions and brain regions queried (Braak I and Braak VI brains, Fig.
+0	NA	NA	NA	RESULTS	6A [upper panel]).
+0	NA	KIBRA	NA	RESULTS	WWC1 coimmuno-precipitated with the anti-TLN2 antibody (Fig.
+0	NA	TLN2	NA	RESULTS	6A [lower panel]); as expected, TLN2 bands were evident in the Western blot.
+0	NA	KIBRA	NA	RESULTS	Interestingly, when the WWC1 antibody was used, TLN22 bands were absent (Fig.
+0	NA	NA	NA	RESULTS	6A [lower panel]).
+0	NA	TLN2	NA	RESULTS	These data suggest that the anti-WWC1 antibody could competitively disrupt the TLN2 and WWC1 interaction.
+0	NA	NA	NA	RESULTS	In HEK293 cells, TLN2-GFP specifically copurified with Flag-WWC1 when both proteins were overexpressed together (Fig.
+0	NA	NA	NA	RESULTS	6B)
+0	NA	KIBRA	NA	RESULTS	To model molecular mechanisms of interaction between WWC1 and TLN2, we performed protein docking and molecular dynamics in silico experiments.
+0	NA	NA	NA	RESULTS	We determined the top 10 ranked WWC1/TLN2 poses (Fig.
+0	NA	NA	NA	RESULTS	S2) via ClusPro 2.0 docking server.
+0	NA	NA	NA	RESULTS	Poses 2 and 7 showed the most favorable conditions for complex formation as their average MM/PBSA protein-ligand binding free energies (dGbind) were amongst the most negative showing the lowest dispersion over the course of the 50 ns aqueous simulations.
+0	NA	KIBRA	NA	RESULTS	In all 50 ns molecular dynamics simulations, WWC1 and TLN2 remained physically associated in a complex throughout the entire course of simulation.
+0	NA	NA	NA	RESULTS	The average dGbind remained negative for all 10 poses (dGbind ranged from -16 to -227 kJ/mol indicating the size of the binding affinity between the 2 proteins; Table S7 and Fig.
+0	NA	NA	NA	RESULTS	S3)
+0	Alzheimer's disease	KIBRA	NA	DISCUSS	This is the first contribution showing (sex-specific) biological epistasis in AD between genes identified via exhaustive genomic epistasis analysis: WWC1 (WW and C2 domain containing 1 or kidney and brain expressed protein, aka KIBRA) and TLN2 (talin 2).
+0	NA	KIBRA	NA	DISCUSS	WWC1 is expressed in brain regions responsible for learning and memory (hippocampus and cortex) and is involved in maintaining of synaptic plasticity.
+0	NA	TLN2	NA	DISCUSS	TLN2 expression is restricted to the heart, skeletal muscle, and brain (synapses and focal adhesions).
+0	NA	NA	NA	DISCUSS	It plays an important role in the assembly of actin filaments (particularly affecting actin dynamics and clathrin-mediated endocytosis at neuronal synapses) and in spreading and migration of various cell types.
+0	Alzheimer's disease	KIBRA	NA	DISCUSS	WWC1 has already been associated with memory-related disorders including AD, whereas TLN2 has not.
+0	toxicity	TLN2	NA	DISCUSS	However, in our study, rhea (ortholog of TLN2 in Drosophila) modulated Tau toxicity in Drosophila and thus may be involved in AD pathology.
+0	toxicity	tau	NA	DISCUSS	Interestingly, recent studies identified several other components of the cell adhesion pathway as modifiers of Tau toxicity in Drosophila.
+0	NA	NA	NA	DISCUSS	Studying the mechanisms of the identified epistatic interaction, we performed comprehensive functional biological experiments.
+0	Alzheimer's disease	WWC1	NA	DISCUSS	WWC1 and TLN2 were coexpressed in the temporal cortex brain tissue (responsible for learning and memory) of AD subjects, colocalized in both brain tissue cells, in neuroblastoma N2a and HeLa cell lines, and coimmunoprecipitated both in brain tissue and HEK293 cells.
+0	NA	KIBRA	NA	DISCUSS	The physical interaction between WWC1 and TLN2 was also supported by in silico experiments where the binding affinity between the 2 proteins was pretty strong with favorable conditions for forming a stable protein complex
+0	dementia symptoms	KIBRA	NA	DISCUSS	We may speculate on the involvement of WWC1 and TLN2 in common signaling pathways connected to signal transduction via synapses that are impaired when dementia symptoms and AD progress.
+0	Alzheimer's disease	KIBRA	NA	DISCUSS	Because overexpression of WWC1 was previously associated with AD, we speculate that impairment expression of WWC1 and/or TLN2 proteins may destabilize actin filaments.
+0	Alzheimer's disease	KIBRA	NA	DISCUSS	Additional work is required to further describe a functional interplay between WWC1 and TLN2 and to explain why we observed the interaction at an individual level for both sexes, whereas we could detect association with AD only in males at a population level (despite of the theoretical power loss for epistasis detection in a sample stratum of males).
+0	NA	KIBRA	NA	DISCUSS	A few explanations are possible and should be investigated in detail: the influence of sex hormones on the epistasis manifestation, the involvement of a third interacting component (i.e., an interacting gene) linked to the sex chromosomes, other types of sex-specific variant(s) in WWC1 and TLN2, among others.
+0	NA	KIBRA	NA	DISCUSS	Regardless, our findings provide impetus for an in-depth search of AD-related mutation(s) in WWC1 and TLN2 genes to better explore and grasp biological mechanisms underlying the identified sex-specific epistasis signals.
+0	NA	NA	NA	DISCUSS	Targeted next-generation sequencing of the interacting genes may facilitate the identification of new functional mutations (either common or rare) that play a role in protein structure, stability, solubility, folding, and affinity of interaction with ligand(s), to name a few
+0	NA	NA	NA	DISCUSS	There is still a big divide between statistical epistasis and biological epistasis.
+0	NA	NA	NA	DISCUSS	The ambition in detecting statistical epistasis is to close this gap by improved analysis protocols and to formulate guidelines toward the interpretation of statistical findings in the context of epistasis.
+0	NA	NA	NA	DISCUSS	The field has evolved a lot over the last decade, in this sense.
+0	NA	NA	NA	DISCUSS	This does not change the fact that indeed, the power of a genome-wide epistasis screening (GWAI analysis) using a single study is much smaller than the power of a corresponding main effects GWA analysis using the same data.
+0	NA	NA	NA	DISCUSS	Our experience with large-scale epistasis studies is consistent with this, usually only giving rise to 1 or 2 reliable statistical findings (i.e., findings for which we can rule out numerical instability issues or strong main effects overtaking the joint effects of the loci involved).
+0	NA	NA	NA	DISCUSS	Regardless, results dating back from already suggested that biological inference from statistical models is not a utopia
+0	Alzheimer's disease	NA	NA	CONCL	In this research, we aimed to identify novel gene/protein targets to pave the way toward novel biochemical pathways related to AD via SNP panels as a starting point.
+0	NA	NA	NA	CONCL	By following a rigorous analytic genome-wide epistasis detection protocol, which minimizes false positive findings and enhances functional relevance, the statistically replicable epistasis was identified.
+0	Alzheimer's disease	KIBRA	NA	CONCL	A series of biological experiments indicated novel protein-protein interaction between WWC1 and TLN2 that can potentially be a medical target for the cure of AD.
+0	Alzheimer's disease	NA	NA	CONCL	To our knowledge, this is the first report in AD where a hypothesis-free screening led to evidence for replicable statistical interaction and where functional studies were performed beyond the transcriptome
+0	NA	NA	NA	FIG	Analysis protocol including genome-wide association interaction (analytical block) and biological validation of epistasis (experimental block)
+0	NA	KIBRA	NA	FIG	Genetic interaction between kibra, rhea, and human Tau in the eye of Drosophila.
+0	NA	KIBRA	NA	FIG	(A) Table presenting the homology of WWC1 and TLN2 with their Drosophila orthologs.
+0	NA	tau	NA	FIG	(B and C) Image and size quantification of fly eyes expressing the 2N4R Tau isoform (GMR>Tau) in loss-of-function (in blue) and gain-of-function ([GOF], in green) kibra conditions (scale bar 0.1 mm).
+0	NA	GMR	NA	FIG	The GMR>images correspond to the same kibra conditions without Tau expression.
+0	NA	NA	NA	FIG	Numbers above the x axis in the graphs indicate the number of eyes that were quantified.
+0	toxicity	KIBRA	NA	FIG	Knockdown (overexpression) of kibra rescued partially (enhanced) Tau toxicity in the eye (C. right graph).
+0	NA	KIBRA	NA	FIG	This was likely an additive effect of the modulation of kibra with Tau as knockdown (overexpression) of kibra alone increased (decreased) the size of the eyes (C. left graph).
+0	haploinsufficiency	tau	NA	FIG	However, 1 haploinsufficient condition, kibra2/+, partially rescued Tau toxicity (C. right graph) without affecting the eye on its own (C. left graph).
+0	NA	tau	NA	FIG	(D and E) Image and size quantification of fly eyes expressing the 2N4R Tau isoform (GMR>Tau) in loss-of-function (in blue) rhea conditions (scale bar 0.1 mm).
+0	haploinsufficiency	tau	NA	FIG	Expression of Tau in the haploinsufficient rhea1/+ background resulted in bigger eyes (E. right graph), whereas haploinsufficient rhea1/+ flies have similar eye size than control (E. left graph), suggesting a genetic interaction between Tau and rhea.
+0	NA	KIBRA	NA	FIG	Abbreviation: WWC1, WW and C2 domain containing 1, aka KIBRA
+0	Alzheimer's disease	KIBRA	NA	FIG	Presence and localization of WWC1 and TLN2 in the temporal cortex of an AD patient.
+0	NA	KIBRA	NA	FIG	(A) Single immunostaining with chromogenic detection reveals in neuronal cytoplasm a moderate to strong WWC1 staining and low TLN2 expression.
+0	NA	KIBRA	NA	FIG	(B) Fluorescence double immunostaining confirms the presence of WWC1 and TLN2 in neuronal cells.
+0	NA	KIBRA	NA	FIG	Strong neuritic WWC1 accumulations are highlighted with arrows; blood vessel endothelial cells with high TLN2 signal are marked with arrowheads.
+0	NA	NA	NA	FIG	Scale bar = 50 mum.
+0	Alzheimer's disease	KIBRA	NA	FIG	Abbreviations: AD, Alzheimer's disease; WWC1, WW and C2 domain containing 1, aka KIBRA
+0	Alzheimer's disease	TLN2	NA	FIG	TLN2 and WWC1 (aka KIBRA) colocalize in AD and control brains.
+0	Alzheimer's disease	NA	NA	FIG	Representative images of healthy (Braak I, A-C) and late-stage AD (Braak VI, D-F) brains that were immunofluorescently labeled with anti-Talin2 (green) and anti-KIBRA (red) antibodies.
+0	NA	NA	NA	FIG	Colocalization analysis was performed on positive immunofluorescent signals from multiz-stack confocal microscopy images.
+0	NA	NA	NA	FIG	Braak I (A-C) and VI (D-F) brains showed positive colocalization between both signals (C and F).
+0	NA	NA	NA	FIG	DAPI (blue) was used to reveal cell nuclei.
+0	NA	NA	NA	FIG	(G-I) Representative images of brain sections incubated with only secondary, but not primary, antibodies to reveal non-specific staining.
+0	NA	NA	NA	FIG	Three Braak I and 3 Braak VI brains were imaged.
+0	NA	NA	NA	FIG	A total of 9 sets of confocal z-stacked images were obtained for each condition (Braak I and VI).
+0	Alzheimer's disease	KIBRA	NA	FIG	Abbreviations: AD, Alzheimer's disease; WWC1, WW and C2 domain containing 1, aka KIBRA
+0	NA	KIBRA	NA	FIG	WWC1 (aka KIBRA) and TLN2 colocalize in HeLa cells.
+0	NA	NA	NA	FIG	HeLa cells were transfected with expressing vectors for TLN2-GFP and/or Flag-WWC1.
+0	NA	NA	NA	FIG	Cells on glass coverslips were fixed, permeabilized and labeled with an anti-Flag M2 antibody followed by Alexa633-conjugated secondary antibody and Dapi nuclear staining.
+0	NA	NA	NA	FIG	Images were analyzed using a confocal microscope.
+0	NA	KIBRA	NA	FIG	Abbreviation: WWC1, WW and C2 domain containing 1, aka KIBRA
+0	NA	KIBRA	NA	FIG	WWC1 and TLN2 present in the same protein complex.
+0	NA	NA	NA	FIG	(A) (Upper panel).
+0	NA	TLN2	NA	FIG	Representative Western blot showing varying levels of TLN2 and WWC1 in SMTG and HC homogenates from Braak I and VI brains.
+0	NA	NA	NA	FIG	(A) (Lower panel).
+0	NA	KIBRA	NA	FIG	Representative Western blots of co-IP showing that WWC1 associates with TLN2.
+0	NA	TLN2	NA	FIG	TLN2, however, did not coimmuno-precipitate when anti-WWC1 antibodies were used.
+0	NA	NA	NA	FIG	O represents brain homogenates that were not incubated with primary antibodies (only secondary).
+0	NA	NA	NA	FIG	Ages and sex of each sample is shown.
+0	NA	NA	NA	FIG	(B) HEK293 cells were transfected with expressing vectors for TLN2-GFP and/or Flag-WWC1 as indicated.
+0	NA	NA	NA	FIG	Cell lysates were immunoprecipitated using anti-Flag M2 antibody followed by SDS-PAGE and Western blot using an anti-GFP antibody.
+0	NA	NA	NA	FIG	Five percent of the amount of each lysate was used as positive control for protein expression.
+0	NA	KIBRA	NA	FIG	Abbreviations: HC, hippocampal; WWC1, WW and C2 domain containing 1, aka KIBRA; SMTG, superior medial temporal gyrus

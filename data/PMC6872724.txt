@@ -1,0 +1,181 @@
+0	bipolar disorder	NA	NA	ABSTRACT	Patients with bipolar disorder (BD) show higher frequency of obesity and type 2 diabetes (T2D), but the underlying genetic determinants and molecular pathways are not well studied.
+0	NA	NA	NA	ABSTRACT	Using large publicly available datasets, we (1) conducted a gene-based analysis using MAGMA to identify genes associated with BD and body mass index (BMI) or T2D and investigated their functional enrichment; and (2) performed two meta-analyses between BD and BMI, as well as BD and T2D using Metasoft.
+0	NA	NA	NA	ABSTRACT	Target druggability was assessed using the Drug Gene Interaction Database (DGIdb).
+0	NA	NA	NA	ABSTRACT	We identified 518 and 390 genes significantly associated with BD and BMI or BD and T2D, respectively.
+0	NA	NA	NA	ABSTRACT	A total of 52 and 12 genes, respectively, were significant after multiple testing correction.
+0	NA	NA	NA	ABSTRACT	Pathway analyses conducted on nominally significant targets showed that genes associated with BD and BMI were enriched for the Neuronal cell body Gene Ontology (GO) term (p = 1.0E-04; false discovery rate (FDR) = 0.025) and different pathways, including the Signaling by Hedgehog pathway (p = 4.8E-05, FDR = 0.02), while genes associated with BD and T2D showed no specific enrichment.
+0	NA	NA	NA	ABSTRACT	The meta-analysis between BD and BMI identified 64 relevant single nucleotide polymorphisms (SNPs).
+1	obese	NA	rs4788101	ABSTRACT	While the majority of these were located in intergenic regions or in a locus on chromosome 16 near and in the NPIPL1 and SH2B1 genes (best SNP: rs4788101, p = 2.1E-24), five were located in the ETV5 gene (best SNP: rs1516725, p = 1E-24), which was previously associated with both BD and obesity, and one in the RPGRIP1L gene (rs1477199, p = 5.7E-09), which was also included in the Signaling by Hedgehog pathway.
+0	NA	NA	rs352165	ABSTRACT	The meta-analysis between BD and T2D identified six significant SNPs, three of which were located in ALAS1 (best SNP: rs352165, p = 3.4E-08).
+0	NA	NA	NA	ABSTRACT	Thirteen SNPs associated with BD and BMI, and one with BD and T2D, were located in genes which are part of the druggable genome.
+0	NA	Hedgehog	NA	ABSTRACT	Our results support the hypothesis of shared genetic determinants between BD and BMI and point to genes involved in Hedgehog signaling as promising targets
+0	bipolar disorder	NA	NA	INTRO	Bipolar disorder (BD) is a chronic and disabling psychiatric illness, with a prevalence of 0.8-1.2% in the general population, characterized by recurrent manic and depressive episodes.
+0	death	NA	NA	INTRO	Being characterized by high rates of physical comorbidity and increased risk for suicide, BD is associated with decreased life expectancy and increased all-cause mortality, and therefore is a major socio-economic burden
+0	obese	NA	NA	INTRO	Patients with BD show increased frequency of overweight and obesity (41% compared to 27% in general population in US).
+0	Type 2 diabetes	NA	NA	INTRO	Additionally, patients with BD show a three-fold higher risk of type 2 diabetes (T2D) compared to the general population.
+0	cardiovascular disease	NA	NA	INTRO	These two conditions greatly contribute to a higher risk of cardiovascular diseases, which represent the leading cause for increased mortality in bipolar patients.
+0	obese	NA	NA	INTRO	Indeed, obesity exerts a negative impact on the course of BD, as this comorbidity is associated with higher episode frequency, rates of disability, suicide attempts, psychiatric and medical comorbidities as well as cognitive impairment and white matter abnormalities.
+0	NA	NA	NA	INTRO	Conversely, a lower body mass index (BMI) has been associated with positive response to lithium treatment, which represents the first line of treatment in BD, being effective in preventing relapses of both polarities.
+0	NA	NA	NA	INTRO	These results suggest a potential interplay between BMI and molecular targets involved in the mechanism of action of this mood stabilizer.
+0	NA	NA	NA	INTRO	Although a link between BD and BMI has been established, the molecular mechanisms underlying this comorbidity have only recently started to be investigated and are still largely unknown.
+0	obese	NA	NA	INTRO	Increasing our scarce knowledge of the factors predisposing patients with BD to develop metabolic comorbidities such as obesity and T2D would be of great importance, eventually allowing us to identify patients that could benefit from early monitoring and/or intervention
+0	bipolar disorder	NA	NA	TABLE	Overview of previous studies investigating molecular links between bipolar disorder and obesity or T2D in humans
+0	NA	NA	NA	INTRO	Although lifestyle factors and adverse effects of pharmacotherapy play an important role in the increased susceptibility of BD patients to metabolic comorbidities, a higher BMI has also been reported in adolescents and drug naive patients, thus suggesting the existence of common pathophysiological processes, as well as genetic/epigenetic links underlying these conditions.
+0	obese	NA	NA	INTRO	Indeed, BD, obesity and T2D are multifactorial disorders that show a high heritability, estimated at 60-80% in BD, 40-70% in obesity and 30-70% in T2D.
+0	NA	NA	NA	INTRO	In a recent study, it was shown that Ets96B (the ETV5 homolog in Drosophila melanogaster) regulates a number of genes involved in neuroprotection and that its inhibition induces BD- and obesity-related phenotypes.
+0	NA	NA	NA	INTRO	Moreover, single nucleotide polymorphisms (SNPs) located in the human ETV5 gene were associated with BD.
+0	episodic disturbances of mood	NA	NA	INTRO	Furthermore, a recent review suggested that 24 genes previously associated with cardiometabolic phenotypes are also associated with mood disorders (major depressive disorder (MDD) and BD).
+0	obese	NA	NA	INTRO	An overview of studies previously investigating the role of genes potentially involved in both BD and obesity or T2D is reported in Table 1.
+0	NA	NA	NA	INTRO	The majority of these studies investigated variants already known to be associated with T2D or other metabolic phenotypes
+0	obese	NA	NA	INTRO	Since the potential molecular mechanisms that could predispose BD patients to an increased susceptibility to obesity or T2D are largely unknown, studies not restricted to specific candidate genes or pathways, able to identify novel molecular targets and pathways commonly associated with BD and metabolic phenotypes, are urgently needed.
+0	NA	NA	NA	INTRO	Genetic variants suggested to be associated to BD or metabolic phenotypes by previous studies generally showed small effect sizes, as in the case of most complex phenotypes.
+0	NA	NA	NA	INTRO	To this regard, gene-based analysis is a powerful method to identify novel genes associated with a complex trait, as this method is able to globally evaluate the cumulative effect of multiple SNPs located in a gene.
+0	NA	NA	NA	INTRO	This approach gives the opportunity to build new knowledge upon genome-wide association studies (GWAS) that have already been produced with huge investments, thus accelerating the discovery of associations between genetic variation and complex traits.
+0	NA	NA	NA	INTRO	To our knowledge, no study has hitherto used this approach to investigate targets commonly associated with BD and metabolic phenotypes.
+0	NA	NA	NA	INTRO	In this sense, public databases of GWAS conducted on large samples of patients affected by BD or metabolic conditions and healthy controls represent an extraordinary opportunity to expand our knowledge on genes that might be implicated in these conditions
+0	NA	NA	NA	INTRO	In the present study, we took advantage of large publicly available GWAS datasets to conduct a gene-based analysis as well as cross-trait meta-analyses aiming at (1) identifying genes commonly associated with BD and BMI or BD and T2D, and (2) investigating if genes shared between these conditions are enriched for pathways previously implicated in BD pathophysiology or in the mechanism of action of medications used to treat BD
+0	NA	NA	NA	METHODS	The present study was conducted on the summary statistics of three large public GWAS datasets.
+0	NA	NA	NA	METHODS	Summary statistics include all SNPs that were analyzed, together with the calculated effect sizes.
+0	NA	NA	NA	METHODS	Evaluation of BD-associated genes was performed using the summary statistics from the largest GWAS conducted by the Psychiatric Genomics Consortium (PGC) Bipolar Disorder Working Group to date.
+0	NA	NA	NA	METHODS	The dataset included GWAS results from logistic regression analyses on over 13.4 million autosomal SNPs on 20,352 BD cases according to DSM-IV, ICD-9 or ICD-10 criteria and 31,358 controls of European descent.
+0	NA	NA	NA	METHODS	Detailed characteristics of each included cohort have been described in the work from Stahl and coworkers.
+0	NA	NA	NA	METHODS	Further, to identify genes associated with T2D, we used the DIAGRAM 1000G GWAS meta-analysis Stage 1 dataset, including 26,676 T2D cases and 132,532 Caucasian controls from 18 studies.
+0	diabetes	NA	NA	METHODS	Criteria for T2D diagnosis differed among the studies and included self-reported diagnosis of diabetes by a physician, self-reported use of medication to treat diabetes, fasting glucose >= 7.0 mmol/l, or non-fasting glucose >= 11.1 mmol/l, hemoglobin A1c (HbA1c) > = 6.5%.
+0	NA	NA	NA	METHODS	This dataset reported association summary statistics for over 12.06 million autosomal SNPs
+0	NA	NA	NA	METHODS	Finally, genes associated with BMI were investigated using the GWAS plus Metabochip meta-analysis dataset from the GIANT Consortium.
+0	NA	NA	NA	METHODS	This dataset included summary association statistics of 322,154 subjects of European ancestry.
+0	NA	NA	NA	METHODS	Participants were recruited from 125 studies (82 with GWAS and 43 with results Metabochip results).
+0	NA	NA	NA	METHODS	In this dataset, over 2.47 million autosomal genotyped or imputed variants were tested for association with transformed BMI residuals in linear regressions assuming an additive genetic model
+0	NA	NA	NA	METHODS	For each of the three datasets, a gene-based analysis was performed with MAGMA, using the FUMA platform.
+0	NA	NA	NA	METHODS	MAGMA is a tool for gene analysis that estimates gene-based statistics taking into account the linkage disequilibrium (LD) of the included SNPs.
+0	NA	NA	NA	METHODS	LD was estimated using the European panel of the 1000 Genomes phase 3 data as reference.
+0	NA	NA	NA	METHODS	Locations of protein-coding genes were defined as the regions from transcription start site to transcription stop site (default option in MAGMA).
+0	NA	NA	NA	METHODS	In case a dataset reported information on imputation quality or frequency of the minor allele (MAF), SNPs with imputation quality score < 0.3 or MAF < 0.01 were excluded.
+0	NA	NA	NA	METHODS	Additionally, in the case of the BD dataset, SNPs that were missing in more than 1% of the subjects were excluded.
+0	NA	NA	NA	METHODS	SNPs not represented in all three datasets as well as ambiguous SNPs (G/C or A/T) were also excluded.
+0	NA	NA	NA	METHODS	Three sets of genes significantly associated with BD, BMI and T2D were obtained.
+0	NA	NA	NA	METHODS	Multiple testing correction was performed according to the Benjamini and Hochberg (BH) procedure using the p.adjust function in R. The hypergeometric test was used to assess over-representation of genes significantly associated with BD and either BMI or T2D after multiple testing correction.
+0	NA	NA	NA	METHODS	Analyses were conducted using R v. 3.6.1 (ref. )
+0	NA	NA	NA	METHODS	Enrichment for non-redundant Gene Ontology (GO) terms and Reactome pathways among the genes commonly associated with BD and BMI, BD and T2D or all three phenotypes was assessed using the WebGestalt functional enrichment analysis tool (www.webgestalt.org/).
+0	NA	NA	NA	METHODS	In order to include the largest number of potentially relevant genes in the pathway analysis, we used the list of genes nominally associated with the traits of interests, with a p < 0.05, without applying a correction for multiple testing at this step.
+0	NA	NA	NA	METHODS	The enrichment analysis was performed using the hypergeometric test with default settings (minimum number of genes for a category: 5; multiple-testing adjustment: BH method).
+0	NA	NA	NA	METHODS	In order to obtain more information on the possible interactions between proteins coded by the genes found to be commonly associated with BD and BMI or T2D, a protein-protein interaction (PPI) analysis was conducted using STRING.
+0	NA	NA	NA	METHODS	For this analysis, the interaction score was set to high confidence (score = 0.7) and all the active interaction sources supported by the tool were included (text mining, experiments, databases, co-expression, neighborhood, gene fusion and co-occurrence)
+0	NA	NA	NA	METHODS	In order to pinpoint specific SNPs associated with BD and BMI or T2D, we conducted two meta-analyses between BD and BMI, as well as BD and T2D using Metasoft.
+0	NA	NA	NA	METHODS	This software provides effect estimates, heterogeneity estimates as well as a posterior probability that an effect exists in each study (m-value statistics > 0.9).
+0	NA	NA	NA	METHODS	The two meta-analyses were conducted with a conservative random-effect model using the same list of SNPs of the gene-based analysis as input.
+0	NA	NA	NA	METHODS	For both meta-analyses, we selected SNPs with a meta-analysis p < 5E-08, an m-value > 0.9 and a p < 0.05 in each original study.
+0	NA	NA	NA	METHODS	The putative functional role of the significant SNPs was evaluated using RegulomeDB.
+0	NA	NA	NA	METHODS	Among SNPs predicted by RegulomeDB to likely affect binding of transcription factors (score < 3), the presence of significant expression quantitative trait loci (eQTL) in adipose tissue as well as in different brain regions was investigated using GTEx.
+0	NA	NA	NA	METHODS	Finally, the presence of SNPs located in potentially druggable genes was investigated using the Drug Gene Interaction database (DGIdb)
+0	NA	NA	NA	RESULTS	A flow-chart of the analyses is reported in Supplementary Fig.
+0	NA	NA	NA	RESULTS	1.
+0	NA	NA	NA	RESULTS	A total of 2,013,566 SNPs that passed quality control and were present in all datasets were used as input for the gene-based analysis.
+0	NA	NA	NA	RESULTS	These SNPs allowed conducting a gene-based analysis for 17,455 genes.
+0	NA	NA	NA	RESULTS	Gene-based analyses conducted with MAGMA identified 2700, 2144 and 1988 genes nominally associated with BD, BMI and T2D, respectively.
+0	NA	NA	NA	RESULTS	Among these, a total of 579, 549 and 173 were significant after multiple testing correction with BH, respectively
+0	NA	NA	NA	RESULTS	When comparing the three lists, 518 genes were found to be commonly associated with BD and BMI, 52 of which were significant after multiple testing correction (Supplementary Table 1).
+0	NA	NA	NA	RESULTS	The number of genes associated with both phenotypes was 2.86-fold higher than expected based on results of the hypergeometric test (p = 9.4E-12, Supplementary Table 2).
+0	NA	NA	NA	RESULTS	Regarding BD and T2D, 390 genes were associated with both phenotypes, 12 of which were significant after multiple testing correction (Supplementary Table 3).
+0	NA	NA	NA	RESULTS	The number of overlapping genes was 2.09-fold higher than expected based on results of the hypergeometric test (p = 0.01, Supplementary Table 2).
+0	NA	NA	NA	RESULTS	Similarly, genes associated with BD were enriched for targets associated with either BMI or T2D (p = 2.6E-12, Supplementary Table 2).
+0	NA	NA	NA	RESULTS	Finally, 93 genes, three of which were significant after multiple testing correction, were associated with all investigated phenotypes (Supplementary Table 4).
+0	NA	NA	NA	RESULTS	Genes associated with BD were not significantly enriched for targets associated with both BMI and T2D (p = 0.076, Supplementary Table 2)
+0	bipolar disorder	NA	NA	TABLE	Weighted set of significantly enriched GO terms and pathways for genes commonly associated with bipolar disorder and BMI
+0	bipolar disorder	NA	NA	FIG	Output of the protein-protein interaction analysis conducted using STRING with genes associated with bipolar disorder and BMI as input.
+0	NA	NA	NA	FIG	Each node represents all the proteins produced by a single protein-coding gene locus (splice isoforms are collapsed), while edges represent protein-protein associations.
+0	NA	NA	NA	FIG	The interaction score was set to high confidence (score = 0.7) and all the active interaction sources supported by the tool were included (text mining, experiments, databases, co-expression, neighborhood, gene fusion and co-occurrence).
+0	bipolar disorder	NA	NA	FIG	The network of proteins encoded by genes commonly associated with bipolar disorder and BMI presents more interactions compared to the number expected for a random set of proteins of similar size extracted from the genome (number of nodes: 504, expected number of edges: 332, observed number of edges: 392, protein-protein interaction enrichment p = 0.0007)
+0	NA	NA	NA	RESULTS	The analyses conducted using WebGestalt showed that the genes commonly associated with BD and BMI were enriched for one cellular-component GO term: Neuronal cell body (p = 0.0001; false discovery rate (FDR) = 0.025) (Table 2).
+0	NA	NA	NA	RESULTS	Additionally, genes commonly associated with BD and BMI were enriched for 12 pathways (Supplementary Table 5).
+0	NA	BRAF	NA	RESULTS	The weighted set cover method implemented by WebGestalt, which reduces redundancy of the gene sets, confirmed a significant association for four of these pathways: Hemostasis, Signaling by Hedgehog, L1CAM interactions and Signaling by BRAF and RAF fusions (Table 2), as well as for the GO term.
+0	NA	NA	NA	RESULTS	We further explored the potential interactions between the proteins encoded by the 518 genes commonly associated with BD and BMI using STRING.
+0	NA	NA	NA	RESULTS	This analysis showed that the network of proteins encoded by these genes presented a number of interactions greater than expected for a random set of proteins of similar size extracted from the genome (expected number of edges: 332; observed number of edges: 392; PPI enrichment p = 0.0007, Fig.
+0	NA	NA	NA	RESULTS	1), supporting the hypothesis that proteins encoded by genes commonly associated with BD and BMI could be biologically connected
+0	NA	NA	NA	RESULTS	No significantly enriched category of GO terms or pathways was observed for genes commonly associated with BD and T2D.
+0	NA	NA	NA	RESULTS	However, the network of proteins encoded by these genes presented more interactions than what would be expected for a random set of proteins of similar size extracted from the genome (expected number of edges: 163; observed number of edges: 215; PPI enrichment p = 5.8E-05, Supplementary Fig.)
+0	NA	NA	NA	RESULTS	Genes associated with BD, BMI and T2D were not found to be significantly enriched for specific GO terms or pathways.
+0	NA	NA	NA	RESULTS	Furthermore, the network of proteins encoded by these genes did not present a significantly higher number of interactions than what would be expected for a random set of proteins of similar size extracted from the genome (expected number of edges: 10; observed number of edges: 10; PPI enrichment p = 0.58)
+0	bipolar disorder	NA	NA	TABLE	Results of the meta-analysis showing SNPs significantly associated with bipolar disorder and BMI
+0	NA	NA	NA	RESULTS	The meta-analyses with Metasoft were conducted on the 2,013,566 SNPs for which data were available in all three datasets, which were also used as input for the gene-based analysis.
+0	NA	NA	NA	RESULTS	The meta-analysis between BD and BMI identified 64 significant SNPs relevant for both traits (m-value > 0.9) (Table 3)
+1	NA	CLN3	rs3888190	RESULTS	The majority of SNPs shared between BD and BMI were located in intergenic regions (n = 26) or in a locus in chromosome 16 spanning the NPIPL1, SH2B1, TUFM, ATP2A1, AK125489, CLN3 and ATXN2L genes (n = 24 SNPs; best SNP: rs3888190, p = 1.1E-24).
+1	NA	NEGR1	rs1516725	RESULTS	Five SNPs were located in the ETV5 gene (best SNP: rs1516725, p = 1.0E-24), five in the LINGO2 gene (best SNP: rs2183824, p = 4.9E-15), while the remaining four SNPs were located in the NEGR1 (rs1620977, p = 8.7E-13), MAP2K5 (rs2127162, p = 4.7E-11), RPGRIP1L (rs1477199, p = 5.7E-09) and DTX2P1 genes (rs4729098, p = 2.9E-08).
+0	NA	NA	NA	RESULTS	Interestingly, three of these genes (RPGRIP1L, SH2B1 and ATP2A1) were included in significantly enriched pathways identified by WebGestalt.
+0	NA	NA	NA	RESULTS	Specifically, RPGRIP1L was included in the Signaling by Hedgehog pathway, while SH2B1 and ATP2A1 in the Hemostasis pathway (Table 2)
+0	NA	NA	NA	RESULTS	A total of 11 SNPs located in three genes were predicted to affect the binding of transcription factors by RegulomeDB (score < 3, Table 3).
+0	NA	NA	NA	RESULTS	All SNPs for which RegulomeDB predicted a functional effect were also found to be significant eQTLs in adipose tissue and in different brain regions in GTEx (Supplementary Table 6).
+1	NA	NEGR1	NA	RESULTS	Finally, 13 SNPs were located in genes that are part of the druggable genome (LINGO2, NEGR1, MAP2K5, DTX2P1 and ATP2A1) according to DGIdb
+0	bipolar disorder	NA	NA	TABLE	Results of the meta-analysis showing SNPs significantly associated with bipolar disorder and type 2 diabetes
+1	NA	NA	rs352165	RESULTS	The meta-analysis between BD and T2D identified six SNPs relevant for both traits (Table 4), three of which were located in the ALAS1 gene (best SNP: rs352165, p = 3.4E-08), two in intergenic regions and one in the KCNG1 gene (rs6091248, p = 4.3E-08).
+0	NA	NA	rs61428	RESULTS	The three SNPs rs61428, rs352162 (intergenic regions) and rs164640 (ALAS1) were predicted to affect the binding of transcription factors by RegulomeDB (Table 4) and were also found to be significant eQTLs in cerebellum (Supplementary Table 6).
+0	NA	NA	NA	RESULTS	KCNG1 was found to be part of the druggable genome by DGIdb
+0	NA	NA	NA	RESULTS	Finally, we found no SNP in common between the two meta-analyses (i.e.
+0	NA	NA	NA	RESULTS	SNPs significant in both comparisons BD and BMI as well as BD and T2D
+0	NA	NA	NA	DISCUSS	Our study supports the existence of shared genetic factors between BD and BMI.
+0	NA	NA	NA	DISCUSS	To the best of our knowledge, this is the first study to investigate genes commonly associated with BD, BMI and T2D using a gene-based approach and without a specific focus on single candidate genes and pathways previously suggested to be involved in BD.
+0	NA	NA	NA	DISCUSS	We showed that BD and BMI share a higher number of susceptibility genes compared to BD and T2D.
+0	episodic disturbances of mood	NCAN,	NA	DISCUSS	Some of the genes we found to be associated with BD and either BMI or T2D (CACNA1D, ITIH4, NCAN, CRY2 and POMC) were previously reported by a recent systematic review to be associated with cardiometabolic phenotypes and mood disorders (MDD and BD).
+0	NA	NA	NA	DISCUSS	Besides validating these genes, we reported many novel targets and found that genes commonly associated with BD and BMI are enriched for the cellular-component Neuronal cell body GO term
+0	NA	NA	NA	DISCUSS	The pathway analysis from WebGestalt further supports the hypothesis that genes commonly associated with BD and BMI show a significant functional enrichment.
+0	NA	Hedgehog	NA	DISCUSS	"Two of the pathways (Signaling by Hedgehog and Hedgehog ""off"" state) were related to Hedgehog signaling and the former was also included among the four pathways of the weighted set (i.e."
+0	NA	NA	NA	DISCUSS	the set including the most representative pathways that can cover all the genes from the enriched sets).
+0	NA	Hedgehog	NA	DISCUSS	The Hedgehog signaling pathway plays a crucial role in neural and limb development, cell growth, differentiation and survival.
+0	NA	Hedgehog	NA	DISCUSS	The mechanisms underlying Hedgehog signaling are complex and not completely understood.
+0	NA	Hedgehog	NA	DISCUSS	This pathway takes the name from the Hedgehog (Hh) ligand, which was first identified in D. melanogaster.
+0	NA	Hedgehog	NA	DISCUSS	This ligand has three counterparts in mammalians: sonic hedhgehog (SHH), Indian hedgehog (IHH) and desert hedgehog (DHH).
+0	NA	Hedgehog	NA	DISCUSS	"Through a finely regulated switching between ""off"" and ""on"" states, the Hedgehog pathway modulates a signaling cascade that ultimately targets the Gli transcription factors."
+0	NA	Hedgehog	NA	DISCUSS	In the absence of the ligand (Hedgehog off state), the cytosolic Gli proteins are cleaved to a truncated form, translocate to the nucleus and repress gene expression.
+0	NA	Hedgehog	NA	DISCUSS	Conversely, in the presence of the Hedgehog ligand (Hedgehog on state), the Gli transcription factors are stabilized in their full-length form, which is able to stimulate gene expression
+0	NA	Hedgehog	NA	DISCUSS	Recent evidence suggests that the Hedgehog transduction pathway shows a bi-directional connection with metabolism.
+0	NA	Hedgehog	NA	DISCUSS	In fact, on one hand Hedgehog proteins are modified by fatty acids and cholesterol (these modifications being essential for their maturation and activity).
+0	NA	NA	NA	DISCUSS	On the other hand, this signaling system might play a role in adipocyte differentiation and regulation of energy homeostasis.
+0	Ellis-van Creveld syndrome	Hedgehog	NA	DISCUSS	Although the role of the Hedgehog pathway in the pathophysiology of BD has not been systematically investigated, disruption of sonic hedgehog signaling associated with Ellis-van Creveld syndrome (a form of chondrodysplastic dwarfism) has been suggested to exert a protective role against BD.
+0	NSCLC-adenocarcinoma	Hedgehog	C for 48	DISCUSS	Interestingly, in vitro treatment with lithium was found to modulate Hedgehog signaling in pancreatic adenocarcinoma cells via the inhibition of the GSK-3 serine/threonine kinase.
+0	NA	NA	NA	DISCUSS	In this study, lithium exerted a biphasic effect, i.e.
+0	NA	Hedgehog	NA	DISCUSS	an initial increase of GLI1 cellular levels due to the inhibition of the ubiquitin-proteasome-mediated GLI degradation, followed by a downregulation of expression and activity of GLI1 after lithium treatment for 18 h. These results suggest that lithium might interfere with Hedgehog signaling via modulation of the ubiquitin-proteasome degradation
+0	NA	Hedgehog	NA	DISCUSS	The meta-analysis approach also supported the hypothesis that genes involved in Hedgehog signaling might play an important role.
+1	NA	NA	rs1477199	DISCUSS	In fact, among SNPs significantly associated with BD and BMI, rs1477199 was located in the RPGRIP1L gene.
+0	hypothalamic	NA	NA	DISCUSS	This gene encodes a protein localized at the transition zone of the primary cilium and is required for hypothalamic arcuate neuron development.
+0	obese	NA	NA	DISCUSS	RPGRIP1L represents a particularly interesting target, as its expression and activity are regulated by intronic variants located in the FTO gene (which is strongly associated with obesity and T2D) through long-range regulation.
+0	NA	NA	NA	DISCUSS	RPGRIP1L was recently associated with BD in a sample including 276 patients and 170 controls of Mexican origin.
+0	NA	NA	NA	DISCUSS	Taken together, our findings suggest that complementary analytical approaches may provide converging evidence and should be used together to be able to identify genes in which multiple SNPs with small effect sizes might play an additive effect, as well as genes in which single SNPs might play a more relevant role.
+0	NA	Hedgehog	NA	DISCUSS	The two different approaches we used support the potential role of Hedgehog signaling in both BD and BMI
+0	NA	NA	NA	DISCUSS	"Other relevant pathways shared between BD and BMI were revealed, such as ""L1CAM interactions"", which has been implicated in neuritogenesis and neuroprotection."
+0	NA	NA	NA	DISCUSS	Indeed, the neural cell adhesion molecule L1 plays a crucial role in nervous system development, being involved in neurite outgrowth, adhesion, axon guidance, myelination and synaptic plasticity.
+0	episodic disturbances of mood	NA	NA	DISCUSS	Preclinical studies support the hypothesis that dysregulation of neuronal synaptic plasticity might mediate a potential role of L1 and other adhesion molecules in the pathogenesis of mood disorders.
+0	NA	NA	NA	DISCUSS	Interestingly, state-dependent alterations of L1 peripheral messenger RNA (mRNA) levels in patients with BD have been suggested.
+0	Geriatric Depression	NA	NA	DISCUSS	Specifically, L1 levels were increased in a sample of 13 BD patients in a current depressive state, but not in patients in a remissive state (n = 29)
+0	NA	NA	NA	DISCUSS	Results from our meta-analysis confirmed the important role played by other genes previously suggested to be associated with BD and BMI.
+0	NA	NA	NA	DISCUSS	Specifically, we found five SNPs to be located in the ETV5 gene.
+0	NA	NA	NA	DISCUSS	Inhibition of the ETV5 homolog in D. melanogaster (Ets96B) induces BD- and obesity-related phenotypes
+0	obese	NA	NA	DISCUSS	Our hypothesis that genetic variants might contribute to explain the increased comorbidity between BD and obesity is in contrast with findings from a recent study showing that the inclusion of genetic data in a model comprising clinical characteristics did not improve prediction of BMI or BMI gain after 1 year in a sample of 284 patients with psychosis.
+0	NA	NA	NA	DISCUSS	However, in this study only 32 patients had a diagnosis of BD, suggesting the need to conduct further studies specifically including BD patients
+0	NA	NA	NA	DISCUSS	While our results support the existence of shared functional pathways between BD and BMI, we did not observe a functional enrichment for genes commonly associated with BD and T2D.
+0	NA	NA	NA	DISCUSS	However, proteins encoded by these genes showed more interactions compared to what would be expected for a random set or proteins of similar size extracted from the genome.
+0	aggressive disease	NA	NA	DISCUSS	The limited number of genetic targets we observed to be shared between BD and T2D is in accordance with previous studies showing a lack of association between T2D polygenic risk scores (PRS) and diagnosis of psychiatric disorders.
+0	NA	NA	NA	DISCUSS	Although the aggregated effect of multiple T2D-associated variants might not play a relevant role in BD pathophysiology, the contribution of specific genes might still be important.
+0	NA	NA	NA	DISCUSS	In our meta-analysis, the largest number of SNPs commonly associated with BD and T2D was located in the ALAS1 gene, which might represent a promising target to further investigate.
+0	NA	NA	NA	DISCUSS	This gene catalyzes the rate-limiting step in heme (iron-protoporphyrin) biosynthesis, a process which has been shown to be bidirectionally connected with the regulation of the circadian clock.
+0	NA	NA	NA	DISCUSS	Based on a large body of evidence supporting the existence of circadian disturbances in patients with BD as well as the important role of circadian genes in both BD and response to lithium, it might be important for future studies to evaluate the role of genes interacting with circadian systems as in the case of ALAS1
+0	NA	NA	NA	DISCUSS	Our results have to be interpreted in light of some limitations.
+0	NA	NA	NA	DISCUSS	Firstly, we chose to select genes nominally associated with both BD and BMI or T2D in GWAS datasets without applying a correction for multiple testing at this step, in order to include the largest number of potentially relevant genes in the pathway analysis.
+0	NA	NA	NA	DISCUSS	Although this might have increased the risk to include less-relevant genes in the pathway analysis, this aspect was partly addressed by applying a FDR correction on pathways as well as searching for converging evidence from the meta-analysis approach to support the potential relevance of the identified pathways.
+0	NA	NA	NA	DISCUSS	Secondly, publicly available GWAS datasets do not generally include information on concomitant disturbances.
+0	aggressive disease	NA	NA	DISCUSS	Therefore, it was not possible to assess the prevalence of BD as well as other psychiatric comorbidities in the BMI and T2D datasets.
+0	aggressive disease	NA	NA	DISCUSS	As our analyses could not be adjusted for potential comorbidities, it is not possible to exclude that comorbidity with psychiatric disorders could play a role in explaining our findings.
+0	NA	NA	NA	DISCUSS	Thirdly, although GWAS summary statistics can be analyzed with a wide range of methods, they do not provide individual-level genotyping data, thus not allowing to conduct other analyses that can provide important insight such as PRS analysis.
+0	NA	NA	NA	DISCUSS	Finally, although we conducted our analyses on the largest and most recent BD dataset released by the PGC to date, the smaller number of participants included in this dataset compared to the BMI and T2D GWAS datasets might have limited our ability to identify shared genetics determinants between BD and the other traits.
+0	NA	NA	NA	DISCUSS	The main strengths of our study are the large sample size of the included datasets and the choice not to restrict our investigation to specific candidate genes or pathways to overcome limitations of previous studies focused on candidate targets
+0	NA	NA	NA	DISCUSS	It is important to note that our analyses were conducted on subjects of European ancestry.
+0	NA	NA	NA	DISCUSS	Further studies will be needed to assess the potential generalizability of these results to other populations.
+0	aggressive disease	NA	NA	DISCUSS	While our study was focused on BD, other psychiatric disorders such as MDD and schizophrenia show increased frequency of obesity.
+0	NA	NA	NA	DISCUSS	A recent study investigating the role of the candidate gene CADM2, which encodes a synaptic cell adhesion molecule, reported that this gene might be associated with a wide range of psychological (neuroticism, mood instability and risk-taking) and metabolic traits, and that regulation of this gene in adipose tissue might mediate common biological mechanisms across phenotypes.
+0	NA	NA	NA	DISCUSS	In accordance with these results, our gene-based analysis identified this gene as commonly associated with BD and BMI and this association survived multiple testing correction.
+0	aggressive disease	NA	NA	DISCUSS	Further studies will be needed to understand which of the targets we identified might be specific for BD and which genes or pathways might play a role in different psychiatric disorders
+0	NA	Hedgehog	NA	DISCUSS	To conclude, our results suggest the existence of shared genetic determinants between BD and BMI and support the relevance of genes implicated in Hedgehog signaling.
+0	NA	NA	NA	DISCUSS	Studies using other instruments such as PRS to further evaluate shared etiology between these traits, as well as to assess the aggregated effect of multiple variants with small effect sizes, are warranted.
+0	NA	NA	NA	DISCUSS	Future studies on independent samples for which information on comorbidities and potential confounding factors are available are needed to confirm our results and explore the potential role of these genes in the mechanism of action of mood stabilizers in patients with BD.
+0	NA	NA	NA	DISCUSS	Finally, based on the fact that some of the targets and pathways we reported to be associated with both BD and BMI have been implicated in the mechanism of action of lithium, it would be important to explore if at least part of the genetic determinants common to these traits might play a role in response to this mood stabilizer
+0	NA	NA	NA	SUPPL	Datasets used in this article are publicly available and can be downloaded from the Psychiatric Genomics Consortium, the DIAGRAM Consortium and the GIANT consortium websites
+0	NA	NA	NA	COMP_INT	The authors declare that they have no conflict of interest

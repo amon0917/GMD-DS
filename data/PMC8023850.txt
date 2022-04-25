@@ -1,0 +1,209 @@
+0	male breast cancer	NA	NA	ABSTRACT	The etiology of male breast cancer (MBC) is poorly understood.
+0	breast cancer	NA	NA	ABSTRACT	In particular, the extent to which the genetic basis of MBC differs from female breast cancer (FBC) is unknown.
+0	breast cancer	NA	NA	ABSTRACT	A previous genome-wide association study of MBC identified 2 predisposition loci for the disease, both of which were also associated with risk of FBC
+0	breast cancer	NA	NA	ABSTRACT	We performed genome-wide single nucleotide polymorphism genotyping of European ancestry MBC case subjects and controls in 3 stages.
+0	breast cancer	NA	NA	ABSTRACT	Associations between directly genotyped and imputed single nucleotide polymorphisms with MBC were assessed using fixed-effects meta-analysis of 1380 cases and 3620 controls.
+0	NA	NA	NA	ABSTRACT	Replication genotyping of 810 cases and 1026 controls was used to validate variants with P values less than 1 x 10-06.
+0	breast cancer	NA	NA	ABSTRACT	Genetic correlation with FBC was evaluated using linkage disequilibrium score regression, by comprehensively examining the associations of published FBC risk loci with risk of MBC and by assessing associations between a FBC polygenic risk score and MBC.
+0	NA	NA	NA	ABSTRACT	All statistical tests were 2-sided
+0	breast cancer	NA	NA	ABSTRACT	The genome-wide association study identified 3 novel MBC susceptibility loci that attained genome-wide statistical significance (P < 5 x 10-08).
+0	NA	NA	NA	ABSTRACT	Genetic correlation analysis revealed a strong shared genetic basis with estrogen receptor-positive FBC.
+0	breast cancer	NA	NA	ABSTRACT	Men in the top quintile of genetic risk had a fourfold increased risk of breast cancer relative to those in the bottom quintile (odds ratio = 3.86, 95% confidence interval = 3.07 to 4.87, P = 2.08 x 10-30)
+0	breast cancer	NA	NA	ABSTRACT	These findings advance our understanding of the genetic basis of MBC, providing support for an overlapping genetic etiology with FBC and identifying a fourfold high-risk group of susceptible men
+0	male breast cancer	NA	NA	INTRO	Male breast cancer (MBC) is rare, accounting for less than 1% of all breast cancer diagnoses.
+0	breast cancer	ER	NA	INTRO	A greater proportion of MBCs than female breast cancers (FBCs) are of the estrogen receptor (ER)-positive subtype (>95% MBC vs 75% FBC), suggesting that MBC may comprise a more homogeneous group of tumors than FBC.
+0	breast cancer	NA	NA	INTRO	Although there is a paucity of data regarding the etiology of MBC, family history and genetic susceptibility are important risk factors.
+0	NA	BRCA2	NA	INTRO	Approximately 10% of cases are attributable to inherited mutations in BRCA2.
+0	breast cancer	BRCA1	NA	INTRO	Conversely, mutations in BRCA1 are observed in only a small number of cases, suggesting differences in the underlying genetic etiologies of MBC and FBC
+0	breast cancer	NA	NA	INTRO	Common germline variants influence susceptibility to MBC.
+0	breast cancer	NA	NA	INTRO	Our previous genome-wide association study (GWAS) of MBC identified single nucleotide polymorphisms (SNPs) at 14q24.1 and 16q12.1 that were associated with susceptibility at genome-wide levels of statistical significance.
+0	breast cancer	NA	NA	INTRO	Moreover, although these loci were also associated with FBC susceptibility, they conferred greater risks of breast cancer in men than women (14q24.1 odds ratio [OR] = 1.57 vs 1.07 and 16q12.1 OR = 1.50 vs 1.22 for MBC and FBC, respectively), lending weight to findings from population-based family history studies that suggest a greater contribution of genetic variation to MBC than FBC predisposition
+0	breast cancer	NA	NA	INTRO	In this study, we pooled individual-level data from our GWAS with 2 additional case-control datasets to identify novel MBC risk variants, to illuminate better the genetic basis of MBC and to enable comparisons between determinants of polygenic predisposition to MBC and FBC
+0	breast cancer	NA	NA	METHODS	Cases for discovery analysis were primarily from the Breast Cancer Now Male Breast Cancer Study, a population-based case-control study of MBC in England and Wales (UK-BCN-MBCS, n = 1210).
+0	NA	NA	NA	METHODS	Additional cases were from UK studies at the University of Leeds (UK-UoL, n = 31) and the University of Cambridge (UK-UoC, n = 138), and a US study at City of Hope (US-CoH, n = 113).
+0	NA	NA	NA	METHODS	The UK-UoL, UK-UoC, US-CoH, and 540 of the UK-BCN-MBCS cases were analyzed previously.
+0	breast cancer	NA	NA	METHODS	Here we have added an additional 670 MBC cases from the UK-BCN-MBCS.
+0	NA	NA	NA	METHODS	To estimate autosomal SNP genotype frequencies from the general population, we used male and female controls from the 1958 British Birth Cohort (UK-58BC, n = 2663), male controls from the UK-BCN-MBCS (n = 264), and female controls from the UK Generations Study (UK-GS, n = 698) (Supplementary Table 1, available online).
+0	breast cancer	NA	NA	METHODS	The inclusion of female controls was predicated on the observation that autosomal SNPs do not differ in frequency between males and females sampled from the same ancestral population so that GWAS of sexually differentiated traits, such as breast cancer, need not be restricted to selection of same-sex controls.
+0	NA	NA	NA	METHODS	Descriptions of each of the studies used for discovery analysis are provided in the Supplementary Methods (available online).
+0	NA	NA	NA	METHODS	For validation of promising associations, we used 810 cases and 1026 controls of European ancestry that were assembled internationally for our previous GWAS (Supplementary Table 1, available online).
+0	NA	NA	NA	METHODS	All sample collection was undertaken with informed consent and ethical approval
+0	NA	NA	NA	METHODS	Discovery analysis samples, genotyping arrays, and SNPs or samples excluded during quality control are summarized in Supplementary Figure 1 (available online).
+0	NA	NA	NA	METHODS	Genotyping was performed using Illumina (San Diego, CA) Infinium OmniExpress 710K BeadChips (UK-BCN-MBCS, UK-UoL, UK-UoC, and US-CoH cases), Infinium OncoArray 500K BeadChips (UK-BCN-MBCS cases and UK-GS controls), and Infinium Global Screening Array 640K BeadChips (UK-BCN-MBCS cases and controls).
+0	NA	NA	NA	METHODS	UK-58BC controls were genotyped using Infinium 1.2M BeadChips.
+0	NA	NA	NA	METHODS	Replication genotyping was performed using either Agena (San Diego, CA) iPLEX chemistry or KASP assays (LGC, Hoddesdon, UK)
+0	inflammatory bowel disease	NA	NA	METHODS	Samples were excluded based on genotyping completion rate (<95.0%), relatedness (identity by descent [IBD] first- and second-degree relatives), and genetically determined non-European ancestry.
+0	NA	NA	NA	METHODS	SNPs were excluded according to call rates (<95.0%), minor allele frequency (MAF, <2.0%), and genotype deviation from Hardy-Weinberg proportions (P < 1 x 10-05).
+0	NA	NA	NA	METHODS	SNP data from cases genotyped using Infinium OmniExpress 710K BeadChips were harmonized with UK-58BC control data yielding 486 160 SNPs.
+0	NA	NA	NA	METHODS	Cases and controls genotyped using Infinium OncoArray 500K BeadChips were similarly harmonized, as were those using Infinium Global Screening Array 640K BeadChips.
+0	NA	NA	NA	METHODS	Genome-wide imputation was performed for each GWAS dataset using 1KGP Phase 3 reference data.
+0	NA	NA	NA	METHODS	Haplotypes were prephased using SHAPEIT2 and imputation was performed using IMPUTE2.
+0	NA	NA	NA	METHODS	Imputed SNPs with INFO scores less than 0.80 and/or MAFs less than 2.0% were excluded.
+0	NA	NA	NA	METHODS	After quality control, 8 074 073 SNPs were available for analysis
+0	breast cancer	NA	NA	METHODS	For each GWAS dataset, tests of association between imputed SNPs and MBC status were performed, assuming a log-additive model, using SNPTEST v2.5.
+0	NA	NA	NA	METHODS	Quantile-quantile plots showed no evidence of overdispersion (lambda = 0.99-1.05; Supplementary Figure 2, available online).
+0	NA	NA	NA	METHODS	Combined analysis of each dataset was performed using fixed-effects inverse variance-weighted meta-analysis (Supplementary Figure 3, available online).
+0	NA	NA	NA	METHODS	Heterogeneity was assessed using Cochran's Q-test and I2 statistics.
+0	NA	NA	NA	METHODS	Sensitivity analyses of the effect estimates when US-CoH cases or UK-GS and UK-58BC female controls were omitted were consistent with the main results (Supplementary Tables 2 and 3, available online).
+0	NA	NA	NA	METHODS	For replication analysis, effects under a log-additive model were estimated by performing multiple logistic regression, adjusted for study, using the Genotype Libraries and Utilities package.
+0	breast cancer	NA	NA	METHODS	Bayesian false discovery probabilities were calculated to assess the noteworthiness of FBC predisposition SNP associations with MBC assuming that the cost of a false nondiscovery was 4 times that of a false discovery (giving a noteworthiness cutoff value of 0.80) and that the odds ratio lies between 0.83 and 1.2 with probability 0.95.
+0	NA	NA	NA	METHODS	These comparisons were restricted to 172 published loci with FBC P less than 5 x 10-08.
+0	breast cancer	NA	NA	METHODS	To compare the MBC odds ratios with those of FBC, we assumed both sets of odds ratios were log-normally distributed and that the difference between the log odds ratios was normally distributed with mean 0 and variance equal to the sum of the squared standard errors of the 2 estimates to obtain a chi2 statistic.
+0	NA	NA	NA	METHODS	All statistical tests were 2-sided, and P less than .05 was used as the cut point for statistical significance unless otherwise stated
+0	breast cancer	NA	NA	METHODS	The heritability of MBCwas estimated assuming a continuous underlying liability and an MBC population prevalence of 0.1% using linkage disequilibrium score regression (LDSC).
+0	breast cancer	NA	NA	METHODS	LDSC was used to calculate the genetic correlation  between MBC and FBC using summary statistics from 122 977 FBC cases and 105 974 controls in the Breast Cancer Association Consortium.
+0	breast cancer	NA	NA	METHODS	Subtype-specific genetic correlations between MBC and both ER-positive and ER-negative FBC also used Breast Cancer Association Consortium data (n = 69 501 ER-positive and n = 21 468 ER-negative cases).
+0	cancers	NA	NA	METHODS	To assess cross-cancer genetic correlations with other hormonally driven cancers, we used summary statistics from 79 148 prostate cancer cases and 61 106 controls in the Prostate Cancer Association Group to Investigate Cancer Associated Alterations in the Genome Consortium (PRACTICAL) and 22 406 invasive epithelial ovarian cancer cases and 40 941 controls in the Ovarian Cancer Association Consortium (OCAC)
+0	NA	NA	NA	METHODS	A 313-SNP FBC polygenic risk score (PRS) was calculated using effect estimates for overall, ER-positive, and ER-negative FBC, standardized such that the PRS distribution in controls (2663 male and female individuals from the UK-58BC) had a mean = 0 and SD = 1.
+0	NA	NA	NA	METHODS	The 313-SNP FBC PRS includes 305 SNPs that were associated with overall FBC at P less than 1 x 10-05 plus 6 additional SNPs that were associated with ER-positive FBC and 2 rare variants in the BRCA2 and CHEK2 genes.
+0	NA	NA	NA	METHODS	To enable comparison with FBC, we derived PRS for 1671 female cases from UK-GS.
+0	breast cancer	NA	NA	METHODS	Logistic regression was used to estimate risk of MBC by quintiles and per SD increase in the PRS
+0	NA	NA	NA	METHODS	eQTL analyses were performed using Genotype-Tissue Expression Project (GTEx) gene expression data on normal breast samples from 157 males and 107 females.
+0	NA	NA	NA	METHODS	Associations between log10-normalized gene counts of candidate target genes and SNP genotypes were assessed using linear regression with and without interaction terms for genotype and sex.
+0	NA	NA	NA	METHODS	Linear regression was used to assess associations between gene expression of putative target genes and sex
+0	breast cancer	NA	NA	RESULTS	After quality control, the 3 GWAS datasets yielded SNP genotypes at 8 074 073 loci in 1380 MBC cases and 3620 controls.
+0	breast cancer	NA	NA	RESULTS	The heritability of MBC attributable to common SNPs was 0.09 (standard error [SE] = 0.06) on the liability scale, which is accordant with published estimates for FBC.
+0	breast cancer	NA	NA	RESULTS	Using cross-trait LDSC, we observed strong  between MBC and FBC (= 0.83, SE = 0.30, P = .005).
+0	cancers	NA	NA	RESULTS	Consistent with the predominance of ER-positive tumors in MBC, genetic correlation was stronger between MBC and ER-positive FBC ( = 0.82, SE = 0.30, P = .005) than ER-negative FBC ( = 0.47, SE = 0.24, P = .047).
+0	breast cancer	NA	NA	RESULTS	Predicated on evidence of pleiotropy between breast cancer and other hormonally driven epithelial tumors, we estimated genetic correlation between MBC and both prostate and ovarian cancer.
+0	Breast and prostate cancer	NA	NA	RESULTS	Although there was no evidence of genetic correlation with prostate cancer ( = 0.01, SE = 0.11, P = .90), there was borderline evidence of a moderate genetic correlation with ovarian cancer ( = 0.55, SE = 0.29, P = .06).
+0	breast cancer	NA	rs9371545	RESULTS	Combined analysis of the GWAS datasets detected a novel genome-wide statistically significant association (P < 5 x 10-08) between SNP rs9371545 at 6q25.1 and risk of MBC (P = 1.63 x 10-08; Table 1; Supplementary Table 4, available online) and validated the associations at 14q24.1 (rs1022979 P = 1.53 x 10-16) and 16q12.1 (rs35850695 P = 1.57 x 10-11; Supplementary Table 4, available online).
+0	NA	NA	rs78540526	RESULTS	We observed promising associations (P < 1 x 10-06) at 11q13.3 (rs78540526 and rs554219; Table 1; Supplementary Table 4, available online) and 15q24 (rs4407020; Supplementary Table 4, available online).
+0	NA	NA	rs78540526	RESULTS	Replication genotyping of 810 cases and 1026 controls provided support for rs78540526 and rs554219 (Table 1; Supplementary Table 4; Supplementary Figure 4, available online) but not rs4407020 (Supplementary Table 4, available online) in a joint analysis with the discovery data (rs78540526 P = 1.06 x 10-11, rs554219 P = 2.86 x 10-11).
+0	NA	NA	NA	RESULTS	Similar to the loci at 14q24.1 and 16q12.1, the 6q25.1 and 11q13.1 SNPs were also associated with predisposition to FBC but had larger risk effects in males (Table 1).
+0	NA	NA	NA	TABLE	Three novel risk variants with P less than 5 x 10-08 identified from analysis of GWAS and replication data and their odds ratios for FB
+0	breast cancer	NA	NA	RESULTS	We next evaluated the MBC associations of 172 published FBC risk SNPs (Supplementary Table 5, available online).
+0	NA	NA	NA	RESULTS	Thirty-five SNPs (20.3%) had P less than .05 and consistent directions of effect with FBC; 33 remained noteworthy using BFDP analysis.
+0	breast cancer	NA	NA	RESULTS	Eight loci had statistically significant differences in their odds ratios for MBC and FBC (false discovery rate [FDR] < 0.10; Table 2; Supplementary Table 6, available online).
+1	breast cancer	NA	rs9397437	RESULTS	At 6q25.1 and 14q24.1, rs9397437 and rs2588809 had odds ratios that were greater for MBC than FBC, and rs2981578 at 10q26.13 had an odds ratio that was greater for FBC.
+0	NA	NA	rs4233486	RESULTS	The directions of the odds ratios for rs4233486 at 1p34.2, rs12710696 at 2p24.1, rs13066793 at 3p12.1, rs3215401 at 5p15.33, and rs10816625 at 9q31.2 were opposite to FBC.
+0	NA	NA	NA	TABLE	FBC predisposition SNPs with FDR adjusted P less than .10 that confer statistically significantly different risk effects in males and female
+0	breast cancer	NA	NA	RESULTS	At each of the 172 loci, we investigated whether any variants correlated (r2 >= 0.10) with a published FBC susceptibility SNP were more statistically significantly associated with MBC in our GWAS than the FBC SNP itself (Supplementary Table 5, available online).
+0	NA	NA	NA	RESULTS	We identified 4 such SNPs with P less than 1 x 10-05, at 6q25.1, 10p12.31, and 11q13.3, which we genotyped alongside the corresponding lead FBC predisposition SNPs in our replication samples and analyzed jointly with the discovery data (Figure 1; Table 3;Supplementary Table 5, available online).
+1	breast cancer	NA	rs9383938	RESULTS	At 6q25.1, rs9383938 (P = 2.93 x 10-09) was correlated with FBC SNP rs9397437 (P = 5.29 x 10-09, r2 = 0.83) but was nominally more statistically significantly associated with MBC.
+1	breast cancer	NA	rs146723925	RESULTS	SNP rs146723925 was correlated (r2 = 0.89) with a second FBC risk locus at 6q25.1 demarcated by rs3757322 and was more statistically significantly associated with MBC in the discovery data, but failed assay design for replication genotyping.
+1	NA	NA	rs3757322	RESULTS	However, rs3757322 surpassed the genome-wide statistical significance threshold following joint analysis (P = 6.23 x 10-09), and conditional analyses indicated that rs3757322 and rs9383938 tag independent causal alleles at 6q25.1 (Supplementary Table 7, available online).
+0	breast cancer	NA	rs2183271	RESULTS	At 10p12.31, rs2183271 (P = 2.69 x 10-07) was several orders of magnitude more strongly associated with MBC than lead FBC SNP rs7072776 (P = 2.46 x 10-04, r2 = 0.68), and the effect of rs7072776 was strongly dependent on rs2183271 (Figure 1; Table 3;Supplementary Tables 5 and 7, available online).
+0	NA	NA	rs78540526	RESULTS	At 11q13.3, rs78540526 (P = 1.06 x 10-11) was correlated with FBC SNP rs75915166 (P = 7.71 x 10-08, r2 = 0.63; Figure 1; Table 3;Supplementary Table 5, available online).
+0	NA	NA	rs75915166	RESULTS	rs75915166 and a second variant at 11q13.3, rs554219, have been reported to independently influence risk of FBC.
+0	breast cancer	NA	rs78540526	RESULTS	Analysis of these SNPs conditioned on rs78540526 did not provide compelling evidence for independence in MBC (P = .64 and .03, respectively).
+0	breast cancer	NA	rs554219	RESULTS	However, rs554219 (P = 4.74 x 10-05; Supplementary Table 7, available online) and rs78540526 (P = 5.55 x 10-05) were associated with MBC after conditioning on rs75915166.
+0	breast cancer	NA	NA	FIG	Regional association plots for 6q25.1 (A), 10p12.31 (B), and 11q13.3 (C) male breast cancer risk loci.
+0	NA	NA	NA	FIG	Each point represents an individual single nucleotide polymorphism (SNP) sorted on the x-axis by physical position based on National Center for Biotechnology Information build 37 of the human genome and plotted by -log10P value on the y-axis.
+0	NA	NA	NA	FIG	Recombination rates, estimated using HapMap data, are plotted in blue.
+0	breast cancer	NA	NA	FIG	For each region, the published female breast cancer predisposition SNP is plotted as a circle alongside the variant most strongly associated with male breast cancer, plotted as a diamond.
+0	NA	NA	NA	FIG	In instances where there are multiple independent predisposition loci at the same genomic region, pairs of SNPs are grouped by color.
+0	NA	NA	NA	FIG	Lighter colors represent the genome-wide association study P value and darker colors the joint P value for the top SNPs.
+0	NA	NA	NA	FIG	All statistical tests were 2-sided.
+0	breast cancer	NA	NA	TABLE	Four FBC predisposition loci at which variants correlated at r2 >= 0.10 with a published FBC susceptibility SNP were more statistically significantly associated with MBC than the lead FBC SN
+0	breast cancer	NA	NA	RESULTS	Because our data supported a strong genetic correlation between MBC and FBC, we assessed whether a recent 313-SNP FBC PRS was associated with breast cancer risk in our study.
+0	NA	NA	NA	RESULTS	The odds ratio per SD increase in the PRS was 1.55 (95% confidence interval = 1.45 to 1.66, P = 3.54 x 10-37; Table 4).
+0	breast cancer	NA	NA	RESULTS	Men in the top quintile of genetic risk had an almost fourfold increased risk of breast cancer (OR = 3.86, 95% confidence interval = 3.07 to 4.87, P = 2.08 x 10-30) compared with men in the bottom quintile.
+0	breast cancer	NA	NA	RESULTS	We examined MBC associations with the 313-SNP PRS incorporating weightings for ER-positive or ER-negative FBC.
+0	breast cancer	NA	NA	RESULTS	Risk estimates for the ER-positive PRS were similar to the overall PRS; the ER-negative PRS was less strongly associated with MBC risk (Table 4), consistent with our genetic correlation analysis.
+0	NA	NA	NA	RESULTS	The PRS distribution in male cases was similar to that of FBC cases (Figure 2).
+0	breast cancer	NA	NA	FIG	Distributions of the 313-single nucleotide polymorphism polygenic risk scores (PRSs) in 1380 male breast cancer cases, 1671 female breast cancer cases, and 2663 controls.
+0	NA	NA	NA	FIG	PRSs were standardized to mean = 0, SD = 1 using 2663 controls from the 1958 British Birth Cohort.
+0	NA	NA	NA	FIG	The mean PRS was 0.44 in males and 0.41 in females.
+1	breast cancer	TERT	NA	RESULTS	Functional studies have identified putative target genes for 5 of the 8 FBC predisposition loci that had statistically significant differences in their odds ratios for FBC and MBC: TERT at 5p15.33, ESR1 and CCDC170 at 6q25.1, KLF4 at 9q31.2, FGFR2 at 10q26.13, and ZFP36L1 at 14q24.1.
+0	NA	CITED4	rs4233486	RESULTS	By examining GTEx multi-tissue eQTL analyses, we suggest that CITED4 (rs4233486 P = 2.36 x 10-11) and VGLL3 (rs13066793 P = 1.21 x 10-07) are candidate target genes at the loci mapping to 1p34.2 and 3p12.1.
+0	cancers	CITED4	NA	RESULTS	CITED4 encodes Cbp/p300-interacting transactivator 4, a transcriptional coactivator that is induced during lactogenic differentiation of breast epithelial cells and is involved in milk secretion, and VGLL3 encodes transcription cofactor vestigial-like protein 3 and may act as a tumor suppressor gene in high-grade serous ovarian carcinoma
+0	breast cancer	NA	NA	RESULTS	We hypothesized that variation in the basal gene expression levels of predisposition SNP target genes in male and female breast tissue might partly explain the different MBC and FBC risks observed at these loci.
+0	NA	NA	NA	RESULTS	To investigate, we evaluated GTEx RNA-sequencing data from 157 males and 107 females.
+0	NA	NA	NA	RESULTS	Four candidate target genes had statistically significant sex-biased tissue expression (Supplementary Figure 5, available online).
+0	NA	CITED4	NA	RESULTS	CITED4 at 1p34.2 (P = 3.00 x 10-25) and FGFR2 at 10q26.13 (P = 3.24 x 10-10) had higher expression in female than male breast tissue, whereas KLF4 at 9q31.2 (P = 9.10 x 10-10) and CCD170 at 6q25.1 (P = 2.80 x 10-04) were more highly expressed in males than females
+0	NA	NA	NA	RESULTS	We also assessed eQTL associations between the lead SNPs at these loci and their candidate target genes using GTEx data from breast tissue (n = 264).
+0	NA	VGLL3	rs13066793	RESULTS	The risk allele of rs13066793 at 3p12.1 was associated with reduced expression of VGLL3 (P = .02; Supplementary Figure 6, available online), albeit the association was not statistically significant after adjusting for multiple comparisons.
+1	NA	C6orf97	rs3757322	RESULTS	SNP rs3757322 at 6q25.1 was borderline associated with expression of CCDC170 (P = .06), and this association varied according to sex (P = .02; Supplementary Figure 7, available online).
+0	NA	NA	NA	RESULTS	There was no evidence of breast-specific eQTL associations with target genes at the other loci, which could reflect limited power to detect subtle differences in gene expression
+0	breast cancer	NA	NA	DISCUSS	We have performed the largest genetic association study of MBC to date by conducting, as is usual in GWAS, genome-wide imputation and meta-analysis of existing and newly generated genotyping data.
+0	breast cancer	NA	NA	DISCUSS	We identified 3 novel MBC predisposition loci that attained genome-wide levels of statistical significance, of which 2 mapped to 6q25.1 and 1 mapped to 11q13.3, bringing the total number of confirmed predisposition loci to 5.
+0	breast cancer	NA	NA	DISCUSS	Notably, each of these loci is also associated with risk of FBC, and almost 20% of confirmed FBC susceptibility SNPs showed evidence of association with MBC predisposition.
+0	breast cancer	NA	NA	DISCUSS	To date, no low-penetrance alleles have been identified that are exclusively associated with MBC but not FBC.
+0	NA	NA	NA	DISCUSS	Although our study does not rule out the possibility that such loci exist, it does suggest that the magnitudes of their effects will be small.
+0	breast cancer	BRCA1	NA	DISCUSS	Although differences between the frequencies of pathogenic BRCA1 and BRCA2 mutations have led to the suggestion that MBC and FBC have distinct genetic etiologies, our genetic correlation analysis provides evidence of a shared genetic basis for MBC and ER-positive FBC.
+0	cancers	NA	NA	DISCUSS	Interestingly, we detected borderline evidence (P = .06) of a cross-cancer genetic correlation between MBC and ovarian cancer, consistent with a recently reported genetic correlation between FBC and ovarian cancer
+0	breast cancer	BRCA1	NA	DISCUSS	Lecarpentier et al., recently demonstrated that a FBC PRS is associated with breast cancer risk in male BRCA1/2 mutation carriers.
+0	breast cancer	NA	NA	DISCUSS	We show here for the first time, to our knowledge, that a FBC PRS is associated with MBC risk in men from the general population.
+0	NA	BRCA1	NA	DISCUSS	The odds ratio per SD increase in the PRS for males is almost identical to that of unselected females and is greater than that of male BRCA1/2 mutation carriers.
+0	breast cancer	NA	NA	DISCUSS	Although risk stratification among the general population using a PRS is unfeasible given both the rarity of MBC and level of risk differentiation, the striking similarity between the PRS distributions of MBC and FBC cases suggests that a larger number of FBC predisposition variants than were detected by our study probably influence susceptibility to MBC
+0	breast cancer	NA	NA	DISCUSS	Although our genetic correlation analysis indicated that MBC shares a pronounced genetic basis with ER-positive FBC, there are distinctions.
+0	breast cancer	NA	rs9371545	DISCUSS	For example, we observed several MBC associations among SNPs that confer greater risks of ER-negative than ER-positive FBC, including SNP rs9371545 at 6q25.1 and the BRCA2 truncating variant rs11571833.
+0	breast cancer	NA	rs11249433	DISCUSS	Conversely, several SNPs that are most strongly associated with ER-positive FBC were not associated with MBC, including rs11249433 at 1p11.2, rs34005590 at 2q35, and rs2981578 at 10q26.13.
+0	NA	NA	rs2981578	DISCUSS	Although this may be a consequence of power, the ER-positive FBC odds ratio for rs2981578 is large and should be detectable in our study.
+0	breast cancer	NA	NA	DISCUSS	We hypothesize that the underlying etiological mechanisms affected by SNPs that had statistically significant differences in their odds ratios for MBC and FBC might be influenced by sex-specific differences in expression or activity of their target genes or by different endogenous factors in males and females.
+0	breast cancer	FGFR2	rs2981578	DISCUSS	The comparatively lower expression of FGFR2 in male than female breast tissue, as observed in GTEx data, could explain the lack of an MBC association with rs2981578 at the 10q26.13 locus, despite it being among the most strongly associated SNPs with ER-positive FBC
+0	cancers	NA	NA	DISCUSS	The principal limitation of our study was its relatively small size compared with typical cancer GWAS.
+0	breast cancer	NA	NA	DISCUSS	Consequently, it had limited capacity to detect MBC predisposition loci that are associated with small risk effects, and much larger studies will be needed for their discovery.
+0	NA	NA	NA	DISCUSS	The merits, or otherwise, of continually striving to identify polygenic determinants of disease susceptibility that confer relatively small effects have been debated extensively, particularly because they may have limited clinical usefulness in the short term.
+0	NA	NA	NA	DISCUSS	However, all statistically robust genetic associations (even those with small effects) are underpinned by risk alleles that perturb biological processes, of which some might harbor effective targets for therapeutic intervention, thus justifying efforts that could lead to their detection.
+0	breast cancer	NA	NA	DISCUSS	The subsequent illumination of the target genes and pathways that underlie risk associations in MBC will also likely be difficult, not least because of a paucity of cell line models derived from male breast tumors for functional analysis.
+0	breast cancer	NA	NA	DISCUSS	In conclusion, our findings indicate several elements of shared genetic basis for susceptibility to MBC and FBC, provide further support for a polygenic component to MBC susceptibility, and advance our understanding of the genetics of MBC development
+0	breast cancer	NA	NA	ACK_FUND	This work was supported by Programme Grants from Breast Cancer Now, including Programme Funding to the Breast Cancer Now Toby Robins Research Centre, the Institute of Cancer Research, and by funding from Queen's University Belfast to NO.
+0	NA	NA	NA	ACK_FUND	We acknowledge National Institute for Health Research (NIHR) funding to the Royal Marsden Hospital Biomedical Research Centre (BRC).
+0	NA	NA	NA	ACK_FUND	This work made use of data and samples generated by the 1958 British Birth Cohort under grant G0000934 from the UK Medical Research Council and grant 068545/Z/02 from the Wellcome Trust.
+0	breast cancer	NA	NA	ACK_FUND	The Finnish Male Breast Cancer Study acknowledges funding from the Finnish Breast Cancer Group, the Finnish Oncology Association, and the Salonoja Foundation.
+0	cancers	NA	NA	ACK_FUND	LO acknowledges funding from the Italian Association for Cancer Research (Fondazione AIRC IG2018-21389).
+0	NA	NA	NA	ACK_FUND	DP acknowledges funding from the Istituto Toscano Tumori, Florence, Italy.
+0	cancers	NA	NA	ACK_FUND	SEARCH is funded by a grant from Cancer Research UK (C490/A10124) and is supported by the University of Cambridge NIHR Biomedical Research Centre.
+0	AMD	NA	NA	ACK_FUND	AMD has been funded by Cancer Research UK grant CA8197/A10865 and by the Joseph Mitchell Fund.
+0	cancers	NA	NA	ACK_FUND	DTB acknowledges funding by Cancer Research UK (Programme Award C588/A10589).
+0	cancers	NA	NA	ACK_FUND	MG-D and JEC acknowledge the support of the Department of Pathology of the CHUS Santiago Hospital, the Galician Foundation of Genomic Medicine, and the Program Grupos Emergentes, Cancer Genetics Unit of CHUVI, Instituto de Salud Carlos III.
+0	cancers	NA	NA	ACK_FUND	HO and IH acknowledge funding from the Swedish Cancer Society and The Swedish Medical Research Council.
+0	NA	NA	NA	ACK_FUND	The collection of samples and epidemiological data for the US cases was supported by US ARMY Grant DAMD-17-96-I-6266 and US National Institutes of Health (NIH) grant R01CA74415.
+0	NA	SLN	NA	ACK_FUND	SLN was partially supported by the Morris and Horowitz Families Endowed Professorship at the City of Hope.
+0	cancers	NA	NA	ACK_FUND	The Genotype-Tissue Expression Project (GTEx) was supported by the Common Fund of the Office of the Director of the National Institutes of Health, and by the National Cancer Institute, the National Human Genome Research Institute, the National Heart, Lung and Blood Institute, the National Institute on Drug Abuse, the National Institute of Mental Health, and the National Institute of Neurological Disorders and Stroke
+0	NA	NA	NA	ACK_FUND	 Role of the funder: The funders had no role in the design of the study; the collection, analysis, and interpretation of the data; the writing of the manuscript; and the decision to submit the manuscript for publication
+0	NA	SPARC	NA	ACK_FUND	 Conflicts of interest: AA is a cofounder of Tango Therapeutics, Azkarra Therapeutics, Ovibio Corporation; a consultant for SPARC, Bluestar, ProLynx, Earli, Cura, GenVivo and GSK; a member of the SAB of Genentech and GLAdiator; receives grant / research support from SPARC and AstraZeneca; holds patents on the use of PARP inhibitors held jointly with AstraZeneca from which he has benefitted financially (and may do so in the future)
+0	NA	NA	NA	ACK_FUND	 Role of the authors: SM: Formal analysis; Investigation; Methodology; Writing:review and editing.
+0	NA	NA	NA	ACK_FUND	EP: Formal analysis; Investigation; Writing:review and editing.
+0	NA	NA	NA	ACK_FUND	KT: Formal analysis; Methodology; Resources; Writing:review and editing.
+0	NA	NA	NA	ACK_FUND	MEJ: Resources; Writing:review and editing.
+0	NA	NA	NA	ACK_FUND	OF: Investigation; Writing:review and editing.
+0	NA	NA	NA	ACK_FUND	MP: Investigation; Writing:review and editing.
+0	NA	NA	NA	ACK_FUND	TW: Investigation; Writing:review and editing.
+0	NA	NA	NA	ACK_FUND	KT: Investigation; Writing:review and editing.
+0	NA	NA	NA	ACK_FUND	RC: Data curation; Investigation; Writing:review and editing.
+0	NA	NA	NA	ACK_FUND	kConFab Consortium: Resources.
+0	NA	NA	NA	ACK_FUND	AT: Resources.
+0	NA	NA	NA	ACK_FUND	PJ: Resources.
+0	NA	NA	NA	ACK_FUND	SB: Resources.
+0	NA	NA	NA	ACK_FUND	HF: Resources.
+0	NA	NA	NA	ACK_FUND	HN: Resources.
+0	NA	NA	NA	ACK_FUND	JM: Resources.
+0	NA	NA	NA	ACK_FUND	EF: Resources.
+0	NA	NA	NA	ACK_FUND	YL: Resources.
+0	NA	NA	NA	ACK_FUND	DP: Resources.
+0	NA	NA	NA	ACK_FUND	GM: Resources.
+0	NA	NA	NA	ACK_FUND	IZ: Resources.
+0	NA	NA	NA	ACK_FUND	LO: Resources.
+0	NA	NA	NA	ACK_FUND	VS: Resources.
+0	NA	NA	NA	ACK_FUND	AH: Resources.
+0	NA	NA	NA	ACK_FUND	MJH: Resources.
+0	NA	NA	NA	ACK_FUND	SN: Resources.
+0	NA	NA	NA	ACK_FUND	MK: Resources.
+0	NA	NA	NA	ACK_FUND	MG-D: Resources.
+0	NA	NA	NA	ACK_FUND	JEC: Resources.
+0	NA	NA	NA	ACK_FUND	HO: Resources.
+0	NA	NA	NA	ACK_FUND	IH: Resources.
+0	NA	NA	NA	ACK_FUND	ES: Resources.
+0	NA	NA	NA	ACK_FUND	VG: Resources.
+0	NA	NA	NA	ACK_FUND	DFE: Resources.
+0	NA	NA	NA	ACK_FUND	PP: Resources.
+0	AMD	NA	NA	ACK_FUND	AMD: Resources.
+0	NA	NA	NA	ACK_FUND	DTB: Resources.
+0	NA	SLN	NA	ACK_FUND	SLN: Resources.
+0	NA	NA	NA	ACK_FUND	LS: Resources.
+0	NA	NA	NA	ACK_FUND	AA: Conceptualization; Funding acquisition.
+0	NA	NA	NA	ACK_FUND	MGC: Conceptualization; Investigation; Methodology.
+0	NA	NA	NA	ACK_FUND	RH: Conceptualization; Investigation; Methodology.
+0	NA	NA	NA	ACK_FUND	AS: Conceptualization; Data curation; Funding acquisition; Methodology; Project administration; Resources; Supervision; Writing:review and editing
+0	NA	NA	NA	ACK_FUND	 Acknowledgments: We thank the subjects who participated in the study.
+0	cancers	NA	NA	ACK_FUND	For UK-BCN-MBCS sample collection, we are grateful to the administrative and data management staff of the ICR Aetiological Epidemiology Team for help and advice; to the research nurses for collection of blood samples and questionnaire data from participants; to the UK-GS team for coordinating collection of controls; and to the cancer registries of England and Wales for providing information on eligible participants.
+0	cancers	NA	NA	ACK_FUND	The Study of Epidemiology and Risk Factors in Cancer Heredity (SEARCH) thanks the SEARCH team.
+0	cancers	NA	NA	ACK_FUND	We wish to thank H. Thorne, E. Niedermayr, all the kConFab research nurses and staff, the heads and staff of the Family Cancer Clinics and the Clinical Follow Up Study [funded from 2001-2009 by the Australian National Health and Medical Research Council (NHMRC) and currently by the National Breast Cancer Foundation and Cancer Australia, 628333] for their contributions to this resource and the many families who contribute to kConFab.
+0	breast cancer	NA	NA	ACK_FUND	We thank the staff at the Finnish Male Breast Cancer Study for their contributions.
+0	NA	NA	NA	ACK_FUND	We thank the staff of the Department of Pathology of CHUS Santiago for their contributions to the Spanish study.
+0	NA	NA	NA	ACK_FUND	Finally, we thank the consultants who cared for the study participants for their advice and help.
+0	male breast cancer	NA	NA	ACK_FUND	The BCN Male Breast Cancer Study was approved by the South Eastern Research Ethics Committe
+0	NA	NA	NA	SUPPL	The summary data underlying this article will be shared on reasonable request to the corresponding author

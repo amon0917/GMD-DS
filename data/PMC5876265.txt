@@ -1,0 +1,211 @@
+0	diabetes	insulin	NA	ABSTRACT	The aim of this study was to identify genetic variants associated with beta cell function in type 1 diabetes, as measured by serum C-peptide levels, through meta-genome-wide association studies (meta-GWAS)
+0	insulin-treated diabetes	insulin	NA	ABSTRACT	We performed a meta-GWAS to combine the results from five studies in type 1 diabetes with cross-sectionally measured stimulated, fasting or random C-peptide levels, including 3479 European participants.
+0	NA	NA	NA	ABSTRACT	The p values across studies were combined, taking into account sample size and direction of effect.
+0	NA	insulin	NA	ABSTRACT	We also performed separate meta-GWAS for stimulated (n = 1303), fasting (n = 2019) and random (n = 1497) C-peptide levels
+1	NA	insulin	rs559047	ABSTRACT	In the meta-GWAS for stimulated/fasting/random C-peptide levels, a SNP on chromosome 1, rs559047 (Chr1:238753916, T>A, minor allele frequency [MAF] 0.24-0.26), was associated with C-peptide (p = 4.13 x 10-8), meeting the genome-wide significance threshold (p < 5 x 10-8).
+1	NA	MHC	rs9260151	ABSTRACT	In the same meta-GWAS, a locus in the MHC region (rs9260151) was close to the genome-wide significance threshold (Chr6:29911030, C>T, MAF 0.07-0.10, p = 8.43 x 10-8).
+1	NA	insulin	rs61211515	ABSTRACT	In the stimulated C-peptide meta-GWAS, rs61211515 (Chr6:30100975, T/-, MAF 0.17-0.19) in the MHC region was associated with stimulated C-peptide (beta [SE] = - 0.39 [0.07], p = 9.72 x 10-8).
+1	NA	insulin	rs61211515	ABSTRACT	rs61211515 was also associated with the rate of stimulated C-peptide decline over time in a subset of individuals (n = 258) with annual repeated measures for up to 6 years (p = 0.02).
+1	NA	insulin	rs3135002	ABSTRACT	In the meta-GWAS of random C-peptide, another MHC region, SNP rs3135002 (Chr6:32668439, C>A, MAF 0.02-0.06), was associated with C-peptide (p = 3.49 x 10-8).
+1	NA	MHC	NA	ABSTRACT	Conditional analyses suggested that the three identified variants in the MHC region were independent of each other.
+1	diabetes	NA	rs9260151	ABSTRACT	rs9260151 and rs3135002 have been associated with type 1 diabetes, whereas rs559047 and rs61211515 have not been associated with a risk of developing type 1 diabetes
+1	diabetes	MHC	NA	ABSTRACT	We identified a locus on chromosome 1 and multiple variants in the MHC region, at least some of which were distinct from type 1 diabetes risk loci, that were associated with C-peptide, suggesting partly non-overlapping mechanisms for the development and progression of type 1 diabetes.
+0	NA	NA	NA	ABSTRACT	These associations need to be validated in independent populations.
+0	NA	NA	NA	ABSTRACT	Further investigations could provide insights into mechanisms of beta cell loss and opportunities to preserve beta cell function
+0	NA	NA	NA	ABSTRACT	The online version of this article (10.1007/s00125-018-4555-9) contains peer-reviewed but unedited supplementary material, which is available to authorised users
+0	diabetes	insulin	NA	INTRO	Type 1 diabetes develops when pancreatic beta cells fail to produce sufficient insulin to maintain euglycaemia.
+0	insulin-treated diabetes	insulin	NA	INTRO	C-peptide measurement after a standard meal (stimulated C-peptide) is the primary way to evaluate insulin secretion in type 1 diabetes.
+0	NA	insulin	NA	INTRO	However, fasting/random C-peptide measurements are less demanding and feasible to obtain in large population samples.
+0	insulin deficiency	insulin	NA	INTRO	The alpha and beta chains of the proinsulin molecule are joined by C-peptide, which is removed during insulin secretion.
+0	NA	insulin	NA	INTRO	Therefore, C-peptide is co-secreted with insulin in an equimolar ratio.
+0	NA	insulin	NA	INTRO	Unlike insulin, C-peptide undergoes little first-pass clearance by the liver, has a much longer half-life and is not interfered with by exogenous insulin
+0	insulin-treated diabetes	NA	NA	INTRO	Type 1 diabetes is a heterogeneous disease that can occur at any age.
+0	NA	insulin	NA	INTRO	C-peptide levels vary at diagnosis.
+1	insulin-treated diabetes	MHC	NA	INTRO	Early-onset type 1 diabetes (age <2-5 years) is associated with rapid beta cell loss, the presence of high-risk MHC type 1 diabetes genetic susceptibility and high titres of autoantibodies compared with late-onset disease.
+0	diabetes	insulin	NA	INTRO	A large proportion of people with type 1 diabetes have detectable C-peptide years after diagnosis, indicating that some beta cells are still functional.
+0	diabetes	insulin	NA	INTRO	Sensitive assays have detected stimulated C-peptide in 73-100% of people with type 1 diabetes for >=30 years
+0	diabetes	insulin	NA	INTRO	C-peptide preservation has been reported to be associated with favourable metabolic and clinical outcomes in type 1 diabetes.
+0	NA	insulin	NA	INTRO	Individuals with preserved C-peptide levels maintain better long-term glycaemic control despite a lower exogenous insulin dose per body weight.
+0	Diabetes Complications	NA	NA	INTRO	They are also at lower risk for both hypoglycaemia and diabetic complications, which are major health problems.
+0	Diabetes Complications	insulin	NA	INTRO	The association of C-peptide with long-term diabetic complications (i.e.
+0	retinopathy and nephropathy complications	insulin	NA	INTRO	retinopathy and nephropathy) remains significant after adjusting for long-term glycaemic control, suggesting that at least part of the effect of C-peptide on diabetic complications is independent of its effect on glycaemic control (or, alternatively, that frequency of blood glucose/HbA1c measurements is suboptimal).
+0	Diabetes Complications	insulin	NA	INTRO	However, association of C-peptide levels with long-term diabetic complications has not been observed in other studies
+0	diabetes	insulin	NA	INTRO	There have been no family/twin studies of C-peptide levels in type 1 diabetes.
+0	diabetes	insulin	NA	INTRO	In the Diabetes Control and Complications Trial (DCCT), investigations of detectable stimulated C-peptide levels in participants with type 1 diabetes (n = 98) and their first-degree affected relatives (n = 109) could not reach conclusions because of an insufficient sample size (see electronic supplementary material [ESM] Tables 1, 2).
+0	diabetes	NA	NA	INTRO	To date, more than 50 type 1 diabetes risk loci have been identified.
+0	autoimmune disease	NA	NA	INTRO	The majority are thought to be involved in the immune system, and many are shared with other autoimmune diseases.
+0	diabetes	insulin	NA	INTRO	However, there have been no genome-wide association studies (GWAS) of C-peptide in type 1 diabetes (www.ebi.ac.uk/gwas, accessed 1 July, 2017) and candidate gene-association studies have investigated a limited number of genes in small populations with no replication in independent studies.
+0	NA	NA	NA	INTRO	It is clear from other diseases that factors for the risk of a disease and its progression can be independent.
+0	diabetes	insulin	NA	INTRO	Here, we aimed to identify genetic loci associated with residual beta cell function in type 1 diabetes as measured by C-peptide through meta-analysis of GWAS
+0	diabetes	insulin	NA	METHODS	Stimulated C-peptide: the DCCT, including: (1) primary cohort; (2) secondary cohort with diabetes duration 1-5 years; and (3) secondary cohort with diabetes duration 5-15 year
+0	insulin-treated diabetes	insulin	NA	METHODS	Fasting C-peptide: (1) the DCCT (all); (2) the Coronary Artery Calcification in Type 1 Diabetes (CACTI) study; and (3) the Pittsburgh Epidemiology of Diabetes Complications (EDC) stud
+0	diabetes	insulin	NA	METHODS	Random C-peptide: (1) the Joslin 50-Year Medalist study; and (2) the Wisconsin Epidemiologic Study of Diabetic Retinopathy (WESDR
+0	NA	insulin	NA	FIG	 Overview of the C-peptide cross-sectional data analysis and the main findings.
+0	NA	insulin	NA	FIG	The dashed arrows show the studies included in the meta-GWAS of stimulated, fasting and random C-peptide.
+0	NA	HCE	NA	FIG	HCE, human core exom
+0	diabetes	insulin	NA	METHODS	We performed meta-GWAS of stimulated, fasting and random (non-fasting) C-peptide separately in European (confirmed by population structure analysis) participants from the following five type 1 diabetes studies (Fig.
+0	NA	NA	NA	METHODS	1)
+0	diabetes	insulin	NA	METHODS	In the analysis of stimulated C-peptide, DCCT participants were divided into three groups (a primary cohort and a secondary cohort with diabetes duration of 1-5 and 5-15 years), since the range of stimulated C-peptide levels differed among the three groups based on the inclusion/exclusion criteria.
+0	NA	insulin	NA	METHODS	In contrast, because all DCCT participants had fasting C-peptide levels of <=0.2 pmol/ml, the fasting C-peptide analysis was performed with all participants as a single group ('all')
+0	NA	insulin	NA	METHODS	Another meta-analysis was performed to combine the GWAS results for stimulated (DCCT), fasting (CACTI and EDC) and random (Joslin 50-Year Medalist and WESDR) C-peptide (Fig.
+0	NA	NA	NA	METHODS	1).
+0	diabetes	insulin	NA	METHODS	We specifically examined the associations of known type 1 diabetes loci and type 1 diabetes genetic risk scores (GRS) with C-peptide levels.
+0	NA	insulin	NA	METHODS	The associations of the identified loci and type 1 diabetes loci/GRS were tested with stimulated C-peptide change over time in a subset of DCCT participants with repeated annual measures for up to 6 years (n = 258)
+0	diabetes	insulin	NA	METHODS	Individuals aged 13-39 years with type 1 diabetes and fasting serum C-peptide levels <=0.2 pmol/ml were recruited between 1983 and 1989.
+0	diabetes	insulin	NA	METHODS	The primary cohort included participants with 1-5 years of diabetes, no pre-existing retinopathy, normal albuminuria (<40 mg/24 h) and stimulated C-peptide <=0.5 pmol/ml.
+0	diabetes	insulin	NA	METHODS	The secondary cohort included participants with 1-15 years of diabetes, pre-existing mild retinopathy, albumin excretion rate <200 mg/24 h and stimulated C-peptide <=0.5 and 0.2 pmol/ml for participants with diabetes duration 1-5 and 5-15 years, respectively [ESM Table 3].
+0	NA	insulin	NA	METHODS	Participants were randomly assigned to receive intensive or conventional insulin treatment and were monitored until 1993.
+0	NA	insulin	NA	METHODS	C-peptide levels were measured annually for up to 6 years in those with stimulated C-peptide >0.2 pmol/ml at eligibility testing
+0	diabetes	NA	NA	METHODS	CACTI was an observational, population-based study of individuals with type 1 diabetes of duration >10 years at enrolment.
+0	NA	NA	NA	METHODS	Participants were recruited from Denver, CO, USA, between March 2000 and April 2002.
+0	NA	insulin	NA	METHODS	Fasting serum C-peptide was measured during 2014-2016 ESM Table 3]
+0	diabetes	NA	NA	METHODS	This study recruited a cohort of individuals with incident, childhood-onset (<17 years of age) type 1 diabetes who were diagnosed or seen within 1 year of diagnosis (1950-1980) at the Children's Hospital of Pittsburgh.
+0	NA	NA	NA	METHODS	The first participant assessments occurred in 1986-1988.
+0	NA	insulin	NA	METHODS	Serum C-peptide was measured at follow-up year 25 [ESM Table 3].
+0	NA	NA	NA	METHODS	Participants were advised to fast for >=8 h, but 17% (n = 26) did not.
+0	NA	insulin	NA	METHODS	Of the participants who failed to fast, only 15% (n = 4) had detectable C-peptide (unpublished data, T. J. Orchard and T. Costacou)
+0	NA	NA	NA	METHODS	This was a cross-sectional study.
+0	insulin-treated diabetes	NA	NA	METHODS	All participants provided their original medical record or three forms of documentation of >=50 years of insulin-dependent diabetes and also resided in the USA at the time of participation.
+0	NA	insulin	NA	METHODS	Random serum C-peptide levels were measured and validated at the Northwest Lipid Research Laboratory at the University of Washington [ESM Table 3]
+0	diabetes	NA	NA	METHODS	People with diabetes who received primary care in an 11-county area in southern Wisconsin from 1979 to 1980 were recruited and subsequently followed for diabetic complications.
+0	NA	insulin	NA	METHODS	The participants were all younger-onset individuals who were diagnosed before 32 years of age and treated with insulin.
+0	NA	insulin	NA	METHODS	Random serum C-peptide levels were measured at years 4 and 10 of follow-up [ESM Table 3], with the most recent results used for analysis
+0	NA	NA	NA	METHODS	Genotyping was performed using Illumina 1M and HumanCoreExome BeadArrays (Illumina, San Diego, CA, USA) in the DCCT.
+0	NA	NA	NA	METHODS	Illumina HumanCoreExome BeadArrays were used for genotyping in the CACTI, EDC, Joslin 50-Year Medalist and WESDR studies.
+0	NA	NA	NA	METHODS	Ungenotyped autosomal SNPs were imputed using 1000 Genomes data (phase 3, v5) (see ESM Methods for more details)
+0	NA	insulin	NA	METHODS	Genotype dosage data from Illumina 1M BeadArrays were used to analyse stimulated C-peptide in the DCCT, as approximately 3 million more SNPs were imputed with good quality (INFO >=0.8); and genotype dosage data from HumanCoreExome BeadArrays were used for the remaining analyses in all studies.
+0	NA	NA	NA	METHODS	SNPs with minor allele frequency (MAF) >0.01 and high imputation quality (INFO >0.8 and R2 > 0.5 from IMPUTE2 and Minimac, respectively; see ESM Methods for software details) were included in the analysis
+0	NA	insulin	NA	METHODS	SNPs were tested for association with C-peptide (natural log transformed) under an additive genetic model using Tobit models to appropriately model the large number of participants with values at the lower limit of detection (ESM Table 3).
+0	NA	insulin	NA	METHODS	The Tobit model beta coefficient can be interpreted as the relationship between the genotype and the uncensored latent (unobserved) C-peptide variable.
+0	NA	NA	NA	METHODS	VGLM models from the VGAM library v0.9-7 were fitted using R v3.1.0.
+0	diabetes	NA	NA	METHODS	Sex, age at diagnosis and diabetes duration were included as covariates in the model.
+0	NA	insulin	NA	METHODS	For fasting C-peptide analysis in the DCCT, the cohort (primary vs secondary) was also included as a covariate in the model
+0	NA	insulin	NA	METHODS	Meta-GWAS analysis of stimulated C-peptide was performed using METAL v1.5 (www.sph.umich.edu/csg/abecasis/Metal/index.html) with the STDERR method, which weights effect-size estimates by the inverse of the corresponding SEs.
+0	NA	insulin	NA	METHODS	However, because C-peptide was measured using different assays in the different studies, and effect-size estimates and standard errors were in different units, the other meta-GWAS analyses used the SAMPLESIZE method, which converts the SNP association test p values to Z scores using the direction of effect, and combines Z scores across studies weighting by the study-specific sample size.
+0	NA	NA	NA	METHODS	Between-study heterogeneity was tested using Cochran's Q statistic.
+0	NA	NA	NA	METHODS	I2, which depends on Q, is used to quantity the level of heterogeneity among studies
+0	NA	insulin	NA	METHODS	To investigate whether the SNP associations differed between stimulated and fasting C-peptide in the DCCT, we used the Tobit model implementation in the Zelig v 4.2-1 library in R v3.1.0 to account for within-individual correlations of the two C-peptide measurements.
+0	diabetes	insulin	NA	METHODS	Sex, age at diagnosis, diabetes duration, cohort (primary vs secondary) and an indicator for fasting/stimulated C-peptide were included as covariates in the models.
+0	NA	NA	NA	METHODS	Heterogeneity was tested using an interaction between the fasting/stimulated indicator and SNP
+0	diabetes	NA	NA	METHODS	We investigated two sets of type 1 diabetes loci derived from Oram et al and Onengut-Gumuscu et al.
+1	diabetes	MHC	NA	METHODS	The study of Oram et al included robustly associated genetic variants in both MHC and non-MHC regions from published studies (n = 30 SNPs), whereas Onengut-Gumuscu et al included only non-MHC regions and was based on Immunochip data in >9000 participants with type 1 diabetes and >12,000 non-diabetic control participants with multiple independent variants in some loci (n = 51 SNPs) (see ESM Methods for details)
+0	diabetes	NA	NA	METHODS	We stratified SNPs according to the presence (n = 70 SNPs) or absence of a prior association with type 1 diabetes, and performed false discovery rate (FDR) control separately for each stratum using the stratified (S)FDR method
+1	NA	HLA	NA	METHODS	Classical HLA alleles, their amino acid sequences and additional SNPs in the MHC region were imputed using genotyped SNPs from Illumina 1M BeadArrays in DCCT and Illumina HumanCoreExome BeadArrays in the Joslin 50-Year Medalist, CACTI, WESDR and EDC studies; and SNP2HLA (http://software.broadinstitute.org/mpg/snp2hla).
+0	diabetes	NA	NA	METHODS	The Type 1 Diabetes Genetic Consortium (T1DGC) dataset (5196 unrelated individuals, including 4323 European participants: 182 participants with type 1 diabetes, 4101 control participants and 182 participants with missing case/control status) was used as the reference panel.
+1	NA	HLA	NA	METHODS	The T1DGC panel contains 5868 SNPs (genotyped using the Illumina Immunochip) and four-digit classical HLA types (HLA-A, -B, -C, -DPA1, -DPB1, -DQA1, -DQB1 and -DRB1)
+1	NA	HLA	NA	METHODS	Each of the classical HLA alleles, their amino acid sequences and SNPs in the MHC region were tested for associations with C-peptide, and combined through meta-analysis (as described above)
+0	NA	insulin	NA	METHODS	Associations of identified SNPs with repeated measures of stimulated C-peptide (natural log transformed) were tested under an additive genetic model using linear mixed models (random slope and random intercept) and first-order autoregressive AR(1) correlation structure in R v3.1.0.
+0	diabetes	NA	NA	METHODS	SNP, sex, age at diagnosis, diabetes duration at baseline, treatment group (intensive vs conventional), cohort (primary vs secondary), an indicator for baseline (vs later assessment), time (DCCT follow-up year), (centred time)2; and interactions between time and treatment, treatment and baseline, and SNP and time were included in the model.
+0	NA	insulin	NA	METHODS	Differences among SNP genotypes in the rate of C-peptide decline over time were investigated by hypothesis testing of SNP and time interaction
+0	NA	insulin	NA	RESULTS	Characteristics of the participants included in stimulated (n = 1303), fasting (n = 2019), random (n = 1497), and stimulated/fasting/random (n = 3479) C-peptide meta-GWAS are summarised in ESM Tables 4, 5.
+0	NA	insulin	NA	RESULTS	C-peptide distributions in different studies are shown in ESM Figs 1, 2
+1	NA	insulin	rs559047	TABLE	Association of rs559047 (Chr1: 238753916, T>A) with C-peptide in different studie
+0	diabetes	insulin	NA	FIG	 Stimulated/fasting/random C-peptide meta-GWAS, which includes stimulated C-peptide results from the DCCT primary cohort, the secondary cohort with diabetes duration 1-5 years and the secondary cohort with diabetes duration 5-15 years; fasting C-peptide results from the CACTI and EDC studies; and random C-peptide results from the Joslin 50-Year Medalist study and WESDR.
+0	NA	insulin	NA	FIG	The left y-axis shows SNP p values from the stimulated/fasting/random C-peptide meta-GWAS.
+0	NA	NA	NA	FIG	The right y-axis shows estimated recombination rates.
+0	NA	NA	NA	FIG	The x-axis shows SNP genomic position (Genome Reference Consortium Human Build 37 [GRCh37]/hg19); the LD measures are based on 1000 Genomes Nov 2014 EUR population.
+0	NA	NA	NA	FIG	The plot was created using LocusZoom (http://locuszoom.sph.umich.edu/locuszoom).
+0	NA	Chr	NA	FIG	Chr, chromosom
+1	NA	insulin	rs559047	RESULTS	In the stimulated/fasting/random C-peptide meta-GWAS, rs559047 on 1q53 (Chr1: 238753916, T>A) exceeded the genome-wide significance threshold (p < 5 x 10-8)(Fig.
+0	NA	NA	NA	RESULTS	1; ESM Figs 3, 4).
+0	NA	insulin	NA	RESULTS	The A allele was associated with lower C-peptide (p = 4.13 x 10-8).
+1	NA	insulin	rs559047	RESULTS	The direction of the rs559047 association with C-peptide was consistent in all studies (Table 1, Fig.
+0	NA	NA	NA	RESULTS	2)
+1	NA	HLA-A	NA	TABLE	Association of the top SNPs and the SNP tagging HLA-A*24 with stimulated C-peptide adjusted for fasting C-peptide and vice versa at DCCT eligibilit
+0	NA	insulin	NA	RESULTS	At DCCT eligibility, fasting and stimulated C-peptide levels were highly positively correlated (Spearman correlation coefficient 0.88, p < 0.0001).
+1	NA	insulin	rs559047	RESULTS	rs559047 was associated with both stimulated and fasting C-peptide at DCCT eligibility, but there was a significant difference in the association between stimulated and fasting C-peptide (p = 0.010), with a larger effect on stimulated compared with fasting C-peptide (-0.28 vs -0.13).
+1	NA	insulin	rs559047	RESULTS	The association of rs559047 with stimulated C-peptide remained significant after including fasting C-peptide in the model but not vice versa, suggesting that the rs559047 association with fasting C-peptide is indirect and due to its association with stimulated C-peptide (Table 2)
+1	NA	insulin	rs559047	RESULTS	rs559047 was not associated with the rate of decline in stimulated C-peptide over time using longitudinal DCCT data.
+0	NA	NA	NA	RESULTS	Characteristics of the participants included in the DCCT longitudinal data analysis are summarised in ESM Table 6
+1	NA	MHC	NA	RESULTS	Multiple variants in the MHC region were associated with different C-peptide measures.
+1	NA	insulin	rs3135002	RESULTS	In the stimulated/fasting/random C-peptide meta-GWAS, two loci in the MHC region, rs3135002 (Chr6:32668439) and rs9260151 (Chr6:29911030), approximately 2.8 Mb apart from each other, were close to genome-wide significance.
+1	NA	MHC	rs61211515	RESULTS	A single nucleotide deletion in the MHC region, rs61211515 (Chr6:30100975), had the lowest p value in the stimulated C-peptide meta-GWAS (Fig.
+0	NA	NA	NA	RESULTS	1; ESM Figs 3, 4).
+0	NA	NA	NA	RESULTS	Detailed results for these three loci follow
+1	NA	MHC	NA	TABLE	Association of SNPs in the MHC region with C-peptide in different studie
+0	diabetes	insulin	NA	FIG	 (a) Stimulated C-peptide meta-GWAS, which includes the DCCT primary cohort, the secondary cohort with diabetes duration 1-5 years and the secondary cohort with diabetes duration 5-15 years.
+1	NA	NA	rs61211515	FIG	Since rs61211515 (T/-) is an insertion/deletion (in/del) second-to-top hit, rs2074477, in high LD with rs61211515 (r2 0.89; D' 0.98) was used by LocusZoom for LD measures.
+0	NA	insulin	NA	FIG	(b) Fasting C-peptide meta-GWAS, which includes the DCCT, CACTI and EDC studies.
+0	NA	insulin	NA	FIG	(c) Random C-peptide meta-GWAS, which includes the Joslin 50-Year Medalist study and WESDR.
+0	diabetes	insulin	NA	FIG	(d) Stimulated/fasting/random C-peptide meta-GWAS, which includes stimulated C-peptide results from the DCCT primary cohort, the secondary cohort with diabetes duration 1-5 years and the secondary cohort with diabetes duration 5-15 years; fasting C-peptide results from the CACTI and EDC studies; and random C-peptide results from the Joslin 50-Year Medalist study and WESDR.
+0	NA	NA	NA	FIG	Left y-axis: SNP p values; right y-axis: estimated recombination rates; x-axis: SNP genomic position (Genome Reference Consortium Human Build 37 [GRCh37]/hg19); the LD measures are based on the 1000 Genomes November 2014 EUR population.
+0	NA	NA	NA	FIG	The plot was made using LocusZoom (http://locuszoom.sph.umich.edu/locuszoom/).
+0	NA	Chr	NA	FIG	Chr, chromosome; Rec, recombinatio
+1	NA	insulin	rs3135002	RESULTS	rs3135002 (C>A) exceeded the genome-wide significance threshold in the random C-peptide meta-GWAS (p = 3.49 x 10-8).
+0	NA	insulin	NA	RESULTS	The A allele was associated with higher random C-peptide in both the Joslin 50-Year Medalist study (beta [SE] = 0.44 [0.12], p = 3.22 x 10-4) and the WESDR (beta [SE] = 2.34 [0.54], p = 1.53 x 10-5).
+1	NA	insulin	rs3135002	RESULTS	rs3135002 was also associated with fasting C-peptide at DCCT eligibility (beta [SE] = 0.36 [0.13], p = 5.42 x 10-3).
+0	NA	insulin	NA	RESULTS	Although it was not associated with stimulated C-peptide in the DCCT (beta [SE] = 0.27 [0.15], p = 0.077), the effect was in the same direction; further, there was no significant difference between the fasting and stimulated C-peptide associations (p = 0.46).
+1	NA	insulin	rs3135002	RESULTS	rs3135002 was not associated with fasting C-peptide in the CACTI or EDC studies, and nor was it associated with the rate of stimulated C-peptide decline over time in the DCCT (p = 0.62) (Table 3, Fig.
+0	NA	NA	NA	RESULTS	3)
+1	NA	HLA-A	rs9260151	RESULTS	rs9260151 (C>T) is an intronic SNP within HLA-A.
+0	NA	insulin	NA	RESULTS	Its T allele was associated with higher C-peptide with a p value close to the genome-wide significance threshold in the stimulated/fasting/random C-peptide meta-GWAS (p = 8.43 x 10-8).
+0	NA	NA	NA	RESULTS	The direction of the effect was consistent in all studies (Table 3, Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	insulin	rs9260151	RESULTS	rs9260151 was associated with both stimulated and fasting C-peptide at DCCT eligibility but the effects were significantly different (p = 0.024), with a larger effect on stimulated compared with fasting C-peptide (0.34 vs 0.20).
+0	NA	insulin	NA	RESULTS	Its association with stimulated C-peptide remained significant after including fasting C-peptide in the model, but not vice versa (Table 2).
+0	NA	insulin	rs9260151	RESULTS	rs9260151 was not associated with differences in the rate of decline in stimulated C-peptide over time using longitudinal DCCT data
+1	NA	NA	rs9260151	RESULTS	rs9260151, rs3135002 and rs61211515 are in linkage disequilibrium (LD) (ESM Table 10).
+0	NA	insulin	NA	RESULTS	However, putting them in the same model, all three remained significantly associated with stimulated and fasting C-peptide at DCCT eligibility (ESM Table 11).
+1	NA	insulin	rs61211515	RESULTS	The likelihood ratio test comparing a model with no SNPs (only covariates in the model and stimulated C-peptide as the outcome) to a model with all three SNPs (rs61211515, rs9260151, rs3135002 and covariates) was strongly significant (p = 5.67 x 10-10)
+0	NA	HLA	NA	RESULTS	A total of 424 classical HLA alleles were imputed: 279 were polymorphic, and of them 252 had good imputation quality (R2 > 0.5) in the DCCT.
+0	NA	NA	NA	RESULTS	Similarly, 1136/1276 amino acid changes were polymorphic, and 1106 met imputation quality criteria.
+0	NA	NA	NA	RESULTS	A total of 7144/7261 SNPs were polymorphic and 7066 were imputed well (ESM Table 12).
+0	NA	HLA	NA	RESULTS	None of the HLA classical alleles or amino acid changes reached the genome-wide significant threshold in the meta-GWAS
+1	diabetes	insulin	rs1264813	RESULTS	Five type 1 diabetes risk loci were nominally associated (p < 0.05) with lower stimulated C-peptide at DCCT eligibility: rs1264813 tagging HLA-A*24 (beta [SE] = -0.34 [0.08], p = 2.80 x 10-5), rs151234 (IL27) (beta [SE] = -0.32 [0.08], p = 3.15 x 10-5), rs12971201 (PTPN2) (beta [SE] = -0.13 [0.05], p = 9.38 x 10-3), rs689 (INS) (beta [SE] = -0.18 [0.07], p = 0.011), and rs193778 (DEXI) (beta [SE] = -0.11 [0.06], p = 0.044).
+0	NA	insulin	NA	RESULTS	Association of these SNPs with fasting/random C-peptide in the other studies is shown in ESM Table 13
+0	diabetes	NA	NA	RESULTS	The SFDR method estimated the proportion of null SNPs (pi0) at 0.91 in the prior type 1 diabetes stratum vs 0.99 in the stratum of the remaining SNPs.
+0	diabetes	NA	NA	RESULTS	Setting an FDR control level of 20% yielded four test rejections for prior type 1 diabetes SNPs and no test rejections in the remaining SNPs.
+0	NA	NA	rs1264813	RESULTS	The FDR q value estimates were 0.001 for both rs1264813 and rs151234, and 0.17 for both rs12971201 and rs689.
+1	NA	insulin	rs61211515	RESULTS	SFDR ranked these four SNPs above rs61211515, the top associated SNP in the stimulated C-peptide meta-GWAS
+1	NA	HLA-A	rs1264813	RESULTS	The association of rs1264813 (HLA-A*24) with stimulated C-peptide at DCCT eligibility did not remain significant when rs61211515 (the top GWAS-associated SNP in this region) was included in the model (p = 0.45).
+1	NA	HLA-A	rs61211515	RESULTS	Similar results were observed with imputed HLA-A*24; it was associated with lower stimulated C-peptide at DCCT eligibility (beta [SE] = -0.39 [0.09], p = 1.50 x 10-5), but this association became insignificant after adjustment for rs61211515 (p = 0.09) (ESM Table 14).
+1	NA	HLA-A	rs1264813	RESULTS	rs1264813 (HLA-A*24) was also nominally associated with fasting C-peptide at DCCT eligibility (beta [SE] = -0.19 [0.07], p = 0.013) but its association with stimulated C-peptide was significantly stronger (p = 0.011).
+0	NA	insulin	rs1264813	RESULTS	The rs1264813 association with stimulated C-peptide remained significant when fasting C-peptide was included in the model but not vice versa (Table 2).
+0	NA	insulin	rs1264813	RESULTS	rs1264813 was also associated with an increased rate of decline in stimulated C-peptide over time in the DCCT (SNP-time interaction beta [SE] = -0.11 [0.04], p = 6.32 x 10-3)
+0	NA	NA	NA	RESULTS	HLA-DR3 (beta [SE] = 0.03 [0.06], p = 0.59) and HLA-DR4-DQ8 (beta [SE] = 0.06 [0.06], p = 0.29) were not associated with stimulated C-peptide at DCCT eligibility.
+0	NA	NA	NA	RESULTS	HLA-DR3/DR4-DQ8 compound heterozygotes had higher stimulated C-peptide compared with individuals having no copy of DR3 or DR4-DQ8 (beta [SE] = 0.26 [0.11], p = 0.024).
+0	NA	NA	NA	RESULTS	However, this association did not withstand multiple testing correction (ESM Table 15)
+0	diabetes	DQB1	NA	RESULTS	HLA-DQB1 position 57, HLA-DRB1 position 13 or HLA-DRB1 position 71 amino acid variants, which have been reported to independently drive type 1 diabetes risk and explain >90% of the type 1 diabetes-HLA association, were not associated with stimulated C-peptide at DCCT eligibility
+0	diabetes	insulin	NA	RESULTS	Of the two type 1 diabetes GRS, only the Onengut-Gumuscu et al type 1 diabetes GRS was nominally associated with lower stimulated C-peptide (beta [SE] = -0.09 [0.04], p = 0.036) at DCCT eligibility.
+0	NA	IL27	rs151234	RESULTS	This association did not remain significant after excluding rs151234 (IL27); beta [SE] = -0.07 [0.04], p = 0.085
+1	diabetes	insulin	rs559047	DISCUSS	By combining GWAS data from five type 1 diabetes studies including approximately 1300 individuals with stimulated and approximately 3500 individuals with stimulated, fasting or random C-peptide data, we identified association with a locus on chromosome 1 (rs559047) and multiple independent variants in the MHC region
+1	NA	ZP4	rs559047	DISCUSS	rs559047 is an intergenic SNP located 700 kb from the nearest gene (ZP4).
+0	pancreatic cancer	NA	NA	DISCUSS	It is not a significant cis-expression quantitative trait locus (cis-eQTL) for nearby genes in any tissue, including the pancreas (www.gtexportal.org, accessed 14 July 2017) or pancreatic islets (http://theparkerlab.org/tools/isleteqtl, accessed 14 July 2017).
+0	pancreatic cancer	NA	NA	DISCUSS	However, the cis-eQTLs were produced using a limited number of samples (149 and 112 for pancreas and islets, respectively) from non-diabetic individuals.
+1	insulin-treated diabetes	NA	rs559047	DISCUSS	rs559047 has not been associated with the risk of type 1 diabetes (ESM Table 16), and variants in this region have not previously been associated with type 1 diabetes related phenotypes
+0	diabetes	insulin	NA	DISCUSS	Some SNP associations for C-peptide in type 1 diabetes are different from those for type 1 diabetes.
+1	diabetes	MHC	rs559047	DISCUSS	Two of the identified variants (rs559047 on chromosome 1 and rs61211515 in the MHC region) have not been previously associated with type 1 diabetes; while rs9260151 and rs3135002 in the MHC region have been associated with type 1 diabetes.
+0	diabetes	insulin	NA	DISCUSS	The variants associated with C-peptide but not with type 1 diabetes may affect gene expression, and fine-mapping and functional studies are required to determine their effects.
+1	diabetes	insulin	rs61211515	DISCUSS	However, SFDR analysis suggests that the proportion of type 1 diabetes loci associated with C-peptide is greater than for the rest of the genome; four out of 70 type 1 diabetes loci (HLA-A*24, IL27, INS and PTPN2) that were nominally associated with lower C-peptide levels ranked higher than rs61211515, the top associated SNP in the stimulated C-peptide meta-GWAS.
+0	diabetes	insulin	NA	DISCUSS	Nevertheless, the composition and magnitude of SNP effects for type 1 diabetes development vs progression could differ, explaining why there is no significant association between type 1 diabetes GRS and C-peptide
+0	insulin-treated diabetes	insulin	NA	DISCUSS	Some limitations include that only fasting/random C-peptide measurements were available for about 60% of individuals, whereas stimulated C-peptide is more appropriate to evaluate insulin secretion in type 1 diabetes.
+0	diabetes	insulin	NA	DISCUSS	In addition, individuals from different cohorts were quite different in terms of their age at diagnosis, diabetes duration and other inclusion/exclusion criteria, all of which may influence C-peptide levels.
+0	NA	insulin	NA	DISCUSS	C-peptide can also be measured with different methods with different lower limits of detection, and these were not standardised among the studies.
+0	diabetes	NA	NA	DISCUSS	The mean age at diagnosis ranged from 8.3 years in the EDC study to 21.2 years in the DCCT, and the mean type 1 diabetes duration ranged from 5.6 years in the DCCT to 54.7 years in the Joslin 50-Year Medalist study.
+0	diabetes	insulin	NA	DISCUSS	Participants from the DCCT, the only study with stimulated C-peptide data, were highly selected as they were diagnosed with type 1 diabetes later in life and had diabetes for a shorter period of time.
+0	NA	insulin	NA	DISCUSS	Therefore, the DCCT had a larger proportion of participants with detectable C-peptide compared with the other studies.
+0	NA	NA	NA	DISCUSS	This heterogeneity among the cohorts might have reduced the power of the analysis and contributed to non-replication at specific loci
+1	NA	MHC	NA	DISCUSS	In conclusion, we have identified a locus on chromosome 1 and multiple variants in the MHC region that are associated with C-peptide levels.
+0	NA	NA	NA	DISCUSS	However, these associations need to be validated in independent populations.
+0	NA	NA	NA	DISCUSS	Further investigations could eventually provide insight into mechanisms of beta cell loss and opportunities to preserve beta cell function
+0	NA	NA	NA	ABBR	All named authors affirm that authorship is merited based on the International Committee of Medical Journal Editors (ICMJE) authorship criteria.
+0	NA	NA	NA	ABBR	DR designed the study, researched data and wrote the manuscript.
+0	NA	MGP	NA	ABBR	RG-K, SBB, AJC, MGP, GLK, HAK, JKS-B, DMM, RK, BEKK, TJO, TC, MNW and RAO contributed to the data analysis and interpretation of the results, and reviewed/edited the manuscript.
+0	NA	NA	NA	ABBR	ADP designed the study, researched data, contributed to the discussion and reviewed/edited the manuscript.
+0	NA	NA	NA	ABBR	All authors approve the final version to be published.
+0	NA	MGP	NA	ABBR	ADP is the guarantor of this work related to the DCCT/EDIC as well as the whole meta-GWAS; MGP, GLK and HAK are the guarantors of this work related to the Joslin 50-Year Medalist study; JKS-B and DMM are the guarantors of this work related to the CACTI study; RK and BEKK are the guarantors of this work related to the WESDR; and TJO and TC are the guarantors of this work related to the EDC study
+0	diabetes	NA	NA	ACK_FUND	Industry contributors have had no role in the DCCT/EDIC study but have provided free or discounted supplies or equipment to support participants' adherence to the study: Abbott Diabetes Care (Alameda, CA, USA), Animas (Westchester, PA, USA), Bayer Diabetes Care (Tarrytown, NY, USA), Becton Dickinson (Franklin Lakes, NJ, USA), Eli Lilly (Indianapolis, IN, USA), Extend Nutrition (St Louis, MO, USA), Insulet Corporation (Bedford, MA, USA), LifeScan (Milpitas, CA, USA), Medtronic Diabetes (Minneapolis, MN, USA), Nipro Home Diagnostics (Ft Lauderdale, FL, USA), Nova Diabetes Care (Billerica, MA, USA), Omron (Shelton, CT, USA), Perrigo Diabetes Care (Allegan, MI, USA), Roche Diabetes Care (Indianapolis, IN, USA) and Sanofi (Bridgewater, NJ, USA).
+0	diabetes	NA	NA	ACK_FUND	The DCCT/EDIC has been supported by cooperative agreement grants (1982-1993 and 2012-2017) and contracts (1982-2012) with the Division of Diabetes Endocrinology and Metabolic Diseases of the NIDKK (current grant nos.
+0	Neurological and Communication Disorders	NA	NA	ACK_FUND	U01-DK-094176 and U01-DK-094157) and through support by the National Eye Institute, the National Institute of Neurologic Disorders and Stroke, the General Clinical Research Centers Program (1993-2007), and Clinical Translational Science Center Program (2006-present), Bethesda, MD, USA
+0	NA	NA	NA	ACK_FUND	The Joslin 50-Year Medalist study is supported by the NIDDK (P30DK036836, UL1 RR025758-03, R24 DK083957-01, DP3 DK094333-01, 1DP3DK112192-01), JDRF (17-2013-310) and contributions from Mr. T. Beatson (Beatson Foundation, Phoenix, AZ, USA) and the many participants
+0	NA	NA	NA	ACK_FUND	Support for CACTI was provided by National Heart, Lung, and Blood Institute grants R01 HL113029, HL61753, HL79611, and HL113029, DERC Clinical Investigation Core P30 DK57516 and JDRF grant 17-2013-313.
+0	diabetes	CTRC	NA	ACK_FUND	The study was performed at the Adult CTRC at University of Colorado Denver, CO, USA supported by NIH-M01-RR00051 and CTSA Grant UL1 TR001082, at the Barbara Davis Center for Childhood Diabetes and at the Colorado Heart Imaging Center (Denver, CO, USA).
+0	NA	NA	NA	ACK_FUND	JKS-B was supported by an ADA Career Development Award (7-13-CD-50)
+0	NA	NA	NA	ACK_FUND	The WESDR was supported by grant R01EY016379 and NIH R01EY03083 from the National Eye Institute, NIH, and an unrestricted grant from Research to Prevent Blindness (New York, NY, USA)
+0	NA	NA	NA	ACK_FUND	The EDC study was supported by NIH grant R01-DK34818 and the Rossi Memorial Fund
+0	NA	NA	NA	ACK_FUND	Funding for genotyping by Illumina 1M in DCCT was provided by NIH R01DK-077510 and genotyping by HumanCoreExome in all studies was provided by JDRF grant 17-2013-9
+0	NA	NA	NA	ACK_FUND	DR was partly supported by a fellowship award from the Canadian Institutes of Health Research Strategic Training for Advanced Genetic Epidemiology (STAGE)
+0	NA	NA	NA	ACK_FUND	The study sponsor was not involved in the design of the study; the collection, analysis, and interpretation of data; writing the report; or the decision to submit the report for publication
+0	NA	NA	NA	SUPPL	DCCT data are available to authorised users at https://repository.niddk.nih.gov and www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000086.v3.p1.
+0	NA	NA	NA	SUPPL	For Joslin 50-Year Medalist, CACTI, WESDR and EDC studies, the data are available on request from the authors
+0	NA	NA	NA	COMP_INT	The authors declare that there is no duality of interest associated with this manuscript

@@ -1,0 +1,156 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	Although type 2 diabetes (T2D) results from metabolic defects in insulin secretion and insulin sensitivity, most of the genetic risk loci identified to date relates to insulin secretion.
+0	insulin deficiency	insulin	NA	ABSTRACT	We reported that T2D loci influencing insulin sensitivity may be identified through interactions with insulin secretion loci, thereby leading to T2D.
+0	insulin deficiency	NA	NA	ABSTRACT	Here, we hypothesize that joint testing of variant main effects and interaction effects with an insulin secretion locus increases power to identify genetic interactions leading to T2D.
+1	insulin deficiency	MTNR1B	rs10830963	ABSTRACT	We tested this hypothesis with an intronic MTNR1B SNP, rs10830963, which is associated with acute insulin response to glucose (AIRg), a dynamic measure of insulin secretion.
+1	NA	NA	rs10830963	ABSTRACT	rs10830963 was tested for interaction and joint (main + interaction) effects with genome-wide data in African Americans (2,452 cases and 3,772 controls) from five cohorts.
+0	NA	NA	NA	ABSTRACT	Genome-wide genotype data (Affymetrix HumanGenome 6.0 array) was imputed to a 1000 Genomes Project reference panel.
+1	NA	NA	rs10830963	ABSTRACT	T2D risk was modeled using logistic regression with rs10830963 dosage, age, sex, and principal component as predictors.
+0	NA	NA	NA	ABSTRACT	Joint effects were captured using the Kraft 2 degree-of-freedom test.
+1	NA	MTNR1B	rs17197883	ABSTRACT	Genome-wide significant (P<5x10-8) interaction with MTNR1B and joint effects were detected for CMIP intronic SNP rs17197883 (Pinteraction=1.43x10-8; Pjoint=4.70x10-8).
+1	NA	CMIP	NA	ABSTRACT	CMIP variants have been nominally associated with T2D, fasting glucose, and adiponectin in individuals of East Asian ancestry, with high density lipoprotein (HDL), and with waist-to-hip ratio (WHR) adjusted for body mass index (BMI) in Europeans.
+0	insulin deficiency	insulin	NA	ABSTRACT	These data support the hypothesis that additional genetic factors contributing to T2D risk, including insulin sensitivity loci, can be identified through interactions with insulin secretion loci
+0	Type 2 diabetes	NA	NA	INTRO	Type 2 diabetes (T2D), a disease twice as prevalent in African Americans compared to European Americans, is characterized by elevated plasma glucose resulting from loss of glucose homeostasis through beta cell dysfunction impacting insulin secretion and impaired insulin sensitivity.
+0	beta-cell deficiency	NA	NA	INTRO	Genome-wide association studies (GWAS) have identified over 120 T2D loci with the biological basis for most of these loci assumed to be related with beta cell dysfunction
+0	insulin deficiency	insulin	NA	INTRO	We hypothesized that T2D risk loci, particularly those loci affecting insulin sensitivity, could be identified by interaction analyses with insulin secretion loci.
+0	insulin deficiency	NA	NA	INTRO	This hypothesis was based on physiological observations that strongly suggest non-additive interaction between insulin secretion deficits and insulin resistance resulting in T2D.
+0	atherosclerotic	insulin	NA	INTRO	To test this hypothesis, a single nucleotide polymorphism (SNP) associated with acute insulin response to glucose (AIRg) in samples from African American in the Insulin Resistance Atherosclerosis Family Study (IRASFS) were analyzed for genome-wide interactions contributing T2D risk in a pooled cohort of African Americans
+0	NA	NA	NA	INTRO	Interaction analysis based solely on significance of interaction terms presents power challenges for identifying interacting loci.
+1	insulin deficiency	MTNR1B	rs10830963	INTRO	In this report, we extend genome-wide interaction analysis by incorporating both main and interaction effects in a two degree-of-freedom joint test to search for variants with marginal effects as well as interacting with the intronic insulin secretion variant rs10830963 in MTNR1B, a genetic variant powerfully associated with AIRg (P=1.20x10-5 in a study of 492 African American individuals examining association with 247,870 variants from an exome microarray) and fasting glucose (P=9.29x10-15 in 20,209 African Americans), to increase T2D risk in African Americans.
+0	NA	NA	NA	INTRO	This approach is more powerful than 1 degree-of-freedom tests when both marginal and interaction effects exist.
+0	obese	insulin	NA	INTRO	Considering the higher prevalence rate of T2D, insulin resistance, and obesity with strong genetic predisposition, African Americans are optimal for the study of genetic interactions that contribute to T2D risk
+0	NA	NA	NA	METHODS	A pooled cohort of African Americans was created from five cohorts.
+0	atherosclerotic	NA	NA	METHODS	Participants included African American participants from the Atherosclerosis Risk in Communities study (ARIC; n=820 T2D cases, 371 controls), the Coronary Artery Risk Development in Young Adults study (CARDIA; n=94 T2D cases, 652 controls), the Jackson Heart Study (JHS; n=244 T2D cases, 1,089 controls), the Multi-Ethnic Study of Atherosclerosis (MESA; n=404 T2D cases, 773 controls), and the Wake Forest School of Medicine study (WFSM; n=890 T2D cases, 887controls) cohorts.
+0	NA	NA	NA	METHODS	Inclusion and exclusion criteria for T2D cases and controls have previously been described.
+0	diabetes	insulin	NA	METHODS	Briefly, T2D was diagnosed according to the American Diabetes Association criteria with at least one of the following: fasting glucose >=126 mg/dL, 2-h oral glucose tolerance test glucose >=200 mg/dL, random glucose >=200 mg/dL, use of oral hypoglycemic agents and/or insulin, or physician diagnosed diabetes.
+0	NA	NA	NA	METHODS	Subjects diagnosed before 25 years of age were excluded.
+0	diabetes	NA	NA	METHODS	Normal glucose tolerance was defined as fasting glucose <100 mg/dL and 2-h oral glucose tolerance test glucose <140 mg/dL (if available) without reported use of diabetes medications or clinically diagnosed diabetes.
+0	NA	NA	NA	METHODS	Controls <25 years of age were excluded
+0	glucose homeostasis traits	NA	NA	METHODS	Glucose homeostasis traits were measured by the frequently sampled intravenous glucose tolerance test (FSIGT).
+0	NA	insulin	NA	METHODS	Briefly, a 50% glucose solution (0.3g/kg) and regular human insulin (0.03units/kg) were injected intravenously at 0 and 20 minutes, respectively.
+0	NA	insulin	NA	METHODS	Blood was collected at -5, 2, 4, 8, 19, 22, 30, 40, 50, 70, 100, and 180 minutes for measurement of plasma glucose and insulin.
+0	NA	insulin	NA	METHODS	AIRg was calculated as the increase in insulin at 2-8 minutes above the basal (fasting) insulin level after the bolus glucose injection at 0-1 minute
+0	NA	NA	NA	METHODS	Genotyping and quality control for the IRASFS samples were performed using the Illumina Infinium HumanExome BeadChip v1.0 as previously described.
+0	NA	NA	NA	METHODS	The exome chip contained 247,870 variants (92% protein coding).
+0	insulin deficiency	NA	NA	METHODS	In addition, the chip included 64 SNPs associated with T2D from previous GWAS in Europeans, many of which have been implicated in insulin secretion (exome chip design: http://genome.sph.umich.edu/wiki/Exome_Chip_Design).
+0	NA	NA	NA	METHODS	Sample and autosomal SNP call rates were >=99%, and SNPs with poor cluster separation (<0.35) were excluded
+0	NA	NA	NA	METHODS	For the ARIC, CARDIA, JHS, MESA, and WFSM cohorts, samples were genotyped on the Affymetrix Genome-Wide Human SNP Array 6.0.
+0	NA	NA	NA	METHODS	Genotyping and quality control were completed by the National Heart, Lung, and Blood Institute's (NHLBI's) Candidate Gene Association Resource (CARe) at the Broad Institute for all cohorts excluding WFSM.
+0	NA	NA	NA	METHODS	Genotyping for the WFSM study was performed at the Center for Inherited Disease Research (CIDR).
+0	NA	NA	NA	METHODS	In a pooled analysis of all studies, pre-phasing was performed using SHAPEIT2 and imputation was performed using IMPUTEv2 to obtain missing genotypes and replace genotypes inconsistent with reference haplotypes.
+0	NA	NA	NA	METHODS	SNPs with call rate >=95%, minor allele frequency (MAF) >=1%, and Hardy-Weinberg Equilibrium P <1x10-4 that passed study-specific quality control were used for imputation.
+0	NA	NA	NA	METHODS	The 1000 Genomes Project cosmopolitan reference panel (Phase I Integrated Release Version 3, March 2012) was used as reference.
+0	NA	NA	NA	METHODS	A total of 9,085,034 autosomal SNPs with MAF >=5% and imputation quality (INFO) >=0.5 were included in subsequent data analyses
+0	NA	NA	NA	METHODS	To account for the effect of population structure on genetic association in these African American samples, principal components analysis (PCA) was computed for all samples collectively using genotyped SNPs that passed quality control standards after exclusion of regions of high linkage disequilibrium (LD) and inversions.
+0	NA	PC1	NA	METHODS	To adjust for population substructure, the first PC (PC1) was used as a covariate in all analyses
+0	NA	NA	NA	METHODS	Potential relatedness was assessed in the combined analysis of WFSM, ARIC, CARDIA, JHS, and MESA using identity-by-descent (IBD) performed in PLINK.
+0	NA	NA	NA	METHODS	A total of 1065 duplicates (pi-hat >0.9) and first-degree relatives were removed according to sample call rate and phenotype to retain only unique unrelated subjects for analysis.
+0	NA	NA	NA	METHODS	Samples reflecting low call rate, gender mismatch, or population outliers were also excluded.
+0	NA	NA	NA	METHODS	After cleaning, a total of 2,452 T2D cases and 3,772 controls remained for analysis
+0	insulin deficiency	insulin	NA	METHODS	Primary inferences of association with insulin secretion were derived from African American participants (n=492 individuals from 42 families) in the Insulin Resistance Atherosclerosis Family Study (IRASFS), a metabolically well-characterized cohort
+1	NA	NA	rs10830963	METHODS	Logistic regression with T2D as the outcome was modeled including genetic main and gene x gene interaction effects as well as rs10830963 dosage, age, sex, and principal component covariates for all samples.
+0	NA	NA	NA	METHODS	One additional model was computed to additionally adjust for body mass index (BMI).
+1	NA	MTNR1B	rs10830963	METHODS	Y is the log odds of T2D, S is the dosage for the MTNR1B SNP rs10830963, G is the dosage of the imputed variant, and C is the vector of all remaining covariates.
+1	NA	NA	rs10830963	METHODS	Both the rs10830963 and imputed variant dosages were additively coded with values between 0 and 2.
+0	NA	beta-2	NA	METHODS	The ProbABEL package from the GenABEL suite of programs (http://www.genabel.org/) was used to calculate the genetic main effect beta2, the interaction effect beta3, and the corresponding robust standard errors and covariance used to construct the 2x2 covariance matrix for the Kraft test.
+0	NA	beta3	NA	METHODS	Hypothesis testing included a Wald test statistic following a chi-squared distribution with 1 degree-of-freedom under the null H0:beta3 = 0, as well as the Kraft test statistic following a chi-squared distribution with 2 degrees-of-freedom under the null H0:beta2 = 0, beta3 = 0.
+0	NA	NA	NA	METHODS	Test statistics and corresponding p-values were calculated in the statistical computing environment R
+1	insulin deficiency	MTNR1B	rs10830963	RESULTS	A genome-wide interaction analysis with intronic insulin secretion SNP (rs10830963 in MTNR1B) was performed to detect interactions affecting T2D risk.
+0	NA	NA	NA	RESULTS	The combined analysis included African American subjects from the ARIC, CARDIA, JHS, MESA, and WFSM studies.
+0	NA	NA	NA	RESULTS	Characteristics of study participants by cohort are presented in Table 1.
+0	NA	NA	NA	RESULTS	The percentage of male subjects was modestly increased (+2.6%) among control subjects compared to T2D cases across studies.
+0	NA	NA	NA	RESULTS	The percentage of male subjects was highest (47.0%) among MESA T2D cases and lowest (19.1%) among CARDIA T2D cases.
+0	NA	NA	NA	RESULTS	On average, T2D cases were 10.2 years older than controls across studies.
+0	NA	NA	NA	RESULTS	The average older age for cases across all studies is driven by the average older age for cases in the WFSM study (15.1 years).
+0	T2DM-ESRD	NA	NA	RESULTS	WFSM includes cases with both T2D and end-stage renal disease (ESRD) with age at T2D diagnosis preceding age at ESRD diagnosis by an average of 16.4 years.
+0	NA	NA	NA	RESULTS	Healthy controls (i.e.
+0	T2DM-ESRD	NA	NA	RESULTS	no T2D or ESRD diagnosis) from WFSM were on average 9.5 years older than the age of T2D diagnosis of cases.
+0	T2DM-ESRD	NA	NA	RESULTS	The ascertainment method of selecting cases with a long duration of T2D before ESRD diagnosis and selecting controls 10 years older than the age of T2D diagnosis in cases was employed to capture the largest possible sample to specifically examine the genetic determinants of T2D-ESRD and resulted in a larger age difference between cases and controls than observed in other cohorts included in this study.
+0	NA	NA	NA	RESULTS	The average age of controls in this study was 51.1 years (Table 1) and controls <25 years of age were excluded.
+0	NA	NA	NA	RESULTS	Thus, misclassification of controls with undiagnosed T2D cases is unlikely.
+0	NA	NA	NA	RESULTS	MESA T2D cases had the highest mean age (67.6 years) while CARDIA controls had the lowest mean age (38.2 years), reflecting the differences in ascertainment ages between the cohorts.
+0	NA	NA	NA	RESULTS	Average BMI was 1.7 kg/m2 higher in T2D cases compared to controls across studies.
+0	NA	NA	NA	RESULTS	Highest mean BMI (34.5 kg/m2) was reported in JHS T2D cases and lowest mean BMI (27.6 kg/m2) was reported in ARIC controls.
+0	NA	NA	NA	RESULTS	A detailed description of each study is provided in the Supplementary Methods
+1	NA	MTNR1B	rs10830963	RESULTS	The variant rs10830963 (MTNR1B) was selected to test for genome-wide gene-gene interactions based on the prior association with AIRg (P=1.20x10-5) and fasting glucose (P=9.39x10-15) in African Americans.
+1	NA	NA	rs10830963	RESULTS	In this study, the AIRg and fasting glucose-lowering allele of rs10830963, G, had a frequency of 7.06% and was not associated with T2D in single variant association analysis (odds ratio [OR]=1.09; P=0.76).
+1	NA	NA	rs10830963	RESULTS	Genome-wide interactions with rs10830963 were tested by logistic regression modeled with T2D as the outcome and including genetic main and gene-gene interaction effects as well as rs10830963 dosage, age, sex, and principal component covariates in all samples.
+0	NA	NA	NA	RESULTS	A secondary model adjusting for all prior covariates plus BMI was computed.
+0	NA	NA	NA	RESULTS	Both interaction and joint effects were analyzed.
+0	NA	NA	NA	RESULTS	Interaction and joint tests, with and without adjustment for BMI, were interrogated for genomic inflation through estimation of lambda values.
+0	NA	NA	NA	RESULTS	Lambda values ranged from 1.019 to 1.062.
+0	NA	NA	NA	RESULTS	The quantile-quantile plots with corresponding lambda values for each hypothesis test are presented in Supplementary Figure 1 and show adequate control for inflation.
+0	NA	NA	NA	RESULTS	The most significant results (PJOINT <5x10-6) of this analysis are presented in Table 2.
+0	NA	NA	NA	RESULTS	The effect allele, other allele, and effect allele frequency for variants in Table 2 are presented in Supplementary Table 1
+0	NA	NA	NA	RESULTS	Figure 1 shows a comparison of main effect P-values from a single-SNP association model adjusted for age, sex, and principal component covariates (X-axis) and joint effect P-values from the interaction model (Y-axis).
+0	NA	NA	NA	RESULTS	The line of identity in this figure represents equal power for the univariate association model SNP main effect hypothesis test and the interaction model joint hypothesis test.
+0	NA	NA	NA	RESULTS	Similarly, Figure 2 shows the same comparison for 20 SNPs indexing established T2D loci which exhibit trans-ethnic transferability (locus-wide P<0.05, SNP P<1x10-3) in the Meta-analysis of T2D in African Americans (MEDIA) consortium
+1	NA	TCF7L2	rs7903146	RESULTS	The most significant joint association was with TCF7L2 intronic SNP rs7903146 (PJOINT=5.47x10-11), with another TCF7L2 intronic SNP, rs34872471, attaining genome-wide significance (PJOINT=3.36x10-8).
+1	NA	NA	rs7903146	RESULTS	Neither rs7903146 (PINTXN=0.31) nor rs34872471 (PINTXN=0.99) exhibited a significant association with the interaction effect alone.
+1	NA	CMIP	rs17197883	RESULTS	A novel association was observed with the CMIP intronic SNP rs17197883 (PJOINT=4.70x10-8, PINTXN=1.43x10-8).
+1	NA	NA	rs17197883	RESULTS	In this study, the rs17197883 T2D effect allele, C, had a frequency of 10.90% and was not associated with T2D in single variant association analysis of pooled samples (OR=1.07; P=0.19).
+1	NA	MTNR1B	rs10830963	RESULTS	However, when samples were stratified by rs10830963 (MTNR1B) AIRg-lowering allele carriers versus non-carriers, we observed a suggestively significant opposite effect in both groups.
+1	NA	NA	rs17197883	RESULTS	rs17197883 exhibited a T2D risk effect in carriers (OR=2.29, P=7.64x10-6) and a protective effect in non-carriers (OR=0.78, P=8.00x10-4), suggesting an antagonistic pattern of interaction (Table 3).
+0	NA	NA	NA	RESULTS	In general, observed associations were robust to adjustment for BMI (Table 2)
+1	NA	WRB	NA	RESULTS	Additional SNPs in loci (e.g., WRB) exhibited a nominal association (PJOINT<5x10-6) in joint tests of marginal and interaction effects.
+0	NA	NA	NA	RESULTS	The majority of these loci were well-supported with multiple SNPs showing evidence of nominally significant association as shown in Figure 3.
+0	NA	NA	NA	RESULTS	The association of these SNPs is driven, for the most part, by the interaction effect.
+1	NA	MTNR1B	rs10830963	RESULTS	The most significantly associated SNP in prior interaction analysis with the MTNR1B SNP rs10830963 in HapMap imputed data, rs7277627 at the LCA5L locus (PINTXN=1.65x10-6), replicated in this study (PJOINT=5.46x10-6).
+0	NA	LCA5L	rs2223028	RESULTS	However, the use of a denser imputation panel (i.e., 1000 Genomes Project) provided the identification the SNP at the LCA5L locus, rs2223028, that exhibited stronger evidence of association (PJOINT=4.44x10-6)
+1	insulin deficiency	MTNR1B	rs10830963	DISCUSS	A genome-wide analysis of interaction and joint effects with MTNR1B intronic insulin secretion SNP rs10830963 resulting in risk of T2D revealed significant associations at two loci, TCF7L2 and CMIP.
+1	NA	TCF7L2	rs7903146	DISCUSS	The strongest joint association was with TCF7L2 intronic SNP rs7903146.
+1	NA	NA	rs7903146	DISCUSS	Association with rs7903146 has been replicated in numerous African American studies suggesting that it is a key genetic determinant in development of T2D.
+0	NA	NA	NA	DISCUSS	Palmer et al.
+1	NA	TCF7L2	rs7903146	DISCUSS	reported that rs7903146 is likely the causal variant contributing T2D susceptibility at the TCF7L2 locus using a resequencing approach.
+1	NA	NA	rs7903146	DISCUSS	However, rs7903146 was not associated with fasting glucose in African Americans.
+0	NA	NA	NA	DISCUSS	The lack of interaction effect in the current study suggests that the joint signal is driven by marginal (i.e., additive) genetic effects
+1	NA	CMIP	rs17197883	DISCUSS	The strongest novel association was with CMIP intronic SNP rs17197883 (PJOINT=4.70x10-8, PINTXN=1.43x10-8).
+0	NA	adiponectin	rs56823429	DISCUSS	Variants at this locus have previously been associated with HDL cholesterol (rs56823429, P=2x10-8), adiponectin levels (rs12051272, P=6x10-48), and WHR adjusted for BMI (rs2925979, P=7x10-13) in populations of European (EUR) descent and adiponectin levels (rs2925979, P=2x10-10), fasting glucose (rs16955379, P=0.03), and T2D (rs16955379, P=3x10-7) in populations of East Asian (EAS) descent.
+1	NA	CMIP	rs17197883	DISCUSS	All of the previously described variants at the CMIP locus are in weak LD with rs17197883 (r2<0.2).
+1	NA	NA	rs17197883	DISCUSS	There is no surrogate SNPs in high LD (r2 > 0.6 in 1000 Genomes AFR population) with rs17197883, In addition, rs17197883 did not reside in a regulatory region and did not regulate nearby gene expression by HaploReg analysis.
+1	NA	NA	rs10830963	DISCUSS	Interestingly, the frequency of the rs10830963 AIRg-lowering allele (G) is much higher in these populations compared to African Americans (AfA) (EAS=42%, EUR=29%, AfA=7%).
+1	NA	CMIP	rs10830963	DISCUSS	Thus, associations of SNPs at the CMIP locus with T2D and biomarkers related to insulin resistance in individuals of EUR and EAS descent may reflect an underlying interaction with rs10830963 that is partially unmasked in these populations.
+1	NA	CMIP	rs17197883	DISCUSS	In IRASFS, neither previously reported SNPs in the CMIP region nor the interacting SNP rs17197883 showed evidence of association with measures of insulin sensitivity, adiponectin levels, WHR adjusted for BMI, nor fasting glucose.
+1	NA	CMIP	rs2925979	DISCUSS	However, 2 previously reported SNPs at the CMIP locus, rs2925979 (P=0.02) and rs56823429 (P=0.009), and the interacting SNP rs17197883 (P=0.002) were nominally associated with HDL cholesterol in IRASFS Hispanics.
+1	NA	CMIP	rs17197883	DISCUSS	The interacting CMIP variant, rs17197883, was not associated with T2D in the current study in a model adjusted for age, sex, and PC1 (P=0.19)
+0	NA	NA	NA	DISCUSS	This study was conducted to explore the impact of three methodological additions to an analysis model focused solely on the interaction term.
+0	NA	NA	NA	DISCUSS	First, after observing homogeneity in genetic effects across cohorts in a prior study, we pooled (as opposed to meta-analyzed) samples from five African American T2D studies.
+0	NA	NA	NA	DISCUSS	Sung et al.
+0	NA	NA	NA	DISCUSS	suggested that results from pooled analysis and meta-analysis for main, interaction, and joint effects are largely consistent.
+1	NA	NA	rs17197883	DISCUSS	Notably, we detected an interaction P-value reaching genome-wide significance (rs17197883, PINTXN=1.43x10-8) in a pooled analysis, which is an order of magnitude smaller compared to the most significant P-value (rs16924460, PINTXN=1.70x10-7) in our previous meta-analyzed study.
+0	NA	NA	NA	DISCUSS	However, it is difficult to assess the impact of pooling samples due to additional methodological differences.
+0	NA	NA	NA	DISCUSS	For example, additional quality control identified some samples that were duplicated or had other quality control issues
+0	NA	NA	NA	DISCUSS	Second, we used genotype data imputed to a 1000 Genomes Project phase 1 reference panel.
+0	NA	NA	NA	DISCUSS	Compared to the HapMap reference panel previously used for imputation, the 1000 Genomes Project panel provides greater coverage of common variation and facilitates overall improvement of imputation quality.
+0	NA	NA	NA	DISCUSS	This expanded genotype data allowed for analysis of 9,085,034 autosomal SNPs with MAF >5% in our study cohorts, compared to 2,907,086 autosomal SNPs with a MAF >1% in the prior analysis.
+0	NA	NA	NA	DISCUSS	The MAF threshold was increased in the current study to overcome the inherent power loss and potential for false positives for interaction analyses incorporating a low frequency exposure
+0	NA	NA	NA	DISCUSS	Finally, in addition to hypothesis testing of the interaction term in our models, this analysis incorporates the Kraft 2 degree-of-freedom test to jointly analyze marginal and interaction effects.
+0	NA	NA	NA	DISCUSS	This joint test allows for the detection of variants with both additive and non-additive effects contributing to T2D risk.
+1	insulin deficiency	MTNR1B	rs10830963	DISCUSS	The skew toward more significant joint effect P-values in Figure 1 suggests that genome-wide interaction analysis with a well-defined insulin secretion variant (e.g., MTNR1B SNP rs10830963) incorporating a 2 degrees-of-freedom hypothesis test is a powerful approach for detection of novel T2D risk loci.
+0	NA	NA	NA	DISCUSS	In this figure, 3,435,184 out of 9,085,034 (37.8%) SNPs had a more significant joint effect P-value compared to the main effect P-value from an association model excluding the interaction term.
+1	NA	TCF7L2	NA	DISCUSS	The SNPs in TCF7L2 fall below the line of identity on the main effect axis, while the CMIP SNP, plus many others fall above the line of identity, thus comparing power between the two tests.
+0	insulin deficiency	NA	NA	DISCUSS	These results suggest that established T2D loci, originally identified by strong SNP main effects in a typical univariate association analysis and largely involved in insulin secretion biology themselves, are not likely candidates for interaction with insulin secretion loci.
+0	NA	NA	NA	DISCUSS	Alternatively, these established T2D loci, primarily discovered in European populations, do not exhibit strong SNP main effects in African American populations and may have a limited interaction effect to impact association with T2D
+0	NA	NA	NA	DISCUSS	To analyze performance of the joint test for known T2D loci, we compared main and joint effect P-values for the most significant African American SNP at 20 established T2D loci that exhibited trans-ethnic transferability in MEDIA.
+0	NA	NA	NA	DISCUSS	Figure 2 shows that SNPs from 3 loci, IGF2-INS-TH, SLC11A2, and HMGA2, had a more significant joint effect P-value compared to the main effect P-value.
+0	NA	NA	NA	DISCUSS	This result combined with the observation from Figure 1 suggests that the joint test is a powerful approach for detection of novel T2D loci, but a typical association model may be more powerful for established loci
+0	NA	NA	NA	DISCUSS	This study has limitations.
+1	NA	NA	rs10830963	DISCUSS	To validate these findings, genome-wide interactions with rs10830963 associated with T2D must be replicated in additional studies, including studies of other ethnicities.
+0	NA	NA	NA	DISCUSS	Additionally, we did not account for gene-environment interactions which may account for T2D risk.
+0	NA	NA	NA	DISCUSS	Interactions with or stratified analysis of sex, age, BMI, and age at diagnosis may be appropriate in follow-up studies.
+0	NA	NA	NA	DISCUSS	It is also important to note that statistical interaction does not imply biological interaction, as the statistical interaction may be mediated through multiple biological factors.
+0	NA	NA	NA	DISCUSS	However, statistical interaction may revealed novel loci which may not have strong marginal effect
+0	insulin deficiency	NA	NA	DISCUSS	In summary, the present findings demonstrate that analysis of physiologically defined genome-wide interactions with variants strongly associated with insulin secretion is a potentially powerful approach for discovery of novel T2D loci and for expanding the knowledgebase of disease etiology.
+0	NA	NA	NA	DISCUSS	A similar approach examining interactions with variants associated with key biomarkers may be of wider relevance in other complex human diseases.
+0	NA	NA	NA	DISCUSS	Results highlight the need for further study of genetic variation underlying T2D risk in African Americans as a means to improve our overall understanding of this disease
+0	NA	NA	NA	FIG	A comparison of P-values from association and interaction models.
+0	NA	NA	NA	FIG	The X-axis represents negative logarithm transformed P-values from the 1 degree-of freedom hypothesis test of SNP main effects from the univariate association model not including the interaction term, the Y-axis represents negative logarithm transformed P-values from the 2 degree-of freedom joint hypothesis test of SNP main and interaction effects from the interaction model, and the line of identity represents equal power between the 2 tests.
+0	NA	NA	NA	FIG	Each point represents p-values for a genomic SNP depending upon the model
+0	NA	NA	NA	FIG	A comparison of P-values from association and interaction models for established T2D loci exhibiting transferability in African Americans.
+0	NA	NA	NA	FIG	In this figure, the X-axis represents negative logarithm transformed P-values from the 1 degree-of freedom hypothesis test of SNP main effects from the univariate association model not including the interaction term, the Y-axis represents negative logarithm transformed P-values from the 2 degree-of freedom joint hypothesis test of SNP main and interaction effects from the interaction model, and the line of identity represents equal power between the 2 tests.
+0	NA	NA	NA	FIG	Each point represents p-values for a trans-ethnic transferrable SNP depending upon the model
+0	NA	NA	NA	FIG	Manhattan plot of results from the 2 degree-of-freedom test.
+0	NA	NA	NA	FIG	Top line denotes genome-wide significance at P < 5x10-8.
+0	NA	NA	NA	FIG	Second line denotes suggestive significance at P < 5x10-
+0	Type 2 diabetes	NA	NA	TABLE	Descriptive characteristics of African American cases with type 2 diabetes and controls
+1	Type 2 diabetes	MTNR1B	rs10830963	TABLE	Top signals (PJOINT<5x10-6) from the 2 degree-of-freedom test with the MTNR1B SNP rs10830963 interaction effect and the marginal SNP effect regressed on T2D risk in pooled analysis of ARIC, CARDIA, JHS, MESA, and WFSM African American cases with type 2 diabetes and controls
+1	NA	CMIP	rs17197882	TABLE	Association of CMIP variant rs17197882 with T2D stratified by MTNR1B genotyp

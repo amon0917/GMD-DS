@@ -1,0 +1,200 @@
+0	diabetes	TBC1D4	NA	ABSTRACT	In a recent study using a standard additive genetic model, we identified a TBC1D4 loss-of-function variant with a large recessive impact on risk of type 2 diabetes in Greenlanders.
+0	diabetes	NA	NA	ABSTRACT	The aim of the current study was to identify additional genetic variation underlying type 2 diabetes using a recessive genetic model, thereby increasing the power to detect variants with recessive effects
+0	NA	B99	NA	ABSTRACT	We investigated three cohorts of Greenlanders (B99, n = 1401; IHIT, n = 3115; and BBH, n = 547), which were genotyped using Illumina MetaboChip.
+0	diabetes	NA	NA	ABSTRACT	Of the 4674 genotyped individuals passing quality control, 4648 had phenotype data available, and type 2 diabetes association analyses were performed for 317 individuals with type 2 diabetes and 2631 participants with normal glucose tolerance.
+0	NA	NA	NA	ABSTRACT	Statistical association analyses were performed using a linear mixed model
+1	diabetes	ITGA1	rs870992	ABSTRACT	Using a recessive genetic model, we identified two novel loci associated with type 2 diabetes in Greenlanders, namely rs870992 in ITGA1 on chromosome 5 (OR 2.79, p = 1.8 x 10-8), and rs16993330 upstream of LARGE1 on chromosome 22 (OR 3.52, p = 1.3 x 10-7).
+1	NA	LARGE1	NA	ABSTRACT	The LARGE1 variant did not reach the conventional threshold for genome-wide significance (p < 5 x 10-8) but did withstand a study-wide Bonferroni-corrected significance threshold.
+0	diabetes	NA	NA	ABSTRACT	Both variants were common in Greenlanders, with minor allele frequencies of 23% and 16%, respectively, and were estimated to have large recessive effects on risk of type 2 diabetes in Greenlanders, compared with additively inherited variants previously observed in European populations
+0	NA	NA	NA	ABSTRACT	We demonstrate the value of using a recessive genetic model in a historically small and isolated population to identify genetic risk variants.
+0	diabetes	NA	NA	ABSTRACT	Our findings give new insights into the genetic architecture of type 2 diabetes, and further support the existence of high-effect genetic risk factors of potential clinical relevance, particularly in isolated populations
+0	NA	NA	NA	ABSTRACT	The Greenlandic MetaboChip-genotype data are available at European Genome-Phenome Archive (EGA; https://ega-archive.org/) under the accession EGAS00001002641
+0	NA	NA	NA	ABSTRACT	The online version of this article (10.1007/s00125-018-4659-2) contains peer-reviewed but unedited supplementary material, which is available to authorised users
+0	diabetes	NA	NA	INTRO	Numerous genome-wide association studies (GWAS) have been performed to identify genetic factors predisposing to type 2 diabetes.
+0	Type 2 diabetes	NA	NA	INTRO	These studies, mainly performed in European and Asian populations, have identified around 120 genetic variants associated with risk of type 2 diabetes
+0	diabetes	NA	NA	INTRO	Until now, GWAS of type 2 diabetes and glycaemic traits have almost exclusively been performed using an additive genetic model.
+0	NA	NA	NA	INTRO	This model, however, has limited statistical power to detect associations with variants displaying recessive effects, unless the effect is very large.
+0	diabetes	NA	NA	INTRO	Recently, a GWAS of type 2 diabetes in up to 4040 individuals with type 2 diabetes and 116,246 participants without diabetes from the UK Biobank applied a dominance deviation model to identify non-additive association signals.
+0	diabetes	CDKAL1	NA	INTRO	Although no novel signals were identified, the paper reported a recessive effect on risk of type 2 diabetes at the previously identified CDKAL1 locus, which is in concordance with the findings from the original discovery.
+0	diabetes	NA	NA	INTRO	Importantly, given the effective sample size of around 15,300, this study lacked statistical power to exclude the possibility that additional alleles with recessive effects predispose to type 2 diabetes in European populations
+0	diabetes	NA	NA	INTRO	We previously demonstrated the existence of a high-impact type 2 diabetes risk allele with predominately recessive effect in the Greenlandic population, despite using an additive genetic model in the discovery analysis.
+0	NA	TBC1D4	NA	INTRO	Notably, however, this TBC1D4 loss-of-function variant was discovered via analyses of a type 2 diabetes-related trait, 2 h plasma glucose, on which it had an extremely large effect, and not via analyses of type 2 diabetes.
+0	diabetes	NA	NA	INTRO	Indeed, the study in which that variant was discovered had very limited statistical power to detect variants with recessive effects on type 2 diabetes unless they were very frequent and had very large effects.
+0	diabetes	NA	NA	INTRO	Here, we aimed to identify additional variants with recessive effects on risk of type 2 diabetes in the Greenlandic population by applying a recessive genetic model to an increased number of Greenlandic samples with type 2 diabetes information
+0	NA	B99	NA	METHODS	The Greenlandic study sample comprised individuals from two cohorts selected as part of a general population health survey of the Greenlandic population during the periods 1999-2001 (B99, n = 1401) and 2005-2010 (Inuit Health in Transition (IHIT), n = 3115) and from a cohort of Greenlanders living in Denmark on whom information was collected during 1998-1999 (BBH, n = 547).
+0	NA	B99	NA	METHODS	There was an overlap of individuals (n = 295) between the IHIT and B99 cohorts, and these were assigned to B99.
+0	NA	NA	NA	METHODS	Of the 4674 genotyped individuals who passed quality control, 4648 had phenotype data available.
+0	NA	NA	NA	METHODS	The characteristics of the three cohorts are shown in electronic supplementary material (ESM) Table 1.
+0	NA	NA	NA	METHODS	All participants gave informed consent, and the study was approved by the Commission for Scientific Research in Greenland (project 2011-13, ref.
+0	NA	NA	NA	METHODS	no.
+0	NA	NA	NA	METHODS	2011-056978; and project 2013-13, ref.
+0	NA	NA	NA	METHODS	no.
+0	NA	NA	NA	METHODS	2013-090702), and conducted in accordance with the ethical standards of the Declaration of Helsinki, second revision
+0	obese	NA	NA	METHODS	Yup'ik samples for quantitative trait replication came from the Center for Alaska Native Health Research (CANHR), which performs studies related to genetic, behavioural, and nutritional risk factors for obesity and cardiometabolic diseases among Yup'ik people in a community-based setting.
+0	NA	NA	NA	METHODS	Recruitment of Yup'ik families was initiated in 2003 and continues in 11 Southwest Alaska communities, where all residents are invited to participate, resulting in a convenience sample.
+0	NA	NA	NA	METHODS	The present study sample comprised 1059 non-pregnant Yup'ik individuals aged 14 years or above at the time of enrolment.
+0	NA	NA	NA	METHODS	All participants signed informed consent documents, and the study protocols were approved by the Institutional Review Boards of the University of Alaska and the National and Alaska Area Indian Health Service Institutional Review Boards, as well as the Yukon Kuskokwim Health Corporation Human Studies Committee
+0	diabetes	NA	NA	METHODS	Additional replication analyses were performed on up to 23,776 Danish samples from the Inter99 study (n = 4947) (CT00289237, ClinicalTrials.gov), from Health2006-Health2010 studies (n = 4776), from the Danish study of Functional Disorders (DanFunD; n = 6004), from the Vejle Diabetes Biobank (n = 6266), and from the Steno Diabetes Center Copenhagen (n = 1783).
+0	NA	NA	NA	METHODS	Characteristics of the cohorts have previously been published.
+0	NA	NA	NA	METHODS	The studies were approved by the appropriate Regional Ethical Committees and were performed in accordance with the scientific principles of the Helsinki Declaration, second revision
+0	NA	NA	NA	METHODS	The Greenlandic participants underwent an OGTT in which blood samples were drawn after an overnight fast and after 2 h during a 75 g OGTT.
+0	NA	insulin	NA	METHODS	Plasma glucose levels were analysed using a Hitachi 912 system (Roche Diagnostics, Indianapolis, IN, USA), serum insulin with an immunoassay excluding des-31,32 split products and intact proinsulin (AutoDELFIA; PerkinElmer, Waltham, MA, USA), and HbA1c by ion-exchange HPLC (G7 [Tosoh Bioscience, Tokyo, Japan] for IHIT samples; VARIANT [Bio-Rad, Hercules, CA, USA] for B99 samples).
+0	NA	NA	NA	METHODS	The thickness of visceral and subcutaneous adipose tissue was measured according to a validated protocol using a portable ultrasound scanner (Pie Medical, Maastricht, the Netherlands) with a 3.5 MHz transducer.
+0	NA	NA	NA	METHODS	Serum cholesterol, HDL-cholesterol and triacylglycerol concentrations were measured using enzymatic calorimetric techniques (Hitachi 917, Roche Molecular Biochemicals, Indianapolis, IN, USA).
+0	NA	NA	NA	METHODS	LDL-cholesterol concentration was calculated according to Friedewald's formula.
+0	NA	insulin	NA	METHODS	Insulin resistance was estimated by either: (1) HOMA-IR, calculated as [fasting glucose level (mmol/l) x fasting insulin (pmol/l)/6.945]/22.5; or (2) the insulin sensitivity index, ISI(0,120), calculated as [(75,000 + [fasting glucose (mmol/l) x (18 - 2 h glucose [mmol/l]) x 18] x 0.19 x weight [kg])/120] / ([fasting glucose (mmol/l) + 2 h glucose (mmol/l)]/2) / log([fasting insulin (pmol/l)/6.945] + [2 h insulin (pmol/l)/6.945]/2), where log is the natural logarithm
+0	NA	NA	NA	METHODS	In the CANHR Yup'ik study population, blood samples were collected after an overnight fast.
+0	NA	insulin	NA	METHODS	Insulin was measured with a radioimmunoassay applying an 125I-iodinated insulin tracer, anti-human insulin-specific antibody and human insulin standards from Linco Research (Winchester, VA, USA).
+0	NA	NA	NA	METHODS	The Poly-Chem System Chemistry Analyzer (Polymedco, Courtlandt Manor, NY, USA) was applied to measure HDL-cholesterol, total cholesterol and triacylglycerols.
+0	NA	NA	NA	METHODS	Fasting blood glucose was measured on a Cholestech LDX analyser (Cholestech, Hayward, CA, USA), and glycosylated haemoglobin was measured on a Bayer HbA1c DCA 2000+ analyser (Bayer, Leverkusen, Germany)
+0	NA	NA	NA	METHODS	In the Danish samples, plasma glucose was measured by the glucose oxidase method (Granutest; Merck, Darmstadt, Germany)
+0	diabetes	NA	NA	METHODS	In the Greenlandic and Danish cohorts, type 2 diabetes was defined based on self-reported type 2 diabetes, fasting plasma glucose level >7 mmol/l, or 2 h plasma glucose during an OGTT >11.1 mmol/l.
+0	NA	NA	NA	METHODS	Control individuals were normal glucose tolerant with a fasting plasma glucose <6.1 mmol/l and 2 h plasma glucose during an OGTT <7.8 mmol/l
+0	cardiovascular disease	NA	NA	METHODS	The Greenlandic samples were genotyped using Illumina MetaboChip (Illumina, San Diego, CA, USA), which contains 196,725 SNPs potentially related to metabolic, cardiovascular or anthropometric traits.
+0	NA	NA	NA	METHODS	Details about the genotyping procedure and quality control have previously been described.
+0	NA	B99	NA	METHODS	In total, 4674 individuals (IHIT, 2791; B99, 1336; BBH, 547) and 115,182 SNPs passed the quality control
+0	NA	NA	NA	METHODS	Detailed descriptions of the genotyping procedures and data cleaning of CANHR Yup'ik samples have also previously been published.
+0	NA	NA	NA	METHODS	Briefly, we used the Illumina Linkage IV panel to genotype 6090 SNPs spanning the entire genome, with an average genetic distance of 0.58 cM.
+0	NA	NA	NA	METHODS	A total of 5632 autosomal SNPs from this Linkage IV panel passed the quality control.
+0	NA	NA	NA	METHODS	These SNPs were used to obtain ancestry information for the statistical analysis.
+0	NA	NA	NA	METHODS	Additionally, genotyping of SNPs for replication was performed by the KASPar Genotyping assay (LGC Genomics, Hoddesdon, UK)
+0	NA	NA	NA	METHODS	The Danish samples were genotyped by the Illumina Infinium OmniExpress-24 v1.1 array.
+0	NA	NA	NA	METHODS	Genotypes were called by the Illumina GenCall algorithm, and variants with a call rate <98% and Hardy-Weinberg equilibrium p < 1 x 10-5 were removed.
+0	NA	NA	NA	METHODS	Samples were excluded if they were ethnic outliers, had a mismatch between genetic and phenotypic sex or had a call rate <95%.
+0	NA	NA	NA	METHODS	Genotype data were imputed using the Haplotype Reference Consortium (HRC) reference panel v1.1 at the Michigan imputation server using MiniMac3 v2.0.1 (https://genome.sph.umich.edu/wiki/Minimac3) after phasing with Eagle2 v2.4 (https://data.broadinstitute.org/alkesgroup/Eagle/).
+0	NA	NA	NA	METHODS	Post-imputation filtering of SNPs excluded variants with a minor allele frequency (MAF) <0.01 and info score <0.70
+0	diabetes	NA	NA	METHODS	To assess the statistical power of an additive and a recessive model-based test to detect association to a variant with recessive effect, we performed a range of simulations of data from a locus with a type 2 diabetes effect allele.
+0	diabetes	NA	NA	METHODS	For each of 540 combinations of effect allele frequencies (EAFs; EAF values 0.05, 0.1, 0.15, 0.2, 0.25 and 0.3) and effect sizes (ORs ranging from 1.1 to 10 with a step size of 0.1), we simulated first genotypes for n individuals and then their diabetes status based on these genotypes.
+0	diabetes	NA	NA	METHODS	For the simulation of type 2 diabetes status, we assumed a baseline risk of type 2 diabetes of 0.1, which we used to randomly simulate diabetes status for all individuals who were not homozygous carriers of the effect allele.
+0	diabetes	NA	NA	METHODS	For homozygous carriers of the effect allele, we simulated the diabetes status while taking both the baseline risk and the effect size into account.
+0	NA	NA	NA	METHODS	For each combination of EAF and OR, we performed 20,000 simulations, and finally, to estimate the power for the additive and the recessive model-based tests, we tested for association using logistic regression assuming each of these models, and estimated power as the proportion of tests that gave a p value <4.3 x 10-7 (the Bonferroni-corrected significance threshold of this study; see below for details).
+0	diabetes	NA	NA	METHODS	We performed the power simulations for 2948 individuals to reflect the number of individuals with type 2 diabetes information available in this study
+0	NA	NA	NA	METHODS	For analyses of association in the Greenlanders, we used a linear mixed model, implemented in GEMMA software v0.96 (http://www.xzlab.org/).
+0	NA	NA	NA	METHODS	This model controls for admixture and relatedness between individuals as random effects via a genetic similarity matrix, which we estimated using GEMMA.
+0	NA	NA	NA	METHODS	This control is needed because the Greenlandic population is admixed with ancestry from both Inuit and Europeans.
+0	NA	NA	NA	METHODS	With this model, we achieved an acceptable genomic inflation factor (lambda = 1.009; ESM Fig.
+0	NA	NA	NA	METHODS	1).
+0	NA	NA	NA	METHODS	In the discovery analyses, we used a recessive genetic model and applied a study-wide significance threshold of p = 4.3 x 10-7 corresponding to a Bonferroni correction for analysing 115,182 SNPs.
+0	NA	NA	NA	METHODS	In all the association analyses, we analysed data combined from the three cohorts and included sex, age and cohort as covariates.
+0	NA	NA	NA	METHODS	Prior to performing the association tests, quantitative traits were quantile-transformed to a standard normal distribution within each sex and each cohort.
+0	NA	NA	NA	METHODS	Therefore, for quantitative traits, effect sizes are reported as beta in SD units (95% CI) in the text, and additionally as trait units in tables, obtained from association analyses on raw trait values.
+0	diabetes	NA	NA	METHODS	Effect sizes for association with type 2 diabetes are reported as ORs in the text, and were obtained from logistic regression analyses adjusted for age, sex and ten principal components.
+0	NA	NA	NA	METHODS	We estimated the effect sizes for the Inuit and European ancestry components using logistic regression also adjusted for age, sex and ten principal components with asaMap (https://github.com/ANGSD/asaMap, accessed 1 August 2017) based on the estimated admixture proportions
+0	NA	NA	NA	METHODS	The Yup'ik cohort was also analysed using GEMMA software.
+0	NA	NA	NA	METHODS	Here, however, the genetic similarity matrix required for the association analysis was not estimated using GEMMA, as we did in our analyses of the Greenlanders, but was instead calculated using the genotype data from the linkage panel merged with the additional genotypes of the SNPs genotyped for this study
+0	diabetes	NA	NA	METHODS	In the Danish data, association analyses of type 2 diabetes were carried out by logistic regression adjusting for age, sex and the first ten principal components.
+0	NA	NA	NA	METHODS	These analyses were performed on imputed genotype data, taking genotype uncertainty into account, applying the expected count test in SNPTEST v2.5.2 (https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html)
+0	NA	NA	NA	METHODS	For the SNPs of interest, we estimated allele frequencies for each of the Inuit and European ancestry components of the Greenlandic population using a two-step approach.
+0	NA	NA	NA	METHODS	In step 1, we estimated ancestry proportions for the Greenlandic study individuals as well as 50 Danish individuals.
+0	NA	NA	NA	METHODS	To do this, we applied ADMIXTURE v1.3.0 (https://www.genetics.ucla.edu/software/admixture/) to all the SNP data from these individuals, assuming two ancestral populations:Inuit and Europeans.
+0	NA	NA	NA	METHODS	In step 2, we estimated ancestral allele frequencies with CIs for each SNP separately using bootstrap with replacement.
+0	NA	NA	NA	METHODS	We used 1000 bootstrap samples of individuals and, based on each, we performed maximum likelihood estimation of the allele frequencies, using the likelihood from ADMIXTURE with the ancestry proportions fixed to the estimates obtained in step 1.
+0	NA	NA	NA	METHODS	The CIs were based on the quantiles of these bootstrap estimates
+0	NA	NA	NA	METHODS	In CANHR Yup'ik samples, allele frequencies for the SNPs of interest were estimated using the Mendel program v16 (https://www.genetics.ucla.edu/software/mendel)
+0	diabetes	NA	NA	METHODS	Additive genetic model GWAS results were queried online: type 2 diabetes results from the DIAGRAM Consortium (DIAbetes Genetics Replication And Meta-analysis; http://diagram-consortium.org), glycaemic trait results from MAGIC (the Meta-Analyses of Glucose and Insulin-related traits; www.magicinvestigators.org), anthropometric trait results from the GIANT Consortium (Genetic Investigation of Anthropometric Traits; http://portals.broadinstitute.org/collaboration/giant/index.php/GIANT_consortium), and lipid results from GLGC (Global Lipids Genetics Consortium; http://lipidgenetics.org)
+0	allergy	v4.1	NA	METHODS	To investigate whether the associated variants were causal, RegulomeDB (http://www.regulomedb.org/, accessed 10 January 2018) and HaploReg v4.1 (http://archive.broadinstitute.org/mammals/haploreg/haploreg.php) were applied to assess possible co-localisation of the genetic variants with regulatory elements, such as transcription factor binding sites, promoter regions and regions of DNAase hypersensitivity.
+0	NA	NA	NA	METHODS	We also used data from the GTEx Consortium available online to investigate associations between genetic variants and RNA expression (www.gtexportal.org; accessed 27 January 2018).
+0	NA	NA	NA	METHODS	All 48 tissues with more than 70 samples were queried.
+0	NA	NA	NA	METHODS	Sample sizes ranged from 80 to 388.
+0	NA	NA	NA	METHODS	Results were only available for an additive genetic model
+1	diabetes	ITGA1	rs870992	FIG	Association results with type 2 diabetes for those SNPs on the MetaboChip that are located in a 2 Mb region around the lead SNPs: (a) rs870992 in ITGA1, and (b) rs16993330 near LARGE1.
+0	NA	NA	NA	FIG	Each SNP in the region is represented by a circle whose colour indicates the extent of correlation (r2) between the SNP and the lead SNP, which is shown in red.
+0	NA	NA	NA	FIG	The position of the circle along the x-axis shows the genomic position of the SNP.
+0	diabetes	NA	NA	FIG	The position of the circle along the left y-axis shows the -log10 (p) value of the SNP when testing for association with type 2 diabetes as determined using a recessive model.
+0	NA	NA	NA	FIG	The solid blue line illustrates the recombination rate from the Chinese HapMap Phase III panel (www.sanger.ac.uk/resources/downloads/human/hapmap3.html).
+0	NA	NA	NA	FIG	The protein-coding genes in the genetic region are shown below the plo
+0	diabetes	NA	NA	TABLE	Variants on MetaboChip associated with type 2 diabetes in Greenlanders under a recessive genetic mode
+0	diabetes	NA	NA	RESULTS	We analysed association with type 2 diabetes for 317 individuals with type 2 diabetes and 2631 participants with normal glucose tolerance.
+0	diabetes	NA	NA	RESULTS	Using a recessive genetic model on these Greenlandic data, we identified three loci associated with type 2 diabetes below the study-wide Bonferroni-corrected significance threshold (p < 4.3 x 10-7) (ESM Fig.
+0	NA	NA	NA	RESULTS	1).
+1	NA	TBC1D4	rs870992	RESULTS	Besides the previously described TBC1D4 locus, these comprised two novel loci, namely the common intron variant rs870992 in ITGA1 on chromosome 5 (MAF 23%, OR 2.79, p = 1.8 x 10-8) and the common intergenic variant rs16993330 approximately 25 kb upstream of LARGE1 on chromosome 22 (MAF 16%, OR 3.52, p = 1.3 x 10-7) (Fig.
+0	NA	NA	NA	RESULTS	1, Table 1).
+1	NA	LARGE1	NA	RESULTS	However, the LARGE1 variant did not reach the conventional threshold for genome-wide significance (p < 5 x 10-8).
+0	diabetes	NA	NA	RESULTS	Similar associations with type 2 diabetes were observed when adjusting for BMI (data not shown)
+1	Type 2 diabetes	ITGA1	rs870992	FIG	Frequency of type 2 diabetes among Greenlanders stratified by the genotypes of (a) ITGA1 rs870992 and (b) LARGE1 rs16993330.
+0	NA	NA	NA	FIG	The superimposed hatched areas represent effect sizes and the error bars represent SE.
+0	NA	NA	NA	FIG	The effect sizes and SEs were estimated using a linear mixed model with no assumptions of inheritance mode.
+0	diabetes	NA	NA	FIG	Frequencies were calculated in the subset of individuals included in the type 2 diabetes case-control stud
+0	NA	NA	NA	RESULTS	The Greenlandic population is admixed with ancestry from both Inuit and Europeans.
+1	NA	ITGA1	rs870992	RESULTS	Interestingly, the estimated EAF were considerably higher in the Inuit ancestry component for ITGA1 rs870992 (31%) and for LARGE1 rs16993330 (19%), than in the European ancestry component among Greenlanders (3% and 7%, respectively) and in European populations (Table 1, ESM Table 2).
+0	NA	NA	NA	RESULTS	The allele frequencies found in Europeans were so low that homozygous carriers were almost absent.
+1	diabetes	ITGA1	NA	RESULTS	The novel variants in ITGA1 and LARGE1 had a high impact on risk of type 2 diabetes in Greenlanders, evident by the estimated effect sizes (Table 1) and by the higher frequency of type 2 diabetes among homozygous carriers compared with non-carriers (24.9% and 28.9% vs 10%; Fig.
+0	NA	NA	NA	RESULTS	2).
+0	diabetes	NA	NA	RESULTS	To gain further insights into the effect of the identified loci, we also performed type 2 diabetes association analyses of these assuming an additive model (Table 1).
+0	NA	NA	NA	RESULTS	This led to low p values as well, although none of them was low enough to pass the Bonferroni-corrected significance threshold (p < 4.3 x 10-7).
+0	NA	NA	NA	RESULTS	Based on genetic data and functional annotation analyses facilitated by in silico tools, we were unable to determine whether the identified variants were causal
+1	NA	ITGA1	rs870992	TABLE	Association of ITGA1 rs870992 and LARGE1 rs16993330 with quantitative metabolic traits in Greenlanders under a recessive genetic mode
+0	NA	NA	NA	RESULTS	Next, to elucidate the diabetes-related mechanisms underlying the association of the novel variants, we analysed diabetes-related traits in individuals without diabetes from the Greenlandic cohorts with a recessive genetic model.
+1	NA	ITGA1	rs870992	RESULTS	Homozygous carriers of ITGA1 rs870992 had nominally increased HbA1c levels (beta = 0.13 SD [95% CI 0.027, 0.23], p = 0.012) (Table 2).
+1	NA	LARGE1	rs16993330	RESULTS	For LARGE1 rs16993330, the underlying physiological mechanism seems to be linked to increased fat accumulation, indicated by higher levels of visceral adipose tissue (0.29 SD [95% CI 0.076, 0.50], p = 0.0078), larger hip circumference (0.22 SD [95% CI 0.048, 0.40], p = 0.013) and waist circumference (0.21 SD [95% CI 0.041, 0.38], p = 0.015) and higher BMI (0.18 SD [95% CI 0.0046, 0.35], p = 0.045) (Table 2).
+1	NA	LARGE1	rs16993330	RESULTS	Furthermore, homozygous LARGE1 rs16993330 carriers had increased insulin resistance, indicated by higher levels of fasting serum insulin (0.22 SD [95% CI 0.027, 0.41], p = 0.026) and HOMA-IR (0.24 SD [95% CI 0.048, 0.44], p = 0.014), and lower levels of the ISI (-0.21 SD [95% CI -0.016, -0.41], p = 0.034) (Table 2).
+0	NA	NA	NA	RESULTS	We then performed the analyses of the same quantitative diabetes-related traits with an additive model and obtained similar results (ESM Table 3)
+1	NA	ITGA1	NA	RESULTS	We subsequently attempted to validate our findings in another Arctic indigenous population by genotyping the ITGA1 and LARGE1 variants in 1059 Alaska Native Yup'ik.
+0	NA	NA	NA	RESULTS	However, none of the potential associations with diabetes-related quantitative traits were replicated in this smaller sample (ESM Table 4), and analysis of type 2 diabetes was precluded due to the low number of participants with diabetes.
+0	diabetes	NA	NA	RESULTS	A second line of replication was attempted in a Danish sample of 5220 individuals with type 2 diabetes and 18,556 control participants.
+0	diabetes	NA	NA	RESULTS	However, we did not observe an association with type 2 diabetes using a recessive model (ESM Table 2).
+1	NA	ITGA1	rs870992	RESULTS	In addition, the results of a dominance deviance model GWAS of European UK Biobank samples showed no significant rejection of the additive model for either ITGA1 rs870992 or LARGE1 rs16993330 (p = 0.54 and p = 0.36, respectively) based on 117,775 individuals.
+1	diabetes	ITGA1	rs870992	RESULTS	We also queried the two variants from the available summary data from a recent additive genetic model GWAS of type 2 diabetes and found that the ITGA1 rs870992 G allele was nominally associated with increased risk of type 2 diabetes, whereas no effect was observed for LARGE1 rs16993330 (ESM Table 5).
+1	NA	ITGA1	rs870992	RESULTS	Additionally, queries of results from GWAS of other traits revealed associations of the ITGA1 rs870992 G allele with increased total cholesterol and LDL-cholesterol levels, and nominal associations of the LARGE1 rs16993330 A allele with increased total cholesterol and triacylglycerol levels (ESM Table 5).
+0	NA	NA	NA	RESULTS	Owing to the possible inflation of the test statistics, we also included the quantile of p values for the significant tests in ESM Table 5
+1	NA	ITGA1	NA	RESULTS	Finally, we queried RNA expression data available online as part of the GTEx project (www.gtexportal.org/) under the hypothesis that the newly identified variants in ITGA1 and LARGE1 could change the expression of regional genes.
+1	NA	ITGA1	rs870992	RESULTS	Here we observed that the type 2 diabetes-associated ITGA1 rs870992 G allele was associated with increased ITGA1 RNA expression in nerve, pancreas and smooth muscle tissue in up to 361 samples, albeit with modest p values (p < 0.0001).
+1	NA	LARGE1	NA	RESULTS	No expression quantitative trait loci (eQTL) associations were found for LARGE1 rs16993330
+0	diabetes	NA	NA	DISCUSS	Using a recessive genetic model, we investigated the association between markers on MetaboChip and type 2 diabetes in a Greenlandic study population.
+1	diabetes	TBC1D4	NA	DISCUSS	Besides the established TBC1D4 locus, we identified a novel genome-wide significant variant for risk of type 2 diabetes in ITGA1, and a variant near LARGE1 showing a suggestive association.
+1	NA	LARGE1	NA	DISCUSS	Additional analyses of diabetes-related quantitative traits indicated that the LARGE1 variant might increase the risk of type 2 diabetes through accumulation of visceral fat and increased insulin resistance, whereas these analyses provided no clues to the mechanistic link underlying the ITGA1 association.
+1	NA	ITGA1	NA	DISCUSS	This study demonstrates the value of using the correct genetic model for identification of disease-associated variants, which is also supported by simulations showing that, for example, for a recessive effect allele with a frequency of 0.25 and an OR of 3 (similar to the ITGA1 variant), the power under an additive model is less than 20% whereas the power under a recessive model is around 80% (ESM Fig.
+0	NA	NA	NA	DISCUSS	2).
+0	diabetes	NA	NA	DISCUSS	Moreover, under a wide range of EAF and ORs, the recessive model has markedly higher statistical power to detect variants with recessive effects associated with type 2 diabetes
+1	NA	ITGA1	NA	DISCUSS	A possible link between the ITGA1 locus and altered glucose regulation is supported by studies of type 2 diabetes-related traits.
+1	NA	PELO	rs6450057	DISCUSS	Recently, rs6450057 mapping to PELO, a gene embedded in intron 1 of ITGA1, was found to be associated with fasting serum insulin levels in a transethnic GWAS meta-analysis of 70,000 individuals.
+0	NA	NA	rs6450057	DISCUSS	Interestingly, this study found an opposite direction of effect in European and African-American samples, indicating that rs6450057 is not the causal variant at this locus.
+1	diabetes	ITGA1	rs6867040	DISCUSS	Moreover, another ITGA1 intron variant, rs6867040, has been associated with fasting plasma glucose concentrations in 46,262 European individuals, and a recent prepublished GWAS of more than 800,000 samples showed an independent association between three variants at the ITGA1 locus and type 2 diabetes using an additive genetic model.
+1	diabetes	ITGA1	NA	DISCUSS	These studies support our findings of a link between variation in ITGA1 and type 2 diabetes.
+0	NA	NA	rs870992	DISCUSS	However, it is unclear whether it is the same signal, as the identified variants in the European study do not include rs870992, nor are the identified variants in high linkage disequilibrium with rs870992 in Europeans (r2 < 0.1)
+1	NA	ITGA1	NA	DISCUSS	Biologically, ITGA1 is an attractive candidate gene, encoding the alpha1-integrin subunit, which heterodimerises with the beta1 subunit to form cell surface receptors that bind collagen and laminin.
+0	motility and insulin secretion	NA	NA	DISCUSS	Interestingly, alpha1beta1-integrin is the primary collagen receptor used by cultured beta cells, and this interaction regulates beta cell adhesion, motility and insulin secretion.
+0	glucose homeostasis	NA	NA	DISCUSS	Moreover, specific interactions between alpha1beta1-integrin and extracellular matrix have been shown to be critical for beta cell survival and function, and therefore are possibly also important for glucose homeostasis and risk of type 2 diabetes.
+1	NA	ITGA1	NA	DISCUSS	Besides the possible effects on beta cell function, ITGA1 seems to be linked to liver function.
+1	NA	ITGA1	NA	DISCUSS	Thus, ITGA1 variants have been associated with plasma levels of the liver enzyme gamma-glutamyl transferase, and modestly with ITGA1 protein expression levels in the liver.
+1	hepatic insulin	Itga1	NA	DISCUSS	In mice, knocking out Itga1 leads to severe hepatic insulin resistance and altered fatty acid metabolism when they are fed a high-fat diet.
+1	NA	ITGA1	rs870992	DISCUSS	In line with this, we observed a borderline significant association between ITGA1 rs870992 and increased levels of fasting plasma glucose, which might indicate altered hepatic glucose regulation in the fasted state.
+1	diabetes	ITGA1	NA	DISCUSS	Thus, studies of phenotypes reflecting liver function in Greenlanders would be of great interest to elucidate the biological mechanisms underlying the association between variation in ITGA1 and type 2 diabetes.
+0	NA	NA	rs870992	DISCUSS	In eQTL analyses, no effect of the type 2 diabetes-associated rs870992 variant on mRNA expression in liver tissue was observed.
+1	NA	Itga1	NA	DISCUSS	Instead, the variant was associated with increased ITGA1 expression in three other tissues; however, this was in the opposite direction to what was expected from the Itga1 knockout mice.
+1	NA	ITGA1	rs870992	DISCUSS	This difference might rely on the fact that rs870992 is unlikely to be the causal variant and therefore we cannot conclude that the causal variant acts through RNA regulation even if our top SNP is significantly associated with ITGA1 expression
+1	diabetes	LARGE1	NA	DISCUSS	No previous studies have indicated a link between LARGE1 and type 2 diabetes in additive model GWAS, nor did we replicate our findings in recessive analysis in a Danish sample of 5220 individuals with diabetes and 18,556 control participants.
+0	NA	NA	NA	DISCUSS	This lack of association in European samples may rely on low statistical power for recessive effects, due to the low frequency of risk alleles (EAF<10%) in Europeans (ESM Fig.
+0	NA	NA	NA	DISCUSS	2) or due to population-specific differences in linkage disequilibrium between the identified variant and the causal variant.
+0	diabetes	TBC1D4	NA	DISCUSS	It is also possible that the causal variant behind the observed type 2 diabetes association is Inuit-specific, similar to the risk variant in TBC1D4.
+0	NA	NA	NA	DISCUSS	However, we were unable to pinpoint such a causal variant.
+0	NA	NA	NA	DISCUSS	Moreover, the lack of replication of the diabetes-related quantitative traits associations in a small sample of Alaska Native Yup'ik illustrates one of the main challenges with studies of isolated populations, namely the difficulty of finding appropriate replication cohorts in terms of both genetic composition and sample size.
+1	NA	LARGE1	NA	DISCUSS	It is, however, also possible that the LARGE1 association represents a false-positive discovery
+1	NA	LARGE1	NA	DISCUSS	LARGE1 encodes the LARGE xylosyl- and glucuronyltransferase 1 protein.
+0	NA	NA	NA	DISCUSS	This protein interacts with alpha-dystroglycan and functions as a glycosyltransferase stimulating glycosylation of alpha-dystroglycan, which in skeletal muscles connects the cytoplasm with the extracellular matrix as part of the dystrophin-glycoprotein complex.
+0	NA	insulin	NA	DISCUSS	How this relates to the observed association with visceral fat accumulation and insulin resistance is unclear; therefore studies including a more comprehensive coverage of the genome and a larger sample size are warranted to verify the suggested associations, and possibly identify the causal variant in the locus
+1	diabetes	TBC1D4	NA	DISCUSS	In this study, we observed three loci, TBC1D4, ITGA1 and LARGE1, harbouring variants with large recessive effects on the risk of type 2 diabetes in Greenlanders, the latter, however, having weaker statistical support.
+0	Type 2 diabetes	ADCY3	NA	DISCUSS	In addition to these loci, based on a loss-of-function screening of the same population, we recently identified a variant in ADCY3 recessively associated with obesity and type 2 diabetes.
+0	diabetes	TCF7L2	NA	DISCUSS	Variants in all four loci have effect sizes that are much greater than what has been reported for TCF7L2, which is the greatest genetic risk factor for type 2 diabetes among Europeans.
+0	diabetes	NA	NA	DISCUSS	Even though the estimated effects are likely to be inflated by the 'winner's curse', these variants have the potential to be of clinical relevance by facilitating the prediction of diabetes development in Greenlandic population.
+0	diabetes	TBC1D4	NA	DISCUSS	More research is needed to identify the causal variants, to elucidate the biological mechanisms underlying the association with type 2 diabetes, and to clarify whether these novel variants distinguish type 2 diabetes subtypes with specific aetiology, as demonstrated for TBC1D4.
+0	diabetes	NA	NA	DISCUSS	This additional knowledge could have the potential to guide choice of treatment for subtypes of type 2 diabetes
+0	diabetes	NA	NA	DISCUSS	In conclusion, we demonstrate that common alleles with recessive effects play a role in the genetic architecture of type 2 diabetes in the small and historically isolated Greenlandic population.
+0	NA	NA	NA	DISCUSS	These findings reiterate the importance of considering non-additive genetic models when performing GWAS
+0	NA	NA	NA	ABBR	TH and AA conceived and headed the project.
+0	NA	NA	NA	ABBR	IM and AA designed the statistical set-up, while TH, NG, MKA and OP designed the experimental set-up for the extraction, genotyping and sequencing of the DNA.
+0	Hardy-Weinberg P	NA	NA	ABBR	MEJ and PB were principal investigators of the population studies in Greenland, and together with CVLL and IKD-P, they provided the Greenlandic samples, collected and defined the phenotypes and provided context of these samples.
+0	NA	NA	NA	ABBR	AL planned, recruited and acquired the Danish samples for replication.
+0	NA	EPHX2	NA	ABBR	BBB and SEH led the initial study design for the Yup'ik studies and data collection.
+0	NA	NA	NA	ABBR	HKT and HWW led the statistical analyses for the Yup'ik studies.
+0	NA	EPHX2	NA	ABBR	BB was the principal investigator of the population studies in Alaska and, together with SEH, provided the Yup'ik samples, collected and defined the phenotypes and provided the context of these samples.
+0	NA	NA	NA	ABBR	IM, NG, EJ, and AA performed the association analyses.
+0	NA	NA	NA	ABBR	NG, IM, MKA, AA and TH wrote the majority of the manuscript with input from all authors.
+0	NA	NA	NA	ABBR	All authors approved the final version of the manuscript.
+0	NA	NA	NA	ABBR	NG and TH are the guarantors of this work
+0	NA	NA	NA	ACK_FUND	The Novo Nordisk Foundation Center for Basic Metabolic Research is an independent Research Center at the University of Copenhagen partially funded by an unrestricted donation from the Novo Nordisk Foundation (www.metabol.ku.dk).
+0	diabetes	NA	NA	ACK_FUND	This project was also funded by the Danish Council for Independent Research (DFF-4090-00244, Sapere Aude grant DFF-11-120909 and DFF-4181-00383), the Steno Diabetes Center Copenhagen (www.steno.dk), the Lundbeck Foundation (R215-2015-4174) and the Novo Nordisk Foundation (NNF15OC0017918, NNF16OC0019986 and NNF15CC0018486).
+0	NA	B99	NA	ACK_FUND	The Greenlandic health surveys (IHIT and B99) were supported by Karen Elise Jensen's Foundation, the Department of Health in Greenland, NunaFonden, Medical Research Council of Denmark, Medical Research Council of Greenland and Commission for Scientific Research in Greenland.
+0	NA	NA	NA	ACK_FUND	The CANHR studies involving Alaska Native Yup'ik people were funded by the following National Institutes of Health grants: P30 GM103325, R01 DK104347 and R01 DK074842
+0	NA	NA	NA	SUPPL	The Greenlandic MetaboChip-genotype data are available at European Genome-Phenome Archive (EGA; https://ega-archive.org/) under the accession EGAS00001002641
+0	NA	NA	NA	COMP_INT	The authors declare that there is no duality of interest associated with this manuscript

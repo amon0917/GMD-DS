@@ -1,0 +1,219 @@
+0	diabetes	NA	NA	ABSTRACT	Glycated hemoglobin (HbA1c) is an important measure of glycemia in diabetes.
+0	diabetes	NA	NA	ABSTRACT	HbA1c is influenced by environmental and genetic factors both in people with and in people without diabetes.
+0	diabetes	NA	NA	ABSTRACT	We performed a genome-wide association study (GWAS) for HbA1c in a Finnish type 1 diabetes (T1D) cohort, FinnDiane.
+0	NA	NA	NA	ABSTRACT	Top results were examined for replication in T1D cohorts DCCT/EDIC, WESDR, CACTI, EDC, and RASS, and a meta-analysis was performed.
+0	NA	relaxin family peptide receptor 2	NA	ABSTRACT	Three SNPs in high linkage disequilibrium on chromosome 13 near relaxin family peptide receptor 2 (RXFP2) were associated with HbA1c in FinnDiane at genome-wide significance (P < 5 x 10-8).
+0	NA	NA	rs2085277	ABSTRACT	The minor alleles of rs2085277 and rs1360072 were associated with higher HbA1c also in the meta-analysis with RASS (P < 5 x 10-8), where these variants had minor allele frequencies >=1%.
+0	diabetes	NA	NA	ABSTRACT	Furthermore, these SNPs were associated with HbA1c in an East Asian population without diabetes (P <= 0.013).
+0	NA	NA	NA	ABSTRACT	A weighted genetic risk score created from 55 HbA1c-associated variants from the literature was associated with HbA1c in FinnDiane but explained only a small amount of variation.
+0	diabetic complications	NA	NA	ABSTRACT	Understanding the genetic basis of glycemic control and HbA1c may lead to better prevention of diabetes complications
+0	blood glycemia	NA	NA	INTRO	Glycated hemoglobin (HbA1c) reflects the level of blood glycemia and is commonly used to monitor glycemic control in diabetes and to diagnose type 2 diabetes.
+0	diabetes	NA	NA	INTRO	Genome-wide association studies (GWAS) have revealed >60 genetic variants to be associated with HbA1c in individuals without diabetes.
+0	NA	NA	NA	INTRO	A recent GWAS of multiple ethnic groups confirmed 18 variants previously associated with HbA1c and added 42 new loci.
+0	glucose metabolism alterations	NA	NA	INTRO	Some of the variants affect biological pathways maintaining glucose homeostasis.
+0	NA	GCK	NA	INTRO	For example, single nucleotide polymorphisms (SNPs) in or near glucokinase (GCK) and melatonin receptor 1B (MTNR1B) are known to be associated with HbA1c, fasting plasma glucose, and beta-cell function.
+0	NA	NA	NA	INTRO	HbA1c is further influenced by genes and pathways that affect erythrocytes.
+0	hereditary hemochromatosis	HFE	NA	INTRO	In particular, SNPs in hemochromatosis (HFE) and hexokinase 1 (HK1) have an effect on HbA1c through nonglycemic pathways that affect erythrocyte physiology and survival
+0	hemoglobinopathies	NA	NA	INTRO	HbA1c reflects the glycemic load over ~3 months, and traits such as hemoglobinopathies, alterations in intracellular glucose metabolism, or defects of glucose transport into erythrocytes affect HbA1c.
+0	diabetes	insulin	NA	INTRO	In addition, diet, drugs, and insulin administration affect HbA1c in individuals with type 1 diabetes (T1D) who have little to no endogenous insulin production and, thus, rely on an external source of insulin to ensure glucose uptake in cells.
+0	NA	NA	NA	INTRO	Despite a strong environmental stimulus, HbA1c levels are correlated between both dizygotic twins and monozygotic twins concordant or discordant for T1D.
+0	diabetes	NA	NA	INTRO	Heritability estimates for HbA1c in individuals without diabetes range from 27% to 62%, thus providing evidence for a genetic component for the trait
+0	diabetes	NA	NA	INTRO	To date, one GWAS on HbA1c has been conducted in individuals with T1D in the Diabetes Control and Complications Trial (DCCT).
+0	NA	NA	rs1358030	INTRO	The authors found that rs1358030 near sortilin-related VPS10 domain-containing receptor 1 (SORCS1) was associated with HbA1c (P < 2.2 x 10-9).
+0	Kidneys in Diabetes	NA	NA	INTRO	The current study aims to define more genetic variants associated with HbA1c using GWAS of 4,622 individuals with T1D from the Finnish Diabetic Nephropathy (FinnDiane) Study and attempts to replicate GWAS results in five additional cohorts including, altogether, 3,097 individuals with T1D
+0	NA	NA	NA	METHODS	FinnDiane is a nationwide, comprehensive multicenter study launched in 1997.
+0	NA	NA	NA	METHODS	Local ethics committees approved the study protocol, and participants gave informed consent before participation.
+0	NA	NA	NA	METHODS	The study was performed in accordance with the Declaration of Helsinki.
+0	NA	NA	NA	METHODS	HbA1c was measured with standardized laboratory methods locally from a blood sample taken during the visits to the FinnDiane study centers.
+0	NA	NA	NA	METHODS	Additional HbA1c values were collected from laboratory records both before and after the FinnDiane visit.
+0	NA	NA	NA	METHODS	A shift from high-performance liquid chromatography method to immunoassays was seen in many laboratories during the HbA1c collection time (1 January 1991-1 June 2016).
+0	NA	NA	NA	METHODS	In Finland, the HbA1c measurements show a high correlation with the DCCT reference method.
+0	diabetes	NA	NA	METHODS	HbA1c measurements from <1 year of diabetes diagnosis and the measurements after end-stage renal disease (ESRD) diagnosis were excluded.
+0	NA	NA	NA	METHODS	A median of 19 HbA1c measurements per person (range 1-129) were collected (Supplementary Fig.
+0	NA	NA	NA	METHODS	1).
+0	NA	NA	NA	METHODS	Phenotype in the GWAS was an intrapersonal mean HbA1c, and it roughly followed normal distribution (Supplementary Fig.
+0	NA	NA	NA	METHODS	2).
+0	NA	NA	NA	METHODS	In the replication cohorts, a mean of natural log-transformed HbA1c was used.
+0	NA	NA	NA	METHODS	Similar phenotypic values were subsequently calculated in FinnDiane to enable comparison of effect sizes (beta) in the meta-analysis
+0	NA	NA	NA	METHODS	At the FinnDiane visit, each patient underwent a thorough clinical investigation as previously described.
+0	diabetes	NA	NA	METHODS	The GWAS covariates age and diabetes duration were calculated at the intrapersonal mean date of HbA1c measurements.
+0	NA	NA	NA	METHODS	Micro- or macroalbuminuria was defined based on the urinary albumin excretion rate (AER) in two out of three consecutive timed overnight or 24-h urine collections as previously described.
+0	T2DM-ESRD	NA	NA	METHODS	ESRD was defined as ongoing dialysis or the patient having received a kidney transplant.
+0	T2DM-ESRD	NA	NA	METHODS	ESRD diagnosis year was verified from hospital records.
+0	NA	NA	NA	METHODS	Hematological measurements were taken from whole blood samples of 429 individuals using flow cytometry in the Helsinki University Central Hospital Laboratory
+0	diabetes	insulin	NA	METHODS	Individuals with age at diabetes onset of <40 years, insulin treatment initiated within 1 year of the diabetes diagnosis, and one or more HbA1c measurements were selected from FinnDiane.
+0	NA	NA	NA	METHODS	Relatedness of individuals was calculated with KING 1.40.
+0	NA	NA	NA	METHODS	Among first-degree family members, the individual with the least number of HbA1c measurements (nHbA1c) was excluded, and altogether 4,622 individuals were included in the GWAS
+0	NA	NA	NA	METHODS	After also excluding more distantly related individuals according to the estimated genetic relationship matrix (>=0.05), we calculated heritability in 4,319 individuals.
+0	NA	NA	NA	METHODS	Narrow-sense heritability of HbA1c (h2) was the proportion of the phenotypic variance explained by the additive effects of the genotyped SNPs with or without covariates sex, age, duration, genotyping batch, and nHbA1c (GCTA, version 1.24.4)
+0	NA	NA	NA	METHODS	Power calculations were performed with Quanto, version 1.2.4 (http://biostats.usc.edu/Quanto.html), using alpha-level of 5 x 10-8 (genome-wide significance).
+0	NA	NA	NA	METHODS	In the GWAS, we had 94% power to detect variants with a minor allele frequency (MAF) >=5% and an effect size (beta) 0.40 (nontransformed HbA1c [%] [Supplementary Table 1]).
+0	NA	NA	NA	METHODS	In the replication cohort (n = 3,097), we had >57% and 99% power (two-sided alpha = 0.05, beta = 0.30) to replicate variants with MAFs 1-5% or MAFs >=5%, respectively
+0	NA	NA	NA	METHODS	SNP genotyping was performed with HumanCoreExome-12 v. 1.0, -12 v. 1.1, or -24 v. 1.0 BeadChip (Illumina, San Diego, CA).
+0	NA	NA	NA	METHODS	SNPs with low genotyping call rate, deviation from Hardy-Weinberg equilibrium, MAF <1%, Mendelian inconsistency, allele frequency difference >20% (MAF >=5%), or allele frequency difference >5% (MAF <5%) with 1000 Genomes European (EUR) population were filtered
+0	NA	NA	NA	METHODS	After quality control, phased haplotypes (SHAPEIT v2.r837) of 316,899 SNPs were used for imputation with 1000 Genomes EUR phase 3, version 5, using Minimac3/Minimac3-omp v1.0.14.
+0	NA	NA	NA	METHODS	A total of 6,019 individuals passed quality control when samples with genotyping rate <0.95 or extreme heterozygosity, sample mix-ups, and genetic outliers were removed
+0	diabetes	NA	NA	METHODS	GWAS was performed with dosages of 8,354,674 variants with imputation quality r2 >= 0.7 with PLINK v1.9b3.26 using linear regression with covariates sex, age, diabetes duration, nHbA1c, genotyping batch, and 10 first principal components that were calculated with the EIGENSTRAT, version 3.0.
+0	NA	NA	NA	METHODS	A genomic inflation factor lambda was 1.003 (Supplementary Fig.
+0	NA	NA	NA	METHODS	3)
+0	NA	NA	rs2085277	METHODS	Altogether, 1,489 and 1,863 individuals were genotyped with the TaqMan technology and ABI Prism 7000/7900HT Sequence Detection Systems and SDS 2.3 software (Life Technologies, Foster City, CA) to verify the imputed genotypes of rs2085277 and rs17076364, respectively.
+0	NA	NA	rs2085277	METHODS	Of the TaqMan-genotyped individuals, 1,259 of 1,489 (84.6%) for rs2085277 and 1,545 of 1,863 (82.9%) for rs17076364 were included in the HbA1c GWAS
+0	NA	NA	NA	METHODS	Longitudinal HbA1c data were studied with linear mixed models (nlme package in R, version 3.3.3) in 4,153 individuals with three or more HbA1c measurements.
+0	diabetes	NA	NA	METHODS	The top SNPs were analyzed with continuous time including diabetes duration (at first HbA1c), sex, age, genotyping batch, and 10 first principal components as covariates assuming random intercept and slope.
+0	diabetes	NA	NA	METHODS	The best model (lowest Akaike information criterion) had an autocorrelation structure of order 1 with continuous time covariate and a combined covariance structure with exponential variances for fitted model values and separate variances for HbA1c measurements from different decades of diabetes duration
+0	NA	NA	NA	METHODS	Groups were compared with Student t test, Welch t test, or Mann-Whitey U test in R. Histograms were used for evaluating normality.
+0	NA	NA	NA	METHODS	Linear regression was used to study phenotypic associations with covariates
+0	diabetes	NA	NA	METHODS	Replication of the top SNPs was conducted in DCCT/Epidemiology of Diabetes Interventions and Complications (EDIC), the Wisconsin Epidemiologic Study of Diabetic Retinopathy (WESDR), the Coronary Artery Calcification in Type 1 Diabetes (CACTI) study, the Pittsburgh Epidemiology of Diabetes Complications (EDC) study, and the Renin Angiotensin System Study (RASS) comprising altogether 3,097 individuals with T1D (Fig.
+0	NA	NA	NA	METHODS	1 and Supplementary Table 2).
+0	diabetes	NA	NA	METHODS	Individuals with conventional (n = 667) or intensive (n = 637) treatment of diabetes during DCCT were analyzed separately.
+0	NA	NA	NA	METHODS	CACTI was also divided (clinic, n = 265, and nonclinic, n = 253).
+0	NA	NA	NA	METHODS	SNPs with imputation quality r2 >= 0.6 and MAF >=1% in the individual replication cohorts were included in the meta-analysis.
+0	NA	NA	NA	METHODS	These SNPs were replicated in one to seven cohorts comprising 253-3,097 individuals.
+0	NA	NA	NA	METHODS	A mean of natural log-transformed HbA1c was the phenotype used in the replication cohorts, and to get comparable effect sizes (beta) the association of the top SNPs and similarly transformed HbA1c was calculated in the discovery cohort.
+0	NA	NA	NA	METHODS	Thereafter, a fixed-effects meta-analysis based on betas and SEs was performed with GWAMA
+0	NA	NA	NA	FIG	Outline of the GWAS for HbA1c in the FinnDiane cohort.
+0	NA	NA	NA	FIG	1000G, 1000 Genomes
+0	diabetes	NA	NA	METHODS	The top nine independent variants were compared with publicly available data from GWAS meta-analyses of up to 123,517 individuals without diabetes of European ancestry.
+0	NA	NA	NA	METHODS	For variants not included in the GWAS by Wheeler et al., we searched for proxy variants (r2 >= 0.3) in the 1000 Genomes EUR population using LDlink (https://analysistools.nci.nih.gov/LDlink).
+0	NA	NA	NA	METHODS	Seven out of nine SNPs or proxy variants had HbA1c association data available.
+0	NA	NA	NA	METHODS	In addition, replication of three genome-wide significant SNPs on chromosome 13 was performed in the GWAS data from individuals with East Asian ancestry (n = 23,461), since these SNPs were not available in the Europeans, likely due to their low MAFs.
+0	diabetes	NA	NA	METHODS	Thereafter, we compared 86 previously reported variants for HbA1c with our GWAS results: 11 variants from the DCCT GWAS and 75 variants from GWAS of individuals without diabetes
+0	NA	NA	NA	METHODS	Genome-wide significant autosomal SNPs in the largest HbA1c GWAS, which had MAF >=1% and P < 0.01 also in the Europeans, were selected for genetic risk score (GRS).
+0	erythrocytic leukemia	NA	NA	METHODS	GRS-ALL comprised all 55 SNPs, and like Wheeler et al., we calculated separate GRS for erythrocytic SNPs (n = 19) (GRS-E) and glycemic SNPs (n = 18) (GRS-G).
+0	NA	NA	NA	METHODS	GRS were the sum of expected number of risk alleles weighted by the effect size (beta) of the SNP in the Europeans, multiplied by the number of SNPs and divided by the sum of betas.
+0	diabetes	NA	NA	METHODS	Association of the GRS with HbA1c was studied using linear regression with covariates age, sex, diabetes duration, and nHbA1c
+0	NA	NA	NA	METHODS	After the FinnDiane GWAS, a weighted GRS, GRSFD, was created from nine noncorrelated SNPs showing significant or suggestive association with HbA1c (P < 5 x 10-6).
+0	diabetes	NA	NA	METHODS	GRSFD was tested for associations with diabetes duration, diabetic nephropathy (DN), and laser-treated diabetic retinopathy
+0	NA	NA	NA	METHODS	The closest genes were searched (Ensembl transcripts downloaded from https://genome.ucsc.edu/cgi-bin/hg Tables [July 2017]) for variants with P < 0.001 in the GWAS.
+0	NA	NA	NA	METHODS	A total of 9,742 SNPs were mapped to 4,470 unique transcripts and were then connected with the HUGO Gene IDs.
+0	NA	NA	NA	METHODS	A total of 1,175 genes were located <150 kb from the GWAS SNPs.
+0	NA	NA	NA	METHODS	PANTHER database (http://www.pantherdb.org) was used to identify the underlying biological pathways, and STRING, version 10.5 (https://string-db.org), was used to study protein interactions
+0	NA	NA	NA	METHODS	For the nearest genes of the top variants, gene expression (Expression Atlas [http://www.ebi.ac.uk/gxa/home]) and protein expression (ProteomicsDB [https://www.proteomicsdb.org]) were studied.
+0	NA	NA	NA	METHODS	The ENCODE data wereaccessed through UCSC Genome Browser (http://www.genome.ucsc.edu) and RegulomeDB v1.1 (23) (http://regulome.stanford.edu/ [July 2017]).
+0	NA	NA	NA	METHODS	Expression quantitative trait loci (eQTL) of the top variants were studied using the Genotype-Tissue Expression project portal (GTEx V7) (https://www.gtexportal.org/home/).
+0	NA	NA	NA	METHODS	PhenoScanner V2 database (http://www.phenoscanner.medschl.cam.ac.uk/phenoscanner) was used to find associations with metabolites
+0	NA	NA	NA	RESULTS	Mean +- SD HbA1c was 8.5 +- 1.2% (69.5 +- 13.1 mmol/mol) in FinnDiane (Table 1).
+0	NA	NA	NA	RESULTS	Narrow-sense heritability of HbA1c was 17.0% (P = 0.002) (unadjusted) or 15.3% (P = 0.003) when adjusted for covariates.
+0	NA	NA	rs2085277	RESULTS	Minor alleles of three SNPs on chromosome 13q12.3 showed genome-wide significant association with higher HbA1c values in the GWAS (lead SNP rs2085277: beta = 0.42 [95% CI 0.27, 0.56], P = 1.52 x 10-8) (Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	B3GALTL	rs2085277	RESULTS	The three SNPs rs2085277, rs1360072, and rs17076364 are in high linkage disequilibrium (LD) in the 1000 Genomes EUR population and are located between beta 3-glucosyltransferase (B3GLCT) (SNPs 232-261 kb downstream) and 146-175 kb upstream of the closest gene, relaxin family peptide receptor 2 (RXFP2) (Supplementary Fig.
+0	NA	NA	NA	RESULTS	4)
+0	NA	NA	NA	FIG	Manhattan plot of the FinnDiane HbA1c GWAS results shows genome-wide significant (P < 5.0 x10-8) variants on chromosome 13.
+0	NA	NA	rs2085277	FIG	The lead SNP is rs2085277 (P = 1.52 x10-8).
+0	NA	NA	NA	FIG	y-axis shows the -log10 P value, and x-axis tells the chromosomal position of the variants.
+0	NA	NA	NA	FIG	The two horizontal lines denote the thresholds for genome-wide significant P value of 5 x 10-8 (upper dashed line) and for a suggestive association with P value of 5 x10-6 (lower dotted line)
+0	NA	NA	rs2085277	RESULTS	Additional genotyping confirmed the imputed rs2085277 and rs17076364 genotypes (Supplementary Table 3).
+0	NA	insulin	rs2085277	RESULTS	The lead SNP rs2085277 was not significantly associated with insulin dose (IU/kg), coefficient of variation of HbA1c (Supplementary Table 4), or hematocrit or other hematological parameters that were measured in a small subcohort of 429 individuals with T1D (Supplementary Table 5).
+0	NA	NA	NA	RESULTS	Altogether, 68 variants had P < 5 x 10-6 in the GWAS.
+0	NA	NA	NA	RESULTS	Of these, five tightly correlated SNPs from chr13 locus and eight other independent SNPs with P < 5 x 10-6 were selected for replication and subsequent analyses.
+0	NA	NA	NA	RESULTS	Notably, these variants were associated with HbA1c also when longitudinal HbA1c measurements were analyzed in a subcohort of 4,153 individuals with three or more HbA1c measurements (Supplementary Table 6)
+0	NA	NA	NA	RESULTS	The five T1D cohorts all used the mean of the natural log-transformed HbA1c values as the end phenotype.
+0	NA	NA	rs373883321	RESULTS	Two SNPs showed significant replication with ln(HbA1c): rs373883321 in CACTIclinic (chr6:165,403,975, P = 0.006) and rs10459356 near the lead SNP rs2085277 on chromosome 13 in RASS (P = 0.042) (Supplementary Table 7).
+0	NA	NA	rs2085277	RESULTS	In a meta-analysis with the discovery cohort, variants rs2085277 and rs1360072 in high LD on chromosome 13 were significantly associated with ln(HbA1c) with beta = 0.046 (95% CI 0.030, 0.063) and P = 3.7 x 10-8 and P = 4.2 x 10-8, respectively (Table 2 and Supplementary Table 8)
+0	NA	NA	NA	TABLE	Top loci in the FinnDiane HbA1c GWAS and results from replication in other T1D cohort
+0	NA	NA	rs2085277	RESULTS	Of note, the MAFs for rs2085277 and rs1360072 on chromosome 13 were 4% in FinnDiane and 1% in RASS but only 0.2%-0.5% in the DCCT/EDIC and WESDR cohorts that were thus not included in the meta-analysis for these SNPs (Supplementary Fig.
+0	NA	NA	NA	RESULTS	5).
+0	NA	NA	NA	RESULTS	Because of low imputation quality of the chr13 top variants (r2 < 0.60), CACTI and EDC cohorts were also excluded from the meta-analysis of these SNPs.
+0	NA	NA	rs2085277	RESULTS	Low MAFs reduced the statistical power to replicate the findings, but in RASS the effect was in the same direction as in FinnDiane: lead SNP rs2085277, beta = 0.059 [95% CI -0.079, 0.198] for ln(HbA1c), P = 0.402.
+0	NA	NA	rs2085277	RESULTS	The MAF for rs2085277 is similar to our study in the 1000 Genomes populations: 5.6% in FIN (Finnish in Finland), 0.5% in GBR (British in England and Scotland), and 0% (monomorphic) in the CEU (Northern Europeans from Utah).
+0	NA	NA	NA	RESULTS	The variant showed a markedly higher frequency in East Asians and South Asians with MAFs of 38.5% and 9.2%, respectively
+0	diabetes	NA	NA	RESULTS	The association of the thirteen SNPs with HbA1c was then queried in GWAS meta-analysis data on multiple cohorts without diabetes.
+0	NA	NA	NA	RESULTS	As expected due to low MAF in Europeans, no data were available for the chr13 top SNPs or for any proxy SNPs with r2 >= 0.3 in the European cohorts.
+0	NA	NA	NA	RESULTS	Therefore, replication of the chr13 variants was sought in the meta-analysis results of individuals of Asian ancestry.
+0	NA	NA	rs2085277	RESULTS	The SNPs were missing from the South Asian cohorts, but the chr13 top SNPs rs2085277 and rs1360072 were associated with HbA1c (%) in East Asians with beta = 0.02 (95% CI 0.006, 0.03), P = 0.005, and beta = 0.02 (0.003, 0.03), P = 0.013, respectively.
+0	NA	NA	NA	RESULTS	(Table 3).
+0	NA	NA	NA	RESULTS	None of the other top SNPs or the proxy variants were associated with HbA1c in the Europeans (Supplementary Table 9)
+0	diabetes	NA	NA	TABLE	Three genome-wide significant variants on chromosome 13: LD structures and HbA1c association in a population without diabete
+0	NA	NA	rs2085277	RESULTS	Interestingly, minor T allele for rs2085277 was associated with higher levels of ketone bodies acetoacetate and 3-hydroxybutyrate (PhenoScanner) (P = 0.003 and P = 0.020, respectively).
+0	NA	NA	rs2085277	RESULTS	No direct ENCODE data were available for rs2085277, and only minimal transcription factor-binding evidence (RegulomeDB scores 4-6) was seen for other top SNPs in the chr13 locus.
+0	NA	relaxin family peptide receptor 2	rs2085277	RESULTS	Although none of the chr13 top variants were included in the GTEx database, many SNPs near rs2085277 affect the expression of RXFP2 in adrenal gland, which suggests that rs2085277 might also affect RXFP2 expression
+0	NA	relaxin family peptide receptor 2	NA	RESULTS	RXFP2 belongs to the positive regulation of cAMP biosynthetic process pathway (Gene Ontology term in the STRING protein network analysis [Fig.
+0	NA	NA	NA	RESULTS	3]).
+0	diabetes	GIPR	NA	RESULTS	Interestingly, when the search was restricted to databases as opposed to all interaction sources (databases, text mining, experiments, coexpression, neighborhood, gene fusion, and co-occurrence), gastric inhibitory polypeptide receptor (GIPR) and glucagon (GCG):proteins relevant for glucose homeostasis and diabetes:occurred in the same protein interaction network with RXFP2
+0	NA	relaxin family peptide receptor 2	NA	FIG	Protein networks around RXFP2 (red).
+0	NA	glucagon-like peptide 1	NA	FIG	"A: Two most enriched Gene Ontology (GO) biological pathways were ""cellular response to glucagon stimulus"" (GNB1, GNB4, GNB2, and GNB3) and ""positive regulation of cAMP biosynthetic process"" (RXFP2, RLN2 [relaxin], AVPR2, and INSL3), with false discovery rates 4.6 x10-5 and 2.8 x10-4, respectively."
+0	NA	NA	NA	FIG	Protein network was generated with STRING, version 10.5, selecting all active interaction sources, minimum required interaction score 0.90 (highest confidence), and no more than 10 interactions.
+0	NA	NA	NA	FIG	B: Only database interaction sources were selected with minimum required interaction score 0.90 (highest confidence) and no more than 10 interactions.
+0	NA	relaxin family peptide receptor 2	NA	FIG	"Six out of 11 proteins in this network belong to ""positive regulation of cAMP biosynthetic process"" (GO biological process), which was the most enriched pathway in this network, connecting proteins RXFP2, GIPR, GCG, ADCYAP1, MC1R, and FSHR (false discovery rate 1.3 x10-8)."
+0	glucose metabolism alterations	GIPR	NA	FIG	Of note is that gastric inhibitory polypeptide receptor (GIPR) and glucagon (GCG) present in this protein network have a high relevance in glucose homeostasis and diabetes
+0	NA	NA	NA	RESULTS	Genes involved in cell-cell adhesion processes and developmental processes were overrepresented in GWAS results (PANTHER, P < 0.05, corrected for multiple testing [Supplementary Table 10]).
+0	NA	NA	NA	RESULTS	PANTHER pathway analysis pointed out cadhenin signaling, endogenous cannabinoid signaling, and Wnt signaling pathways (P < 0.05, corrected for 160 independent classes)
+0	diabetes	NA	NA	RESULTS	Our GWAS top variants had a consistent effect on HbA1c irrespective of diabetes duration.
+0	diabetes	NA	NA	RESULTS	In all 10-year diabetes duration bins, the GRSFD (Supplementary Table 11 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	6) was significantly associated with HbA1c (Supplementary Table 12).
+0	diabetes	NA	NA	RESULTS	We confirmed this constant association between GRSFD and HbA1c in a small group of individuals (n = 271) having HbA1c measurements from three consecutive diabetes duration bins: 1-9.9, 10-19.9, and 20-29.9 years
+0	NA	NA	NA	RESULTS	Subjects with T1D with DN had higher mean HbA1c compared with individuals with normal AER (8.9 +- 1.3% vs. 8.2 +- 1.0%, P < 10-16).
+0	diabetes	NA	NA	RESULTS	Similarly, individuals with diabetic retinopathy had higher HbA1c compared with non-laser-treated subjects with at least 15 years of diabetes duration (8.8 +- 1.2% vs. 8.4 +- 1.2%, P < 10-16).
+0	diabetes	NA	NA	RESULTS	As expected, individuals with DN had higher GRSFD (6.5 vs. 6.4, P = 0.038), while the subjects with diabetic retinopathy did not have higher GRSFD (P = 0.205)
+0	NA	NA	rs1358030	RESULTS	rs1358030 was previously associated with HbA1c in the GWAS of 1,307 individuals with T1D.
+0	NA	NA	NA	RESULTS	However, this association was not replicated in FinnDiane, although the MAFs were similar (MAFDCCT = 36% vs. MAFFinnDiane = 40%), imputation quality was r2 = 0.99, and the effect was in the same direction (beta = 0.034 [95% CI -0.02, 0.09], P = 0.192) (Supplementary Table 13)
+0	diabetes	HFE	C282Y	RESULTS	Of the SNPs identified in populations without diabetes, four variants were associated with HbA1c in FinnDiane: the minor A allele of the missense variant rs1800562 in HFE was associated with lower HbA1c (P = 0.007) with higher effects size than in the population without diabetes (Fig.
+0	NA	NA	NA	RESULTS	4).
+0	NA	NA	NA	RESULTS	The HbA1c values for the genotypes AA (n = 3), AG (n = 250), and GG (n = 4,369) were 7.6 +- 1.1%, 8.3 +- 1.2%, and 8.5 +- 1.2%, respectively.
+0	NA	hexokinase 1	rs906216	RESULTS	Variants rs906216 and rs7072268 in HK1 and rs12621844 near FOXN2 were also directionally consistently associated with HbA1c in FinnDiane (P < 0.05) (Supplementary Tables 13 and 14).
+0	NA	NA	NA	RESULTS	Of note, 16 of 19 SNPs classified as erythrocytic variants by Wheeler et al.
+0	NA	NA	NA	RESULTS	showed similar direction of effect in FinnDiane compared with the original study (binomial test for enrichment, P = 0.002 [Fig.
+0	NA	NA	NA	RESULTS	4])
+0	NA	NA	NA	FIG	Effect sizes (betas) of 55 variants associated with HbA1c (%) in the original study by Wheeler et al.
+0	diabetes	NA	NA	FIG	(European population without diabetes on x-axis) and in FinnDiane (T1D cohort on y-axis).
+0	erythrocytic leukemia	NA	NA	FIG	The SNPs were classified into three groups (erythrocytic SNPs, glycemic SNPs, or unclassified SNPs) in the study by Wheeler et al.
+0	NA	NA	NA	FIG	based on the literature search of known associations of the SNPs in earlier published GWAS for glycemic or erythrocytic traits.
+0	diabetes	NA	NA	FIG	Horizontal dashed line denotes the effect size zero (beta = 0) in FinnDiane indicating that variants with beta > 0 have the effect on HbA1c in the same direction as in the population without diabetes.
+0	NA	NA	NA	FIG	SNPs above the diagonal dotted line have a stronger effect on HbA1c in the T1D cohort.
+0	NA	NA	NA	FIG	Two SNPs with HbA1c association P < 0.05 in FinnDiane are indicated by arrows.
+0	NA	hexokinase 1	rs4745982	FIG	Gene names are shown for these variants and for HK1 because this particular SNP (rs4745982) in HK1 was not associated with HbA1c in FinnDiane.
+0	NA	hexokinase 1	rs906216	FIG	Instead, two other SNPs in HK1 (rs906216 and rs7072268 from Pare et al.)
+0	NA	NA	NA	FIG	showed significant association with HbA1c in FinnDiane.
+0	hereditary hemochromatosis	FOXN2	NA	FIG	FOXN2, forkhead box protein N2; HFE, hemochromatosis; HK1, hexokinase
+0	NA	NA	NA	RESULTS	Next, we tested the combined genetic effect by creating GRS from significant variants found in the largest HbA1c GWAS (Supplementary Fig.
+0	NA	NA	NA	RESULTS	7).
+0	NA	NA	NA	RESULTS	A GRS-ALL comprising 55 SNPs was associated with HbA1c in FinnDiane (beta = 0.010 [95% CI 0.002, 0.018], P = 0.014) and, along with covariates, explained 2.5% of the variation in HbA1c.
+0	diabetes	NA	NA	RESULTS	However, age, diabetes duration, sex, and nHbA1c alone explained 2.4% of the variation, whereas GRS-ALL explained only 0.1% of the variation in HbA1c.
+0	erythrocytic leukemia	NA	NA	RESULTS	A similar amount of HbA1c variance was also explained by GRS-E including only 19 erythrocytic SNPs (beta = 0.021 [95% CI 0.005, 0.037], P = 0.01).
+0	NA	NA	NA	RESULTS	In contrast, GRS-G created from the 18 glycemic variants was not associated with HbA1c (beta = 0.004 [95% CI -0.01, 0.018], P = 0.573)
+0	NA	NA	NA	DISCUSS	We identified a locus on chromosome 13 that show genome-wide significant association with HbA1c in 4,622 Finnish individuals with T1D.
+0	NA	NA	NA	DISCUSS	The three associated SNPs in the locus are located <30 kb from each other and are in high LD, therefore indicating the same association signal.
+0	NA	NA	rs2085277	DISCUSS	Notably, the association with HbA1c at rs2085277 and rs1360072 remained genome-wide significant in a meta-analysis including individuals with T1D from RASS.
+0	NA	NA	NA	DISCUSS	In DCCT/EDIC and WESDR, the MAFs for the chr13 top SNPs were <=0.5%.
+0	NA	NA	NA	DISCUSS	The low MAFs (<=1%) might explain the lack of significant replication in the T1D cohorts, since the power to detect significant association with MAF <=1% is limited.
+0	diabetes	NA	rs2085277	DISCUSS	On the contrary, both SNP associations were replicated (P <= 0.013) in the East Asian population without diabetes, where the SNPs were present with high allelic frequency of 38.5% and 34.5% for rs2085277 and rs1360072, respectively
+0	NA	B3GALTL	rs2085277	DISCUSS	rs2085277 is an intergenic SNP surrounded by B3GLCT (261 kb 5') and RXFP2 (146 kb 3').
+0	NA	B3GALTL	NA	DISCUSS	More distant B3GLCT is a glucosyltransferase that adds glucose molecules to multiple proteins.
+0	NA	relaxin family peptide receptor 2	rs2085277	DISCUSS	RXFP2 seems a more plausible candidate gene, since many SNPs in close vicinity to rs2085277 (although not in LD) have cis-eQTLs for RXFP2 in adrenal gland.
+0	NA	relaxin family peptide receptor 2	NA	DISCUSS	RXFP2 is a receptor for insulin-like peptide 3 (INSL3) and relaxin, and RXFP2 is expressed at low levels in many tissues.
+0	NA	relaxin family peptide receptor 2	NA	DISCUSS	ProteomicsDB shows RXFP2 expression in adrenal glands and in pancreatic islets.
+0	glucose metabolism alterations	relaxin family peptide receptor 2	NA	DISCUSS	Although the pharmacology and biology of relaxin receptors are relatively well-known, we are not aware of any previous studies on RXFP2 in relation to glucose homeostasis.
+0	glucose metabolism alterations	relaxin family peptide receptor 2	NA	DISCUSS	Of note, protein interaction analysis restricted to databases shows that RXFP2 is linked to the glucagon response pathway and to relevant proteins for glucose homeostasis, like GIPR and GCG.
+0	NA	ADCY5	NA	DISCUSS	Interestingly, adenylate cyclase 5 (ADCY5), which has previously been linked to HbA1c and T2D, is found in the same protein interaction network.
+0	NA	NA	NA	DISCUSS	However, there is yet no experimental evidence that would link these proteins.
+0	NA	relaxin family peptide receptor 2	NA	DISCUSS	Thus, the biological mechanisms by which RXFP2 possibly affects HbA1c remain to be elucidated
+0	NA	relaxin family peptide receptor 2	NA	DISCUSS	RXFP2 stimulates adenylate cyclase to increase intracellular second messenger cAMP concentrations.
+0	NA	relaxin family peptide receptor 2	NA	DISCUSS	The main ligand for RXFP2 is relaxin hormone, which is naturally increased in pregnancy, and it has both vasodilative and antifibrotic actions.
+0	blood glycemia	insulin	NA	DISCUSS	Interestingly, relaxin might act along with insulin to control blood glucose homeostasis.
+0	NA	insulin	NA	DISCUSS	This was also suggested by a study in mice, where relaxin treatment ameliorated the insulin sensitivity of mice on a high-fat diet.
+0	NA	relaxin family peptide receptor 1	NA	DISCUSS	The main receptor for human relaxin is relaxin family peptide receptor 1 (RXFP1) but, to a smaller extent, relaxin is also a ligand for RXFP2
+0	NA	NA	NA	DISCUSS	Our main phenotype was mean HbA1c, which was based on a median of 19 measurements per individual.
+0	NA	NA	NA	DISCUSS	One limitation of the study is that some individuals had only one HbA1c measurement.
+0	NA	NA	NA	DISCUSS	A single HbA1c measurement is not optimal for T1D studies, since HbA1c values tend to vary within a person over time.
+0	NA	NA	NA	DISCUSS	When a smaller subcohort of FinnDiane patients with three or more HbA1c measurements was studied with another method, linear mixed models, all top variants were consistently associated with HbA1c, although the effect sizes tended to be smaller.
+0	NA	NA	NA	DISCUSS	This was maybe due to a smaller cohort (n = 4,153) and deviation from the linear trend over time (individual slopes) in the HbA1c values
+0	diabetes	insulin	NA	DISCUSS	In diabetes, HbA1c values are used as an indicator of glycemic control achieved with insulin treatment or with drugs improving insulin sensitivity, the latter mainly used in patients with type 2 diabetes.
+0	NA	NA	NA	DISCUSS	The heritability estimate for HbA1c in our study was modest but significant (h2 = 15%) and confirmed that HbA1c in T1D can hold a heritable component.
+0	NA	NA	NA	DISCUSS	In the HbA1c GWAS in DCCT, a variant near SORCS1 was found.
+0	NA	NA	NA	DISCUSS	We were, however, unable to replicate the finding, although the effect was in the same direction.
+0	NA	NA	NA	DISCUSS	The lack of replication may be due to the winner's curse, which causes the effect in the discovery cohort to be overestimated, and therefore the power for replicating the true smaller genetic effect is lower.
+0	NA	NA	rs1358030	DISCUSS	Here, we had 100% power to replicate rs1358030 with a beta = 0.045 [for ln(HbA1c)] and only 62% power with a beta = 0.003 corrected for winner's curse with a bootstrap method at two-sided alpha = 0.05.
+0	diabetes	HFE	NA	DISCUSS	On the other hand, four variants in or near HFE, HK1, and FOXN2 originally found in cohorts without diabetes were also associated with HbA1c (P < 0.05) in FinnDiane
+0	NA	NA	NA	DISCUSS	Variants associated with HbA1c have mostly been discovered in large GWAS meta-analyses and have relatively small effect sizes.
+0	NA	NA	NA	DISCUSS	Therefore, the power to replicate these variants in our study was only <=33%.
+0	NA	NA	NA	DISCUSS	However, a GRS comprising 55 SNPs associated with HbA1c in our T1D cohort, although it explained only a small part of the variation of HbA1c.
+0	erythrocytic leukemia	NA	NA	DISCUSS	Interestingly, when divided into erythrocytic and glycemic risk scores, GRS-E including only 19 variants classified as erythrocytic SNPs was also associated with HbA1c, while no association was seen for the glycemic risk score.
+0	diabetes	NA	NA	DISCUSS	This is expected, as the erythrocyte biology can be expected to be similar in individuals with and without diabetes, but the mechanisms affecting the level of glycemia are presumably different in individuals with T1D compared with the individuals without diabetes.
+0	NA	NA	NA	DISCUSS	As discussed by Wheeler et al., the genetic factors primarily affecting erythrocyte biology may result in falsely high or low HbA1c levels no longer fully reflecting the level of glycemia and, thus, in false interpretation of HbA1c
+0	NA	NA	NA	DISCUSS	Allele frequencies of risk variants may differ between populations, and therefore it is important to conduct genetic analyses in different populations.
+0	NA	NA	NA	DISCUSS	Finns represent a population that has been genetically isolated from the rest of Europe, thus presenting an interesting opportunity to explore genetic variants affecting HbA1c in T1D.
+0	NA	NA	NA	DISCUSS	Indeed, the lead SNP was observed with a markedly higher MAF in the Finnish than in non-Finnish Europeans
+0	NA	relaxin family peptide receptor 2	NA	DISCUSS	To conclude, we identified a locus on chromosome 13 near RXFP2 that is associated with HbA1c in individuals with T1D.
+0	NA	relaxin family peptide receptor 2	NA	DISCUSS	Further studies are needed to find out whether relaxin hormone mediates the effect of RXFP2 on HbA1c.
+0	diabetes	NA	NA	DISCUSS	Since effect sizes are expected to be smaller in the population without diabetes, additional replication of the top locus as well as the search for additional genetic factors affecting HbA1c in other T1D cohorts is warranted.
+0	diabetic complications	NA	NA	DISCUSS	As HbA1c has a major influence on the development of diabetes complications, it is important to continue the search for genetic variants affecting HbA1c

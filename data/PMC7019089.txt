@@ -1,0 +1,187 @@
+0	toxicity	NA	NA	ABSTRACT	A total of 10%-20% of patients develop long-term toxicity following radiotherapy for prostate cancer.
+0	NA	to	NA	ABSTRACT	Identification of common genetic variants associated with susceptibility to radiotoxicity might improve risk prediction and inform functional mechanistic studies
+0	Breast and prostate cancer	NA	NA	ABSTRACT	We conducted an individual patient data meta-analysis of six genome-wide association studies (n = 3871) in men of European ancestry who underwent radiotherapy for prostate cancer.
+0	hematuria	NA	NA	ABSTRACT	Radiotoxicities (increased urinary frequency, decreased urinary stream, hematuria, rectal bleeding) were graded prospectively.
+0	toxicity	to	NA	ABSTRACT	We used grouped relative risk models to test associations with approximately 6 million genotyped or imputed variants (time to first grade 2 or higher toxicity event).
+0	NA	NA	NA	ABSTRACT	Variants with two-sided Pmeta less than 5 x 10-8 were considered statistically significant.
+0	NA	NA	NA	ABSTRACT	Bayesian false discovery probability provided an additional measure of confidence.
+0	NA	NA	NA	ABSTRACT	Statistically significant variants were evaluated in three Japanese cohorts (n = 962).
+0	NA	NA	NA	ABSTRACT	All statistical tests were two-sided
+0	haemorrhage	NA	rs17055178	ABSTRACT	Meta-analysis of the European ancestry cohorts identified three genomic signals: single nucleotide polymorphism rs17055178 with rectal bleeding (Pmeta = 6.2 x 10-10), rs10969913 with decreased urinary stream (Pmeta = 2.9 x 10-10), and rs11122573 with hematuria (Pmeta = 1.8 x 10-8).
+0	hematuria	to	rs147121532	ABSTRACT	Fine-scale mapping of these three regions was used to identify another independent signal (rs147121532) associated with hematuria (Pconditional = 4.7 x 10-6).
+0	NA	NA	NA	ABSTRACT	Credible causal variants at these four signals lie in gene-regulatory regions, some modulating expression of nearby genes.
+0	toxicity	NA	rs17599026	ABSTRACT	Previously identified variants showed consistent associations (rs17599026 with increased urinary frequency, rs7720298 with decreased urinary stream, rs1801516 with overall toxicity) in new cohorts.
+0	NA	NA	rs10969913	ABSTRACT	rs10969913 and rs17599026 had similar effects in the photon-treated Japanese cohorts
+0	NA	NA	NA	ABSTRACT	This study increases the understanding of the architecture of common genetic variants affecting radiotoxicity, points to novel radio-pathogenic mechanisms, and develops risk models for testing in clinical studies.
+0	NA	NA	NA	ABSTRACT	Further multinational radiogenomics studies in larger cohorts are worthwhile
+0	cancers	NA	NA	INTRO	Long-term side effects following radiotherapy affect the health-related quality of life for cancer survivors.
+0	toxicity	NA	NA	INTRO	Radiation dose and irradiated volume are the most important factors affecting toxicity risk but are broadly similar within patient populations.
+0	NA	NA	NA	INTRO	Known modifiers of the relationship between radiation exposure and risk of radiotoxicity include patient age, smoking history, concurrent treatments, and comorbidities.
+0	NA	NA	NA	INTRO	However, considerable interindividual variation in radiotoxicity remains unexplained after allowing for dosimetric and patient-level factors.
+0	NA	to	NA	INTRO	An individual's response to radiation is a heritable trait as evidenced by the similar cellular radiosensitivity of related individuals, intraindividual correlation in tissue response to therapeutic radiation, and the observation that rare mutations in some genes increase risk of radiotoxicity.
+0	NA	NA	NA	INTRO	Evidence suggests common variants may explain some of the remaining interindividual variation in radiotoxicity susceptibility.
+0	NA	to	NA	INTRO	Simulation shows that the accuracy of models to predict radiotoxicity is improved when genetic risk variants are combined with clinical and dosimetric parameters
+0	NA	to	NA	INTRO	Genetic predisposition to radiotoxicity in nonsyndromic individuals is poorly understood.
+0	death	NA	NA	INTRO	Preclinical studies suggest that the biologic mechanisms are complex, involving cell death, premature senescence, inflammation, tissue remodeling with development of fibrosis, and vascular damage.
+0	NA	to	NA	INTRO	Large genetic studies are difficult because it is challenging to build cohorts associated with a phenotype that takes months to years to develop.
+0	cancers	NA	NA	INTRO	In addition, the radiosensitivity phenotype varies by tumor site and means of assessment
+0	Breast and prostate cancer	NA	NA	INTRO	In prostate cancer patients, common radiotoxicities include increased urinary frequency, radiation cystitis (characterized by urinary bleeding, pain, and inflammation), urinary retention, and rectal bleeding.
+0	Breast and prostate cancer	NA	NA	INTRO	Radiotoxicity prevalence in prostate cancer survivors varies by radiation delivery modality, time of follow-up, and method of symptom assessment (particularly for clinician vs patient scores).
+0	toxicity	NA	NA	INTRO	A large (n = 1571) prospective cohort study assessing clinician-assigned toxicity using the National Cancer Institute Common Terminology Criteria for Adverse Events reported the actuarial likelihood at 10 years of 15% and 9% for grade 2 or higher urinary and rectal toxicities, respectively
+0	cancers	NA	NA	INTRO	Despite approximately 50% of cancer patients undergoing radiotherapy, the collection of radiotoxicity data is sporadic and inconsistent.
+0	NA	to	NA	INTRO	Most centers do not collect data routinely with the detail and standardization required to conduct radiogenomic studies.
+0	NA	NA	NA	INTRO	There is also a clear potential for clinical impact, for example, with an option for modified radiotherapy planning as increasingly conformal dose delivery techniques become available.
+0	NA	NA	NA	INTRO	The Radiogenomics Consortium was established to facilitate data sharing and develop methods for meta-analyses.
+0	Breast and prostate cancer	to	NA	INTRO	Our first pooled genome-wide association study (GWAS) performed in prostate cancer survivors demonstrated that it was possible to meta-analyze data and identify genomic risk regions despite the heterogeneity inherent in radiotherapy cohorts
+0	Breast and prostate cancer	to	NA	INTRO	As part of a long-term goal to identify sufficient variants to develop a polygenic risk model for radiotoxicity, we undertook a larger meta-analysis on six cohorts comprising 3871 prostate cancer survivors.
+0	NA	to	NA	INTRO	Secondary aims were to validate previously published single nucleotide polymorphisms (SNPs) and evaluate risk SNPs in Japanese cohorts.
+0	NA	NA	NA	INTRO	STROGAR guidelines for reporting radiogenomic studies, which build on the STREGA and STROBE guidelines, were followed throughout
+0	Breast and prostate cancer	NA	NA	METHODS	The study included individuals with prostate adenocarcinoma, treated with radiotherapy with curative intent, and followed prospectively for development of toxicity.
+0	NA	NA	NA	METHODS	All participants gave written informed consent, and cohorts were collected following standards indicated by the Declaration of Helsinki.
+0	NA	NA	NA	METHODS	Participants were from either hospital-based cohorts or clinical trials (Supplementary Methods, available online).
+0	cancers	NA	NA	METHODS	Supplementary Figure 1 (available online) summarizes the six mainly European-ancestry cohorts (Radiogenomics: Assessment of Polymorphisms for Predicting the Effects of Radiotherapy [RAPPER], RADIOGEN, Genetic Predictors of Adverse Radiotherapy Effects [GenePARE], University of Ghent [UGhent], Cross Cancer Institute-Brachytherapy [CCI-BT], Cross Cancer Institute-External Beam Radiotherapy [CCI-EBRT]) included in the meta-analysis and three Japanese cohorts (PRRG-photon, n = 170; PRRG-Cion, n = 538; and National Tokyo Medical Center (NTMC), n = 254; total n = 962) analyzed as a separate replication set.
+0	NA	NA	NA	METHODS	Individuals were excluded if DNA samples or genotyping failed quality control measures; they had non-European (or non-Japanese) ancestry determined using a preselected panel of ancestry informative markers; and/or data were unavailable on androgen-deprivation therapy, prior prostatectomy, age at treatment, and total biological effective dose (BED).
+0	NA	NA	NA	METHODS	A previously published GWAS meta-analysis included a subset of RAPPER (RAPPER-I), RADIOGEN, GenePARE (GenePARE-I), and CCI-EBRT.
+0	NA	NA	NA	METHODS	RAPPER-II, GenePARE-II, UGhent, CCI-BT, and the Japanese cohorts were not analyzed previously
+0	toxicity	to	NA	METHODS	Toxicity was assessed from 6 months up to 5 years after the start of radiotherapy, with the exception of the UGhent cohort (follow-up from 18 to 30 months only).
+0	toxicity	NA	NA	METHODS	Different toxicity assessments were used (Supplementary Table 1, available online).
+0	toxicity	to	NA	METHODS	Toxicity grades were harmonized to the Common Terminology Criteria for Adverse Events scale (Supplementary Table 1, available online).
+0	NA	NA	NA	METHODS	Assessment times were coarsened into discrete intervals for time-to-event analysis.
+0	NA	NA	NA	METHODS	Six-month intervals were used except for RAPPER, which used 12-month intervals after the first 2 years.
+0	toxicity	NA	NA	METHODS	Four toxicity outcomes were analyzed: increased urinary frequency, decreased urinary stream, hematuria, and rectal bleeding.
+0	toxicity	NA	NA	METHODS	We also tested a measure of overall toxicity using STAT score
+0	NA	NA	NA	METHODS	Germline DNA from whole blood was genotyped for published GWASs using Affymetrix SNP6.0 arrays (Affymetrix, Inc; CCI-EBRT and GenePARE-I) or Illumina CytoSNP12 arrays (Illumina, Inc; RAPPER-1).
+0	NA	NA	NA	METHODS	Everything else was genotyped using Illumina OncoArray-500K BeadChips (Illumina, Inc).
+0	NA	NA	NA	METHODS	Methods used by PRACTICAL were followed.
+0	NA	NA	NA	METHODS	Datasets were processed and imputed using reference haplotypes from the 1000 Genomes Project (see Supplementary Methods, available online)
+0	toxicity	NA	NA	METHODS	Genetic variants were tested for associations with toxicity using a grouped relative risk model adjusting for androgen-deprivation therapy, prior prostatectomy, age at treatment, and total BED.
+0	NA	to	NA	METHODS	Covariables were selected a priori to reduce heterogeneity.
+0	NA	NA	NA	METHODS	A per-allele additive genetic model was assumed.
+0	NA	NA	NA	METHODS	In RAPPER and GenePARE, where samples were genotyped in two batches using different arrays, batch was included as a binary adjustment variable.
+0	toxicity	to	NA	METHODS	Outcomes were defined as time from the start of radiation to onset of first occurrence of grade 2 or higher toxicity (see Supplementary Table 1, available online) with time coarsened into discrete intervals.
+0	NA	to	NA	METHODS	Efron method was used to handle ties
+0	NA	NA	NA	METHODS	A fixed-effects meta-analysis using inverse variance weighting combined genetic variant-toxicity associations across studies.
+0	NA	NA	NA	METHODS	Variants were considered statistically significant if the two-sided meta-analysis P value (Pmeta) was less than 5 x 10-8 and the chi-squared test of heterogeneity P value was greater than .05.
+0	NA	NA	NA	METHODS	The likelihood that an association is nominally statistically significant at a given threshold depends not only on the P value but also on the power to detect a given association.
+0	NA	NA	NA	METHODS	We therefore assessed the likelihood that our statistically significant associations represent false positives using the Bayes false discovery probability.
+0	NA	NA	NA	METHODS	Supplementary Table 2 (available online) reports power analysis for a range of minor allele frequencies and per-allele effect sizes.
+0	NA	NA	NA	METHODS	All statistical tests were two-sided
+0	NA	NA	NA	METHODS	Genomic regions surrounding each statistically significant association were fine-mapped using conditional analysis (details in Supplementary Materials, available online).
+0	NA	to	NA	METHODS	CCVs were annotated with Variant Effect Predictor to determine their effect on genes, transcripts, and protein sequences and overlapped with Encode enhancer-like and promoter-like regions.
+0	NA	NA	NA	METHODS	Potential expression Quantitative Trait Loci were identified using the Genotype Tissue Expression Portal
+0	NA	NA	NA	METHODS	Clinical and genetic variables were combined using cohort-stratified grouped relative risk models.
+0	toxicity	to	NA	METHODS	Stepwise model selection was used to identify parsimonious multivariable models for each toxicity outcome.
+0	NA	NA	NA	METHODS	Confidence intervals and P values were likelihood based and two-sided, with P values of .05 or less considered statistically significant.
+0	NA	to	NA	METHODS	The proportional hazards assumption for each predictor was tested at the nominal two-sided .05 level, one at a time, by extending the model to allow separate hazard ratios before and after 1095 days via an interaction of each predictor with I(time > 1095 days); all P values were greater than .05.
+0	NA	NA	NA	METHODS	Additional details are in the Supplementary Methods (available online)
+0	NA	NA	NA	RESULTS	 Table 1 summarizes the characteristics of the 3871 participants included in the meta-analysis.
+0	NA	NA	NA	RESULTS	The cumulative probability of developing radiotoxicity varied by cohort and outcome (Figure 1; Table 1) and agreed with prior reports.
+0	NA	NA	NA	RESULTS	As expected, radiotoxicity was higher in patients receiving brachytherapy.
+0	toxicity	to	NA	RESULTS	Lower toxicities were observed in UGhent, possibly due to differences in grading and/or shorter follow-up time.
+0	toxicity	to	NA	RESULTS	Bivariate Cox models provide evidence that the three urinary toxicities were associated with each other (eg, hazard ratio [HR] = 6.01, 95% confidence interval [CI] = 4.70 to 7.62 for association of decreased urinary stream with increased urinary frequency), whereas no urinary toxicity was associated with rectal bleeding (eg, HR = 0.96, 95% CI = 0.52 to 1.60 for association of decreased urinary stream with rectal bleeding).
+0	NA	to	NA	RESULTS	Meta-analysis Q-Q plots (Supplementary Figure 2, available online) showed no genomic inflation, suggesting population structure was adequately controlled using principal components analysis to restrict the study to European-ancestry individuals.
+0	haemorrhage	NA	rs17055178	RESULTS	Three independent SNPs reached statistical significance with a BFDP less than 2% (Table 2; Figure 2): rs17055178 with rectal bleeding (Pmeta = 6.2 x 10-10), rs10969913 with decreased urinary stream (Pmeta = 2.9 x 10-10), and rs11122573 with hematuria (Pmeta = 1.8 x 10-8).
+0	SNPs falling	NA	NA	RESULTS	Variants with minor allele frequency 1%-4% and SNPs falling just short of our criteria, including several variants associated with a secondary endpoint of overall toxicity measured using STAT score, are listed in Supplementary Table 3 (available online).
+0	NA	NA	NA	FIG	Cumulative probability of radiotoxicity.
+0	NA	NA	NA	FIG	Each graph shows the cumulative probability of developing grade 2 or worse radiotoxicity for each individual outcome within each study included in the genome-wide association study meta-analysis.
+0	haemorrhage	NA	NA	FIG	These outcomes include (A) rectal bleeding, (B) increased urinary frequency, (C) decreased urinary stream, and (D) hematuria.
+0	NA	NA	NA	FIG	Numbers listed below the x-axis for each graph represent the numbers of patients at risk
+0	NA	NA	NA	FIG	Manhattan plots.
+0	haemorrhage	NA	NA	FIG	The graphs show association results for (A) rectal bleeding, (B) increased urinary frequency, (C) decreased urinary stream, and (D) hematuria.
+0	NA	NA	NA	FIG	The red line denotes -log P value = 5 x 10-8.
+0	NA	NA	NA	FIG	Each point represents a single nucleotide polymorphism, with numbers on the x-axis denoting chromosome number
+0	NA	NA	NA	TABLE	Patient characteristics by cohort for the 3871 individuals included in the GWAS meta-analysi
+0	NA	NA	NA	TABLE	Study-specific and overall results for new risk SNPs identified via GWAS meta-analysis* of six European ancestry cohort
+0	NA	NA	NA	RESULTS	Fine-scale mapping identified CCVs (Figure 3; Supplementary Tables 4 and 5, available online).
+0	hematuria	NA	rs147121532	RESULTS	A second independent signal (tagged by rs147121532, Pconditional = 4.7 x 10-6) at chromosome (chr)1: 230337180-231337180 was associated with hematuria.
+0	NA	NA	rs11122573	RESULTS	The first signal (tagged by rs11122573, Supplementary Tables 4 and 5, available online) includes 47 CCVs (together explaining 93% of the posterior probability of risk).
+0	NA	NA	NA	RESULTS	These CCVs lie in active enhancer- or promoter-like gene-regulatory regions (Supplementary Figure 3A; Supplementary Table 6, available online).
+0	NA	AGT	NA	RESULTS	Their risk alleles decrease expression of AGT (encoding angiotensinogen; ENSG00000135744.7) and COG2 (encoding conserved oligomeric Golgi complex subunit 2; ENSG00000135775.9) in multiple tissues including arteries (Supplementary Figure 3B, available online).
+0	NA	CAPN9	rs147121532	RESULTS	The second signal with 10 CCVs (tagged by rs147121532, explaining 54% of the posterior probability; Figure 3; Supplementary Tables 4 and 5, available online) has risk alleles that decrease expression of CAPN9 (encoding the intestinal protease, calpain-9; ENSG00000135773.8) and ARV1 (encoding ARE2 required for viability [ARV1] homolog, fatty acid homeostasis modulator; ENSG00000173409.9).
+0	NA	CAPN9	NA	RESULTS	The risk alleles in the second signal were also associated with differential expression of two noncoding (nc) RNAs: decreased expression of ncRNA AL512328.1 (ENSG00000244137.1), which overlaps partially with AGT and CAPN9, and increased expression of ncRNA LOC101927604 (ENSG00000223393.1).
+0	haemorrhage	NA	NA	RESULTS	At the chr5: 156903410-157903410 region associated with rectal bleeding, a 15 CCV signal accounts for 98% posterior probability at the region (Figure 3; Supplementary Tables 4 and 5, available online).
+0	NA	NA	NA	RESULTS	CCVs in this region overlap active enhancer-like regions in gastrointestinal tissues (Supplementary Figure 3A; Supplementary Table 6, available online), but none were statistically significantly associated with differential gene expression in GTEx (all P > .05).
+0	NA	NA	NA	RESULTS	At the chr9: 30366808-31366808 region, associated with decreased urinary stream, a single 15 CCV signal accounts for 99% of the posterior probability (Figure 3; Supplementary Tables 4 and 5, available online).
+0	NA	NA	NA	RESULTS	None were statistically significantly associated with differential gene expression in the tissues evaluated by GTEx (all P > .05).
+0	NA	NA	NA	FIG	Regional Manhattan plots.
+0	hematuria	NA	NA	FIG	The graphs show signals defined by fine-mapping of the (A) hematuria risk region chromosome (chr): 230337180-231337180, (B) rectal bleeding risk region chr5: 156903410-157903410, and (C) decreased urinary stream risk region chr9: 30366808-31366808
+0	NA	to	NA	RESULTS	To explore biological mechanisms underpinning radiotoxicity, we computed gene and pathway scores from the meta-analysis results (Supplementary Tables 7 and 8, available online).
+0	toxicity	NA	NA	RESULTS	Nine pathways were associated (P < .05) with multiple toxicities (Supplementary Table 8, available online), suggesting a common biological mechanism.
+0	hematuria	NA	NA	RESULTS	"For example, the extracellular matrix pathway from the Biocarta database was associated with increased urinary frequency as well as hematuria; ""cytokine signaling in immune system"" from the Reactome database was associated both with decreased urinary stream and hematuria"
+0	NA	NA	NA	RESULTS	SNPs previously associated with radiotoxicity were evaluated for replication in the new cohorts (Table 3).
+0	toxicity	NA	rs17599026	RESULTS	Three SNPs showed a consistent association signal (rs17599026 with increased urinary frequency, rs7720298 with decreased urinary stream, and rs1801516 with overall toxicity), although the effect size was attenuated.
+0	NA	NA	NA	RESULTS	SNPs in TANC1 showed inconsistent results.
+0	NA	NA	NA	TABLE	Association results for risk loci identified in prior genetic association studie
+0	NA	NA	NA	RESULTS	The new and previously published variants were evaluated in Japanese ancestry cohorts (Supplementary Table 9, available online).
+0	toxicity	NA	rs10969913	RESULTS	In NTMC, the minor alleles of four SNPs (rs10969913, rs17599026, rs7720298, rs7582141) were associated with a nonstatistically significantly increased risk of toxicity, with the effect direction consistent with observations in Europeans.
+0	NA	NA	rs10969913	RESULTS	The PRRG photon cohort also showed consistent, though nonstatistically significant, association signals for rs10969913 and rs17599026.
+0	NA	NA	NA	RESULTS	Associations were not replicated in the PRRG carbon-ion cohort
+0	toxicity	NA	NA	RESULTS	Multivariable grouped relative risk models identified independent clinical, dosimetric, and/or comorbidity factors associated with an increased hazard ratio for each toxicity outcome (Table 4).
+0	toxicity	NA	NA	RESULTS	Importantly, SNPs remained independently associated with toxicity and with similar effect sizes in every model.
+0	NA	to	NA	RESULTS	The effect sizes for SNPs were similar to those of established dosimetric or patient-related risk factors.
+0	NA	NA	NA	RESULTS	Adjustment for the first seven principal components derived from analysis of European ancestry samples had minimal impact on model parameters.
+0	NA	NA	NA	RESULTS	C-statistics show that although model performance was modest, all four models improved slightly with the addition of SNPs (Supplementary Table 10, available online).
+0	NA	NA	NA	TABLE	Multivariable models including SNPs and clinical risk factors.
+0	NA	NA	NA	TABLE	All models are stratified by stud
+0	NA	NA	NA	DISCUSS	Our study identified three new genomic regions associated with radiotoxicity.
+0	hematuria	NA	NA	DISCUSS	By performing the first radiogenomics fine-mapping study, we identified CCVs in each region and demonstrated two independent signals in the region associated with hematuria.
+0	NA	CAPN9	NA	DISCUSS	The CCVs in this region were associated with differential expression of local protein coding genes (AGT, COG2, CAPN9, ARV1) and nc RNAs (AL512328.1, LOC101927604), pointing toward possible functional mechanisms.
+0	NA	AGT	NA	DISCUSS	For example, AGT encoding angiotensinogen is converted to the active enzyme angiotensin II by angiotensin-converting enzyme (ACE).
+0	pleural lung fibrosis	NA	NA	DISCUSS	Prior studies suggest angiotensin signaling may influence radiation-induced blood vessel wall injury and interstitial fibrosis, and animal and human studies suggest that ACE inhibitors could be radioprotective.
+0	haemorrhage	NA	NA	DISCUSS	The regions associated with rectal bleeding and decreased urinary stream did not contain CCVs associated with differential expression of nearby genes in the available tissue databases and may associate with long-distance gene regulation.
+0	haemorrhage	to	NA	DISCUSS	The rectal bleeding locus overlaps with active enhancer-like regions in gastrointestinal tissues, and further studies are needed to uncover the functional effects
+0	NA	NA	NA	DISCUSS	Pathway analysis might also identify new mechanisms involved in the pathogenesis of radiotoxicity.
+0	hematuria	to	NA	DISCUSS	For example, the top-ranking pathway associated with hematuria was platelet adhesion to exposed collagen.
+0	NA	NA	NA	DISCUSS	Platelet adhesion is the first step in the formation of a platelet plug during hemostasis in response to blood vessel wall injury.
+0	NA	NA	NA	DISCUSS	Collagens are involved in the process and some are abundant in vascular epithelia.
+0	NA	NA	NA	DISCUSS	Several collagen-binding proteins are expressed on platelets including integrins.
+0	haemorrhage	NA	NA	DISCUSS	Interestingly, the integrin pathway ranked eighth for an association with rectal bleeding
+0	late radiotoxicity	NA	NA	DISCUSS	Our analysis is the largest GWAS of late radiotoxicity.
+0	toxicity	NA	NA	DISCUSS	Although heterogeneity across cohorts adds noise and masks statistically significant SNP-toxicity associations, our analysis plan addressed heterogeneity.
+0	NA	NA	NA	DISCUSS	Use of individual patient data meta-analysis maximizes statistical power when combining information across multiple studies.
+0	toxicity	to	NA	DISCUSS	In addition, we stratified our multivariable models by study to account for differences in toxicity incidence and other unmeasured covariates that may differ across study populations.
+0	NA	NA	NA	DISCUSS	Analysis of previously identified risk SNPs provides support for the original discovery because the odds ratios, the best estimate of association, are in the same direction in the new studies.
+0	toxicity	to	NA	DISCUSS	"As is commonly observed, the initial effect size estimates for the prior GWAS-identified SNPs were upwardly biased (so-called ""winner's curse""), and evaluation here enabled estimation of effect sizes that more likely reflect their true contribution to risk of toxicity."
+0	NA	to	NA	DISCUSS	Although unable to replicate the association at 2q24.1 within TANC1, it is challenging because of the rarity of minor alleles within Europeans.
+0	NA	to	NA	DISCUSS	However, ongoing laboratory studies support a role of TANC1 in radiation response (personal communication from Ana Vega, Universidade de Santiago de Compostela, Santiago de Compostela, Spain), highlighting the importance of functional studies as complementary to association studies
+0	NA	NA	NA	DISCUSS	The multivariable risk models demonstrate that genetic variants, treatment variables, and other clinical factors are independent predictors for radiotoxicity, supporting the suggestion that common variants can improve traditional normal tissue complication probability models.
+0	NA	NA	NA	DISCUSS	Although the c-statistics for our models are modest, SNPs improved model performance.
+0	NA	NA	NA	DISCUSS	As cohort and sample sizes increase, further GWAS should uncover additional risk SNPs and sequencing studies will uncover rare, possibly high-penetrance, variants.
+0	NA	NA	NA	DISCUSS	We foresee the eventual incorporation of polygenic scores or gene panel information into integrative models of radiotoxicity that also include clinical risk factors.
+0	NA	to	NA	DISCUSS	Although important to continue efforts to identify additional risk SNPs and rare variants, our models are ready for validation, a critical next step toward clinical testing.
+0	late radiotoxicity	to	NA	DISCUSS	The REQUITE prospective cohort study of late radiotoxicity will provide an excellent opportunity to test these risk models.
+0	NA	to	NA	DISCUSS	In addition, investigators are actively developing novel clinical trial approaches for testing the ability of risk models to personalize treatment and improve outcomes.
+0	toxicity	to	NA	DISCUSS	We foresee these models being used, for example, to identify the small proportion of individuals with the highest risk for toxicity who might choose to avoid radiotherapy if watchful waiting or surgery are alternatives; for dose escalation in patients with a low risk of toxicity; and to evaluate how model-directed modification of planned doses to normal tissues affects risk for developing toxicity
+0	toxicity	to	NA	DISCUSS	A strength of our study is the prospective longitudinal assessment of toxicity enabling use of time-to-event analysis to maximize information across multiple toxicity assessments.
+0	NA	NA	NA	DISCUSS	Long-term follow-up is clearly important for radiogenomic studies, and future work should use longitudinal analysis when possible.
+0	NA	NA	NA	DISCUSS	A second strength of our work is the inclusion of Japanese ancestry cohorts.
+0	NA	to	NA	DISCUSS	Most GWAS to date focused on populations of European ancestry, because ethnicity inflates type I error rates and reduces statistical power because of population heterogeneity in allelic effects on a trait.
+0	NA	to	NA	DISCUSS	It is important to understand how knowledge gained from European populations transfers to other ethnicities.
+0	NA	to	NA	DISCUSS	Methods are being developed to detect genetic variants associated with complex traits allowing for population heterogeneity.
+0	NA	to	NA	DISCUSS	Transethnic studies suggest susceptibility loci for traits are generally shared between European and East Asians, and, because of the larger sample size, cross-population meta-analyses increase statistical power to detect novel loci.
+0	NA	to	NA	DISCUSS	Our cohort sizes are still too small to identify heterogeneity in allelic effects between ethnic groups.
+0	toxicity	NA	NA	DISCUSS	However, we performed the first analysis exploring transferability of SNP-radiotherapy toxicity associations across ethnicities
+0	NA	NA	NA	DISCUSS	Limitations include the lack of detailed dosimetry and comorbidity data for all cohorts, although our stratified analysis maximized use of data across all studies for multivariable models.
+0	toxicity	to	NA	DISCUSS	In addition, although this is the largest GWAS of its kind to date, the sample size is modest compared with disease susceptibility GWAS and was powered only to detect SNP-toxicity associations with relatively large effect sizes.
+0	NA	NA	NA	DISCUSS	Our study was too small for multi-SNP modeling, such as polygenic risk score and machine learning-based methods.
+0	NA	NA	NA	DISCUSS	The latter were successful for other polygenic traits and diseases and should be reevaluated as larger radiotoxicity cohorts become available.
+0	toxicity	to	NA	DISCUSS	In addition, this study was not designed to identify rare variants associated with radiotherapy toxicity, which requires next-generation sequencing of large cohorts or case-control studies
+0	Breast and prostate cancer	to	NA	DISCUSS	In summary, by performing the largest GWAS meta-analysis and first fine-mapping study in radiogenomics, to our knowledge, we identified four new regions associated with radiotoxicity in prostate cancer.
+0	NA	NA	NA	DISCUSS	We showed the signals affect gene regulation rather than gene coding sequences.
+0	NA	NA	NA	DISCUSS	This study increases our understanding of the architecture of common genetic variants affecting radiotoxicity and demonstrates that further multinational radiogenomics studies in larger cohorts are worthwhile
+0	NA	to	NA	ACK_FUND	This work was supported by the US National Institutes of Health (NIH; K07 CA187546 to SLK; SBIR HHSN261201500043C to BSR), the United States Department of Defense (PC140371 to BSR and HO), and the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No.
+0	NA	NA	NA	ACK_FUND	656144.
+0	Breast and prostate cancer	NA	NA	ACK_FUND	Genotyping via the OncoArray was funded by the NIH (U19 CA 148537 for ELucidating Loci Involved in Prostate cancer SuscEptibility [ELLIPSE] project and X01HG007492 to the Center for Inherited Disease Research [CIDR] under contract number HHSN268201200008I) as well as C8197/A16565.
+0	NA	NA	NA	ACK_FUND	Additional analytic support was provided by NIH NCI U01 CA188392 (PI: Schumacher).
+0	cancers	NA	NA	ACK_FUND	RAPPER was supported by Cancer Research UK grants C1094/A18504, C147/A25254, and C147/A25254 and NIHR Manchester Biomedical Research Centre funding.
+0	cancers	NA	NA	ACK_FUND	The PRACTICAL consortium was supported by Cancer Research UK Grants C5047/A7357, C1287/A10118, C1287/A16563, C5047/A3354, C5047/A10692, and C16913/A6135; European Commission's Seventh Framework Programme grant agreement No.
+0	cancers	NA	NA	ACK_FUND	223175 (HEALTH-F2-2009-223175); and the NIH Cancer Post-Cancer GWAS initiative grant: 1U19 CA 148537-01 (the GAME-ON initiative).
+0	NA	NA	NA	ACK_FUND	CMLW is supported by the NIHR Manchester Biomedical Research Centre and the EU's 7th Framework Programme Grant Agreement No 601826.
+0	NA	NA	NA	ACK_FUND	GP and MEA's work was also partially supported by NIH grant R01GM114434.
+0	NA	NA	NA	ACK_FUND	RADIOGEN research was supported by Spanish Instituto de Salud Carlos III funding, an initiative of the Spanish Ministry of Economy and Innovation partially supported by European Regional Development FEDER Funds (INT15/00070, INT16/00154, INT17/00133; PI16/00046; PI13/02030; PI10/00164), and through the Autonomous Government of Galicia (Consolidation and structuring program: IN607B) given to AV.
+0	DPD	NA	NA	ACK_FUND	DPD was supported by the NIHR Royal Marsden Hospital and Institute of Cancer Research Biomedical Research Centre
+0	NA	to	NA	ACK_FUND	The funders had no involvement in the study design, data collection, analysis and interpretation, writing of the report, or the decision to submit the paper for publication.
+0	NA	to	NA	ACK_FUND	The authors have no conflicts of interest directly related to this study to disclose
+0	Breast and prostate cancer	to	NA	ACK_FUND	The authors thank the Prostate Cancer Association Group to Investigate Cancer Associated Alterations in the Genome (PRACTICAL) Consortium (http://practical.icr.ac.uk/) for providing genotyping data for studies genotyped using the Oncoarray.
+0	NA	to	NA	ACK_FUND	We are grateful to the collaborating clinicians for participation in the PRRG study.
+0	NA	NA	NA	ACK_FUND	This work was enabled by the computational resources and staff expertise provided by Scientific Computing at the Icahn School of Medicine at Mount Sinai and the University of Rochester Center for Integrated Research Computing (CIRC)

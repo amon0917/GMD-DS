@@ -1,0 +1,265 @@
+0	NA	NA	NA	ABSTRACT	A conceptual difficulty in genetics of age-related phenotypes that make individuals vulnerable to disease in post-reproductive life is genetic heterogeneity attributed to an undefined role of evolution in establishing their molecular mechanisms.
+0	NA	NA	NA	ABSTRACT	Here, we performed univariate and pleiotropic genome-wide meta-analyses of 20 age-related phenotypes leveraging longitudinal information in a sample of 33,431 individuals and dealing with the natural-selection-free genetic heterogeneity.
+0	NA	NA	NA	ABSTRACT	We identified 142 non-proxy single nucleotide polymorphisms (SNPs) with phenotype-specific (18 SNPs) and pleiotropic (124 SNPs) associations at genome-wide level.
+0	NA	NA	NA	ABSTRACT	Univariate meta-analysis identified two novel (11.1%) and replicated 16 SNPs whereas pleiotropic meta-analysis identified 115 novel (92.7%) and nine replicated SNPs.
+0	NA	NA	NA	ABSTRACT	Pleiotropic associations for most novel (93.9%) and all replicated SNPs were strongly impacted by the natural-selection-free genetic heterogeneity in its unconventional form of antagonistic heterogeneity, implying antagonistic directions of genetic effects for directly correlated phenotypes.
+0	NA	NA	NA	ABSTRACT	Our results show that the common genome-wide approach is well adapted to handle homogeneous univariate associations within Mendelian framework whereas most associations with age-related phenotypes are more complex and well beyond that framework.
+0	NA	NA	NA	ABSTRACT	Dissecting the natural-selection-free genetic heterogeneity is critical for gaining insights into genetics of age-related phenotypes and has substantial and unexplored yet potential for improving efficiency of genome-wide analysis
+0	NA	NA	NA	INTRO	Genome-wide association studies (GWAS) are a powerful tool for hypothesis-free analysis of genetic predisposition to various phenotypes.
+0	NA	NA	NA	INTRO	"Historically, GWAS were built within the ""common disease - common genetic variant"" concept following the framework of medical genetics."
+0	NA	NA	NA	INTRO	"The underlying hypothesis in this framework is that there is a ""true"" or causal genetic effect on a phenotype of interest."
+0	genetic diseases	NA	NA	INTRO	This approach in GWAS has been supported by successful discovery of causal genetic mutations for Mendelian disorders.
+0	NA	NA	NA	INTRO	Essentially the same approach is pursued in GWAS of complex phenotypes, which do not follow clear pattern of Mendelian inheritance.
+0	genetic diseases	NA	NA	INTRO	Extension of the framework of medical genetics of hereditary disorders to the complex non-Mendelian phenotypes relies on the hypothesis that they can have a genetic component.
+0	NA	NA	NA	INTRO	"This hypothesis is supported by the concept of heritability, with significant heritability interpreted as indication of ""pure"" or ""true"" genetic component in a trait."
+0	NA	NA	NA	INTRO	The concept of heritability, introduced in breeding experiments to improve crop yield, requires, however, controlled and fixed environment that is strongly violated in human populations
+0	NA	NA	NA	INTRO	The problem becomes even more challenging for age-related phenotypes, i.e., phenotypes that make individuals vulnerable to disease in post-reproductive life.
+0	NA	NA	NA	INTRO	A conceptual difficulty in genetics of age-related phenotypes is the natural-selection-free genetic heterogeneity attributed to an undefined role of evolution in establishing their molecular mechanisms.
+0	NA	NA	NA	INTRO	This problem is complicated by recent changes in human life expectancy and the fitness landscape.
+0	NA	NA	NA	INTRO	"Accordingly, in evolutionary biology, age-related phenotypes are viewed as the results of indirect mechanisms (""side effects"") such as co-evolution with fast-evolving pathogens, mismatch with environments, reproductive success at the expense of health, trade-offs that leave every trait suboptimal, defenses and their special costs, etc."
+0	NA	NA	NA	INTRO	The concept of heritability in the evolutionary framework for age-related phenotypes becomes even more problematic because the estimates of heritability change as environment changes and significant heritability does not imply that the same genetic variant carry the same risk in different population groups, even of the same ancestry
+0	NA	NA	NA	INTRO	The natural-selection-free genetic heterogeneity has not been addressed in mainstream GWAS.
+0	NA	NA	NA	INTRO	This heterogeneity implies that differences in genetic predisposition to age-related phenotypes across different population groups is biologically motivated.
+0	NA	NA	NA	INTRO	Accordingly, different, even antagonistic, effects of the same allele on the same phenotype in different population groups are biologically plausible.
+0	NA	NA	NA	INTRO	Another challenge in the evolutionary framework is that genetic variants predisposing to a phenotype may not necessarily predispose to another, even causally related, phenotype or such genetic variants can predispose to seemingly unrelated phenotypes
+0	NA	NA	NA	INTRO	Here, we examine genetic predisposition to age-related phenotypes following the concept of an undefined role of evolution in establishing their molecular mechanisms.
+0	NA	NA	NA	INTRO	We performed the univariate and pleiotropic GWAS meta-analyses of 20 age-related phenotypes in the sample of 33,431 Caucasians from five longitudinal studies.
+0	NA	NA	NA	INTRO	We identified 142 non-proxy (defined as linkage disequilibrium [LD] r2<70%) single nucleotide polymorphisms (SNPs) with genome-wide (GW) significance (p<pGW=5x10-8).
+0	NA	NA	NA	INTRO	They include two novel and 16 previously reported SNPs attained GW significance in univariate meta-analysis of individual phenotypes, and 115 novel and nine previously reported SNPs attained GW significance in pleiotropic meta-analysis.
+0	NA	NA	NA	INTRO	We show that pleiotropic associations for most novel SNPs, 93.9% (108 of 115 SNPs), and for all replicated SNPs were strongly affected by the natural-selection-free genetic heterogeneity in a rarely recognized form of antagonistic heterogeneity, implying antagonistic directions of genetic effects for directly correlated phenotypes
+0	NA	NA	NA	RESULTS	We performed two-stage univariate and pleiotropic meta-analyses of genetic predisposition to 20 weakly-to-modestly correlated age-related phenotypes (Supplementary Figure 1).
+0	NA	NA	NA	RESULTS	The data were drawn from five longitudinal studies for 33,431 men and women combined, who identified themselves as of Caucasian ancestry.
+0	NA	NA	NA	RESULTS	In stage 1, we first performed simplified univariate GWAS of each phenotype in each cohort separately using plink software.
+0	NA	NA	NA	RESULTS	Then, these results were prioritized and top 1,000 promising SNPs were selected for more comprehensive analysis leveraging information on repeated measurements for quantitative markers and timing of the risk outcomes (Tables 1 and Supplementary Table 1).
+0	NA	NA	NA	RESULTS	In stage 2, we performed univariate meta-analysis to combine statistics for these 1,000 selected SNPs across cohorts and pleiotropic meta-analysis to combine such statistics across phenotypes.
+0	NA	NA	NA	RESULTS	These analyses addressed the natural-selection-free genetic heterogeneity in genetic predisposition to age-related phenotypes (see the Introduction) by performing five meta-tests (Fig.
+0	NA	NA	NA	RESULTS	1) (details in Methods)
+0	NA	NA	NA	FIG	Scheme of univariate and pleiotropic meta-analyses in stage 2.
+0	NA	NA	NA	FIG	(A) Statistics from stage 1 univariate GWAS of 20 phenotypes in five cohorts denoted PiCj,  and .
+0	NA	PiM	NA	FIG	(B) Univariate statistics from the meta-analysis across cohorts using the fixed-effects meta-test (PiM) and Fisher test (PiFc).
+0	NA	NA	NA	FIG	(C) Statistics from the pleiotropic meta-analysis across phenotypes in cohort j for: (i) omnibus tests with correlation matrix for phenotypes  (OpCj) and effect statistics  (ObCj) and (ii) Fisher test (FpCj).
+0	NA	NA	NA	FIG	(D) Meta-statistics from Fisher test across cohorts for the results in (C) (OpFc, ObFc, and FpFc).
+0	NA	OPRM1	NA	FIG	(E) Meta-statistics across phenotypes for the results in (B) from (i) meta-test across cohorts and omnibus test across phenotypes with correlation matrix for phenotypes  (MOp), (ii) meta-test across cohorts and omnibus test across phenotypes with correlation matrix for effect statistics  (MOb), (iii) meta-test across cohorts and Fisher test across phenotypes (MFp), and (iv) Fisher test across cohorts and Fisher test across phenotypes (FcFp).
+0	NA	NA	NA	FIG	Pathway 1: meta-analysis combining statistics across cohorts (pathway 1a) and pleiotropic meta-analysis across phenotypes (pathway 1b).
+0	NA	NA	NA	FIG	Pathway 2: meta-analysis combining statistics across phenotypes (pathway 2a) and cohorts (pathway 2b)
+0	NA	NA	NA	RESULTS	Using the Fisher test and a fixed-effect meta-test (Fig.
+1	NA	NA	rs6745983	RESULTS	1, pathway 1a), we identified two novel (see Methods) non-proxy SNPs (defined as LD r2<70%, actual LD for the reported SNPs in the same locus ranged r2=1% to 64%, Supplementary Table 2) associated at GW level with HC (rs6745983, betameta=-0.077, pmeta=4.2x10-8) and BG (rs10885409, betameta=0.672, pmeta=1.9x10-8) (Supplementary Table 3).
+0	NA	NA	NA	RESULTS	We also replicated (p<pGW) 24 associations, primarily with lipids (21 associations), for 16 SNPs in or nearby (within +-100 Kb flanking region for the index SNP) 11 protein coding genes (Supplementary Table 3).
+0	NA	NA	NA	RESULTS	Seven associations were replicated in the LPL-gene locus.
+1	NA	NA	rs780094	RESULTS	P-values were smaller for the meta-test than for the Fisher test (pmeta<pFisher) for all associations except for the associations of rs780094 with BG (pmeta=2.7x10-8 vs. pFisher =2.4x10-11) and rs261332 with TC (pmeta=5.1x10-8 vs. pFisher =2.7x10-9).
+1	NA	NA	rs780094	RESULTS	The Fisher test benefited the meta-analysis because it disregarded strong heterogeneity in the effect sizes across cohorts measured by the heterogeneity coefficient I2, i.e., I2=87.8% for rs780094 and I2=82.2% for rs261332, as supported by significant inverse correlation of the ratio log10(pmeta)/log10(pFisher) with I2, rPearson=-0.634, p=5.0x10-4
+0	NA	NA	rs2155216	RESULTS	Significance of the association of rs2155216 with TG in our modest sample of 33,431 individuals (pmeta=9.4x10-14) was about the same as previously reported (pgrasp=1.6x10-14) in a sample of 140,059 individuals.
+0	NA	NA	NA	RESULTS	These p-values indicate improvement of the efficiency of the analysis that can be quantified by the ratio of the log10(p-value) to the sample size yielding 4-fold (=log10(9.4x10-14)x140,059/log10(1.6x10-14)/33,431) larger efficiency in our study than in.
+0	NA	NA	NA	RESULTS	This improvement was partly achieved by leveraging longitudinal information on repeated measurements that resulted in smaller standard errors (Supplementary Figure 2)
+0	NA	NA	NA	RESULTS	We used four tests in pathway 1 and three tests in pathway 2 (Fig.
+0	death	NA	NA	RESULTS	1) to examine pleiotropy in the domains of 12 quantitative markers, 8 diseases and death, and all 20 phenotypes (Table 1).
+0	NA	NA	NA	RESULTS	Pleiotropic associations were defined as at least one test showing GW significance (see Methods)
+0	NA	NA	NA	RESULTS	This analysis identified 115 novel pleiotropic SNPs in or nearby (within +-100 Kb flanking region for the index SNP) 84 protein coding genes (Table 2) and replicated nine SNPs (Supplementary Table 4) with ppleio<pGW by combining associations with multiple phenotypes that individually did not attain GW significance in univariate meta-analysis (puni>pGW) (Supplementary Table 5).
+0	NA	GRASP	NA	RESULTS	SNPs were identified as novel if they did not attain GW significance in our pleiotropic meta-analysis of the results collected in GRASP for the index SNPs or for flanking SNPs, if no results for 20 selected phenotypes (Figure 1) were reported in GRASP for the index SNPs (see Methods).
+0	NA	GRASP	NA	RESULTS	Specifically, of 115 SNPs, 31 were not reported in GRASP for the selected 20 phenotypes.
+0	NA	GRASP	NA	RESULTS	For them, we identified multiple SNPs within +-1Mb flanking region in GRASP.
+0	NA	NA	NA	RESULTS	For the flanking SNPs, which were in the strongest LD to the index SNPs, no GW significant pleiotropic associations were identified (Table 3).
+0	NA	NA	NA	RESULTS	Nine flanking SNPs showed GW significant pleiotropic effects, which were independent of the pleiotropic effects for the index SNPs.
+0	NA	NA	NA	RESULTS	Of 115 novel SNPs, 29 SNPs attained smaller p-value in pathway 1 and the remaining 86 SNPs in pathway 2
+0	NA	NA	NA	RESULTS	All SNPs attained GW significant associations either in the domain of 12 markers (76 of 115 novel SNPs and seven of nine replicated SNPs) or all 20 phenotypes (39 novel and two replicated SNPs).
+0	NA	NA	NA	RESULTS	No associations with p<pGW were identified in the disease/death domain (Supplementary Table 6).
+0	NA	NA	NA	RESULTS	The 115 novel and nine replicated SNPs were associated with up to 10 phenotypes at p<0.05 (Table 2 and Supplementary Table 4).
+0	NA	NA	NA	RESULTS	Figure 2 shows 39 novel pleiotropic SNPs attained GW significance in the domain of 20 phenotypes
+0	NA	NA	NA	FIG	Heat map of phenotype-specific associations for selected pleiotropic SNPs.
+0	NA	NA	NA	FIG	Data are for 39 novel SNPs with pleiotropic associations in the domains of all 20 phenotypes (20P) from Table 2.
+0	NA	NA	NA	FIG	Numbers in parentheses are SNP IDs in Table 2.
+0	NA	NA	NA	FIG	Phenotypes are defined in Table 1.
+0	NA	NA	NA	FIG	FF, Op, and Ob denote pleiotropic meta-tests either from pathway 1 or 2 based on Fisher test, omnibus test with correlation matrix for phenotypes, and omnibus test with correlation matrix for effect statistics (Fig.
+0	NA	NA	NA	FIG	1), respectively.
+0	NA	NA	NA	FIG	MFp denotes pleiotropic meta-tests from pathway 1 (Fig.
+0	NA	NA	NA	FIG	1).
+0	NA	NA	NA	FIG	Colors code -log10(p-value) trimmed at GW level -log10(5x10-8)=7.3 for better resolution
+0	NA	NA	NA	RESULTS	Because ppleio<pGW<puni for pleiotropic SNPs, this inequality automatically validates pleiotropy for 29 SNPs in pathway 1, as it implies that pleiotropic statistics improved to attain ppleio<pGW by pooling contributions from multiple phenotypes with puni>pGW (Supplementary Table 5).
+0	NA	NA	NA	RESULTS	Likewise, GW significant pleiotropic associations in meta-analysis in pathway 2 were automatically validated for 37 SNPs with ppleio>pGW in each individual cohort (i.e., in pathway 2a) as it implies that pleiotropic statistics improved to attain ppleio<pGW in meta-analysis of individual cohorts.
+0	NA	NA	NA	RESULTS	For the remaining 49 SNPs in pathway 2, we observed ppleio<pGW in at least one cohort.
+0	NA	NA	NA	RESULTS	For five of these 49 SNPs, pleiotropic associations did not attain Bonferroni adjusted significance level, p<0.05/(Ncohorts - 1), in at least one additional cohort, whereas they attained that level for the other 44 SNPs (Supplementary Table 7)
+0	NA	NA	NA	RESULTS	Let us assume that an allele is associated with a higher risk of a phenotype P1 and that P1 is directly correlated with a phenotype P2, e.g.
+0	NA	NA	NA	RESULTS	individuals with larger values of P1 tend to have larger values of P2.
+0	NA	NA	NA	RESULTS	An implicit expectation in medical genetics for partly correlated phenotypes, especially when they are etiologically related, is that the same allele will be also associated with a higher risk of a phenotype P2.
+0	NA	NA	NA	RESULTS	In the framework of the undefined role of evolution in establishing molecular mechanisms of age-related phenotypes (see Introduction), this logic may or may not hold because given allele may not be evolutionary selected in favor or against these phenotypes.
+0	NA	NA	NA	RESULTS	A simple approach to examine this logic is to compare the results from different tests used in our pleiotropic meta-analysis.
+0	NA	NA	NA	RESULTS	Indeed, the Fisher test in pathways 1b and 2a (Fig.
+0	NA	NA	NA	RESULTS	1) combined p-values across phenotypes assuming that they were from independent associations whereas the two omnibus tests adjusted the pleiotropic meta-statistics for correlation among phenotypes (-based omnibus test) and the effect statistics (-based omnibus test) (see Methods).
+0	NA	NA	NA	RESULTS	Accordingly, the differences in p-values from the Fisher and omnibus tests reflect the impacts of heterogeneity and/or correlation in genetic associations.
+0	NA	NA	NA	RESULTS	Below, we characterize these impacts.
+0	NA	NA	NA	RESULTS	We used an ad-hoc cut-off for the difference in p-values between these tests of >=2 orders of magnitude to characterize a strong impact
+0	NA	NA	NA	RESULTS	Given a common assumption that the Fisher pleiotropic meta-test provides inflated p-values for correlated phenotypes, correlation-adjusted estimates in the omnibus tests are expected pOmnibus>pFisher.
+0	NA	NA	NA	RESULTS	Contrary to this expectation, for most novel SNPs, 93.9% (108 of 115 SNPs) and all nine replicated SNPs, we observe an opposite inequality, i.e., pOmnibus<pFisher by >=2 orders of magnitude (Table 2 and Supplementary Table 4A).
+0	NA	NA	NA	RESULTS	An unconventional set of 108 novel SNPs includes 27 SNPs from HP group in pathway 1, and 54, 5, and 22 SNPs from HP, HB, and HP/HB groups, respectively, in pathway 2 (Table 2).
+0	NA	OPRM1	NA	RESULTS	The HP group (27+54=81 SNPs) was characterized by attaining GW significance after the -based omnibus tests (i.e., OpFc or MOp, Fig.
+0	NA	NA	NA	RESULTS	1) and substantially larger (>=2 orders of magnitude) p-values in the Fisher pleiotropic meta-tests, i.e., pMOp<pMFp for pathway 1 and pOpFc<pFpFc for pathway 2.
+0	NA	NA	NA	RESULTS	The HB group (5 SNPs) resembled the HP group except for having pObFc<pFpFc.
+0	NA	NA	NA	RESULTS	The HP/HB group (22 SNPs) was characterized by attaining GW significance after the - and -based omnibus tests (pOpFc, pObFc<pFpFc) and substantially larger (>=2 orders of magnitude) p-values in the Fisher pleiotropic meta-tests (pFpFc)
+0	NA	NA	NA	RESULTS	These results show that majority of novel SNPs with pleiotropic associations, 93.9%, is characterized by a strong impact of unconventional (natural-selection-free) genetic heterogeneity rather than commonly expected correlation.
+0	NA	NA	NA	RESULTS	This form of the natural-selection-free genetic heterogeneity, called antagonistic heterogeneity, is schematically illustrated in Fig.
+0	NA	p = 1	NA	RESULTS	3 for two partly correlated phenotypes P1 and P2.
+0	NA	BMI	NA	RESULTS	This heterogeneity results in orthogonal directions of the bivariate vector of genetic effects beta1 and beta2 for phenotypes P1 and P2 and the vector of the correlation of these phenotypes and, accordingly, in opposite directions of vectors beta2 and P2.
+0	NA	NA	NA	RESULTS	As seen from Fig.
+0	NA	NA	NA	RESULTS	3, the antagonistic heterogeneity implies antagonistic directions of genetic effects for directly correlated phenotypes (see Methods)
+0	NA	p = 1	NA	FIG	Schematic illustration of antagonistic genetic heterogeneity in the associations with two partly correlated age-related phenotypes P1 and P2.
+0	NA	NA	NA	FIG	Small dots represent a sample of carriers of an effect allele A (red color) and those who do not carry this allele (no A; green color).
+0	NA	p = 1	NA	FIG	Ellipse shows correlation of P1 and P2 in this sample (r=0.6).
+0	NA	p = 1	NA	FIG	Red color denotes vector of correlation of P1 and P2 (thick diagonal vector) and its projections on phenotypes, i.e.
+0	NA	NA	NA	FIG	P1 (horizontal) and P2 (vertical).
+0	NA	BMI	NA	FIG	Black vectors beta1 and beta2 denote the effects in the associations of allele A with P1 and P2.
+0	NA	BMI	NA	FIG	Sum of beta1 and beta2 represents bivariate vector (thick line) of the effects
+0	NA	NA	NA	RESULTS	Pathway 2 provides a natural opportunity to validate the antagonistic heterogeneity in different cohorts.
+0	NA	NA	NA	RESULTS	Our analysis shows that this heterogeneity, characterized by pOpFc, pObFc<pFpFc with a difference of >=0.2 orders of magnitude for associations with suggestive significance (pOpFc, pObFc <0.1 or pFpFc<0.1), was replicated for 77 of 81 novel pleiotropic SNPs in two or more cohorts (Supplementary Table 8)
+0	NA	NA	NA	RESULTS	Lastly, the M group (7 SNPs) included 2 SNPs from pathway 1 and 5 SNPs from pathway 2.
+0	NA	OPRM1	NA	RESULTS	It was characterized by attaining GW significance in several tests and/or minor (<2 orders of magnitude) differences between p-values in OpFc and FpFc tests (pathway 2) and MOp and MFp (pathway 1)
+0	NA	NA	NA	RESULTS	We performed biological pathway (IPA, www.qiagenbioinformatics.com) and gene ontology (GO) biological processes (BPs) (DAVID) enrichment analysis for 96 protein coding genes mapped from 108 pleiotropic SNPs (Table 2).
+0	NA	NA	NA	RESULTS	We excluded genes for five non-validated SNPs (Table 2, ID 1, 24, 25, 49, and 95) and for two SNPs (Table 2, ID 53, 55) from the Major Histocompatibility Complex (MHC).
+0	NA	NA	NA	RESULTS	"The GO analysis (by DAVID 6.8 GO category ""GO_direct"") identified 10 BPs with enrichment for genes at p<0.05 (Fisher's exact test) (Supplementary Table 9)."
+0	NA	p<10-4	NA	RESULTS	Two specific terms, adenylate cyclase-activating G-protein coupled receptor signaling pathway and activation of adenylate cyclase activity, were enriched at p<10-4 and p<10-3, respectively.
+0	NA	NA	NA	RESULTS	The IPA analysis identified 18 pathways (Supplementary Table 10) enriched for genes at p<0.05 (Fisher's exact test).
+0	NA	p<10-4	NA	RESULTS	The strongest enrichment was observed for G-protein coupled receptor signaling (p<10-4), GPCR-mediated integration of enteroendocrine signaling exemplified by an L cell and cAMP-mediated signaling (p<10-3) (Figure 4) that is consistent with enrichment of GO BPs
+0	NA	NA	NA	FIG	Enrichment of pathways in the Ingenuity Pathway Analysis (IPA) bioinformatics tool.
+0	NA	NA	NA	FIG	Blue bars (upper x-axis) show -log10(p-value) for the top five IPA pathways.
+0	NA	NA	NA	FIG	Proportion of genes from the identified sets to those in the IPA pathways (orange symbols and line) is shown on the lower x-axis.
+0	NA	NA	NA	FIG	Numerical estimates are given Supplementary Table 10
+0	NA	NA	NA	DISCUSS	Our univariate and pleiotropic meta-analyses of 20 age-related phenotypes dealing with the natural-selection-free genetic heterogeneity identified large number of non-proxy SNPs, 142 SNPs, with GW significance in a relatively modest sample of 33,431 individuals of Caucasian ancestry from five longitudinal studies (Figure 5).
+0	NA	NA	NA	DISCUSS	Only 18 SNPs (12.7%) were identified in the univariate meta-analysis with most SNPs, 88.9% (16 of 18 SNPs), replicating previously reported associations, primarily with lipids.
+1	NA	TMEM163	rs6745983	DISCUSS	Two novel SNPs were associated with HC (rs6745983 in TMEM163 gene) and BG (rs10885409 in TCF7L2 gene).
+1	NA	GCKR	rs780094	DISCUSS	Two of 16 replicated SNPs, rs780094 (GCKR gene) and rs261332 (LIPC/LIPC-AS1 genes) associated with BG and TC, respectively, showed evidences for inter-cohort heterogeneity in the effect sizes.
+0	NA	NA	NA	DISCUSS	Accordingly, smaller p-values were attained by addressing this heterogeneity.
+0	NA	NA	rs2155216	DISCUSS	The association of rs2155216 (BUD13-ZPR1/APOA5 gene locus) with TG was replicated with substantially higher (4-fold) efficiency in our analysis than in previous study that was achieved, in part, by leveraging information on repeated measurements from longitudinal follow up
+0	NA	NA	NA	FIG	Summary of SNPs identified in the univariate and pleiotropic meta-analyses.
+0	NA	NA	NA	FIG	Green and blue colors denote novel and replicated SNPs, respectively
+0	NA	NA	NA	DISCUSS	Most SNPs, 87.3% (124 of 142 SNPs), were identified in our pleiotropic meta-analyses and most of them, 92.7% (115 of 124 SNPs), were novel (Figure 5).
+0	NA	NA	NA	DISCUSS	Novel pleiotropic SNPs attained GW significance by combining associations with multiple phenotypes, which individually did not attain GW significance in univariate meta-analysis (Figure 2).
+0	NA	NA	NA	DISCUSS	Therefore, pleiotropic meta-analysis has power to identify SNPs leveraging signals, which are often considered as noise in univariate GWAS.
+0	NA	NA	NA	DISCUSS	Most importantly, our analysis showed that the associations for most novel pleiotropic SNPs, 93.9% or 108 of 115 SNPs (and all 9 replicated SNPs) were strongly affected by the natural-selection-free genetic heterogeneity in a rarely recognized form of antagonistic heterogeneity, implying antagonistic directions of genetic effects for directly correlated phenotypes.
+0	NA	NA	NA	DISCUSS	This heterogeneity has not been addressed in the currently prevailing GWAS
+0	NA	NA	NA	DISCUSS	Thus, our analysis provides compelling evidences that the traditional sample-size-centered GWAS approach is well adapted to handle homogeneous univariate associations (one SNP - one phenotype) within Mendelian framework whereas most associations with age-related phenotypes are more complex and well beyond that framework.
+0	NA	NA	NA	DISCUSS	This complexity substantially decreases the efficiency of the analysis of such phenotypes within the current GWAS framework.
+0	NA	NA	NA	DISCUSS	This conclusion leads to three major implications
+0	NA	NA	NA	DISCUSS	"First, discovery of a large number of common genetic variants associated with different phenotypes in GWAS, raised concern known as a ""missing heritability problem""."
+0	NA	NA	NA	DISCUSS	The problem is that the estimated variance attributed to GWAS-identified common SNPs is only a fraction of the expected genetic variance from the estimates of heritability of a phenotype.
+0	NA	NA	NA	DISCUSS	This problem even leads to questioning whether genetics could be helpful for improving health care.
+0	NA	NA	NA	DISCUSS	Our results show that in large part missing heritability problem for age-related phenotypes can be due to missing associations with complex genetic predisposition to these phenotypes
+0	NA	NA	NA	DISCUSS	"Second, the traditional GWAS approach is built on the concept of a ""true"" or causal genetic effect (see the Introduction) whereas biologically plausible concept for age-related phenotypes is that based on the undefined role of evolution in establishing their molecular mechanisms."
+0	NA	NA	NA	DISCUSS	The letter implies that the same genetic variant can predispose differently to the same phenotype in different population groups, even of the same ancestry, e.g., throughout the life course and/or across generations.
+0	NA	NA	NA	DISCUSS	"This concept particularly implies that ""small"" genetic effects (often expected in GWAS of age-related phenotypes) can be due to a complex superposition of large effects rather than small penetrance."
+0	NA	NA	NA	DISCUSS	Then, just relaying on large samples in GWAS of age-related phenotypes without dissecting the natural-selection-free genetic heterogeneity is inefficient because increasing the sample size will also increase heterogeneity.
+0	NA	NA	NA	DISCUSS	The current study supports this concept by highlighting strong impact of antagonistic heterogeneity, which is counter-intuitive in medical genetics but natural within the evolutionary framework.
+0	NA	apolipoprotein B	NA	DISCUSS	The antagonistic heterogeneity is also supported by the analyses of alleles from well-known apolipoprotein B and E genes
+0	NA	NA	NA	DISCUSS	Third, all pleiotropic SNPs attained GW significance in the two largest domains of 12 quantitative markers and all 20 phenotypes.
+0	NA	NA	NA	DISCUSS	These findings support the hypothesis that pleiotropic predisposition to age-related phenotypes can be driven by fundamental mechanisms associated with aging.
+0	NA	NA	NA	DISCUSS	This attractive hypothesis in gerontology conceptualized as geroscience is based on observations that aging-related processes are among the most important risk factors for geriatric diseases of distinct etiologies.
+0	NA	NA	NA	DISCUSS	The dominant role of antagonistic heterogeneity in pleiotropic associations cautions against simplistic approaches in studies of pleiotropic effects on age-related phenotypes and emphasizes the importance of personalized medicine which can potentially handle complexity of risk profiles on an individual basis.
+0	NA	NA	NA	DISCUSS	Dissecting the role of antagonistic heterogeneity is particularly important as this provides a genetic basis for strategies focusing on anti-side-effect treatments in medical care
+0	NA	NA	NA	DISCUSS	Finally, our bioinformatics analysis of genes for pleiotropic SNPs identified three interlinked pathways, G-protein coupled receptor signaling, GPCR-mediated integration of enteroendocrine signaling exemplified by an L cell, and cAMP-mediated signaling.
+0	NA	NA	NA	DISCUSS	G-protein coupled receptors (GPCRs), members of the largest family of membrane proteins, are activated by a wide variety of external signals (e.g., light, odorants, hormones, neurotransmitters, pharmacologic agents, etc.)
+0	NA	NA	NA	DISCUSS	and modulate the activity of signaling pathways involved in most physiological processes.
+0	blood glucose	glucagon-like peptide 1	NA	DISCUSS	In particular, GPCRs partly mediate secretion of enteroendocrine peptide hormones glucagon-like peptide 1 (GLP-1) and peptide YY (PYY) by L-cells, relevant to food intake and blood glucose homeostasis.
+0	NA	NA	NA	DISCUSS	GPCRs play a causative role in many human diseases and are the important drug targets.
+0	NA	NA	NA	DISCUSS	Adenylyl cyclase, a membrane-associated enzyme, when activated by G proteins, catalyzes synthesis of important second messenger cyclic adenosine monophosphate (cAMP).
+0	NA	NA	NA	DISCUSS	cAMP is involved in diverse biological processes (e.g., glycogen metabolism, hormone regulation, gene expression, sensory signal transduction).
+0	NA	NA	NA	DISCUSS	The cAMP levels also partly mediate secretion of enteroendocrine peptide hormones linked to feeding/metabolic control and are associated with immune function.
+0	NA	NA	NA	DISCUSS	Top GO BPs (adenylate cyclase-activating G-protein coupled receptor signaling pathway and activation of adenylate cyclase activity) support an enrichment of BPs related to GPCRs function and cAMP synthesis.
+0	NA	NA	NA	DISCUSS	Thus, these results suggest an important role of G protein-dependent signaling and adenylyl cyclase activity necessary for the proper biological response of cells to hormones and other extracellular signals in pleiotropic effect on age-related phenotypes
+0	atherosclerotic	NA	NA	METHODS	Data were drawn from the Atherosclerosis Risk in Communities (ARIC) study, the Cardiovascular Health Study (CHS), the Multi-Ethnic Study of Atherosclerosis (MESA), the Framingham Heart Study (FHS), and the Health and Retirement Study (HRS) for individuals who identified themselves as of Caucasian ancestry
+0	death	NA	NA	METHODS	The analyses focused on 20 phenotypes (12 quantitative markers, 7 diseases, and death) listed in Table 1.
+0	death	NA	NA	METHODS	Given longitudinal design of the studied cohorts, the analyses leveraged repeated measurements of quantitative markers during follow up and timing information on onsets of diseases or death (Supplementary Table 1).
+0	NA	NA	NA	METHODS	These not strongly correlated phenotypes (Supplementary Figure 1) were available in majority of the selected cohorts.
+0	HRS	NA	NA	METHODS	All studies except HRS collected information on diseases and death in population samples during follow-up.
+0	HRS	NA	NA	METHODS	The HRS assessed information on date of death from the National Death Index Cause of Death file.
+0	HRS	NA	NA	METHODS	Age at onset of diseases in HRS was assessed from the linked Medicare service use files, which include enrollment information and the diagnoses made (International Classification of Disease-revision 9, Clinical Modification) during episodes of care paid for by the Medicare system
+0	CHS	NA	NA	METHODS	SNPs were available from Affymetrix 1M chip in ARIC and MESA, Illumina CVDSNP55v1_A chip (~50K SNPs) in FHS and CHS cohorts, Illumina HumanCNV370v1 chip (370K SNPs) in CHS, Affymetrix 500K in FHS, and Illumina HumanOmni 2.5 Quad chip (~2.5M SNPs) in HRS.
+0	NA	NA	NA	METHODS	SNPs were included in the analyses after quality control in each study (call rate>95%, Hardy-Weinberg disequilibrium p<10-6, minor allele frequency [MAF] >2%).
+0	NA	NA	NA	METHODS	In case of marginally smaller MAF for prioritized SNPs in a specific cohort compared to the MAF cut off, these SNPs were used regardless of the MAF cut off.
+0	NA	NA	NA	METHODS	To facilitate cross-platform comparisons, we selected directly genotyped (index) SNPs using all available arrays for each study.
+0	NA	NA	NA	METHODS	Non-genotyped SNPs were imputed (IMPUTE2,) according to the 1000 Genomes Project Phase I integrated variant set release (SHAPEIT2) in the NCBI build 37 (hg19) coordinate.
+0	NA	NA	NA	METHODS	Only SNPs with high imputation quality (info>0.8) were retained for the analyses
+0	NA	NA	NA	METHODS	SNPs were mapped to genes using variant effect predictor from Ensembl and NCBI SNP database (assembly GRCh38.p7).
+0	NA	NA	NA	METHODS	If an index SNP was not within protein coding gene, the closest gene(s) within +-100 Kb flanking region was (were) assigned.
+0	NA	NA	NA	METHODS	Multiple genes were selected if they were at about the same distance up- and downstream from the index SNP or the index SNP was within the region of overlapping genes
+0	NA	NA	NA	METHODS	GWAS was performed for each phenotype in each cohort separately using plink software.
+0	death	NA	NA	METHODS	In this analysis, we used quantitative markers measured at baseline, and diseases and death as binary outcomes.
+0	NA	NA	NA	METHODS	An additive genetic model with minor allele as an effect allele was adopted in all analyses throughout this article.
+0	NA	NA	NA	METHODS	We computed pleiotropic p-value by combining p-values for individual markers and binary outcomes for SNPs attained nominal significance only (p<0.05) using Fisher's test.
+0	NA	NA	NA	METHODS	This computationally efficient but overly-simplified approach was used for prioritizing of promising SNPs.
+0	NA	NA	NA	METHODS	Because this procedure provides inflated p-values, we selected top 1,000 SNPs (with smallest p-values) for all downstream analyses, rather than selecting SNPs based on specific cut off for pleiotropic p-values
+0	NA	NA	NA	METHODS	The analysis of the selected 1,000 SNPs were enhanced by leveraging longitudinal information.
+0	NA	NA	NA	METHODS	For quantitative markers, we used all measurements available during follow up of the same individuals.
+0	NA	NA	NA	METHODS	Information on longitudinal measurements has multiple advantages including potential gain in statistical power in the analyses.
+0	NA	NA	NA	METHODS	To correct for repeated-measurements (all cohorts) and familial (FHS) correlations in the analyses of quantitative markers, we mostly used the linear mixed effects model (lme4 package in R).
+0	NA	NA	NA	METHODS	Measurements of BG, BMI, HDL-C, HR, TC, and TG were natural-log-transformed to offset potential bias due to skewness of their frequency distributions.
+0	NA	NA	NA	METHODS	They were multiplied by 100 for better resolution.
+0	NA	NA	NA	METHODS	Measurements of creatinine, DBP, FVC, HC and SBP were used in their natural scale as no significant skewness was observed.
+0	NA	C-reactive protein	NA	METHODS	Given gamma-like frequency distributions of CRP, a generalized linear mixed model (glmmPQL package in R) with a gamma function and log-link was used.
+0	NA	NA	NA	METHODS	We evaluated the associations for SNPs given the measurements of quantitative markers for individuals of a given age at each examination with available measurements
+0	NA	NA	NA	METHODS	Longitudinal information on time to events was implemented in the Cox proportional hazards mixed effects model (coxme package in R).
+0	NA	NA	NA	METHODS	This model addressed familial relatedness.
+0	NA	NA	NA	METHODS	In the FHS, we used both prospective and retrospective onsets.
+0	NA	NA	NA	METHODS	The use of retrospective onsets in a failure-type model is justified by Prentice, Breslow.
+0	NA	NA	NA	METHODS	These analyses provide estimates of the effects in a given population.
+0	NA	NA	NA	METHODS	Time variable in these analyses was the age at onset of an event or at right censoring
+0	CHS	NA	NA	METHODS	The models were adjusted for: (all studies) age and sex; (ARIC, CHS, and MESA) field center; (HRS) HRS cohorts, and (FHS) whether the DNA samples had been subject to whole-genome amplification.
+0	NA	NA	NA	METHODS	No adjustment for principal components was performed as argued in Ref
+0	NA	NA	NA	METHODS	After stage 1, for each SNP we have a table with the association statistics for up to 20 phenotypes in 5 cohorts.
+0	NA	NA	NA	METHODS	These statistics were combined along two possible pathways: (i) first across studies and then across phenotypes and (ii) first across phenotypes and then across studies.
+0	NA	NA	NA	METHODS	To deal with the natural-selection-free heterogeneity in genetic predisposition to age-related phenotypes (see below), we used four tests in pathway 1 and three tests in pathway 2 (Fig.
+0	NA	NA	NA	METHODS	1)
+0	NA	NA	NA	METHODS	In pathway 1, univariate (phenotype-specific) meta-analysis combining the stage 1 statistics for the selected SNPs across cohorts (pathway 1a) was performed using the Fisher test and the traditional GWAS fixed-effects meta-test.
+0	NA	NA	NA	METHODS	Pleiotropic meta-analysis (pathway 1b) was performed by combining the univariate meta-statistics for the same SNPs across phenotypes.
+0	NA	NA	NA	METHODS	In pathway 1b, we used the Fisher test and two omnibus tests.
+0	NA	NA	NA	METHODS	The latter were designed to address correlations between the effect statistics and phenotypes.
+0	NA	NA	NA	METHODS	In pathway 2, we performed first pleiotropic meta-analysis by combining the stage 1 univariate statistics across phenotypes in each cohort separately (pathway 2a) using the Fisher test and the two omnibus tests as in pathway 1b.
+0	NA	NA	NA	METHODS	Then, we combined these pleiotropic meta-statistics across cohorts using the Fisher test (pathway 2b) (details on all tests are below)
+0	NA	NA	NA	METHODS	We adopted a conventional GWAS meta-test using a fixed effects model with inverse-variance weighting (METAL software).
+0	NA	NA	NA	METHODS	This test combines the estimated effect sizes across cohorts for each phenotype.
+0	NA	NA	NA	METHODS	Combining effect sizes is feasible because each phenotype was harmonized to be on the same scale and unit across cohorts.
+0	NA	NA	NA	METHODS	This meta-test could account for the directions of effects in different cohorts, and is more powerful than those tests that combines p-values or Z-scores.
+0	NA	NA	NA	METHODS	In pathway 1a, the weighted average of the effect sizes was calculated as  with variance 1/, where  is the inverse variance of effect size in the cohort  for a given phenotype and SNP.
+0	NA	NA	NA	METHODS	Wald test was then used to obtain p-value
+0	NA	NA	NA	METHODS	The Fisher method combines p-values assuming that they are from independent tests.
+0	NA	NA	NA	METHODS	In pathway 1a, this test combines p-values across cohorts.
+0	NA	NA	NA	METHODS	"It has power to reject the ""null"" hypothesis of no pooled effect regardless of the effect sizes and directions in the cohort-specific estimates."
+0	NA	NA	NA	METHODS	Accordingly, the Fisher test can indicate heterogeneity in genetic associations by providing smaller p-value than that from the fixed-effects meta-test.
+0	NA	NA	NA	METHODS	In pathways 1b and 2a, the Fisher test combines p-values across phenotypes.
+0	NA	NA	NA	METHODS	This test is often used for pleiotropic meta-analysis of modestly correlated phenotypes.
+0	NA	NA	NA	METHODS	Because the Fisher method combines p-values from multiple tests, it addresses the problem of multiple testing by increasing the number of degrees of freedom
+0	NA	NA	NA	METHODS	The statistics from tests of the same SNPs with different phenotypes may or may not be independent.
+0	NA	NA	NA	METHODS	It is then argued that tests penalizing for correlation of such statistics should be used to deflate the Fisher test estimates.
+0	NA	NA	NA	METHODS	A commonly adopted test in this case is an omnibus test
+0	NA	NA	NA	METHODS	For a certain SNP we have an estimated effect size  and its standard error  for the phenotype  in the cohort , where  is the number of phenotypes in study .
+0	NA	NA	NA	METHODS	The omnibus test statistic is constructed as  where  is a z-score vector of associations of SNPs with phenotypes and  is the correlation matrix of the z-scores to be estimated.
+0	NA	NA	NA	METHODS	Accordingly, this test takes into account the correlation of the effect statistics for different phenotypes.
+0	NA	NA	NA	METHODS	Under the null hypothesis , the test statistic follows a chi-squared distribution with  degrees of freedo
+0	NA	NA	NA	METHODS	from which we obtained a combined p-value  in the study .
+0	NA	NA	NA	METHODS	Accordingly, this statistic addresses the problem of multiple testing by increasing the number of degrees of freedom
+0	NA	NA	NA	METHODS	Correlation matrices  were estimated based on the effect statistics of simulated SNPs in association models with phenotypes (denoted ).
+0	NA	NA	NA	METHODS	We randomly permuted the dosage data for alleles of a given SNP for 250 times, used each permuted SNP in association models with each of K phenotypes, and estimated  based on the 250 effect sizes of permuted SNPs with K phenotypes.
+0	NA	NA	NA	METHODS	Likewise,  can be also constructed by evaluating the correlations between phenotypes (denoted ).
+0	NA	NA	NA	METHODS	The correlation matrices,  and , were constructed for pathways 1 and 2 (Fig.
+0	NA	NA	NA	METHODS	1) separately.
+0	NA	NA	NA	METHODS	Cohort-specific matrices  for pathway 2 were constructed by evaluating correlations of the effect statistics in each cohort.
+0	NA	NA	NA	METHODS	For pathway 1, matrix  was constructed by evaluating correlations of the effect statistics from a fixed effect meta-test of all cohorts for each permutation.
+0	NA	NA	NA	METHODS	The phenotype-based cohort-specific matrices for pathway 2, , were evaluated using phenotype measurements in each cohort separately and matrix for pathway 1, , was evaluated using phenotype measurements in the combined data from all cohorts.
+0	NA	NA	NA	METHODS	All correlation matrices were constructed using averaged values for quantitative traits measured longitudinally at different visits
+0	NA	NA	NA	METHODS	Omnibus tests are commonly used to penalize correlation between the effect statistics or phenotypes in pleiotropic meta-analysis.
+0	NA	NA	NA	METHODS	This can be explicitly illustrated by the test statistics  in two-dimensional case
+0	NA	NA	NA	METHODS	Either the  or -based omnibus test (see above) penalize pleiotropic meta-statistics, if
+0	NA	NA	NA	METHODS	The undefined role of evolution in establishing molecular mechanisms of age-related phenotypes is the source of genetic heterogeneity, which is driven by the lack, rather than the presence, of the evolutionary pressure in favor or against these phenotypes.
+0	NA	NA	NA	METHODS	The natural-selection-free genetic heterogeneity suggests that mechanisms driving associations of genes with age-related phenotypes and correlation between these phenotypes are, generally, of different origins.
+0	NA	NA	NA	METHODS	"In case of antagonistic genetic heterogeneity (see ""Antagonistic genetic heterogeneity in pleiotropic meta-analysis"" section), omnibus test provides smaller p-values compared to the Fisher test as can be seen from (1) because  in this case"
+0	NA	NA	NA	METHODS	The fixed-effect, Fisher, and two omnibus meta-tests used in our analyses have power to identify associations, adjusted and unadjusted for correlation and heterogeneity in genetic predisposition to age-related phenotypes (see above).
+0	NA	NA	NA	METHODS	Fisher and two omnibus tests used in pleiotropic meta-analysis address the problem of multiple testing by increasing the number of degrees of freedom.
+0	NA	NA	NA	METHODS	Accordingly, GW level (p=5x10-8) attained in either of these tests was used as a cut off for the significance for a given SNP.
+0	NA	NA	NA	METHODS	The difference between p-values from these tests for a given SNP was used to characterize the impact of correlation and heterogeneity on the association
+0	NA	GRASP	NA	METHODS	SNPs were considered as novel if they attained GW significance in: (i) our univariate meta-analysis but were not reported in GRASP catalog at p<=5x10-8 or (ii) our pleiotropic meta-analysis but not in our pleiotropic analysis of the results collected in GRASP.
+0	NA	GRASP	NA	METHODS	For univariate meta-analysis, we used evidences for the same (index) SNP in our study and GRASP.
+0	NA	GRASP	NA	METHODS	For pleiotropic meta-analysis, we selected associations from GRASP for the index SNPs with 20 phenotypes used in our analysis (Table 1).
+0	NA	GRASP	NA	METHODS	If an index SNP was not available in GRASP for the selected phenotypes, we selected SNPs within +-1Mb flanking region.
+0	NA	GRASP	NA	METHODS	Then we performed pleiotropic meta-analysis by applying the Fisher method to these GRASP results to present evidence for pleiotropy in prior studies.
+0	NA	GRASP	NA	METHODS	We used the Fisher statistics pgrasp because the effect sizes were not reported in GRASP.
+0	NA	GRASP	NA	METHODS	We used a flat p-value, p=0.4, to penalize the Fisher statistics for phenotypes with p-values not reported in GRASP.
+0	NA	NA	NA	METHODS	For flanking SNPs, we reported associations for SNPs having: (i) the strongest LD with the index SNP and (ii) the smallest pgrasp for SNPs within +-1Mb flanking region
+0	NA	NA	NA	METHODS	We used METAL software to evaluate the heterogeneity coefficient I2.
+0	NA	NA	NA	METHODS	The I2 can be interpreted as the percentage of the total variability in a set of effect sizes due to between-sample variability

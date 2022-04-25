@@ -1,0 +1,149 @@
+0	pancreatic cancer	NA	NA	ABSTRACT	Previous findings on the association of genetic factors and pancreatic cancer survival are limited and inconsistent.
+0	pancreatic cancer	Cox	NA	ABSTRACT	In a two-stage study, we analyzed the existing genome-wide association study dataset of 868 pancreatic cancer patients from MD Anderson Cancer Center in relation to overall survival using Cox regression.
+0	NA	NA	NA	ABSTRACT	Top hits were selected for replication in another 820 patients from the same institution using the Taqman genotyping method.
+0	NA	NA	NA	ABSTRACT	Functional annotation, pathway analysis, and gene expression analysis were conducted using existing software and databases.
+1	NA	PAIP2B	rs113988120	ABSTRACT	We discovered genome-wide significant associations of patient survival with three imputed SNPs which, in complete LD (r2=1), were intronic SNPs of the PAIP2B (rs113988120) and DYSF genes (rs112493246 and rs138529893) located on chromosome 2.
+0	death	NA	NA	ABSTRACT	The variant alleles were associated with a 3.06-fold higher risk of death (95% confidence interval [CI]=2.10-4.47, P = 6.4 x 10-9) after adjusting for clinical factors.
+1	NA	NA	rs113988120	ABSTRACT	Eleven SNPs were tested in the replication study and the association of rs113988120 with survival was confirmed (HR: 1.57, 95%CI: 1.13-2.20, P = 0.008).
+0	NA	NA	rs1139988120	ABSTRACT	In silico analysis found rs1139988120 might lead to altered motif.
+0	NA	NAGK	NA	ABSTRACT	This locus is in LD (D'=0.77) with 3 eQTL SNPs near or belong to the NAGK and MCEE genes.
+0	pancreatic cancer	PAIP2B	NA	ABSTRACT	According to The Cancer Genome Atlas data and our previous RNA-sequencing data, the mRNA expression level of PAIP2B but not NAGK, MCEE or DYSF was significantly lower in pancreatic tumors than in normal adjacent tissues.
+0	cancers	PAIP2B	NA	ABSTRACT	Additional validation efforts and functional studies are warranted to demonstrate whether PAIP2B is a novel tumor suppressor gene and a potential therapeutic target for pancreatic cancer
+0	pancreatic ductal adenocarcinoma	NA	NA	INTRO	Pancreatic ductal adenocarcinoma (PDAC) is the most common type of pancreatic cancer which is the fourth leading cause of cancer death in the United States.
+0	NA	NA	NA	INTRO	PDAC has a dismal prognosis; the average 5-year survival rate was 6.7% according to cumulative statistics from 2004 to 2010 .
+0	cancers	NA	NA	INTRO	The poor outcome of this disease is due mainly to late diagnosis and the high invasiveness and profoundly drug-resistant nature of the tumor.
+0	pancreatic cancer	NA	NA	INTRO	The recent advances in the understanding of the molecular and genetic alterations in pancreatic tumor have not yet been translated into significant improvement in patient survival or reduced mortality.
+0	NA	NA	NA	INTRO	There is a critical need for novel therapeutic targets and molecular markers in personalized PDAC management to achieve better treatment efficacy
+0	NA	NA	NA	INTRO	Emerging evidence suggests that germline genetic variations influence survival in PDAC.
+0	NA	NA	NA	INTRO	Studies using the candidate-gene approach focusing on genes involved in DNA repair , cell cycle regulation , drug metabolism , and signaling pathways  have observed many nominally significant associations.
+0	NA	NA	NA	INTRO	Genome-wide association studies (GWAS) on overall survival (OS) in PDAC have also identified a number of interesting loci, but the findings are inconsistent and none of these loci have reached genome-wide significance.
+0	NA	NA	NA	INTRO	Identifying genetic variants associated with PDAC survival may lead to the discovery of novel therapeutic targets for the development of new strategies in patient treatment
+0	NA	NA	NA	INTRO	Many of the previous studies on genetic factors in PDAC survival suffered the limitations of insufficient study power or heterogeneous study population.
+0	MD Anderson Cancer	NA	NA	INTRO	Taking advantage of the existing GWAS data and the large patient population recruited in a case-control study on PDAC conducted at The University of Texas MD Anderson Cancer Center, we performed a two-stage study to identify genetic variants that are associated with survival in 1,688 patients with pathologically diagnosed PDAC
+0	MD Anderson Cancer	NA	NA	METHODS	The study population was drawn from a hospital-based case-control study of patients with pathologically confirmed PDAC conducted at The University of Texas MD Anderson Cancer Center from June 2002 through May 2009.
+0	cancers	NA	NA	METHODS	All patients were recruited consecutively with the exclusion criteria of non-US resident or having a prior history of cancer.
+0	NA	NA	NA	METHODS	All patients signed an informed consent for interview and a blood sample.
+0	pancreatic cancer	NA	NA	METHODS	DNA was extracted from peripheral lymphocytes and GWAS was conducted as previously described by the Pancreatic Cancer Cohort Consortium (PanScan) and the Pancreatic Cancer Case-Control Consortium (PanC4).
+0	NA	NA	NA	METHODS	A total of 903 MD Anderson patients with sufficient amount of DNA samples were genotyped in the PanScan II and PamC4 GWASs
+0	NA	NA	NA	METHODS	Prior to analysis, we carried out further quality control of the GWAS data.
+0	NA	NA	NA	METHODS	We extracted 11 duplicate samples that were intentionally preset to check the genotyping concordance between PanScan II and PanC4.
+0	NA	NA	NA	METHODS	Comparison of the duplicate samples showed 100% concordance.
+0	NA	NA	NA	METHODS	Then, we excluded 15 patients who had later been diagnosed with diseases other than PC or who did not have complete clinical data.
+0	NA	NA	NA	METHODS	Identity-by-descent analyses did not show evident familial relationships between any of the patients.
+0	NA	NA	NA	METHODS	A total of 877 samples remained for population structure analysis.
+0	NA	NA	NA	METHODS	Using the International HapMap Project genotype data (phase 3 release #3, National Center for Biotechnology Information [NCBI] build 36, SNP Database (dbSNP) b126, 2010-05-28, minor allele frequency [MAF]>5%) for CEU, JPT/CHB, and YRI , we seeded 10,195 high-quality markers from our dataset (r2 < 0.004) in STRUCTURE analysis .
+0	NA	NA	NA	METHODS	A total of 868 individuals of European descent (0.82-1.00 similarity to CEU) were identified for the survival analysis in the discovery study.
+0	NA	NA	NA	METHODS	We also derived five principal components for population substructure based on the 868 patients using Genome-wide Complex Trait Analysis software
+0	NA	NA	NA	METHODS	The replication study was conducted in 820 MD Anderson patients who were mostly enrolled in the case-control study after the conduction of the GWAS in 2009.
+0	NA	NA	NA	METHODS	The only selection criteria we applied are: 1) have not been involved in GWAS and 2) being self-reported non-Hispanic whites.
+0	NA	Cox	NA	METHODS	We selected the highest-ranked single-nucleotide polymorphisms (SNPs), which had the smallest P values in Cox regression analysis, high imputation quality scores (>=0.7), and MAFs of >0.15.
+0	NA	NA	NA	METHODS	We also preferentially considered the nonsynonymous SNPs or SNPs of known PDAC-related genes.
+0	NA	NA	NA	METHODS	Genotyping was performed using the TaqMan method in an Applied Biosystems 7900HT Fast Real-time PCR System (Foster City, CA).
+0	NA	NA	NA	METHODS	Five percent of the samples were analyzed in duplicates, and a 99% agreement rate was achieved.
+0	NA	NA	NA	METHODS	The inconsistency was resolved by further genotyping
+0	NA	NA	NA	METHODS	Because PanScan II and PanC4 used different genotyping platforms, imputation was conducted to generate a common dataset for both studies.
+0	NA	NA	NA	METHODS	The GWAS data were first pre-phased in SHAPEIT2 , then imputed in IMPUTE2 with the 1000 Genomes Project (phase1_release_v3.20101123) as the reference .
+0	NA	NA	NA	METHODS	Because SNPs in PanScan II were originally mapped to an older genome assembly (NCBI build 36 [hg18]), we systematically converted their genome positions to genome assembly NCBI build 37 (hg19) using the liftOver tool by the University of California, Santa Cruz, (http://genome.ucsc.edu).
+0	NA	NA	NA	METHODS	SNPs not listed in NCBI build 37 were removed, with the RsMergeArch.bcp.gz database as the reference (ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606/database/organism_data/).
+0	NA	NA	NA	METHODS	Moreover, we removed SNPs that had a MAF of less than 1%, deviated from Hardy-Weinberg equilibrium (P < 0.0004), or had a high number of missing genotypes (>2%).
+0	NA	NA	NA	METHODS	Because the PanScan II and PanC4 datasets had only ~320,000 SNPs in common, imputation was performed in separate dataset.
+0	NA	NA	NA	METHODS	After imputation, we pruned out SNPs with quality scores of <0.3, MAFs of <0.01, missing rates of >0.02, or deviating from Hardy-Weinberg equilibrium (P < 0.0001), resulting in 7,738,399 bi-allelic SNPs for further analysis
+0	cancers	NA	NA	METHODS	OS was calculated from the date of cancer diagnosis to the date of death or to the last follow-up date.
+0	NA	NA	NA	METHODS	The maximum follow-up time was 5 years.
+0	NA	NA	NA	METHODS	Patients who were alive at the last follow-up date were censored.
+0	NA	NA	NA	METHODS	Median survival times were estimated and compared using the Kaplan-Meier plot and log-rank test.
+0	death	Cox	NA	METHODS	A Cox proportional hazards model was fitted to assess risk of death using hazard ratios (HRs) and 95% confidence intervals (95% CIs).
+0	cancers	NA	NA	METHODS	Genotype data were analyzed using an additive inheritance model with adjustment for demographics such as age (continuous) and sex and for clinical predictors such as tumor stage (localized, locally advanced, or metastatic), tumor resection (performed or not performed) and chemotherapy (given or not given).
+0	NA	NA	NA	METHODS	In the discovery study, five principal components accounting for population substructure were also adjusted
+0	NA	NA	NA	METHODS	Statistical analysis used the R package version 3.1.0.
+0	NA	NA	NA	METHODS	We took P < 5.0 x 10-8 as genome-wide significant in the GWAS analysis and took P < 5.0 x 10-2 as nominally significant and P < 4.5 x 10-3 (P/the number of SNP tested) as Bonferroni-corrected significant in analyses of the validation and the combined GWAS and validation dataset
+0	NA	NA	NA	METHODS	We conducted functional annotation and linkage disequilibrium (LD) analysis of the top hit SNP using HaploReg version 4 , RegulomeDB and PolyPhen-2.
+0	NA	NA	NA	METHODS	The association of selected SNPs and gene expression levels was evaluated using Genotype-Tissue Expression (GTEx) and NCBI eQTL database and the RNASeq level 3 data from TCGA.
+0	cancers	NA	NA	METHODS	A previously conducted RNA-Seq study in paired normal and tumor tissues from 10 patients with resected PDAC tumors was also considered
+0	NA	NA	NA	METHODS	To explore functionally enriched biological pathways, we conducted network analysis on SNPs with a P value of <0.0005 using Ingenuity Pathway Analysis (Ingenuity Systems, Redwood City, CA [www.ingenuity.com]).
+0	California Santa Cruz Genome	NA	NA	METHODS	SNPs were assigned to relevant genes using the University of California Santa Cruz (UCSC) Table Browser data retrieval tool.
+0	NA	NA	NA	METHODS	For each gene region, SNPs within 20 kb upstream or downstream of the gene were included
+0	NA	p<10-5	NA	METHODS	As a validation effort, we examined SNPs that were associated with PDAC survival in previous GWASs (P<10-5) in association with survival in the current MD Anderson GWAS dataset
+0	cancers	NA	NA	RESULTS	The distributions of sex, age, and tumor stage were similar between patients in the discovery and validation sets (P > 0.15 for each) (Table 1).
+0	cancers	NA	NA	RESULTS	However, more patients in the discovery set received chemotherapy than did those in the validation set (73.73% vs. 66.34%, P = 0.002), and more patients underwent tumor resection in the validation set than did those in the discovery set (34.15% vs. 29.26%, P = 0.031).
+0	cancers	NA	NA	RESULTS	As expected, disease stage and tumor resection status were strong predictors for OS (Table 1)
+0	NA	NA	NA	RESULTS	In the discovery study, with the use of the GWAS data, 528,088 SNPs were nominally associated with OS, and three SNPs in complete linkage disequilibrium reached genome-wide significance (Figure 1).
+0	NA	NA	NA	RESULTS	Detailed information on the top 214 SNPs with a P value of less than or equal to 1 x 10-5 is given in STable 1.
+0	NA	NA	NA	RESULTS	The top ten SNPs with the smallest P values in this analysis were all imputed, and their quality scores ranged from 0.556 to 0.995 (STable 1).
+1	NA	NA	rs113988120	RESULTS	To check the quality of imputation, we re-genotyped the top SNP, rs113988120, in the 868 GWAS samples using the Taqman method, and a concordance rate of 99.7% was observed.
+0	NA	NA	NA	RESULTS	We estimated the genomic control inflation factor lambda using the imputed genotype dosage after adjusting for the leading five principal components in the survival analysis.
+0	NA	NA	NA	RESULTS	The quantile-quantile plot showed a slightly inflated lambda value of 1.063 (SFigure 2).
+0	NA	NA	NA	RESULTS	It is unlikely the inflation is due to population stratification because we have adjusted the five principal components accounting for population substructure in the analysis.
+0	NA	NA	NA	RESULTS	It's more likely due to the survival analysis itself
+1	NA	PAIP2B	rs113988120	RESULTS	The top three SNPs that showed a genome-wide significant association with survival are intronic SNPs (rs113988120) of the PAIP2B (poly(A) binding protein interacting protein 2B) and rs112493246 and rs138529893 of the DYSF (dysferlin) gene located on chromosome 2.
+0	NA	NA	NA	RESULTS	The minor alleles of these three SNPs were significantly associated with shorter survival by a margin of 5.2 months (log-rank P = 1.6 x 10-5) (Figure 2A).
+0	death	Cox	NA	RESULTS	Cox regression analysis with adjustment for demographic and clinical factors demonstrated a genome-wide significant (P <= 6.4 x 10-9) association of the three SNPs with increased risk of death (HR: 3.06, 95% CI: 2.10-4.47)
+1	NA	PAIP2B	NA	RESULTS	For the replication study, we selected 11 SNPs located in eight genes coding for PAIP2B, RAB6B, ZBTB2O, ROBO1, B4GALT4, UPK1B, LRRC15, and SLIT3; in a non-coding RNA (LOC101927026); and in an intergenic region (Table 2).
+1	NA	NA	rs113988120	RESULTS	The top hit rs113988120 was included in the replication study even though the MAF (0.015) was quite low (0.015).
+0	NA	NA	NA	RESULTS	The allele frequencies of the 11 SNPs tested in the replication study were similar to those in the discovery dataset (Table 2).
+1	NA	NA	rs113988120	RESULTS	The variant allele of rs113988120 was associated with a 6.4 months and 6.3 months shorter survival in the replication and combined discovery and replication datasets, respectively (Figure 2B and 2C).
+0	cancers	Cox	NA	RESULTS	A HR (95% CI) of 1.57 (1.13-2.20, P = 0.08) in the replication dataset and 1.86 (1.46-2.37, P = 4.6 x 10-7) in the combined dataset was observed for this variant allele in Cox proportion hazards regression analysis with adjustment for demographics, tumor stage, and resection status, and chemotherapy (Table 3).
+0	NA	NA	NA	RESULTS	Other SNPs in the replication study were not significantly associated with OS (Table 3)
+1	NA	NA	rs113988120	RESULTS	Next we assessed the impact of rs113988120 on survival by disease stage.
+0	NA	NA	NA	RESULTS	The median survival time was 34.3 vs 14.9 months (Plog-rank <0.001), 15.7 vs 10.3 months (Plog-rank <0.001), and 10.6 vs 8.0 months (Plog-rank =0.318) for TT vs TA/AA genotype carriers for patients with localized, locally advanced and metastatic disease, respectively (SFigure 2)
+0	allergy	NA	NA	RESULTS	RegulomeDB analysis suggest that it may have an undefined altered mortif with a score of 6, and it is located at a DNAseI hypersensitive site and an enhancer region of the chromatin, which make it more accessible for the binding of proteins such as transcription factors.
+1	NA	NAGK	rs113988120	RESULTS	HaploReg analysis demonstrated that rs113988120 was in LD (r2=0.49, D'=0.77) with three eQTL SNPs (rs34634781, rs35098046 and rs34022557) near or belong to the NAGK (N-acetylglucosamine kinase) and MCEE (methylmalonyl-CoA epimerase) gene on chromosome 2, in addition to the two SNPs of the DYSF gene (STable 2).
+0	NA	Cox	rs34634781	RESULTS	Cox regression analysis of the GWAS data showed that rs34634781 had an HR of 2.44 (95% CI: 1.70 -3.49, P = 1.10 x 10-6) and s35098046/rs34022557 had an HR of 2.43 (95% CI: 1.71 -3.46 P = 8.50 x 10-7) (STable 1)
+0	cancers	PAIP2B	NA	RESULTS	Using TCGA RNA-seq level 3 data from four PDAC patients, we found that PAIP2B expression was downregulated in tumors (mean=90.58) compared with paired normal tissues from the same patient (mean = 150.22) (P = 0.23, paired t-test).
+0	NA	PAIP2B	NA	RESULTS	This observation agreed with data from our previous RNA-seq study on paired tumor-normal tissues of 10 PDAC patients, which showed a 7.8-fold lower expression of PAIP2B in tumors than in normal adjacent tissues (P = 0.00032).
+0	cancers	PAIP2B	NA	RESULTS	Notably, the expression of PAIP2B was significantly reduced in tumors compared with that in normal adjacent tissues of other gastrointestinal cancers according to TCGA RNA-seq data (Ps <= 8 x 10-5) (Table 4).
+0	cancers	PAIP2B	NA	RESULTS	We did not detect a significant association of PAIP2B expression with patient survival in the entire TCGA dataset of 178 tumor samples (P = 0.30).
+0	death	PAIP2B	NA	RESULTS	Among patients with stage II or earlier disease (n=48), those with lower (below median) PAIP2B expression exhibited a non-significant shorter survival (by 39 months, Plog-rank = 0.10) and increased risk of death than those with higher (at or above median) PAIP2B expression (HR=2.45, 95%CI: 0.90-6.80, P = 0.081).
+0	cancers	NAGK	NA	RESULTS	The mRNA expression levels of NAGK, MCEE and DYSF genes were not significantly different between tumor and normal adjacent tissues and were not related to survival (data not shown)
+0	NA	Cox	NA	RESULTS	Next, we conducted IPA on 162 genes whose tagging SNPs had P < 0.0005 in Cox regression analysis.
+0	NA	CXCR4	NA	RESULTS	The top four most significant pathways identified were G beta-gamma signaling (P = 1.77 x 10-5, q value = 0.012), CXCR4 signaling (P = 8.82 x 10-5, q value = 0.03), CREB signaling in neurons (P = 1.99 x 10-4, q value = 0.07), and CCR5 signaling in macrophages (P = 4.51 x 10-4, q value = 0.08) and Agrin interactions at neuromuscular junction (P = 4.47 x 10-4, q value = 0.08) (STable 3).
+0	NA	NA	NA	RESULTS	When we reran IPA on genes selected at various P value thresholds ranging from 0.008 to 0.00001, the top four pathways remained almost unchanged (data not shown)
+0	NA	p<10-5	NA	RESULTS	We analyzed the top SNPs associated with PC survival in previous GWAS studies  and found that 11 of 131 such SNPs (P<10-5) in the study by Wu et al.
+0	NA	NA	NA	RESULTS	were nominally significant in our study (P < 0.05) (STable 4)
+1	NA	PAIP2B	rs113988120	DISCUSS	In this GWAS study, we discovered a significant association of a polymorphic variant (rs113988120) of the PAIP2B gene with shorter survival in patients with PADC and confirmed this association in a replication study.
+0	NA	NA	NA	DISCUSS	This is, to our knowledge, the first report of a genome-wide association of germline genetic variation and PDAC survival in a GWAS dataset
+1	NA	PAIP2B	rs113988120	DISCUSS	The rs113988120 SNP is located in the intron region of the PAIP2B gene.
+0	NA	NA	NA	DISCUSS	In silico analysis suggested weak evidence for possible adverse functional consequences of this SNP but it is not related to gene expression.
+0	allergy	NA	NA	DISCUSS	Furthermore, this SNP is located in a DNAseI hypersensitive and chromatin enhancer region, which suggests more accessibility for transcription factor binding.
+1	NA	NAGK	rs113988120	DISCUSS	Furthermore, rs113988120 is in LD with five SNPs, including three eQTLs, near or located at the NAGK, MCEE, and DYSF genes and all five SNPs were among the top hits identified from the GWAS dataset with P values less than or equal to 1.1 x 10-6.
+0	NA	NA	NA	DISCUSS	Thus, which gene or SNP is truly responsible for the observed association with PDAC survival is unclear at present.
+0	NA	NA	NA	DISCUSS	Further fine mapping and functional studies are required to identify the causal allele and to understand the mechanisms involved
+0	cancers	PAIP2B	NA	DISCUSS	At the gene level, the gene expression data support a tumor suppressor role of PAIP2B and possible link with patient survival.
+0	pancreatic cancer	PAIP2B	NA	DISCUSS	While a significantly reduced expression of PAIP2B mRNA was observed in pancreatic cancer and several other gastrointestinal cancers (TCGA data), the mRNA expression level of NAGK, MCEE, and DYSF genes were not significantly different between tumor and normal tissues.
+0	NA	PAIP2B	NA	DISCUSS	In addition, the reduced expression of PAIP2B was related to shorter survival in PADC patients with early-stage disease (N=48) even though the difference was not statistically significant.
+0	NA	NA	NA	DISCUSS	Because of the sample size is small, this association needs further investigation
+0	NA	PAIP2B	NA	DISCUSS	PAIP2B is a translational inhibitor that regulates poly(A) binding protein activity.
+0	NA	poly(A) binding protein	NA	DISCUSS	Poly(A) binding protein enhances translation by circularizing mRNA through its interaction with the translation initiation factor EIF4G1 and the poly(A) tail.
+0	cancers	PAIP2B	NA	DISCUSS	PAIP2B regulates the translation of many genes that have important biological significance in cancer.
+0	NA	VEGFA	NA	DISCUSS	For example, it is a strong regulator of vascular endothelial growth factor and is an anti-proliferative factor.
+1	NA	PAIP2B	rs113988120	DISCUSS	Although we have no evidence to link SNP rs113988120 with the expression of the PAIP2B gene, it is conceivable that the polymorphic variants may result in altered poly(A) binding protein binding activity, which in turn leads to upregulated expression of many pro-proliferative or metastatic genes that contribute to reduced patient survival.
+0	prostate carcinogenesis	PAIP2B	NA	DISCUSS	Further replication studies in other GWAS datasets and functional studies on PAIP2B in pancreatic carcinogenesis are warranted to confirm the observed association and to understand the mechanisms underlying the association
+0	NA	DYSF	NA	DISCUSS	DYSF is a skeletal muscle protein, which plays a role in calcium-mediated membrane fusion events, suggesting that it may be involved in membrane regeneration and repair.
+0	NA	NA	NA	DISCUSS	Mutation of these genes have been associated with sarcolemma in animal model.
+0	NA	NAGK	NA	DISCUSS	The NAGK gene encodes N-acetylhexosamine kinase that catalyzes the conversion of N-acetyl-D-glucosamine to N-acetyl-D-glucosamine 6-phosphate, and is the major mammalian enzyme which recovers amino sugars.
+0	NA	NAGK	NA	DISCUSS	NAGK has been associated with speckle, paraspeckle and general transcription factor suggesting its regulatory roles in gene expression .
+0	cardiothoracic conditions	NAGK	NA	DISCUSS	NAGK gene mutation has been related to inclusion body myopathy .
+0	NA	MCEE	NA	DISCUSS	MCEE catalyzes the interconversion of D- and L-methylmalonyl-CoA during the degradation of branched chain amino acids, odd chain-length fatty acids, and other metabolites.
+0	methylmalonyl-CoA epimerase deficiency	NA	NA	DISCUSS	Mutations in this gene result in methylmalonyl-CoA epimerase deficiency, which is presented as mild to moderate methylmalonic aciduria.
+0	cancers	NA	NA	DISCUSS	Whether these two genes play any role in cancer is currently unknown
+0	NA	CXCR4	NA	DISCUSS	Network analysis identified several signaling pathways that are significantly associated with survival, such as the G beta-gamma and CXCR4 signaling pathways.
+0	cancers	NA	NA	DISCUSS	The CXCL12/CXCR4 axis may promote dissociation of the G beta-gamma complex (Gbetagamma), then activate PI3K-AKT and Rho-ROCK-MLC pathways to promote cancer cell survival and migration.
+0	cancers	NA	NA	DISCUSS	A high level of CXCL12/CXCR4 expression was reported to be significantly associated with metastasis and low OS in many types of cancer, including PDAC.
+0	pancreatic cancer	NA	NA	DISCUSS	Suppression of the CXCL12/CXCR4 axis contributed to immune control of pancreatic ductal cancer growth.
+0	NA	NA	NA	DISCUSS	Our findings on the CXCL12/CXCR4 pathway genes may have potential value in future PDAC therapy targeting this particular pathway
+0	NA	NA	NA	DISCUSS	The strengths of the current study include a large sample size and a relatively homogeneous study population from the same institution.
+0	NA	NA	NA	DISCUSS	As part of a hospital-based study, the clinical data are relatively accurate and complete.
+0	NA	NA	NA	DISCUSS	The existing large databases such as TCGA and GTEx have facilitated the functional annotation of the GWAS top hits.
+0	NA	NA	NA	DISCUSS	However, the number of SNPs selected for validation was limited because of cost constraints.
+0	NA	NA	NA	DISCUSS	We may have missed some important ones.
+0	NA	NA	NA	DISCUSS	The low MAF of the identified SNP and the small number of samples available for PC gene expression analysis limited our ability to fully characterize this gene variant
+0	NA	PAIP2B	NA	DISCUSS	Overall, our study has reported a low-frequency SNP of the translation inhibitor gene PAIP2B with a significant association with PC survival.
+0	NA	NA	NA	DISCUSS	These data need further validation in other datasets.
+0	cancers	NA	NA	DISCUSS	If confirmed, they may open a new research avenue in illustrating the molecular mechanisms underlying the clinical phenotypes and offer a potential tool in identifying therapeutic targets for future individualized cancer treatment
+0	NA	NA	NA	FIG	Manhattan plot for P values in survival analysis of the GWAS data
+1	pancreatic cancer	NA	rs113988120	FIG	Kaplan-Meier plot for overall survival of patients with pancreatic cancer by rs113988120 genotype.
+0	NA	NA	NA	FIG	Panels A, B, and C present survival curve in the discovery, validation, and combined datasets, respectively.
+0	NA	NA	NA	FIG	The median survival time was 14.87 vs 9.67 months, 19.7 vs 13.3 months, and 16.9 vs 10.6 months for TT vs TA/AA genotype carriers and the number of patients with the at-risk (TA/AA) genotypes are 29, 31 and 60 in the discovery, replication and combined datasets, respectively.
+0	NA	NA	NA	FIG	P values are from log-rank test
+0	pancreatic cancer	NA	NA	ABBR	We found a significant association of a single nucleotide polymorphic variant and pancreatic cancer survival in a two stage study.
+0	cancers	NA	NA	ABBR	This finding may help to identify novel tumor suppressor gene and therapeutic target for pancreatic cancer

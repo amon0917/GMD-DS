@@ -1,0 +1,216 @@
+0	cancers	NA	NA	ABSTRACT	Somatic mutation signatures may represent footprints of genetic and environmental exposures that cause different cancer.
+0	NA	NA	NA	ABSTRACT	Few studies have comprehensively examined their association with germline variants, and none in an indigenous African population.
+0	breast cancer	NA	NA	ABSTRACT	SomaticSignatures was employed to extract mutation signatures based on whole-genome or whole-exome sequencing data from female patients with breast cancer (TCGA, training set, n = 1,011; Nigerian samples, validation set, n = 170), and to estimate contributions of signatures in each sample.
+0	NA	NA	NA	ABSTRACT	Association between somatic signatures and common single nucleotide polymorphisms (SNPs) or rare deleterious variants were examined using linear regression.
+0	Deficiency	NA	NA	ABSTRACT	Nine stable signatures were inferred, and four signatures (APOBEC C>T, APOBEC C>G, aging and homologous recombination deficiency) were highly similar to known COSMIC signatures and explained the majority (60-85%) of signature contributions.
+0	NA	NA	NA	ABSTRACT	There were significant heritable components associated with APOBEC C>T signature (h 2 = 0.575, p = 0.010) and the combined APOBEC signatures (h 2 = 0.432, p = 0.042).
+0	NA	GNB5	NA	ABSTRACT	In TCGA dataset, seven common SNPs within or near GNB5 were significantly associated with an increased proportion (beta = 0.33, 95% CI = 0.21-0.45) of APOBEC signature contribution at genome-wide significance, while rare germline mutations in MTCL1 was also significantly associated with a higher contribution of this signature (p = 6.1 x 10-6).
+0	breast cancer	NA	NA	ABSTRACT	This is the first study to identify associations between germline variants and mutational patterns in breast cancer across diverse populations and geography.
+0	prostate carcinogenesis	NA	NA	ABSTRACT	The findings provide evidence to substantiate causal links between germline genetic risk variants and carcinogenesis
+0	breast cancer	NA	NA	ABSTRACT	Women of African ancestry are more likely to be diagnosed with clinically aggressive breast cancer than women of European or Asian ancestry.
+0	breast cancer	NA	NA	ABSTRACT	Here, the authors examined associations between germline variants and mutational signatures in breast cancers across different ethnicities, especially in a unique sample set of indigenous African women.
+0	cancers	NA	NA	ABSTRACT	They identified four stable mutational signatures that explained the majority of tumor mutations, leading to a better understanding of the complex interplay between germline genetics and somatic mutations across different ethnicities
+0	cancers	NA	NA	INTRO	Somatic mutation signatures act as the physiological readout of the biological history of a cancer, and provide a new bridge to connect cancer mutation to both exogenous and endogenous risk factors.1, 2, 3 Many signatures have been reported to be attributable to specific environmental or lifestyle mutagens.4 However, somatic mutations could also be influenced by heritable factors,5 and endogenous factors that influence cancer far more than previously considered.6, 7 A few studies have examined the interplay between germline genetics and somatic mutations in carcinogenesis with signals identified for germline variants in RAD51B,8 MC1R,9 APOBEC3 regions10, 11, 12 and DNA mismatch repair genes in different types of cancers.13 In addition, a few genes driven by rare deleterious variants were reported to be significant, which include: polymerase epsilon, catalytic subunit (POLE) gene associated with the Catalog of Somatic Mutation in Cancer (COSMIC) signature 10 in colorectal and endometrial carcinomas;1 homologous recombination deficiency (HRD) genes PALB2 and BRCA1/2 associated with HRD signature in various cancers;14, 15 and nucleotide excision repair (NER) genes associated with COSMiC signature 5 in urothelial tumors.16 The existing studies offered some evidences to the largely unexplored relationships between germline and somatic mutations.10, 17, 18, 19
+0	breast cancer	NA	NA	INTRO	The burden and severity of breast cancer vary widely across populations.
+0	aggressive disease	NA	NA	INTRO	Women of African ancestry are more likely to be diagnosed with clinically aggressive disease and have a higher mortality rate than age-matched women of European or Asian ancestry.20 Emerging data from The Cancer Genome Atlas (TCGA) has identified mutation signatures that show differences across ancestry groups.21, 22 These studies suggest modest differences between African and non-African ancestry groups but these datasets have relatively small number of women of African ancestry.23 To examine the association between common genetic variants, rare deleterious mutations and the contribution of mutational signatures across diverse populations, we used TCGA as the training set, and examined the whole-genome sequencing (WGS) and whole-exome sequencing (WES) from Nigeria as the validation set.
+0	NA	NA	NA	INTRO	We tested the hypothesis that biologically relevant germline variants associated with somatic mutation signatures in women of non-African ancestry would be validated in women of African ancestry as well
+0	breast cancer	NA	NA	METHODS	Our study was embedded within the Nigerian Breast Cancer Study (NBCS) and approved by the Institutional Review Board of all participating institutions.
+0	NA	NA	NA	METHODS	Informed consent has been obtained from the participants
+0	breast cancer	NA	NA	METHODS	A total of 1,037 breast cancer patients from TCGA were used as the training set.
+0	NA	NA	NA	METHODS	Demographics of participants, including clinical characteristics across ethnicity are summarized in Supporting Information Table S1.
+0	NA	NA	NA	METHODS	Somatic mutation data (single nucleotide variants [SNVs]) were generated as previously described.22 We included 1,035 WES and 84 WGS, and 82 patients owned both WGS and WES data in this analysis
+0	breast cancer	NA	NA	METHODS	Affymetrix Genome-Wide Human SNP 6.0 Array data for 2,270 breast cancer samples were downloaded from TCGA on November 6, 2015.
+0	cancers	NA	NA	METHODS	A total of 1,134 samples were excluded for different reasons (12: missing ID; 1,110: solid tumor tissue; 12: male patients).
+0	NA	NA	NA	METHODS	Among the remaining 1,136 female samples (1,087 unique patients), we excluded samples for 33 more patients due to genotyping missing rate >=5%, and worked with samples for 1,054 patients.
+0	NA	NA	NA	METHODS	Of the 906,600 single nucleotide polymorphisms (SNPs) included in the microarray data, 1,466 SNPs were excluded for lacking chromosome information or mapping to Y chromosome and 47,140 SNPs were removed due to genotyping missing rate >=5% or being monomorphic, and 857,994 SNPs remained
+0	NA	NA	NA	METHODS	Genetic ancestry of TCGA patients was estimated using principal component analysis (PCA).21 According to the estimated proportion of ancestry, patients were grouped into genomic Black (>=50% African ancestry), genomic White (>=90% European ancestry) and genomic Asian (>=90% Asian ancestry) as previously described.21
+0	NA	NA	NA	METHODS	Genotype imputation was done using IMPUTE2 software with the 1,000 Genomes Project phase 3 integrated variant set as the reference panel.24 A total of 81,232,799 SNPs within autosomes were imputed, and 24,570,114 SNPs were kept after excluding singletons or SNPs with an imputation information score <0.7
+0	cancers	NA	NA	METHODS	"Using the Platypus (https://www.well.ox.ac.uk/research/research-groups/lunter-group/softwares/platypus-a-haplotype-based-variant-caller-for-next-generation-sequence-data) in single-sample mode, variants within exonic regions were called as described previously.22 Briefly, variants were considered rare and deleterious if (i) they had an allele frequency <0.05 in The Exome Aggregation Consortium (ExAC)25 and across TCGA blood germline exomes from various cancer types,22 and (ii) they were predicted by variant effect predictor (VEP) to have ""HIGH"" impact, cause protein loss-of-function (stop-gain, frameshift insertion and deletion [indel], etc."
+0	NA	NA	NA	METHODS	), or were missense mutations with a combined annotation dependent depletion (CADD)26 score >25.
+0	NA	NA	NA	METHODS	Only blood germline exomes were included.
+0	NA	NA	NA	METHODS	Additionally, variants were required to fall within consensus coding sequence (CCDS, version 17) exonic regions to be carried downstream.
+0	NA	NA	NA	METHODS	In total, 132,186 rare deleterious variants were found within 11,718 genes in 968 samples, of which 2,933 genes had only one mutation and 6,560 genes (56.0%) had less than five counts of rare coding deleterious variants among these samples.
+0	NA	NA	NA	METHODS	We therefore only focused on genes with at least five mutations (n = 5,158) in the downstream analyses.
+0	NA	NA	NA	METHODS	The Bonferroni corrected alpha levels for significance was 9.69 x 10-6
+0	breast cancer	NA	NA	METHODS	A total of 172 women with breast cancer from Nigeria were evaluated.
+0	breast cancer	ER	NA	METHODS	All Nigerian patients were assumed to be 100% African with little to no admixture with other populations.27 These patients were younger and had more aggressive subtypes of breast cancer with higher proportion of estrogen receptor negative (ER-), progesterone receptor negative (PR-), human epidermal growth factor receptor 2 negative (HER2-; triple-negative) subtypes.
+0	NA	NA	NA	METHODS	Characteristics of the Nigerian dataset were previously described.22
+0	breast cancer	NA	NA	METHODS	Hundred breast tumor samples for WGS and 129 breast tumor samples for WES from 172 unique patients were processed for this analysis.
+0	NA	NA	NA	METHODS	Two WGS samples were excluded as outliers because their mutation counts were <100.
+0	NA	NA	NA	METHODS	Fifty-seven patients had both WGS and WES.
+0	NA	NA	NA	METHODS	For the common SNP analysis, 98 WGS samples were involved, while 170 samples (129 WES, 41 WGS) were included for rare variants analysis.
+0	NA	NA	NA	METHODS	Rare coding deleterious variants were called as described above.
+0	NA	NA	NA	METHODS	In total, 22,035 rare coding deleterious variants were found within 5,439 genes in 170 samples, of which 2,196 genes had only one mutation among these samples and 3,876 genes (71.3%) had less than five rare coding deleterious counts.
+0	NA	NA	NA	METHODS	A total of 1,563 genes were included in the final analysis
+0	NA	NA	NA	METHODS	Somatic SNVs were called as described previously.22 Briefly, in order to be utilized in downstream analyses, SNVs needed to be called by both MuTect (https://software.broadinstitute.org/cancer/cga/mutect) and Strelka (https://github.com/Illumina/strelka) as well as be absent within a normal panel of exomes (n = 1,088) and genomes (n = 124) derived from blood.
+0	NA	NA	NA	METHODS	We employed a nonnegative matrix factorization (NMF) approach using SomaticSignatures28 to extract somatic mutational signatures and estimate their contributions to each sample
+0	NA	NA	NA	METHODS	The ability to reliably call mutation signatures depends on having sufficient number of mutations per sample.
+0	NA	NA	NA	METHODS	To this point, we used all high-quality somatic exome SNVs, regardless of their position in the coding or noncoding region.
+0	NA	NA	NA	METHODS	A pilot study was conducted to compare the stability of signatures among different number of minimum SNVs (24, 48, 72 and 96, data not shown), and found that a cut point of 24 is sufficient.
+0	NA	NA	NA	METHODS	This is consistent with recent finding that 20 mutations gave an average classification accuracy of 80% across signatures.29 Any sample containing at least 24 SNVs was included for downstream assessment in order to enlarge the sample size as much as possible
+0	NA	NA	NA	METHODS	In order to obtain more stable signature estimates and ensure comparability between the training and validation sets, we combined both datasets to call the signatures, including 84 WGS samples and 1,008 WES samples from TCGA as well as 98 WGS samples and 129 WES samples from Nigeria.
+0	NA	NA	NA	METHODS	For samples with both WGS and WES, both data types were included
+0	NA	NA	NA	METHODS	We first used the nonnegative matrix factorization without normalization to obtain the mutation matrix as described by Alexandrov et al.,4 then calculated the percentage contributions of signatures for each sample by normalizing to the number of mutations of each sample.
+0	NA	NA	NA	METHODS	For subsequent analyses, we used the percentage of mutations assigned to each signature (contribution) rather than the total number of mutations attributed to a signature.30 The sum of mutation signatures' contribution is 1.
+0	NA	NA	NA	METHODS	This distinction is important as high APOBEC contribution, for example, do not necessarily imply APOBEC hypermutation
+0	NA	NA	NA	METHODS	Nine signatures were retained at the end for further downstream analyses because nine signatures explained approximately 99% of variance in the current sample.
+0	NA	NA	NA	METHODS	For all nine signatures, we examined the correlation of contributions between exomes and genomes using 138 individuals who had both WES and WGS data using intraclass correlation coefficient (rho).
+0	NA	NA	NA	METHODS	Each signature's contribution was simultaneously called for WGS samples and WES samples for those 138 individuals.
+0	NA	NA	NA	METHODS	Signatures A1 (rho = 0.938), A2 (rho = 0.912) and A9 (rho = 0.866) all exhibited strong correlation).
+0	NA	NA	NA	METHODS	APOBEC C>T (Signature A1) and C>G (Signature A2) contributions were correlated (r = 0.43).
+0	NA	NA	NA	METHODS	We only focused on stable signatures between WGS and WES in order to reliably leverage all available WES samples
+0	cancers	NA	NA	METHODS	We compared our mutation signature matrices with the 30 previously reported signatures operative across a variety of cancer types downloaded from the COSMIC.
+0	NA	NA	NA	METHODS	Mean Kullback-Leibler Divergence was applied to evaluate the similarity between our signatures and those from COSMIC:31  P and Q are the distributions matrixes for our signatures and those from COSMIC, respectively.
+0	NA	NA	NA	METHODS	The smaller Kullback-Leibler Divergence is, the better the similarity.
+0	NA	NA	NA	METHODS	A similarity of 0.00 is an exact match.
+0	NA	NA	NA	METHODS	With this approach, we determined the best representative known COSMIC signature for each of the signature we identified, and named with the name from canonical COSMIC signature they most closely resemble.
+0	NA	NA	NA	METHODS	Two signatures A5 and A7 did not match any canonical COSMIC signature
+0	NA	hormone receptor	NA	METHODS	We compared contribution of the selected signatures among categorical variables, including ancestry (Black, White, Nigerian) and hormone receptor (HR)/HER2 status (HER2+, HR+/HER2- and HR-/HER2-), using Mann-Whitney U test
+0	NA	NA	NA	METHODS	We used GCTA to calculate the pairwise genetic relationship between individuals and created the genetic relationship matrix (GRM).32 We used a GRM cut-off value of 0.05,33 which excludes relationships that are approximately closer than second cousins.
+0	NA	NA	NA	METHODS	This removed around 77 samples in the TCGA dataset.
+0	NA	NA	NA	METHODS	All the heritability estimation analyses control for first 10 eigenvectors from PCA.
+0	NA	NA	NA	METHODS	We then estimated PCA-adjusted heritability of each phenotype (signature contribution) by the restricted maximum likelihood method in GCTA.
+0	NA	NA	NA	METHODS	Power analysis (http://cnsgenomics.com/shiny/gctaPower/) indicated a 99% chance of detecting a SNP-based heritability estimate (h 2) of 0.15 in the TCGA cohort.34
+0	NA	NA	NA	METHODS	The heritability was not calculated for Nigeria samples due to limited sample size.
+0	NA	NA	NA	METHODS	In the training dataset, among 24,570,114 SNPs, 1,573,566 were removed due to missing genotype data (missing proportion >5%), 5,301,200 variants were removed due to minor allele frequency (MAF) <0.001, and 188,864 variants were removed due to deviation from the Hardy-Weinberg equilibrium (HWE).
+0	NA	NA	NA	METHODS	The remaining 17,506,484 SNPs were used for downstream analyses.
+0	NA	NA	NA	METHODS	Among 1,054 samples with SNP chip data, 178 samples were removed due to missing genotype data (cut-off point as 1%), 77 were removed when pruning the GRM (relatedness <0.05) and 66 samples were excluded due to missing mutation signature.
+0	NA	NA	NA	METHODS	In the end, 733 samples were included in the model
+0	NA	NA	NA	METHODS	For TCGA, we analyzed 7,177,790 common SNPs with MAF >=0.05.
+0	NA	NA	NA	METHODS	The single-SNP association tests with signature contribution were conducted using linear regression as implemented in SNPtest,35 with adjustment for age and the eigenvectors from PCA.
+0	NA	NA	NA	METHODS	For the validation data, on the other hand, we only adjusted for age given that we do not anticipate any admixture with other ethnic.
+0	NA	NA	NA	METHODS	We applied genome-wide association study (GWAS) threshold (p = 5 x 10-8) as our cut-off point in the discovery stage.
+0	NA	NA	NA	METHODS	We also filtered the association results of the GWAS-identified risk SNPs by its location within the autosomal regions to check their role in the signature contributions.
+0	breast cancer	NA	NA	METHODS	All SNPs included were previously reported to be associated with breast cancer risk (https://www.ebi.ac.uk/gwas/).
+0	NA	NA	NA	METHODS	In Nigerians, we only assessed SNPs that were nominally significant in the TCGA cohort
+0	NA	NA	NA	METHODS	Gene-based association analyses for mutation signatures were conducted using the unified optimal sequence kernel association test (SKAT-O),36 as implemented in SKAT.37 As a linear combination of the burden and SKAT tests,38 SKAT-O achieves robust power whether a given gene has a high proportion of causal variants exerting effects in the same direction, or instead has many noncausal variants or variants exerting effects in opposite directions.39 We considered weighting parameter theta = 1 (burden) and theta = 0 (SKAT) tests and reported the optimal of the two tests.
+0	NA	NA	NA	METHODS	We included putatively deleterious variants with MAF <=5%, and used the beta distribution weights proposed by Wu et al.,38 which upweights rarer variants, for both tests.
+0	NA	NA	NA	METHODS	Gene-based analyses were adjusted for age and the eigenvectors from PCA for TCGA data.
+0	NA	NA	NA	METHODS	For validation with Nigerian dataset, we only adjusted for age.
+0	NA	NA	NA	METHODS	Subgroup analyses by subtype were also evaluated for all significant results.
+0	NA	NA	NA	METHODS	We used a Bonferroni adjustment for multiple testing to assess the significance of the gene-based test results.
+0	NA	NA	NA	METHODS	We also calculate Benjamini-Hochberg's false positive rate in the discovery dataset.
+0	NA	NA	NA	METHODS	For genes with evidences of association in the discovery phase, we pooled data from TCGA and Nigeria and conducted SKAT-O analysis after adjusting for age and proportion of African and Asian ancestry
+0	NA	NA	NA	METHODS	Two combined gene sets were examined to test their association with the contribution of HRD signature.
+0	breast cancer	ATM	NA	METHODS	One is a set of known breast cancer predisposition genes (BROCA gene panel: http://tests.labmed.washington.edu/BROCA), another one contained all homologous recombination related genes from Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway database, including atm, rad51c, bard1, brca1, brca2, brip1, fam175a, mre11a, nbn, palb2, xrcc2, pold1, rad51b, babam1, blm, bre, eme1, rad50, rad52, rad54b, rad54l, rbbp8, rpa1, sycp3, top3a, top3b, topbp1, uimc1 and xrcc3.
+0	NA	NA	NA	METHODS	All statistical calculations were completed in R or Stata version 15.0 (College Station, TX).
+0	NA	NA	NA	METHODS	All p values are two-sided
+0	NA	NA	NA	RESULTS	A total of 1,011 samples with somatic mutation count >=24 (1,008 WES, 84 WGS) from TCGA were included as the training dataset, and 170 samples that satisfied the same criteria from Nigeria (129 WES, 98 WGS) were involved as the validation set (Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	NA	NA	RESULTS	The median (25th quartile and 75th quartile) for somatic mutation count per WES sample were 73 (50-144) for TCGA Caucasians, 100 (63-194) for TCGA African Americans and 131 (64-241) for Nigerians (Supporting Information Table S1 and Fig.
+0	NA	NA	NA	RESULTS	S1).
+0	NA	NA	NA	RESULTS	The number of mutation from WES was highly correlated with that from WGS (p < 0.001, Supporting Information Fig.
+0	NA	NA	NA	RESULTS	S1C)
+0	NA	NA	NA	FIG	Flow chart of this study.
+0	NA	NA	NA	FIG	[Color figure can be viewed at http://wileyonlinelibrary.com
+0	NA	NA	NA	RESULTS	Nine mutational signatures were extracted (Supporting Information Fig.
+0	NA	NA	NA	RESULTS	S2).
+0	breast cancer	NA	NA	RESULTS	Our signatures closely resembled breast cancer signatures from COSMiC: signatures A1 (S2: APOBEC C>T), A2 (S13: APOBEC C>G), A3 (S17: Unknown, breast cancer related), A4 (S10: Altered activity of polymerase POLE), A6 (S1: Aging), A8 (S8: Unknown etiology) and A9 (S9: HRD; Supporting Information Fig.
+0	NA	NA	NA	RESULTS	S3).
+0	NA	NA	NA	RESULTS	The common signatures including S2 (APOBEC C>T), S13 (APOBEC C>G), S1 (Aging), S8 (Unknown etiology) and S9 (HRD), explained the vast majority of mutations regardless of ethnicity or subtype (Supporting Information Figs.
+0	NA	NA	NA	RESULTS	S4).
+0	NA	NA	NA	RESULTS	The correlation between exomes and genomes were presented in Supporting Information Figures S5:there was high correlation for S2, S13, S1 and S9.
+0	NA	NA	NA	RESULTS	Given the robustness of signature calls between these two data types, we focused on these four signatures for subsequent analyses
+0	NA	NA	NA	RESULTS	The estimates of array-based heritability, h 2, ranged from 0.040 to 0.575 in TCGA samples across four selected signatures (Table 1), with APOBEC C>T signature (h 2 = 0.575, p = 0.010) and combined APOBEC signature (h 2 = 0.432, p = 0.042) displaying the strongest heritable components.
+0	NA	NA	NA	RESULTS	Of note, the heritability estimates of mutation signatures are unreliable due to limited sample size, although we showed that some of them were statistically significantly different from zero
+0	NA	NA	NA	TABLE	GWAS estimates of signature heritability for signature contributions in TCGA datase
+0	NA	NA	NA	RESULTS	Next, we analyzed the association of common SNPs with mutation signatures.
+0	NA	NA	NA	RESULTS	Nine hundred seventy-four samples from TCGA and 170 samples from Nigeria with mutation signature results were further analyzed.
+0	NA	NA	NA	RESULTS	No SNPs in TCGA showed significant association beyond genome-wide significance level contributing to any of the four selected signatures (Supporting Information Fig.
+0	NA	NA	NA	RESULTS	S6).
+0	NA	GNB5	NA	RESULTS	When contributions from the two APOBEC signatures were combined together, seven SNPs on or near GNB5 showed evidence of association surpassing p < 5 x 10-8 (Fig.
+0	NA	NA	NA	RESULTS	2 a, Table 2).
+0	NA	GNB5	NA	RESULTS	rs66866642/rs578194564 (MAF = 0.169) in the intronic region of the GNB5 gene (Fig.
+0	NA	NA	NA	RESULTS	2 b) had the strongest association, and this signal was also consistently observed for both APOBEC C>T and APOBEC C>G signatures (Supporting Information Fig.
+0	NA	NA	NA	RESULTS	S7).
+0	NA	NA	NA	RESULTS	The CT allele of rs66866642/rs578194564 was significantly associated with a 35.3% absolute increase in the contribution to APOBEC signature (95% confidence interval [CI]: 23.1-47.5, p = 1.03 x 10-8; Table 2, Fig.
+0	NA	NA	NA	RESULTS	2 c).
+0	NA	NA	NA	RESULTS	The top seven SNPs in TCGA tagged a couple of SNPs having LD r 2 >= 0.85, and they are located in the region with several regulatory elements (Supporting Information Table S2, Fig.
+0	NA	NA	NA	RESULTS	2 d).
+0	NA	NA	NA	RESULTS	Using the Nigerian cohort as the validation set, 13 of 30 top SNPs were detected with nonsignificant p values, but with consistent magnitude and direction in beta coefficients to those in TCGA (Table 2)
+0	NA	GNB5	NA	FIG	Common SNP rs66866642/rs578194564 in GNB5 is associated with APOBEC signatures.
+0	NA	NA	NA	FIG	(a) Manhattan plot for associations between common SNPs and APOBEC signatures.
+0	NA	GNB5	NA	FIG	(b) Plot of log-transformed p values from single marker analysis for the GNB5 gene.
+0	NA	NA	NA	FIG	The labeled marker, a purple diamond (rs66866642/rs578194564), is the most significant SNP (index SNP).
+0	NA	NA	NA	FIG	The LD between the index SNP and other markers in the region was color coded, with red color indicating strong LD (r 2 > 0.8) and blue color indicating weak LD (r 2 < 0.2).
+0	NA	NA	NA	FIG	(c) Genotype of rs66866642/rs578194564 among different ethnic groups.
+0	NA	GNB5	NA	FIG	(d) Functional elements at the GNB5 gene region.
+0	allergy	NA	NA	FIG	Data is from ENCODE through UCSC Genome Browser, including histone modification marks for H3K4Me1 and H3K27Ac, transcription factor binding sites and DNase hypersensitivity sites of human mammary epithelial cells (HMEC), breast cancer cell (MCF7).
+0	NA	NA	NA	FIG	[Color figure can be viewed at http://wileyonlinelibrary.com
+0	NA	NA	NA	TABLE	The top 30 signal for common SNPs in association tests with combined APOBEC signature contribution
+0	breast cancer	NA	NA	RESULTS	In addition, we evaluated the association between index SNPs identified in previous GWAS of breast cancer risk, and signatures contribution.
+0	NA	NA	NA	RESULTS	We found a dozen SNPs associated at nominal significance level with either APOBEC signature or HRD signature (Supporting Information Table S3).
+0	NA	ANKRD16	NA	RESULTS	The genes tagged by SNPs associated with APOBEC signature included ANKRD16, ZNF365, CHST9, ARRDC3, FGFR2 and ESR1.
+0	NA	RNF115	NA	RESULTS	Most of the genes associated with HRD signature function to decrease homologous recombination repair frequency, including RNF115, ANXA13, DNAJC1, DNAH11 and TFAP2A
+0	NA	NA	NA	RESULTS	Manhattan plots for the gene-based association analyses are shown in Figure 3a and Supporting Information Figure S8 for selected mutation signatures in TCGA cohort.
+0	NA	NA	NA	RESULTS	Five genes showed evidence of association with contribution of APOBEC C>T signature or APOBEC C>G signature surpassing defined significance level (threshold as 9.69 x 10-6, Table 3).
+0	NA	MTCL1	NA	RESULTS	MTCL1 is the top signal for combined APOBEC signature (pooled p = 6.11 x 10-6), and women with MTCL1 mutations had higher APOBEC signature contribution.
+0	NA	HIVEP1	NA	RESULTS	Two additional genes (HIVEP1 and TMEM104) had marginal nominal significant association with contribution of combined APOBEC signature in both datasets.
+0	NA	HIVEP1	NA	RESULTS	As the direction of the association for HIVEP1 was consistent across the TCGA and Nigerian datasets (pooled p = 0.0009), while the TMEM104 association was positive in the TCGA cohort but negative in the Nigerian cohort (pooled p = 0.079) (Supporting Information Fig.
+0	NA	HIVEP1	NA	RESULTS	S9), suggesting HIVEP1 is likely a true association but TMEM104 may be false negative.
+0	NA	MTCL1	NA	RESULTS	Mutations in three genes, including MTCL1, ERC1 and HIP1, were associated with higher contribution of APOBEC C>G signature alone
+0	NA	NA	NA	FIG	Associations between rare deleterious variants and HRD signature.
+0	NA	NA	NA	FIG	(a) Plot of log-transformed p values from gene-based analysis for rare deleterious variants.
+0	breast cancer	BRCA1	NA	FIG	(b-d) Comparison of contribution of HRD signature, grouped by breast cancer tissue subgroups, datasets, and the number of BRCA1 (b), BRCA2 (c) and BRCA1/BRCA2 mutations (d).
+0	NA	NA	NA	FIG	[Color figure can be viewed at http://wileyonlinelibrary.com
+0	NA	NA	NA	TABLE	Significant results of gene-based analysis in the training and validation dataset
+0	NA	BRCA1	NA	RESULTS	Germline mutations in four genes, BRCA1, BRCA2, COL15A1 and PIGO, were significantly associated with contributions from the HRD signature (all p <= 5.5 x 10-6).
+0	cancers	BRCA1	NA	RESULTS	The contribution of HRD signature was consistently increasing along with the number of rare deleterious variants in both BRCA1 and BRCA2 across different tumor subtypes (HER2+, HR+/HER2- and HR-/HER2+) and different datasets (Figs.
+0	NA	NA	NA	RESULTS	3 b and 3 c).
+0	NA	BRCA1	NA	RESULTS	We combined all mutations in BRCA1 and BRCA2 together.
+0	NA	NA	NA	RESULTS	The combined gene set was significantly associated with the contribution to HRD signature in both TCGA (p = 5.0 x 10-12) and Nigeria samples (p = 0.0036).
+0	cancers	NA	NA	RESULTS	This association was also highly consistent across different tumor subtypes and datasets (Fig.
+0	NA	NA	NA	RESULTS	3 d).
+0	NA	COL15A1	NA	RESULTS	Despite genome-wide significance, mutations in COL15A1 and PIGO are rare and further validation of their associations is desirable
+0	breast cancer	NA	NA	RESULTS	In addition, when we combined all mutations occurring in a set of known breast cancer predisposition genes (BROCA gene panel; 17 genes), or when we merged all homologous recombination related genes (29 genes), we found that both compounded gene sets were significantly associated with the contribution of HRD signature (p = 2.6 x 10-7 and 2.8 x 10-5, respectively).
+0	NA	NA	NA	RESULTS	The significance level remained in the validation set (p = 0.0007 and 0.014, respectively).
+0	NA	BRCA1	NA	RESULTS	However, after excluding BRCA1 and BRCA2, neither of these gene sets remained significantly associated with HRD signature contribution.
+0	NA	hormone receptor	NA	RESULTS	Two of HR related genes, BRIP1 and RAD50, probably contributed to the association signal since many Nigerian samples had HRD contributions present yet no germline mutation in BROCA or homologous recombination genes (Supporting Information Table S4)
+0	breast cancer	NA	NA	DISCUSS	Using breast cancer data from 1,011 patients from TCGA (the training set) and 170 Nigerian women (the validation set), we extracted four stable mutational signatures including APOBEC C>T, APOBEC C>G, aging and HRD, which is consistent with previous studies.1, 4, 40, 41 These signatures alone were able to explain the majority of the tumor mutations across both cohorts.
+0	breast cancer	NA	NA	DISCUSS	Heritability analysis suggests that germline genetic factors could explain some of the heterogeneity in mutation signatures across patients with breast cancer.
+0	NA	BRCA1	NA	DISCUSS	We confirmed the association between rare deleterious variants in BRCA1/2 and increased HRD signature activity.
+0	NA	GNB5	NA	DISCUSS	We found that common variants proximal to GNB5 as well as rare exonic mutations within MTCL1 were associated with increased APOBEC C>T/G activity, acting as plausible contributors to the observed heritability.
+0	NA	HIVEP1	NA	DISCUSS	Rare variants in HIVEP1 were also marginally associated with the signature although this did not reach genome-wide significance, probably because of the small sample size
+0	cancers	GNB5	NA	DISCUSS	APOBEC signatures, the most widespread mutational signatures in human cancers, have been reported in 16 of 30 tumor types from TCGA, implicating APOBEC enzymes as some of the most pervasive mutators in human cancers.10 We found seven common SNPs in/near GNB5 to be significantly associated with APOBEC signature contribution in TCGA.
+0	NA	NA	NA	DISCUSS	However, this signal could not be replicated in Nigerians, possibly due to limited sample size.
+0	cancers	GNB5	NA	DISCUSS	Previous studies suggested a potential role for GNB5 in cancer.
+0	renal cancer	GNB5	NA	DISCUSS	First, GNB5 encodes guanine nucleotide-binding protein beta-5, and this protein is expressed in breast tissue.42 Evidence from the Human Protein Atlas at the protein and mRNA levels also suggested the favorable prognostic role of GNB5 in renal cancer and endometrial cancer.
+0	lung adenocarcinomas	GNB5	NA	DISCUSS	Second, overexpression of GNB5 promoted a migratory phenotype in lung adenocarcinoma cells.43 However, it remains unclear whether GNB5 directly affects the transcription, translation or activity of APOBEC enzymes.
+0	cancers	NA	NA	DISCUSS	Further molecular analyses are required to functionally characterize the observed relationship and its generalizability to other tumor types
+0	NA	HIVEP1	NA	DISCUSS	The association between HIVEP1 and APOBEC signature could be explained by their functional roles in viral defense.44, 45 The presence of viral element can stimulate APOBEC expression through a complex network of innate immunity signaling, including components like Toll-like receptors, interferons, interleukins and even P53.46 It is possible that HIVEP1 proteins play a more direct role in APOBEC regulation as it binds enhancer elements containing the GGGACTTTCC motif.47 In the context of disease, downregulation of another family member, HIVEP2 gene, has already been shown as one of the genetic events responsible for breast cancer.48 We did not find prior evidence directly implicating MTCL1, also known as suppressor of glucose autophagy associated 2 (SOGA2), in APOBEC activity.
+0	breast cancer	MTCL1	NA	DISCUSS	Suggestive association between MTCL1 and breast cancer risk has been reported in women of Indonesian ancestry, further indicating the potential importance of germline variation proximal to this gene.49 To further understand the biological basis of our observations, it will be necessary to conduct functional studies to uncover the exact causal mechanisms that may ultimately inform innovative therapeutic approaches
+0	NA	BRCA1	NA	DISCUSS	We found that the combined effects of rare, deleterious alleles in BRCA1 and BRCA2 were consistently associated with higher HRD signature contributions in both TCGA and Nigerian data.
+0	NA	NA	NA	DISCUSS	This finding was in accordance with other studies done with prostate and gastric cancers,1, 14, 15 and the mechanisms promoting HRD activity have been explored in several experimental studies.30, 41, 50, 51, 52 However, to the best of our knowledge, this is the first report of association in an indigenous African population in Nigeria, and our findings could have significant implications for cancer control in underserved and underrepresented population with higher burden of aggressive young onset breast cancer.20
+0	breast cancer	RAD51L1	rs2588809	DISCUSS	In previous work, Zhu and colleagues observed a significant inverse association (p = 8.75 x 10-6) between the risk allele in rs2588809 of the gene RAD51B and total somatic mutation count across 638 breast cancer patients of European ancestry from TCGA.8 In our study, rs2588809 was not associated with the contribution of any signatures, but rare deleterious variants within RAD51B were found to be nominal significantly correlated with the contributions of aging and HRD signatures.
+0	Deficiency	BRCA1	NA	DISCUSS	It has been shown that loss-of-function mutations in homologous recombination genes other than BRCA1/2 can facilitate HRD signature activity.41 It is possible that RAD51B deficiency increases the mutational burden of tumors through HRD, potentially making these patients good candidates for immunotherapy due to their increased likelihood of harboring neoantigens.53 Taken together, these findings suggest that genetic ancestry may play an important role in mutational development and cancer progression.
+0	breast cancer	NA	NA	DISCUSS	This highlights the need to accumulate more genetic data from diverse populations in order to better understand the heightened aggressive breast cancer risk observed in individuals of African ancestry.54
+0	NA	NA	NA	DISCUSS	There are multiple advantages in our study.
+0	NA	NA	NA	DISCUSS	First, samples from Nigeria added a substantial value in terms of validation, which expanded the findings from a primarily US European ancestry population to an indigenous African population.55 Second, we harmonized data from a number of sources using the same pipeline, which avoided batch effect due to bioinformatics software.
+0	NA	NA	NA	DISCUSS	Third, we inferred mutations signatures across all samples using nonnegative matrix factorization and used the estimated signature contributions directly for analysis.
+0	NA	NA	NA	DISCUSS	This offered advantages over previous approaches which used the burden of mutations found in specific trinucleotide contexts as a proxy for APOBEC signature activity.3, 8, 56, 57 Fourth, we comprehensively explored the association between common genetic variants, rare deleterious variants and the contribution of mutational signatures across different ethnicities, and provided insights to the relationship between germline variants and somatic mutational processes.10 Several study limitations should also be noted.
+0	NA	NA	NA	DISCUSS	First, we only focused on the substitutions, and did not consider other types of somatic mutation, such as indels and structural variants.3, 41 Second, while WES allowed us to acquire a larger number of data, our analyses were confined to somatic mutations within protein coding regions.
+0	NA	NA	NA	DISCUSS	WGS could uncover microscale and macroscale somatic alterations58 and provide us more stable estimates of mutation signature contributions.
+0	NA	NA	NA	DISCUSS	As such, we only focused on the four signatures with strong concordance between WGS data and WES data.
+0	NA	NA	NA	DISCUSS	Although common practice,1, 22 estimating mutation signatures from exome sequencing could cause potential biases due to sequence motif representation as compared to whole genome.
+0	NA	NA	NA	DISCUSS	APOBEC enzymes have been shown to preferentially target genic regions, which is likely due to the availability of ssDNA substrates during transcription.59, 60, 61 Additional work has demonstrated that APOBEC mutations are also enriched within early-replicating regions regardless of transcriptional activity.60 It is unclear if identical mutagenic processes affect all early-replicating and transcriptionally active regions.
+0	NA	NA	NA	DISCUSS	Even though we observed high mutation signature correlations between exomes and genomes, we cannot rule out the possibility that different molecular mechanisms generated similar mutational signatures in coding and noncoding regions.
+0	NA	NA	NA	DISCUSS	It is also possible that a single mutational process is responsible for generating somewhat different signatures in these regions.
+0	NA	NA	NA	DISCUSS	As such, it is important to remember that signature contribution estimates only serve as a phenotypic marker and may not fully capture the nuances of underlying mechanistic processes.
+0	NA	NA	NA	DISCUSS	Third, causal links between germline and somatic mutational processes are one explanation for the associations presented here, but other explanations cannot be ruled out.30
+0	breast cancer	NA	NA	CONCL	In summary, our study identified associations between germline variants and mutational patterns in breast cancer across different ethnicities, especially in African women for the first time.
+0	breast cancer	NA	NA	CONCL	This finding may advance our understanding of breast cancer etiology with potential implications for prevention and treatment.
+0	NA	NA	NA	CONCL	However, further replications in larger and diverse populations are needed to validate our findings.
+0	cancers	NA	NA	CONCL	Meanwhile, future work focused on understanding the biological basis of cancer susceptibility alleles will be instrumental in better understanding the complex interplay between germline genetics and somatic mutations
+0	NA	NA	NA	AUTH_CONT	Experimental design: White KP, Huo D and Olopade OI.
+0	NA	NA	NA	AUTH_CONT	Patient recruitment and clinical annotation of samples supervision: Olopade OI.
+0	NA	NA	NA	AUTH_CONT	Genomic materials preparation at UCH: Odetunde A.
+0	NA	NA	NA	AUTH_CONT	Operation of sample preparation supervision at UCH: Falusi A.
+0	NA	NA	NA	AUTH_CONT	Patient's recruitment and harvesting specimens from patients in Nigeria: Popoola A, Ogundiran T and Ibrahim N. Pathological assessment of patient specimens at UCH: Oluwasola O and Ajani M. Study supervision at UCH: Ojengbede O. Pathological assessment at LASUTH: Sanni A and Obafunwa J. Pathological assessment at the University of Chicago: Khramtsova G. Study operation at the University of Chicago: Yoshimatsu TF and Hurley I.
+0	NA	NA	NA	AUTH_CONT	Quality assessment of sequence data: Fitzgerald D and Pitt JJ.
+0	NA	NA	NA	AUTH_CONT	Data analysis: Wang S, Pitt JJ, Zheng Y, Yoshimatsu TF, Fitzgerald D, Gao G and Huo D. Statistical analysis supervision: Huo D. WES data production and analysis supervision: Barretina J.
+0	NA	NA	NA	AUTH_CONT	Data analysis and result interpretation supervision: White KP, Huo D and Olopade OI.
+0	NA	NA	NA	AUTH_CONT	Article writing: Wang S, Pitt JJ, Zheng Y, Yoshimatsu TF, White KP, Huo D and Olopade OI.
+0	NA	NA	NA	AUTH_CONT	Final approval of the article: all authors
+0	cancers	NA	NA	AUTH_CONT	Raw TCGA data used in this analysis were downloaded from TCGA Data Portal or Cancer Genomics Hub.
+0	NA	NA	NA	AUTH_CONT	Access to the harmonized variant calls that support the findings of our study are available on request from the corresponding author (O.I.O.).
+0	NA	NA	NA	AUTH_CONT	The raw sequencing data from Nigerian cases is available through dbGaP under Study Accession phs001687.v1.p1

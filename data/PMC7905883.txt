@@ -1,0 +1,184 @@
+0	diabetes	Hypertension	NA	ABSTRACT	Hypertension (HTN), diabetes mellitus (DM), and dyslipidemia (DL) are well-known risk factors of cardiovascular disease (CVD), but not all patients develop CVDs.
+0	metabolic disorder	NA	NA	ABSTRACT	Studies have been limited investigating genetic risk of CVDs specific to individuals with metabolic diseases.
+0	cardiovascular disease	NA	NA	ABSTRACT	This study aimed to identify disease-specific and/or common genetic loci associated with CVD susceptibility in chronic metabolic disease patients
+0	NA	NA	NA	ABSTRACT	We conducted a genome-wide association study (GWAS) of a multiple case-control design with data from the City Cohort within Health EXAminees subcohort of the Korean Genome and Epidemiology Study (KoGES_HEXA).
+0	NA	NA	NA	ABSTRACT	KoGES_HEXA is a population-based prospective cohort of 173,357 urban Korean adults that had health examinations at medical centers.
+0	DM	NA	NA	ABSTRACT	42,393 participants (16,309 HTN; 5,314 DM; 20,770 DL) were analyzed, and each metabolic disease group was divided into three CVD case-controls: coronary artery disease (CAD), ischemic stroke (IS), and cardio-cerebrovascular disease (CCD).
+0	NA	NA	NA	ABSTRACT	GWASs were conducted for each case-control group with 7,975,321 imputed single nucleotide polymorphisms using the Phase 3 Asian panel from 1000 Genomes Project, by logistic regression and controlled for confounding variables.
+0	NA	NA	NA	ABSTRACT	Genome-wide significant levels were implemented to identify important susceptibility loci
+0	CCD	NA	NA	ABSTRACT	Totaling 42,393 individuals, this study included 16,309 HTN (mean age [SD], 57.28 [7.45]; 816 CAD, 398 IS, and 1,185 CCD cases), 5,314 DM (57.79 [7.39]; 361 CAD, 153 IS, and 497 CCD cases), and 20,770 DL patients (55.34 [7.63]; 768 CAD, 295 IS, and 1,039 CCD cases).
+0	cardiovascular disease	NA	NA	ABSTRACT	Six genome-wide significant CVD risk loci were identified, with relatively large effect sizes: 1 locus in HTN (HTN-CAD: 17q25.3/CBX8-CBX4 [OR, 2.607; P = 6.37 x 10-9]), 2 in DM (DM-IS: 4q32.3/MARCH1-LINC01207 [OR, 5.587; P = 1.34 x 10-8], and DM-CCD: 17q25.3/RPTOR [OR, 3.511; P = 1.99 x 10-8]), and 3 in DL (DL-CAD: 9q22.2/UNQ6494-LOC101927847 [OR, 2.282; P = 7.78 x 10-9], DL-IS: 3p22.1/ULK4 [OR, 2.162; P = 2.97 x 10-8], and DL-CCD: 2p22.2/CYP1B1-CYP1B1-AS1 [OR, 2.027; P = 4.24 x 10-8])
+0	DM	NA	NA	ABSTRACT	This study identified 6 susceptibility loci and positional candidate genes for CVDs in HTN, DM, and DL patients using an unprecedented study design.
+0	NA	NA	NA	ABSTRACT	1 locus (17q25.3) was commonly associated with CAD.
+0	NA	NA	NA	ABSTRACT	These associations warrant validation in additional studies for potential therapeutic applications
+0	cardiovascular disease	NA	NA	INTRO	Cardiovascular disease (CVD) is the leading cause of death globally, and the prevalence of cardiovascular disease is constantly progressing in both developed and developing nations.
+0	death	NA	NA	INTRO	According to a World Health Organization report, an estimated 17.9 million people died from heart disease and stroke in 2016, representing 31% of all global deaths, and it was projected that about 23.6 million people will die from CVDs by 2030.
+0	death	NA	NA	INTRO	In line with the global trend, economic and social developments have significantly impacted lifestyles of Koreans; CVDs are now one of the main causes of death in Korea, accounting for 1 in every 5 deaths.
+0	NA	NA	NA	INTRO	Therefore, interventions to prevent and reduce cardiovascular risk factors are warranted
+0	cardiovascular disease	NA	NA	INTRO	Epidemiological evidence suggest that CVD is associated with age, sex, ethnicity, behavioral risk factors (smoking, alcohol use, and low physical activity levels), and several chronic metabolic diseases.
+0	hypertension	NA	NA	INTRO	Among them, hypertension (HTN), dyslipidemia (DL), and type 2 diabetes (DM) are the most common modifiable risk factors for CVD, which is known as the most prevalent cause of mortality and morbidity in populations with HTN, DM, and DL.
+0	cardiovascular disease	NA	NA	INTRO	Approximately two-thirds of all adults with HTN at 30 years of age have a ~ 40% higher risk of experiencing a CVD event and systematic reviews have revealed that lowering blood pressure greatly reduced major CVD events and all-cause mortality, irrespective of the initial blood pressure.
+0	DM	NA	NA	INTRO	Patients with DM had a 10% greater risk of coronary artery disease (CAD), a 53% greater risk of myocardial infarction (MI), and a 58% greater risk of stroke compared to those without diagnoses of DM, and CVD accounts for approximately half of all deaths in patients with DM, largely due to an increased risk of stroke and MI.
+0	cardiovascular disease	NA	NA	INTRO	Further, in the INTERHEART study, 49% of the population-attributable risk of a first MI was contributed by DL, and the prevalence of DL was found to be between 83 and 87% in Asian patients with CVD
+0	cardiovascular disease	NA	NA	INTRO	There are various biochemical mechanisms that independently increase the risk of CVD in people with these chronic metabolic diseases.
+0	atherosclerotic	NA	NA	INTRO	Lipid oxidation is thought to be an important determinant of atherosclerosis, which leads to CVD; moreover, high levels of low-density lipoprotein (LDL) and low levels of high-density lipoprotein (HDL) are associated with MI and stroke in DL.
+0	Inflammation Laboratory's JDRF	NA	NA	INTRO	Endothelial dysfunction, vascular inflammation, arterial remodeling, atherosclerosis, dyslipidemia, and obesity are common risk factors for CVD in HTN and DM.
+0	Inflammation Laboratory's JDRF	NA	NA	INTRO	In addition, upregulation of the renin-angiotensin-aldosterone system, oxidative stress, inflammation, and activation of the immune system contribute to the close relationship between DM, HTN, and CVD
+0	metabolic disorder	NA	NA	INTRO	However, only limited evidence is available regarding the relationship between multiple chronic metabolic diseases and CVDs.
+0	DM	NA	NA	INTRO	Furthermore, despite maintaining optimal levels of metabolic indices, such as blood pressure, glucose, or lipids, CVDs still remain prevalent in individuals with HTN, DM, and DL.
+0	hyperglycemia	NA	NA	INTRO	Evidence suggest that although hyperglycemia contributes to ischemic events, it is not the only factor, because both pre-diabetes and normoglycemic patients show risk for most types of CVD.
+0	cardiovascular disease	NA	NA	INTRO	High-dose statin therapy may provide some incremental benefit between 10 and 20%; nevertheless, statin-treated patients remain at high residual risk for future cardiovascular events.
+0	NA	NA	NA	INTRO	This suggests that other non-modifiable risk factors, such as genetic and genomic variables, need to be considered as well
+0	cardiovascular disease	NA	NA	INTRO	Genetic factors are important contributors to the risk of CVDs; recent genome-wide association studies (GWASs) strongly support that genetic susceptibility to CVD is largely derived from gene mutations or variation.
+0	obese	NA	NA	INTRO	Loci nearest a lead single nucleotide polymorphism (SNP) was shown to have genome-wide significant associations with obesity, blood pressure, lipids, DM, CAD, and stroke.
+0	NA	NA	NA	INTRO	However, over the past decade, the majority of GWASs for CVDs or related risk factors have been conducted in populations with European white ancestry and limited evidence is available in Asian populations.
+0	cardiovascular disease	NA	NA	INTRO	Furthermore, few analyses focused on the genetic differences in CVD susceptibility between individuals with the same chronic metabolic conditions
+0	DM	NA	NA	INTRO	Therefore, we conducted three sets of GWASs between case-controls of major CVDs in HTN, DM, and DL patient groups using data from the well-known nationwide Korean Genome and Epidemiology Study (KoGES).
+0	cardiovascular disease	NA	NA	INTRO	We aimed to find genetic pathways linking the development of CVD with each metabolic disease group; we further aimed to identify the potential presence of a common pathway leading to CVD among the commonly co-existing metabolic conditions
+0	NA	NA	NA	METHODS	Our study used a part of the KoGES dataset obtained from the Korean Center for Disease Control and Prevention.
+0	NA	NA	NA	METHODS	The largest cohort of KoGES is the health examination cohort [KoGES_HEXA], and its dataset consists of participants' medico-pharmacologic history, anthropometric traits, and blood biochemistry traits.
+0	NA	NA	NA	METHODS	Briefly, KoGES_HEXA is a population-based prospective cohort of 173,357 urban Korean adults that had health examinations at medical centers, recruited from the national health examinee registry.
+0	NA	NA	NA	METHODS	Participants were men and women, aged 40-69 years from 14 major cities across Korea and recruited at baseline between 2004 and 2013.
+0	NA	NA	NA	METHODS	A total of 58,701 participants, whose genome-wide SNP genotype data were obtained, were included in the city-based cohort of the KoGES.
+0	NA	NA	NA	METHODS	All participants voluntarily signed an informed consent form before the study, and the study protocol was approved by the Institutional Review Boards (IRB) of the institutions that participated in KoGES.
+0	NA	NA	NA	METHODS	This study was performed in accordance with the Declaration of Helsinki and approved by the IRB of Theragen Etex (Approval Numbers: 700062-20190819-GP-006-02)
+0	NA	NA	NA	METHODS	Study participants completed a standardized medical history and lifestyle questionnaire and underwent a comprehensive health examination by trained medical staff according to a standard protocol.
+0	NA	NA	NA	METHODS	Smoking status was classified into three groups: participants who had smoked over 100 cigarettes throughout their lifetimes but had quit before this study were ex-smokers, currently smoking were current smokers, and the remaining were non-smokers.
+0	NA	NA	NA	METHODS	Drinking status (alcohol intake) was also classified into three groups: current drinkers, ex-drinkers, and non-drinkers.
+0	NA	NA	NA	METHODS	Regularity of physical activity was determined according to whether subjects participated regularly in any sports to the point of sweating
+0	NA	NA	NA	METHODS	Body mass index (BMI) was calculated as weight in kilograms divided by height in meters squared (kg/m2).
+0	NA	SBP	NA	METHODS	Systolic (SBP) and diastolic blood pressure (DBP) were measured twice by a standardized mercury sphygmomanometer (Baumanometer-Standby; W.A.
+0	NA	NA	NA	METHODS	Baum Co. Inc., New York, NY, USA).
+0	NA	NA	NA	METHODS	Blood samples were drawn after overnight fasting, and venous blood sampling was collected in a plain tube.
+0	NA	NA	NA	METHODS	Biochemical parameters, including fasting glucose, hemoglobin A1c (HbA1c), total cholesterol, HDL cholesterol, and triglycerides (TG), were determined by enzymatic methods (ADVIA 1650, Siemens, Tarrytown.
+0	NA	NA	NA	METHODS	NY, USA).
+0	NA	NA	NA	METHODS	LDL- cholesterol was calculated using the Friedewald equation (LDL-cholesterol = total cholesterol -HDL- cholesterol -[TG/5])
+0	NA	NA	NA	METHODS	HTN was defined as systolic BP >= 140 mmHg or diastolic BP >= 90 mmHg on health examination, currently taking an anti-hypertensive drug, or diagnosed by a physician.
+0	DM	NA	NA	METHODS	DM was defined as fasting blood glucose >= 126 mg/dl, HbA1c >= 6.5% (48 mmol/mol), currently taking an anti-diabetic drug or insulin, or diagnosed by a physician
+0	hypercholesterolemia	NA	NA	METHODS	DL was defined as either diagnosis by a physician, current use of lipid-lowering medication, or according to the National Cholesterol Education Program- Adult Treatment Panel III (NCEP-ATP III) criteria: (1) hypercholesterolemia (serum TC >= 240 mg/dl), (2) hypertriglyceridemia (serum TG >= 200 mg/dl), (3) hyper-LDL-cholesterolemia (serum LDL-C >= 160 mg/dl), (4) hypo-HDL-cholesterolemia (serum HDL-C < 40 mg/dl)
+0	angina pectoris	NA	NA	METHODS	We defined CAD as the participant-reported history of the diagnosis or treatment of angina pectoris or myocardial infarction.
+0	cerebral infarctions	NA	NA	METHODS	Ischemic stroke (IS) was defined in the same manner, in that it was based on the participant-reported history of the diagnosis or treatment of ischemic stroke.
+0	cerebrovascular	NA	NA	METHODS	Cardio-cerebrovascular disease (CCD) was defined as the combination of CAD and IS per our study outcome definition
+0	NA	NA	NA	FIG	Study Design.
+0	NA	NA	NA	FIG	Flow diagram illustrating the study sample selection process and overall study desig
+0	metabolic disorder	NA	NA	METHODS	This study investigated the genetic risk factors of CVDs in the patients with metabolic disease (HTN, DM, or DL).
+0	NA	NA	NA	METHODS	For this analysis, we applied the exclusion criteria schematically illustrated in Fig.
+0	NA	NA	NA	METHODS	1: from baseline we excluded participants with missing data values, i.e.
+0	NA	NA	NA	METHODS	smoking, alcohol, exercise history and body mass index (BMI) (n = 471).
+0	cancers	NA	NA	METHODS	Subsequently, participants with histories of malignancy or no response regarding malignancy were excluded (n = 2,202).
+0	DM	NA	NA	METHODS	After these exclusions, 56,028 participants were included; the final sample size for the present analysis was 16,313 participants with HTN, 5394 participants with DM, and 20,788 participants with DL
+0	NA	NA	NA	METHODS	The genotype data were graciously provided by the Center for Genome Science, Korea National Institute of Health.
+0	NA	NA	NA	METHODS	The genotype data was produced by the Korea Biobank Array (Affymetrix, Santa Clara, CA, USA) (Moon et al., 2019, PMID 30718733).
+0	NA	NA	NA	METHODS	The experimental results of Korea Biobank Array were filtered by the quality control procedures of the following criteria: call rate higher than 97%, minor allele frequency higher than 1%, and Hardy-Weinberg equilibrium test p < 1 x 10-5.
+0	NA	NA	NA	METHODS	After the quality control procedures, the experimental genotypes were phased using ShapeIT v2 and IMPUTE v2 was used for imputation analysis of the phased genotype data with 1000 Genomes Phase3 data as a reference panel.
+0	NA	NA	NA	METHODS	After imputation, imputed variants with imputation quality score < 0.4 or MAF < 1% were excluded from further analysis (Moon et al., 2019, PMID 30718733).
+0	NA	NA	NA	METHODS	Finally, the number of SNPs for the GWAS was 7,975,321 SNPs from chromosomes 1 to 22.
+0	NA	NA	NA	METHODS	We associated the closest, or nearby genes of the significant variants as candidate genes utilizing LocusZoom
+0	NA	NA	NA	METHODS	All data are presented as the mean +- standard deviation (SD), or number (%).
+0	CCD	PC1	NA	METHODS	For the discovery GWAS analysis, the association between individual SNP genotypes and CAD, IS, and CCD risks were modeled additively for each copy of the minor allele using logistic regression adjusted for age, sex, BMI, exercise status, smoking status, alcohol intake, and PC1 and PC2 as covariates using PLINK, version 1.9.
+0	NA	PC1	NA	METHODS	PC1 and PC2 were obtained through a principal component analysis, which was conducted to reduce the bias of genomic data due to the regional differences in sample collection.
+0	NA	NA	NA	METHODS	We selected high linkage disequilibrium (LD) and cluster SNPs wherein no SNP gap exceeded 50 kb with high LD (r2 > 0.8) from the top significant SNPs.
+0	NA	NA	NA	METHODS	The significant associations were defined by genome-wide significance level p-values (5.00 x 10-8).
+0	NA	NA	NA	METHODS	The gene-region plot of the top SNP associations was generated with Locus- Zoom version 0.4.8.2
+0	NA	NA	NA	FIG	Manhattan Plots Showing Association Results of the GWASs.
+0	cardiovascular disease	NA	NA	FIG	Manhattan plots showing association results from the GWASs of CVD in the HTN(A-C), DM(D-F), and DL(G-I) groups within the City Cohort: a HTN-CAD (816 CAD cases and 15,488 controls), b HTN-IS (398 IS cases and 15,909 controls), c HTN-CCD (1,185 CCD cases and 15,117 controls), d DM-CAD (361 CAD cases and 5,161 controls), e DM-IS (153 IS cases and 5,161 controls), f DM-CCD (497 CCD cases and 4,815 controls), g DL-CAD (768 CAD cases and 19,999 controls), h DL-IS (295 IS cases and 20,474 controls), and i DL-CCD (1,039 CCD cases and 19,727 controls).
+0	NA	NA	NA	FIG	Each tested SNP is visualized as a dot with a location on the genome shown on the x-axis and log10- transformed p values on the y-axis.
+0	NA	NA	NA	FIG	Results for all chromosomes within the consensus threshold for genome-wide significance (5 x 10-8) are marked with a horizontal line in red and suggestive significance (1 x 10-5) in blu
+0	cardiovascular disease	NA	NA	TABLE	Lead SNPs Associated with CVD at Genome-wide Significance by GWA
+0	NA	NA	NA	RESULTS	Clinical characteristics of the 42,393 individuals included in the GWAS are shown in Table 1, and further details categorized by disease status are in Additional file 1: Tables S1-S3.
+0	DM	NA	NA	RESULTS	A total of 16,309 individuals with HTN (56.1% female and 57.28 [7.45] years old), 5,314 with DM (50.9% female and 57.79 [7.39] years old), and 20,770 with DL (58.4% female and 55.34 [7.63] years old) were included; the prevalence of CCD was 7.3% in HTN, 9.4% in DM, and 5% in DL, respectively.
+0	NA	NA	NA	RESULTS	Results of the 9 GWASs are depicted in Fig.
+0	NA	NA	NA	RESULTS	2 as Manhattan plots using log10 transformed p-values.
+0	CCD	NA	NA	RESULTS	The leading SNPs in association with CAD, IS, and CCD for each group are described in Table 2.
+0	NA	NA	NA	RESULTS	The full lists of genome-wide significant (P-value < 5 x 10-8) and suggestive (5 x 10-8 <= P-value < 1 x 10-5) SNPs from the GWASs are available in Additional file 2: Tables S4-S6
+0	NA	NA	NA	RESULTS	The GWAS of HTN-CAD (Fig.
+0	NA	NA	NA	RESULTS	2a) showed 1 genome-wide significant association locus (17q25.3) and 19 loci of suggestive association, HTN- IS (Fig.
+0	CCD	NA	NA	RESULTS	2b) showed 23 suggestive loci, and HTN-CCD (Fig.
+0	NA	NA	NA	RESULTS	2c) showed 10 suggestive loci.
+0	NA	NA	rs1550676	RESULTS	The leading SNP of CAD in HTN (17q25.3/CBX8-CBX4 rs1550676) showed the strongest association (P = 6.37 x 10-9) and a high odds ratio (OR) of 2.607 (95% CI 1.886-3.602), and a total of 4 significant SNPs were clustered in the locus
+0	DM	NA	NA	RESULTS	The GWAS of DM-CAD (Fig.
+0	NA	NA	NA	RESULTS	2d) showed 18 suggestive loci and that of DM-IS (Fig.
+0	NA	NA	NA	RESULTS	2e) showed 1 novel significant locus (4q32.2) and 41 suggestive loci.
+0	DM	NA	NA	RESULTS	In the GWAS of DM-CCD (Fig.
+0	NA	NA	NA	RESULTS	2f), 1 locus, 17q25.3, was again shown to be significant with 21 suggestive loci.
+0	CCD	NA	rs139293840	RESULTS	The leading SNP of CAD and CCD in DM (17q25.3/RPTOR rs139293840) showed strong associations (P = 1.99 x 10-8) as well as a high OR (3.511, 95%CI 2.265-5.444).
+0	NA	NA	rs149608518	RESULTS	The leading SNP for IS (4q32.3/MARCH1-LINC01207 rs149608518) also showed significance (P = 1.34 x 10-8) and a significantly high OR (5.587, 95%CI 3.086-10.12)
+0	NA	NA	NA	RESULTS	In DL, all 3 GWASs identified genome-wide significant loci: in DL-CAD (Fig.
+0	NA	NA	NA	RESULTS	2g), 1 significant locus (9q22.2) and 24 suggestive loci; in DL-IS (Fig.
+0	NA	NA	NA	RESULTS	2h), 1 significant locus (3p22.1) and 40 suggestive loci; and in DL-CCD (Fig.
+0	NA	NA	NA	RESULTS	2i), 1 significant locus (2p22.2) and 19 suggestive loci.
+0	NA	NA	rs79166762	RESULTS	A total of 11 significant SNPs were clustered in 9q22.2/UNQ6494-LOC10192784 associated with CAD, the lead SNP being rs79166762 (P = 7.78 x 10-9, OR = 2.282 [95% CI 1.724-3.019]).
+0	CCD	NA	rs3897976	RESULTS	3p22.1/ULK4 rs3897976 showed significance for IS (P = 2.97 x 10-8, OR = 2.162 [95% CI 1.646-2.84]) and 2p22.2/CYP1B1-CYP1B1-AS1 rs189668056 for CCD (P = 4.24 x 10-8, OR = 2.027 [95% CI 1.574-2.609])
+0	cardiovascular disease	NA	NA	DISCUSS	Despite large-scale GWASs providing robust evidence for genetic variants influencing metabolic pathways and CVDs, it is unclear whether genetic variants exist for CVD within the basis of individual chronic metabolic diseases.
+0	cardiovascular disease	NA	NA	DISCUSS	The aim of our study was to identify genetic variations associated with CVD among individuals with HTN, DM, and DL, respectively; for which we found varied meaningful loci for CVD
+0	DM	NA	NA	DISCUSS	In HTN, locus 17q25.3 [CBX8-CBX4] showed the highest significance for CAD; intriguingly, 17q25.3 was also found to uniformly show suggestive associations for CAD in both DM and DL, which shall be discussed in detail later.
+0	NA	NA	NA	DISCUSS	Candidate genes for HTN-CAD risk include CBX2/4/8, GAA, CARD14, and SLC26A11.
+0	cardiovascular disease	NA	NA	DISCUSS	The CBX gene family, a recent research interest in the field of long noncoding RNAs, has been associated with CVD and atherosclerosis in multiple studies.
+0	NA	Gaa	NA	DISCUSS	GAA gene expression has been found to be specifically increased in CAD patients than in controls.
+0	psoriasis	CARD14	NA	DISCUSS	CARD14, which is mainly associated with psoriasis (ongoing clinical studies suggest increased risk of CVDs in psoriasis) and auto-inflammatory disorders, acts as a pro-inflammatory gene by affecting NF-kB activation in the IL-17 inflammation pathway.
+0	NA	NA	NA	DISCUSS	Puig et al.
+0	atherosclerotic	CARD14	NA	DISCUSS	found that expression of genes such as CARD14 classified human atherosclerotic plaque by relative inflammation status.
+0	cardiovascular disease	SLC26A11	NA	DISCUSS	SLC26A11, a product of the SLC26A family of anion transporters, has been associated with both cardiovascular and cerebrovascular disease; notably, it was postulated that SLC26A11 tagged multiple variants of RNF213 associated with young-onset IS, and SLC26A11 was detected from blood samples of patients with ST-elevation MI
+0	CCD	CARD14	rs139293840	DISCUSS	Interestingly, CARD14 and SLC26A11 in the region of 17q25.3 were located within 400 kb of the lead SNP for CCD in DM (17q25.3/RPTOR rs139293840) as well.
+0	DM	NA	NA	DISCUSS	HTN and DM share common risk factors and frequently co-occur; additionally, CVD is the most common long-term complication of both.
+0	DM	NA	NA	DISCUSS	The overlapping association of SNPs and genetic loci between HTN and DM support the existence of shared points of regulation for these phenotypes
+0	DM	RPTOR	NA	DISCUSS	RPTOR, RNF213, CARD14, and SLC26A11 all bear the potential to be the mechanism behind DM-CCD risk loci 17q25.3 [RPTOR].
+0	NA	RNF213	NA	DISCUSS	RNF213 plays important roles in vascular development, and mutant RNF213 has been shown to reduce angiogenesis and induce endothelial dysfunction.
+0	Moyamoya disease	RNF213	NA	DISCUSS	RNF213 has been identified as a susceptibility gene of Moyamoya disease, intracranial arterial stenoses, and systemic vasculopathy among East Asian populations and CAD in the Japanese population.
+0	NA	RNF213	NA	DISCUSS	Recently, the significance of RNF213 and SLC26A11 in Caucasian populations were reported as well, which encourages its re-evaluation within other ethnicities.
+0	NA	RPTOR	NA	DISCUSS	RPTOR is a component of the mTOR pathway, which regulates cell growth in response to nutrient levels by associating with the mammalian target of rapamycin (mTOR).
+0	atherosclerotic	RPTOR	NA	DISCUSS	New insights have been offered into RPTOR and CVD/atherosclerosis; such as evidence that miR-100 exerts anti-angiogenic properties through suppression of mTOR, and that inhibition of cardiac GSK-3beta during continued myocardial ischemia attenuates ischemia-induced mTORC1 inhibition and increases ischemic injury
+0	DM	NA	rs139293840	DISCUSS	Rs139293840 (17q25.3/RPTOR, minor allele frequency (MAF) ~ 0.01) showed substantial risk for DM-CAD (OR 3.36 [2.06-5.48]); although the association was suggestive (P = 1.27 x 10-6; however, genome-wide significance in DM-CCD, P = 1.99 x 10-8), this could be due to insufficient statistical power after selecting populations for quality control.
+0	NA	NA	NA	DISCUSS	Genetic risk factors regarding CAD have usually been found to have only a modest effect, conferring an OR ranging from 1.05 to 1.20; considering the effect size, further replication studies with larger sample sizes are warranted.
+0	NA	NA	rs139293840	DISCUSS	Based on genotyping data, the MAF of rs139293840 varies among different ethnic populations, ranging from 0.89% in Asians to 0.01% in the population of European ancestry to 0% in the American population.
+0	NA	NA	rs139293840	DISCUSS	Thus, the association between rs139293840 and CAD may be more prevalent in the Asian population
+0	NA	en de	NA	DISCUSS	The locus, 4p32.3 [MARCH1-LINC01207] showed significant risk for DM-IS (OR 5.587 [3.086-10.12]) and was located near APELA and MARCH1.
+0	pulmonary arterial hypertension	en de	NA	DISCUSS	APELA is a novel endogenous peptide ligand that activates the APJ receptor axis and is cardioprotective against HTN, MI, pulmonary arterial hypertension, and heart failure.
+0	NA	NA	NA	DISCUSS	Recently, studies have shown that the apelin/APJ axis possess neuroprotective effects by inhibiting neuronal apoptosis and improving functional recovery in IS through diverse mechanisms, including suppressing inflammatory responses, modulating autophagy, and promoting angiogenesis.
+0	NA	AS1	NA	DISCUSS	MARCH1 has been identified as a susceptibility locus for MI and HTN in Japanese, and regarding IS, was included as 1 of the 31 SNPs significantly associated with IS in an initial EWAS
+0	arrest	Semaphorin 4D	NA	DISCUSS	In DL-CAD risk, locus 9q22.2 [UNQ6494-LOC10192784] was significant; Semaphorin 4D (SEMA4D) and Growth arrest and DNA-damage-inducible 45 (GADD45G) are potential candidates.
+0	atherosclerotic	Semaphorin 4D	NA	DISCUSS	Sema4D is a type I integral membrane glycoprotein expressed by most hematopoietic cells that participate in the pathogenesis of atherosclerosis, which has been identified as an independent risk factor for CHD.
+0	death	GADD45G	NA	DISCUSS	GADD45G, of the GADD45 family involved in p38 mitogen-activated protein kinase-dependent cell death, has been linked with several cardiologic studies.
+0	coronary artery disease	GADD45G	NA	DISCUSS	Recently, conferred resistance to myocardial ischemic injury and cardiomyocyte apoptosis was found when GADD45G was deleted in mice
+0	NA	NA	NA	DISCUSS	Again, the gene-rich locus 17q25.3 was found to be of suggestive association for CAD in DL.
+0	cardiovascular disease	NA	NA	DISCUSS	Considering the small sample size, we consider this finding to bear significance, which confers on 17q25.3 the status of a common susceptibility locus of CVD in HTN, DM, and DL.
+0	metabolic disorder	NA	NA	DISCUSS	"It has not been fully elucidated whether these chronic metabolic diseases are part of the causal pathway for CVD or merely comorbid diseases in ""common soil""."
+0	metabolic disorder	NA	NA	DISCUSS	The search has been fraught with controversial findings, as has the presence of overlap in the genetic architecture of metabolic diseases and CVDs.
+0	cardiovascular disease	NA	NA	DISCUSS	This study provides first probable evidence of a common candidate locus for CVD in the 3 diseases using a GWAS approach
+0	Stroke	ULK4	NA	DISCUSS	Locus 3p22.1 [ULK4] of DL-IS risk seems likely to be associated with ULK4; recently, ULK4 was identified by GWAS and brain eQTL to be a susceptibility gene for IS and small vessel stroke in trans-ethnic datasets.
+0	NA	NA	NA	DISCUSS	However, CTNN1B of the WNT gene family is another possibility.
+0	NA	NA	NA	DISCUSS	The Wnt signaling pathway contributes to the development of CVDs; both canonical and noncanonical Wnt signaling cascades moderate cell phenotypic modulation of vascular smooth muscles in CVDs.
+0	vascular dementia	beta-catenin	NA	DISCUSS	CTNN1B encodes beta-catenin and is essential in maintaining CNS homeostasis; in terms of arteriosclerotic effects, CTNN1B was found to harbor a susceptibility variant for MI in the Han population.
+0	cerebral infarctions	NA	NA	DISCUSS	Recently, expression of vital genes in the Wnt pathway (including CTNN1B) was found to be upregulated in cerebral infarction in rats; it seems plausible that similar findings could be found in humans
+0	NA	NA	NA	DISCUSS	Finally, 2p22.2 [CYP1B1-CYP1B1-AS1] of DL-CCD risk could be associated with Cytochrome P450 1B1(CYP1B1), a member of the well-known Cytochrome P450 family.
+0	NA	CYP1B1	NA	DISCUSS	CYP1B1 is expressed in various tissues, with the highest mRNA expression levels found extrahepatically, such as the heart and brain.
+0	atherosclerotic	CYP1B1	NA	DISCUSS	Recent findings have shown that CYP1B1 contributes to the development of atherosclerosis, DL, and HTN in rats; demonstrates an association with DM; and has a suggested influence on adipogenesis
+0	NA	NA	NA	DISCUSS	There are limitations to our study.
+0	NA	NA	NA	DISCUSS	First, replication is lacking, and the findings may not be generalized to cohorts with different ethnicities and races.
+0	NA	NA	NA	DISCUSS	Second, we investigated the phenotypes of diseases using a patient-reported questionnaire and thus could not investigate various CVDs or measurable continuous traits.
+0	NA	NA	NA	DISCUSS	Third, this work is based on statistical evidence and does not provide functional experimental validation.
+0	NA	NA	NA	DISCUSS	Potential genetic interactions using biological and mechanical analyses are required to confirm these findings, and additional studies are warranted for replication and validation
+0	NA	NA	NA	DISCUSS	Despite these limitations, our study has several unique strengths.
+0	cardiovascular disease	NA	NA	DISCUSS	Many studies have demonstrated varied findings regarding the genetic relations between CVD and its risk factors.
+0	cardiovascular disease	NA	NA	DISCUSS	However, most previous studies utilized variants of genome-wide significance or genotyping arrays that focused only on pre-selected loci, and they have not fully utilized genome-wide variation for the estimation of genetic variants of CVD risk.
+0	cardiovascular disease	NA	NA	DISCUSS	Moreover, none of these previous studies have focused on the genetic variants of CVD within the same chronic conditions.
+0	cardiovascular disease	NA	NA	DISCUSS	To the best of our knowledge, the present study provides novel evidence of genetic associations with CVD specific to individuals with HTN, DM, and DL.
+0	NA	NA	NA	DISCUSS	Charmet et al.
+0	diabetes	NA	NA	DISCUSS	found novel candidates for CAD using a then unprecedented similar study design (434 cases and 3,123 controls), in patients with type 1 diabetes.
+0	NA	NA	NA	DISCUSS	The barrier of limited statistical power due to sample size may be why such studies are lacking
+0	NA	NA	NA	DISCUSS	Although some of our findings showed low prevalence, the overall effect size is significant with high ORs.
+0	NA	NA	NA	DISCUSS	Also, the allele frequency may be underestimated due to smaller quality genomic databases of East Asians used in forming the reference panels.
+0	metabolic disorder	NA	NA	DISCUSS	Further, cardio-metabolic diseases associated with CVDs have been increasing in prevalence as well as in total medical costs in Asians, with HTN and DM ranking 1st and 2nd among all medical diagnoses in Korea, respectively.
+0	dyslipidemia	NA	NA	DISCUSS	Dyslipidemia prevalence has been rapidly increasing up to 38.4% of all adults, and CVDs account for 1/4 of total mortality of the Korean population according to recent data.
+0	DM	NA	NA	DISCUSS	Our preliminary findings may be used to improve the identification of individuals with HTN, DM, or DL at high-risk for cardiovascular events or to provide novel targets for potential pharmacologic development.
+0	metabolic disorder	NA	NA	DISCUSS	In the era of personalized, preventive medicine with progressively aging populations with chronic cardio-metabolic diseases, further comprehensive analyses of our findings seem highly warranted
+0	NA	NA	NA	CONCL	In conclusion, our GWAS, of unprecedented design, provides several novel insights into the genetic architecture of CVDs.
+0	cardiovascular disease	NA	NA	CONCL	We report 6 loci with genome-wide significant association for CVDs, which harbor numerous potential positional candidate genes, and show substantial CVD risk discrimination in individuals with HTN, DM, or DL.
+0	DM	NA	NA	CONCL	In addition, we suggest the importance of 17q25.3 as a potential common CAD locus for HTN, DM, and DL
+0	NA	DHP	NA	AUTH_CONT	JWL and KWH conceptualized the research; JWL, KWH, YS and JEC designed the work; YS, JEC, YJK, HJC, JOK and DHP acquired and analyzed the data; YS, JEC, YJK, HJC, JMP and SJK interpreted the results.
+0	NA	NA	NA	AUTH_CONT	All authors contributed to the drafting and critical revision of the manuscript.
+0	NA	NA	NA	AUTH_CONT	All authors read and approved the final manuscript
+0	NA	NA	NA	ACK_FUND	This study was supported by the Bio and Medical Technology Development Program through the National Research Foundation of Korea funded by the Ministry of Science, ICT, and Future Planning [NRF2018R1D1A1B07049223] and the Technology Innovation Program [20002781, A Platform for Prediction and Management of Health Risk Based on Personal Big Data and Lifelogging] funded by the Ministry of Trade, Industry & Energy (MOTIE, Korea)
+0	NA	NA	NA	METHODS	The datasets used and/or analyzed during the current study are available from the corresponding authors on reasonable request
+0	NA	NA	NA	METHODS	All participants voluntarily signed an informed consent form before KoGES, and the study protocol was approved by the Institutional Review Boards (IRB) of the institutions that participated in KoGES.
+0	NA	NA	NA	METHODS	This current study was performed in accordance with the Declaration of Helsinki and approved by the IRB of Theragen Etex (Approval Numbers: 700062-20190819-GP-006-02)

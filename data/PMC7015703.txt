@@ -1,0 +1,154 @@
+0	NSCLC	NA	NA	ABSTRACT	Genetic variation plays an important role in the development of non-small cell lung cancer (NSCLC).
+0	lung cancer	NA	NA	ABSTRACT	However, major genetic factors for lung cancer have not been fully identified, especially in Chinese populations, which deters us from using a polygenic risk score (PRS) to identify sub-populations at high-risk of lung cancer for prevention
+0	NSCLC	NA	NA	ABSTRACT	To systematically identify genetic variants for NSCLC risk, we newly genotyped 19,546 samples and conducted a meta-analysis of genome-wide association studies (GWASs) of 27,120 cases and 27,355 controls.
+0	lung cancer	NA	NA	ABSTRACT	We then built a PRS for Chinese populations and evaluated its utility and effectiveness in predicting high-risk populations of lung cancer in an independent prospective cohort of 95,408 individuals from China Kadoorie Biobank (CKB)
+0	NSCLC	NA	NA	ABSTRACT	We identified 19 susceptibility loci to be significantly associated with NSCLC risk at 5 0x10-8, including six novel ones.
+0	lung cancer	NA	NA	ABSTRACT	When applied to the CKB cohort, the PRS of the risk loci successfully predicted lung cancer incidence in a dose-response manner (Ptrend=2 02x10-9).
+0	NA	NA	NA	ABSTRACT	Specially, we observed apparently separate predictive morbidity curves for low, intermediate, and high genetic risk populations respectively, and PRS was an independent effective risk stratification indicator beyond age and pack-years during a 10-year follow-up time of the cohort
+0	NSCLC	NA	NA	ABSTRACT	Based on the systematic identification of the risk loci for NSCLC, we have proved for the first time that GWAS-derived PRS can be effectively used in screening for high-risk populations of lung cancer, potentially leading to a feasible PRS-based lung cancer screening program for individualized prevention in Chinese populations
+0	NA	NA	NA	ABSTRACT	National Natural Science Foundation of China, the Priority Academic Program for the Development of Jiangsu Higher Education Institutions, National Key R&D Program of China, and China's Thousand Talents Program
+0	lung cancer	NA	NA	INTRO	Lung cancer is the leading type of cancer with the highest incidence and mortality in China  and the world.
+0	lung cancer	NA	NA	INTRO	It is estimated that more than 2 09 million new lung cancer cases will occur in 2018, accounting for approximately 11 6% of the total cancer diagnoses.
+0	NSCLC	NA	NA	INTRO	Non-small cell lung cancer (NSCLC) accounts for ~ 85% of total lung cancer cases and presents severe threats to the health of the populations.
+0	NA	NA	NA	INTRO	Although environmental risk factors (e.g.
+0	NSCLC	NA	NA	INTRO	smoking) contribute the most to risk of NSCLC,  genetic variants can explain approximately 12% ~ 21% of the heritability of lung cancer.
+0	lung cancer	NA	NA	INTRO	In the past decade, genome-wide association studies (GWASs) have identified 45 risk loci of lung cancer in different ethnic populations;  however, genetic factors associated with lung cancer risk have not been fully identified, especially in Chinese populations
+0	NA	NA	NA	INTRO	Recent large-scale population studies have suggested that the combined effect of common genetic variants might serve as an efficient screening tool for some complex diseases.
+0	Alzheimer's disease	NA	NA	INTRO	The findings of genetic risk loci from previous GWASs could be applied as a polygenic risk score (PRS) strategy to identify individuals at an increased risk of diseases for prevention, such as Alzheimer's disease,  cardiovascular diseases,  and breast cancer.
+0	lung cancer	NA	NA	INTRO	For lung cancer, a few case-control studies have been conducted to use a PRS derived from genetic risk loci, but such a PRS has poor discriminating ability in predicting lung cancer risk,  largely because the lack of subsequent prospective studies to validate its efficiency and significance.
+0	NA	NA	NA	INTRO	Furthermore, most of the studies were performed among populations of European descent, and few studies included other ethnic groups
+0	NSCLC	NA	NA	INTRO	To systematically identify genetic factors for NSCLC risk, we newly genotyped additional 19,546 samples in Chinese populations, and then performed a meta-analysis of GWASs from both Chinese and European populations, with a total of 27,120 cases and 27,355 controls.
+0	NSCLC	NA	NA	INTRO	We generated a PRS score by using the NSCLC related risk loci, and then we evaluated, for the first time, its utility and effectiveness in prediction of lung cancer risk in a subset of 95,408 individuals randomly selected from an independent large-scale prospective cohort from China Kadoorie Biobank (CKB) with more than ten years' follow-up
+0	NA	NA	NA	METHODS	All participants in the present study signed an informed consent form which was approved by the local internal review boards or ethics committees.
+0	NA	NA	NA	METHODS	The workflow chart for the study design is illustrated in Fig.
+0	NA	NA	NA	METHODS	S1 in the Supplementary Appendix
+0	NA	NA	NA	METHODS	For the present study, we newly performed genome-wide scan for 19,546 samples (NJMU GSA project: 10,248 cases and 9,298 controls) using Illumina Global Screening Array (GSA), which included three studies (Nanjing GSA study: 4,149 cases and 3,198 controls from Nanjing and Shanghai; Beijing GSA study: 2,155 cases and 2,035 controls from Beijing and Tianjin; and Guangzhou GSA study: 3,944 cases and 4,065 controls from Guangdong).
+0	NSCLC	NA	NA	METHODS	We then performed a meta-analysis of GWASs with 27,120 NSCLC cases and 27,355 controls from two populations (13,327 cases and 13,328 controls of Chinese descent  as well as 13,793 cases and 14,027 controls of European descent).
+0	lung cancer	NA	NA	METHODS	For populations of Chinese descent, except for 19,546 samples that were newly genotyped (NJMU GSA), the remaining samples were derived from our previous lung cancer GWAS data (2,126 cases and 3,077 controls)  and our unpublished lung cancer OncoArray data (953 cases and 953 controls).
+0	lung cancer	NA	NA	METHODS	All these lung cancer cases were histologically confirmed as incident NSCLC by at least two pathologists, who had not received chemo- or radio-therapy before diagnosis.
+0	NA	NA	NA	METHODS	Cancer-free controls were selected from those participants in the community screening of non-communicable diseases, frequency-matched to cases by age, sex, and geographic regions.
+0	NA	NA	NA	METHODS	All participants provided core data on age, sex, smoking status, smoking pack-years, and histological types.
+0	NA	S12	NA	METHODS	Demographic characteristics of all participants are displayed in Table S1-1 and Table S1-2 in the Supplementary Appendix.
+0	NA	NA	NA	METHODS	For populations of European descent, all data were integrated from the TRICL-ILCCO OncoArray project (13,793 cases and 14,027 controls).
+0	NA	NA	NA	METHODS	Detailed information is provided in Appendix 1 in the Supplementary Appendix
+0	NA	NA	NA	METHODS	This prospective cohort study included 95,793 individuals with both phenotype and genotype data who were randomly selected from 512,891 Chinese adults of CKB,  a nationwide prospective cohort.
+0	cancers	NA	NA	METHODS	Participants in CKB were followed up for cancer events mainly through the linkage with official death certificates, chronic disease registries, and the national health insurance system, which are annually supplemented with local residential records.
+0	NA	NA	NA	METHODS	Detailed description for CKB is provided in Appendix 1 in the Supplementary Appendix and the demographic characteristics of the participants are provided in Table S2 in the Supplementary Appendix
+0	NA	NA	NA	METHODS	For risk-loci identification, additional genotyping was performed using Illumina Infinium  Global Screening Array (GSA) v1.0, which contains 700,078 markers.
+0	NA	NA	NA	METHODS	The genotyping was completed by using the Illumina iScan System according to the manufacturer's protocols.
+0	NA	NA	NA	METHODS	Information on the other GWAS datasets included in this study is provided in Appendix 2 in the Supplementary Appendix.
+0	NA	NA	NA	METHODS	The 95,408 CKB samples used in the PRS application were genotyped using a customized Affymetrix Axiom  CKB array (optimized for usage of Han Chinese subjects) by the BGI company, which consists of ~ 700,000 markers
+0	NA	NA	NA	METHODS	For all datasets used in the present study, we performed standard quality control at both sample-level and variant-level according to the literature.
+0	NA	v2  and IMPUTE v2	NA	METHODS	Qualified samples and genotypes in each dataset were phased and imputed with SHAPEIT v2  and IMPUTE v2,  respectively by using default parameters and the 1000 Genomes Project Phase III database (released in October, 2014) as the reference.
+0	NA	NA	NA	METHODS	Details concerning the processes of quality control and imputation are described in Appendix 2 in the Supplementary Appendix
+0	lung cancer	NA	NA	METHODS	We derived a PRS specific for Chinese populations from all reported SNPs (i.e., 81 SNPs in 40 loci) that have been reported to be associated with lung cancer risk at genome-wide significance level in both current and previous studies.
+0	NA	NA	NA	METHODS	To ensure the efficiency of the model, several criteria were applied to filter out redundant variants: (1) MAF < 0 01 in Chinese populations; (2) SNPs in linkage disequilibrium (LD, r2 >=0 1); (3) P value >= 0 00125 (after multiple comparison at 0 05/40, 40 independent loci remained according to the above two criteria) in Chinese populations included in the present study.
+0	NA	NA	NA	METHODS	As a result, 19 risk variants were kept for the PRS calculation, 16 of which with a P value < 5 0 x 10-08 in the current study.
+0	NA	NA	NA	METHODS	The detailed process is illustrated in Fig.
+0	NA	NA	NA	METHODS	S1 in the Supplementary Appendix
+0	NA	NA	NA	METHODS	In the present study, PRS was generated by multiplying the genotype dosage of each risk allele for each variant by its respective weight (lnOR) in Chinese population, summing all variants together.
+0	NSCLC	NA	NA	METHODS	Effect sizes for all variants were derived from the association of NSCLC patients of Chinese descent in the present study, which were all flipped into risk alleles, where appropriate.
+0	NA	NA	NA	METHODS	PRS was calculated by statisticians (J.D.
+0	NA	NA	NA	METHODS	and M.Z.)
+0	lung cancer	NA	NA	METHODS	who were blinded to the end points in the CKB cohort, and then the association between PRS and lung cancer risk was evaluated independently
+0	NA	NA	NA	METHODS	For the GWAS array datasets, per-allele odds ratios (ORs) and standard errors (SEs) were calculated using logistic regression analysis with the SNPTEST (v2.5.4) software based on a probabilistic dosage model.
+0	NA	NA	NA	METHODS	A fixed-effects meta-analysis was performed to combine individual association estimates from each GWAS dataset using the METAL software.
+0	NA	NA	NA	METHODS	Other methods used in the present study are illustrated in Appendix 2 in the Supplementary Appendix.
+0	lung cancer	NA	NA	METHODS	For the CKB cohort study, we used the Cox proportional-hazards regression model to test the association between genetic risk and incident lung cancer events with the adjustments of age, sex, source of region, and smoking status.
+0	NA	NA	NA	METHODS	Participants were classified into ten equal parts according to the distribution of PRS, and we compared hazard ratios (HR) for each part with those at the lowest tenth.
+0	NA	NA	NA	METHODS	Individuals within the top 5%, 5%-95%, and the bottom 5% of PRS were considered as populations at high, intermediate, and low genetic risk respectively.
+0	NA	NA	NA	METHODS	We used Cox regression to calculate cumulative event rates by the end of 2016 in each of the three subgroups, which were standardized to the mean of the above-mentioned adjustments.
+0	NA	NA	NA	METHODS	All the analyses were performed using the R software (version 3.5.1, R Project for Statistical Computing)
+0	NA	NA	NA	METHODS	The corresponding authors had full access to all the data in the study and had final responsibility for the decision to submit for publication
+0	NSCLC	NA	NA	RESULTS	For the NSCLC risk loci identification, we included 27,120 NSCLC cases and 27,355 controls in the analysis.
+0	NA	NA	NA	RESULTS	No obvious population stratification was observed either for overall samples or specific subgroup samples (Fig.
+0	NA	NA	NA	RESULTS	S2 in the Supplementary Appendix).
+0	lung adenocarcinomas	NA	NA	RESULTS	The individuals' age and sex were well balanced between the case-control groups, in which 57 5% cases were classified as lung adenocarcinoma (LUAD) and 30 8% as lung squamous cell carcinoma (LUSC) (Table S1-1 in the Supplementary Appendix)
+0	NSCLC	NA	NA	RESULTS	We identified 19 risk loci at the GWAS-significant level (i.e., 5 0x10-8) for the overall NSCLC or histological association analysis.
+0	NSCLC	NA	rs3769821	RESULTS	Among the 19 loci, six were novel ones, including three loci for overall NSCLC: 2q33.1 (rs3769821: odds ratios (OR) = 1 08, P = 4 45x10-8), 3q26.2 (rs2293607: OR = 1 10, P = 1 82x10-10), 14q13.1 (rs1200399: OR = 1 11, P = 3 05x10-9); two for LUAD: 2p14 (rs17038564: OR = 1 15, P = 1 87x10-8), 9p13.3 (rs35201538: OR = 1 10, P = 1 99x10-8); and one for LUSC: 9q33.2 (rs4573350: OR = 1 13, P = 3 23x10-9) (Figure 1, Table 1).
+0	NSCLC	NA	NA	RESULTS	We also replicated 13 previously reported loci at the GWAS-significant level, including 12 loci for overall NSCLC: 3q28, 5p15.33, 6p22.1, etc.
+0	NA	NA	NA	RESULTS	; one for LUAD: 15q21.1 (Figure 1, Table 1).
+1	NA	NA	rs4236709	RESULTS	It is noteworthy that three risk loci (8p12: rs4236709; 9p21.3: rs10429489 and 11q23.3: rs55768116) previously reported in European populations were also identified in Chinese populations for the first time.
+0	NA	NA	NA	RESULTS	Regional plots for these 19 risk loci were used to illustrate the LD pattern and related genes in each region (Fig.
+0	NA	NA	NA	RESULTS	S3 in the Supplementary Appendix)
+0	NSCLC	NA	NA	RESULTS	As shown in Figure 1 A and 1 B, we identified four novel loci for LUAD: 2p14 and 9p13.3 were specifically significant in LUAD subgroup, while 3q26.2 and 14q13.1 were detected in both overall NSCLC and LUAD.
+0	lung cancer	NA	NA	RESULTS	As shown in Figure 1 B and 1 C, the genetic architecture of lung cancer varied markedly between histological subtypes, with striking differences between LUAD and LUSC.
+0	NA	NA	NA	RESULTS	Fewer signals were found for LUSC, and only one signal was specific for LUSC (9q33.2)
+0	NA	NA	NA	RESULTS	To compare genetic architectures between Chinese and European populations, forest plots with bubbles were used to indicate the effect estimates and effect allele frequencies (EAFs) for each lead SNP across overall and histological datasets (Figure 2).
+0	NA	NA	NA	RESULTS	As shown in Figure 2, 13 out of 19 identified risk loci showed consistent effect estimates across ancestries, which means that these risk-associated loci are shared across ethnic populations.
+0	NA	NA	NA	RESULTS	On the other hand, we also observed the heterogeneity of the risk-associated loci and their effects across different populations (e.g., 3q28, 5p15.33, 6p21.1, and 9q33.2).
+0	NA	NA	NA	RESULTS	We also performed subgroup analysis for the six novel risk loci by sex, smoking, and histology status (Table S3 and Fig.
+0	NA	NA	NA	RESULTS	S4 in the Supplementary Appendix).
+0	NA	NA	NA	RESULTS	Compared with the overall samples, most of the signals had similar effect sizes in specific subgroups
+0	NA	NA	NA	RESULTS	For the PRS application, a total of 95,408 Chinese participants from CKB were included in the prediction study.
+0	lung cancer	NA	NA	RESULTS	During the follow-up, 1,316 lung cancer patients were registered and confirmed with a median follow-up time of 10 44 years (Table S2 in the Supplementary Appendix).
+0	lung cancer	NA	NA	RESULTS	We derived a PRS calculation model specific for Chinese populations by using 19 SNPs, which were selected from 81 previously reported SNPs associated with lung cancer risk (Fig.
+0	NA	NA	NA	RESULTS	S1 and Table S4 in the Supplementary Appendix).
+0	NA	NA	NA	RESULTS	The process of PRS calculation is provided in Table S5 in the Supplementary Appendix
+0	lung cancer	NA	NA	RESULTS	The GWAS-derived PRS could significantly predict lung cancer risk in the CKB cohort.
+0	lung cancer	NA	NA	RESULTS	A risk gradient across each grade of genetic risk was observed such that the participants at a high genetic risk (i.e., in the top tenth of the PRS) were at significantly higher risk of lung cancer than those at a low genetic risk (i.e., in the lowest tenth genetic risk), with an adjusted HR of 1 96 (95% CI, 1 53 to 2 51) (Ptrend=2 02x10-9) (Figure 3 A).
+0	lung cancer	NA	NA	RESULTS	If participants within the top 5% and bottom 5% of PRS were defined as high and low genetic risk populations, the apparently separate predictive morbidity curves were observed in the CKB cohort during the follow-up, with a relative risk of lung cancer 137% higher among participants at high genetic risk than those at low genetic risk (HR=2 37, 95% CI: 1 64-3 44) (Figure 3 B).
+0	NA	NA	NA	RESULTS	Similar prediction results were observed in nonsmokers and smokers, females and males, even if we extended the definition of high-risk group to the top 10% population (Fig.
+0	NA	NA	NA	RESULTS	S5 in the Supplementary Appendix)
+0	lung cancer	NA	NA	RESULTS	A cumulative effect of the PRS and smoking was observed for incident lung cancer events according to the results from CKB.
+0	cancers	NA	NA	RESULTS	Figure 3 C showed that the cancer risk in light smokers (pack-year, PY<30) at low genetic risk was similar to nonsmokers (HR=1 17, 95% CI: 0 64-2 15), while a gradually increased cancer risk was observed for light smokers (pack-year, PY<30) at intermediate genetic risk (HR=1 79, 95% CI: 1 49-2 14), heavy smokers (PY>=30) at low genetic risk (HR=2 08, 95% CI: 1 18-3 67), light smokers at high genetic risk (HR=2 93, 95%CI: 1 92-4 49), heavy smokers at intermediate genetic risk (HR=3 27, 95% CI: 2 71-3 94), and heavy smokers at high genetic risk (HR=3 98, 95% CI: 2 64-5 99) after adjustment for age, sex, and region (Figure 3 C).
+0	lung cancer	NA	NA	RESULTS	Although smoking was the most important risk factor of lung cancer, light smokers at high genetic risk showed a higher risk compared with heavy smokers at low genetic risk in our cohort.
+0	lung cancer	NA	NA	RESULTS	Within each category of genetic risk, the degrees of smoking were associated with an increase in relative risk of lung cancer (Figure 3 D).
+0	lung cancer	NA	NA	RESULTS	Participants who smoked heavily at low genetic risk had a lower rate (267 5 per 100,000 person-years) of lung cancer compared to that (339 9 per 100,000 person-years) of light smokers at high genetic risk.
+0	lung cancer	NA	NA	RESULTS	These results suggest that the PRS has the ability to predict risk of lung cancer and that it potentially optimizes the definition of sub-populations at high-risk in individualized lung cancer prevention beyond pack-years and other predictors.
+0	NA	NA	NA	RESULTS	Besides, a low genetic risk could be largely offset by smoking.
+0	lung cancer	NA	NA	RESULTS	A much higher standardized cumulative lung cancer risk was observed among heavy smokers at low genetic risk compared with never smokers at high genetic risk (267 5 vs. 156 1 per 100,000 person-years), which support public health efforts that emphasize a healthy lifestyle of non-smoking for everyone, even for those individuals who are at a low genetic risk
+0	lung cancer	NA	NA	DISCUSS	In the present study, we performed a large-scale GWAS of lung cancer, and we found six novel variants and confirmed 13 previously reported variants that were associated with NSCLC risk.
+0	lung cancer	NA	NA	DISCUSS	In the independent prospective cohort study, the GWASs derived PRS significantly predicted lung cancer incidence in a dose-response manner, and the apparently separate predictive morbidity curves were observed during the follow-up for low, intermediate, and high genetic risk populations respectively.
+0	lung cancer	NA	NA	DISCUSS	We proved, for the first time, that PRS can be an effective tool to predict lung cancer risk and potentially applied in individualized cancer prevention
+0	lung cancer	NA	NA	DISCUSS	Based on the results of subgroup analysis by histology of lung cancer, we observed a strikingly histological heterogeneity between LUAD and LUSC.
+0	NA	NA	NA	DISCUSS	Among the 19 loci we identified,  loci (e.g., 2p14, 3q26.2, 9p13.3 14q13.1, and 15q21.1) were significant in the LUAD subgroup, while only one signal was specific for LUSC (9q33.2).
+0	NA	NA	NA	DISCUSS	Previous studies revealed that LUAD and LUSC were commonly thought to be different diseases because of their distinct biology and genomic abnormalities in terms of either germline variations or somatic alterations.
+0	prostate carcinogenesis	NA	NA	DISCUSS	It has been reported that smoking is more strongly associated with LUSC than LUAD, indicating different mechanisms of carcinogenesis for these histological subtypes.
+0	NA	NA	NA	DISCUSS	As for the comparisons of different ethnic groups, most of the risk-associated loci are shared across ethnic populations.
+0	lung cancer	NA	NA	DISCUSS	Larger sample sizes and more complete ascertainment of variants (particularly in Asian studies) would better assess genetic architecture of lung cancer across divergent populations.
+0	NSCLC	NA	NA	DISCUSS	Although we observed genetic heterogeneity between populations, our findings extended the knowledge that most of the risk loci of NSCLC were consistent and shared among populations of both Chinese and European descent
+0	NA	NA	NA	DISCUSS	The effectiveness of the PRS is often evaluated by determining whether it can help separate the population into categories with distinct degrees of absolute risk to drive clinical or personal decision-making.
+0	lung cancer	NA	NA	DISCUSS	Although several articles have evaluated the predictive performance of PRS in lung cancer, the limited sample size with case-control design in previous studies often led to discouraging results.
+0	lung cancer	NA	NA	DISCUSS	In the present study, we, for the first time, proved that GWAS-derived PRS significantly predicted risk of lung cancer in a nationwide prospective cohort study.
+0	lung cancer	NA	NA	DISCUSS	The distinct incidence rates for populations within different categories of genetic risk as defined by the PRS provide a strong evidence that GWAS findings can be used in lung cancer screening and individualized prevention.
+0	NA	NA	NA	DISCUSS	Compared with previous studies on PRS,  the strength of the present study is that samples from the CKB cohort were absolutely independent from those used in the GWAS, which has avoided overestimation of the PRS effect
+0	NA	NA	NA	DISCUSS	Clinical utility of PRS can be roughly categorized into three major classes of interventions: PRS-informed disease screening, PRS-informed life planning, and PRS-informed therapeutic intervention.
+0	lung cancer	NA	NA	DISCUSS	In the present study, we observed that GWAS-based PRS was a potential predictor for lung cancer risk beyond age and pack-years of smoking, the main screening eligibility criteria used in the current guidelines by the United States Preventive Services Task Force and the NCCN Clinical Practice Guidelines.
+0	lung cancer	NA	NA	DISCUSS	By demonstrating that different cumulative event rates of lung cancer were observed for heavy smokers at low, intermediate, and high genetic risk during follow-up in the CKB cohort, the present study provides the necessity of individualized screening plans, such as changing the interval between lung cancer screening according to individual risk to reduce potential hazards from the radiation of CT scans.
+0	lung cancer	NA	NA	DISCUSS	Besides, the present findings revealed that light smokers with a high genetic risk showed a high incident rate of lung cancer close to heavy smokers in the CKB cohort, indicating that these participants should be included in the screening program.
+0	lung cancer	NA	NA	DISCUSS	Given the overall findings, we propose that all smokers over the age of 55 should have a genetic risk test to formulate an individualized lung cancer screening plan according to individual risk.
+0	NA	NA	NA	DISCUSS	Moreover, the PRS may have its utility even in the absence of, or a personal desire to avoid, preventive screening.
+0	coronary artery disease	NA	NA	DISCUSS	Similar to recent studies on coronary disease,  the population with a genetic score of the top one-twentieth, even the top one-tenth, has the ability to offset much of this risk by sticking to not smoking throughout their lifetime, leading to reduction of their overall risk of lung cancer by nearly 60%
+0	lung cancer	NA	NA	DISCUSS	In conclusion, the risk loci identified in the present study provided additional insights into genetic basis of lung cancer, which would further advance our understanding of lung cancer susceptibility and carcinogenesis.
+0	lung cancer	NA	NA	DISCUSS	More importantly, we proved in the present study, for the first time, that PRS could be effectively used for lung cancer risk prediction and potentially applied in lung cancer screening program for individualized prevention
+0	NA	NA	NA	SUPPL	"We systematically searched PubMed and reviewed for research articles published in English before Aug 23, 2018, with search terms including ""polygenetic risk score"" and ""GWAS""."
+0	NA	NA	NA	SUPPL	In the past decades, hundreds of susceptibility loci have been identified for complex diseases using GWAS strategy.
+0	Alzheimer's disease	NA	NA	SUPPL	Based on previous findings, genetic risk loci from previous GWASs could be applied as a PRS strategy to identify individuals at an increased risk of diseases for prevention, such as Alzheimer's disease, cardiovascular diseases, and breast cancer, etc.
+0	lung cancer	NA	NA	SUPPL	For lung cancer, 45 risk loci were identified among different populations, and a few case-control studies have been conducted to evaluate PRS, but such a PRS has poor discriminating ability in predicting lung cancer risk, largely because the lack of subsequent prospective studies to validate its efficiency and significance.
+0	NA	NA	NA	SUPPL	Furthermore, most of the studies were performed among populations of European descent, and few studies included other ethnic groups
+0	NSCLC	NA	NA	SUPPL	We identified six novel susceptibility loci to be significantly associated with NSCLC.
+0	NSCLC	NA	NA	SUPPL	We generated a PRS score by using the NSCLC related risk loci, and then we evaluated, for the first time, its utility and effectiveness in prediction of lung cancer risk in an independent large-scale prospective cohort.
+0	lung cancer	NA	NA	SUPPL	The PRS of the risk loci successfully predicted lung cancer incidence in Chinese populations.
+0	NA	NA	NA	SUPPL	Specially, we observed apparently separate predictive morbidity curves and PRS was an independent effective risk stratification indicator beyond age and pack-years
+0	lung cancer	NA	NA	SUPPL	The risk loci identified in the present study provided additional insights into genetic basis of lung cancer.
+0	lung cancer	NA	NA	SUPPL	Based on the findings of PRS prediction, we propose that all smokers over the age of 55 should have a genetic risk test to formulate an individualized lung cancer screening plan according to individual risk.
+0	lung cancer	NA	NA	SUPPL	PRS can be effectively used in screening for high-risk populations of lung cancer, potentially leading to a feasible PRS-based lung cancer screening program for individualized prevention in Chinese populations
+0	NSCLC	NA	NA	FIG	(A) Non-small cell lung cancer.
+0	lung adenocarcinomas	NA	NA	FIG	(B) Lung adenocarcinoma.
+0	squamous disease	NA	NA	FIG	(C) Lung squamous cell carcinoma.
+0	NA	NA	NA	FIG	Each locus is annotated by its cytogenetic-band location.
+0	NA	NA	NA	FIG	Black: previously reported loci; red: novel risk loci.
+0	NA	NA	NA	FIG	"The red horizontal line denotes ""genome-wide"" significance (P < 5x10-8)"
+0	NSCLC	NA	NA	FIG	Effect sizes and allele frequencies in Chinese and Europeans of the effect (risk-increasing) alleles are shown for the lead variants identified for (A) Non-small cell lung cancer.
+0	lung adenocarcinomas	NA	NA	FIG	(B) Lung adenocarcinoma.
+0	squamous disease	NA	NA	FIG	(C) Lung squamous cell carcinoma.
+0	NA	NA	NA	FIG	Bold text denotes newly-identified loci
+0	NA	NA	NA	FIG	(A) Participants in the CKB cohort were divided into ten equal parts according to PRS, and the hazard ratio of each part compared with those at lowest tenth were shown in panel A.
+0	NA	NA	NA	FIG	(B) Participants were defined as high genetic risk, intermediate genetic risk and low genetic risk populations according to the top 5%, 5%-95%, and the bottom 5% of PRS.
+0	lung cancer	NA	NA	FIG	Panel B shown are the standardized rates of lung cancer events of the three groups in CKB cohort.
+0	NA	NA	NA	FIG	Hazard ratios and the 95% confidence intervals derived from Cox regression model adjusting for age, sex, resources of region, and smoking status are provided in legend.
+0	NA	NA	NA	FIG	(C) Cumulative effects of the genetic and smoking were shown in Panel C. The relative risk of participants at different genetic risk in light smokers and heavy smokers were calculated compared to never smokers in the CKB cohort.
+0	NA	NA	NA	FIG	Hazard ratios and the 95% confidence intervals derived from Cox regression model adjusting for age, sex, and resources of region are provided in legend.
+0	lung cancer	NA	NA	FIG	(D) Pancel D shown is standardized cumulative lung cancer events in different degrees of smoking according to the three defined genetic risk populations.
+0	NA	NA	NA	FIG	The I bars represent 95% confidence intervals

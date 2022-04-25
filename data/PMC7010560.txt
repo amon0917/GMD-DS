@@ -1,0 +1,214 @@
+0	obese	NA	NA	ABSTRACT	Clinical and epidemiological studies have shown that obesity is associated with asthma and that these associations differ by asthma subtypes.
+0	obese	NA	NA	ABSTRACT	Little is known about the shared genetic components between obesity and asthma
+0	NA	NA	NA	ABSTRACT	To identify shared genetic associations between obesity-related traits and asthma subtypes in adults
+0	NA	NA	NA	ABSTRACT	A cross-trait genome-wide association study (GWAS) was performed using 457,822 individuals of European ancestry from the UK Biobank.
+0	NA	NA	NA	ABSTRACT	Experimental evidence to support the role of genes significantly associated with both obesity-related traits and asthma via GWAS was sought using results from obese vs. lean mouse RNA-seq and RT-PCR experiments
+0	asthma	NA	NA	ABSTRACT	We found a substantial positive genetic correlation between BMI and later-onset asthma defined by asthma age of onset at 16 years of age or older (Rg =0.25, P=9.56x10-22).
+0	asthma	NA	NA	ABSTRACT	Mendelian Randomization analysis provided strong evidence in support of BMI causally increasing the risk of asthma.
+0	NA	NA	NA	ABSTRACT	Cross-trait meta-analysis identified 34 shared loci among 3 obesity-related traits and 2 asthma subtypes.
+0	obese	NA	NA	ABSTRACT	GWAS functional analyses identified potential causal relationships between the shared loci and GTEx tissue eQTLs, shared immune- and cell differentiation-related pathways between obesity and asthma.
+0	obese	ACOXL	NA	ABSTRACT	Finally, RNA-seq data from lungs of obese versus control mice found that two genes (ACOXL and MYL6) from the cross-trait meta-analysis were differentially expressed, and these findings were validated by RT-PCR in an independent set of mice
+0	NA	NA	NA	ABSTRACT	Our work identified shared genetic components between obesity-related traits and specific asthma subtypes, reinforcing the hypothesis that obesity causally increases the risk of asthma, and identifying molecular pathways that may underlie both obesity and asthma
+0	NA	NA	NA	ABSTRACT	This large-scale genome-wide cross-trait study discovers shared genetic etiology of obesity- and glycemic-related traits with specific asthma subtypes in adults and reinforces the idea of genetic instruments of obesity causally increases the risk of asthma
+0	chronic disease	NA	NA	INTRO	Asthma is a common chronic disease that accounts for a substantial burden of disease worldwide.
+0	metabolic disorder	NA	NA	INTRO	Metabolic disorders, such as obesity and type 2 diabetes (T2D), have become highly prevalent globally and in the US, and numerous studies have linked metabolic traits with increased asthma risk.
+0	asthma	NA	NA	INTRO	Asthma is a highly heterogeneous disease; both age of onset and atopic status play important roles in currently recognized asthma subtypes.
+0	asthma	NA	NA	INTRO	Early-onset asthma is highly heritable and associated with atopy, while later-onset asthma is often non-atopic and resistant to treatment.
+0	asthma	NA	NA	INTRO	Recent studies indicate that different asthma subtypes are related disproportionally with metabolic traits, such as obesity.
+0	obese	NA	NA	INTRO	For example, obesity appears to have a stronger association with non-atopic asthma than atopic asthma
+0	metabolic disorder	NA	NA	INTRO	Metabolic disorders and asthma are highly heritable traits, and the parallel rise in prevalence of metabolic disorders (especially obesity) and asthma worldwide suggests these conditions share genetic and environmental risk factors.
+0	NA	NA	NA	INTRO	Understanding the shared genetic architecture across various complex traits has been a topic of recent interest.
+0	sleep disturbance	NA	NA	INTRO	For example, shared genetic risk factors have been identified between sleep disturbance and metabolic traits, and type 2 diabetes and coronary heart diseases.
+0	asthma	NA	NA	INTRO	Additionally, we previously performed a cross-trait genome-wide association study (GWAS) to identify shared genetic variants among asthma and allergic diseases, Alzheimer's disease and metabolic traits, and chronic obstructive pulmonary diseases and cardiovascular traits.
+0	NA	GNPDA2	NA	INTRO	Previous studies that have investigated shared genetic associations between obesity-related traits (i.e., obesity and high-density lipoprotein [HDL]) and asthma have found that genes such as GNPDA2, PTPRD and ROBO1 are associated with both body-mass index (BMI and asthma, these studies were limited by small sample size).
+0	NA	NA	NA	INTRO	Therefore, it remains to be determined to what extent the phenotypic association between obesity-related traits and asthma is due to genetic effects, and whether the shared genetic factors with obesity differ among main asthma subtypes: early-onset and later-onset asthma.
+0	asthma	NA	NA	INTRO	In the current study, we conducted a large-scale GWAS cross-trait analysis between asthma (early-onset, later-onset asthma, atopic asthma and non-atopic asthma) and obesity traits (i.e., BMI, BMI adjusted waist-to-hip ratio [WHRadjBMI], and BMI adjusted waist circumferences [WCadjBMI]) using UK Biobank and other publicly available GWAS data for obesity-related metabolic traits, including T2D from the DIAGRAM Consortium, fasting glucose (FG) and fasting insulin (FI) from the MAGIC Consortium, and blood lipids (i.e.
+0	NA	NA	NA	INTRO	low-density lipoproteins [LDL], HDL, total cholesterol [TC], triglycerides [TG]) from the ENGAGE Consortium
+0	NA	NA	NA	METHODS	The UK Biobank study has been previously described in detail.
+0	NA	NA	NA	METHODS	All participants provided informed consent to the UK Biobank.
+0	NA	NA	NA	METHODS	Our overall study design is shown in Figure 1.
+0	obese	NA	NA	METHODS	To identify genetic variants that contributed to self-reported obesity traits and doctor-diagnosed asthma, we performed GWAS using phenotype data provided for UK Biobank participants (N = 487,409).
+0	asthma	NA	NA	METHODS	We restricted subjects to 457,822 individuals of European ancestry (457,822 with BMI measures, 457,690 with WHR and WC measures, 13,435 with early-onset asthma, 33,418 with later-onset asthma, 28,862 with non-atopic asthma, 23,982 with atopic asthma) with high-quality genotyping and complete phenotype/covariate data.
+0	NA	NA	NA	METHODS	We did not remove related samples because we used a linear mixed model (LMM) method for phenotype-genotype association analysis that appropriately accounted for relatedness.
+0	NA	NA	NA	METHODS	Detailed demographic information is provided in Supplementary Table 1
+0	NA	NA	NA	METHODS	Asthma subjects were subset in two ways: by age of onset and atopic status.
+0	asthma	NA	NA	METHODS	Early-onset asthma was defined as an individual with doctor-diagnosed asthma that developed before 16 years of age and later-onset asthma as doctor-diagnosed asthma that developed at 16 years of age or older.
+0	atopic asthma than atopic asthma	NA	NA	METHODS	Non-atopic asthma was defined as doctor-diagnosed asthma without hayfever/allergic rhinitis or eczema.
+0	atopic asthma than atopic asthma	NA	NA	METHODS	Atopic asthma was defined as doctor-diagnosed asthma with hayfever/allergic rhinitis or eczema.
+0	asthma	NA	NA	METHODS	UK Biobank data field 6154 was used to determine doctor-diagnosed asthma or allergic diseases; data field 3786 was used to determine age of asthma onset.
+0	asthma	NA	NA	METHODS	There were 21,434 cases who had later-onset and non-atopic asthma; 15,172 cases who had later-onset and atopic asthma; 6,640 cases who had early-onset and non-atopic asthma; and 7,999 cases who had early-onset and atopic asthma
+0	NA	NA	NA	METHODS	Genome-wide genotyping was performed in UK Biobank participants using the UK Biobank Axiom array and UK BiLEVE Axiom  Array from Affymetrix.
+0	NA	NA	NA	METHODS	Genotype imputation was performed using the Haplotype Reference Consortium panel.
+0	NA	NA	NA	METHODS	We selected variants that did not deviate from Hardy-Weinberg Equilibrium (P>1x10-6), have per-variant missing call rates <10%, have per-sample missing rate <10%, and did have minor allele frequency >1% and imputation quality score >0.8.
+0	NA	NA	NA	METHODS	Detailed quality control (QC) and imputation information is provided in the Supplementary Appendix.
+0	NA	NA	NA	METHODS	We used BOLT-LMM v2.3 to conduct association tests.
+0	NA	NA	NA	METHODS	For continuous outcomes, we carried out LMM association analyses while adjusting for age, age squared, sex, genotyping array and twenty ancestry principal components (PCs) to assess association between the inverse normally transformed phenotype residuals and imputed genotype dosages.
+0	NA	NA	NA	METHODS	For binary phenotypes, we performed LMM association analyses while adjusting for age, sex, genotyping array, twenty ancestry PCs.
+0	NA	NA	NA	METHODS	The effect estimate output of BOLT-LMM linear regression was transformed into log odds ratio
+0	NA	NA	NA	METHODS	After association analyses, we used the PLINK clumping function (parameters: --clump-p1 5x10-8 --clump-p2 1x10-5 --clump-r2 0.2 --clump-kb 500) to determine top loci that were independent of each other (i.e., variants with p-value less <1x10-5, r2 >0.2 and within 500kb of a given peak's clump)
+0	NA	NA	NA	METHODS	LDSC estimates genetic correlation between the true causal effects of two traits (ranging from -1 to 1) from summary statistics using the fact that the GWAS effect size estimate for each SNP incorporates the effects of all SNPs in linkage disequilibrium with that SNP.
+0	NA	NA	NA	METHODS	LDSC applies a self-estimated intercept during the analysis to account for shared subjects between studies
+0	asthma	NA	NA	METHODS	Previous studies have shown that the association between asthma and metabolic traits differs by sex and that girls with early age at menarche have lower lung function and increased risk of asthma in adulthood.
+0	obese	NA	NA	METHODS	Thus, we performed sex-stratified analyses to evaluate the genetic correlation between obesity traits and asthma subtypes according sex and without the effect of age at menarche in female obesity traits and asthma
+0	asthma	DNase I	NA	METHODS	To characterize the genetic correlation at the level of functional categories, we estimated genetic correlations between metabolic traits and asthma (later-onset and non-atopic) using partitioned LDSC in 11 annotation categories: transcribed region, super enhancer, intron, transcription factor binding sites (TFBS), DNaseI digital genomic footprinting (DGF) region, DNase I hypersensitivity sites (DHSs), fetal DHS, and histone marks H3K4me1, H3K4me3, H3K9ac, and H3K27ac.
+0	NA	NA	NA	METHODS	For each annotation category, we re-calculated LD scores for SNPs assigned to that particular category and then used the annotation-specific LD scores for estimating the metabolic trait-asthma genetic correlation
+0	asthma	NA	NA	METHODS	We used generalized summary data-based Mendelian Randomization (GSMR) and Latent Causal Variable (LCV) to infer putative direction of causality between BMI and asthma phenotypes.
+0	NA	NA	NA	METHODS	While both GSMR and LCV perform causal inference based on GWAS summary statistics, GSMR estimates effect of exposure on outcome using SNPs significantly associated with exposure, whereas LCV estimates genetic causality proportion (GCP) using all common SNPs and is robust to confounding by pleiotropy.
+0	NA	NA	NA	METHODS	A significant effect of exposure on outcome and a GCP close to 1 are strong evidence of causal relationship.
+0	asthma	NA	NA	METHODS	Because samples shared across GWAS induce bias in causal inference, we avoided sample overlap by using summary statistics obtained from our UK Biobank analysis for asthma phenotypes and publicly available summary statistics from the GIANT consortium for BMI.
+0	NA	NA	NA	METHODS	We did not use other obesity-related phenotypes (i.e., WHRadjBMI and WCadjBMI) for causal inference analyses, as these phenotypes are adjusted for heritable covariates and are thus prone to collider bias.
+0	NA	NA	NA	METHODS	We removed strand-ambiguous SNPs and SNPs in the MHC region (chr6:25-34M) only in MR analyses due to its strong pleotropic effect
+0	NA	NA	NA	METHODS	Cross Phenotype Association (CPASSOC) combines effect estimates and standard errors of GWAS summary statistics to test the hypothesis of association between a SNP with two traits.
+0	NA	NA	NA	METHODS	We used heterogonous version of CPASSOC (SHet) that is based on a fixed effect model and is more powerful when there is a heterogonous effect present between studies, which is common.
+0	NA	NA	NA	METHODS	SHet uses the sample size for a trait as a weight and accounts for correlation due to overlapping or related subjects within and among different studies
+0	NA	NA	NA	METHODS	In order to identify the most credible genes within the clumping results, we identified a credible set of variants that were 99% likely to contain the causal variant at each of the shared loci obtained from the cross-trait meta-analysis using the Bayesian-likelihood fine-mapping algorithm.
+0	NA	NA	NA	METHODS	This algorithm maps the primary signal using a flat prior with steepest descent approximation
+0	NA	NA	NA	METHODS	To identify biological pathways that significant genes after cross-trait meta-analysis (Pmeta<5x10-8) were involved in, we used the WebGestalt tool to assess overrepresented enrichment of gene sets in Gene Ontology (GO) biological process categories
+0	NA	NA	NA	METHODS	We used the R package coloc to determine whether cross-trait meta-analysis association signals of shared loci co-localized at the same variant.
+0	NA	NA	NA	METHODS	After extracting summary association data for variants within 500kb of the index SNP at each of the shared loci, we calculated the posterior probability that the two traits were associated with different causal variants (H3) or that the two traits were associated and shared one common causal variant (H4).
+0	NA	NA	NA	METHODS	Loci were considered to be co-localized if the posterior probability H4 was >0.7.
+0	NA	eQTL	NA	METHODS	In addition, since the GTEx eQTL signals by themselves are pervasive, we conducted the colocalization analysis between cross-trait meta-analysis results and 48 single GTEx tissue cis-eQTL (version 7) to determine if the same genetic variants were related to expression and the diseases
+0	diabetes	NA	NA	METHODS	We obtained two independent measures of differential lung expression, one with RNA-Seq and one with RT-PCR, to identify gene expression changes in lung between (1) mice on a high fat diet (HFD) vs. a low fat diet (LFD) mice and (2) autosomal recessive diabetes mutation (db/db) vs. wild-type mice.
+0	obese	NA	NA	METHODS	Such differentially expressed genes were sought as providing evidence linking obesity to asthma vis-a-vis potential changes in lung tissue.
+0	NA	NA	NA	METHODS	A detailed description of gene expression analyses is provided in the Supplementary Appendix
+0	asthma	NA	NA	RESULTS	We identified 1,636 genome-wide significant independent loci associated with BMI, 1,074 with WHRadjBMI, 1,260 with WCadjBMI, 77 with later-onset asthma, 219 with early-onset asthma, 101 with non-atopic asthma, and 198 with atopic asthma (Supplementary Table 2-8, Supplementary Figure 1-7).
+0	asthma	NA	NA	RESULTS	The genomic inflation factor intercepts from LDSC were 1.12 for BMI, 1.19 for WHRadjBMI, 1.17 for WCadjBMI, 1.03 for later-onset asthma, 1.06 for early-onset asthma, 1.04 for non-atopic asthma and 1.05 for atopic asthma (Supplementary Figure 8-14).
+0	NA	NA	NA	RESULTS	Given the small genomic inflation factor intercept values, we attributed the lift-off of QQ plots (high lambda GC) to polygenicity and not population stratification
+0	asthma	NA	NA	RESULTS	We estimated the genetic correlation of metabolic traits with four asthma subtypes.
+0	obese	NA	NA	RESULTS	As shown in Figure 2 and Supplementary Table 9, obesity traits were positively genetically correlated with later-onset asthma (Rg=0.25, P=9.56x10-22 for BMI; and Rg=0.08, P=1.19x10-3 for WHRadjBMI), but not with early-onset asthma.
+0	NA	NA	NA	RESULTS	Sex-specific analyses found no significant difference between the later-onset asthma/BMI genetic correlation in males and females, but did find a significant difference between later-onset asthma and WHRadjBMI genetic correlation (Supplementary Table 10-11).
+0	asthma	NA	NA	RESULTS	When we extended our analysis to atopic and non-atopic asthma, we observed a positive genetic correlation between obesity traits and non-atopic asthma (Rg=0.24 , P=5.75x10-17 for BMI; and Rg=0.07, P=0.02 for WHRadjBMI), but only a modest association between BMI and atopic asthma (Rg=0.08, P=1.70x10-3).
+0	asthma	NA	NA	RESULTS	In addition, T2D, FG, and FI had significant positive genetic correlations with later-onset asthma (Rg: 0.20, 0.15, and 0.19; P: 1.39x10-6, 0.02, and 9.21x10-3, respectively) and non-atopic asthma (Rg: 0.12, 0.16, and 0.15; P: 4.19x10-3, 5.72x10-3, and 0.04, respectively) but not with early-onset asthma.
+0	asthma	NA	NA	RESULTS	We did not find significant genetic correlations between lipids (i.e., HDL, LDL, TC, TG) and any asthma subtypes.
+0	NA	NA	NA	RESULTS	To evaluate whether certain annotation categories contributed disproportionately to the observed whole-genome genetic correlation between later-onset/non-atopic asthma and obesity-related traits, we performed LDSC for 11 functional annotation categories (Supplementary Table 12-13).
+0	NA	NA	NA	RESULTS	Generally, the partitioned LDSC by functional categories were consistent and had similar magnitude as genome-wide genetic correlations.
+0	asthma	DHS	NA	RESULTS	For example, BMI was significantly correlated with later-onset asthma (Rg ranges from 0.21 to 0.25, P<0.05/110) and non-atopic asthma (Rg ranges from 0.18 to 0.26, P<0.05/110) for nine functional categories (i.e., transcribed region, TFBS, DGF, DHSs, fetal DHS, H3K4me1, H3K4me3, H3K9ac, and H3K27ac) after correcting for multiple comparisons.
+0	NA	NA	NA	RESULTS	The Intron category had Rg=0.37 but was not statistically significant after multiple comparisons correction (P= 0.0043).
+0	NA	NA	NA	RESULTS	No functional category had a disproportionate contribution to the genetic correlation between later-onset/non-atopic asthma and obesity-related traits.
+0	NA	NA	NA	RESULTS	Thus, our results provided evidence that obesity-related traits and later-onset/non-atopic asthma are genetically correlated and motivated us to further investigate the genetic components shared between these traits
+0	asthma	NA	NA	RESULTS	We performed causal inference between BMI (GIANT consortium) and UK Biobank asthma phenotypes using GSMR and LCV.
+0	asthma	NA	NA	RESULTS	A strong positive causal effect of BMI on asthma phenotypes (later-onset asthma, non-atopic asthma, and atopic asthma) but not vice versa was observed with GSMR (Table 1).
+0	asthma	NA	NA	RESULTS	For example, the estimated effect of BMI on later-onset asthma was significant with an OR=1.21 (P=6.3x10-7), but the estimated effect of later-onset asthma on BMI was not (OR=1.00; P=0.70), where the odds ratio (OR) in the former case represents the increase in the odds of having asthma, per standard deviation increase in BMI.
+0	asthma	NA	NA	RESULTS	Our estimated causal effect of BMI on asthma was comparable to that obtained by Skaaby et al.
+0	NA	NA	NA	RESULTS	(OR=1.07, 95% CI: [1.03, 1.10] based on a GWAS of sample size N=162,124 and 26 instruments), and that obtained by Granell et al.
+0	NA	NA	NA	RESULTS	(OR=1.55, 95% CI: [1.16, 2.07] based on a GWAS of sample size N=4,835 and 32 instruments)
+0	asthma	NA	NA	RESULTS	Because BMI and asthma are polygenic traits, inferred causal relationships between them are prone to confounding due to pleiotropy.
+0	asthma	NA	NA	RESULTS	Therefore, we also applied LCV, a method robust to pleiotropy confounding, to infer the genetic causality proportion (GCP) between BMI and asthma phenotypes.
+0	NA	NA	NA	RESULTS	GCP is a unitless measure of causality and equal to 1 under full causality.
+0	NA	NA	NA	RESULTS	Reassuringly, we found that the LCV estimates of GCP for all inferred causal relationships were close to 1 (Table 1).
+0	asthma	NA	NA	RESULTS	For example, the estimated GCP for the causal direction BMI   later-onset asthma was 0.90 (S.E.
+0	NA	NA	NA	RESULTS	0.09), not significantly different from 1.
+0	asthma	NA	NA	RESULTS	Taken together, both GSMR and LCV provided strong evidence in support of the putative model that BMI causally increases the risk of asthma.
+0	NA	NA	NA	RESULTS	Detailed causal inference results are provided in Supplementary Table 14
+0	asthma	NA	NA	RESULTS	In total, we identified 8 independent loci shared between BMI and later-onset asthma and 10 shared between BMI and non-atopic asthma (Psingle trait<1x10-5 and Pmeta<5x10-8) (Table 2).
+0	NA	NA	NA	RESULTS	The credible set of SNPs for each of these shared loci was also identified (Supplementary Tables 15 and 16).
+0	NA	NA	NA	RESULTS	Our results found both similarities and differences in the shared genetic components of obesity-related traits with later-onset and non-atopic asthma.
+0	asthma	ERBB3	rs4759229	RESULTS	Three out of the 8 significant shared loci between BMI and later-onset asthma were also significantly shared between BMI and non-atopic asthma at the same top variant (including 12q13.2 [ERBB3, index SNP: rs4759229], 1p35.2 [COL16A1, index SNP: rs6681149], and 17q25.1 [UNC13D, index SNP: rs111365807]).
+0	asthma	ERBB3	rs4759229	RESULTS	Interestingly, the strongest shared signal of BMI with later-onset and non-atopic asthma was at chromosome 12q13.2 (ERBB3, index SNP: rs4759229) (Pmeta=1.67xl0-23 for later-onset asthma and Pmeta=1.75x10-21 for non-atopic asthma).
+0	asthma	POU2F1	NA	RESULTS	Other shared genetic components between BMI and later-onset asthma included 1q24.1 (POU2F1 or Oct-1), 2q13 (ACOXL), 3q26.32 (TBL1XR1), 4q12 (near USP46), and 6q24.2 (PLAGL1).
+0	obese	POU2F1	NA	RESULTS	POU2F1 (Oct-1) and TBL1XR1 are both involved in glucocorticoid receptor regulation, while loss of TBL1XR1 drives glucocorticoid resistance, and thus, may play a functional role in the glucocorticoid resistance observed in obese asthmatics.
+0	NA	RERE	NA	RESULTS	Shared loci between BMI and non-atopic asthma were 1p36.23 (RERE), 6p21.32 (near HLA-DQB1), 7p21.1 (near ABCB5), 11q13.2 (ACTN3), 17q21.1 (PSMD3), 17q25.3 (near TIMP2 and USP36), and 18q12.3 (near PIK3C3), genes involved in cell cycle processes including cellular differentiation, apoptosis, or proliferation
+0	NA	NA	NA	RESULTS	We identified 6 and 7 independent shared loci of WHRadjBMI with later-onset and non-atopic asthma, respectively (Table 2).
+0	NA	NA	NA	RESULTS	The credible set of SNPs for these shared loci is provided in Supplementary Tables 17 and 18.
+0	asthma	SMAD3	rs10152595	RESULTS	Similar to the results of BMI, we observed 3 common loci shared among WHRadjBMI, later-onset asthma, and non-atopic asthma (two shared at the same index SNP, and one at different index SNP): 15q22.33 (SMAD3, index SNP: rs10152595, Pmeta=2.56x10-20 for later-onset asthma and Pmeta=1.40x10-20 for non-atopic asthma), 19q13.32 (FOXA3, index SNP: rs8103278, Pmeta=1.30x10-11 for later-onset asthma and Pmeta=5.12x10-11 for non-atopic asthma), and 11q23.1 (near LAYN, index SNP for later-onset asthma: rs4616071, index SNP for non-atopic asthma: rs11213940, Pmeta=5.85x10-12 for later-onset asthma and Pmeta=1.73x10-13 for non-atopic asthma)
+0	asthma	NA	NA	RESULTS	We investigated shared loci for three glycemic metabolic traits (i.e., T2D, FG, and FI) that were genetically correlated with asthma (Table 2) and identified the credible set of SNPs for these shared loci (Supplementary Table 19-20).
+0	asthma	FADS2	rs174583	RESULTS	A locus at chromosome 11q12.2 was common for FG, later-onset asthma, and non-atopic asthma (FADS2, index SNP: rs174583 for FG with both asthma subtypes).
+0	asthma	FADS2	rs174584	RESULTS	Interestingly, FADS2 (index SNP: rs174584 for T2D with both asthma subtypes) was also a suggestive shared loci betweenT2D and both asthma subtypes when we set the single trait GWAS threshold at P<1x10-3 and Pmeta<5x10-8 (Supplementary Table 21-22).
+0	asthma	NA	NA	RESULTS	No significant shared loci were identified for FI with later-onset or non-atopic asthma
+0	obese	NA	NA	RESULTS	To determine whether obesity traits colocalized at the shared loci with asthma, we performed colocalization analysis (Supplementary Table 23).
+0	asthma	NA	NA	RESULTS	Seven out of the eight independent loci that were in common between BMI and later-onset asthma colocalized at the same candidate causal variant (PPH4>0.7) and one (3q26.32) colocalized with different candidate causal variants (PPH3>0.7).
+0	NA	NA	NA	RESULTS	Among the ten loci shared between BMI and non-atopic asthma, 4 colocalized at the same candidate causal variant within each loci (PPH4>0.7), three colocalized with different candidate causal variants (PPH3>0.7), and three loci did not colocalize.
+0	asthma	NA	NA	RESULTS	Most shared loci between WHRadjBMI and both asthma subtypes colocalized at the same candidate causal variants or colocalized with different candidate causal variants.
+0	NA	NA	rs174583	RESULTS	Further, FG was colocalized at rs174583 with both later-onset and non-atopic asthma (PPH4=0.99)
+0	asthma	eQTL	NA	RESULTS	We next conducted colocalization analysis to identify shared genetic components from the cross-trait meta-analysis between the two asthma subtypes and BMI (Supplementary Tables 24-25 and Supplementary Figures 15-16), WHRadjBMI (Supplementary Tables 26-27 and Supplementary Figures 17-18), and FG (Supplementary Tables 28-29 and Supplementary Figures 19-20), while including GTEx eQTL results across 48 tissues.
+0	asthma	NA	NA	RESULTS	We observed a significant amount of colocalized signals between metabolic traits and asthma in specific tissues, including skeletal muscle, esophagus mucosa and transformed fibroblast cells.
+0	asthma	eQTL	rs4759229	RESULTS	The shared variant between BMI and asthma at 12q13.2 (rs4759229) was also a potential causal eQTL variant for ERBB3, MYL6B, or SUOX across 28 GTEx tissues
+0	obese	NA	NA	RESULTS	To investigate the biological pathways represented by shared genes, we assessed enrichment of independent loci for each trait and shared genes between obesity traits and asthma subtypes in GO biological process categories and observed several significant shared pathways (FDR: q <0.05) (Supplementary Table 30).
+0	asthma	NA	NA	RESULTS	Common pathways for genes shared between asthma and BMI or WHRadjBMI, included cell differentiation, cell proliferation, cell migration, and inflammatory response
+0	obese	NA	NA	RESULTS	We evaluated whether shared associated genes (Table 2) were differentially expressed in lung tissue using results from RNA-Seq studies of two obese mouse models: HFD mice and db/db genetically obese mice.
+0	obese	NA	NA	RESULTS	Compared to their age-matched controls, both HFD and db/db mice are obese and exhibit innate airway hyperresponsiveness, a hallmark feature of asthma.
+0	NA	NA	NA	RESULTS	We found 3 genes from 34 loci to be differentially expressed in lung tissues for these mouse models compared to their corresponding controls.
+0	NA	ACOXL	NA	RESULTS	In the set of db/db vs. WT mice, we found that ACOXL was significantly differentially expressed (P=2.93x10-6) (Figure 3A and Supplementary Table 31).
+0	NA	MYL6	rs4759229	RESULTS	In HFD vs. LFD mice, genes near the top GWAS loci, MYL6 (sentinel SNP: rs4759229) (Figure 3B) and DPP3 (sentinel SNP: rs540874) were differentially expressed (P=7.99x10-5 and 1.28x10-5) (Supplementary Table 32)
+0	NA	NA	NA	RESULTS	To confirm RNA-Seq findings for these 3 genes, we performed a RT-PCR in independent sets of mice.
+0	NA	ACOXL	NA	RESULTS	ACOXL gene expression decreased in lungs of db/db mice compared to WT mice (Figure 3C).
+0	NA	MYL6	NA	RESULTS	Transcript levels of MYL6 in lung tissue from HFD mice which were fed a HFD for 4 months were increased significantly over lean control (1.38 +- 0.02-fold, P < 0.05, Figure 3D).
+0	NA	MYL6	NA	RESULTS	We also found that mRNA levels of MYL6 in lung tissue reached peak values at 4 months after feeding WT mice a HFD diet, and this effect was attenuated at 5 months (Figure 3E).
+0	NA	DPP3	NA	RESULTS	No significant difference of Dpp3 expression in the lung was found between HFD-fed and lean mice via RT-PCR
+0	obese	NA	NA	DISCUSS	In the present study, we found positive genetic correlation between obesity traits and glycemic traits with later-onset and non-atopic asthma, but not with early-onset and atopic asthma.
+0	asthma	NA	NA	DISCUSS	Sensitivity analysis showed a significantly higher genetic correlation between later-onset asthma and WHRadjBMI in male than female, but not for BMI and WCadjBMI, suggesting the differences in genetic background of obesity traits in relation to asthma.
+0	obese	NA	NA	DISCUSS	Cross-trait meta-analysis identified independent shared loci between obesity traits and asthma subtypes, highlighting the role of airway remodeling via changes of cell proliferation, differentiation, migration, apoptosis, and accumulation of extracellular matrices (ECM) proteins
+0	obese	NA	NA	DISCUSS	Our study found more evident genetic correlation of obesity traits with later-onset asthma and non-atopic asthma than with early-onset asthma and atopic asthma.
+0	asthma	NA	NA	DISCUSS	In epidemiological studies, results for early-onset asthma were inconsistent.
+0	NA	NA	NA	DISCUSS	For example, Guibas et al.
+0	asthma	NA	NA	DISCUSS	found that BMI was not associated with asthma in preschool children, while a recent meta-analysis observed a significant association between high body weight and asthma in children.
+0	asthma	NA	NA	DISCUSS	Unlike early-onset asthma, later-onset asthma was usually non-atopic and occurred in parallel with obesity.
+0	Inflammation Laboratory's JDRF	NA	NA	DISCUSS	The most important difference between patients with atopic and non-atopic asthma is the different airway inflammation patterns.
+0	atopic asthma than atopic asthma	NA	NA	DISCUSS	Atopic asthma is characterized by high eosinophils, mast cells, and T lymphocytes, while non-atopic asthma displays high neutrophils and mast cells.
+0	NA	NA	NA	DISCUSS	Muc et al.
+0	obese	T helper (Th) 2	NA	DISCUSS	reported that the main change in obese asthmatics was the shifts of immune response from T helper (Th) 2 (a typical atopic immunological profile) to Th1.
+0	Inflammation Laboratory's JDRF	NA	NA	DISCUSS	Thus, the type of airway inflammation driven mainly by neutrophil in obese subjects might partially explain the stronger relationship of obesity with later-onset and non-atopic asthma
+0	metabolic disorder	NA	NA	DISCUSS	Obesity was closely related with metabolic disorders and age at menarche genetically and phenotypically.
+0	asthma	NA	NA	DISCUSS	Although BMI was inversely correlated with age at menarche in the current study (Supplementary Table 26), sensitivity analysis after adjusting for age at menarche showed consistent genetic correlation between BMI and asthma (Supplementary Table 10).
+0	glucose metabolism alterations	NA	NA	DISCUSS	Further, even though both BMI and WHRadjBMI were consistently correlated with T2D, FG, FI, HDL, and TG (Supplementary Table 33), we only observed significant genetic correlations of later-onset and non-atopic asthma with glycemic metabolic traits (T2D, FG and FI) other than lipid traits, which indicated different shared genetic background with asthma for glucose metabolism and lipid metabolism
+0	asthma	NA	NA	DISCUSS	We obtained strong and unequivocal evidence supporting the model that BMI causally increased the risk of asthma, providing insights into the pathological mechanisms of asthma.
+0	NA	NA	NA	DISCUSS	However, we emphasize that our inferred causal relationships are based on GWAS summary statistics from cross-sectional studies.
+0	NA	NA	NA	DISCUSS	Unadjusted confounders (e.g.
+0	NA	NA	NA	DISCUSS	population stratification) and genetic pleiotropy may bias the causal inference.
+0	NA	NA	NA	DISCUSS	In addition, longitudinal studies are necessary to confirm the inferred causal relationships
+0	asthma	NA	NA	DISCUSS	According to previous studies, the hallmark pathological features of asthma includes airway inflammation and structure changes (or airway remodeling).
+0	obese	NA	NA	DISCUSS	While it is well known that obesity is not only mass loading but also a state of chronic low-grade inflammation, it is reasonable to speculate that inflammation plays a role in it.
+0	Inflammation Laboratory's JDRF	NA	NA	DISCUSS	Shared loci identified from cross-trait meta-analysis also supported the involvement of inflammation in the shared etiologies between obesity and asthma.
+0	NA	SMAD3	NA	DISCUSS	For example, SMAD3 protein, encoded by SMAD3, is one of the intracellular mediators and important transducer of TGF-beta signaling and TGF-beta/SMAD3 signaling regulates inflammatory response and T cells activation and differentiation ERBB3 encodes ERBB3 protein which is the receptor for neuregulin (NRG).
+0	NA	NA	NA	DISCUSS	Neuregulin-1 (NRG-1)/ERBB signaling plays a role in the control of proinflammatory activation of monocytes.
+0	NA	NA	NA	DISCUSS	Additionally, we found a shared locus (6p21.32, HLA-DRB1-DQA1-DQB1) at human leukocyte antigen (HLA) region which was well-established in playing key roles in the immune system.
+0	NA	NA	NA	DISCUSS	However, what interests us most was that the shared loci were implemented in cell proliferation, metaplasia, and ECM remodeling, all of which were reported to be important pathology of airway remodeling.
+0	NA	ERBB3	NA	DISCUSS	Firstly, except the involvement in inflammatory response, ERBB3 and SMAD3 are also important regulators of cell proliferation and differentiation.
+0	NA	ERBB3	NA	DISCUSS	According to Polosa et al., ERBB3 and its family members occurred in bronchial epithelial cells to regulate epithelial repair and remodeling after mechanical damage to human bronchial epithelial cells in vitro.
+0	NA	NA	NA	DISCUSS	DiRenzo et al.
+0	NA	NA	NA	DISCUSS	reported that elevated TGF-beta/Smad3 stimulated the secretion of canonical Wnts which in turn enhanced SMC proliferation through beta-catenin stabilization.
+0	obese	NA	NA	DISCUSS	The blockade of TGF-beta/SMAD3 was suggested to be beneficial for many diseases including obesity and asthma.
+0	asthma	NA	NA	DISCUSS	Secondly, collagen and hyaluronan are components of ECM, and ECM deposition has been identified as an important pathogenic factor for severe asthma.
+0	pleural lung fibrosis	COL16A1	NA	DISCUSS	COL16A1 encodes type XVI collagen which is unregulated by TGF-beta during tissue repair and causes the abnormal accumulation, a character for tissue fibrosis.
+0	NA	LAYN	NA	DISCUSS	LAYN encodes a hyaluronan receptor.
+0	asthma	NA	NA	DISCUSS	There was a significant correlation between the severity of asthma as measured by airway hyperresponsiveness and the hyaluronan (HA) levels in BAL fluid, serum, and lung tissue.
+0	NA	NA	NA	DISCUSS	Thirdly, epithelial metaplasia is another feature of airway remodeling.
+0	NA	FOXA3	NA	DISCUSS	FOXA3 was directly related with goblet cell metaplasia and body mass regulation.
+0	airway hyperresponsiveness	NA	NA	DISCUSS	Airway remodeling characterized by increased smooth muscle cell mass, goblet cell metaplasia, and ECM deposition was implicated in persistent airway hyperresponsiveness, excessive airflow narrowing, and resistance to high-intensity treatment and poor prognosis.
+0	obese	NA	NA	DISCUSS	Thus, airway remodeling might also be an explanation for treatment resistance and potential future therapeutic target for obese asthma patients who are characterized by more severe symptoms and poorer prognosis
+0	obese	NA	NA	DISCUSS	Surprisingly, we found some shared variants have opposite sign of effect estimates between obesity and asthma even though the overall genetic correlation is positive, which suggests the pathways shared by them are heterogeneous
+0	NA	NA	NA	DISCUSS	Finally, we found multiple top genes from cross-trait GWAS also showed differential gene expression in two independent mouse experiments, the RNA-seq and RT-PCR gene expression in two sets of mice.
+0	NA	ACOXL	NA	DISCUSS	In the set of db/db vs WT, we identified ACOXL (Acyl-Coenzyme A oxidase-like) gene, which is proposed to participate in fatty acid beta-oxidation, fatty acid metabolic process and oxidation reduction.
+0	NA	NA	NA	DISCUSS	Fatty acid metabolism, particularly mitochondrial fatty acid oxidation (FAO) emerges as an important regulator of innate and adaptive immunity.
+0	Inflammation Laboratory's JDRF	NA	NA	DISCUSS	Obesity causes a decrease in FAO, and increases inflammation.
+0	obese	NA	NA	DISCUSS	The pro-inflammatory state found in obesity might be a critical player in the role of lipid mediators in asthmatic patients
+0	NA	MYL6	NA	DISCUSS	In the set of HFD-fed vs lean controls, MYL6 (myosin light chain 6) is a protein-coding gene that encodes a myosin light chain and has important roles in airway smooth muscle (ASM) contractile function.
+0	asthma	NA	NA	DISCUSS	An increase in contractility of ASM is a contributing factor in the excessive airway narrowing in asthma.
+0	obese	NA	NA	DISCUSS	The contractile response of ASM was enhanced in obese donors due to elevated intracellular calcium responses to contractile agonists, resulting an increased risk of developing asthma
+0	NA	NA	NA	DISCUSS	We investigated the genome-wide genetic relationships of obesity-related traits with four asthma subtypes for the first time.
+0	NA	NA	NA	DISCUSS	The study has several important strengths.
+0	asthma	NA	NA	DISCUSS	Firstly, the current study has large samples size and the ability to classify different types of asthma.
+0	NA	NA	NA	DISCUSS	Although sample overlapping was a concern for cross trait analysis, we used methods that are robust to such issue (including LDSC and SHet).
+0	NA	NA	NA	DISCUSS	Moreover, we used the strategy of restricting P<1x10-5 in single trait association as a secondary significance criterion in meta-analysis, which ensures the meta-analysis signals are at least suggestive signals with all of single traits.
+0	obese	NA	NA	DISCUSS	Finally, our computational analysis provides insights to the molecular mechanisms underlying co-morbid obesity and asthma.
+0	NA	NA	NA	DISCUSS	However, we also acknowledge potential limitations.
+0	NA	NA	NA	DISCUSS	First, we restricted the analysis to individuals of European ancestry in order to minimize the population stratification, thus, some findings in this study may not be generalizable to other racial/ethnical populations.
+0	asthma	NA	NA	DISCUSS	Second, although cases of asthma and atopic diseases were identified using self-reported doctor diagnosed data, there was still possibility of misclassification of atopic asthma and non-atopic asthma and future studies using biomarkers (such as immunoglobulin E) in diagnosing atopic status are warranted to validate our findings.
+0	asthma	NA	NA	DISCUSS	We also noted there is no clear-cut age threshold that defines early- and later-onset asthma, thus the definition based on age of 16 cut-point may contains heterogamous effect of asthma for young adult age.
+0	obese	NA	NA	DISCUSS	Third, we observed little evidence of significant genetic correlation between adult obesity and early-onset asthma; we encourage further studies to investigate the genetic correlation between childhood obesity and early-onset asthma
+0	obese	NA	NA	CONCL	In conclusion, the current study showed substantial evidence of positive genetic correlations of obesity traits and glycemic traits with later-onset and non-atopic asthma, which can further our understanding of the connection between obesity and different asthma subtypes.
+0	obese	NA	NA	CONCL	Our work reinforces common biological pathways related to immune and inflammatory systems between obesity and asthma and suggests new treatment avenues for subgroups of individuals with asthma
+0	NA	NA	NA	FIG	UKBB: UK Biobank; LDSC: LD score regression.
+0	NA	NA	NA	FIG	GSMR: generalized summary data-based Mendelian Randomization; LCV: Latent Causal Variable mode
+0	asthma	NA	NA	FIG	Genome-wide genetic correlation between 4 types of asthma and metabolic trait
+0	NA	NA	NA	FIG	The color of each box scales with the magnitude of the genetic correlation.
+0	NA	NA	NA	FIG	Pairs of traits with nominal significant genetic correlation (p < 0.05) are marked by 1 star, and pairs of traits with significant genetic correlation after correcting for multiple testing (p < 0.05/40) are marked by 2 stars
+0	NA	ACOXL	NA	FIG	(A) RNA-seq detected ACOXL differential expression in lung tissue from wild-type (WT)(C57BL/6J) and db/db mice (n = 4 mice/group) (B) RNA-seq detected MYL6 differential expression in lung tissue from low fat diet (LFD) and high fat diet (HFD) mice (n = 4 mice/group).
+0	NA	ACOXL	NA	FIG	(C) RT-PCR detected ACOXL differential expression in lung tissue from WT and db/db mice (n = 6 mice/group).
+0	NA	MYL6	NA	FIG	(D) RT-PCR detected MYL6 differential expression in lung tissue from LFD and HFD mice (n = 4 mice/group).
+0	NA	MYL6	NA	FIG	(E) RT-PCR detected MYL6 expression in lung tissue from HFD mice at different time points (n = 4 mice/time point)
+0	asthma	NA	NA	TABLE	Estimates of causal effect size and genetic causality proportion (GCP) for BMI and asthma phenotypes, obtained by 2-sample bi-directional GSMR and LCV, respectivel
+0	asthma	NA	NA	TABLE	Cross-trait meta-analysis results between 2 types of asthma and 3 obesity-related metabolic traits (Pmeta<5x10-8, single trait P<1x10-5
+0	NA	NA	NA	REF	This large-scale cross-trait GWAS provides strong evidence for shared genetic components between obesity-related metabolic traits and asthma subtype
+0	obese	NA	NA	REF	The strongest positive genetic correlation was observed between obesity and later-onset asthm
+0	asthma	NA	NA	REF	Mendelian Randomization analysis provided strong evidence in support of BMI causally increasing the risk of asthm

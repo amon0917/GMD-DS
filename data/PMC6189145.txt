@@ -1,0 +1,279 @@
+0	breast cancer	BRCAX	NA	ABSTRACT	"""BRCAX"" refers breast cancers occurring in women with a family history predictive of being a BRCA1/2 mutation carrier, but BRCA1/2 genetic screening has failed to find causal mutations."
+0	NA	BRCAX	NA	ABSTRACT	In this study, we report the findings of the genetic architecture of BRCAX with novel and redefined candidate loci and their potential impacts on preventive strategy.
+0	breast cancer	BRCAX	NA	ABSTRACT	We performed a genome-wide association study involving 1,469 BRCAX cases from the Korean Hereditary Breast Cancer study, and high-risk breast cancer cases (1,482 Asians and 9,902 Europeans) from the Breast Cancer Association Consortium.
+0	breast cancer	NA	NA	ABSTRACT	We also evaluated the previously reported susceptibility loci for their roles in the high-risk breast cancers.
+1	NA	PDE7B	NA	ABSTRACT	We have identified three novel loci (PDE7B, UBL3, and a new independent marker in CDKN2B-AS1) associated with BRCAX, and replicated previously reported SNPs (24 of 92) and moderate/high-penetrance (seven of 23) genes for Korean BRCAX.
+0	NA	NA	NA	ABSTRACT	For the novel candidate loci, evidence supported their roles in regulatory function.
+0	breast cancer	NA	NA	ABSTRACT	We estimated that the common low-penetrance loci might explain a substantial part of high-risk breast cancer (39.4% for Koreans and 24.0% for Europeans).
+0	breast cancer	NA	NA	ABSTRACT	Our study findings suggest that common genetic markers with lower penetrance constitute a part of susceptibility to high-risk breast cancers, with potential implications for a more comprehensive genetic screening test
+0	breast cancer	NA	NA	INTRO	Breast cancer is the most common female cancer worldwide, and its incidence rate is increasing rapidly in Asian populations including South Korea.
+0	breast cancer	NA	NA	INTRO	The National Cancer Screening Program in Korea provides mammography tests for screening breast cancer for women aged 40-69 years.
+0	breast cancer	NA	NA	INTRO	The effectiveness of this screening program, however, is controversial mainly because the validity of mammography-based test is lower for Asian women than for Caucasians About 4.8% and 11.1% of breast cancers were diagnosed before age 40 and 45, respectively, in the United States between 2005 and 2014.
+0	NA	NA	NA	INTRO	The proportions of these early-onset cases almost tripled for Korean women during the same period (13.9% and 29.8%), although overall incidence rate is less than a half of that for Western women.
+0	breast cancer	NA	NA	INTRO	Early-onset breast cancer cases are generally more likely to have higher pathologic grade and to be receptor-negative tumors.
+0	NA	NA	NA	INTRO	Given the low predictive value of mammography for Asian women, ultrasonographic breast examination might be introduced to improve the validity but at greater cost.
+0	breast cancer	NA	NA	INTRO	An effective genetic screening test, if available, might be able to identify women at high-risk of breast cancers for personalized prevention programs.
+0	breast cancer	NA	NA	INTRO	So far, to our knowledge, the genetic etiology of high-risk breast cancers is understudied particularly for Asian women with more burdens from high-risk breast cancers
+0	breast cancer	BRCA1	NA	INTRO	Mutations in BRCA1 and BRCA2 (hereafter referred to as BRCA1/2), the most important genetic susceptibility markers, account for up to 15% and 30% of the familial recurrence risk (FRR) of overall and high-risk breast cancers.
+0	NA	BRCA2	NA	INTRO	Clinical practice guidelines are well-established for BRCA1/2 mutation carriers.
+0	breast cancer	BRCA2	NA	INTRO	"Conversely, lack of proper knowledge has left the BRCA1/2 mutation non-carriers' genetic counseling largely unattended, although these non-carriers with strong family history show similar clinical presentations predictive of BRCA1/2 mutation carriers (""BRCAX"" cases), with four-fold or greater lifetime risk of breast cancer than the general population."
+0	breast cancer	BRCA2	NA	INTRO	In Korea, breast cancer cases with early-onset (age < 40) or other indications suggesting a strong genetic burden are entitled to BRCA1/2 mutation testing covered by Korean National Health Insurance.
+0	NA	BRCA2	NA	INTRO	"The test has found clinically significant BRCA1/2 mutations for only 15.7% of eligible patients (22.3% of examinees indicated by strong family history, and 8.8% by early-onset), to make the understanding of ""BRCAX genes"" a priority."
+0	cancers	BRCAX	NA	INTRO	Several studies have been conducted to elucidate the genetic architecture of BRCAX cancers.
+0	NA	BRCAX	NA	INTRO	Studies do not have replicated the novel loci from each other, suggesting that susceptibility loci for BRCAX might be population-specific, at least partly.
+0	breast cancer	NA	NA	INTRO	Asian women might have specific genetic susceptibility for the high-risk breast cancers, but, to our knowledge, no studies have been conducted toward this end
+0	breast cancer	BRCAX	NA	INTRO	We conducted a genome-wide search for BRCAX genes involving 1,469 Korean female breast cancer cases who were eligible for the BRCA1/2 test but negative for causal mutations.
+0	breast cancer	NA	NA	INTRO	Then, we replicated our findings using the Breast Cancer Association Consortium (BCAC) data.
+0	NA	BRCAX	NA	INTRO	We also estimated the role of previously reported susceptibility loci on the risk of BRCAX occurrence.
+0	breast cancer	NA	NA	INTRO	Finally, we evaluated the impacts and estimated risk of those associated markers on high-risk breast cancers for Asians and Europeans
+0	NA	BRCAX	NA	RESULTS	For the discovery phase, a total of 1,478 Korean BRCAX cases and 5,979 controls were selected with 3,378,933 markers (flowchart is shown in Supplementary Fig.
+0	NA	NA	NA	RESULTS	S1).
+0	NA	NA	NA	RESULTS	Characteristics of the participants were described in Table 1.
+0	NA	NA	NA	RESULTS	Mean age of cases (40.2) was approximately 15 years younger compared to controls (55.1), but allele frequencies of associated markers were not significantly different between age group (Supplementary Table S1).
+0	NA	BRCA1	NA	RESULTS	Among 1,469 cases after quality control, 169 and 288 women had one BRCA1 or BRCA2 mutation with unverified significance.
+0	NA	BRCA2	NA	RESULTS	For BRCA2 gene, we found 42 variants significantly which are more frequent in the cases compared to the controls (Supplementary Table S2).
+0	NA	NA	rs2126042	RESULTS	However, the ClinVar database showed that 40 of these were reported to be benign and only two variants (rs2126042 and rs766173) was reported to be benign or have uncertain significance
+0	breast cancer	NA	NA	RESULTS	Being indicated by early-onset (<=age 40) comprised the largest proportion of the case composite (70.6%), followed by having a family history of breast cancer (42.9%)
+0	NA	NA	NA	FIG	Manhattan plot.
+0	NA	NA	NA	FIG	The red horizontal line represents the genome-wide significance threshold of p-value = 5.0 x 10-8 and the blue horizontal line represents the suggestive significance threshold of p-value = 1.0 x 10-5.
+0	NA	NA	NA	FIG	For significantly associated regions, SNPs with p-value less than 10-3 are highlighted in green and the replicated genes are marked in bold
+0	NA	NA	NA	RESULTS	From the genome-wide association study (GWAS), the genomic inflation factor (yGC) was 1.09 and p-values were corrected for the inflation factor.
+0	NA	NA	NA	RESULTS	Figure 1 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	S2 show the Manhattan plot and the quantile-quantile plot.
+0	NA	NA	NA	RESULTS	Initially, 15 independent loci of single nucleotide polymorphisms (SNPs) showed p-values < 10-5.
+1	NA	C6orf97	rs9383936	RESULTS	Two SNPs reached genome-wide significance level in the first phase analysis, and both were reported before: rs9383936 (p = 1.01 x 10-10, OR = 1.35) on the intron of CCDC170 (near ESR1) and rs4784227 (p = 9.11 x 10-9, OR = 1.31) on the intron of TOX3.
+1	NA	SIAH2	NA	RESULTS	Three previously reported loci (SIAH2, FGFR2, PGAM1P5/NTN4) and nine new loci also comprised the initial 15 loci.
+1	breast cancer	CDKN2B-AS1	rs1011970	RESULTS	One variant on CDKN2B-AS1 (rs1011970) was previously associated with breast cancer risk for European descendants, but our study found another variant in the proximal regions of the CDKN2B-AS1 gene, rs78545330.
+0	NA	NA	rs78545330	RESULTS	These two SNPs constituted separate haplotype blocks (r2 = 0.026 for East Asians), and we considered rs78545330 as independent
+0	breast cancer	NA	NA	RESULTS	The replication set consisted of 1,482 cases (1,194 early-onset cases and/or 390 women with a family history breast cancer in first-degree relatives, Asian high-risk cases) and 3,612 control women without family history of breast cancer.
+0	breast cancer	NA	NA	RESULTS	We compared the characteristics and composite of high-risk breast cancer cases of different populations (Supplementary Table S3).
+1	NA	NA	NA	RESULTS	Among the initial 15 candidate loci, six variants were statistically significant (at p-value < 0.05) including two previously known (CCDC170/ESR1, and TOX3) and four novel susceptibility loci.
+1	NA	PDE7B	rs11154838	RESULTS	Among four novel loci, rs11154838, located on 6q23.3 (intron of PDE7B), showed associations at genome-wide significance level (p-values: 2.27 x 10-8).
+1	NA	CDKN2B-AS1	rs78545330	RESULTS	Other two novel candidate loci (rs78545330 in the intron of CDKN2B-AS1 and rs278050 on 13q12.3, 73 Kb 5' of UBL3), while replicated in Asian high-risk cases at nominal p-value, did not reach genome-wide significance in the meta-analysis (p-values: 8.56 x 10-8 and 1.63 x 10-6).
+1	NA	SLC39A11	rs4969001	RESULTS	The other novel variant, rs4969001 on SLC39A11, was associated in the opposite direction; thus, it was not considered for further analysis.
+0	NA	NA	NA	RESULTS	We summarize findings of these 15 candidate loci in Table 2.
+0	breast cancer	NA	NA	RESULTS	For European high-risk breast cancers, all three novel susceptibility loci did not show meaningful associations (p-values = 0.34, 0.24 and 0.50)
+0	NA	NA	NA	RESULTS	When we conducted a meta-analysis by the receptor-status, four loci of the initial 15 candidate loci from the GWAS showed receptor-status specific associations with even smaller sample sizes.
+0	NA	NA	NA	RESULTS	We only focused on findings where smaller subgroup resulted in the stronger association, to reduce the influence of sample size variation.
+1	breast cancer	SIAH2	rs60538652	RESULTS	rs60538652, on SIAH2, rs2912774 on FGFR2 and rs67129489 near PGAM1P5/NTN4 were more strongly associated with ER+ or PR+ cases, while rs9383936 near ESR1 was more strongly associated with ER- or PR- breast cancers (Pheterogeneity <0.05).
+1	NA	SIAH2	NA	RESULTS	It is noteworthy that markers at SIAH2, FGFR2, and PGAM1P5/NTN4 showed an increased level of significance in subgroup analyses despite smaller sample sizes.
+0	NA	HER2	NA	RESULTS	None of the variants identified from the GWAS were differentially associated according to HER2 receptor status or being TNBC.
+0	NA	NA	NA	RESULTS	More details about the receptor-status-wise analyses were described in Supplementary Table S4
+0	NA	NA	NA	RESULTS	Three novel candidate regions were visualized using LD plots and regional association plots (Supplementary Fig.
+0	NA	NA	NA	RESULTS	S3) and annotated for regulatory elements (Supplementary Table S5).
+1	NA	PDE7B	rs6905776	RESULTS	Two markers (rs6905776 and rs12174235), in the same LD block with rs11154838 on PDE7B, were annotated for regulatory elements (GWAS p-values: 1.63 x 10-6 and 2.72 x 10-5).
+1	NA	CDKN2B-AS1	rs78545330	RESULTS	rs78545330 on the intron of CDKN2B-AS1 and correlated markers showed strong evidence of regulatory function from multiple tissues including breast tissues, while rs1011970 (previously reported SNP) was not annotated for regulatory elements.
+0	NA	NA	rs78545330	RESULTS	East Asians have a risk allele of rs78545330 (A, allele frequency = 0.21) three times more frequently than Europeans (0.08).
+0	NA	NA	NA	RESULTS	We presented the haplotype structures of this region between Asian and Europeans (Supplementary Fig.
+0	NA	NA	NA	RESULTS	S4).
+0	NA	NA	rs78545330	RESULTS	For East Asians, multiple LD blocks were more distinct, and the LD between rs78545330 and rs1011970 was weak in East Asians (r2 = 0.02), indicating that rs78545330 is a novel candidate variant.
+0	NA	UBL3	rs278050	RESULTS	When we examined the genetic regions harboring candidate variant near UBL3, the region consisted of two independent LD blocks, and rs278050 and correlated SNPs showed enhancer-related histone marks in several tissues including breasts and mammary tissues.
+0	NA	UBL3	rs73444211	RESULTS	Also, rs73444211 in the other LD block near UBL3 participated in diverse regulatory functions
+0	NA	NA	NA	RESULTS	Results from eQTL analyses for three candidate loci also showed evidence of associations with gene-expression levels of different tissues (Supplementary Table S6).
+1	NA	PDE7B	rs11154838	RESULTS	The risk allele T of rs11154838 was associated with PDE7B gene-expression level in blood vessels (p-value = 0.001), but not with other tissues.
+0	NA	p15	rs78545330	RESULTS	rs78545330 on CDKN2B showed strong associations with gene expressions in multiple tissues.
+0	cancers	p15	NA	RESULTS	The risk allele substantially decreases the expression of CDKN2B, a tumor suppressor gene (p-value = 1.7 x 10-13, effect size = -0.44).
+0	NA	UBL3	rs278050	RESULTS	rs278050 near UBL3 also altered cis-gene regulation in several tissues
+0	breast cancer	BRCAX	NA	RESULTS	When we replicated findings from the previous studies, a part (24 for Korean BRCAX, 55 for European and 14 for Asian high-risk breast cancers) of 92 loci from the GWAS catalog showed meaningful associations (p-value < 0.05 with the same direction of association as in the previous reports, Supplementary Table S7).
+0	cancers	BRCAX	NA	RESULTS	Generally, replicated variants showed larger risk for BRCAX or high-risk cancers than the previous reports for all breast cancers.
+0	NA	NA	NA	RESULTS	Since the majority of known susceptibility markers were reported from studies of European populations, the number of replicated markers was larger for European cases compared with Korean or Asian cases.
+0	NA	BRCAX	NA	RESULTS	However, the sum of %FRR (Sigma%FRR) of each replicated marker was largest for Korean BRCAX cases (29.8%), followed by European high-risk cases (24.0%) and Asian high-risk cases (10.6%).
+0	NA	NA	NA	RESULTS	Three novel candidate variants accounted for additional 9.6% and 3.0% FRR for Koreans and Asians.
+1	NA	FGFR2	NA	RESULTS	It is noteworthy that three replicated variants on FGFR2, TOX3, and ESR1 have been reported in previous searches for BRCAX genes.
+0	breast cancer	NA	NA	RESULTS	These variants were also associated with overall breast cancer risk in multiple studies.
+0	NA	BRCAX	NA	RESULTS	Other candidate loci reported from previous BRCAX studies were not replicated in this study.
+0	breast cancer	BMPR1A	NA	RESULTS	Finally, among the breast cancer predisposition genes with moderate/high-penetrance, seven genes (BMPR1A, PTEN, CDH1, NF1, RAD51C, BRIP1, and CHEK2) were replicated for Korean BRCAX (eight for Asian and 15 genes for European high-risk breast cancers, Supplementary Table S8).
+0	breast cancer	NA	NA	RESULTS	The estimated contributions from the moderate/high-penetrance variants varied by the populations, accounting for 4.2%, 13.2%, and 7.9% of overall high-risk breast cancers for Koreans, Asians, and Europeans
+0	NA	NA	NA	FIG	Predicted risks by genetic risk scores.
+0	NA	NA	NA	FIG	(A) Relative risks by genetic risk scores (GRSs) across the population.
+0	NA	NA	NA	FIG	"For two different types of markers sets (""BRCAX-known"": markers replicated for Korean BRCAX cases among previously reported breast cancer-associated markers from the GWAS catalog; ""BRCAX-known + novel"": three novel candidate markers added to replicated markers), a predictive performance by GRSs was estimated for Korean BRCAX, Asian, and European high-risk cases."
+0	NA	NA	NA	FIG	For BRCAX-known markers, predictive performance by GRSs was highest for Korean BRCAX followed by European and Asian high-risk cases.
+0	NA	NA	NA	FIG	When three novel markers were added, however, prediction improved for Asians compared to Europeans.
+1	breast cancer	BRCAX	rs2912774	FIG	(B) Predicted risks of breast cancer according to three risk groups using the number of risk alleles of three consistently reported markers from three previous GWAS of BRCAX across the population: FGFR2 (rs2912774), TOX3 (rs4784227), and ESR1 (rs9383936).
+1	NA	BRCAX	NA	FIG	(C) Predicted BRCAX risks by GRSs using BRCAX-known markers by tertile groups of three global BRCAX-associated markers (on FGFR2, TOX3, and near ESR1): circle symbols are for low-risk group (T1), triangle symbols are for moderate risk group (T2), and square symbols are for high-risk group (T3)
+0	NA	NA	NA	RESULTS	We estimated the increase in risk with increase in genetic risk score (GRS) for each population (Fig.
+0	NA	NA	NA	RESULTS	2A).
+0	NA	BRCAX	NA	RESULTS	Predicted risk (OR) by GRS was highest for Korean BRCAX cases, and the OR increased upon adding newly identified markers for both Koreans (OR: from 2.95 to 3.09) and Asians (OR: from 1.60 to 1.71).
+1	NA	BRCAX	NA	RESULTS	"Also, we estimated the genetic risk of BRCAX according to genotypes of ""shared between populations (FGFR2/TOX3/ESR1, reported from multiple BRCAX studies including ours)""."
+1	breast cancer	BRCAX	NA	RESULTS	The estimated increases in the risk of BRCAX or high-risk breast cancers from the variants on FGFR2, TOX3, and ESR1 were quite similar across populations (ORs for highest compared to lowest tertile = 2.2 to 2.4, Fig.
+0	NA	NA	NA	RESULTS	2B).
+1	breast cancer	NA	NA	RESULTS	"When we stratified and compared the estimated risk of GRSs calculated from the three novel and 21 replicated (after exclusion of three markers on FGFR2/TOX3/ESR1 among 24 replicated variants) ""Asian-specific BRCAX"" markers according to ""shared between population"" (FGFR2/TOX3/ESR1) genotype status, those with multiple risk alleles of FGFR2/TOX3/ESR1 showed steeper increases in risk for breast cancers, compared with those in none or one allele groups (Fig."
+0	NA	NA	NA	RESULTS	2C)
+0	NA	NA	NA	DISCUSS	From a genome-wide search, three candidate loci were newly identified with suggestive evidence of functional involvement.
+0	NA	NA	NA	DISCUSS	The three novel loci identified by this study might tag the closely-located functional variants based on the downstream analyses.
+0	breast cancer	BRCAX	NA	DISCUSS	The marker itself, or markers within the LD block, have marks for regulatory elements, suggesting these SNPs themselves or variants tagged by the SNPs might be associated with the pathophysiology of BRCAX breast cancer development.
+1	cancers	PDE7B	NA	DISCUSS	PDE7B (phosphodiesterase 7B) encodes a cyclic adenosine monophosphate (cAMP)-specific phosphodiesterase and CDKN2B (cyclin-dependent kinase 4 inhibitor B) is a known tumor suppressor gene.
+1	cancers	CDKN2B-AS1	rs78545330	DISCUSS	The risk allele of the top hit (rs78545330) on CDKN2B-AS1 showed strong evidence of reducing gene expression level of this tumor suppressor gene
+1	breast cancer	PDE7B	rs11154838	DISCUSS	When we examined the association of newly identified markers with overall Asian cases including late-onset and sporadic breast cancers of BCAC, both rs11154838 (PDE7B) and rs78545330 (CDKN2B-AS1) showed stronger level of significance but with smaller effect sizes (ORs: 1.16 and 1.14 for all breast cancers, 1.26 and 1.19 for high-risk breast cancers), but rs278050 (UBL3) was not associated (p = 0.2).
+0	breast cancer	NA	rs78545330	DISCUSS	For European cases, rs78545330 was replicated for overall cases only (p = 0.017, OR = 1.04; high-risk breast cancer: p = 0.2), but other two novel candidate loci did not show significant associations.
+0	NA	BRCAX	NA	DISCUSS	One possible explanation for this population-specific manner of association is that genetic susceptibility to BRCAX might comprise multiple genetic loci which are only partly shared between populations.
+0	cancers	NA	NA	DISCUSS	The newly identified candidate loci might be Asian-specific and also more associated with the early-onset type of high-risk cancers.
+0	breast cancer	NA	NA	DISCUSS	When we estimated OR according to GRS, the addition of novel variants to known markers increased the risk for Korean and Asian, but not for European high-risk breast cancers
+0	breast cancer	BRCAX	NA	DISCUSS	It is interesting that some of the markers shared between high-risk and general breast cancers showed augmented impacts on the BRCAX cancers.
+0	breast cancer	APOBEC3A	rs12628403	DISCUSS	For example, rs12628403 on the intron of APOBEC3A alone explained 6.5% of FRR (OR = 1.49), compared with OR = 1.17 for overall breast cancers.
+0	NA	TERT	rs10069690	DISCUSS	Also, rs10069690 on the intron of TERT was replicated for BRCAX with higher risk estimate (OR = 1.24) than the OR (1.10) from the original studies.
+0	carcinomas of the colon	NA	NA	DISCUSS	These findings are in line with the findings from the colorectal cancer study: some SNPs show stronger associations with high-risk cases with larger impacts.
+0	breast cancer	NA	NA	DISCUSS	Our findings suggest that role of some variants might not be same between in high-risk and in general breast cancers, although they are associated with both types.
+0	breast cancer	NA	NA	DISCUSS	It might be logical to infer that a substantial part of the genetic risk of high-risk breast cancers comprises common variants overlapping with general types of breast cancers but at augmented risks
+1	NA	FGFR2	rs2912774	DISCUSS	Among replicated markers, FGFR2 (rs2912774), TOX3 (rs4784227), and ESR1 (rs9383936) deserve a special remark.
+1	NA	BRCAX	NA	DISCUSS	All three previous GWAS for BRCAX replicated FGFR2, and multiple studies replicated TOX3 and ESR1.
+0	breast cancer	NA	NA	DISCUSS	Our study also replicated these three variants for high-risk breast cancers in all population data.
+0	cancers	BRCAX	NA	DISCUSS	When we compared the estimated risk of these three variants, the estimated risk was quite similar between three populations (Korean BRCAX, Asian and European high-risk cancer, Fig.
+0	NA	NA	NA	DISCUSS	2B).
+0	breast cancer	NA	NA	DISCUSS	This finding suggests that shared genetic susceptibility toward high-risk breast cancer might exist across the population.
+0	NA	NA	NA	DISCUSS	These three variants might be only the tip of the iceberg.
+0	NA	NA	NA	DISCUSS	Our study did not examine sequence level variation which might also be shared across populations.
+0	breast cancer	NA	NA	DISCUSS	At least, our findings support that a part of common variants associated with low-risk breast cancers also has their roles in the susceptibility of high-risk breast cancer
+0	cancers	BRCAX	NA	DISCUSS	In our study, about 62% of Korean BRCAX cases, 48% and 25% of Asian and European high-risk cancers were non-familial early-onset cases.
+0	cancers	NA	NA	DISCUSS	Europeans have more familial cancers probably due to higher prevalence than Asians or inclusion criteria of each study.
+0	NA	NA	NA	DISCUSS	"It is not clear whether two major indications of being a ""high-risk"" type, i.e., early-onset and familial cases have differences in their genetic constitutions."
+0	NA	NA	NA	DISCUSS	In our study, differences in the association and effect size between populations for some variants might stem from the differences in this case composites
+1	NA	NA	NA	DISCUSS	When GRS was re-estimated according to the risk allele counts of FGFR2/TOX3/ESR1, the estimated risk from GRS not only was larger but also showed a steeper increase suggesting an effect modification.
+1	NA	NA	NA	DISCUSS	The risk modification according to FGFR2/TOX3/ESR1 was more evident for BRCAX (Korean), partly because of its strict case definitions (Fig.
+0	NA	NA	NA	DISCUSS	2C)
+0	breast cancer	NA	NA	DISCUSS	We also evaluated the impact of known and novel susceptibility loci for high-risk breast cancers.
+0	NA	BRCAX	NA	DISCUSS	The estimated Sigma%FRR from replicated markers was 29.8% for Korean BRCAX with 24 markers.
+0	NA	BRCAX	NA	DISCUSS	"The findings from replicated markers (29.8% FRR) might not be attributed to so-called ""winner's curse"" bias, an inflated impact estimation in the discovery set itself, because the Korean BRCAX served as a replication set."
+0	NA	BRCAX	NA	DISCUSS	Three novel loci accounted for 9.6% of the FRR for Korean BRCAX.
+0	NA	BRCAX	NA	DISCUSS	The impact of three novel loci on Korean BRCAX cases, however, might be inflated for having used the discovery set on itself.
+0	cancers	NA	NA	DISCUSS	Novel candidate loci added 3.0% to Asian, but none to European high-risk cancers.
+0	breast cancer	NA	NA	DISCUSS	When the %FRR of three novel loci was estimated from all types of Asian breast cancers, the estimate decreased to 0.75%, suggesting that these loci mainly account for the genetic risk of high-risk breast cancers
+0	NA	NA	NA	DISCUSS	Sum of FRR (Sigma%FRR) from common variants are considerably compatible between populations: 29.8-39.4% for Koreans, and 24.0% for Europeans, and 10.6-13.6% for other Asians.
+0	breast cancer	NA	NA	DISCUSS	One reason why Sigma%FRR is smaller for Asians might be explained their heterogenic ethnic compositions (In this study, Asian high-risk breast cancer cases consisted of Japanese 28%, Chinese 30%, Asian American 16%, and others 25%).
+0	NA	NA	NA	DISCUSS	If associated markers have not been identical between ethnic groups, some variants more specifically associated with certain populations might be missed.
+0	NA	NA	NA	DISCUSS	Moreover, replication was conducted using 92 markers, most of them were reported from studies of European ancestry.
+0	NA	NA	NA	DISCUSS	Also, a smaller sample size could be another reason for fewer replicated markers in Asians.
+0	NA	NA	NA	DISCUSS	Wen et al.
+0	breast cancer	NA	NA	DISCUSS	's study replicated 44 of 78 previously reported loci involving 11,760 overall breast cancer cases of East Asians.
+0	breast cancer	NA	NA	DISCUSS	When we performed an analysis including late-onset breast cancer cases (6,130 cases and 6,371 controls), we could have replicated 24 loci (10 consistent, 12 added and two removed loci).
+0	breast cancer	NA	NA	DISCUSS	Whether the difference is attributable to the power or the differences in the genetic susceptibility between high-risk and late-onset breast cancers is not conclusive.
+0	breast cancer	NA	NA	DISCUSS	The six additional loci, however, did not show any clues of possible association with high-risk breast cancers (p > 0.3), and we believe the differences in the genetic architecture between sporadic/low-risk and familial/high-risk breast cancers might explain a part of the discrepancy.
+0	breast cancer	NA	NA	DISCUSS	Korean data might have shown compatible Sigma%FRR of high-risk breast cancers with Europeans, partly due to their size and stricter definition for cases.
+0	cancers	BRCA2	NA	DISCUSS	We believe it might be reasonable to interpret the findings that common variants explain as much Sigma%FRR of high-risk cancers as BRCA1/2 mutations.
+0	breast cancer	NA	NA	DISCUSS	We also examined the associations and their impacts on breast cancer predisposition genes with moderate/high-penetrance.
+0	NA	NA	NA	DISCUSS	Although imputed markers covered most of the known variants, our approach might have materially underestimated their impacts, and cannot replace the findings from the sequence-based approach
+0	NA	NA	NA	DISCUSS	A proper genetic screening program for BRCA/BRCAX, if implemented, might contribute to detecting high-risk women for providing personalized screening program such as ultrasonography.
+0	NA	BRCAX	NA	DISCUSS	Additionally, it will provide information for consulting the relatives of BRCAX cases.
+0	NA	BRCAX	NA	DISCUSS	Findings from our study support the necessity and possibility of developing a new genetic screening for BRCAX.
+0	NA	NA	NA	DISCUSS	However, our study alone does not provide other important information necessary for effective genetic screening, in particular, estimates of penetrance and predictive values of the test.
+0	NA	NA	NA	DISCUSS	Estimating sensitivity and specificity of BRCAX-associated markers are required first in larger data.
+0	breast cancer	NA	NA	DISCUSS	Also, this study considered the genetic markers associated with the occurrence of high-risk breast cancer, and their potential implications for detecting high-risk populations.
+0	breast cancer	NA	NA	DISCUSS	To provide evidence that support a new genetic screening program, further data about a reduced mortality rate from breast cancer might be required, but these are beyond scope of ours
+0	NA	BRCAX	NA	DISCUSS	We believe that this study confers some advantages over previous BRCAX studies.
+0	breast cancer	NA	NA	DISCUSS	First, the number of test-proven BRCA-negative cases was not modest (n = 1,469), and more than 11,300 high-risk breast cancer cases were included, larger than previous studies.
+0	NA	BRCA2	NA	DISCUSS	Second, all the BRCA1/2 mutation status was more accurately identified by standard sequencing analysis of each BRCA1 and BRCA2 exon.
+0	cancers	BRCA2	NA	DISCUSS	Third, we selected high-risk cases with genetic burdens using the similar indications as BRCA1/2 mutation test: age of onset, family history, history of other malignancy, and bilateral cancers.
+0	NA	NA	NA	DISCUSS	Applying these strict indications might have enabled us to select cases with high genetic burdens.
+0	NA	NA	NA	DISCUSS	Fourth, we attempted to re-evaluate the findings from our own GWAS study and previous studies jointly including both common variants in the GWAS catalog, and moderate/high-penetrance genes.
+0	breast cancer	BRCAX	NA	DISCUSS	This approach might have provided more comprehensive views on the genetic architecture of BRCAX and high-risk breast cancers.
+0	NA	BRCAX	NA	DISCUSS	Similarly, this approach enabled us to estimate the impacts of associated markers on the occurrence of BRCAX for different populations and context.
+0	NA	NA	NA	DISCUSS	The impact estimates from our study will confer implications for genetic screening test of high-risk women.
+0	NA	BRCAX	NA	DISCUSS	Finally, to our knowledge, this is the first Asian study focused on BRCAX cases, where epidemiologic features suggest unique susceptibility might exist
+0	NA	NA	NA	DISCUSS	This study also has several limitations.
+0	NA	BRCA2	NA	DISCUSS	First, exact information about BRCA1/2 mutation status was scarce, and not available for most studies of the BCAC.
+0	cancers	BRCA2	NA	DISCUSS	Applying the criteria for high-risk cancers only which were not confirmed to be BRCA1/2-negative might have decreased the power of detecting associated markers.
+0	NA	NA	NA	DISCUSS	Nevertheless, this limitation might not have influenced toward increasing false-positive findings in the study.
+0	NA	NA	NA	DISCUSS	Second, Asian cases in the BCAC data were limited so that the criteria for early-onset age were relaxed to the age 45, while the same criteria for having family history was applied.
+0	NA	BRCAX	NA	DISCUSS	These relaxed criteria in the replication data might have reduced the power to detect susceptibility loci more specific to the BRCAX cases.
+0	NA	NA	NA	DISCUSS	When we estimated the associations for replicated and novel loci using different age criteria for Asian high-risk cases (938 cases for replication set when age 40 was used), direction and strength of associations were largely same with slightly less statistical power: the number of replicated markers and Sigma%FRR of them declined from 14 (10.6%) to eight (9.0%).
+0	NA	NA	NA	DISCUSS	However, ORs of three novel markers increased and Sigma%FRR increased from 3.0% to 3.8% accordingly.
+0	cancers	BRCAX	NA	DISCUSS	Third, even with the sample size of 1,469 confirmed BRCAX cases, our study has limitations in power to newly detect relatively rare alleles (0.01 < MAF < 0.05) because of the scarcity of high-risk cancer cases.
+0	NA	NA	NA	DISCUSS	We estimated that the relative risk should exceed 2.5 to be detected as novel with our sample size.
+0	NA	NA	NA	DISCUSS	"Fourth, although this not being the main purpose of our study, when we attempted to replicate the ""moderate/high-penetrance"" variants, the effects might have been underestimated because some of the variants were not exactly identified in our imputed genotype data."
+0	NA	NA	NA	DISCUSS	We believe the estimated impacts from these genes should have been underestimated.
+0	NA	NA	NA	DISCUSS	The estimated impact of the common variants, however, is not likely affected by this limitations, because the frequency of the common risk alleles is independent of the rare alleles.
+0	NA	NA	NA	DISCUSS	Fifth, the replication analysis of previously reported loci might have inflated as the replication set could include data of the discovery set.
+0	NA	NA	NA	DISCUSS	Finally, as the mean age was different by affection status in the discovery set (cases: 40.2, controls: 55.1), the age was not used as a covariate, because we did not observe any difference in allele frequencies between controls (older) and those in the population with same age with cases (younger) (Supplementary Table S1).
+0	NA	NA	NA	DISCUSS	If there are some susceptibility loci which are expressed in an age-dependent manner, those markers could not have considered in this study.
+0	breast cancer	NA	NA	DISCUSS	However, we believe older controls might be more appropriate in part due to they have lower chance of developing breast cancer compared to younger controls with similar mean age with the cases (40 years old)
+0	NA	NA	NA	DISCUSS	In conclusion, we have identified novel common susceptibility loci from GWAS and replicated some of both common/low-penetrance and rare/high-penetrance variants which were reported previously.
+0	breast cancer	NA	NA	DISCUSS	We also evaluated the contribution of those susceptibility loci including ours, to high-risk breast cancers of multiple populations.
+0	breast cancer	BRCA2	NA	DISCUSS	Our findings also suggest that high-risk breast cancers, particularly for Asians, might consist of multiple layers with similar importance, including BRCA1/2, moderate/high-penetration genes, and selected common variants with augmented effects.
+0	breast cancer	BRCA2	NA	DISCUSS	Our study might add information to consider prevention strategy of early-onset and high-risk breast cancers in Asia, and also to the genetic counseling for relatives of the high-risk breast cancer patients without a mutation in BRCA1/2 genes
+0	breast cancer	BRCA2	NA	METHODS	Breast cancer patients who were tested to be free of clinically significant BRCA1/2 gene mutation (clinically unverified mutation cases were included
+0	breast cancer	NA	NA	METHODS	Diagnosed as breast cancer before or at age 40; OR having one or more relative(s) with breast/ovarian cancer; OR bilateral cases; OR previously diagnosed as other cancer
+0	NA	NA	NA	METHODS	We conducted a case-control GWAS.
+0	breast cancer	NA	NA	METHODS	Breast cancer patients were selected from the Korean Hereditary Breast Cancer (KOHBRA) study.
+0	breast cancer	BRCA2	NA	METHODS	Breast cancer patients with one of following five conditions and family members of BRCA1/2 mutation carriers were eligible for BRCA1/2 gene test provided by the Korean National Health Insurance - family history of breast or ovarian cancer, diagnosed at age 40 or younger, bilateral breast cancer, male cases, or diagnosed with another primary malignancy.
+0	NA	BRCA2	NA	METHODS	"The KOHBRA study enrolled those who provided informed consent among the ""BRCA1/2 gene test eligible"" cases and their family members."
+0	NA	NA	NA	METHODS	The detailed information of the KOHBRA study has been described previously and in Supplementary Notes.
+0	NA	NA	NA	METHODS	From the KOHBRA participants, unrelated women (estimated identity by descent < 0.125) who met the following criteria were included in this study
+0	NA	NA	NA	METHODS	We used data from Korean Genome Epidemiology Study (KoGES) as control.
+0	NA	NA	NA	METHODS	The profiles of KoGES consortium was described elsewhere and in Supplementary Notes.
+0	Colon and Ovarian (PLCO) Cancer	NA	NA	METHODS	Genetically unrelated (estimated identity by descent <0.125) Korean women without family history of breast or ovarian cancer were included.
+0	NA	NA	NA	METHODS	All participants gave informed written/oral consent, and this study was approved by the Institutional Review Board of Asan Medical Center, Seoul, Republic of Korea.
+0	NA	NA	NA	METHODS	This study was conducted in accordance with the World Medical Association Declaration of Helsinki
+0	NA	NA	NA	METHODS	Cases were genotyped using Illumina OncoArray-500K Beadchip at the University of Southern California Epigenome Center, CA, USA.
+0	NA	NA	NA	METHODS	Peripheral blood samples (20 ml) were collected at baseline, and they were divided, treated and stored within 24 hours of sampling.
+0	NA	NA	NA	METHODS	We excluded individuals with low call rate (<95%) and SNPs with genotype call rate <95%, minor allele frequency (MAF)<1%, evidence for deviation from Hardy-Weinberg equilibrium at p-value < 10-9, or poor cluster plots.
+0	NA	NA	NA	METHODS	Genotype data were phased and imputed using SHAPEIT and IMPUTE2 software respectively, and East Asian data from the 1000 Genomes Project (1 kG) Phase 3 were used as reference.
+0	NA	NA	NA	METHODS	From imputed markers, SNPs with info score greater than 0.95 were included.
+0	NA	NA	NA	METHODS	We genotyped cases and controls with four different platforms of dense genome-wide SNP arrays and conducted standard quality control and imputation process.
+0	NA	NA	NA	METHODS	And the batch effect detected through association analysis of control data genotyped from different platforms was removed (p < 0.01).
+0	NA	NA	NA	METHODS	For post-imputation quality control, markers with high missing rate >10%, minor allele frequency (MAF)<1%, evidence for deviation from Hardy-Weinberg equilibrium at p-value < 10-6 were excluded.
+0	NA	NA	NA	METHODS	More detailed information was described in Supplementary Notes
+0	NA	NA	NA	METHODS	Genomic DNA was extracted from the participants' peripheral blood samples.
+0	NA	BRCA2	NA	METHODS	For BRCA1/2 mutation testing in cases, 22 coding exons of BRCA1 and 26 coding exons of BRCA2 were scanned through fluorescence-based conformation sensitive gel electrophoresis (F-CSGE) and denaturing high-performance liquid chromatography (DHPLC).
+0	NA	NA	NA	METHODS	For a subset of PCR products with aberrant patterns, direct sequencing was performed on an ABI3100 or ABI3700 (Applied Biosystems, CA) or a MegaBACE500 (GE Healthcare, UK) genetic analyzer.
+0	NA	NA	NA	METHODS	In this study, the definition of a genetic mutation is restricted to the protein-truncating mutation and the missense mutation, which are known to be associated with the disease.
+0	NA	BRCA2	NA	METHODS	This study also includes the participants with a clinically unverified mutation in BRCA1/2 genes.
+0	NA	BRCA2	NA	METHODS	More detailed information about BRCA1/2 mutation analysis has been described before.
+0	NA	BRCA2	NA	METHODS	Since this study also includes the cases with unverified mutation on BRCA1/2, we examined whether non-pathogenic variants on these genes are more frequent in the cases compared to controls at p-value of 0.05.
+0	NA	NA	NA	METHODS	And we searched them at the ClinVar database
+0	NA	NA	NA	METHODS	GWAS was carried out using logistic regression by trends test of PLINK version 1.07.
+0	NA	NA	NA	METHODS	For visualization of the results, Manhattan plot and quantile-quantile (QQ) plot were generated using R package 'qqman'.
+0	NA	NA	NA	METHODS	Principal component analysis (PCA) was conducted using EIGENSTRAT, and the first three principal components were used for adjustment.
+0	breast cancer	NA	NA	METHODS	Since most cases were early-onset breast cancer and cohorts for control recruited adults with a limited age range, mean age was much younger in cases than controls.
+0	NA	NA	NA	METHODS	Thus, allele frequencies of significant markers were presented by affection status and age groups, rather than adjusting for age
+0	NA	NA	NA	METHODS	For the replication of the initial candidate loci, imputed data of Asian population from the BCAC were used.
+0	NA	NA	NA	METHODS	The overall description about the BCAC was previously reported and in Supplementary Notes.
+0	breast cancer	BRCA2	NA	METHODS	Since most of the cases in the BCAC lack BRCA1/2 mutation information, we included high-risk breast cancers defined as: breast cancer cases diagnosed before or at age 45 or cases with family history of breast cancer in first degree relatives.
+0	breast cancer	NA	NA	METHODS	For controls, women without family history of breast cancer were included among the BCAC control data
+0	NA	NA	NA	METHODS	For newly identified loci, we conducted meta-analyses using fixed or random effect model according to evidence of heterogeneity (fixed effect model was used if p-value for heterogeneity exceeds 0.05).
+0	NA	HER2	NA	METHODS	Also, we conducted subgroup analyses by three receptor status (estrogen, progesterone, and HER2 receptor).
+0	NA	NA	NA	METHODS	P-values for heterogeneity by receptor status were calculated using a Cochran's Q test, and a p-value of 0.05 was used to determine heterogeneity
+0	NA	NA	NA	METHODS	For newly identified loci which were replicated using Asian high-risk cases from the BCAC, downstream analyses were performed.
+0	NA	NA	NA	METHODS	These regions were visualized by linkage disequilibrium (LD) plots and regional association plots.
+0	NA	NA	NA	METHODS	LD plots were created using control data with 'LDheatmap' package in R. And regional association plots were created by Locuszoom using East Asian population of the 1 kG Phase 3 as reference
+0	NA	NA	NA	METHODS	Functional information of novel loci was annotated using Encyclopedia of DNA elements (ENCODE) project and HaploReg version 4.1.
+0	NA	NA	NA	METHODS	Novel SNPs and correlated markers with r2 > 0.8 from East Asian population were explored.
+0	NA	NA	NA	METHODS	Results of expression quantitative trait loci (eQTL) analyses were found from the Genotype Tissue Expression (GTEx) portal.
+0	NA	NA	NA	METHODS	Associations between novel markers and expression of the nearest gene of each SNP for all available tissues and associations between these markers and nearby genes with a window size of 1 Mb for the tissue showing the most significant associations were retrieved
+0	breast cancer	BRCAX	NA	METHODS	We estimated associations between previously reported breast cancer susceptibility loci and BRCAX cases and how the significance of associations and their effect sizes differ.
+0	breast cancer	NA	NA	METHODS	First, we selected markers associated with breast cancer at p-value < 10-5 from the NHGRI-EBI GWAS catalog.
+0	cancers	NA	NA	METHODS	We also examined the candidate loci from three previous BRCA1/2-negative cancer GWAS.
+0	Colon and Ovarian (PLCO) Cancer	NA	NA	METHODS	Finally, the variants on genes associated with increased risk of breast or ovarian cancer listed in the guideline for genetic screening of high-risk breast cancers (suggested by the National Comprehensive Cancer Network, NCCN) or breast cancer predisposition genes used in a recent article were evaluated in this study.
+0	NA	ATM	NA	METHODS	Seventeen genes listed on the NCCN guideline were ATM, CDH1, CHEK2, MSH2, MLH1, MSH6, PMS2, EPCAM, NBN, NF1, PALB2, PTEN, RAD51C, RAD51D, STK11, and TP53, except for BRCA1/2; six additional genes suggested from the study by Wong et al.
+0	NA	BARD1	NA	METHODS	were BARD1, BMPR1A, FANCC, SMAD4, VHL, and XRCC2.
+0	NA	NA	NA	METHODS	Variants in gene regions +- 10 kB were tested for association.
+0	NA	NA	NA	METHODS	In this analysis, the markers with MAF < 1%, which were excluded during quality control, were also included.
+0	NA	NA	NA	METHODS	Independent (r2 > 0.3) SNPs with p-value < 0.01 were included for impact estimation
+0	breast cancer	BRCAX	NA	METHODS	To assess the impact of reported loci in the occurrence of BRCAX cases, we estimated the FRRs from Korean BRCAX women, Asian and European high-risk women using the BCAC data (cases with age of onset <45 or with a family history of breast cancer in first-degree relatives, for both Asian and European data).
+0	NA	NA	NA	METHODS	The fraction of FRR (%FRR) explained by markers was calculated as ln(lambda)/ln(lambda0) where lambda (lambda) is the FRR to a relative of an affected individual and lambda0 is the overall FRR.
+0	NA	NA	NA	METHODS	lambda is calculated as (pr2 x q)/(pr + q)2 where p is the frequency of the risk allele in the general population, q equals 1 - p, and r is the per-allele OR.
+0	NA	NA	NA	METHODS	And lambda0 is assumed to be 1.8 as reported from the previous article.
+0	NA	NA	NA	METHODS	For comparison of FRR explained by each SNP, we applied the same allele frequencies from the East Asian or European data from the 1 kG Phase 3 and different odds ratios (ORs) from each analysis
+0	NA	NA	NA	METHODS	To compare predictive power among different groups, we estimated ORs according to GRSs.
+0	NA	NA	NA	METHODS	GRSs were calculated as a weighted sum of the number of risk alleles, in which the weight was taken as the natural log of the OR from association analyses.
+0	NA	NA	NA	METHODS	ORs by quintiles of GRS were estimated using the first quintile as the reference.
+0	NA	BRCAX	NA	METHODS	We compared the predictive power of BRCAX by the different set of markers for different populations (Korean BRCAX, Asian and European high-risk cases)
+0	NA	BRCAX	NA	METHODS	We re-evaluated the ORs from polygenic GRS, by stratifying subjects according to their risk alleles associated with BRCAX in multiple studies.
+0	breast cancer	BRCAX	NA	METHODS	"GRSs were calculated using markers replicated for Korean BRCAX among previously reported markers in breast cancer from the GWAS catalog (""BRCAX-known""), and with novel candidate markers from the GWAS added to replicated markers (""BRCAX-known + novel"")"
+0	NA	NA	NA	AUTH_CONT	J.-Y.L.
+0	NA	NA	NA	AUTH_CONT	performed all analyses and wrote the manuscript.
+0	NA	NA	NA	AUTH_CONT	S.-W.K., J.W.L., S.K.P., S.H.A., M.H.L.
+0	NA	NA	NA	AUTH_CONT	are principal investigators of KOHBRA study and they participated in recruitment and maintenance of this cohort with J.K., S.B.L., Y.J.S., D.-Y.N., B.H.S.
+0	NA	NA	NA	AUTH_CONT	and Y.U.C.
+0	NA	NA	NA	AUTH_CONT	J.K., J.S.
+0	NA	NA	NA	AUTH_CONT	and J.L.H.
+0	NA	NA	NA	AUTH_CONT	made substantial contributions to acquisition of KOHBRA, KoGES, and BCAC data, respectively.
+0	NA	NA	NA	AUTH_CONT	J.-Y.L., J.S.
+0	NA	NA	NA	AUTH_CONT	J.L.H.
+0	NA	NA	NA	AUTH_CONT	and J.K. contributed to writing and editing of the manuscript.
+0	NA	NA	NA	AUTH_CONT	J.W.L., J.L.H.
+0	NA	NA	NA	AUTH_CONT	and J.S.
+0	NA	NA	NA	AUTH_CONT	supervised the research.
+0	NA	NA	NA	AUTH_CONT	All authors approved the final version of the manuscript
+0	NA	NA	NA	SUPPL	The datasets generated and/or analysed during the current study are available in the Open Science Framework repository, https://osf.io/a7kn5/.
+0	NA	NA	NA	SUPPL	The data that support the findings of this study are available from BCAC but restrictions apply to the availability of these data, which were used under license for the current study, and so are not publicly available.
+0	NA	NA	NA	SUPPL	Data are however available from the authors upon reasonable request and with permission of the BCAC group

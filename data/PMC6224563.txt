@@ -1,0 +1,206 @@
+0	benign prostatic hyperplasia	NA	NA	ABSTRACT	Benign prostatic hyperplasia and associated lower urinary tract symptoms (BPH/LUTS) are common conditions affecting the majority of elderly males.
+0	NA	NA	NA	ABSTRACT	Here we report the results of a genome-wide association study of symptomatic BPH/LUTS in 20,621 patients and 280,541 controls of European ancestry, from Iceland and the UK.
+0	NA	NA	NA	ABSTRACT	We discovered 23 genome-wide significant variants, located at 14 loci.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	There is little or no overlap between the BPH/LUTS variants and published prostate cancer risk variants.
+0	NA	PSA	NA	ABSTRACT	However, 15 of the variants reported here also associate with serum levels of prostate specific antigen (PSA) (at a Bonferroni corrected P < 0.0022).
+0	NA	PSA	NA	ABSTRACT	Furthermore, there is a strong genetic correlation, rg = 0.77 (P = 2.6 x 10-11), between PSA and BPH/LUTS, and one standard deviation increase in a polygenic risk score (PRS) for BPH/LUTS increases PSA levels by 12.9% (P = 1.6x10-55).
+0	NA	PSA	NA	ABSTRACT	These results shed a light on the genetic background of BPH/LUTS and its substantial influence on PSA levels
+0	benign prostatic hyperplasia	NA	NA	ABSTRACT	Elderly males are often affected by benign prostatic hyperplasia and associated lower urinary tract symptoms (BPH/LUTS), but their link to prostate cancer risk is not well defined.
+0	Breast and prostate cancer	PSA	NA	ABSTRACT	Here, a genome-wide association study of BPH/LUTS patients from Iceland and the UK found 23 significant variants at 14 loci, and 15 of these variants associate with prostate specific antigen, which is linked to prostate cancer risk
+0	benign prostatic hyperplasia	NA	NA	INTRO	Benign prostatic hyperplasia (BPH), the nonmalignant enlargement of the prostate, and associated lower urinary tract symptoms (LUTS) are common medical conditions among elderly males.
+0	NA	NA	NA	INTRO	Autopsy studies have unveiled a histological prevalence of the disease of: 8, 50, and 80%, in the fourth, sixth, and ninth decades of life, respectively.
+0	bladder outlet obstruction	NA	NA	INTRO	BPH contributes to bladder outlet obstruction, leading not only to bothersome LUTS but can, if untreated, be detrimental to patients' health by affecting bladder and kidney function.
+0	Geriatric Depression	NA	NA	INTRO	Furthermore, BPH/LUTS is associated with depression, and diminished health-related quality of life; based on sleep, psychological condition, activities in daily life, and sexual activities.
+0	NA	NA	NA	INTRO	The high prevalence of BPH/LUTS and its effect on various other health related conditions results in a high annual health-care cost, both for patients and societies.
+0	NA	NA	NA	INTRO	This cost is likely to rise dramatically over the next few decades as life expectancy is on the rise in most countries.
+0	NA	NA	NA	INTRO	The detailed molecular pathogenesis of BPH/LUTS has not been well established.
+0	Inflammation Laboratory's JDRF	NA	NA	INTRO	However, in addition to age, inflammation, sex hormones, and metabolic factors have all been implicated.
+0	NA	NA	NA	INTRO	Furthermore, genetic variation is a strong risk factor for developing BPH/LUTS.
+0	NA	NA	NA	INTRO	A study of men who underwent surgery for BPH younger than 64 years of age, reported that other male relatives and brothers of probands had a four- and six fold increase, respectively, of age-specific risks of BPH surgery.
+0	NA	NA	NA	INTRO	In addition, twin studies report the concordance rate ratios for BPH/LUTS to range between 2.2 and 6.9 depending on the specificity of symptom definition.
+0	genetic diseases	NA	NA	INTRO	Despite this relatively strong genetic component of the disease, only very few suggestively associated sequence variants have been reported for BPH/LUTS
+0	NA	NA	NA	INTRO	In order to search for variants conferring risk of symptomatic BPH/LUTS, we performed a genome-wide association study (GWAS) in two study groups, coming from Iceland and the UK Biobank.
+0	NA	NA	NA	INTRO	We report here genome-wide significant results for 23 genetic variants, located at 14 loci, conferring risk of symptomatic BPH/LUTS
+0	NA	NA	NA	RESULTS	The GWAS of the Icelandic BPH/LUTS dataset included 9443 men with symptomatic BPH/LUTS and 104,000 controls.
+0	NA	NA	NA	RESULTS	Men with symptomatic BPH/LUTS were defined as individuals undergoing transurethral resection of the prostate (TURP), as well as men older than 50 years, repeatedly using drugs for treating BPH/LUTS belonging to the G04C group of the Anatomical Therapeutic Chemical (ATC) classification (for example: tamsulosin, finasteride, and dutasteride)
+0	NA	NA	NA	RESULTS	The UK Biobank dataset consists of 11,178 men with BPH/LUTS according to hospital-based diagnosis, as well as 176,541 controls not known to have been diagnosed with BPH/LUTS.
+0	NA	NA	NA	RESULTS	For a description of the genotyping and imputation of the Icelandic and UK Biobank samples (see the Methods section)
+0	NA	NA	NA	RESULTS	Per-allele odds ratios (ORs) and two-sided P-values for all ~42.9 million variants in the GWASs of both study groups were obtained using a logistic regression model.
+0	NA	NA	NA	RESULTS	We then conducted a fixed-effect meta-analysis including the Icelandic and the UK results with 20,621 patients and 280,541 controls, in total
+0	NA	NA	NA	TABLE	Results from the meta-analysis of Icelandic and UK GWAS of symptomatic BPH/LUTS and from the the conditional analysis for loci with multiple variant
+0	NA	NA	NA	FIG	A Manhattan plot of the combined BPH/LUTS GWAS results.
+0	NA	NA	NA	FIG	The Manhattan plot shows variants with two-sided P-value < 0.10 (obtained using a logistic regression model) and high imputation information score (info > 0.90) from the BPH/LUTS meta-analysis of GWAS data from 20,621 patients and 280,541 controls of European ancestry, coming from Iceland and the UK.
+0	NA	NA	NA	FIG	Shown are negative log10-transformed two-sided P-values from the unconditional analysis (y-axis) over 22 autosomes (x-axis).
+0	NA	NA	NA	FIG	Dots colored in red denote variants that surpass our genome-wide significance thresholds (ranging between 1.9 x 10-7 and 5.9 x 10-10), defined using a weighted Bonferroni procedure based on functional impact of classes of variant
+0	NA	NA	NA	RESULTS	An initial screening of the GWAS results revealed 14 variants, at 14 loci, surpassing our genome-wide significance criteria (Table 1, Supplementary Tables 1 and 2, Fig.
+0	NA	NA	NA	RESULTS	1, Supplementary Fig.
+0	NA	NA	NA	RESULTS	1 and 2).
+0	NA	NA	NA	RESULTS	The threshold for genome-wide significance in the present study was corrected for multiple testing using a weighted Bonferroni procedure based on functional impact of classes of variants (for our GWAS the significance thresholds range between 1.9 x 10-7 and 5.9 x 10-10 depending on functional annotations; see Methods).
+0	NA	NA	NA	RESULTS	For all 14 variants the effect estimates in the Icelandic and UK samples were highly consistent and no significant heterogeneity was detected when considering the number of variants tested (a Bonferroni corrected P-value of 0.05/14 = 0.0036)
+0	NA	NA	NA	RESULTS	In order to search for additional association signals, we performed a stepwise CGTA-COJO conditional analysis at the 14 newly discovered risk loci.
+0	NA	NA	NA	RESULTS	We found 9 secondary association signals at 8 loci after conditioning on the lead marker at each of the 14 loci.
+0	NA	NA	NA	RESULTS	For the variants identified with the COJO method, we then performed a conditional analysis using individual genotypes (Table 1, Supplementary Table 2, and Methods).
+0	NA	NA	NA	RESULTS	The significance threshold for the combined results from the conditional analyses was set at P < 1 x 10-6 since, when performing the conditional analyses we tested approx.
+0	NA	NA	NA	RESULTS	50,000 markers (Bonferroni correction: 0.05/50,000 = 1.0 x 10-6).
+0	NA	NA	NA	RESULTS	For information about pairwise linkage disequilibrium (LD) between lead variants at loci with multiple association signals, see Supplementary Table 3.
+0	NA	NA	NA	RESULTS	In total, the unconditional GWAS and conditional analysis returned 23 variants, associated with symptomatic BPH/LUTS in our study.
+0	NA	NA	NA	RESULTS	Thereof, 3 are rare or low frequency (with an average minor allele frequency (MAF) <= 8%) and 2 of those are missense variants (Table 1).
+0	NA	NA	rs200383755	RESULTS	All variants reported in Table 1 had imputation information score > 0.95, except rs200383755, which had an imputation information score of 0.99 and 0.88 in the Icelandic and UK datasets, respectively
+0	NA	NA	NA	RESULTS	Our bioinformatics and expression quantitative trait locus analyses yielded several interesting findings for the newly discovered BPH/LUTS variants.
+0	NA	NA	NA	RESULTS	Especially noticeable was the high fraction of risk loci (14 out of 23) with variants identified within regions marked by acetylation of histone H3 at lysine residue K27 (H3K27ac) in prostate epithelial cells.
+0	NA	NA	NA	RESULTS	The H3K27ac mark is a well-known marker of active regulatory regions found within enhancers and gene promoters.
+0	NA	NA	NA	RESULTS	Below we summarize findings for 3 of the 14 BPH/LUTS risk loci, for a more detailed information about all 23 variants located at the 14 BPH/LUTS risk loci, see Supplementary Note 1, Supplementary Table 4, and Supplementary Data 1 and 2
+0	NA	NA	NA	FIG	GWAS variants intersecting with regulatory regions defined on the basis of acetylation of histone H3 at lysine residue K27 (H3K27ac).
+0	NA	NA	NA	FIG	Shown are results for two of the loci reported to associate with BPH/LUTS from an analysis of non-coding risk variants intersecting with regulatory regions defined on the basis of acetylation of histone H3 at lysine residue K27 (H3K27ac), indicative of regulatory regions, in primary prostate epithelial cells.
+0	NA	NA	NA	FIG	The y-axis shows the ChIP-seq signal for the H3K27ac mark represented as negative log10 of the P-value and the x-axis shows the genomic location (hg38).
+0	NA	NA	NA	FIG	The black tick marks (top of panels a and b) indicate the position of variants found in strong LD (r2 > 0.8) with the lead variant, defining an LD class, wherein rs numbers are shown for those residing within H3K27ac significant regions.
+1	NA	NA	rs71807	FIG	a At 12q24.21 four variants reside within an H3K27ac marked region (rs71807, rs8853, rs484443, and rs551510).
+0	NA	NA	rs2274069	FIG	b At 13q14.3, only one variant, rs2274069, belonging to the LD class of the lead variant resides within a H3K27ac marked region.
+1	NA	RNASEH2B	NA	FIG	This is the promoter region for RNASEH2B, located within 500 bp from the transcription start site of the gen
+0	NA	NA	NA	RESULTS	The 12q24.21 locus has two independently associated BPH/LUTS variants.
+1	NA	TBX5	rs2555019	RESULTS	rs2555019 is located intergenic and downstream of TBX5, a member of a gene family that encodes transcription factors involved in regulation of embryonic developmental processes.
+1	NA	PSA	rs8853	RESULTS	The other variant, rs8853, is correlated (r2 = 0.64) with rs11067228 reported to associate with serum levels of prostate-specific antigen (PSA) and it is located in the 3'-untranslated region (UTR) of TBX3, belonging to the same gene family as TBX5.
+1	developmental monogenic disorder	TBX3	NA	RESULTS	Germline mutations in TBX3 underlie ulnar mammary syndrome, a rare pleiotropic developmental disorder characterized by altered: upper limbs, apocrine and mammary glands, and genitals.
+1	NA	TBX3	NA	RESULTS	According to the Genotype-Tissue Expression (GTEx) analysis, based on multiple tissues, the expression of TBX3 is reported to rank second and third highest in bladder and prostate tissues, respectively.
+1	NA	NA	rs8853	RESULTS	Based on our focused analysis of promoters/enhancer regions in prostate epithelial cells we found the 12q24.12 locus (with rs8853 as a lead variant) to intersect with a super-enhancer and to have a clear tissue-specificity with respect to the H3K27ac mark in prostate-derived cells (Fig.
+0	NA	NA	NA	RESULTS	2a).
+1	NA	TBX3	NA	RESULTS	Furthermore, based on a recently developed enhancer-gene target resource, referred to as the Joint Effect of Multiple Enhancers (JEME), TBX3 is the only candidate target gene, in primary prostate tissue samples, linked to this enhancer element
+1	NA	NA	rs1638703	RESULTS	rs1638703 and rs6561599 on 13q14.3 are independently associated with BPH/LUTS according to our results.
+1	NA	PSA	rs1638703	RESULTS	rs1638703 is fully correlated (r2 = 1) with rs202346, which has been reported to associate with serum levels of PSA and it is located intronic within the non-protein coding gene DLEU1, whereas rs6561599 is located some 5 kb upstream of RNASEH2B.
+0	NA	NA	NA	RESULTS	The protein encoded by this gene is the non-catalytic B-subunit of RNase H2 endonuclease complex, which is thought to play a role in nucleic acid metabolism to preserve genome stability and to prevent immune activation.
+1	NA	RNASEH2B	rs6561599	RESULTS	Our focused analysis (with rs6561599 as a lead variant) of promoters/enhancers revealed a tissue-specific promoter region for RNASEH2B, wherein the H3K27ac mark was particularly prevalent in prostate-derived cells (Fig.
+0	NA	NA	NA	RESULTS	2b)
+0	NA	NA	NA	RESULTS	The 20q13.33 locus also contains two variants independently associated with BPH/LUTS.
+1	NA	GATA5	NA	RESULTS	One of these variants, rs200383755_C, is a missense variant (p.Ser19Trp) in the GATA5 gene.
+0	NA	NA	NA	RESULTS	In our combined study group this variant has a minor allelic frequency of 0.9%, and confers strong protection against BPH/LUTS, with an OR = 0.67 and P = 3.2 x 10-9 (Table 1).
+0	NA	NA	NA	RESULTS	Correspondingly, Icelandic carriers of this variant underwent a TURP treatment 2.7 years older (P = 0.013) than non-carriers (see Supplementary Table 5).
+1	NA	GATA5	NA	RESULTS	The GATA5 gene encodes a transcription factor that contains two GATA-type zinc fingers and is required during cardiovascular development.
+1	NA	GATA5	NA	RESULTS	According to the GTEx Portal, GATA5 has the highest expression in bladder but its expression is also relatively high in prostate tissue, ranking seventh from the top.
+1	NA	GATA5	NA	RESULTS	The other independently associated variant at 20q13.33 is rs6061244_C (OR = 0.94 and P = 5.7 x 10-8; Table 1), located intronic in GATA5, and as it has no strongly correlated variants (r2 > 0.75) it can be considered a probable causative variant
+0	Breast and prostate cancer	NA	NA	RESULTS	Prostate cancer and BPH/LUTS can coexist in elderly men, e.g.
+0	Breast and prostate cancer	NA	NA	RESULTS	in the Icelandic BPH/LUTS study group 15% of the men have also been diagnosed with prostate cancer and 8.8% in the UK sample set.
+0	Breast and prostate cancer	NA	NA	RESULTS	Two of the BPH/LUTS variants discovered in our study have previously been reported to associate with risk of prostate cancer, i.e.
+1	NA	TBX5	rs2555019	RESULTS	rs2555019 (it has r2 = 0.81 with rs1270884) located downstream of TBX5 on 12q24.21, and rs11651052 (which has r2 = 0.91 with rs4430796) located intronic in HNF1B on 17q12.
+0	Breast and prostate cancer	NA	NA	RESULTS	Therefore, we performed a GWAS of BPH/LUTS, where we excluded all men known to have prostate cancer, included in our study groups (see Supplementary Table 6).
+1	NA	NA	rs11651052	RESULTS	The results from this analysis did not yield any new genome-wide significant BPH/LUTS loci but the results for rs11651052 on chromosome 17q12 fell well below our threshold of genome-wide significance.
+1	NA	NA	NA	RESULTS	The combined unconditional association results for rs11651052_A and the total list of BPH/LUTS (i.e.
+0	Breast and prostate cancer	NA	NA	RESULTS	including men also with prostate cancer) were: OR = 0.93 and P = 3.2 x 10-10, whereas the unconditional results for men only known to have BPH/LUTS were: OR = 0.95 and P = 7.5 x 10-6 (see Supplementary Tables 2 and 6).
+1	Breast and prostate cancer	NA	rs11651052	RESULTS	It is therefore possible that our initial BPH/LUTS association signal for rs11651052 was inflated due to a confounding effect from men diagnosed with both BPH/LUTS and prostate cancer (i.e.
+0	Breast and prostate cancer	NA	NA	RESULTS	the association effects for BPH/LUTS and prostate cancer are in the same direction, see Supplementary Table 7).
+0	NA	NA	NA	RESULTS	The observed difference could also be due to a chance based on who were and who were not removed from the study group for the purpose of this focused analysis.
+0	Breast and prostate cancer	NA	NA	RESULTS	However, disentangling the BPH/LUTS effect from the prostate cancer effect is likely to be challenging and probably requires a very large sample set, preferably including several populations
+0	error bars	NA	NA	RESULTS	The BPH/LUTS association results for the variant on 12q24.21 (rs2555019_T) became more significant after excluding men diagnosed with both BPH/LUTS and prostate cancer.
+0	error bars	NA	NA	RESULTS	The unconditioned combined association results for rs2555019_T and the total list of BPH/LUTS (i.e.
+0	Breast and prostate cancer	NA	NA	RESULTS	including men also with prostate cancer) were: OR = 0.93 and P = 1.4 x 10-10, whereas the unconditioned combined results for men only known to have BPH/LUTS were: OR = 0.92 and P = 3.0 x 10-12 (see Supplementary Tables 2 and 6).
+0	Breast and prostate cancer	NA	NA	RESULTS	This is probably because the effect estimates for BPH/LUTS and prostate cancer are in the opposite direction (see Supplementary Table 7).
+1	NA	NA	rs2555019	RESULTS	However, for clarity and consistency of the data, the results reported in Table 1 for rs2555019 are based on the total list of men with BPH/LUTS (i.e.
+0	Breast and prostate cancer	NA	NA	RESULTS	including men with prostate cancer), same as for the rest of the data in Table 1
+0	NA	PSA	NA	RESULTS	Nine of the BPH/LUTS variants discovered in our study have previously been reported to be genome-wide significantly associated with serum levels of PSA (Supplementary Tables 7 and 8).
+0	Breast and prostate cancer	PSA	NA	RESULTS	These results and the fact that BPH is known to increase serum PSA levels, prompted us to check the association of all 23 BPH/LUTS variants with serum levels of PSA in a sample set of 33,572 Icelandic males, not known to have been diagnosed with prostate cancer or symptomatic BPH/LUTS.
+0	NA	PSA	NA	RESULTS	Our analysis showed that in total, 15 of the 23 BPH/LUTS variants reported here also associate with PSA levels at a Bonferroni corrected significance threshold (P < 0.0022; see Supplementary Table 7).
+0	NA	PSA	NA	RESULTS	Moreover, the effect estimates for BPH/LUTS and PSA levels are directionally consistent for all 15 variants (see Supplementary Fig.
+0	NA	NA	NA	RESULTS	3)
+0	NA	PSA	NA	RESULTS	We estimated the genetic correlation between serum levels of PSA and BPH/LUTS, using cross-trait LD score regression and the summary statistics from our GWAS of PSA in Iceland and the corresponding data from the GWAS of BPH/LUTS in the UK samples.
+0	NA	PSA	NA	RESULTS	Our results show a very strong genetic correlation (rg = 0.77; P = 2.6 x 10-11, see Supplementary Table 9) between PSA levels and BPH/LUTS, across these two study populations.
+0	Breast and prostate cancer	PSA	NA	RESULTS	For comparison purposes, we checked the genetic correlation between serum levels of PSA and prostate cancer across the same two study populations.
+0	Breast and prostate cancer	PSA	NA	RESULTS	Our results demonstrate a strong genetic correlation (rg = 0.41; P = 6.1 x 10-5) between serum levels of PSA and prostate cancer but still it is much weaker than for BPH/LUTS and PSA levels.
+0	Breast and prostate cancer	NA	NA	RESULTS	For comparison, our results indicate that the genetic correlation (rg) between BPH/LUTS and prostate cancer is 0.17, although nonsignificant (P = 0.18, see Supplementary Table 9)
+0	NA	NA	NA	TABLE	Results from testing the association between polygenic risk scores based on UK data, and a phenotype status, based on Icelandic dat
+0	Breast and prostate cancer	PSA	NA	RESULTS	We also calculated polygenic risk scores (PRSs) to estimate the contribution of variants that associate with BPH/LUTS or prostate cancer, respectively, to variation in PSA levels.
+0	Breast and prostate cancer	PSA	NA	RESULTS	We used effect estimates from the GWAS of BPH/LUTS and prostate cancer in the UK samples to generate PRSs to correlate with serum levels of PSA in the 18,929 Icelandic men (see Methods).
+0	Breast and prostate cancer	PSA	NA	RESULTS	The PRSs for BPH/LUTS and prostate cancer correlate very significantly with PSA levels; each standard deviation (SD) increase in the PRSs corresponds to 12.9% (P = 6.0 x 10-45) and 16.3% (P = 9.8 x 10-68) increase in PSA levels, respectively (Table 2a).
+0	Breast and prostate cancer	PSA	NA	RESULTS	The effects of the PRSs for BPH/LUTS and prostate cancer on PSA levels are largely independent since, in a joint analysis the effect of both remained highly significant, i.e.
+0	NA	NA	NA	RESULTS	8.6% increase (P = 3.0 x 10-20) and 13.3% increase (P = 4.1 x 10-43), respectively (Table 2b).
+0	Breast and prostate cancer	NA	NA	RESULTS	This is consistent with the observation that the PRS for BPH/LUTHS has little predictive power for prostate cancer, and vice versa; one SD increase in the PRS for BPH/LUTS increased the risk for prostate cancer by about 4% (P = 0.059), and the same increase of the prostate cancer PRS results in about 5% increase of BPH/LUTS risk (P = 0.0027; see Supplementary Table 10).
+0	Breast and prostate cancer	PSA	NA	RESULTS	These results demonstrate that variants conferring risk of BPH/LUTS and their effects on PSA levels warrant being taken into consideration when interpreting measurements of individual PSA levels, performed in order to screen for prostate cancer
+0	NA	NA	NA	DISCUSS	In summary, through a GWAS we have discovered the first set of BPH/LUTS risk variants that surpass a genome-wide significance threshold.
+0	NA	PSA	NA	DISCUSS	The majority (15 out of 23) of the variants reported here also associate with serum levels of PSA.
+0	Breast and prostate cancer	PSA	NA	DISCUSS	We show that genetic correlation between BPH/LUTS and PSA levels is of a similar magnitude to the genetic correlation between prostate cancer and PSA levels.
+0	Breast and prostate cancer	PSA	NA	DISCUSS	This underlines the complexity of interpreting the commonly applied PSA test, intended to screen for prostate cancer.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Interestingly, the BPH/LUTS variants reported here are largely independent of the previously reported prostate cancer risk variants, highlighting the difference in the etiologies of these two prostate diseases.
+0	NA	NA	NA	DISCUSS	The drugs currently prescribed for patients with BPH/LUTS do not cure the disease but provide a relief of the symptoms, though that relief does not come without side effects.
+0	NA	NA	NA	DISCUSS	In order to improve treatment, a better understanding of the basic disease-causing factors is needed.
+0	NA	NA	NA	DISCUSS	Our results provide several potential focus points for future research within this field
+0	NA	NA	NA	METHODS	The Icelandic BPH/LUTS study population consists of 9443 men with symptomatic BPH/LUTS and 104,000 controls.
+0	NA	NA	NA	METHODS	Men with symptomatic BPH/LUTS were defined as individuals diagnosed after undergoing TURP between 1983 and 2017 (70% of the total list).
+0	NA	NA	NA	METHODS	Also, included are men older than 50 years repeatedly using drugs in the G04C group of the ATC classification (for example, tamsulosin, finasteride, and dutasteride) for treating BPH/LUTS between the years 2003 and 2009 (30% of the total list).
+0	NA	NA	NA	METHODS	The BPH/LUTS patients had a mean age of 71 years based on age at first TURP treatment or youngest age in prescribed drug list.
+0	NA	NA	NA	METHODS	Controls were males not known to have symptomatic BPH/LUTS.
+0	Breast and prostate cancer	NA	NA	METHODS	The Icelandic prostate cancer GWAS group consisted of 5897 men diagnosed with prostate cancer (mean age at diagnosis is 71 years) according to a nationwide list from the Icelandic Cancer Registry (ICR) and the controls were 102,276 males absent from the same list.
+0	Breast and prostate cancer	PSA	NA	METHODS	The Icelandic study group used for GWAS of serum levels of PSA consists of 33,572 men who had their PSA level measured between 1994 and 2014, and are not known to have been diagnosed with BPH/LUTS or prostate cancer according to relevant nationwide patient lists.
+0	NA	NA	NA	METHODS	This study was approved by the Data Protection Commission of Iceland and the National Bioethics Committee of Iceland (License No.
+0	NA	NA	NA	METHODS	: VSN-17-026 and VSN-18-029) Written informed consent was obtained from all subjects requited for blood samples.
+0	NA	NA	NA	METHODS	Personal identifiers associated with medical information and blood samples were encrypted with a third-party encryption system
+0	NA	NA	NA	METHODS	The UK Biobank BPH/LUTS dataset (accessed under Application Number: 24711) consists of 11,178 men with symptomatic BPH/LUTS, according to hospital-based diagnosis (ICD10 code = N40), as well as 176,541 male controls, not known to have been diagnosed with BPH/LUTS.
+0	Breast and prostate cancer	NA	NA	METHODS	For the UK GWAS of prostate cancer (ICD10 code = C61) we used 5811 men diagnosed with prostate cancer and 181,908 male controls not know to have prostate cancer
+0	NA	NA	NA	METHODS	The Icelandic BPH/LUTS-, prostate cancer-, and PSA-level GWAS datasets used in the current study are based on whole-genome sequencing, chip genotyping and imputation, aided by long-range phasing of Icelandic population samples.
+0	NA	NA	NA	METHODS	In brief, we whole-genome-sequenced 15,220 Icelanders using Illumina technology (Illumina, San Diego, CA, USA) to an average depth of at least 34x, resulting in the identification of some 94 million variants.
+0	NA	NA	NA	METHODS	Using imputation assisted by long-range haplotype phasing and after removing variants with imputation information content below 0.8 as well as with an imputed MAF below 0.01%, we successfully inferred the genotypes of 32,463,443 variants in 434,571 Icelanders, of whom 151,677 had been genotyped using the Illumina chip genotyping platform.
+0	NA	NA	NA	METHODS	The remaining 282,894 Icelanders are first- and second-degree relatives of the chip-typed individuals and are imputed by aid of genealogic information
+0	NA	NA	NA	METHODS	Genotyping of UKB samples was performed using a custom-made Affymetrix chip, UK BiLEVE Axiom, and with the Affymetrix UK Biobank Axiom array.
+0	NA	NA	NA	METHODS	Imputation was performed by Wellcome Trust Centre for Human Genetics using the Haplotype Reference Consortium (HRC) and the UK10K haplotype resources.
+0	NA	NA	NA	METHODS	This yielded a total of 96 million imputed variants, however only 40 million variants imputed using the HRC reference set were used in this study due to quality issues with the remaining variants
+0	NA	NA	NA	METHODS	Logistic regression assuming an additive model was used to test for association between variants and disease, treating disease status as the response and expected genotype counts from imputation as covariates, and using likelihood ratio test to compute two-sided P-values.
+0	NA	NA	NA	METHODS	The association analysis for both the Icelandic and UKB datasets was done using software developed at deCODE genetics.
+0	NA	NA	NA	METHODS	For the Icelandic study group patients and controls are matched on gender, age at inclusion, and information on county of origin within Iceland are included as covariates to adjust for possible population stratification.
+0	NA	NA	NA	METHODS	For the UK datasets, cases and controls are restricted to individuals of genetically confirmed white British origin, and 40 principle components are included in the analysis to adjust for population substructure.
+0	NA	NA	NA	METHODS	The total number, combined in the Icelandic and UK GWASs, of variants tested in our analysis was 42.9 million (with imputation info score > 0.80 in both study groups) in a total of 20,621 patients and 280,541 controls.
+0	NA	NA	rs200383755	METHODS	All variants reported in Table 1 had imputation information score > 0.95, except rs200383755, which had an imputation information score of 0.99 and 0.88 in the Icelandic and UK datasets, respectively.
+0	NA	NA	NA	METHODS	To account for inflation in test statistics due to cryptic relatedness and stratification, we applied the method of LD score regression to estimate the inflation in the test statistics and adjusted all P-values accordingly.
+0	NA	NA	NA	METHODS	The estimated correction factor for BPH/LUTS based on LD score regression was 1.14 for the Icelandic and 1.03 for the UK datasets.
+0	Breast and prostate cancer	NA	NA	METHODS	For the prostate cancer GWAS, the correction factor was 1.23 and 1.03, respectively, for the Icelandic and the UK datasets
+0	NA	NA	NA	METHODS	Variants in the UK imputation dataset were mapped to NCBI Build38 positions and matched to the variants in the Icelandic dataset based on allele variation.
+0	NA	NA	NA	METHODS	The results from the two cohorts were combined using a fixed-effect model in which the cohorts were allowed to have different population frequencies for alleles and genotypes but were assumed to have a common OR and weighted with the inverse of the variance.
+0	NA	NA	NA	METHODS	Heterogeneity (Phet) was tested by comparing the null hypothesis of the effect being the same in all populations to the alternative hypothesis of each population having a different effect using a likelihood ratio test.
+0	NA	NA	NA	METHODS	I2 lies between 0 and 100% and describes the proportion of total variation in study estimates that is due to heterogeneity
+0	NA	NA	NA	METHODS	The genome-wide significance threshold for the meta-analysis of GWASs of BPH/LUTS in the current study was corrected for all 42,907,111 being tested using a class-specific Bonferroni procedure based on functional weights of classes of variants (i.e.
+0	NA	NA	NA	METHODS	P-value < ((0.05 x weight)/42,907,111).
+0	NA	NA	NA	METHODS	This yielded significance thresholds of: (i) 1.9 x 10-7 for 11,465 high-impact variants (comprised of: stop-gained, frameshift, splice acceptor or donor); (ii) 3.9 x 10-8 for 197,583 moderate-impact variants (comprised of: missense, splice-region variants and in-frame INDELs); (iii) 3.6 x 10-9 for 2,971,445 low-impact variants (comprised of: synonymous variants 3'- and 5'-UTR variants); (iv) 1.8 x 10-9 for 5,015,711 intergenic and deep intronic variants overlapping DNase hypersensitivity sites; and (v) 5.9 x 10-10 for 34,710,908 other variants (intergenic and deep intronic)
+0	NA	NA	NA	METHODS	We applied approximate conditional analyses (COJO), implemented in the GCTA software to the meta-analysis summary statistics to look for additional association signals at each of the genome-wide significant loci.
+0	NA	NA	NA	METHODS	LD between variants was estimated using a set of 8700 whole-genome-sequenced Icelandic individuals.
+0	NA	NA	NA	METHODS	The analysis was restricted to variants within 1 Mb from the index variants and that were present in both the Icelandic and UKB datasets.
+0	NA	NA	NA	METHODS	We tested 14 loci and about 50,000 variants in the conditional analysis and report variants with conditional P-value < 1.0 x 10-6, obtained using a logistic regression model.
+0	NA	NA	NA	METHODS	The results from GCTA-COJO were verified by conditional analysis using individual genotype data in the Icelandic and UK datasets separately and results presented in Table 1 are obtained by meta-analyzing those results
+0	Breast and prostate cancer	PSA	NA	METHODS	To study PSA levels among unaffected men in Iceland, we excluded subjects who had been diagnosed with prostate cancer as recorded by the ICR (between 1955 and 2016) or were known to have undergone TURP between 1983 and 2017.
+0	NA	PSA	NA	METHODS	PSA levels were quantile-standardized to a standard normal distribution and corrected for age at measurement, county of birth, and time to death using a generalized additive model with a smooth component on the age and time to death.
+0	NA	PSA	NA	METHODS	Most subjects had more than two PSA measurements.
+0	NA	PSA	NA	METHODS	Hence, we used the mean of the adjusted and standardized PSA values for each individual
+0	NA	NA	NA	METHODS	Quantitative traits were tested for association under the additive model using a linear mixed model implemented in BOLT-LMM.
+0	NA	NA	NA	METHODS	To account for inflation in test statistics due to cryptic relatedness and stratification, we applied the method of LD score regression.
+0	NA	PSA	NA	METHODS	For each single-nucleotide polymorphism a classical linear regression using the genotype as an additive covariate and the average PSA value as a response was fitted to test for association
+0	NA	NA	NA	METHODS	We estimated the genetic correlation between pairs of traits using the cross-trait LD score regression method and the summary statistics from the Icelandic and UK datasets.
+0	NA	NA	NA	METHODS	In this analysis we used results for about 1.2 million variants, well imputed in both datasets, and for LD information we used pre-computed LD scores for European populations (downloaded from https://data.broadinstitute.org/alkesgroup/LDSCORE/eur_w_ld_chr.tar.bz2).
+0	NA	NA	NA	METHODS	To avoid bias due to overlapping samples, we calculated the genetic correlation between Icelandic GWAS summary statistic for one trait and the UK GWAS summary statistic for the other traits, and the vice versa, and then meta-analyzed those results
+0	NA	NA	NA	METHODS	We used PRS analyses of the GWAS results for one trait to investigate its predictive power for another trait.
+0	NA	NA	NA	METHODS	The PRSs were calculated using genotypes for about 630,000 well-imputed autosomal markers.
+0	NA	NA	NA	METHODS	For PRSs generated for Icelandic individuals, we only used chip-typed individuals and we used effect estimated based on GWAS analysis in the UK dataset.
+0	NA	NA	NA	METHODS	We estimated LD between markers using 14,938 phased Icelandic samples and used this LD information to calculate adjusted effect estimates using LDpred.
+0	NA	NA	NA	METHODS	We created several PRSs assuming different fractions of causal markers (the P parameter in LDpred), and selected the PRSs that best predicted the trait itself.
+0	NA	NA	NA	METHODS	These PRSs were then used when we calculate the correlation of the PRS with other traits.
+0	Breast and prostate cancer	PSA	NA	METHODS	The number of individuals belonging to each phenotype group is as follows: serum levels of PSA consisted of 18,929 Icelandic males; prostate cancer consisted of 3464 patients and 43,029 controls; and BPH/LUTS consisted of 5968 patients and 43,594 controls.
+0	NA	NA	NA	METHODS	The correlation between the PRS and traits was calculated using logistic regression in R (v3.5) (http://www.R-project.org) adjusting for year of birth and principle components by including them as covariates in the analysis
+0	NA	NA	NA	METHODS	For each lead variant, correlated variants (r2 > 0.8) were identified using a set of 8700 whole-genome-sequenced Icelandic individuals.
+0	NA	MACS	NA	METHODS	These variants were then annotated by intersection with chromatin immunoprecipitation (ChIP) signal data derived from the ENCODE project (www.encodeproject.org); downloaded in pre-processed (MACS v2 algorithm) bigWig format representing analysis of acetylation of lysine K27 of histone H3 (H3K27ac) in 118 different cell types or primary tissues of which 8 were prostate-derived (epithelial cell of prostate, prostate, RWPE1, RWPE2, PC-3, 22Rv1, C4-2B, and VCAP) (see Supplementary Data 1 and 2).
+0	NA	MACS	NA	METHODS	The signal P-values (derived from MACS v2) were adjusted by the Benjamini-Hochberg procedure to account for multiple hypotheses and the significance threshold set at the 1% false discovery rate.
+0	NA	NA	NA	METHODS	The H3K27ac ChIP-seq data for primary prostate epithelial cells, used in Fig.
+0	NA	NA	NA	METHODS	2 and Supplementary Data 2, were derived from accession number ENCFF704IWD.
+0	allergy	NA	NA	METHODS	DNase hypersensitivity data for the same sample (primary prostate epithelial cells), used in Supplementary Data 2, were derived from accession number ENCFF5450IN.
+0	Breast and prostate cancer	NA	NA	METHODS	Super-enhancers defined in LNCaP prostate cancer cell line were derived from Hnisz et al.
+0	NA	NA	NA	METHODS	and the Hi-C data for LNCaP used for defining topologically associated domains are derived from Encode (ENCSR346DCU), downloaded in pre-processed format through the 3D Genome Browser (http://promoter.bx.psu.edu/hi-c/index.html)
+0	NA	NA	NA	METHODS	A link between the lead variant (and all variants in the corresponding LD class; r2 > 0.8) and neighboring gene(s) was established using GORpipe analysis tools and four bioinformatics data sources; Variant effect predictor, JEME, Fantom 5 promoters, and the GTEx project.
+0	NA	NA	NA	METHODS	Differently weighted scores to each data source were given for each LD variant linked to a gene.
+0	NA	NA	NA	METHODS	The weighted scores for each LD class were then summed for each lead variant.
+0	NA	NA	NA	METHODS	A confidence of the link was calculated as follows: (score highest gene - score second highest gene)/score highest gene (see Supplementary Data 1).
+0	NA	NA	NA	METHODS	Transcription factors with significantly impacted binding also reported by Encode were identified using the matchPWM function from Biostrings package in R to enable computational predictions for the impact of single-nucleotide variants on DNA-binding protein occupancy
+0	NA	NA	NA	AUTH_CONT	The study was designed and results were interpreted by J.G., G.T., D.F.G., U.T., T.R., and K.S.
+0	NA	NA	NA	AUTH_CONT	Statistical analysis was carried out by G.T., J.K.S., L.S., D.F.G., G.H.H., G.M., M.L.F., P.S., and J.G.
+0	NA	NA	NA	AUTH_CONT	Subject recruitment, biological material collection, and handling were organized and carried out by J.G., B.A.A., H.J.I., S.N.S., V.T., H.H., G.I.E., O.S., I.O., T.J., E.J., R.B.B., R.H., F.W.A., G.G., U.T., and T.R.
+0	NA	NA	NA	AUTH_CONT	Bioinformatics analysis was done by O.A.S., S.A.G., and J.G.
+0	NA	NA	NA	AUTH_CONT	Authors J.G., G.T., and K.S.
+0	NA	NA	NA	AUTH_CONT	drafted the manuscript.
+0	NA	NA	NA	AUTH_CONT	All authors contributed to the final version of the paper
+0	NA	NA	NA	SUPPL	The Icelandic population WGS data have been deposited at the European Variant Archive under accession code PRJEB8636.
+0	NA	NA	NA	SUPPL	The authors declare that the data supporting the findings of this study are available within the article, its Supplementary Data files, and upon request.
+0	NA	NA	NA	SUPPL	The UK Biobank data can be obtained upon application (ukbiobank.ac.uk)
+0	NA	NA	NA	COMP_INT	The authors that are affiliated with deCODE are employees of deCODE genetics/Amgen are employees of deCODE genetics/AMGEN.
+0	NA	NA	NA	COMP_INT	The remaining authors declare no competing interests

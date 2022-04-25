@@ -1,0 +1,187 @@
+0	schizophrenia	NA	NA	ABSTRACT	The epidemiologic link between schizophrenia (SCZ) and type 2 diabetes (T2D) remains poorly understood.
+0	NA	NA	NA	ABSTRACT	Here, we investigate the presence and extent of a shared genetic background between SCZ and T2D using genome-wide approaches.
+0	NA	NA	NA	ABSTRACT	We performed a genome-wide association study (GWAS) and polygenic risk score analysis in a Greek sample collection (GOMAP) comprising three patient groups: SCZ only (n = 924), T2D only (n = 822), comorbid SCZ and T2D (n = 505); samples from two separate Greek cohorts were used as population-based controls (n = 1,125).
+0	NA	NA	NA	ABSTRACT	We used genome-wide summary statistics from two large-scale GWAS of SCZ and T2D from the PGC and DIAGRAM consortia, respectively, to perform genetic overlap analyses, including a regional colocalisation test.
+0	NA	NA	NA	ABSTRACT	We show for the first time that patients with comorbid SCZ and T2D have a higher genetic predisposition to both disorders compared to controls.
+0	NA	NA	NA	ABSTRACT	We identify five genomic regions with evidence of colocalising SCZ and T2D signals, three of which contain known loci for both diseases.
+0	NA	NA	NA	ABSTRACT	We also observe a significant excess of shared association signals between SCZ and T2D at nine out of ten investigated p value thresholds.
+0	NA	NA	NA	ABSTRACT	Finally, we identify 29 genes associated with both T2D and SCZ, several of which have been implicated in biological processes relevant to these disorders.
+0	NA	NA	NA	ABSTRACT	Together our results demonstrate that the observed comorbidity between SCZ and T2D is at least in part due to shared genetic mechanisms
+0	schizophrenia	NA	NA	INTRO	Schizophrenia (SCZ) patients are 1.5-2 times more likely to develop type 2 diabetes (T2D) compared to the general population.
+0	NA	NA	NA	INTRO	Several explanations for this epidemiologic link have been proposed, including environmental factors, the use of antipsychotic medication, and/or shared genetic aetiology.
+0	mental retardation	NA	NA	INTRO	For example, patients with severe mental illness often lead a more sedentary life and are more likely to smoke compared to the general population:both risk factors for T2D.
+0	weight gain	NA	NA	INTRO	Antipsychotic drugs, particularly second generation antipsychotics, are known to cause metabolic side effects and often lead to significant weight gain.
+0	NA	NA	NA	INTRO	Several studies have found an association between psychotropic medication and T2D risk, but it is still unclear to what extent interactions between different medications, life-style and inter-patient variability affect this association.
+0	NA	NA	NA	INTRO	It is conceivable that the metabolic effects of antipsychotics are partly mediated by genetic predisposition.
+0	NA	NA	NA	INTRO	So far, studies on the genetics of antipsychotic response have been small (n < 400) and unable to identify replicating associations
+0	NA	insulin	NA	INTRO	In addition, there is evidence that the increased prevalence of T2D in patients with SCZ is not purely medication induced: Proteomic studies have revealed perturbed expression of genes involved in glucose metabolism in brain tissue and elevated insulin levels in peripheral blood of first-episode SCZ patients compared to controls.
+0	NA	NA	NA	INTRO	More recently, a large study following over 2.5 million Danish individuals found that antipsychotic-naive SCZ patients were three times more likely to develop T2D than the general population, with antipsychotic drug use further increasing that risk.
+0	glucose metabolism alterations	NA	NA	INTRO	This, along with findings from a systematic review and meta-analysis, suggests that impaired glucose homeostasis may already be present in drug-naive SCZ patients
+0	NA	NA	NA	INTRO	It is also plausible that the observed overlap between SCZ and T2D is due to common susceptibility variants.
+0	NA	NA	NA	INTRO	Both diseases are highly polygenic, and genome-wide association studies (GWAS) to date have successfully identified a substantial number of risk loci for T2D and SCZ.
+0	pancreatic	NA	NA	INTRO	Functional analyses showed that risk variants for SCZ are enriched for enhancers mapping to pancreatic beta cells, and that variants associated with BMI - a key risk factor for T2D - predominately map to central nervous system pathways.
+0	NA	NA	NA	INTRO	Genetic research into the shared pathobiology of SCZ and T2D has been limited to date, and has mainly focused on patients with one of the two disorders.
+0	NA	NA	NA	INTRO	If SCZ without T2D comorbidity and SCZ with T2D are partly underpinned by different genetic aetiologies, such study designs will fail to identify risk factors predisposing to the latter
+0	NA	NA	NA	INTRO	Here, we investigate the presence of shared genetic risk factors for T2D and SCZ using genotype data from a novel cohort comprising three patient groups (T2D only, SCZ only, and comorbid SCZ and T2D), as well as summary data from large-scale disease-specific GWAS.
+0	NA	NA	NA	INTRO	First, we conduct genome-wide comparisons between all three patient groups, as well as population controls; next, we assess the genetic overlap between the two disorders using polygenic risk scores; finally, we use summary statistics from published GWAS to search for genetic risk factors shared between SCZ and T2D
+0	NA	NA	NA	TABLE	Sample numbers in the three phenotype groups in GOMAP before and after Q
+0	aggressive disease	NA	NA	METHODS	The GOMAP (Genetic Overlap between Metabolic and Psychiatric disorders) study comprises a collection of 2,747 DNA samples from four different patient categories: T2D patients, SCZ patients, individuals with both SCZ and T2D (referred to from here on as SCZplusT2D), and individuals with a different psychiatric diagnosis (this last group is not used in further analyses reported here) (Table 1).
+0	NA	NA	NA	METHODS	SCZ patients with and without T2D were recruited at the Dromokaitio Psychiatric Hospital and Dafni Psychiatric Hospital in Athens.
+0	aggressive disease	NA	NA	METHODS	SCZ diagnosis was determined by structured clinical interview of the Diagnostic and Statistical Manual of Mental Disorders 4th edition (DSM-IV).
+0	diabetes	NA	NA	METHODS	T2D participants were recruited from diabetes outpatient clinics at Hippokrateio General Hospital and Laiko General Hospital.
+0	diabetes	NA	NA	METHODS	T2D status was assessed in all participants based on criteria outlined by the American Diabetes Association.
+0	NA	NA	NA	METHODS	All participants gave written informed consent
+0	NA	NA	NA	METHODS	A total of 2,474 samples and 538,448 markers were successfully genotyped on the Illumina HumanCoreExome 12v1.0 BeadChip (Illumina, San Diego, CA, USA) at the Wellcome Trust Sanger Institute, Hinxton, UK.
+0	NA	NA	NA	METHODS	Quality control (QC) of genotype data was performed following a standard protocol using the PLINK software package.
+0	NA	NA	NA	METHODS	Individuals were removed if they had a call rate below 90%, discordant values for genotyped and reported sex or had heterozygosity rates deviating more than three standard deviations from the mean.
+0	NA	NA	NA	METHODS	For duplicates and related sample pairs (pi_hat > 0.2), we excluded one and retained the other
+0	MDS	NA	NA	METHODS	In order to identify potential ethnic outliers, we performed multidimensional scaling (MDS) on a merged dataset comprising GOMAP and three other Greek sample collections: TEENAGE, a collection of adolescents from the general Greek population, HELIC-POMAK and HELIC-MANOLIS, two Greek isolated population cohorts.
+0	MDS	NA	NA	METHODS	We removed seven individuals from GOMAP as outliers based on the first and second MDS components (Supplementary Figure 1)
+0	NA	NA	NA	METHODS	A total of 2,582 samples passed QC (Supplementary Table 1; samples size of each diagnostic category: SCZ, n = 924; T2D, n = 822; T2D/SCZ, n = 505; other diagnosis, n = 331)
+0	NA	NA	NA	METHODS	After removal of individuals failing QC, variants were filtered for call rates lower than 98%, a Hardy-Weinberg Equilibrium deviation p value < 1 x 10-4 and cluster separation scores below 0.4.
+0	NA	NA	NA	METHODS	In addition, we removed X-chromosomal markers not within the pseudo-autosomal region with heterozygous haploid genotypes in males.
+0	NA	NA	NA	METHODS	A total of 524,271 autosomal and X-chromosomal markers passed QC (Supplementary Table 2)
+0	NA	NA	NA	METHODS	Since GOMAP is a cases-only sample collection, we selected two independent Greek cohorts, TEENAGE (n = 413) and ARGO (n = 712), as control data sets.
+0	osteoarthritis	NA	NA	METHODS	ARGO comprises osteoarthritis cases and healthy controls from Larisa, Greece.
+0	MDS	NA	NA	METHODS	Samples from all three cohorts formed a cluster in MDS analysis (Supplementary Figure 2)
+0	NA	NA	NA	METHODS	Following QC we merged GOMAP with 413 samples from TEENAGE and 712 from ARGO, an in-house Greek sample collection.
+0	NA	NA	NA	METHODS	We performed pre-phasing of the merged dataset in SHAPEIT and imputed the phased haplotypes with IMPUTE2 using a combined reference panel consisting of UK10K, 1000 Genomes and HELIC-MANOLIS.
+0	NA	NA	NA	METHODS	We filtered imputed genotypes for Hardy-Weinberg equilibrium deviation (p value < 1 x 10-4), IMPUTE2 info scores < 0.4, and a minor allele frequency (MAF) > 1%.
+0	NA	NA	NA	METHODS	A total of 14,528,340 markers passed imputation QC
+0	MDS	NA	NA	METHODS	We carried out a GWAS for each case-case and case-control combination in GOMAP using the 'method --expected' option, which performs an additive association test, adjusting for the first ten MDS components using SNPTEST version 2.5
+0	NA	NA	NA	METHODS	We constructed polygenic risk scores for T2D and SCZ in GOMAP based on effect size estimates from the DIAGRAM and PGC consortium, respectively.
+0	NA	NA	NA	METHODS	The risk score analyses are divided into two stages: first, we constructed using only established risk variants for each diseases; next, we relaxed our inclusion criteria incrementally by using all variants falling below a given p value threshold
+0	aggressive disease	NA	NA	METHODS	For SCZ, we obtained odds ratios (ORs) of 125 autosomal risk variants from the psychiatric genomics consortium (PGC) (Supplementary Table 3).
+0	NA	NA	NA	METHODS	We excluded three X-chromosomal markers of the original 128 independent variants identified by Ripke et al.
+0	NA	NA	NA	METHODS	as calculating scores for non-autosomal alleles is not straightforward
+0	NA	NA	NA	METHODS	We used 73 variants identified in a trans-ethnic meta-analysis for the T2D risk score.
+0	NA	NA	NA	METHODS	In order to match the ancestry of the base data as closely to GOMAP as possible, we looked up summary statistics of all independent variants (76 in total) identified in the trans-ethnic study in the DIAGRAMv3 stage 1 meta-analysis(Supplementary Tables 4) based on samples of European descent.
+0	NA	NA	NA	METHODS	Three of the 76 variants were not present in the DIAGRAMv3 data and therefore excluded
+0	NA	NA	NA	METHODS	We used PRSice version 1.25 to calculate the risk scores in GOMAP and test for an association between scores and phenotype.
+0	NA	NA	NA	METHODS	Briefly, for each variant the number of risk alleles in the target data (GOMAP) is multiplied by the log(OR) from the base data (DIAGRAM or PGC).
+0	NA	NA	NA	METHODS	The total score for an individual is the average score across all SNPs in the set.
+0	NA	NA	NA	METHODS	Following the approach described by Purcell et al., two logistic regression models are used to obtain the variance in phenotype explained (Nagelkerke's pseudo R2)
+0	NA	NA	NA	METHODS	Phenotype ~ Score + C1 + C2 + C3 + C4 + C5 + C6 + C7 + C8 + C9 + C1
+0	NA	NA	NA	METHODS	Phenotype ~ C1 + C2 + C3 + C4 + C5 + C6 + C7 + C8 + C9 + C1
+0	MDS	NA	NA	METHODS	In the full model, phenotypes are regressed on risk scores adjusting for the first ten multi-dimensional scaling (MDS) components; in the null model, phenotypes are regressed on MDS components only.
+0	NA	NA	NA	METHODS	Most, but not all studies contributing to the DIAGRAMv3 meta-analysis adjusted for sex; conversely, sex was not adjusted for in the individual GWAS included in the PGC-SCZ meta-analysis.
+0	NA	NA	NA	METHODS	We therefore decided not to add sex as a covariate in our risk score model.
+0	NA	NA	NA	METHODS	The final pseudo R2 estimate is obtained by:A p value for association of score with phenotype was obtained from the full model.
+0	NA	NA	NA	METHODS	Risk score analysis was carried out in each pairwise comparison between the three disease groups and controls in GOMAP
+0	NA	NA	NA	METHODS	To assess whether the sample size difference between the single-disease and comorbid group in GOMAP affects the strength of the risk scores, we randomly down-sampled the SCZ-only and T2D-only group to 500 individuals each and performed risk score analyses with this reduced set.
+0	NA	NA	NA	METHODS	We repeated this process 5,000 times and computed average pseudo R2 and p values
+0	NA	NA	NA	METHODS	In addition to calculating risk scores based on established genome-wide significant risk variants, we performed polygenic scoring as implemented in PRSice, a pipeline automating data preparation in PLINK and risk score regression in R. First, P value informed linkage disequilibrium (LD) clumping was performed on the intersection of variants between the base summary statistics (DIAGRAM and PGC) and target data (GOMAP), using an r2 threshold of 0.1 and a window size of 250 kb.
+0	NA	NA	NA	METHODS	Next, alleles are matched between the base and target data and ambiguous variants are removed to produce a final list of clumped variants used for the risk scores.
+0	NA	NA	NA	METHODS	Score calculations and regression analyses are conducted following the same procedure as outlined for the established risk variants.
+0	NA	NA	NA	METHODS	We performed risk score analyses at ten cumulative p value thresholds: p < 5 x 10-8, p < 0.001, p < 0.005, p < 0.05, p < 0.1, p < 0.2, p < 0.3, p < 0.4, p < 0.5, p < 1; all variants below a given threshold in the base data were included in the score
+0	NA	NA	NA	METHODS	We obtained genome-wide summary data for T2D from the DIAGRAMv3 meta-analysis, and for SCZ from the Psychiatric Genomics Consortium (PGC) meta-analysis.
+0	NA	NA	NA	METHODS	To assess the genetic overlap between the two data sets, we performed three complementary analyses, which have been described previously and are briefly outlined below
+0	NA	NA	NA	METHODS	LD score regression relies on the assumption that variants in strong LD with a causal variant will have a higher association statistic than variants in low LD.
+0	NA	NA	NA	METHODS	When comparing the effect estimates of two GWAS, LD score regression can be used to compute the overall (i.e.
+0	NA	NA	NA	METHODS	genome-wide) correlation between them
+0	NA	NA	NA	METHODS	We performed LD-score regression on the DIAGRAMv3 and PGC summary statistics, using LD scores computed on the 1000 Genomes European sample
+0	NA	NA	NA	METHODS	We performed a Bayesian colocalisation analysis to test for the presence of association signals in distinct blocks across the genome.
+0	NA	NA	NA	METHODS	At each region the model uses Z-scores and standard errors from two association studies to generate posterior probabilities for each of five hypotheses
+0	NA	NA	NA	METHODS	Splitting the genome into uniform segments without accounting for LD structure can result in the double-counting of signals if segment boundaries happen to fall within an associated region.
+0	NA	NA	NA	METHODS	We downloaded LD-blocks pre-computed using the LDetect algorithm and the European sample of the 1000 Genomes Phase 1 data (https://bitbucket.org/nygcresearch/ldetect-data).
+0	NA	NA	NA	METHODS	The output of the test includes posterior probability estimates, as well as the highest absolute Z-score for each phenotype in a given region.
+0	NA	NA	NA	METHODS	We followed up regions with a high (>=0.9) posterior probability for either hypothesis 3 or 4 by taking the variants corresponding to the highest absolute Z-scores in DIAGRAMv3 and PGC-SCZ and querying their function and closest protein coding genes using the Ensembl REST API
+0	NA	NA	NA	METHODS	To assess the extent of association signals common between DIAGRAMv3 and PGC-SCZ, we took all variants present in both data sets and performed p value informed LD pruning (r2 > 0.1) to obtain an independent set.
+0	NA	NA	NA	METHODS	We constructed 2 x 2 contingency tables of overlapping variants at ten cumulative p value thresholds (Pt) by counting how many variants fell above and below each Pt in DIAGRAMv3 and PGC-SCZ.
+0	NA	NA	NA	METHODS	We then tested for an excess of shared signals at each Pt by applying a chi2 test, which gives an overlap p value.
+0	NA	NA	NA	METHODS	Empirical overlap p values were obtained by randomly permuting the GWAS p values in each data set 1,000,000 times and repeating the test on each permuted set
+0	NA	NA	NA	METHODS	We used MAGMA to perform gene and pathway analyses on the DIAGRAMv3 and PGC summary statistics separately.
+0	NA	NA	NA	METHODS	We annotated variants in each dataset to genes according to dbSNP version 135 coordinates and NCBI 37.3 gene definitions.
+0	NA	NA	NA	METHODS	We allowed for a 20 kilobase (kb) window around the transcription start and stop sites to also include proximal regulatory elements.
+0	NA	NA	NA	METHODS	We combined the results of the gene-level analysis into biological pathways using gene-set definitions from two comprehensive databases: the Molecular Signatures Database canonical pathways collection, comprising 1,329 manually curated gene-sets, and the Gene Ontology pathway database, comprising 6,166 automatically annotated gene-sets.
+0	NA	NA	NA	METHODS	Significance was defined as a false discovery rate (FDR) corrected p value (q value) < 0.05
+0	NA	NA	NA	RESULTS	We performed six case-case and case-control genome-wide association studies in GOMAP and population controls (Supplementary Figures 6-9).
+0	NA	NA	NA	RESULTS	There was no indication of inflation of test statistics, with lambda values ranging from 0.99 to 1.04 (Supplementary Figures 8-9)
+0	NA	NA	NA	TABLE	Top variant of genome-wide significant signals in the GOMAP GWAS analyse
+0	NA	NA	NA	RESULTS	We identified two genome-wide significant signals in the SCZplusT2D vs controls analysis (Table 2; Supplementary Figure 6c).
+1	NA	PACRG	163319442_G/A	RESULTS	The most strongly associated variant resides within an intron of the PACRG gene (chr6:163319442_G/A, effect allele (EA) G, effect allele frequency (EAF) 0.91, OR 3.81 [95% CI: 3.32-4.29], p value = 5.46 x 10-9).
+1	NA	NA	rs1449245	RESULTS	The second signal is located in an intron of RP11-587H10.2 on chromosome 8 (rs1449245, EA A, EAF 0.79, OR 1.96 [95% CI 1.77-2.20], p value = 2.58 x 10-8)
+1	error bars	TCF7L2	rs7903146	RESULTS	Three further signals reached genome-wide significance in other analyses (Table 2): an intronic single nucleotide polymorphism (SNP) in TCF7L2 (rs7903146, EA T, EAF 0.38), a well-established T2D risk gene, in the T2D vs controls (OR 1.66 [95% CI 1.50-1.80], p value = 3.31 x 10-11) and T2D vs. SCZ analyses (OR 1.53 [95% CI: 1.39-1.67], p value = 1.09 x 10-9); an intronic SNP in BMPR1B (rs17616243, EA T EAF 0.16, OR: 2.03 [95% CI: 1.79-2.27], p value = 3.26 x 10-9) in the SCZ vs. controls GWAS; and an intronic SNP in PCSK6 in the T2D vs controls GWAS (rs6598475, EA T, EAF 0.36, OR: 1.56 [95% CI: 1.40-1.72], p value = 1.95 x 10-8).
+0	NA	NA	NA	RESULTS	(Table 3
+0	NA	NA	NA	FIG	For each analysis Nagelkerke's pseudo R2 values are plotted and p values for association between score and phenotype are denoted above each ba
+0	NA	NA	NA	RESULTS	We performed genetic risk score analyses of SCZ and T2D for each pairwise case-case and case-control combination in GOMAP (Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	NA	NA	RESULTS	In the case-control analyses, risk scores for SCZ and T2D were significantly associated with these respective disorders (SCZ R2 = 1.7%, p value = 5.25 x 10-9; T2D R2 = 6.8%, p value = 6.12 x 10-27), serving as a positive control for the validity of the included variants and patient groups.
+0	NA	NA	NA	RESULTS	Conversely, risk scores for one disorder were not associated with the other in the case-control comparisons.
+0	NA	NA	NA	RESULTS	In the comorbid sample both SCZ and T2D risk scores were significantly associated with phenotype (SCZ risk score p value = 7.17 x 10-5; T2D risk score p value = 4.14 x 10-4), with R2 values lower than those in the single-disease groups (SCZ risk score R2 = 1%; T2D R2 = 0.8%)
+0	NA	NA	NA	FIG	Risk scores were constructed based on the effect sizes of 73 and 125 variants from DIAGRAMv3 and PGC-SCZ, respectively
+0	NA	NA	NA	RESULTS	In the comparison between T2D and SCZ cases, risk scores for T2D explained 9.3% of variance (p value = 8.04 x 10-28) and risk scores for SCZ explained 3.4% of variance (p value = 8.06 x 10-12).
+0	NA	NA	NA	RESULTS	These R2 values may be higher than in the case-control analyses due to the fact that controls are population based and not ascertained for either SCZ or T2D status; it is therefore plausible that a subset of controls carries risk alleles for these disorders.
+0	NA	NA	NA	RESULTS	In the comparison of individuals with SCZ to those with SCZ and T2D, SCZ risk scores and their R2 values were not significantly associated with disease.
+0	NA	NA	NA	RESULTS	This is expected, as both sample groups are likely to be enriched for SCZ risk alleles.
+0	NA	NA	NA	RESULTS	Interestingly, the R2 estimate of the T2D variant risk scores in the T2D vs. SCZplusT2D analysis was intermediate in magnitude to that measured in the SCZ vs. SCZplusT2D and the SCZ vs T2D analyses.
+0	NA	NA	NA	RESULTS	This can be recapitulated by examining the average T2D scores across the different sample groups (Fig.
+0	NA	NA	NA	RESULTS	2): the average score of the SCZplusT2D sample is higher than for the SCZ-only sample but lower than for the T2D-only sample, indicating that the comorbid group is enriched for T2D risk alleles compared to the SCZ-only group
+0	NA	NA	NA	RESULTS	To determine whether the observed strength of association of the risk scores was influenced by the difference in sample size among the single-disease and comorbid groups, we repeated the risk score analyses with equally-sized (n = 500), randomly down-sampled T2D- and SCZ-only cases.
+0	NA	NA	NA	RESULTS	Risk scores significantly associated with phenotype using the full data set remained significant even with the decreased sample size (p < 0.05) (Supplementary Figure 3)
+0	NA	NA	NA	RESULTS	It has been shown that the inclusion of variants not reaching genome-wide significance can enhance the power of genetic risk scores.
+0	NA	NA	NA	RESULTS	We constructed polygenic scores at ten cumulative p value thresholds using the same base data sets (DIAGRAMv3 and PGC-SCZ) as for the established variant scores.
+0	NA	NA	NA	RESULTS	For the SCZ scores, the most stringent threshold (p < 5 x 10-8) resulted in lower levels of association and pseudo-R2 estimates than the established variant score, due to the fact that some of the variants included in the latter had p > 5 x 10-8 in the PGC-SCZ discovery data, which was used here, and were therefore excluded.
+0	NA	NA	NA	RESULTS	At more permissive p value thresholds the strength of association increased by several orders of magnitude compared to the established variant scores for all but the SCZ vs SCZplusT2D and T2D vs Controls analyses (Supplementary Figure 4).
+0	NA	NA	NA	RESULTS	While pseudo-R2 also increased at the first increments variant inclusion, they plateaued or even decreased slightly for thresholds with p > 0.005.
+0	NA	NA	NA	RESULTS	While more relaxed thresholds will include more variants with true effects, they will inevitably also add more null variants contributing to noise
+0	NA	NA	NA	RESULTS	Unlike the SCZ score, T2D scores demonstrated decreasing levels of association as more variants were included in the risk score (Supplementary Figure 5).
+0	NA	NA	NA	RESULTS	This can be explained by the fact that only 21 of the 73 variants used for the established loci score were retained after LD clumping, again due to their strength of association in the DIAGRAMv3 discovery data.
+0	NA	NA	NA	RESULTS	In total, only 15 variants were included at the most stringent p value threshold, whereas over 1,000 were used at p < 0.001.
+0	NA	NA	NA	RESULTS	As a result, the 'signal-to-noise' ratio will have increased drastically, explaining the sharp drop in pseudo-R2 values
+0	NA	NA	NA	RESULTS	We investigated the genetic overlap between summary data from the DIAGRAMv3 meta-analysis for T2D and the PGC meta-analysis for SCZ using both genome-wide and regional approaches
+0	NA	NA	NA	RESULTS	There was no significant correlation between these data sets on a genome-wide scale (r2 = -0.01, SE = 0.04, p value = 0.82; Supplementary Methods), as previously reported elsewhere
+0	NA	NA	NA	RESULTS	We employed a Bayesian colocalisation analysis to search for genomic regions that potentially exert pleiotropic effects.
+0	NA	NA	NA	RESULTS	For each region, the method returns posterior probabilities for the five tested hypotheses, as well as the maximum absolute Z-scores found in each of the two input data sets; in some cases, there is more than one variant with the same Z-score (i.e.
+0	NA	NA	NA	RESULTS	effect estimate) in a region
+0	NA	NA	NA	RESULTS	There were no regions with a high posterior probability (>0.9) of containing one causal variant common to both diseases.
+0	NA	NA	NA	RESULTS	However, five regions had a high posterior probability of harbouring two distinct causal variants (Supplementary Table 3)
+0	NA	BCL11A	rs10189857	RESULTS	The first of these regions is located on chromosome 2 and includes nominally significant SCZ variant (top variant in PGC: rs10189857, p = 5.14 x 10-7) in an intron of BCL11A, and a T2D risk locus upstream of the same gene (top variant in DIAGRAMv3: rs243021, p = 3 x 10-15)
+0	NA	NA	NA	RESULTS	The second region falls within the major histocompatibility complex on chromosome 6, which is known to harbour several SCZ and T2D loci.
+0	NA	NA	rs9267658	RESULTS	There were three variants with the same effect size for T2D, one of which lies in an intron of SLC44A (rs9267658, OR 0.89, 95% CI 0.85-0.94, p = 2.2 x 10-5).
+0	NA	MSH5	rs3117574	RESULTS	The strongest SCZ signal occurred at rs3117574 (OR 0.85, 95% CI 0.82-0.89, p = 6.71 x 10-19), a variant in the 5' untranslated region of MSH5, a protein involved in meiotic recombination and DNA mismatch repair
+0	NA	KLF14	rs10954284	RESULTS	The third region resides on chromosome 7, harbouring both a known T2D locus downstream of KLF14 (top variant in DIAGRAMv3: rs10954284, p = 1.20 x 10-8) and a known SCZ variant at rs7801375 (PGC p = 2.26 x 10-8)
+0	NA	NA	NA	RESULTS	The fourth region, identified on chromosome 8, does not contain any known T2D or SCZ associated variants.
+0	NA	NA	rs11993663	RESULTS	The strongest signals in that region occur at rs11993663 for SCZ (PGC p = 1.46 x 10-7) and rs17150816 for T2D (DIAGRAMv3 p = 1.60 x 10-5)
+0	NA	VPS13C	rs12903146	RESULTS	Finally, a region identified on chromosome 15 encompasses a known SCZ locus in the VPS13C gene (top variant in PGC: rs12903146, p = 3.00 x 10-10), as well as the C2CD4A-C2CD4B locus, which has been associated with T2D in East Asian populations and also replicated in Europeans (top variant in DIAGRAMv3: rs8026735, p = 2.50 x 10-7)
+0	NA	NA	NA	RESULTS	We assessed the extent of shared association signals between DIAGRAMv3 and PGC-SCZ at ten different p-value thresholds (Pt) and found significant evidence for overlap (pperm < 0.05) at all but one Pt (Table 2).
+0	NA	NA	NA	RESULTS	Of the 19 variants overlapping at Pt = 0.001, five are located in known T2D loci, and four within known SCZ loci.
+0	NA	SBNO1	rs6488868	RESULTS	One of the variants identified at this Pt, rs6488868, is a synonymous SNP in SBNO1, and in partial LD with both a known T2D (rs1727313, r2 = 0.53) and a known SCZ (rs2851447, r2 = 0.45) risk variant.
+0	NA	MPHOSPH9	NA	RESULTS	The two risk variants lie in the 3'UTR and in an intron of MPHOSPH9, respectively, and are also in LD with each other (r2 = 0.79).
+0	NA	HLA-B	NA	RESULTS	Other variants fall within or around several genes previously linked to SCZ or T2D, such as CACNA1, HLA-B, PROX1 and BCL11A (Supplementary Table 4)
+0	NA	NA	NA	RESULTS	We tested for enrichment of association signals in genes and pathways in the DIAGRAM and PGC summary statistics.
+0	NA	NA	NA	RESULTS	We did not identify any pathways that were significantly associated (q value < 0.05) with both SCZ and T2D.
+0	NA	NA	NA	RESULTS	In the gene-level analysis, 29 genes had a q value < 0.05 in both data sets (Supplementary Table 5).
+0	NA	NA	NA	RESULTS	Ten of the genes have been previously associated with SCZ and/or T2D.
+0	NA	ZFAND6	NA	RESULTS	Of note, variants in or in close proximity to ZFAND6, PROX1, and HLA-B were also found to overlap at Pt = 0.001.
+0	NA	SLC44A4	NA	RESULTS	SLC44A4, which is strongly associated with SCZ (q value = 4.73 x 10-11), falls within the region on chromosome 6 identified in the colocalisation analysis
+0	NA	NA	NA	DISCUSS	We investigated the genetic overlap between SCZ and T2D, using summary statistics from large-scale meta-analyses and genome-wide genotype data from a dedicated collection of individuals with SCZ, T2D or both disorders.
+0	NA	NA	NA	DISCUSS	The work presented here benefits from clinically ascertained diagnoses and robust base data sets used to construct the risk scores.
+0	NA	NA	NA	DISCUSS	Due to the limited sample size and, consequently, low power to detect genetic associations in GOMAP, we did not expect to identify novel genome-wide significant loci, but rather to harness the comorbid patient group for risk score analyses.
+1	NA	PACRG	NA	DISCUSS	The two genome-wide significant signals identified in the SCZplusT2D vs controls GWAS map to introns of PACRG and RP11-587H10.2.
+1	leprosy	PACRG	NA	DISCUSS	PACRG has been associated with the risk of leprosy, while RP11-587H10.2, a long non-coding RNA, is of unknown function.
+0	NA	NA	NA	DISCUSS	Replication of these signals in independent data sets is required to establish or refute them as novel associations
+0	schizophrenia	NA	NA	DISCUSS	Our main finding arises from the risk score analyses, which demonstrated that the SCZplusT2D sample is enriched for both SCZ and T2D risk alleles compared to controls, in line with the increased prevalence of T2D among schizophrenia patients being at least partly due to genetic predisposition.
+0	NA	NA	NA	DISCUSS	Patients suffering from both diseases had SCZ risk scores comparable to the SCZ-only group but fell between the SCZ-only and T2D-only groups for T2D risk scores.
+0	NA	NA	NA	DISCUSS	This implies that patients with comorbid SCZ and T2D carry almost the same SCZ risk allele profile as SCZ patients without T2D but have fewer of risk-increasing variants for T2D than T2D patients without comorbid SCZ.
+0	NA	NA	NA	DISCUSS	Two conclusions might be drawn from this: first, at least part of the risk for T2D in SCZ patients is driven by genetic predisposition to T2D, rather than antipsychotic use alone; and second, the comorbid group appear to have a less strong T2D genetic risk profile compared to T2D-only patients.
+0	NA	NA	NA	DISCUSS	This is in line with environmental factors, including response to antipsychotic treatment and sedentary lifestyle, contributing to T2D risk.
+0	NA	NA	NA	DISCUSS	Such factors might exacerbate an otherwise moderate genetic predisposition to T2D
+0	NA	NA	NA	DISCUSS	To our knowledge, three other studies have to date compared risk scores for T2D and SCZ.
+0	NA	NA	NA	DISCUSS	Purcell et al.
+0	NA	NA	NA	DISCUSS	first performed SCZ risk scores analysis in a T2D sample but did not identify a significant correlation between scores and phenotype, potentially due to the relatively low sample sizes available at the time (~3300 cases for SCZ; ~1900 cases for T2D).
+0	NA	NA	NA	DISCUSS	More recently, a study investigating the genetic liability to SCZ in immune-related disorders found a weak association between SCZ risk scores and T2D.
+0	NA	NA	NA	DISCUSS	The investigators used an earlier release of the PGC-SCZ summary data with lower sample numbers than currently available.
+0	diabetes	NA	NA	DISCUSS	One study has previously reported an association between T2D risk scores based on DIAGRAM summary statistics and self-reported diabetes (any type) in individuals with psychosis, but did not detect an association when repeating the analysis for SCZ risk scores
+0	NA	MPHOSPH9	NA	DISCUSS	The SNP-based overlap analysis highlighted one region where a known T2D and a known SCZ signal map to the same locus in the MPHOSPH9 gene, which encodes a phosphoprotein highly expressed in the cerebellum.
+0	multiple sclerosis	NA	NA	DISCUSS	This gene has been previously associated with multiple sclerosis; however, its function is not well understood.
+0	NA	PROX1	NA	DISCUSS	We also identify PROX1 as a potentially pleiotropic locus based on the gene analysis and the SNP-based overlap test.
+0	NA	PROX1	NA	DISCUSS	PROX1 has been previously implicated in each of T2D and SCZ, and acts both as a transcriptional activator and repressor depending on the cellular context.
+0	NA	NA	NA	DISCUSS	It has been implicated in murine beta-cell development, as well as in neurogenesis in humans.
+0	NA	NA	NA	DISCUSS	One possible explanation for the cross-phenotype associations of these loci might be that they influence T2D and SCZ by acting in different biological pathways.
+0	NA	NA	NA	DISCUSS	However, follow-up in functional (e.g.
+0	NA	NA	NA	DISCUSS	expression or proteomic) data is needed in order to evaluate this hypothesis
+0	NA	NA	NA	DISCUSS	In this study, we have shown that genetic predisposition to SCZ and genetic predisposition to T2D are both associated with comorbidity.
+0	NA	NA	NA	DISCUSS	Future studies with larger sample sizes and detailed phenotype information (ideally including longitudinal medication data) will be necessary to precisely disentangle the shared genetic basis of SCZ and T2D
+0	NA	EBI	NA	SUPPL	Genetic data for the GOMAP study has been deposited at the European Genome-Phenome Archive (EGA) which is hosted at the EBI and the CRG, under accession number EGAS00001002723
+0	NA	NA	NA	COMP_INT	The authors declare that they have no conflict of interest

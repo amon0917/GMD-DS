@@ -1,0 +1,346 @@
+0	Alzheimer's disease	NA	NA	ABSTRACT	Genome-wide association studies (GWAS) have discovered numerous genomic loci associated with Alzheimer's disease (AD), yet the causal genes and variants remain incompletely identified.
+1	NA	CCDC6	NA	ABSTRACT	We performed an updated genome-wide AD meta-analysis, which identified 37 risk loci, including novel associations near CCDC6, TSPAN14, NCK2, and SPRED2.
+0	NA	NA	NA	ABSTRACT	Using three SNP-level fine-mapping methods, we identified 21 SNPs with greater than 50% probability each of being causally involved in AD risk, and others strongly suggested by functional annotation.
+0	NA	NA	NA	ABSTRACT	We followed this with colocalization analyses across 109 gene expression quantitative trait loci (eQTL) datasets, and prioritization of genes using protein interaction networks and tissue-specific expression.
+1	NA	BIN1	NA	ABSTRACT	Combining this information into a quantitative score, we find that evidence converges on likely causal genes, including the above four genes, and those at previously discovered AD loci, including BIN1, APH1B, PTK2B, PILRA, and CASS4
+0	NA	NA	NA	INTRO	Genome-wide association studies (GWAS) for family history of disease, known as GWAS-by-proxy (GWAX), are a powerful method for performing genetic discovery in large, unselected cohort biobanks, particularly for age-related diseases.
+0	Alzheimer's disease	NA	NA	INTRO	Recent meta-analyses have combined GWAS of diagnosed late-onset Alzheimer's disease (AD) with GWAX for family history of AD in the UK Biobank, and reported 12 novel disease-associated genomic loci.
+0	NA	NA	NA	INTRO	However, the causal genetic variants and genes which influence AD risk at these and previously discovered loci have only been clearly identified in a few cases.
+0	infectious disease	NA	NA	INTRO	Discovering causal variants has led to deeper insight into molecular mechanisms of multiple diseases, including obesity, schizophrenia, and inflammatory bowel disease.
+0	NA	apolipoprotein E	NA	INTRO	For AD, known causal variants include the epsilon4 haplotype in APOE, the strongest genetic risk factor for late-onset AD, and a common nonsynonymous variant that strongly alters splicing of CD33 exon 2.
+0	NA	TREM2	NA	INTRO	Likely causal rare nonsynonymous variants have also been discovered in TREM2 , PLCG2 and ABI3 .
+0	NA	NA	NA	INTRO	These findings have strengthened support for a causal role of microglial activation in AD
+0	NA	NA	NA	INTRO	Although non-synonymous variants are highly enriched in trait associations, most human trait-associated variants do not alter protein-coding sequence and are thought to mediate their effects via altered gene expression, which is likely to occur in a cell type-dependent manner.
+0	NA	NA	NA	INTRO	A growing number of studies have mapped genetic variants affecting gene expression, known as expression quantitative trait loci (eQTLs), in diverse tissues or sorted cell types.
+0	NA	NA	NA	INTRO	While it has become common to integrate GWAS results with eQTLs, this is often limited to a small number of datasets thought to be relevant
+0	NA	NA	NA	INTRO	To identify putative causal genetic variants for AD, we performed a meta-analysis of GWAX in the UK Biobank with the latest GWAS for diagnosed AD, followed by fine-mapping using three alternative methods.
+0	NA	NA	NA	INTRO	Notably, this updated GWAS tested more genetic variants than the Lambert et al.
+0	NA	NA	NA	INTRO	study used in meta-analyses by Jansen et al.
+0	NA	NA	NA	INTRO	and Marioni et al.
+0	NA	NA	NA	INTRO	(11.5 vs. 7.1 million).
+0	NA	NA	NA	INTRO	The increased power from our meta-analysis revealed four additional AD risk loci, and the higher density genotype imputation identified new candidate causal variants at both novel and established loci.
+0	NA	NA	NA	INTRO	We also performed statistical colocalization analyses with a broad collection of eQTL datasets, including a recent study on primary microglia, to identify candidate genes mediating risk at AD loci.
+0	NA	NA	NA	INTRO	We find that multiple lines of evidence, including colocalization, tissue- or cell type-specific expression, and information propagation in gene networks, converge on a set of likely causal AD genes
+0	dementia	NA	NA	RESULTS	We performed a GWAX in the UK Biobank for family history of AD, based on 53,042 unique individuals who were either diagnosed with AD or who reported a parent or sibling having dementia, and 355,900 controls.
+0	NA	NA	NA	RESULTS	This identified 13 risk loci (P < 5 x 10-8), 10 of which have been reported previously.
+1	NA	NCK2	NA	RESULTS	Three novel loci were located near NCK2, PRL, and FAM135B.
+0	NA	prolactin	NA	RESULTS	Notably, PRL has been reported as a CSF biomarker of AD.
+0	NA	NA	NA	RESULTS	We next did a fixed-effects meta-analysis of these GWAX results with the Kunkle et al.
+0	NA	NA	NA	RESULTS	stage 1 GWAS meta-analysis of 21,982 cases with diagnosed AD and 41,944 controls, across 10,687,126 overlapping variants (Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	NA	NA	RESULTS	This revealed 34 AD risk loci (P < 5 x 10-8), 22 of which were reported in Kunkle et al., while 8 others were reported in either Jansen et al.
+1	NA	NCK2	NA	RESULTS	or Marioni et al.. Four loci were novel, located near NCK2, TSPAN14, SPRED2, and CCDC6.
+0	NA	prolactin	NA	RESULTS	Notably, the PRL and FAM135B regions showed no evidence of association in Kunkle et al.
+0	NA	NA	NA	RESULTS	(P > 0.1), and hence were not significant in meta-analysis.
+0	NA	IKZF1	NA	RESULTS	We included 37 loci in our follow-up analyses, which included three loci found at suggestive significance (P < 5 x 10-7) near IKZF1, TSPOAP1, and TMEM163 (Fig.
+0	NA	NA	NA	RESULTS	1 and Supplementary Table 1).
+0	NA	NA	NA	RESULTS	LD score regression showed that most of the inflation in summary statistics was due to the polygenicity of AD rather than confounding by population structure (lambda_GC = 1.140, intercept = 1.0285 with SE = 0.0069; Supplementary Table 2).
+1	NA	ACE	NA	RESULTS	Of our 37 loci, 16 were nominally replicated (P < 0.05) in either the Gr@ace study (4,120 probable AD cases and 3,289 controls) or the FinnGen biobank (v3, 3,697 cases and 131,941 controls) (Supplementary Table 3).
+0	NA	TSPAN14	NA	RESULTS	Among our four novel loci, only TSPAN14 replicated with P < 0.05 (in FinnGen), although power was limited in these smaller datasets (estimated at 28-76%), and most of the alleles had concordant directions of effect.
+0	NA	NA	NA	RESULTS	In a meta-analysis with all four datasets, support for most loci was strengthened (Extended Data Fig.
+1	NA	TSPAN14	NA	RESULTS	1), including novel loci TSPAN14, CCDC6 and NCK2, but was weakened for SPRED2 (meta-analysis P = 1.3 x 10-7).
+0	NA	GRN	NA	RESULTS	Although not included in downstream analyses, four new loci became genome-wide significant, near GRN, IGHG1, SHARPIN, and SIGLEC11 (Supplementary Table 3)
+0	NA	NA	NA	RESULTS	Next, we applied stepwise conditioning using GCTA, with linkage disequilibrium (LD) determined from UK Biobank samples, to identify independent signals at the discovered loci.
+0	NA	apolipoprotein E	NA	RESULTS	Apart from APOE, 9 loci had two independent signals, while the TREM2 locus had three signals (Fig.
+0	NA	NA	NA	RESULTS	1c).
+1	NA	NCK2	NA	RESULTS	Interestingly, a number of the loci discovered recently had multiple signals: NCK2, EPHA1, ADAM10, ACE, and APP-ADAMTS1.
+0	Alzheimer's disease	NA	NA	RESULTS	To extract insight from both new and established AD GWAS discoveries, we performed comprehensive colocalization, annotation, fine-mapping and network analyses to identify causal genes and variants (Fig.
+0	NA	NA	NA	RESULTS	1a)
+0	NA	apolipoprotein E	NA	RESULTS	To identify genes whose expression may be altered by risk variants, we performed statistical colocalization between each of 36 risk loci (excluding APOE) and a set of 109 eQTL datasets representing a wide variety of tissues, cell types and conditions (Fig.
+0	NA	NA	NA	RESULTS	2 and Supplementary Table 4).
+0	NA	NA	NA	RESULTS	The eQTL datasets include a study of primary microglia from 93 brain surgery donors, a meta-analysis of 1,433 brain cortex samples, 49 tissues from GTEx, and 57 eQTL datasets uniformly reprocessed as part of the eQTL catalogue.
+0	NA	NA	NA	RESULTS	The latter include multiple studies in tissues of potential relevance to AD, such as brain, as well as sorted blood immune cell types under different stimulation conditions.
+0	NA	NA	NA	RESULTS	For each gene, the colocalization analysis reports the probability that the GWAS and eQTL share a causal variant, referred to as hypothesis 4 (H4)
+0	NA	NA	NA	RESULTS	Some studies using colocalization have suggested that there is relatively limited overlap between GWAS associations and eQTLs above that expected by chance.
+0	NA	NA	NA	RESULTS	A possible reason is that colocalization analyses can have low sensitivity to detect shared causal variants between traits, which could occur for a number of reasons.
+0	NA	NA	NA	RESULTS	First, when a locus has multiple causal variants, and not all causal effects are shared between the two studies, colocalization may not be detected.
+0	NA	NA	NA	RESULTS	Second, if the relevant tissue, cell type, or cellular context has not been assayed, then a colocalization may not be found.
+0	NA	NA	NA	RESULTS	Third, differences in LD patterns between studies can reduce the likelihood of a positive colocalization.
+0	NA	NA	NA	RESULTS	Lastly, low power in either study can further reduce the colocalization probability.
+0	NA	NA	NA	RESULTS	To mitigate the first effect, we performed colocalizations separately for each conditionally independent AD signal, to model the case where not all causal variants are shared, as well as for the combined AD signal at each locus.
+0	NA	NA	NA	RESULTS	Problems relating to power, LD mismatch, or missing the relevant cell type or context are partially mitigated by our use of a large number of highly-powered eQTL datasets, which include those with stimulated conditions
+0	NA	NA	NA	RESULTS	Across the 36 loci, we found 391 colocalizations with at least 80% probability of a shared causal variant between AD and eQTL, representing 80 distinct genes at 27 loci (Supplementary Tables 5 and 6).
+1	NA	PTK2B	NA	RESULTS	The genes implicated by colocalization include many that have previously been investigated for roles in AD, such as PTK2B , BIN1 , PILRA , CD33 , and TREM2 , as well as novel candidates including FCER1G, TSPAN14, APH1B, and ACE.
+0	NA	NA	NA	RESULTS	However, the presence of multiple genes with colocalization evidence within individual loci suggests that additional lines of evidence are important for prioritizing relevant genes
+0	NA	NA	NA	RESULTS	Confirming the causal genes underlying AD risk will ultimately require experiments to identify the molecular mechanisms by which gene function is altered.
+0	NA	NA	NA	RESULTS	Such experiments must be motivated by strong hypotheses regarding potentially causal variants and their possible effects.
+0	NA	NA	NA	RESULTS	To identify candidate causal variants, we used three distinct fine-mapping methods: single causal variant fine-mapping on each conditionally independent signal; FINEMAP, limiting the number of causal variants at each locus to the number of signals determined by GCTA; and PAINTOR, a method that leverages enrichments in functional genomic annotations to improve causal variant identification (see Methods)
+0	NA	NA	NA	RESULTS	As a reference panel for our analyses, we used LD computed from UK Biobank participants.
+0	NA	NA	NA	RESULTS	Previous work has shown that using reference panels that are either too small or poorly matched can result in spurious fine-mapping signals.
+0	NA	NA	NA	RESULTS	For this reason, we conducted a sensitivity analysis (described in the Supplementary Note) by using the same reference panel for conditional analysis and fine-mapping on the non-UK Biobank portion of our meta-analysis (Kunkle et al.).
+1	NA	ABCA7	NA	RESULTS	This gave comparable independent signals and SNP probabilities to the full meta-analysis, with the exception of a few loci, namely ABCA7, HLA, EPHA1, and ECHDC3 (Extended Data Fig.
+0	NA	NA	NA	RESULTS	2)
+0	NA	NA	NA	RESULTS	We used 44 annotations individually as input to PAINTOR (Supplementary Table 7); these included ATAC-seq peaks from primary microglia or iPSC-derived macrophages, DNase peaks from the Roadmap Epigenomics project, variant consequence annotations, and evolutionary conservation (Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	NA	NA	RESULTS	We also used scores from DeepSEA and SpliceAI, deep-learning methods that predict the effects of variants on transcription factor binding or splicing.
+0	NA	NA	NA	RESULTS	Missense mutations were the most enriched annotation, with 19.2-fold increased odds of being causal SNPs, but they comprised only 1% of input SNPs.
+0	allergy	NA	NA	RESULTS	Blood or immune DNase hypersensitivity peaks merged from 24 Roadmap Epigenomics tissues provided the highest model likelihood, as these peaks covered 16% of SNPs, despite a lower 6.4-fold enrichment.
+0	NA	NA	NA	RESULTS	Variants with a non-zero score from SpliceAI, which predicts changes to gene splicing, were also highly enriched (9.3-fold)
+0	NA	NA	NA	RESULTS	We next built a multi-annotation model in PAINTOR following a stepwise selection procedure, which identified a minimal but informative set of three annotations: blood and immune DNase, nonsynonymous coding variants, and variants with SpliceAI score greater than 0.01.
+0	NA	NA	NA	RESULTS	We used probabilities from this PAINTOR model, and computed the mean causal probability per variant across the three fine-mapping methods
+0	NA	NA	NA	RESULTS	There were 21 variants with mean causal probability above 50% across the fine-mapping methods, and 79 further variants with probabilities from 10-50% (Table 1 and Supplementary Table 8).
+1	NA	BIN1	rs6733839	RESULTS	These include SNPs near established AD risk genes, such as rs6733839 ~20 kb upstream of BIN1, which has recently been shown to alter a microglial MEF2C binding site and to regulate BIN1 expression specifically in microglia.
+0	NA	PILRA	NA	RESULTS	High-confidence variants also include a well-known missense SNP in PILRA , and a splice-altering missense SNP in CD33 .
+1	NA	ABCA7	rs4147918	RESULTS	Missense SNP rs4147918 in ABCA7 had 55% causal probability, and ABCA7 harbored 5 further missense SNPs with probabilities greater than 0.01%, at varying allele frequencies.
+1	NA	ABCA7	rs4147918	RESULTS	Notably, rs4147918 and 6 other variants within ABCA7, including the lead SNP rs12151021, had positive SpliceAI scores.
+1	NA	ABCA7	NA	RESULTS	This is consistent with reports of a burden of deleterious variants at ABCA7 associated with AD, as well as potential changes to splicing caused by intronic variable tandem repeats
+0	NA	NA	NA	RESULTS	A number of newly identified AD risk genes had high-confidence fine-mapped variants.
+1	NA	NCK2	rs143080277	RESULTS	These include the NCK2 rare intronic SNP rs143080277 (>99% probability, MAF 0.4%), APH1B missense SNP rs117618017 (90% probability), rs2830489 near ADAMTS1 (72% probability), and rs268120 intronic in SPRED2 (56% probability)
+0	NA	NA	NA	RESULTS	Manual review highlighted a number of candidate causal variants, where the annotation-based SNP probability was higher than that of the other two methods (Fig.
+0	NA	NA	NA	RESULTS	4).
+0	allergy	TSPAN14	rs1870137	RESULTS	Within TSPAN14, rs1870137 and rs1870138 reside within a DNase hypersensitivity peak found broadly across tissues, which is also an ATAC peak in microglia.
+0	NA	NA	rs1870138	RESULTS	Of these, rs1870138 lies at the centre of a ChIP-seq peak for binding of multiple transcription factors, including FOS/JUN and GATA1.
+0	NA	TAL1	NA	RESULTS	The AD risk allele rs1870138-G alters an invariant position of a binding motif for TAL1, a gene highly expressed in microglia, and which is a binding partner for GATA1.
+0	inflammatory bowel disease	NA	NA	RESULTS	This allele is also associated with increased monocyte count and increased risk for inflammatory bowel disease.
+0	NA	TSPAN14	NA	RESULTS	Notably, the AD signal in the region colocalizes with both an eQTL and a splicing QTL for TSPAN14 in multiple datasets, and rs1870138-G associates with higher TSPAN14 expression in brain and in microglia, but with lower expression in some GTEx tissues
+0	NA	APH1B	rs117618017	RESULTS	Missense SNP rs117618017 in exon 1 of APH1B (Thr27Ile) is the likely single causal variant at its locus, with fine-mapping probability of 90% (Fig.
+0	NA	NA	NA	RESULTS	4b).
+0	NA	APH1B	NA	RESULTS	APH1B is a component of the gamma-secretase complex, other members of which (PSEN1, PSEN2) have rare variants associated with early-onset AD.
+0	NA	APH1B	NA	RESULTS	Interestingly, the AD signal colocalizes with an APH1B eQTL in monocytes, neutrophils and T-cells, and rs117618017-T associates with higher AD risk and higher APH1B expression across datasets.
+0	NA	YY1	NA	RESULTS	This allele introduces a motif for transcriptional regulator YY1, and is predicted by DeepSEA to increase YY1 binding in multiple ENCODE cell lines.
+0	NA	APH1B	NA	RESULTS	Therefore, it is an open question whether AD risk is mediated by altered APH1B protein structure or altered gene expression
+0	NA	Crk-associated substrate scaffolding (CASS) 4	NA	RESULTS	Finally, the AD association on chromosome 20 colocalizes with an eQTL for CASS4 in Blueprint monocytes and in GTEx whole blood.
+0	NA	TF	rs6014724	RESULTS	While intronic lead SNP rs6014724 (55% probability) shows no evidence of transcription factor (TF) binding in ENCODE data, rs17462136 (7% probability) lies in a region of dense TF binding in the 5' UTR of CASS4 (Fig.
+0	NA	NA	NA	RESULTS	4c).
+0	NA	GERP	NA	RESULTS	The nucleotide position is highly conserved (GERP score 3.46) and overlaps an ATAC peak in microglia, and the rs17462136-C allele introduces a TEAD1 binding motif.
+0	NA	Crk-associated substrate scaffolding (CASS) 4	rs17462136	RESULTS	In addition, rs17462136 is more strongly associated with CASS4 expression in multiple eQTL datasets than is rs6014724
+0	NA	NA	NA	RESULTS	As a further line of evidence, we developed a method that leverages gene network connectivity to prioritize genes at individual loci.
+0	NA	BioGRID	NA	RESULTS	We first constructed a gene interaction network combining information from the STRING, IntAct and BioGRID databases.
+0	NA	NA	NA	RESULTS	Next, we nominated 32 candidate AD genes (Supplementary Table 9), based on our other evidence sources as well as literature reports, and used these as seed genes similar to the approach used in the priority index for drug discovery.
+0	NA	NA	NA	RESULTS	For each locus in turn, we used as input all seed genes except those at the locus, and propagated information through the network with the page rank algorithm.
+0	NA	NA	NA	RESULTS	"The ""networkScore"" for a gene thus represents the degree to which the gene is supported by its interaction with top AD candidate genes at other loci, unbiased by any locus-specific features"
+0	NA	NA	NA	RESULTS	Across AD loci, our selected seed genes were highly enriched for having high network-based gene scores (one-tailed Wilcoxon rank sum test, P = 5 x 10-9; Extended Data Fig.
+0	NA	NA	NA	RESULTS	3).
+1	NA	NCK2	NA	RESULTS	At our four novel AD loci, the nearest gene (NCK2, TSPAN14, SPRED2, CCDC6) in each case was one of the top two highest-scoring genes within 500 kb.
+1	NA	ACE	NA	RESULTS	Many established or recently discovered AD genes were also the top gene within 500 kb by network score, including ACE, BIN1, CASS4, CD2AP, PICALM, PLCG2, and PTK2B.
+0	NA	SLC24A4	NA	RESULTS	At the SLC24A4 locus, RIN3 was strongly supported, whereas SLC24A4 was not, in line with evidence from deleterious rare variants that RIN3 may be causal
+0	NA	NA	NA	RESULTS	Genes highly ranked by network propagation also include many outside of genome-wide significant AD loci (Supplementary Table 10).
+0	NA	NA	NA	RESULTS	Consistent with their involvement in AD, such genes tended to have SNPs with lower P values nearby than did remaining genes (Fig.
+0	NA	NA	NA	RESULTS	5a and Extended Data Fig.
+0	NA	NA	NA	RESULTS	3c), suggesting that numerous AD loci remain to be discovered with larger GWAS sample sizes.
+0	NA	LILRB2	rs3855678	RESULTS	Top network-ranked genes include LILRB2 (nearby rs3855678 P = 9.8 x 10-6), which encodes a leukocyte immunoglobulin-like receptor that recognizes multiple HLA alleles, and which may also be involved in amyloid-beta fibril growth; ABCA1 (rs59237458 P = 4 x 10-6), involved in phospholipid transfer to apolipoproteins and previously associated with AD; SREBF1 (rs35763683 P = 2 x 10-6), required for lipid homeostasis; and AGRN (rs2710871 P = 4 x 10-6), involved in synapse formation in mature hippocampal neurons.
+0	NA	NA	NA	RESULTS	Overall, genes with high network ranks were strongly enriched in biological processes and pathways that have previously been associated with AD, including clathrin-mediated endocytosis, activation of immune response, phagocytosis, Ephrin signaling, and complement activation (Supplementary Table 11)
+0	NA	NA	NA	RESULTS	To understand the contribution of cell-type specific gene expression to AD risk, we used fgwas to assess the genome-wide enrichment of SNPs near genes highly expressed in specific cell types, based on a single-nucleus sequencing dataset of 49,495 nuclei from six human brain cortical areas.
+0	NA	NA	NA	RESULTS	Out of 18 broad cell type clusters, only microglia showed clear enrichment of AD risk (odds ratio (OR) 6.0) near genes with expression above the 90th percentile across cell types (Fig.
+0	NA	NA	NA	RESULTS	5b).
+0	NA	NA	NA	RESULTS	We performed a similar analysis looking at bulk gene expression across human tissues from GTEx, along with a small number of additional RNA-seq datasets, including sorted primary microglia from brain surgeries (Extended Data Fig.
+0	NA	NA	NA	RESULTS	4 and Supplementary Table 12).
+0	NA	OR 3.6	NA	RESULTS	This gave consistent results, with microglia showing strong enrichment (OR 4.4), followed by tissues rich in immune cells, including spleen (OR 3.6) and whole blood (OR 3.2).
+0	NA	NA	NA	RESULTS	Notably, iPSC-derived microglia showed similar enrichment to primary microglia, while bulk brain tissues (including hippocampus) showed no enrichment
+0	NA	NA	NA	RESULTS	Determining the genes responsible for AD risk across GWAS loci is challenging, in part because few genes have been definitively confirmed as having a causal role.
+0	NA	NA	NA	RESULTS	We therefore developed a comprehensive gene prioritization score, which incorporates quantitative information based on five lines of evidence: gene distance to lead SNPs, colocalization, network score, bulk and single-cell gene expression, and the sum of fine-mapped probability for any coding SNPs within a gene (Fig.
+0	NA	NA	NA	RESULTS	6, Extended Data Figs.
+0	NA	NA	NA	RESULTS	5 and 6, and Supplementary Table 13)
+0	NA	NA	NA	RESULTS	We first explored how best to use colocalization information.
+0	NA	NA	NA	RESULTS	We found that genes with maximum colocalization probability (maxH4) above 0.9 had higher prioritization scores based on the other four predictors, but this was not the case for genes with weaker colocalization evidence (Extended Data Fig.
+0	NA	NA	NA	RESULTS	5a).
+0	NA	NA	NA	RESULTS	We also examined colocalizations in different cell type or tissue groups, such as brain, microglia, and other GTEx tissues.
+0	NA	NA	NA	RESULTS	There was little evidence that colocalizing genes within any specific groups had higher total scores than other groups (Extended Data Fig.
+0	NA	NA	NA	RESULTS	5b), although this conclusion was limited by the low number of studies in some cell types, such as microglia.
+0	NA	NA	NA	RESULTS	We therefore based our colocalization score on the maximum colocalization probability across tissues (> 0.9) and normalized this to the range 0-1
+0	NA	NA	NA	RESULTS	A priori, we do not know which lines of evidence are most important for prioritizing genes.
+0	NA	NA	NA	RESULTS	We therefore sought a systematic way to identify appropriate weights for the predictors.
+0	NA	NA	NA	RESULTS	Although we do not know the causal AD genes, we selected two independent, unbiased sets of candidate genes for use in supervised learning: genes nearest to the GWAS peaks, and genes with high network scores (>80th percentile).
+0	NA	NA	NA	RESULTS	In order to identify weights for our predictive features, we defined two models to discriminate these two gene sets from others within 500 kb, in each case using cross-validated lasso-regularized logistic regression with the remaining variables as predictors.
+0	NA	NA	NA	RESULTS	As expected, when predicting genes nearest GWAS peaks, the highest-weight predictor was fine-mapped coding variants; however, only a few loci have such variants.
+0	NA	NA	NA	RESULTS	The most informative predictor, determined based on change in mean-squared error when the predictor is left out, was colocalization, followed by coding variants and then network score (Supplementary Table 14).
+0	NA	NA	NA	RESULTS	When predicting high network score genes, the most informative predictor was distance to GWAS peak, followed by microglial gene expression, and neither colocalization nor coding variant predictors improved the model.
+0	NA	NA	NA	RESULTS	For both models, including hippocampus expression (GTEx) or single-cell astrocyte expression resulted in worse models (increased mean squared error)
+0	NA	NA	NA	RESULTS	"We defined our gene prioritization ""model score"" as the average of the predictions from our two models."
+0	NA	NA	NA	RESULTS	The model score identified as top-ranked many AD candidate genes previously suggested as causal (Fig.
+0	NA	NA	NA	RESULTS	6).
+1	NA	ABCA7	NA	RESULTS	Exemplifying the importance of integrating genetic evidence sources, ABCA7, SORL1, and CR1 were top-ranked by overall score at their respective loci, despite having only moderate network-based scores, while SORL1, PICALM, and SPI1 were top-ranked despite having limited eQTL colocalization evidence
+0	NA	NA	NA	RESULTS	While our prioritization further supports many established AD candidate genes, it also implicates novel genes.
+0	neurodegenerative disease	FCER1G	NA	RESULTS	Among these are FCER1G, which has been reported as a hub gene in microglial gene modules associated with neurodegeneration, and has been experimentally shown to influence microglial phagocytosis.
+0	NA	ZYX	NA	RESULTS	Another candidate is ZYX, which receives a top network score, is highly expressed in microglia, and which was recently nominated as an AD risk gene based on chromatin interactions between the ZYX promoter and AD risk variants in a ZYX enhancer
+0	neurodegenerative disease	NA	NA	DISCUSS	Identifying therapeutic targets for human diseases is a key goal of human genetics research, and is particularly important for neurodegenerative diseases such as AD, for which no disease-modifying therapies yet exist.
+0	NA	NA	NA	DISCUSS	However, identifying the causal genes and genetic variants from GWAS is challenging, since non-coding associations can act via regulation of distal genes.
+0	NA	NA	NA	DISCUSS	We approached this challenge for AD by performing comprehensive fine-mapping, eQTL colocalization, network analysis, and quantitative gene prioritization
+1	NA	NCK2	NA	DISCUSS	Our meta-analysis identified four novel associations near NCK2, SPRED2, TSPAN14, and CCDC6.
+0	NA	NA	NA	DISCUSS	Each of these was the nearest gene to the association peak and was supported by both eQTL colocalization and network ranking.
+0	NA	SPRED2	NA	DISCUSS	Yet, despite the large number of eQTL datasets that we used, colocalization of likely AD risk genes was sometimes found in only one or a few datasets; this was the case for SPRED2 (TwinsUK LCL coloc probability 0.99), RIN3 (GTEx frontal cortex probability 0.94), and PILRA (Fairfax LPS-2hr monocyte coloc probability 0.99).
+0	NA	NA	NA	DISCUSS	Many factors could account for dataset-specific colocalizations, such as biological differences in sample state, differences in LD match between the GWAS and eQTL datasets, and technical differences in the transcriptome annotations used for eQTL discovery.
+0	NA	NA	NA	DISCUSS	As a result, absence of colocalization provides only weak evidence for lack of an effect in a given tissue type, whereas positive colocalization provides strong support for a shared genetic effect.
+0	NA	NA	NA	DISCUSS	It is therefore useful to look broadly across eQTL studies for colocalization, which will be facilitated by resources that simplify access to these datasets, such as the eQTL catalogue
+0	NA	APH1B	NA	DISCUSS	One of our most confidently prioritized genes was APH1B, encoding a gamma-secretase complex component involved in APP processing.
+0	NA	APH1B	rs117618017	DISCUSS	APH1B harbors the likely causal missense variant T27I, yet also has strong colocalization evidence that higher expression correlates with higher AD risk.
+0	NA	APH1B	NA	DISCUSS	One possibility is that impaired function of APH1B due to the missense variant leads to upregulation of APH1B transcription.
+0	NA	APH1B	NA	DISCUSS	This interpretation would be consistent with evidence from both mice and humans that loss of APH1B and gamma-secretase function leads to AD.
+0	NA	NA	rs117618017	DISCUSS	It is noteworthy, however, that recent experiments failed to find an effect of the T27I variant on gamma-secretase activity in HEK cells
+0	NA	TSPAN14	NA	DISCUSS	Among our novel associations, TSPAN14 has a role in defining the localization of ADAM10, another recently discovered AD gene that is a key component of the alpha-secretase complex and that could thus mediate AD risk via processing of amyloid precursor protein.
+0	NA	ADAM10	NA	DISCUSS	However, ADAM10 also cleaves the microglia-associated protein TREM2 to generate its soluble ligand-binding domain.
+0	inflammatory bowel disease	NA	rs1870138	DISCUSS	Our fine-mapping showed that the risk SNP rs1870138 is also associated with higher risk for inflammatory bowel disease (IBD), an immune-mediated disease, and with higher monocyte count in UK Biobank participants.
+0	NA	TSPAN14	NA	DISCUSS	Since TSPAN14 is expressed more highly in immune cell types, including microglia, than in brain tissue, it is also plausible that AD risk is mediated by its effect on either immune cell count or activation.
+0	NA	RIN3	NA	DISCUSS	Recently proposed AD candidate genes supported by our analyses include RIN3, HS3ST1, and FCER1G.
+1	NA	FCER1G	NA	DISCUSS	As noted above, FCER1G is a microglial master regulator; RIN3 interacts with both BIN1 and CD2AP in the early endocytic pathway; HS3ST1 is involved in cellular uptake of tau and was recently been associated with AD in an independent Norwegian sample
+0	NA	NA	NA	DISCUSS	In summary, our study reports quantitative gene prioritization for 36 AD-associated regions, as well as AD-specific gene network scores beyond these loci.
+0	NA	NA	NA	DISCUSS	Our genetic findings highlight the presence of diverse mechanisms in AD pathogenesis and suggest candidate targets for therapeutic development
+0	NA	NA	NA	METHODS	Sample QC, variant QC and imputation was performed on all UK Biobank (UKB) participants as described in Bycroft et al.. After genotype imputation, 93,095,623 variants across 487,409 individuals were available for analysis.
+0	NA	NA	NA	METHODS	"To exclude individuals of non-European ancestry, we extracted ""White British"" ancestry participants as described in Bycroft et al.."
+0	NA	NA	NA	METHODS	"These individuals self-reported their ethnic background as ""British"" and have similar genetic ancestry based on principal components (PC) analysis."
+0	NA	NA	NA	METHODS	To extract additional individuals of European ancestry, we followed a similar approach to Bycroft et al.
+0	NA	NA	NA	METHODS	"and applied Aberrant on PCs 1v2, 3v4 and 5v6 across the individuals who self-reported as ""Irish"" or ""Any other white background""."
+0	NA	NA	NA	METHODS	We identified first-degree relatives by applying KING v2.0 to 147,522 UKB participants who had at least one relative identified in Bycroft et al.
+0	NA	NA	NA	METHODS	(UKB Field 22021).
+0	NA	NA	NA	METHODS	For each first-degree relative pair, we prioritized AD cases and proxy-cases (see below) for inclusion, and otherwise excluded one of the pair at random.
+0	NA	NA	NA	METHODS	We also excluded variants with low imputation quality (INFO < 0.3) and/or those with minor allele frequencies below 0.0005, resulting in 25,647,815 variants available for analysis
+0	death	NA	NA	METHODS	AD cases were extracted from UKB self-report (field 20002), ICD10 diagnoses (fields 41202 and 41204) and ICD10 cause of death (fields 40001 and 40002) data.
+0	NA	NA	NA	METHODS	UKB participants were asked whether they have a biological father, mother or sibling who suffered from Alzheimer's disease/dementia (UKB fields 20107, 20110, and 20111, respectively).
+0	NA	NA	NA	METHODS	We extracted all participants with at least one affected relative as proxy-cases.
+0	NA	NA	NA	METHODS	"Participants who answered ""Do not know"" or ""Prefer not to answer"" were excluded from analyses."
+0	NA	NA	NA	METHODS	All remaining individuals were denoted as controls
+0	NA	NA	NA	METHODS	There were 898 AD cases, 52,791 AD proxy cases and 355,900 controls in the combined white British and white non-British cohorts.
+0	NA	NA	NA	METHODS	For association analyses, we lumped the true and proxy-cases together (53,042 unique affected individuals) and used the linear-mixed model implemented in BOLT-LMM
+0	NA	NA	NA	METHODS	To enable meta-analysis combining the UKB cohorts with external case-control studies, we first transformed the AD proxy BOLT-LMM summary statistics from the linear scale to a 1/0 log odds ratio:  with standard error:  where betaLMM and seLMM are the SNP effect sizes and standard errors respectively from BOLT-LMM, and f is the fraction of cases in the sample.
+0	NA	NA	NA	METHODS	Since the affected individuals in our analysis include both true and proxy-cases, we then multiplied the transformed logORs and standard errors by 1.897 to approximate the logORs obtained from a true case/control study
+0	NA	NA	NA	METHODS	We combined the transformed UKB white British cohort, UKB white non-British cohort and the Stage 1 summary statistics from Kunkle et al.
+0	NA	NA	NA	METHODS	using a fixed-effects (inverse variance weighted) meta-analysis across 10,687,126 overlapping variants.
+0	NA	NA	NA	METHODS	For display purposes (Supplementary Table 8), we used CrossMap to convert variant positions from GRCh37 to GRCh38
+1	Alzheimer's disease	ACE	NA	METHODS	"To assess replication of our discovered signals, we downloaded the publicly available summary statistics for the Gr@ace study of AD from the GWAS catalog, and for the FinnGen GWAS of phenotypes ""Alzheimer's disease, wide definition"" and ""Alzheimer's disease (Late onset)"" from FinnGen release 3."
+0	NA	NA	NA	METHODS	We extracted summary results for our lead SNPs, or a partner in strong LD when the lead SNP was not found, and present these in Supplementary Table 3.
+1	NA	ACE	NA	METHODS	We estimated power to detect our four novel loci at nominal significance (P < 0.05) using the genetic power calculator (zzz.bwh.harvard.edu/gpc/cc2.html) with the genotype relative risks estimated from our meta-analysis, and the allele frequency and case/control count from the GWAS study of interest (Gr@ace or FinnGen), and assuming a disease prevalence of 5%.
+1	NA	ACE	NA	METHODS	"We performed an inverse variance-weighted meta-analysis of all four studies (Kunkle et al., UKB, Gr@ace, and FinnGen ""AD wide""), similar to our discovery meta-analysis"
+0	NA	NA	NA	METHODS	To run GCTA, we prepared plink input files with genotypes from 10,000 randomly sampled UKB individuals at variants within +/- 5 Mb from each lead SNP.
+0	NA	NA	NA	METHODS	We excluded variants with INFO < 0.85, or which had a P-value from Cochran's Q test for study heterogeneity < 0.001.
+0	NA	NA	NA	METHODS	We also excluded variants with minor allele frequency (MAF) in UKB below 0.1%, as LD estimates are unreliable at low allele counts.
+0	NA	NA	NA	METHODS	We selected these thresholds after manual examination of fine-mapping results, where we found that more lenient cutoffs led either FINEMAP or PAINTOR to select implausible causal variants at a few loci, such as pairs of very weakly associated rare variants to explain a common variant signal.
+0	NA	NA	NA	METHODS	We ran GCTA (v1.92.1) --cojo-slct with a threshold of P < 10-5 to identify secondary signals at each locus, and then retained only loci with a lead P-value below 5 x 10-8.
+0	NA	NA	NA	METHODS	For the HLA locus, we used a GCTA P-value threshold of 5 x 10-8.
+0	NA	BZRAP1	NA	METHODS	We also retained the loci TSPOAP1, IKZF1, and TMEM163 since they had P < 5 x 10-8 in an earlier version of our analysis.
+0	NA	apolipoprotein E	NA	METHODS	We excluded the APOE locus from conditional analysis and fine-mapping because the strength of association in the region would require a more perfect LD panel match to avoid spurious signals
+0	NA	NA	NA	METHODS	We then ran FINEMAP (v1.3) at each locus, with --n-causal-snps given as the number of independent SNPs determined by GCTA.
+0	NA	NA	NA	METHODS	For FINEMAP, we excluded variants with MAF < 0.2%.
+0	NA	NA	NA	METHODS	For loci with multiple signals, we also used GCTA --cojo-cond to condition on each independent SNP identified in the previous analysis, and retained SNPs within 500 kb of any conditionally independent SNP at the locus.
+0	NA	NA	NA	METHODS	To fine-map based on GCTA conditional signals, we converted beta and standard error values to approximate Bayes Factors (BF) using a prior of W = 0.1 (in Wakefield notation), and used the WTCCC single-causal variant method, probability = SNP BF / sum(all SNP BFs)
+0	NA	NA	NA	METHODS	To assess sensitivity of the results to our choice of reference panel, we applied the same steps (GCTA + FINEMAP) to summary statistics from the Kunkle et al.
+0	NA	NA	NA	METHODS	sub-study, which are described further in the Supplementary Note
+0	NA	NA	NA	METHODS	For eQTL colocalization, we downloaded summary statistics (see URLs) and determined eQTL genes at FDR 5% for each dataset in a uniform manner, first using Bonferroni correction of lead SNP nominal P values based on the number of variants tested for the gene, and using the Benjamini-Hochberg method to compute FDR.
+0	NA	NA	NA	METHODS	QTL calling for primary microglia was performed with RASQUAL with the --no-posterior-update option.
+0	NA	NA	NA	METHODS	For datasets in GRCh38 coordinates, we first used CrossMap to convert back to GRCh37 coordinates to match variants between eQTL and GWAS.
+0	NA	NA	NA	METHODS	We used the coloc package with default priors to perform colocalization tests between GWAS and eQTLs having lead variants within 500 kb of each other, and passed to coloc all variants within 200 kb of each lead variant.
+0	NA	NA	NA	METHODS	We also ran coloc using P-values for each conditionally independent GWAS signal, obtained with GCTA as described above
+0	NA	NA	NA	METHODS	We used the Ensembl VEP online Web tool (www.ensembl.org/vep) to predict variant consequences, and to add selected annotations (Supplementary Table 7).
+0	NA	NA	NA	METHODS	We downloaded bed files based on imputed data for Roadmap Epigenomics DNase and 25-state genome segmentations for 127 epigenomes.
+0	NA	NA	NA	METHODS	"We grouped these into groups ""all"", ""brain"" (epigenomes 7, 9, 10, 53, 54, 67, 68, 69, 70, 71, 72, 73, 74, 81, 82, 125), and ""blood & immune"" (epigenomes 33, 34, 37, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 62, 29, 30, 31, 32, 35, 36, 46, 50, 51, 116)."
+0	NA	NA	NA	METHODS	We considered 9 genome segmentation states to represent enhancers: TxReg, TxEnh5, TxEnh3, TxEnhW, EnhA1, EnhA2, EnhAF, EnhW1, EnhW2.
+0	NA	NA	NA	METHODS	We used bedtools to determine overlaps, and counted the number of overlaps for each variant with peaks in the above groups.
+0	NA	NA	NA	METHODS	We downloaded FANTOM5 permissive enhancer annotations from fantom.gsc.riken.jp/5/data/.
+0	NA	NA	NA	METHODS	We downloaded pre-computed SpliceAI scores for variants within genes from github.com/Illumina/SpliceAI.
+0	NA	NA	NA	METHODS	We merged filtered whole-genome and exome scores together, and for each AD variant annotated the maximum score across splice donor gain, donor loss, acceptor gain, acceptor loss.
+0	NA	NA	NA	METHODS	"We used DeepSEA (deepsea.princeton.edu) to annotate variants selected for functional fine-mapping with DeepSEA's ""functional significance"" score."
+0	NA	GERP	NA	METHODS	BigWig files with PhastCons, PhyloP and GERP RS scores were downloaded from UCSC.
+0	NA	NA	NA	METHODS	We downloaded microglial ATAC-seq based on the study by Gosselin et al., aligned reads to GRCh37 with bwa 0.7.15, and called multisample peaks across all 15 datasets using MACS2.
+0	NA	NA	NA	METHODS	We prepared bigWig files from alignments by using bedtools genomecov, followed by bedGraphToBigWig.
+0	NA	NA	NA	METHODS	To visualise microglia ATAC-seq tracks we adapted code from wiggleplotr
+0	NA	NA	NA	METHODS	For fine-mapping with PAINTOR, we first restricted the number of considered variants for computational feasibility, by selecting 3,207 variants which had (i) FINEMAP probability >= 0.01% based on the GCTA-identified number of causal variants at the locus, or (ii) had FINEMAP probability >= 1% when run with either 1 or 2 causal variants, or (iii) were among the top 20 variants at the locus by FINEMAP probability.
+0	NA	NA	NA	METHODS	We defined binary annotations for input to PAINTOR based on the features described above, thresholding certain scores at multiple levels (e.g.
+0	NA	NA	NA	METHODS	CADD >= 5, 10, 20).
+0	NA	NA	NA	METHODS	For Roadmap annotations, we included a category based on whether a variant was in a peak or enhancer in >= 10 epigenomes.
+0	NA	NA	NA	METHODS	We ran PAINTOR v3.1 once for each of the 43 annotations (Fig.
+0	NA	NA	NA	METHODS	2 and Supplementary Table 7), allowing two causal variants per locus
+0	NA	NA	NA	METHODS	We built a multi-annotation model using forward stepwise selection.
+0	NA	NA	NA	METHODS	We selected the best annotation by log-likelihood (LLK), Blood & immune DNase, and then ran PAINTOR again for each combination of this annotation and the 42 remaining annotations.
+0	NA	NA	NA	METHODS	We added a top-ranking annotation at each iteration until the model LLK improvement was less than 1.
+0	NA	NA	NA	METHODS	This occurred at iteration 4, and so we kept the first three annotations in the combined model.
+0	NA	NA	NA	METHODS	We computed the mean causal probability for each SNP as the mean of the three fine-mapping methods at loci with two or more signals, or as the mean of the FINEMAP and PAINTOR probabilities for loci with one signal, since FINEMAP gives approximately the same results as WTCCC fine-mapping for a single causal variant
+0	NA	BioGRID	NA	METHODS	For network analysis, we created a gene interaction network based on selecting all edges between protein-coding genes from systematic studies (>1,000 interactions) in the IntAct and BioGRID databases, and edges from STRING v10.5 with edge score > 0.75.
+0	NA	NA	NA	METHODS	This combined network included 18,055 genes and 540,421 edges.
+0	NA	NA	NA	METHODS	We identified 28 top candidate genes across AD loci (Supplementary Table 9) to use as seed genes, and assigned weight to these as the -log10(P value) of the locus lead SNP.
+0	NA	tau	NA	METHODS	We added four genes from the literature (MAPT, PSEN1, PSEN2, ABI3), with a weight (equivalent -log10(P)) of 15.
+0	NA	ECHDC3	NA	METHODS	For three loci, the nearest gene was not present in the network (ECHDC3, TMEM163, SCIMP).
+0	NA	NA	NA	METHODS	For each locus, we used all seed genes as input except those at the same locus, and propagated information through the network with the personalized PageRank algorithm, included in the igraph R package.
+0	NA	NA	NA	METHODS	Since a gene's resulting PageRank was highly correlated with its node degree, we compared the PageRank of each gene to the distribution of PageRanks obtained for the same gene in 1,000 iterations of network propagation, where the same number of seed genes were randomly selected.
+0	NA	NA	NA	METHODS	We computed the percentile of a gene's true PageRank relative to the 1,000 network propagations with randomized inputs.
+0	NA	NA	NA	METHODS	Although the distribution of PageRank percentile was fairly uniform, we further normalised this to a uniform distribution across genes, so that a Pagerank percentile of 90% indicates that a gene's PageRank relative to permutations is above that of 90% of genes.
+0	NA	NA	NA	METHODS	To determine gene set enrichment, we used the top 1,000 genes by network rank as input to gProfiler with default settings, with the set of all genes ranked by the network as a background set.
+0	Alzheimer's disease	NA	NA	METHODS	To determine enrichment of low P-value AD SNPs near genes in specific bins of PageRank percentile (Fig.
+0	NA	NA	NA	METHODS	5a), we first determined for each gene the minimum SNP P value within 10 kb of the gene's footprint.
+0	NA	apolipoprotein E	NA	METHODS	We excluded genes within 1 Mb of APOE.
+0	NA	NA	NA	METHODS	Then, for genes in each PageRank percentile bin, we used Fisher's exact test to determine the odds ratio for a gene in that bin (relative to genes with PageRank percentile <50%) to have a minimum SNP P value in the given bin (relative to genes with minimum SNP P > 0.01)
+0	NA	NA	NA	METHODS	Gene expression values for all tissues were determined in units of transcripts per million (TPM).
+0	NA	NA	NA	METHODS	Both GTEx v8 and the eQTL catalogue provide tables of the median TPM expression across samples for each tissue and gene.
+0	NA	NA	NA	METHODS	For primary microglia, we obtained a table of read counts per gene, computed using FeatureCounts 1.5.3 as described, from which we computed median TPM.
+0	NA	Neurog2	NA	METHODS	For use in gene prioritization and enrichment analyses, we first selected four GTEx brain tissues (cortex, hippocampus, substantia nigra, cerebellum) to avoid over-representing brain, and then the remaining 41 GTEx tissues, as well primary microglia and in-house expression data from iPSC-derived microglia, iPSC-derived NGN2 cortical neurons, and iPSC-derived neurons from growth factor differentiation.
+0	NA	NA	NA	METHODS	For each gene, we determined the TPM expression relative to all tissues/cell types
+0	NA	NA	NA	METHODS	Single-cell gene expression data were obtained from the Allen Brain Institute as a gene-by-cell counts table, based on Smart-seq profiling of six human brain cortical areas.
+0	NA	NA	NA	METHODS	"For each cell type ""subclass"" as defined in the metadata (but excluding VLMC for having too few cells, and the outlier subclass labelled ""exclude""), counts were summed across cells and then normalised to TPM within each subclass."
+0	NA	NA	NA	METHODS	We determined each gene's TPM expression in each subclass relative to all 18 subclasses
+0	NA	NA	NA	METHODS	We determined the GRCh37 coordinates of 18,055 genes present in the gene network using the R package annotables 0.1.91.
+0	Alzheimer's disease	apolipoprotein E	NA	METHODS	For each AD GWAS SNP, excluding the APOE region (chr19:44-47 Mb), we determined the nearest gene.
+0	NA	NA	NA	METHODS	We defined annotation inputs for fgwas labelling a SNP 1 if it was nearest to a gene with network score in a given percentile bin (50-60, 60-70, 70-80, 80-90, 90-95, >95) and 0 otherwise.
+0	NA	NA	NA	METHODS	We ran fgwas (-cc) with all network annotations as input, so that enrichments are with respect to SNPs nearest to genes with network score < 50th percentile.
+0	NA	NA	NA	METHODS	For every bulk gene expression dataset selected above, we defined an annotation for SNPs nearest genes with relative expression above the 80th (or 90th) percentile, and similarly for cell types from single-cell gene expression.
+0	NA	NA	NA	METHODS	We ran fgwas once for each expression annotation to determine enrichment of SNPs near high-expression genes relative to remaining genes (Supplementary Table 12)
+0	NA	NA	NA	METHODS	The coding score is the sum of the mean fine-mapping probability for missense or LoF variants in a gene
+0	NA	NA	NA	METHODS	The expression score is the sum of component scores for bulk and single-cell microglial expression, and rewards genes with expression percentile above the 50th:
+0	NA	NA	NA	METHODS	Genes without measured expression in a given dataset (bulk, single-cell) are assigned an exprScore of zero for that dataset
+0	NA	NA	NA	METHODS	Recent evidence from both eQTLs and metabolite GWAS suggests that genomic distance from the association peak is a strong predictor of causal target genes.
+0	NA	NA	NA	METHODS	The distance score is defined to give reasonable scores over the main range of interest of 0 - 200 kb: where x is the minimum distance from the gene's footprint to the region defined by independent lead SNPs at a GWAS locus, maxDist is 500,000 and distBias is 100 (Extended Data Fig.
+0	NA	NA	NA	METHODS	6)
+0	NA	NA	NA	METHODS	"The coloc score is defined based on the maximum value across QTL datasets of the ""H4"" hypothesis probability, and rewards colocalisation probabilities above 0.9:"
+0	NA	NA	NA	METHODS	The network score is determined based on the pagerank percentile for a gene relative to permutations:
+0	NA	NA	NA	METHODS	Genes not present in the network are assigned a networkScore of zero
+0	NA	NA	NA	METHODS	The total score for a gene is the sum of the above five scores
+0	NA	NA	NA	METHODS	To give appropriate weight to each component, we trained lasso-regularized logistic regression models with cross-validation using glmnet.
+0	Alzheimer's disease	apolipoprotein E	NA	METHODS	As input we used all protein-coding genes within 500 kb of our AD GWAS peaks, excluding the APOE region due to lack of colocalisation information, and excluding genes not present in the network.
+0	NA	NA	NA	METHODS	For the distance model, genes within 10 kb of each GWAS peak (40 genes) were set as positives, genes 10-100 kb were excluded, and genes >100 kb (394 genes) were set as negatives.
+0	NA	NA	NA	METHODS	These were predicted using the four non-distance predictors.
+0	NA	NA	NA	METHODS	For the network model, genes with pagerank percentile >80% (143 genes) were set as positives, those with pagerank percentile 50-80% were excluded, the 230 other genes were set as negatives, and these were predicted using the four non-network predictors.
+0	NA	NA	NA	METHODS	In each case, we selected the model that minimized mean squared error (MSE), shown in Supplementary Table 14, and used those parameters to generate predictions (in the range 0-1) for all genes at the AD loci.
+0	NA	NA	NA	METHODS	We defined the model score for a gene as the average prediction from the two models.
+0	NA	NA	NA	METHODS	To determine the importance of the predictors to each model (apart from looking at regression coefficients) we ran glmnet models excluding each predictor in turn.
+0	NA	NA	NA	METHODS	If the MSE was lower with a predictor excluded then we removed it from the final model.
+0	NA	NA	NA	METHODS	For each model, we compared the MSE when using our quantitative predictors as defined above, or using categorical predictors by thresholding the predictors into 2-4 bins.
+0	NA	NA	NA	METHODS	For both models, the quantitative predictors gave improved MSE.
+0	NA	NA	NA	METHODS	We also examined models that included as predictors expression scores from astrocytes (based on the single-cell data) and from brain hippocampus (based on the GTEx data), but for both models this resulted in higher MSE and the regularization set the coefficients to zero
+0	NA	NA	NA	FIG	"Association of AD loci in discovery + replication dataset (""global"") meta-analysis."
+0	NA	NA	NA	FIG	For most loci, association significance is increased in the global meta-analysis (blue bars) relative to the discovery analysis (grey bars).
+0	NA	NA	NA	FIG	The dashed vertical line shows P = 5 x 10-8.
+0	NA	NA	NA	FIG	P-values were computed by inverse variance weighted meta-analysis, and bars show the -log10(P) for the SNP with minimum P value at the locus in either the discovery or global meta-analysis
+0	NA	NA	NA	FIG	Comparison of fine-mapping in the meta-analysis vs. Kunkle et al.
+0	NA	NA	NA	FIG	Scatterplots showing, for each locus, SNP probabilities from FINEMAP applied to either the Kunkle et al.
+0	NA	NA	NA	FIG	+ UK Biobank meta-analysis (x-axis), or to only Kunkle et al.
+0	NA	NA	NA	FIG	The number of causal variants at each locus was set to the number detected by GCTA in the meta-analysis.
+0	NA	NA	NA	FIG	For most of the 36 loci, SNP probabilities are well correlated.
+1	NA	ABCA7	NA	FIG	For a few loci that are well powered in Kunkle et al., this is not the case, namely ABCA7, EPHA1, ECHDC3, and HLA.
+0	NA	NA	NA	FIG	For these loci, fine-mapping results should be interpreted with caution.
+0	NA	ADAMTS4	NA	FIG	Six other loci are not well correlated (ADAMTS4, APH1B, IKZF1, PLCG2, TMEM163, and VKORC1), but these loci are poorly powered in Kunkle et al.
+0	NA	NA	NA	FIG	(lead P values 2.1 x 10-6 to 2.1 x 10-3)
+0	Alzheimer's disease	NA	NA	FIG	 a, The Pagerank percentile of all genes (within 500 kb) at each AD GWAS locus containing a seed gene is shown, with seed genes highlighted in blue.
+0	NA	NA	NA	FIG	b, A violin/boxplot shows that seed genes have a markedly higher network Pagerank percentile than remaining genes (P = 2.4 x 10-9, one-tailed Wilcoxon rank sum test).
+0	NA	NA	NA	FIG	c, Log odds ratio enrichment of AD risk among SNPs nearest to genes with network Pagerank percentile in different bins, determined using fgwas (whiskers represent 95% confidence intervals)
+0	NA	NA	NA	FIG	Expression enrichments for GTEx + microglia.
+0	NA	NA	NA	FIG	Shown are the log odds ratio enrichments of AD risk among SNPs with relative gene expression in each tissue above the 80th (or 90th) percentile across tissues.
+0	NA	NA	NA	FIG	Whiskers represent 95% confidence intervals determined by fgwas
+0	NA	NA	NA	FIG	 a, Genes with maximum colocalization H4 probability >0.9 have higher Pagerank percentile (left boxplot) and higher total score (sum of the four non-coloc predictors, right boxplot) than do genes without colocalisation (<0.5).
+0	NA	NA	NA	FIG	Genes with intermediate colocalisation evidence (bins 0.5 - 0.8 and 0.8 - 0.9) show little evidence of having higher scores by the other metrics.
+0	NA	NA	NA	FIG	Based on this, we chose a maxColoc probability of 0.9 as the lower bound for our colocalization score.
+0	NA	NA	NA	FIG	b, Boxplot of the total score (excluding coloc) for genes that have a colocalisation probability > 0.9 in at least one QTL dataset within each tissue group.
+0	NA	NA	NA	FIG	"The most significant difference is between totalScore for genes with microglial colocalizations vs. the genes with colocalization in ""other"" tissues (non-immune GTEx tissues), but the for a difference is weak (P = 0.041, Wilcoxon rank sum test)."
+0	NA	NA	NA	FIG	In all cases, boxplots show the 25th, median, and 75th percentile of the distribution, with whiskers extending to the largest (and smallest) value no further than 1.5 times the interquartile range from the boxplot hinge
+0	Alzheimer's disease	NA	NA	FIG	The distance score assigned to genes near an AD GWAS peak, which decreases approximately linearly (past a distance of 1 kb) with increasing log-scaled distance up to 500 kb
+0	NA	NA	NA	SUPPL	Summary statistics from the meta-analysis are available through the NHGRI-EBI GWAS Catalog under accessions GCST90012877 and GCST90012878
+0	NA	NA	NA	SUPPL	Code for analyses described here can be found at github.com/jeremy37/AD_finemap
+0	NA	NA	NA	FIG	 a, Summary of AD meta-analysis and data processing steps.
+0	NA	NA	NA	FIG	b, Manhattan plot of the meta-analysis of GWAS for diagnosed AD and our GWAX in UK Biobank.
+0	NA	NA	NA	FIG	Novel genome-wide significant loci are labelled in blue, sub-threshold loci in red, and recently discovered loci replicated in our analysis in black.
+0	NA	NA	NA	FIG	c, The number of independent signals at each locus which is either recently discovered or which has more than one signal, as well as the meta-analysis P value the lead SNP at the locus.
+0	NA	PLCG2	NA	FIG	*The PLCG2 locus was significant (P < 5 x 10-8) when including Kunkle stage 3 SNPs.
+0	NA	apolipoprotein E	NA	FIG	Conditional analyses were not done at APOE due to the strength of the signal (see Methods)
+0	NA	NA	NA	FIG	For genes with the top overall colocalization scores across AD risk loci, the colocalization probability (H4) is shown for selected brain, microglia, and monocyte eQTL datasets.
+1	NA	BIN1	NA	FIG	For three loci with multiple signals (BIN1, EPHA1, PTK2B-CLU), scores are shown separately for the conditionally independent signals.
+0	NA	NA	NA	FIG	The last column shows, for each gene, the number of eQTL datasets with a colocalization probability above 0.8 (Supplementary Tables 5 and 6)
+0	NA	NA	NA	FIG	 a, Number of variants with mean causal probability > 1% for each independent signal.
+0	NA	NA	NA	FIG	Variant counts for independent signals are shown in different shades.
+0	NA	NA	NA	FIG	b, PAINTOR outputs, showing (left) log-likelihood (LLK) of model for each individual annotation; (middle) log-odds enrichments for individual genomic annotations determined by PAINTOR; (right) fraction of SNPs which are in each annotation (among those selected by FINEMAP probability > 0.01%).
+0	NA	NA	NA	FIG	Annotations selected for the final model are shown with a black border
+0	NA	NA	NA	FIG	 a, Enrichment of low GWAS P values within 10 kb of genes having high vs. low network pagerank percentile (low defined as below 50th percentile).
+0	NA	NA	NA	FIG	Whiskers represent 95% confidence intervals based on Fisher's exact test for n = 18,055 genes.
+0	NA	NA	NA	FIG	b, Enrichment of AD risk near genes with high expression in each brain cell type (above 80th or 90th percentile) relative to the other cell types.
+0	extratelencephalic-pyramidal	LAMP5	NA	FIG	Cell types are defined based on single-cell clusters defined in Hodge et al.. Neuronal cells are defined either by cortical layer (L4, L5, L6), and/or by projection target (IT, intratelencephalic; CT, corticothalamic; ET, extratelencephalic-pyramidal tract; NP, near-projecting), or by binary marker genes (LAMP5, PAX6, PVALB, VIP, SST).
+0	NA	NA	NA	FIG	OPC, oligodendrocyte precursor cells.
+0	NA	NA	NA	FIG	Whiskers represent 95% confidence intervals as determined by fgwas
+0	NA	NA	NA	FIG	The top gene at each locus is shown, as well as the next 13 top genes by model score; for three loci where a non-coding gene was the top scoring, we also show the top scoring protein-coding gene.
+0	NA	NA	NA	FIG	Score components for each gene are indicated by colored bars, and points show the distribution of scores for all genes within 500 kb at the locus.
+0	NA	NA	NA	FIG	Bold gene names are those with evidence of causality based on rare variants from other studies.
+0	NA	NA	NA	FIG	Scores for all genes are listed in Supplementary Table 13

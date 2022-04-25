@@ -1,0 +1,229 @@
+0	autoimmune disease	NA	NA	ABSTRACT	In recent years, research has consistently proven the occurrence of genetic overlap across autoimmune diseases, which supports the existence of common pathogenic mechanisms in autoimmunity.
+0	NA	NA	NA	ABSTRACT	The objective of this study was to further investigate this shared genetic component
+0	cross-disease	transforming growth factor beta	NA	ABSTRACT	For this purpose, we performed a cross-disease meta-analysis of Immunochip data from 37,159 patients diagnosed with a seropositive autoimmune disease (11,489 celiac disease (CeD), 15,523 rheumatoid arthritis (RA), 3477 systemic sclerosis (SSc), and 6670 type 1 diabetes (T1D)) and 22,308 healthy controls of European origin using the R package ASSET
+0	autoimmune disease	NA	NA	ABSTRACT	We identified 38 risk variants shared by at least two of the conditions analyzed, five of which represent new pleiotropic loci in autoimmunity.
+0	NA	NA	NA	ABSTRACT	We also identified six novel genome-wide associations for the diseases studied.
+0	NA	NA	NA	ABSTRACT	Cell-specific functional annotations and biological pathway enrichment analyses suggested that pleiotropic variants may act by deregulating gene expression in different subsets of T cells, especially Th17 and regulatory T cells.
+0	NA	transforming growth factor beta	NA	ABSTRACT	Finally, drug repositioning analysis evidenced several drugs that could represent promising candidates for CeD, RA, SSc, and T1D treatment
+0	autoimmune disease	NA	NA	ABSTRACT	In this study, we have been able to advance in the knowledge of the genetic overlap existing in autoimmunity, thus shedding light on common molecular mechanisms of disease and suggesting novel drug targets that could be explored for the treatment of the autoimmune diseases studied
+0	NA	NA	NA	ABSTRACT	The online version of this article (10.1186/s13073-018-0604-8) contains supplementary material, which is available to authorized users
+0	autoimmune disease	NA	NA	INTRO	Autoimmune diseases present a complex etiology resulting from the interaction between both genetics and environmental factors.
+0	autoimmune disease	NA	NA	INTRO	Although these conditions differ in their clinical manifestations, the existence of familial clustering across them as well as the co-occurrence of multiple immune-mediated disorders in the same individual points to the existence of a common genetic background in autoimmunity
+0	autoimmune disease	NA	NA	INTRO	As a matter of fact, genomic studies have revealed that many genetic loci are associated with multiple immune-mediated phenotypes, thus suggesting that autoimmune disorders are likely to share molecular mechanisms of disease pathogenesis.
+0	NA	NA	NA	INTRO	In the last years, several approaches have been conducted to comprehensively explore this genetic overlap.
+0	autoimmune disease	NA	NA	INTRO	In this regard, combined analysis of GWAS (genome-wide association study) or Immunochip data across multiple diseases simultaneously has emerged as a powerful strategy to identify novel pleiotropic risk loci as well as common pathogenic mechanisms in autoimmunity.
+0	autoimmune disease	NA	NA	INTRO	Recently, a cross-phenotype study combining Immunochip data from five seronegative autoimmune diseases, including ankylosing spondylitis, Crohn's disease (CD), psoriasis, primary sclerosing cholangitis and ulcerative colitis, identified numerous multidisease signals, some of which represented new pleiotropic risk loci in autoimmunity
+0	autoimmune disease	NA	NA	INTRO	Considering the above, we decided to perform a similar approach by exploring genetic overlap across four seropositive autoimmune diseases.
+0	rheumatoid arthritis	transforming growth factor beta	NA	INTRO	Specifically, Immunochip data from 37,159 patients with celiac disease (CeD), rheumatoid arthritis (RA), systemic sclerosis (SSc) and type 1 diabetes (T1D) and 22,308 unaffected individuals were combined in a cross-disease meta-analysis.
+0	NA	NA	NA	INTRO	The aims of this study were (i) to identify new susceptibility loci shared by subsets of these four immune-related conditions, (ii) to identify new associations for individual diseases, and (iii) to shed light into the molecular mechanisms shared among these four disorders by integrating genotype and functional annotation data
+0	NA	NA	NA	METHODS	All samples were genotyped using Immunochip (Illumina, Inc., CA), a custom array designed for dense genotyping of 186 established genome-wide significant loci.
+0	NA	NA	NA	METHODS	The cohorts included in the present study are described in Additional file 1: Table S1.
+0	NA	transforming growth factor beta	NA	METHODS	The CeD cohort, composed of 11,489 cases from Italy, the Netherlands, Spain, and the UK, and the RA cohort, which included 13,819 cases from Spain, the Netherlands, Sweden, the UK, and the USA, came from a previous published meta-Immunochip.
+0	NA	NA	NA	METHODS	In addition, 1788 RA samples from Spain (which did not overlap with the Spanish RA cases included in the Immunochip mentioned) were also analyzed.
+0	NA	NA	NA	METHODS	These patients were recruited in three different Spanish hospitals (Hospital Marques de Valdecilla, Santander, Hospital Clinico San Carlos, Madrid and Hospital La Princesa, Madrid) and were diagnosed with RA according to the 1987 classification criteria of the American College of Rheumatology.
+0	NA	NA	NA	METHODS	The T1D set consisted of 6670 cases from the UK and has been described in a previous Immunochip study.
+0	NA	NA	NA	METHODS	Finally, the SSc cohort, which consisted of 3597 cases from Spain, the USA, the UK, Italy, and the Netherlands, was also described in a previous Immunochip study
+0	NA	NA	NA	METHODS	Additionally, 22,365 ethnically matched control individuals were analyzed.
+0	cross-disease	NA	NA	METHODS	As indicated in Additional file 1: Table S1, some of the control sets, specifically those from Italy, the Netherlands, Spain, and the UK, overlapped among different diseases, which was taken into account for the subsequent cross-disease meta-analysis
+0	NA	NA	NA	METHODS	Before imputation, data quality control was performed separately for each cohort using PLINK 1.9.
+0	NA	MAF	NA	METHODS	Single-nucleotide polymorphisms (SNPs) with low call rates (< 98%), low minor allele frequency (MAF < 0.01) and those that were not in Hardy-Weinberg equilibrium (HWE; p < 0.001) were excluded.
+0	NA	NA	NA	METHODS	Individuals with successful call rates lower than 95% were also removed.
+0	NA	NA	NA	METHODS	Additionally, an individual of each pair of duplicates and first-degree relatives identified via the Genome function in PLINK 1.9 (PI-HAT > 0.4) was randomly discarded
+0	NA	NA	NA	METHODS	IMPUTE V.2 was used to perform SNP genotype imputation using the 1000 Genomes Phase III as reference panel.
+0	NA	NA	NA	METHODS	To maximize the quality of imputed SNPs, a probability threshold for merging genotypes of 0.9 was established.
+0	NA	NA	NA	METHODS	Imputation accuracy, measured as the correlation between imputed and true genotypes, considering the best-guess imputed genotypes (> 0.9 probability) was higher than 99% for all the analyzed cohorts.
+0	NA	NA	NA	METHODS	Imputed data were subsequently subjected to stringent quality filters in PLINK 1.9.
+0	NA	MAF	NA	METHODS	Again, we filtered out SNPs with low call rates (< 98%) and low MAF (< 0.01) and those that deviated from HWE (p < 0.001).
+0	NA	NA	NA	METHODS	Moreover, after merging case/control sets, singleton SNPs and those showing strong evidence of discordance in genotype distribution between cases and controls due to possible miscalling were removed using an in-house Perl script
+0	NA	NA	NA	METHODS	To account for spurious associations resulting from ancestry differences among individuals, principal component (PC) analyses were performed in PLINK 1.9 and the gcta64 and R-base under GNU Public license V.2.
+0	NA	NA	NA	METHODS	We calculated the 10 first PCs using the markers informative of ancestry included in the Immunochip.
+0	NA	NA	NA	METHODS	Subjects showing more than four SDs from cluster centroids were excluded as outliers
+0	autoimmune disease	transforming growth factor beta	NA	METHODS	After applying quality control filters and genome imputation, we analyzed 252,970 polymorphisms in 37,159 autoimmune-disease patients (11,489 CeD, 15,523 RA, 3477 SSc, and 6670 T1D) and 22,308 healthy controls
+0	NA	NA	NA	METHODS	First, we performed association analyses within each specific disease.
+0	NA	NA	NA	METHODS	For this, each case/control set was analyzed by logistic regression on the best-guess genotypes (> 0.9 probability) including the first ten PCs as covariates in PLINK 1.9.
+0	NA	transforming growth factor beta	NA	METHODS	Then, for CeD, RA, and SSc, for which several independent case/control sets were available, we combined the different cohorts (Additional file 1: Table S1) using inverse variance weighted meta-analysis in METASOFT.
+0	NA	NA	NA	METHODS	The human leukocyte antigen (HLA) region (Chr6: 20-40 MB) and sex chromosomes were excluded.
+0	NA	NA	NA	METHODS	Genomic inflation factor lambda (lambda) was calculated using 3120 SNPs included in the Immunochip that map to non-immune regions.
+0	NA	NA	NA	METHODS	In addition, to account for inflation due to sample size, we calculated lambda1000, the inflation factor for an equivalent study of 1000 cases and 1000 controls.
+0	NA	NA	NA	METHODS	Quantile-quantile plots for the p values of each individual disease are shown in Additional file 2: Figure S1a-d
+0	autoimmune disease	NA	NA	METHODS	Subsequently, summary level data obtained from the association studies of each specific disease were used to identify pleiotropic SNPs (shared by at least two of the autoimmune diseases analyzed).
+0	NA	NA	NA	METHODS	"For this purpose, we performed a subset-based meta-analysis applying the ""h traits"" function as implemented in ASSET."
+0	NA	NA	NA	METHODS	ASSET is an R statistical software package specifically designed for detecting association signals across multiple studies.
+0	NA	NA	NA	METHODS	This method does not only return a p value, but it also shows the best subset containing the studies contributing to the overall association signal.
+0	NA	NA	NA	METHODS	Moreover, this method allows for accounting for shared subjects across distinct studies using case/control overlap matrices.
+0	NA	NA	NA	METHODS	Since some of the control sets included in the disease-specific association analyses were shared among different diseases, we used correlation matrices to adjust for the overlapping of control individuals.
+0	cross-disease	NA	NA	METHODS	Quantile-quantile plot for the p values from the cross-disease meta-analysis is shown in Additional file 2: Figure S1e
+0	NA	NA	NA	METHODS	After subset-based meta-analysis, SNPs for which two-tailed p values were lower than 5 x 10- 8 were considered statistically significant.
+0	NA	NA	NA	METHODS	Genetic variants showing effects in opposite directions across diseases were considered as significant when p values for both positively and negatively associated subsets reached at least nominal significance (p < 0.05).
+0	NA	NA	NA	METHODS	For regions where several SNPs reached genome-wide significance, we considered as lead variants those for which the best subset included a higher number of diseases.
+0	NA	NA	NA	METHODS	Subsequently, in order to identify independent signals, we linkage disequilibrium (LD)-clumped the results of the subset-based meta-analysis using PLINK to select polymorphisms with r2 < 0.05 within 500-kb windows and at genome-wide significant level
+0	NA	NA	NA	METHODS	To assess the reliability of our findings, ASSET results were compared with those obtained using an alternative approach, the compare and contrast meta-analysis (CCMA).
+0	NA	NA	NA	METHODS	For pleiotropic variants identified using ASSET, we calculated z-scores for each disease-specific association analysis as well as for all the possible combinations of diseases, assuming an agonistic or an antagonistic effect of the variants.
+0	NA	NA	NA	METHODS	For each locus, the subset showing the largest z-score was considered as the best model.
+0	NA	NA	NA	METHODS	p values for the maximum z-scores were derived using an empirical null distribution by simulating 300,000,000 realizations of four normally distributed random variables (p value < 1.00E-08 for z-score >= 6.45) (Additional file 2: Figure S2)
+0	NA	NA	NA	METHODS	We investigated whether pleiotropic SNPs were associated at genome-wide significance level with any of the diseases included in the best subset.
+0	NA	NA	NA	METHODS	To such purpose, we checked the results for these variants in each disease-specific association analysis.
+0	NA	NA	NA	METHODS	Additionally, in the case of SNPs associated with a specific disease, the statistical power of the subset-based analysis is lower than that of standard meta-analysis, as a result of a multiple-testing penalty associated with comprehensive subset searches.
+0	NA	NA	NA	METHODS	Consequently, the SNPs showing p values < 5 x 10- 6 in the subset-based meta-analysis were also tested for association in each specific disease
+0	NA	NA	NA	METHODS	To identify the most likely causal genes at associated loci, independent signals were annotated using several databases.
+0	NA	NA	NA	METHODS	First, all associated genetic variants were annotated using the variant effect predictor (VEP).
+0	NA	NA	NA	METHODS	Then, we used Immunobase and the GWAS catalog to explore whether the lead SNPs:or variants in LD with them (r2 >= 0.2) according to the European population of the 1000 Genomes Project:had been previously associated with immune-mediated diseases at genome-wide significance level.
+0	NA	NA	NA	METHODS	For SNPs for which clear candidate genes have already been reported, we considered these as the most probable genes.
+0	NA	NA	NA	METHODS	On the other hand, in the case of SNPs for which clear candidate genes have not been reported, we took into account VEP annotations, as follows: for SNPs annotated as coding, we reported the gene where each particular variant mapped; for SNPs annotated as intronic, upstream, downstream, or intergenic, we prioritized genes by using DEPICT (Data-driven Expression-Prioritized Integration for Complex Traits).
+0	NA	NA	NA	METHODS	DEPICT is an integrative tool that employs predicted gene functions to systematically prioritize the most likely causal genes at associated loci
+0	NA	NA	NA	METHODS	Functional annotation of lead polymorphisms and their correlated variants (r2 >= 0.8) was performed using publicly available functional and biological databases.
+0	NA	NA	NA	METHODS	On the one hand, the possible functional impact of non-synonymous SNPs was evaluated using SIFT.
+0	allergy	v4.1	NA	METHODS	On the other hand, Haploreg v4.1 was used to explore whether SNPs overlapped with conserved positions (Genomic Evolutionary Rate Profiling: GERP), tissue-specific chromatin state methylation marks (promoter and enhancer marks) based on the core-HMM 15 state model, tissue-specific DNase I hypersensitive sites (DHSs), tissue-specific transcription factor binding sites (TFBSs), and/or published expression quantitative trait locus (eQTL) signals in immune cell lines, cell types relevant for each specific disorder, and/or whole blood.
+0	NA	v4.1	NA	METHODS	Sources of Haploreg v4.1 include public datasets from the Roadmap Epigenomics project, the Encyclopedia of DNA Elements (ENCODE) Consortium and more than 10 eQTL studies, including the Genotype-Tissue Expression (GTEx) project
+0	NA	NA	NA	METHODS	Additionally, we used the GenomeRunner web server to determine whether the set of pleiotropic SNPs significantly co-localized with regulatory genome annotation data in specific cell types from the ENCODE and Roadmap Epigenomics projects.
+0	NA	NA	NA	METHODS	Briefly, GenomeRunner calculates enrichment p values using Chi-squared test by evaluating whether a set of SNPs of interest co-localizes with regulatory datasets more often that could happen by chance.
+0	NA	NA	NA	METHODS	Specifically, we tested for overrepresentation of 161 TFBSs from the ENCODE project and histone modifications (acetylation of histone H3 at lysine 27 (H3K27ac), mono-methylation of histone H3 at lysine 4 (H3K4me1), and tri-methylation of histone H3 at lysine 4 (H3K4me3)) and DHSs in 127 cell types from the Roadmap Epigenomics project.
+0	NA	NA	NA	METHODS	Regulatory enrichment p values were corrected for multiple testing using the Benjamini-Hochberg false discovery rate (FDR) procedure
+0	NA	NA	NA	METHODS	Next, we performed protein-protein interaction (PPI) and pathway analysis to evaluate the existence of biological processes enriched among the set of pleiotropic loci.
+0	NA	NA	NA	METHODS	PPI analysis was conducted using STRING 10.5, a database of direct (physical) and indirect (functional) interactions derived from five main sources: genomic context prediction, high-throughput lab experiments, co-expression, text mining, and previous knowledge in databases.
+0	NA	NA	NA	METHODS	In STRING, each PPI is annotated with a score, ranging from 0 to 1, which indicates the confidence of the interaction.
+0	NA	NA	NA	METHODS	We also used the list of common genes to perform KEGG pathway analysis using WebGestalt (WEB-based GEne SeT AnaLysis Toolkit) with the human genome as reference set, the Benjamini Hochberg adjustment for multiple testing, and a minimum number of two genes per category
+0	NA	transforming growth factor beta	NA	METHODS	Finally, we investigated whether drugs currently used for other indications could be used for the treatment of RA, CeD, T1D, and/or SSc by using DrugBank (version 5.0.9, released 2017-10-02).
+0	NA	NA	NA	METHODS	DrugBank is a database containing 10,507 drug entries as well as 4772 non-redundant protein sequences linked to these drugs.
+0	NA	NA	NA	METHODS	"First, we identified genes in direct PPI with the pleiotropic genes by using STRING 10.5, with a minimum required interaction score of 0.700 (high confidence) and excluding ""text mining"" as a source of interaction prediction."
+0	NA	NA	NA	METHODS	Subsequently, we searched DrugBank to identify pleiotropic genes, and genes in direct PPI with them, which are targets for approved, clinical trial or experimental pharmacologically active drugs
+0	autoimmune disease	transforming growth factor beta	NA	RESULTS	After applying quality control filters and imputation, we analyzed Immunochip data from 37,159 patients diagnosed with an autoimmune disease (11,489 CeD, 15,523 RA, 3477 SSc, and 6670 T1D) and 22,308 healthy controls, all of them of European origin.
+0	NA	NA	NA	RESULTS	We performed a subset-based association analysis using ASSET to identify SNPs shared by at least two of the autoimmune conditions analyzed as well as the best subset of diseases contributing to the association signal.
+0	NA	NA	NA	RESULTS	Summary statistics from the subset-based meta-analysis are available in Additional file 3.
+0	NA	NA	NA	RESULTS	We observed 60 loci containing at least one genetic variant at genome-wide significance (p value <=5 x 10- 08) in the meta-analysis (Additional file 2: Figure S3).
+0	NA	NA	NA	RESULTS	After LD clumping, an independent association was found for 69 genetic variants within those genomic regions, 31 of which were associated with individual diseases and 38 were shared by two or more phenotypes (Additional file 1: Table S2)
+0	NA	NA	NA	TABLE	Independent genetic variants reaching genome-wide level of significance in the subset-based meta-analysis and showing pleiotropic effects across disease
+0	NA	NA	NA	RESULTS	The 38 identified common variants mapped on 34 different genomic regions (Table 1 and Additional file 1: Table S2).
+1	autoimmune disease	PADI4	NA	RESULTS	According to the GWAS Catalog and Immunobase, five of these shared loci (PADI4 at 1p36.13, NAB1 at 2q32.3, COBL at 7p12.1, CCL21 at 9p13.3, and GATA3 at 10p14) have been associated with a single autoimmune disease so far and thus they represent new pleiotropic loci in autoimmunity.
+1	NA	PTPN22	rs1217403	RESULTS	We also observed several independent signals within three known shared risk loci, four of which (rs1217403 in PTPN22, rs6749371 and rs7574865 in STAT4, and rs17753641 in IL12A) are new signals for some of the diseases contributing to the association (Table 1 and Additional file 1: Table S2).
+1	NA	PTPN22	rs2476601	RESULTS	For example, we identified two independent variants associated with RA and T1D in PTPN22: rs2476601:a known risk variant for both conditions:and rs1217403:which is not linked to the SNPs previously associated with RA and T1D (r2 = 0.03).
+1	multi-disease	STAT4	rs6749371	RESULTS	Interestingly, three independent multi-disease signals were detected within the 2q32.3 region, two of them (rs6749371 and rs7574865) located within STAT4 and another one (rs10931468) located within the NAB1 gene (Table 1 and Additional file 1: Table S2).
+0	NA	NA	NA	RESULTS	Interestingly, this last locus has not been previously associated with any of the diseases contributing to the association signal, RA, and SSc
+1	NA	ITGA4	NA	RESULTS	On the other hand, an opposite effect was observed for ten of the shared genetic variants that mapped on ITGA4, IL12A, TNIP1, TAGAP, COBL, IL2RA, ZMIZ1, DDX6, IKZF4, and CTSH regions (Additional file 2: Figure S4 and Table S3).
+1	NA	IL12A	rs17753641	RESULTS	For example, the minor allele (G) of the IL12A rs17753641 polymorphism, which has been previously reported to confer risk to CeD, had a protective effect for SSc in our study.
+1	NA	TAGAP	rs212407	RESULTS	In addition, an opposite effect was also observed for the TAGAP rs212407 variant, which appeared to confer risk to CeD and protection to RA and T1D, as previously described
+0	NA	NA	NA	RESULTS	In order to validate our findings, the pleiotropic role of the shared variants identified by ASSET was evaluated using the CCMA approach.
+0	NA	NA	NA	RESULTS	As shown in Additional file 1: Table S4, 34 of the 38 SNPs had a pleiotropic effect according to CCMA (best model including at least two diseases).
+0	NA	NA	NA	RESULTS	It should be noted that the second best model obtained with this method yielded z-scores very similar to those of the best model.
+0	NA	NA	NA	RESULTS	In this regard, when considering either of the two best models, all pleiotropic SNPs identified by ASSET showed shared effects across diseases in the CCMA (Additional file 1: Table S4).
+0	NA	NA	NA	RESULTS	Furthermore, we observed a high concordance rate between the best subset of diseases identified by ASSET and the best models (best or second best model) according to CCMA.
+0	NA	NA	NA	RESULTS	Specifically, best models completely matched between both methods for 29 of the 38 SNPs (concordance rate of 0.76).
+0	NA	NA	NA	RESULTS	In addition, for the remaining 9 pleiotropic variants, best models partially overlapped between ASSET and CCMA and, in all the cases except one, diseases contributing to the association signal according to ASSET were included in the best model of CCMA (Additional file 1: Table S4).
+0	NA	transforming growth factor beta	rs60600003	RESULTS	For instance, whereas ASSET identified two diseases (CeD and SSc) contributing to the association signal observed for rs60600003, the best model obtained with CCMA included three diseases, the two already forming part of the best subset of ASSET (CeD, SSc) and RA.
+0	NA	NA	NA	RESULTS	Considering those SNPs for which the best model overlapped totally or partially between both approaches, the concordance rate between ASSET and CCMA was 0.87, considering the best model of CCMA, and 1, considering the best or second best model of CCMA.
+0	cross-disease	NA	NA	RESULTS	This analysis confirms the high reliability of our cross-disease meta-analysis results, strongly supporting the role of the 38 genetic variants as pleiotropic risk factors in autoimmunity
+0	rheumatoid arthritis	NA	NA	FIG	Novel genome-wide associated loci for celiac disease, rheumatoid arthritis, systemic sclerosis and type 1 diabetes.
+0	NA	NA	NA	FIG	Pleiotropic SNPs reaching genome-wide significance level and SNPs associated with a single disease and reaching p values lower than 5 x 10- 6 in the subset-based meta-analysis were checked for genome-wide association in each of the diseases included in the best subset.
+0	NA	NA	NA	FIG	Negative log10-tranformed p value (disease-specific p values) (upper plot) and odds ratio (lower plot) for the new genome-wide signals are shown.
+0	NA	NA	NA	FIG	The six loci are annotated with the candidate gene symbol.
+0	rheumatoid arthritis	NA	NA	FIG	Circles represent the analyzed diseases (red: celiac disease; yellow: rheumatoid arthritis; green: systemic sclerosis; blue: type 1 diabetes).
+0	NA	NA	NA	FIG	The red line represents genome-wide level of significance (p = 5 x 10- 8
+0	NA	NA	NA	RESULTS	Of the 34 shared risk loci identified, 20 have already been reported as risk factors for the diseases contributing to the association, according to Immunobase and the GWAS catalog, whereas 14 of them (more than 40%) represent potentially new loci for at least one of the diseases included in the best subset (Table 1).
+0	NA	NA	NA	RESULTS	Considering this, we checked whether these pleotropic variants were associated at genome-wide level of significance with any of the diseases contributing to each specific signal.
+1	NA	NAB1	rs10931468	RESULTS	Two of the common variants, rs10931468 (mapping on the NAB1 region, 2q32.3) and rs10892299 (mapping on the DDX6 region, 11q23.3), were associated with RA and SSc, respectively (Fig.
+0	NA	NA	NA	RESULTS	1, Additional file 2: Figures S5a and S6a, and Additional file 1: Table S2); hence they represent novel genetic risk factors for these diseases.
+1	NA	NAB1	rs10931468	RESULTS	The rs10931468 genetic variant is located within the NAB1 gene, near STAT4 (Table 1).
+1	NA	STAT4	NA	RESULTS	However, this SNP is not linked to the STAT4 variants previously associated with the diseases under study (D' < 0.13 and r2 < 0.012).
+0	NA	NA	NA	RESULTS	In fact, this SNP showed an independent effect in the RA meta-analysis after conditioning on the most associated variants within the region (Additional file 2: Figure S5b)
+0	NA	NA	NA	RESULTS	In addition, to avoid any loss of power, SNPs associated with a single disease and reaching p values lower than 5 x 10- 6 in the subset-based meta-analysis were checked for association in each specific disorder.
+0	NA	transforming growth factor beta	rs6806528	RESULTS	Using this strategy, we identified four novel single-disease genome-wide associations, one for CeD (rs6806528 at FRMD4B), two for SSc (rs4258254 at TNFSF4 and rs17849502 at NCF2), and one for T1D (rs4238595 at UMOD) (Fig.
+0	NA	NA	NA	RESULTS	1, Additional file 2: Figures S6-S8, and Additional file 1: Table S5)
+0	NA	NA	NA	RESULTS	SNP annotation showed that only 5% of the pleiotropic SNPs were coding, including two missense variants (Additional file 1: Table S2), whereas five of the non-coding SNPs (13%) were in tight LD (r2 >= 0.8) with coding variants (three missense, one synonymous and one splice donor) (Additional file 2: Table S6).
+1	NA	DNASE1L3	rs35677470	RESULTS	Two of the non-synonymous polymorphisms, rs35677470 within DNASE1L3 and rs2289702 (a proxy for rs34593439) within CTSH, appeared to have a deleterious effect according to SIFT (Additional file 1: Table S2).
+0	NA	NA	NA	RESULTS	Of the four new single-disease signals, three were non-coding polymorphisms and one was a missense variant (Additional file 1: Table S5)
+0	NA	NA	NA	FIG	Functional annotation of 38 pleiotropic polymorphisms (p < 5 x 10-8 in the subset-based meta-analysis) and four single-disease associated variants (p < 5 x 10-6 in the subset-based meta-analysis and p < 5 x 10-8 in disease-specific meta-analyses).
+0	NA	v4.1	NA	FIG	Haploreg v4.1 was used to explore whether lead SNPs, and their proxies (r2 >= 0.8), overlapped with different regulatory datasets from the Roadmap Epigenomics project, the ENCODE Consortium and more than ten eQTL studies in immune cell lines, cell types relevant for each specific disorder and/or whole blood.
+0	allergy	GERP	NA	FIG	Colors denote both lead and proxy SNPs overlapping with the different regulatory elements analyzed: G (red): conserved positions (Genomic Evolutionary Rate Profiling, GERP); P (orange): promoter histone marks; E (yellow): enhancer histone marks; D (green): DNase I hypersensitive sites (DHS); T (blue): transcription factor binding sites (TFBSs); eQ (purple): expression quantitative trait loci (eQTL).
+0	NA	NA	NA	FIG	Functional annotations overlapping with proxy SNPs are marked with an asterisk.
+0	NA	NA	NA	FIG	N proxy, number of proxy SNPs for each lead variant.
+0	NA	NA	NA	FIG	The different loci are annotated with the candidate gene symbo
+0	NA	NA	NA	RESULTS	Considering that most of the associated genetic variants did not show direct effects on protein function, we identified all SNPs in high LD (r2 >= 0.8) with both pleiotropic and single-disease lead signals and evaluated their possible functional implications.
+0	NA	NA	NA	RESULTS	We checked for overlap between the lead and proxy SNPs and functional annotations from the Roadmap Epigenomics, ENCODE and GTEx projects, including conserved positions, histone modifications at promoters and enhancers, DHS, TFBS, and eQTL.
+0	NA	NA	NA	RESULTS	As shown in Fig.
+0	NA	NA	NA	RESULTS	2, all pleiotropic SNPs lie in predicted regulatory regions in immune cell lines or whole blood, whereas 76% overlap with more than three functional annotations.
+0	NA	NA	NA	RESULTS	In addition, most of them appear to act as eQTLs, thereby affecting gene expression levels (Fig.
+0	NA	NA	NA	RESULTS	2 and Additional file 1: Table S7)
+0	NA	NA	NA	RESULTS	Similarly, all single-disease-associated variants also overlapped with regulatory elements in whole blood, immune cells, and/or cell types relevant for each specific disorder (Fig.
+0	NA	NA	NA	RESULTS	2 and Additional file 1: Table S7)
+0	NA	NA	NA	FIG	Functional regulatory elements and PPI enrichment analysis.
+0	allergy	DNase 1	NA	FIG	a Heat map showing DNase 1 hypersensitive sites (DHSs) and histone marks enrichment analysis of the set of pleiotropic variants.
+0	NA	NA	NA	FIG	GenomeRunner web server was used to determine whether the set of pleiotropic SNPs significantly co-localize with regulatory genome annotation data in 127 cell types from the Roadmap Epigenomics project.
+0	NA	NA	NA	FIG	First column shows cell types grouped and colored by tissue type (color-coded as indicated in the legend).
+0	autoimmune disease	NA	NA	FIG	Tissues relevant for the autoimmune diseases studied as well as other tissues for which any of the analyzed functional annotations showed a significant enrichment p value (p < 0.05 after FDR correction) are shown.
+0	NA	NA	NA	FIG	The remaining four columns denote the analyzed functional annotations, DHSs, H3K27ac, H3K4me1, and H3K4me3.
+0	NA	NA	NA	FIG	Results of the enrichment analysis are represented in a scale-based color gradient depending on the p value.
+0	NA	NA	NA	FIG	Blue indicates enrichment and white indicates no statistical significance after FDR adjustment.
+0	NA	NA	NA	FIG	b Interaction network formed for the set of common genes.
+0	NA	NA	NA	FIG	Direct and indirect interactions among genes shared by different disease subgroups were assessed using STRING.
+0	NA	NA	NA	FIG	"Plot shows results of the ""molecular action"" view such that each line shape indicates the predicted mode of action (see legend)."
+1	NA	TH1	NA	FIG	Genes involved in the biological pathways enriched among the set of pleiotropic loci (Additional file 2: Table S10) are shown in color: red: Th1 and Th2 cell differentiation; green: Th17 cell differentiation; yellow: Jak-STAT signaling pathway; blue: T cell receptor signaling pathwa
+0	NA	NA	NA	RESULTS	Subsequently, to determine whether the set of 38 independent pleiotropic SNPs was enriched for regulatory elements in specific cell types, we performed a hypergeometric test using GenomeRunner.
+0	NA	NA	NA	RESULTS	Specifically, we checked for overrepresentation of DHSs, histone modifications (H3K27ac, H3K4me1, and H3K4me3), and TFBSs in human cell lines and tissues from the ENCODE and Roadmap Epigenomics projects.
+0	NA	NA	NA	RESULTS	Results of this analysis are shown in Fig.
+0	NA	NA	NA	RESULTS	3a and Additional file 1: Table S8.
+0	NA	NA	NA	RESULTS	Pleiotropic SNPs showed overrepresentation of DHSs in different subsets of T cells, with the strongest enrichment pointing to regulatory T (Treg) cells, T helper memory and naive cells, and Th17 lymphocytes.
+0	NA	NA	NA	RESULTS	Similarly, the H3k4me1, H3k27ac, and H3k4me3 histone marks:which are especially informative of most active enhancer and promoter regulatory regions:were also overrepresented in these specific cell types (Fig.
+0	NA	NA	NA	RESULTS	3a and Additional file 1: Table S8).
+0	NA	BATF	NA	RESULTS	In addition, shared genetic variants were enriched for targets of 12 TFs, with BATF (PBH = 6.40E-15), RelA (PBH = 6.11E-12), and IRF4 (PBH = 1.88E-08) showing the strongest overrepresentation (Additional file 2: Table S9)
+0	NA	NA	NA	RESULTS	We further conducted PPI and KEGG pathway analysis to gain insight into the biological processes affected for the set of common genes.
+1	NA	TH1	NA	RESULTS	By constructing a network of direct and indirect interactions, we found a main cluster enriched for proteins involved in Th1 and Th2 cell differentiation (PBH = 6.21E-07), Jak-STAT signaling pathway (PBH = 4.53E-03), T cell receptor signaling pathway (PBH = 7.85E-03), and Th17 cell differentiation (PBH = 7.85E-03) (Fig.
+0	NA	NA	NA	RESULTS	3b and Additional file 2: Table S10)
+0	NA	transforming growth factor beta	NA	RESULTS	Finally, in order to identify potentially new leads for therapies for CeD, RA, SSc, and T1D, we investigated whether proteins encoded by pleiotropic genes:or any gene in direct PPI with them:are targets for approved, clinical trial, or experimental pharmacologically active drugs.
+0	autoimmune disease	transforming growth factor beta	NA	RESULTS	Using this approach, we found 26 potentially repositionable drugs: 8 indicated for RA that would be worth exploring for CeD, SSc, and/or T1D treatment and 18 with other indications that could be promising candidates for the treatment of at least two of the four autoimmune diseases under study (Table 2).
+0	autoimmune disease	NA	NA	RESULTS	Interestingly, 15 of the 19 drug targets identified among the set of common genes are involved in the biological pathways overrepresented in the set of autoimmune disease common genes (Fig.
+0	NA	NA	NA	RESULTS	3b)
+0	cross-disease	transforming growth factor beta	NA	DISCUSS	Through a large cross-disease meta-analysis of Immunochip data from four seropositive autoimmune disorders, CeD, RA, SSc, and T1D, we have been able to advance in the knowledge of the genetic overlap existing in autoimmunity.
+1	NA	PADI4	NA	DISCUSS	Specifically, our meta-analysis identified 38 genetic variants shared among subsets of the diseases under study, five of which, including PADI4, NAB1, COBL, CCL21, and GATA3, represent new shared genetic risk loci.
+0	autoimmune disease	NA	NA	DISCUSS	Moreover, ten of the 38 pleiotropic variants showed opposite allelic effects across phenotypes contributing to the association signal, thus indicating the complexity of the molecular mechanisms by which SNPs affect autoimmune diseases
+0	multi-disease	NA	NA	DISCUSS	Consistent with previous findings, functional annotation of these pleiotropic polymorphisms suggested that the majority of multi-disease signals affect disease risk by altering gene regulation.
+0	NA	NA	NA	DISCUSS	Interestingly, tissue-specific enrichment analysis for regulatory elements suggested a specific regulatory role of the pleiotropic variants in Th17 and Treg cells, thus pointing to a crucial contribution of these cell types to the pathogenic mechanisms shared by these disorders.
+0	NA	BATF	NA	DISCUSS	In addition, enrichment for targets of several TFs, mainly BATF, RelA, and IRF4, was also evident.
+0	NA	BATF	NA	DISCUSS	It should be noted that BATF and IRF4 are both required for the differentiation of Th17 cells, whereas RelA is crucial for Treg-induced tolerance.
+0	NA	NA	NA	DISCUSS	According to this data, pleiotropic variants could potentially regulate gene expression by disrupting motifs recognized for TFs in different subsets of T cells, mainly Th17 and Treg lymphocytes.
+0	NA	NA	NA	DISCUSS	Subsequently, results from pathway enrichment analysis confirmed the relevant contribution of pleiotropic variants and target genes in T cell-mediated immunity.
+0	NA	NA	NA	DISCUSS	Moreover, drug repositioning analysis evidenced several candidate drugs with potential new clinical use for the diseases under study.
+0	NA	transforming growth factor beta	NA	DISCUSS	Notably, most of these drugs were directed against proteins involved in the biological processes overrepresented among the set of common genes and, therefore, their potential clinical application to the treatment of CeD, RA, SSc, and T1D appeared to be of special interest.
+0	NA	NA	NA	DISCUSS	However, it should be considered that both the functional effects of pleiotropic variants as well as the disease-causal genes remain elusive in most cases, thus representing a limitation for drug repositioning.
+0	autoimmune disease	NA	NA	DISCUSS	In addition, ten of these shared genetic variants showed opposite effects across diseases and, therefore, the complexity of molecular mechanisms by which SNPs affect autoimmune diseases should be taken into account when prioritizing drugs based on repositioning studies
+0	NA	NA	NA	DISCUSS	Furthermore, we also reported six new genome-wide associations for the diseases under study.
+0	NA	NA	NA	DISCUSS	We identified two new susceptibility loci for RA and SSc among the pleiotropic signals.
+1	NA	NAB1	NA	DISCUSS	The dense genotyping of immune-related loci provided by the Immunochip platform allowed identifying NAB1 as a new susceptibility locus for RA within the 2q22.3 region, which also contains the pan-autoimmune susceptibility gene STAT4.
+1	NA	NAB1	rs10931468	DISCUSS	In addition, interrogation of publicly available eQTL data sets showed that the associated NAB1 variant, rs10931468, acts as an eQTL affecting NAB1 expression in lymphoblastoid cell lines.
+1	NA	NAB1	NA	DISCUSS	NAB1 encodes the NGFI-A binding protein 1, which has been shown to form a complex with Egr3 involved in the silencing of interferon gamma receptor 1 (ifngr1).
+1	NA	NAB1	NA	DISCUSS	Specifically, Nab1 was required for deacetylation of the ifngr1 promoter and downregulation of cell surface receptor.
+1	NA	DDX6	NA	DISCUSS	On the other hand, an intergenic variant located near DDX6 was also identified as a new genetic risk locus for SSc.
+0	NA	NA	NA	DISCUSS	This gene encodes a member of the DEAD box protein family recently identified as a suppressor of interferon-stimulated genes
+0	NA	NA	NA	DISCUSS	Additionally, some of the single-disease genome-wide associations identified in the present study had not been previously reported.
+0	NA	FRMD4B	NA	DISCUSS	The FRMD4B locus was found to be associated with CeD.
+0	NA	FRMD4B	NA	DISCUSS	Although genetic variants within the FRMD4B region have been previously involved in disease susceptibility, our study is the first one reporting an association between CeD and this locus at the genome-wide significance level.
+0	autoimmune disease	FRMD4B	NA	DISCUSS	FRMD4B, encoding a scaffolding protein (FERM domain containing 4B protein), has not been described before in relation to any autoimmune disorder, representing a CeD-specific risk locus
+0	NA	NA	NA	DISCUSS	Regarding SSc, two new genetic risk loci were identified.
+0	NA	NA	NA	DISCUSS	According to the subset-based meta-analysis results, SSc was the only phenotype contributing to the association signal detected within the 1q25.1 region; however, this locus is also a known susceptibility factor for RA.
+0	cross-disease	NA	NA	DISCUSS	Indeed, several SNPs within this region showed pleiotropic effects in RA and SSc in the cross-disease meta-analysis, but they did not reach genome-wide significance (top RA-SSc common signal: p value = 5.86E-06).
+0	NA	TNFSF4	rs10798269	DISCUSS	A relevant gene for the immune response, TNFSF4, is located within the 1q25.1 region; nevertheless, functional annotation revealed that the rs10798269 SNP (a proxy for the top associated variant) acted as a trans-eQTL influencing the expression level of the PAG1 gene (p value = 4.20E-06).
+0	NA	PAG1	NA	DISCUSS	Strikingly, PAG1, residing on chromosome region 8q21.13, encodes a transmembrane adaptor protein that binds to the tyrosine kinase csk participating in the negative control of the signaling mediated by the T cell receptor (TCR).
+0	NA	csk	NA	DISCUSS	It should be noted that CSK is an established risk locus for SSc.
+0	NA	NA	NA	DISCUSS	A second novel genome-wide association for SSc was identified within the 1q25.3 region.
+0	autoimmunity of systemic lupus erythematosus	NCF2	rs17849502	DISCUSS	The strongest signal belonged to a missense variant (rs17849502), also associated with systemic lupus erythematosus, which leads to the substitution of histidine-389 with glutamine (H389Q) in the PB1 domain of the neutrophil cytosolic factor 2 (NCF2) protein.
+0	NA	NCF2	NA	DISCUSS	NCF2 is part of the multi-protein NADPH oxidase complex found in neutrophils.
+0	NA	NA	C for 48	DISCUSS	Interestingly, it has been shown that the 389Q mutation has a functional implication, causing a twofold decrease in reactive oxygen species production
+0	NA	UMOD	rs4238595	DISCUSS	Finally, a genetic variant (rs4238595) located downstream of the UMOD gene, encoding uromodulin, was identified as a new genetic risk factor for T1D.
+0	NA	NA	NA	DISCUSS	Interestingly, a SNP linked to this variant showed nominal association in a previous GWAS performed in this disorder.
+0	Kidneys in Diabetes	NA	NA	DISCUSS	This locus has also been implicated in diabetic kidney disease.
+0	NA	NA	NA	DISCUSS	Nevertheless, no association with any other immune-related condition has been described so far and, therefore, this locus represents a T1D-specific association.
+0	NA	NA	NA	DISCUSS	In addition, functional annotation of the lead variant and their proxies showed an overlap with enhancer histone marks and DHSs specifically in pancreas, which supports its potential role in the T1D pathogenesis
+0	autoimmune disease	transforming growth factor beta	NA	CONCL	In summary, by conducting a subset-based meta-analysis of Immunochip data from four seropositive autoimmune diseases, we have increased the number of pleiotropic risk loci in autoimmunity, identified new genome-wide associations for CeD, SSc, RA, and T1D and shed light on common biological pathways and potential functional implications of shared variants.
+0	autoimmune disease	NA	NA	CONCL	Knowledge of key shared molecular pathways in autoimmune diseases may help identify putative common therapeutic mechanisms.
+0	autoimmune disease	NA	NA	CONCL	In this regard, we identified several drugs used for other indications that could be repurposed for the treatment of the autoimmune diseases under study.
+0	autoimmune disease	NA	NA	CONCL	Thus, a new classification of patients based on molecular profiles, rather than clinical manifestations, will make it possible for individuals with a certain autoimmune disorder to benefit from therapeutic options currently used to treat another disease with which they share etiological similarities
+0	NA	NA	NA	CONCL	Due to the design of the Immunochip, all shared pathways identified in our study were related to immune regulation.
+0	cross-disease	NA	NA	CONCL	Hopefully, future cross-disease studies using GWAS data will allow identification of non-immune loci and pathways shared in autoimmunity
+0	NA	NA	NA	AUTH_CONT	AM and JM were involved in the conception and design of the study.
+0	NA	NA	NA	AUTH_CONT	AM and MK performed analyses.
+0	NA	MDM	NA	AUTH_CONT	AZ, JG-A, W-MC, SO-G, IG-A, LR-R, RR-F, MAG-G, MDM, SR, SSR, and CW were involved in study subject and data recruitment and participated in interpretation of the data.
+0	NA	NA	NA	AUTH_CONT	AM and JM drafted the manuscript.
+0	NA	NA	NA	AUTH_CONT	All authors revised critically the manuscript draft.
+0	NA	NA	NA	AUTH_CONT	All authors read and approved the final manuscript
+0	NA	NA	NA	AUTH_CONT	Written informed consent was obtained from all subjects and the design of the work was approved by the Ethics Committee of the Spanish National Research Council and the local ethical committees of the different participating institutions.
+0	NA	NA	NA	AUTH_CONT	Research was conducted in accordance with the principles of the Declaration of Helsinki
+0	NA	NA	NA	COMP_INT	Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations

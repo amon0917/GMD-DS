@@ -1,0 +1,250 @@
+0	Type 2 diabetes	CHD	NA	ABSTRACT	To evaluate the shared genetic etiology of type-2 diabetes (T2D) and coronary heart disease (CHD), we conducted a multi-ethnic study of genetic variation genome-wide for both diseases in up to 265,678 subjects for T2D and 260,365 subjects for CHD.
+0	NA	CHD	NA	ABSTRACT	We identify 16 previously unreported loci for T2D and one for CHD, including a novel T2D association at a missense variant in HLA-DRB5 (OR=1.29).
+0	NA	CHD	NA	ABSTRACT	We show that genetically mediated increase in T2D risk also confers higher CHD risk.
+0	NA	CHD	NA	ABSTRACT	Joint analysis of T2D loci demonstrated that 24% are associated with CHD, highlighting eight variants - two of which are coding - where T2D and CHD associations appear to co-localize, and a novel joint T2D/CHD association which also replicated for T2D.
+0	NA	NA	NA	ABSTRACT	Variants associated with both outcomes implicate several novel pathways including cellular proliferation and cardiovascular development
+0	Type 2 diabetes	NA	NA	INTRO	The global epidemic of type 2 diabetes mellitus (T2D) is expected to worsen over the coming decades, and the number of people with T2D is projected to reach ~592 million by 2035.
+0	coronary artery disease	CHD	NA	INTRO	T2D is also a major vascular risk factor for coronary heart disease (CHD) which is the leading cause of death worldwide.
+0	NA	CHD	NA	INTRO	Patients with T2D are also at a twofold higher risk of mortality due to CHD compared to those that do not have T2D, though the mechanisms that link T2D with increased risk of CHD remain inadequately understood.
+0	NA	GLP-1	NA	INTRO	Recently, a coding variant in the gene encoding the glucagon-like peptide-1 receptor (GLP1R) was reported that was associated with lower fasting glucose, lower T2D susceptibility, and modestly with reduced risk for CHD, a result consistent with existing therapeutic perturbation of this gene.
+0	NA	CHD	NA	INTRO	This type of result is intriguing, and motivates the search for additional loci with this type of genetic support: association with protective effects for both T2D and CHD in humans.
+0	NA	NA	NA	INTRO	Such targets would merit detailed molecular, functional, and therapeutic experimentation, but we need first to identify these candidate loci from existing and newly generated data sets
+0	NA	CHD	NA	INTRO	Genome-wide association studies (GWAS) have advanced our understanding of the genetic architecture individually for each disease, yielding discovery of several dozen loci for T2D and CHD.
+0	NA	NA	NA	INTRO	Previous work has also demonstrated a genetic correlation between both endpoints, though no study has directly compared individual variants beyond established sites across the genome nor examined the pathways that are shared between the two outcomes.
+1	NA	CDKN2A	NA	INTRO	Regional association for multiple SNPs for both endpoints at a locus has been observed (e.g., CDKN2A/2B or APOE).
+0	NA	CHD	NA	INTRO	These initial observations indicate that the genetic pathways that connect T2D and CHD may have a modest impact on disease risk, hence requiring large sample sizes to enable robust discovery
+0	NA	NA	NA	INTRO	We therefore assembled a discovery association set for T2D comprising of 73,337 T2D cases and 192,341 controls to first enable discovery of novel loci for T2D.
+0	NA	CHD	NA	INTRO	Second, we used additional genetic data on 90,831 CHD cases and 169,534 controls to identify genetic pathways connected with both outcomes
+0	NA	NA	NA	RESULTS	We used genetic data from 48,437 individuals (13,525 T2D cases and 34,912 controls) of South Asian (n = 28,139; 9,654 T2D cases and 18,485 controls) and European (n = 20,298; 3,871 T2D cases and 16,427 controls) descent.
+0	NA	NA	NA	RESULTS	We utilized non-overlapping data for T2D from the DIAGRAM consortium and conducted combined discovery analysis on 198,258 participants (48,365 T2D cases and 149,893 controls).
+0	NA	NA	NA	RESULTS	Characteristics of the participants and information on genotyping QC are summarized in Supplementary Tables 1-3 and Supplementary Figure 1.
+0	NA	NA	NA	RESULTS	After removing known loci, we advanced 21 novel loci with suggestive association with T2D (P <= 5 x 10-6).
+0	NA	NA	NA	RESULTS	We performed further testing of these SNPs in additional samples of up to 67,420 individuals (24,972 cases and 42,448 controls) of South Asian (n = 13,960; 4,587 T2D cases and 9,373 controls), European (n = 2,479; 387 T2D cases and 2,092 controls), and East-Asian descent (n = 50,981; 19,998 T2D cases and 30,983 controls).
+0	NA	NA	NA	RESULTS	Our combined discovery and replication analyses included 265,678 participants (73,337 T2D cases and 192,341 controls) (Supplementary Figure 1a).
+0	NA	NA	NA	RESULTS	In the combined analysis across both stages, 15 SNPs at previously unreported loci for T2D obtained genome-wide significance (fixed-effects meta-analysis P < 5 x 10-8, Table 1).
+0	NA	NA	rs10507349	RESULTS	A previous report found one of our variants (rs10507349) strongly associated with T2D, but we report genome-wide significance for this variant here for the first time.
+0	Supplementary Figure 1a	NA	NA	RESULTS	Population-specific analyses (i.e., Europeans only or South Asians only) identified one additional locus where a sentinel variant obtained genome-wide significance in only European participants (Table 1, P Figure 1, Supplementary Figures 2 and 3, and Supplementary Tables 4 and 5).
+0	NA	NA	NA	RESULTS	Aside from this case, there was little evidence of heterogeneity of effect between the ancestry groups in either our primary genetic analyses or across the two stages (Supplementary Figure 2).
+0	NA	NA	NA	RESULTS	We replicated previously reported associations with T2D at 59 loci at genome-wide significance; a further 25 known loci were associated with T2D at < 0.05 (Figure 1 and Supplementary Table 4).
+0	NA	NA	rs76895963	RESULTS	We did not observe association at 3 loci (rs76895963, rs7330796, rs4523957) in our overall meta-analyses, owing to their previous discovery in subjects of East Asian ancestry (Supplementary Table 4).
+0	NA	NA	NA	RESULTS	To nominate candidate genes and pathways, we obtained expression quantitative trait locus (eQTL) data from the MuTHER consortium and GTEx (v6, Supplementary Table 6).
+1	NA	ITFG3	NA	RESULTS	These data suggest a candidate gene at two loci (ITFG3 and PLEKHA1) where the lead eQTL association strongly tagged the T2D association (r2 = 1.0)
+0	NA	NA	NA	RESULTS	To identify coding variants that may influence protein structure at unreported T2D loci, we obtained data on up to 31,207 individuals (9,500 T2D cases, 21,707 controls) of South Asian (7,832 T2D cases, 16,703 controls) and European origin (1,668 T2D cases, 5,004 controls) (Methods) genotyped on the Exome-chip.
+0	NA	NA	NA	RESULTS	We investigated 505 variants captured by the exome-chip within +-250kbp flanking regions of the sentinel SNPs.
+0	NA	HLA-DRB5	rs701884	RESULTS	We identified one missense variant in HLA-DRB5 (rs701884), that was associated with T2D risk at close to exome-wide levels of significance (fixed-effects meta-analysis P < 2 x 10-7) (Supplementary Table 7).
+0	NA	NA	NA	RESULTS	The missense variant was found to have a relatively stronger impact on disease risk compared to the lead non-coding variant.
+1	NA	HLA-DRB5	rs701884	RESULTS	At HLA-DRB5 the odds ratio (OR) for T2D for the missense variant (rs701884) was 1.29 (95% CI: 1.23 - 1.35; P = 4.8 x 10-7) compared to the T2D OR of 1.06 (95% CI: 1.04-1.08; P = 2.1 x 10-10) for the non-coding variant (rs2050188).
+0	NA	NA	NA	RESULTS	Existing knowledge on gene function is summarized in Supplementary Table 8
+0	NA	NA	NA	RESULTS	To help understand the underlying biological mechanisms, we examined the association of genetic variation at newly discovered loci with a range of phenotypes and biomarkers (n = 70 traits) (Supplementary Table 9).
+0	NA	NA	NA	RESULTS	We also used an association screen against a panel of 105 phenotypic traits measured in the PROMIS study in up to 17,542 participants (Supplementary Table 10).
+0	NA	NA	NA	RESULTS	For these 17 loci, we conducted 4,275 variant-phenotype analyses using linear regression resulting in a Bonferroni-adjusted significance threshold of P = 1.5 x 10-5.
+1	obese	TMEM18	NA	RESULTS	Allelic variation that increased T2D risk was associated at TMEM18 with increased BMI (P = 4.39 x 10-52), BMI in childhood (P = 7.95 x 10-12), obesity (P = 2.50 x 10-25) and obesity in childhood (P = 2.85 x 10-20); at KL, with increased fasting glucose (P = 2.26 x 10-8); at PLEKHA1 with increased risk of neovascular disease (P = 2.71 x 10-94); at SLC22A1, with increased Lp(a) levels (P = 5.10 x 10-6); at CMIP, with decreased HDL-C (P = 1.32 x 10-19), increased triglycerides (P = 2.14 x 10-7) and decreased adiponectin (P = 1.87 x 10-18)
+0	NA	CHD	NA	RESULTS	We next examined the relationships of sentinel T2D SNPs with the risk of CHD at all T2D loci (Supplementary Table 11).
+0	NA	CHD	NA	RESULTS	For analyses in relation to CHD, we used data on up to 260,365 participants (90,831 CHD cases and 169,534 controls) (Methods).
+0	NA	CHD	NA	RESULTS	We found allelic variation at 17 T2D loci to be nominally associated with CHD risk at P < 0.01, which was more than expected (17 of 106 T2D SNPs, binomial test P = 5.9 x 10-13).
+0	NA	IRS1	rs7578326	RESULTS	In one case, we found that the T2D sentinel SNP rs7578326 (the IRS1 locus) was associated with both T2D and CHD at genome-wide levels of significance (Supplementary Table 11 and Supplementary Figure 4).
+0	NA	IRS1	NA	RESULTS	To the best of our knowledge, this is the first report of genetic variation at IRS1 associated with CHD beyond a reasonable doubt (Supplementary Note).
+0	NA	NA	NA	RESULTS	In what follows, we investigate the relationship between these two endpoints in more detail
+0	NA	CHD	NA	RESULTS	First, we examined if elevated T2D risk conferred a higher risk of CHD using the framework of Mendelian Randomization (MR) and examined if all genetic T2D risk pathways impact CHD susceptibility in a similar way.
+0	NA	NA	NA	RESULTS	We calculated genetic risk scores comprising collections of SNPs associated with T2D and potentially a range of cardiometabolic traits (Methods).
+0	NA	NA	NA	RESULTS	These analyses underscore three key findings.
+0	NA	CHD	NA	RESULTS	First, a genotype risk score based on variants exclusively associated with increased risk of T2D (Methods, Supplementary Table 12 and 13) was significantly associated with increased CHD risk (OR = 1.26, Wald-test P = 3.3 x 10-8), supporting a causal role for T2D in CHD etiology in a directionally consistent manner (Supplementary Table 14).
+0	NA	CHD	NA	RESULTS	Second, T2D risk scores that involved variants based on their association with established risk factors for CHD (blood pressure, BMI, lipids and anthropometric traits, Supplementary Table 13) revealed significant differences in their estimated effects in relation to CHD (OR = 1.07 to 1.43, Cochran's Heterogeneity Test P = 1.4 x 10-5), indicating that the genetic mechanisms and underlying pathways that increase risk of T2D do not uniformly impact CHD risk in the same manner (Supplementary Table 14).
+0	NA	NA	NA	RESULTS	Finally, in contrast to these scores, variants associated with T2D and glucose or insulin-related traits, but not other traits, were not associated with CHD (OR = 1.07, Wald-test P = 0.06) (Supplementary Table 14); though could be due to reduced power of this instrument relative to others, as has been observed previously.
+0	NA	CHD	NA	RESULTS	These analyses indicate that pathways segregating genetic susceptibility for T2D may not have an equivalent impact on CHD risk
+0	NA	CHD	NA	RESULTS	We next looked for enrichment in the consistency of the risk allele associated with both T2D and CHD across the genome.
+0	NA	CHD	NA	RESULTS	In our meta-analyses, of the 1,260 variants associated with T2D at a P < 5 x 10-8, we found that 76.1% of the T2D risk alleles were associated with higher risk of CHD as well, in comparison with an expectation of 50% under the null hypothesis (binomial test P = 2.6 x 10-33, Table 2).
+0	NA	CHD	NA	RESULTS	In contrast, variants associated with CHD at P < 5 x 10-8 were not enriched for directional consistency in allelic associations with T2D (48.2 vs 50% expected, binomial test P = 0.79).
+0	NA	CHD	NA	RESULTS	Among the loci nominally associated with T2D and CHD (P < 0.05 but excluding P < 5 x 10-8 associations above), 81.8% of the allelic variation associated with both the outcomes in a directionally consistent manner (binomial test P < 10-100).
+0	NA	CHD	NA	RESULTS	Furthermore, of the allelic variation that was not associated with both T2D and CHD at a P-value > 0.05, only 50.6% of the allelic variation (compared to 50% expected under the null hypothesis) was associated with the two outcomes in a directionally consistent manner (Table 2).
+0	NA	CHD	NA	RESULTS	To rule out any biases introduced due to allelic variations at a limited set of loci associated with both CHD and T2D, we conducted sensitivity analyses using genome-wide variants pruned for LD and found results consistent for an overall enrichment of loci associated with both T2D and CHD in a directionally consistent manner (Supplementary Table 15)
+0	Type 2 diabetes	CHD	NA	RESULTS	Motivated by the enrichment of directionally consistent associations of allelic variation between T2D and CHD SNPs, we performed a genome-wide association scan which modeled the joint distribution of association with both T2D and CHD (T2D-CHD, Methods), a test to help improve power for discovery of novel loci that are associated with both the outcomes (Supplementary Figure 5).
+0	NA	CHD	NA	RESULTS	After verifying that our test statistic was calibrated (Supplementary Figure 6), we used this approach to identify a set of loci that were associated with both T2D and CHD (both traits with fixed effects meta-analysis P < 10-3), and were overall associated at genome-wide levels of significance (bivariate P < 5 x 10-8, Supplementary Table 16).
+0	NA	CHD	NA	RESULTS	19 loci met these criteria, which included many established loci for T2D or CHD
+0	NA	CCDC92	NA	RESULTS	We identified one association near CCDC92 (bivariate P = 2.7 x 10-9, Supplementary Figure 7a).
+0	NA	CHD	rs825476	RESULTS	The sentinel variant (rs825476) was associated with both T2D (fixed effects meta-analysis P = 2.2 x 10-6) and CHD (fixed effects meta-analysis P = 2.9 x 10-7) (Supplementary Figure 7b and 7c); rs825476-T at this locus increased risk for both the outcomes.
+0	NA	NA	rs825476	RESULTS	To demonstrate conclusive association of rs825476 with T2D, we sought additional replication data from 8 additional cohorts, comprising 21,560 T2D cases and 42,814 controls.
+0	NA	NA	NA	RESULTS	We observed marginal replication for this variant in those data alone (OR = 1.04, 95% CI: 1.01 - 1.07; fixed effects meta-analysis P = 5.5 x 10-3), and obtained genome-wide significance when combined with the previous data (OR = 1.04, 95% CI: CI: 1.03 - 1.06; fixed effects meta-analysis P = 4.3 x 10-8), Supplementary Figure 7b).
+0	Type 2 diabetes	NA	NA	RESULTS	Analyses conditioned on the lead SNP accounted for all the residual joint T2D-CHD association in the region (Methods), indicated that the underlying genetic associations for both endpoints co-localize to a shared genetic risk factor potentially tagged by the sentinel SNP (Supplementary Figure 8).
+0	NA	CCDC92	NA	RESULTS	rs825476-T allele also increased the expression of CCDC92 in the subcutaneous adipose tissue (Supplementary Table 6) in eQTL analyses conducted in the MuTHER consortium and GTEx [8,9], suggesting a possible candidate gene for the association
+0	NA	CHD	NA	RESULTS	We sought to reduce our list to a subset of loci that co-localized the T2D and CHD associations to a single underlying genetic risk variant by conducting formal co-localization analyses (Methods).
+0	NA	CHD	NA	RESULTS	8 of these 19 met this criterion, and at 7 of those 8 loci, the risk allele for T2D also increased the risk for CHD (Table 3).
+1	NA	TCF7L2	NA	RESULTS	This included loci with known associations with T2D (TCF7L2, HNF1A, and CTRB1/2) as well as previously unreported T2D loci reported here (MIR17HG and CCDC92), or known association with CHD (MRAS and ZC3HC1).
+0	NA	HNF1A	rs1169288	RESULTS	Interestingly, this set of directionally consistent loci included coding variants in two transcription factors: the missense variant(s) I27L in HNF1A, and R326H in ZC3HC1.
+1	NA	apolipoprotein E	rs4420638	RESULTS	At the APOE locus, where the effect of association for T2D and CHD risk was opposite, localization was observed at rs4420638, but the tagging among the lead sentinel SNPs was incomplete, making it challenging to distinguish between multiple conditionally independent variant associations with both traits versus partial tagging of a single, common association.
+0	NA	IRS1	rs7578326	RESULTS	At the IRS1 locus, while we found rs7578326 to be associated with both T2D and CHD (P < 5 x 10-8), formal co-localization analyses failed to identify a single underlying genetic risk factor for the two outcomes at this locus
+1	NA	CHD	NA	RESULTS	Next, we used biomarker data to help understand the mechanisms linking T2D and CHD at two novel loci discovered through bivariate scan, MIR17HG, and CCDC92.
+0	NA	CCDC92	rs1727313	RESULTS	The region around CCDC92 segregates numerous cardiometabolic trait associations, including T2D (rs1727313), HDL-C (rs4759375, rs838880), triglycerides (rs4765127), and waist-hip ratio adjusted for body mass index (rs4765219).
+0	NA	NA	NA	RESULTS	However, variants in these previous reports were not strongly linked to our sentinel SNP (r2 < 0.02 in all cases).
+0	Type 2 diabetes	CCDC92	rs10773049	RESULTS	The risk variant for T2D-CHD at the CCDC92 locus also decreased HDL-C levels (fixed effects meta-analysis P = 2.2 x 10-9) in analyses by the Global Lipids Genetics Consortium (GLGC); this variant was in partial linkage with a variant (rs10773049, r2 = 0.6 and 0.3 in Europe and South Asia, respectively) previously known for association with body mass index.
+1	NA	MIR17HG	NA	RESULTS	MIR17HG appeared to harbor only modest associations with HDL (fixed effects meta-analysis P = 1.3 x 10-4), fasting insulin levels (P = 6.4 x 10-4) and HOMA-IR (P = 7.9 x 10-4)
+1	NA	apolipoprotein E	NA	RESULTS	We also examined association at APOE where the T2D risk allele was associated with decreased CHD risk.
+0	neovascular disease	LDL-C	NA	RESULTS	The T2D risk allele was also found associated with increased HDL-C (fixed effects meta-analysis P = 1.72 x 10-21), decreased LDL-C (P = 1.51 x 10-178), decreased total cholesterol (P = 1.14 x 10-149), decreased triglycerides (P = 1.55 x 10-14), reduced LDL particle size (P = 3.80 x 10-11), increased waist-hip ratio (P = 1.80 x 10-6, BMI-adjusted), and neovascular disease (P = 2.78 x 10-8)
+0	Type 2 diabetes	NA	NA	RESULTS	We next aimed to identify a subset of highly connected loci that indicate unidentified pathways that jointly related to T2D-CHD.
+0	Type 2 diabetes	NA	NA	RESULTS	To achieve this, we used results from our bivariate T2D-CHD association scan and pruned SNPs for LD to obtain a set of unlinked regions across the genome (r2 < 0.05).
+0	Type 2 diabetes	GRAIL	NA	RESULTS	From this list, we selected 299 LD independent SNPs that were found associated with T2D-CHD in our bivariate scan (P < 0.001, Supplementary Table 17 and 18) and sought to prioritize candidate genes implicated in the association using the text-mining approach, GRAIL.
+0	NA	GRAIL	NA	RESULTS	79 out of 299 regions were found to have prioritized specific genes in associated intervals (GRAIL P < 0.05), significantly more overall than expected (26.4%, binomial test P < 10-34).
+0	NA	p<10-4	NA	RESULTS	Next, protein-protein interaction connectivity analysis among these 79 genes demonstrates more direct and indirect connections than expected (permuted P < 10-4, Methods), thus motivating us to focus on this subset for further analysis.
+0	NA	SLC2A2	NA	RESULTS	Several plausible candidates from this list emerge, including the hepatic glucose transporter SLC2A2, the Adipocyte fatty-acid-binding protein aP2, Lipin-1, PGC-1beta, and the Free fatty acid receptor 1 FFAR1, among others (Supplementary Table 18)
+0	Type 2 diabetes	NA	NA	RESULTS	We next performed ontology analysis on the set of 79 genes that emerged from T2D-CHD bivariate scan for connectivity.
+0	NA	CHD	NA	RESULTS	To compare our findings, we also conducted similar ontological analysis on loci identified for T2D or CHD in previous GWAS for each of these traits.
+0	diabetes	NA	NA	RESULTS	As expected, ontological analysis of established T2D loci alone indicated robust enrichment of diabetes, hyperglycemia, and insulin resistance disease annotations (enrichment test P < 10-55), as well as enrichment for pathways related to insulin secretion and transport, glucose homeostasis, and pancreas development (all P < 10-9).
+0	coronary artery disease	CHD	NA	RESULTS	Also as expected, ontological analysis of CHD loci alone demonstrated robust enrichment of disease annotations related to coronary disease, myocardial infarction, and arteriosclerosis (P < 10-36), as well as enrichment for pathways related to lipid homeostasis and cholesterol transport (P < 10-8).
+0	cardiovascular disease	p<10-5	NA	RESULTS	As expected, the analysis of the 79 T2D-CHD associated gene intervals identified loci that were also modestly enriched for disease ontologies related to vascular resistance (P < 10-12), T2D, cardiovascular disease, fatty liver, obesity, gestational hypertension, and Pre-eclampsia (all P < 10-5), as well as cancer (P < 10-9).
+0	NA	P<10-7	NA	RESULTS	But in contrast to the pathways described above, we also observed enrichment for additional pathways related to cardiovascular system development, cell signaling, signal transduction, regulation of phosphorylation, and transmembrane receptor protein kinase signaling among the categories (adjusted P < 10-7) (Supplementary Figure 9)
+0	NA	NA	NA	DISCUSS	We report the discovery of 17 novel loci for T2D using discovery and replication studies in 265,678 participants.
+0	NA	NA	NA	DISCUSS	Using exome-chip data, we were able to identify a coding variant which was more strongly associated with T2D risk than the corresponding common variant.
+1	NA	CHD	NA	DISCUSS	Using additional data on 260,365 participants, we report a novel locus for CHD, and identify genetic loci that are shared between T2D and CHD of which a subset co-localized to the same genetic variant (e.g., CCDC92, MIR17HG, HNF1A, ZC3HC1, APOE, Table 3).
+0	Type 2 diabetes	NA	NA	DISCUSS	Finally, using a bivariate scan for T2D-CHD, genetic association data pointed to new pathways that are implicated in the etiology of both the disease outcomes
+0	NA	NA	NA	DISCUSS	Many of the loci discovered in the current meta-analyses suggest novel T2D biology or confirm pathways previously implicated in T2D.
+1	NA	MIR17HG	NA	DISCUSS	For instance, MIR17HG, KL, and BCL2L11 have been shown involved in cell-survival, apoptosis, and cellular aging, respectively.
+0	NA	NA	NA	DISCUSS	Genetic variants near KL have also been shown associated with fasting glucose levels as well.
+0	immunological disorders	TMEM18	NA	DISCUSS	TMEM18 is involved in cellular migration; HLA-DR5 and CMIP play crucial roles in immune mediated responses and have been implicated in various immunological disorders.
+0	insulin-treated diabetes	NA	rs9272346	DISCUSS	Genetic variation at the HLA locus (rs9272346) has been previously implicated in type-1 diabetes (T1D); however, we did not find any evidence of association of rs9272346 with T2D in our meta-analyses.
+1	NA	NA	rs9272346	DISCUSS	Additionally, rs9272346 was not in LD with the T2D sentinel SNP (rs2050188) at this locus (r2 = 0.06 in EUR and r2 = 0.01 in SA).
+0	NA	NA	rs7111341	DISCUSS	However, rs7111341 has been previously reported as a risk factor for T1D.
+0	NA	CTRB1	NA	DISCUSS	We found that rs7111341-T is associated with increased risk for T2D, but decreased risk for T1D, a similar pattern of association to a previously established association (rs7202877, nearby CTRB1)
+1	NA	apolipoprotein E	NA	DISCUSS	The contrasting associations of APOE with T2D and CHD were puzzling.
+1	NA	apolipoprotein E	NA	DISCUSS	APOE encodes apolipoprotein-E found in the chylomicron and intermediate-density lipoprotein (IDLs).
+1	NA	apolipoprotein E	NA	DISCUSS	Genetic variation at the APOE locus is associated with major lipids and CHD.
+0	NA	CHD	NA	DISCUSS	Here, the T2D risk variant was associated with decreased CHD risk and LDL-C, and reduced LDL particle size.
+0	NA	LDL-C	NA	DISCUSS	These observations are consistent with recent studies indicating that reduction in LDL-C levels, a major CHD risk factor, may confer a higher risk of T2D.
+0	NA	LDL-C	NA	DISCUSS	Evidence from a meta-analysis of randomized controlled trials has shown that reduction of LDL-C by statin treatment, compared to placebo, led to a higher, but a very small absolute, risk of T2D.
+0	NA	HMG-CoA reductase	NA	DISCUSS	Moreover, genetic variants associated with reduced expression of HMG-CoA reductase, the target of statins, and reduced LDL-C levels have been shown associated with increased risk of T2D.
+0	NA	LDL-C	NA	DISCUSS	Also, two MR studies concluded that genetically mediated decreases in LDL-C associated with a higher risk of T2D.
+0	NA	PCSK9	NA	DISCUSS	Furthermore, it has been shown that genetic variants in the PCSK9 gene that lower LDL-C levels associated with a higher risk of T2D, fasting glucose concentration, body weight, and waist-to-hip ratio.
+0	NA	LDL-C	NA	DISCUSS	In contrast to the findings from our overall meta-analyses, these results suggest that LDL-C may represent one of a small subset of discrete pathways that display opposing associations for the two outcomes.
+0	NA	NA	NA	DISCUSS	These findings underscore how human genetics can help focus future investigations on T2D therapeutics that have either neutral or beneficial effects on vascular outcomes
+0	Type 2 diabetes	NA	NA	DISCUSS	The collection of 79 regions identified through our joint T2D-CHD bivariate scan involves targets of existing drugs.
+0	NA	FFAR1	NA	DISCUSS	This includes icosapent, a polyunsaturated fatty acid found in fish oil, which is FFAR1 and PPARG agonist and a COX-1/COX-2 inhibitor.
+0	NA	aP2	NA	DISCUSS	The ANCHOR trial showed that icosapent ethyl, marketed as the drug Vascepa, has efficacy in lowering triglycerides in patients with high TG levels as well as non-HDL-C and HDL-C. A second plausible candidate gene is the adipocyte fatty-acid-binding protein (FABP4, also known as aP2).
+0	atherosclerotic	aP2	NA	DISCUSS	Mouse models deficient in aP2 display protection against atherosclerosis and anti-diabetic phenotypes.
+0	atherosclerotic	aP2	NA	DISCUSS	Moreover, small-molecule inhibition of aP2 has been shown to reduce atherosclerosis, glucose and insulin levels, and triglycerides in a mouse model, inhibition of this pathway through a monoclonal antibody also appear efficacious in mouse models
+0	NA	CHD	NA	DISCUSS	Careful evaluation of the pathways or biological process where T2D, CHD, and related traits overlap could help to highlight new avenues for therapeutic targeting.
+0	NA	NA	NA	DISCUSS	First, using gene discovery and biomarker studies, we have identified new pathways, outside of the established, glucose and cholesterol homeostatic networks, which could be investigated in more detail.
+0	NA	CHD	NA	DISCUSS	Second, we have found that some genetic variants associated with T2D singly or in aggregate are enriched for associations with CHD.
+0	NA	LDL-C	NA	DISCUSS	With one exception (e.g., pathways involving LDL-C), genetic pathways that increase T2D risk tend to overall increase CHD risk.
+0	NA	NA	NA	DISCUSS	Hence, existing or future therapeutic programs designed for the prevention of T2D could be better guided by evidence from genetic studies, either to prioritize targets that have either neutral or directionally consistent effects on vascular outcomes, or to review the disease risk profile of existing targets that may be under development.
+0	NA	CHD	NA	DISCUSS	Overall, identification of genetic loci associated with both T2D and CHD risk in a directionally consistent manner could provide therapeutic opportunities to lower the risk of both outcomes
+0	NA	MDC	NA	METHODS	In the discovery phase, we meta-analyzed data from eight different studies; four studies (PROMIS, RACE, BRAVE and EPIDREAM) include participants of South Asian origin living in Pakistan, Bangladesh and Canada whereas four studies (FINRISK, MedStar, MDC and PennCATH) include subjects of European origin (Supplementary Table 1 and Supplementary Note).
+0	NA	NA	NA	METHODS	GWAS/Metabochip data and information on T2D risk was available on 48,437 individuals (13,525 T2D cases and 34,912 controls) from these eight studies.
+0	NA	NA	NA	METHODS	We further used published data from the DIAGRAM consortium and conducted combined discovery analysis on 198,258 participants (48,365 T2D cases and 149,893 controls).
+0	NA	NA	NA	METHODS	Characteristics of the participants, information on genotyping arrays and imputation are summarized in Supplementary Tables 1-3.
+0	NA	NA	NA	METHODS	Replication studies were completed in participants enrolled in the LOLIPOP, SINDI, SDS, MSSE, TAICHI and BBJ studies (Supplementary Table-1), collectively composed of 67,420 individuals (24,972 cases and 42,448 controls) who were of South Asian (n = 13,960; 4,587 T2D cases and 9,373 controls), European (n = 2,479; 387 T2D cases and 2,092 controls), and East-Asian descent (n = 50,981; 19,998 T2D cases and 30,983 controls).
+0	NA	NA	NA	METHODS	Hence, our combined discovery and replication analyses included 265,678 participants (73,337 T2D cases and 192,341 controls).
+0	NA	NA	NA	METHODS	All studies were approved by the relevant institutional review boards and all participants provided written informed consent.
+0	NA	NA	NA	METHODS	Further details of the contributing cohorts and characteristics of the participants are provided in the Supplementary Note and Supplementary Table 1
+0	NA	NA	NA	METHODS	All participating studies were approved by the relevant local institutional review boards.
+0	NA	NA	NA	METHODS	All participants enrolled in each of the participating studies provided informed consent
+0	NA	NA	NA	METHODS	All studies used a high density genotyping array (GWAS / Metabochip) (Supplementary Table 2 and Supplementary Note).
+0	NA	NA	NA	METHODS	Quality control procedures were performed for each individual study.
+0	NA	NA	NA	METHODS	Details on study specific QC are provided in Supplementary Table 2.
+0	NA	NA	NA	METHODS	Each study individually assessed and controlled for any population stratification using principal component analysis
+0	NA	NA	NA	METHODS	In all studies, genomic locations of all variants were first harmonized using the NCBI Build 37/UCSC hg19 coordinates.
+0	NA	NA	NA	METHODS	Only studies that contributed GWAS data underwent imputation.
+0	NA	NA	NA	METHODS	Imputation of genotypes across the genome was computed using the 1000 Genomes Project (phase 1 integrated release 3, March 2012).
+0	NA	NA	NA	METHODS	Imputed SNPs were removed if they had: (i) a minor allele frequency of < 0.01; (ii) info score of < 0.90; (iii) average maximum posterior call < 0.90.
+0	NA	NA	NA	METHODS	Supplementary Table 2 provides further details on the imputation protocol used by each of the participating studies
+0	NA	NA	NA	METHODS	To test for an association between each SNP and risk of T2D, a logistic regression model was computed with adjustment for age, sex, and the first study-specific principal components using SNPTEST.
+0	NA	NA	NA	METHODS	The SNP was modeled under an additive genetic model and imputation uncertainty was accounted for under an allele dosage approach.
+0	NA	NA	NA	METHODS	Inflation of association statistics was assessed within each study by the genomic control method (Supplementary Table 3 and Supplementary Figure 1).
+0	NA	NA	NA	METHODS	Variants that were retained in at least two studies were meta-analyzed using the METAL program.
+0	NA	NA	NA	METHODS	We used a weighted inverse normal fixed-effects method, weighting by sample size; heterogeneity was assessed by the Cochran's Q statistic and the I2 heterogeneity index.
+0	NA	NA	NA	METHODS	Pairwise linkage disequilibrium between SNPs was assessed and visualized using the 1000 Genomes European reference panel.
+0	NA	NA	NA	METHODS	Regional association plots were visualized using the LocusZoom software.
+0	NA	NA	NA	METHODS	After removing regions harboring known loci, the top associated SNP and one or more SNPs based on linkage disequilibrium with the lead variant found in association with any of the above phenotypes (P < 5x10-6) were selected for the replication studies
+0	NA	NA	NA	METHODS	Studies that participated in the replication stage had conducted genotyping on GWAS or Metabochip arrays.
+0	NA	NA	NA	METHODS	The association of SNPs with T2D was calculated separately using trend test, with heterogeneity between studies assessed using the Cochran's Q statistic.
+0	NA	NA	NA	METHODS	The weighted inverse normal fixed effects meta-analysis was then computed to combine the results across all replication studies and with the discovery stage.
+0	NA	NA	NA	METHODS	For the combined analysis of discovery and replication data, genome-wide significance was inferred at P < 5 x 10-8
+0	NA	NA	NA	METHODS	To determine whether the identified risk variants influenced expression of any nearby genes, we accessed a variety of sources, including: (i) GTEx cis-eQTL data in all available tissues, including liver, brain, endothelial cells, and whole blood, and (ii) cis-eQTL data for adipose, lymphoblastoid cell lines, and skin from the MuTHER consortium
+0	NA	NA	NA	METHODS	To assess if there are coding variants associated with T2D in the proximity of the newly-discovered sentinel T2D SNPs, we performed an Exomechip-based meta-analysis in four studies (PROMIS, BRAVE, CIHDS-CGPS, and PROSPER) in the +-500 kbp region of the sentinel T2D SNPs.
+0	NA	NA	NA	METHODS	For all the studies, genotyping and QC were done centrally at the University of Cambridge, UK.
+0	NA	NA	NA	METHODS	In each study, samples with extreme intensity values, and outlying plates or arrays were removed prior to genotype calling.
+0	NA	NA	NA	METHODS	Genotype calling was initially performed with optiCall.
+0	NA	NA	NA	METHODS	Samples with call rate (CR) less than (mean CR - 3 standard deviations) were removed prior to post-processing optiCall calls with zCall.
+0	NA	NA	NA	METHODS	Scanner specific Z-values (calculated using 1,000 samples with the highest optiCall CR) were adopted as they gave the best global concordance within each batch.
+0	NA	NA	NA	METHODS	Rare variants (optiCall, Minor Allele Frequency (MAF) < 0.05) were then post processed with zCall using the scanner specific Z-values.
+0	NA	NA	NA	METHODS	Within each genotyping batch, variants were removed if variant CR < 0.97; HWE P < 1x10-6 for common variants or HWE P < 1x10-15 for rare variants (MAF < 0.05).
+0	NA	NA	NA	METHODS	Variants within each genotyping batch were aligned to human genome reference sequence plus strand and the standardized files were used for sample QC.
+0	NA	NA	NA	METHODS	Samples were excluded from each batch/study if sample heterozygosity > +-3 standard deviations from the mean heterogeneity or sample call rate >3 standard deviations from the mean call rate.
+0	NA	NA	NA	METHODS	Variants were further selected based on stringent QC thresholds (CR < 0.99; Hardy-Weinberg Equilibrium (HWE) P < 1x10-4) MAF > 0.05 and LD pruned (r2 <0.2) for PCA and kinship calculations.
+0	NA	NA	NA	METHODS	Duplicates within each collection (kinship coefficient>0.45) and ancestral outliers identified by PCA were removed.
+0	NA	NA	NA	METHODS	Samples and variants that failed QC were removed from individual batches.
+0	NA	NA	NA	METHODS	Where studies were analyzed in multiple batches, the batches were combined and any SNVs out of HWE across the study were removed
+0	NA	NA	NA	METHODS	Build and strand for each study was checked using checkVCF against build37 plus strand.
+0	NA	NA	NA	METHODS	The reference and alternate alleles were aligned with the reference.
+0	NA	NA	NA	METHODS	Study specific analyses were conducted using RAREMETALWORKER incorporating the kinship matrix and adjusting for age and sex.
+0	NA	NA	NA	METHODS	In each study, variants with a MAC < 10 were removed before meta-analysis.
+0	NA	NA	NA	METHODS	Meta-analysis was done in METAL.
+0	NA	NA	NA	METHODS	In the meta-analysis, the sample-size weighted approach was used to estimate the P-values and an inverse-variance weighted approach was used to calculate the pooled effect estimates and corresponding standard errors.
+0	NA	NA	NA	METHODS	Study specific information is provided in Supplementary Table 19
+0	NA	NA	NA	METHODS	We downloaded online-available GWAS data from 12 consortia for 70 traits (Supplementary Table 9) and harmonized the genome position to build 37/hg19.
+0	NA	NA	NA	METHODS	We then performed a lookup for the 17 newly discovered T2D SNPs using these harmonized data sets.
+0	NA	NA	NA	METHODS	We also performed a phenotypic scan for the same 17 SNPs across 105 biomarkers measured in the PROMIS participants using a linear regression model adjusted for the first principal components (Supplementary Table 10).
+0	NA	NA	NA	METHODS	We used a Bonferroni-adjusted P-value cut point of 1.7 x 10-5 (= 0.05 / 175 traits / 17 SNPs) to declare statistical significance
+0	NA	CHD	NA	METHODS	We assembled 56,354 samples of European, East Asian and South Asian ancestries genotyped on the CardioMetabochip to identify genetic determinants of CHD.
+0	NA	CHD	NA	METHODS	These results were combined with those reported by CARDIoGRAMplusC4D to yield analyses comprising of 260,365 subjects (90,831 CHD cases) for CHD.
+0	CCHS	CHD	NA	METHODS	The Cambridge MI studies comprised of 16,093 CHD cases and 16,616 unaffecteds from the EPIC-CVD study, a case-cohort study recruited across 10 European countries, the Copenhagen City Heart Study (CCHS), the Copenhagen Ischemic Heart Disease Study (CIHDS) and the Copenhagen General Population Study (CGPS) all recruited within Copenhagen, Denmark.
+0	acute myocardial infarction	CHD	NA	METHODS	The Cambridge MI SAS studies comprised up to 7,654 CHD cases and 7,014 controls from the Pakistan Risk of Myocardial Infarction Study (PROMIS) a case-control study that recruited samples from 9 sites in Pakistan, and the Bangladesh Risk of Acute Vascular Events (BRAVE) study based in Dhaka, Bangladesh.
+0	NA	CHD	NA	METHODS	The EA studies comprised 4,129 CHD cases and 6,369 controls recruited from 7 studies across Taiwan that collectively comprise the TAIwan metaboCHIp (TAICHI) Consortium.
+0	CCHS	NA	NA	METHODS	Samples from EPIC-CVD, CCHS, CIHDS, CGPS, BRAVE and PROMIS were all genotyped on a customized version of the Illumina CardioMetabochip (manufactured by Illumina, San Diego, USA) referred to as the Metabochip+, in two Illumina-certified laboratories located in Cambridge, UK, and Copenhagen, Denmark.
+0	NA	NA	NA	METHODS	TAICHI samples were genotyped using the latest version of the CardioMetabochip.
+0	NA	NA	NA	METHODS	For each study, samples were removed if they had a call rate < 0.97, average heterozygosity >+-3 standard deviations away from the overall mean heterozygosity or their genotypic sex did not match their reported sex.
+0	NA	NA	NA	METHODS	One of each pair of duplicate samples and first-degree relatives (assessed with a kinship co-efficient > 0.2) were removed.
+0	NA	NA	NA	METHODS	Cardio-metabochip data were also obtained from the Women Health Initiative Study and the ARIC study; the two studies underwent same QC as described for the TAICHI study.
+0	NA	NA	NA	METHODS	Across all studies, SNP exclusions were based on minor allele frequency (MAF) < 0.01, P < 1x10-6 for Hardy-Weinberg Equilibrium or call rate (CR) less than 0.97.
+0	NA	NA	NA	METHODS	CARDIoGRAMplusC4D Consortium data were obtained online (see URLs).
+0	NA	NA	NA	METHODS	Only non-overlapping samples were used for meta-analyses.
+0	NA	NA	NA	METHODS	Fixed effects inverse variance weighted meta-analysis was used to combine the effects across studies in METAL
+0	NA	NA	NA	METHODS	We utilized a two-sample MR method to estimate effects for a multi-SNP genetic instrument by using summary statistics.
+0	NA	NA	NA	METHODS	This method has been previously validated to infer causal effects (odds ratio) and associated standard error.
+0	NA	CHD	NA	METHODS	Briefly, association data for both T2D and CHD were obtained using data from two separate genome-wide meta-analyses.
+0	NA	CHD	NA	METHODS	For T2D, we used the data from the current meta-analyses; whereas we used data from the most recent CHD meta-analyses as described in the Supplementary Note.
+0	NA	insulin	NA	METHODS	Using sentinel SNPs for all established T2D associations, we identified a set of variants (n=16) exclusively associated with T2D, by screening against GWAS catalog of publicly available data for anthropometric traits (i.e., body mass index (BMI), waist-hip ratio (WHR), waist circumference (WC), WHR adjusted for BMI, WC adjusted for BMI, and hip), glucose/insulin (fasting glucose, 2 hour glucose, fasting insulin, and proinsulin levels), blood lipids (high, low-density lipoprotein cholesterol and triglycerides), and blood pressure (systolic and diastolic).
+0	NA	NA	NA	METHODS	We next attempted to group the remaining pleiotropic T2D SNPs into different categories based on their observed associations for various cardiometabolic intermediate traits (P < 0.01).
+0	insulin deficiency	LDL-C	NA	METHODS	These groupings included: (i) variants associated with glucose/insulin traits only (n=13), (ii) variants associated with TG/HDL-C and waist circumference / WHR but not glucose/insulin, blood pressure, LDL-C, or BMI (n=6), (iii) TG/HDL-C and obesity/anthropometric traits, but not glucose/insulin, blood pressure, or LDL-C (n=6), (iv) TG/HDL-C, blood pressure, and BMI, but not glucose/insulin or LDL-C (n=8), and (v) TG/HDL-C, blood pressure, BMI, and glucose/insulin but not blood pressure or LDL-C (n=24, Supplemental Table 12).
+0	NA	NA	NA	METHODS	Established T2D SNPs that did not fall into any of these categories were excluded.
+0	NA	NA	NA	METHODS	Heterogeneity in odds ratios was assessed via Cochran's Q test for heterogeneity
+0	NA	NA	NA	METHODS	We used a binomial distribution with a baseline enrichment probability Pb to derive the density for the test statistic E ~ Binomial(n, Pb), where n is the number of SNPs in a variant set.
+0	NA	CHD	NA	METHODS	E is the number of SNPs with a directionally consistent effect on T2D and CHD (the allele that increases the risk for T2D also increases the risk for CHD).
+0	NA	CHD	NA	METHODS	Using the SNPs that are not associated with T2D or CHD (P-values >= 0.05 for T2D and CHD), we calculated the percentage of SNPs with a directionally consistent effect in T2D and CHD and used it as an estimate for Pb.
+0	NA	NA	NA	METHODS	We then performed the enrichment analysis in two variant sets: (i) the variant set with all variants available and (ii) the variant set with LD-clumped variants.
+0	NA	NA	NA	METHODS	The results are shown in Supplementary Table 15.
+0	NA	NA	NA	METHODS	In the LD-clumping procedure, the SNPs with more significant T2D P-values were retained as seeds and the other SNPs that were in LD (r2 > 0.1 in based on data from the 1000 Genomes Project (Phase 3, v5 variant set) with the seed SNPs were removed
+0	Type 2 diabetes	CHD	NA	METHODS	To establish the T2D-CHD bivariate normal density, we used all variants that we identified in our analyses on T2D and CHD; we further pruned them for LD using the 1000 Genomes project (Phase 3, v5 variant set) to r2 <= 0.1 using PLINK.
+0	NA	CHD	NA	METHODS	The reference and alternate alleles of the variants survived LD-pruning were retrieved from the same 1000 Genomes VCF file used for pruning, and the variants' effects on CHD and T2D were aligned to their reference alleles.
+0	NA	phi1/2	NA	METHODS	The statistics used to estimate the bivariate normal density were produced by using the following formula: where Phi-1 is the inverse-cumulative distribution function of standard normal distribution, PCHD and PT2D are the P-values of CHD and T2D respectively, and betaCHD and betaT2D are the effect sizes of the reference allele on CHD and T2D respectively.
+0	NA	NA	NA	METHODS	Since a successful estimation of the bivariate distribution depends on both positive and negative Z-scores, we used the signs of the corresponding effect estimates (beta/ beta ) to determine the signs of ZCHD and ZT2D.
+0	NA	NA	NA	METHODS	The distribution of ZCHD and ZT2D are shown in Supplementary Figure 5.
+0	NA	NA	NA	METHODS	Parameters for the bivariate normal density were estimated by using the mvn.ub function in the R package miscF.
+0	NA	NA	NA	METHODS	The estimated bivariate normal density has the following parameter values:
+0	NA	NA	NA	METHODS	Assuming that Z is distributed as a Bivariate Normal, e.g., then: where N2(mu, Sigma) denotes a bivariate normal distribution with a vector of means mu and variance/covariance matrix Sigma, and   is the chi-square distribution with 2 degrees-of-freedom.
+0	NA	NA	NA	METHODS	Using Y as the test statistic, we performed a two-degree-of-freedom test on Z = (ZCHD, ZT2D), and our null hypothesis is that a SNP is not associated with any of thw two traits.
+0	NA	NA	NA	METHODS	Supplementary Figure 5 depicts the rejection region of the two-degree-of-freedom test
+0	NA	CCDC92	NA	METHODS	We performed approximate conditional analysis for the CCDC92 locus using the software package GCTA.
+0	NA	CHD	NA	METHODS	We used the summary meta-analysis data for our primary T2D and CHD scans (prior to replication) as data input from each continental group (European, South Asian, East Asian).
+0	NA	NA	NA	METHODS	As reference input, we utilized population data from the 1000 Genomes Project (version 3) which matched the continental ancestry for the respective conditional analysis.
+0	NA	CHD	rs825476	METHODS	We then conditioned on rs825476 - the lead SNP associated with CHD and T2D - for each continental group.
+0	NA	NA	NA	METHODS	We then combined summary results from each continental group via inverse-weighted fixed-effects meta-analysis.
+0	NA	NA	NA	METHODS	Locus zoom plots for these conditional, meta-analyzed association results are presented in Supplementary Figure 8
+0	NA	CHD	NA	METHODS	To determine if the T2D and CHD association signals co-localized to the same genetic variant, we utilized the R package coloc.
+0	NA	NA	NA	METHODS	For each of the 19 loci that met our T2D/CHD association criteria, we obtained association data from all SNPs within 500kb around the sentinel bivariate associated SNP (Supplementary Table 16).
+0	NA	CHD	NA	METHODS	From there, we used the coloc.abf function to calculate the probability that both traits are associated and share a single causal variant (H4), using the P-values given from the overall inverse-variance fixed effects meta-analysis for T2D (without replication) and CHD, the overall case/control sample sizes for both scans, and the allele frequencies for the variant based on all 1000 Genomes data (version 3).
+0	NA	NA	NA	METHODS	We call variants co-localized if the H4 co-localization probability was greater than 0.5
+0	NA	NA	NA	METHODS	For T2D, we used the previously reported loci (n = 87) and the loci discovered in this report (n = 17).
+0	NA	CHD	NA	METHODS	For CHD, we used the previously reported loci described in the most recent report published by the CARDIoGRAMplusC4D consortium (n = 58).
+0	NA	CHD	NA	METHODS	Prioritization of genes from this list of established loci for T2D and CHD (Supplementary Table 17) was based on evidence from monogenic association with disease, coding mutations in nearby genes, functional evidence implicating genes, or based on the gene nearest to the sentinel SNP.
+0	Type 2 diabetes	NA	NA	METHODS	For T2D-CHD associations arising from our bivariate scan, we first pruned the dataset for LD (r2 < 0.1).
+0	Type 2 diabetes	GRAIL	NA	METHODS	We further selected 299 LD independent SNPs that were found associated with T2D-CHD with a P < 0.001 in our bivariate scan and used them to identify underlying candidate genes using GRAIL.
+0	NA	GRAIL	NA	METHODS	For protein-protein interaction connectivity analysis, we used DAPPLE on the 79 loci that were found significant in GRAIL.
+0	NA	NA	NA	METHODS	Empirical significance for excess connectivity in protein-protein interactions was assessed by 10,000 permutations
+0	NA	NA	NA	METHODS	We used the online tool WebGestalt to perform ontology enrichment analysis.
+0	NA	GRAIL	NA	METHODS	For analysis of the query loci, we nominated genes (n=79) that were prioritized from text mining (GRAIL P < 0.05).
+0	NA	CHD	NA	METHODS	We also performed ontology analyses using separate gene lists for T2D (n=104) and CHD (n=58) loci separately.
+0	NA	NA	NA	METHODS	The hypergeometric distribution was used to assess significance, and adjustment for multiple testing was controlled using the Benjamini-Hochberg procedure implemented in WebGestalt
+0	NA	NA	NA	METHODS	Summary GWAS estimates for the T2D meta-analysis and bivariate summary data are publicly available at the following
+0	NA	NA	NA	FIG	A circular Manhattan plot summarizing the association results for the T2D scan.
+0	NA	NA	NA	FIG	Black: Previously established T2D loci, Red: Previously unreported T2D loci from trans-ethnic meta-analysis, Blue: Previously unreported T2D loci from EUR only meta-analysis
+0	NA	CHD	NA	TABLE	Enrichment in directional consistency for all SNPs in T2D and CHD association sca
+0	NA	CHD	NA	TABLE	Genome-wide significant loci by bivariate scan at sentinel SNPs that are associated with both T2D and CHD (P < 10-3) where leading associations co-localiz

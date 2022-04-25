@@ -1,0 +1,151 @@
+0	Alzheimer's disease	NA	NA	ABSTRACT	Alzheimer's disease (AD) is a public health priority for the 21st century.
+0	NA	NA	NA	ABSTRACT	Risk reduction currently revolves around lifestyle changes with much research trying to elucidate the biological underpinnings.
+0	Alzheimer's disease	NA	NA	ABSTRACT	We show that self-report of parental history of Alzheimer's dementia for case ascertainment in a genome-wide association study of 314,278 participants from UK Biobank (27,696 maternal cases, 14,338 paternal cases) is a valid proxy for an AD genetic study.
+0	NA	NA	NA	ABSTRACT	After meta-analysing with published consortium data (n = 74,046 with 25,580 cases across the discovery and replication analyses), three new AD-associated loci (P < 5 x 10-8) are identified.
+0	Alzheimer's disease	ADAM10	NA	ABSTRACT	These contain genes relevant for AD and neurodegeneration: ADAM10, BCKDK/KAT8 and ACE.
+0	NA	VKORC1	NA	ABSTRACT	Novel gene-based loci include drug targets such as VKORC1 (warfarin dose).
+0	Alzheimer's disease	TOMM40	NA	ABSTRACT	We report evidence that the association of SNPs in the TOMM40 gene with AD is potentially mediated by both gene expression and DNA methylation in the prefrontal cortex.
+0	NA	NA	NA	ABSTRACT	However, it is likely that multiple variants are affecting the trait and gene methylation/expression.
+0	Alzheimer's disease	NA	NA	ABSTRACT	Our discovered loci may help to elucidate the biological mechanisms underlying AD and, as they contain genes that are drug targets for other diseases and disorders, warrant further exploration for potential precision medicine applications
+0	Alzheimer's disease	apolipoprotein E	NA	INTRO	The genetic epidemiology of late-onset Alzheimer's disease (LOAD) has advanced over the last decade, with >20 independent loci associated with the disease in addition to APOE.
+0	NA	NA	NA	INTRO	Presently, the largest meta-analytic genome-wide association study (GWAS) for LOAD employed a two-stage study design.
+0	NA	NA	NA	INTRO	First, 17,008 cases were compared to 37,154 controls.
+0	NA	NA	NA	INTRO	A total of 11,632 single-nucleotide polymorphisms (SNPs) with P < 1 x 10-3 from this meta-analysis were included in the second stage that compared 8,572 cases to 11,312 controls.
+0	NA	NA	NA	INTRO	A meta-analysis of the SNPs included in stages 1 and 2 was also performed
+0	Alzheimer's disease	NA	NA	INTRO	One difficulty in traditional studies of AD is case ascertainment:either directly for prevalent cases or indirectly through prospective cohort studies for incident cases.
+0	Alzheimer's disease	NA	NA	INTRO	A recent GWAS study on a subset of the UK Biobank cohort used information from family history (parent or first-degree relative with AD or dementia) as a proxy-phenotype for the participants.
+0	NA	NA	NA	INTRO	When meta-analysed with the GWAS summary data highlighted above, four new loci were identified
+0	Alzheimer's disease	NA	NA	INTRO	The UK Biobank proxy-phenotype AD question, which is used here, does not incorporate biomarker data that are required for a clinical diagnosis.
+0	Alzheimer's disease	NA	NA	INTRO	However, it is easy to administer at scale and we show that it has a near-unit genetic correlation with the AD results from the LOAD meta-analysis, where many of the samples also lacked a confirmed diagnosis by biomarker levels or autopsy
+0	dementia	NA	NA	INTRO	In the present study, we related proxy-phenotype information on dementia (i.e., reporting a parent with Alzheimer's dementia or dementia) to genetic data from 314,278 individuals from the UK Biobank cohort to identify new AD-associated loci.
+0	Alzheimer's disease	NA	NA	INTRO	This sample includes individuals from the previous proxy-phenotype AD study by Liu et al.
+0	Alzheimer's disease	NA	NA	INTRO	GWA studies were conducted separately for maternal and paternal AD due to a 1.7-fold difference in disease prevalence:9.6% and 5.5%, respectively.
+0	NA	NA	NA	INTRO	The summary statistics from these models were meta-analysed with those from the largest publicly available case-control study.
+0	NA	NA	NA	INTRO	Sensitivity analyses showed that an overlap of controls in the maternal and paternal GWAS did not bias the results.
+0	Alzheimer's disease	NA	NA	INTRO	Genetic correlation analysis showed the self-reported measure of parental AD to be an accurate proxy for clinical diagnosis, validating the global meta-analysis.
+0	NA	NA	NA	INTRO	In addition, we tested for causal evidence of our SNP-AD associations being mediated through gene expression and DNA methylation in the prefrontal cortex
+0	NA	NA	NA	METHODS	UK Biobank data (http://www.ukbiobank.ac.uk) were collected on over 500,000 individuals aged between 37 and 73 years from across Great Britain (England, Wales and Scotland) at the study baseline (2006-2010), including health, cognitive and genetic data
+0	NA	NA	NA	METHODS	The Research Ethics Committee (REC) granted ethical approval for the study:reference 11/NW/0382:and the current analysis was conducted under data application 10,279
+0	NA	NA	NA	METHODS	Genotyping details for the UK Biobank cohort have been reported previously.
+0	NA	NA	NA	METHODS	Briefly, two custom genotyping arrays were utilised with 49,950 participants typed using the UK BiLEVE Axiom Array and 438,427 participants typed using the UK Biobank Axiom Array.
+0	NA	NA	NA	METHODS	The released genotyped data contained 805,426 markers on 488,377 individuals.
+0	NA	NA	NA	METHODS	Imputed genotypes were supplied with the UK Biobank data with the Haplotype Reference Consortium (HRC) used as the imputation reference panel
+0	NA	NA	NA	METHODS	Downstream quality control steps conducted for the current analysis included removing (1) those with non-British ancestry based on both self-report and a principal components analysis, (2) outliers based on heterozygosity and missingness, (3) individuals with sex chromosome configurations that were neither XX nor XY, (4) individuals whose reported sex did not match inferred sex from their genetic data and (5) individuals with >10 putative third-degree relatives from the kinship table.
+0	NA	NA	NA	METHODS	This left a sample of 408,095 individuals.
+0	Alzheimer's disease	NA	NA	METHODS	To remove the possibility of double contributions from sibs, whose parents will have the same AD status, we first considered a list of all participants with a relative (N = 131,790).
+0	NA	NA	NA	METHODS	A genetic relationship matrix was built for these individuals using GCTA-GRM and a relationship threshold of 0.025 was applied to exclude related individuals.
+0	NA	NA	NA	METHODS	After removing one person from each pair of related individuals, the sample size was 332,050.
+0	NA	NA	NA	METHODS	Quality control thresholds applied to the GWAS included: minor allele frequency >0.01, imputation quality score >0.3 and restriction to HRC-imputed SNPs, leaving a total of 7,795,605 SNPs for the GWAS
+0	Alzheimer's disease	NA	NA	METHODS	Family history of Alzheimer's disease was ascertained via self-report.
+0	NA	NA	NA	METHODS	"Participants were asked ""Has/did your father ever suffer from Alzheimer's disease/dementia?"""
+0	NA	NA	NA	METHODS	"and ""Has/did your mother ever suffer from Alzheimer's disease/dementia?"""
+0	NA	NA	NA	METHODS	Self-report data from the initial assessment visit (2006-2010), the first repeat assessment visit (2012-2013) and the imaging visit (2014+) were aggregated with exclusions made for participants whose parents were: aged under 60 years; dead before reaching age 60 years; without age information.
+0	Alzheimer's disease	NA	NA	METHODS	After merging with the genetic data, this left 27,696 cases of maternal AD with 260,980 controls, and 14,338 cases of paternal AD with 245,941 controls.
+0	Alzheimer's disease	NA	NA	METHODS	There were 314,278 instances where AD information was available on at least one parent.
+0	Alzheimer's disease	NA	NA	METHODS	Given the expected difference in disease prevalence due to sex differences in longevity:AD prevalence was 1.7-fold higher in mothers compared to fathers:GWA studies were performed separately for maternal and paternal AD
+0	NA	NA	NA	METHODS	The GWA studies were conducted using BGENIE.
+0	Alzheimer's disease	NA	NA	METHODS	The outcome variable was the residuals from a linear regression model of maternal or paternal AD on age of parent at death or at time of the offspring's self-report, assessment centre, genotype batch, array and 40 genetic principal components.
+0	NA	NA	NA	METHODS	The predictor variable was the autosomal SNP and an additive model was considered
+0	Alzheimer's disease	NA	NA	METHODS	The GWAS linear regression coefficients were converted to odds ratios using observed sample prevalences of 0.096 and 0.055 for maternal and paternal AD, respectively.
+0	NA	NA	NA	METHODS	Subsequently, the log-odds were multiplied by two so that the effect sizes are reported on the same scale as a traditional case-control design.
+0	NA	NA	NA	METHODS	Briefly, the conversion to odds ratios uses the following equation, derived in Lloyd-Jones et al., where k = disease prevalence, p = population allele frequency and beta = the estimated SNP regression coefficient on the binary disease scale from the GWAS: .
+0	NA	NA	NA	METHODS	SEs for the log-odds were then calculated based on the adjusted OR and the P-value from the initial GWAS (Supplementary Note 1).
+0	Alzheimer's disease	NA	NA	METHODS	The ORs and SEs were then carried forward to a SE-weighted meta-analysis in METAL, first to create a UK Biobank parental meta-analysis, and then with the stage 2 summary output from the International Genomics of Alzheimer's Project (IGAP) study and the stage 1 output for the SNPs that did not contribute to stage 2.
+0	Alzheimer's disease	NA	NA	METHODS	Linkage disequilibrium score (LDSC) regression was used to estimate the genetic correlation between the maternal and paternal AD GWAS results and to test for residual confounding in the meta-analysis by examining the LDSC intercept
+0	NA	NA	NA	METHODS	The number of independent loci from the meta-analysis was determined by using the default settings in FUMA.
+0	NA	NA	NA	METHODS	Independent lead SNPs had P < 5 x 10-8 and were independent at r2 < 0.6.
+0	NA	NA	NA	METHODS	Within this pool of independent SNPs, lead SNPs were defined as those in LD at r2 < 0.1.
+0	NA	NA	NA	METHODS	Loci were defined by combining lead SNPs within a 250 kb window and all SNPs in LD of at least r2 = 0.6 with one of the independent SNPs.
+0	NA	NA	NA	METHODS	A gene-based analysis was carried out on all SNP output using the MAGMA software with default settings (SNP-wise (mean) model for each gene), and assuming a constant sample size for all genes.
+0	NA	NA	NA	METHODS	A Bonferroni-adjusted P-value of 0.05/18,251 = 2.7 x 10-6 was used to identify significant genes.
+0	NA	NA	NA	METHODS	The 1000 genomes phase 3 data were used to map LD in both the independent locus and MAGMA analyses
+0	Alzheimer's disease	NA	NA	METHODS	To test for pleiotropic associations between SNPs and AD and gene expression/DNA methylation in the brain, summary data-based Mendelian randomisation (SMR) was performed.
+0	NA	NA	NA	METHODS	GWAS summary output from the meta-analysis of UK Biobank and IGAP (sample size specified as 314,278 + 74,046 = 388,324) were included along with expression Quantitative Trait Loci (QTL) summary output from the Common Mind Consortium, which contains data on >600 dorsolateral prefrontal cortex samples, and DNA methylation QTL summary output on 258 prefrontal cortex samples (age >13).
+0	NA	NA	NA	METHODS	The reference genotypes were based on the Health and Retirement Study, imputed to the 1000 Genomes phase 1 reference panel.
+0	NA	NA	NA	METHODS	SNP exclusions included: imputation score <0.3, Hardy-Weinberg P-value < 1 x 10-6 and a minor allele frequency <0.01.
+0	NA	NA	NA	METHODS	Related individuals, based on a genomic-relationship matrix cutoff of 0.05, were removed.
+0	death	RIN2	NA	METHODS	Two sets of eQTL summary data were considered (1) after adjustment for diagnosis, institution, sex, age of death, post-mortem interval, RNA integrity number (RIN), RIN2, and clustered library batch (2) with additional adjustments for 20 surrogate variables to account for additional possible confounders.
+0	NA	NA	NA	METHODS	Five ancestry vectors were included as covariates in the eQTL analyses.
+0	NA	NA	NA	METHODS	Further details are available at: https://www.synapse.org/#!Synapse:syn4622659.
+0	NA	NA	NA	METHODS	Default parameters for the SMR analysis were used and cis eQTLs/methQTLs were considered for analysis.
+0	NA	NA	NA	METHODS	Bonferroni-corrected P-value thresholds were applied (P < 0.05/2011 = 2.5 x 10-5 for eQTL data set 1, P < 0.05/4380 = 1.1 x 10-5 for eQTL data set 2 and P < 0.05/54,624 = 9.2 x 10-7 for the methQTL data set).
+0	Alzheimer's disease	NA	NA	METHODS	The SMR P-value highlights candidate transcripts or methylation sites through which a cis SNP may be acting on the outcome, AD.
+0	Alzheimer's disease	NA	NA	METHODS	The heterogeneity in dependent instruments (HEIDI) P-value indicates evidence for a single causal SNP (effect on AD is mediated through the transcript/methylation site if P > 0.05) or different SNPs affecting AD and the transcript/methylation site if P < 0.05
+0	Alzheimer's disease	NA	NA	RESULTS	There were 27,696 cases of maternal AD (260,980 controls, prevalence of 9.6%) and 14,338 cases of paternal AD (245,941 controls, prevalence of 5.5%) in the UK Biobank.
+0	Alzheimer's disease	SE	NA	RESULTS	The genetic correlation between maternal and paternal AD was not significantly different from unity (rg = 0.65, SE 0.59), although the SE is large.
+0	Alzheimer's disease	SE	NA	RESULTS	Both traits had a high genetic correlation with the case-control summary output from the IGAP study: rg with maternal and paternal AD was 0.91 (SE 0.24) and 0.67 (0.40), respectively, both not significantly different from unity but with large SEs
+0	NA	NA	NA	RESULTS	Prior to meta-analysing the UK Biobank parental summary statistics with the IGAP output, we investigated the influence of overlapping proxy controls in UK Biobank.
+0	Alzheimer's disease	NA	NA	RESULTS	The P-values from a single GWAS of parental AD status (0, 1 or 2 parents with AD) correlated 0.99 with those from a meta-analysis of separate maternal AD and paternal AD; the regression of -log10 P-values on each other gave an intercept of 0 and a slope of 1.
+0	Alzheimer's disease	NA	NA	RESULTS	A meta-analysis of the summary statistics from the maternal and paternal results is therefore essentially equivalent to the analysis of parental AD status.
+0	NA	NA	NA	RESULTS	The linear regression effect sizes from the GWAS were converted to odds ratios prior to the meta-analysis
+0	NA	NA	NA	RESULTS	Six genome-wide significant loci were identified in the UK Biobank paternal and maternal GWAS meta-analysis (Supplementary Table 1, GWAS summary statistics available at www.ccace.ed.ac.uk/node/335).
+0	Alzheimer's disease	NA	NA	RESULTS	All were located in established AD loci.
+0	NA	CR1	rs679515	RESULTS	The top lead SNPs were rs679515 (P = 5.2 x 10-9, chr1, CR1 locus), rs6733839 (P = 1.1 x 10-27, chr2, BIN1 locus), rs7384878 (P = 1.3 x 10-10, chr7, PILRA locus), rs3851179 (P = 1.8 x 10-12, chr11, PICALM locus), rs3845261 (P = 4.0 x 10-8, chr17, ZNF232 locus) and rs10119 (P = 3.5 x 10-308, chr19, APOE/TOMM40 locus).
+0	NA	SCIMP	NA	RESULTS	The chromosome 17 locus is ~100 kb from the SCIMP gene-variant identified by Liu et al
+0	NA	NA	NA	FIG	The red line indicates P = 5 x 10-8 and the blue line indicates P = 1 x 10-5.
+0	NA	NA	NA	FIG	P-values truncated at 1 x 10-2
+0	Alzheimer's disease	NA	NA	RESULTS	The meta-analysis of the maternal and paternal AD history in UK Biobank with the IGAP data identified 83 lead SNPs and 264 independent significant SNPs with P < 5 x 10-8 from 26 genomic risk loci.
+0	NA	NA	NA	RESULTS	The majority (n = 45) of the lead SNPs were located in the gene-dense APOE/TOMM40 locus on chromosome 19 (Fig.
+0	NA	NA	NA	RESULTS	1 and Supplementary Tables 2 and 3; GWAS summary statistics are available for the out-meta-analysed SNPs online: www.ccace.ed.ac.uk/node/335).
+0	NA	SE	NA	RESULTS	The LDSC regression intercept term from the meta-analysis summary output was 1.029 (SE 0.0097), and around 81% of the genomic inflation (lambda = 1.11) was due to the polygenic signal, rather than sources of confounding including population stratification and cryptic relatedness
+0	Alzheimer's disease	NA	NA	TABLE	Novel SNPs (P < 5 x 10-8) from the meta-analysis of UK Biobank parental history of Alzheimer's disease with results from IGA
+0	NA	NA	NA	RESULTS	Of the 26 significant risk loci, seven were novel.
+0	NA	NA	NA	RESULTS	These include the three loci highlighted in the previous version of the manuscript (Table 1 and Supplementary Figures 1-3).
+0	NA	ADAM10	rs593742	RESULTS	The top lead SNPs were: rs593742 (ADAM10, locus chr15:58873555-59132827); rs889555 210 (BCKDK/KAT8, locus chr16:30916129-31155458); and rs138190086 (ACE, locus 211 chr17:61001497-61559625)
+0	NA	TREML2	rs9381040	RESULTS	We now report four additional genome-wide significant loci: rs9381040 (TREML2, locus chr6: 41031273-41164788); rs59685680 (SPPL2A, locus chr15:50716633-51060127); rs4985556 (IL-34, locus chr16:70638035-70694991); rs12444183 (PLCG2, locus chr16:81773003-81773816)
+0	Alzheimer's disease	NA	rs2718058	RESULTS	Seventeen of the 21 previously reported SNPs associated with AD were genome-wide significant (P < 5 x 10-8) in the current meta-analysis, with two other SNPs (rs2718058 and, rs10838725) having P < 1 x 10-7 (Supplementary Table 4).
+0	NA	DSG2	rs190982	RESULTS	The MEF2C variant, rs190982, had a meta-analysis P-value of 3.7 x 10-4 and rs8093731 (a DSG2 variant), which was genome-wide significant in stage 1 but not stage 2 of IGAP, had a meta-analysis P-value of 7.2 x 10-4.
+0	NA	NA	rs190982	RESULTS	There was complete sign-concordance between UK Biobank and IGAP with the exception of rs190982 (Supplementary Table 4).
+0	NA	NA	NA	RESULTS	The odds ratios between the maternal and paternal analysis for the top 21 IGAP SNPs were correlated r = 0.76.
+0	NA	NA	NA	RESULTS	Both also correlated highly with the effect sizes reported in the IGAP analysis (r = 0.89 and 0.85, respectively)
+0	NA	NA	NA	RESULTS	A total of 87 genes were significant at a Bonferroni threshold of P < 2.7 x 10-6 (Supplementary Table 5).
+0	NA	beta-amyloid (Abeta)	NA	RESULTS	Gene ontology analysis, using a Fisher exact test to compare the number of significant genes in each gene set with the expected number, showed significant enrichment for 51 gene sets, including those linked to the regulation of amyloid-beta, neurofibrillary tangle assembly, immune response, and cholesterol and lipid transport (Supplementary Table 6)
+0	Alzheimer's disease	NA	NA	RESULTS	Pleiotropic associations between AD and gene expression in the brain were tested using SMR.
+0	Alzheimer's disease	NA	NA	RESULTS	GWAS summary data for AD were taken from the UK Biobank and IGAP meta-analysis.
+0	death	NA	NA	RESULTS	eQTL summary data came from the Common Mind Consortium (n > 600 dorsolateral prefrontal cortex samples: data set 1 adjusted for age at death, sex and institution; data set 2 made additional adjustments for 20 surrogate variables).
+0	MDS	NA	NA	RESULTS	MethQTL data came from 258 dorsolateral prefrontal cortex samples (participants aged 13 years and older:adjustments were made for the first 5 genetic MDS components and first 11 methylation PCs).
+0	Alzheimer's disease	TOMM40	NA	RESULTS	We found evidence of brain expression and DNA methylation associated with AD in the TOMM40 gene (part of the APOE/TOMM40 cluster on chromosome 19) in both the second eQTL model and also in the methQTL model (Supplementary Tables 7-9).
+0	Alzheimer's disease	NA	NA	RESULTS	However, the HEIDI P-values were <0.05 for both analyses, indicating that the associations were unlikely to be driven by a single causal variant affecting both expression/methylation and AD
+0	NA	TOMM40	rs760136	RESULTS	Different top QTL SNPs in TOMM40 were identified in the two analyses: rs760136 and rs7259620 although they were in perfect LD in European samples (R2 = 1.00).
+0	NA	apolipoprotein E	rs7412	RESULTS	The SNPs have differing LD patterns with the APOE allele defining SNPs, rs7412 (R2 = 0.001, D' = 0.03) and rs429358 (R2 = 0.15, D' = 1.0).
+0	NA	KAT8	NA	RESULTS	A significant SMR association with HEIDI P-value >0.05, indicating pleiotropy, was observed for KAT8 and CR1 in the second eQTL analysis (Supplementary Table 8 and Supplementary Figures 4 and 5) and for STAG3 (chr7, PILRA locus), CD2AP (chr6), HLA-DRB1 (chr6, locus not reported in Lambert et al.
+0	NA	PSMC3	NA	RESULTS	), and PSMC3 (chr11, CELF locus) in the methQTL analysis (Supplementary Table 9 and Supplementary Figures 6-9)
+0	Alzheimer's disease	NA	NA	DISCUSS	Using recently established proxy-phenotype methods for case ascertainment, we show this approach to be valid in GWAS of AD.
+0	NA	NA	NA	DISCUSS	Meta-analysing the proxy-phenotype summary statistics from UK Biobank with those from a case-control study (IGAP), we identified three new genome-wide significant loci that contain several relevant genes
+0	NA	ACE	NA	DISCUSS	ACE determines levels of angiotensin II, which has trophic actions within the brain and contributes to the regulation of cerebral blood flow.
+0	Alzheimer's disease	ACE	NA	DISCUSS	Previous meta-analyses of candidate gene studies identified variants within ACE to be associated with AD, though not at genome-wide significance.
+0	atrophy	ACE	NA	DISCUSS	ACE variants have also been linked to atrophy of the hippocampus and amygdala, and CSF-ACE protein levels correlate with CSF tau and phosphorylated tau
+0	Alzheimer's disease	ADAM10	NA	DISCUSS	ADAM10 is involved in the cleavage of amyloid-beta precursor protein, which is involved in the deposition of amyloid beta, a major neurological hallmark of AD.
+0	Alzheimer's disease	ADAM10	NA	DISCUSS	ADAM10 has been proposed as potential therapeutic agent in AD therapy.
+0	NA	ADAM10	NA	DISCUSS	Rare variants in ADAM10 have also been linked to LOAD
+0	NA	NA	NA	DISCUSS	The BCKDK/KAT8 locus contains the VKORC1 gene, which was a genome-wide significant gene-based finding (P = 5.1 x 10-8).
+0	Alzheimer's disease	VKORC1	rs9923231	DISCUSS	The VKORC1 variant, rs9923231, whose T allele was suggestively associated with an increased risk of AD (P = 1.8 x 10-7), is strongly associated with the need for a reduced dose of warfarin anticoagulation.
+0	Alzheimer's disease	KAT8	NA	DISCUSS	KAT8 is regulated by KANSL1, which has been linked to AD as a genome-wide significant finding in APOE e4-negative individuals
+0	NA	NA	NA	DISCUSS	Our cutoff for relatedness of 0.025 in UK Biobank was very stringent, in particular since disease status was on parents of genotyped individuals, so that correlations in proxy-phenotypes from relatives (e.g., cousins) are likely to be very small.
+0	NA	CLNK	rs6448453	DISCUSS	When we used a more relaxed threshold of 0.4 (excluding first-degree relatives only), we increased our sample size to 385,869 and found three additional loci and top lead SNPs: a gene desert on chr4 (rs6448453, P = 2.8 x 10-9, chr4:11014822-11041549) that is ~400 kb from the CLNK gene; a region on chromosome 17 that includes the benzodiazepine receptor-associated protein 1 (BZRAP1) gene (rs2526378, P = 2.0 x 10-8, chr17:56398006-56410041) and a locus including variants in the amyloid precursor protein (APP) gene on chromosome 21 (rs4817090, P = 4.8 x 10-8, chr21:27454995-27534261).
+0	NA	NA	NA	DISCUSS	The corresponding P-values for these three lead SNPs in the GWAS meta-analysis with the more stringent relatedness cutoff were P = 9.6 x 10-8, 7.5 x 10-7, and 1.3 x 10-7, respectively.
+0	NA	NA	NA	DISCUSS	Two additional loci were reported as significant using the less stringent relatedness threshold in the previous version of the manuscript.
+0	NA	ADAMTS4	rs4575098	DISCUSS	Both were just below genome-wide significance in the updated analysis: rs4575098, P = 8.8 x 10-8, ADAMTS4 and rs1171812, P = 6.4 x 10-8, CCDC6.
+0	NA	NA	rs889555	DISCUSS	Moreover, the novel KAT8/BCKDK locus, which is reported in the main results section, is not genome-wide significant in the analysis using the less stringent relatedness threshold (rs889555, P = 1.7 x 10-7)
+0	Alzheimer's disease	NA	NA	DISCUSS	The gene-set enrichment analysis implicated pathways involved in AD neuropathology (amyloid and neurofibrillary tangles) in addition to immune response, lipid and cholesterol metabolism, as previously reported in a gene-set analysis on the IGAP data.
+0	NA	NA	NA	DISCUSS	A separate gene-set analysis on the meta-analysed paternal and maternal summary statistics from UK Biobank showed a highly overlapping set of enriched pathways (Supplementary Table 10)
+0	Alzheimer's disease	TOMM40	NA	DISCUSS	An integrative analysis of eQTL and methQTL with the GWAS summary data identified one previously identified AD gene, TOMM40, as having its gene expression and methylation levels associated with AD.
+0	Alzheimer's disease	NA	NA	DISCUSS	The most parsimonious explanation of these results is the existence of multiple causal variants, some affecting AD and others affecting expression or methylation.
+0	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	A previous SMR analysis of AD and LDL cholesterol identified evidence of 16 pleiotropic SNPs, 12 of which were located in the APOE region.
+0	Alzheimer's disease	NA	NA	DISCUSS	Given the involvement of immunity in the aetiology of AD, as highlighted by the pathway analysis, it may be relevant to consider immune cells, such as monocytes, for the SMR analysis
+0	NA	NA	NA	DISCUSS	The main strength of the study is the proxy-phenotype approach, which resulted in over 42,000 proxy cases for the GWAS analysis.
+0	Alzheimer's disease	NA	NA	DISCUSS	However, the question used to determine parental AD status may have resulted in some responders being unable to discriminate Alzheimer's disease and dementia from other dementia sub-types, which have different presentations and genetic architectures.
+0	NA	NA	NA	DISCUSS	This method of proxy-case ascertainment may have influenced the loci uncovered.
+0	dementia	NA	NA	DISCUSS	Parental dementia status is partly dependent on longevity, with age being the biggest risk factor for AD.
+0	Alzheimer's disease	NA	NA	DISCUSS	We partially controlled for this by excluding participants whose parents were younger than or died prior to reaching the age of 60 years when AD incidence is extremely low.
+0	NA	NA	NA	DISCUSS	The misclassification of case status via incorrect informant reporting will have reduced the power to detect true effects
+0	NA	NA	NA	CONCL	We identified three new AD-associated loci that have known and putative biological processes associated with Alzheimer's disease.
+0	Alzheimer's disease	VKORC1	NA	CONCL	These findings help to elucidate the biological mechanisms underlying AD and, given that some loci (VKORC1, ACE) are existing drug targets for other diseases and disorders, warrant further exploration for potential precision medicine and clinical trial applications
+0	NA	NA	NA	CONCL	The funders had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript
+0	NA	NA	NA	AUTH_CONT	Conception and design of the work, drafting the manuscript: R.E.M.
+0	NA	NA	NA	AUTH_CONT	Interpretation: R.E.M., P.M.V., A.F.M.
+0	NA	NA	NA	AUTH_CONT	and Q.Z.
+0	NA	NA	NA	AUTH_CONT	Analysis: R.E.M., W.D.H.
+0	NA	NA	NA	AUTH_CONT	and Q.Z.
+0	NA	NA	NA	AUTH_CONT	Critical revision of the manuscript: all authors
+0	NA	NA	NA	COMP_INT	The authors declare that they have no conflict of interest

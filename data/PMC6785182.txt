@@ -1,0 +1,234 @@
+0	NA	NA	NA	ABSTRACT	Genome-wide association studies (GWAS) have laid the foundation for investigations into the biology of complex traits, drug development and clinical guidelines.
+0	NA	NA	NA	ABSTRACT	However, the majority of discovery efforts are based on data from populations of European ancestry.
+0	NA	NA	NA	ABSTRACT	In light of the differential genetic architecture that is known to exist between populations, bias in representation can exacerbate existing disease and healthcare disparities.
+0	NA	NA	NA	ABSTRACT	Critical variants may be missed if they have a low frequency or are completely absent in European populations, especially as the field shifts its attention towards rare variants, which are more likely to be population-specific.
+0	NA	NA	NA	ABSTRACT	Additionally, effect sizes and their derived risk prediction scores derived in one population may not accurately extrapolate to other populations.
+0	NA	NA	NA	ABSTRACT	Here we demonstrate the value of diverse, multi-ethnic participants in large-scale genomic studies.
+0	NA	NA	NA	ABSTRACT	The Population Architecture using Genomics and Epidemiology (PAGE) study conducted a GWAS of 26 clinical and behavioural phenotypes in 49,839 non-European individuals.
+0	NA	NA	NA	ABSTRACT	Using strategies tailored for analysis of multi-ethnic and admixed populations, we describe a framework for analysing diverse populations, identify 27 novel loci and 38 secondary signals at known loci, as well as replicate 1,444 GWAS catalogue associations across these traits.
+0	NA	NA	NA	ABSTRACT	Our data show evidence of effect-size heterogeneity across ancestries for published GWAS associations, substantial benefits for fine-mapping using diverse cohorts and insights into clinical implications.
+0	NA	NA	NA	ABSTRACT	In the United States:where minority populations have a disproportionately higher burden of chronic conditions:the lack of representation of diverse populations in genetic research will result in inequitable access to precision medicine for those with the highest burden of disease.
+0	NA	NA	NA	ABSTRACT	We strongly advocate for continued, large genome-wide efforts in diverse populations to maximize genetic discovery and reduce health disparities
+0	NA	NA	NA	INTRO	The PAGE study was developed by the National Human Genome Research Institute and the National Institute on Minority Health and Health Disparities to conduct genetic epidemiological research in ancestrally diverse populations within the United States.
+0	NA	NA	NA	INTRO	The study is drawn from three existing major population-based cohorts (Hispanic Community Health Study/Study of Latinos (HCHS/SOL), Women's Health Initiative (WHI) and Multiethnic Cohort (MEC)) and the Icahn School of Medicine at Mount Sinai BioMe biobank in New York City (BioMe).
+0	NA	NA	NA	INTRO	Genotyped individuals self-identified as Hispanic/Latino (n = 22,216), African American (n = 17,299), Asian (n = 4,680), Native Hawaiian (n = 3,940), Native American (n = 652) or Other (n = 1,052) (Supplementary Table 1 and Supplementary Information 1).
+0	NA	NA	NA	INTRO	These 49,839 individuals were genotyped on the Multi-Ethnic Genotyping Array (MEGA), which we developed to equitably capture global genetic variation (Supplementary Fig.
+0	NA	NA	NA	INTRO	1 and Supplementary Information 3).
+0	NA	NA	NA	INTRO	Given that PAGE participants reside on a continuum of genetic ancestry, rather than discrete population groups (Fig.
+0	NA	NA	NA	INTRO	1a and Supplementary Fig.
+0	NA	NA	NA	INTRO	2), a joint analysis was optimally powered and the most parsimonious way to allow for heterogeneous variance across populations.
+0	NA	NA	NA	INTRO	We then performed genome-wide association analyses on 26 traits harmonized across the four studies, adjusted for the top 10 principal components (PCs), indicators for study and self-identified race/ethnicity, as well as trait-specific covariates.
+0	NA	NA	NA	INTRO	We used extensions of previously developed analytical tools (SUGEN and GENESIS), which explicitly model population structure, relatedness between individuals and population-specific genetic heterogeneity.
+0	NA	NA	NA	INTRO	For comparison against standard multiethnic approaches and to assess heterogeneity by ancestry, we also conducted analyses stratified by self-identified race/ethnicity and combined these analyses in a meta-analysis (Supplementary Table 3).
+0	error and experimental error	NA	NA	INTRO	We demonstrate that the joint analysis increased power for discovery compared to the meta-analysis approach, but that it did not increase the incidence of type-1 error (Supplementary Information 5; the pipeline for the analysis of diverse populations in genomic research is outlined in the Methods)
+0	NA	NA	NA	INTRO	Given that genetic architecture and/or causal variants may differ between populations, we hypothesized that the examination of underrepresented populations would reveal novel ancestry-specific associations.
+0	NA	NA	NA	INTRO	Using minor allele frequency (MAF)-specific P-value thresholds (P < 5 x 10-8 for MAF > 5%; P < 3 x 10-9 for MAF < 5%), we identified 16 novel genome-wide significant trait-variant associations and 11 low-frequency loci with suggestive associations (P < 5 x 10-8; Fig.
+0	NA	NA	NA	INTRO	1b, Extended Data Table 1, Supplementary Tables 2, 3 and Supplementary Information 8).
+0	NA	NA	NA	INTRO	In regions that have been previously identified in the NHGRI-EBI GWAS Catalog, we identified 32 significant trait-variant associations after conditioning on all trait-specific known variants in an 'adjusted' model, as well as 6 suggestive associations that had a low frequency or were rare variants (Pcond between 3 x 10-9 and 5 x 10-8), further enriching our understanding of the genetic architecture of traits (Supplementary Table 3)
+0	NA	NA	NA	INTRO	To tease apart the influence of specific ancestral components on the 27 novel and 38 secondary loci, we calculated the correlation between the risk allele genotype and each of the first 10 PCs (Extended Data Fig.
+0	NA	NA	NA	INTRO	2).
+0	NA	NA	NA	INTRO	These correlations reveal a population structure that underlies many of our identified trait-variant associations, in which there are population differences in the frequencies of risk alleles.
+0	NA	PC2	rs182996728	INTRO	Notably, a novel single-nucleotide polymorphism (SNP) (rs182996728) was identified to be associated with the number of cigarettes smoked per day among smokers (P = 3.1 x 10-8) as well as with PC4, which represents the gradient of Native Hawaiian/Pacific Islander ancestry.
+0	NA	NA	NA	INTRO	Although the risk variant is absent or rare in most populations, it was found at a frequency of 17.2% in Native Hawaiian participants, in whom the signal was the strongest (Pstratified = 2.28 x 10-6).
+0	NA	NA	NA	INTRO	Our findings show that some trait-associated variants exhibit differential frequencies across populations, further illustrating a need for the inclusion of diverse groups
+0	NA	NA	NA	INTRO	In addition to identifying novel and secondary trait-variant associations, we also replicate a portion of the published GWAS literature (which is predominantly based on populations of European ancestry; Extended Data Fig.
+0	NA	NA	NA	INTRO	1) for our 26 phenotypes from the GWAS Catalog.
+0	NA	NA	NA	INTRO	Of 8,979 known variant-trait combinations, 1,444 replicated at the P < 0.05 significance threshold, after Bonferroni correction by trait.
+0	NA	NA	NA	INTRO	Of those meeting the genome-wide significance threshold (P < 5 x 10-8), we replicate 574 variant-trait associations in 261 distinct regions, of which 132 had significant evidence of effect heterogeneity by genetic ancestry (SNP x PC, P < 8.71 x 10-5), which is likely to be a conservative estimate given the limitations of statistical power.
+0	NA	NA	NA	INTRO	We further tested for effect heterogeneity by genetic ancestry by comparing the standardized effect sizes of PAGE analyses (joint and stratified) to available effect sizes from the GWAS Catalog.
+0	NA	NA	NA	INTRO	We observed effect sizes of the PAGE joint analyses to be significantly weaker than previous reports with a slope of 0.77 (95% confidence interval = 0.75-0.81).
+0	NA	NA	NA	INTRO	When stratified by self-identified race/ethnicity, the effect sizes for the Hispanic/Latino population remained significantly attenuated compared to the previously reported effect sizes (beta = 0.86; 95% confidence interval = 0.83-0.90; Fig.
+0	NA	NA	NA	INTRO	2a).
+0	NA	NA	NA	INTRO	Effect sizes for the African American population were even further diminished at nearly half the strength (beta = 0.54; 95% confidence interval = 0.50-0.58; Fig.
+0	NA	NA	NA	INTRO	2a).
+0	NA	NA	NA	INTRO	This is suggestive of truly differential effect sizes between ancestries at previously reported variants, rather than these effect sizes being upwardly biased in general (that is, exhibiting 'winner's curse'), which should affect all groups equally
+0	NA	NA	NA	INTRO	To quantify the added value of including multi-ethnic populations in GWAS, we used published data from GIANT (a study of more than 250,000 individuals of European descent for anthropometric traits), for a meta-analysis with either PAGE (around 50,000 multi-ethnic individuals) or 50,000 randomly sampled White British participants from the UK Biobank (UKB50k).
+0	NA	NA	NA	INTRO	Stratified GWAS of height in PAGE and UKB50k were each combined in separate meta-analyses with GIANT using a fixed-effect model.
+0	NA	NA	NA	INTRO	When comparing these meta-analyses to the original GIANT analysis; both meta-analyses resulted in novel findings (PAGE + GIANT, 82 loci; UKB50k + GiAnT, 107 loci; Extended Data Table 2).
+0	NA	NA	NA	INTRO	Although the number of novel loci is indicative of new insights into trait biology, understanding the proportion of phenotypic variance explained (PVE) by each locus has potentially important consequences for personalized medicine.
+0	NA	NA	NA	INTRO	The original loci that were identified by GIANT had more than twice the PVE using UKB50k summary statistics (15.4%) compared to multi-ethnic PAGE (7.2%; Fig.
+0	NA	NA	NA	INTRO	2b).
+0	NA	NA	NA	INTRO	With the additional novel variants that were identified in UKB50k + GIANT, this gap between the PVE is exacerbated (UKB50k, 19.2%; PAGE, 8.3%), whereas the addition of variants identified in PAGE + GIANT diminished the gap in PVE (UKB50k, 16.1%; PAGE, 12.0%).
+0	NA	NA	NA	INTRO	Similar trends were also observed with analyses of body-mass index (Supplementary Fig.
+0	NA	NA	NA	INTRO	14).
+0	NA	NA	NA	INTRO	These results suggest that, although an increased sample size within a homogenous population will identify more variants and explain a larger proportion of the variance within that same population, it will also further exacerbate existing disparities in genetic knowledge for non-European populations
+0	NA	NA	NA	INTRO	The meta-analysis results can also be used to fine-map associations at known loci, which is an important step in the identification of functional polymorphisms that underlie a statistically significant association.
+0	NA	NA	NA	INTRO	Comparing the 95% credible sets for 390 associated variants reported by GIANT for height, we observed that the addition of PAGE to GIANT significantly shrunk the credible sets from an average of 11.94 SNPs in GIANT to 9.68 in the meta-analysis (P = 0.01), whereas no significant differences were observed with the addition of UKB50k to GIANT (P = 0.37; Fig.
+0	NA	NA	NA	INTRO	3a).
+0	NA	NA	NA	INTRO	Additionally, the posterior probabilities of the top-ranked SNP within these credible sets was significantly higher in the PAGE + GIANT meta-analysis compared to the GIANT analysis alone (P = 1.9 x 10-6) and the UKB50k + GIANT analysis (P = 3.2 x 10-3; Fig.
+0	NA	NA	NA	INTRO	3b).
+0	NA	NA	NA	INTRO	The addition of the UKB50k data to the GIANT results did not significantly improve the top posterior probability (P = 0.09).
+0	NA	DOT1L	rs11880992	INTRO	Here we highlight as an example the previously identified intronic variant rs11880992, which is found in DOT1L (PGIANT = 7 x 10-28)24 (Fig.
+0	NA	NA	NA	INTRO	3c, d).
+0	NA	NA	NA	INTRO	The 95% credible set was narrowed down from four to a single SNP with the addition of the PAGE data, owing to low linkage disequilibrium between these SNPs in the African American and Hispanic/Latino populations (Fig.
+0	NA	NA	NA	INTRO	3e).
+0	NA	NA	NA	INTRO	Although trends were consistent, none of these analyses yielded significant results for body-mass index (P > 0.05), which is probably due to the smaller number of regions that were analysed (n = 91; Supplementary Fig.
+0	NA	NA	NA	INTRO	15)
+0	NA	NA	NA	INTRO	Finally, we examined the worldwide distribution of several medically actionable variants that were designed on MEGA (Supplementary Information 11).
+0	NA	beta globin	rs334	INTRO	One such variant was identified through an association between a missense variant in HBB (rs334) and HbA1c levels (Pcond = 6.87 x 10-31; n = 11,178), with the majority of the signal originating from the Hispanic/Latino population (P = 7.65 x 10-27; n = 10,408; MAF = 0.01).
+0	NA	NA	NA	INTRO	Although this association has recently been reported in African Americans (PAGE African Americans, P = 5.62 x 10-4; n = 559; MAF = 0.06), this is the first time:to our knowledge:that the association with HbA1c levels has been reported in Hispanic/Latinos.
+0	anaemia	beta globin	NA	INTRO	The gene HBB encodes the adult haemoglobin beta chain and is known for its role in sickle-cell anaemia.
+0	diabetes	NA	NA	INTRO	Genetic variants of haemoglobin are known to affect the performance of some HbA1c assays, potentially leading medical professionals to incorrectly believe that a patient has achieved glucose control, increasing the risk of complications caused by type 2 diabetes.
+0	NA	NA	NA	INTRO	This result illustrates how ancestry-specific findings may be transferable to other groups that share components of genetic ancestry:in this case, the African ancestry present in both African Americans and some Hispanic/Latinos.
+0	NA	NA	NA	INTRO	The PAGE study can therefore aid in expanding the reach of precision medicine to encompass individuals of diverse ancestry, particularly when combined with other studies
+0	NA	NA	NA	INTRO	As large-scale biobanking, precision medicine and direct-to-consumer genetic testing become more common, it is critical that the genetics community takes a forward-thinking approach towards the opportunities presented by including diverse populations.
+0	NA	NA	NA	INTRO	Here we focused on quantifying the scientific value of including diverse populations in the discovery and replication phases of GWAS.
+0	NA	NA	NA	INTRO	As we move towards incorporating GWAS-based risk models in clinical care, our study as well as other recent studies demonstrate that we risk exacerbating health disparities unless diverse, multi-ethnic studies are included.
+0	NA	NA	NA	INTRO	In the United States, the All of Us Research Program embraces the reality that the success of precision medicine requires precision genomics, and therefore emphasizes the recruitment and active participation of underrepresented populations.
+0	NA	NA	NA	INTRO	It is in the best interest of our research community to follow suit and take steps to become more inclusive.
+0	NA	NA	NA	INTRO	As world populations become increasingly complex, geneticists and clinicians will be required to evaluate genetic predictors of complex traits in ever more diverse populations.
+0	NA	NA	NA	INTRO	Current genomic databases are under representative of populations with the greatest health burden and possibility of meaningful benefit.
+0	NA	NA	NA	INTRO	This realization, combined with the increased availability of resources for studying diverse populations, means that researchers and funders can no longer afford to ignore non-European populations.
+0	NA	NA	NA	INTRO	The PAGE study provides valuable resources in the design of MEGA and through the sharing of population-specific allele frequencies and analysis approaches, which will provide the motivation to make research in diverse populations a priority in the field of genetics
+0	NA	NA	NA	METHODS	The PAGE study includes eligible participants with a minority ancestry from four studies.
+0	NA	NA	NA	METHODS	Written informed consent was obtained for all participants in this study at the relevant recruitment sites.
+0	NA	NA	NA	METHODS	The WHI is a long-term, prospective, multi-centre cohort study investigating the health of post-menopausal women in the United States that recruited women from 1993 to 1998 at 40 centres across the United States.
+0	NA	NA	NA	METHODS	WHI participants reporting European descent were excluded from this analysis.
+0	NA	NA	NA	METHODS	The HCHS/SOL is a multi-centre study including participants of Hispanic/Latino descent with the goal of determining the role of acculturation in the prevalence and development of diseases relevant to Hispanic/Latino health.
+0	NA	NA	NA	METHODS	Starting in 2006, household sampling was used to recruit self-identified Hispanic/ Latinos from four sites in San Diego, Chicago, the Bronx and Miami.
+0	NA	NA	NA	METHODS	All SOL Hispanic/Latinos were eligible for this study.
+0	cancers	NA	NA	METHODS	The MEC is a population-based prospective cohort study recruiting men and women from Hawaii and California, beginning in 1993, and examines lifestyle risk factors and genetic susceptibility to cancer.
+0	NA	NA	NA	METHODS	Only the African American, Japanese American and Native Hawaiian participants of MEC were included in this study.
+0	NA	NA	NA	METHODS	The BioMe BioBank is managed by the Charles Bronfman Institute for Personalized Medicine at Mount Sinai Medical Center.
+0	NA	NA	NA	METHODS	Recruitment began in 2007 and continues at 30 clinical care sites throughout New York City.
+0	NA	NA	NA	METHODS	BioMe participants were African American (25%), Hispanic/Latino, primarily of Caribbean origin (36%), Caucasian (30%) and Others who did not identify with any of the available options (9%).
+0	NA	NA	NA	METHODS	Biobank participants who self-identified as Caucasian were excluded from this analysis.
+0	NA	NA	NA	METHODS	The Global Reference Panel (GRP) was created from Stanford-contributed samples to serve as a population reference dataset for global populations.
+0	NA	NA	NA	METHODS	GRP individuals do not have phenotype data and were only used to aid in the evaluation of genetic ancestry in the PAGE samples.
+0	cancers	NA	NA	METHODS	Study protocols were approved for all studies by the appropriate boards at their respective institutions: Fred Hutchinson Cancer Research Center Institutional Review Board (WHI), University of North Carolina Office of Human Research Ethics/IRB (OHRE/IRB; HCHS/SOL), University of Southern California IRB (MEC), University of Hawaii IRB (MEC), Icahn School of Medicine at Mount Sinai IRB (BioMe) and the Stanford University IRB (GRP).
+0	NA	NA	NA	METHODS	Additional information about each participating study can be found in the Supplementary Information
+0	diabetes	C-reactive protein	NA	METHODS	The 26 phenotypes included in this study were previously harmonized across the PAGE studies and white blood cell count, C-reactive protein, mean corpuscular haemoglobin concentration, platelet count, high-density lipoprotein, low-density lipoprotein, total cholesterol, triglycerides, glycated haemoglobin (HbA1c), fasting insulin, fasting glucose, type 2 diabetes, cigarettes per day, coffee consumption, QT interval, QRS interval, PR interval, systolic blood pressure, diastolic blood pressure, hypertension, body mass index (BMI), waist-to-hip ratio (WHR), height, chronic kidney disease (CKD), end-stage renal disease, and estimated glomerular filtration rate assessed using the CKD-Epidemiology Collaboration (CKD-Epi) equation.
+0	NA	NA	NA	METHODS	Single-variant association testing was completed for all phenotypes using phenotype-specific models, adjusting by indicators for study, self-identified race/ethnicity as a proxy for cultural background, phenotype-specific standard covariates and the first 10 PCs.
+0	NA	NA	NA	METHODS	Additional information about phenotype-specific cleaning, exclusion criteria and the model covariates are included in the Supplementary Information
+0	NA	NA	NA	METHODS	A total of 53,338 PAGE and GRP samples were genotyped on the MEGA array at the CIDR, of which 52,878 samples successfully passed the quality control process of the CIDR.
+0	NA	NA	NA	METHODS	Genotyping data that passed initial quality control at CIDR were released to the quality assurance and quality control analysis team at the University of Washington Genetic Analysis Center, after which the data were further cleaned according to previously described methods and genotypes for 51,520 subjects were returned.
+0	NA	NA	NA	METHODS	A total of 1,705,969 SNPs were genotyped on the MEGA.
+0	error and experimental error	NA	NA	METHODS	Quality control of genotyped variants was completed by filtering through various criteria, including the exclusion of (1) CIDR technical filters; (2) variants with missing call rate >= 2%; (3) variants with more than 6 discordant calls in 988 study duplicates; (4) variants with more than 1 Mendelian error in 282 trios and 1,439 duos; (5) variants with a Hardy-Weinberg P < 1 x 10-4; (6) SNPs with sex difference in allele frequency >= 0.2 for autosomes or XY; (7) SNPs with sex difference in heterozygosity > 0.3 for autosomes or XY; and (8) positional duplicates.
+0	NA	NA	NA	METHODS	Sites were further restricted to chromosomes 1-22, X or XY, and only variants with available strand information were included.
+0	NA	NA	NA	METHODS	After SNP quality control, a total of 1,402,653 MEGA variants remained for further analyses (for further details see Supplementary Information 3)
+0	NA	NA	NA	METHODS	To increase coverage, and thus improve power for fine-mapping loci, all PAGE individuals who were successfully genotyped on MEGA were subsequently imputed into the 1000 Genomes phase 3 data release.
+0	NA	NA	NA	METHODS	Imputation was conducted at the University of Washington Genetic Analysis Center.
+0	NA	NA	NA	METHODS	Genotype data that passed the above quality control filters were phased with SHAPEIT2 and imputed into 1000 Genomes phase 3 reference data using IMPUTE version 2.3.2.
+0	NA	NA	NA	METHODS	Segments of the genome that are known to contain gross chromosomal anomalies were filtered out of the final files of the genotype probabilities.
+0	NA	NA	NA	METHODS	Imputed sites were excluded if the IMPUTE information score was less than 0.4.
+0	NA	NA	NA	METHODS	A total of 39,723,562 imputed SNPs passed quality control measures (for further details see Supplementary Information 3)
+0	NA	NA	NA	METHODS	The SNPRelate package in R was used for principal components analysis (PCA) (see Supplementary Information for further details).
+0	NA	NA	NA	METHODS	The relevant PCs were selected using scatter plots.
+0	NA	NA	NA	METHODS	Scatter plots, with various PCs on the x and y axes, helped to assess the spread of genetic ancestry in the data for self-identified racial/ethnic clusters.
+0	NA	NA	NA	METHODS	A parallel coordinate plots for the first 10 PCs was generated, in which each PAGE individual is represented by a set of line segments connecting his or her PC values.
+0	NA	NA	NA	METHODS	The amount of variance explained diminished with each subsequent PC, and we estimated that the top 10 PCs provided sufficient information to explain the majority of genetic variation in the PAGE study population
+0	NA	NA	NA	METHODS	All imputed autosomal variants with IMPUTE information score > 0.4 (M = 39,723,562) were eligible for association testing in phenotype-specific models.
+0	NA	NA	NA	METHODS	An effective sample size (Neff) was calculated for each SNP in a given phenotype-specific model, where Neff = 2 x MAF x (1 : MAF) x N x info where MAF is the minor allele frequency among the set of individuals included in a phenotype-specific model, N is the total sample size for a given phenotype and info is the IMPUTE information score of the SNP.
+0	NA	NA	NA	METHODS	Variants with Neff < 30 (continuous phenotypes) or Neff < 50 (binary phenotypes), were excluded from the final set of phenotype-specific results.
+0	NA	NA	NA	METHODS	The number of variants analysed per trait ranged from 21,894,105 to 34,656,550 for continuous phenotypes and 11,665,604 to 28,263,875 for binary phenotypes (Supplementary Table 1).
+0	NA	NA	NA	METHODS	Quantile-quantile plots and lambdaGC (GC = genomic control) were used to assess genomic inflation in all phenotypes, for which lambdaGC ranged from 0.98 to 1.15.
+0	NA	NA	NA	METHODS	Single-variant association testing for each phenotype used an additive model that was adjusted by indicators for study, self-identified race/ethnicity, the first 10 PCs and phenotype-specific covariates.
+0	NA	NA	NA	METHODS	Additional information about the phenotype-specific model covariates and transformations are included in the Supplementary Information.
+0	NA	NA	NA	METHODS	Association testing was completed in both SUGEN and GENESIS programs
+0	NA	NA	NA	METHODS	The GENESIS program is a Bioconductor package made available in R that was developed for large-scale genetic analyses in samples with complex structure including relatedness, population structure and ancestry admixture.
+0	NA	NA	NA	METHODS	The current version of GENESIS implements both linear and logistic mixed model regression for genome-wide association testing.
+0	NA	NA	NA	METHODS	The software can accommodate continuous and binary phenotypes.
+0	NA	NA	NA	METHODS	The GENESIS package includes the program PC-Relate, which uses a PCA-based method to infer genetic relatedness in samples with unspecified and unknown population structure.
+0	NA	NA	NA	METHODS	By using individual-specific allele frequencies estimated from the sample with PC eigenvectors, it provides robust estimates of kinship coefficients and identity-by-descent sharing probabilities in samples with population structure, admixture and Hardy-Weinberg equilibrium departures.
+0	NA	NA	NA	METHODS	It does not require additional reference population panels or prior specification of the number of ancestral subpopulations
+0	NA	NA	NA	METHODS	The SUGEN program is a command-line software program developed for genetic association analysis under complex survey sampling and relatedness patterns.
+0	NA	NA	NA	METHODS	It implements the generalized estimating equation method, which does not require modelling of the correlation structures of complex pedigrees.
+0	NA	NA	NA	METHODS	It adopts a modified version of the 'sandwich' variance estimator, which is accurate for low-frequency SNPs.
+0	NA	NA	NA	METHODS	Association testing in SUGEN requires the formation of 'extended' families by connecting the households who share first-degree relatives or either first- or second-degree relatives.
+0	NA	NA	NA	METHODS	Trait values are assumed to be correlated within families but independent between families.
+0	NA	NA	NA	METHODS	In our experience in analysing this dataset, it is sufficient to account for first-degree relatedness.
+0	NA	NA	NA	METHODS	The current version of SUGEN can accommodate continuous, binary and age-at-onset traits.
+0	NA	NA	NA	METHODS	A comparison of P values produced by SUGEN and GENESIS for all previously identified known loci are included in Supplementary Fig.
+0	NA	NA	NA	METHODS	12 and Supplementary Table 4
+0	NA	NA	NA	METHODS	Phenotype-specific lists of previously identified loci were hand-curated for each phenotype and included SNPs indexed in the GWAS Catalog or identified through non-GWAS high-throughput methods (for example, metabochip, exomechip or immunochip).
+0	NA	NA	NA	METHODS	The full lists of known loci for each phenotype are available in Supplementary Table 5.
+0	NA	NA	NA	METHODS	Conditional analyses were conducted for all phenotypes by conditioning on all previously identified loci on a given chromosome.
+0	NA	NA	NA	METHODS	P values estimated in conditional analyses are denoted by 'Pcond in the main text; the SUGEN conditional results for all novel and secondary findings are shown in Supplementary Table 3
+0	NA	NA	NA	METHODS	We used two approaches to assess effect heterogeneity within PAGE participants.
+0	NA	NA	NA	METHODS	First, we used interaction analyses with models that included variant by PC (SNP x PC) interaction terms for all 10 PCs.
+0	NA	NA	NA	METHODS	The fit of nested models was compared using the F-statistic, for which the associated interaction P value indicated whether the inclusion of the 10 SNP x PC interaction terms improved the model fit compared to a model that lacked the interaction terms.
+0	NA	NA	NA	METHODS	The overall SNP x PC interaction P values evaluated whether the additional variance explained by variant x genetic ancestry interactions was statistically significant and represented effect modification driven by genetic ancestry.
+0	NA	NA	NA	METHODS	Interaction P values for all novel and secondary findings are included in Supplementary Table 3
+0	NA	NA	NA	METHODS	For comparison against more standard (stratified) analysis strategies, all analyses were also run stratified by self-identified race/ethnicity.
+0	NA	NA	NA	METHODS	A minor allele count of at least five was required for a stratified model to be run within an ethnic group.
+0	NA	NA	NA	METHODS	The stratified analyses were then meta-analysed using a fixed-effect model implemented in METAL.
+0	NA	NA	NA	METHODS	I2 and chi2 heterogeneity P values were estimated for all meta-analysed results and represent effect size heterogeneity driven by self-identified race/ethnicity.
+0	NA	NA	NA	METHODS	The race/ethnicity-specific results, I2 and chi2 heterogeneity P values for all novel and secondary findings are included in Supplementary Table 3
+0	NA	NA	NA	METHODS	The standardized effect size (z') analysis for Fig.
+0	NA	NA	NA	METHODS	2a was performed as follows.
+0	NA	NA	NA	METHODS	To avoid double-counting of SNPs/loci, we constrained analysis for each trait to (1) the single previous report that (2) did not combine genome-wide genotypes with focused platforms such as the metabochip, (3) reported the direction of effect with the allele in the GWAS Catalog and (3) included the maximum total number of individuals after applying criteria (1) and (2).
+0	NA	NA	NA	METHODS	(1) We selected a single manuscript, because many traits already have serial meta-analyses published, where earlier publications represent a subset of individuals reported in later publications, so reported effect sizes in the GWAS Catalog are not necessarily independent.
+0	NA	NA	NA	METHODS	(2) We excluded meta-analyses using mixtures of agnostic GWAS data (consistent map density across the genome) with focused platforms (for example, metabochip, oncochip or exomechip), because the actual sample size varies markedly across the genome, with overlapping agnostic/focused regions having substantially greater numbers of individuals in the analysis.
+0	NA	NA	NA	METHODS	Most of these reports fail to specify the sample size on a per-SNP basis, making it impossible to confidently calculate z'.
+0	NA	NA	NA	METHODS	(3) Starting from the 22 quantitative traits, we found reference studies that explicitly reported the allele associated with direction of effect for 18.
+0	NA	NA	NA	METHODS	Furthermore, to be confident that the direction of effect was consistent between PAGE and previous reports, we restricted analysis to asymmetric SNPs (A/C, A/G, C/T and G/T).
+0	NA	NA	NA	METHODS	These criteria yielded 589 previously reported genome-wide significant variants, distributed across the 18 traits (Supplementary Table 7).
+0	NA	NA	NA	METHODS	Only 110 of these variants were traditionally genome-wide significant (P < 5 x 10-8) and therefore overlap with the SNP x PC heterogeneity analysis.
+0	NA	NA	NA	METHODS	We compared the PAGE z' (both pooled and stratified) to the GWAS Catalog z' in a linear regression
+0	NA	NA	NA	METHODS	SUGEN association results were used for the identification of novel and secondary findings for all phenotypes.
+0	NA	NA	NA	METHODS	The variant with the smallest P value in a 1-Mb region was considered the 'lead SNP.
+0	NA	NA	NA	METHODS	A lead SNP was considered to be a novel locus if it met the following criteria: (1) the lead SNP was located greater than +-500 kb away from a previously known locus (per the phenotype-specific list of known loci); (2) had a SUGEN P < 5 x 10-8; (3) had a SUGEN conditional P < 5 x 10-8 after adjustment for all previously known loci on the same chromosome; and (4) had two or more neighbouring SNPs (within +-500 kb) with a P < 1 x 10-5.
+0	NA	NA	NA	METHODS	A lead SNP was considered to be a secondary signal in a previously known loci if it met the following criteria: (1) the lead SNP was located within +-500 kb of a previously known loci; (2) had a SUGEN P < 5 x 10-8; and (3) had a SUGEN conditional P < 5 x 10-8 after adjustment for all previously known loci on the same chromosome.
+0	NA	NA	NA	METHODS	Full results for all novel and secondary findings are included in Supplementary Tables 2, 3
+0	NA	NA	NA	METHODS	The full GWAS Catalog database was downloaded on 31 December 2016.
+0	NA	NA	NA	METHODS	The data were filtered to identify results relevant to any of the 26 PAGE phenotypes, producing a subset of 8,979 unique trait-SNP associations (3,322 unique variants) that were genome-wide significant (P < 5 x 10-8) in the GWAS Catalog.
+0	NA	NA	NA	METHODS	The PAGE results for each of the GWAS Catalog trait-SNP associations was examined to first identify the subset of pairs that replicated (P < 5 x 10-8) in PAGE unconditioned models.
+0	NA	NA	NA	METHODS	Pairs of replicated tag SNPs within 500,000 base pairs of each other were then merged into loci, to count 'unique' associated loci.
+0	NA	NA	NA	METHODS	Of the GWAS Catalog tag SNPs that were replicated in PAGE, SNPs that had a Bonferroni-corrected SNP x PC interaction heterogeneity P value (P < 8.71 x 10-5, 0.05/574) were considered to show evidence of significant effect size heterogeneity between ancestries.
+0	NA	NA	NA	METHODS	Effect heterogeneity was also assessed using the multi-ethnic study population of PAGE by first identifying the lead SNP in each locus with the smallest P value in PAGE, totalling 333 SNPs (302 known loci from the GWAS Catalog, plus 31 novel loci discovered in the present analysis).
+0	NA	NA	NA	METHODS	Among the 333 lead SNPs, 24 (7.2%) had a significant Bonferroni-corrected SNP x PC interaction heterogeneity P value (P < 1.5 x 10-4, 0.05/333)
+0	NA	NA	NA	METHODS	We meta-analysed results for BMI and height in our PAGE multiethnic sample (around 50,000 individuals) with the published data from GIANT consortium, which included approximately 250,000 individuals of European descent for each trait
+0	NA	NA	NA	METHODS	We also conducted a meta-analysis with 50,000 randomly sampled 'White British' individuals from the UK Biobank (UKB50k) for comparison.
+0	NA	NA	NA	METHODS	GWAS for both PAGE and UKB50k were estimated with analogous models for BMI and height traits.
+0	NA	NA	NA	METHODS	Within PAGE and UKB50k, we used the inverse normally transformed residuals for each trait by sex and race/ethnicity, and adjusted for population substructure, age, centre and racial/ethnic groups (if applicable).
+0	NA	NA	NA	METHODS	These methods were similar those used by GIANT, using inverse-normal-adjusted residuals for each trait outcome.
+0	NA	NA	NA	METHODS	We then separately meta-analysed results using a fixed-effects model for either PAGE or UKB50k combined with GIANT using the METAL software.
+0	NA	NA	NA	METHODS	We retained only variants available across both the combined meta-analyses (for PAGE + GIANT or UKB50k + GIANT), which led to the inclusion of approximately 2.5 million variants.
+0	NA	NA	NA	METHODS	Significance was defined as P < 5 x 10-8.
+0	NA	NA	NA	METHODS	Novelty of a locus was defined as +-500 kb from any known loci for the respective trait based on the previously published GIANT data.
+0	NA	NA	NA	METHODS	We also required the at least two SNPs within a 1-Mb results had P < 1 x 10-5 to be retained as a significant known or novel locus
+0	NA	NA	NA	METHODS	We used FINEMAP for all fine-mapping analyses.
+0	NA	NA	NA	METHODS	For each previously reported locus for height and BMI in GIANT, a 1-Mb region was subset, using the summary statistics from GIANT, the PAGE + GIANT meta-analysis and the UKB50k + GIANT meta-analysis.
+0	NA	NA	NA	METHODS	The linkage disequilibrium for the fine-mapping analyses was calculated using each individual ancestry from the PAGE sample and using the 9,700 individuals of European descent from the ARIC study.
+0	NA	NA	NA	METHODS	For weighted linkage disequilibrium that included all ancestries, we weighted each ancestry in PAGE by the actual sample size and added in the ARIC sample but used the sample size from the GIANT consortium by trait.
+0	NA	NA	NA	METHODS	All analyses were run assuming one causal variant.
+0	NA	NA	NA	METHODS	The cumulative 95% credible set was calculated from the estimated posterior probabilities
+0	NA	NA	NA	METHODS	Each PVE analysis considered a single combination of (1) trait, (2) the analysis from which P values were derived (GIANT, GIANT + PAGE or GIANT + UKB50k) and (3) the target population in which PVE was calculated (either PAGE or UKB50k).
+0	NA	NA	NA	METHODS	To avoid overweighting any single region owing to linkage disequilibrium between multiple associated SNPs, we first defined a 'locus' as a contiguous series of genome-wide significant tag SNPs with genome-wide significance, for which each tag SNP was less than 500 kb from the next.
+0	NA	NA	NA	METHODS	Then we selected the single SNP within each locus with the smallest P value in the given analysis (the best tag SNP) and calculated the PVE for that SNP in the target population.
+0	NA	NA	NA	METHODS	The meta-analysis was effectively limited to allele frequencies greater than 5%, so we used the standard P < 5 x 10-8 threshold for significance to define loci
+0	NA	NA	NA	METHODS	PVE was calculated for a given SNP using a previously published equation:
+0	NA	NA	NA	METHODS	Input for this equation requires only the estimated effect size , the standard error of the estimate (s.e.
+0	NA	NA	NA	METHODS	, the allele frequency (p) and the number of samples (N).
+0	NA	NA	NA	METHODS	PVE was then summed across all of the best tag SNPs in a given analysis
+0	NA	NA	NA	METHODS	These 99 labels were compiled from self-identified ancestry information from the PAGE sample manifest, as well as self-reported country of origin from the Mount Sinai BioMe biobank.
+0	NA	NA	rs2395029	METHODS	Per-population allele frequencies for rs2395029[G] were calculated in PLINK v.1.90 (http://www.cog-genomics.org/plink/L9/) and results were visualized in R
+0	NA	NA	NA	FIG	We observed that:although the number of unique participants (in millions) in the GWAS Catalog has grown substantially over the past decade:the relative proportion of participants of non-European descent has remained constant, with the majority of progress within Asian populations
+0	NA	NA	NA	FIG	a, The correlation (r2) for novel and residual loci calculated by obtaining the individual level data for all PAGE participants and correlating the SNP genotype with each of the ten PCs.
+0	NA	NA	NA	FIG	The correlation between each locus and each of the ten PCs was plotted on the y axis, novel loci are plotted in grey and residual loci are plotted in yellow.
+0	NA	PC2	NA	FIG	We observed an especially high correlation between a novel locus and PC4, which represents Native Hawaiian/Pacific Islander ancestry.
+0	NA	NA	NA	FIG	b, The individual level data for all PAGE participants were obtained and plotted in a parallel coordinates plot, such that each PAGE individual is represented by a set of line segments connecting their eigenvalues.
+0	NA	NA	NA	FIG	This allows us to see which race/ethnicity groups are differentiated at each PC.
+0	NA	PC2	NA	FIG	For example, we see predominantly green lines as outliers for PC4, which indicates that this vector represents a continuum of Native Hawaiian/Pacific Islander ancestry
+0	NA	NA	NA	TABLE	GWAS Catalog heterogeneity by trait, including number of novel and secondary finding
+0	NA	NA	NA	FIG	a, The population substructure present in the multi-ethnic sample of PAGE (n = 49,839) revealed complex patterns preventing meaningful stratification.
+0	NA	PC1	NA	FIG	Here we show that PC1 and PC2 show major patterns of variation, stratified by self-identified race/ethnicity.
+0	NA	NA	NA	FIG	Individuals denoted by orange self-identified as 'Other'.
+0	NA	NA	NA	FIG	b, There are 8,979 previously reported trait-variant pairs, of which 1,444 replicated at a by-trait Bonferroni-adjusted significance level for P values estimated from a Wald test in SUGEN.
+0	NA	NA	NA	FIG	In addition, we found 27 novel trait-variant pairs and 38 secondary signal pairs that remained after adjusting for known variants.
+0	NA	ErbB	NA	FIG	BMI, body-mass index; eGFR, estimated glomerular filtration rate; HbA1c, glycated haemoglobin; HDL, high-density lipoprotein; LDL, low-density lipoprotein; MCHC, mean corpuscular haemoglobin concentration; WHR, waist-to-hip ratio
+0	NA	NA	NA	FIG	a, Standardized effect sizes for the two largest self-reported subsets of the PAGE population show markedly weaker effect sizes in African Americans (z'PAGE = 0.54 x z'prior (yellow); z' is the z-score from the trait-variant association standardized by the sample size in PAGE or the 'prior' publication from the NHGRI-EBI GWAS Catalog) than in Hispanic/Latino participants (z'PAGE = 0.86 x z'prior; red) compared to originally reported effect sizes from the NHGRI-EBI GWAS Catalog.
+0	NA	NA	NA	FIG	Grey shading indicates the 95% confidence interval around the slope estimate.
+0	NA	NA	NA	FIG	b, After identifying the SNP with the smallest P value in each locus, the PVE of height was calculated using the estimated effect size from this set of tag SNPs (left, GIANT-only GWAS; middle, UKB50k+GIANT meta-analysis; right, PAGE + GIANT meta-analysis).
+0	NA	NA	NA	FIG	PVE was estimated independently in the UKB50k (White British) and PAGE (multi-ethnic) samples.
+0	NA	NA	NA	FIG	The gap in PVE with previously reported loci from GIANT (8.14%) is exacerbated with the inclusion of 50,000 more individuals of European descent, to 11.19%.
+0	NA	NA	NA	FIG	However, it narrows markedly with the inclusion of 50,000 multiethnic samples, to 3.91%
+0	NA	NA	NA	FIG	a, Comparison of 95% credible sets for height, comparing GIANT alone (n = 253,288) to UKB50k + GIANT (n = 303,288; paired-sample t-test P = 0.37) and PAGE + GIANT (n = 303,069; paired-sample t-test P = 0.01).
+0	NA	NA	NA	FIG	Box plots show the median as the line in the notch, with the top and bottom of the box indicating the interquartile range.
+0	NA	NA	NA	FIG	Whiskers extend to either the minimum value or 1.5 x the interquartile range.
+0	NA	NA	NA	FIG	Notches indicate the 95% confidence interval of the medians.
+0	NA	NA	NA	FIG	b, Top posterior probability from each 95% credible set for height, comparing GIANT (n = 253,288) to UKB50k + GIANT (n = 303,288) and PAGE + GIANT (n = 303,069).
+0	NA	NA	rs11880992	FIG	c, Example of results for a height locus from GWAS (rs11880992) in UKB50k + GIANT (n = 303,288) and PAGE + GIANT (n = 303,069), with linkage disequilibrium from weighted matrix from meta-analysis.
+0	NA	NA	NA	FIG	d, Posterior probabilities for this signal with credible set in indicated by the diamond shapes.
+0	NA	NA	NA	FIG	e, Linkage disequilibrium (r2) for the original 95% credible set from GIANT results stratified by populations.
+0	NA	NA	rs11880992	FIG	The index association SNP (rs11880992) with the highest posterior probability is denoted in bold

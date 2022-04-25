@@ -1,0 +1,157 @@
+0	breast cancer	NA	NA	ABSTRACT	We examined the associations between germline variants and breast cancer mortality using a large meta-analysis of women of European ancestry
+0	breast cancer	NA	NA	ABSTRACT	Meta-analyses included summary estimates based on Cox models of twelve datasets using ~10.4 million variants for 96,661 women with breast cancer and 7697 events (breast cancer-specific deaths).
+0	NA	NA	NA	ABSTRACT	Oestrogen receptor (ER)-specific analyses were based on 64,171 ER-positive (4116) and 16,172 ER-negative (2125) patients.
+0	NA	NA	NA	ABSTRACT	We evaluated the probability of a signal to be a true positive using the Bayesian false discovery probability (BFDP)
+0	NA	NA	NA	ABSTRACT	We did not find any variant associated with breast cancer-specific mortality at P < 5 x 10-8.
+0	NA	AUTS2	rs4717568	ABSTRACT	For ER-positive disease, the most significantly associated variant was chr7:rs4717568 (BFDP = 7%, P = 1.28 x 10-7, hazard ratio [HR] = 0.88, 95% confidence interval [CI] = 0.84-0.92); the closest gene is AUTS2.
+0	NA	HOXA	rs67918676	ABSTRACT	For ER-negative disease, the most significant variant was chr7:rs67918676 (BFDP = 11%, P = 1.38 x 10-7, HR = 1.27, 95% CI = 1.16-1.39); located within a long intergenic non-coding RNA gene (AC004009.3), close to the HOXA gene cluster
+0	breast cancer	NA	NA	ABSTRACT	We uncovered germline variants on chromosome 7 at BFDP < 15% close to genes for which there is biological evidence related to breast cancer outcome.
+0	breast cancer	NA	NA	ABSTRACT	However, the paucity of variants associated with mortality at genome-wide significance underpins the challenge in providing genetic-based individualised prognostic information for breast cancer patients
+0	breast cancer	NA	NA	INTRO	Breast cancer is the most common cancer in the Western world and accounts for 15% of cancer-related deaths in women, with about 522,000 deaths worldwide in 2012.
+0	breast cancer	NA	NA	INTRO	Survival after a diagnosis of breast cancer varies considerably between patients even with closely matching tumour characteristics.
+0	breast cancer	NA	NA	INTRO	Models that predict the likelihood of survival after breast cancer treatment use tumour and treatment data, but currently do not take host factors into account.
+0	cancers	NA	NA	INTRO	The identification of prognostic and predictive biomarkers inherent in the germline of the patients rather than the tumour could pinpoint mechanisms of tumour progression and help with treatment stratification to increase therapeutic benefit.
+0	NA	NA	NA	INTRO	Such markers include inherited genetic variation, as there is evidence for heritability of breast cancer-specific mortality in affected first-degree relatives.
+0	cancers	hormone receptor	NA	INTRO	Germline variation may affect prognosis by affecting tumour biology, since such variants are known to be associated with risk of specific breast tumour subtypes, particularly those defined by hormone receptor status, and have different outcomes.
+0	cancers	NA	NA	INTRO	Germline genotype could also affect the efficacy of adjuvant drug therapies or might condition the host tumour environment via vascularisation, metastatic pattern, stroma-tumour interaction and immune surveillance
+0	NA	NA	NA	INTRO	The association between common germline genetic variation and breast cancer-specific mortality has been examined in many candidate gene studies, as well as in moderate-sized genome-wide association studies (GWAS).
+0	NA	NA	NA	INTRO	However, it has been difficult link GWAS results to plausible candidate genes and few have been convincingly replicated.
+0	breast cancer	NA	NA	INTRO	Large studies with long follow-up and reliable data on known prognostic factors are required if novel alleles associated with prognosis in breast cancer are to be identified at a level of genome-wide significance.
+0	breast cancer	NA	NA	INTRO	In the present work, we pooled genotype data from multiple breast cancer GWAS discovery and replication efforts with new genotype data obtained from a large breast cancer series genotyped using the OncoArray chip.
+0	NA	NA	NA	INTRO	We examined associations with risk of breast cancer-specific mortality in a total of 96,661 breast cancer patients with survival time data.
+0	NA	NA	NA	INTRO	We then investigated the potential functional role of the selected variants by predicting possible target genes
+0	breast cancer	NA	NA	METHODS	We included data from twelve datasets (n = 96,661) in which multiple breast cancer patient cohorts were genotyped by a variety of arrays providing genome-wide coverage of common variants.
+0	NA	NA	NA	METHODS	An overview of the datasets with specification of the arrays used is given in Supplementary Table 1.
+0	NA	NA	NA	METHODS	Data from eight of these datasets have been used in previous analyses (n = 37,954).
+0	breast cancer	NA	NA	METHODS	However, the Collaborative Oncological Gene-Environment Study (COGS) dataset from the Breast Cancer Association Consortium (BCAC) was updated to include additional follow-up and death events and additional genotype data, increasing the number of events and samples to a total of n = 29,959 patients.
+0	NA	NA	NA	METHODS	Two new datasets, the BCAC OncoArray and the SUCCESS A trial, comprising 58,027 samples, were added for the current analyses
+0	NA	NA	NA	METHODS	The OncoArray is a custom Illumina genotyping array designed by the Genetic Associations and Mechanisms in Oncology (GAME-ON) consortium.
+0	NA	NA	NA	METHODS	It includes 533,000 variants of which 260,660 form a GWAS backbone, with the remainder being custom content, details of which have been described previously.
+0	breast cancer	NA	NA	METHODS	The SUCCESS-A Study is a randomised phase III study of n = 3,299 breast cancer cases.
+0	NA	NA	NA	METHODS	Cases from the trial were genotyped using the Illumina Human OmniExpress array.
+0	NA	NA	NA	METHODS	We downloaded imputed genotypes from dbGaP (data reference 6266)
+0	NA	NA	NA	METHODS	COGS samples that were also genotyped on the OncoArray were removed from the COGS dataset (n = 14,426).
+0	breast cancer	NA	NA	METHODS	Female patients with invasive breast cancer diagnosed at age > 18 years, and with follow-up data available were included in the analyses.
+0	NA	NA	NA	METHODS	BCAC data from freeze 8 was used, in which 873 COGS samples with unknown breast cancer-specific mortality status were excluded from the analyses.
+0	cancers	NA	NA	METHODS	All stages of cancer, including metastatic, were used in the analysis.
+0	breast cancer	NA	NA	METHODS	Some individual studies applied additional selection criteria such as young age or early breast cancer stage (Supplementary Table 2)
+0	NA	NA	NA	METHODS	The genotype and sample quality control for the datasets have been described previously.
+0	NA	NA	NA	METHODS	Ancestry outliers for each dataset were identified by multidimensional scaling or LAMP on the basis of a set of unlinked variants and HapMap2 populations.
+0	NA	NA	NA	METHODS	Samples of European ancestry were retained for analyses
+0	NA	NA	NA	METHODS	Ten of the datasets were imputed using the reference panel from the 1000 Genomes Project in a two-stage procedure.
+0	NA	NA	NA	METHODS	The 1000 Genomes project Phase 3 (October 2014) release was used as the reference panel for all the datasets apart from SUCCESS-A, which used the Phase 1 release (March 2012).
+0	NA	NA	NA	METHODS	Imputation for CGEMS and BPC3 was performed using the programme MACH.
+0	NA	NA	NA	METHODS	Phased genotypes were first derived using SHAPEIT and IMPUTE2 and then used to perform imputation on the phased data.
+0	NA	NA	NA	METHODS	The main analyses were based on variants that were imputed with imputation r2 > 0.3 and had minor allele frequency (MAF) > 0.01 in at least one of the datasets leading to ~10.4 million variants.
+0	NA	NA	NA	METHODS	To match the individual datasets in the meta-analysis we used the chromosome position.
+0	NA	NA	NA	METHODS	Variants were kept in the analysis as long as they were present in one of the studies.
+0	NA	NA	NA	METHODS	In those cases where there was ambiguity over the naming of the insertions and deletions, the MAF was used for further matching
+0	NA	NA	NA	METHODS	Time-to-event was calculated from the date of diagnosis.
+0	NA	NA	NA	METHODS	For prevalent cases with study entry after diagnosis left truncation was applied, i.e., follow-up started at the date of study entry.
+0	death	NA	NA	METHODS	Follow-up was right censored on the date of death, on the date last known alive if death did not occur, or at 15 years after diagnosis, whichever came first.
+0	NA	NA	NA	METHODS	We chose the 15 years cut-off because follow-up varied between studies and after that period follow-up data became scarce.
+0	NA	NA	NA	METHODS	Follow-up of the cohorts is illustrated in Kaplan Meier curves (Supplementary Figure 1)
+0	NA	NA	NA	METHODS	The hazard ratios (HR) for the association of genotypes with breast cancer-specific mortality were estimated using Cox proportional hazards regression implemented in an in-house programme written in C++.
+0	NA	NA	NA	METHODS	Analysis of the CGEMS and BPC3 data was conducted using ProbABEL.
+0	NA	NA	NA	METHODS	The estimates of the individual studies were combined using an inverse-variance weighted meta-analysis.
+0	NA	NA	NA	METHODS	Since meta-analysis results based on the Wald test have been shown to be inflated for rare variants we recomputed the standard errors based on the likelihood ratio test statistic (see details in Supplementary methods), using the formula:For each dataset we included as covariates a variable number of principal components (Supplementary Table 1) from the ancestry analysis as covariates in order to control for cryptic population substructure.
+0	NA	NA	NA	METHODS	The Cox models were stratified by country for the OncoArray dataset and by study for the COGS dataset.
+0	NA	NA	NA	METHODS	Statistical tests were performed for each variant by combining the results for all the datasets using a fixed-effects meta-analysis.
+0	NA	NA	NA	METHODS	Inflation of the test statistics (lambda) was estimated by dividing the 45th percentile of the test statistic by 0.357 (the 45th percentile for a chi2 distribution on 1 degree of freedom).
+0	breast cancer	NA	NA	METHODS	Analyses were carried out for all invasive breast cancer and for oestrogen receptor (ER)-positive and ER-negative disease separately
+0	NA	NA	NA	METHODS	To assess the probability of a variant being a false positive we used a Bayesian false discovery probability (BFDP) test based on the P value, a prior set to 0.0001 and an upper likely HR of 1.3
+0	NA	NA	NA	METHODS	To predict potential target genes, we used Bedtools v2.26 to intersect notable variants with genomic annotation data relevant to gene regulation activity in samples derived from breast tissue.
+0	NA	NA	NA	METHODS	We examined features including enhancers, promoters and transcription factor binding sites identified by the Roadmap and ENCODE Projects.
+0	NA	NA	NA	METHODS	Expression quantitative loci (eQTL) data from GTEx were queried for evidence of potential cis-regulatory activity
+0	NA	NA	NA	FIG	Association plot for the meta-analysis of the twelve datasets for breast cancer-specific mortality analyses (censored at 15 years) for a all breast tumours (censored at 15 years), b ER-negative tumours and c ER-positive tumours.
+0	NA	NA	NA	FIG	The y-axis shows the -log10 P values of each variant analysed, and the x-axis shows their chromosome position.
+0	NA	NA	NA	FIG	The red horizontal line represents P = 5 x 10-
+0	NA	NA	NA	FIG	Q-Q plots for the meta-analysis of the twelve datasets for breast cancer-specific mortality analyses (censored at 15 years) for a all breast cancer tumours (censored at 15 years), b ER-negative tumours and c ER-positive tumours.
+0	NA	NA	NA	FIG	The y-axis represents the observed -log10 P value, and the x-axis represents the expected -log10 P value.
+0	NA	NA	NA	FIG	The red line represents the expected distribution under the null hypothesis of no association.
+0	NA	NA	NA	FIG	Analyses were not corrected for LD-structur
+0	breast cancer	NA	NA	RESULTS	Genotype data from 96,661 breast cancer cases (64,171 ER-positive and 16,172 ER-negative) with 7697 breast cancer deaths within 15 years were included in the primary analyses.
+0	NA	NA	NA	RESULTS	For 16,318 cases we did not have ER-status information.
+0	NA	NA	NA	RESULTS	The average follow-up time was 6.38 years.
+0	NA	NA	NA	RESULTS	Details of the numbers of samples and events in each dataset are given in Supplementary Table 3.
+0	NA	NA	NA	RESULTS	Manhattan and quantile-quantile (Q-Q) plots for the associations between variants and breast cancer-specific mortality of all invasive, ER-negative and ER-positive breast cancers are shown in Fig.
+0	NA	NA	NA	RESULTS	1 and Fig.
+0	NA	NA	NA	RESULTS	2, respectively.
+0	NA	NA	NA	RESULTS	There was some evidence of inflation of the test statistic with an inflation factor of 1.06 for all invasive and ER-positive, and 1.05 for ER-negative including all variants.
+0	NA	NA	NA	RESULTS	These Q-Q plots showed no evidence of an association at P < 5 x 10-8; at less stringent thresholds for significance, there were an increasing number of observed associations for all three analyses (Fig.
+0	NA	NA	NA	RESULTS	2)
+0	NA	NA	NA	TABLE	Results of the variants with BFDP < 15% in the meta-analysis of the 12 studies of breast cancer-specific mortalit
+0	NA	NA	NA	RESULTS	We identified three variants at BFDP < 15% associated with breast cancer-specific mortality of patients with ER-negative disease (Table 1).
+0	NA	NA	NA	RESULTS	These variants are part of an independent set of 32 highly correlated variants on chromosome 7q21.1 that were associated at P < 5 x 10-6 (Supplementary Table 4).
+0	NA	NA	NA	RESULTS	The LD matrix between these variants computed based on the 1000 European genomes, and their chromosomal positions, are shown in Supplementary Figure 1.
+0	NA	NA	rs67918676	RESULTS	The strongest association was for rs67918676: HR = 1.27; 95% CI = 1.16-1.39; P = 1.38 x 10-7; risk allele A frequency = 0.12 and BFDP = 11%.
+0	NA	NA	NA	RESULTS	The imputation efficiency for this variant was high, with r2 = 0.99 for all datasets
+0	NA	LOC105375207	rs67918676	RESULTS	The lead variant rs67918676 is located in an intron of a long intergenic non-coding RNA gene, LOC105375207 (AC004009.3), in close proximity to the HOXA gene cluster and the lncRNA HOTTIP.
+0	breast cancer	Mbp	NA	RESULTS	We tested the genes within a 500 MBp window around the 32 highly correlated variants for the association of their mRNA expression in breast tumours with recurrence-free survival using KMplotter (kmplot.com/analysis).
+0	breast cancer	HOXA9	NA	RESULTS	Four of the ten closest genes with probes available showed moderate association with breast cancer survival at P < 0.005 (HOXA9, HOTTIP, EVX1 and TAX1BP1), with these associations mainly observed for ER-negative breast cancer (Supplementary Table 5A).
+0	NA	NA	NA	RESULTS	Yet, intersecting the germline variants with several sources of genomic annotation information (e.g., chromosome conformation, enhancer-promoter correlations or gene expression) we could not find strong in silico evidence of gene regulation by the region containing the associated variants
+0	NA	NA	NA	RESULTS	We also identified four variants at a BFDP < 15% associated with breast cancer-specific mortality of patients with ER-positive disease (Table 1).
+0	NA	NA	NA	RESULTS	These variants were part of an independent set of 45 highly correlated variants on chromosome 7q11.22 that were associated at P < 5 x 10-6 (Supplementary Table 6).
+0	NA	NA	NA	RESULTS	The LD matrix between these variants computed based on the 1000 European genomes, and their chromosomal positions, are shown in Supplementary Figure 3.
+0	NA	NA	rs4717568	RESULTS	The strongest association was for rs4717568: HR = 0.88; 95% CI:0.84-0.92; P = 1.28 x 10-7; risk allele A frequency = 0.62 and BFDP = 7%.
+0	NA	NA	NA	RESULTS	The imputation efficiency for this variant was high, with an average r2 = 0.96 for all datasets.
+0	breast cancer	AUTS2	NA	RESULTS	Two coding genes, AUTS2 and GALNT17, were located within a 500 MBp window around the 45 highly correlated variants, but the expression of neither of the two was associated with breast cancer survival in KMplotter analyses of TCGA data (Supplementary Table 5B)
+0	NA	NA	rs67918676	FIG	Forest plot showing the association between the ER-negative variant rs67918676 and breast cancer-specific mortality in ER-negative tumours for the datasets used in the meta-analysis.
+0	NA	NA	NA	FIG	The size of the square reflects the size of the study (see also Supplementary Table 3
+0	NA	NA	rs4717568	FIG	Forest plot showing the association between the ER-positive variant rs4717568 and breast cancer-specific mortality in ER-positive tumours for the datasets used in the meta-analysis.
+0	NA	NA	NA	FIG	The size of the square reflects the size of the study (see also Supplementary Table 3
+0	breast cancer	NA	rs67918676	RESULTS	The association of rs67918676 with ER-negative breast cancer was observed in eight of nine studies with no significant heterogeneity present at P < 0.01 (Fig.
+0	NA	NA	NA	RESULTS	3 and Supplementary Figure 4a).
+0	NA	NA	rs4717568	RESULTS	For ER-positive disease, the association of rs4717568 was detected in all seven studies with no heterogeneity present at P < 0.01 (Fig.
+0	NA	NA	NA	RESULTS	4 and Supplementary Figure 4b)
+0	cancers	NA	NA	RESULTS	Apart from the 7q variants, only one isolated rare variant reached BFDP values below 15% for all tumours (Table 1).
+0	NA	NA	rs370332736	RESULTS	The variant, rs370332736: HR = 1.17; 95% CI: 1.10-1.24; P = 2.48 x 10-7; risk allele A frequency = 0.09 and BFDP = 13%, is located on chromosome 6 and has an average imputation efficiency of r2 = 0.96 for all datasets.
+0	NA	NA	NA	RESULTS	In addition, there were several variants found at P < 10-6 for all three analyses (Supplementary Table 4, Supplementary Table 6 and Supplementary Table 7)
+0	NA	NA	NA	DISCUSS	In this large survival analysis, we report a genome-wide study for identifying genetic markers associated with breast cancer-specific mortality, involving 96,661 patients from a combined meta-analysis.
+0	NA	NA	NA	DISCUSS	We found one noteworthy region with 32 highly correlated variants on chromosome 7q21.1 for ER-negative.
+0	NA	NA	rs67918676	DISCUSS	The lead variant rs67918676 (P = 1.38 x 10-7 and BFDP of 11% under reasonable assumptions for the prior probability of association) is located in a long intergenic non-coding RNA gene (AC004009.3).
+0	breast cancer	HOXA	NA	DISCUSS	While this represents an uncharacterised transcript mainly expressed in testis and prostate, it is located about 200 kb away from a cluster of HOXA homeobox genes that has been implicated in breast cancer aetiology and prognosis.
+0	breast cancer	HOTTIP	NA	DISCUSS	This region also contains HOTTIP, a lncRNA with prognostic value on clinical outcome in breast cancer.
+0	NA	TAX1BP1	NA	DISCUSS	The flanking region on the opposite side contains TAX1BP1, a gene that may be involved in chemosensitivity.
+0	breast cancer	NA	NA	DISCUSS	Interestingly, database mining using KMplotter revealed evidence for an association of the expression of these nearby genes with survival from ER-negative breast cancer.
+0	NA	NA	NA	DISCUSS	On the other hand, the enhancer activity at this noteworthy locus was predicted to be low based on the intersection with biofeatures characteristic of regulatory activity as no known eQTLs appear to exist in this region, suggesting that gene regulatory effects of the identified variants are limited in breast tissue or may be activated under certain untested conditions.
+0	cancers	NA	NA	DISCUSS	For ER-positive tumours, we found another noteworthy region with 45 highly correlated variants at P < 5 x 10E-6 on chromosome 7q11.22.
+0	NA	AUTS2	rs4717568	DISCUSS	The lead variant rs4717568 (P = 1.28 x 10-7 and BFDP of 7%) is located between the AUTS2 and the GALNT17 genes.
+0	NA	GALNT17	NA	DISCUSS	GALNT17 encodes an N-acetylgalactosaminyltransferase that may play a role in membrane trafficking.
+0	cancers	AUTS2	NA	DISCUSS	AUTS2 has been implicated in neurodevelopment, but AUTS2 overexpression in cancer has also been linked with resistance to chemotherapy and epithelial-to-mesenchymal transition.
+0	metastases	AUTS2	NA	DISCUSS	It has been postulated that overexpression of AUTS2 is specific for metastases, which may be consistent with the inconspicuous gene expression results in the TCGA database
+0	NA	NA	NA	DISCUSS	It is important to note the differences between the present and the previous GWAS study we had undertaken, the latter done in a much smaller dataset (3632 events versus 7697 events in the current study) that did not include the OncoArray study.
+0	NA	NA	NA	DISCUSS	The OncoArray study is the largest dataset used in the present meta-analysis and also the study with the highest imputation quality.
+0	cancers	NA	rs148760487	DISCUSS	The two previously reported variants (rs148760487 for all breast cancer tumours and rs2059614 for ER-negative tumours) were not associated with breast cancer-specific mortality in the current analyses (P = 1.59 x 10-3 and P = 5.41 x 10-4, respectively).
+0	NA	NA	NA	DISCUSS	"The most likely explanation for this is that the original results were false-positive findings, despite the original association being nominally ""genome-wide significant""."
+0	NA	NA	NA	DISCUSS	The BDFPs for the original reported associations were 54% and 16%, respectively.
+0	NA	NA	NA	DISCUSS	For the lead variants identified in the present analysis, we tested for differences in the imputation quality between the current and previous analysis.
+0	breast cancer	NA	NA	DISCUSS	All variants had high imputation quality (~0.99) in the previous study, suggesting that the longer and more complete follow-up together with a higher number of events allowed more robust identification of breast cancer mortality associations.
+0	NA	NA	NA	DISCUSS	However, there are some weaknesses of the current meta-analysis such as heterogeneity between patient treatment over time and between countries and between datasets with different study designs that should be considered.
+0	NA	NA	NA	DISCUSS	These limitations, intrinsic to large survival meta-analyses, increase the noise and reduce the power to detect true associations
+0	breast cancer	NA	NA	DISCUSS	In conclusion, we found two novel candidate regions at chromosome 7 for breast cancer survival, credible at a BFDP < 15% and associated with either ER-negative or ER-positive breast cancer-specific mortality.
+0	breast cancer	NA	NA	DISCUSS	Concerning additional variants, we might still be underpowered to obtain a more comprehensive picture of genomic markers for breast cancer outcome.
+0	breast cancer	NA	NA	DISCUSS	Overall, the role of germline variants in breast cancer mortality is still unclear and additional analyses with larger sample sizes and more complete follow-up including treatments are needed.
+0	NA	NA	NA	DISCUSS	In addition, alternative methods that integrate multiple data sources such as gene expression, protein-protein interactions or pathway analyses may be used to aggregate the effect of multiple variants with small effects.
+0	breast cancer	NA	NA	DISCUSS	Such approaches could increase the power of the analyses while better explaining the underlying biological mechanisms associated with breast cancer mortality
+0	NA	NA	NA	AUTH_CONT	M.K.S.
+0	NA	NA	NA	AUTH_CONT	and P.D.P.F.
+0	NA	NA	NA	AUTH_CONT	conceived the study.
+0	NA	NA	NA	AUTH_CONT	Q.G., M.E.G., S.K., C.J.T.
+0	NA	NA	NA	AUTH_CONT	and T.D.
+0	NA	NA	NA	AUTH_CONT	performed the data analyses.
+0	NA	NA	NA	AUTH_CONT	M.K.S., P.D.P.F., Q.G., M.E.G., T.D.
+0	NA	NA	NA	AUTH_CONT	and D.M.E.
+0	NA	NA	NA	AUTH_CONT	were involved in the interpretation of the data.
+0	NA	NA	NA	AUTH_CONT	J.D., D.F.E., P.D.P.F., S.C. and J.B. provided statistical and computational support for the data analyses.
+0	NA	NA	NA	AUTH_CONT	R.K., Q.W., M.K.B.
+0	NA	NA	NA	AUTH_CONT	and J.D.
+0	NA	NA	NA	AUTH_CONT	provided database support.
+0	NA	NA	NA	AUTH_CONT	M.E.G., Q.G., T.D., M.K.S.
+0	NA	NA	NA	AUTH_CONT	and P.D.P.F.
+0	NA	NA	NA	AUTH_CONT	wrote the first draft of the manuscript.
+0	NA	NA	NA	AUTH_CONT	All authors contributed data from their own studies, helped revise the manuscript and approved the final version
+0	NA	NA	NA	SUPPL	All estimates reported in the paper are available through the BCAC website: http://bcac.ccge.medschl.cam.ac.uk
+0	NA	NA	NA	SUPPL	The study was performed in accordance with the Declaration of Helsinki.
+0	NA	NA	NA	SUPPL	All individual studies, from which data were used, were approved by the appropriate medical ethical committees and/or institutional review boards.
+0	NA	NA	NA	SUPPL	All study participants provided informed consent

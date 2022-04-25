@@ -1,0 +1,213 @@
+0	NA	NA	NA	ABSTRACT	Genome-wide association studies (GWAS) have been successful in identifying genetic variants associated with complex diseases.
+0	NA	NA	NA	ABSTRACT	However, association analyses between genotypes and phenotypes are not straightforward due to the complex relationships between genetic and environmental factors.
+0	NA	NA	NA	ABSTRACT	Moreover, multiple correlated phenotypes further complicate such analyses.
+0	NA	NA	NA	ABSTRACT	To resolve this complexity, we present an analysis using structural equation modeling (SEM).
+0	NA	NA	NA	ABSTRACT	Unlike current methods that focus only on identifying direct associations between diseases and genetic variants such as single-nucleotide polymorphisms (SNPs), our method introduces the effects of intermediate phenotypes, which are related phenotypes distinct from the target, into the systematic genetic study of diseases.
+0	NA	NA	NA	ABSTRACT	Moreover, we consider multiple diseases simultaneously in a single model.
+0	NA	NA	NA	ABSTRACT	The procedure can be summarized in four steps: 1) selection of informative SNPs, 2) extraction of latent variables from the selected SNPs, 3) investigation of the relationships among intermediate phenotypes and diseases, and 4) construction of an SEM.
+0	NA	NA	NA	ABSTRACT	As a result, a quantitative map can be drawn that simultaneously shows the relationship among multiple SNPs, phenotypes, and diseases.
+0	hypertension	NA	NA	ABSTRACT	In this study, we considered two correlated diseases, hypertension and type 2 diabetes (T2D), which are known to have a substantial overlap in their disease mechanism and have significant public health implications.
+0	NA	NA	NA	ABSTRACT	As intermediate phenotypes for these diseases, we considered three obesity-related phenotypes:subscapular skin fold thickness, body mass index, and waist circumference:as traits representing subcutaneous adiposity, overall adiposity, and abdominal adiposity, respectively.
+0	NA	NA	NA	ABSTRACT	Using GWAS data collected from the Korea Association Resource (KARE) project, we applied the proposed SEM process.
+0	NA	NA	NA	ABSTRACT	Among 327,872 SNPs, 24 informative SNPs were selected in the first step (p<1.0E-05).
+0	NA	NA	NA	ABSTRACT	Ten latent variables were generated in step 2.
+0	NA	NA	NA	ABSTRACT	After an exploratory analysis, we established a path diagram among phenotypes and diseases in step 3.
+0	hypertension	NA	NA	ABSTRACT	Finally, in step 4, we produced a quantitative map with paths moving from specific SNPs to hypertension through intermediate phenotypes and T2D.
+0	NA	NFIC	NA	ABSTRACT	The resulting model had high goodness-of-fit measures (chi2 = 536.52, NFI = 0.997, CFI = 0.998, GFI = 0.995, AGFI = 0.993, RMSEA = 0.012)
+0	hypertension	NA	NA	INTRO	Hypertension and type 2 diabetes (T2D) are two of the leading risk factors for atherosclerotic cardiovascular disease, which is a major component of the global burden of disease.
+0	hypertension	NA	NA	INTRO	These conditions often occur together, and recent studies showed that the presence of T2D increased the risk of hypertension.
+0	hypertension	insulin	NA	INTRO	Hypertension and T2D are thought to share common pathways such as obesity, insulin resistance, inflammation, oxidative stress, and mental stress.
+0	hypertension	NA	NA	INTRO	In addition to lifestyle and environmental factors, genetic factors have also been explored to understand the mechanisms of T2D and hypertension.
+0	NA	NA	NA	INTRO	Because obesity-related phenotypes are thought to be a common pathophysiological element underlying T2D and hypertension, understanding the connections among these diseases and factors related to obesity is an important aspect of the search for proper treatments of these diseases
+0	asthma	NA	NA	INTRO	Genome-wide association studies (GWAS) have been successful in identifying genetic variants associated with complex diseases such as asthma, autism disorder, T2D, and hypertension.
+0	NA	NA	NA	INTRO	A typical approach of GWAS is to report significant single-nucleotide polymorphisms (SNPs) affecting disease; in other words, such studies generally present single-SNP analyses.
+0	NA	NA	NA	INTRO	However, association analyses between genotypes and traits are not straightforward due to the complex relationships between genetic and environmental factors.
+0	NA	NA	NA	INTRO	Moreover, in the presence of multiple correlated phenotypes and/or diseases, such analyses become more complicated.
+0	dependency	NA	NA	INTRO	Since a separate analysis of each phenotype or disease ignores dependencies among phenotypes, a multivariate approach considering a joint analysis should be considered.
+0	hypertension	NA	NA	INTRO	Various genomic studies have been conducted to understand hypertension and T2D individually.
+0	hypertension	NA	NA	INTRO	However, few studies have attempted to model the pathways underlying hypertension through obesity-related traits and T2D
+0	NA	NA	NA	INTRO	Methodology for mediation to assess the importance of various paths and mechanisms has expanded rapidly in the last few decades.
+0	NA	NA	NA	INTRO	Mediation analysis has traditionally been dealt with in the fields of social sciences and psychology, but more recently it has also been addressed in the fields of epidemiology and health.
+0	NA	NA	NA	INTRO	Mediation processes are framed in terms of intermediate variables, the mediator, that helps explain how or why an independent variable influences an outcome.
+0	NA	NA	NA	INTRO	The mediator significantly accounts for variation in an outcome variable.
+0	NA	NA	NA	INTRO	In the context of mediation analysis, there are many advantages in using the structural equation model (SEM) framework.
+0	NA	NA	NA	INTRO	SEM is a multivariate statistical method that involves the estimation of parameters for a system of simultaneous equations.
+0	NA	NA	NA	INTRO	It can be used when extending a mediation process to multiple independent variables, mediators, or outcomes
+0	NA	NA	NA	INTRO	In this study, we present SEM-based approach to studying the associations between genetic variants and phenotypes.
+0	NA	NA	NA	INTRO	In general, SEM is a confirmatory approach rather than an exploratory approach, in that the main focus of SEM is to verify that a model established by a researcher beforehand is supported by the data, although it may sometimes seem exploratory since the model can be modified to improve its goodness-of-fit.
+0	NA	NA	NA	INTRO	SEM implies a functional relationship expressed through a conceptual model, path diagram, and mathematical equations.
+0	NA	NA	NA	INTRO	Therefore, it is possible to express, through SEM, the causal relationships in a hypothesized mediation process, the simultaneous nature of the indirect and direct effects, the dual role the mediator plays as both a cause and an effect.
+0	NA	NA	NA	INTRO	Various types of models can be used in SEM, including regression, path, confirmatory factor, and growth curve models
+0	NA	NA	NA	INTRO	SEM has been used in various fields, including genetic analysis.
+0	NA	NA	NA	INTRO	Procedures for applying SEM after gene- and pathway-based analysis have been proposed.
+0	NA	NA	NA	INTRO	Also, a method for merging GWAS and gene regulatory networks (GRNs) using the SEM framework has been attempted.
+0	NA	NA	NA	INTRO	More recently, the GW-SEM method, which relies on a diagonally weighted least squares (DWLS) estimator, has been proposed to construct SEM on a genome-level.
+0	metabolic disorder	NA	NA	INTRO	The SEM-based genome scan approach for metabolic syndrome has been carried out.
+0	metabolic disorder	NA	NA	INTRO	Additionally, cross-sectional data analysis to provide a path diagram from genetic variants to metabolic syndrome and disease has been studied.
+0	NA	NA	NA	INTRO	SNPs with significant associations with phenotypic traits were as exogenous predictors.
+0	NA	NA	NA	INTRO	Meanwhile, the approaches to analyzing longitudinal data with pedigrees have also been developed.
+0	NA	NA	NA	INTRO	However, there are few studies that have applied SEM to analyze multiple SNPs, intermediate phenotypes, diseases simultaneously
+0	NA	NA	NA	INTRO	In this respect, we suggest a procedure for constructing an SEM to investigate the relationships of multiple SNPs and multiple intermediate phenotypes with respect to multiple diseases.
+0	NA	NA	NA	INTRO	Unlike current methods that focus only on identifying direct associations between diseases and SNPs, our method introduces the effects of intermediate phenotypes.
+0	NA	NA	NA	INTRO	We define intermediate phenotypes as disease-related phenotypes distinct from the target itself.
+0	NA	NA	NA	INTRO	Moreover, we simultaneously consider multiple diseases in the model.
+0	NA	NA	NA	INTRO	As a result, we generated a quantitative map simultaneously showing the relationships among multiple SNPs, phenotypes, and diseases
+0	NA	NA	NA	INTRO	Our detailed goals were to answer the following research questions.
+0	NA	NA	NA	INTRO	First, do genetic characteristics such as SNPs affect intermediate phenotypes and/or diseases?
+0	NA	NA	NA	INTRO	Second, is there any commonality or similarity between the SNPs?
+0	NA	NA	NA	INTRO	Furthermore, if there is a genetic commonality, can we consider their underlying component, by taking that commonality into account?
+0	NA	NA	NA	INTRO	How do such components affect intermediate phenotypes and disease?
+0	NA	NA	NA	INTRO	Third, are there any associations or causal relationships between the intermediate phenotypes and diseases under consideration?
+0	NA	NA	NA	INTRO	Fourth, is it possible to simultaneously consider the relationships of multiple SNPs, intermediate phenotypes, and diseases?
+0	NA	NA	NA	INTRO	To answer these questions, we developed an SEM-based procedure that introduced intermediate phenotypes to examine both direct and indirect relationships.
+0	NA	NA	NA	INTRO	We applied this approach to Korean GWAS data.
+0	hypertension	NA	NA	INTRO	We considered two diseases (hypertension and T2D) and three intermediate variables related to obesity (subscapular skin fold thickness [SUB], body mass index [BMI], and waist circumference [WC]).
+0	hypertension	NA	NA	INTRO	Using Korean GWAS data, we constructed a model with paths extending from genetic variants to hypertension through obesity-related intermediate phenotypes and T2D
+0	NA	NA	NA	METHODS	Consider an nxc data matrix A with three blocks for n samples: A = [X Y Z].
+0	NA	NA	NA	METHODS	The first block X contains data from nxp SNPs, Y is a block corresponding to nxq intermediate phenotypes, and Z is a block corresponding to nxr diseases, where c = p+q+r.
+0	NA	NA	NA	METHODS	In order to investigate the multiple phenotypes that reflect joint action of multiple SNPs, we developed an SEM-based modeling procedure summarized in the following four steps.
+0	NA	NA	NA	METHODS	Fig 1 shows a summary of the proposed procedure
+0	ith SNP block	NA	NA	FIG	Fij represents the jth factor loading for the ith SNP block.
+0	ith SNP block	NA	NA	FIG	X_i,k represents the kth SNP in the ith SNP block
+0	NA	NA	NA	METHODS	The first step was to select the preliminary informative SNPs.
+0	NA	NA	NA	METHODS	To avoid computational complexity and multicollinearity due to the enormous scale of the SNPs in GWAS, non-contributing SNPs to each phenotype were excluded through a single-SNP analysis using regression or logistic regression models.
+0	NA	NA	NA	METHODS	Since intermediate phenotypes and diseases are likely to be heterogeneous according to demographic factors such age and sex, analyses were conducted using demographic factors as covariates.
+0	NA	NA	NA	METHODS	Instead, it is possible to choose the most significant SNP in each linkage disequilibrium (LD) block.
+0	ith SNP block	NA	NA	METHODS	In this paper, a set of significant SNPs for each phenotype or disease will be called SNP block.
+0	NA	NA	NA	METHODS	Thus, q+r SNP blocks consisting of informative SNPs are produced in this step
+0	ith SNP block	NA	NA	METHODS	The second step was to explore the underlying nature of the factors, or latent variables of the selected SNPs for each SNP block.
+0	NA	NA	NA	METHODS	We begin with theoretical assumption that there exists a common latent construct among the significant SNPs.
+0	NA	NA	NA	METHODS	Fig 2 shows a conceptual framework for the factor analysis.
+0	NA	NA	NA	METHODS	We assumed that SNPs having similar genetic functions or located near the same gene are manifested by the underlying latent factors.
+0	NA	NA	NA	METHODS	In the exploratory factor analysis steps, we performed a procedure of varimax rotation, which is one of the most common method of orthogonal rotation, producing uncorrelated factors and simplified interpretation.
+0	NA	NA	NA	METHODS	In order to construct latent variables efficiently, SNPs with a very low communality were excluded.
+0	NA	NA	NA	METHODS	Here, communality was considered to represent the variance of any SNP that was shared with other SNPs via common factors
+0	ith SNP block	NA	NA	FIG	Factor ij represents the jth latent variable for ith SNP block.
+0	ith SNP block	NA	NA	FIG	SNP_ik represents the kth SNP in ith SNP block
+0	NA	NA	NA	METHODS	The third step was to investigate the effect of intermediate phenotypes on diseases, or the associations among all these phenotypic variables.
+0	NA	NA	NA	METHODS	This association analysis of multiple phenotypes provided a conceptual framework for constructing an SEM structure in the following step
+0	NA	NA	NA	METHODS	In the final step, we applied SEM based on the previously constructed latent variables, or joint SNPs, obtained from step 2.
+0	NA	NA	NA	METHODS	The SEM reflected the relationships between all SNPs, their joint action or latent variables, intermediate phenotypes, disease, and morbidity.
+0	NA	NA	NA	METHODS	A typical process for SEM was performed.
+0	NA	NA	NA	METHODS	That is, after identification of the model, we estimated and tested the model
+0	NA	NA	NA	METHODS	Because of the distribution issue of the indirect effect, several approaches have been suggested to test the unstandardized indirect effect.
+0	NA	NA	NA	METHODS	Bootstrapping approach uses the empirical distribution of the statistics to approximate the theoretical distribution of the statistics, whereas PRODCLIN method is based on the distribution of a product for testing unstandardized indirect effect.
+0	NA	NA	NA	METHODS	An alternative approach is to use maximum likelihood estimate.
+0	NA	NA	NA	METHODS	It is known that likelihood-based confidence interval should capture the asymmetry on the distribution of the indirect effect.
+0	NA	NA	NA	METHODS	Each method has its pros and cons, but we used maximum likelihood method in this study
+0	NA	NA	NA	METHODS	The model was modified if necessary.
+0	NA	NA	NA	METHODS	Finally, we identified the best SEM model with the highest goodness-of-fit measure.
+0	NA	NA	NA	METHODS	While there are no golden rules for assessment of model fit, reporting a variety of indices is necessary.
+0	NA	NFIC	NA	METHODS	Several fit indices including chi2, NFI, CFI, GFI and RMSEA can be considered, where NFI is the normed fit index, CFI is the comparative fit index, GFI is the goodness-of-fit index, AGFI is the adjusted goodness-of-fit index, and RMSEA is the root mean square error of approximation.
+0	NA	NA	NA	METHODS	In general, the smaller the chi2 value, the better the goodness-of-fit to the data.
+0	NA	NA	NA	METHODS	However, the chi2 statistic is sensitive to the samples size and it nearly tends to reject the model when the sample size is large.
+0	NA	NA	NA	METHODS	The other indices are independent of the sample sizes.
+0	NA	NFIC	NA	METHODS	Cut-offs indicating a good fit for each index are NFI >=0.95, CFI>=0.95, GFI>=0.95, AGFI>=0.90, and RMSEA<=0.07
+0	NA	NA	NA	METHODS	We analyzed the GWAS data set from the Korea Association Resource (KARE) project.
+0	NA	NA	NA	METHODS	This project was initiated in 2007 in order to undertake a large-scale GWAS.
+0	NA	NA	NA	METHODS	The 10,038 participants were recruited from two community-based cohorts: Ansung, representing a mainly rural community, and Ansan, representing an urban community.
+0	NA	NA	NA	METHODS	After standard quality control procedures for the subjects and SNPs, a total of 8,842 participants and 327,872 SNPs remained.
+0	NA	NA	NA	METHODS	Of them, 4,183 (47.31%) were male and 4,659 (52.69%) were female, with a mean age of 52.22 years (range, 39-70 years).
+0	obese	NA	NA	METHODS	The KARE data include demographic characteristics such as area, sex, and age, as well as multiple phenotypes related to obesity, T2D, and hypertension that were identified based on a review of the participants' medical records.
+0	hypertension	NA	NA	METHODS	Our research interests focused on T2D and hypertension as mediated through obesity.
+0	NA	NA	NA	METHODS	Table 1 presents the basic statistics for the data
+0	NA	NA	NA	METHODS	We defined T2D using fasting blood glucose (FBG) or blood glucose after 120 minutes (OGTT120), with criteria of FBG >= 126 mg/dL, OGTT120 >= 200 mg/dL, or the use of antidiabetic medication.
+0	hypertension	NA	NA	METHODS	Hypertension was defined as systolic blood pressure (SBP) >= 140 mm Hg, diastolic blood pressure (DBP) >= 90 mm Hg, or the use of antihypertensive medication.
+0	obese	NA	NA	METHODS	As intermediate phenotypes, we considered three traits related to obesity: BMI, WC, and SUB.
+0	NA	NA	NA	METHODS	More specifically, BMI reflects overall body adiposity, whereas WC reflects abdominal adiposity (for which visceral adipose tissue is largely responsible), and SUB reflects subcutaneous adiposity.
+0	NA	NA	NA	METHODS	Height (cm), body weight (kg), and waist circumference (cm) were measured using standard methods in light clothes.
+0	NA	NA	NA	METHODS	BMI was calculated as the weight divided by the square of height (kg/m2).
+0	NA	NA	NA	METHODS	SUB was measured using a caliper at a vertical fold taken 1 inch below the lowest point of the shoulder blade (mm)
+0	hypertension	NA	NA	METHODS	Hypertension was present in 2393 (27.06%) participants, and 836 (9.45%) of participants had T2DM.
+0	NA	NA	NA	METHODS	The average (+-SD) values of the obesity-related variables were 24.60 kg/m2 (+-3.12 kg/m2) for BMI, 23.69 mm (+- 10.96 mm) for SUB, and 82.7 cm (+- 8.79 cm) for WC (Table 1).
+0	NA	NA	NA	METHODS	We analyzed these data using the proposed procedure.
+0	NA	NA	NA	METHODS	From step 1 to step 3, statistical analyses were done using SAS version 9.4 (SAS Corp., Cary, NC, USA).
+0	NA	NA	NA	METHODS	For the SEM analysis in step 4, Lisrel version 9.1 (Scientific software international, Skokie, IL, USA) was used.
+0	NA	NA	NA	METHODS	The threshold for statistical significance was set at alpha = 0.05, unless otherwise noted
+0	NA	NA	NA	RESULTS	Among the 327,872 SNPs in the KARE dataset, we selected informative SNPs affecting intermediate phenotypes and diseases.
+0	NA	NA	NA	RESULTS	We conducted single-SNP analyses using simple linear regression models and logistic regression models for intermediate phenotypes and diseases, respectively.
+0	NA	NA	NA	RESULTS	Sex, age, and area were used as covariates.
+0	NA	NA	NA	RESULTS	The SNPs were regarded as statistically significant when they showed a p-value less than 1.0E-05 in the single-SNP analysis.
+0	NA	NA	NA	RESULTS	The obesity-related phenotypes (BMI, SUB, and WC) were associated with 19 SNPs: 7 SNPs for BMI, 5 SNPs for SUB, and 7 SNPs for WC.
+0	NA	NA	NA	RESULTS	For the dichotomous definition of T2D, a single SNP was determined to be significant, with a p-value less than 1.0E-05.
+0	hypertension	NA	NA	RESULTS	For the dichotomous definition of hypertension, 4 SNPs were identified as significant.
+0	NA	NA	NA	RESULTS	Finally, we selected 24 SNPs included in one of the 5 SNP blocks.
+0	hypertension	NA	NA	RESULTS	The five SNP blocks consisted of significant SNPs for Sub, BMI, WC, T2D and Hypertension, respectively.
+0	ith SNP block	NA	NA	RESULTS	Table 2 presents a list of the selected SNPs for each SNP block
+0	NA	NA	NA	RESULTS	During factor analysis, we investigated the communality between SNPs constructing latent variables.
+0	NA	NA	rs17178527	RESULTS	Excluded were three SNPs with very low communality (less than 0.3): rs17178527, which was related to BMI; rs16951883, which was related to SUB; and rs17092358, which was related to WC
+0	ith SNP block	NA	NA	RESULTS	A separate factor analysis was performed for each SNP block to obtain latent variables.
+0	NA	NA	NA	RESULTS	Table 3 shows the factor loadings obtained by varimax rotation and variance explained for each phenotype.
+0	ith SNP block	NA	NA	RESULTS	By using factor loadings, the four SUB-related SNPs in the first SNP block were constructed as two latent variables (hereafter, FACTOR11 and FACTOR12).
+0	NA	NA	NA	RESULTS	The six BMI-related SNPs were also constructed as two latent variables (hereafter, FACTOR21 and FACTOR22), and the seven WC-related SNPs were composed of three latent variables, (hereafter, FACTOR31, FACTOR32, and FACTOR33).
+0	NA	NA	NA	RESULTS	These latent variables may reflect the common joint action of SNPs on their respective phenotype.
+0	diabetes	NA	NA	RESULTS	The latent variables for the SNPs related to diabetes (hereafter, FACTOR41) and hypertension (hereafter, FACTOR51 and FACTOR52) were also generated in a similar manner.
+0	NA	NA	NA	RESULTS	The SNPs classified as corresponding to the same latent variable are shown in square brackets.
+0	NA	NA	NA	RESULTS	The two SNPs comprising FACTOR52 have different signs, meaning that they were found to be related in different directions.
+1	obese	FTO	NA	RESULTS	Both FACTOR11 and FACTOR21 consisted of SNPs from the FTO gene, which is known to be associated with fat mass and obesity.
+1	NA	ATP2B1	NA	RESULTS	The SNPs comprising FACTOR51 were from ATP2B1, which has been reported to be a hypertension-related gene
+0	NA	NA	NA	RESULTS	We investigated the association among phenotypes by adjusting for the effect of covariates including area, sex, and age.
+0	NA	NA	NA	RESULTS	Partial correlation coefficients of the considered phenotypes are presented in Table 4.
+0	NA	NA	NA	RESULTS	All three intermediate phenotypes were directly correlated with each other (r>0.547).
+0	hypertension	NA	NA	RESULTS	For hypertension, BMI showed the largest correlation coefficient of the obesity measures (r = 0.194), and WC showed the next largest correlation coefficient (r = 0.180).
+0	metabolic disorder	NA	NA	RESULTS	For T2D, WC showed the largest correlation coefficient (r = 0.122), implying that central body fat may be more closely associated with components of metabolic syndrome, such as T2D and hypertension
+0	NA	NA	NA	RESULTS	Before the main SEM analysis, we conducted a path analysis between the intermediate phenotypes and diseases to determine the most proper model.
+0	hypertension	NA	NA	RESULTS	First, we set T2D as a risk factor for hypertension according to recent studies.
+0	obese	NA	NA	RESULTS	Second, we established the paths regarding obesity indicators
+0	NA	NA	NA	RESULTS	As mentioned earlier, we considered three obesity-related phenotypes to capture the various dimensions of obesity including genetic influences on each obesity phenotype: WC reflects abdominal adiposity, BMI reflects overall body adiposity; SUB reflects subcutaneous adiposity.
+0	diabetes	NA	NA	RESULTS	WC is generally known to have a greater association with diabetes or hypertension than the other two obesity indicators.
+0	hypertension	insulin	NA	RESULTS	Clinical evidences consistently suggested that the association of insulin resistance (which is thought to be the key common pathway of T2D and hypertension) with WC was stronger than the corresponding associations of insulin resistance with BMI or SUB.
+0	NA	NA	NA	RESULTS	In our analysis, WC also showed the strongest correlation with T2D, and BMI or SUB showed considerable correlation with WC.
+0	NA	NA	NA	RESULTS	Therefore, we have established the ordered paths to maximize the clinical relevance, where WC directly affects the diseases, and BMI or SUB affect diseases through WC.
+0	hypertension	NA	NA	RESULTS	We considered the paths in which BMI or SUB directly affect T2D or hypertension independently of WC
+0	obese	NA	NA	RESULTS	As a result, we established the path from obesity to T2D and hypertension that is shown in Fig 3.
+0	NA	NA	NA	RESULTS	It displays the coefficient estimates of the path analysis, which indicate the strength of the effect of the independent variable on the dependent variable.
+0	NA	NA	NA	RESULTS	Paths with solid lines indicate that effects were statistically significant (p<0.05), whereas two paths with dotted lines showed statistically insignificant effects
+0	NA	NA	NA	FIG	Solid lines indicate that effects were statistically significant (p<0.05), whereas dotted lines present statistically insignificant effects
+0	NA	NA	NA	RESULTS	The SEM was constructed based on the joint action of the multiple SNPs and multiple intermediate phenotypes identified in the previous steps.
+0	NA	NA	NA	RESULTS	By developing an SEM, we reflected the relationships between all SNPs, their joint action or latent variables, obesity-related phenotypes, and their possible morbidity (i.e., their effect on diseases).
+0	NA	NA	NA	RESULTS	In hypothesized model construction, we assumed that the error terms were uncorrelated, which was an important assumption for causal inference in performing mediation analysis.
+0	NA	NA	NA	RESULTS	Model coefficients of SEM were estimated by maximum likelihood method using the sample covariance matrix of KARE data, with sex, age, and area as covariates, yielding consistent and efficient estimates.
+1	NA	NA	rs9926289	RESULTS	The fit of the hypothesized SEM was improved by allowing measurement errors correlated for rs9926289 and rs9939609, rs7193144 and rs8050136, rs7193144 and rs7193144, rs8050136 and rs8050136.
+0	NA	NA	NA	RESULTS	Model diagnosis confirmed that the maximum likelihood estimation method was appropriate.
+0	NA	NA	NA	RESULTS	Under the proposed SEM, we considered the causal relationships among endogenous latent variables of WC and BMI.
+0	NA	NA	NA	RESULTS	Correlations between latent variables for each phenotype were not large enough to cause multicollinearity between latent variables
+0	NA	NFIC	NA	RESULTS	Through the modification process, we identified the best SEM model based on various goodness-of-fit measures (chi2 = 536.52, NFI = 0.997, CFI = 0.998, GFI = 0.995, AGFI = 0.993, RMSEA = 0.012).
+0	NA	NA	NA	RESULTS	These indices indicated that the resulting SEM should have high goodness-of-fit
+0	NA	NA	NA	RESULTS	Fig 4 and Table 5 show the standardized effects of the final SEM.
+0	hypertension	NA	NA	RESULTS	In the analysis of causal relationships among intermediate phenotypes and diseases, subcutaneous adiposity showed a direct, statistically significant relationship for overall adiposity (b = 0.632, t = 76.25), abdominal adiposity (b = 0.041, t = 5.23) and T2D (b = 0.085, t = 6.25), but statistical significance was not reached for hypertension (b = 0.01, t = 0.285).
+0	hypertension	NA	NA	RESULTS	Overall adiposity directly affected abdominal adiposity (b = 0.797, t = 101.79), T2D (b = -0.024, t = -2.10), and hypertension (b = 0.140, t = 4.59).
+0	hypertension	NA	NA	RESULTS	Abdominal adiposity directly affected T2D (b = 0.097, t = 4.61) and hypertension (b = 0.052, t = 7.44).
+0	NA	NA	NA	RESULTS	Solid lines in Fig 4 indicate that effects were statistically significant (p<0.05), whereas dotted lines present statistically insignificant effects
+0	ith SNP block	NA	NA	FIG	Factor ij represents the jth latent variable for ith SNP block.
+0	NA	NA	NA	FIG	Solid lines indicate that effects were statistically significant (p<0.05), whereas dotted lines present statistically insignificant effects
+0	hypertension	NA	NA	RESULTS	In contrast, in the analysis of genetic factors, information from 17 SNPs was used to predict T2D and information from 21 SNPs was used to predict hypertension.
+0	NA	NA	NA	RESULTS	FACTOR11 and FACTOR12, which were latent variables consisting of SUB-related SNPs, showed significant direct effects on subcutaneous adiposity.
+0	hypertension	NA	NA	RESULTS	They also had significant indirect effects on overall adiposity, abdominal adiposity, T2D, and hypertension.
+0	NA	NA	NA	RESULTS	Similarly, the latent variables from the SNPs related to BMI (FACTOR21 and FACTOR22) affected overall adiposity directly and affected abdominal adiposity indirectly.
+0	hypertension	NA	NA	RESULTS	FACTOR21 also significantly affected T2D and hypertension indirectly.
+0	NA	NA	NA	RESULTS	Of the latent variables from the SNPs related to WC, FACTOR31 and FACTOR33 showed significant relationships with abdominal adiposity and T2D, but FACTOR32 did not.
+0	hypertension	NA	NA	RESULTS	Of the WC-related latent variables, only FACTOR33 showed significance for hypertension.
+0	NA	NA	NA	RESULTS	One of the latent variables from the hypertension-related SNPs (FACTOR52) was significantly associated with hypertension, but the other (FACTOR51) was not.
+0	hypertension	NA	NA	RESULTS	However, although FACTOR51 consisted of SNPs that had significant individual effects on hypertension in the single-SNP analysis, the latent variables were no longer significant when the various factors were considered together
+0	NA	NA	NA	RESULTS	Integrating these observations, T2D was found to be significantly affected by subcutaneous adiposity, overall adiposity, and abdominal adiposity, and all the latent variables from the SNPs except FACTOR32.
+0	NA	NA	NA	RESULTS	The largest direct effect on T2D came from abdominal adiposity (b = 0.097, t = 5.21).
+0	NA	NA	NA	RESULTS	However, including indirect effects, subcutaneous adiposity had the largest total effect (b = 0.123, t = 11.60).
+0	hypertension	NA	NA	RESULTS	Meanwhile, hypertension was directly and indirectly associated with overall adiposity, abdominal adiposity, and T2D.
+0	hypertension	NA	NA	RESULTS	Subcutaneous adiposity significantly affected hypertension indirectly, but not directly.
+0	hypertension	NA	NA	RESULTS	The largest effect on hypertension was obtained for FACTOR52 (b = 0.384, t = 2.37), and overall adiposity showed the second largest direct effect (b = 0.186, t = 6.88).
+0	NA	NA	NA	RESULTS	The results were similar when only direct effects were considered
+0	hypertension	NA	NA	DISCUSS	Hypertension and T2D are important public health concerns, as the prevalence of each is increasing worldwide.
+0	hypertension	NA	NA	DISCUSS	The coexistence of hypertension and T2D dramatically increases the risk (2- to 4-fold) of cardiovascular disease and all-cause death.
+0	NA	NA	NA	DISCUSS	Although studies have investigated the effects of obesity-related factors on T2D and hypertension separately, few studies have investigated the pathways underlying hypertension through obesity-related traits
+0	hypertension	NA	NA	DISCUSS	In this study, we aimed to improve our understanding of the pathways underlying hypertension and T2D driven by genetic variants and obesity-related traits by conducting a multivariate analysis.
+0	NA	NA	NA	DISCUSS	In order to achieve these goals, we developed an analytical process consisting of four steps that yielded successful results.
+0	NA	NA	NA	DISCUSS	In step 1, we investigated GWAS variants that affected intermediate phenotypes and disease, the first research goal.
+0	NA	NA	NA	DISCUSS	In step 2, we found communalities or similarities among SNPs for each phenotype, the second research goal.
+0	NA	NA	NA	DISCUSS	Step 3, the path analysis of multiple intermediate phenotypes and diseases, suggested plausible associations among traits, the third research goal.
+0	NA	NA	NA	DISCUSS	Step 4 enabled us to achieve our final research goal through an SEM analysis of the associations among multiple SNPs, multiple phenotypes, and multiple diseases.
+0	hypertension	NA	NA	DISCUSS	Conclusively we developed a quantitative map simultaneously showing the relationships among GWAS variants, intermediate phenotypes, T2D, and hypertension
+0	hypertension	NA	NA	DISCUSS	This analysis provides insights into the mechanisms underlying T2D and hypertension.
+0	NA	NA	NA	DISCUSS	Our findings highlight the importance of subcutaneous adiposity and abdominal adiposity, as well as latent variables from SNPs, as driving elements of T2D in the Korean population.
+0	hypertension	NA	NA	DISCUSS	The impacts of latent variables of the SNPs, overall adiposity, abdominal adiposity, and T2D on hypertension were also confirmed.
+0	NA	NA	NA	DISCUSS	The resulting model had high goodness-of-fit measures

@@ -1,0 +1,272 @@
+0	Type 2 diabetes	insulin	NA	ABSTRACT	To identify genetic contributions to type 2 diabetes (T2D) and related glycemic traits (fasting glucose, fasting insulin, and HbA1c), we conducted genome-wide association analyses (GWAS) in up to 7,178 Chinese subjects from nine provinces in the China Health and Nutrition Survey (CHNS).
+0	NA	NA	NA	ABSTRACT	We examined patterns of population structure within CHNS and found that allele frequencies differed across provinces, consistent with genetic drift and population substructure.
+1	NA	G6PC2	NA	ABSTRACT	We further validated 32 previously described T2D- and glycemic trait-loci, including G6PC2 and SIX3-SIX2 associated with fasting glucose.
+1	NA	G6PC2	rs34177044	ABSTRACT	At G6PC2, we replicated a known fasting glucose-associated variant (rs34177044) and identified a second signal (rs2232326), a low-frequency (4%), probably damaging missense variant (S324P).
+1	pancreatic	SIX3	NA	ABSTRACT	A variant within the lead fasting glucose-associated signal at SIX3-SIX2 co-localized with pancreatic islet expression quantitative trait loci (eQTL) for SIX3, SIX2, and three noncoding transcripts.
+0	NA	NA	NA	ABSTRACT	To identify variants functionally responsible for the fasting glucose association at SIX3-SIX2, we tested five candidate variants for allelic differences in regulatory function.
+0	NA	NA	NA	ABSTRACT	The rs12712928-C allele, associated with higher fasting glucose and lower transcript expression level, showed lower transcriptional activity in reporter assays and increased binding to GABP compared to the rs12712928-G, suggesting that rs12712928-C contributes to elevated fasting glucose levels by disrupting an islet enhancer, resulting in reduced gene expression.
+0	hypoglycemia	NA	NA	ABSTRACT	Taken together, these analyses identified multiple loci associated with glycemic traits across China, and suggest a regulatory mechanism at the SIX3-SIX2 fasting glucose GWAS locus
+0	diabetes	insulin	NA	ABSTRACT	Type 2 diabetes risk and levels of glucose, insulin, and HbA1c are heritable traits correlated with risk of other diseases and mortality.
+0	NA	NA	NA	ABSTRACT	To identify genetic variants associated with these traits, we studied up to 7,178 men and women from nine provinces in China.
+1	NA	G6PC2	NA	ABSTRACT	We found established variants that could affect fasting glucose located in or near genes named G6PC2 and SIX3.
+1	NA	G6PC2	NA	ABSTRACT	One of the variants at G6PC2 changes the protein sequence and is predicted to affect how the protein functions.
+1	pancreatic	SIX3	NA	ABSTRACT	Variants located near SIX3 that are associated with levels of glucose are also associated with levels of expression of the genes SIX3 and SIX2 in pancreatic islets.
+0	NA	NA	NA	ABSTRACT	These variants are located in a genomic region predicted to enhance gene expression.
+1	NA	SIX3	rs12712928	ABSTRACT	We used laboratory assays to show that alleles at one variant, rs12712928, demonstrate significant differences in transcriptional activity, suggesting that this variant influences levels of the SIX3 and SIX2 genes in islets, ultimately increasing glucose levels
+0	Type 2 diabetes	NA	NA	INTRO	Type 2 diabetes (T2D) is a chronic disease affecting over 422 million people worldwide with over 30% of cases occurring in East Asian populations.
+0	NA	insulin	NA	INTRO	Large-scale genome-wide association studies (GWAS) have identified >100 loci associated with T2D and >80 loci associated with fasting glucose, fasting insulin, and glycated hemoglobin (HbA1c), many of which have also been implicated in T2D susceptibility.
+0	NA	NA	NA	INTRO	While the largest GWAS of glycemic traits and T2D to date have been performed in populations of predominantly European ancestry, other studies have identified glycemic trait and T2D associations in East Asian individuals.
+0	NA	insulin	NA	INTRO	As glycemic trait profiles, allele frequencies, and environmental contributions differ between populations, continued investigation of genetic factors can discover additional loci influencing inter-individual variation in fasting glucose, fasting insulin, and HbA1c levels and T2D
+0	NA	NA	NA	INTRO	A new resource for genetic analyses, the China Health and Nutrition Survey (CHNS) is an ongoing, household-based, longitudinal survey aimed at examining economic, sociological, demographic, and health questions in a diverse Chinese population.
+0	NA	NA	NA	INTRO	Using a multistage random-cluster design and stratified probability sampling to select counties and cities, data were collected from 228 communities across nine provinces (Guangxi, Guizhou, Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Liaoning, and Shandong) that constituted 44% of China's population as of the 2009 census.
+0	NA	NA	NA	INTRO	In addition to nearly 30 years of longitudinal survey data collected during 9 survey rounds from 1989-2011, quantitative biomarker measurements and DNA are available on 8,403 subjects in the CHNS
+0	NA	NA	NA	INTRO	Individual GWAS loci can harbor multiple association signals.
+1	NA	G6PC2	NA	INTRO	More than one association signal has been reported at G6PC2 and PCSK1 for fasting glucose and at KCNQ1, ANKRD55, CDKN2A/B, DGKB, HNF4A, and CCND2 for T2D.
+0	NA	NA	NA	INTRO	Imputation reference panels generated from large sample sizes can facilitate identification of additional signals.
+0	NA	NA	NA	INTRO	For non-European populations, the 1000 Genomes Phase 3 reference panel is currently the most comprehensive, containing information for more than 88 million variants in >2,500 individuals from 26 diverse populations.
+0	NA	NA	NA	INTRO	Identification of additional association signals at trait-associated loci could explain additional heritability and provide further insights into the biology between the locus and the trait or disease
+0	NA	NA	NA	INTRO	GWAS have been an efficient method for studying genetic factors influencing biological mechanisms underlying glycemic traits and T2D, but for many of the identified loci, the underlying gene(s), direction of effect, and disease mechanism are largely unknown.
+0	NA	NA	NA	INTRO	For variants located in non-coding regions of the genome, bioinformatic datasets can be used to annotate and predict regulatory variants, target genes, and direction of effect, and these variants can be tested for allelic differences in regulatory activity with in vitro laboratory assays.
+1	NA	NA	NA	INTRO	For example, among previous functional studies of variants associated with fasting glucose at the G6PC2-ABCB11 locus, two variants in the promoter were shown to affect G6PC2 expression levels by altering FOXA2 binding, and two variants located in the third intron of G6PC2 were shown to affect G6PC2 splicing.
+0	NA	NA	NA	INTRO	However, the majority of the glycemic trait-associated variants have not been examined
+0	NA	insulin	NA	INTRO	To further clarify the genetic contributions to normal variation in glycemic traits in a multi-provincial Chinese population, we performed a GWAS of fasting glucose, insulin, and HbA1c levels and T2D in subjects from the CHNS, using genetic data imputed to 1000 Genomes Phase 3 in up to 7,178 subjects.
+0	NA	NA	NA	INTRO	We examined the population substructure within the CHNS and evaluated candidate functional regulatory variants at one locus using annotation and in vitro laboratory assays
+0	NA	NA	NA	RESULTS	To evaluate population substructure among 8,403 CHNS subjects with genotype data available, we constructed principal components (PCs) using a subset of variants (MAF > 0.05; pairwise LD r2 <0.02 in a sliding window of 50 variants).
+0	NA	NA	NA	RESULTS	Compared to HapMap 3 populations, the CHNS participants clustered closely with the Han Chinese in Beijing (CHB), the Han Chinese in Denver (CHD), and the Japanese in Tokyo (JPT) populations, with greater diversity than any of these populations (S1A Fig).
+0	NA	NA	NA	RESULTS	A comparison to only the East Asian samples showed more clearly that the distribution of the CHNS extends beyond that of the CHB, CHD, and JPT samples (S1B Fig).
+0	NA	NA	NA	RESULTS	Within the CHNS, the subjects showed two axes of diversity (Fig 1, S2 Fig).
+0	NA	PCSK1	NA	RESULTS	PC1, which explained 4.2% of the variance, appeared to cluster by province, while PC2, explaining 0.6% of the variance, showed diversity among subjects within the Guangxi and Guizhou provinces in southern China.
+0	NA	PC2	NA	RESULTS	PC2 could be partially explained by differences in self-reported ethnicity, particularly among subjects from the Guizhou province, as PC2 appeared to characterize the Miao and Buyi ethnic groups (S3 Fig).
+0	NA	PCSK1	NA	RESULTS	To account for population substructure in subsequent association analyses with glycemic traits, we included PC1 as a covariate and performed analyses using an efficient mixed model approach that accounts for sample structure between individuals
+0	NA	NA	NA	FIG	Dots representing each subject are colored by the province in which they reside
+0	NA	insulin	NA	RESULTS	We performed genome-wide association analyses of fasting glucose and fasting insulin levels in up to 8,045,193 genotyped and imputed variants (MAF >0.01) from 5,786 non-diabetic individuals in the CHNS who provided fasting blood samples (S1 Table, S4 Fig).
+0	NA	NA	NA	RESULTS	We also performed a genome-wide association analysis of HbA1c in 7,178 nondiabetic individuals who provided fasting or non-fasting samples.
+0	NA	NA	NA	RESULTS	In addition, 5,731 unrelated subjects were used to assess variant association with T2D status, including 748 cases and 4,983 controls.
+0	NA	NA	NA	RESULTS	For each trait, we also searched for additional signals by conditioning on the lead variants (reciprocal conditional analyses).
+0	NA	insulin	NA	RESULTS	Overall, a majority of CHNS subjects were female (54%) with a normal BMI (mean = 23.2 kg/m2), and subjects with T2D were older (cases: 59.7 years; controls: 51.2 years) with a higher BMI, higher fasting glucose levels, and higher fasting insulin levels (S1 Table)
+1	NA	G6PC2	rs34177044	RESULTS	Analysis of fasting glucose confirmed eight loci previously identified in East Asian and European samples (G6PC2, SIX3-SIX2, PROX1, ABCB11, GCK, KANK1, GLIS3, and TCF7L2; S2 Table), two of which achieved genome-wide significance (rs34177044, near G6PC2, P = 6.9 x 10-12, Fig 2; rs895636, near SIX3-SIX2, P = 2.3 x 10-8, Table 1, Fig 3A, S5 Fig).
+0	NA	NA	NA	RESULTS	At these two loci, we used stepwise conditional analyses to identify additional association signals at a locus-wide threshold of P <1 x 10-5.
+1	NA	G6PC2	rs34177044	RESULTS	Conditional analysis including rs34177044 at the G6PC2 locus revealed a second signal (rs2232326, MAF = 0.04, Punconditioned = 1.8 x 10-9, Pconditioned = 2.0 x 10-6, Fig 2).
+1	NA	NA	rs2232326	RESULTS	When conditioning only on rs2232326, rs34177044 was attenuated but remained significantly associated with fasting glucose (Pconditioned = 7.0 x 10-9); the attenuation suggests the two signals are distinct yet not fully independent.
+0	NA	NA	NA	RESULTS	Haplotype analyses (S3 Table) and regression models containing an interaction term with both variants (P = 0.69) do not suggest a haplotype effect between the two signals, providing further evidence that the two signals are separate.
+1	NA	NA	rs34177044	RESULTS	While conditional analyses could be influenced by the moderate imputation quality of rs34177044 (r2 = 0.70) in CHNS, genotypes from the 1000 Genomes project show that the minor allele of rs2232326 is only inherited with the major allele of rs34177044 (East Asian LD r2 = 0.04, D' = 1.0).
+0	NA	NA	NA	RESULTS	No additional association signals were identified at the SIX3-SIX2 locus (S5 Fig)
+1	NA	NA	rs34177044	FIG	The first association signal, rs34177044 (red diamond) shows the strongest association in the initial unconditioned analysis of fasting glucose.
+1	NA	NA	rs2232326	FIG	Coding variant rs2232326 (S324P; blue diamond), remained locus-wide significant after conditioning on rs34177044.
+0	NA	NA	NA	FIG	The diamonds indicate the lead variants, which exhibited the strongest evidence of association at the locus among 1000 Genomes Project Phase 3-imputed variants.
+1	NA	NA	rs34177044	FIG	Variants are colored based on LD with the lead variants, rs34177044 (red) and rs2232326 (blue) within 8,403 CHNS subjects
+1	NA	NA	rs895636	FIG	(A) rs895636 (purple diamond) shows the strongest association with fasting glucose in the CHNS.
+0	NA	NA	NA	FIG	Variants are colored based on East Asian LD from 1000 Genomes Project Phase 3.
+1	pancreatic	SIX3	rs12712929	FIG	(B) rs12712929 (purple diamond) shows the strongest association with expression of SIX3 in pancreatic islets in European ancestry individuals.
+0	NA	NA	NA	FIG	Variants are colored based on European LD from 1000 Genomes Project Phase 3.
+1	NA	NA	rs895636	FIG	(C) Although the LD r2 between rs895636 and rs12712929 is moderate in both European and East Asian populations (1000G Phase 3), one variant, rs12712928, exhibits high LD (r2>0.80) with rs895636 in East Asians and rs12712929 in Europeans (arrow).
+0	NA	NA	NA	FIG	Red font indicates variants above r2 of 0.80.
+0	NA	NA	NA	FIG	Vertical bars indicate the genomic regions examined for allelic differences in regulatory function
+1	NA	G6PC2	rs2232326	RESULTS	The lead variant in the second signal at G6PC2 (rs2232326) is a missense variant (S324P).
+1	NA	NA	rs2232326	RESULTS	Amino acid 324 is located in a helix spanning the cell membrane, and the substitution of a proline for a serine in the middle of a helix may add kinks to the protein.
+1	NA	G6PC2	NA	RESULTS	"In addition, both SIFT and PolyPhen predict this variant to be ""probably damaging"", suggesting that it may affect function of the G6PC2 protein."
+1	NA	NA	rs2232326	RESULTS	Based on data from 1000 Genomes Phase 3, rs2232326 is rare in all ancestry populations (MAF: African, 0.2%; Admixed American, 0.3%; European, 0.3%; South Asian, 0.3%) except in East Asians (MAF 5%), and it has few (Admixed American, rs34102076; East Asian, rs139014876), to no (African, European, and South Asian) proxy variants (LD r2>0.80).
+1	NA	G6PC2	NA	RESULTS	This variant contributed to a significant G6PC2 gene-based association with glucose in Europeans and other protein-coding variants within G6PC2 have been individually associated with fasting glucose levels (e.g.
+0	NA	NA	rs492594	RESULTS	rs492594, rs138726309, rs2232323).
+0	NA	NA	rs492594	RESULTS	In the CHNS, rs492594 was nominally associated with fasting glucose levels (P = 0.002); other previously described coding variants were either monomorphic or did not pass imputation quality control thresholds in CHNS (S4 Table)
+1	NA	G6PC2	NA	RESULTS	We examined whether the strength of fasting glucose associations at SIX3-SIX2 and G6PC2 varied by province (Table 2).
+1	NA	NA	rs895636	RESULTS	At rs895636 (SIX3-SIX2), the minor allele frequencies (MAF) differed by as much as 0.12 between provinces.
+0	NA	NA	NA	RESULTS	Most of the provinces in which individuals have a relatively lower minor allele frequency (0.35-0.38) showed a stronger association between the variant and fasting glucose levels than similarly sized samples of individuals with higher MAF of 0.43-0.47.
+1	NA	G6PC2	rs2232326	RESULTS	The opposite pattern was observed at rs2232326 (G6PC2), for which the province in which the largest MAF (0.09) showed the strongest association with fasting glucose levels.
+0	NA	NA	NA	RESULTS	The allele associated with higher levels of fasting glucose trended from less frequent in the northern provinces (MAF = 0.02) to more frequent in the southern provinces (MAF = 0.09).
+0	NA	NA	NA	RESULTS	Although allele frequencies between provinces were not statistically different, observed allele frequency differences are consistent with genetic drift and the observed population substructure (Fig 1), demonstrating that study samples from across China have differing power to detect specific associations
+0	NA	insulin	NA	RESULTS	Analysis of fasting insulin validated (P <0.05) two loci previously reported in European and Hispanic samples (PPARG and LOC284930; S5 Table) and did not reveal any genome-wide significant loci (Table 1).
+1	NA	CNTN6	rs13078376	RESULTS	The most significant association was identified near CNTN6 (rs13078376, P = 3.22 x 10-7; Supplementary Materials, S6 Fig).
+1	NA	CNTN6	rs9841287	RESULTS	Previous studies have demonstrated genome-wide significant associations between variants approximately 1 Mb upstream of the CNTN6 gene and both fasting insulin (rs9841287) and HbA1c levels (rs892295), although the rs13078376 is not a proxy for either of the two previously reported variants (East Asian LD r2<0.01).
+1	NA	CNTN6	NA	RESULTS	Data from the CHNS strengthen the evidence for these nominally significant loci near CNTN6
+0	NA	FN3KRP	NA	RESULTS	Analysis of HbA1c validated (P <0.05) nine loci previously identified in East Asians and Europeans (FN3KRP, MYO9B, PIEZO1, ANK1, GCK, SPTA1, HBS1L, MTNR1B, and ABCB11; S6 Table), and did not reveal any genome-wide significant loci.
+0	NA	FN3KRP	rs9895455	RESULTS	The most significant variant was located within an intron of FN3KRP (rs9895455, P = 3.5 x 10-7; Supplementary Materials, S7 Fig).
+0	NA	NA	rs9895455	RESULTS	rs9895455 is in high LD (East Asian, r2 = 0.99) with a variant previously reported to be associated with HbA1c in East Asians (rs1046875).
+0	NA	insulin	rs9895455	RESULTS	Three additional variants in high LD with rs9895455 have previously demonstrated moderate associations in Europeans with both HbA1c (P = 4.1x 10-7) and modified Stumvoll insulin sensitivity index (P = 0.02).
+0	NA	NA	NA	RESULTS	While power to detect associations is limited, data from the CHNS provide further support for these established loci
+0	NA	NA	NA	RESULTS	Association analyses for T2D validated (P <0.05) sixteen loci previously identified in East Asians and/or Europeans (POU5F1/TCF19, SLC30A8, CUBN, MIR17HG, TMEM18, GLP2R, GIPR, MC4R, BCL2L11, PAX4, IGF2BP2, PRC1, KCNQ1, CDKN2A/B, TLE4, and PAM/PPIP5K2; S7 Table), and did not reveal any genome-wide significant loci.
+0	NA	SLC30A8	rs3802177	RESULTS	Of the validated loci, the most significant are at SLC30A8 (rs3802177, P = 3.0 x 10-4) and POU5F1/TCF19 (rs2073721, P = 2.3 x 10-4).
+1	NA	RTN4RL1	rs62069176	RESULTS	The three most significant variants not described previously were located near RTN4RL1 (rs62069176, P = 2.7 x 10-7), SOCS6, (rs2581685, P = 2.6 x 10-6), and ARID1B (rs6557473, P = 3.3 x 10-6) (S8 Table, S8 Fig).
+1	NA	ARID1B	rs6557473	RESULTS	Of these, prior suggestive associations (P<0.05) have been detected previously between rs6557473 at ARID1B and both fasting insulin and T2D in Europeans.
+0	NA	NA	NA	RESULTS	The CHNS data provide suggestive evidence for these loci
+0	pancreatic	NA	NA	RESULTS	To aid in the identification of candidate genes at the strongest association signals, we examined whether any of the variants associated with glycemic traits are also associated with expression of nearby transcripts in pancreatic islets, blood, subcutaneous adipose, or tissues from GTEx (S9 Table).
+0	NA	NA	NA	RESULTS	These expression quantitative trait locus (eQTL) datasets were generated predominantly from European ancestry donors.
+0	NA	NA	NA	RESULTS	GWAS and eQTL signals more clearly coincide when the GWAS variant and the variant most strongly associated with expression level of the corresponding transcript exhibit high pairwise LD (r2>0.80).
+0	NA	NA	NA	RESULTS	To allow for differences in LD patterns across ancestries in the GWAS and eQTL datasets, we considered GWAS and eQTL signals to be possibly coincident at a less stringent threshold for pairwise LD values (r2>0.60, East Asian 1000G Phase 3).
+1	NA	SIX3	rs895636	RESULTS	The association signal for fasting glucose in East Asians at the SIX3-SIX2 locus contained fifteen variants meeting this criterion (lead GWAS variant rs895636 and fourteen variants with East Asian LD r2>=0.60), and the association signal for islet SIX3 expression in Europeans contained 14 variants (lead variant and 13 variants with European LD r2>=0.60) (Fig 3B, S9 Table).
+0	NA	NA	rs12712928	RESULTS	One variant, rs12712928, exhibited high LD (r2>0.80) with both the lead GWAS and eQTL variants (Fig 3C).
+1	pancreatic	SIX3	NA	RESULTS	rs12712928-C showed strong association with higher fasting glucose (P = 3.4 x 10-8), similar to the lead fasting glucose GWAS variant (rs895636, P = 2.3 x 10-8), and strong association with lower SIX3 expression level in pancreatic islets (P = 4.7 x 10-8), similar to the lead SIX3 eQTL variant (rs12712929, P = 1.7 x 10-8).
+1	NA	SIX3	NA	RESULTS	In addition to SIX3, rs12712928-C was strongly associated with lower expression level of SIX2 (P = 1.4 x 10-4), SIX3-AS1 (P = 4.8 x 10-6), and two other long non-coding transcripts (S9 Table).
+0	NA	NA	NA	RESULTS	Assuming the fasting glucose GWAS and islet eQTL signals are shared across ancestries, then the strongest candidate variant that may be responsible for both associations is rs12712928
+0	NA	NA	NA	RESULTS	To establish a set of candidate functional variants at the SIX3-SIX2 locus, we used regulatory chromatin marks (open chromatin and histone states) to predict which variants may affect the transcription of nearby genes.
+1	pancreatic islet enhancers	NA	rs895636	RESULTS	Of 19 candidate variants at the SIX3-SIX2 locus (including the lead GWAS variant rs895636, the lead islet eQTL variant rs12712929, variants in EAS LD r2>0.60 with rs895636, and variants in EUR LD r2>0.6 with rs12712929), only five variants (rs10192373, rs10168523, rs12712928, rs12712929, and rs748947) overlap pancreatic islet active enhancer and pancreatic islet open chromatin (DNase or FAIRE) marks, as well as predicted transcription factor binding motifs (S9 Fig).
+1	NA	NA	rs895636	RESULTS	All five of these variants have EAS LD r2 0.66-0.87 with lead GWAS variant rs895636.
+0	NA	NA	NA	RESULTS	These data suggest that these five variants are the strongest candidates to affect transcription of the gene(s) at this locus
+0	beta-cell deficiency	NA	NA	RESULTS	To evaluate the allelic differences in enhancer activity of the five candidate functional variants, we conducted transcriptional reporter assays in MIN6 mouse insulinoma cells.
+1	NA	SIX3	rs10192373	RESULTS	We tested 4-6 independent constructs corresponding to each allele or haplotype for a 312-bp DNA region located 18 kb downstream of SIX3 and 37 kb from the 3' end of SIX2 spanning rs10192373, rs10168523, rs12712928, rs12712929 (tested as a haplotype) and for a 365-bp region located 20 kb from the 3' end of SIX3 spanning rs748947 (S9 Fig).
+0	NA	NA	rs748947	RESULTS	While the rs748947 construct showed no enhancer or allele-specific activity (S10 Fig), the haplotype construct had haplotype-differences in enhancer activity in both orientations (Fig 4A).
+0	NA	NA	NA	RESULTS	This 4-variant construct containing the fasting glucose-increasing alleles (rs10192373-A, rs10168523-G, rs12712928-C, and rs12712929-T) showed significantly decreased enhancer activity of >= 1.4-fold in magnitude (forward, P = 0.0008; reverse, P = 0.0001) compared to the haplotype containing the non-risk alleles.
+0	NA	NA	rs12712928	RESULTS	To determine whether rs12712928 could account for the allele-specific effects, we used site-directed mutagenesis to create two additional haplotype constructs.
+0	NA	NA	NA	RESULTS	Haplotype constructs containing rs12712928-C exhibited a 1.5-fold decrease in enhancer activity compared to the haplotype constructs containing rs12712928-G (Fig 4B).
+0	NA	NA	rs12712928	RESULTS	Taken together, these data show that rs12712928 exhibits allelic differences in transcriptional enhancer activity and suggest it functions within a cis-regulatory element at the SIX3-SIX2 fasting glucose-associated locus
+0	beta-cell deficiency	SIX3	rs10192373	FIG	"(A) A haplotype of four variant alleles associated with lower fasting glucose, GAGG, at rs10192373, rs10168523, rs12712928, and rs12712929 repeatedly showed greater transcriptional activity in both forward and reverse orientations with respect to SIX3 in MIN6 mouse insulinoma cells compared to the AGCT haplotype and an ""Empty Vector"" containing a minimal promoter."
+0	NA	NA	rs127129258	FIG	(B) Analysis of additional haplotypes created by site-directed mutagenesis of rs127129258 alleles show that haplotypes containing, rs12712928-C (GACG and AGCT), exhibited less transcriptional activity than haplotypes containing rs12712928-G (GAGG and AGGT) in the forward orientation.
+0	NA	NA	rs12712928	FIG	(C) EMSA with biotin-labeled probes containing the C or G allele of rs12712928 show an allele specific band (arrow; lane 7 versus 2) that is competed away more effectively by 45-fold excess of unlabeled probe containing the C allele (lane 8) than the G allele (lane 9).
+0	NA	NA	NA	FIG	An arrow points to an allele-specific protein complex binding to the C allele.
+0	NA	NA	NA	FIG	We observed a supershift with the addition of antibodies to the alpha subunit of GABP (denoted by *).
+0	NA	NA	rs12712928	FIG	(D) Model of rs12712928 as a functional regulatory variant at the SIX3-SIX2 locus.
+1	pancreatic	SIX3	NA	FIG	Alleles, including rs12712928-C, are associated with higher fasting plasma glucose levels and lower expression of SIX3 and other transcripts in human pancreatic islets.
+1	NA	SIX3	NA	FIG	Arrows indicate the transcription start site (TSS) of the SIX3 and SIX2 genes.
+0	NA	NA	NA	FIG	An oval represents GABP bound differentially to rs12712928-C, which exhibited lower transcriptional reporter activity compared to rs12712928-G
+0	NA	NA	rs12712928	RESULTS	We next asked whether alleles of rs12712928 or the other three variants differentially affect DNA binding to nuclear proteins.
+0	NA	NA	NA	RESULTS	A DNA-protein complex specific to the rs1272928-C allele was observed using electrophoretic mobility shift assays (EMSA) with MIN6 nuclear lysate (S10 Table, S11-S12 Figs).
+0	NA	NA	NA	RESULTS	Competition with excess unlabeled C-allele probe more efficiently competed away allele-specific bands than excess unlabeled G-allele probe, providing further support for allele-specificity of the protein-DNA complexes (Fig 4C).
+0	NA	NA	NA	RESULTS	Based on these results, we hypothesized that rs12712928-C is located in a binding site for a transcriptional regulatory complex that may be disrupted by the rs12712928-G allele.
+0	NA	CTCF	NA	RESULTS	The sequence containing rs12712928-C is predicted to include a consensus core-binding motif for several transcription factors, and a ChIP-seq peak for CTCF also overlaps this region.
+0	NA	NA	rs12712928	RESULTS	To identify transcription factor(s) binding to rs12712928, we used a DNA-affinity capture assay.
+0	NA	NA	NA	RESULTS	A protein band showing allele-specific binding to the C allele was identified as the alpha subunit of GABP using MALDI TOF/TOF mass spectrometry.
+0	NA	GABP-alpha	NA	RESULTS	In EMSA supershift assays using antibodies to GABP-alpha, we observed a supershift of the allele-specific band (Fig 4C), suggesting that GAPB may act as a repressor to reduce enhancer activity at this locus (Fig 4D)
+1	NA	G6PC2	NA	RESULTS	We used a similar approach to identify potentially functional variants at the G6PC2 locus.
+0	NA	NA	NA	RESULTS	The first signal is comprised of two intergenic variants (GWAS index variant and one variant in LD r2 >0.80).
+1	NA	G6PC2	rs34177044	RESULTS	GWAS variant, rs34177044, is ~3.2 kb upstream from the transcription start site of G6PC2 and does not overlap any predicted open chromatin marks.
+1	NA	G6PC2	rs1402837	RESULTS	rs1402837 (LD r2 = 0.97) is located 646 bp upstream of the G6PC2 transcription start site and 187 bp and 208 bp upstream, respectively, of other promoter variants previously shown to exhibit allelic differences on transcriptional activity, rs573225 and rs2232316 (S13 Fig).
+1	NA	G6PC2	rs1402837	RESULTS	rs1402837 also overlaps open chromatin marks, suggesting rs1402837 may play a regulatory role in fasting glucose levels in the context of other G6PC2 promoter variants
+1	NA	G6PC2	NA	DISCUSS	In this study of genetic associations with T2D and related glycemic traits in Chinese individuals from 9 provinces in the CHNS, we observed associations with fasting glucose at SIX3-SIX2 and G6PC2, including a coding variant representing an additional signal at G6PC2.
+0	hypoglycemia	NA	rs12712828	DISCUSS	We also showed that the SIX3-SIX2 fasting glucose locus colocalizes with eQTL associations for SIX3, SIX2, SIX3-AS1, RP11-89K21.1, and AC012354.6 in pancreatic islets, and we showed evidence that rs12712828 functions as a regulatory variant at the SIX3-SIX2 fasting glucose locus.
+0	NA	insulin	NA	DISCUSS	Genetic associations in CHNS also supported (P<0.05) previously reported associations at 6, 2, 9, and 16 loci with fasting glucose, fasting insulin, HbA1c, and T2D, respectively.
+0	NA	NA	NA	DISCUSS	The moderate sample size of CHNS prohibited us from identifying additional associations
+0	NA	NA	NA	DISCUSS	Hundreds of genes contribute to the heritability of complex traits.
+0	NA	NA	NA	DISCUSS	As more GWAS and genome-wide meta-analyses are conducted across genetically diverse populations, identification of additional association signals and loci will help to explain the levels of heritability.
+0	NA	NA	NA	DISCUSS	The CHNS adds to the growing number of population-based cohorts available for the study of metabolic traits.
+0	NA	NA	NA	DISCUSS	With its multi-provincial study design, the CHNS includes subjects of differing ethnicities, from both urban and rural areas across China.
+0	NA	NA	NA	DISCUSS	Additionally, linkage of the genotype data with biomarkers and decades of longitudinal phenotype data (e.g.
+0	NA	NA	NA	DISCUSS	nutrition, health outcomes, environment) will allow environmental and societal contributions to trait or disease outcomes to be evaluated
+1	NA	G6PC2	NA	DISCUSS	Alterations in regulatory elements or the coding sequence of G6PC2 can impact levels of fasting plasma glucose.
+1	NA	G6PC2	NA	DISCUSS	G6PC2 encodes an enzyme belonging to the glucose-6-phosphatase catalytic subunit family responsible for the terminal step in gluconeogenic and glyconeogenic pathways that lead to the release of glucose into the bloodstream.
+0	NA	NA	NA	DISCUSS	Several previous studies have identified >1 fasting glucose association signals at this locus in populations of European and African ancestries, two of which include nonsynonymous coding variants.
+1	NA	G6PC2	NA	DISCUSS	We identified two distinct signals at G6PC2 associated with fasting plasma glucose levels.
+0	NA	NA	NA	DISCUSS	Variants within the primary CHNS association signal have been associated with fasting glucose in East Asian populations previously.
+1	NA	G6PC2	rs2232326	DISCUSS	The lead variant in the second signal at G6PC2 (rs2232326) is a missense variant (S324P).
+1	NA	G6PC2	NA	DISCUSS	We were unable to assess evidence of association with other coding variants in G6PC2 as the variants were either monomorphic in CHNS or did not pass quality control thresholds
+1	NA	SIX3	NA	DISCUSS	To date, the association between variants near SIX3 and glycemic traits remains specific to East Asian populations.
+1	NA	NA	rs895636	DISCUSS	rs895636 was reported as the lead variant associated with fasting plasma glucose in a GWAS of >17,000 Korean and Japanese subjects (P = 9.9x10-13) and in a separate GWAS meta-analysis of up to 46,085 East Asians (P = 2.5x10-13).
+1	NA	insulin	rs895636	DISCUSS	However, in Europeans, nominal to no association has been observed between rs895636 and fasting glucose (P = 0.002, n>96,000), HbA1c (P = 0.05, n>46,000), fasting insulin (P = 0.73, n>96,000), and T2D (P = 0.41, n>120,000).
+0	NA	NA	NA	DISCUSS	Allele frequency is a possible explanation for ancestry differences.
+1	NA	NA	rs895636	DISCUSS	In East Asians, the MAF of rs895636 is 0.42 while the MAF in Europeans is only 0.16.
+0	NA	NA	NA	DISCUSS	Larger sample sizes of European-ancestry individuals may be needed to identify the association between variants at the SIX3-SIX2 locus and glycemic traits.
+0	NA	NA	NA	DISCUSS	Other genetic and environmental factors may also be playing a role in the fasting glucose association at SIX3-SIX2 in East Asian populations that are not present in other populations
+0	hypoglycemia	NA	rs12712928	DISCUSS	We provide compelling evidence that rs12712928 is a regulatory variant at the SIX3-SIX2 fasting glucose locus.
+1	startle	NA	NA	DISCUSS	The rs895636-T allele is associated with increased fasting glucose levels and decreased SIX3, SIX2, and other transcript expression in pancreatic islets.
+1	pancreatic	NA	rs12712928	DISCUSS	rs12712928 is in high LD (East Asian and European r2>0.87) with both rs895636 and the lead pancreatic islet eQTL variant, rs12712929, and was the strongest candidate for an effect of regulatory function based on its location in a putative islet enhancer element.
+1	NA	SIX3	NA	DISCUSS	Compared to rs12712928-G, the allele rs12712928-C demonstrated decreased transcriptional activity, as well as allele-specific binding to the alpha subunit of GABP, which suggests that at least GABP, and possibly other transcription factors, bind to the C allele and repress expression of SIX3 and SIX2.
+0	NA	NA	rs12712928	DISCUSS	rs12712928 may be responsible for the GWAS signal, or given that some GWAS signals are affected by multiple functional variants, other variants at this locus may also contribute to variation in fasting glucose
+1	hypoglycemia	SIX3	NA	DISCUSS	SIX3 is a strong candidate for a target gene at the SIX3-SIX2 fasting glucose locus.
+1	pancreatic	SIX3	NA	DISCUSS	Highly expressed in pancreatic islets, SIX3 encodes sine oculis homeobox-like protein 3, a transcription factor that localizes to the nucleus of adult beta cells to regulate insulin production and secretion.
+1	NA	SIX3	NA	DISCUSS	Decreased expression of SIX3 results in the misregulation (i.e.
+0	NA	insulin	NA	DISCUSS	decreased levels) of insulin, which promotes the uptake of glucose into fat, liver, and skeletal muscle cells, thus lowering blood glucose levels.
+0	NA	SIX3	NA	DISCUSS	Consistent with the effects of SIX3 in mice, the risk allele rs12712928-C is associated with both decreased expression of SIX3 and increased levels of fasting glucose.
+0	NA	insulin	NA	DISCUSS	In CHNS, rs12712928-C was also moderately associated with decreased fasting insulin levels (P = 7.6x10-5) and an increased risk for T2D (P = 0.03).
+1	NA	SIX2	rs12712928	DISCUSS	However, in the islet eQTL data, rs12712928 was also associated with expression level of SIX2, SIX3-AS1, RP11-89K21.1, and AC012354.6.
+1	insulin output	SIX2	NA	DISCUSS	SIX2 is also believed to play a role in the regulation of islet beta cell functions such as insulin output; however, less is known about its biologic function compared to SIX3.
+0	NA	SIX3-AS1	NA	DISCUSS	Additionally, the roles of SIX3-AS1, RP11-89K21.1, and AC012354.6 are not well characterized.
+0	NA	NA	NA	DISCUSS	One or more of these transcripts could be a target gene underlying the association signal and contributing to the biological effect on fasting glucose
+1	NA	G6PC2	NA	DISCUSS	In conclusion, this study confirmed many previously identified loci associated with T2D and related glycemic traits and validated a recently described G6PC2 missense variant associated with fasting glucose.
+1	NA	SIX3	rs12712928	DISCUSS	We report a functional variant at the SIX3-SIX2 locus, rs12712928, and provide evidence of a potential mechanism by which this variant affects expression of at least SIX3, leading to decreased levels of fasting glucose.
+0	NA	NA	NA	DISCUSS	Our use of a denser reference panel of >8 million variants in a diverse Chinese population allowed us to conduct higher resolution genetic analyses than reported previously.
+0	NA	NA	NA	DISCUSS	Further functional analyses of the variants identified in this study is the next step to confirm which variants and genes are affected.
+0	NA	NA	NA	DISCUSS	Replication of the moderately-significant associations would be useful to better understand the genetic architecture of glycemic traits
+0	NA	NA	NA	METHODS	The China Health and Nutrition Survey (CHNS) is a nationwide, longitudinal survey aimed at examining economic, sociological, demographic, and health questions in a Chinese population.
+0	NA	NA	NA	METHODS	Details of subject selection and study design have been described elsewhere.
+0	NA	NA	NA	METHODS	Briefly, a stratified probability sample with a multistage, random cluster design was used to select counties and cities within 9 diverse provinces (Guangxi, Guizhou, Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Liaoning, and Shandong), stratified by income and urbanicity using State Statistical Office definitions.
+0	NA	NA	NA	METHODS	A total of 4,560 households from 228 communities were then randomly selected from within each stratum.
+0	NA	NA	NA	METHODS	Health data was collected during nine rounds of surveys from 1989-2011 (1989, 1991, 1993, 1997, 2000, 2004, 2006, 2009, and 2011).
+0	NA	NA	NA	METHODS	The 2009 survey was the first to collect fasting blood samples.
+0	NA	NA	NA	METHODS	The CHNS was approved by the Institutional Review Boards at the University of North Carolina at Chapel Hill (#07-1963, #05-2369), the Chinese National Human Genome Center at Shanghai (#2017-01), and the Institute of Nutrition and Food Safety at the China Centers for Disease Control (#201524-1).
+0	NA	NA	NA	METHODS	All participants provided written informed consent
+0	NA	NA	NA	METHODS	The present analysis was limited to subjects who participated in the 2009 survey round and for whom blood biomarker traits were available (n = 9,551).
+0	NA	insulin	NA	METHODS	For the glucose and insulin analyses, subjects were only included if their blood sample was obtained after an overnight fast (n = 6,779).
+0	diabetes	NA	NA	METHODS	Subjects were excluded from a particular analysis if their biomarker trait value exceeded 4 standard deviations beyond the group mean or have type 1 diabetes.
+0	NA	NA	NA	METHODS	Fasting blood samples were not required for the HbA1c or T2D analysis.
+0	NA	NA	NA	METHODS	Additionally, one member of each first-degree relative pair was randomly removed for analyses of T2D, as current software to analyze associations with binary traits do not control for the high number of related individuals with CHNS
+0	NA	NA	NA	METHODS	Following an overnight fast, a blood sample (12 mL) was collected by venipuncture.
+0	insulin deficiency	NA	NA	METHODS	Glucose and insulin were measured in the central laboratory of the China-Japan Friendship Hospital.
+0	NA	insulin	NA	METHODS	Detailed descriptions of the laboratory procedures for measuring glucose (GOD-PAP method; Randox Laboratories Ltd, UK), and insulin (radioimmunology in a gamma counter, XH-6020 analyzer; North Institute of Bio-Tech, China), levels have been described previously.
+0	NA	NA	NA	METHODS	HbA1c was measured in the central laboratory of the China-Japan Friendship Hospital [Guizhou and Hunan, HLC method, HLC-723 G7 (machine), Tosoh, Japan (reagent).
+0	NA	HLP	NA	METHODS	Theory: Boronic Acid Afinity HPLC] or in the field [Guangxi and Henan: HPLC method, Primus Ultra 2 (PDQA1c), Primus, USA; Heilongjiang, Hubei, Jiangsu, and Liaoning: HLP method, Bio-Rad (D10), Bio-Rad, USA; Shandong: HLC method, HLC-723 G7, Tosoh, Japan.
+0	NA	NA	NA	METHODS	Theory: Ion exchange HPLC].
+0	NA	NA	NA	METHODS	Different methods and machines were calibrated with the same quality control products made in Bio-Rad, USA.
+0	diabetes	NA	NA	METHODS	Participants were classified as having T2D if they were at least 18 years old and met at least one of the following criteria: 1) HbA1c >=6.5%, 2) fasting blood glucose >=126 mg/dL, 3) received the diagnosis from a physician after the age of 20 (self-report), or 4) reported taking diabetes medication (self-report) (S1B Table)
+0	NA	NA	NA	METHODS	DNA samples were extracted and genotyped at the Chinese National Human Genome Center, Shanghai, China.
+0	NA	NA	NA	METHODS	Genotyping was performed with the Illumina HumanCoreExome chip using the standard protocol recommended by the manufacturer.
+0	NA	NA	NA	METHODS	Genotyping was attempted on the 10,131 unique samples, 316 duplicates, and 1 set of triplicates (total n = 10,449).
+0	NA	NA	NA	METHODS	1,513 samples were unable to be genotyped due to inadequate DNA concentrations (<10 ng/uL or OD 260/280 outside the 1.5-2.0 range), and an additional 69 samples were excluded for poor quality.
+0	NA	NA	NA	METHODS	Using KING, we identified 7 pairs of samples that were unintentionally duplicated; one sample from each pair was excluded.
+0	NA	NA	NA	METHODS	We used PLINK v.1.9 to compare genotype heterozygosity on the X chromosome to self-reported gender and excluded 129 mismatched samples and six samples with apparent XXY or XXXY genotypes.
+0	NA	NA	NA	METHODS	The CHNS data contained 4 sets of identical twins; 1 subject was randomly excluded from each twin pair.
+0	NA	NA	NA	METHODS	Finally, based on the principal component analysis described below, we excluded two samples that were outliers from HapMap samples of Han Chinese in Beijing, China (CHB), Chinese in Metropolitan Denver, Colorado (CHD), and Japanese in Tokyo, Japan (JPT).
+0	NA	NA	NA	METHODS	After exclusions, 8,403 samples were successfully genotyped and passed all genotyping quality control
+0	NA	NA	NA	METHODS	We applied variant quality control checks in PLINK v.1.9 on the 8,403 remaining CHNS samples that were successfully genotyped.
+0	NA	NA	NA	METHODS	Of the initial 538,448 variants, we discarded 4,306 variants due to call rate <95% and/or deviation from Hardy-Weinberg equilibrium (P <10-6).
+0	NA	NA	NA	METHODS	Of the remaining 534,143 variants, 193,236 (36.2%) were monomorphic and 340,906 (63.8%) were polymorphic
+0	NA	NA	NA	METHODS	Because of the household-based study design of CHNS, we expected the CHNS to include many first- and second-degree relatives.
+0	NA	NA	NA	METHODS	Using KING, we calculated kinship coefficients for all pairwise relationships and identified 3,681 first-degree relative pairs and 1,567 second-degree relative pairs
+0	NA	NA	NA	METHODS	We performed genotype imputation of the autosomal chromosomes of 8,403 samples with the 1000 Genomes Project Phase 3 v5 reference panel using the Michigan Imputation Server.
+0	NA	NA	NA	METHODS	We used Eagle2 for pre-phasing, followed by imputation with Minimac3 software.
+0	NA	NA	NA	METHODS	We also imputed the X chromosome using with the 1000 Genomes Project Phase 3 v5 reference panel.
+0	NA	NA	NA	METHODS	We imputed male (n = 3,927) and female (n = 4,476) samples separately, using Mach for pre-phasing and Minimac2 for imputation.
+0	NA	NA	NA	METHODS	Imputation yielded data for 47,095,001 variants, and the 534,143 directly genotyped variants were also assigned imputed genotypes.
+0	NA	NA	NA	METHODS	We removed variants with an imputation r2 <0.30 (35,615,501 variants) or a MAF <0.01 (37,891,969 variants) as additional quality control procedures.
+0	NA	insulin	NA	METHODS	In total, we tested 8,045,193 variants for association with fasting glucose, insulin, and HbA1c levels and T2D
+0	NA	NA	NA	METHODS	We constructed principal components (PCs) to capture population substructure among the CHNS subjects.
+0	NA	NA	NA	METHODS	We identified a set of 55,601 independent variants with MAF > 0.05 and pairwise LD r2 <0.02 in a sliding window of 50 variants and used the variants to construct PCs in 8,403 CHNS subjects (Fig 1; S1-S3 Figs).
+0	NA	NA	NA	METHODS	The set of 55,601 variants was trimmed to match a list of 47,032 variants that were also available in HapMap Phase III samples.
+0	NA	NA	NA	METHODS	Individuals from CHNS and HapMap III were plotted based on the first two eigenvectors produced by the PC analysis (S1 Fig).
+0	NA	NA	NA	METHODS	We tested for the association between each of the first 10 PCs and each of the phenotypic traits to identify PCs associated at P<0.05; the first PC was included as a covariate in the regression models
+0	NA	insulin	NA	METHODS	Fasting glucose, fasting insulin, HbA1c, and T2D were adjusted for age, age2, BMI, gender, and PC1.
+0	NA	NA	NA	METHODS	Residuals were then inverse normal-transformed to satisfy model assumptions of normality.
+0	NA	NA	NA	METHODS	Efficient mixed model associations (EMMAX) accounting for population structure and relatedness were performed using EPACTs v.3.1.0.
+0	NA	NA	NA	METHODS	Because EMMAX was designed for analysis of linear traits, GWA analyses for T2D were performed using the Firth bias-corrected logistic regression likelihood ratio test implemented in EPACTs.
+0	NA	NA	NA	METHODS	For all analyses, genotype was modeled as an additive effect, with the genotype dosage values used as the primary predictor of interest.
+0	NA	NA	NA	METHODS	Due to the correlation of the glycemic traits, we used a genome-wide significance threshold of P <5 x 10-8 to define a single result as genome-wide significant, as used in previous association studies of this scale and high trait correlation.
+0	NA	NA	NA	METHODS	A conservative experiment-wide Bonferroni-corrected P-value for four could be considered as P<1.25x10-8.
+0	NA	NA	NA	METHODS	We created regional association plots using LocusZoom with LD estimates generated from the CHNS subjects.
+0	NA	NA	NA	METHODS	All variant positions correspond to build hg19
+0	NA	NA	NA	METHODS	At loci that exhibited evidence of genome-wide significant association (P <5 x 10-8), we identified additional association signals using conditional analysis.
+0	NA	NA	NA	METHODS	We added the most strongly associated variant into the regression model as a covariate and tested all remaining regional variants (+/- 1 Mb from the initial lead GWA variant at each locus) for association.
+0	NA	NA	NA	METHODS	Since we were focusing on a much narrower region of variants during the conditional analyses, we set a less stringent locus-significance threshold of P <1 x 10-5 based on ~5,000 variants in a 2 Mb region.
+0	NA	NA	NA	METHODS	We performed sequential conditional analyses until the strongest variant no longer met the P-value threshold
+0	Type 2 diabetes	NA	NA	METHODS	We used summary data available in the Type 2 Diabetes Knowledge Portal to explore associations between the newly identified loci and other metabolic traits and outcomes.
+0	coronary artery disease	NA	NA	METHODS	Association summary statistics available (last assessed June 23, 2017) included coronary artery disease from CARDIoGRAM; kidney-related traits from CKDGen; T2D from DIAGRAM, GoT2D, BioMe AMP, CAMP, and SIGMA; BMI and waist-hip-ratio from GIANT; and glycemic traits from MAGIC.
+0	NA	adiponectin	NA	METHODS	Additionally, we used data available from the ICP-GWAS (systolic and diastolic blood pressure) and the AGEN adiponectin GWAS.
+0	NA	NA	NA	METHODS	To identify variants in high LD (r2>0.80) with the lead variants, we used LDlink with all East Asian sample populations from the 1000 Genomes Project as the reference
+0	pancreatic	NA	NA	METHODS	We used ENCODE, ChromHMM, and Human Epigenome Atlas data available through the UCSC Genome Browser to determine which of the candidate variants in each association signal overlapped open-chromatin peaks, ChromHMM chromatin states, and chromatin-immunoprecipitation sequencing (ChIP-seq) peaks of histone modifications H3K4me1, H3K4me3, and H3K27ac, and transcription factors in pancreatic islets and the pancreas
+0	NA	NA	NA	METHODS	We searched the following publicly available eQTL databases to identify cis-eQTLs at the observed loci: GTEx v7, the University of Chicago eQTL browser, the Islet eQTL Explorer (http://theparkerlab.org/tools/isleteqtl/), and the Blood eQTL Browser.
+0	NA	NA	NA	METHODS	We also searched for cis-eQTLs in subcutaneous adipose tissue from the METSIM study.
+0	NA	NA	NA	METHODS	All eQTL data sources used a false discovery rate (FDR) <5% for identifying cis-eQTLs, with the exception of the METSIM study, which used an FDR <1%
+0	beta-cell deficiency	NA	NA	METHODS	MIN6 mouse insulinoma cells were cultured in DMEM (Sigma) supplemented with 10% FBS, 1 mM sodium pyruvate, and 0.1 mM beta-mercaptoethanol.
+0	NA	NA	NA	METHODS	The cell cultures were maintained at 37 C with 5% CO2
+0	NA	NA	rs10192373	METHODS	To measure variant allelic differences in enhancer activity at the SIX3-SIX2 locus, we designed oligonucleotide primers (S10 Table) with KpnI and XhoI restriction sites, and amplified the 312-bp DNA region (GRCh37/hg19 -chr2: 45,191,902-45,192,213) around: rs10192373, rs10168523, rs12712928, rs12712929 (tested as a haplotype).
+0	NA	NA	rs748947	METHODS	Separately, we amplified a 365-bp region (GRCh37/hg19 -chr2:45,192,357-45,192,721) around rs748947.
+0	NA	NA	rs12712928	METHODS	The 312-bp haplotype construct was altered to create a missing haplotype for rs12712928 using the QuickChange site directed mutagenesis kit (Stratagene).
+0	NA	NA	NA	METHODS	As previously described, we ligated amplified DNA from individuals homozygous for each allele into the multiple cloning site of the luciferase reporter vector pGL4.23 (Promega) in both orientations with respect to the genome.
+0	NA	NA	NA	METHODS	Isolated clones were sequenced for genotype and fidelity.
+0	NA	NA	NA	METHODS	2x105 MIN6 cells were seeded per well, and grown to 90% confluence in 24-well plates.
+0	NA	NA	NA	METHODS	We co-transfected five independent luciferase constructs and Renilla control reporter vector (phRL-TK, Promega) using Lipofectamine 2000 (Life Technologies) and incubated for another 48 hours.
+0	NA	NA	NA	METHODS	48 hours post-transfection, the cells were lysed with Passive Lysis Buffer (Promega).
+0	NA	NA	NA	METHODS	Luciferase activity was measured using the Dual-luciferase Reporter Assay System (Promega) per manufacturer instructions and as previously described
+0	NA	NA	NA	METHODS	Nuclear cell protein was extracted from MIN6 cells using the NE-PER nuclear extraction kit (Thermo Scientific).
+0	NA	NA	rs10192373	METHODS	17 bp oligonucleotide probes were designed centered on each variant: rs10192373, rs10168523, rs12712928, and rs12712929 (S10 Table).
+0	NA	NA	NA	METHODS	The annealed double-stranded oligonucleotide biotin labeled and unlabeled probes for both alleles were generated as previously described.
+0	NA	NA	NA	METHODS	To conduct EMSAs, we used the LightShift Chemiluminescent EMSA Kit (ThermoFisher Scientific) and followed the manufacturer's recommendations.
+0	NA	muL	NA	METHODS	Briefly, a 20 mul binding reaction consisting of 6 mug nuclear extract, 1X binding buffer, 50 ng/muL poly (dI-dC), and 200 fmol of labeled probe was incubated at room temperature for 25 minutes.
+0	NA	NA	NA	METHODS	For competition reactions, 25-fold excess of unlabeled probe for either allele were incubated for 15 min prior to the addition of 200 fmol labeled probe and incubated for an additional 25 minutes.
+0	NA	GABP-alpha	NA	METHODS	For supershift assays, 6 mug of polyclonal GABP-alpha antibody (sc28312X; Santa Cruz Biotechnology) was added to the binding reactions and incubated for 25 minutes prior to the addition of 200 fmol labeled probe.
+0	NA	NA	NA	METHODS	The reaction was further incubated for an additional 25 minutes.
+0	mental retardation	NA	NA	METHODS	Protein-probe complexes were resolved on non-denaturing PAGE on 6% DNA retardation gels (Thermo Scientific), transferred to Biodyne B nylon membranes (PALL Life Sciences), cross-linked on a UV-light cross linker (Stratagene), and detected by chemiluminescence.
+0	NA	NA	NA	METHODS	EMSAs were carried out on second independent day and yielded comparable results
+0	NA	NA	rs12712928	METHODS	To identify factors in the protein complex binding rs12712928, we conducted a DNA affinity capture assay as previously described.
+0	NA	muL	rs12712928	METHODS	Briefly, the 450 muL binding reactions consisted of 300 mug of pre-cleared, dialyzed MIN6 nuclear extract, 1X binding buffer, 50 ng/muL poly (dI-dC), and 40 pmol of biotin-labeled probe for either rs12712928 allele (same as EMSA probes) or a scrambled control.
+0	NA	muL	NA	METHODS	Binding reactions were incubated at room temperature for 30 min on a rotator, and then 100 muL of streptavidin-magnet Dynabeads were added to the reaction and incubated for an additional 20 minutes.
+0	NA	NA	NA	METHODS	Beads were washed and bound DNA-proteins were eluted in 1X reducing sample buffer.
+0	NA	NA	NA	METHODS	Proteins were separated on NuPAGE denaturing gel and allelic differences in protein bands was visualized with Coomassie G-250 staining.
+0	NA	NA	NA	METHODS	The UNC Michael Hooker Proteomics Center used a Sciex 5800 MALDI-TOF/TOF mass spectrometer to identify the proteins in the excised protein bands

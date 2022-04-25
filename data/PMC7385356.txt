@@ -1,0 +1,136 @@
+0	cardiac toxicity	NA	NA	ABSTRACT	We performed a genome-wide association study to investigate the association between single nucleotide polymorphisms and anthracycline-induced cardiotoxicity (ACT) in patients diagnosed with early breast cancer.
+0	cancers	NA	NA	ABSTRACT	From January 2000 to December 2015, 8490 patients underwent breast surgery at the National Cancer Center in Korea.
+0	NA	NA	NA	ABSTRACT	Patients who received doxorubicin (cumulative dose 240 mg/m2-300 mg/m2) with or without trastuzumab as a neoadjuvant/adjuvant therapy were included in our cohort.
+0	NA	NA	NA	ABSTRACT	Sixty-seven patients in our cohort were diagnosed with ACT.
+0	cancers	NA	NA	ABSTRACT	Clinical data, including age, body weight, height, cancer stage, trastuzumab treatment, comorbidities, and concomitant medications, were collected retrospectively.
+0	NA	NA	NA	ABSTRACT	Patients were classified as having either persistent or transient ACT based on their clinical course.
+0	NA	NA	NA	ABSTRACT	In total, 346 946 single nucleotide polymorphisms in 42 cases and 215 controls were tested in this study.
+0	NA	NA	NA	ABSTRACT	Body mass index (BMI) >=25 kg/m2 [odds ratio (OR) = 2.45, 95% confidence interval (CI), 1.23-4.88, P = .011] and trastuzumab use (OR = 2.40, 95% CI, 1.11-5.17, P = .026) were identified as significant risk factors.
+1	NA	SHISA3	rs17530621	ABSTRACT	We found 7 genetic variants for ACT including rs17530621 (SHISA3, P = 3.10E-06), rs11894115 (MPP4, P = 4.71E-06), rs58328254 (RPL7, P = 6.09E-06), and rs117299725 (PRUNE2, P = 8.53E-06), although none of these variants reached the Bonferroni-corrected significance level when adjusted for BMI and trastuzumab use ( = alpha1.44E-07 based on 0.05/346 946).
+1	NA	NA	rs117299725	ABSTRACT	rs117299725 was a common variant when only the persistent ACT group was analyzed separately.
+0	breast cancer	NA	NA	ABSTRACT	It is meaningful that our study analyzed comprehensively the influence of genetic variation on ACT, along with some clinical factors in Asian breast cancer patients who received anthracycline with or without trastuzumab.
+0	NA	NA	NA	ABSTRACT	Further research will be needed on candidate genetic variants found in this study
+0	cardiac toxicity	NA	NA	ABSTRACT	In this study, we addressed potent genetic variants related with anthracycline induced cardiotoxicity in Korean early breast cancer patients adjusting various clinical factors with a long follow-up period.
+0	cardiac toxicity	NA	NA	ABSTRACT	The results of our study showed that in anthracycline treatments with a cumulative dose not exceeding 300 mg/m2, clinical factors were more associated with cardiotoxicity than genetic factors.
+0	NA	NA	NA	ABSTRACT	Several possible genetic variants found in this study may require further study.
+0	breast cancer	NA	NA	INTRO	Anthracycline has long been used as the primary treatment for breast cancer.
+0	heart failure	NA	NA	INTRO	Despite its potential benefits, the number of doses of anthracycline needs to be limited due to its adverse effects on the heart, including congestive heart failure.
+0	cardiac toxicity	NA	NA	INTRO	1 ,  2  Doxorubicin is an anthracycline with an overall incidence of cardiotoxicity in up to 3.3% of patients who received a cumulative dose of at least 450 mg/m2.
+0	cardiac toxicity	NA	NA	INTRO	1  Clinical factors associated with the development of cardiotoxicity include the cumulative dose of doxorubicin, age, and existing heart disease.
+0	cardiac toxicity	NA	NA	INTRO	1 ,  3  The concomitant use of other chemotherapeutic agents, such as trastuzumab and bevacizumab, with anthracyclines also increases the cardiotoxicity risk.
+0	NA	NA	NA	INTRO	4 ,  5
+0	cardiac toxicity	NA	NA	INTRO	Anthracycline-induced cardiotoxicity (ACT) involves irreversible cardiomyocyte death due to reactive oxygen species produced by doxorubicin metabolism within the cardiomyocytes.
+0	cardiac toxicity	NA	NA	INTRO	6 ,  7  Many studies have been conducted to identify genetic risk factors that predict the development of cardiotoxicity.
+0	cardiac toxicity	NA	NA	INTRO	8 ,  9 ,  10 ,  11 ,  12 ,  13  Results from these studies have not been consistent, however, due to the heterogeneity of the study populations and differences in the definitions of cardiotoxicity
+0	breast cancer	NA	NA	INTRO	Anthracyclines have been included as neoadjuvant or adjuvant treatments with or without other chemotherapeutic agents in the treatment of breast cancer.
+0	cardiac toxicity	NA	NA	INTRO	Under such treatment regimens, the cumulative dose of doxorubicin usually does not exceed 300 mg/m2, nevertheless cardiotoxicity occurred in 1.5%-2.0% of patients who took part in a large clinical trial.
+0	cardiac toxicity	NA	NA	INTRO	4 ,  14  Given the severity of cardiotoxicity, there is a need to develop reliable predictive biomarkers to identify high-risk patients
+0	breast cancer	NA	NA	INTRO	In this study, we conducted a genome-wide association study (GWAS) of patients with early breast cancer to assess single nucleotide polymorphisms (SNPs) across the whole genome.
+0	NA	NA	NA	INTRO	The goal of this GWAS was to identify genetic variants and clinical factors associated with risk of ACT in this population
+0	cancers	NA	NA	METHODS	From January 2000 to December 2015, 8490 patients underwent breast surgery at the National Cancer Center in Korea.
+0	NA	NA	NA	METHODS	Of these patients, 3910 patients received doxorubicin as a neoadjuvant or adjuvant treatment, and 67 were diagnosed with ACT.
+0	cardiac toxicity	NA	NA	METHODS	In this study, cardiotoxicity was defined as a >10% reduction in the left ventricular ejection fraction (LVEF) from baseline and LVEF < 50% on multi-gated blood pool scan (MUGA), or <55% on echocardiography.
+0	NA	NA	NA	METHODS	15  Among patients in the case group, those who completely recovered from ACT during the follow-up period were classified into the transient ACT group and those who needed medication and regular monitoring were classified into the persistent ACT group.
+0	NA	NA	NA	METHODS	We analyzed separately genetic differences between the persistent ACT group and the control group
+0	breast cancer	NA	NA	METHODS	For the control group, we selected 317 age-matched patients with breast cancer who underwent breast surgery before or after doxorubicin-containing chemotherapy as neoadjuvant/adjuvant treatment.
+0	NA	NA	NA	METHODS	The cardiac function of the control group was normal before and after chemotherapy as confirmed by MUGA or echocardiography.
+0	cancers	NA	NA	METHODS	For all patients, clinical data, including age, body weight, height, cancer stage, cumulative dose of doxorubicin, radiation therapy, trastuzumab treatment, comorbidities, and concomitant medications, were collected retrospectively.
+0	cancers	NA	NA	METHODS	This study was approved by the Institutional Review Board of the National Cancer Center in Korea (IRB no.
+0	NA	NA	NA	METHODS	NCC2017-0161) and all patients provided written informed consent before participation
+0	NA	Kit	NA	METHODS	Peripheral blood samples were drawn into vacutainer tubes and genomic DNA was extracted from whole blood using the QIAamp DNA Mini Kit (Qiagen, CA) in accordance with the manufacturer's instructions.
+0	NA	NA	NA	METHODS	DNA samples from both the case and control groups were genotyped using the Korea Biobank Array platform (KoreanChip).
+0	NA	NA	NA	METHODS	16  The KoreanChip is comprised of 833 535 markers, including more than 247 000 rare frequency or functional variants based on the sequencing data of 2500 Koreans.
+0	NA	NA	NA	METHODS	16
+0	NA	NA	NA	METHODS	Samples were subjected to quality control (QC).
+0	NA	NA	NA	METHODS	Among the 384 samples, 10 samples were excluded due to multidimensional scaling and 30 samples due to a low call rate and excessive heterozygosity rate.
+0	cancers	NA	NA	METHODS	An additional 87 samples were further excluded for the following reasons: male patient (n = 1), stage IV cancer (n = 2), anthracycline cumulative dose < 240 mg/m2 (n = 7), no chemotherapy (n = 6), and anthracycline cumulative dose > 300 mg/m2 (n = 71).
+0	NA	NA	NA	METHODS	The final association test was performed with 257 samples (Figure 1A)
+0	NA	NA	NA	FIG	Consort diagram of quality control (QC) for (A) each samples and (B) SNP
+0	NA	NA	NA	METHODS	SNP QC steps were performed on 833 535 available markers.
+0	NA	NA	NA	METHODS	SNPolisher software designed by Affymetrix was used to select markers for better QC.
+0	NA	NA	NA	METHODS	17  In total, 63 233 markers were removed due to low quality (n = 23 647), SNPolisher failure (n = 16 958), marker call rate < 0.05 (n = 21 920), and Hardy-Weinberg equilibrium P-value <= 1E-6 (n = 708).
+0	NA	NA	NA	METHODS	Additional SNP QC steps were performed on the final 257 samples included in the analysis.
+0	NA	NA	NA	METHODS	Among the 770 302 remaining markers, SNPs exhibiting monomorphism (n = 125 751) or loss of heterozygosity (n = 102) were first filtered out.
+0	NA	NA	NA	METHODS	Then SNPs with a missing rate > 5% (n = 3562), minor allele frequency (MAF) <=5% (n = 293 437), or Hardy-Weinberg equilibrium P-value < .001 (n = 504) were further excluded.
+0	NA	NA	NA	METHODS	The final marker set included 346 946 SNPs across 257 patients.
+0	NA	NA	NA	METHODS	The P-value threshold for significance was = alpha1.44E-07 based on 0.05/346 946 (Figure 1B)
+0	NA	NA	NA	METHODS	Before the study, statistical power was calculated based on a maximum sample size of 60 cases and 240 controls.
+0	NA	NA	NA	METHODS	This sample size (1:4 ratio of cases to controls) was expected to achieve 87.4% and 67.3% power at significance levels of 10-2 and 10-3, respectively, with an assumed odds ratio (OR) of 3.0 in the additive model under a high-risk allele frequency of 0.1 and disease prevalence of 1.7%.
+0	NA	NA	NA	METHODS	The distribution of clinical characteristics between cases and controls was presented as means +- SD for continuous variables and frequency (percentage) for categorical variables.
+0	NA	NA	NA	METHODS	Differences in clinical variables were tested using the Student t test for continuous variables and Pearson chi-square test or Fisher exact test for categorical variables.
+0	NA	NA	NA	METHODS	To test the association between ACT and SNPs, we used several genetic models, including the additive, dominant, and recessive models.
+0	NA	NA	NA	METHODS	Univariate and multivariate logistic regression models were applied to perform the association tests with adjustment for significant clinical factors in the multivariate model.
+0	NA	NA	NA	METHODS	Significance of the association of SNPs was examined using the minimum of the P-value among the additive and dominant genetic models.
+0	NA	NA	NA	METHODS	18  The effective number of SNPs was calculated with respect to the linkage disequilibrium (LD) correlation structure.
+0	NA	NA	NA	METHODS	19  The LD between genetic markers were calculated using the joint probability and the product of the individual allele probabilities.
+0	NA	NA	NA	METHODS	We did this using the LD function of the 'genetics' packages in R software.
+0	NA	NA	NA	METHODS	Regional plots were created using LocusZoom (http://locuszoom.sph.umich.edu/locuszoom/).
+0	NA	NA	NA	METHODS	Expression quantitative trait loci (eQTL) analysis was performed using the Genotype-Tissue Expression (GTEx) database 20  (http://gtexportal.org/).
+0	NA	NA	NA	METHODS	To compare the overall survival between patients in the case and control groups, the difference was tested using the log-rank test and plotted as Kaplan-Meier curves
+0	NA	NA	NA	RESULTS	Forty-two cases and 215 controls were included in this study after excluding samples for QC.
+0	NA	NA	NA	RESULTS	Across all patients, the median follow-up duration was 8.43 y (interquartile range: 5.15-10.42 y; maximum: 15.45 y).
+0	NA	NA	NA	RESULTS	The median onset time for ACT was 220 d (range: 55-2472 d) after completion of chemotherapy.
+0	hyperlipidemia	NA	NA	RESULTS	Most clinical variables were not significantly different between the case and control groups, however body mass index (BMI) >25 kg/m2 (45.2% vs 25.6%, P = .010), higher weight (61.6 vs 57.5 kg, P = .002), and a history of hyperlipidemia (16.7% vs 6.1%, P = .028) were more frequently observed in the case group.
+0	NA	HER2	NA	RESULTS	In addition, the number of patients with HER2 amplification (83.3% vs 60.5%, P = .005) and trastuzumab use (76.2% vs 57.7%, P = .025) was significantly higher in the case group (Table 1).
+0	cancers	NA	NA	RESULTS	Most patients with HER2-amplified tumors received trastuzumab treatment concurrently with adjuvant chemotherapy, therefore trastuzumab use but not HER2 positivity was included as a factor in the analysis, to account for any interaction between the 2 factors.
+0	NA	NA	NA	RESULTS	In the multivariate logistic regression model, BMI >= 25 kg/m2 (OR = 2.45, 95% CI, 1.23-4.88, P = .011) and trastuzumab use (OR = 2.40, 95% CI, 1.11-5.17, P = .026) remained as significant factors associated with ACT (Table 2).
+0	NA	NA	NA	RESULTS	These 2 factors were included as covariates in the adjusted model
+0	NA	NA	NA	RESULTS	Thirty patients (71.4%) in the case group were classified into the persistent ACT group.
+0	NA	NA	NA	RESULTS	In contrast, 12 patients in the case group completely recovered from ACT within a median of 410 d (range: 125-850 d) and were classified into the transient ACT group.
+0	NA	NA	NA	RESULTS	A further analysis of the genes within the persistent ACT group was conducted
+0	NA	NA	NA	RESULTS	A quantile-quantile (Q-Q) plot showed the distribution of the observed P-value from association testing of 346 946 SNPs and all case and control samples distributed into the same cluster in the principal component analysis (PCA) plot (Figure S1A,B).
+0	NA	NA	NA	RESULTS	A Manhattan plot was used to display the 346 946 SNPs that passed QC (Figure 2).
+0	NA	NA	NA	RESULTS	None of the SNPs reached the Bonferroni-corrected significance level (alpha = 1.44E-07 from 0.05/346 946).
+0	NA	NA	NA	RESULTS	We therefore identified 86 SNPs with a minimum P-value < 1.0E-04 in the crude or adjusted model (Table S1).
+0	NA	NA	NA	RESULTS	Because several SNPs selected on the same gene were in LD, we calculated the effective number of 86 SNPs based on LD correlation structure.
+0	NA	NA	NA	RESULTS	The effective number was 68.9 due to duplicated genes among the 86 SNPs.
+0	NA	NA	NA	RESULTS	We identified 7 SNPs with a minimum P-value < 1.0E-05 in the adjusted model, corresponding to an effective number of 6.9 (Table 3)
+0	NA	NA	NA	FIG	Manhattan plots for association test of 346 946 SNPs on (A) crude and (B) adjusted mode
+0	NA	NA	NA	TABLE	Frequency and P-values using crude and adjusted logistic regression model for candidate SNPs (P-value < 1.E-05
+1	NA	NA	rs17530621	FIG	Regional association plots for (A) rs17530621, (B) rs11894115, (C) rs58328254, and (D) rs11729972
+0	NA	NA	NA	RESULTS	Only among the persistent ACT group, we identified 62 SNPs with a minimum P-value < 1.0E-04 in the crude or adjusted model, corresponding to an effective number of 53.4 (Table S2).
+0	NA	GLIS3	rs4336659	RESULTS	In the adjusted model, rs4336659, which had the smallest P-value, was located near the GLIS3 and SLC1A1 genes (P = 3.03E-06).
+0	NA	WWOX	NA	RESULTS	The WWOX gene, which had a P-value of 7.24E-05 in the crude model of the entire study population data set (Table S1), had a higher association in the persistent ACT group (P = 7.28E-06, Table S2).
+1	NA	PRUNE2	NA	RESULTS	The PRUNE2 gene was a common gene that was identified both in the entire study population data set and in the persistent ACT group.
+0	NA	NA	NA	RESULTS	(Table S2, Figure S3)
+0	NA	NA	NA	RESULTS	To identify the association between the genetic variants and expression of related genes, we conducted expression quantitative trait loci (eQTL) analysis using the Genotype-Tissue Expression (GTEx) database.
+0	NA	NA	NA	RESULTS	20  As a result, 2 SNPs showed association with the expression of nearby genes (P < .05).
+1	NA	ATP8A1	rs17530621	RESULTS	rs17530621 was associated with the expression of the ATP8A1 gene in the tibial artery (P = 3.8E-03) and in the left ventricle of the heart (P = 2.0E-02) with normalized effect sizes (NES) of 0.084 and 0.113, respectively.
+1	NA	NA	rs58328254	RESULTS	rs58328254 was associated with expression of the RDH10-AS1 (antisense 1) gene in the tibial artery (P = 2.7E-12) and aorta artery (P = 1.0E-06) with NESs of -0.393 and -0.310, respectively (Table S3)
+0	death	NA	NA	RESULTS	During the follow-up period, 26 (10.1%) patients died.
+0	death	NA	NA	RESULTS	The most common cause of death was breast cancer recurrence, which occurred in 3 (7.1%) patients in the case group and 19 (8.8%) patients in the control group (Table 1).
+0	death	NA	NA	RESULTS	There was no death from ACT in the case group.
+0	NA	NA	NA	RESULTS	In addition, there was no significant difference in overall survival (P = .464) between the 2 groups (Figure S4)
+0	cardiac toxicity	NA	NA	DISCUSS	Cardiotoxicity is a major side effect of anthracycline treatment, with a higher incidence in patients who received a cumulative dose of more than 450 mg/m2, as well as those with cardiovascular comorbidities or those who receive combination treatment with other chemotherapeutic agents such as trastuzumab.
+0	cardiac toxicity	NA	NA	DISCUSS	3 ,  5  Cardiotoxicity is a serious lifelong problem for both children and adults and is associated with high morbidity and mortality.
+0	cardiac toxicity	NA	NA	DISCUSS	The extent and frequency of cardiotoxicity varies significantly across patients.
+0	NA	NA	NA	DISCUSS	Susceptible genetic factors, as well as various clinical risk factors, have been studied to identify high-risk patients before anthracycline administration.
+0	NA	POR	NA	DISCUSS	Previous studies have revealed that genes related to the generation of excess reactive oxygen species (encoded by POR, NCF4, RAC2, and CYBA), intracellular accumulation of toxic metabolites (encoded by CBR3, SLC8A3 and UGT1A6), and interaction of anthracycline with topoisomerase-2beta (encoded by RARG) were significant in the development of ACT.
+0	cancers	RARG	rs2229774	DISCUSS	21 ,  22  In particular, the RARG variant (rs2229774) was found in one discovery cohort (280 European population) and 2 validation cohorts (96 European and 80 non-European) that collectively included more than 450 childhood cancer patients.
+0	NA	RARG	NA	DISCUSS	11  RARG is known to bind the topoisomerase IIbeta promoter and in a mouse model was expressed in cardiomyocytes after injury.
+0	cancers	RARG	NA	DISCUSS	23 ,  24  However, the RARG variant was not found in a GWAS of more than 7800 breast cancer patients from 3 large randomized clinical trials who had received anthracycline treatment.
+0	NA	NA	NA	DISCUSS	13  This discrepancy in findings may be due to differences in study populations, methodologies, and concurrent treatments used across studies.
+0	NA	NA	NA	DISCUSS	In addition, the impact of age and other environmental factors such as weight and other comorbidities may be more significant in adult patient populations compared with cohorts involving children
+0	NA	NA	NA	DISCUSS	To date, most studies have been conducted on Western populations and only a few large-scale clinical studies involving Asian patient cohorts have been conducted.
+0	breast cancer	NA	NA	DISCUSS	The current study only included Korean women who had been diagnosed with early breast cancer.
+0	NA	NA	NA	DISCUSS	Every patient in our cohort received 4-6 cycles of doxorubicin sequentially with or without trastuzumab as a neoadjuvant/adjuvant treatment.
+0	NA	NA	NA	DISCUSS	Based on our results, higher BMI and trastuzumab use were important clinical factors that were strongly associated with ACT; these findings were consistent with the results of prior studies.
+1	NA	NA	rs17530621	DISCUSS	25 ,  26 ,  27  In our GWAS analysis, we found that 7 susceptible variants, including rs17530621, rs6804462, rs11894115, rs58328254, rs2113374, rs117299725, and rs147731684, were associated with ACT across the entire study population (minimum P-value < 1.0E-05).
+0	NA	NA	NA	DISCUSS	However, the SNPs discovered in this study did not reach statistical significance when adjusting for clinical factors, higher BMI, and trastuzumab use
+1	NA	NA	rs17530621	DISCUSS	Our expression analysis found only 2 SNPs (rs17530621 and rs58328254) that were associated with expression of nearby genes, because most variants, except rs118941115, were located in non-coding regions.
+0	cardiac toxicity	NA	NA	DISCUSS	Their biological significance in relation to ACT development was also unclear, however several previous studies have suggested that the genes we identified may be linked functionally to cardiotoxicity.
+1	heart failure	SHISA3	rs17530621	DISCUSS	In a model of heart failure, SHISA3, which was associated with rs17530621 and primarily expressed in the vascular cells of the fetal heart, was involved in pathological tissue remodeling via reduction of KLF15 and WNT signaling activation.
+1	heart failure	PRUNE2	NA	DISCUSS	28  PRUNE2 is reported to be highly expressed in patients with idiopathic dilated heart failure, as well as in patients with ischemic heart failure and also is functionally related to myocardial muscle tension.
+1	infectious disease	p<10-5	NA	DISCUSS	29  Genetic polymorphisms of CDH13 are associated with plasma adiponectin levels and are involved in the development of cardiometabolic disease.
+0	NA	NA	NA	DISCUSS	30 ,  31  These data suggest that it is necessary to further study the relationship between these genes and development of ACT
+0	NA	RARG	NA	DISCUSS	In this study, SNPs in RARG, SLC8A3, UGT1A6, NCF4, and RAC2 did not emerge as significant, despite reports in previous studies that these genes were associated with susceptibility to ACT.
+0	NA	NA	NA	DISCUSS	11 ,  19 ,  20  There may be several reasons for these discrepancies, including the relatively small size of our control group, differences in ethnicity, and differences in combined chemotherapeutic regimens.
+0	NA	RARG	rs2229774	DISCUSS	For example, the MAF of the RARG variant rs2229774 was 6.7% in Europeans, while this value was significantly lower (0.7%) in East Asians.
+1	NA	NA	rs17530621	DISCUSS	The MAF of rs17530621 found in our study also showed a significant difference between European and Asian populations.
+0	NA	NA	NA	DISCUSS	Such differences may have caused the lack of identification of results between studies.
+0	NA	NA	NA	DISCUSS	One advantage of our study, however, is that we were able to adjust for possible clinical risk factors in patients with long-term follow-up.
+0	NA	NA	NA	DISCUSS	Our study, therefore, enabled us to infer that the effect of genetic variations in the development of ACT may be diluted by the effects of various clinical risk factors
+0	breast cancer	NA	NA	DISCUSS	In conclusion, we found that clinical factors such as higher BMI and trastuzumab use were important factors in the development of ACT among patients with early breast cancer.
+0	NA	NA	NA	DISCUSS	Our GWAS identified candidate SNPs that were associated with the development of ACT in a Korean female population.
+0	NA	NA	NA	DISCUSS	Although none of these SNPs reached a significance threshold, these candidate SNPs warrant further study
+0	NA	NA	NA	SUPPL	The data that support the findings of this study are available from the corresponding author upon reasonable request

@@ -1,0 +1,213 @@
+0	pain	NA	NA	ABSTRACT	Adjuvant radiotherapy (RT) can increase the risk of developing pain; however, the molecular mechanisms of RT-related pain remain unclear.
+0	pain	NA	NA	ABSTRACT	The current study aimed to identify susceptibility loci and enriched pathways for clinically relevant acute post-RT pain, defined as having moderate to severe pain (pain score >= 4) at the completion of RT
+0	breast cancer	NA	NA	ABSTRACT	We conducted a genome-wide association study (GWAS) with 1,344,832 single-nucleotide polymorphisms (SNPs), a gene-based analysis using PLINK set-based tests of 19,621 genes, and a functional enrichment analysis of a gene list of 875 genes with p < 0.05 using NIH DAVID functional annotation module with KEGG pathways and GO terms (n = 380) among 1112 breast cancer patients
+0	pain	NA	NA	ABSTRACT	About 29% of patients reported acute post-RT pain.
+0	NA	NA	NA	ABSTRACT	None of SNPs nor genes reached genome-wide significant level.
+1	pain	RFFL	rs16970540	ABSTRACT	Four SNPs showed suggestive associations with post-RT pain; rs16970540 in RFFL or near the LIG3 gene (p = 1.7 x 10-6), rs4584690, and rs7335912 in ABCC4/MPR4 gene (p = 5.5 x 10-6 and p = 7.8 x 10-6, respectively), and rs73633565 in EGFL6 gene (p = 8.1 x 10-6).
+0	pain	cytochrome P450	NA	ABSTRACT	Gene-based analysis suggested the potential involvement of neurotransmitters, olfactory receptors, and cytochrome P450 in post-RT pain, whereas functional analysis showed glucuronidation (FDR-adjusted p value = 9.46 x 10-7) and olfactory receptor activities (FDR-adjusted p value = 0.032) as the most significantly enriched biological features
+0	pain	NA	NA	ABSTRACT	This is the first GWAS suggesting that post-RT pain is a complex polygenic trait influenced by many biological processes and functions such as glucuronidation and olfactory receptor activities.
+0	pain	NA	NA	ABSTRACT	If validated in larger populations, the results can provide biological targets for pain management to improve cancer patients' quality of life.
+0	pain	NA	NA	ABSTRACT	Additionally, these genes can be further tested as predictive biomarkers for personalized pain management
+0	NA	NA	NA	ABSTRACT	The online version of this article (10.1186/s40246-019-0212-8) contains supplementary material, which is available to authorized users
+0	breast cancer	NA	NA	INTRO	Breast cancer is the most frequently diagnosed cancer and the second leading cause of cancer death in American women.
+0	breast cancer	NA	NA	INTRO	Early detection and improved treatment modalities have led to a remarkable reduction in the mortality rate of breast cancer patients, and currently more than 3.5 million breast cancer survivors are living in the USA.
+0	breast cancer	NA	NA	INTRO	Given that approximately 70% of breast cancer patients receive adjuvant radiotherapy (RT) after breast surgery to improve clinical outcomes, it is critical to address cancer survivorship issues relating to RT-induced symptoms which may affect the quality of life (QOL).
+0	pain	NA	NA	INTRO	Among many symptoms, pain occurs in up to 60% of breast cancer survivors, where more than half of them report moderate to severe pain.
+0	pain	NA	NA	INTRO	Unmanaged pain can interrupt planned RT schedules and impact the accurate delivery of therapeutic radiation doses to tumor tissues, which can thus diminish the potential benefits of adjuvant RT.
+0	pain	NA	NA	INTRO	Persistent pain after cancer treatment is also critical, affecting cancer survivor's functional performance and productivity.
+0	pain	NA	NA	INTRO	Moreover, once pain develops, it may last for more than 17 years after completion of RT
+0	pain	NA	NA	INTRO	In addition to RT planning and treatment parameters, age, body mass index (BMI), medication, lifestyle factors such as smoking and exercise, and coexisting morbidities can contribute to pain perception during RT; however, inter-individual genetic variations can also influence post-RT pain severity.
+0	cancers	NA	NA	INTRO	Several studies have reported genetic variants associated with cancer treatment-related pain among breast cancer patients.
+0	pain	interleukin (IL)-13	rs1295686	INTRO	For example, genotype AA for interleukin (IL)-13 single-nucleotide polymorphism (SNP) rs1295686 was associated with both pain and lymphedema after breast cancer surgery.
+0	breast pain	p<10-5	NA	INTRO	Also, SNPs in cytokine genes IFNG1, IL, and NFKB1 have been associated with severe breast pain following breast cancer surgery.
+0	Neurological and Communication Disorders	cytidine deaminase	NA	INTRO	Genetic variations in cytidine deaminase (CDD) contributed to chemotherapy-induced neuropathy.
+0	arthralgia	cytochrome P450	NA	INTRO	Furthermore, variations in cytochrome P450 (CYP) and vitamin D receptor (VDR) genes have been associated with aromatase inhibitor-related arthralgia.
+0	pain	NA	NA	INTRO	However, there is a scientific knowledge gap regarding the molecular mechanisms or the genetic variants influencing pain in patients receiving adjuvant RT
+0	pain	NA	NA	INTRO	Thus, to identify susceptibility loci for post-RT pain, we completed a genome-wide association study (GWAS) of 1,344,832 SNPs in a prospectively followed cohort of breast cancer patients undergoing adjuvant RT for breast cancer.
+0	pain	NA	NA	INTRO	As part of this study, we completed gene-based association analyses and functional enrichment pathway analyses to describe the biological profiles underlying genetic mechanisms of post-RT pain.
+0	NA	NA	NA	INTRO	Gene-based association approach considers the joint actions of multiple SNPs within a gene and assigns a representative p value for a gene.
+0	NA	NA	NA	INTRO	If a gene contains more than one causative SNPs with small or moderate effect, then joint effects of several SNPs within that gene may be more detectable than single SNP effect.
+0	NA	NA	NA	INTRO	Functional enrichment pathway analysis, using the gene list produced by gene-based association analyses, is complementary to GWAS in finding risk loci as well as interpreting GWAS results in terms of biological features or function
+0	breast cancer	NA	NA	METHODS	This study analyzed 1112 participants from two cohort studies which employed the same protocol to evaluate the impact of molecular genomics on radiosensitivity among breast cancer patients.
+0	breast cancer	NA	NA	METHODS	The first study population consisted of a cohort of 513 women with newly diagnosed, histologically confirmed breast cancer, recruited from the Department of Radiation Oncology of the University of Miami (UM) Sylvester Comprehensive Cancer Center, University of Miami Hospital, and Jackson Memorial Hospital between December 2008 and January 2014.
+0	pain	NA	NA	METHODS	We obtained sufficient quantity and quality of DNA for 458 patients, and among these, 377 patients with complete genotype and pain data were included in the current study.
+0	breast cancer	NA	NA	METHODS	The second study population consisted of a nationwide cohort of breast cancer patients who were enrolled in the Wake Forest (WF) National Cancer Institute Community Clinical Oncology Program (CCOP) Research Base 97609 Study.
+0	NA	NA	NA	METHODS	This study enrolled 1000 patients between November 2011 and August 2013.
+0	pain	NA	NA	METHODS	Among these, 728 patients with complete genotype and pain data were included in the current analysis.
+0	NA	NA	NA	METHODS	Protocols were approved by each participating site's Institutional Review Boards, and written informed consent was obtained from each study participant before entering the study
+0	NA	NA	NA	METHODS	Each patient completed a baseline questionnaire and provided blood samples (20 ml) before the initiation of RT (baseline) and immediately after completion of RT (post-RT).
+0	NA	NA	NA	METHODS	Blood samples from participants enrolled in the WF Research Base 97609 study were transported to the University of Miami via overnight shipping for DNA extraction and genotyping.
+0	NA	NA	NA	METHODS	All the DNA samples were stored at - 20  C until assay
+0	NA	NA	NA	METHODS	Detailed information on radiation treatment was described in the previous papers.
+0	NA	NA	NA	METHODS	In brief, RT was delivered using 6 or 10 MV standard or partially wide photon tangents with a forward planned field-in-field technique to maximize dose homogeneity.
+0	NA	NA	NA	METHODS	In general, patients received a total dose of 42.4 to 66 Gy to their intact breast or chest wall for 3 to 7 weeks depending on both the fractionation scheme and additional boost
+0	pain	NA	NA	METHODS	All women enrolled in the study filled out the National Surgical Adjuvant Breast and Bowel Project (NSABP) B-39/Radiation Therapy Oncology Group (RTOG) 0413 protocol QOL questionnaire at baseline and post-RT, which contains four pain severity items (i.e., pain at its worst, least, average during the past 4 weeks, and now) from the Brief Pain Inventory (BPI).
+0	pain	NA	NA	METHODS	A pain score was determined as the mean of these four pain severity items (from 0 = no pain to 10 = the worst imaginable pain) as suggested by the BPI developers, and moderate to severe pain (pain score >= 4) was considered clinically relevant.
+0	pain	NA	NA	METHODS	Therefore, cases were defined as those that had a pain score >= 4 at post-RT (n = 326), and the reference group included those with a pain score < 4 at post-RT (n = 786)
+0	NA	NA	NA	METHODS	Genomic DNA was extracted from frozen whole blood using the QIAamp DNA Blood Mini kit (Qiagen, Inc., Valencia, CA), and the DNA genotype was screened for ~ 2,500,000 haplotype tagging SNPs using an Illumina HumanOmni2.5-8v1 BeadChip (Illumina, San Diego, CA) according to Illumina protocols at the University of Miami Hussman Institute for Human Genomics Genotyping Core.
+0	NA	NA	NA	METHODS	Both genotype clustering and calling were performed using Illumina's GenomeStudio V2011.1 software.
+0	NA	NA	NA	METHODS	The genotyping quality control/assurance included (i) four internal controls in each plate, (ii) randomly assigned case and reference samples in each plate to avoid any biases between plates, and (iii) the Hardy-Weinberg equilibrium (HWE) test to identify problematic SNPs.
+0	NA	NA	NA	METHODS	SNPs were excluded from the analysis if they had no genotype for > 5% of individuals, were not in HWE within a reference group (using threshold p < 1.0 x 10-6) or had minor allele frequency < 5%.
+0	NA	NA	NA	METHODS	Subjects were also excluded if they had > 5% of all variants missing.
+0	NA	NA	NA	METHODS	The final dataset contained 1,344,832 SNPs with a genotype call rate of 99.8%.
+0	NA	NA	NA	METHODS	All the quality control procedures were conducted using PLINK (v1.09) (http://zzz.bwh.harvard.edu/plink/)
+0	NA	NA	NA	METHODS	Population substructure was evaluated using principal component analysis (PCA).
+0	NA	NA	NA	METHODS	To remove outliers, we first computed the analysis with a randomly selected and pruned subset of 30,929 common SNPs (LD = 0.5 and minor allele frequency = 0.05) for the study subjects as well as four reference populations from the International HapMap/1000Genomes Project: 85 European-Americans from Utah (CEU); 88 Yorubans from Ibadan, Nigeria (YRI); 97 Han Chinese from Beijing, China (CHB); and 89 Japanese in Tokyo (JPT).
+0	NA	NA	NA	METHODS	Next, we computed the analysis for the study subjects only without the reference populations merged in to determine principal components (PCs) for covariates.
+0	NA	NA	NA	METHODS	The first three PCs were included to adjust for population substructure to minimize spurious associations and test inflation and improve power to detect true associations in subsequent analyses.
+0	NA	NA	NA	METHODS	PCA was performed using EIGENSTRAT v5.0 (https://reich.hms.harvard.edu/software)
+0	pain	NA	NA	METHODS	Pearson's chi-square test or Fisher's exact test were used to find the potential risk factors for post-RT pain, which compared proportions of patients with post-RT pain by study variables in univariate analysis.
+0	NA	NA	NA	METHODS	These factors were further included in the multivariable logistic regression analysis.
+0	pain	PC1	NA	METHODS	The variables that were identified as significant in multivariable analysis were then included in subsequent analyses to adjust for potential confounding effects: surgery type (mastectomy vs lumpectomy), age (continuous), BMI (continuous), smoking (never vs. ever), the number of comorbidities (0, 1, vs 2+), pre-RT pain score (< 4 vs. >= 4), and population sub-stratification (PC1, PC2, PC3)
+0	pain	AS1	NA	METHODS	The associations between post-RT pain and genotype frequency, assuming an additive genetic model for minor allele counts of SNPs coded as 0/1/2, were assessed using multivariable logistic regression after adjusting for aforementioned potential confounders.
+0	NA	NA	NA	METHODS	The odds ratios (ORs) and 95% confidence intervals (95% CIs) for each SNP are reported.
+0	NA	NA	NA	METHODS	A quantile-quantile (Q-Q) plot of observed versus expected chi-square test statistics and estimated inflation factor confirmed the tests met the distributional assumptions.
+0	NA	NA	NA	METHODS	The genome-wide significance was set at the standard p < 5 x 10-8 to account for the number of tests.
+0	NA	NA	NA	METHODS	General data management and statistical analyses were performed using PLINK and R (http://cran.r-project.org/).
+0	NA	NA	NA	METHODS	A Manhattan plot for the result was generated using R package, qqman
+0	NA	NA	NA	METHODS	We estimated the statistical power using the software program, PS Power, and Sample Size Program.
+0	pain	NA	NA	METHODS	Given 326 cases and 786 controls with minor allele frequency = 0.24 and alpha = 5 x 10-8, we had 80% power to detect an OR of 2.41 for an association between a SNP and post-RT pain
+0	NA	NA	NA	METHODS	First, a total of 950,621 SNPs were mapped to 19,621 genes according to genomic positions on the Ensembl/Entrez hg19/GRCh37 Consensus Genes, which were downloaded on 3 September 2016 from the Figshare, the online academic digital repository (https://figshare.com/articles/hg19_GRCh37_Consensus_Genes/103113/4) using +- 20 kb gene boundaries as delimiters to include regulatory SNPs.
+0	NA	NA	NA	METHODS	These genes are consistently annotated across Ensembl and Entrez-gene databases and have HUGO gene symbol identifiers
+0	NA	NA	NA	METHODS	Second, gene-based association analyses were performed using PLINK set-based tests, which required raw genotype data as input and aggregate p values from the set of SNPs within a gene accounting for linkage disequilibrium (LD) and gene size with phenotype permutation.
+0	NA	NA	NA	METHODS	Although its computational burden is high, PLINK set-based tests are more relevant in the current study where we are more interested in joint effects of multiple SNPs with moderate effects.
+0	NA	NA	NA	METHODS	PLINK performs a single SNP association analysis for each gene accounting for the covariates.
+0	NA	NA	NA	METHODS	A mean SNP statistic is calculated from the significant and independent set of SNPs under the defined p value and LD threshold setting.
+0	NA	NA	NA	METHODS	The empirical p value for the gene is calculated after repeated analysis in simulated datasets with permutation of the phenotype.
+0	NA	NA	NA	METHODS	The empirical p value indicates the number of times the test statistics of the simulated gene exceed that of the original gene.
+0	NA	NA	NA	METHODS	Gene with empirical p value < 2.5 x 10-6, a Bonferroni-corrected threshold (  0.05/19,621), was considered significant accounting for multiple testing corrections.
+0	NA	NA	NA	METHODS	The parameters in PLINK set-based test for the current study were set at p (p value threshold for selection of SNPs from a single SNP association) < 0.05, LD r2 (pair-wise correlation between two SNPs) < 0.5, mperm (number of permutation) = 10,000, and set-max (max number of SNPs in a gene) = 99,999
+0	pain	NA	NA	METHODS	To identify which biological terms/functions are specifically enriched with post-RT pain, we conducted pathway analysis of the GWAS results.
+0	NA	NA	NA	METHODS	The Kyoto Encyclopedia of Genes and Genomes (KEGG) and Gene Ontology (GO) terms were used for functional annotation and enrichment analyses.
+0	NA	NA	NA	METHODS	In total, 530 pathways with minimum gene size >= 5 were analyzed since small pathways can exhibit spurious associations due to large single locus effects.
+0	NA	NA	NA	METHODS	A total of 875 genes having p < 0.05 in PLINK gene-based association analyses were selected for pathway analysis.
+0	NA	NA	NA	METHODS	Modified Fisher's exact tests were performed using the web-based gene-enrichment analysis tool, the Database for Annotation, Visualization and Integrated Discovery (DAVID, https://david.ncifcrf.gov/) v6.8, and a pathway with the false discovery rate (FDR) < 0.05 after accounting for multiple testing was considered significant
+0	NA	NA	NA	RESULTS	The study population across two datasets consisted of 401 Hispanic Whites (HW, 36%), 357 non-Hispanic Whites (NHW, 32%), 296 black or African Americans (AA, 27%), and 58 of other races (5%).
+0	obese	NA	NA	RESULTS	Mean (+-SD) age at the time of enrollment was 57.4 +- 10.5 years (range 23.5 - 88.9) and 77% of patients were overweight or obese.
+0	NA	NA	NA	RESULTS	86% of patients received post-lumpectomy RT, and 14% had post-mastectomy RT.
+0	NA	NA	NA	RESULTS	They were treated with a mean of 58.6 +- 5.7 Gy radiation dose to either the whole breast or the chest wall
+0	pain	NA	NA	RESULTS	A total of 326 (29%) patients showed clinically relevant post-RT pain.
+0	NA	NA	NA	RESULTS	Patient-, tumor-, and treatment-related factors that may be related to post-RT pain were compared between case and reference groups (Table 1).
+0	obese	NA	NA	RESULTS	Those who were AA or HW women, younger, obese, ever smoked, had comorbidities >= 2, had received mastectomy, conventionally fractionated RT, and whose pre-RT pain score >= 4 were more likely to report post-RT pain
+0	pain	NA	NA	FIG	Manhattan plot for post-RT pain among breast cancer patients.
+0	NA	NA	NA	FIG	This figure shows the p values of the SNPs after applying the additive genetic model in the multivariable logistic regression model by genomic location.
+0	NA	NA	NA	FIG	No region exceeded genome-wide significance in the sample.
+0	NA	NA	NA	FIG	Red line indicates genome-wide significance level of 5 x 10-8 and blue line indicates suggestive level of significance of 1 x 10-
+0	pain	NA	NA	TABLE	Top 30 SNPs from genome-wide association study of post-RT pain among breast cancer patient
+0	NA	NA	NA	RESULTS	Genome-wide single SNP associations were conducted with 1,344,832 SNPs that passed quality control.
+0	NA	NA	NA	RESULTS	The Q-Q plot (Additional File 1: Fig.
+0	NA	NA	NA	RESULTS	S1) showed no evidence for test statistic inflation due to population substructure (inflation factor 1.016).
+0	NA	NA	NA	RESULTS	None of SNPs achieved a genome-wide significance level of p < 5 x 10-8 (Fig.
+0	NA	NA	NA	RESULTS	1).
+1	pain	RFFL	rs16970540	RESULTS	Four SNPs showed associations with post-RT pain at the marginal significance level of p < 1 x 10-5; rs16970540 in ring finger and FYVE-like domain containing E3 ubiquitin protein ligase (RFFL) or near to DNA ligase 3 (LIG3) gene (p = 1.7 x 10-6), rs4584690, and rs7335912 in ATP-binding cassette, sub-family A, member 4 (ABCC4)/multidrug resistance protein 4 (MRP4) gene (p = 5.5 x 10-6 and p = 7.8 x 10-6, respectively), and rs73633565 in epidermal growth factor-like protein 6 (EGFL6) gene (p = 8.1 x 10-6).
+0	NA	NA	NA	RESULTS	The top 30 significant SNPs are summarized in Table 2.
+1	pain	NA	rs16970540	RESULTS	For rs16970540, those who had at least one minor T allele were 2.2 times more likely to have post-RT pain compared to those who had C allele (95% CI = 1.59 - 3.04)
+0	pain	NA	NA	TABLE	Top 30 genes from PLINK-set based test of post-RT pain among breast cancer patient
+0	NA	NA	NA	RESULTS	To identify potential risk genes consisting of multiple SNPs with a modest functional effect, we performed gene-based association analyses using PLINK set-based tests, and the results are listed in Table 3.
+0	NA	NA	NA	RESULTS	None of them reached our Bonferroni significance threshold of p < 2.5 x 10-6.
+0	NA	EIF4G1	NA	RESULTS	However, seven genes showed suggestive evidence of association with p < 5.0 x 10-4: EIF4G1, FAM131A, GRID2IP, NMUR2, OR10V1, CYP4F22, and LECT1
+0	pain	NA	NA	TABLE	Top pathways enriched in patients with post-RT pain in breast cancer patients from DAVID functional annotation module analysi
+0	NA	NA	NA	RESULTS	To interpret a gene list derived from gene-based analysis, functional enrichment analysis was performed using bioinformatics tool, DAVID, and results are shown in Table 4.
+0	pain	NA	NA	RESULTS	Thirteen biological pathways were enriched with post-RT pain in breast cancer patients (FDR-adjusted p value < 0.05).
+0	NA	NA	NA	RESULTS	These 13 biological pathways were then clustered into two groups: glucuronidation activity and olfactory receptor activity (enrichment score 4.60 and 3.41, respectively).
+0	pain	NA	NA	RESULTS	These biological activities included xenobiotic and drug metabolism, ascorbate and aldarate metabolism, and olfactory signal transduction, suggesting their roles in underlying mechanisms of post-RT pain
+0	pain	NA	NA	DISCUSS	This study reported results of the first GWAS of acute post-RT pain in breast cancer patients who had undergone adjuvant RT after surgery.
+0	pain	NA	NA	DISCUSS	Although no individual association reached genome-wide significance, collectively our results suggest genetic involvement in acute post-RT pain.
+0	NA	NA	NA	DISCUSS	These results, like all large-scale agnostic search for genetic associations, need validation.
+0	pain	NA	NA	DISCUSS	At the completion of RT, about 29% of patients reported having clinically relevant pain; of this subset, 30% reported moderate or severe levels of pain at pre-RT, while 70% had no or mild pain at pre-RT.
+0	pain	NA	NA	DISCUSS	The most significant factor associated with post-RT pain was the presence of pre-RT pain, which is in line with literature reporting that prior pain is the most significant prognostic factor for pain persistence.
+0	pain	NA	NA	DISCUSS	Besides pre-RT pain, other potential risk factors identified from multivariable regression analyses were included as covariates in the subsequent genetic association analyses to control for confounding effects.
+0	NA	NA	NA	DISCUSS	We conducted gene-based association analyses and functional enrichment analyses to identify additional loci complementary to GWAS.
+0	pain	NA	NA	DISCUSS	We identified four suggestive susceptibility loci from GWAS, seven suggestive genes from gene-level analysis, and two significantly enriched functional pathways associated with post-RT pain
+1	pain	NA	rs16970540	DISCUSS	First, we reported four suggestive susceptibility loci for post-RT pain, rs16970540 (17q12), rs4584690 (13q32.1), rs7335912 (13q32.1), and rs73633565 (Xp22.2) proximal to three genes.
+1	NA	RFFL	rs16970540	DISCUSS	The most significant marker, rs16970540, is mapped to the 3'-untranslated region (UTR) of RFFL gene or close to LIG3 in chromosome 17.
+0	NA	RFFL	NA	DISCUSS	RFFL encodes a protein that regulates several biological processes through the ubiquitin-mediated proteasomal degradation of various target proteins.
+0	NA	RFFL	NA	DISCUSS	In the context of irradiation, RFFL negatively regulates p53/tumor protein 53 (TP53), the expression of which can be activated by radiation, directly, or indirectly through its ubiquitination.
+0	NA	p53	NA	DISCUSS	The loss of TP53 function was related to sensitivity to ionizing radiation.
+0	NA	NA	NA	DISCUSS	The fraction of p53-positive fibroblasts was significantly higher in cultures from RT-sensitive patients compared to RT-resistant patients after in vitro irradiation.
+0	NA	RFFL	NA	DISCUSS	Thus, RFFL can mediate radiation sensitivity via regulation of TP53.
+1	NA	LIG3	NA	DISCUSS	On the other hand, LIG3 encodes a protein that catalyzes the joining of DNA ends and is involved in DNA replication, recombination, and repair.
+1	NA	LIG3	NA	DISCUSS	LIG3 corrects defective DNA strand-break repair and sister chromatid exchange following RT through base excision repair and alternative non-homologous end-joining pathways.
+1	breast skin toxicity	LIG3	rs3744355	DISCUSS	Polymorphisms near the LIG3 gene (rs3744355, rs2074518, and rs3744357) have been reported to be associated with acute breast skin toxicity following RT both in a Japanese cohort (n = 399) and a European Caucasian cohort (n = 480).
+0	breast skin toxicity	NA	NA	DISCUSS	It is possible that acute skin toxicity may lead to acute post-RT pain.
+1	pain	LIG3	NA	DISCUSS	Thus, LIG3 gene may not be specific to pain, and they can rather be applied to a more common genetic susceptibility to acute RT-induced normal tissue toxicities
+1	NA	NA	rs4584690	DISCUSS	The next significant markers, rs4584690 and rs7335912, were mapped to ABCC4/MRP4 gene, and three additional signals from the list of top 30 SNPs were also mapped to this gene.
+0	NA	NA	NA	DISCUSS	The Manhattan plot shows a stack of points in chromosome 13 (Fig.
+1	pain	NA	NA	DISCUSS	1), which implies a possible haploblock structure and suggests a potential strong association of ABCC4/MRP4 with post-RT pain.
+0	NA	NA	NA	DISCUSS	The range of pair-wise LD among five SNPs was 0.89-1.00 in CEU population according to the SNAP (https://data.broadinstitute.org/mpg/snpsnap/match_snps.html) (Additional File 2: Fig.
+0	NA	NA	NA	DISCUSS	S2).
+1	NA	NA	NA	DISCUSS	ABCC4/MRP4 encodes a protein that is a member of ATP-binding cassette (ABC) transporter superfamily as well as a member of multidrug resistance-associated proteins (MRPs).
+1	pain	NA	NA	DISCUSS	ABCC4/MPR4 transports most prostaglandins (PGs), which can sensitize spinal neurons to pain.
+1	NA	NA	NA	DISCUSS	In an animal study with mrp4-knockout mice, Lin et al.
+1	NA	mrp4	NA	DISCUSS	showed that a deficiency of mrp4 function led to a significant reduction of extracellular PG levels and consequent altered inflammatory nociceptive responses via modulating cAMP-mediated signaling pathway.
+1	pain	ABCC4	rs9524885	DISCUSS	In a human candidate gene approach study, ABCC4 rs9524885 has been associated with reduced pain among patients with non-small cell lung cancer
+1	NA	v4.1	rs16970540	DISCUSS	Additionally, we searched gene regulation databases using HaploReg v4.1 (https://pubs.broadinstitute.org/mammals/haploreg/haploreg.php) to explore the potential roles of SNPs rs16970540, rs4584690, rs7335912, and rs73633565 as expression quantitative trait loci (eQTLs); rs16970540 exhibited direct eQTL effects (in total 19 hits) in regulating expressions of LIG3 in 12 tissues including blood, skin, nerve, and breast mammary tissues.
+1	NA	LIG3	rs16970540	DISCUSS	According to GTEx Portal (https://www.gtexportal.org/home/), for instance, those who were heterozygous (CT) or homozygous (TT) for the minor allele of rs16970540 showed higher expression of LIG3 in breast tissue compared to those homozygous (CC) for the reference allele (OR = 2.63 per allele, p = 5.1 x 10-8)
+0	pain	EIF4G1	NA	DISCUSS	In gene-based association analyses, we found seven susceptibility genes for post-RT pain: EIF4G1, FAM131A, GRID2IP, NMUR2, OR10V1, CYP4F22, and LECT1.
+0	pain	cytochrome P450	NA	DISCUSS	This suggests the involvement of neurotransmitters, olfactory receptor genes, and cytochrome P450 in post-RT pain.
+0	Inflammation Laboratory's JDRF	NMUR2	NA	DISCUSS	Among these genes, Neuromedin U Receptor 2 (NMUR2) has been found to have a role in nociception and inflammation.
+0	NA	NMUR2	NA	DISCUSS	NMUR2 encodes a receptor protein for Neuromedin, which is a neuropeptide that is widely distributed in the central nervous system.
+0	NA	Neuromedin U	NA	DISCUSS	Neuromedin U receptors are a group of Gq/11-protein-coupled receptors.
+0	NA	NA	NA	DISCUSS	In animal studies, NMUR2-null mice showed a reduced thermal nociceptive response in the hot plate tests and a significant reduction in acute chemo-nociception following capsaicin or formalin injection, by inhibiting T-type Ca2+ channel currents via pertussis toxin-sensitive protein kinase A pathway in a dose-dependent manner in mouse small dorsal root ganglion neurons.
+0	allergy	NMUR2	NA	DISCUSS	However, one recent study reported that NMUR2 did not play a role in the development of mechanical hypersensitivity following nerve injury by showing that there were no significant differences in heat hyperalgesia between wild-type and NMUR2-null mice.
+0	allergy	NMUR2	NA	DISCUSS	Further studies are needed to confirm the involvement of NMUR2 in mechanical hypersensitivity in humans, including patients with cancer
+0	pain	NA	NA	DISCUSS	To date, several genome-wide association studies of pain have been reported.
+0	pain	NA	NA	DISCUSS	According to the NHGRI-EBI GWAS Catalog, a total of eight studies reported 30 SNPs associated with any pain.
+0	NA	NA	NA	DISCUSS	Among these eight studies, four studies reported nine SNPs reaching a genome-wide significance (p values <= 5 x 10-8), while the other four studies identified suggestive susceptibility loci with p values <= 5 x 10-6.
+0	NA	NA	NA	DISCUSS	In 2013, Kim et al.
+0	pain	ZNF429	rs2562456	DISCUSS	reported the first GWAS of pain that identified rs2562456 in ZNF429 gene to be significantly associated with acute post-surgery pain (N = 112; p = 2.0 x 10-10).
+0	pain	CCT5	rs13361160	DISCUSS	In 2013, a large study with 7099 Europeans reported another genome-wide significant SNP, rs13361160 in CCT5 gene for widespread pain (p = 1.2 x 10-8).
+0	NA	NA	NA	DISCUSS	However, this significance was attenuated when it was combined with the replication sample of 9469 Europeans (p = 4.7 x 10-7)
+0	NA	NA	NA	DISCUSS	In 2016, Reyes-Gibby et al.
+0	pain	NA	rs3862188	DISCUSS	reported another genome-wide significant SNP, rs3862188 in RP11-634B7.4 gene for severe pre-treatment pain in head and neck cancer patients (N = 1368; p = 3 x 10-8).
+0	NA	NA	NA	DISCUSS	Reyes-Gibby et al.
+0	neuropathic pain	NA	rs10950641	DISCUSS	identified 2 years later additional four SNPs which had statistically significant associations with neuropathic pain in head and neck cancer patients (N = 1043; rs10950641, p = 3 x 10-14; rs4804217, p = 3 x 10-9; rs6796803, p = 6 x 10-9; rs4775319, p = 1 x 10-8).
+0	pain	NA	NA	DISCUSS	These findings suggest that statistical power may increase when GWAS targets specific types of pain such as neuropathic pain.
+0	NA	NA	NA	DISCUSS	Another approach to increase statistical power would be a meta-analysis.
+0	chronic back pain	NA	rs12310519	DISCUSS	A recent study of meta-analysis of individual data from 15 cohorts (N = 158,000) reported three SNPs significantly associated with chronic back pain (rs12310519, p = 5 x 10-19; rs7833174, p = 4 x 10-13; rs4384683, p = 2 x 10-10).
+0	pain	CD3E	NA	DISCUSS	Susceptibility genes identified previously for any type of pain traits included CD3E, HMGB1P46, C5, DDC, DIS3L2, ESRRG, GFRA2, DOK2, GPD2, IL1R1, LCLAT1, MCM3, PRKCA, RORA, SNX8, SOX5, TESC, and ZSCAN20.
+0	NA	NA	NA	DISCUSS	None of these genes reached the pre-defined significance level of p < 2.5 x 10-6 in our study
+0	pain	NA	NA	DISCUSS	We identified 13 enriched biological pathways for post-RT pain, which were clustered into two groups by DAVID functional annotation module: glucuronidation and olfactory receptor activities.
+0	NA	NA	NA	DISCUSS	Glucuronidation activity is involved in detoxification and xenobiotic metabolism of substances such as drugs, bilirubin, and fatty-acid derivatives.
+0	NA	NA	NA	DISCUSS	Glucuronidation transfers glucuronic acid component of uridine diphosphate (UDP)-glucuronic acid to a substrate by UDP-glucuronosyltransferase to make substances more water-soluble, so they can be excreted from body or less toxic.
+0	NA	NA	NA	DISCUSS	The ascorbate and aldarate metabolism pathway include glucuronidation in the upstream processes of ascorbate synthesis.
+0	NA	NA	NA	DISCUSS	Ascorbate, which is well known as vitamin C, plays a critical role as an antioxidant in many biological processes such as detoxification of exogenous compounds.
+0	pain	NA	NA	DISCUSS	Vitamin C has a beneficial effect on pain relief in different pain conditions including cancer pain by decreasing oxidative stress and/or inflammation, which can both be caused by anti-cancer treatments.
+0	pain	NA	NA	DISCUSS	Ascorbate also functions as a cofactor for a family of enzymes involved in the biosynthesis of neurotransmitters and neuropeptide hormones that can modulate pain transmission
+0	pain	OR10V1	NA	DISCUSS	Olfactory receptor activity can be aligned with our findings of OR10V1 as one of the genes associated with post-RT pain.
+0	NA	OR52N1	NA	DISCUSS	We also found three additional olfactory receptor genes (OR52N1, OR4C12, OR4A47) included in the top 30 genes.
+0	NA	NA	NA	DISCUSS	Recently, Reyes-Gibby et al.
+0	pain	NA	NA	DISCUSS	have reported that genetic variants in RP11-634B7.4 gene, which is annotated as antisense to the three olfactory receptor genes, OR13G1, OR6F1, and OR14A2, were significantly associated with severe pre-treatment pain among patients with head and neck cancer at genome-wide significance levels.
+0	Inflammation Laboratory's JDRF	NA	NA	DISCUSS	The olfactory receptors are members of G-protein-coupled receptors, which are involved in signal transduction and play important roles in many physiological processes including sensory perception, regulation of behavior and mood, regulation of immune system activity and inflammation, and tumor growth and metastasis.
+0	pain	MAPK1	NA	DISCUSS	The authors speculated that olfactory receptor genes may be involved in pain pathway via activating downstream mitogen-activated kinases (MAPK) signaling pathway, by linking to their previous finding of MAPK1/ERK2 as a novel target gene for cancer pain.
+0	cancer pain	MAPK1	NA	DISCUSS	In fact, there have been many animal experiments to modulate neuropathic cancer pain by inhibiting MAPK signaling pathway using upstream effectors, such as R419, adenosine monophosphate-activated protein kinase activator, and bisphosphonates.
+0	cancer pain	MAPK1	NA	DISCUSS	Considering that majority of breast cancer pain is neuropathic in nature, the investigation of a functional mechanism which connects olfactory receptors, MAPK pathway, and pain perception in breast cancer patients may seem worthwhile.
+0	NA	NA	NA	DISCUSS	More studies in larger populations are needed to validate our findings
+0	NA	NA	NA	DISCUSS	This study has several strengths and limitations.
+0	pain	NA	NA	DISCUSS	To the best of our knowledge, this is the first report of GWAS of post-RT pain among breast cancer patients of different race and ethnicity.
+0	NA	NA	NA	DISCUSS	Considering that majority of GWAS data currently available are for NHW, the results from diverse race/ethnic background have more potential for generalizability.
+0	pain	NA	NA	DISCUSS	Second, the ascertainment of outcome variables was relatively homogeneous compared to large consortium-based studies because we obtained self-reported pain severity data using the same questionnaires from all participating centers.
+0	NA	NA	NA	DISCUSS	The first limitation of this study is the relatively small sample size, which might have limited the statistical power of the analysis.
+1	NA	NA	rs16970540	DISCUSS	Based on our findings of rs16970540, with minor allele frequency of 0.1, OR of 2.2, and type 1 error rate of 5 x 10-8, we had only 17% statistical power to be able to reject the null hypothesis.
+0	NA	NA	NA	DISCUSS	We will need 694 cases and 1673 controls to have at least 80% of statistical power.
+0	NA	NA	NA	DISCUSS	So, a larger joint GWAS with multiple cohorts is warranted to validate our findings.
+0	pain	NA	NA	DISCUSS	In addition to limited statistical power, the failure of GWAS may be attributed to the complex nature of the phenotype, post-RT pain, we evaluated.
+0	pain	NA	NA	DISCUSS	Pain is a more complex functional end-point, which is affected by multiple genes within a pathway rather than a simple Mendelian disease.
+0	pain	NA	NA	DISCUSS	We employed gene-based association analyses and pathway-based analyses to increase statistical power as well as to find additional genetic loci underlying molecular mechanisms of post-RT pain.
+0	NA	NA	NA	DISCUSS	Another limitation would be the lack of replication with an independent dataset
+0	pain	NA	NA	CONCL	In the current study, we conducted GWAS, gene-based association analyses, and pathway-based functional enrichment analyses to evaluate the genetic risk loci for acute post-RT pain among breast cancer patients.
+1	pain	LIG3	NA	CONCL	We identified two biological processes, glucuronidation activity and olfactory receptor activity, in addition to the potential role of LIG3, ABCC4/MPR4, and EGFL6 from GWAS, were involved in post-RT pain, which showed that post-RT pain is a polygenic trait.
+0	pain	NA	NA	CONCL	Post-RT pain can be affected by DNA damage/repair, transporter and receptor activity in signal transduction, and cellular detoxification via glucuronidation activity.
+0	pain	NA	NA	CONCL	Larger studies are warranted to validate our findings to facilitate the discovery of underlying genetic/molecular mechanisms of pain related to cancer treatments.
+0	cancer pain	NA	NA	CONCL	The results can ultimately contribute to the development of prevention and/or intervention strategies to improve cancer pain management and QOL in cancer patients
+0	NA	NA	NA	AUTH_CONT	EL, CT, JLW, ERM, JJU, CDL, GJL, EGS, and JJH designed the study.
+0	NA	NA	NA	AUTH_CONT	CT, JLW, JJU, and EGS developed the methodology of patient enrollment.
+0	NA	NA	NA	AUTH_CONT	EL, CT, JLW, JJU, EGS, and JJH collected data.
+0	NA	NA	NA	AUTH_CONT	EL, SHS, and ERM conducted the analysis and EL, ERM, and JJH interpreted results.
+0	NA	NA	NA	AUTH_CONT	EL and JJH drafted the manuscript.
+0	NA	NA	NA	AUTH_CONT	All authors reviewed and commented on the manuscript.
+0	NA	NA	NA	AUTH_CONT	All authors approved the final manuscript
+0	cancers	NA	NA	ACK_FUND	This study was supported by the National Cancer Institute grants: R01CA135288 (to JJH) and U10CA081857 (to GJL and EGS); the University of Miami Fuente Cancer Pain Pre-doctoral fellowship (to EL); and the University of Central Florida start-up funds (to EL)
+0	NA	NA	NA	METHODS	The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request
+0	NA	NA	NA	METHODS	All women participated in the study provided written informed consent.
+0	NA	NA	NA	METHODS	The present study was approved by the Institutional Review Boards of the University of Miami, the Jackson Memorial Hospital, and the Wake Forest Research Base Community Clinical Oncology Programs

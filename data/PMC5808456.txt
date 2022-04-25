@@ -1,0 +1,236 @@
+0	breast cancer	ER	NA	ABSTRACT	Most common breast cancer susceptibility variants have been identified through genome-wide association studies (GWAS) of predominantly estrogen receptor (ER)-positive disease.
+0	breast cancer	NA	NA	ABSTRACT	We conducted a GWAS using 21,468 ER-negative cases and 100,594 controls combined with 18,908 BRCA1 mutation carriers (9,414 with breast cancer), all of European origin.
+0	NA	NA	NA	ABSTRACT	We identified independent associations at P < 5 x 10-8 with ten variants at nine new loci.
+0	NA	NA	NA	ABSTRACT	At P < 0.05, we replicated associations with 10 of 11 variants previously reported in ER-negative disease or BRCA1 mutation carrier GWAS and observed consistent associations with ER-negative disease for 105 susceptibility variants identified by other studies.
+0	cancers	NA	NA	ABSTRACT	These 125 variants explain approximately 14% of the familial risk of this breast cancer subtype.
+0	breast cancer	NA	NA	ABSTRACT	There was high genetic correlation (0.72) between risk of ER-negative breast cancer and breast cancer risk for BRCA1 mutation carriers.
+0	breast cancer	NA	NA	ABSTRACT	These findings may lead to improved risk prediction and inform further fine-mapping and functional work to better understand the biological basis of ER-negative breast cancer
+0	breast cancer	NA	NA	INTRO	GWAS have identified 107 SNPs that are independently associated with breast cancer risk.
+0	NA	NA	NA	INTRO	Association studies focused on ER-negative disease, or BRCA1 mutation carriers, who are more likely to develop ER-negative disease (70-80% of cases), have identified 11 of these SNPs.
+0	breast cancer	NA	NA	INTRO	We aimed to discover additional susceptibility variants for ER-negative breast cancer by performing a GWAS in women of European origin
+0	breast cancer	NA	NA	INTRO	New genotyping data were generated for 9,655 ER-negative cases and 45,494 controls from 68 Breast Cancer Association Consortium (BCAC) studies and 15,566 BRCA1 mutation carriers (7,784 with breast cancer) from 58 Consortium of Investigators of Modifiers of BRCA1/2 (CIMBA) studies (Supplementary Tables 1 and 2) using the Illumina OncoArray BeadChip, a 570,000-SNP custom array with genome-wide coverage.
+0	NA	NA	NA	INTRO	Imputation was used to derive estimated genotypes for ~21 million SNPs, using the 1000 Genomes Project (Phase 3) as the reference; ~11.5 million of these SNPs with imputation r2 >0.3 and minor allele frequency (MAF) >0.005 were included in further analyses.
+0	NA	NA	NA	INTRO	For BCAC data, we estimated per-allele odds ratios (ORs) using logistic regression, adjusting for country and principal components.
+0	breast cancer	NA	NA	INTRO	For CIMBA data, we estimated per-allele hazard ratios (HRs) using a retrospective cohort analysis framework, modeling time to breast cancer and stratifying by country, Ashkenazi Jewish origin and birth cohort (Online Methods).
+0	breast cancer	NA	NA	INTRO	These analyses were also applied to an independent set of previously generated data from other genome-wide genotyping of additional European participants in 44 BCAC studies (11,813 ER-negative cases and 55,100 controls) and 54 CIMBA studies (3,342 BRCA1 mutation carriers, 1,630 with breast cancer) (Supplementary Tables 1 and 2).
+0	NA	NA	NA	INTRO	Fixed-effects meta-analysis was used to combine results across genotyping initiatives within consortia and, assuming that the odds ratio and hazard ratio estimates approximate the same underlying relative risk, across consortia
+0	NA	NA	NA	INTRO	Results from the combined meta-analysis are summarized in Supplementary Figures 1 and 2.
+0	NA	NA	NA	INTRO	There was minimal inflation of test statistics (lambda1,000 = 1.004; Supplementary Fig.
+0	NA	NA	NA	INTRO	3).
+0	breast cancer	NA	NA	INTRO	We identified ten variants at nine new loci that were independently associated with risk of ER-negative breast cancer at P < 5 x 10-8 (Table 1, Supplementary Figs.
+0	NA	NA	NA	INTRO	4-11 and Supplementary Table 3).
+1	NA	NA	rs74911261	INTRO	Two independent signals were observed within 12 kb of each other at 11q22.3, for rs74911261 (MAF = 0.02) and rs11374964 (MAF = 0.42); odds ratio estimates and statistical significance were largely unchanged when each variant was adjusted for the other (Supplementary Table 4).
+0	NA	BRCA1	rs66823261	INTRO	The association with rs66823261 at 8p23.3 was not observed for BRCA1 mutation carriers (P = 0.32, P value for heterogeneity (Phet) = 0.030)
+0	NA	NA	NA	INTRO	For each of these ten new signals, we identified candidate causal SNPs analytically (Online Methods) and combined multiple sources of in silico functional annotation from public databases to identify likely functional variants and target genes.
+0	NA	NA	NA	INTRO	Results are summarized in Figure 1, Supplementary Table 5 (including UCSC Genome Browser links; also see the Supplementary Note) and Supplementary Figures 4-11 (data sources in Supplementary Table 6).
+0	NA	NA	NA	INTRO	Many candidate causal SNPs lie in predicted regulatory regions and are associated with expression of nearby genes in blood or other tissues.
+1	NA	ADCY3	NA	INTRO	At 2p23, the predicted target genes include ADCY3 and NCOA1 (Supplementary Fig.
+0	NA	NA	NA	INTRO	4).
+0	NA	NA	NA	INTRO	At 6q23.1 (Supplementary Fig.
+1	NA	L3MBTL3	NA	INTRO	5), the most plausible target gene is L3MBTL3 (ref.
+0	NA	NA	NA	INTRO	).
+0	breast cancer	FBXO32	NA	INTRO	A predicted target at 8q24.13 is FBXO32, which is expressed in ER-negative human mammary epithelial cells (HMECs) but not ER-positive MCF7 breast cancer cells (Supplementary Fig.
+0	Cachexia	NA	NA	INTRO	7) and has a known role in cancer cachexia.
+0	NA	NA	NA	INTRO	At 11q22.3 (Fig.
+0	NA	NPAT	NA	INTRO	1), a predicted target gene of common risk-associated variants is NPAT.
+0	breast cancer	ATM	NA	INTRO	The rarer SNPs underlying the other 11q22.3 signal are predicted to target ATM, a known breast cancer susceptibility gene.
+1	NA	ATM	NA	INTRO	Three rare coding variants (MAF <= 0.03) in ATM, NPAT and KDELC2 are also among the candidate causal SNPs at this locus.
+1	NA	ADCY9	NA	INTRO	At 16p13, predicted target genes include ADCY9 and CREBBP (Supplementary Fig.
+0	NA	NA	NA	INTRO	8).
+0	NA	NA	NA	INTRO	At 19q12 (Supplementary Fig.
+1	NA	CCNE1	NA	INTRO	11), a potential target gene (CCNE1) encodes cyclin E1, which is involved in cell cycle control and phosphorylation of NPAT
+0	breast cancer	NA	NA	INTRO	Expression quantitative trait locus (eQTL) associations were assessed for each candidate causal variant and genes within 1 Mb using 79 ER-negative breast tumors from The Cancer Genome Atlas (TCGA) and 135 normal breast tissue samples from the Molecular Taxonomy of Breast Cancer International Consortium (METABRIC).
+1	NA	L3MBTL3	rs6569648	INTRO	The strongest associations identified were for rs6569648 at 6q23.1 with L3MBTL3 (P = 4.3 x 10-6) and for rs12965632 at 18q12.1 with CDH2 (P = 1.0 x 10-4), both in METABRIC (Supplementary Table 5).
+1	NA	L3MBTL3	rs6569648	INTRO	SNP rs6569648 was the top cis-eQTL (of all imputed variants within 1 Mb) for L3MBTL3, while the P value for the eQTL effect of rs12965632 on CDH2 was within two orders of magnitude of those for the top cis-eQTLs for this gene (Supplementary Figs.
+0	NA	NA	NA	INTRO	12 and 13)
+0	breast cancer	NA	NA	INTRO	For 10 of the 11 variants previously identified through GWAS of ER-negative disease or overall disease for BRCA1 mutation carriers or reported as more strongly associated with ER-negative breast cancer, associations with ER-negative disease were replicated (P < 0.05) using OncoArray data from BCAC, which do not overlap with any of the discovery studies (Table 2).
+0	NA	NA	NA	INTRO	Effect sizes were generally similar to those originally reported.
+0	breast cancer	BRCA1	NA	INTRO	Using all available CIMBA data, 6 of these 11 variants were associated with breast cancer risk (P < 0.05) for BRCA1 mutation carriers (Table 2).
+0	NA	NA	rs2284378	INTRO	No evidence of association was observed for rs2284378 at 20q11 (ref. )
+0	NA	NA	NA	INTRO	in either BCAC or CIMBA (P >= 0.46)
+1	NA	ER	rs322144	INTRO	On the basis of odds ratios estimated using BCAC data for all cases with known ER status (16,988 ER negative and 65,275 ER positive), all ten new and ten previously reported and replicated susceptibility SNPs for ER-negative disease were more strongly associated with risk of the ER-negative subtype than the ER-positive subtype (Phet < 0.05, except for the new signal for rs322144 at 19p13.2; Supplementary Table 7).
+1	NA	NA	rs4245739	INTRO	Two variants (rs4245739 at 1q32.1 and rs67397200 at 19p13.11) were not associated with ER-positive disease.
+1	NA	NA	rs11374964	INTRO	For four variants (rs11374964 (11q22.3), rs74911261 (11q22.3), rs6678914 (1q32.1) and rs4577244 (2p23.2)), the risk-associated allele for ER-negative disease was associated with reduced risk of ER-positive disease (P < 0.05)
+0	breast cancer	NA	NA	INTRO	For these 20 susceptibility SNPs for ER-negative breast cancer, we also assessed association by triple-negative status (negative for ER, progesterone receptor and HER2; Table 3), tumor grade (Table 4) and age at diagnosis (Supplementary Table 8) using BCAC data only.
+1	cancers	NA	rs11374964	INTRO	Five SNPs, including the new susceptibility variants at 11q22.3 (rs11374964 and rs74911261), were more strongly associated with both risk of triple-negative disease and risk of higher-grade disease (P < 0.05); however, after adjustment for triple-negative status, heterogeneity in effect by tumor grade was observed only for the variants at 11q22.3 (rs74911261) and 1q32.1 (rs4245739) (P < 0.05).
+1	cancers	NA	rs4577244	INTRO	For rs4577244 at 2p23.3, heterogeneity was observed for tumor grade only, while rs2747652 at 6q25.2 was more strongly associated with risk of other (non-triple-negative) ER-negative breast cancer subtypes (P < 0.05).
+1	NA	NA	rs10069690	INTRO	At younger ages at diagnosis, associations appeared to be stronger for two variants (rs10069690 (5p15.33) and rs67397200 (19p13.11)) and weaker for one (rs2747652 (6q25.2)) (P < 0.05)
+0	breast cancer	NA	NA	INTRO	Elsewhere, we report 65 new susceptibility loci for overall breast cancer.
+1	NA	NA	rs200648189	INTRO	Three of these are located within 500 kb of the new susceptibility loci for ER-negative disease reported here (variants rs200648189 (2p23.3), rs6569648 (6q23.1) and rs17350191 (8q24.13)).
+0	breast cancer	NA	NA	INTRO	We assessed associations with risk of ER-negative disease, and with risk of overall breast cancer for BRCA1 mutation carriers, for SNPs at the remaining 62 loci, as well as for the 96 previously reported breast cancer susceptibility variants that were not specific to ER-negative disease.
+0	breast cancer	NA	NA	INTRO	Of these 158 SNPs, 105 were associated (P < 0.05) with risk of ER-negative breast cancer and 24 were associated with overall risk for BRCA1 mutation carriers (Supplementary Tables 9 and 10).
+0	NA	BRCA2	NA	INTRO	Results for BRCA2 mutation carriers are presented in Supplementary Table 11
+0	NA	NA	NA	INTRO	Pathway analysis based on mapping each SNP to the nearest gene was performed using summary association statistics from the meta-analysis of BCAC and CIMBA data combined (Online Methods).
+0	NA	NA	NA	INTRO	This identified several pathways implicated in ER-negative disease (enrichment score (ES) >= 0.41; Supplementary Fig.
+0	NA	NA	NA	INTRO	14 and Supplementary Tables 12 and 13), including a subset of pathways that were not enriched in susceptibility to ER-positive disease (ES < 0; Supplementary Table 14).
+0	NA	NA	NA	INTRO	One of the latter subsets was the adenylate cyclase (AC)-activating pathway (ES = 0.62; Supplementary Fig.
+0	NA	NA	NA	INTRO	15).
+1	breast cancer	NA	NA	INTRO	Two of the predicted target genes for the ten new susceptibility variants for ER-negative breast cancer, based on the eQTL analysis (Supplementary Table 5), ADCY3 (PTCGA = 6.7 x 10-3) and ADCY9 (PMETABRIC = 1.3 x 10-4), are part of this pathway, and their association signals were critical to the elevated enrichment scores observed (Supplementary Fig.
+0	NA	NA	NA	INTRO	14).
+1	breast cancer	ADCY9	NA	INTRO	ADCY9 is stimulated by beta2 adrenergic receptor (beta2AR) signaling in ER-negative breast cancer and in turn drives AC-cAMP signaling, including, for example, mitogenic signaling through the beta-arrestin-Src-ERK pathway
+0	breast cancer	NA	NA	INTRO	To further explore the functional properties of the genome that contribute to heritability of ER-negative breast cancer, we conducted a partitioned heritability analysis using linkage disequilibrium (LD) score regression.
+0	NA	NA	NA	INTRO	Considering 52 'baseline' genomic features, we observed the greatest enrichment for super-enhancers (2.5-fold, P = 2 x 10-7) and the H3K4me3 histone mark (2.4-fold, P = 0.0005), with 33% depletion (P = 0.0002) observed for repressed regions (Supplementary Table 15).
+0	breast cancer	NA	NA	INTRO	No differences in enrichment for these features were observed between susceptibility to ER-negative and ER-positive breast cancer, but baseline genomic features are not specific to cell type.
+0	breast cancer	NA	NA	INTRO	The estimated correlation between ER-negative and ER-positive breast cancer based on ~1 million common genetic variants was 0.60 (standard error (SE) = 0.03), indicating that, although these two breast cancer subtypes have a shared genetic component, a substantial proportion of their genetic bases is distinct.
+0	breast cancer	NA	NA	INTRO	The estimated correlation between ER-negative disease in the general population and overall breast cancer for BRCA1 mutation carriers was 0.72 (SE = 0.11)
+0	breast cancer	NA	NA	INTRO	In summary, in this study of women of European origin, we have identified ten new susceptibility variants for ER-negative breast cancer and replicated associations with ER-negative disease for ten SNPs identified by previous GWAS.
+0	breast cancer	NA	NA	INTRO	Most of these variants were not associated or were more weakly associated with ER-positive disease, consistent with the findings from pathway and partitioned heritability analyses showing that ER-negative breast cancer has a partly distinct genetic etiology.
+0	breast cancer	NA	NA	INTRO	We also observed consistent associations with ER-negative disease for a further 105 susceptibility SNPs for breast cancer overall.
+0	NA	NA	NA	INTRO	Together, these 125 variants explain ~14% of an assumed twofold increased risk of developing ER-negative disease for the first-degree female relatives of women affected with this subtype (the newly identified SNPs explain ~1.5%; Supplementary Table 16) and ~40% of the estimated familial risk that is attributable to all variants imputable from the OncoArray (Online Methods).
+0	breast cancer	BRCA1	NA	INTRO	We have also identified 9 new breast cancer susceptibility variants for BRCA1 mutation carriers and confirmed associations for a further 30 previously reported SNPs; these 39 variants explain ~8% of the variance in polygenic risk for carriers of these mutations (Supplementary Table 17).
+0	breast cancer	BRCA1	NA	INTRO	However, the lower number of risk-associated variants in disease with BRCA1 mutation may merely be a consequence of the smaller sample size, as the genetic correlation with ER-negative breast cancer is high.
+0	NA	BRCA1	NA	INTRO	These findings may inform improved risk prediction, both for the general population and BRCA1 mutation carriers.
+0	NA	NA	NA	INTRO	Further investigation is required for other populations of non-European origin.
+0	breast cancer	NA	NA	INTRO	Fine-mapping and functional studies should lead to a better understanding of the biological basis of ER-negative breast cancer and may perhaps inform the design of more effective preventive interventions, early detection and treatments for this disease
+0	breast cancer	BRCA1	NA	INTRO	Database of Genotypes and Phenotypes (dbGaP), https://www.ncbi.nlm.nih.gov/gap; Breast Cancer Association Consortium (BCAC), http://bcac.ccge.medschl.cam.ac.uk/; Consortium of Investigators of Modifiers of BRCA1/2 (CIMBA), http://cimba.ccge.medschl.cam.ac.uk/; PCcalc software, http://ccge.medschl.cam.ac.uk/software/pccalc/; SNPTEST, https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html; GeneSets, http://baderlab.org/GeneSets; GenGen package, http://gengen.openbioinformatics.org/en/latest/
+0	NA	NA	NA	METHODS	Methods, including statements of data availability and any associated accession codes and references, are available in the online version of the paper
+0	NA	NA	NA	METHODS	Supplementary Table 1 summarizes the studies from BCAC that contributed data.
+0	NA	NA	NA	METHODS	The majority were case-control studies.
+0	breast cancer	NA	NA	METHODS	Sixty-eight BCAC studies participated in the ER-negative breast cancer component of the OncoArray, contributing 9,655 cases and 45,494 controls.
+0	NA	NA	NA	METHODS	All studies provided core data on disease status and age at diagnosis/observation, and the majority provided information on clinicopathological and lifestyle factors, which has been curated and incorporated into the BCAC database (version 6).
+0	NA	ER	NA	METHODS	ER status for most (~70%) cases was obtained from clinical records.
+0	NA	NA	NA	METHODS	After removal of overlapping participants, genotype data were also available from eight GWAS (4,480 ER-negative cases and 12,632 controls) and 40 studies previously genotyped using the Illumina iCOGS custom array (7,333 ER-negative cases and 42,468 controls)
+0	NA	NA	NA	METHODS	A total of 21,468 ER-negative cases were included in the combined analyses.
+0	cancers	progesterone receptor	NA	METHODS	Of these, 5,793 had tumors that were also negative for progesterone receptor (PR) and human epidermal growth factor receptor 2 (HER2) and were defined as triple negative.
+0	NA	progesterone receptor	NA	METHODS	PR and HER2 status were also obtained predominantly from clinical records.
+0	NA	progesterone receptor	NA	METHODS	A further 4,217 cases were positive for PR or HER2 and were considered non-triple negative.
+0	NA	progesterone receptor	NA	METHODS	The remainder had unknown PR or HER2 status.
+0	NA	NA	NA	METHODS	All participating studies were approved by their appropriate ethics review boards, and all subjects provided informed consent
+0	NA	BRCA1	NA	METHODS	Subjects included from CIMBA were women of European ancestry aged 18 years or older with a pathogenic variant for BRCA1.
+0	cancers	NA	NA	METHODS	The majority of the participants were sampled through cancer genetics clinics.
+0	NA	NA	NA	METHODS	Multiple members of the same family were included in some instances.
+0	NA	NA	NA	METHODS	Fifty-eight studies from 24 countries contributed OncoArray genotype data.
+0	breast cancer	BRCA1	NA	METHODS	After quality control and removal of participants overlapping with the BCAC OncoArray study, data were available on 15,566 BRCA1 mutation carriers, of whom 7,784 were affected with breast cancer (Supplementary Table 2).
+0	breast cancer	BRCA1	NA	METHODS	We also obtained iCOGS genotype data on 3,342 BRCA1 mutation carriers (1,630 with breast cancer) from 54 studies through CIMBA.
+0	NA	NA	NA	METHODS	All mutation carriers provided written informed consent and participated under ethically approved protocols
+0	NA	NA	NA	METHODS	Approximately 50% of the SNPs for the OncoArray were selected as a 'GWAS backbone' (Illumina HumanCore), which aimed to provide high coverage for the majority of common variants through imputation.
+0	NA	NA	NA	METHODS	The remaining allocation was selected from lists supplied by each of six disease-based consortia, together with a seventh list of SNPs of interest to multiple disease study groups.
+0	breast cancer	NA	NA	METHODS	Approximately 72,000 SNPs were selected specifically for their relevance to breast cancer, on the basis of prior evidence of association with overall or subtype-specific disease, with breast density or with breast- tissue-specific gene expression.
+0	NA	NA	NA	METHODS	Lists were merged as described previously
+0	NA	NA	NA	METHODS	Details of the genotype calling and quality control for the iCOGS and GWAS are described elsewhere, and those for OncoArray are described in the Supplementary Note
+0	NA	NA	NA	METHODS	Genotypes for ~21 million SNPs were imputed for all samples using the October 2014 (Phase 3) release of the 1000 Genomes Project data as the reference panel and based on 800 haplotypes.
+0	NA	NA	NA	METHODS	The iCOGS, OncoArray and six of the GWAS data sets were imputed using a two-stage imputation approach, with SHAPEIT for phasing and IMPUTEv2 (ref. )
+0	NA	NA	NA	METHODS	for imputation.
+0	NA	NA	NA	METHODS	Imputation was performed in 5-Mb non-overlapping intervals.
+0	NA	NA	NA	METHODS	All subjects were split into subsets of ~10,000 samples, with subjects from the same study grouped in the subset.
+0	Breast and prostate cancer	NA	NA	METHODS	The Breast and Prostate Cancer Cohort Consortium (BPC3) and Breast Cancer Family Registry (BCFR) GWAS performed imputation separately using MACH and Minimac.
+0	NA	NA	NA	METHODS	We imputed genotypes for all SNPs that were polymorphic (MAF > 0.1%) in either European or Asian samples.
+0	NA	NA	NA	METHODS	For the BCAC GWAS, data were included in the analysis for all SNPs with MAF >0.01 and imputation r2 >0.3.
+0	NA	NA	NA	METHODS	For iCOGS and OncoArray, we included data for all SNPs with imputation r2 >0.3 and MAF >0.005
+0	NA	NA	NA	METHODS	Per-allele odds ratios and standard errors were generated for the OncoArray and iCOGS data sets and for each GWAS, adjusting for principal components, using logistic regression.
+0	NA	NA	NA	METHODS	The OncoArray and iCOGS analyses were additionally adjusted for country and study, respectively.
+0	NA	NA	NA	METHODS	For the OncoArray data set, principal-components analysis was performed using data for 33,661 SNPs (which included the 2,318 markers of continental ancestry) with MAF >=0.05 and maximum correlation of 0.1, using purpose-written software (PCcalc; see URLs) to allow standard calculations to be performed sufficiently rapidly on a very large data set.
+0	NA	NA	NA	METHODS	We used the first ten principal components, as the inclusion of additional components did not further reduce inflation of the test statistics.
+0	NA	NA	NA	METHODS	We used nine principal components for the iCOGS data set and up to ten principal components for the other GWAS, where this was found to reduce inflation
+0	NA	NA	NA	METHODS	Odds ratio estimates were derived using MACH for the BCFR GWAS, ProbABEL was used for the BPC3 GWAS, SNPTEST (see URLs) was used for the remaining GWAS and purpose-written software was applied for the iCOGS and OncoArray data sets.
+0	NA	NA	NA	METHODS	Odds ratio estimates and standard errors were combined by a fixed-effects inverse-variance-weighted meta-analysis using METAL.
+0	NA	NA	NA	METHODS	This was first done across the eight GWAS, applying genomic control, as described previously.
+0	NA	NA	NA	METHODS	It was then applied (without genomic control) to combine findings from the three BCAC genotyping initiatives (GWAS, iCOGS and OncoArray)
+0	NA	NA	NA	METHODS	The independence of the signals from two variants at 11q22.3 was assessed by fitting the logistic regression models described above with both variants as covariates.
+0	NA	NA	NA	METHODS	This was done separately for iCOGS and OncoArray data, and results for each variant were combined by meta-analysis
+0	NA	ER	NA	METHODS	For selected SNPs, we estimated per-allele odds ratios by ER status using all available BCAC data for 82,263 cases with known ER status and 87,962 controls from the iCOGS and OncoArray studies.
+0	cancers	NA	NA	METHODS	We also estimated per-allele odds ratios by triple-negative status (triple-negative versus other ER-negative subtypes) and tumor grade, using available BCAC data for ER-negative cases and corresponding controls.
+0	NA	NA	NA	METHODS	Tests for heterogeneity by subtype were derived by applying logistic regression to cases only.
+0	NA	NA	NA	METHODS	This was done separately for the iCOGS and OncoArray data sets, adjusting as before, and results were then combined in a fixed-effects meta-analysis.
+0	cancers	NA	NA	METHODS	Multinomial regression was applied to cases only to test for a linear trend for tumor grade, with the model constrained so that the difference between grade 1 and grade 3 was double that for the difference between grade 2 and grade 3; this method was also used to test for a linear trend with age at diagnosis, with ordinal values 1, 2, 3 and 4 representing ages <40, 40-49, 50-59 and >=60 years, respectively
+0	breast cancer	BRCA1	NA	METHODS	Associations between genotype and breast cancer risk for BRCA1 mutation carriers were evaluated using a 1-degree-of-freedom per-allele trend test (Ptrend), based on modeling the retrospective likelihood of the observed genotypes conditional on breast cancer phenotypes.
+0	NA	NA	NA	METHODS	This was done separately for iCOGS and OncoArray data.
+0	NA	NA	NA	METHODS	To allow for non-independence among related individuals, an adjusted test statistic was used that took into account correlation in genotypes.
+0	NA	NA	NA	METHODS	All analyses were stratified by country of residence and, for countries where the strata were sufficiently large (United States and Canada), by Ashkenazi Jewish ancestry.
+0	NA	NA	NA	METHODS	The results from the iCOGS and OncoArray data sets were then pooled using fixed-effects meta-analysis.
+0	Colon and Ovarian (PLCO) Cancer	NA	NA	METHODS	We repeated these analyses modeling ovarian cancer as a competing risk and observed no substantial difference in the results obtained
+0	NA	NA	NA	METHODS	The independence of the signals from two variants at 11q22.3 was assessed using OncoArray data only, fitting a Cox regression model with per-allele effects for both variants, adjusting for birth cohort, stratifying by country of residence, and using robust standard errors and clustered observations for relatives.
+0	NA	NA	NA	METHODS	This approach provides valid significance tests of association, although the resulting hazard ratio estimates can be biased
+0	NA	NA	NA	METHODS	A fixed-effects meta-analysis of the results from BCAC and CIMBA was conducted using an inverse-variance-weighted approach assuming fixed effects, as implemented in METAL.
+0	breast cancer	BRCA1	NA	METHODS	The effect estimates used were the logarithm of the per-allele hazard ratio estimate for association with breast cancer risk for BRCA1 mutation carriers from CIMBA and the logarithm of the per-allele odds ratio estimate for association with risk of ER-negative breast cancer based on BCAC data, both of which were assumed to approximate the same relative risk.
+0	NA	NA	NA	METHODS	We assessed genomic inflation using common (MAF > 1%) GWAS backbone variants.
+0	NA	NA	NA	METHODS	As lambda is influenced by sample size, we calculated lambda1,000 so that the values were comparable with those from other studies
+0	breast cancer	NA	NA	METHODS	We identified all associations previously reported from genome-wide or candidate analyses at a significance level of P < 5 x 10-8 in overall breast cancer, in ER-negative or ER-positive breast cancer, for BRCA1 or BRCA2 mutation carriers, or in meta-analyses of these categories.
+0	NA	NA	NA	METHODS	We included only one SNP in any 500-kb interval unless joint analysis provided genome-wide significant evidence (conditional P < 5 x 10-8) of more than one independent signal.
+0	breast cancer	NA	NA	METHODS	Where multiple studies reported associations in the same region, we considered the first reported association unless a later study identified a different variant in the same region that was more strongly associated with breast cancer risk.
+0	breast cancer	NA	NA	METHODS	One hundred and seven previously reported association signals were identified, 11 of which were found through GWAS of ER-negative disease or of breast cancer for BRCA1 mutation carriers or were reported as being more strongly associated with ER-negative breast cancer.
+0	NA	NA	NA	METHODS	These are listed in Table 2.
+0	NA	NA	NA	METHODS	The other 96 previously reported association signals are listed in Supplementary Table 10
+0	NA	NA	NA	METHODS	To search for new loci, we assessed all SNPs excluding those within 500 kb of a known association signal.
+0	breast cancer	BRCA1	NA	METHODS	This approach identified 206 SNPs in nine regions that were associated with disease risk at P < 5 x 10-8 in the meta-analysis of BCAC ER-negative breast cancer and breast cancer for CIMBA BRCA1 mutation carriers.
+0	NA	NA	NA	METHODS	The SNP with the lowest P value from this analysis was considered to be the lead SNP.
+0	NA	NA	NA	METHODS	No additional loci were detected from analysis of BCAC data only.
+0	NA	NA	NA	METHODS	Imputation quality, as assessed by the IMPUTE2 imputation r2 value in the OncoArray data set, was >=0.89 for the ten lead SNPs reported (Supplementary Table 3)
+0	NA	NA	NA	METHODS	To define the set of potentially causal variants at each of the new susceptibility loci, we selected all variants with P values within two orders of magnitude of the P value for the most significant SNP at each of the ten new loci.
+0	NA	NA	NA	METHODS	This is approximately equivalent to selecting variants whose posterior probability of causality is within two orders of magnitude of that of the most significant SNP.
+0	NA	NA	rs11374964	METHODS	This approach was applied to identify potentially causal variants for the signal given by the more common lead SNP at 11q22.3 (rs11374964).
+1	NA	NA	rs74911261	METHODS	A similar approach was applied for the rarer lead SNP at this locus (rs74911261), but this was based on P values from analyses adjusted for rs11374964
+0	breast cancer	NA	NA	METHODS	The relative risk of ER-negative breast cancer for the first-degree female relative of a woman with ER-negative disease has not been estimated.
+0	NA	NA	NA	METHODS	We therefore assumed that the twofold increase in risk observed for overall disease also applied to ER-negative disease.
+0	NA	NA	NA	METHODS	To estimate the proportion of this risk explained by the 125 variants associated with ER-negative disease, we used MAF and odds ratio estimates from the OncoArray-based genotype data and applied the formula where pi is the MAF for variant i, betai is the log(OR) estimate for variant i, taui is the standard error of betai and lambda = 2 is the assumed overall familial relative risk
+0	NA	NA	NA	METHODS	The corresponding estimate for the familial relative risk due to all variants is the frailty-scale heritability, defined as where gammai is the true relative risk conferred by variant i, assuming a log-additive model.
+0	NA	NA	NA	METHODS	We first obtained the estimated heritability based on the full set of summary estimates using LD score regression, which derives a heritability estimate on the observed scale.
+0	NA	NA	NA	METHODS	We then converted this to an estimate on the frailty scale using the formula where P is the proportion of samples in the population that are cases
+0	NA	BRCA1	NA	METHODS	The proportion of the variance in polygenic frailty modifying risk for BRCA1 mutation carriers explained by the set of associated SNPs was estimated by where ci is the squared estimated coefficient of variation in incidence associated with SNP i (ref. )
+0	NA	NA	NA	METHODS	and sigma2 is the total polygenic variance, estimated from segregation data
+0	breast cancer	NA	NA	METHODS	We combined multiple sources of in silico functional annotation from public databases to help identify potential functional SNPs and target genes, on the basis of previous observations that breast cancer susceptibility alleles are enriched in cis-regulatory elements and alter transcriptional activity.
+0	NA	NA	NA	METHODS	The influence of candidate causal variants on transcription factor binding sites was determined using the ENCODE-Motifs resource.
+0	breast cancer	NA	NA	METHODS	To investigate functional elements enriched across the region encompassing the strongest candidate causal SNPs, we analyzed chromatin biofeatures data from the Encyclopedia of DNA Elements (ENCODE) Project and the Roadmap Epigenomics Project together with other data obtained through the NCBI Gene Expression Omnibus (GEO), namely chromatin state segmentation by hidden Markov models (chrom-HMM), DHSs, and histone modifications for the epigenetic marks H3K4, H3K9 and H3K27 in HMECs, myoepithelial cells, and T47D and MCF7 breast cancer cells and transcription factor ChIP-seq in a range of breast cell lines (Supplementary Table 6).
+0	NA	NA	NA	METHODS	To identify the SNPs most likely to be functional, we used RegulomeDB; to identify putative target genes, we examined potential functional chromatin interactions between distal and proximal regulatory transcription factor binding sites and promoters in the risk regions, using Hi-C data generated in HMECs and ChIA-PET data generated in MCF7 cells.
+0	NA	CTCF	NA	METHODS	This approach detects genome-wide interactions brought about by or associated with CCCTC-binding factor (CTCF), RNA polymerase II (Pol II) and ER, all of which are involved in transcriptional regulation.
+0	NA	NA	NA	METHODS	Annotation of putative cis-regulatory regions and predicted target genes used the integrated method for predicting enhancer targets (IM-PET), the predicting specific tissue interactions of genes and enhancers (PreSTIGE) algorithm, Hnisz and FANTOM.
+0	NA	v4.1	NA	METHODS	Intersections between candidate causal variants and regulatory elements were identified using Galaxy, BedTools v2.24 and HaploReg v4.1 and were visualized in the UCSC Genome Browser.
+0	NA	NA	NA	METHODS	Publically available eQTL databases, including Gene-Tissue Expression (GTEx; version 6, multiple tissues) and Westra (blood), were queried for candidate causal variants
+0	NA	NA	NA	METHODS	eQTL analyses were performed using data from the TCGA and METABRIC projects
+0	breast cancer	NA	NA	METHODS	The TCGA eQTL analysis was based on 79 ER-negative breast tumors that had matched gene expression, copy number and methylation profiles together with corresponding germline genotypes available.
+0	NA	NA	NA	METHODS	All 79 individuals were of European ancestry, as ascertained using the genotype data and the local ancestry in admixed populations (LAMP) software package (LAMP estimate cutoff > 95% European).
+0	NA	NA	NA	METHODS	Germline genotypes were imputed into the 1000 Genomes Project reference panel (October 2014 release) using IMPUTE2 (refs.
+0	NA	NA	NA	METHODS	).
+0	NA	NA	NA	METHODS	Gene expression had been measured on the Illumina HiSeq 2000 RNA-seq platform (gene-level RSEM normalized counts), copy number estimates were derived from the Affymetrix SNP 6.0 array (somatic copy number alteration minus germline copy number variation called using the GISTIC2 algorithm) and methylation beta values were measured on the Illumina Infinium HumanMethylation450 array, as previously described.
+0	breast cancer	BRCA1	NA	METHODS	Primary TCGA eQTL analysis focused on all potentially causal variants in the ten new regions associated with breast cancer risk in the meta-analysis of ER-negative cases and controls from BCAC and BRCA1 mutation carriers from CIMBA.
+0	NA	NA	NA	METHODS	We considered all genes located up to 1 Mb away on either side of each of these variants.
+0	cancers	NA	NA	METHODS	The effects of tumor copy number and methylation on gene expression were first removed using a method described previously, and eQTL analysis was performed by linear regression as implemented in the R package Matrix eQTL
+0	breast cancer	NA	NA	METHODS	The METABRIC eQTL analysis was based on 135 normal breast tissue samples resected from patients with breast cancer of European ancestry.
+0	NA	NA	NA	METHODS	Germline genotyping for the METABRIC study was also performed on the Affymetrix SNP 6.0 array, and ancestry estimation and imputation for this data set were conducted as described for TCGA.
+0	NA	NA	NA	METHODS	Gene expression in the METABRIC study had been measured using the Illumina HT12 microarray platform, and we used probe-level estimates.
+0	NA	NA	NA	METHODS	As for TCGA, we considered all genes in ten regions using Matrix eQTL
+1	NA	L3MBTL3	NA	METHODS	We also performed additional eQTL analyses using the METABRIC data set for all variants within 1 Mb of L3MBTL3 and CDH2 and expression of these specific genes
+0	breast cancer	NA	NA	METHODS	We performed stratified LD score regression analyses for ER-negative breast cancer using the summary statistics based on meta-analyses of the OncoArray, GWAS, iCOGS and CIMBA data sets.
+0	NA	NA	NA	METHODS	We used all SNPs in the 1000 Genomes Project Phase 1 v3 release that had MAF >1% and imputation quality score R2 >0.3 in the OncoArray data.
+0	NA	NA	NA	METHODS	LD scores were calculated using the 1000 Genomes Project Phase 1 v3 EUR panel.
+0	NA	NA	NA	METHODS	Further details are provided in the Supplementary Note
+0	NA	NA	NA	METHODS	We tested the differences in functional enrichment between ER-positive and ER-negative subsets for individual features through a Wald test, using the regression coefficients and standard errors for the two subsets based on the models described above.
+0	breast cancer	NA	NA	METHODS	Finally, we assessed the heritability due to genotyped and imputed SNPs and estimated the genetic correlation between ER-positive and ER-negative breast cancer.
+0	NA	NA	NA	METHODS	The genetic correlation analysis was restricted to the ~1 million SNPs included in HapMap 3
+0	NA	NA	NA	METHODS	The pathway gene set database Human_GOBP_AllPathways_no_GO_iea_January_19_2016_symbol.gmt (GeneSets; see URLs) was used for all analyses.
+0	NA	NA	NA	METHODS	Pathway size was determined by the total number of genes in the pathway to which SNPs in the imputed GWAS data set could be mapped.
+0	NA	NA	NA	METHODS	To provide more biologically meaningful results and reduce false positives, only pathways that contained between 10 and 200 genes were considered
+0	NA	NA	NA	METHODS	SNPs were mapped to the nearest gene within 500 kb; SNPs that were further than 500 kb away from any gene were excluded.
+0	NA	NA	NA	METHODS	Gene significance was calculated by assigning the lowest P value observed across all SNPs mapped to a gene, on the basis of the meta-analysis of BCAC and CIMBA data described above
+0	NA	NA	NA	METHODS	The gene set enrichment analysis (GSEA) algorithm, as implemented in the GenGen package (see URLs), was used to perform pathway analysis.
+0	NA	NA	NA	METHODS	Briefly, the algorithm calculates an enrichment score (ES) for each pathway based on a weighted Kolmogorov-Smirnov statistic.
+0	NA	NA	NA	METHODS	Pathways that have most of their genes at the top of the ranked list of genes obtain higher ES values
+0	NA	NA	NA	METHODS	We defined an ES threshold (ES >= 0.41) to yield a true positive rate (TPR) of 0.20 and a false positive rate (FPR) of 0.14, with true positive pathways defined as those observed with false discovery rate (FDR) < 0.05 in a prior analysis carried out using the analytic approach defined above applied to iCOGS data for ER-negative disease
+0	NA	NA	NA	METHODS	To visualize the pathway enrichment analysis results, an enrichment map was created using the Enrichment Map (EM) v 2.1.0 app in Cytoscape v3.30 (ref.
+0	NA	NA	NA	METHODS	), applying an edge-weighted force-directed layout.
+0	NA	NA	NA	METHODS	To measure the contribution of each gene to enriched pathways and annotate the map, we reran the pathway enrichment analysis multiple times, each time excluding one gene.
+0	NA	NA	NA	METHODS	A gene was considered to drive the enrichment if the ES dropped to zero or less (pathway enrichment driver) after it was excluded.
+0	NA	NA	NA	METHODS	Pathways were grouped in the map if they shared >70% of their genes or their enrichment was driven by a shared gene
+0	NA	NA	NA	METHODS	A subset of the data that support the findings of this study is publically available via dbGaP (see URLs; accessions phs001265.v1.p1 for BCAC data and phs001321.v1.p1 for CIMBA data).
+0	NA	NA	NA	METHODS	Requests for data can be made to the corresponding author or the Data Access Coordination Committees (DACCs) of BCAC (see URLs) and CIMBA (see URLs).
+0	NA	POSH	NA	METHODS	BCAC DACC approval is required to access data from the ABCFS, ABCS, ABCTB, BBCC, BBCS, BCEES, BCFR-NY, BCFR-PA, BCFR-UT, BCINIS, BSUCH, CBCS, CECILE, CGPS, CTS, DIETCOMPLYF, ESTHER, GC-HBOC, GENICA, GEPARSIXTO, GESBC, HABCS, HCSC, HEBCS, HMBCS, HUBCS, KARBAC, KBCP, LMBC, MABCS, MARIE, MBCSG, MCBCS, MISS, MMHS, MTLGEBCS, NC-BCFR, OFBCR, ORIGO, pKARMA, POSH, PREFACE, RBCS, SKKDKFZS, SUCCESSB, SUCCESSC, SZBCS, TNBCC, UCIBCS, UKBGS and UKOPS studies (Supplementary Table 1).
+0	NA	NA	NA	METHODS	CIMBA DACC approval is required to access data from the BCFR-ON, CONSIT TEAM, DKFZ, EMBRACE, FPGMX, GC-HBOC, GEMO, G-FAST, HEBCS, HEBON, IHCC, INHERIT, IOVHBOCS, IPOBCS, MCGILL, MODSQUAD, NAROD, OCGN, OUH and UKGRFOCR studies (Supplementary Table 2)
+1	NA	NA	rs11374964	FIG	Genomic region around the independent ER-negative risk-associated variants 11_108345515_G_A (rs11374964) and 11_108357137_G_A (rs74911261).
+0	NA	NA	NA	FIG	A 1-Mb regional association plot shows the statistical significance of all genotyped and imputed SNPs with the genome-wide significance level (P = 5 x 10-8) represented by the dashed red line.
+0	NA	NA	NA	FIG	The positions of candidate causal variants for two independent signals (depicted as red and blue ticks) are shown in relation to RefSeq genes.
+0	NA	NA	NA	FIG	Missense variants are labeled with asterisks.
+0	NA	NA	NA	FIG	Mammary cell enhancers overlapping candidate SNPs predicted to target nearby genes by IM-PET46 are depicted as black bars.
+0	NA	NA	NA	FIG	Chromatin interactions from ENCODE ChIA-PET data in MCF7 cells overlapping candidate variants are shaded to reflect interaction confidence scores with darker shading indicating greater confidence.
+0	NA	NA	NA	FIG	Epigenomic features (derived from publicly available ChIP-seq and DNase-seq data sets) that overlap candidate variants are shown as red or blue segments, depending on the intersected signal.
+0	NA	NA	NA	FIG	Density tracks show the summed occurrence of ChIP-seq and DNase-seq peak signals at each position.
+0	NA	NA	NA	FIG	Roadmap Epigenomics Project chromatin state models for HMECs and myoepithelial cells grouped into enhancer, promoter or transcribed annotations are shown as yellow, red and green segments, respectively.
+0	NA	NA	NA	FIG	Transcript levels in MCF7 cells and HMECs are represented by histograms depicting mean normalized RNA-seq expression.
+0	NA	NA	NA	FIG	All MCF7 ChIA-PET (ENCODE) and HMEC Hi-C47 chromatin interactions are represented by black and blue arcs, respectively.
+0	NA	NA	NA	FIG	NHGRI GWAS catalog SNPs are shown as green ticks.
+0	NA	NA	NA	FIG	All OncoArray SNPs (genotyped or imputed) are shown as black ticks, and uninterrogated, common SNPs (dbSNP138, European (EUR) MAF > 1%) are shown as red ticks.
+0	NA	NA	NA	FIG	Features may be examined in detail via exploration of a custom UCSC Genome Browser session accessible via hyperlinks within Supplementary Table 5.
+0	DHS MIND	NA	NA	FIG	TF, transcription factor; DHS, DNase I-hypersensitive site
+0	breast cancer	NA	NA	TABLE	Ten new loci associated with risk of estrogen-receptor-negative breast cancer using meta-analysis of BCAC and CIMBA dat
+0	NA	NA	NA	TABLE	Previously reported associations with estrogen-receptor-negative disease: replication using independent data from BCAC and combined results using all BCAC and CIMBA dat
+0	breast cancer	NA	NA	TABLE	Associations for ten new and ten previously reported (and replicated) susceptibility loci for estrogen-receptor-negative breast cancer, by triple-negative statu
+0	breast cancer	NA	NA	TABLE	Associations for ten new and ten previously reported (and replicated) susceptibility loci for ER-negative breast cancer, by tumor grad

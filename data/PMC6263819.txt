@@ -1,0 +1,252 @@
+0	diabetes	NA	NA	ABSTRACT	Diabetic retinopathy is the most common eye complication in patients with diabetes.
+0	diabetes	NA	NA	ABSTRACT	The purpose of this study is to identify genetic factors contributing to severe diabetic retinopathy
+0	NA	NA	NA	ABSTRACT	A genome-wide association approach was applied.
+0	diabetes	NA	NA	ABSTRACT	In the Genetics of Diabetes Audit and Research in Tayside Scotland (GoDARTS) datasets, cases of severe diabetic retinopathy were defined as type 2 diabetic patients who were ever graded as having severe background retinopathy (Level R3) or proliferative retinopathy (Level R4) in at least one eye according to the Scottish Diabetic Retinopathy Grading Scheme or who were once treated by laser photocoagulation.
+0	diabetes	NA	NA	ABSTRACT	Controls were diabetic individuals whose longitudinal retinopathy screening records were either normal (Level R0) or only with mild background retinopathy (Level R1) in both eyes.
+0	NA	NA	NA	ABSTRACT	Significant Single Nucleotide Polymorphisms (SNPs) were taken forward for meta-analysis using multiple Caucasian cohorts
+0	Type 2 diabetes	NA	NA	ABSTRACT	Five hundred and sixty cases of type 2 diabetes with severe diabetic retinopathy and 4,106 controls were identified in the GoDARTS cohort.
+0	NA	NA	rs3913535	ABSTRACT	We revealed that rs3913535 in the NADPH Oxidase 4 (NOX4) gene reached a p value of 4.05 x 10-9.
+0	NA	NA	rs10765219	ABSTRACT	Two nearby SNPs, rs10765219 and rs11018670 also showed promising p values (p values = 7.41 x 10-8 and 1.23 x 10-8, respectively).
+0	diabetes	NA	rs10765219	ABSTRACT	In the meta-analysis using multiple Caucasian cohorts (excluding GoDARTS), rs10765219 and rs11018670 showed associations for diabetic retinopathy (p = 0.003 and 0.007, respectively), while the p value of rs3913535 was not significant (p = 0.429)
+0	diabetes	NA	NA	ABSTRACT	This genome-wide association study of severe diabetic retinopathy suggests new evidence for the involvement of the NOX4 gene
+0	diabetes	NA	NA	INTRO	Diabetic retinopathy (DR) is a chronic, progressive, potentially sight-threatening disease of the retinal microvasculature associated with pathophysiological changes intensified by diabetes (The Royal College of Ophthalmologists.
+0	diabetes	NA	NA	INTRO	Diabetic Retinopathy Guidelines 2012).
+0	diabetes	NA	NA	INTRO	It is the most common eye complication in diabetic patients and the most common cause of blindness among people of working age in the UK (Bunce & Wormald 2008).
+0	diabetes	NA	NA	INTRO	In general, DR can be broadly graded as non-proliferative diabetic retinopathy (NPDR) and proliferative diabetic retinopathy (PDR) according to the absence or presence of abnormal new vessels (Williams et al.
+0	NA	NA	NA	INTRO	2004).
+0	diabetes	NA	NA	INTRO	In each year, around 60% of diabetic patients under retinal screening have NPDR and approximately 20% of diabetic patients have active or regressed PDR (Keenan et al.
+0	NA	NA	NA	INTRO	2013).
+0	blindness	NA	NA	INTRO	It is estimated that over 1000 new cases of blindness are caused by DR each year in England alone and a further 4000 people each year in the country are thought to be at risk of vision loss due to retinopathy (http://www.diabetes.co.uk 2017).
+0	diabetes	NA	NA	INTRO	Around one in five type 2 diabetic patients in Scotland have been diagnosed with DR, and 10% of these DR patients need to be referred to ophthalmologists for further treatment (Looker et al.
+0	NA	NA	NA	INTRO	2012).
+0	visual impairment and blindness	NA	NA	INTRO	The quality of life can be significantly affected for DR patients due to visual impairment, worries and movement restrictions (Woodcock et al.
+0	NA	NA	NA	INTRO	2004).
+0	NA	NA	NA	INTRO	In addition to physical and emotional impacts, DR also represents a significant economic burden to the healthcare system.
+0	NA	NA	NA	INTRO	In the USA, the total direct medical cost of DR in adults was estimated to be $493 million per year (Rein et al.
+0	NA	NA	NA	INTRO	2006).
+0	NA	NA	NA	INTRO	The average annual healthcare costs of NPDR and PDR per person were $26 and $257 in Sweden, respectively (Heintz et al.
+0	NA	NA	NA	INTRO	2010).
+0	NA	NA	NA	INTRO	In addition to the fact that there is a huge cost difference depending on the severity of DR, It has been estimated that without treatment for PDR, 50% of all patients will become blind within 5 years following diagnosis (Williams et al.
+0	NA	NA	NA	INTRO	2004).
+0	NA	NA	NA	INTRO	Therefore, it is essential to identify and treat this disorder at an early stage and slow or stop its progress
+0	diabetes	NA	NA	INTRO	Epidemiological studies have proposed multiple risk factors associated with the development and the progression of DR from longitudinal studies including higher glycaemia, higher blood pressure, no smoking, male sex, higher HbA1c, longer duration of diabetes, lower body mass index and elevated blood urea concentration (Stratton et al.
+0	NA	NA	NA	INTRO	2001; Xu et al.
+0	NA	NA	NA	INTRO	2012).
+0	NA	NA	NA	INTRO	In addition, Xu et al.
+0	NA	NA	NA	INTRO	(2012) reported that patients with microalbuminuria were 4.7 times more likely to have a severe or proliferating DR than those without microalbuminuria.
+0	Kidneys in Diabetes	NA	NA	INTRO	This study links DR with renal function since both DR and diabetic nephropathy are microvascular complications of diabetes.
+0	NA	NA	NA	INTRO	As most of these risk factors are amenable, clinical trials have been performed to intervene with the incidence and progress of DR.
+0	diabetes	NA	NA	INTRO	It is reported that intensive blood sugar control effectively delays the onset and slows the progression of DR when initiated in adolescent subjects (Diabetes & Complications 1994; White et al.
+0	NA	NA	NA	INTRO	2001).
+0	NA	NA	NA	INTRO	The persistent beneficial effect in DR in the intensive therapy group continues for at least 10 years (White et al.
+0	NA	NA	NA	INTRO	2008).
+0	NA	NA	NA	INTRO	Epidemiological studies are one of the essential tools to identify risk factors and effective preventive strategies for diseases along with genetic studies which search for underlying causative biological mechanisms and genetic pathways
+0	NA	NA	NA	INTRO	Understanding the genetic factors associated with DR would assist in identifying biological underpinnings and potentially suggest molecular targets for pharmacological research.
+0	Type 2 diabetes	NA	NA	INTRO	Both twin studies and family studies have confirmed that DR is a heritable trait in both type 1 and type 2 diabetes (Leslie & Pyke 1982; Rema et al.
+0	NA	NA	NA	INTRO	2002; Hallman et al.
+0	NA	NA	NA	INTRO	2005; Looker et al.
+0	NA	NA	NA	INTRO	2007; Monti et al.
+0	NA	NA	NA	INTRO	2007; Zhang et al.
+0	NA	NA	NA	INTRO	2010).
+0	NA	NA	NA	INTRO	In particular, a greater genetic component exists in more severe types of DR (Hallman et al.
+0	NA	NA	NA	INTRO	2005).
+0	NA	NA	NA	INTRO	The heritability of DR has been estimated to be 18% in sibling samples (Looker et al.
+0	NA	NA	NA	INTRO	2007).
+0	NA	NA	NA	INTRO	Genome-wide linkage studies have proposed multiple chromosome loci to be linked with DR using multiple ethnic groups, while no specific genes have been identified (Imperatore et al.
+0	NA	NA	NA	INTRO	1998; Hallman et al.
+0	NA	NA	NA	INTRO	2007; Looker et al.
+0	NA	NA	NA	INTRO	2007).
+0	NA	NA	NA	INTRO	Candidate gene approaches have suggested promising genes with possible biological connections with DR such as VEGFA, AKR1B1, AGER, ICAM1, MTHFR, while larger samples will be required to further consolidate the reliability of these results (Awata et al.
+0	NA	NA	NA	INTRO	2002; Lindholm et al.
+0	NA	NA	NA	INTRO	2006; Abhary et al.
+0	NA	NA	NA	INTRO	2010; Simoes et al.
+0	NA	NA	NA	INTRO	2014; Opatrilova et al.
+0	NA	NA	NA	INTRO	2017)
+0	NA	NA	NA	INTRO	Genome-wide association studies (GWAS) have been very successful in identifying potential candidate genes for common complex disorders using DNA chips (McCarthy et al.
+0	NA	NA	NA	INTRO	2008).
+0	NA	NA	NA	INTRO	Recently, several GWAS have proposed multiple susceptibility loci for DR.
+0	NA	NA	NA	INTRO	However, none of these loci achieved genome-wide significance, and none have been replicated by other studies (Fu et al.
+0	NA	NA	NA	INTRO	2010; Grassi et al.
+0	NA	NA	NA	INTRO	2011; Huang et al.
+0	NA	NA	NA	INTRO	2011; Sheu et al.
+0	NA	NA	NA	INTRO	2013; Burdon et al.
+0	NA	NA	NA	INTRO	2015)
+0	diabetes	NA	NA	INTRO	To facilitate identification of the genetic factors associated with severe DR, we performed this GWAS using a homogenous Scottish diabetic population in the first stage and multiple Caucasian DR cohorts in the replication stage.
+0	diabetes	NA	NA	INTRO	To our knowledge, this is the first GWAS based on Scottish Diabetic Retinopathy Grading Scheme and the largest GWAS on severe DR so far
+0	NA	NA	NA	METHODS	The datasets from the GoDARTS project were analysed in this study.
+0	diabetes	NA	NA	METHODS	The GoDARTS project mainly recruits type 2 diabetic patients and non-diabetic controls throughout Tayside, Scotland, to identify genetic susceptibility to diabetes including its complications and response to treatment.
+0	NA	NA	NA	METHODS	Participants will undertake a simple baseline clinical examination and complete a lifestyle questionnaire in addition to providing biological samples such as blood and urine.
+0	NA	NA	NA	METHODS	The participants provide informed consent at the time of recruitment which allows the use of their data and samples (including extracted DNA) for research purposes as well as link the data anonymously to their medical records.
+0	diabetes	NA	NA	METHODS	These records include the Scottish Care Information-Diabetes Collaboration (SCI-DC) and Scottish Diabetic Retinopathy Screening Collaborative electronic health records used by health care professionals throughout Scotland for the care of patients with diabetes.
+0	NA	NA	NA	METHODS	Further information, including data access procedures, can be found at http://diabetesgenetics.dundee.ac.uk/.
+0	NA	NA	NA	METHODS	The GoDARTS study has been approved by Tayside Committee on Medical Research Ethics, and informed consent was obtained from all patients (REC reference 053/04).
+0	NA	NA	NA	METHODS	The research adhered to the tenets of the Declaration of Helsinki
+0	diabetes	NA	NA	METHODS	So far, the project has recruited 9,439 diabetic patients and 6,927 of them have been genotyped.
+0	diabetes	NA	NA	METHODS	For this study, we extracted the DR screening records of all GoDARTS individuals from June 1996 until June 2011 as well as information on age, gender, body mass index (BMI), HbA1c and duration of diabetes
+0	NA	NA	NA	METHODS	Retinal screening has been undertaken in Tayside since 1990, and the DR screening protocol has previously been described (Leese et al.
+0	NA	NA	NA	METHODS	2005).
+0	diabetes	NA	NA	METHODS	According to the Scottish Diabetic Retinopathy Grading Scheme, DR status can be graded into five levels: level R0: No DR; level R1: mild background retinopathy; level R2: moderate background retinopathy; level R3: severe background retinopathy; level R4: PDR.
+0	NA	NA	NA	METHODS	The detailed diagnostic criteria are summarized in Liu et al.
+0	NA	NA	NA	METHODS	(2013)'s paper.
+0	choriocapillaris	NA	NA	METHODS	In addition, the status of macula was recorded as with or without diabetic maculopathy.
+0	NA	NA	NA	METHODS	However, the status of the macula was not taken into account in this study when defining DR.
+0	NA	NA	NA	METHODS	The history of laser photocoagulation treatment was also recorded for GoDARTS participants but lacking information of the exact methods (panretinal photocoagulation, focal photocoagulation or both)
+0	diabetes	NA	NA	METHODS	There are other DR grading systems such as Early Treatment Diabetic Retinopathy Study (ETDRS), American Academy of Ophthalmology (AAO) and National Screening Committee (NSC).
+0	diabetes	NA	NA	METHODS	The approximate equivalence of Scottish Diabetic Retinopathy Grading Scheme and alternative classification systems for diabetic retinopathy can be found in the latest DR guideline from The Royal College of Ophthalmologists (The Royal College of Ophthalmologists 2012)
+0	diabetes	NA	NA	METHODS	A severe DR case was defined in this study as a type 2 diabetic individual with at least one eye that has previously been coded as severe background retinopathy (level R3) or PDR (level R4); or with a history of laser photocoagulation treatment in the e-health records
+0	diabetes	NA	NA	METHODS	A control was defined as a type 2 diabetic individual with DR longitudinal screening records for both eyes, which were only graded as normal (level R0) or mild background retinopathy (level R1).
+0	NA	NA	NA	METHODS	In addition, controls had no record of laser photocoagulation treatment
+0	diabetes	NA	NA	METHODS	To maintain homogeneous case and control populations, we removed type 2 diabetic individuals whose severest DR screening records were moderate background retinopathy (level R2) from both cases and controls
+0	NA	NA	NA	METHODS	In simple words, this study compared severe DR cases (level R3 and R4) with controls (level R0 and R1)
+0	Type 2 diabetes	NA	NA	METHODS	Meta-analyses were performed in four studies of Caucasian patients with type 2 diabetes (The Scania Diabetes Registry, The Australian DR Genetics Case-Control Study, The Blue Mountain Eye Study and Cardiovascular Health Study 2) and two studies of Caucasian patients with type 1 diabetes (The Finnish Diabetic Nephropathy Study and The Genetics of Kidneys in Diabetes study/The Epidemiology of Diabetes Interventions and Complications).
+0	diabetes	NA	NA	METHODS	Diabetic retinopathy (DR) was defined either based on ETDRS scoring, or laser treatment.
+0	NA	NA	NA	METHODS	See the Appendix S1 for the DR definitions for all cohorts.
+0	NA	NA	NA	METHODS	A general description of all cohorts can also be found in the Appendix S1
+0	diabetes	NA	NA	METHODS	The GoDARTS diabetic individuals were genotyped by either Affymetrix SNP6.0 chips (3,673 patients) funded by the Wellcome Trust Case Control Consortium 2 (WTCCC2) project or by Illumina OmniExpress chips (3,254 patients) funded by the Surrogate markers for Micro- and Macro-vascular hard endpoints for Innovative diabetes Tools (SUMMIT) project.
+0	diabetes	NA	NA	METHODS	Standard protocols were used for genotyping quality controls for the WTCCC2 studies and the SUMMIT studies (GoDARTS and UKPDS Diabetes Pharmacogenetics Study Group et al.
+0	NA	NA	NA	METHODS	2011; Fagerholm et al.
+0	NA	NA	NA	METHODS	2012).
+0	NA	NA	NA	METHODS	The genotyping quality control of other Caucasian and African American DR cohorts followed their own protocols
+0	NA	NA	NA	METHODS	The imputation of non-genotyped single nucleotide polymorphisms (SNPs) in the Affymetrix SNP6.0 chips and Illumina OmniExpress chips were done by SHAPEIT and IMPUTE2 using reference files from the 1000 genome phase I datasets (Howie et al.
+0	NA	NA	NA	METHODS	2006; Delaneau et al.
+0	NA	NA	NA	METHODS	2011).
+0	NA	NA	NA	METHODS	The recommended r 2 > 0.3 was used to filter out badly imputed SNPs.
+0	NA	NA	NA	METHODS	Routine quality control steps were frequently applied using PLINK (removing SNPs with over 5% genotyping missing, or with minor allele frequency less than 1%, or those that failed Hardy-Weinberg tests p < 0.000001, and removing individuals with more than 5% genotype data missing) (Purcell et al.
+0	NA	NA	NA	METHODS	2007).
+0	NA	NA	NA	METHODS	SNPs on the X and Y chromosomes and mitochondrial SNPs were excluded from analyses.
+0	NA	NA	NA	METHODS	Population stratification analysis was based on multidimensional scaling integrated in PLINK to detect any difference in ancestry within the cohort, with a lambda value indicating the level of stratification.
+0	NA	NA	NA	METHODS	Removal of related samples was based on pi-hat > 0.125 in PLINK.
+0	diabetes	NA	NA	METHODS	The p values for SNP associations were generated based on logistic regression analyses using PLINK, and adjusting for age, gender, BMI,HbA1c and duration of diabetes.
+0	NA	NA	NA	METHODS	A p value of less than 5 x 10-8 was considered to be an association, warranting further exploration.
+0	NA	NA	NA	METHODS	The LD scores (R-squared) among significant SNPs were later calculated by PLINK.
+0	NA	NA	NA	METHODS	The positive SNPs generated from the first stage were then meta-analysed using multiple replication cohorts where p values of these SNPs were generated by logistic regression adjusting with relevant covariates.
+0	NA	NA	NA	METHODS	Multiple meta-analyses were performed by GWAMA combining Caucasian cohorts and African American cohorts (Magi & Morris 2010).
+0	NA	NA	NA	METHODS	SNP functional annotations were applied by SNPnexus, and the Manhattan plot was generated by HaploView (Barrett et al.
+0	NA	NA	NA	METHODS	2005; Dayem Ullah et al.
+0	NA	NA	NA	METHODS	2013).
+0	NA	NA	NA	METHODS	LocusZoom was used for regional visualization (Pruim et al.
+0	NA	NA	NA	METHODS	2010).
+0	NA	NA	NA	METHODS	SNPEVG was used to generate the corresponding Q-Q plot, a tool to evaluate differences between cases and controls caused by potential confounders (different genotyping lab, different DNA extraction methods, etc) (Wang et al.
+0	NA	NA	NA	METHODS	2012).
+0	NA	NA	NA	METHODS	Narrow-sense heritability was calculated by GCTA (Lee et al.
+0	NA	NA	NA	METHODS	2011).
+0	diabetes	NA	NA	METHODS	Means of age, BMI, HbA1c and duration of diabetes were compared between cases and controls using independent t tests in spss 22 (IBM Corp, New York, NY, USA).
+0	NA	NA	NA	METHODS	The gender difference was evaluated using Chi-squared test (2 x 2 tables)
+0	retinopathy	NA	NA	RESULTS	In the GoDARTS population, we identified 560 unrelated severe DR patients (133 individuals with severe background retinopathy and 427 individuals with PDR) and 4106 controls (1873 individuals with no DR and 2233 individuals with mild background retinopathy) based on our definitions.
+0	NA	NA	NA	RESULTS	The clinical characteristics of cases and controls are summarized in Table S1.
+0	diabetes	NA	NA	RESULTS	There are statistical differences between the cases and the controls in terms of gender, age, duration of diabetes and HbA1c.
+0	NA	NA	NA	RESULTS	There is no statistical difference of BMI between the two groups.
+0	NA	NA	NA	RESULTS	Altogether 6 585 471 imputed SNPs passed from routine quality control checking and imputation quality score r 2 > 0.3.
+0	NA	NA	NA	RESULTS	Since the multidimensional scaling analysis for population stratification found a lambda value of 1.005 for the cleaned datasets, no further adjustment based on population stratification was applied.
+0	NA	NA	NA	RESULTS	The corresponding Q-Q plot is shown in Fig.
+0	NA	NA	NA	RESULTS	S1.
+0	diabetes	NA	NA	RESULTS	Using logistic regression analysis integrated in PLINK with gender, age, duration of diabetes and HbA1c as covariates, there was a cluster appearing in the Manhattan plot (only SNPs with p values less than 0.01 were used) (Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	NA	rs3913535	RESULTS	The top SNP in this region was rs3913535 in the NOX4 gene with a p value of 4.05 x 10-9 and an odds ratio (OR) of 1.55 (95% confidence interval: 1.34-1.79).
+0	NA	NA	rs10765219	RESULTS	Two nearby SNPs, rs10765219 and rs11018670, also showed promising p values (p = 7.41 x 10-8, 1.23 x 10-8, respectively).
+0	NA	NA	NA	RESULTS	Table 1 summarises these SNPs found in the region.
+0	NA	NA	NA	RESULTS	Figure S2 shows the regional plot of the identified loci.
+0	NA	NA	NA	RESULTS	We downloaded the linkage information of these three SNPs from HapMap Caucasian population and found the linkage disequilibrium (LD) scores (R-squared) of these three SNPs from GoDARTS are quite consistent with those from HapMap (Table S2).
+0	diabetes	NA	NA	RESULTS	The heritability of severe DR was estimated to be 7.00% in this diabetic population based on the restricted maximum likelihood analysis by GCTA.
+0	NA	NA	rs3913535	RESULTS	In the replication cohorts, including seven Caucasian DR cohorts with multiple DR definitions, the meta-analysis p values of rs3913535, rs10765219 and rs11018670 were 0.429, 0.003 and 0.007, respectively (Table 2).
+0	NA	NA	NA	RESULTS	When combined with the GoDARTS results, the meta-analysis p values of these three SNPs were 0.71, 9.02 x 10-5 and 4.24 x 10-4, respectively (Table 2).
+0	NA	NA	NA	RESULTS	The forest plots of these three SNPs in the Caucasian DR cohorts are summarized in Fig.
+0	NA	NA	NA	RESULTS	2.
+0	NA	NA	rs3913535	RESULTS	In the four African American DR cohorts, the meta-analysis p values of rs3913535, rs10765219 and rs11018670 were 0.883, 0.814 and 0.686, respectively (Table S3)
+0	NA	NA	NA	FIG	Manhattan plot of the GWAS on severe DR using quality-controlled SNPs.
+0	NA	NA	NA	FIG	X axis represents 22 autosomes.
+0	NA	NA	NA	FIG	Y axis means the -log10 of p values.
+0	NA	NA	NA	FIG	The blue line indicates the p value of 10-7
+0	NA	NA	NA	TABLE	Top hits of the GWAS on the severe DR in the GoDART
+0	NA	NA	NA	TABLE	The input information and the output meta-analysis results of 7 Caucasian cohorts based on GWAMA (default setting
+0	NA	NA	NA	FIG	The forest plots of 3 SNPs in the Caucasian DR cohorts
+0	diabetes	NA	NA	DISCUSS	This GWAS on severe DR was based on a well-defined type 2 diabetic population in the UK and has suggested new evidence that the NOX4 gene might be associated with severe DR.
+0	NA	NA	NA	DISCUSS	Supporting evidence was also obtained from multiple Caucasian DR cohorts
+0	diabetes	NA	NA	DISCUSS	In Scotland, all patients with diabetes are invited to have an annual retinal screening.
+0	diabetic cataract	NA	NA	DISCUSS	During the screening, the clinical information of the eyes is recorded such as visual acuity (VA), cataract status, retinal status, macula status, etc.
+0	diabetes	NA	NA	DISCUSS	The severe DR cases in GoDARTS are a combination of type 2 diabetes patients with severe background retinopathy and PDR or anyone with a record of laser photocoagulation treatment.
+0	NA	NA	NA	DISCUSS	We have two reasons for this definition.
+0	NA	NA	NA	DISCUSS	First, Liu et al.
+0	NA	NA	NA	DISCUSS	(2013) observed that there is an accelerated trend from a less severe DR status to a more severe DR status.
+0	retinopathy	NA	NA	DISCUSS	For example, it takes approximately 0.11 years for severe background retinopathy to progress to PDR, while it takes 12.6 years from no DR status to mild background retinopathy.
+0	retinopathy	NA	NA	DISCUSS	In other words, most severe background retinopathy will progress to PDR in a relatively short timeframe.
+0	retinopathy	NA	NA	DISCUSS	This is matched with the fact that there were more PDR (427 individuals) than severe background retinopathy (133 individuals) in the GoDARTS cohort.
+0	NA	NA	NA	DISCUSS	Second, Grassi et al.
+0	diabetic macular oedema	NA	NA	DISCUSS	used patients with PDR and/or diabetic macular oedema as severe DR cases.
+0	NA	NA	NA	DISCUSS	Though this case definition is stricter, it only left 281 severe cases for their sub-GWAS analysis on severe DR (Grassi et al.
+0	NA	NA	NA	DISCUSS	2011).
+0	NA	NA	NA	DISCUSS	Therefore, it is reasonable to use our definition to increase case sample size and correspondingly to increase the power of this study.
+0	retinopathy	NA	NA	DISCUSS	Our control definition includes DR-free and mild background retinopathy individuals.
+0	NA	NA	NA	DISCUSS	This is based on a phenomenon that substantial rates of mild background DR regression can be observed in longitudinal studies.
+0	diabetes	NA	NA	DISCUSS	Diabetic retinopathy (DR) is often observed to regress from mild background retinopathy to no DR status, but it is not possible to revert from PDR to no DR (Liu et al.
+0	NA	NA	NA	DISCUSS	2013).
+0	diabetes	NA	NA	DISCUSS	Around 50% of type 2 diabetic patients without DR at baseline will develop DR five years later, while 25% of type 2 diabetic patients with non-severe DR will fully recover from DR in the same period (Jin et al.
+0	NA	NA	NA	DISCUSS	2014).
+0	retinopathy	NA	NA	DISCUSS	Since these patients fluctuate between DR-free and mild background retinopathy, it is reasonable to treat them as one group.
+0	NA	NA	NA	DISCUSS	Further, the genetic mechanisms of non-severe DR and severe DR might not be the same.
+0	NA	NA	NA	DISCUSS	Non-severe DR is likely driven by a microenvironment change in the eye, while severe DR can be the consequences of the interaction between genes and the microenvironment in the eye.
+0	NA	NA	NA	DISCUSS	In other words, genetics play a bigger role in severe DR than non-severe DR (Hallman et al.
+0	NA	NA	NA	DISCUSS	2005).
+0	ocular disorders	NA	NA	DISCUSS	The same phenomenon also happens in another eye disorder:myopia, for which low myopia is considered as an environmental-driven result, while high myopia is a consequence of both genetic and environment factors (Meng et al.
+0	NA	NA	NA	DISCUSS	2012a, b).
+0	NA	NA	NA	DISCUSS	Thus, it is reasonable to use this control definition.
+0	NA	NA	NA	DISCUSS	Nevertheless, our control population with no severe DR cases is better than using a population control which contains a small proportion of severe DR cases.
+0	retinopathy	NA	NA	DISCUSS	To have homogeneous case and control populations, we also removed moderate background retinopathy samples from both case and control populations.
+0	diabetes	NA	NA	DISCUSS	In the GWAS study on type 1 diabetes by Grassi et al., all non-severe DR cases were treated as control samples, which means they support our hypothesis that genetic mechanisms of severe DR and non-severe DR might not be the same.
+0	NA	NA	NA	DISCUSS	Similar to Grassi et al.
+0	Kidneys in Diabetes	NA	NA	DISCUSS	's work, we also do not consider the status of diabetic nephropathy in our GWAS.
+0	NA	NA	NA	DISCUSS	We recognize that our case-control ratio is 1:7 which is consistent with the case-control ratio of the UKPDS cohort (R0 = 2,316, R1 + R2 = 801, R3 + R4 = 509) (Kohner et al.
+0	NA	NA	NA	DISCUSS	2001).
+0	NA	NA	NA	DISCUSS	It is expected that the power will not increase dramatically if the case-control ratio is smaller than 1:4 when the overall sample size increases (Grimes & Schulz 2005).
+0	NA	NA	NA	DISCUSS	But, for GWAS, it is recommended to have a larger sample size.
+0	NA	NA	NA	DISCUSS	A good phenotype definition will gather relatively homogeneous individuals with similar clinical conditions and underlying genetic mechanisms
+0	NA	NA	rs3913535	DISCUSS	The most significant SNP was identified in the NOX4 gene with a p value of 4.05 x 10-9 at rs3913535 and an odds ratio (OR) of 1.55 (95% confidence interval: 1.34-1.79).
+0	NA	NA	rs10765219	DISCUSS	Two nearby SNPs, located next to NOX4, rs10765219 and rs11018670 also showed promising p values (p = 7.41 x 10-8, 1.23 x 10-8).
+0	NA	NA	NA	DISCUSS	The NOX4 gene encodes the NOX4 protein which is located in non-phagocytic cells where it acts as an oxygen sensor and catalyses the reduction of molecular oxygen to various reactive oxygen species (ROS).
+0	cancers	NA	NA	DISCUSS	The ROS has been linked with numerous biological functions including signal transduction, cell differentiation and tumour cell growth (http://www.ncbi.nlm.nih.gov/gene/50507 2017).
+0	retinopathy of prematurity	NA	NA	DISCUSS	Nox4 mediates vascular endothelial growth factor receptor (VEGF) 2-induced intravitreal neovascularization in a rat model of retinopathy of prematurity (Wang et al.
+0	NA	NA	NA	DISCUSS	2014).
+0	NA	NA	NA	DISCUSS	In mice models, activation of Nox4 plays an essential role in high-glucose and hypoxia-mediated VEGF expression and diabetes-induced blood-retinal barrier breakdown, while the inhibition of Nox4 contributes to the protective effects of lovastatin in diabetic retinopathy (Li et al.
+0	NA	NA	NA	DISCUSS	2010).
+0	retinopathy	NA	NA	DISCUSS	In addition, Nox4's expression is significantly increased in oxygen-induced retinopathy and upregulation of Nox4 contributes to retinal neovascularization formation in oxygen-induced retinopathy (Li et al.
+0	NA	NA	NA	DISCUSS	2014).
+0	NA	NA	NA	DISCUSS	Further, Nox4 has been identified to mediate insulin-stimulated VEGF expression and angiogenesis in cells (Meng et al.
+0	NA	NA	NA	DISCUSS	2012a).
+0	diabetes	NA	NA	DISCUSS	Last but not least, it is also reported that Nox4-mediated oxidative stress contributes to Wnt pathway activation in diabetic retinopathy (Liu et al.
+0	NA	NA	NA	DISCUSS	2014).
+0	neovascular disease	NA	NA	DISCUSS	Modulation of retinal Nox4 expression may present a promising therapeutic approach for neovascular retinal diseases.
+0	NA	NA	NA	DISCUSS	In addition to DR, NOX4 has been linked with other diabetic microvascular disorders such as diabetic nephropathy with strong evidence.
+0	Kidneys in Diabetes	NA	NA	DISCUSS	Inhibitor of the NOX4 gene has been proved to have renoprotection in diabetic nephropathy (Gorin & Block 2013; Jha et al.
+0	NA	NA	NA	DISCUSS	2014; Thallas-Bonke et al.
+0	NA	NA	NA	DISCUSS	2014).
+0	Kidneys in Diabetes	NA	NA	DISCUSS	The inhibitor, also named as GKT-137831, has been under Phase II clinical development for the treatment of diabetic nephropathy, though it failed to pass recently (Gorin et al.
+0	NA	NA	NA	DISCUSS	2015).
+0	diabetes	NA	NA	DISCUSS	We did not have direct replications of these 3 SNPs for the same definitions of severe DR, but we have performed a meta-analysis of these 3 SNPs from multiple Caucasian DR cohorts including Scania Diabetic Registry (SDR), Finnish Diabetic Nephropathy Study (FinnDiane), Genetics of Kidneys in Diabetes study (GoKinD), Epidemiology of Diabetes Interventions and Complications (EDIC), Australian DR Genetics Case-Control Study (AUST), The Blue Mountain Eye Study (BMES) and Cardiovascular Health Study 2 (CHS2), regardless of the types of diabetes, the DR grading methods and the severity of DR (Table 2).
+0	NA	NA	rs10765219	DISCUSS	The meta-analysis p values of these SNPs were no longer GWAS significant though the p values of rs10765219 and rs11018670 were less than 0.01.
+0	diabetes	NA	NA	DISCUSS	This could be due to multiple reasons such as different ethnic populations, different types of diabetes, the heterogeneity of DR definitions, different levels of DR severity in these Caucasian DR cohorts and different adjusted covariates (which might lead to bias) among cohorts (see the Appendix S1).
+0	diabetes	NA	NA	DISCUSS	We also performed a meta-analysis using four African American DR cohorts including African American Proliferative Diabetic Retinopathy Study (AAPDR), Jackson Heart Study (JHS), Atherosclerosis Risk in Communities (ARIC) Study and Multi-Ethnic Study of Atherosclerosis-African Americans (MESA-AA).
+0	NA	NA	NA	DISCUSS	The three SNPs did not show positive results (Table S3).
+0	NA	NA	NA	DISCUSS	The directions of the effect of these SNPs are quite consistent among Caucasian DR cohorts, while they were quite mixed among African American DR cohorts.
+0	NA	NA	NA	DISCUSS	In addition to the above-mentioned reasons, the smaller sample size in each African American cohort could be causing these mixed directions of effect.
+0	NA	NA	NA	DISCUSS	Finally, it is noticed that all the three SNPs strongly affect the NOX4 gene expression according to the Genotype-Tissue Expression (GTEx) portal though the cells used were from fibroblasts, not from eyes (Carithers et al.
+0	NA	NA	NA	DISCUSS	2015)
+0	diabetes	NA	NA	DISCUSS	Narrow-sense heritability of severe DR was estimated to be 7.00% in this diabetic population.
+0	NA	NA	NA	DISCUSS	Narrow-sense heritability means the ratio of total phenotypic variance that is due to additive genetic effects (Lee et al.
+0	NA	NA	NA	DISCUSS	2011).
+0	NA	NA	NA	DISCUSS	This estimation does not include the contribution of gene-gene interactions, gene-environment interactions, etc, so the actual heritability of this phenotype is likely to be greater.
+0	NA	NA	NA	DISCUSS	We have suggested that severe DR is a heritable trait in this GWAS and further genetic research is warranted
+0	NA	NA	NA	DISCUSS	We had moderate power in this study due to the limited number of cases in GoDARTS.
+0	NA	NA	NA	DISCUSS	According to CaTS, using an additive model, we had 80% power to detect a genotypic relative risk of 1.50 for variants with a minor allele frequency of 30% when the disease prevalence in the population is 25% and the significance level is 5 x 10-8 (Skol et al.
+0	NA	NA	NA	DISCUSS	2006).
+0	NA	NA	NA	DISCUSS	We also provided the corresponding p values in the GoDARTS of the SNPs suggested by other GWAS studies (Table S4).
+0	diabetes	NA	NA	DISCUSS	For reader's interest, we also selected controls with diabetic history over 20 years (N = 470) to perfectly match cases in terms of duration of diabetes.
+0	NA	NA	NA	DISCUSS	The p values of the three SNPs increased, which were mainly caused by decreased sample size
+0	NA	NA	NA	DISCUSS	A consensus phenotyping approach to DR will not only improve data and study quality but also help to discover novel mechanisms of DR at a molecular level.
+0	NA	NA	NA	DISCUSS	It has the potential for identifying drug targets and eventually leading to better therapeutic management.
+0	diabetes	NA	NA	DISCUSS	This study will initiate more questions to answer about diabetic retinopathy, such as 1.
+0	diabetes	NA	NA	DISCUSS	Do diabetic retinopathy and other types of retinopathies share common genetic components?
+0	NA	NA	NA	DISCUSS	2.
+0	diabetes	NA	NA	DISCUSS	Are the mechanisms of diabetic retinopathy in type 1 and type 2 diabetes the same or not
+0	diabetes	NA	NA	DISCUSS	This analysis suggests new evidence that NOX4 gene might be associated with severe DR. We used a novel approach in this study to define severe DR cases and controls, based on DR screening results and Scottish Diabetic Retinopathy Grading Scheme to have a reasonably homogenous phenotype.
+0	NA	NA	NA	DISCUSS	Our next step is to attempt replication of significant SNPs using newly recruited samples and focus on the molecular mechanisms that may be responsible for the association hits.
+0	NA	NA	NA	DISCUSS	The findings of these studies will help to confirm the role of NOX4 in the DR mechanisms and provide possible drug targets for DR treatment

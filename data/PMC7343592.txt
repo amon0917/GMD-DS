@@ -1,0 +1,398 @@
+0	diabetes	NA	NA	ABSTRACT	We investigated type 2 diabetes (T2D) genetic susceptibility via multi-ethnic meta-analysis of 228,499 cases and 1,178,783 controls in the Million Veteran Program, DIAMANTE, Biobank Japan, and other studies.
+0	NA	NA	NA	ABSTRACT	We report 568 associations, including 286 autosomal, 7 X chromosomal, and 25 identified in ancestry-specific analyses that were previously unreported.
+0	NA	NA	NA	ABSTRACT	Transcriptome-wide association analysis detected 3,568 T2D-associations with genetically predicted gene expression in 687 novel genes; of these, 54 are known to interact with FDA-approved drugs.
+0	retinopathy	NA	NA	ABSTRACT	A polygenic risk score was strongly associated with increased risk of T2D-related retinopathy and modestly associated with chronic kidney disease (CKD), peripheral artery disease (PAD), and neuropathy.
+0	coronary artery disease	NA	NA	ABSTRACT	We investigated the genetic etiology of T2D-related vascular outcomes in MVP and observed statistical SNP-T2D interactions at 13 variants, including coronary heart disease, CKD, PAD, and neuropathy.
+0	NA	NA	NA	ABSTRACT	These findings may help to identify potential therapeutic targets for T2D and genomic pathways that link T2D to vascular outcomes
+0	Type 2 diabetes	NA	NA	INTRO	Type 2 diabetes mellitus (T2D), a leading cause of morbidity globally, is projected to affect up to 629 million people by 2045.
+0	NA	NA	NA	INTRO	People with T2D are at increased risk of developing a wide range of macro- and microvascular outcomes, and there are large disparities in prevalence, severity and co-morbidities across global populations.
+0	NA	NA	NA	INTRO	Over 400 common variants have been identified that confer disease susceptibility, yet because most studies have been performed in cohorts of European or Asian ancestry, the impact of these variants across all ethnic needs to be quantified.
+0	NA	NA	NA	INTRO	Identifying genetic factors and genes underlying T2D-related complications could inform clinical management strategies, including patient stratification or optimizing study design of randomized controlled trials.
+0	NA	NA	NA	INTRO	The lack of large, multi-ethnic richly phenotyped cohorts linked to genetic data has made it difficult to address these questions
+0	NA	NA	NA	INTRO	We conducted a multi-ethnic association study of T2D risk comprised of 228,499 T2D cases and 1,178,783 controls of European, African American, Hispanic, South Asian, and East Asian ancestry.
+0	coronary artery disease	NA	NA	INTRO	We investigated the association of a T2D polygenic risk score with major T2D-related macrovascular outcomes (coronary heart disease (CHD), ischemic stroke, and peripheral artery disease (PAD)) and three microvascular diseases (chronic kidney disease (CKD), retinopathy and neuropathy) in the Million Veteran Program (MVP).
+0	NA	NA	NA	INTRO	Subsequently, we conducted a genome-wide SNP-T2D interaction analysis in MVP to identify genetic variants where the effect of SNP on the vascular outcome depends on the context of T2D presence.
+0	NA	NA	NA	INTRO	We also performed association analyses of genetically predicted expression levels and expression quantitative trait-T2D colocalization analyses to identify the effects of gene-tissue pairs that influence T2D risk through inter-individual variation in expression
+0	NA	NA	NA	INTRO	This study complements prior genetic studies of T2D through use of large-scale clinical data in conjunction with polygenic scores, evaluation of context specificity for genetic effects on T2D vascular sequelae, and describing the regulatory circuits that influence T2D risk
+0	cancers	NA	NA	RESULTS	We performed a genome-wide, multi-ethnic T2D-association analysis (228,499 cases and 1,178,783 controls) encompassing five ancestral groups (Europeans, African Americans, Hispanics, South Asians and East Asians) by meta-analyzing genome-wide association study (GWAS) summary statistics derived from the Million Veteran Program (MVP) and other studies with non-overlapping participants: DIAMANTE Consortium, Penn Medicine Biobank, Pakistan Genomic Resource, Biobank Japan, Malmo Diet and Cancer Study, Medstar, and PennCath (Methods and Supplementary Tables 1 and 2).
+0	NA	NA	NA	RESULTS	MVP participants (n = 273,409) comprised predominantly male subjects (91.6%) and were classified as Europeans (72.1%), African Americans (19.5%), Hispanics (7.5%), and Asians (0.9%, Supplementary Table 3)
+0	NA	NA	NA	RESULTS	We identified 558 independent sentinel SNPs (286 previously unreported, >500 kb and r2 LD < 0.05 from a previous reports; see Methods) associated with T2D (Fig.
+0	NA	NA	NA	RESULTS	1, Table 1, Supplementary Tables 4-8, and Extended Data Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	NA	NA	RESULTS	Twenty-one additional SNPs were associated at genome-wide significance in ancestry-specific analysis of Europeans only (Supplementary Table 6).
+0	NA	NA	NA	RESULTS	We found that novel loci had smaller magnitudes of effect (average beta regression coefficient of 0.032 +- 0.012 per allele) than previously established SNPs (average beta of 0.054 +- 0.045 per allele, Supplementary Table 5), presumably resulting from enhanced power to discover weaker effects due to the large sample size and ancestral diversity.
+0	NA	NA	NA	RESULTS	Genome-wide chip heritability analysis explained 19% of T2D risk on a liability scale
+0	NA	NA	NA	RESULTS	In analysis focused on African American participants (Table 1), we observed a total of 21 loci associated with T2D susceptibility at genome-wide significance, 16 of which were in strong LD with established T2D variants.
+0	NA	NA	NA	RESULTS	Three variants were novel and their effects on T2D appeared specific to African Americans.
+0	NA	NA	NA	RESULTS	Single variant analysis in the Hispanics subset identified two associated SNPs, both of which tagged previously reported T2D loci (Supplementary Table 7).
+0	NA	NA	NA	RESULTS	No novel associations were observed among the individuals of Asian ancestry (Supplementary Table 8)
+0	NA	NA	NA	RESULTS	To evaluate whether the observed genomic inflation is due to the polygenic nature of T2D or due to underlying population stratification, linkage disequilibrium score regression (LDSC) was used in Europeans and Asians to compare lambda genomic control (GC) and LDSC intercept (Methods).
+0	NA	NA	NA	RESULTS	In Asians, a total of 1,077,427 SNPs were analyzed, resulting in a lambda GC of 1.342 and intercept of 1.094 (se = 0.012).
+0	NA	NA	NA	RESULTS	In Europeans, 1,198,787 SNPs were analyzed resulting in a lambda GC of 1.863 and intercept of 1.139 (se = 0.016).
+0	NA	NA	NA	RESULTS	Admixture-adjusted LDSC was used in African Americans and Hispanics.
+0	NA	NA	NA	RESULTS	A total of 945,603 SNPs were analyzed in African Americans, with lambda GC of 1.180 and intercept of 1.048 (se = 0.007).
+0	NA	NA	NA	RESULTS	For Hispanics, 1,077,427 SNPs were analyzed with lambda GC of 1.093 and intercept of 1.091 (se = 0.113).
+0	NA	NA	NA	RESULTS	Except perhaps for Hispanics (where the estimated error on the intercept is large), these results suggest that a substantial part of the observed inflation these populations is due to T2D polygenicity
+0	NA	NA	NA	RESULTS	In trans-ethnic analysis of the X chromosome, we identified a total of 10 association signals for T2D, of which 7 were novel (Table 2, Supplementary Table 9, and Extended Data Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	NA	RESULTS	A European-restricted analysis identified four loci on the X chromosome, all of which were identified in the trans-ethnic meta-analysis.
+0	NA	NA	NA	RESULTS	One novel X chromosome locus was associated with T2D specifically in African Americans.
+0	baldness	androgen receptor	rs4509480	RESULTS	We note that one novel trans-ethnic association was identified near the androgen receptor (AR) gene and was in strong LD with a previously reported variant (rs4509480) previously shown to associate with male-pattern baldness (EUR r2 = 0.98, rs200644307)
+0	NA	NA	NA	RESULTS	While at most loci we found no evidence for heterogeneity of effect estimates between Europeans and African Americans, we did observe that 44 (7.9%) variants had significantly different effect size estimates between the two groups (Supplementary Table 10).
+0	NA	SLC30A8	NA	RESULTS	Remarkably, four loci near SLC30A8, PTPRQ, GRB10, and COLB showed higher effect sizes for T2D at stronger levels of significance in African Americans compared with Europeans.
+0	NA	SLC30A8	NA	RESULTS	Of these loci, associations with loss-of-function variants in SLC30A8 were previously reported in Europeans, African Americans and South Asians
+0	NA	NA	NA	RESULTS	We detected a total of 233 conditionally independent SNPs flanking 49 novel and 108 previously reported lead SNPs in Europeans (Supplementary Tables 11 and 12).
+0	NA	NA	NA	RESULTS	We observed no novel conditionally independent variants in participants of South Asian, East Asian and Hispanic ancestry
+0	NA	NA	NA	RESULTS	To identify coding variants that may drive the association between the lead SNPs and T2D risk, we investigated predicted loss-of-function (pLoF) and missense variants near the identified T2D lead variants from the European-specific T2D summary statistics (Supplementary Table 13).
+0	NA	LPL	NA	RESULTS	We identified two pLoF (LPL and ANKDD1B) and 45 missense variants in 47 genes that were in LD with at least one of the T2D lead SNPs (r2 > 0.5, MVP reference panel in Europeans) and were associated at P < 1.0 x 10-4.
+0	NA	NA	NA	RESULTS	Of the 56 pLoF and missense variants, 14 missense variants were found to be the sentinel T2D SNPs and 19 variants were in LD with novel lead SNPs, and 37 variants were previously reported
+0	NA	NA	NA	RESULTS	We additionally performed a genome-wide screen of all pLoFs and missense variants (not bound by proximity to sentinel T2D lead variants) to enumerate potentially T2D genes not captured by common variant tags (Supplementary Table 14).
+0	NA	CCHCR1	NA	RESULTS	We identified one additional pLoF variant in CCHCR1, whereas 37 novel missense variants were associated with T2D at P < 5 x 10-8
+0	NA	NA	NA	RESULTS	We next performed a PheWAS of the three pLoF variants associated with T2D in MVP participants of European ancestry, UK Biobank data, and Biobank Japan separately (Table 3).
+0	NA	ANKDD1B	p.Trp480*	RESULTS	These loci included ANKDD1B p.Trp480* (rs34358), CCHCR1 p.Trp78* (rs3130453), and LPL p.*474Ser (rs328), and they were significantly associated with metabolic and inflammatory conditions.
+0	NA	NA	NA	RESULTS	Klarin et al.
+0	dyslipidemia	LPL	NA	RESULTS	previously reported pheWAS associations with for LPL p.*474Ser with dyslipidemia, coronary atherosclerosis and other chronic ischemic heart disease in MVP, and lipid and cardiometabolic associations for this variant were also observed in Biobank Japan and UK Biobank.
+0	dyslipidemia	ANKDD1B	p.Trp480*	RESULTS	In MVP, ANKDD1B p.Trp480* was associated with dyslipidemia, hypercholesterolemia, and diabetic neurological manifestations.
+0	NA	NA	NA	RESULTS	In Biobank Japan, this variant was a range of blood and immune cell traits, whereas in UK Biobank, the SNP was associated with metabolic and anthropometric traits.
+0	NA	CCHCR1	p.Trp78*	RESULTS	In MVP and UKBB, CCHCR1 p.Trp78* was associated with a battery of autoimmune traits, and in Biobank Japan, this variant was associated with total cholesterol, LDL-C, BMI, NK cells, and Na electrolytes
+0	NA	NA	NA	RESULTS	We next used common variants from the European T2D GWAS meta-analysis to evaluate the association of genetically predicted gene expression levels with T2D risk across 52 tissues including kidney and islet cells using S-PrediXcan (Supplementary Table 15 and Extended Data Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	NA	NA	RESULTS	We identified 4,468 statistically significant gene-tissue combination pairs genetically predictive of T2D risk, of which 4,211 transcript eQTLs were in LD (r2 > 0.5) with T2D signals.
+0	NA	NA	NA	RESULTS	We identified 873 genes in this analysis that would not have been identified by nearest-gene annotation alone.
+1	NA	NRAP	NA	RESULTS	The strongest gene-tissue combination signals were for NRAP in the cerebellum and TCF7L2 in the aortic artery
+0	NA	NA	NA	RESULTS	We then used COLOC to identify the subset of significant genes where there was a high posterior probability that the set of model SNPs in the S-PrediXcan analysis for each gene were associated with gene expression and with T2D.
+0	NA	NA	NA	RESULTS	This analysis refined the results of the transcriptome-wide association scan and excluded some results that might be the consequence of LD between causal SNPs for gene expression and T2D.
+0	NA	NA	NA	RESULTS	We detected 3,166 gene-tissue pairs where there was statistically significant association with T2D risk and high posterior probability (P4 > 0.8) of colocalization, covering a total of 695 distinct genes.
+0	diabetes	NA	NA	RESULTS	When comparing the 804 genes to the GWAS catalog mapped and reported genes for all prior studies of diabetes or diabetes complications, 687 had not been previously reported.
+0	retinopathy and nephropathy complications	NA	NA	RESULTS	Hypergeometric enrichment analysis showed that most enriched gene expression signals were in cervical spinal cord, basal ganglia and glomerular kidney (Supplementary Table 16)
+0	diabetes	NA	NA	RESULTS	Of the 695 genes identified in S-PrediXcan analyses, 54 genes have documented interactions with a total of 283 FDA-approved drugs and chemical compounds that do not have an indication for T2D treatment or reported adverse drug events (ADEs) in diabetic patients using the SIDER database of drugs and side effects.
+0	NA	NA	NA	RESULTS	Using the Drug-Gene Interaction Database (DGIdb version 3.0), a total of 322 gene-drug combinations were identified for which it is predicted to modulate blood glucose based on direction of effect on T2D risk with increasing gene expression and drug action (activator or inhibitor, Supplementary Table 17).
+0	NA	KCNJ11	NA	RESULTS	Gene-drug combinations included several established T2D loci such as KCNJ11 targeted by 15 compounds (e.g.
+0	NA	NA	NA	RESULTS	sulfonylureas, glinides, and p-glycoprotein inhibitors), SCNA3 targeted by 57 compounds (e.g.
+0	NA	PIK3CB	NA	RESULTS	anti-arrythmetics, anti-epileptics), PIK3CB targeted by 46 compounds (e.g.
+0	cancers	ACE	NA	RESULTS	cancer drugs), ACE targeted by 36 compounds (e.g.
+0	NA	ACE	NA	RESULTS	angiotensin-converting enzyme (ACE) inhibitors), HMGCR targeted by 18 compounds (e.g.
+0	NA	PIK3C2A	NA	RESULTS	HMG-CoA reductase inhibitors), PIK3C2A targeted by 15 compounds (anti-cancer drugs), F2 targeted by 11 compounds (anti-coagulants), and BLK targeted by 9 compounds (protein kinase inhibitors)
+0	NA	NA	NA	RESULTS	To understand the contribution of disease-associated tissues is to T2D heritability, we performed tissue-specific analysis using LDSC (Supplementary Table 18).
+0	pancreatic	NA	NA	RESULTS	The strongest associations were observed in genomic annotation surveyed in pancreas and pancreatic islets (e.g., pancreatic islets H3K27ac, pancreas DNase, etc., P < 0.001).
+0	NA	NA	NA	RESULTS	We additionally tested for enrichment of epigenetic features using GREGOR, which compares overlap of T2D-associated loci variants relative to control variants matched for number of LD proxies, allele frequency, and gene proximity (Supplementary Tables 19-21).
+0	NA	NA	NA	RESULTS	Similar to the results from LDSC, 8 of the top 10 associated hits map to the pancreas, including H3K27ac, pancreatic islets H3K27ac, and pancreatic islets activated enhancer, among others
+0	NA	NA	NA	RESULTS	To explore whether our results recapitulate the pathophysiology of T2D, we performed gene-set enrichment analysis with all the variants using DEPICT (P < 1 x 10-5, Supplementary Table 22).
+0	NA	NA	NA	RESULTS	MeSH-based analysis showed that several different adipose tissues and sites were enriched (e.g., abdominal subcutaneous fat, white adipose tissue, etc.).
+0	lung cancer	AKT2	NA	RESULTS	Finally, DEPICT analysis showed that the most significant gene-set involved the AKT2 subnetwork, lung cancer, the GAB1 signalosome, protein kinase binding, signal transduction, and EGFR signaling (Supplementary Tables 23 and 24)
+0	NA	NA	NA	RESULTS	Genome-wide genetic correlations of T2D were calculated with a total of 774 complex traits and diseases by comparing allelic effects using LD score regression with the European-specific T2D summary statistics (Methods).
+0	NA	NA	NA	RESULTS	A total of 270 significant associations were observed (P < 5 x 10-8, Supplementary Table 25).
+0	hypertension	NA	NA	RESULTS	The strongest positive correlations were observed with waist circumference, overall health, BMI, and fat mass of arms, legs, body and trunk, hypertension, coronary artery disease, dyslipidemia, alcohol intake, wheezing, and cigarette smoking.
+0	NA	NA	NA	RESULTS	There was also a strong negative correlation with years of education
+0	NA	NA	NA	RESULTS	We next investigated SNP-T2D interaction effects associated with T2D-related vascular outcomes among European-descent MVP participants (P < 5 x 10-8; Methods, Table 4, and Supplementary Table 26).
+0	CKD	NA	NA	RESULTS	The analysis included a total case count of 67,403 for CKD, 56,285 for CHD, 35,882 for PAD, 11,796 for acute ischemic stroke, 13,881 for retinopathy, and 40,475 for neuropathy.
+0	NA	NA	NA	RESULTS	We identified several genome-wide significant interactions where the genetic associations with T2D-related vascular outcomes were modified by T2D (Table 4 and Supplementary Table 26).
+1	CKD	SORT1	rs1831733	RESULTS	We identified two loci for CHD (rs1831733 in 9p21 and rs602633 near SORT1) and one for CKD (rs34857077 in UMOD) for which the difference in the effect estimates between T2D strata was genome-wide significant (P < 5 x 10-8) and at least one T2D-stratum was genome-wide significant.
+1	CKD	PDE3A	rs71039916	RESULTS	We identified one locus for CHD (rs71039916 near PDE3A), one for CKD (rs2177223 near TENM3), one for PAD (rs3104154 in PTDSS1), one for neuropathy (rs78977169 near NRP2), four for retinopathy (rs76754787 near GJA8, rs10733997 in SVILP2, rs2255624 near SLC18A2, and rs4132670 in TCF7L2) and two for acute ischemic stroke (rs491203 near TMEM51, and rs2134937 near TRIQK) that showed genome-wide significance for difference in effect estimates between the T2D strata and nominal significance (P < 0.001) for at least one T2D stratum
+0	NA	NA	NA	RESULTS	Genome-wide polygenic risk scores (gPRS) for T2D were calculated in Europeans based on the T2D effect estimates from the previously reported DIAMANTE consortium and then categorized into deciles (Tables 5 and 6).
+0	NA	NA	NA	RESULTS	As expected, participants with the highest T2D gPRS scores (90-100% T2D gPRS percentile) showed the highest risk for T2D (OR = 5.21, 95% CI 4.94-5.49, Extended Data Fig.
+0	NA	NA	NA	RESULTS	5) when compared to the reference group (0-10% T2D gPRS percentile) in a cross-sectional study design
+0	NA	NA	NA	RESULTS	We evaluated whether the T2D gPRS was associated with the risk of micro- and macrovascular outcomes in an analysis restricted to participants with T2D.
+0	NA	NA	NA	RESULTS	The P-values were calculated using gPRS as a continuous exposure, and odds ratios were calculated by contrasting the top to the bottom gPRS decile (Fig.
+0	NA	NA	NA	RESULTS	2 and Tables 5 and 6).
+0	retinopathy	NA	NA	RESULTS	We observed strong association between a T2D gPRS and microvascular complications, in particular with retinopathy, but to a lesser extent with neuropathy and CKD.
+0	cerebral infarctions	NA	NA	RESULTS	For macrovascular outcomes, T2D gPRS was associated with the risk of PAD, but not with the risk of CHD or acute ischemic stroke
+0	NA	NA	NA	DISCUSS	We report the discovery of 318 novel autosomal and X chromosomal variants associated with T2D susceptibility in a trans-ethnic GWAS.
+0	diabetes	NA	NA	DISCUSS	We also report 13 variants associated with differences in T2D-related micro- and macrovascular outcomes between diabetic and non-diabetics.
+0	NA	NA	NA	DISCUSS	The substantial locus discovery was achieved by combining data from several large-scale biobanks and consortia, where the MVP data constituted over 40% of all T2D cases.
+0	NA	NA	NA	DISCUSS	Furthermore, we present the largest cohort of African Americans including over 56,000 participants, substantially larger than previous African-specific studies published to date
+0	NA	LPL	NA	DISCUSS	Analyses of coding variants identified 44 variants associated with T2D, including three pLoF variants in LPL, ANKDD1B and CCHCR1.
+0	NA	NA	NA	DISCUSS	We identified 804 putative causal genes at both novel and previously reported loci, including 54 genes that were found to be possible targets for FDA-approved drugs and chemical compounds.
+0	NA	NA	NA	DISCUSS	Our SNP-T2D interaction analyses identified several loci where the association between a genetic variant and a vascular outcome differed between people with T2D as compared to those without.
+0	retinopathy	NA	NA	DISCUSS	We further found that a high polygenic risk for T2D strongly increased the risk for retinopathy in individuals with T2D, and also for CKD, neuropathy, and PAD
+0	NA	NA	NA	DISCUSS	T2D is highly prevalent in people of African ancestry; however, there are a total of three published T2D GWAS reports in this ancestral group with only four definitely detected loci.
+0	NA	NA	NA	DISCUSS	In our study with over 56,000 participants of recent African ancestry, we report four novel loci for T2D that are solely observed in this ancestral group, including one that is located on the X chromosome.
+0	NA	INS	rs3842770	DISCUSS	Of the previously reported loci, only rs3842770 (INS-IGF2) was replicated here.
+0	NA	NA	rs7560163	DISCUSS	We did not observe replication either with rs7560163 or rs73284431, reported from a large study conducted in sub-Saharan Africa.
+0	NA	HLA-B	rs2244020	DISCUSS	The reported HLA-B variant rs2244020 did not replicate in our study, but we did observe a significant association with another SNP in the HLA region (rs10305420, OR 1.15, P = 8.5 x 10-9).
+0	NA	NA	rs782270174	DISCUSS	We observed that the major G-allele of chrX:153882606 (rs782270174) was associated with increased risk of T2D in African Americans.
+0	NA	G6PD	G202A	DISCUSS	This variant is in high LD (r2 = 0.93) with G6PD G202A (rs1050828), for which the minor allele is associated with lower HbA1c due to shorter RBC lifespan.
+0	NA	NA	NA	DISCUSS	In a post-hoc analysis, we examined the relationship of chrX:153882606 to most recent HbA1C prior to MVP study enrollment in African American males and did observe a strong negative association (beta = -0.072, se = 0.0015, n = 55,165, P < 1.0 x 10-322).
+0	NA	NA	rs782270174	DISCUSS	We cannot rule out the possibility that the apparent association in T2D at rs782270174 reflects under-diagnosis of T2D due to reduced HbA1C in African Americans.
+0	NA	AGTR2	rs146662075	DISCUSS	We did not replicate the association of the AGTR2 variant (rs146662075, chrX:115408811) as reported by Bonas-Guarch et al., which might be the result of poor imputation of the 1000 Genomes reference panel for this variant
+0	NA	NA	NA	DISCUSS	The presence of a coding variant near a tagging SNP does not constitute enough evidence to infer a causal association.
+0	NA	NA	NA	DISCUSS	However, recent exome-array genotyping of over 350,000 individuals identified 40 coding variants associated with T2D, of which 26 mapped near known risk-associated loci.
+0	NA	NA	NA	DISCUSS	Similarly, an exome sequencing study in over 40,000 participants reported 15 variants associated with T2D, of which only two were not previously reported by GWAS.
+0	NA	NA	NA	DISCUSS	Sequencing efforts are indispensable for identifying causal variants and genes related to disease, as well as providing insight into the contributions of ultra-rare alleles while adding to the value of array-based association studies
+0	NA	NA	NA	DISCUSS	Our transcriptome-wide analyses identified 804 putatively causal genes, including 54 genes that appear to be regulated by approved drugs and 687 genes that have not been previously reported.
+0	NA	NA	NA	DISCUSS	Some of these genes are already well established for T2D etiology (e.g.
+0	NA	KCNJ11	NA	DISCUSS	KCNJ11).
+0	NA	NA	NA	DISCUSS	Except for skeletal muscle, the tissues that showed strongest associations are not known to be of importance in T2D etiology.
+0	NA	NA	NA	DISCUSS	However, this could be simply explained by the fact that (i) eQTLs appear ubiquitous across tissues and (ii) eQTL discovery across tissues may not be the same, given eQTL effect sizes and sample sizes of T2D relevant tissues.
+0	NA	NA	NA	DISCUSS	We did not observe any significant association in the alpha and beta islet cells, which could be the result of the small sample size (e.g.
+0	NA	NA	NA	DISCUSS	30 alpha cells and 19 beta cells).
+0	NA	NA	NA	DISCUSS	In addition, whole islet transcriptomes are notoriously variable due to the large differences in islet composition among humans, and a few transcripts make up half the transcriptome
+0	NA	NA	NA	DISCUSS	Of particular clinical importance, we identified several genes that are therapeutic targets for medications in patients treated for cardiometabolic conditions.
+0	NA	SCN3A	NA	DISCUSS	We identified two genes, SCN3A and SV2A, whose expression is modified by anti-epileptic agents, and evidence exists showing that anti-epileptic agents may influence glucose regulation.
+0	NA	NA	NA	DISCUSS	A randomized-controlled trial has reported that the anticonvulsant valproic acid lowers blood glucose concentrations.
+0	NA	NA	NA	DISCUSS	The information from the gene-drug analyses may facilitate future drug repurposing screens
+0	retinopathy	NA	NA	DISCUSS	It is possible that the use of the T2D gPRS provides an opportunity to identify patients who are at the highest risk of developing microvascular complications, such as retinopathy.
+0	retinopathy	NA	NA	DISCUSS	Here, we observed that among vascular outcomes, the T2D gPRS was most significantly associated with retinopathy.
+0	CKD	NA	NA	DISCUSS	In addition, we observed significant associations with other T2D-related outcomes such as CKD, PAD, and neuropathy.
+0	NA	NA	NA	DISCUSS	Studies at specific loci using both common and rare coding variants will be required to understand pathways leading to T2D-related vascular outcomes
+0	NA	NA	NA	DISCUSS	In a SNP-T2D interaction analysis on T2D-related vascular outcomes, we identified 13 loci where the effect on outcome was different between the strata of T2D, of which three occurred at previously established variants and 10 had not been previously reported.
+0	diabetes	NA	NA	DISCUSS	Our findings have clinical translational potential for risk stratification and identify diabetic patients who are predisposed to develop subsequent vascular outcomes and present therapeutic opportunities to attenuate the risk of diabetes progression in individuals with T2D
+0	retinopathy	NA	NA	DISCUSS	For T2D-related retinopathy, four variants were found to have different effect sizes between people with and without T2D.
+1	retinopathy	GJA8	NA	DISCUSS	The strongest signal for interaction in relation to retinopathy was observed for GJA8.
+0	eye abnormalities	NA	NA	DISCUSS	Deletion of this gene has been associated with eye abnormalities and retinopathy of prematurity in premature infants, inherited cataracts, visual impairment and cardiac defects and eye abnormalities.
+1	diabetes	TCF7L2	NA	DISCUSS	TCF7L2 is a known diabetes locus and its association with progression to retinopathy has been previously established.
+1	NA	SLC18A2	NA	DISCUSS	SLC18A2 is expressed in adult retina and retinal pigment epithelium tissues; the product of this gene is involved in the transport of monoamines into secretory vesicles for exocytosis.
+0	vision deterioration	SVILP1	NA	DISCUSS	SVILP1 has been previously shown to be associated with thiamine (vitamin B1) prescription, which is frequently prescribed to people with blurry vision
+1	chronic kidney disease	UMOD	NA	DISCUSS	For chronic kidney disease, we identified two loci, UMOD and TENM3, with gene-T2D interaction effects.
+1	NA	UMOD	NA	DISCUSS	UMOD encodes uromodilin, which is exclusively produced by the kidney tubule, where it plays an important role in kidney and urine function.
+1	diabetes	UMOD	rs12917707	DISCUSS	A large-scale study in over 133,000 participants has shown that the serum creatinine-lowering allele in UMOD (rs12917707) is more prevalent in diabetic individuals with CKD as compared to diabetic participants without CKD.
+1	cholangitis	TENM3	NA	DISCUSS	Variation in TENM3 has been associated with cholangitis and kidney disorders in UK Biobank
+1	Neurological and Communication Disorders	NRP2	NA	DISCUSS	SNP-T2D interaction analysis of neuropathy identified one locus, NRP2.
+1	NA	NRP2	NA	DISCUSS	NRP2 encodes neuropilin-2, which is an essential cell surface receptor involved in VEGF-dependent angiogenesis and sensory nerve regeneration
+0	coronary artery disease	NA	NA	DISCUSS	For coronary heart disease, we identified several SNP-T2D interactions.
+0	NA	NA	NA	DISCUSS	Variation at 9p21 has previously been associated with CHD and T2D.
+1	SNPs falling	SORT1	NA	DISCUSS	SORT1 is a lipid-associated locus; in our analyses, allelic variation at this locus that decreases CHD risk and decreases lipids conferred a stronger protection in people with T2D compared to those without T2D.
+0	altered hepatic apoB metabolism	SORT1	NA	DISCUSS	Coupled with findings in mice that identified SORT1 as a novel target of insulin signaling, our findings raise the hypothesis that SORT1 may contribute to altered hepatic apoB metabolism under insulin-resistant conditions
+1	NA	PDE3A	rs71039916	DISCUSS	The SNP rs71039916 is located near PDE3A, and colocalizes with a SNP (rs3752728, D' = 0.867, r2 = 0.08) that is associated with diastolic blood pressure.
+1	NA	PDE3A	NA	DISCUSS	As a phosphodiesterase that reduces cAMP levels, the PDE3A protein limits protein kinase A/cAMP signaling and has been shown to affect proliferation of vascular smooth muscle cells.
+0	NA	GLP-1	NA	DISCUSS	Cell line research has shown that cAMP levels might impact the regulation of insulin secretion in pancreatic beta-cells, and more recent gene ablation studies in mice have established that cAMP/CREB signaling controls the insulinotropic and anti-apoptotic effects of GLP-1 signaling in adult mouse beta-cells.
+0	NA	NA	NA	DISCUSS	Subcutaneous adipose tissue of patients with T2D show increased PDE activity, and inverse correlations between total PDE3 activity and BMI have been reported in adipocytes
+0	diabetes	NA	NA	DISCUSS	In summary, we have identified 318 novel genetic variants associated with T2D risk and T2D-related vascular outcomes, including 3 population-specific autosomal loci in African Americans, 8 variants on the X chromosome, and an additional 13 variants associated with differences in T2D-related micro- and macrovascular outcomes across diabetic stratum.
+0	NA	NA	NA	DISCUSS	Over 21% of our discovery sample comprised of non-European participants; indeed, the African American component alone included over 56,000 subjects.
+0	NA	NA	NA	DISCUSS	We hope this baseline set of data will provide a resource to better understand the genetic etiology of disease and maximize the benefits of polygenic risk prediction in these groups
+0	NA	NA	NA	METHODS	We conducted a large-scale multi-ethnic T2D GWAS of common variants in over 1.4 million participants.
+0	NA	NA	NA	METHODS	We subsequently conducted analyses to facilitate the prioritization of these individual findings, including transcriptome-wide predicted gene expression, secondary signal analysis, T2D-related vascular outcomes analysis, coding variant mapping, and a drug repurposing screen
+0	NA	NA	NA	METHODS	The Million Veteran Program (MVP) is a large cohort of fully consented veterans of the US military forces recruited from 63 participating Department of Veterans Affairs (VA) medical facilities.
+0	NA	NA	NA	METHODS	Recruitment started in 2011, and all veterans were eligible for participation (Supplementary Table 3).
+0	NA	NA	NA	METHODS	We analyzed clinical data through July 2017 for participants who enrolled between January 2011 and October 2016.
+0	NA	NA	NA	METHODS	All study participants provided blood samples for DNA extraction and genotyping, and completed surveys about their health, lifestyle, and military experiences.
+0	NA	NA	NA	METHODS	Consent to participate and permission to re-contact was provided after counseling by research staff and mailing of informational materials.
+0	NA	NA	NA	METHODS	Study participation included consenting to access to the participant's electronic health records for research purposes, data that captured a median follow-up time of 10.0 years at time of study enrollment.
+0	Classification of Diseases	NA	NA	METHODS	Each veteran's electronic health care record is integrated into the MVP biorepository, including inpatient International Classification of Diseases (ICD-9-CM and ICD-10-CM) diagnosis codes, Current Procedural Terminology (CPT) procedure codes, clinical laboratory measurements, and reports of diagnostic imaging modalities.
+0	NA	NA	NA	METHODS	Researchers are provided data that is de-identified except for dates.
+0	NA	NA	NA	METHODS	Blood samples are collected by phlebotomists and banked at the VA Central Biorepository in Boston, where DNA is extracted and shipped to two external centers for genotyping.
+0	NA	NA	NA	METHODS	The MVP received ethical and study protocol approval from the VA Central Institutional Review Board (cIRB) in accordance with the principles outlined in the Declaration of Helsinki
+0	NA	NA	NA	METHODS	DNA extracted from buffy coat was genotyped using a custom Affymetrix Axiom biobank array.
+0	NA	NA	NA	METHODS	The MVP 1.0 genotyping array contains a total of 723,305 SNPs, enriched for low frequency variants in African and Hispanic populations, and variants associated with diseases common to the VA population
+0	NA	v1.18	NA	METHODS	Standard quality control (QC) and genotype calling algorithms were applied using the Affymetrix Power Tools Suite (v1.18).
+0	NA	NA	NA	METHODS	Excluded were duplicate samples, samples with more heterozygosity than expected, and samples with an over 2.5% missing genotype calls.
+0	NA	NA	NA	METHODS	We excluded related individuals (halfway between second- and third-degree relatives or closer) with KING software.
+0	NA	NA	NA	METHODS	Before imputation, variants that were poorly called or that deviated from their expected allele frequency based on reference data from the 1000 Genomes Project were excluded.
+0	NA	NA	NA	METHODS	After prephasing using EAGLE v2, genotypes were imputed via Minimac4 software from the 1000 Genomes Project phase 3, version 5 reference panel.
+0	NA	NA	NA	METHODS	The top 30 principal components (PCs) were computed using FlashPCA in all MVP participants and an additional 2,504 individuals from 1000 Genomes.
+0	NA	NA	NA	METHODS	These PCs were used for the unification of self-reported race/ancestry and genetically inferred ancestry to compose ancestral groups
+0	NA	NA	NA	METHODS	Information on race and ethnicity was obtained based on self-report through centralized VA data collection methods using standardized survey forms, or through the use of information from the VA Corporate Data Warehouse or Observational Medical Outcomes Partnership data.
+0	NA	NA	NA	METHODS	Self-reported race/ethnicity was missing in 3.67% of participants, and 39.4% of participants had some form of discordant information between the various data sources.
+0	NA	HARE	NA	METHODS	Race and ethnicity categories were merged to form the ancestral groups using a unifying classification algorithm based on self-identified race/ethnicity and genetically inferred ancestral information, termed HARE (Harmonized Ancestry and Race/Ethnicity).
+0	NA	NA	NA	METHODS	Using this approach, all but 6,257 (1.78%) were assigned to one of the four ancestral groups
+0	NA	NA	NA	METHODS	ICD-9-CM diagnosis codes from electronic health care records were available for MVP participants from as early as 1998.
+0	diabetes	NA	NA	METHODS	Participants were classified as a T2D case if they had 2 or more T2D-related diagnosis codes (ICD-9-CM 250.2x) from VA or fee basis inpatient stays or face-to-face primary care outpatient visits in the 731 days before the enrollment date up to July 1st of 2017, excluding those with co-occurring diagnosis codes for T1D (250.1x), secondary or other diabetes or a medical condition that may cause diabetes (249.xx).
+0	diabetes	NA	NA	METHODS	Participants were selected as controls if they had no ICD-9-CM diagnosis code for type 1, type 2, or secondary diabetes mellitus up to July 2017
+0	NA	NA	NA	METHODS	For T2D-related vascular outcomes, the following definitions were used: CHD, at least one admission to a VA hospital with discharge diagnosis of admission for myocardial information, or at least one procedure code for revascularization (coronary artery bypass grafting, percutaneous coronary intervention), or at least 2 ICD-9-CM codes for CAD (410 to 414) registered on at least 2 separate encounters.
+0	NA	NA	NA	METHODS	PAD: the presence of >= 2 ICD-9-CM codes or CPT codes as outlined in Klarin et al., or having 1 code and >= 2 visits to a vascular surgeon within a 14 month period.
+0	cerebral infarctions	NA	NA	METHODS	Acute ischemic stroke was defined if at least 1 ICD-9-CM discharge diagnosis code for stroke excluding head injury or rehab (433.x1, 434 (excluding 434.x0), and 436) was present.
+0	CKD	NA	NA	METHODS	CKD was classified as an estimated glomerular filtration rate <60 mL/min-1 1.73 m-2 on two separate occasions 90 days apart, or ICD-9-CM diagnosis codes for chronic renal failure (585) and/or a history of kidney transplantation (ICD-9-CM V42).
+0	Neurological and Communication Disorders	NA	NA	METHODS	Neuropathy was defined using the following ICD-9-CM diagnosis codes: diabetic neuropathy (356.9, 250.6), amyotrophy (358.1), cranial nerve palsy (951.0, 951.1, 951.3), mono-neuropathy (354.0-355.9), Charcot's arthropathy (713.5), polyneuropathy (357.2), neurogenic bladder (596.54), autonomic neuropathy (337.0, 337.1), or orthostatic hypotension (458).
+0	retinopathy	NA	NA	METHODS	Retinopathy was defined using ICD-9-DM diagnosis codes for: T2D with ophthalmic manifestations (250.50, 250.52), retinal detachments and defects (361.0, 361.1), disorders of vitreous body (379.2), other retinal disorders (362.0, 362.1, 362.3, 362.81, 362.83, 362.84), excluding ICD-9-CM codes associated with macular degeneration (362.5)
+0	NA	NA	NA	METHODS	We tested imputed SNPs that passed QC (e.g.
+0	NA	MAF	NA	METHODS	HWE > 1.0 x 10-10, INFO > 0.3, call rate > 0.975) for association with T2D through logistic regression assuming an additive model of variants with MAF > 0.1% in Europeans, and MAF > 1% in African Americans, Hispanics and Asians using PLINK2a.
+0	NA	NA	NA	METHODS	Covariates included age, gender, and 10 principal components of genetic ancestry
+0	NA	NA	NA	METHODS	Summary statistics available from previously published T2D GWAS studies were obtained for meta-analysis (Supplementary Table 2).
+0	NA	NA	NA	METHODS	All cohorts were imputed using the 1000 Genomes Project phase 3, version 5 reference panel, with exception of the DIAMANTE consortium, where genotype calls were imputed using the Haplotype Reference Consortium reference panel.
+0	NA	MAF	NA	METHODS	Only SNPs with ancestry-specific MAF > 1% in these studies were used.
+0	NA	NA	NA	METHODS	Ancestry-specific and multi-ethnic meta-analysis were performed using in a fixed-effects model using METAL with inverse-variance weighting of log odds ratios.
+0	NA	NA	NA	METHODS	Between-study allelic effect size heterogeneity was assessed with Cochran's Q statistic as implemented in METAL.
+0	NA	NA	NA	METHODS	Variants were considered genome-wide significant if they passed the conventional P-value threshold of 5 x 10-8.
+0	NA	NA	NA	METHODS	We excluded variants with a high amount of heterogeneity (I2 statistic > 75%) across the ancestral groups
+0	NA	NA	NA	METHODS	X chromosome genotypes were processed separately.
+0	NA	NA	NA	METHODS	During prephasing and imputation an additional flag of -chrX was added.
+0	NA	NA	NA	METHODS	Post-imputation XWAS QC included removing variants (i) in pseudo-autosomal regions, (ii) not in HWE in females (P > 1.0 x 10-6), (iii) with differential allele frequencies or differential missingness (P < 10-7) between male and female controls (Extended Data Fig.
+0	NA	NA	NA	METHODS	2).
+0	NA	NA	NA	METHODS	For each ancestry-specific subset, we performed sex-stratified analysis where dosages (number of X-chromosome copies) in T2D cases are equivalent to controls within each sex stratum.
+0	NA	NA	NA	METHODS	The ancestry-restricted sex-stratified X chromosome analyses were first meta-analyzed into a multi-ethnic sex-stratified analysis.
+0	NA	NA	NA	METHODS	Then, the multi-ethnic results from males and multi-ethnic results from females were meta-analyzed, where none of the analyzed variants was detected using the Cochrane test for heterogeneity (P < 5 x 10-8).
+0	NA	NA	NA	METHODS	Results are presented in Table 2 and Supplementary Table 9
+0	NA	NA	NA	METHODS	GCTA was used to conduct approximate conditional analyses to detect ancestry-specific distinct association signals at each of the lead SNPs.
+0	NA	NA	NA	METHODS	Race-stratified MVP cohorts (197,066 Europeans and 53,445 African Americans) were used to model LD patterns between variants as a reference panel.
+0	NA	NA	NA	METHODS	For each lead SNP, conditionally independent variants that reached locus-wide significance (P < 1.0 x 10-5) were considered as secondary signals of distinct association.
+0	NA	NA	NA	METHODS	If the minimum distance between any distinct signals from two separate loci was less than 500 kb, we performed additional conditional analysis including both regions and reassessed the independence of each signal.
+0	NA	NA	NA	METHODS	Finally, the predicted conditionally independent variants were tested in a logistic regression model in the MVP study only to empirically validate the signal, and results are shown in Supplementary Tables 11 and 12
+0	NA	NA	NA	METHODS	All imputed variants in MVP were evaluated with Ensemble's Variant Effect Predictor, and predicted LoF and missense variants were extracted.
+0	NA	NA	NA	METHODS	LD was calculated with established variants, and the effect of the missense variant was calculated conditioning on the lead SNP to assess how much residual variance the SNP explains in T2D risk.
+0	NA	NA	NA	METHODS	A P-value of 0.05 was considered as statistically significant
+0	NA	NA	NA	METHODS	Genetically predicted gene expression and its association with T2D risk was estimated using S-PrediXcan.
+0	NA	NA	NA	METHODS	Input included meta-analyzed summary statistics from the European T2D GWAS and reference eQTL summary statistics for 52 tissues including 48 tissues from GTEx, 2 cell types in kidney tissue (glomerulus and tubulus), and 2 cell types in pancreatic islet tissue (alpha and beta).
+0	NA	NA	NA	METHODS	Analyses incorporated genotype covariance matrices based on 1000 Genomes European populations to account for LD structure.
+0	NA	NA	NA	METHODS	Colocalization analysis was performed to address the issue of LD-contamination in S-PrediXcan analyses.
+0	NA	NA	NA	METHODS	The output is shown in Supplementary Table 15
+0	NA	NA	NA	METHODS	LD score regression (LDSC) was used to calculate population-specific LD scores in Europeans and Asians using SNPs selected from HapMap after excluding SNPs with INFO < 0.95 and SNPs in the major histocompatibility complex region.
+0	NA	NA	NA	METHODS	Of note, LDSC is likely to be biased in admixed populations, and therefore admixture-adjusted LDSC was used in African Americans and Hispanics
+0	NA	NA	NA	METHODS	We analyzed cell type-specific annotations to identify enrichments of T2D heritability.
+0	NA	NA	NA	METHODS	First, a baseline gene model was generated consisting of 53 functional categories, including UCSC gene models, ENCODE functional annotations, Roadmap epigenomic annotations, and FANTOM5 enhancers.
+0	NA	NA	NA	METHODS	Gene expression and chromatin data were also analyzed to identify disease-relevant tissues, cell types, and tissue-specific epigenetic annotations.
+0	NA	NA	NA	METHODS	We used LDSC to test for enriched heritability in regions surrounding genes with the highest tissue-specific expression and we used GREGOR to calculate enrichment of epigenetic marks.
+0	NA	NA	NA	METHODS	Sources of data that were analyzed included 53 human tissue or cell type RNA-seq data from GTEx; 152 human, mouse, or rat tissue or cell type array data from the Franke lab; 3 sets of mouse brain cell type array data from Cahoy et al.
+0	NA	NA	NA	METHODS	; 292 mouse immune cell type array data from ImmGen; and 396 human epigenetic annotations from the Roadmap Epigenomics Consortium.
+0	NA	NA	NA	METHODS	We tested for epigenomic enrichment of genetic variants using GREGOR.
+0	NA	NA	NA	METHODS	We tested for enrichment of 2,747 genomic features selected the T2D lead variants with P < 5 x 10-8, or their LD proxies (r2 > 0.7) relative to control variants.
+0	NA	NA	NA	METHODS	Enrichment was considered significant if the enrichment P-value was less than the Bonferroni-corrected threshold of 1.8 x 10-5 (0.05/2725 non-zero tested sites).
+0	NA	NA	NA	METHODS	Consortia annotations were obtained and processed as follows.
+0	NA	NA	NA	METHODS	Data from the consolidated epigenomes section of the Roadmap Epigenomics Project portal was downloaded on 02/10/16.
+0	NA	NA	NA	METHODS	All ENCODE consortium data was downloaded 01/06/16 from the ENCODE project portal by limiting to Homo sapiens samples and selecting the named assay except for the Uniform DNase files, which were downloaded on 03/28/16.
+0	NA	NA	NA	METHODS	We used the FAIRE-seq ENCODE data, transcription profiling array data, ChIP-seq files, and histone data.
+0	NA	NA	NA	METHODS	The complete list of 2,305 ENCODE and Roadmap Epigenomics features used are found in Supplementary Table 20.
+0	NA	NA	NA	METHODS	We additionally performed a literature search on PubMed and in the GEO data archive focusing on 5 tissues most likely to be involved in T2D etiology: pancreas, liver, adipose, muscle, and intestine.
+0	NA	NA	NA	METHODS	Most searches were performed from 08/15/16 to 09/29/16, we identified a total of 442 features across 42 publications (Supplementary Table 21)
+0	NA	NA	NA	METHODS	For the three LoF variants that were identified using coding variant analysis, we performed a PheWAS to fully leverage the diverse nature of MVP as well as the full catalog of relevant ICD-9-CM diagnosis and CPT procedure codes (Table 5).
+0	NA	NA	NA	METHODS	Of genotyped veterans, participants were included in the PheWAS if their respective electronic health record reflected two or more separate encounters in the VA Healthcare System in each of the two years prior to enrollment in MVP.
+0	NA	NA	NA	METHODS	A total of 277,531 veterans spanning 21,209,658 available ICD-9 diagnosis codes were available.
+0	NA	NA	NA	METHODS	We restricted our analysis on the subgroup of 197,066 European participants.
+0	NA	NA	NA	METHODS	Diagnosis and procedure codes were collapsed to clinical disease groups and corresponding controls using predefined groupings.
+0	NA	NA	NA	METHODS	Phenotypes were required to have a case count over 25 in order to be included in the PheWAS, and a multiple testing thresholds for statistical significance was set to P < 2.8 x 10-5 (Bonferroni method).
+0	NA	NA	NA	METHODS	Each of the previously unpublished LoF variants were tested using logistic regression adjusting for age, sex, and 10 principal components in an additive effects model using the PheWAS R package in R v3.2.0.
+0	NA	NA	NA	METHODS	The results from these analyses are shown in Table 3 (Extended Data Fig.
+0	NA	NA	NA	METHODS	4)
+0	NA	NA	NA	METHODS	Genetic data on European participants was separately analyzed using vascular outcomes as a binary outcome, and T2D as an interaction variable with SNPs using interaction analysis with robust variance to reduce effect heteroscedacity using SUGEN software (v8.8).
+0	NA	NA	NA	METHODS	We evaluated the interaction between SNP and presence of T2D status using an interaction term for the two independent variables.
+0	NA	NA	NA	METHODS	Due to the binary nature of the outcome, the standard output from the interaction effect estimate are interpreted on a multiplicative scale.
+0	NA	NA	NA	METHODS	To obtain interaction on an additive scale, we calculated the relative excess risk due to interaction (RERI) metric.
+0	NA	beta3	NA	METHODS	In case-control studies using the linear additive odds-ratio model as proposed by Richardson and Kaufman in our study has the form of:  In which the coefficient beta3 measures the departure from additivity of exposure effect on an odds ratio scale; that is  We performed analysis using a linear odds model to quantify the excess odds per unit of the given explanatory variables on the outcome.
+0	NA	NA	NA	METHODS	In this model, RERI is an estimate of the excess odds on a linear scale due to the interaction between two explanatory variables.
+0	NA	NA	NA	METHODS	In the SNPxT2D interaction analysis, we used a significance threshold of P < 5 x 10-8 to denote variants that statistically different effect sizes.
+0	NA	NA	NA	METHODS	An additional filter was applied, and variants for which the effect size in at least one of the two T2D strata was nominally significant at P < 0.001 were included.
+0	NA	NA	NA	METHODS	Manhattan plots and the table are used to represent the interaction coefficients on this scale
+0	NA	NA	NA	METHODS	We constructed a genome-wide polygenic risk score (gPRS) for T2D in the MVP participants of European ancestry by calculating a linear combination of weights derived from the Europeans in the DIAMANTE Consortium using the prune and threshold method in PRSice-2 software.
+0	NA	NA	NA	METHODS	After an initial sensitivity analysis, the r2 threshold for pruning was set to 0.8, and the P-value for significance threshold was set to 0.05.
+0	NA	NA	NA	METHODS	The gPRSs were divided into deciles and the risk of T2D was assessed using a logistic regression model using the lowest decile as a reference, together with the potential confounding factors of age, gender, BMI, and the first 10 PCs.
+0	NA	NA	NA	METHODS	An additional outcomes analysis was performed to evaluate to what extent a T2D gPRS is predictive of T2D-induced morbidities.
+0	NA	NA	NA	METHODS	The dataset was restricted to subjects with T2D, and stratum-restricted T2D gPRS deciles were generated.
+0	NA	NA	NA	METHODS	Logistic regression models were applied where the micro- and macrovascular conditions were modeled as outcomes, and independent variables included strata-restricted gPRS deciles, age, gender, and the first 10 principal components of European ancestry.
+0	NA	NA	NA	METHODS	The data were visualized using shape-plots
+0	NA	NA	NA	METHODS	LD-score regression was used to estimate the heritability coefficient, and subsequently population and sample prevalence estimates were applied to estimate heritability on the liability scale.
+0	NA	NA	NA	METHODS	A genome-wide genetic correlation analysis was performed to investigate possible co-regulation or a shared genetic basis between T2D and other complex traits and diseases.
+0	NA	NA	NA	METHODS	Pairwise genetic correlation coefficients were estimated between the meta-analyzed T2D GWAS summary output in Europeans and each of 774 precomputed and publicly available GWAS summary statistics for complex traits and diseases by using LD score regression through LD Hub v1.9.3 (http://ldsc.broadinstitute.org).
+0	NA	NA	NA	METHODS	Statistical significance was set to a Bonferroni-corrected level of P < 6.5 x 10-5
+0	NA	NA	NA	METHODS	Tissue enrichment for S-PrediXcan results was evaluated by calculating exact P-values for under- or over-enrichment based on the cumulative distribution function of the hypergeometric distribution.
+0	NA	NA	NA	METHODS	The Bonferroni-corrected threshold for significance was P < 0.001 considering evaluation of 52 tissues.
+0	NA	NA	NA	METHODS	Enrichment analyses in DEPICT were conducted using lead T2D SNPs.
+0	NA	NA	NA	METHODS	DEPICT is based on predefined phenotypic gene sets from multiple databases and Affymetrix HGU133a2.0 expression microarray data from over 37,000 subjects to build highly-expressed gene sets for Medical Subject Heading (MeSH) tissue and cell type annotations.
+0	NA	NA	NA	METHODS	Output includes a P-value for enrichment and a yes/no indicator of whether the FDR q-value is significant (P < 0.05)
+0	NA	NA	NA	METHODS	To identify drug-gene pairs that may be leads for repurposing or may be attractive leads for novel inhibitory drugs, we identified drugs targeting genes whose predicted expression was significantly associated with T2D risk in S-PrediXcan analyses and which we predicted would lower blood glucose based on direction of effect on T2D risk with increasing gene expression and drug action (activator or inhibitor).
+0	diabetes	NA	NA	METHODS	Medications with a primary indication for diabetes and medications with adverse drug events for diabetic patients were evaluated using the SIDe Effect Resource (SIDER) Medications targeting genes were queried using DGIdb.
+0	NA	NA	NA	METHODS	These drug targets represent a set of genes that are both likely to be involved in glucose regulation in one or more tissues and can be targeted by drugs.
+0	NA	NA	NA	METHODS	Genes and medications identified in this analysis are presented in Supplementary Table 17
+0	NA	NA	NA	FIG	Trans-ethnic and ancestry-specific GWAS Manhattan plots a-d, Each graph represents a Manhattan plot.
+0	NA	NA	NA	FIG	The y-axis corresponds to -log10 (P) for association with T2D in the respective ancestral group (a, Europeans (148,726 T2D cases, 965,732 controls, lambda = 1.21); b, African American (24,646 T2D cases, 31,446 controls, lambda = 1.08); c, Hispanics (8,616 T2D cases, 11,829 controls, lambda = 1.03); d, Asians (46,511 T2D cases, 169,776 controls, lambda = 1.15)).
+0	NA	NA	NA	FIG	The x-axis represents chromosomal position on the autosomal genome.
+0	NA	NA	NA	FIG	The y-axis truncated at 1 x 10-300.
+0	NA	NA	NA	FIG	Points that are color-coded blue correspond to a P-value between 5.0 x 10-8 and 1.0 x 10-6.
+0	NA	NA	NA	FIG	Points color-coded red indicate genome-wide significance (P = 5.0 x 10-8)
+0	NA	NA	NA	FIG	Trans-ethnic and ancestry-specific chromosome X Manhattan plots a-d, Each graph represents a Manhattan plot.
+0	NA	NA	NA	FIG	The y-axis corresponds to -log10 (P) for association with T2D in the respective ancestral group (a, Europeans (69,869 T2D cases, 127,197 controls); b, African American (23,305 T2D cases, 30,140 controls); c, Hispanics (8,616 T2D cases, 11,829 controls); d, Asians (893 T2D cases, 1,560 controls)).
+0	NA	NA	NA	FIG	The x-axis represents chromosomal position on chromosome X.
+0	NA	NA	NA	FIG	The blue line corresponds with a significance threshold of P = 5.0 x 10-8.
+0	NA	NA	NA	FIG	The red line corresponds with genome-wide significance (P = 5.0 x 10-8)
+0	NA	NA	NA	FIG	Results from PrediXcan analysis using GTEX data This graph represents an inverted Manhattan plot based on the output from the European T2D GWAS (148,726 T2D cases, 965,732 controls).
+0	NA	NA	NA	FIG	The y-axis corresponds to -log10 (P) for association with genetically predicted gene expression in the respective tissue type (color coding shown on the right).
+0	NA	NA	NA	FIG	Data were analyzed using S-PrediXcan software.
+0	NA	NA	NA	FIG	The x-axis represents chromosomal position on the autosomal genome
+0	NA	NA	NA	FIG	Manhattan plots for T2D-related complications using interaction analysis in individuals of European ancestry a-f, Each graph represents a Manhattan plot.
+0	coronary artery disease	NA	NA	FIG	The y-axis corresponds to -log10 (P) for association of SNPxT2D on T2D-related vascular outcome (a, coronary heart disease (56,285 cases, 140,945 controls, lambda = 1.06); b, chronic kidney disease (67,403 cases, 129,827 controls, lambda = 1.02); c, neuropathy (40,475 cases, 110,331 controls, lambda = 1.03); d, peripheral artery disease (5,882 cases, 161,348 controls, lambda = 1.02); e, retinopathy (13,881 cases, 123,538 controls, lambda = 1.02); f, acute ischemic stroke (11,796 cases, 178,481 controls, lambda = 1.00)).
+0	NA	NA	NA	FIG	The x-axis represents chromosomal position on the autosomal genome.
+0	NA	NA	NA	FIG	Points that are color-coded blue correspond to a P-value between 5.0 x 10-8 and 1.0 x 10-6.
+0	NA	NA	NA	FIG	Points color-coded red indicate genome-wide significance (P = 5.0 x 10-8)
+0	NA	PRS	NA	FIG	T2D PRS and the risk of T2D A shape plot representing the risk of a T2D genome-wide PRS (gPRS) on the odds ratio of T2D in MVP participants of European ancestry (69,869 T2D cases, 127,197 controls).
+0	NA	PRS	NA	FIG	The weights for the PRS have been obtained from an external reference dataset, namely the DIAMANTE Consortium.
+0	NA	NA	NA	FIG	The gPRS has been divided into 10 deciles based on gPRS values in MVP white participants without T2D.
+0	NA	NA	NA	FIG	The reference group is the lowest decile (0-10%).
+0	NA	NA	NA	FIG	Odds ratios are shown as red dots, with their respective 95th percent confidence intervals displayed as red vertical lines
+0	NA	Mark	NA	SUPPL	Mark A. Atkinson107,108, Al C. Powers109,110,65, Ali Naji20, and Klaus H. Kaestner1
+0	NA	NA	NA	SUPPL	Goncalo R. Abecasis111, Aris Baras111, Michael N. Cantor111, Giovanni Coppola111, Aris N. Economides111, Luca A. Lotta111, John D. Overton111, Jeffrey G. Reid111, Alan R. Shuldiner111, Christina Beechert111, Caitlin Forsythe111, Erin D. Fuller111, Zhenhua Gu111, Michael Lattari111, Alexander E. Lopez111, Thomas D. Schleicher111, Maria Sotiropoulos Padilla111, Karina Toledo111, Louis Widom111, Sarah E. Wolf111, Manasi Pradhan111, Kia Manoochehri111, Ricardo H. Ulloa111, Xiaodong Bai111, Suganthi Balasubramanian111, Leland Barnard111, Andrew L. Blumenfeld111, Gisu Eom111, Lukas Habegger111, Alicia Hawes111, Shareef Khalid111, Evan K. Maxwell111, William J. Salerno111, Jeffrey C. Staples111, Ashish Yadav111, Marcus B. Jones111, and Lyndon J. Mitnaul11
+0	NA	NA	NA	SUPPL	44South Texas Veterans Health Care System, San Antonio, TX, USA.
+0	NA	NA	NA	SUPPL	45Iowa City VA Health Care System, Iowa City, IA, USA.
+0	NA	NA	NA	SUPPL	46VA North Texas Health Care System, Dallas, TX, USA.
+0	NA	NA	NA	SUPPL	47VA Puget Sound Health Care System, Seattle, WA, USA.
+0	NA	NA	NA	SUPPL	48Portland VA Medical Center, Portland, OR, USA.
+0	NA	NA	NA	SUPPL	49VA Connecticut Healthcare System, West Haven, CT, USA.
+0	NA	NA	NA	SUPPL	50Southeast Louisiana Veterans Health Care System, New Orleans, LA, USA.
+0	NA	NA	NA	SUPPL	51Birmingham VA Medical Center, Birmingham, AL, USA.
+0	NA	NA	NA	SUPPL	52VA Southern Nevada Healthcare System, North Las Vegas, NV, USA.
+0	NA	NA	NA	SUPPL	53VA Loma Linda Healthcare System, Loma Linda, CA, USA.
+0	NA	NA	NA	SUPPL	54Miami VA Health Care System, Miami, FL, USA.
+0	NA	NA	NA	SUPPL	55VA Eastern Kansas Health Care System, Leavenworth, KS, USA.
+0	NA	NA	NA	SUPPL	56John D. Dingell VA Medical Center, Detroit, MI, USA.
+0	NA	androgen receptor	NA	SUPPL	57Fayetteville VA Medical Center, Fayetteville, AR, USA.
+0	NA	NA	NA	SUPPL	58Richmond VA Medical Center, Richmond, VA, USA.
+0	NA	NA	NA	SUPPL	59Sioux Falls VA Health Care System, Sioux Falls, SD, USA.
+0	NA	NA	NA	SUPPL	60VA San Diego Healthcare System, San Diego, CA, USA.
+0	NA	NA	NA	SUPPL	61Edward Hines Jr. VA Medical Center, Hines, IL, USA.
+0	NA	NA	NA	SUPPL	62Fargo VA Health Care System, Fargo, ND, USA.
+0	Johnson VA	NA	NA	SUPPL	63Ralph H. Johnson VA Medical Center, Charleston, SC, USA.
+0	NA	NA	NA	SUPPL	64Cincinnati VA Medical Center, Cincinnati, OH, USA.
+0	NA	NA	NA	SUPPL	65VA Tennessee Valley Healthcare System, Nashville, TN, USA.
+0	NA	NA	NA	SUPPL	66VA Sierra Nevada Health Care System, Reno, NV, USA.
+0	NA	NA	NA	SUPPL	67W.G.
+0	NA	NA	NA	SUPPL	(Bill) Hefner VA Medical Center, Salisbury, NC, USA.
+0	NA	NA	NA	SUPPL	68Hampton VA Medical Center, Hampton, VA, USA.
+0	Oklahoma	NA	NA	SUPPL	69Eastern Oklahoma VA Health Care System, Muskogee, OK, USA.
+0	NA	NA	NA	SUPPL	70VA Northeast Ohio Healthcare System, Cleveland, OH, USA.
+0	NA	NA	NA	SUPPL	71Philadelphia VA Medical Center, Philadelphia, PA, USA.
+0	NA	NA	NA	SUPPL	72VA Health Care Upstate New York, Albany, NY, USA.
+0	NA	NA	NA	SUPPL	73Louisville VA Medical Center, Louisville, KY, USA.
+0	NA	NA	NA	SUPPL	74Richard Roudebush VA Medical Center, Indianapolis, IN, USA.
+0	NA	NA	NA	SUPPL	75Washington DC VA Medical Center, Washington, D.C., USA.
+0	NA	NA	NA	SUPPL	76James A. Haley Veterans Hospital, Tampa, FL, USA.
+0	NA	NA	NA	SUPPL	77Columbia VA Health Care System, Columbia, SC, USA.
+0	NA	NA	NA	SUPPL	78Central Western Massachusetts Healthcare System, Leeds, MA, USA.
+0	NA	NA	NA	SUPPL	79Bay Pines VA Healthcare System, Bay Pines, FL, USA.
+0	NA	NA	NA	SUPPL	80Southern Arizona VA Health Care System, Tucson, AZ, USA.
+0	NA	NA	NA	SUPPL	81James H. Quillen VA Medical Center, Johnson City, TN, USA.
+0	NA	NA	NA	SUPPL	82VA Long Beach Healthcare System, Long Beach, CA, USA.
+0	NA	NA	NA	SUPPL	83Minneapolis VA Health Care System, Minneapolis, MN, USA.
+0	NA	NA	NA	SUPPL	84Michael E. DeBakey VA Medical Center, Houston, TX, USA.
+0	NA	NA	NA	SUPPL	85Salem VA Medical Center, Salem, VA, USA.
+0	NA	NA	NA	SUPPL	86Manchester VA Medical Center, Manchester, NH, USA.
+0	NA	NA	NA	SUPPL	87St.
+0	NA	NA	NA	SUPPL	Louis VA Health Care System, St. Louis, MO, USA.
+0	ventricular tachycardia	NA	NA	SUPPL	88White River Junction VA Medical Center, White River Junction, VT, USA.
+0	NA	NA	NA	SUPPL	89VA Pacific Islands Health Care System, Honolulu, HI, USA.
+0	NA	NA	NA	SUPPL	90Syracuse VA Medical Center, Syracuse, NY, USA.
+0	NA	NA	NA	SUPPL	91Providence VA Medical Center, Providence, RI, USA.
+0	NA	NA	NA	SUPPL	92VA New York Harbor Healthcare System, New York, NY, USA.
+0	NA	NA	NA	SUPPL	93VA Pittsburgh Health Care System, Pittsburgh, PA, USA.
+0	NA	NA	NA	SUPPL	94North Florida / South Georgia Veterans Health System, Gainesville, FL, USA.
+0	NA	NA	NA	SUPPL	95VA Maine Healthcare System, Augusta, ME, USA.
+0	NA	NA	NA	SUPPL	96William S. Middleton Memorial Veterans Hospital, Madison, WI, USA.
+0	NA	NA	NA	SUPPL	97Overton Brooks VA Medical Center, Shreveport, LA, USA.
+0	NA	NA	NA	SUPPL	98New Mexico VA Health Care System, Albuquerque, NM, USA.
+0	NA	NA	NA	SUPPL	99VA Greater Los Angeles Health Care System, Los Angeles, CA, USA.
+0	NA	NA	NA	SUPPL	100Clement J. Zablocki VA Medical Center, Milwaukee, WI, USA.
+0	NA	NA	NA	SUPPL	101San Francisco VA Health Care System, San Francisco, CA, USA.
+0	NA	NA	NA	SUPPL	102VA Western New York Healthcare System, Buffalo, NY, USA.
+0	NA	NA	NA	SUPPL	103Northport VA Medical Center, Northport, NY, USA.
+0	NA	NA	NA	SUPPL	104Raymond G. Murphy VA Medical Center, Albuquerque, NM, USA.
+0	NA	NA	NA	SUPPL	105Durham VA Medical Center, Durham, NC, USA.
+0	NA	NA	NA	SUPPL	106Canandaigua VA Medical Center, Canandaigua, NY, USA.
+0	diabetes	NA	NA	SUPPL	107Department of Pathology, University of Florida Diabetes Institute, Gainesville, FL, USA.
+0	diabetes	NA	NA	SUPPL	108Department of Pediatrics, University of Florida Diabetes Institute, Gainesville, FL, USA.
+0	NA	NA	NA	SUPPL	109Department of Molecular Physiology and Biophysics, Vanderbilt University, Nashville, TN, USA.
+0	diabetes	NA	NA	SUPPL	110Division of Diabetes, Endocrinology, and Metabolism, Vanderbilt University Medical Center, Nashville, TN, USA.
+0	NA	NA	NA	SUPPL	111Regeneron Pharmaceuticals, Inc., Tarrytown, NY, USA
+0	NA	NA	NA	FIG	The graph represents a circos plot performed in 228,499 T2D cases and 1,178,783 controls.
+0	NA	NA	NA	FIG	The outer track corresponds to -log10 (P) for association with T2D in the trans-ethnic meta-analysis using a fixed-effects model with inverse-variance weighting of log odds ratios (y-axis truncated at 30), by chromosomal position.
+0	NA	NA	NA	FIG	The red line indicates genome-wide significance (P = 5.0 x 10-8).
+0	muscle eQTLs	NA	NA	FIG	Purple gene labels indicated genes identified in skeletal muscle eQTLs by S-PrediXcan analysis, red-labeled gene names in adipose eQTLs, black-labeled gene names in pancreas eQTLs, and blue-labeled gene names were identified in eQTLs from arteries.
+0	NA	NA	NA	FIG	The green band corresponds to measures of heterogeneity related to the index SNPs associated with T2D that were generated using the Cochran's Q statistic.
+0	NA	NA	NA	FIG	Dot sizes are proportional to I2 or ancestry-related heterogeneity.
+0	NA	NA	NA	FIG	The inner track corresponds to -log10(P) for association with skeletal muscle, adipose, pancreas, and artery tissue eQTLs from S-PrediXcan analysis (y-axis truncated at 20), by chromosomal position.
+0	NA	NA	NA	FIG	The red line indicates genome-wide significance (P = 5.0 x 10-8).
+0	NA	NA	NA	FIG	Inset, effects of all 318 index SNPs on T2D by minor allele frequency, stratified and colored by ancestral group
+0	NA	PRS	NA	FIG	A genome-wide T2D PRS was calculated and categorized into deciles based on the scores in controls.
+0	CKD	NA	NA	FIG	The PRS-outcome associations are shown for macrovascular outcomes (CKD: 67,403 cases, 129,827 controls; CHD: 56,285 cases, 140,945 controls; PAD: 35,882 cases, 161,348 controls) and for microvascular outcomes (acute ischemic stroke: 11,796 cases, 178,481 controls; retinopathy: 13,881 cases, 123,538 controls; neuropathy: 40,475 cases, 110,331 controls).
+0	NA	NA	NA	FIG	Effect sizes and 95% confidence intervals are shown per decile per micro- or macrovascular outcome.
+0	NA	PRS	NA	FIG	For each of the complication outcomes, separate logistic regression models are fitted for people with T2D, and the models include the following independent variables: T2D PRS (from DIAMANTE Consortium), age, gender, BMI, and 10 PCAs.
+0	coronary artery disease	PRS	NA	FIG	For coronary heart disease, a CHD PRS (from CardiogramplusC4DplusUKBB) is included in the regression model as an additional covariate.
+0	cerebral infarctions	PRS	NA	FIG	For acute ischemic stroke, a stroke PRS (from MEGASTROKE Consortium) is included in the regression model as an additional covariate.
+0	chronic kidney disease	PRS	NA	FIG	For chronic kidney disease, a CKD PRS (from CKDgen Consortium) is included in the regression model as an additional covariate
+0	NA	NA	NA	TABLE	PheWAS of two pLoF variants in MVP participants of European ancestr
+0	NA	NA	NA	TABLE	Genome-wide interaction analysis of vascular and non-vascular complications (overall results

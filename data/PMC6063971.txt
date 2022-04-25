@@ -1,0 +1,335 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	Type 2 diabetes (T2D) is a very common disease in humans.
+0	NA	NA	NA	ABSTRACT	Here we conduct a meta-analysis of genome-wide association studies (GWAS) with ~16 million genetic variants in 62,892 T2D cases and 596,424 controls of European ancestry.
+0	NA	NA	NA	ABSTRACT	We identify 139 common and 4 rare variants associated with T2D, 42 of which (39 common and 3 rare variants) are independent of the known variants.
+0	NA	NA	NA	ABSTRACT	Integration of the gene expression data from blood (n = 14,115 and 2765) with the GWAS results identifies 33 putative functional genes for T2D, 3 of which were targeted by approved drugs.
+0	NA	CAMK1D	NA	ABSTRACT	A further integration of DNA methylation (n = 1980) and epigenomic annotation data highlight 3 genes (CAMK1D, TP53INP1, and ATP5G1) with plausible regulatory mechanisms, whereby a genetic variant exerts an effect on T2D through epigenetic regulation of gene expression.
+0	NA	NA	NA	ABSTRACT	Our study uncovers additional loci, proposes putative genetic regulatory mechanisms for T2D, and provides evidence of purifying selection for T2D-associated variants
+0	Type 2 diabetes	NA	NA	ABSTRACT	GWAS have so far identified 129 loci associated with type 2 diabetes (T2D).
+0	NA	NA	NA	ABSTRACT	Here, the authors meta-analyse three large T2D GWA studies which uncovers 42 additional loci, further prioritize 33 functional genes using eQTL and mQTL data and propose regulatory mechanisms for three putative T2D genes
+0	Type 2 diabetes	NA	NA	INTRO	Type 2 diabetes (T2D) is a common disease with a worldwide prevalence that increased rapidly from 4.7% in 1980 to 8.5% in 2014.
+0	insufficient	insulin	NA	INTRO	It is primarily caused by insulin resistance (failure of the body's normal response to insulin) and/or insufficient insulin production by beta cells.
+1	NA	PPARG	NA	INTRO	Genetic studies using linkage analysis and candidate gene approaches have led to the discovery of an initial set of T2D-associated loci (e.g., PPARG and TCF7L2).
+0	NA	NA	NA	INTRO	Over the past decade, genome-wide association studies (GWAS) with increasing sample sizes have identified 144 genetic variants (not completely independent) at 129 loci associated with T2D
+0	NA	NA	NA	INTRO	Despite a large number of variants discovered using GWAS, the associated variants in total, explains only a small proportion (~10%) of the heritability of T2D.
+0	NA	MAF	NA	INTRO	"This well-known ""missing heritability"" problem is likely due to the presence of common variants (minor allele frequencies or MAF >= 0.01) that have small effects and have not yet been detected and/or rare variants that are not well tagged by common single nucleotide polymorphisms (SNPs)."
+0	NA	NA	NA	INTRO	The contribution of rare variants to genetic variation in the occurrence of common diseases is under debate, and a recent study suggested that the contribution of rare variants to the heritability of T2D is likely to be limited.
+0	NA	NA	NA	INTRO	If most T2D-associated genetic variants are common in the population, continual discoveries of variants with small effects are expected from large-scale GWAS using the current experimental design.
+0	NA	NA	NA	INTRO	Furthermore, limited progress has been made in understanding the regulatory mechanisms of the genetic loci identified by GWAS.
+0	NA	NA	NA	INTRO	Thus, the etiology and the genetic basis underlying the development of this disease remain largely unknown.
+0	NA	NA	NA	INTRO	Recent methodological advances have provided us with an opportunity to identify functional genes and their regulatory elements by combining GWAS summary statistics with data from molecular quantitative trait loci studies with large sample sizes
+0	diabetes	NA	NA	INTRO	In this study, we perform a meta-analysis of GWAS in a very large sample of T2D (62,892 cases and 596,424 controls), by combining 3 GWAS data sets of European ancestry: DIAbetes Genetics Replication and Meta-analysis (DIAGRAM), Genetic Epidemiology Research on Aging (GERA), and the full cohort release of the UK Biobank (UKB).
+0	NA	NA	NA	INTRO	We then integrate the GWAS meta-analysis results with gene expression and DNA methylation data to identify genes that might be functionally relevant to T2D and to infer plausible mechanisms, whereby genetic variants affect T2D risk through gene regulation by DNA methylation.
+0	NA	NA	NA	INTRO	We further estimate the genetic architecture of T2D using whole-genome estimation approaches.
+0	NA	NA	NA	INTRO	Our study identifies additional T2D-risk variants, prioritizes functional genes, and proposes putative genetic regulatory mechanisms for T2D
+0	NA	MAF	NA	RESULTS	We meta-analyzed 5,053,015 genotyped or imputed autosomal SNPs (MAF >= 0.01) in 62,892 T2D cases and 596,424 controls from the DIAGRAM (12,171 cases vs. 56,862 controls in stage 1 and 22,669 cases vs. 58,119 controls in stage 2), GERA (6905 cases and 46,983 controls) and UKB (21,147 cases and 434,460 controls) data sets after quality controls (Supplementary Fig.
+0	NA	NA	NA	RESULTS	1 and Methods).
+0	NA	NA	NA	RESULTS	Summary statistics in DIAGRAM were imputed to the 1000 Genomes Project (1KGP) phase 1 using a summary data-based imputation approach, ImpG (Supplementary Note 1), and we used an inverse-variance method to meta-analyze the imputed DIAGRAM data with the summary data from GWAS analyses of GERA and UKB (Methods and Fig.
+0	NA	NA	NA	RESULTS	1a).
+0	NA	NA	NA	RESULTS	We demonstrated by linkage disequilibrium (LD) score regression analysis that the inflation in test statistics due to population structure was negligible in each data set, and there was no evidence of sample overlap among the 3 data sets (Supplementary Note 2 and Supplementary Table 1).
+0	NA	NA	NA	RESULTS	The mean chi2 statistic was 1.685.
+0	NA	NA	NA	RESULTS	LD score regression analysis of the meta-analysis summary statistics showed an estimate of SNP-based heritability  on the liability scale of 0.196 (s.e.
+0	NA	NA	NA	RESULTS	= 0.011) and an estimate of intercept of 1.049 (s.e.
+0	NA	NA	NA	RESULTS	= 0.014), consistent with a model in which the genomic inflation in test statistics is driven by polygenic effects.
+0	NA	NA	NA	RESULTS	After clumping the SNPs using LD information from the UKB genotypes (clumping r2 threshold = 0.01 and window size = 1 Mb), there were 139 near-independent variants at P < 5 x 10-8 (Supplementary Data 1).
+0	NA	NA	NA	RESULTS	All of the loci previously reported by DIAGRAM were still genome-wide significant in our meta-analysis results.
+1	NA	TCF7L2	rs7903146	RESULTS	The most significant association was at rs7903146 (P = 1.3 x 10-347) at the known TCF7L2 locus.
+0	NA	NA	NA	RESULTS	Among the 139 variants, 39 are not in LD with the known variants (Fig.
+0	NA	NA	NA	RESULTS	1 and Table 1).
+0	NA	NA	NA	RESULTS	The result remained unchanged when the GERA cohort was imputed to Haplotype Reference Consortium (HRC) (Supplementary Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	NA	RESULTS	We regarded these 39 variants as novel discoveries; more than half of them passed a more stringent significance threshold at P < 1 x 10-8 (Table 1), a conservative control of genome-wide false-positive rate (GWFPR) suggested by a recent simulation study.
+0	insulin deficiency	NA	NA	RESULTS	The functional relevance of some novel gene loci to the disease was supported by existing biological or molecular evidence related to insulin and glucose (Supplementary Note 3).
+0	NA	NA	NA	RESULTS	Forest plots showed that the effect directions of the 39 novel loci were consistent across the 3 GWAS data sets (Supplementary Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	NA	NA	RESULTS	Regional association plots showed that some loci have complicated LD structures, and it is largely unclear which genes are responsible for the observed SNP-T2D associations (Supplementary Fig.
+0	NA	NA	NA	RESULTS	4).
+0	NA	NA	NA	RESULTS	We also performed gene-based analysis by GCTA-fastBAT, and conditional analysis by GCTA-COJO, and discovered 4 loci with multiple independent signals associated with T2D (Supplementary Notes 4-5, Supplementary Fig.
+0	NA	NA	NA	RESULTS	5, and Supplementary Data 2-4).
+0	NA	NA	NA	RESULTS	Polygenic-risk score analysis showed high classification accuracy using SNPs effects estimated from the meta-analysis (Supplementary Note 6 and Supplementary Table 2).
+0	NA	NA	NA	RESULTS	We further applied a stratified LD score regression method to dissect the SNP-based heritability into the contributions from SNPs in different functional annotation categories and cell types (Supplementary Note 7, Supplementary Figs.
+0	NA	NA	NA	RESULTS	6, 7, Supplementary Data 5, and Supplementary Table 3)
+0	NA	NA	NA	FIG	Manhattan plots of common- and rare-variant associations for T2D.
+0	NA	MAF	NA	FIG	a GWAS results for common variants (MAF >= 0.01) in the meta-analysis.
+0	NA	NA	NA	FIG	The 39 novel loci are annotated and highlighted in green.
+0	NA	MAF	NA	FIG	b GWAS results of rare variants (0.0001 <= MAF < 0.01) in UKB.
+0	NA	NA	NA	FIG	Four loci with P < 5 x 10-9 are highlighted in red.
+0	NA	NA	NA	FIG	The blue lines denote the genome-wide significant threshold of P < 5 x 10-8, and the red lines denote a more stringent threshold of P < 5 x 10-
+0	insulin deficiency	NA	NA	RESULTS	Of all the 139 T2D-associated loci identified in our meta-analysis, 16 and 25 were significant in insulin secretion and sensitivity GWAS, respectively, from the MAGIC consortium (see URLs section) after correcting for multiple tests (i.e., 0.05/139), with only 1 locus showing significant associations with both insulin secretion and sensitivity.
+0	NA	insulin	NA	RESULTS	The limited number of overlapping associations observed might be due to the relatively small sample sizes in the insulin studies.
+0	insulin deficiency	NA	NA	RESULTS	We further estimated the genetic correlation (rg) between insulin secretion (or sensitivity) and T2D by the bivariate LD score regression approach using summary-level data.
+0	insulin deficiency	NA	NA	RESULTS	The estimate of rg between T2D and insulin secretion was -0.15 (s.e.
+0	NA	insulin	NA	RESULTS	= 0.10), and that between T2D and insulin sensitivity was -0.57 (s.e.
+0	NA	NA	NA	RESULTS	= 0.10).
+0	insulin deficiency	NA	NA	RESULTS	"Gene set enrichment test also showed that T2D-associated loci were enriched in ""glucose homeostasis"" and ""insulin secretion"" pathways (Supplementary Note 7, Supplementary Fig."
+0	NA	NA	NA	RESULTS	8, and Supplementary Data 6-7)
+0	NA	NA	NA	RESULTS	Very few rare variants-associated with T2D have been identified in previous studies.
+0	NA	MAF	NA	RESULTS	We included 10,849,711 rare variants (0.0001 <= MAF < 0.01) in the association analysis in UKB and detected 11 rare variants at P < 5 x 10-8 and 4 of them were at P < 5 x 10-9 (Fig.
+0	NA	NA	NA	RESULTS	1b and Supplementary Table 4).
+0	NA	NA	NA	RESULTS	We focused only on the 4 signals at P < 5 x 10-9 because a recent study suggested that a P value threshold of 5 x 10-9 is required to control a GWFPR at 0.05 in GWAS, including both common and rare variants imputed from a fully sequenced reference.
+0	NA	NA	NA	RESULTS	Three of the rare variants were located at loci with significant common variant associations.
+0	pancreatic	insulin	p.Ser539Trp	RESULTS	Variant rs78408340 (odds ratio (OR) = 1.33, P = 4.4 x 10-14) is a missense variant that encodes a p.Ser539Trp alteration in PAM and was reported to be associated with decreased insulin release from pancreatic beta cells.
+1	NA	ANKH	p.Arg187Gln	RESULTS	Variant rs146886108 (OR = 0.72, P = 4.4 x 10-9), which showed a protective effect against T2D, is a novel locus and a missense variant that encodes p.Arg187Gln in ANKH.
+1	NA	TCF7L2	rs117229942	RESULTS	Variant rs117229942 (OR = 0.70, P = 4.0 x 10-11) is an intron variant in TCF7L2.
+0	NA	NA	rs527320094	RESULTS	Variant rs527320094 (OR = 2.74, P = 4.6 x 10-9), located in LOC105378797, is also a novel rare-variant association, with no other significant SNP (either common or rare) within a +-1 Mb window.
+0	NA	NA	NA	RESULTS	We did not observe any substantial difference in association signals for these 4 variants between the results from BOLT-LMM and logistic regression considering the difference in sample size (Supplementary Table 4)
+0	NA	NA	NA	TABLE	Putative functional genes for T2D identified from the SMR analysis in eQTLGe
+0	NA	NA	NA	TABLE	Putative functional genes for T2D identified from the SMR analysis in CAG
+0	NA	NA	NA	RESULTS	Most previous studies have reported the gene in closest physical proximity to the most significant SNP at a GWAS locus.
+0	NA	NA	NA	RESULTS	However, gene regulation can be influenced by genetic variants that are physically distal to the genes.
+0	NA	NA	NA	RESULTS	To prioritize genes identified through the genome-wide significant loci that are functionally relevant to the disease, we performed a summary data-based Mendelian randomization (SMR) analysis using the top-associated expression quantitative trait locus (eQTL) as an instrumental variable to test for association between the expression level of each gene and T2D (Methods).
+0	NA	Cardiometabolic Genome Epidemiology Network(CAGE)	NA	RESULTS	We used GWAS summary data from our meta-analysis and eQTL summary data from the eQTLGen (n = 14,115) and CAGE consortia (n = 2765) for the SMR analysis (Methods).
+0	NA	Cardiometabolic Genome Epidemiology Network(CAGE)	NA	RESULTS	We identified 40 genes in eQTLGen and 24 genes in CAGE at an experimental-wise significance level (PSMR < 2.7 x 10-6, i.e., 0.05/mSMR, with  being the total number of SMR tests in the 2 data sets) (Supplementary Data 8-9).
+0	NA	NA	NA	RESULTS	To filter out the SMR associations due to linkage (i.e., 2 causal variants in LD, one affecting gene expression and the other affecting T2D risk), all the significant SMR associations were followed by a HEterogeneity In Dependent Instruments (HEIDI) analysis to test whether there is heterogeneity in SMR estimates at SNPs in LD with the top-associated cis-eQTL (Methods).
+0	NA	NA	NA	RESULTS	Therefore, genes not rejected by HEIDI (i.e., no evidence of heterogeneity) were those associated with T2D through pleiotropy at a shared genetic variant.
+0	NA	Cardiometabolic Genome Epidemiology Network(CAGE)	NA	RESULTS	Of the genes that passed the SMR test, 27 genes in eQTLGen and 15 genes in CAGE were not rejected by the HEIDI test (PHEIDI > 7.8 x 10-4, i.e., 0.05/mSMR, with  being the total number of SMR tests in the 2 data sets) (Tables 2-3 and Supplementary Data 8-9), with 7 genes in common and 33 unique genes in total.
+0	NA	SSSCA1	rs7431357	RESULTS	SNPs associated with the expression levels of genes including EHHADH (rs7431357), SSSCA1 (rs1194076), and P2RX4 (rs2071271) in eQTLGen were not significant in the T2D meta-analysis, likely due to the lack of power; these SNPs were expected to be detected in future studies with larger sample sizes
+0	NA	NA	NA	RESULTS	To identify the regulatory elements associated with T2D risk, we performed SMR analysis using methylation quantitative trait locus (mQTL) data from McRae et al.
+0	NA	NA	NA	RESULTS	(n = 1980) to identify DNA methylation (DNAm) sites associated with T2D through pleiotropy at a shared genetic variant.
+0	NA	NA	NA	RESULTS	In total, 235 DNAm sites were associated with T2D, with PSMR < 6.3 x 10-7  and PHEIDI > 1.6 x 10-4  (Supplementary Data 10); these DNAm sites were significantly enriched in promoters (fold change = 1.60, Penrichment = 1.6 x 10-7) and weak enhancers (fold change = 1.74, Penrichment = 1.4 x 10-2) (Supplementary Note 8 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	9).
+0	NA	NA	NA	RESULTS	Identification of DNAm sites and their target genes relies on consistent association signals across omics levels.
+0	NA	Cardiometabolic Genome Epidemiology Network(CAGE)	NA	RESULTS	To demonstrate this, we conducted the SMR analysis to test for associations between the 235 T2D-associated DNAm sites and the 33 T2D-associated genes and identified 22 DNAm sites associated with 16 genes in eQTLGen (Supplementary Data 11) and 21 DNAm sites associated with 15 genes in CAGE (Supplementary Data 12) at PSMR < 2.5 x 10-7  and PHEIDI > 2.1 x 10-4 .
+0	NA	NA	NA	RESULTS	These results can be used to infer plausible regulatory mechanisms for how genetic variants affect T2D risk by regulating the expression levels of genes through DNAm (see below)
+0	NA	NA	NA	RESULTS	To replicate the SMR associations in a wider range of tissues relevant to T2D, we performed SMR analyses based on cis-eQTL data from 4 tissues in GTEx (i.e., adipose subcutaneous tissue, adipose visceral omentum, liver, and pancreas).
+0	NA	NA	NA	RESULTS	We denoted these 4 tissues as GTEx-AALP.
+0	NA	NA	NA	RESULTS	Of the 27 putative T2D genes identified by SMR and HEIDI using the eQTLGen data, 10 had a cis-eQTL at PeQTL < 5 x 10-8 in at least one of the 4 GTEx-AALP tissues (Supplementary Data 13).
+0	NA	NA	NA	RESULTS	Note that the decrease in eQTL detection power is expected given the much smaller sample size of GTEx-AALP (n = 153-385) compared to that of eQTLGen (n = 14,115), as demonstrated by simulation (Supplementary Note 9 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	10).
+0	NA	NA	NA	RESULTS	As a benchmark, 17 of the 27 genes had a cis-eQTL at PeQTL < 5 x 10-8 in GTEx-blood (n = 369).
+0	NA	NA	NA	RESULTS	We first performed the SMR analysis in GTEx-blood and found that 12 of the 17 genes were replicated at PSMR < 2.9 x 10-3 (i.e., 0.05/17) (Supplementary Data 13), an expected high replication rate given the simulation result (Supplementary Fig.
+0	NA	NA	NA	RESULTS	10).
+0	NA	NA	NA	RESULTS	We then conducted the SMR analysis in GTEx-AALP.
+0	NA	NA	NA	RESULTS	The result showed that 8 of the 10 genes showed significant SMR associations at PSMR < 1.3 x 10-3 (i.e., 0.05/40) in at least one of the 4 GTEx-AALP tissues, a replication rate comparable to that found in GTEx-blood.
+0	NA	CWF19L1	NA	RESULTS	Among the 8 genes, CWF19L1, for which the cis-eQTL effects are highly consistent across different tissues, was significant in all the data sets (Supplementary Fig.
+0	NA	NA	NA	RESULTS	11)
+0	NA	NA	NA	RESULTS	The replication analysis described above depends heavily on the sample sizes of eQTL studies.
+0	NA	NA	NA	RESULTS	A less sample-size-dependent approach is to quantify how well the effects of the top associated cis-eQTLs for all the 27 putative T2D genes estimated in blood (i.e., the eQTLGen data) correlate with those estimated in the GTEx tissues, accounting for sampling variation in estimated SNP effects.
+0	NA	NA	NA	RESULTS	This approach avoids the need to use a stringent P value threshold to select cis-eQTLs in the GTEx tissues with small sample sizes.
+0	NA	NA	NA	RESULTS	We found that the mean correlation of cis-eQTL effects between eQTLGen blood and GTEx-AALP was 0.47 (s.e.
+0	NA	NA	NA	RESULTS	= 0.16), comparable to and not significantly different from the value of 0.64 (s.e.
+0	NA	NA	NA	RESULTS	= 0.16) between eQTLGen and GTEx-blood.
+0	NA	NA	NA	RESULTS	We also found that the estimated SMR effects of 18 genes, which passed the SMR test and were not rejected by the HEIDI test in either eQTLGen or GTEx, were highly correlated (Pearson's correlation r = 0.80) (Supplementary Fig.
+0	NA	NA	NA	RESULTS	12).
+0	NA	NA	NA	RESULTS	Note that this correlation is not expected to be unity because of differences in the technology used to measure gene expression (Illumina gene expression arrays for eQTLGen vs. RNA-seq for GTEx).
+0	NA	NA	NA	RESULTS	We also performed co-localization analyses using COLOC, a Bayesian approach to seek evidence of a locus associated with two traits.
+0	NA	NA	NA	RESULTS	We found that most of the genes that passed the genome-wide significant threshold in the SMR test also had extremely high posterior probabilities of associations with T2D from the COLOC analysis (Supplementary Fig.
+0	NA	NA	NA	RESULTS	13)
+0	NA	NA	NA	RESULTS	These results support the validity of using eQTL data from blood for the SMR and HEIDI analysis; using this method, we can make use of eQTL data from very large samples to increase the statistical power, consistent with the conclusions of a recent study.
+0	NA	NA	NA	RESULTS	In addition, tissue-specific effects that are not detected in blood will affect the power of the SMR and HEIDI analysis rather than generating false positive associations
+0	NA	CAMK1D	NA	RESULTS	Here, we used the genes CAMK1D, TP53INP1, and ATP5G1 as examples to hypothesize possible mechanisms of how genetic variants affect T2D risk by controlling DNAm for gene regulation.
+0	NA	NA	NA	RESULTS	Functional gene annotation information was acquired from the Roadmap Epigenomics Mapping Consortium (REMC)
+0	NA	CAMK1D	NA	FIG	Prioritizing genes and regulatory elements at the CAMK1D locus for T2D.
+0	NA	NA	NA	FIG	The results of the SMR analysis that integrates data from GWAS, eQTL, and mQTL studies are shown.
+0	NA	NA	NA	FIG	The top plot shows -log10(P value) of SNPs from the GWAS meta-analysis for T2D.
+0	NA	NA	NA	FIG	Red diamonds and blue circles represent -log10(P value) from the SMR tests for associations of gene expression and DNAm probes with T2D, respectively.
+0	NA	NA	NA	FIG	Solid diamonds and circles represent the probes not rejected by the HEIDI test.
+1	NA	NA	rs11257655	FIG	The yellow star denotes the top cis-eQTL SNP rs11257655.
+0	NA	CAMK1D	NA	FIG	The second plot shows -log10(P value) of the SNP association for gene expression probe 51129 (tagging CAMK1D).
+0	NA	NA	NA	FIG	The third plot shows -log10(P value) of the SNP association with DNAm probes cg03575602 and cg16894855 from the mQTL study.
+0	NA	NA	NA	FIG	The bottom plot shows 25 chromatin state annotations (indicated by colors) of 127 samples from Roadmap Epigenomics Mapping Consortium (REMC) for different primary cells and tissue types (rows
+0	NA	CAMK1D	NA	FIG	Hypothesized regulatory mechanism at the CAMK1D locus for T2D.
+1	NA	NA	rs11257655	FIG	When the allele of rs11257655 in the enhancer region (red) changes from C to T, the enhancer activator protein FOXA1/FOXA2 (orange ellipsoid) binds to the enhancer region and the DNA methylation level in the promoter region is reduced; this increases the binding efficiency of RNA polymerase II recruited by mediator proteins (gray circles) and, therefore increases the transcription of CAMK1
+0	NA	CAMK1D	NA	RESULTS	The significant SMR association of CAMK1D with T2D was identified in both eQTL data sets (Tables 2-3 and Supplementary Data 8-9).
+1	NA	CDC123	rs11257655	RESULTS	The top eQTL, rs11257655, located in the intergenic region (active enhancer) between CDC123 and CAMK1D, was also a genome-wide significant SNP in our meta-analysis (P = 2.0 x 10-17).
+1	NA	NA	rs11257655	RESULTS	It was previously shown that rs11257655 is located in the binding motif for FOXA1/FOXA2 and that the T allele of this SNP is a risk allele that increases the expression level of CAMK1D through allelic-specific binding of FOXA1 and FOXA2.
+0	NA	FOXA1	NA	RESULTS	Another functional study demonstrated that increasing the expression of FOXA1 and its subsequent binding to enhancers was associated with DNA demethylation.
+1	NA	CAMK1D	rs11257655	RESULTS	Our analysis was consistent with previous studies in showing that the T allele of rs11257655 increases both CAMK1D transcription (, s.e.
+0	NA	NA	NA	RESULTS	= 0.014, where  is the allele substitution effect on gene expression in standard deviation units) and T2D risk (OR = 1.076, s.e.
+0	NA	NA	NA	RESULTS	= 0.009) (Supplementary Data 8, 9, and 11).
+1	NA	NA	rs11257655	RESULTS	Moreover, rs11257655 was also the top mQTL (Fig.
+1	NA	CAMK1D	rs11257655	RESULTS	2); the T allele of this SNP is associated with decreased methylation at the site cg03575602 in the promoter region of CAMK1D, suggesting that the T allele of rs11257655 up-regulates the transcription of CAMK1D by reducing the methylation level at cg03575602.
+0	NA	CAMK1D	NA	RESULTS	Leveraging all the information above, we proposed the following model of the genetic mechanism at CAMK1D for T2D risk (Fig.
+0	NA	NA	NA	RESULTS	3).
+1	NA	NA	rs11257655	RESULTS	In the presence of the T allele at rs11257655, FOXA1/FOXA2 and other transcription factors bind to the enhancer region and form a protein complex that leads to a decrease in the DNAm level of the promoter region of CAMK1D and recruits the RNA polymerase to the promoter, resulting in an increase in the expression of CAMK1D (Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	NA	NA	RESULTS	A recent study showed that the T risk allele is correlated with reduced DNAm and increased chromatin accessibility across multiple islet samples and that it is associated with disrupted beta cell function.
+0	NA	NA	NA	RESULTS	Our inference highlights the role of promote-enhancer interaction in gene regulation, analytically indicated by the integrative analysis using the SMR and HEIDI approaches
+0	NA	TP53INP1	NA	FIG	Prioritizing genes and regulatory elements at TP53INP1 locus for T2D.
+0	NA	NA	NA	FIG	Shown are the results from the SMR analysis that integrates data from GWAS, eQTL, and mQTL studies.
+0	NA	NA	NA	FIG	The top plot shows -log10(P value) from the GWAS meta-analysis for T2D.
+0	NA	NA	NA	FIG	Red diamonds and blue circles represent -log10(P value) from the SMR tests for associations of gene expression and DNAm probes with T2D, respectively.
+0	NA	NA	NA	FIG	Solid diamonds and circles represent the probes not rejected by the HEIDI test.
+0	NA	TP53INP1	NA	FIG	The second plot shows -log10(P value) of the SNP association with gene expression probe 16667 (tagging TP53INP1).
+0	NA	NA	NA	FIG	The third plot shows -log10(P value) of the SNP association with DNAm probe cg13393036 and cg09323728.
+0	NA	NA	NA	FIG	The bottom plot shows 25 chromatin state annotations (indicated by colors) of 127 samples from Roadmap Epigenomics Mapping Consortium (REMC) for different primary cells and tissue types (rows
+0	NA	TP53INP1	NA	FIG	Hypothesized regulatory mechanism at the TP53INP1 locus for T2D.
+0	NA	NA	NA	FIG	When the promoter region is highly methylated, which prevents binding of repressor protein (red rounded rectangle) to the promoter region, RNA polymerase II (green ellipsoid), transcription factor protein (orange ellipsoid) and mediator proteins (gray circles) will form a transcription initiation complex that increases the transcription.
+0	NA	NA	NA	FIG	However, when the methylation level of the promoter region is low, repressor protein can more efficiently bind to the promoter, blocking the binding of the transcription initiation complex to the promoter, which decreases the transcription of TP53INP
+0	NA	TP53INP1	NA	RESULTS	The second example is TP53INP1, the expression level of which was positively associated with T2D as indicated by the SMR analysis (Table 2 and Supplementary Data 8).
+1	pancreatic	TP53INP1	NA	RESULTS	This was supported by previous findings that the protein encoded by TP53INP1 regulated the TCF7L2-p53-p53INP1 pathway in such a way as to induce apoptosis and that the survival of pancreatic beta cells was associated with the level of expression of TP53INP1.
+0	NA	TP53INP1	NA	RESULTS	TP53INP1 was mapped as the target gene for three DNAm sites (cg13393036, cg09323728, and cg23172400) by SMR (Fig.
+0	NA	NA	NA	RESULTS	4).
+0	NA	TP53INP1	NA	RESULTS	All 3 DNAm sites were located in the promoter region of TP53INP1 and had positive effects on the expression level of TP53INP1 and on T2D risk (Supplementary Data 8, 10, and 11).
+0	NA	NA	NA	RESULTS	Based on these results, we proposed the following hypothesis for the regulatory mechanism (Fig.
+0	NA	NA	NA	RESULTS	5).
+0	NA	TP53INP1	NA	RESULTS	When the DNAm level of the promoter region is low, expression of TP53INP1 is suppressed due to the binding of repressor(s) to the promoter.
+0	NA	NA	NA	RESULTS	When the DNAm level of the promoter region is high, the binding of repressor(s) is disrupted, allowing the binding of transcription factors that recruit RNA polymerase and resulting in up-regulation of gene expression.
+1	pancreatic	NA	NA	RESULTS	Increased expression of this gene has been shown to increase T2D risk by decreasing the survival rate of pancreatic beta cells through a TCF7L2-p53-p53INP1-dependent pathway
+0	NA	ATP5G1	NA	RESULTS	The third example involves 2 proximal genes, ATP5G1 and UBE2Z, the expression levels of which were significantly associated with T2D according to the SMR analysis (Table 2 and Supplementary Data 8).
+0	NA	UBE2Z	NA	RESULTS	A methylation probe (cg16584676) located in the promoter region of UBE2Z was associated with the expression levels of both ATP5G1 and UBE2Z (Supplementary Fig.
+0	NA	NA	NA	RESULTS	14a), suggesting that these two genes are co-regulated by a genetic variant through DNAm.
+0	NA	NA	NA	RESULTS	The effect of cg16584676 on gene expression was negative (Supplementary Data 11 and 12), implying the following plausible mechanism.
+0	NA	ATP5G1	NA	RESULTS	A genetic variant near ATP5G1 exerts an effect on T2D by increasing the DNAm levels of the promoters for ATP5G1 and UBE2Z; this decreases the binding affinity of the transcription factors that recruit RNA polymerase, resulting in down-regulation of gene expression and ultimately leading to an increase in T2D risk (Supplementary Fig.
+0	NA	NA	NA	RESULTS	14b).
+0	NA	ATP5G1	NA	RESULTS	ATP5G1 has been shown to encode a subunit of mitochondrial ATP synthase, and UBE2Z is a ubiquitin-conjugating enzyme.
+1	NA	insulin	NA	RESULTS	Insulin receptors could be degraded by SOCS proteins during ubiquitin-proteasomal degradation, and ATP5G1 and UBE2Z are likely to be involved in this pathway.
+0	NA	insulin	NA	RESULTS	The function of insulin receptors is to regulate glucose homeostasis through the action of insulin and other tyrosine kinases, and dysfunction of these receptors leads to insulin resistance and increases T2D risk
+0	NA	NA	NA	RESULTS	The 3 examples above provide hypotheses for how genetic variants may affect T2D risk through regulatory pathways and demonstrate the power of integrative analysis of omics data for this purpose.
+0	NA	NA	NA	RESULTS	These examples describe putative candidates that could be prioritized in future functional studies
+0	NA	NA	NA	RESULTS	In the SMR analysis described above, we identified 33 putative T2D genes.
+1	NA	ARG1	NA	RESULTS	We matched these genes in the DrugBank database (see URLs section) and found that 3 genes (ARG1, LTA, and P2RX4) are the targets of several approved drugs (drugs that have been approved in at least one jurisdiction).
+1	NA	ARG1	NA	RESULTS	ARG1 (UniProt ID: P05089), whose expression level was negatively associated with T2D risk, is targeted by three approved drugs: ornithine (DrugBank ID: DB00129), urea (DrugBank ID: DB03904), and manganese (DrugBank ID: DB06757), but the pharmacological mechanism of action of these drugs remains unknown.
+1	NA	ARG1	NA	RESULTS	Arginase (ARG1 is an isoform of arginase in liver) is a manganese-containing enzyme that catalyzes the hydrolysis of arginine to ornithine and urea.
+0	cerebrovascular	NA	NA	RESULTS	Arginase in vascular tissue might be a potential therapeutic target for the treatment of vascular dysfunction in diabetes.
+0	oral antidiabetes	ARG1	NA	RESULTS	Metformin, an oral antidiabetic drug that is used in the treatment of diabetes, was reported to increase ARG1 expression in a murine macrophage cell line, consistent with our SMR result that increased expression of ARG1 was associated with decreased T2D risk (Supplementary Data 8).
+1	NA	ARG1	NA	RESULTS	There was also evidence for an interaction between ARG1 and metformin (Comparative Toxicogenomics Database, see URLs section).
+1	NA	AMP-activated protein kinase	NA	RESULTS	The likely mechanism is that metformin activates AMP-activated protein kinase (AMPK), resulting in increased expression of ARG1, again consistent with our SMR result.
+0	rheumatoid arthritis	NA	NA	RESULTS	LTA (UniProt ID: P08637), whose expression level was negatively associated with T2D risk, is targeted by the approved drug etanercept (DrugBank ID: DB00005) for rheumatoid arthritis (RA) treatment.
+0	NA	P2X4	NA	RESULTS	P2RX4 (UniProt ID: Q99571), the expression level of which was positively associated with T2D risk, is targeted by eslicarbazepine acetate (DrugBank ID: DB09119; antagonist for P2RX4).
+0	seizures	NA	NA	RESULTS	Eslicarbazepine acetate is an anticonvulsant that inhibits repeated neuronal firing and stabilizes the inactivated state of voltage-gated sodium channels; its pharmacological action makes it useful as an adjunctive therapy for partial-onset seizures.
+0	Kidneys in Diabetes	P2X4	NA	RESULTS	Antagonists of P2RX4 inhibit high glucose and are useful in the treatment of diabetic nephropathy.
+0	NA	NA	NA	RESULTS	We also explored whether any of these three genes have potential adverse effects by checking the associations of the lead variants at the three loci with lipid- and insulin-related traits from previous studies (Supplementary Note 10 and Supplementary Data 14).
+0	NA	NA	NA	RESULTS	We further found two additional genes that are targeted by an approved veterinary drug and a nutraceutical drug, respectively (Supplementary Note 10)
+0	NA	NA	NA	FIG	Estimation of the genetic architecture parameters for T2D in UKB.
+0	NA	NA	NA	FIG	Shown in the panel a are the results from the GREML-LDMS analysis, and those in panels b, c and d are the results from the BayesS analysis using the UKB data.
+0	NA	NA	NA	FIG	Error bars are standard errors of the estimates.
+0	NA	MAF	NA	FIG	a Variance explained by SNPs in each MAF bin.
+0	NA	MAF	NA	FIG	We combined the estimates of the first three bins (MAF < 0.1) to harmonize the width of all MAF bins.
+0	NA	NA	NA	FIG	b Chromosome-wide SNP-based heritability against chromosome length.
+0	NA	NA	NA	FIG	c Estimate of the BayesS parameter (S) reflecting the strength of purifying selection on each chromosome.
+0	NA	NA	NA	FIG	d Proportion of SNPs with non-zero effects on each chromosome (pi
+0	NA	NA	NA	RESULTS	We performed an LD- and MAF-stratified GREML analysis (Methods) in a subset of unrelated individuals in UKB (n = 15,767 cases and 104,233 controls) to estimate the variance explained by SNPs in different MAF ranges (m = 18,138,214 in total).
+0	NA	MAF	NA	RESULTS	We partitioned the SNPs into 7 MAF bins with high- and low-LD bins within each MAF bin to avoid MAF- and/or LD-mediated bias in  (Methods).
+0	NA	NA	NA	RESULTS	The  was 33.2% (s.e.
+0	NA	NA	NA	RESULTS	= 2.1%) on the liability scale (Supplementary Table 5).
+0	NA	MAF	NA	RESULTS	Under an evolutionary neutral model and a constant population size, the explained variance is uniformly distributed as a function of MAF, which means that the variance explained by variants with MAF <= 0.1 equals that explained by variants with MAF > 0.4.
+0	NA	MAF	NA	RESULTS	However, in our results, the MAF bin containing low-MAF and rare variants (MAF <= 0.1) showed a larger estimate than any other MAF bin (Fig.
+0	NA	NA	NA	RESULTS	6a and Supplementary Table 5), consistent with a model of negative (purifying) selection or population expansion.
+0	NA	MAF	NA	RESULTS	To further distinguish between the two models (negative selection vs. population expansion), we performed an additional analysis using a recently developed method, BayesS (implemented in GCTB, see URLs section) to estimate the relationship between variance in effect size and MAF (Methods).
+0	NA	NA	NA	RESULTS	The method also allowed us to estimate  and polygenicity (pi) on each chromosome.
+0	NA	NA	NA	RESULTS	The results (Fig.
+0	NA	NA	NA	RESULTS	6b) showed that the of each chromosome was highly correlated with its length (Pearson's correlation r = 0.92).
+0	NA	NA	NA	RESULTS	The mean estimate of pi, i.e., the proportion of SNPs with non-zero effects, was 1.75% across all chromosomes (Fig.
+0	NA	NA	NA	RESULTS	6c and Supplementary Table 6), suggesting a high degree of polygenicity for T2D.
+0	NA	NA	NA	RESULTS	The sum of per-chromosome  from BayesS was 31.9% (s.e.
+0	NA	NA	NA	RESULTS	= 4.1%) on the liability scale, slightly higher than that based on HapMap3 SNPs from a Haseman-Elston regression analysis (28.7%, s.e.
+0	NA	NA	NA	RESULTS	= 1.1%) using a full set of unrelated UKB individuals (n = 348,580) or from an LD score regression analysis (22.6%, s.e.
+0	NA	NA	NA	RESULTS	= 1.2%) using all the UKB individuals (n = 455,607) (Supplementary Table 7).
+0	NA	MAF	NA	RESULTS	The variance in effect size was significantly negatively correlated with MAF ( = -0.53, s.e.
+0	NA	NA	NA	RESULTS	= 0.09), consistent with a model of negative selection on deleterious rare alleles (Fig.
+0	NA	NA	NA	RESULTS	6d) and inconsistent with a recent study concluding that T2D-associated loci have not been under natural selection.
+0	NA	NA	NA	RESULTS	Our conclusion regarding negative selection is also consistent with the observation that the minor alleles of 9 of the 11 rare variants at  were T2D risk alleles (Supplementary Table 4).
+0	NA	NA	NA	RESULTS	The signal of negative selection implies that a large number of rare variants are expected to be discovered in future GWAS in which appropriate genotyping strategies are used
+0	NA	NA	NA	DISCUSS	In this study, we sought to identify novel genetic loci associated with T2D by a meta-analysis of GWAS with a very large sample size and to infer plausible genetic regulation mechanisms at known and novel loci by an integrative analysis of GWAS and omics data.
+0	NA	NA	NA	DISCUSS	We identified 139 near-independent common variants  and 4 rare variants  for T2D in the meta-analysis.
+0	NA	NA	NA	DISCUSS	Of the 139 common loci, 39 were novel compared with the results of all 49 previous T2D GWAS from the GWAS Catalog (see URLs section), including the 2 recent studies by DIAGRAM and Zhao et al.. We did not detect evidence for sex or age heterogeneity in UKB (Supplementary Note 11, Supplementary Fig.
+0	NA	NA	NA	DISCUSS	14, and Supplementary Table 8).
+0	NA	CAMK1D	NA	DISCUSS	By integrating omics data, we have inferred the genetic mechanisms for the 3 genes CAMK1D, TP53INP1, and ATP5G1; the inferred mechanisms suggest that enhancer-promoter interactions with DNA methylation play an important role in mediating the effects of genetic variants on T2D risk.
+0	NA	NA	NA	DISCUSS	These findings provide deeper insight into the etiology of T2D and suggest candidate genes for functional studies in the future.
+0	NA	NA	NA	DISCUSS	Furthermore, our estimation of genetic architecture suggests that T2D is a polygenic trait for which both rare and common variants contribute to the genetic variation and indicates that rarer variants tend to have larger effects on T2D risk (Fig.
+0	NA	NA	NA	DISCUSS	6c and Supplementary Table 4).
+0	seizures	NA	NA	DISCUSS	Assuming that most new mutations are deleterious for fitness, our result is consistent with a model in which mutations that have larger effects on T2D (and thereby on fitness through pleiotropy) are more likely to be maintained at low frequencies in the population by negative (purifying) selection
+0	NA	NA	NA	DISCUSS	This study has a number of limitations.
+0	diabetes	NA	NA	DISCUSS	First, the SNP-T2D associations identified by the meta-analysis might be biased by misdiagnosis of T1D (type 1 diabetes) and latent autoimmune diabetes in adults.
+0	NA	NA	NA	DISCUSS	Previous studies found that biases in SNP-T2D associations due to misdiagnosis are likely to be very modest.
+0	NA	NA	NA	DISCUSS	We showed by 2 additional analyses based on known T1D loci that most of the novel SNP-T2D associations identified in this study are unlikely to be driven by misdiagnosed T1D cases (Supplementary Note 12 and Supplementary Data 15).
+0	obese	NA	NA	DISCUSS	Second, some of the T2D-associated SNPs might confer T2D risk through mediators such as obesity or dyslipidemia.
+0	dyslipidemia	NA	NA	DISCUSS	To explore this possibility, we performed a summary data-based conditional analysis of the 139 T2D-associated SNPs conditioning on body mass index (BMI) or dyslipidemia by GCTA-mtCOJO using GWAS data for these 2 traits from UKB.
+1	dyslipidemia	FTO	NA	DISCUSS	It appeared that the effect sizes of most T2D-associated SNPs, with the exception of a few outliers (e.g., FTO, MC4R, POCS, and TFAP2B), were not affected by BMI or dyslipidemia (Supplementary Fig.
+0	NA	NA	NA	DISCUSS	16).
+0	NA	NA	NA	DISCUSS	These outliers were among those showing the strongest associations with BMI.
+1	NA	NA	NA	DISCUSS	Third, among the 39 novel loci, there was only 1 locus (ARG1/MED23, Supplementary Fig.
+0	NA	NA	NA	DISCUSS	17) at which the association between gene expression and T2D risk was significant in SMR and not rejected by HEIDI (Tables 2-3).
+0	NA	NA	NA	DISCUSS	This is because the power of the SMR test depends primarily on the SNP effect from GWAS, which is small for the novel loci.
+0	NA	NA	NA	DISCUSS	Fourth, the sample sizes of eQTL data from the disease relevant tissues were relatively small.
+0	NA	NA	NA	DISCUSS	We used the eQTL data from blood to take advantage of the large sample sizes.
+0	NA	NA	NA	DISCUSS	This maximized the power for detecting genes for which the eQTL effects are consistent across tissues (Supplementary Fig.
+0	NA	NA	NA	DISCUSS	10) but might have missed genes for which the eQTL effects are specific to the T2D-relevant tissues.
+0	pancreatic	NA	NA	DISCUSS	Moreover, the pancreatic islets constitute only 1-2% of the whole pancreas volume and previous studies revealed islet-specific gene activity for T2D.
+0	NA	NA	NA	DISCUSS	Therefore, in our SMR analysis using GTEx-pancreas data, genes with islet-specific transcription or eQTL effects could be missed.
+0	NA	NA	NA	DISCUSS	Finally, we employed the SMR and HEIDI methods to map CpG sites to their target genes and to identify the CpG sites associated with T2D because of pleiotropy.
+0	NA	NA	NA	DISCUSS	The SMR approach uses genome-wide significant mQTL as an instrumental variable for each CpG site, which requires a large sample size for the mQTL discovery.
+0	NA	NA	NA	DISCUSS	In this study, we used mQTL data based on Illumina HumanMethylation450 arrays because of the relatively large sample size (n = 1980).
+0	NA	NA	NA	DISCUSS	Unfortunately, we did not have access to mQTL data from whole-genome bisulfite sequencing (WGBS) in a large sample.
+1	NA	NA	NA	DISCUSS	Nevertheless, it is noteworthy that there are three T2D-associated variants at the CAMK1D/CDC123, ADCY5, and KLHDC5 loci that show hypomethylation and allelic imbalance as identified by Thurner et al.
+0	NA	NA	NA	DISCUSS	using WGBS data (n = 10), all of which were genome-wide significant in our mQTL-based SMR analysis.
+0	NA	NA	NA	DISCUSS	In addition, a previous study showed that T2D-associated loci were enriched in islet stretch enhancers, ~54.1% of which were tagged by at least one of the DNAm probe in the 450 K array (annotation data from ref.
+0	NA	NA	NA	DISCUSS	).
+0	NA	NA	NA	DISCUSS	Despite these limitations, our study highlights the benefits of integrating multiple omics data to identify functional genes and putative regulatory mechanisms driven by local genetic variation.
+0	NA	NA	NA	DISCUSS	Future applications of integrative omics data analyses are expected to improve our understanding of the biological mechanisms underlying T2D and other common diseases
+0	diabetes	NA	NA	METHODS	The data used in this study were derived from 659,316 individuals of European ancestry and a small cohort from Pakistan, and were obtained from three data sets: DIAbetes Genetics Replication And Meta-analysis (DIAGRAM), Genetic Epidemiology Research on Adult Health and Aging (GERA) and UKB
+0	NA	NA	NA	METHODS	DIAGRAM: The DIAGRAM data were obtained from publicly available databases (see URLs section) and included 2 stages of summary statistics.
+0	NA	NA	NA	METHODS	In stage 1, there were 12,171 cases and 56,862 controls from 12 GWAS cohorts of European descent, and the genotype data were imputed to the HapMap2 Project (~2.5 million SNPs after quality control).
+0	NA	NA	NA	METHODS	In stage 2, there were 22,669 cases and 58,119 controls genotyped on Metabochips (~137,900 SNPs), including 1178 cases and 2472 controls of Pakistani descent.
+0	NA	NA	NA	METHODS	There was limited evidence of genetic heterogeneity between individuals of European and those of Pakistani descent for T2D.
+0	NA	NA	NA	METHODS	The sample prevalence was 23.3% (17.6% in stage 1 and 28.1% in stage 2).
+0	NA	NA	NA	METHODS	We imputed the stage 1 summary statistics by ImpG and combined the imputed data with stage 2 summary statistics (Supplementary Note 1)
+0	NA	NA	NA	METHODS	GERA: There were 6905 cases and 46,983 controls in GERA, and the sample prevalence was 12.4%.
+0	NA	NA	NA	METHODS	We cleaned the GERA genotype data using standard quality control (QC) filters (excluding SNPs with missing rate >= 0.02, Hardy-Weinberg equilibrium test P value <= 1 x 10-6 or minor allele count <= 1 and removing individuals with missing rate >= 0.02) and imputed the genotype data to the 1000 Genomes Projects (1KGP) reference panels using IMPUTE2.
+0	NA	MAF	NA	METHODS	We used GCTA (see URLs section) to compute the genetic relationship matrix (GRM) of all the individuals based on a subset of imputed SNPs (HapMap3 SNPs with MAF >= 0.01 and imputation info score >= 0.3), removed the related individuals at a genetic relatedness threshold of 0.05, and retained 53,888 individuals (6905 cases and 46,983 controls) for further analysis.
+0	NA	NA	NA	METHODS	We computed the first 20 principal components (PCs) from the GRM.
+0	NA	NA	NA	METHODS	The summary statistics in GERA were obtained from a GWAS analysis using PLINK2 with sex, age, and the first 20 PCs fitted as covariates.
+0	NA	NA	NA	METHODS	To examine the influence of imputation panel on the meta-analysis result, we further imputed GERA to the HRC using the Sanger imputation service (see URLs section)
+0	NA	NA	NA	METHODS	UKB: Genotype data from UKB were cleaned and imputed to HRC by the UKB team.
+0	NA	NA	NA	METHODS	There were 21,147 cases and 434,460 controls, and the sample prevalence was 5.5%.
+0	NA	NA	NA	METHODS	We identified a European subset of UKB participants (n = 456,426) by projecting the UKB participants onto the 1KGP PCs.
+0	NA	NA	NA	METHODS	Genotype probabilities were converted to hard-call genotypes using PLINK2 (hard-call 0.1), and we excluded SNPs with minor allele count < 5, Hardy-Weinberg equilibrium test P value < 1 x 10-6, missing genotype rate > 0.05, or imputation info score < 0.3.
+0	NA	NA	NA	METHODS	The UKB phenotype was acquired from self-report, ICD10 main diagnoses and ICD10 secondary diagnoses (field IDs: 20002, 41202, and 41204).
+0	NA	NA	NA	METHODS	The GWAS analysis in UKB was conducted in BOLT-LMM with sex and age fitted as covariates.
+0	NA	NA	NA	METHODS	In the BOLT-LMM analysis, we used 711,933 SNPs acquired by LD pruning (r2 < 0.9) from Hapmap3 SNPs to control for relatedness, population stratification and polygenic effects.
+0	NA	OPRM1	NA	METHODS	We transformed the effect size from BOLT-LMM on the observed 0-1 scale to the OR using LMOR
+0	NA	NA	NA	METHODS	Before conducting the meta-analysis, we performed several analyses in which we examined genetic heterogeneity and sample overlap among data sets (Supplementary Note 2).
+0	NA	NA	NA	METHODS	We performed a 2-stage meta-analysis.
+0	NA	NA	NA	METHODS	The first stage combined DIAGRAM stage 1 (GWAS chip) data with GERA and UKB.
+0	NA	NA	NA	METHODS	The second stage combined DIAGRAM stage 1 and 2 (GWAS chip and metabolism chip) with GERA and UKB.
+0	NA	NA	NA	METHODS	We extracted the SNPs common to the 3 data sets (5,526,193 SNPs in stage 1 and 5,053,015 million SNPs in stage 2) and performed the meta-analyses using an inverse-variance based method in METAL.
+0	NA	NA	NA	METHODS	The stage 2 meta-analysis data were used in the follow-up analyses
+0	NA	NA	NA	METHODS	We performed SMR and HEIDI analyses to identify genes whose expression levels were associated with a trait due to pleiotropy using summary statistics from GWAS and eQTL/mQTL studies.
+0	NA	NA	NA	METHODS	We first performed the SMR analysis to test for association between the expression level of each gene and the disease using the top associated cis-eQTL of the gene as an instrumental variable (in a Mendelian randomization analysis framework).
+0	NA	NA	NA	METHODS	There are at least two models consistent with an observed SMR association, i.e., pleiotropy (a genetic variant having effects on both trait and gene expression) and linkage (2 genetic variants in LD, one affecting the trait and another affecting gene expression).
+0	NA	NA	NA	METHODS	The HEIDI test uses multiple SNPs in a cis-eQTL region to distinguish pleiotropy from linkage by testing whether there is heterogeneity in SMR effects estimated at different SNPs in LD with the top associated cis-eQTL.
+0	NA	NA	NA	METHODS	We used the SMR and HEIDI methods to test for pleiotropic associations between gene expression and T2D, between DNAm and T2D, and between T2D-associated gene expression and T2D-associted DNAm.
+0	NA	Cardiometabolic Genome Epidemiology Network(CAGE)	NA	METHODS	In the SMR analysis, we used eQTL summary data from the eQTLGen Consortium (n = 14,115 in whole blood), the CAGE (n = 2765 in peripheral blood) and the GTEx v7 release (n = 385 in adipose subcutaneous tissue, n = 313 in adipose visceral omentum, n = 153 in liver, n = 220 in pancreas and n = 369 from whole blood).
+0	NA	Cardiometabolic Genome Epidemiology Network(CAGE)	NA	METHODS	In CAGE and eQTLGen, gene expression levels were measured using Illumina gene expression arrays; in GTEx, gene expression levels were measured by RNA-seq.
+0	NA	NA	NA	METHODS	The SNP genotypes in all cohorts were imputed to 1KGP.
+0	NA	NA	NA	METHODS	The cis-eQTL within 2 Mb of the gene expression probes with PeQTL < 5 x 10-8 were selected as the instrumental variables in the SMR test.
+0	NA	NA	NA	METHODS	The mQTL summary data were obtained from genetic analyses of DNA methylation measured on Illumina HumanMethylation450 arrays (n = 1980 in peripheral blood).
+0	NA	NA	NA	METHODS	We used mQTL data generated by the 450 K methylation arrays rather than whole-genome bisulfite sequencing (WGBS) because WGBS-based mQTL data of large sample size (at least 100 s) are not available yet.
+0	NA	NA	NA	METHODS	We demonstrated the statistical power of SMR test in our study by simulation under a pleiotropy model (Supplementary Note 9 and Supplementary Fig.
+0	NA	NA	NA	METHODS	10)
+0	NA	NA	NA	METHODS	The MAF- and LD-stratified GREML (GREML-LDMS) is a method for estimating SNP-based heritability that is robust to model misspecification.
+0	NA	NA	NA	METHODS	For ease of computation, we limited the analysis to a subset of unrelated UKB individuals (15,767 cases and 104,233 controls); in this subset, we kept all 15,767 cases among the unrelated individuals to maximize the sample size of cases and randomly selected 104,233 individuals from 332,813 unrelated controls.
+0	NA	MAF	NA	METHODS	We first estimated the segment-based LD score, stratified ~18 million SNPs into 2 groups based on the segment-based LD scores (high vs. low LD groups separated by the median), and then stratified the SNPs in each LD group into 7 MAF bins (10-4 to 10-3, 10-3 to 10-2, 10-2 to 10-1, 0.1-0.2, 0.2-0.3, 0.3-0.4, and 0.4-0.5).
+0	NA	MAF	NA	METHODS	We computed the GRMs using the stratified SNPs and performed GREML analysis fitting 14 GRMs (with sex, age, and the first 10 PCs fitted as covariates) in one model to estimate the SNP-based heritability in each MAF bin.
+0	NA	NA	NA	METHODS	We used 10% as the population prevalence to convert the estimate to that on the liability scale
+0	NA	NA	NA	METHODS	We used GCTB-BayesS to estimate the joint distribution of SNP effect size and allele frequency.
+0	NA	NA	NA	METHODS	This analysis is based on 348,580 unrelated individuals (15,767 cases and 332,813 controls) and HapMap3 SNPs (~1.23 million) with sex, age, and the first 10 PCs fitted as covariates.
+0	NA	NA	NA	METHODS	Each SNP effect has a mixture prior of a normal distribution and a point mass at zero, with an unknown mixing probability, pi, representing the degree of polygenicity.
+0	NA	MAF	NA	METHODS	The variance in effect size is modeled to be dependent on MAF through a parameter S. Under an evolutionarily neutral model, SNP effect sizes are independent of MAF, i.e., S = 0.
+0	NA	MAF	NA	METHODS	A negative (positive) value of S indicates that variants with lower MAF are prone to having larger (smaller) effects, consistent with a model of negative (positive) selection.
+0	NA	NA	NA	METHODS	A Markov-chain Monte Carlo (MCMC) algorithm was used to draw posterior samples for statistical inference.
+0	NA	NA	NA	METHODS	The posterior mean was used as the point estimate, and the posterior standard error was approximated by the standard deviation of the MCMC samples.
+0	NA	NA	NA	METHODS	We conducted the analysis chromosome-wise for ease of computation
+0	NA	NA	NA	METHODS	For MAGIC consortium, see https://www.magicinvestigators.org/.
+0	NA	NA	NA	METHODS	For DrugBank, see https://www.drugbank.ca/.
+0	NA	NA	NA	METHODS	For DrugBank documentation, see https://www.drugbank.ca/documentation.
+0	NA	NA	NA	METHODS	For GWAS catalog, see http://www.ebi.ac.uk/gwas/.
+0	NA	NA	NA	METHODS	For DIAGRAM summary data, see http://www.diagram-consortium.org/.
+0	NA	NA	NA	METHODS	For Sanger imputation service, see https://imputation.sanger.ac.uk/.
+0	NA	NA	NA	METHODS	For GCTA, see http://cnsgenomics.com/software/gcta/.
+0	NA	NA	NA	METHODS	For GCTB, see http://cnsgenomics.com/software/gctb/
+0	NA	NA	NA	AUTH_CONT	J.Y., J.Z.
+0	NA	NA	NA	AUTH_CONT	and A.X.
+0	NA	NA	NA	AUTH_CONT	conceived and designed the experiment.
+0	NA	NA	NA	AUTH_CONT	A.X.
+0	NA	NA	NA	AUTH_CONT	and Y.W.
+0	NA	NA	NA	AUTH_CONT	performed the analysis with assistance and guidance from Z.H.Z., F.Z., L.R.L., J.S., Y.D.W., J.Z., and J.Y.
+0	NA	NA	NA	AUTH_CONT	K.E.K., L.Y., Z.L.Z., J.Y.
+0	NA	NA	NA	AUTH_CONT	and P.M.V.
+0	NA	NA	NA	AUTH_CONT	contributed to the analysis of the UKB data.
+0	NA	NA	NA	AUTH_CONT	The eQTLGen consortium provided the eQTLGen eQTL summary data.
+0	NA	NA	NA	AUTH_CONT	A.F.M.
+0	NA	NA	NA	AUTH_CONT	contributed to the analysis of DNA methylation data.
+0	NA	NA	NA	AUTH_CONT	A.X., J.Z.
+0	NA	NA	NA	AUTH_CONT	and J.Y.
+0	NA	NA	NA	AUTH_CONT	wrote the manuscript with the participation of all authors

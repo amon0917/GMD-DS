@@ -1,0 +1,524 @@
+0	Breast and prostate cancer	NA	NA	ABSTRACT	The genetic risk for prostate cancer has been governed by a few rare variants with high penetrance and over 150 commonly occurring variants with lower impact on risk; however, most of these variants have been identified in studies containing exclusively European individuals.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	People of non-European ancestries make up less than 15% of prostate cancer GWAS subjects.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Across the globe, incidence of prostate cancer varies with population due to environmental and genetic factors.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	The discrepancy between disease incidence and representation in genetics highlights the need for more studies of the genetic risk for prostate cancer across diverse populations.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	To better understand the genetic risk for prostate cancer across diverse populations, we performed PrediXcan and GWAS in a case-control study of 4,769 self-identified African American (2,463 cases and 2,306 controls), 2,199 Japanese American (1,106 cases and 1,093 controls), and 2,147 Latin American (1,081 cases and 1,066 controls) individuals from the Multiethnic Genome-wide Scan of Prostate Cancer.
+0	atherosclerotic	NA	NA	ABSTRACT	We used prediction models from 46 tissues in GTEx version 8 and five models from monocyte transcriptomes in the Multi-Ethnic Study of Atherosclerosis.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Across the three populations, we predicted 19 gene-tissue pairs, including five unique genes, to be significantly (lfsr < 0.05) associated with prostate cancer.
+0	NA	NKX3.1	NA	ABSTRACT	One of these genes, NKX3-1, replicated in a larger European study.
+0	NA	NA	NA	ABSTRACT	At the SNP level, 110 SNPs met genome-wide significance in the African American study while 123 SNPs met significance in the Japanese American study.
+0	NA	NA	NA	ABSTRACT	Fine mapping revealed three significant independent loci in the African American study and two significant independent loci in the Japanese American study.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	These identified loci confirm findings from previous GWAS of prostate cancer in diverse populations while PrediXcan-identified genes suggest potential new directions for prostate cancer research in populations across the globe
+0	genetic diseases	NA	NA	INTRO	In the past two decades, genome-wide association studies (GWAS) have evolved as a critical method to detect and characterize genomic loci affecting susceptibility to various polygenic disorders.
+0	NA	NA	NA	INTRO	As this important method to detect genetic associations has grown, individuals of non-European ancestries have made up less than 22% of all GWAS.
+0	NA	NA	NA	INTRO	Individuals of African, East Asian, and Latin American ancestries made up 2.03%, 8.21%, and 1.13%, respectively.
+0	Breast and prostate cancer	NA	NA	INTRO	These populations are similarly poorly represented in GWAS of prostate cancer.
+0	NA	NA	NA	INTRO	Individuals of European ancestries make up over 85% of discovery GWAS, while individuals of African, East Asian, and Latin American ancestries make up less than 11%, 3%, and 1%, respectively.
+0	NA	NA	NA	INTRO	Individuals of African American or Latin American ancestries are far more diverse due to more recent genetic admixture compared to individuals with East Asian ancestries.
+0	NA	NA	NA	INTRO	This means that individuals who identify as Latin American or African American may have genomes composed of linkage disequilibrium (LD) blocks from Africa, Europe, and the Americas.
+0	NA	NA	NA	INTRO	Admixture and difference in population structure can lead to complexities in studying genetic associations within diverse populations.
+0	NA	NA	NA	INTRO	Nonetheless, these populations need to be studied to better understand disease risk across the globe.
+0	NA	NA	NA	INTRO	The lack of representation of non-European populations in GWAS can lead to further health disparities from non-transferable findings across populations.
+0	NA	NA	NA	INTRO	Since allele and haplotype frequencies differ across populations, susceptibility to disease will vary with these frequencies.
+0	NA	NA	NA	INTRO	Elucidating this susceptibility has grown increasingly important since many disease risk prediction models lose performance accuracy across populations.
+0	Breast and prostate cancer	NA	NA	INTRO	Having accurate models to predict disease risk is especially important for prostate cancer since disease risk is noticeably different across populations
+0	Breast and prostate cancer	NA	NA	INTRO	Prostate Cancer is the most commonly diagnosed cancer and second leading cause of cancer death among African American men; one in seven black men will be diagnosed with prostate cancer in his lifetime compared to one in nine white men.
+0	Breast and prostate cancer	NA	NA	INTRO	Risk factors for prostate cancer include age, family history of disease, and African ancestries.
+0	Breast and prostate cancer	NA	NA	INTRO	The genetic component of prostate cancer is made of rare variants with high penetrance and many common variants with lower penetrance.
+0	Breast and prostate cancer	NA	NA	INTRO	Adding to the complexity of this analysis, prostate cancer is a remarkably heterogeneous phenotype with various molecular and physical classifications.
+0	Breast and prostate cancer	NA	NA	INTRO	While prostate cancer susceptibility is increased in African Americans, prostate cancer risk is poorly understood in individuals of East Asian ancestries.
+0	Breast and prostate cancer	NA	NA	INTRO	The age adjusted incidence rate of prostate cancer in East Asian Americans is nearly three times that of native East Asian individuals.
+0	Breast and prostate cancer	NA	NA	INTRO	Better understanding of how alleles specific to East Asian populations influence prostate cancer risk could reveal new underlying disease biology.
+0	NA	NA	NA	INTRO	Latin American individuals are the least studied of the three populations.
+0	Breast and prostate cancer	NA	NA	INTRO	The lack of representation could be due to low rates of incidence of prostate cancer in Central and South America; however, Latin American countries are estimated to have the second highest increase in risk for the disease by 2040
+0	Breast and prostate cancer	NA	NA	INTRO	Of the 67 published prostate cancer GWAS in the National Center for Biotechnology Information (NCBI) GWAS Catalog, only 16 studies included individuals of non-European ancestries.
+0	Breast and prostate cancer	NA	NA	INTRO	These GWAS have identified 8q24 as a region carrying susceptibility loci for prostate cancer.
+0	Breast and prostate cancer	NA	NA	INTRO	While some fine-mapping of this region has been done in diverse populations, transcriptome-wide association studies (TWAS) of prostate cancer have not been conducted across diverse populations.
+0	NA	NA	NA	INTRO	TWAS serves as a systematic method for integrating expression quantitative trait loci (eQTL) data from GWAS.
+0	NA	NA	NA	INTRO	Since TWAS uses gene expression as an intermediate phenotype, it has a functional advantage over GWAS.
+0	Breast and prostate cancer	PRACTICAL	NA	INTRO	One of the largest GWAS published up to this point that included over 140,000 individuals of European ancestries was the Prostate Cancer Association Group to investigate Cancer-Associated Alterations in the Genome (PRACTICAL) Consortium.
+0	Breast and prostate cancer	PRACTICAL	NA	INTRO	Two of the largest gene-based association studies specific to prostate cancer were TWAS of the PRACTICAL GWAS summary statistics.
+0	Breast and prostate cancer	NA	NA	INTRO	While these studies provided insight into genes associated with prostate cancer in European subjects, they provided little insight into genes affected by ancestry-specific SNPs in diverse populations.
+0	NA	NA	NA	INTRO	Moreover, broader and more accurate genotype and gene expression imputation panels have been created since the studies in diverse populations were published
+0	Breast and prostate cancer	NA	NA	INTRO	We seek to better understand the genetic architecture of gene expression for prostate cancer in African American, Japanese American, and Latin American populations.
+0	NA	NA	NA	INTRO	To do this, we performed a standard case-control GWAS across 4,769 African American subjects, 2,147 Latin American subjects, and 2,199 Japanese American subjects.
+0	NA	NA	NA	INTRO	We used a deterministic approximation of posteriors for GWAS (DAP-G) to fine-map the 8q24 susceptibility region.
+0	atherosclerotic	NA	NA	INTRO	In addition to GWAS, we performed TWAS using PrediXcan across 46 tissues from GTEx version 8 and five models from the Multi-Ethnic Study of Atherosclerosis.
+0	NA	PRACTICAL	NA	INTRO	We replicated our data in an S-PrediXcan application to the PRACTICAL summary statistics.
+0	NA	NA	NA	INTRO	All scripts and notes for this study can be found at https://github.com/WheelerLab/Prostate-Cancer-Study
+0	NA	NA	NA	METHODS	Phenotype and genotype data for all individuals in this study were downloaded from the NCBI database of Genotypes and Phenotypes (dbGaP) accession number phs000306.v4.p1.
+0	NA	NA	NA	METHODS	Our project was determined exempt from human subjects federal regulations under exemption number 4 by the Loyola University Chicago Institutional Review Board (project number 2014).
+0	NA	NA	NA	METHODS	Participants were mainly self-reported ethnicities of African Americans, Japanese Americans, or Latin Americans.
+0	cancers	NA	NA	METHODS	Cases of cancer within these men were identified by annual linkage to the National Cancer Institute (NCI) Surveillance, Epidemiology, and End Results (SEER) registries in California and Hawaii.
+0	NA	NA	NA	METHODS	Whole genome genotypying was performed on Illumnia Human 1M-Duov3_B and Human660W-Quad_v1_A array platforms surveying 1,185,051 and 592,839 single nucleotide polymorphisms (SNP), respectively.
+0	NA	NA	NA	METHODS	The final association analyses included 4,769 African American subjects (2,463 cases and 2,306 controls), 2,147 Japanese American subjects (1106 cases and 1093 controls), and 2,199 Latin American subjects (1081 cases and 1066 controls) (Table 1)
+0	NA	NA	NA	METHODS	After we downloaded the data from dbGaP, we divided the subjects into three groups of their self-reported ethnicities.
+0	NA	NA	NA	METHODS	Standard genome-wide quality control was performed separately on each of the three groups using PLINK.
+0	NA	NA	NA	METHODS	In each group, we removed SNPs with genotyping rates < 99%.
+0	NA	NA	NA	METHODS	We then removed SNPs significantly outside of Hardy-Weinberg Equilibrium (P < 1 x 10-6).
+0	NA	NA	NA	METHODS	We also filtered out individuals with excess heterozygosity, removing individuals at least three standard deviations from mean heterozygosity.
+0	NA	NA	NA	METHODS	We then used PLINK to calculate the first ten principal components of each study when merged with three populations from HapMap phase 3.
+0	NA	NA	NA	METHODS	The first three principal components of each group were used to confirm self-identified ethnicity (S1 Fig)
+0	NA	NA	NA	METHODS	Following the confirmation of ethnicity, filtered genotypes were imputed using the University of Michigan Imputation Server.
+0	NA	NA	NA	METHODS	All three groups of genotypes were imputed separately using minimac4 and Eagle version 2.3 for phasing.
+0	NA	NA	NA	METHODS	For the Japanese American population, 1000 Genomes Phase 3 version 5 (1000G) was used as a reference panel.
+0	NA	NA	NA	METHODS	Both the African American and Latin American groups were imputed with 1000G and the Consortium on Asthma among African-ancestry Populations in the Americas (CAAPA).
+0	NA	NA	NA	METHODS	Genotypes for all three populations were filtered for imputation accuracy and minor allele frequency (MAF).
+0	NA	NA	NA	METHODS	SNPs with r2 < 0.8 and MAF < 0.01 were removed from the analysis.
+0	NA	NA	NA	METHODS	The union of genotypes imputed with 1000G and CAAPA in African American and Latin American populations were used for downstream analysis.
+0	NA	NA	NA	METHODS	r2 and MAF filtering took place before the merging of genotypes.
+0	NA	NA	NA	METHODS	For SNPs in the intersection of the two imputation panels, the SNP imputed with CAAPA was selected for the GWAS and PrediXcan analysis due to LD similarity between the CAAPA reference panel and the populations studied.
+0	NA	NA	NA	METHODS	The number of SNPs and individuals in each ethnicity at various steps throughout quality control and imputation are reported in Table 1
+0	Breast and prostate cancer	NA	NA	METHODS	We performed a traditional case-control GWAS of prostate cancer using a logistic regression in PLINK.
+0	NA	NA	NA	METHODS	The first ten principal components were used as covariates to account for global population structure.
+0	NA	NA	NA	METHODS	P < 5 x 10-8 was used as the P-value threshold to denote genome-wide significance.
+0	NA	NA	NA	METHODS	Independent loci were determined and analyzed using deterministic approximation of posteriors for GWAS (DAP-G), an integrative joint enrichment analysis of multiple causal variants.
+0	NA	NA	NA	METHODS	SNPs were clustered into groups with both a cluster posterior inclusion probability (PIP) and an individual SNP PIP.
+0	NA	NA	NA	METHODS	SNPs in the same cluster were identified as linked, and each group of SNPs was considered a locus independent of others.
+0	NA	NA	NA	METHODS	Pairwise LD calculations of r2 were calculated in PLINK
+0	NA	NA	NA	METHODS	We used the gene expression imputation method, PrediXcan, to predict genetically regulated levels of expression for each individual across the three populations.
+0	histidinemia	NA	NA	METHODS	We predicted expression using five models built from monocyte transcriptomes of self-identified European (CAU), Hispanic (HIS), African American (AFA) individuals in the Multi-Ethnic Study of Atherosclerosis (MESA).
+0	NA	NA	NA	METHODS	The two other MESA models were built from combined African American-Hispanic (AFHI) data, and all three populations (ALL).
+0	NA	NA	NA	METHODS	Additionally, we also predicted expression using the 46 multivariate adaptive shrinkage (mashr) models built from 46 tissues in the Gene-Tissue Expression Project (GTEx) version 8.
+0	NA	NA	NA	METHODS	Ovary, uterus, and vagina were excluded from the total tissues.
+0	NA	NA	NA	METHODS	In the GTEx version 8 prediction models, only tissues from individuals with European ancestries were used.
+0	NA	NA	NA	METHODS	All gene expression prediction models may be found at http://predictdb.org/.
+0	NA	NA	NA	METHODS	We tested the predicted expression levels for association with the case-control status of individuals in each ethnic population using the first ten principal components as covariates.
+0	NA	NA	NA	METHODS	Significant gene-tissue association were determined after performing an adaptive shrinkage using the R package ashr to account for multiple testing.
+0	NA	NA	NA	METHODS	The adaptive shrinkage calculated a local false sign rate (lfsr) for each test.
+0	NA	NA	NA	METHODS	Gene-tissue pairs with lfsr < 0.05 were considered significant.
+0	NA	NA	NA	METHODS	We chose lfsr over traditional false discovery rate because lfsr accounts for both effect size and standard error for each gene-tissue pair.
+0	NA	NA	NA	METHODS	To confirm significant gene-tissue findings, we used COLOC to investigate colocalization between the GWAS and eQTLs.
+0	NA	NA	NA	METHODS	We followed up these finding using the summary statistics version of PrediXcan, S-PrediXcan.
+0	NA	PRACTICAL	NA	METHODS	We applied the same GTEx prediction models to the PRACTICAL summary statistics, which included over 20.3M SNPs
+0	Breast and prostate cancer	NA	NA	RESULTS	To better characterize the genetic architecture underlying prostate-cancer across non-European populations, we performed a case-control GWAS of prostate cancer across 15M SNPs in nearly 5,000 self-identified African American individuals.
+0	NA	NA	NA	RESULTS	Additionally, we performed GWAS across 4.6M SNPs in a nearly 2,200 Japanese American individuals and 7.0M SNPs in 2,147 Latin American individuals.
+0	NA	NA	NA	RESULTS	Notably, this GWAS includes imputed SNPs from 1000G and CAAPA, two reference panels not available at the time of the original genotyping and GWAS of this case-control study
+0	Breast and prostate cancer	NA	NA	RESULTS	In our GWAS of 4,769 self-identified African American individuals, we found 110 SNPs to be significantly associated (P < 5 x 10-8) with prostate cancer.
+0	NA	NA	NA	RESULTS	Of these 110 SNPs, 108 of them were located at a previously identified region of chromosome 8 (Fig 1A).
+0	NA	NA	rs76595456	RESULTS	Of the SNPs on chromosome 8, rs76595456 was the most significantly associated at P = 1.01 x 10-15.
+0	NA	NA	rs76595456	RESULTS	The minor allele (T) of rs76595456 is a SNP found only in individuals of recent African ancestries (Fig 2).
+0	NA	NA	NA	RESULTS	Four independent clusters were identified by DAP-G on chromosome 8 at 8q24 (Fig 1C).
+0	NA	NA	rs76595456	RESULTS	Of the four clusters, two contained SNPs meeting genome-wide significance, one led by rs76595456 (PIP = 0.942) and the other led by rs72725879 (PIP = 0.994) (S1 Table).
+0	NA	NA	rs72725879	RESULTS	rs72725879 was also significant in the Japanese American GWAS (Fig 1B and 1D).
+0	NA	NA	rs10149068	RESULTS	Two of 110 SNPs (rs10149068 & rs8017723) were found at a novel locus on chromosome 14.
+0	NA	NA	NA	RESULTS	These two SNPs on chromosome 14 are linked (r2 = 0.989) and identified as one locus
+0	NA	NA	NA	FIG	(A & B) depict a LocusZoom plots of GWAS results from African American and Japanese American populations, respectively.
+0	NA	NA	NA	FIG	The most significant SNPs in both GWAS were in the same chromosome 8 region.
+0	NA	NA	NA	FIG	(A) is plotted using 1000G AFR 2014 LD, and (B) is plotted using 1000G ASN 2014 LD.
+0	NA	NA	NA	FIG	The y-axis is the -log10(P) while the x-axis is location on chromosome 8 measured in megabases (Mb).
+0	NA	NA	NA	FIG	Color represents the LD r2.
+0	NA	NA	NA	FIG	(C & D) depict the GWAS -log10(P) compared to DAP-G SNP posterior inclusion probabilities (PIP) for the African American and Japanese American populations, respectively.
+0	NA	NA	NA	FIG	Each point on the plot represents one SNP in each GWAS.
+0	NA	NA	NA	FIG	The color of each point represents the independent cluster the SNP was assigned to in its respective population.
+0	NA	NA	NA	FIG	Grey points represent those that were not clustered by DAP-G
+0	NA	NA	rs76595456	FIG	A depiction of the global minor allele frequencies rs76595456 (A), rs72725879 (B), and rs1456315 (C).
+0	NA	NA	rs76595456	FIG	(A) rs76595456 represents the most significantly associated SNP in the African American GWAS.
+0	NA	NA	NA	FIG	The minor allele, T, is found only in populations of recent African ancestries.
+0	NA	NA	rs72725879	FIG	(B) rs72725879 represents the only SNP to be identified by DAP-G in a cluster in both the African American and Japanese American GWAS.
+0	NA	NA	rs1456315	FIG	(C) rs1456315 represents the most significantly associated SNP in the Japanese American GWAS.
+0	NA	NA	rs1456315	FIG	rs1456315 (C) is found in strong LD with rs72725879 (B) (r2 = 0.815) in the Japanese American GWAS population.
+0	NA	NA	rs1456315	FIG	rs1456315 and rs72725879 are not linked in the African American GWAS population (r2 = 0.448).
+0	NA	NA	NA	FIG	This figure was adapted from one generated using the Geography of Genetic Variants Browser.
+0	NA	NA	NA	FIG	SNP position on chromosome 8 is labeled using hg19 coordinates from 1000G
+0	NA	NA	NA	RESULTS	We used the gene expression imputation tool, PrediXcan to predict gene expression from genotypes using models built from transcriptomes of 46 tissues in version 8 of GTEx.
+0	NA	NA	NA	RESULTS	We also predicted gene expression using five models built from monocyte transcriptome of diverse populations in MESA.
+0	NA	NA	NA	RESULTS	After predicting the genetically regulated level of expression for each gene using each of these models, we tested the predicted gene expression for association with the phenotype status of each subject using the first ten principal components as covariates
+0	NA	NA	NA	RESULTS	In our application of PrediXcan to the 4,769 African American individuals, we predicted expression of 489,459 gene-tissue pairs.
+0	NA	NA	NA	RESULTS	We identified two gene-tissue pairs with lfsr < 0.05 and nine gene-tissue pairs with lfsr < 0.10 across all GTEx version 8 mashr prediction models (Table 2; Fig 3).
+0	NA	EBPL	NA	RESULTS	EBPL was the gene in all nine of the gene-tissue pairs.
+0	NA	NA	NA	RESULTS	The two most significantly associated gene-tissue pairs by lfsr were found in cerebellar hemisphere (lfsr = 0.0423) and cervical spinal cord (lfsr = 0.0485).
+0	NA	PSA	NA	RESULTS	The gene-tissue pair with the lowest P-value was KLK3, a gene encoding for prostate-specific antigen, in Tibial Artery (P = 3.31 x 10-6), but the lfsr was not significant (lfsr = 0.921).
+0	Breast and prostate cancer	NA	NA	RESULTS	No gene-tissue pairs in the MESA prediction models significantly associated with prostate cancer in the African American population (S3 Fig)
+0	NA	NA	NA	FIG	(A & B) are Manhattan plots of the PrediXcan results using GTEx version 8 mashr gene expression prediction models for the respective African American and Japanese American populations.
+0	Breast and prostate cancer	NA	NA	FIG	Each point represents a gene-tissue test for association with prostate cancer via PrediXcan.
+0	NA	NA	NA	FIG	The y-axis represents the -log10(P) of the gene-tissue test, and the x-axis plots chromosome number.
+0	NA	NA	NA	FIG	The size of the dot is inversely proportional to its lfsr
+0	NA	NA	NA	TABLE	lfsr represents the local false sign rate as calculated using adaptive shrinkage.
+0	NA	PRACTICAL	NA	TABLE	P(PRACTICAL) represents P-value for the gene-tissue pair in the S-PrediXcan analysis of the PRACTICAL summary statistics.
+0	NA	PRACTICAL	NA	TABLE	Beta(PRACTICAL) represents the effect direction and size predicted from S-PrediXcan.
+0	NA	PRACTICAL	NA	TABLE	"""NA"" means that the gene was not tested in the PRACTICAL summary statistics"
+0	Breast and prostate cancer	NA	NA	RESULTS	We used PrediXcan to impute and associate gene expression with prostate cancer across 270,813 gene-tissue pairs in GTEx version 8 from 2,199 Japanese American individuals.
+0	Breast and prostate cancer	NA	NA	RESULTS	We found seventeen gene-tissue pairs to be significantly associated with prostate cancer in this population (Table 2).
+0	NA	PLCL1	NA	RESULTS	Of these seventeen gene-tissue pairs, four unique genes were identified: PLCL1, NKX3-1, FAM227A, COQ10B.
+0	NA	COQ10B	NA	RESULTS	The most significantly associated gene-tissue pair by P-value was COQ10B in Thyroid (P = 2.28 x 10-7).
+0	NA	NA	NA	RESULTS	When we applied PrediXcan to the Latin American study, we predicted expression of 411,366 gene-tissue pairs in GTEx version 8.
+0	Breast and prostate cancer	NA	NA	RESULTS	No genes were significantly associated with prostate cancer by lfsr or P-value (S4 Fig)
+0	NA	PRACTICAL	NA	RESULTS	We attempted to replicate our PrediXcan findings by applying S-PrediXcan to GWAS summary statistics of the PRACTICAL meta-analysis of over 140,000 individuals of European ancestries performed by Schumacher et al.. 424,518 gene-tissue pairs were tested from the summary statistics using GTEx version 8 prediction models.
+0	NA	NKX3.1	NA	RESULTS	When we compared these summary level results to our findings, only NKX3-1 replicated with a P-value meeting Bonferroni significance (P < 1.178 x 10-7).
+0	Breast and prostate cancer	NKX3.1	NA	RESULTS	Similar to the findings of our TWAS, the direction of effect predicted by S-PrediXcan was negative, associating decreased expression of NKX3-1 with prostate cancer (Table 2).
+0	NA	FAM227A	NA	RESULTS	Not enough SNPs were not present in the FAM227A prediction model to reliably predict expression from PRACTICAL summary statistics
+0	Breast and prostate cancer	NA	NA	DISCUSS	Broadly, the findings of this study confirm previously well-established information about the genetics of prostate cancer in diverse populations; however, our study differs from previous ones since we performed the first TWAS of prostate cancer in these populations using mashr prediction models from GTEx version 8 and diverse prediction models from MESA.
+0	Breast and prostate cancer	NKX3.1	NA	DISCUSS	Two of the main findings of this study were identifying risk loci at chromosome 8q24 and identifying NKX3-1 as a risk gene for prostate cancer.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Prostate cancer risk at 8q24 has been well characterized to carry SNPs that are population-specific to African Americans.
+0	NA	NA	NA	DISCUSS	Previously, up to twelve independent risk signals have been identified at 8q24 in European populations and three significant loci in populations of African ancestries (S2 & S3 Tables)
+0	NA	NA	NA	DISCUSS	Our study found four independent clusters of SNPs at this position for the African American study using DAP-G. Two of these four clusters contained SNPs meeting genome-wide significance.
+0	NA	NA	NA	DISCUSS	Han et al.
+0	NA	NA	rs72725879	DISCUSS	previously identified rs72725879, rs114798100, and rs111906932 to be three distinct significantly associated loci (S3 Table).
+0	NA	NA	NA	DISCUSS	All three of these SNPs met genome-wide significance in our study, however, our DAP-G modeling clustered SNPs differently than in the forward selection modeling of Han et al.
+0	NA	NA	NA	DISCUSS	(Fig 1).
+0	NA	NA	rs72725879	DISCUSS	In both studies, rs72725879 was identified as an independent risk signal.
+0	NA	NA	NA	DISCUSS	Han et al.
+0	NA	NA	rs114798100	DISCUSS	found rs114798100 and rs111906932 to be independent risk loci while DAP-G in our study prioritized rs76595456 as risk signal independent from rs72725879.
+0	NA	NA	rs114798100	DISCUSS	Interestingly, DAP-G clustered rs114798100 (PIP = 1.21 x 10-5) with rs76595456 (PIP = .942), and rs111906932 was not assigned to any cluster by DAP-G. rs76595456 appears to be frequently co-inherited with rs114798100 (D' = 0.964 in 1000G AFR) and rs111906932 (D' = 0.975 in 1000G AFR).
+0	NA	NA	NA	DISCUSS	The small number of independent signals identified by DAP-G is unsurprising since DAP-G is a more conservative fine-mapping tool that assumes a single causal variant is expected a priori.
+0	NA	NA	NA	DISCUSS	This difference could also be attributed to sample size since Han et al.
+0	NA	NA	NA	DISCUSS	had a sample size nearly twice that of our study.
+0	NA	NA	rs72725879	DISCUSS	Additionally, we found six clusters in the Japanese American study using DAP-G. Of the 102 SNPs assigned to clusters by DAP-G in either African or Japanese American population, only rs72725879 overlapped across populations (Fig 2).
+0	Breast and prostate cancer	NA	rs72725879	DISCUSS	rs72725879 has previously been implicated in Asian ancestry-specific risk to prostate cancer, and is in high LD (r2 = 0.815) with rs1456315, which was the most significantly associated SNP in the Japanese American GWAS
+0	NA	NKX3.1	NA	DISCUSS	With respect to our identification of NKX3-1 in the Japanese American TWAS, NKX3-1 was identified across six tissues including both brain and somatic tissue.
+0	cancers	NKX3.1	NA	DISCUSS	NKX3-1 is a well known tumor suppression gene, whose decreased expression has been associated with prostate cancer.
+0	NA	NKX3.1	NA	DISCUSS	In all six tissues, NKX3-1 expression was predicted with a negative direction of effect, associating decreased expression with the phenotype.
+0	NA	PRACTICAL	NA	DISCUSS	This direction of effect is replicated both in our S-PrediXcan application to the PRACTICAL summary statistics and previous finding in Japanese populations
+0	NA	NA	rs76595456	DISCUSS	rs76595456 was the most significantly associated (P = 1.01 x 10-15) SNP in our study.
+0	NA	NA	NA	DISCUSS	Its minor risk allele is specific to populations of recent African ancestries (MAF = 0.1150), and it is absent in both Asian and European populations (Fig 2).
+0	NA	NA	NA	DISCUSS	The SNP had an individual PIP of 0.942 and was found in a cluster with seven other SNPs bearing a cluster PIP of 0.995.
+0	Breast and prostate cancer	PCAT2	NA	DISCUSS	The SNP is an intron variant of PCAT2, a well-established prostate cancer associated transcript
+0	Breast and prostate cancer	EBPL	NA	DISCUSS	In our TWAS of prostate cancer across African Americans, we report EBPL as a gene significantly associated (lfsr = 0.0423) with prostate cancer in this population.
+0	NA	EBPL	NA	DISCUSS	EBPL made up the top twenty gene-tissue pairs by lfsr (lfsr ranging from 0.0423-0.153).
+0	AFA	NA	NA	DISCUSS	It was the most associated gene reported across all five MESA gene expression prediction populations by both P-value (P = 4.67 x 10-6 in AFA) and lfsr (lfsr = .106 in AFHI).
+0	NA	NA	NA	DISCUSS	The highest gene-tissue COLOC P4 value, the probability that the GWAS and eQTL signal are colocalized, was 0.18.
+0	NA	PRACTICAL	NA	DISCUSS	In the S-PrediXcan analysis of the PRACTICAL data, the gene did not replicate.
+0	NA	PRACTICAL	NA	DISCUSS	This failure to replicate could be attributed to difference genetic architecture across the African American test population and the European PRACTICAL population
+0	Breast and prostate cancer	NA	NA	DISCUSS	The TWAS of prostate cancer in the Japanese American population revealed four unique genes associated with prostate cancer.
+0	cancers	NKX3.1	NA	DISCUSS	The previously discussed NKX3-1 is a well-established tumor suppressor gene whose decreased expression is known to progress the aggressiveness of the tumor.
+0	Breast and prostate cancer	COQ10B	NA	DISCUSS	COQ10B has not been associated with prostate cancer previously according to the NCBI GWAS Catalog.
+0	Breast and prostate cancer	PLCL1	NA	DISCUSS	PLCL1 has been nominally associated with prostate cancer through a SNP x SNP interaction study.
+0	NA	NA	NA	DISCUSS	Neither of these genes replicated in the larger S-PrediXcan analysis.
+0	Breast and prostate cancer	FAM227A	NA	DISCUSS	FAM227A provides an interesting situation since it has been previously identified to be associated with prostate cancer in a GWAS of prostate cancer in Middle Eastern populations.
+0	NA	NA	NA	DISCUSS	Additionally, it was the only significant gene-tissue pair to be found in prostate tissue.
+0	NA	PRACTICAL	NA	DISCUSS	SNPs were not present in the PRACTICAL summary stats to generate a reliably predicted level of expression of FAM227A using S-PrediXcan.
+0	NA	PRACTICAL	NA	DISCUSS	Despite having nearly 15 million more SNPs in the PRACTICAL summary statistics compared to our GWAS and TWAS of Japanese American populations, SNPs were not genotyped or imputed at this location on chromosome 22 in the PRACTICAL study.
+0	NA	NA	rs16999186	DISCUSS	One of the SNPs in this model, rs16999186, has a divergent allele frequency across Japanese (MAF = 0.114) and European (MAF = 0.0169) populations.
+0	NA	PRACTICAL	NA	DISCUSS	Since this frequency in European populations falls near the quality control MAF threshold in the original PRACTICAL study and below the genotyping threshold for the European-specific designed genotyping array, this SNP could easily be missed in larger studies.
+0	NA	FAM227A	NA	DISCUSS	FAM227A also lies within approximately 150kB of SUN2 (P = 1.18 x 10-5;lfsr = .108) a gene marginally significant in our MESA-HIS prediction model.
+0	Breast and prostate cancer	SUN2	NA	DISCUSS	SUN2 has recently been identified as a gene whose decreased expression has been significantly associated with prostate cancer in Japanese populations
+0	Breast and prostate cancer	NA	NA	CONCL	In summary, this study of 4,769 African American and 2,199 Japanese American individuals identifies potential population-specific risk loci for prostate cancer in people of recent African or East Asian ancestries.
+0	Breast and prostate cancer	NA	rs76595456	CONCL	Since its minor risk allele is found only in populations of recent African ancestries, rs76595456 is suggested as a potentially novel risk SNP to prostate cancer in African Americans.
+0	Breast and prostate cancer	FAM227A	NA	CONCL	Furthermore, the identification of FAM227A as a potential susceptibility gene for prostate cancer in non-European populations highlights growing need for studies of the genetics of prostate cancer in non-European populations.
+0	NA	NA	NA	CONCL	This study's principal limitations were sample size and ancestry matching in gene expression prediction models.
+0	NA	NA	NA	CONCL	Sample sizes of under 5,000 African American subjects and nearly 2,200 Japanese American subjects pale in comparison to studies of exclusively European populations that are nearly two orders of magnitude larger.
+0	Breast and prostate cancer	NA	NA	CONCL	Considering that African American men are nearly twice as likely to die from prostate cancer as their white counterparts, the need for larger sample sizes of African American subjects cannot be overstated.
+0	NA	NA	NA	CONCL	Regarding the gene expression prediction models used, the GTEx version 8 prediction models are the most comprehensive set of prediction models to date; however, they are built exclusively from the transcriptomes of European ancestries individuals.
+0	NA	NA	NA	CONCL	Where the models provide accuracy and breadth in capturing common eQTLs, they struggle to predict expression from population-specific eQTLs.
+0	NA	NA	NA	CONCL	The MESA prediction models used capture some of the diversity across populations, but they too are limited by sample size (233 African American individuals, 352 Hispanic individuals, and 578 European individuals) and diversity considering there is no model built from transcriptomes of East Asian subjects.
+0	Breast and prostate cancer	NA	NA	CONCL	To better understand the genetic processes that underlie prostate cancer in diverse populations, more diverse studies are needed
+0	NA	NA	NA	REF	This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited
+0	NA	NA	NA	REF	Thank you for submitting your manuscript to PLOS ONE.
+0	NA	NA	NA	REF	After careful consideration, we feel that it has merit but does not fully meet PLOS ONE's publication criteria as it currently stands.
+0	NA	NA	NA	REF	Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process
+0	NA	NA	NA	REF	1.
+0	NA	NA	NA	REF	The rationale for the study needs to made more clear, particularly in light of previously published work.
+0	NA	NA	NA	REF	What does this study add?
+0	NA	NA	NA	REF	This is especially important as the authors are using some data from previous publications
+0	NA	NA	NA	REF	2.
+0	NA	NA	NA	REF	The authors need to do a more comprehensive literature search on what has already been accomplished in this area (GWAS, eQTLs for risk alleles etc.)
+0	NA	NA	NA	REF	and place their study in the context of this previous work.
+0	NA	NA	NA	REF	Details can be added to both the introduction and discussion
+0	NA	NA	NA	REF	Please submit your revised manuscript by Sep 14 2020 11:59PM.
+0	NA	NA	NA	REF	If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org.
+0	NA	NA	NA	REF	When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file
+0	NA	NA	NA	REF	Please include the following items when submitting your revised manuscript
+0	NA	NA	NA	REF	A rebuttal letter that responds to each point raised by the academic editor and reviewer(s).
+0	NA	NA	NA	REF	You should upload this letter as a separate file labeled 'Response to Reviewers'
+0	NA	NA	NA	REF	A marked-up copy of your manuscript that highlights changes made to the original version.
+0	NA	NA	NA	REF	You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'
+0	NA	NA	NA	REF	An unmarked version of your revised paper without tracked changes.
+0	NA	NA	NA	REF	You should upload this as a separate file labeled 'Manuscript'
+0	NA	NA	NA	REF	If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter.
+0	NA	NA	NA	REF	Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter
+0	NA	NA	NA	REF	If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results.
+0	NA	NA	NA	REF	Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future.
+0	NA	NA	NA	REF	For instructions see: http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocol
+0	NA	NA	NA	REF	When submitting your revision, we need you to address these additional requirements
+0	NA	NA	NA	REF	1.
+0	NA	NA	NA	REF	Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming.
+0	NA	NA	NA	REF	The PLOS ONE style templates can be found a
+0	NA	NA	NA	REF	2.
+0	NA	NA	NA	REF	We note that you have stated that you will provide repository information for your data at acceptance.
+0	NA	NA	NA	REF	Should your manuscript be accepted for publication, we will hold it until you provide the relevant accession numbers or DOIs necessary to access your data.
+0	NA	NA	NA	REF	If you wish to make changes to your Data Availability statement, please describe these changes in your cover letter and we will update your Data Availability statement to reflect the information you provide
+0	NA	NA	NA	REF	3.We note that [Figure(s) 2] in your submission contain [map/satellite] images which may be copyrighted.
+0	NA	NA	NA	REF	All PLOS content is published under the Creative Commons Attribution License (CC BY 4.0), which means that the manuscript, images, and Supporting Information files will be freely available online, and any third party is permitted to access, download, copy, distribute, and use these materials in any way, even commercially, with proper attribution.
+0	NA	NA	NA	REF	For these reasons, we cannot publish previously copyrighted maps or satellite images created using proprietary data, such as Google software (Google Maps, Street View, and Earth).
+0	NA	NA	NA	REF	For more information, see our copyright guidelines: http://journals.plos.org/plosone/s/licenses-and-copyright
+0	NA	NA	NA	REF	We require you to either (1) present written permission from the copyright holder to publish these figures specifically under the CC BY 4.0 license, or (2) remove the figures from your submission
+0	NA	NA	NA	REF	1.
+0	NA	NA	NA	REF	You may seek permission from the original copyright holder of Figure(s) [2] to publish the content specifically under the CC BY 4.0 license.
+0	NA	NA	NA	REF	We recommend that you contact the original copyright holder with the Content Permission Form (http://journals.plos.org/plosone/s/file?id=7c09/content-permission-form.pdf) and the following text
+0	NA	NA	NA	REF	"""I request permission for the open-access journal PLOS ONE to publish XXX under the Creative Commons Attribution License (CCAL) CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)."
+0	NA	NA	NA	REF	Please be aware that this license allows unrestricted use and distribution, even commercially, by third parties.
+0	NA	NA	NA	REF	Please reply and provide explicit written permission to publish XXX under a CC BY license and complete the attached form.
+0	NA	NA	NA	REF	"Please upload the completed Content Permission Form or other proof of granted permissions as an ""Other"" file with your submission"
+0	NA	NA	NA	REF	"In the figure caption of the copyrighted figure, please include the following text: ""Reprinted from [ref] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year]."
+0	NA	NA	NA	REF	2.
+0	NA	NA	NA	REF	If you are unable to obtain permission from the original copyright holder to publish these figures under the CC BY 4.0 license or if the copyright holder's requirements are incompatible with the CC BY 4.0 license, please either i) remove the figure or ii) supply a replacement figure that complies with the CC BY 4.0 license.
+0	NA	NA	NA	REF	Please check copyright information on all replacement figures and update the figure caption with source information.
+0	NA	NA	NA	REF	If applicable, please specify in the figure caption text when a figure is similar but not identical to the original image and is therefore for illustrative purposes only
+0	NA	NA	NA	REF	The following resources for replacing copyrighted map figures may be helpful
+0	NA	NA	NA	REF	The Gateway to Astronaut Photography of Earth (public domain): http://eol.jsc.nasa.gov/sseop/clickmap
+0	NA	NA	NA	REF	USGS EROS (Earth Resources Observatory and Science (EROS) Center) (public domain): http://eros.usgs.gov/
+0	NA	NA	NA	REF	1.
+0	NA	NA	NA	REF	Is the manuscript technically sound, and do the data support the conclusions
+0	NA	NA	NA	REF	The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions.
+0	NA	NA	NA	REF	Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes.
+0	NA	NA	NA	REF	The conclusions must be drawn appropriately based on the data presented.
+0	NA	NA	NA	REF	2.
+0	NA	NA	NA	REF	Has the statistical analysis been performed appropriately and rigorously?
+0	NA	NA	NA	REF	3.
+0	NA	NA	NA	REF	Have the authors made all data underlying the findings in their manuscript fully available
+0	NA	NA	NA	REF	The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file).
+0	NA	NA	NA	REF	The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository.
+0	NA	NA	NA	REF	For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available.
+0	NA	NA	NA	REF	If there are restrictions on publicly sharing data:e.g.
+0	NA	NA	NA	REF	participant privacy or use of data from a third party:those must be specified
+0	NA	NA	NA	REF	4.
+0	NA	NA	NA	REF	Is the manuscript presented in an intelligible fashion and written in standard English
+0	NA	NA	NA	REF	PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous.
+0	NA	NA	NA	REF	Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here
+0	NA	NA	NA	REF	Please use the space provided to explain your answers to the questions above.
+0	NA	NA	NA	REF	You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics.
+0	NA	NA	NA	REF	(Please upload your review as an attachment if it exceeds 20,000 characters
+0	Breast and prostate cancer	NA	NA	REF	Reviewer #1: The authors utilize available prostate cancer GWAS data to perform GWAS and TWAS of prostate cancer within 3 racial/ethnic groups.
+0	NA	NA	NA	REF	The GWAS seems like an academic exercise as the GWAS results for these 3 populations/studies have already been published.
+0	NA	NA	NA	REF	A stronger rationale for doing this and re-publishing the results needs to be provided.
+0	NA	NA	NA	REF	They also need to acknowledge previous GWAS analyses of these same data as many studies have been published.
+0	NA	NA	NA	REF	The results are also not properly framed with regards to known risk variants or regions.
+0	NA	NA	rs7659456	REF	For example, the top SNP in the study at 8q24, rs7659456, is correlated with much stronger signals in African Americans which have been published.
+0	NA	NA	NA	REF	It is odd that these other stronger SNPs are not found which suggests issues with the imputation.
+0	NA	NA	NA	REF	While the TWAS analysis in these studies is novel, the results aren't particularly interesting as what was found are essentially known eQTL signals with known risk genes
+0	NA	NA	NA	REF	In abstract and elsewhere, this is not a cohort but rather multiple case-control studies
+0	NA	NA	NA	REF	The location of the 8q24 SNP is incorrect in Fig
+0	Breast and prostate cancer	NA	NA	REF	Reviewer #2: The study by Fiorica and colleagues is a careful analsyes of genetic susceptibility to prostate cancer across races.
+0	NA	NA	NA	REF	This is an impactful area of research and one that is being addressed by various groups.
+0	Breast and prostate cancer	NA	NA	REF	The current findings will therefore resonate with multiple efforts to define the genetic drivers of prostate cancer
+0	NA	NA	NA	REF	Perhaps, there are technical improvements that could be made (for example, in terms of ancestry inference) but these are minor concerns and the authors justify their approaches within the confines of the study
+0	NA	NA	NA	REF	6.
+0	NA	NA	NA	REF	PLOS authors have the option to publish the peer review history of their article (what does this mean?).
+0	NA	NA	NA	REF	If published, this will include your full peer review and any attached files
+0	NA	NA	NA	REF	"If you choose ""no"", your identity will remain anonymous but your review may still be made public"
+0	NA	NA	NA	REF	Do you want your identity to be public for this peer review?
+0	NA	NA	NA	REF	For information about this choice, including consent withdrawal, please see our Privacy Policy
+0	NA	NA	NA	REF	[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site.
+0	NA	NA	NA	REF	"Please log into your account, locate the manuscript record, and check for the action link ""View Attachments""."
+0	NA	NA	NA	REF	If this link does not appear, there are no attachment files.
+0	NA	NA	NA	REF	While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/.
+0	NA	NA	NA	REF	PACE helps ensure that figures meet PLOS requirements.
+0	NA	NA	NA	REF	To use PACE, you must first register as a user.
+0	NA	NA	NA	REF	Registration is free.
+0	NA	NA	NA	REF	Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool.
+0	NA	NA	NA	REF	If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org.
+0	NA	NA	NA	REF	Please note that Supporting Information files do not need this step
+0	NA	NA	NA	REVIEW_INFO	We thank the editor and reviewers for the thorough examination of our manuscript and for providing positive and helpful feedback.
+0	NA	NA	NA	REVIEW_INFO	We appreciate the opportunity to address reviewer comments here.
+0	NA	NA	NA	REVIEW_INFO	Our responses are prefaced by RESPONSE
+0	NA	NA	NA	REVIEW_INFO	1.
+0	NA	NA	NA	REVIEW_INFO	The rationale for the study needs to made more clear, particularly in light of previously published work.
+0	NA	NA	NA	REVIEW_INFO	What does this study add?
+0	NA	NA	NA	REVIEW_INFO	This is especially important as the authors are using some data from previous publications
+0	NA	NA	NA	REVIEW_INFO	We thank the editor for highlighting this point and bringing to our attention the need to contextualize our study.
+0	NA	NA	NA	REVIEW_INFO	In our response to Reviewer 1, we note the novelty of our TWAS and the fact that imputation reference panels have been updated since the time of previous GWAS of this dataset.
+0	NA	NA	NA	REVIEW_INFO	Our introduction and discussion have been updated
+0	Breast and prostate cancer	NA	NA	REVIEW_INFO	"""These GWAS have identified 8q24 as a region carrying susceptibility loci for prostate cancer."
+0	Breast and prostate cancer	NA	NA	REVIEW_INFO	While some fine-mapping of this region has been done in diverse populations, transcriptome-wide association studies (TWAS) of prostate cancer have not been conducted across diverse populations [13, 14].
+0	NA	NA	NA	REVIEW_INFO	TWAS serves as a systematic method for integrating expression quantitative trait loci (eQTL) data from GWAS [15-17].
+0	NA	NA	NA	REVIEW_INFO	Since TWAS uses gene expression as an intermediate phenotype, it has a functional advantage over GWAS.
+0	Breast and prostate cancer	NA	NA	REVIEW_INFO	"""Broadly, the findings of this study confirm previously well-established information about the genetics of prostate cancer in diverse populations; however, our study differs from previous ones since we performed the first TWAS of prostate cancer in these populations using mashr prediction models from GTEx version 8 and diverse prediction models from MESA [17, 29]."
+0	NA	NA	NA	REVIEW_INFO	2.
+0	NA	NA	NA	REVIEW_INFO	The authors need to do a more comprehensive literature search on what has already been accomplished in this area (GWAS, eQTLs for risk alleles etc.)
+0	NA	NA	NA	REVIEW_INFO	and place their study in the context of this previous work.
+0	NA	NA	NA	REVIEW_INFO	Details can be added to both the introduction and discussion
+0	NA	NA	NA	REVIEW_INFO	We appreciate this comment from the editor.
+0	NA	NA	NA	REVIEW_INFO	After performing a fuller literature review, we have contextualized our study primarily with respect to Han et al.
+0	NA	NA	NA	REVIEW_INFO	(2016) JNCI.
+0	NA	NA	NA	REVIEW_INFO	Supplemental Table 3 details the four SNPs we explore in our discussion.
+0	NA	NA	NA	REVIEW_INFO	We discuss the differences in our findings and potential reasons for these differences in our discussion when we state
+0	NA	NA	NA	REVIEW_INFO	"""Previously, up to twelve independent risk signals have been identified at 8q24 in European populations and three significant loci in populations of African ancestries [13,38] (Supplemental Table 2)"
+0	NA	NA	NA	REVIEW_INFO	Our study found four independent clusters of SNPs at this position for the African American study using DAP-G. Two of these four clusters contained SNPs meeting genome-wide significance.
+0	NA	NA	NA	REVIEW_INFO	Han et al.
+0	NA	NA	rs72725879	REVIEW_INFO	previously identified rs72725879, rs114798100, and rs111906932 to be three distinct significantly associated loci [13](Supplemental Table 3).
+0	NA	NA	NA	REVIEW_INFO	All three of these SNPs met genome-wide significance in our study, however, DAP-G clustered SNPs differently than their findings (Fig 1) .
+0	NA	NA	rs72725879	REVIEW_INFO	In both studies, rs72725879 was identified as an independent risk signal.
+0	NA	NA	NA	REVIEW_INFO	Han et al.
+0	NA	NA	rs114798100	REVIEW_INFO	found rs114798100 and rs111906932 to be independent risk loci while DAP-G in our study prioritized rs76595456 as risk signal independent from rs72725879.
+0	NA	NA	rs114798100	REVIEW_INFO	Interestingly, DAP-G clustered rs114798100 (PIP=1.21x10-5) with rs76595456 (PIP=.942), and rs111906932 was not assigned to any cluster by DAP-G. rs76595456 appears to be frequently co-inherited with rs114798100 (D'=0.964 in 1000G AFR) and rs111906932 (D'=0.975 in 1000G AFR).
+0	NA	NA	NA	REVIEW_INFO	The small number of independent signals identified by DAP-G is unsurprising since DAP-G is a more conservative fine-mapping tool that assumes a single causal variant is expected a priori.
+0	NA	NA	NA	REVIEW_INFO	We have since relabelled Figure 2 appropriately.
+0	Breast and prostate cancer	NA	NA	REVIEW_INFO	We further explore literature regarding the 8q24 region in African American prostate cancer in our discussion and address this point in our response to Reviewer 1.
+0	NA	NA	NA	REVIEW_INFO	We appreciate the careful and thorough review of our manuscript by the reviewers.
+0	NA	NA	NA	REVIEW_INFO	We have outlined our response to reviewers below
+0	NA	NA	NA	REVIEW_INFO	We note that you have stated that you will provide repository information for your data at acceptance.
+0	NA	NA	NA	REVIEW_INFO	Should your manuscript be accepted for publication, we will hold it until you provide the relevant accession numbers or DOIs necessary to access your data.
+0	NA	NA	NA	REVIEW_INFO	If you wish to make changes to your Data Availability statement, please describe these changes in your cover letter and we will update your Data Availability statement to reflect the information you provide
+0	NA	NA	NA	REVIEW_INFO	No data availability changes have been made.
+0	NA	NA	NA	REVIEW_INFO	All scripts, notes, and results from this study can be found at https://github.com/WheelerLab/Prostate-Cancer-Study.
+0	NA	NA	NA	REVIEW_INFO	We have also submitted our GWAS summary statistics to the NCBI GWAS Catalog for our GWAS in all three populations
+0	NA	NA	NA	REVIEW_INFO	We note that [Figure(s) 2] in your submission contain [map/satellite] images which may be copyrighted.
+0	NA	NA	NA	REVIEW_INFO	All PLOS content is published under the Creative Commons Attribution License (CC BY 4.0), which means that the manuscript, images, and Supporting Information files will be freely available online, and any third party is permitted to access, download, copy, distribute, and use these materials in any way, even commercially, with proper attribution.
+0	NA	NA	NA	REVIEW_INFO	For these reasons, we cannot publish previously copyrighted maps or satellite images created using proprietary data, such as Google software (Google Maps, Street View, and Earth).
+0	NA	NA	NA	REVIEW_INFO	For more information, see our copyright guidelines: http://journals.plos.org/plosone/s/licenses-and-copyright
+0	NA	NA	NA	REVIEW_INFO	The Geography of Genetic Variants Browser, the source from which Figure 2 was adapted, has been made public by Creative Commons Attribution License (CC BY 4.0)
+0	Joseph	NA	NA	REVIEW_INFO	Joseph H Marcus, John Novembre, Visualizing the geography of genetic variants, Bioinformatics, Volume 33, Issue 4, 15 February 2017, Pages 594-595, https://doi.org/10.1093/bioinformatics/btw64
+0	NA	NA	NA	REVIEW_INFO	Please use the space provided to explain your answers to the questions above.
+0	NA	NA	NA	REVIEW_INFO	You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics.
+0	NA	NA	NA	REVIEW_INFO	(Please upload your review as an attachment if it exceeds 20,000 characters
+0	Breast and prostate cancer	NA	NA	REVIEW_INFO	Reviewer #1: The authors utilize available prostate cancer GWAS data to perform GWAS and TWAS of prostate cancer within 3 racial/ethnic groups.
+0	NA	NA	NA	REVIEW_INFO	The GWAS seems like an academic exercise as the GWAS results for these 3 populations/studies have already been published.
+0	NA	NA	NA	REVIEW_INFO	A stronger rationale for doing this and re-publishing the results needs to be provided.
+0	NA	NA	NA	REVIEW_INFO	We appreciate Reviewer 1's comment to provide a stronger rationale for the study.
+0	NA	NA	NA	REVIEW_INFO	We have addressed this at
+0	Breast and prostate cancer	NA	NA	REVIEW_INFO	"""Of the 67 published prostate cancer GWAS in the National Center for Biotechnology Information (NCBI) GWAS Catalog, only 16 studies included individuals of non-European ancestries [12]."
+0	Breast and prostate cancer	NA	NA	REVIEW_INFO	These GWAS have identified 8q24 as a region carrying susceptibility loci for prostate cancer.
+0	Breast and prostate cancer	NA	NA	REVIEW_INFO	While some fine-mapping of this region has been done in diverse populations, transcriptome-wide association studies (TWAS) of prostate cancer have not been conducted across diverse populations [13,14].
+0	NA	NA	NA	REVIEW_INFO	TWAS serves as a systematic method for integrating expression quantitative trait loci (eQTL) data from GWAS [15-17].
+0	NA	NA	NA	REVIEW_INFO	Since TWAS uses gene-expression as an intermediate phenotype, it has a functional advantage over GWAS.
+0	Breast and prostate cancer	PRACTICAL	NA	REVIEW_INFO	One of the largest GWAS published up to this point that included over 140,000 individuals of European ancestries was the Prostate Cancer Association Group to investigate Cancer-Associated Alterations in the Genome (PRACTICAL) Consortium [8].
+0	Breast and prostate cancer	PRACTICAL	NA	REVIEW_INFO	Two of the largest gene-based association studies specific to prostate cancer were TWAS of the PRACTICAL GWAS summary statistics [18,19].
+0	Breast and prostate cancer	NA	NA	REVIEW_INFO	While these studies provided insight into genes associated with prostate cancer in European subjects, they provided little insight into genes affected by ancestry-specific SNPs in diverse populations.
+0	NA	NA	NA	REVIEW_INFO	Moreover, broader and more accurate genotype and gene expression imputation panels have been created since the studies in diverse populations were published.
+0	NA	NA	NA	REVIEW_INFO	"""To do this, we performed a standard case-control GWAS across 4,769 African American subjects, 2,147 Latin American subjects, and 2,199 Japanese American subjects."
+0	NA	NA	NA	REVIEW_INFO	We used a deterministic approximation of posteriors for GWAS (DAP-G) to fine-map the 8q24 susceptibility region [20].
+0	atherosclerotic	NA	NA	REVIEW_INFO	In addition to GWAS, we performed TWAS using PrediXcan across 46 tissues from GTEx version 8 and five models from the Multi-Ethnic Study of Atherosclerosis.
+0	NA	PRACTICAL	NA	REVIEW_INFO	"We replicated our data in an S-PrediXcan application to the PRACTICAL summary statistics [15, 21]."""
+0	Breast and prostate cancer	NA	NA	REVIEW_INFO	"""Broadly, the findings of this study confirm previously well-established information about the genetics of prostate cancer in diverse populations; however, our study differs from previous ones since we performed the first TWAS of prostate cancer in these populations using mashr prediction models from GTEx version 8 and diverse prediction models from MESA [17, 29]."
+0	NA	NA	NA	REVIEW_INFO	They also need to acknowledge previous GWAS analyses of these same data as many studies have been published
+0	NA	NA	NA	REVIEW_INFO	We thank Reviewer 1 for helping us recognize the need to contextualize our results.
+0	NA	NA	NA	REVIEW_INFO	We have included Supplemental Table 3 that includes results of twenty-six different GWAS included in the NCBI GWAS Catalog that contain SNPs that intersect with SNPs in our studies at chromosome 8.
+0	NA	NA	NA	REVIEW_INFO	The table includes P-values from both our study and the reference GWAS Catalog study.
+0	NA	NA	NA	REVIEW_INFO	Additionally, it includes sample sizes and ancestries for each study.
+0	NA	NA	NA	REVIEW_INFO	It should be noted that Han et al.
+0	NA	NA	NA	REVIEW_INFO	(2016) JNCI, which we discuss in our next comment, is not included in the NCBI GWAS Catalog nor the citations for this set of genotypes and phenotypes in dbGaP.
+0	NA	NA	NA	REVIEW_INFO	This explains a potential reason that this study was overlooked in our initial literature review
+0	NA	NA	NA	REVIEW_INFO	 The results are also not properly framed with regards to known risk variants or regions.
+0	NA	NA	NA	REVIEW_INFO	For example, the top SNP in the study at 8q24, y, is correlated with much stronger signals in African Americans which have been published.
+0	NA	NA	NA	REVIEW_INFO	It is odd that these other stronger SNPs are not found which suggests issues with the imputation.
+0	NA	NA	NA	REVIEW_INFO	Thank you for this suggestion.
+0	NA	NA	rs72725879	REVIEW_INFO	We recognize that rs72725879 and rs76595456 have previously been identified with more significance in Han et al.
+0	NA	NA	NA	REVIEW_INFO	(2016) JNCI (N=9,531).
+0	NA	NA	NA	REVIEW_INFO	We attribute this difference to the fact that the Han et al.
+0	NA	NA	NA	REVIEW_INFO	study has nearly double the sample size in both their discovery and replication populations.
+0	NA	NA	NA	REVIEW_INFO	Below is a table comparing the P-values of the Han et al.
+0	NA	NA	NA	REVIEW_INFO	study and our African American GWAS
+0	NA	NA	NA	REVIEW_INFO	SNP.
+0	NA	NA	NA	REVIEW_INFO	P-Value (Han et al.)
+0	NA	NA	NA	REVIEW_INFO	n=9531.
+0	NA	NA	NA	REVIEW_INFO	P-Value (Fiorica et al.)
+0	NA	NA	NA	REVIEW_INFO	n=476
+0	NA	NA	NA	REVIEW_INFO	We have further explained this in the paper at lines 253-276, where we write
+0	NA	NA	NA	REVIEW_INFO	"""Previously, up to twelve independent risk signals have been identified at 8q24 in European populations and three significant loci in populations of African ancestries [13, 38] (S2 Table and S3 Table)"
+0	NA	NA	NA	REVIEW_INFO	Our study found four independent clusters of SNPs at this position for the African American study using DAP-G. Two of these four clusters contained SNPs meeting genome-wide significance.
+0	NA	NA	NA	REVIEW_INFO	Han et al.
+0	NA	NA	rs72725879	REVIEW_INFO	previously identified rs72725879, rs114798100, and rs111906932 to be three distinct significantly associated loci [13] (S3 Table).
+0	NA	NA	NA	REVIEW_INFO	All three of these SNPs met genome-wide significance in our study, however, our DAP-G modeling clustered SNPs differently than in the forward selection modeling of Han et al.
+0	NA	NA	NA	REVIEW_INFO	(Fig 1).
+0	NA	NA	rs72725879	REVIEW_INFO	In both studies, rs72725879 was identified as an independent risk signal.
+0	NA	NA	NA	REVIEW_INFO	Han et al.
+0	NA	NA	rs114798100	REVIEW_INFO	found rs114798100 and rs111906932 to be independent risk loci while DAP-G in our study prioritized rs76595456 as risk signal independent from rs72725879.
+0	NA	NA	rs114798100	REVIEW_INFO	Interestingly, DAP-G clustered rs114798100 (PIP=1.21x10-5) with rs76595456 (PIP=.942), and rs111906932 was not assigned to any cluster by DAP-G. rs76595456 appears to be frequently co-inherited with rs114798100 (D'=0.964 in 1000G AFR) and rs111906932 (D'=0.975 in 1000G AFR).
+0	NA	NA	NA	REVIEW_INFO	The small number of independent signals identified by DAP-G is unsurprising since DAP-G is a more conservative fine-mapping tool that assumes a single causal variant is expected a priori.
+0	NA	NA	rs72725879	REVIEW_INFO	Additionally, we found six clusters in the Japanese American study using DAP-G. Of the 102 SNPs assigned to clusters by DAP-G in either African or Japanese American population, only rs72725879 overlapped across populations (Fig 2).
+0	Breast and prostate cancer	NA	rs72725879	REVIEW_INFO	rs72725879 has previously been implicated in Asian ancestry-specific risk to prostate cancer [14], and is in high LD (r2=0.815) with rs1456315, which was the most significantly associated SNP in the Japanese American GWAS.
+0	NA	NA	NA	REVIEW_INFO	In addition, we now include a new supplemental table (S3 Table) containing overlap between our results, and those of the GWAS catalog.
+0	cancers	NA	NA	REVIEW_INFO	Of the 12 different prostate cancer GWAS we found with intersecting genome-wide significant SNPs, seven of the studies contained SNPs with P-values more significant than those identified in our analysis.
+0	NA	NA	NA	REVIEW_INFO	We attribute this discrepancy to a combination of weaker statistical power due to lower sample size and more stringent imputation filtering in our study.
+0	NA	NA	NA	REVIEW_INFO	Below are details further explaining these differences in significance
+0	NA	NA	NA	REVIEW_INFO	Hoffman TJ et al.
+0	NA	NA	NA	REVIEW_INFO	(2015), which accounts for four of the fifteen SNPs with different P-values used r2 >= 0.3 (compared to our r2 >= 0.8), so there may have been less accurately imputed SNPs in their analysis, potentially inflating P-values.
+0	NA	NA	NA	REVIEW_INFO	Moreover, their sample included nearly 39,000 non-Hispanic white subjects
+0	NA	NA	NA	REVIEW_INFO	Cheng I et al.
+0	NA	NA	NA	REVIEW_INFO	(2012), Takata R et al.
+0	NA	NA	NA	REVIEW_INFO	(2010), and Takata R et al.
+0	NA	NA	NA	REVIEW_INFO	(2019) all used r2 >= 0.3 for their imputation filtering
+0	NA	NA	NA	REVIEW_INFO	Gudmundsson J et al.
+0	NA	NA	NA	REVIEW_INFO	(2009) and Gudmundsson J et al.
+0	NA	NA	NA	REVIEW_INFO	(2007) perform their analyses in samples of over 37,000 and 4,500 European individuals, respectively
+0	NA	NA	NA	REVIEW_INFO	Knipe DW et al.
+0	NA	NA	NA	REVIEW_INFO	(2014) and Schumacher FR et at.
+0	NA	NA	NA	REVIEW_INFO	(2011) performed their analyses in exclusively European populations
+0	NA	NA	NA	REVIEW_INFO	While the TWAS analysis in these studies is novel, the results aren't particularly interesting as what was found are essentially known eQTL signals with known risk genes
+0	NA	NA	NA	REVIEW_INFO	We thank the Reviewer for recognizing the novelty of our TWAS analysis.
+0	Breast and prostate cancer	NKX3.1	NA	REVIEW_INFO	We acknowledge that NKX3-1 is a well-characterized prostate cancer risk gene regulated by an enhancer at the 8q24 region that replicated in our S-PrediXcan application of the PRACTICAL summary statistics.
+0	Breast and prostate cancer	NA	NA	REVIEW_INFO	Besides this gene, the other four genes we discovered (Table 2) are not located on chromosome 8 and have not been implicated as eQTLs in prostate cancer previously.
+0	NA	NA	NA	REVIEW_INFO	While these genes did not replicate, there is potentially new biology to be explored in this area in non-European populations.
+0	Breast and prostate cancer	NA	NA	REVIEW_INFO	The two largest prostate cancer TWAS to date, Mancuso et al.
+0	NA	NA	NA	REVIEW_INFO	(2018) Nat Com and Wu et al.
+0	NA	NA	NA	REVIEW_INFO	(2019) Can Res, use GTEx version 6 prediction models.
+0	NA	NA	NA	REVIEW_INFO	We note that while these findings might be false positives, we used prediction models that are both more diverse and more novel.
+0	NA	NA	NA	REVIEW_INFO	We note this at lines 246-250, where we state
+0	Breast and prostate cancer	NA	NA	REVIEW_INFO	"""Broadly, the findings of this study confirm previously well-established information about the genetics of prostate cancer in diverse populations; however, our study differs from previous ones since we performed the first TWAS of prostate cancer in these populations using mashr prediction models from GTEx version 8 and diverse prediction models from MESA [13, 38]."
+0	NA	NA	NA	REVIEW_INFO	In abstract and elsewhere, this is not a cohort but rather multiple case-control studies
+0	NA	NA	NA	REVIEW_INFO	We appreciate the Reviewer bringing this point to our attention.
+0	NA	NA	NA	REVIEW_INFO	We have changed the language surrounding each case-control study to reflect this
+0	NA	NA	NA	REVIEW_INFO	The location of the 8q24 SNP is incorrect in Fig
+0	NA	NA	NA	REVIEW_INFO	We apologize for this mistake.
+0	NA	NA	rs7659456	REVIEW_INFO	The SNP in Figure 2A was mislabeled as rs7659456 when the SNP in our study was rs76595456.
+0	NA	NA	rs76595456	REVIEW_INFO	The position for rs76595456 was correctly labeled, but there was a missing number in the SNP ID.
+0	NA	NA	NA	REVIEW_INFO	We have corrected any mislabeled SNPs and changed the language in the Figure 2 caption to read:
+0	NA	NA	rs76595456	REVIEW_INFO	"""A depiction of the global minor allele frequencies rs76595456 (A), rs72725879 (B), and rs1456315 (C)."
+0	NA	NA	rs76595456	REVIEW_INFO	(A) rs76595456 represents the most significantly associated SNP in the African American GWAS.
+0	NA	NA	NA	REVIEW_INFO	The minor allele, T, is found only in populations of recent African ancestries.
+0	NA	NA	rs72725879	REVIEW_INFO	(B) rs72725879 represents the only SNP to be identified by DAP-G in a cluster in both the African American and Japanese American GWAS.
+0	NA	NA	rs1456315	REVIEW_INFO	(C) rs1456315 represents the most significantly associated SNP in the Japanese American GWAS.
+0	NA	NA	rs1456315	REVIEW_INFO	rs1456315 (C) is found in strong LD with rs72725879 (B) (r2=0.815) in the Japanese American GWAS population.
+0	NA	NA	rs1456315	REVIEW_INFO	rs1456315 and rs72725879 are not linked in the African American GWAS population (r2=0.448).
+0	NA	NA	NA	REVIEW_INFO	This figure was adapted from one generated using the Geography of Genetic Variants Browser [36].
+0	NA	NA	NA	REVIEW_INFO	"SNP position on chromosome 8 is labeled using hg19 coordinates from 1000G."""
+0	Breast and prostate cancer	NA	NA	REVIEW_INFO	Reviewer #2: The study by Fiorica and colleagues is a careful analsyes of genetic susceptibility to prostate cancer across races.
+0	NA	NA	NA	REVIEW_INFO	This is an impactful area of research and one that is being addressed by various groups.
+0	Breast and prostate cancer	NA	NA	REVIEW_INFO	The current findings will therefore resonate with multiple efforts to define the genetic drivers of prostate cancer
+0	NA	NA	NA	REVIEW_INFO	Perhaps, there are technical improvements that could be made (for example, in terms of ancestry inference) but these are minor concerns and the authors justify their approaches within the confines of the study
+0	NA	NA	NA	REVIEW_INFO	RESPONSE: We thank Reviewer 2 for his careful review and appreciation of our work.
+0	NA	NA	NA	REVIEW_INFO	We acknowledge his comment regarding technical improvements with respect for ancestry inference.
+0	NA	NA	NA	REVIEW_INFO	We agree that these would be excellent improvements to pursue in future studies with larger sample sizes
+0	NA	NA	NA	REVIEW_INFO	This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited
+0	NA	NA	NA	REVIEW_INFO	We're pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements
+0	NA	NA	NA	REVIEW_INFO	Within one week, you'll receive an e-mail detailing the required amendments.
+0	NA	NA	NA	REVIEW_INFO	When these have been addressed, you'll receive a formal acceptance letter and your manuscript will be scheduled for publication
+0	NA	NA	NA	REVIEW_INFO	An invoice for payment will follow shortly after the formal acceptance.
+0	NA	NA	NA	REVIEW_INFO	To ensure an efficient process, please log into Editorial Manager at http://www.editorialmanager.com/pone/, click the 'Update My Information' link at the top of the page, and double check that your user information is up-to-date.
+0	NA	NA	NA	REVIEW_INFO	If you have any billing related questions, please contact our Author Billing department directly at authorbilling@plos.org
+0	NA	NA	NA	REVIEW_INFO	If your institution or institutions have a press office, please notify them about your upcoming paper to help maximize its impact.
+0	NA	NA	NA	REVIEW_INFO	If they'll be preparing press materials, please inform our press team as soon as possible -- no later than 48 hours after receiving the formal acceptance.
+0	NA	NA	NA	REVIEW_INFO	Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication.
+0	NA	NA	NA	REVIEW_INFO	For more information, please contact onepress@plos.org
+0	NA	NA	NA	REVIEW_INFO	1.
+0	NA	NA	NA	REVIEW_INFO	"If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the ""Comments to the Author"" section, enter your conflict of interest statement in the ""Confidential to Editor"" section, and submit your ""Accept"" recommendation"
+0	NA	NA	NA	REVIEW_INFO	2.
+0	NA	NA	NA	REVIEW_INFO	Is the manuscript technically sound, and do the data support the conclusions
+0	NA	NA	NA	REVIEW_INFO	The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions.
+0	NA	NA	NA	REVIEW_INFO	Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes.
+0	NA	NA	NA	REVIEW_INFO	The conclusions must be drawn appropriately based on the data presented.
+0	NA	NA	NA	REVIEW_INFO	3.
+0	NA	NA	NA	REVIEW_INFO	Has the statistical analysis been performed appropriately and rigorously?
+0	NA	NA	NA	REVIEW_INFO	4.
+0	NA	NA	NA	REVIEW_INFO	Have the authors made all data underlying the findings in their manuscript fully available
+0	NA	NA	NA	REVIEW_INFO	The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file).
+0	NA	NA	NA	REVIEW_INFO	The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository.
+0	NA	NA	NA	REVIEW_INFO	For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available.
+0	NA	NA	NA	REVIEW_INFO	If there are restrictions on publicly sharing data:e.g.
+0	NA	NA	NA	REVIEW_INFO	participant privacy or use of data from a third party:those must be specified
+0	NA	NA	NA	REVIEW_INFO	5.
+0	NA	NA	NA	REVIEW_INFO	Is the manuscript presented in an intelligible fashion and written in standard English
+0	NA	NA	NA	REVIEW_INFO	PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous.
+0	NA	NA	NA	REVIEW_INFO	Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here
+0	NA	NA	NA	REVIEW_INFO	Please use the space provided to explain your answers to the questions above.
+0	NA	NA	NA	REVIEW_INFO	You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics.
+0	NA	NA	NA	REVIEW_INFO	(Please upload your review as an attachment if it exceeds 20,000 characters
+0	NA	NA	NA	REVIEW_INFO	Reviewer #2: thoughtful comments to generally positive reviews.
+0	NA	NA	NA	REVIEW_INFO	The comments by the reviewers highlighted certain issues which have been answere
+0	NA	NA	NA	REVIEW_INFO	7.
+0	NA	NA	NA	REVIEW_INFO	PLOS authors have the option to publish the peer review history of their article (what does this mean?).
+0	NA	NA	NA	REVIEW_INFO	If published, this will include your full peer review and any attached files
+0	NA	NA	NA	REVIEW_INFO	"If you choose ""no"", your identity will remain anonymous but your review may still be made public"
+0	NA	NA	NA	REVIEW_INFO	Do you want your identity to be public for this peer review?
+0	NA	NA	NA	REVIEW_INFO	For information about this choice, including consent withdrawal, please see our Privacy Policy
+0	NA	NA	NA	REVIEW_INFO	This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited
+0	NA	NA	NA	REVIEW_INFO	I'm pleased to inform you that your manuscript has been deemed suitable for publication in PLOS ONE.
+0	NA	NA	NA	REVIEW_INFO	Congratulations!
+0	NA	NA	NA	REVIEW_INFO	Your manuscript is now with our production department.
+0	NA	NA	NA	REVIEW_INFO	If your institution or institutions have a press office, please let them know about your upcoming paper now to help maximize its impact.
+0	NA	NA	NA	REVIEW_INFO	If they'll be preparing press materials, please inform our press team within the next 48 hours.
+0	NA	NA	NA	REVIEW_INFO	Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication.
+0	NA	NA	NA	REVIEW_INFO	For more information please contact onepress@plos.org
+0	NA	NA	NA	REVIEW_INFO	If we can help with anything else, please email us at plosone@plos.org.
+0	NA	NA	NA	REVIEW_INFO	Thank you for submitting your work to PLOS ONE and supporting open access.

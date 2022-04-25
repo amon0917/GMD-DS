@@ -1,0 +1,196 @@
+0	diabetes	to	NA	ABSTRACT	We aimed to estimate genetic correlation, identify shared loci and test causality between leptin levels and type 2 diabetes (T2D)
+0	NA	SPI1	NA	ABSTRACT	Our study consists of three parts.
+0	NA	SPI1	NA	ABSTRACT	First, we calculated the genetic correlation of leptin levels and T2D or glycemic traits by using linkage disequilibrium score regression analysis.
+0	NA	to	NA	ABSTRACT	Second, we conducted a large-scale genome-wide cross-trait meta-analysis using cross-phenotype association to identify shared loci between trait pairs that showed significant genetic correlations in the first part.
+0	NA	to	NA	ABSTRACT	In the end, we carried out a bidirectional MR analysis to find out whether there is a causal relationship between leptin levels and T2D or glycemic traits
+0	NA	leptin	NA	ABSTRACT	We found positive genetic correlations between leptin levels and T2D (Rg=0.3165, p=0.0227), fasting insulin (FI) (Rg=0.517, p=0.0076), homeostasis model assessment-insulin resistance (HOMA-IR) (Rg=0.4785, p=0.0196), as well as surrogate estimates of beta-cell function (HOMA-beta) (Rg=0.4456, p=0.0214).
+0	NA	leptin	NA	ABSTRACT	We identified 12 shared loci between leptin levels and T2D, 1 locus between leptin levels and FI, 1 locus between leptin levels and HOMA-IR, and 1 locus between leptin levels and HOMA-beta.
+0	NA	NA	NA	ABSTRACT	We newly identified eight loci that did not achieve genome-wide significance in trait-specific genome-wide association studies.
+0	NA	NA	NA	ABSTRACT	These shared genes were enriched in pancreas, thyroid gland, skeletal muscle, placenta, liver and cerebral cortex.
+0	NA	leptin	NA	ABSTRACT	In addition, we found that 1-SD increase in HOMA-IR was causally associated with a 0.329 ng/mL increase in leptin levels (beta=0.329, p=0.001)
+0	NA	leptin	NA	ABSTRACT	Our results have shown the shared genetic architecture between leptin levels and T2D and found causality of HOMA-IR on leptin levels, shedding light on the molecular mechanisms underlying the association between leptin levels and T2D
+0	diabetes	leptin	NA	INTRO	Both leptin levels and type 2 diabetes (T2D) are strongly associated with glycemic homeostasis
+0	NA	leptin	NA	INTRO	Previous observational and genetic studies have found a strong association between leptin levels and T2D
+0	NA	leptin	NA	RESULTS	We identified several previously unreported genetic loci that influence both leptin levels and T2D or glycemic traits
+0	NA	leptin	NA	RESULTS	Our MR analysis found a causal relationship between homeostasis model assessment-insulin resistance and leptin levels, suggesting that the association between leptin levels and T2D or glycemic traits may be due to both the common genetic architecture and causal effect
+0	NA	SPI1	NA	RESULTS	A series of post-genome wide association studies functional analysis provided biologic insights into the shared genes between leptin levels and T2D or glycemic traits and found the tissues and biologic processes in which these shared genes were significantly expressed
+0	NA	SPI1	NA	RESULTS	Transcriptome-wide association analysis (TWAS) further assessed the association of gene expression in specific tissue between leptin levels and T2D or glycemic traits and found the gene-tissue pair that was overlapped between TWAS for both leptin levels and T2D or glycemic traits
+0	NA	SPI1	NA	RESULTS	Our results further elucidate the specific mechanism of the association between leptin levels and T2D or glycemic traits, suggesting that the association between leptin levels and T2D or glycemic traits may be due to both the common genetic architecture and causal effect
+0	NA	SPI1	NA	RESULTS	The discovery of shared genes provided new predictors for identification of susceptible people
+0	NA	SPI1	NA	RESULTS	The results of tissue analysis suggested that clinical workers should pay more attention to the complications of these tissues in T2D patients with abnormal leptin levels
+0	Type 2 diabetes	SPI1	NA	INTRO	Type 2 diabetes (T2D) is a complex and serious global disease, which reduces life expectancy of patients and imposes huge economic burdens on patients as well as the whole society.
+0	NA	NA	NA	INTRO	However, its etiology is not fully understood
+0	NA	leptin	NA	INTRO	Previous convincing observational studies have reported that there was a positive association between leptin levels and T2D.
+0	NA	NA	NA	INTRO	More persuasive meta-analyses showed similar results.
+0	NA	leptin	NA	INTRO	Interestingly, genome-wide association studies (GWAS) have reported some single nucleotide polymorphisms (SNPs) have effects on both leptin levels and T2D, leading us to wonder whether the association between leptin levels and T2D is due to a common genetic etiology.
+0	NA	leptin	NA	INTRO	Besides, leptin levels and T2D may also have common risk factors that are controlled by same genes or pathways.
+0	NA	leptin	NA	INTRO	However, no genetic study has explored the common genetic architecture between leptin levels and T2D
+0	NA	to	NA	INTRO	Therefore, we conducted this large-scale genome-wide cross-trait meta-analysis among 254 263 participants to identify shared genetic architecture between leptin levels and T2D or glycemic traits, providing more knowledge about shared molecular mechanism of them.
+0	NA	leptin	NA	INTRO	Furthermore, we explored the potential causality between leptin levels with T2D or glycemic traits by using bidirectional Mendelian randomization (MR) analysis
+0	NA	NA	NA	METHODS	To identify the shared genetic architecture between leptin levels and T2D or glycemic traits, we conducted a large-scale genome-wide cross-trait meta-analysis.
+0	NA	SPI1	NA	METHODS	Our study consists of three parts.
+0	NA	SPI1	NA	METHODS	First, we calculated the genetic correlation of leptin levels and T2D or glycemic traits, including fasting glucose (FG), fasting insulin (FI), insulin resistance derived from fasting variables by homeostasis model assessment (HOMA-IR) and surrogate estimates of beta-cell function (HOMA-beta) by using linkage disequilibrium (LD) score regression analysis (LDSC).
+0	NA	to	NA	METHODS	Second, we conducted a large-scale genome-wide cross-trait meta-analysis using cross-phenotype association (CPASSOC) to identify shared loci between trait pairs that showed significant genetic correlations in the first part.
+0	NA	to	NA	METHODS	In the end, we carried out a bidirectional MR analysis to find out whether there is a causal relationship between leptin levels and T2D or glycemic traits
+0	NA	leptin	NA	METHODS	The GWAS summary statistics for leptin levels from Tuomas O Kilpelainen's study was used.
+0	NA	SPI1	NA	METHODS	This study performed a meta-analysis of 23 GWAS for body mass index adjusted circulating levels of leptin with 32 161 participants in total.
+0	diabetes	NA	NA	METHODS	The GWAS for T2D came from a large-scale meta-analysis including the DIAbetes Genetics Replication And Meta-analysis (DIAGRAM) Consortium (12 171 cases and 56 862 controls), the Asian Genetic Epidemiology Network Type 2 Diabetes (AGEN-T2D) Consortium (6952 cases and 11 865 controls), the South Asian Type 2 Diabetes (SAT2D) Consortium (5561 cases and 14 458 controls) and the Mexican American Type 2 Diabetes (MAT2D) Consortium (1804 cases and 779 controls).
+0	NA	SPI1	NA	METHODS	The GWAS summary statistics for FG, FI, HOMA-IR and HOMA-beta were from the Meta-Analyses of Glucose and Insulin-related traits Consortium.
+0	NA	to	NA	METHODS	This meta-analysis included up to 46 186 non-diabetic participants of European descent informative for FG, and up to 38 238 non-diabetic individuals informative for FI, as well as HOMA-beta and HOMA-IR.
+0	NA	NA	NA	METHODS	More detailed information about these researches can be seen in the original publications
+0	NA	to	NA	METHODS	LDSC was used to compute the genetic correlation between leptin levels and T2D or glycemic traits in our genome-wide genetic correlation analysis.
+0	NA	to	NA	METHODS	This method believes that the GWAS effect size estimate for a given SNP is related to the effects of all SNPs in LD with that SNP.
+0	NA	NA	NA	METHODS	Thus, SNPs with higher LD scores will have higher test statistics as well
+0	allergy	leptin	NA	METHODS	By using partitioned LDSC, we further estimated the partitioned genetic correlation between leptin levels and T2D or glycemic traits in 11 functional categories, including DNase I digital genomic foot printing region, DNase I hypersensitivity sites (DHSs), fetal DHS, intron, super-enhancer, transcription factor-binding sites, transcribed regions and histone marks H3K4me1, H3K27ac, H3K4me3 and H3K9ac.
+0	NA	to	NA	METHODS	This method partitions SNPs into different functional categories and calculates LD score for a given SNP to that category
+0	NA	to	NA	METHODS	We conducted a genome-wide cross-trait meta-analysis to identify shared loci between leptin levels and T2D or glycemic traits using CPASSOC.
+0	NA	SPI1	NA	METHODS	This method can integrate association evidence from summary statistics of multiple traits, either correlated, independent, continuous or binary traits, which might come from the same or different studies.
+0	NA	NA	NA	METHODS	It allows for trait heterogeneity effects, population structure and cryptic relatedness.
+0	NA	NA	NA	METHODS	Two statistics SHet and SHom were calculated by this method.
+0	NA	SPI1	NA	METHODS	Considering the heterogeneity of different traits in our study, we chose SHet as the main statistics.
+0	NA	to	NA	METHODS	SNPs with PSHet <5x10-8 and trait specific p<0.05 were thought to have effects on both traits
+0	NA	to	NA	METHODS	We used Tissue Enrich package to calculate the tissue-specific gene enrichment and find out tissue of enriched expression of shared genes between leptin levels and T2D or glycemic traits.
+0	NA	to	NA	METHODS	The hypergeometric test is used to determine if the tissue-specific genes are enriched among the shared genes in this method.
+0	HPA	NA	NA	METHODS	Tissue-specific genes are defined by processing RNA-Seq data from the Human Protein Atlas (HPA) and GTEx using the algorithm from the HPA
+0	NA	to	NA	METHODS	We conducted a TWAS to identify gene expression in specific tissues for each trait by using FUSION software package based on 48 GTEx (version 7) tissue expression reference weights.
+0	NA	to	NA	METHODS	We used false discovery rate (FDR) Benjamin-Hochberg procedure to correct the p value, and FDR <0.05 was considered significant
+0	NA	to	NA	METHODS	We used PANTHER tool to assess over-represented enrichment of the shared genes in reactome pathways and gene ontology (GO) biologic process.
+0	NA	to	NA	METHODS	False discovery rate Benjamini-Hochberg procedure was used on p values to account for multiple testing (FDR<0.05)
+0	NA	to	NA	METHODS	In order to make the identified regions more precise, we conducted fine-mapping credible set analysis.
+0	NA	to	NA	METHODS	We extracted variants that were highly linked (r2 >0.4) with index SNP among SNPs that were closed to index SNP within 500 kb in every locus.
+0	NA	SPI1	NA	METHODS	With this method, we identified credible sets of SNPs that were 99% likely, based on posterior probability, to contain the causal disease-associated SNPs
+0	NA	SPI1	NA	METHODS	We performed a genetic colocalization analysis of two potentially related phenotypes to know more about whether they share common genetic variants in a given region by coloc package,and SNPs within 500 kb of the index SNP were selected for this analysis
+0	NA	to	NA	METHODS	In the end, to explore the causal relationship between leptin levels and T2D or glycemic traits, we conducted a bidirectional MR analysis using two-sample MR package.
+0	NA	to	NA	METHODS	MR analysis used genetic variation as the instrumental variable to explore the causal effect between two traits.
+0	NA	SPI1	NA	METHODS	Three basic assumptions must be met in MR analysis: (1) the genetic instruments used must be associated with the exposure of interest, (2) the genetic instruments used must not be the confounders between the examined exposure and outcome, and (3) the genetic instruments must be conditionally independent of the outcome given the exposure.
+0	NA	to	NA	METHODS	In practice, we extracted SNPs with p<1x10-5 from the GWAS summary statistics for interested exposure as the genetic instruments to satisfy the first assumption, conducted a horizontal pleiotropy analysis to test the second assumption, and selected independent genetic instruments (r2 <0.2) to avoid violating the third assumption
+0	NA	NA	NA	METHODS	In this study, we conducted a bidirectional MR analysis.
+0	NA	SPI1	NA	METHODS	First, we tested the causal effect of T2D or glycemic traits on leptin levels.
+0	NA	SPI1	NA	METHODS	Second, we explored the causal effect of leptin levels on T2D or glycemic traits.
+0	NA	to	NA	METHODS	We used four approaches to calculate the causal effect, including simple median method, weighted median method, inverse variance-weighted (IVW) method, and MR-Egger method, and chose IVW as the primary approach.
+0	NA	NA	NA	METHODS	Bonferroni correction was used for the p value.
+0	NA	SPI1	NA	METHODS	We also conducted a series of sensitivity analysis, using MR-Egger regression for horizontal pleiotropy test, Wald ratio for single SNP MR analysis, and IVW for left-one-out analysis to test the robustness of our results
+0	NA	leptin	NA	RESULTS	We evaluated the genetic correlation between leptin levels and T2D or glycemic traits using cross-trait LDSC.
+0	NA	SPI1	NA	RESULTS	Four of the five traits showed strong and significant genetic correlations with leptin levels (figure 1 and online supplementary table 1).
+0	NA	leptin	NA	RESULTS	The strongest and most significant genetic correlation with leptin levels was found in FI (Rg=0.517, p=0.0076).
+0	NA	leptin	NA	RESULTS	HOMA-IR and HOMA-beta had similar magnitude and significance genetic correlations with leptin levels (Rg=0.4785, p=0.0196 and Rg=0.4456, p=0.0214, respectively).
+0	NA	leptin	NA	RESULTS	In addition, positive genetic correlation with leptin levels was also found in T2D (Rg=0.3165, p=0.0227).
+0	NA	SPI1	NA	RESULTS	However, the genetic correlation of FG and leptin levels was not significant and was close to zero
+0	NA	SPI1	NA	FIG	Genetic correlation of leptin levels and T2D or glycemic traits.
+0	NA	traits	NA	FIG	The vertical axis represents the genetic correlation estimate; the horizontal axis represents T2D or glycemic traits.
+0	NA	SPI1	NA	FIG	The asterisk represents significance (p<0.05); error bars represent the SE of genetic correlation estimates.
+0	diabetes	NA	NA	FIG	HOMA-beta, beta-cell function; HOMA-IR, homeostasis model assessment-insulin resistance; T2D, type 2 diabetes
+0	NA	to	NA	RESULTS	In addition to the DNA sequence that directly encodes functional proteins, there are a number of regions in chromatin that play important roles in regulating gene expression.
+0	NA	SPI1	NA	RESULTS	In fact, most of the significant loci found in GWAS are located in non-protein-coding regions.
+0	NA	SPI1	NA	RESULTS	Thus, a better understanding of these regions may help us understand the specific mechanisms underlying the genetic association between leptin levels and T2D or glycemic traits.
+0	NA	to	NA	RESULTS	In order to explore the genetic correlation between leptin levels and T2D or glycemic traits in these regions, we conducted partitioned genetic correlation analysis for the trait pairs that showed significant genetic correlations above using partitioned LDSC
+0	NA	SPI1	NA	RESULTS	Overwhelming majority of 11 functional categories had shown significant genetic correlations, and the partitioned genetic correlations of different trait pairs showed similar patterns (figure 2 and online supplementary table 2-5).
+0	NA	NA	NA	RESULTS	All these partitioned genetic correlations were positive.
+0	NA	leptin	NA	RESULTS	The strongest genetic correlations between leptin levels and T2D were in H3K27ac (Rg=0.3272, p=0.0034) and transcribed regions (Rg=0.3272, p=0.0034).
+0	NA	leptin	NA	RESULTS	In genetic correlation between leptin levels and FI, the strongest was found in super-enhancer (Rg=0.5217, p=0.0092), so was leptin levels and HOMA-IR (Rg=0.586, p=0.0001).
+0	NA	SPI1	NA	RESULTS	Super-enhancers are large clusters of transcriptional enhancers that drive expression of genes that define cell identity.
+0	NA	leptin	NA	RESULTS	The highest magnitude genetic correlation between leptin levels and HOMA-beta was found in DHS (Rg=0.3734, p=0.007).
+0	NA	leptin	NA	RESULTS	These observations encourage further investigations on common pathophysiology between leptin levels and T2D or glycemic traits in these specific functional categories
+0	NA	SPI1	NA	FIG	Partitioned genetic correlation of leptin levels and T2D or glycemic traits.
+0	NA	SPI1	NA	FIG	(A) Partitioned genetic correlations of leptin levels and FI, HOMA-IR and HOMA-beta; (B) partitioned genetic correlation of leptin levels and T2D.
+0	NA	NA	NA	FIG	The vertical axis represents the genetic correlation estimate; the horizontal axis represents functional categories.
+0	NA	SPI1	NA	FIG	The asterisk represents significance (p<0.05); error bars represent the SE of genetic correlation estimate.
+0	allergy	NA	NA	FIG	DGF, DNase I digital genomic footprinting region; DHS, DNase I hypersensitivity sites; FI, fasting insulin; HOMA-beta, beta-cell function; HOMA-IR, homeostasis model assessment-insulin resistance; T2D, type 2 diabetes; TFBS, transcription factor-binding sites
+0	NA	leptin	NA	RESULTS	Considering the strong genetic correlation between leptin levels and T2D or glycemic traits (FI, HOMA-IR and HOMA-beta), we conducted genome-wide cross-trait meta-analysis to improve our power to identify shared genetic loci between them.
+0	NA	leptin	NA	RESULTS	We selected SNPs with Pmeta <5x10-8 and trait specific p<0.05 as the SNPs that had effects on both leptin levels and T2D or glycemic traits.
+0	NA	SPI1	NA	RESULTS	By these standards, we identified 15 independent loci totally, of which eight loci were not genome-wide significant in trait specific GWAS for both leptin levels and T2D or glycemic traits (table 1)
+0	NA	SPI1	NA	TABLE	Summary of the 15 genomic loci associated with leptin levels and T2D or glycemic traits in cross-trait meta-analysi
+1	NA	NA	rs780094	RESULTS	We found one overlapped locus (index SNP: rs780094).
+0	NA	leptin	NA	RESULTS	It was associated with both leptin levels and FI at the genome-wide significance level in the cross-trait meta-analysis (Pmeta=2.27x10-9) and was also identified in the genome-wide cross-trait meta-analysis of leptin/HOMA-IR (Pmeta=9.01x10-12) and leptin/T2D (Pmeta=4.37x10-8).
+0	NA	to	NA	RESULTS	This locus was close to gene GCKR, which encodes for a regulatory protein that inhibits glucokinase in liver and pancreatic islet cells by binding non-covalently to form an inactive complex with the enzyme
+1	NA	to	rs780094	RESULTS	In addition to rs780094, we identified another 11 loci that were associated with both leptin levels and T2D.
+1	NA	to	rs2488075	RESULTS	The strongest association signal was observed near to gene HHEX (index SNP: rs2488075, Pmeta=2.15x10-15) on chromosome 2.
+0	NA	leptin	NA	RESULTS	Gene HHEX was a typical risk factor for T2D, but there has been no study that shows its association with leptin levels.
+0	NA	to	rs2972144	RESULTS	The second strongest locus was rs2972144 (Pmeta=1.77x10-12), located near to the IRS1 locus, which is the one of the most important representatives of the IRS protein family and critical nodes in insulin/IGF1 signaling
+0	NA	SPI1	rs1402837	RESULTS	In the genome-wide cross-trait meta-analysis of leptin levels and HOMA-beta, we found one locus (index SNP: rs1402837, Pmeta=1.33x10-15) close to gene G6PC2 was shared between both traits.
+0	NA	to	NA	RESULTS	This gene encodes an enzyme belonging to the glucose-6-phosphatase catalytic subunit family.
+0	NA	SPI1	NA	RESULTS	These enzymes are part of a multicomponent integral membrane system that catalyzes the hydrolysis of glucose-6-phosphate, allowing the release of glucose into the bloodstream
+0	NA	leptin	NA	RESULTS	In summary, our cross-trait results suggest that the overall strong positive genetic correlation between leptin levels and T2D or glycemic traits is driven by these identified shared genetic loci
+0	HPA	to	NA	RESULTS	To test whether the identified shared genes between leptin levels and T2D or glycemic traits are over-represented by enriched expression in the disease-relevant tissue, we calculated the tissue-specific gene enrichment using tissue-specific genes from RNA-Seq data of the HPA and GTEx.We found that shared genes of leptin levels and T2D had five enriched tissues, including thyroid gland, skeletal muscle, placenta, liver and cerebral cortex.
+0	NA	SPI1	NA	RESULTS	Shared gene of leptin levels and FI was enriched in liver, so as leptin levels and HOMA-IR, and shared genes of leptin levels and HOMA-beta were enriched in pancreas (figure 3)
+0	NA	NA	NA	FIG	Tissue enrichment analysis.
+0	NA	SPI1	NA	FIG	(A) Tissue enrichment analysis result of shared genes between leptin levels and T2D; (B) tissue enrichment analysis result of shared genes between leptin levels and FI/HOMA-IR; (C) tissue enrichment analysis result of shared genes between leptin levels and HOMA-beta.
+0	NA	SPI1	NA	FIG	The vertical axis illustrates the logarithm of tissue expression enrichment fold change based on two.
+0	NA	NA	NA	FIG	The horizontal axis illustrates 35 independent tissue types.
+0	diabetes	NA	NA	FIG	FI, fasting insulin; HOMA-beta, beta-cell function; HOMA-IR, homeostasis model assessment-insulin resistance; T2D, type 2 diabetes
+0	NA	to	NA	RESULTS	In order to assess the association of gene expression in specific tissue between leptin levels and T2D or glycemic traits, we conducted TWAS analysis.
+0	NA	SPI1	NA	RESULTS	A total of 19 gene-tissue pairs were significantly associated with leptin levels after Benjamini-Hochberg correction, in addition to 254 gene-tissue pairs with T2D, 14 gene-tissue pairs with FI, 6 gene-tissue pairs with HOMA-IR and 13 gene-tissue pairs with HOMA-beta (online supplementary tables 6-10).
+0	NA	NA	NA	RESULTS	Most associations were found in nerve, brain, and testis.
+0	NA	SPI1	NA	RESULTS	Of them, AARSD1-Esophagus Mucosa gene-tissue pair was overlapped between TWAS for both leptin levels and HOMA-beta
+0	NA	to	NA	RESULTS	To understand the biologic insights of the shared loci, we conducted an analysis of GO biologic process and Reactome pathway.
+0	hypoglycemia	leptin	NA	RESULTS	Shared genes between leptin levels and T2D were significantly enriched in carbohydrate homeostasis, negative regulation of peptide hormone secretion, regulation of insulin secretion biologic processes (online supplementary table 11), in addition to defective ABCC8 causing hypoglycemias and hyperglycemias, ATP sensitive potassium channels pathways (online supplementary table 12).
+0	NA	NA	NA	RESULTS	However, there was no significant enriched biologic process and Reactome pathways shared between leptin/FI, leptin/HOMA-IR and leptin/HOMA-beta because of the small numbers of shared genes
+0	NA	to	NA	RESULTS	In order to make the identified shared regions more precise and assess whether leptin levels and T2D or glycemic traits share common genetic variants in given regions, we conducted fine-mapping and colocalization analysis.
+0	NA	SPI1	NA	RESULTS	A list of a credible set of SNPs that were 99% likely to contain the causal disease-associated SNPs for each of the 15 shared loci is shown in online supplementary table 13.
+1	NA	SPI1	rs780094	RESULTS	A colocalization analysis showed that one locus (index SNP: rs780094) contained shared causal variant of leptin levels and T2D, in addition to one locus (index SNP: rs780094) for leptin/HOMA-IR and one locus (index SNP: rs1402837) for leptin/HOMA-beta (online supplementary table 14)
+0	NA	to	NA	RESULTS	We conducted a bidirectional MR analysis to investigate the causal relationship between leptin levels and T2D or glycemic traits (FG, FI, HOMA-IR, and HOMA-beta) (table 2).
+0	NA	SPI1	NA	RESULTS	In the exploration of the causal effect of T2D or glycemic traits on leptin levels, 121, 66, 12, 14 and 27 genetic variants were used as instruments for T2D, FG, FI, HOMA-IR and HOMA-beta, respectively (online supplementary tables 15-19).
+0	NA	SPI1	NA	RESULTS	In the detection of the causal effect of leptin levels on T2D or glycemic traits, we used 22 genetic variants for leptin (online supplementary tables 20-24).
+0	NA	NA	NA	RESULTS	MR-Egger regression analysis showed that all the results we obtained were not affected by horizontal pleiotropy
+0	NA	leptin	NA	TABLE	The bidirectional MR analysis of leptin levels and T2D or glycemic trait
+0	NA	leptin	NA	RESULTS	We found that 1-SD increase in HOMA-IR was causally associated with a 0.329 ng/mL increase in leptin levels (beta=0.329, p=0.001), and a 1 pmol/L increase in FI was causally associated with a 0.187 ng/mL increase in leptin levels (beta=0.187, p=0.017), but this significance disappeared after Bonferroni correction.
+0	NA	leptin	NA	RESULTS	However, T2D, FG, and HOMA-beta had no causal effect on leptin levels.
+0	NA	SPI1	NA	RESULTS	Besides, we did not observe any significant causal effect in the detection of the causal effect of leptin levels on T2D or glycemic traits.
+0	NA	NA	NA	RESULTS	Sensitivity analysis showed that our results were reliable and were not affected by horizontal pleiotropy or outliers (table 2, online supplementary figure 1-4)
+0	NA	to	NA	DISCUSS	To our knowledge, this is the first study to identify shared genetic architecture and casual relationship between leptin levels and T2D or glycemic traits in non-diabetic subjects.
+0	NA	leptin	NA	DISCUSS	We used six well-powered GWAS summary statistics and found strong genetic correlations between leptin levels and T2D, FI, HOMA-IR, and HOMA-beta, indicating the phenotypic association between leptin levels and T2D or these glycemic traits may be due to common genetic architecture.
+0	NA	SPI1	NA	DISCUSS	Partitioned genetic correlation analysis showed similar results, and different trait pairs had similar patterns, emphasizing the role of these non-protein coding functional categories in the genetic correlation between leptin levels and T2D or glycemic traits
+0	NA	leptin	NA	DISCUSS	We identified 12 shared loci between leptin levels and T2D, 1 shared locus between leptin levels and FI, 1 shared locus between leptin levels and HOMA-IR, and 1 shared locus between leptin levels and HOMA-beta through our large-scale genome-wide cross-trait meta-analysis.
+0	NA	SPI1	NA	DISCUSS	The detection of these shared genetic loci can be used as a predictor of abnormal leptin levels as well as the occurrence of T2D or abnormal glycemic traits.
+0	NA	SPI1	NA	DISCUSS	Among them, we newly identified eight loci that did not achieve genome-wide significance in trait-specific GWAS summary statistics, demonstrating the great power of our cross-trait meta-analysis
+1	NA	SPI1	NA	DISCUSS	Our study showed the significance of several genes rarely reported in previous GWAS for leptin levels or T2D or glycemic traits, including SPC25, G6PC2, NCR3LG1, SYN2, and ABCC8.
+0	NA	SPI1	rs1402837	DISCUSS	Gene SPC25 and G6PC2 were mapped by the same locus (index SNP: rs1402837), which had a great probability (95%) of having shared causal variants of leptin levels and HOMA-beta.
+0	NA	SPI1	NA	DISCUSS	Gene G6PC2 is enriched in pancreas and acts as a negative regulator of basal glucose-stimulated insulin secretion by hydrolyzing G6P and thereby opposing the action of the glucose sensor, glucokinase.
+0	NA	leptin	NA	DISCUSS	However, little has been reported about the association ofG6PC2 and leptin levels.
+0	NA	leptin	NA	DISCUSS	It may affect leptin levels by raising blood glucose and increasing fat content or by some function-unknown transcriptome, which deserves in-depth study.
+1	NA	SPI1	rs5215	DISCUSS	Gene NCR3LG1 (index SNP: rs5215), also known as B7H6, was the third strongest shared gene of leptin levels and T2D.
+0	cancers	to	NA	DISCUSS	It plays an important role in Natural Killer (NK) cells mediated immune responses and is thought to be involved in tumor progression of various types of human cancers.
+0	NA	leptin	NA	DISCUSS	Our results indicate that patients with low leptin levels and T2D should be paid more attention to their immune system
+1	NA	SPI1	rs780094	DISCUSS	In addition, our results also highlighted the importance of gene GCKR (index SNP: rs780094), which was identified by the cross-trait meta-analysis of three traits pairs (leptin/FI, leptin/HOMA-IR, and leptin/T2D), to both leptin levels and T2D or glycemic traits.
+0	NA	SPI1	NA	DISCUSS	Our colocation analysis also showed that the probability of this locus containing shared causal variants of leptin levels and HOMA-IR was up to 95%.
+0	NA	to	NA	DISCUSS	Gene GCKR encodes a regulatory protein that inhibits glucokinase in liver and pancreatic islet cells by binding non-covalently to form an inactive complex with the enzyme
+0	NA	leptin	NA	DISCUSS	Our post-GWAS functional analysis provided biologic insights into the shared genes between leptin levels and T2D or glycemic traits.
+0	NA	NA	NA	DISCUSS	Tissue enrichment analysis showed shared genes were enriched in several tissues, including pancreas, thyroid gland, skeletal muscle, placenta, liver and cerebral cortex.
+0	diabetes	SPI1	NA	DISCUSS	These findings provide some clues for the study of leptin production and signal transduction in the peripheral tissues and also suggest that clinicians need to pay more attention to the pathological changes in these tissues in diabetic patients with low leptin levels
+0	NA	leptin	NA	DISCUSS	Our TWAS analysis identified 19 gene-tissue pairs associated with leptin levels (after Benjamini-Hochberg correction), in addition to 254 gene-tissue pairs with T2D, 14 gene-tissue pairs with FI, 6 gene-tissue pairs with HOMA-IR, and 13 gene-tissue pairs with HOMA-beta.
+0	NA	SPI1	NA	DISCUSS	Of them, AARSD1-Esophagus Mucosa gene-tissue pair was overlapped between leptin levels and HOMA-beta.
+0	NA	leptin	NA	DISCUSS	Previous studies have shown that leptin levels are associated with Barrett's esophagus significantly.
+0	prostate carcinogenesis	leptin	NA	DISCUSS	However, little is understood about the biologic mechanisms between leptin and the carcinogenic pathway of esophageal adenocarcinoma.
+0	NA	leptin	NA	DISCUSS	Our TWAS results indicated that the association between leptin and Barrett's esophagus might be mediated bythe function of gene AARSD1 and COQ7 on esophageal mucosa, and this process might also affect the function of beta cells.
+0	NA	leptin	NA	DISCUSS	Patients with congenital low leptin level and beta-cell dysfunction should properly increase their esophageal examination
+0	NA	to	NA	DISCUSS	In addition to the common genetic architecture between leptin levels and T2D or glycemic traits, environmental and behavioral factors also play important role in their comorbidity.
+0	NA	leptin	NA	DISCUSS	Studies have confirmed that neonatal nicotine exposure and overfeeding can cause insulin and leptin resistance rapidly.
+0	NA	to	NA	DISCUSS	However, fish oil konjac mannan oligosaccharides was able to improve insulin and leptin resistance
+0	NA	NA	NA	DISCUSS	Our study has many strengths.
+0	NA	to	NA	DISCUSS	First, this is the first study to identify shared genetic architecture between leptin levels and T2D or glycemic traits.
+0	NA	leptin	NA	DISCUSS	We used six well-powered GWAS results with 300 449 participants in total and found strong positive genetic correlation between leptin levels and T2D or glycemic traits.
+0	NA	leptin	NA	DISCUSS	Moreover, we identified 15 shared loci, taking more clear insights into the shared genetic architecture between leptin levels and T2D or glycemic traits.
+0	NA	NA	NA	DISCUSS	Second, our enrichment analysis found shared genes were enriched in several tissues and biologic processes.
+0	NA	to	NA	DISCUSS	This is helpful to further understand the role of leptin in the peripheral tissues and its association with T2D or glycemic traits, which have not been very clear until now.
+0	NA	to	NA	DISCUSS	In addition to enrichment analysis, we conducted TWAS to integrate GWAS and gene expression datasets to identify gene-trait associations.
+0	NA	to	NA	DISCUSS	The overlapped gene-tissue pairs gave more suggestions to possible shared mechanism.
+0	NA	to	NA	DISCUSS	Last but not least, we used CPASSOC package to conduct cross-trait meta-analysis.
+0	NA	to	NA	DISCUSS	This method is quite general and can be applied to a wide range of data and study designs compared with a fixed or random effect meta-analysis, the cross-phenotype meta-analysis, the linear combination of univariate test statistics, the trait-based association test, the scaled marginal model and so on.
+0	NA	to	NA	DISCUSS	In contrast to the subset-based meta-analysis, CPASSOC is computationally much faster and can also allow us to see whether the association evidence is contributed by only a subset of the traits
+0	NA	SPI1	NA	DISCUSS	Of course, our study also has some limitations.
+0	NA	NA	NA	DISCUSS	Our GWAS summary statistics came from meta-analysis studies that brings higher power with reduced homogeneity.
+0	NA	leptin	NA	DISCUSS	The genomic control were 1.046 for leptin levels, 1.05 for T2D, 1.041 for FI, 1.04 for HOMA-IR, 1.046 for HOMA-beta, and 1.05 for FG.
+0	NA	NA	NA	DISCUSS	However, simulations have confirmed that our cross-trait meta-analysis method CPASSOC can control population structure and cryptic relatedness very well.
+0	NA	SPI1	NA	DISCUSS	Second, the sample size of the original trait specific GWAS limited our study power.
+0	NA	NA	NA	DISCUSS	More samples are needed for more powerful results.
+0	NA	to	NA	DISCUSS	To overcome this shortcoming and take advantage of the benefits of each method, we used different methods to analyze the shared genetic architecture at both SNP level and gene level.
+0	NA	to	NA	DISCUSS	Third, in addition to FI and FG, we used HOMA-IR and HOMA-beta to assess insulin resistance and beta-cell function.
+0	NA	NA	NA	DISCUSS	Compared with other measures, these two indicators are less powerful.
+0	NA	to	NA	DISCUSS	However, studies have shown a strong significant correlation between these two measures and other better performed measures, and these two methods are simpler to operate and are more suitable for large-scale epidemiological studies.
+0	NA	NA	NA	DISCUSS	Besides, we do not have proper data for replication analysis.
+0	NA	NA	NA	DISCUSS	We will conduct replication analysis in the future, if appropriate GWAS summary statistics are available
+0	NA	leptin	NA	DISCUSS	In the present study, we found strong positive genetic correlation and identified 15 shared loci between leptin levels and T2D or glycemic traits (FI, HOMA-IR, and HOMA-beta), taking clear insights into the shared genetic architecture between them.
+0	NA	SPI1	NA	DISCUSS	A series of post-GWAS analysis showed us possible mechanisms by which shared genes affect leptin levels and T2D or glycemic traits and suggested the possible lesions in some tissues in T2D patients with abnormal leptin levels.
+0	NA	SPI1	NA	DISCUSS	MR analysis also detected casual effect of HOMA-IR on leptin levels.
+0	NA	leptin	NA	DISCUSS	All these findings help us understand the association between leptin levels and T2D or glycemic traits more clearly.
+0	NA	SPI1	NA	DISCUSS	This will deepen our knowledge of human blood glucose regulatory network and contribute to further laboratory investigation and clinical studies

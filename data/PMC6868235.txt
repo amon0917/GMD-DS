@@ -1,0 +1,225 @@
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Since prostate cancer is highly heritable, common variants associated with prostate cancer have been studied in various populations, including those in Korea.
+0	NA	NA	NA	ABSTRACT	However, rare and low-frequency variants have a significant influence on the heritability of the disease.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	The contributions of rare variants to prostate cancer susceptibility have not yet been systematically evaluated in a Korean population.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	In this work, we present a large-scale exome-wide rare variant analysis of 7,258 individuals (985 cases with prostate cancer and 6,273 controls).
+0	Breast and prostate cancer	NA	NA	ABSTRACT	In total, 19 rare variant loci spanning 7 genes contributed to an association with prostate cancer susceptibility.
+1	NA	CDYL2	NA	ABSTRACT	In addition to replicating previously known susceptibility genes (e.g., CDYL2, MST1R, GPER1, and PARD3B), 3 novel genes were identified (FDR q < 0.05), including the non-coding RNAs ENTPD3-AS1, LOC102724438, and protein-coding gene SPATA3.
+0	Breast and prostate cancer	MST1	NA	ABSTRACT	Additionally, 6 pathways were identified based on identified variants and genes, including estrogen signaling pathway, signaling by MST1, IL-15 production, MSP-RON signaling pathway, and IL-12 signaling and production in macrophages, which are known to be associated with prostate cancer.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	In summary, we report novel genes and rare variants that potentially play a role in prostate cancer susceptibility in the Korean population.
+0	NA	NA	NA	ABSTRACT	These observations demonstrated a path towards one of the fundamental goals of precision medicine, which is to identify biomarkers for a subset of the population with a greater risk of disease than others
+0	Breast and prostate cancer	NA	NA	INTRO	Prostate cancer is a common malignancy of a gland in the male reproductive system.
+0	cancers	NA	NA	INTRO	It is the fifth leading cancer diagnosed and the seventh leading cause of cancer deaths in Korean men.
+0	death	NA	NA	INTRO	The overall mortality rate in Korean men due to cancer was 188.7 per 100,000 and 6.6 per 100,000 for prostate cancer in 2014.
+0	death	NA	NA	INTRO	Additionally, the prevalence, incidence, and mortality of prostate cancer in Korean men have increased significantly in the past few years.
+0	cancers	NA	NA	INTRO	Heritable genetic factors contribute to the susceptibility of various cancers and the genetic attribution of the incidence of prostate cancer is more than any other cancer type.
+0	Breast and prostate cancer	NA	NA	INTRO	Twin studies have shown that genetic factors contribute to 42% of the incidence of prostate cancer.
+0	Breast and prostate cancer	NA	NA	INTRO	Furthermore, first degree relatives are known to have two to three-fold increased risk of developing prostate cancer.
+0	Breast and prostate cancer	NA	NA	INTRO	These observations indicate that germline variants contribute to prostate cancer.
+0	Breast and prostate cancer	NA	NA	INTRO	However, the identification of germline factors involved in prostate cancer has been limited in scope, and it is still a subject of ongoing research
+0	Breast and prostate cancer	NA	NA	INTRO	In recent years, there has been a push to discover common and rare variants associated with prostate cancer among different ethnicities, as growing evidence suggests that germline factors associated with prostate cancer susceptibility may differ among different ethnicities.
+0	Breast and prostate cancer	NA	NA	INTRO	Prostate cancer is the second leading cause of cancer mortality in American men.
+0	death	NA	NA	INTRO	The prevalence and mortality rates of prostate cancer differ across European, African, and Asian ethnic groups.
+0	NA	NA	NA	INTRO	In particular, the incidence rates are particularly high in African American men and substantially low in Japanese and mainland Chinese population.
+0	NA	NA	NA	INTRO	However, the incidence is higher among immigrant Japanese in the United States as compared Japanese living in Japan, but it is still about half that of American European population.
+0	Breast and prostate cancer	NA	NA	INTRO	Thus, it is evident that germline factors associated with prostate cancer differ among ethnicities; therefore, in this study, we aimed to find the germline variants specific to Korean population that are associated with prostate cancer
+0	NA	NA	NA	INTRO	With the advent of high throughput genotyping technologies in the past few years, it has become easier to sequence thousands of samples.
+0	Breast and prostate cancer	NA	NA	INTRO	Many genome-wide association studies (GWAS) have been conducted to identify common variants associated with prostate cancer.
+0	NA	NA	NA	INTRO	However, European populations are better characterized relative to Asian populations.
+0	Breast and prostate cancer	NA	NA	INTRO	For instance, more than 100 loci have been identified in GWAS studies using European cohorts, while studies that have performed GWAS using participants of Chinese and Japanese ethnicities have identified only 12 significant loci associated with prostate cancer.
+0	Breast and prostate cancer	NA	NA	INTRO	Another GWAS study using common variants identified 5 significant loci associated with prostate cancer in a Korean population.
+0	Breast and prostate cancer	NA	NA	INTRO	However, the common variants discovered to date explain only a small portion of heritability of prostate cancer, thus leaving the majority of genetic risk unexplained
+0	Breast and prostate cancer	NA	NA	INTRO	Most association studies on prostate cancer to date have focused mainly on common variants.
+0	Breast and prostate cancer	NA	NA	INTRO	However, a proportion of the missing heritability in prostate cancer could be further explained through low-frequency and rare variants.
+0	cancers	NA	NA	INTRO	Rare variants play a key role in the contribution to heritability among different cancer types.
+0	carcinomas of the colon	NA	NA	INTRO	Many exome-wide studies have shown rare variants associated with susceptibility genes in colorectal cancer, breast cancer, prostate cancer, and endometrial cancer.
+0	NA	NA	NA	INTRO	However, very few rare variant studies have been conducted in Asian populations and even fewer in the Korean population.
+0	NA	NA	NA	INTRO	The variants discovered using common and rare variants are rarely replicated among European, Chinese, Japanese, and Korean population studies.
+0	Breast and prostate cancer	NA	NA	INTRO	Thus, it is important to conduct separate association studies on ethnic populations to improve our understanding of the heritability of prostate cancer among population subsets.
+0	Breast and prostate cancer	NA	NA	INTRO	To this end, we analyzed whole-exome array data of germline samples from Korean individuals with and without prostate cancer.
+0	Breast and prostate cancer	NA	NA	INTRO	Rare variants were collapsed into genes and pathways across the genome and tested for association with prostate cancer.
+0	Breast and prostate cancer	NA	NA	INTRO	The significant variants in the gene or pathway were further annotated and evaluated for their association with prostate cancer
+0	NA	age	NA	TABLE	Characteristics for study population showing mean, median and standard deviation of Age and Body Mass Index (BMI)
+0	NA	NA	NA	RESULTS	Case population comprising 1,008 patients and a control group of 6,438 patients were obtained from the Korean Association Resource (KARE) study, which is a part of the Korean Genome and Epidemiology Study (KoGES).
+0	NA	NA	NA	RESULTS	A summary of patient demographics for cases and controls is described in Table 1.
+0	NA	NA	NA	RESULTS	All patients were men and of Korean ethnicity.
+0	NA	NA	NA	RESULTS	The average ages of case and control patients were 67.43 and 54.39 years, respectively.
+0	NA	NA	NA	RESULTS	The average body mass indices (BMI) of cases and controls were similar
+0	NA	NA	NA	RESULTS	The quality control (QC) was performed to filter out bad samples and markers.
+0	inflammatory bowel disease	NA	NA	RESULTS	All samples with marker call rate < 99%, sample call rate < 99%, and samples which were closely related (based on identity by descent (IBD) cutoff of 0.125) were dropped from the further analysis.
+0	NA	NA	NA	RESULTS	After QC, 7,258 samples included 985 cases and 6,273 controls.
+0	NA	NA	NA	RESULTS	The detailed steps involved in quality control are shown in Supplementary Figs 1 and 2.
+0	NA	NA	NA	RESULTS	Using 71,270 variants that passed QC filters, rare variants with minor allele frequency (MAF) < 0.05 were binned into genes and association tests were performed.
+0	NA	NA	NA	RESULTS	Further, the genomic inflation rate was calculated.
+0	NA	NA	NA	RESULTS	A high genomic inflation rate usually indicates population substructure in data and spurious associations in the results.
+0	NA	NA	NA	RESULTS	We found the genomic inflation factor lambda1000 to be 1.196 for an equivalent study of 1,000 cases and 1,000 controls (Supplementary Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	NA	NA	RESULTS	Finally, 7,258 samples with 71,270 variants that passed QC were used for subsequent statistical analysis, as described in the Methods section
+0	NA	NA	NA	FIG	Manhattan plot showing the results of rare variant analysis.
+0	NA	NA	NA	FIG	The 7 significant genes identified are shown in the Manhattan plot above the red line.
+0	NA	NA	NA	FIG	The x axis highlights the chromosomes and y axis is p-value from the dispersion test (SKAT-O).
+0	NA	NA	NA	FIG	The horizontal red line indicates genome wide significance level of FDR q = 0.05
+0	Breast and prostate cancer	NA	NA	RESULTS	The gene-based rare variant analysis was performed to identify associations between rare variants and prostate cancer.
+0	Breast and prostate cancer	NA	NA	RESULTS	After binning variants into 5,830 gene bins, seven genes were identified to be associated with prostate cancer (FDR < 0.05 (Fig.
+0	NA	NA	NA	RESULTS	1 and Table 2)).
+0	Breast and prostate cancer	NA	NA	RESULTS	In total, 19 rare variant loci spanning across 7 genes contributed to an association with prostate cancer susceptibility (Supplementary Table 1).
+1	Breast and prostate cancer	Ron	NA	RESULTS	Three genes, including MST1R, GPER1, and PARD3B, have been previously implicated in prostate cancer and CDYL2 in breast cancer.
+0	NA	NA	NA	RESULTS	Supplementary Fig.
+0	NA	NA	NA	RESULTS	4 shows regional plots for the genes with variants and exon span.
+0	NA	NA	NA	RESULTS	Further, the distribution of MAF for the significant variants in this study population; Northeast Asians reference panel (NARD), which consists of the population from Korea (N = 850), Mongolia (N = 386), Japan, China, and Hong Kong; and gnomeAD are shown in Supplementary Table 2.
+0	NA	NA	NA	RESULTS	The samples that had more than one rare variant among significant locus are shown in Supplementary Fig.
+0	NA	NA	NA	RESULTS	5
+0	NA	NA	NA	RESULTS	Further, the rare association tests were rerun by removing one variant at a time from the gene/bin to elucidate the significance of that particular variant in the gene/bin (Supplementary Table 1).
+0	NA	NA	NA	RESULTS	A decrease in the significance of the gene (increase in p-value) represents a significant contribution of the variant while maintaining a significant association suggests that the contribution of the variant is insignificant.
+0	NA	Ron	rs200626206	RESULTS	In case of MST1R and LOC102724438, when the stop gained variant, rs200626206 was removed and the gene was insignificant (prm > 0.05), indicating that it is the most significant variant in the gene/bin, as most of the signal detected in the genes is attributed to rs200626206 loci (Supplementary Table 1).
+0	NA	NA	rs200626206	RESULTS	Nonsense mutations often produce nonfunctional protein products due to premature termination of translation, thus the significant contribution of rs200626206 loci to the signal was expected.
+1	NA	GPER1	rs181756759	RESULTS	The variants rs181756759 and rs201829385 in genes GPER1 and PARD3B, respectively, have insignificant prm and are predicted to be 'probably damaging' with Polyphen score > 0.95 (Supplementary Table 1).
+0	NA	NA	NA	RESULTS	Thus, there is a high possibility that these variants result in partial or complete loss of protein function
+0	genetic diseases	NA	NA	RESULTS	To characterize the clinical significance, effect of variants on the protein, and implications in human inherited diseases, the variants within significantly associated genes were annotated using ClinVar and Variant Effect Predictor (VEP).
+0	NA	NA	NA	RESULTS	None of the significant variants binned were found in ClinVar.
+0	NA	NA	NA	RESULTS	VEP annotated the variants concerning their effect on the coding region (Supplementary Table 1).
+0	NA	NA	NA	RESULTS	VEP also annotates variants by their potential influence on protein sequence (e.g., high, moderate, and low).
+0	NA	NA	NA	RESULTS	High impact variants have a disruptive effect on proteins, such as protein truncation and loss of function.
+0	NA	NA	NA	RESULTS	Moderate effect variants are non-disruptive but can change protein sequence while low effect variants are unlikely to change protein behavior
+0	NA	NA	NA	RESULTS	Here, VEP categorized 16 variants as a moderate effect, 2 variants as high effect, and 1 variant as a modifier (Supplementary Table 1).
+0	Breast and prostate cancer	NA	NA	RESULTS	Therefore, most rare variants within the coding regions of genes associated with prostate cancer possibly influence protein function
+0	NA	NA	NA	TABLE	Pathways/Ontologies discovered by Ingenuity pathway analysis, KEGG, Reactome, WikiPathways and GO molecular function ontology
+0	NA	NA	NA	RESULTS	Pathway analysis was performed using variants and genes discovered by gene-based rare variant association test.
+0	NA	IL-15	NA	RESULTS	The biological pathways were derived using Ingenuity Pathway Analysis (IPA, QIAGEN Redwood City, www.qiagen.com/ingenuity), and 4 canonical pathways were identified, including IL-15 Production, MSP-RON Signaling Pathway, Sperm Motility and IL-12 Signaling, and Production in Macrophages (Table 3).
+0	NA	IL-15	NA	RESULTS	IL-15 Production, MSP-RON Signaling.
+0	NA	MST1	NA	RESULTS	Further, pathway enrichment test was also run using EnrichR, which identified estrogen signaling pathway, signaling by MST1 pathway, and four Gene Ontology (GO) molecular function ontologies
+0	Breast and prostate cancer	NA	NA	DISCUSS	In this work, an exome-wide rare variant analysis study was performed, and 19 novel low-frequency variants in 7 genes were identified to be associated with prostate cancer in Korean men.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Since common variants alone do not completely explain the heritability of prostate cancer, integrative analyses of rare variants across the genome can provide us with a new understanding of prostate cancer heritability.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Though common variants have been studied previously in the Korean population, this is the first exome-wide study of rare variants associated with prostate cancer in the Korean population.
+0	Breast and prostate cancer	NA	NA	DISCUSS	The genes and variants discovered in this study can potentially help in early diagnostic and understanding of carcinogenesis in prostate cancer
+0	NA	NA	NA	DISCUSS	The rare variants were binned into genes and association tests were performed across the genes.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Binning of rare variants increases statistical power to detect rare variant associations and helps interpret the effect of rare variants on the prognosis and progression of prostate cancer.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Several genes identified in this study were previously implicated with prostate cancer and other cancers.
+1	Breast and prostate cancer	Ron	NA	DISCUSS	In-vivo studies have shown an association of MST1R, GPER1, and PARD3B with prostate cancer.
+0	breast cancer	CDYL2	NA	DISCUSS	Another gene we found, CDYL2, has common variants that are implicated in breast cancer.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Since three of the genes discovered in this study have been previously validated to be associated with prostate cancer, it would appear that our analysis predicted true associations
+0	cancers	NA	NA	DISCUSS	Angiogenesis, cell survival, and cell proliferation are hallmarks of cancer.
+0	Breast and prostate cancer	Ron	NA	DISCUSS	One of the genes that we found was significantly associated with prostate cancer, MST1R (Macrophage Stimulating 1 Receptor) or RON, is overexpressed in prostate cancer and various other cancers.
+0	breast cancer	Ron	NA	DISCUSS	RON is known to be overexpressed in breast cancer and bladder cancer and is associated with poor clinical outcome.
+0	Breast and prostate cancer	NA	NA	DISCUSS	In vivo study using genetically engineered mouse model has shown that the RON receptor plays a functional role in prostate tumor and that deficient Ron receptor signaling is associated with smaller tumor size.
+0	Breast and prostate cancer	Ron	NA	DISCUSS	Another study on stromal cells of the prostate tumor using mouse model showed that loss of Ron in tumor-associated macrophages inhibits cancer cell growth.
+1	Breast and prostate cancer	GPER1	NA	DISCUSS	Another gene significantly associated with prostate cancer, GPER1 (G Protein-Coupled Estrogen Receptor 1) or GPR30, is known to regulate cell growth by non-genomic signaling of estrogen.
+1	Loss of ovarian function	GPER1	NA	DISCUSS	GPER1 is also known to stimulate cell proliferation in breast, endometrial, ovarian, and thyroid cancer cells by rapid but transient activation of Erk1/2.
+1	Breast and prostate cancer	GPER1	NA	DISCUSS	Besides, in the case of prostate cancer, GPER1 is known to control cancer cell growth through GPER1 mediated pathways.
+1	NA	GPER1	rs11544331	DISCUSS	The presence of alternate allele in rs11544331, one of the rare variant loci binned in GPER1, is known to result in the expression of P16L variant of GPER1.
+1	NA	GPER1	rs11544331	DISCUSS	The substitution of proline with leucine at position 16 of the GPER protein sequence blocks GPER from being glycosylated and causes it to localize to the nucleus, although typically it should localize outside of nucleus.
+1	NA	NA	rs11544331	DISCUSS	The P16L in the nucleus may also regulate transcription of cancer-relevant genes and migration of carcinoma cells
+0	NA	PARD3B	NA	DISCUSS	Of the genes identified in this study, PARD3B (Partitioning defective 3 homolog) plays an essential role in asymmetric cell division, polarized growth, and maintenance of cell-polarity.
+0	prostate carcinogenesis	Partitioning defective 3 homolog	NA	DISCUSS	Mutational inactivation of its homolog gene PARD3 is known to cause carcinogenesis in prostate cancer.
+0	breast cancer	Partitioning defective 3 homolog	NA	DISCUSS	In vivo studies have shown that downregulation of Par3 in breast cancer induces cell invasion and metastasis by decreasing cell-cell cohesion in a Tiam1/Rac-GTP pathway-dependent manner.
+0	carcinomas of the colon	PARD3B	NA	DISCUSS	Higher expression of PARD3B is associated with colorectal cancer malignancy and poor survival, as PARD3B inhibits Lkb1/AMPK signaling pathway and its knockout induces apoptosis and reduces proliferation, supporting its role in colorectal cancer cell survival.
+0	tuberculosis	PARD3B	rs2335704	DISCUSS	Additionally, a previous genome-wide association study found rs2335704, which resides in PARD3B, to be associated with tuberculosis.
+0	cancers	CDYL2	NA	DISCUSS	Another gene, CDYL2 (Chromodomain Y Like 2 or Prostate Cancer Candidate Protein 1), is involved in catalytic activity, protein binding, and methylated histone binding.
+0	breast cancer	CDYL2	NA	DISCUSS	Genome-wide studies using common variants have identified loci in CDYL2 associated with breast cancer
+0	Breast and prostate cancer	NA	NA	DISCUSS	ENTPD3-AS1 is a long non-coding RNA that we found was significantly associated with prostate cancer.
+0	NA	NA	rs193921050	DISCUSS	A locus (rs193921050) in ENTPD3-AS1 has been reported for 'Malignant tumor of prostate' in ClinVar with uncertain clinical significance and review status of 0/4.
+0	NA	NA	NA	DISCUSS	The mutation on the locus was discovered in somatic tissue but was not found to be mutated at a significantly higher rate relative to the background mutation rate
+0	NA	NA	NA	DISCUSS	In addition to the genes, the estrogen signaling pathway was significantly enriched using WikiPathways and KEGG pathway.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Evidence suggests that prostate carcinogenesis and progression involves local estrogen signaling mechanisms.
+0	NA	MST1	NA	DISCUSS	Further, signaling by MST1 pathway was enriched using the Reactome pathway database.
+0	Breast and prostate cancer	MST1	NA	DISCUSS	An in vitro study showed that MST1 suppressed prostate cancer growth.
+0	Breast and prostate cancer	MST1	NA	DISCUSS	Moreover, MST1 is the key kinase component of the Hippo-YAP pathway, which restricts prostate cancer progression by interacting with multiple molecular pathways.
+0	NA	NA	NA	DISCUSS	The Ingenuity pathway analysis revealed three significant pathways.
+0	Breast and prostate cancer	IL-15	NA	DISCUSS	IL-15 production pathway, one of the significant pathways, is known to be associated with prostate cancer.
+0	cancers	IL-15	NA	DISCUSS	The expression of IL-15 is known to decrease the migration, invasion, and angiogenesis but increase tumor volume by increasing lipid deposition and inflammation in prostate cancer.
+0	death	IL-15	NA	DISCUSS	IL-15 also alters the expression of genes involved in cell death and immune response.
+0	NA	IL-15	NA	DISCUSS	Vaccinations using IL-15 are effective in up-regulating immune responses, reducing invasion, and improving survival.
+0	cancers	NA	NA	DISCUSS	Another pathway, MSP-RON signaling pathway, has been previously known to be associated with many cancer types, including prostate cancer, and has been extensively studied in vivo and in vitro.
+0	NA	NA	NA	DISCUSS	The MSP-RON signaling generates oncogenic variants and activates downstream pathways, resulting in tumorigenesis, proliferation, angiogenesis, invasion, and resistance to chemotherapy.
+0	Breast and prostate cancer	Ron	NA	DISCUSS	Loss of RON in myeloid cells has been shown to reduce prostate cancer growth in mice models.
+0	cancers	NA	NA	DISCUSS	IL-12 signaling is anti-carcinogenic, and IL-12 deficiency in mice is known to induce the development of spontaneous tumors and promote their growth.
+0	NA	NRP1	NA	DISCUSS	Further, the GO molecular function ontology enrichment indicated four significantly enriched molecular function ontologies, including Mitogen-activated protein kinase (MAPK) activity, Transmembrane receptor protein tyrosine activity, Transmembrane receptor protein kinase activity, and Phosphatidylinositol binding.
+0	Breast and prostate cancer	NA	NA	DISCUSS	All the ontologies discovered are known to be associated with prostate cancer
+0	Breast and prostate cancer	NA	NA	DISCUSS	Even though some of the genes we found have already been implicated, we found 19 novel variants and 3 novel genes that are associated with prostate cancer.
+0	cancers	NA	NA	DISCUSS	Moreover, all the pathways that were found to be associated have been well studied and have been found to play a key role in cancer.
+0	NA	NA	NA	DISCUSS	All the variants discovered were missense and stop gained, except one variant in an intron, as categorized by VEP.
+0	NA	NA	NA	DISCUSS	Variation in amino acid sequence could potentially affect stability, conformational dynamics, drug response, and other protein properties that could result in a pathological condition and increased susceptibility to disease.
+0	CHARGE	NA	NA	DISCUSS	Many variants were also filtered out when re-clustering and filtering were performed using CHARGE criteria, a more relaxed approach shown in Park et al., which could be used to preserve more variants while maintaining the genotyping accuracy of common and rare variants.
+0	NA	NA	NA	DISCUSS	Further studies would be required to validate our findings, as variants discovered in this study were not discovered in the European population studies.
+0	Breast and prostate cancer	NA	NA	DISCUSS	This is probably due to different genetic factors affecting prostate cancer susceptibility among different ethnic groups.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Additional exploration of the molecular mechanisms is required to understand the exact role of the variants in prostate cancer.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Further studies are also required to elucidate the role of lifestyle/environment, especially dietary factors, in the Korean population, as they have been previously shown to be associated with prostate cancer.
+0	Breast and prostate cancer	NA	NA	DISCUSS	In conclusion, we found novel genes and rare variants that are associated with prostate cancer in the Korean population, revealing potential biomarkers for prostate cancer that are unique to Korean ethnicity.
+0	Breast and prostate cancer	NA	NA	DISCUSS	They could also help us explain the missing heritability in prostate cancer, which could be applied in the field of precision medicine
+0	NA	NA	NA	METHODS	Between November 2003 and July 2013, we prospectively recruited 1,008 prostate cancer patients from a single tertiary hospital, Seoul National University Bundang Hospital, and conducted a case-control study that included 6,438 age-matched controls from the Korean Association Resource (KARE) study, which was a part of the Korean Genome and Epidemiology Study (KoGES).
+0	Breast and prostate cancer	NA	NA	METHODS	Blood specimens were prospectively collected throughout the course of the study from all of the prostate cancer patients.
+0	NA	NA	NA	METHODS	The automatic firing mechanism was used to perform transrectal ultrasound-guided multi-core (>=12) biopsies bilaterally near the base, mid-gland, and apex, with at least six biopsies per side.
+0	NA	NA	NA	METHODS	A total of 12 baseline biopsy cores were taken from all of the men, and additional biopsies of suspicious lesions were obtained if needed.
+0	Breast and prostate cancer	NA	NA	METHODS	Further, 820 patients among the study population who had prostate cancer were treated with radical prostatectomy (RP) in the same hospital.
+0	NA	NA	NA	METHODS	The genotyping was done using the blood samples collected
+0	NA	NA	NA	METHODS	The Illumina HumanExome BeadChip 12v1-1 system provides 242,901 variants selected over 12,000 individual human exome and whole-genome sequences representing diverse populations and ethnicities.
+0	NA	NA	NA	METHODS	The chip focuses on protein-altering variants.
+0	NA	NA	NA	METHODS	A more detailed explanation is available at http://genome.sph.umich.edu/wiki/Exome_Chip_Design
+0	NA	NA	NA	METHODS	The datasets were generated using Illumina HumanExome BeadChip 12v1-1.
+0	NA	NA	NA	METHODS	We used Illumina's GenTrain version 2.0 clustering algorithm with the GenomeStudio software (V2011.1) for genotype calling.
+0	CHARGE	NA	NA	METHODS	The genotype calling for the exome chip was performed following the best practices defined in Grove et al.. We performed manual re-clustering and visual inspection using CHARGE clustering method to improve the accuracy of variant calling (Supplementary Fig.
+0	NA	NA	NA	METHODS	6).
+0	CHARGE	NA	NA	METHODS	A separate study on the quality of variants showed that re-clustering using CHARGE criteria on KoGES dataset with more relaxed cutoffs has 99.9% concordance rate for rare variants with whole-exome sequencing data, which indicates that rare variant calls are robust.
+0	NA	NA	NA	METHODS	Quality control filters were applied to both case and control datasets separately.
+0	NA	NA	NA	METHODS	Since the number of variants differed in the datasets, only common variants between cases and controls were selected for the analysis.
+0	NA	NA	NA	METHODS	The datasets were merged after QC, and filters were again applied to the merged dataset.
+0	NA	NA	NA	METHODS	As a part of the quality control, sample call rates, marker call rates, and sample relatedness were checked.
+0	NA	NA	NA	METHODS	The palindromic SNPs and SNPs with indels were removed.
+0	NA	NA	NA	METHODS	The samples and markers with a call rate of less than 99% were removed.
+0	inflammatory bowel disease	NA	NA	METHODS	Identity by descent (IBD) was calculated using plink, and IBD threshold of 0.125 was used to remove related samples.
+0	NA	NA	NA	METHODS	The detailed quality control steps are shown in Supplementary Figs 1 and 2
+0	NA	NA	NA	METHODS	The final merged dataset had 7,258 samples with 985 cases and 6,273 controls and 71,270 variants.
+0	NA	NA	NA	METHODS	The dataset was checked for batch effects.
+0	NA	NA	NA	METHODS	Since datasets from different sources were merged, population stratification in the data could have occurred.
+0	NA	NA	NA	METHODS	Principal Component Analysis was performed using SMARTPCA on the dataset after the LD pruning using plink option '-indep-pairwise 50 5 0.2' and removing all SNPs with MAF < 0.05.
+0	NA	NA	NA	METHODS	PCA was performed to check case and control sample clusters (Supplementary Fig.
+0	NA	NA	NA	METHODS	7).
+0	NA	NA	NA	METHODS	PCA was also performed by projecting onto 1,000 genomes data.
+0	NA	NA	NA	METHODS	The case and controls clustered together around the South Asian population, as shown in Supplementary Fig.
+0	NA	NA	NA	METHODS	8.
+0	NA	NA	NA	METHODS	Further, quantile-quantile (Q-Q) plot was drawn using SKAT-O p-values to check for inflation (Supplementary Fig.
+0	NA	NA	NA	METHODS	3)
+0	NA	NA	NA	METHODS	The rare variant analysis was performed using BioBin (https://ritchielab.psu.edu/software/biobindownload), a tool that can be used to perform rare variant burden tests.
+0	NA	NA	NA	METHODS	BioBin bins all variants into gene bins and variants outside genes into intergenic region bins.
+0	NA	NA	NA	METHODS	Subsequently, SKAT-O was used to test for statistical significance of associations.
+0	NA	NA	NA	METHODS	SKAT-O increases statistical power by optimally combining burden and dispersion (SKAT) tests and adaptively applying them.
+0	NA	NA	NA	METHODS	Since rare variants are statistically underpowered for the association test, binning of rare variants by biologically informed units, such as gene or pathway, increases statistical power to detect rare variant associations by increasing the composite allele frequency and reducing the degrees of freedom
+0	NA	NA	NA	METHODS	BioBin is configured by default to bin all variants with minor allele frequency (MAF) below 5%.
+0	NA	NA	NA	METHODS	Library of Knowledge Integration (LOKI) is a database of genomic locations of SNPs and genes as well as known relationships among genes and proteins, such as interaction pairs, pathways, and ontological categories integrated from various disparate data sources.
+0	NA	NA	NA	METHODS	LOKI provides prior knowledge to BioBin.
+0	NA	NA	NA	METHODS	All variants with MAF < 0.05% were removed.
+0	NA	NA	NA	METHODS	Variants with MAF > 0.05% in case population or control population were included, and only genes with at least 2 variants were tested.
+0	NA	age	NA	METHODS	Age and first 5 principal components were incorporated as covariates to adjust for age and population stratification.
+0	NA	NA	NA	METHODS	The first 5 principal components that defined maximum variance were selected, as shown in Supplementary Fig.
+0	NA	NA	NA	METHODS	9.
+0	NA	NA	NA	METHODS	The weight-loci argument was used to add Madsen & Browning weights to each locus.
+0	NA	NA	NA	METHODS	BioBin creates bin based on gene regions when the bin-regions argument is set using gene information from LOKI.
+0	NA	NA	NA	METHODS	The false discovery rate (FDR) correction was applied to adjust for multiple testing.
+0	NA	NA	NA	METHODS	Any FDR adjusted q-value < 0.05 was considered significant.
+0	NA	NA	NA	METHODS	The rare association tests were run again by removing one variant at a time from the significant bins to ascertain the significance of the variant.
+0	NA	NA	NA	METHODS	The higher the SKAT-O p-value (prm), the more significant is the contribution of the variant in the bin
+0	NA	NA	NA	METHODS	ClinVar is a public archive that connects human variation to phenotypes, clinical significance, relationship to human health, and other supporting data obtained through submissions by various groups.
+0	NA	NA	NA	METHODS	These are aggregated to reflect both consensus and conflicting assertions.
+0	NA	NA	NA	METHODS	Variant effect predictor (VEP) provides information about the variants' location, gene/transcript affected by variants, types of mutation (i.e., stop gained, missense, stop-lost, and frameshift), and protein change scores, which indicate possible partial/complete loss of function of the protein due to amino acid substitution.
+0	NA	NA	NA	METHODS	All the variants in significantly associated genes were annotated using ClinVar and VEP
+0	NA	NA	NA	METHODS	The significant variants and genes were used for pathway enrichment analysis using Ingenuity pathway analysis and Enrichr.
+0	NA	NA	NA	METHODS	Enrichr is a web-based enrichment analysis tool which contains pathway and ontology libraries from various sources.
+0	NA	NA	NA	METHODS	The WikiPathways (2019), KEGG (2019), Reactome (2016), and GO molecular function (2018) libraries were used as part of Enrichr
+0	NA	NA	NA	METHODS	This study was approved by our institutional review board (Seoul National University Bundang Hospital Institutional review board; IRB number, B-1312/232-302) and followed the rules stated in the Declaration of Helsinki.
+0	NA	NA	NA	METHODS	All participants provided written informed consent
+0	NA	NA	NA	AUTH_CONT	J.J.O., M.S., D.K.
+0	NA	NA	NA	AUTH_CONT	and S.S.B.
+0	NA	NA	NA	AUTH_CONT	conceived the project.
+0	NA	NA	NA	AUTH_CONT	J.J.O., H.L., S.K.H., S.E.L.
+0	NA	NA	NA	AUTH_CONT	and S.S.B.
+0	NA	NA	NA	AUTH_CONT	curated data.
+0	NA	NA	NA	AUTH_CONT	J.J.O., M.S., J.M., S.V., Y.L., S.J.L., J.S.
+0	NA	NA	NA	AUTH_CONT	performed the formal analysis along with visualization.
+0	NA	NA	NA	AUTH_CONT	D.K.
+0	NA	NA	NA	AUTH_CONT	and S.S.B.
+0	NA	NA	NA	AUTH_CONT	provided resources.
+0	NA	NA	NA	AUTH_CONT	J.J.O., M.S., J.M., D.K.
+0	NA	NA	NA	AUTH_CONT	and S.S.B.
+0	NA	NA	NA	AUTH_CONT	supervised all aspects of this work.
+0	NA	NA	NA	AUTH_CONT	The original draft was written by J.J.O.
+0	NA	NA	NA	AUTH_CONT	and M.S.
+0	NA	NA	NA	AUTH_CONT	All authors reviewed and edited the manuscript

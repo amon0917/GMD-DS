@@ -1,0 +1,172 @@
+0	pancreatic cancer	NA	NA	ABSTRACT	One of the standard of care regimens for advanced pancreatic cancer is gemcitabine-based chemotherapy.
+0	febrile neutropenia	NA	NA	ABSTRACT	The efficacy of gemcitabine is limited by dose-limiting hematologic toxicities especially neutropenia.
+0	toxicity	NA	NA	ABSTRACT	Uncovering the variability of these toxicities attributed to germline DNA variation is of great importance
+0	pancreatic cancer	NA	NA	ABSTRACT	CALGB 80303 was a randomized study in advanced pancreatic cancer patients treated with gemcitabine with or without bevacizumab.
+0	NA	DCTD	NA	ABSTRACT	The study protocol included genotyping of genes of gemcitabine disposition (CDA, DCTD, SLC29A1, SLC28A1, SLC29A2), as well as a genome-wide analysis.
+0	febrile neutropenia	NA	NA	ABSTRACT	The clinical phenotype was time to early high-grade neutropenia event accounting for progression or death, or other treatment-terminating adverse events as competing informative events.
+0	NA	NA	NA	ABSTRACT	The inference was conducted based on the association between genotype and cause-specific hazard of a neutropenic event
+0	pancreatic cancer	NA	NA	ABSTRACT	The primary analyses were conducted on the basis of 294 genetically-estimated European pancreatic cancer patients.
+0	febrile neutropenia	NA	rs2072671	ABSTRACT	For CDA rs2072671 (A>C), AC and CC patients had a lower risk of neutropenia than AA patients (P-value 0.01, HR 0.61, 95% CI 0.41-0.89).
+0	febrile neutropenia	SLC28A1	rs3825876	ABSTRACT	For SLC28A1 rs3825876 (G>A), AA patients have a higher risk of neutropenia than GA and GG patients (P-value 0.02, HR 1.51, 95% CI 1.06-2.16).
+0	NA	NA	rs2072671	ABSTRACT	CDA rs2072671 was associated with increased mRNA expression in whole blood in three studies (P-values 2.7e-14, 6.61e-62, 9.70e-65).
+1	NA	TGFB2	NA	ABSTRACT	In the genome-wide analysis, variants in TGFB2 were among the top hits (lowest P-value 1.62e-06) but had no effect in luciferase assays
+0	febrile neutropenia	NA	rs2072671	ABSTRACT	The first genetic analysis of gemcitabine-induced neutropenia using a competing risk model in a prospective randomized clinical study has proposed a potentially novel mechanism of the protective effect of the CDA rs2072671 variant.
+0	NA	NA	NA	ABSTRACT	Further confirmation is needed
+0	pancreatic cancer	NA	NA	INTRO	CALGB 80303 was a randomized double-blind phase III study in patients with metastatic or locally advanced pancreatic cancer.
+0	NA	NA	NA	INTRO	Patients were randomized to gemcitabine chemotherapy plus placebo or gemcitabine plus bevacizumab.
+0	NA	NA	NA	INTRO	Its primary clinical endpoint was overall survival and adding bevacizumab to the chemotherapy agent did not improve survival
+0	febrile neutropenia	NA	NA	INTRO	As part of the CALGB 80303 protocol, we proposed to investigate the association of gemcitabine-induced high-grade neutropenia with common variants in candidate genes of gemcitabine pharmacology.
+0	NA	SLC29A1	NA	INTRO	As described in the PharmGKB pathway for gemcitabine (https://www.pharmgkb.org/pathway/PA2036), the nucleoside transporters SLC29A1, SLC28A1, and SLC29A2 are involved in gemcitabine uptake into the cells, while CDA and DCTD are involved in gemcitabine inactivation through conversion of gemcitabine to dFdU or dFdUMP, respectively.
+0	toxicity	NA	NA	INTRO	Due to the importance of these genes in gemcitabine transport and metabolism, alterations in expression levels or function of the coded proteins could lead to gemcitabine accumulation and ultimately gemcitabine toxicity.
+0	febrile neutropenia	NA	NA	INTRO	Discovering variants in these genes that associate with gemcitabine-induced neutropenia will provide a better understanding of the DNA variation driving this toxicity.
+0	NA	NA	NA	INTRO	The study protocol was later amended to allow the interrogation of thousands of additional variants in other genes through a genome-wide genotyping approach
+0	febrile neutropenia	NA	NA	INTRO	In this paper, we report the results from a genetic analysis conducted in CALGB 80303 identifying germline variants associated with the occurrence of gemcitabine-induced high-grade neutropenia.
+0	febrile neutropenia	NA	NA	INTRO	Because treatment-terminating events might affect the onset of neutropenia, we performed this genetic analysis under a competing risk model with informative censoring
+0	NA	NA	NA	METHODS	A total of 602 patients in CALGB 80303 (Protocol ID: CR_Pro00009631) were randomized, 302 to the gemcitabine plus bevacizumab versus 300 to gemcitabine plus placebo.
+0	NA	NA	NA	METHODS	The randomization was stratified by extent of disease (metastatic versus locally advanced), ECOG performance status (0-1/2), and prior radiation (yes/no).
+0	NA	NA	NA	METHODS	Key baseline characteristics for these patients are summarized in Table 1
+0	NA	NA	NA	METHODS	Gemcitabine was administered intravenously over thirty minutes on days 1, 8, and 15 of a 28-day cycle at the dose of 1000 mg/m2.
+0	NA	NA	NA	METHODS	Bevacizumab or placebo was administered intravenously after chemotherapy on days 1 and 15 of each cycle at the dose of 10 mg/kg.
+0	toxicity	NA	NA	METHODS	Per protocol, patients with evidence of response or stable disease remained on therapy until disease progression, unacceptable toxicity, or the patient's decision to withdraw.
+0	cancers	NA	NA	METHODS	Patients were evaluated for response according to the Response Evaluation Criteria in Solid Tumors (RECIST) criteria every two cycles
+0	NA	NA	NA	METHODS	The study utilized Common Terminology Criteria for Adverse Events (CTCAE) version 3.0 for adverse event reporting.
+0	NA	NA	NA	METHODS	In the CTCAE system, each adverse event report is given a treatment attribution grade ranging from 1, indicating that the event was unlikely to be related to treatment, to 5, indicating that the event was definitely related to treatment.
+0	NA	NA	NA	METHODS	An adverse event was qualified as treatment-related if the attribution code was at least 3.
+0	NA	NA	NA	METHODS	Additionally, high-grade adverse events were reported through the Adverse Event Expedited Reporting System.
+0	death	NA	NA	METHODS	Adverse event forms were submitted every cycle while patients actively received therapy, then every three months for one year, or until progression or death.
+0	death	NA	NA	METHODS	The follow up and response forms were submitted every cycle while patients actively received therapy, then every three months for one year, followed by every six months for three years, or until progression or death.
+0	NA	NA	NA	METHODS	Additional information about the design, clinical characteristics and outcome for the clinical study has been previously reported
+0	NA	NA	NA	METHODS	Genotyping was performed using the Illumina HapMap 550v3 beadchip on samples from 351 CALGB 80303 patients who had consented for participation in this study.
+0	NA	NA	NA	METHODS	This platform typed 561,466 single-nucleotide polymorphisms (SNPs).
+0	NA	NA	NA	METHODS	Following a comprehensive quality control and the use of ordination methodology, a genetic European subpopulation consisting of 294 patients was identified.
+0	NA	NA	NA	METHODS	Additional details about the quality control and filtering methodology were previously described.
+0	NA	NA	NA	METHODS	The analyses presented in this report were based on the aforementioned subset of 294 patients, and SNPs were filtered based on a relative minor allelic frequency (MAF) cut-off of 0.05.
+0	NA	NA	NA	METHODS	The final number of SNPs passing quality control was 457,310.
+0	NA	DCTD	NA	METHODS	Out of these, 71 typed SNPs located in the genes CDA, DCTD, SLC28A1, SLC29A1, and SLC29A2 are reported (see Table, Supplemental Digital Content 1, http://links.lww.com/FPC/B344)
+0	NA	NA	NA	METHODS	For each of the 294 patients, the individual follow-up and adverse event forms were reconstructed by querying the CALGB clinical database (CALGB is now part of Alliance for Clinical Trials in Oncology).
+0	NA	NA	NA	METHODS	The data for survival and progression were obtained from the clinical data set.
+0	NA	NA	NA	METHODS	Data collection and statistical analyses were conducted by the Alliance Statistics and Data Center.
+0	NA	NA	NA	METHODS	For each patient, we ascertained the date of the first reported neutropenic event (MedDRA code 10029363) of grade 2 or higher
+0	febrile neutropenia	NA	NA	METHODS	The phenotype of interest for this study is early high-grade (grade 3 or higher) treatment-related neutropenia.
+0	febrile neutropenia	NA	NA	METHODS	We defined early high-grade neutropenia as occurring within the five weeks after start of treatment.
+0	NA	NA	NA	METHODS	Patients who did not experience any such event within five weeks of start of therapy were uninformatively censored at five weeks.
+0	NA	NA	NA	METHODS	Patients, for whom no high-grade neutropenic event were reported, the date and cause of treatment termination were ascertained.
+0	death	NA	NA	METHODS	Causes of treatment termination (leading to the exit of the patients from the study) were categorized as death or progression, treatment-terminating adverse event (TTAE) other than neutropenia, or other (e.g., withdrawal of consent or unknown).
+0	NA	NA	NA	METHODS	Complicated cases were adjudicated by additional review by a medical oncologist.
+0	NA	NA	NA	METHODS	The time to event was calculated as time from the date of treatment start to the date of a high-grade neutropenic event, a TTAE, or other events of treatment termination, whichever occurred first.
+0	febrile neutropenia	NA	NA	METHODS	Patients lost to follow-up prior to the occurrence of high-grade neutropenia or any event of treatment termination were considered censored at date of last follow-up.
+0	febrile neutropenia	NA	NA	METHODS	For fourteen solicited adverse events, including neutropenia, all grades were reported, while for unsolicited events, only events graded 3 to 5 were reported.
+0	NA	NA	NA	METHODS	Additional technical details on the phenotype data are available in Supplemental Digital Content 2, http://links.lww.com/FPC/B345
+0	febrile neutropenia	DCTD	NA	METHODS	The primary objective of the study was to test the association of SNPs in CDA, DCTD, SLC28A1, SLC29A1, and SLC29A2 with time to early high-grade neutropenia.
+0	death	NA	NA	METHODS	The time to event distributions for this outcome are non-identifiable as they are subject to informative censoring mechanisms, including treatment termination due to progression, death, or TTAEs.
+0	febrile neutropenia	NA	NA	METHODS	Inference was conducted on the basis of the score test for cause-specific hazard within the framework of a Cox model for time to early high-grade neutropenia.
+0	NA	NA	NA	METHODS	We also considered analyses adjusted for clinically relevant covariates within the framework of a multivariate additive Cox model.
+0	febrile neutropenia	NA	NA	METHODS	The covariates used in these analyses were prior radiotherapy, age, and baseline neutropenia levels, where age and baseline neutropenia levels were log-transformed (base 10 and base e, respectively) to address skewness of the distributions and reduce the influence of outlier values.
+0	NA	NA	NA	METHODS	The covariates were selected based on their putative clinical relevance to the primary outcome.
+0	bone marrow abnormalities	NA	NA	METHODS	These were selected due to the putative relationship between radiation-induced marrow suppression and neutropenia, and the putative association of risk of chemotherapy-induced neutropenia in older patients and those with low neutrophil counts at the start of therapy.
+0	NA	NA	NA	METHODS	For analyses accounting for baseline covariates, the Wald test was used.
+0	NA	NA	NA	METHODS	The analyses were powered for additive genetic effects.
+0	NA	NA	NA	METHODS	The null distribution for the marginal P-values was approximated under an asymptotic framework.
+0	NA	NA	NA	METHODS	Top hits were selected based on unadjusted P-values from the score test
+0	febrile neutropenia	NA	NA	METHODS	A secondary objective included analyzing the association between the genome-wide SNPs and time to early high-grade neutropenia.
+0	NA	NA	NA	METHODS	Cumulative incidence plots of the phenotype, stratified by genotypes, were used for visualizing the genetic effects.
+0	NA	NA	NA	METHODS	Quantile-quantile plots of the marginal asymptotic P-values for the genome-wide data were evaluated for inflation of significance levels.
+0	NA	NA	NA	METHODS	The reported P-values have not been adjusted for multiple testing
+0	NA	NA	NA	METHODS	All statistical analyses were carried out using the R statistical environment using extension packages survival for proportional hazard test, cmprsk for estimating the cumulative incidence curves, GenABEL for genotype data management and filtering, and to obtain Hardy-Weinberg P-values, and SNPassoc for computing linkage disequilibrium (LD)
+0	NA	NA	NA	METHODS	The chromosome and position information for the reported variants were obtained from an annotation file provided by Illumina (HumanHap550v3_A.csv) built against build 36 of the human genome.
+0	NA	NA	NA	METHODS	Additional genomic annotation, including gene and function information, was obtained from the SCAN database.
+0	NA	NA	NA	METHODS	To assess the extent of the signals relative to genomic position and LD within a region (e.g., gene or around a SNP), the LocusZoom software (version 1.3) was used.
+0	NA	NA	NA	METHODS	The 1,000 Genomes Pilot 1 CEU panel data (March 2012 release) based on human genome build hg19 was used as the reference data.
+0	NA	NA	NA	METHODS	SNPs in the candidate genes (including those up to 1kb upstream of the 5' end or 1kb downstream of the 3' end) were queried from the SCAN database and confirmed from dbSNP database
+0	NA	NA	NA	METHODS	To visualize the P-value for association in each of the candidate genes, the LocusZoom software (version 1.3) was employed using a 50 Kb window left and right from the gene limits.
+0	NA	NA	NA	METHODS	SNPs in candidate genes that had a P-value <0.05 for association, and variants in high LD with them (r2 >=0.8 in Europeans from the 1,000 Genomes Project) were further evaluated for functional effects using bioinformatics (RegulomeDB).
+0	NA	NA	NA	METHODS	The same variants were also tested for association with mRNA gene expression in the human liver and blood as expression quantitative trait loci (eQTL).
+0	NA	NA	NA	METHODS	Candidate gene expression localization and single-tissue eQTLs were analyzed using the GTEx portal (https://www.gtexportal.org/home/).
+0	NA	NTR	NA	METHODS	The NESDA NTR Conditional eQTL Catalog (https://eqtl.onderzoek.io/index.php?page=info) was used to observe eQTLs in whole blood.
+0	NA	NA	rs2072671	METHODS	SIFT and PolyPhen-2 were interrogated for evaluating the functionality of the CDA rs2072671 (79A>C) missense variant
+1	febrile neutropenia	TGFB2	rs2799083	METHODS	Three SNPs rs2799083, rs2799090, and rs11118109 in TGFB2 were selected for functional evaluation in luciferease assays based on their associations with neutropenia.
+0	NA	NA	NA	METHODS	The 500 bp regions spanning the SNPs were PCR amplified and cloned into pGL4.26 in the forward and reverse direction (for luciferase assay primer sequences, see Table, Supplemental Digital Content 3, http://links.lww.com/FPC/B346).
+0	NA	NA	NA	METHODS	Bases in bold align with the pGL4.26 luciferase vector sequence for In-Fusion cloning at the SacI and XhoI restriction enzyme sites.
+0	NA	NA	NA	METHODS	Underlined bases indicate the SNP change in mutagenesis.
+0	NA	NA	NA	METHODS	Variant alleles for each SNP were generated using site-directed mutagenesis.
+0	NA	NA	NA	METHODS	The empty pGL4.26 vector served as the negative control, and regions of 20q13.2 and 19p13.2, previously reported to have enhancer activity, were used as the positive controls
+0	NA	NA	NA	METHODS	PANC-1 and K-562 cells were co-transfected with 1050 ng pGL4.26 enhancer construct and 1 ng pNL1.1TK plasmid using Lipofectamine 2000.
+0	NA	NA	NA	METHODS	After 48 hours, luminescence was measured.
+0	NA	NA	NA	METHODS	Three independent clones were assayed for each enhancer construct.
+0	NA	NA	NA	METHODS	Relative luciferase activity was calculated using the ratio of luminescence from the enhancer construct to the negative control construct.
+0	NA	NA	NA	METHODS	A relative luciferase reading of greater than 2 was considered enhancer activity
+1	NA	NA	rs11118109	METHODS	Luciferase activity (normalized by blank control and log base e transformed) of the variant constructs for rs11118109, rs2799090, and rs2799083, were compared to the activity of the reference constructs in both the forward and reverse orientations.
+0	NA	NA	NA	METHODS	Statistical significance was assessed using the framework of a linear mixed effect model with reference genotypes as fixed effects, and clone and day of the experiment as two independent random effects.
+0	NA	NA	NA	METHODS	Results from 3 clones for each construct with varying replicates are reported as the log transformation of normalized luciferase activity values.
+0	NA	NA	NA	METHODS	The lmer function from the lme4 R extension package was used to implement this model
+1	NA	TGFB2	NA	METHODS	Plasma concentrations of the TGFbeta2 protein were measured at baseline in 216 patients of CALGB 80303, as previously reported.
+1	NA	TGFB2	rs2799083	METHODS	Associations between rs2799083 (T>C), rs2799090 (A>G), and rs11118109 (T>G) in TGFB2 with TGFbeta2 protein levels were tested using the Jonckheere-Terpstra (JT) test for ordered alternatives
+0	NA	NA	NA	RESULTS	The CONSORT chart shown in Figure 1 summarizes the patient and SNP selection process.
+0	febrile neutropenia	NA	NA	RESULTS	With the exception of one case of grade 3 neutropenia, all high-grade neutropenic events in this study were qualified by the treating physicians as treatment-related.
+0	febrile neutropenia	NA	NA	RESULTS	Figure 2 shows the estimated cumulative incidence curves for neutropenia (at any time).
+0	death	NA	NA	RESULTS	The two competing risks are treatment termination due to progression/death, and TTAE, with death or progression occurring most frequently.
+0	toxicity	NA	NA	RESULTS	The observed toxicities that resulted in a TTAE were hypertension, proteinuria, and thrombosis
+0	febrile neutropenia	DCTD	NA	RESULTS	A total of 71 candidate SNPs from CDA, DCTD, SLC28A1, SLC29A1 and SLC29A2 (MAF>0.05) were tested for association with time to early high-grade neutropenia.
+0	NA	SLC28A1	NA	RESULTS	We performed additional downstream analyses on the SNPs in CDA and SLC28A1 (Table 2).
+0	NA	SLC28A1	rs2072671	RESULTS	Because of the high LD between the two pairs of SNPs (CDA rs2072671 and rs471760: r2 0.89; SLC28A1 rs3825876 and rs12148896: r2 0.67), Figure 3 shows the genotype effects of CDA rs2072671 and SLC28A1 rs3825876.
+0	febrile neutropenia	NA	rs2072671	RESULTS	For CDA rs2072671 (A>C), patients with AC and CC genotypes have a lower risk of neutropenia than patients with the AA genotype (P-value 0.01, HR 0.61, 95% CI 0.41-0.89).
+0	febrile neutropenia	SLC28A1	rs3825876	RESULTS	For SLC28A1 rs3825876 (G>A), patients with AA genotypes have a higher risk of neutropenia than patients with the GA and GG genotypes (P-value 0.02, HR 1.51, 95% CI 1.06-2.16).
+0	NA	NA	NA	RESULTS	Neither of these two variants (or any other interrogated variants in high LD with them) were eQTLs in the human liver (results not shown).
+0	NA	SLC28A1	NA	RESULTS	When repositories of eQTL data from whole blood were interrogated for the CDA and SLC28A1 variants, the only association observed was for the CDA variants (see Table 3).
+0	NA	NA	rs2072671	RESULTS	The C allele of rs2072671 and the A allele of rs471760 were associated with an increase in CDA mRNA expression in whole blood (Table 3).
+0	NA	SLC28A1	rs3825876	RESULTS	There was minimal evidence for binding of SLC28A1 rs3825876 according to RegulomeDB (score 4) and ENCODE, and there was no strong evidence that SNPs in LD with an r2>0.5 were located in regulatory regions.
+0	NA	NA	rs2072671	RESULTS	Since CDA rs2072671 was more likely to be located in a regulatory region (RegulomeDB score 3a), and associated with CDA expression in blood, this variant appeared to have more functional relevance
+0	febrile neutropenia	NA	NA	RESULTS	As an exploratory analysis to select novel variants for further investigation, we conducted a genome-wide analysis on the basis of 457,310 SNPs to test for association with early high-grade neutropenia.
+0	NA	NA	NA	RESULTS	The resulting quantile-quantile (Q-Q) and Manhattan plots are shown in Supplemental Digital Content 4 and 5, http://links.lww.com/FPC/B347 and http://links.lww.com/FPC/B348 respectively
+1	NA	TGFB2	rs2799083	RESULTS	The two most highly ranked variants, according to the unadjusted P-values, were rs2799083 (T>C, intron 2 in TGFB2) and rs11118109 (T>G, 15 Kb 3' of TGFB2) (see table, Supplemental Digital Content 6, http://links.lww.com/FPC/B349 for the top 50 SNPs based on P-value).
+1	NA	TGFB2	rs2799090	RESULTS	We performed bioinformatic analyses and functional assays on these two TGFB2 variants plus an additional one (rs2799090 A>G, intron 1), (see 3 variants in bold, Supplemental Digital Content 6, http://links.lww.com/FPC/B349) in two human cell lines.
+1	NA	NA	rs11118109	RESULTS	RegulomeDB has shown that rs11118109 is located in a region where DNA is accessible to transcription factor binding (score 4), while rs2799083 and rs2799090 are less likely to be located in a regulatory region (score 5).
+0	NA	NA	rs11118109	RESULTS	In agreement with this finding, enhancer activity (relative luciferase activity >2.0) has been detected for the forward orientation of the construct containing rs11118109, but not for the other two variants.
+0	NA	NA	rs11118109	RESULTS	However, there was no significant difference in luciferase activity between the two alleles of rs11118109 (Figure 4)
+1	NA	TGFB2	NA	RESULTS	Because TGFbeta2 protein levels were measured before treatment in a subset of patients in CALGB 80303, we tested the hypothesis that TGFB2 variants might affect the secretion of soluble TGFbeta2.
+1	NA	TGFB2	NA	RESULTS	There was no evidence for association between these three SNPs and TGFbeta2 protein levels (P-value 0.54, 0.64, and 0.47, respectively) (see Box plots, Supplemental Digital Content 7, http://links.lww.com/FPC/B350)
+0	febrile neutropenia	NA	NA	DISCUSS	This is the first and largest comprehensive interrogation of the genetic risk of high-grade neutropenia in genetically-determined European pancreatic cancer patients treated with gemcitabine
+0	febrile neutropenia	DCTD	rs2072671	DISCUSS	The analysis of common variants in CDA and DCTD (gemcitabine metabolism), and SLC29A1, SLC28A1, SLC29A2 (gemcitabine transport) and their association with high-grade neutropenia points towards CDA rs2072671 as a marker of clinical validity.
+0	febrile neutropenia	NA	rs2072671	DISCUSS	CDA rs2072671 (A>C) is the most extensively studied variant for gemcitabine pharmacogenetics, and this study proposes a new hypothesis of its mechanism and clinical relevance to high-grade, gemcitabine-induced neutropenia, as described below
+0	NA	cytidine deaminase	NA	DISCUSS	CDA codes for cytidine deaminase, the enzyme that inactivates gemcitabine through deamination to its inactive metabolite 2',2'-difluorodeoxyuridine, as previously described.
+0	febrile neutropenia	NA	rs2072671	DISCUSS	In our study, patients with the rs2072671 AA genotype have a higher risk for early high-grade neutropenia than patients with the AC or CC genotypes (Figure 3).
+0	febrile neutropenia	NA	rs2072671	DISCUSS	In the literature, the associations of the rs2072671 variant allele with gemcitabine-induced neutropenia reported so far are inconclusive, with decreased risk, increased risk, or no identifiable risk.
+0	febrile neutropenia	NA	rs2072671	DISCUSS	To our knowledge, our study is the first to provide evidence that the 79A>C variant in CDA may confer protection from early high-grade neutropenia in pancreatic cancer patients treated with gemcitabine
+0	NA	NA	rs2072671	DISCUSS	CDA rs2072671 (79A>C in exon 1) creates a missense mutation leading to a lysine to glutamine (K27Q) change.
+0	NA	NA	NA	DISCUSS	Biochemical results on the effect of this variant on enzyme affinity and Vmax for the deamination of gemcitabine are conflicting.
+0	NA	NA	rs2072671	DISCUSS	According to our bioinformatic analysis, the K27Q change is benign.
+0	NA	NA	rs2072671	DISCUSS	When we tested the association of rs2072671 with gene expression data in our human liver data sets, no significant associations were observed, for either rs2072671 or other variants in high LD with it.
+0	NA	NA	rs2072671	DISCUSS	Instead, a consistent association was observed between the C allele of rs2072671 (and variants in LD, including rs471760) and increased mRNA expression of CDA in whole blood from three datasets (Table 3).
+0	NA	NA	NA	DISCUSS	Among all human tissues, whole blood is where CDA has the highest expression, (see GTEx diagram, Supplemental Digital Content 8, http://links.lww.com/FPC/B351 for CDA mRNA expression across tissues).
+0	NA	NA	rs2072671	DISCUSS	We hypothesize that the rs2072671 variant acts through a local effect in either the bone marrow or in circulating neutrophils (or both), by protecting neutrophils from the anti-proliferative effects of gemcitabine.
+0	NA	NA	NA	DISCUSS	Active, phosphate metabolites of gemcitabine accumulate rapidly in mononuclear cells during the infusion, with a peak of tri-phosphate gemcitabine reached within 30 minutes.
+0	NA	NA	rs2072671	DISCUSS	The action of the rs2072671 variant is probably indirect, as a proxy of other alleles in moderate-high LD with it (and their haplotypes) which increased CDA expression, as detected from the whole blood studies.
+0	NA	cytidine deaminase	NA	DISCUSS	A systemic effect of whole blood as a clearing system for gemcitabine is ruled out by the marginal quantitative contribution of plasma cytidine deaminase activity to gemcitabine clearance
+1	NA	TGFB2	NA	DISCUSS	The exploratory analysis of common variants in the genome has selected TGFB2 as a novel candidate gene.
+1	NA	TGFB2	NA	DISCUSS	TGFB2 codes for the a secreted ligand of the TGF-beta (transforming growth factor-beta) superfamily of proteins.
+0	NA	NA	NA	DISCUSS	Its biology could be related to neutrophil function via its regulatory role on hematopoietic stem cells and subsequent progenitor cells.
+1	febrile neutropenia	TGFB2	rs2799083	DISCUSS	However the luciferase assays of rs2799083 (and other gene variants also associated with neutropenia in our study) did not show evidence of functionality for this variant (Figure 4), as well as no association with circulating levels of the TGFbeta2 protein in a subset of the patients (Supplemental Digital Content 7, http://links.lww.com/FPC/B350).
+1	NA	TGFB2	NA	DISCUSS	These experimental approaches failed to link a functional mechanism of TGFB2 variants to the clinical effect.
+1	NA	TGFB2	NA	DISCUSS	Nevertheless, other mechanisms should be explored, including observing the roles of the TGFB2 variants in an earlier progenitor cell type within the hematopoietic pathway
+0	NA	NA	NA	DISCUSS	As a limitation to this study, we acknowledge that the phenotyping was conducted solely on the basis of data provided on clinical research forms.
+0	NA	NA	NA	DISCUSS	Information provided on these forms may be incomplete, for example, they do not report dose omissions or reductions, the impact of which we have tried to minimize by investigating early events within cycle 1.
+1	NA	SLC28A1	NA	DISCUSS	The associations in CDA, SLC28A1, and TGFB2 do not meet threshold of statistical significance based upon corrected P-values.
+0	NA	NA	NA	DISCUSS	We also recognize that our selection of covariates is not entirely impartial and consequently may not fully account for the baseline hazard.
+0	NA	NA	NA	DISCUSS	Despite these limitations, we intend to disseminate these discoveries into the public scientific domain, so that other studies could be built on the basis of our data
+0	pancreatic cancer	NA	NA	DISCUSS	We are reporting the first comprehensive genomic analysis of gemcitabine-induced neutropenia in pancreatic cancer in patients of European origin.
+0	febrile neutropenia	cytidine deaminase	rs2072671	DISCUSS	This study has generated a novel mechanistic hypothesis on the protective effect of the CDA rs2072671 on early high-grade neutropenia that should be tested in other studies of gemcitabine and other pyrimidine analogs inactivated by cytidine deaminase.
+0	NA	NA	NA	DISCUSS	All genotype and phenotype data will be made available in dbGaP, as per NIH guidelines of NIH-sponsored studies and upon permission from the Alliance for Clinical Trials in Oncology.
+0	febrile neutropenia	NA	NA	DISCUSS	Because a validation set was not available, reproduction of the signals presented in this study will be key to provide evidence of clinical validity of novel markers of gemcitabine neutropenia
+0	NA	NA	NA	FIG	The graph on the right shows the stratification by arm (gemcitabine plus placebo and gemcitabine plus bevacizumab).
+0	febrile neutropenia	NA	NA	FIG	The vertical line represents the cut-off for the definition of early neutropenia (5 weeks)
+0	NA	NA	NA	FIG	A) PANC-1.
+0	NA	NA	NA	FIG	B) K-562.
+0	NA	NA	rs2799090	FIG	Results are reported as the mean of 3 individual clones with n=3 experiments, with the exception of rs2799090 which had n=4 experiments in K-562 cells.
+0	NA	NA	NA	FIG	The enhancer activity of each SNP was measured in both the forward and reverse orientation.
+0	NA	NA	NA	FIG	Error bars represent standard error of the mean (SEM)
+0	febrile neutropenia	NA	NA	TABLE	Both unadjusted and adjusted (for prior radiotherapy, log base 10 transformed age, and natural log transformed baseline neutropenia levels) results are shown.
+0	NA	NA	NA	TABLE	For the unadjusted results, score test P-values are reported.
+0	NA	NA	NA	TABLE	For the adjusted results, Wald test P-values are reported.
+0	NA	NA	NA	TABLE	MAF = minor allele frequency; HWE = Hardy-Weinberg equilibrium P-value; HR = hazard ratio; LCL = lower 95% confidence limit; UCL = upper 95% confidence limit
+0	NA	NA	rs2072671	TABLE	A comparison of P-values and effect size for rs2072671 C and rs471760 A associations with CDA mRNA expression in three separate whole blood eQTL studies.
+0	NA	NA	rs471760	TABLE	*The G allele was assessed for rs471760 in Fehrmann et al.15

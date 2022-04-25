@@ -1,0 +1,213 @@
+0	breast cancer	NA	NA	ABSTRACT	Anastrozole is a widely prescribed aromatase inhibitor for the therapy of estrogen receptor positive (ER+) breast cancer.
+0	breast cancer	NA	NA	ABSTRACT	We performed a genome-wide association study (GWAS) for plasma anastrozole concentrations in 687 postmenopausal women with ER+ breast cancer.
+1	NA	SLC38A7	rs11648166	ABSTRACT	The top single-nucleotide polymorphism (SNP) signal mapped across SLC38A7 (rs11648166, P = 2.3E-08), which we showed to encode an anastrozole influx transporter.
+0	NA	ALPPL2	rs28845026	ABSTRACT	The second most significant signal (rs28845026, P = 5.4E-08) mapped near ALPPL2 and displayed epistasis with the SLC38A7 signal.
+0	NA	SLC38A7	NA	ABSTRACT	Both of these SNPs were cis expression quantitative trait loci (eQTL)s for these genes, and patients homozygous for variant genotypes for both SNPs had the highest drug concentrations, the highest SLC38A7 expression, and the lowest ALPPL2 expression.
+0	NA	SLC38A7	NA	ABSTRACT	In summary, our GWAS identified a novel gene encoding an anastrozole transporter, SLC38A7, as well as epistatic interaction between SNPs in that gene and SNPs near ALPPL2 that influenced both the expression of the transporter and anastrozole plasma concentrations
+0	breast cancer	NA	NA	INTRO	  Anastrozole is a highly prescribed aromatase inhibitor that plays an important role in the management of postmenopausal women with endocrine therapy-sensitive breast cancer.
+0	NA	NA	NA	INTRO	However, no biomarkers for variation in plasma anastrozole concentrations have been reported, and no genome-wide association study for plasma anastrozole concentrations has been performed
+0	breast cancer	NA	NA	INTRO	  This study addressed the question of whether genetics might contribute to variation in plasma anastrozole concentrations in patients with hormone receptor positive breast cancer being treated with this drug
+1	breast cancer	SLC38A7	rs11648166	INTRO	  The rs11648166 SNP in SLC38A7 and the rs28845026 SNP near ALPPL2 were associated with plasma anastrozole concentrations in patients with estrogen receptor positive breast cancer who received anastrozole therapy.
+0	NA	SLC38A7	NA	INTRO	SLC38A7 is a transporter for anastrozole, and ALPPL2, by an epistatic mechanism, seems to repress SLC38A7 expression and, as a result, decreases anastrozole plasma concentrations
+0	NA	NA	NA	INTRO	  This study provides genetic markers, single-nucleotide polymorphisms, for the possible individualization of plasma anastrozole dosing and, as a result, plasma drug concentrations.
+0	NA	NA	NA	INTRO	It also highlights the potential importance of epistasis as a pharmacogenomic mechanism
+0	NA	NA	NA	INTRO	Aromatase inhibitors (AIs) are first-line adjuvant endocrine therapy for postmenopausal women with estrogen receptor positive (ER+) breast cancer.1, 2 Anastrozole is the most widely prescribed AI in the United States,3 and it was recently recommended in the United Kingdom for the prevention of breast cancer in high-risk women.4 Anastrozole reversibly and competitively inhibits aromatase, the enzyme that catalyzes the biosynthesis of estrogens from androgens.
+0	NA	NA	NA	INTRO	The US Food and Drug Administration-approved dose of anastrozole is 1 mg/day, which results in average reductions of estradiol (E2) and estrone (E1) plasma concentrations of >= 83.5% and >= 86.5%, respectively.5
+0	NA	NA	NA	INTRO	Anastrozole undergoes both phase I and phase II metabolism.6 A large proportion of plasma anastrozole, a hydrophilic compound, is not metabolized,7, 8 with mean anastrozole concentrations that are 30-fold higher than are those of its most abundant metabolite, anastrozole-N-glucuronide.8 However, there is large interindividual variability in plasma anastrozole concentrations and in the occurrence of anastrozole treatment-related phenotypes.
+0	breast cancer	NA	NA	INTRO	Specifically, not all patients experience estrogen suppression during anastrozole therapy and, surprisingly, ~ 10% of patients experience either no change or an increase in plasma estrogen concentrations despite being adherent to therapy.9 Of greatest clinical importance, ~ 10% of patients receiving anastrozole experience breast cancer recurrence within 5 years, and there is also wide variation in the occurrence and severity of adverse drug reactions.10 Finally, no clear mechanistic links have been established between anastrozole plasma concentrations and long-term clinical outcomes and/or the occurrence of adverse reactions to this important antineoplastic drug
+0	NA	NA	NA	INTRO	In the present study, we set out to test the hypothesis that plasma anastrozole concentrations might be regulated, at least in part, by genetics.
+0	breast cancer	NA	NA	INTRO	To test that hypothesis, we performed a genome-wide association study (GWAS) of plasma anastrozole concentrations in 687 postmenopausal patients with ER+ breast cancer enrolled in the Mayo Clinic-MD Anderson-Memorial Sloan Kettering (Mayo-MDA-MSK) Pharmacogenomics Research Network (PGRN) Breast Cancer Aromatase Inhibitor Pharmacogenomics study.
+0	NA	SLC38A7	NA	INTRO	As described subsequently, we observed two major single-nucleotide polymorphism (SNP) signals:a genome-wide significant SNP signal across a transporter gene, SLC38A7, and a near genome-wide significant SNP signal that mapped near ALPPL2 as well as a novel epistatic relationship (i.e., the genotype of one locus influenced the phenotypic expression of the other locus) between these two SNP signals.
+0	NA	NA	NA	INTRO	These results provide novel insight into genomic influences on individual variation in plasma anastrozole concentrations, and they should also heighten sensitivity to the possibility that two separate genetic loci might interact to influence the same pharmacogenomic phenotype, in this case, plasma drug concentration
+0	breast cancer	NA	NA	RESULTS	Plasma anastrozole concentrations in these patients with ER+ breast cancer were measured at a time when they had been on the once-a-day dose of the drug for several months, and patients were instructed not to take their dose of anastrozole for that day until after their blood sample had been drawn.
+0	NA	NA	NA	RESULTS	Patient information for participants in the study is summarized in Table S1.
+0	NA	NA	NA	RESULTS	The Manhattan plot for the GWAS for plasma anastrozole concentrations is shown in Figure  1a, and the QQ-plots are shown in Figure S1.
+0	NA	NA	NA	RESULTS	"The ""top"" 10 SNPs with low P values in the GWAS are listed in Table 1, and a list of SNPs with P value < 5.0E-06 is shown in Table S2."
+0	NA	SLC38A7	NA	RESULTS	A genome-wide significant signal was observed across the SLC38A7 transporter gene.
+1	NA	NA	rs11648166	RESULTS	The top SNP in that signal, rs11648166, had a minor allele frequency of 0.12 in our cohort, and the variant allele was associated with increased plasma concentrations of anastrozole (P = 2.3E-08; Figure  1b, Table 1).
+0	esophageal	SLC38A7	NA	RESULTS	This SNP was located ~ 3 kb downstream (3') of SLC38A7 and was an expression quantitative trait locus (eQTL) for that gene in multiple tissues, with the minor allele being associated with increased gene expression in several tissues, including esophageal mucosa, ovaries, etc.
+0	NA	NA	NA	RESULTS	(lowest P = 5.7E-06 in thyroid tissue, Genotype-Tissue Expression (GTEx)11).
+0	NA	SLC38A7	NA	RESULTS	SLC38A7 is known to encode a glutamine plasma membrane influx transporter,12 but it has not been reported to transport drugs, including anastrozole.
+0	NA	NA	NA	RESULTS	Anastrozole is a hydrophilic compound and is unable to diffuse across the cell membrane.
+0	NA	NA	NA	RESULTS	However, until the present study, no transporter for anastrozole had been reported.
+0	NA	NA	NA	RESULTS	These GWAS observations raised the question of how increased expression of an influx transporter that would be expected to move drug into cells, as we demonstrated to be the case in the functional genomic experiments described subsequently, might be associated with higher rather than lower plasma drug concentrations.
+0	NA	NA	NA	RESULTS	One possible explanation would be the transport of this orally administered drug across the gut mucosa from the gastrointestinal tract into the circulation, a possibility that is addressed subsequently
+0	NA	NA	NA	FIG	Genome-wide association study (GWAS) for plasma anastrozole concentrations.
+0	NA	NA	NA	FIG	(a) Manhattan plot of plasma anastrozole concentration GWAS.
+0	NA	NA	NA	FIG	"The P values for ""top single-nucleotide polymorphisms (SNP)s"" in the chromosome 2 and 16 signals are indicated."
+0	NA	NA	NA	FIG	The dashed line represents the threshold for genome-wide significance (P <= 5.0E-08).
+0	NA	NA	NA	FIG	Regional association plots (Locus Zooms) for the two top signals on (b) chromosome 16 and (c) chromosome 2 are also shown.
+1	NA	ALPPL2	rs11648166	FIG	"The ""top SNPs"" for those two GWAS signals, the rs11648166 SNP with a genome-wide significant P value that mapped to 3'-end of SCL38A7 on chromosome 16 in b and the rs28845026 SNP on chromosome 2 near a group of genes that included ALPPL2 in c, are shown in purple."
+0	NA	NA	NA	FIG	"The red to dark blue scale of colors indicates the degree of linkage disequilibrium (LD) with the ""top SNP."""
+0	NA	NA	NA	FIG	Red indicates perfect LD, and dark blue indicates no LD.
+0	NA	NA	NA	FIG	"Minor allele frequencies (MAFs) for the two ""top SNPs"" in the study cohort are also indicated"
+0	NA	NA	NA	TABLE	Top 10 SNPs from the GWAS for anastrozole plasma concentration
+0	NA	NA	NA	RESULTS	The next question involved the role of the near genome-wide significant signal that mapped to chromosome 2.
+0	NA	NA	rs28845026	RESULTS	The top SNP in that signal was rs28845026 (Figure  1c).
+1	NA	SLC38A7	rs11648166	RESULTS	That SNP had a minor allele frequency of 0.20 in our sample and the minor allele, like that for rs11648166 in SLC38A7, was associated with increased plasma anastrozole concentrations (P = 5.4E-08; Table 1) and was an eQTL for several of the genes that mapped near the SNP, including ECEL1 and ALPPL2.
+0	NA	ALPPL2	rs28845026	RESULTS	According to GTEx, rs28845026 is an eQTL for ALPPL2 in transverse colon tissue with a P value of 9.7E-05, with the variant allele being associated with decreased ALPPL2 expression11 (Figure S2).
+0	NA	ALPPL2	NA	RESULTS	The functional genomic studies described subsequently indicated that ALPPL2 had a significant effect on both SLC38A7 expression and anastrozole transport
+1	NA	NA	rs11648166	RESULTS	As a step toward addressing the questions raised in preceding paragraphs, we created a linear regression model for possible additive SNP effects to test the possibility that there might be interaction between the top SNPs for the chromosome 16 signal (rs11648166) and the chromosome 2 GWAS signal (rs28845026).
+1	NA	NA	rs11648166	RESULTS	This regression model tested the hypothesis that the effect of the rs11648166 SNP on plasma anastrozole concentrations might be modified by genotype for the rs28845026 SNP.
+0	NA	NA	NA	RESULTS	The interaction P value was 0.0227 (Table S3).
+0	NA	NA	NA	RESULTS	Therefore, in addition to the main effects of these SNPs, the effect of each SNP on anastrozole concentration also varied depending on the genotype of the other SNP.
+0	NA	NA	NA	RESULTS	Based on the predictions of this model, subjects carrying minor alleles for both SNPs would have higher anastrozole concentrations than would be predicted based on the effect of each allele separately.
+0	NA	NA	NA	RESULTS	The results of the predicted allele-dependent effects predicted by the interaction model are shown graphically in Figure  2a, and the actual phenotype-dependent relationship to genotypes for the two alleles are shown graphically in Figure  2b.
+1	NA	NA	rs11648166	RESULTS	The model for this SNP-SNP interaction explained 8.5% of the variation in plasma drug concentrations, whereas individually, rs11648166 explained 4.4% of the variation in anastrozole concentration and rs28845026 explained 4.2%
+1	NA	NA	rs11648166	FIG	Plasma anastrozole concentration vs. genotypes for the chromosome 16 (rs11648166) and chromosome 2 (rs28845026) single- nucleotide polymorphisms (SNPs).
+0	NA	NA	NA	FIG	(a) Plot of predicted anastrozole concentration by genotypes for the top 2 SNPs from the interaction model.
+0	NA	NA	NA	FIG	The y-axis represents predicted Van der Waerden (VDW) transformed plasma anastrozole concentrations, a normally distributed quantitative phenotype that was used in the interaction model for the multivariate linear regression analysis.
+0	NA	NA	NA	FIG	Negative values on the y-axis correspond to actual anastrozole concentrations that lie below the median.
+0	NA	NA	NA	FIG	(b) Bar plots of observed plasma anastrozole concentrations by genotypes for the 2 SNPs.
+0	NA	NA	NA	FIG	Values are mean +- SEM.
+0	NA	NA	NA	FIG	The number of patient samples for each genotype combination is listed above the bars.
+0	NA	NA	NA	FIG	[Colour figure can be viewed at wileyonlinelibrary.com
+0	NA	NA	NA	RESULTS	Anastrozole concentrations in this group of patients were negatively associated with the probability of having detectable levels of either E1 (P = 8.5E-07) or E2 (P = 2.8E-06) in their plasma because the mechanism of anastrozole action involves inhibition of the enzyme that catalyzes the biosynthesis of these hormones.
+0	NA	E*2	NA	RESULTS	Specifically, patients with undetectable levels of E1 or E2 had significantly higher mean plasma anastrozole concentrations (37.1 and 36.8 ng/mL, respectively) than did patients who had detectable levels of plasma E1 or E2 (30.7 and 29.7 ng/mL, respectively; Figure  3).
+0	NA	E*2	NA	RESULTS	Scatter plots for plasma anastrozole and E1 or E2 concentrations for all patients are shown in Figure S3
+0	NA	NA	NA	FIG	Associations of plasma anastrozole concentrations and the detectability of plasma estrogens.
+0	NA	NA	NA	FIG	Higher anastrozole plasma concentrations were associated with undetectable concentrations of (a) estrone (E1; P = 8.5E-07) and (b) estradiol (E2; P = 2.8E-06) during anastrozole therapy.
+0	NA	NA	NA	FIG	The points represent mean anastrozole concentrations, and the lines represent the upper and lower limits of the 95% confidence intervals.
+0	NA	NA	NA	FIG	The lower limit of quantitation (LLQ) for E1 was 1.56 pg/mL and for E2 was 0.625 pg/mL.
+0	NA	NA	NA	FIG	The mean LLQ in all samples combined was calculated as 1.64 pg/mL for E1 and 0.66 pg/mL for E2
+0	NA	NA	NA	RESULTS	The Mayo-MDA-MSK study had been designed to focus on the study of endophenotypes (e.g., hormone and drug concentrations) but was not powered to study long-term clinical outcomes, such as recurrence-free survival.
+0	NA	NA	NA	RESULTS	Therefore, we were unable to test the association of the SNPs that we identified during our GWAS with clinical outcomes.
+0	NA	NA	NA	RESULTS	However, we were able to study mechanism(s) by which these SNPs might influence plasma anastrozole concentrations as well as the epistatic interaction between the two SNP signals, so we next set out to study possible mechanisms that might explain these observations
+1	NA	SLC38A7	rs11648166	RESULTS	The rs11648166 SNP on chromosome 16 mapped to the SLC38A7 gene, which is known to encode a glutamine influx transporter,12, 13 but SLC38A7 has not been reported to transport drugs, including anastrozole.
+0	NA	NA	NA	RESULTS	In fact, no transporter for anastrozole had been reported previously.
+0	NA	SLC38A7	NA	RESULTS	Therefore, our initial functional studies were designed to address the questions of whether SLC38A7 encoded a protein capable of transporting anastrozole into cells and, if that were the case, why might this SNP:for which the variant genotype was an eQTL associated with increased transporter expression:be associated with increased rather than decreased plasma drug concentrations.
+0	NA	DIS3L2	rs28845026	RESULTS	"The ""other SNP signal,"" the chromosome 2 rs28845026 SNP, mapped to an intergenic region that was surrounded by the DIS3L2, ALPP, ECEL1P2, and ALPPL2 genes (Figure  1c)."
+0	NA	ALPPL2	NA	RESULTS	That SNP was a cis eQTL for ALPPL2 in the colon (P = 9.7E-05; Figure S2) and a cis eQTL for ECEL1P2 in the thyroid but, based on GTEx data, it was not an eQTL for the DIS3L2 or ALPP genes in any tissue.14 ALPP and ALPPL2 both encode membrane-bound alkaline phosphatases that are 98% identical in amino acid sequence.
+0	fallopian tubes	ALPPL2	NA	RESULTS	Both alkaline phosphatases catalyze the dephosphorylation of a wide variety of phosphate monoesters,15, 16 and they are expressed in the placenta, cervix, uterus, fallopian tubes, lungs, and a variety of tumors.17, 18 In addition, ALPPL2, but not ALPP, is expressed in the gut, including the small intestine (both duodenum and terminal ileum),14 an expression pattern that might influence drug absorption.
+0	NA	ALPPL2	rs28845026	RESULTS	Because ALPPL2 is expressed in the gut and because rs28845026 is an eQTL for ALPPL2, we focused our attention in subsequent experiments on the ALPPL2 gene
+0	NA	SLC38A7	NA	RESULTS	HEK293T cells were chosen to study the potential roles of SLC38A7 and ALPPL2 in anastrozole transport because those cells did not express either protein.
+0	NA	SLC38A7	NA	RESULTS	Because of their low background expression of drug transporters, HEK293T cells are often used to study specific drug-transporter pairs by overexpressing the transporter, followed by exposure to the drug.19 Immunofluorescence (IF) studies performed with SLC38A7 and ALPPL2 cDNA transfected HEK293T cells showed that both SLC38A7 and ALPPL2 localized to the plasma membrane of these cells (Figure  4a).
+0	NA	SLC38A7	NA	RESULTS	Cells transfected with empty vector displayed no staining for either SLC38A7 or ALPPL2 (data not shown).
+0	NA	SLC38A7	NA	RESULTS	IF studies were also performed with Caco2 cells, a cell line that has been used as a model for intestinal transport.19 Caco2 cells displayed high levels of endogenous SLC38A7 expression (Figure  4b), a fact of which we took advantage, as described subsequently, to study interaction between ALPPL2 and endogenous SLC38A7.
+0	NA	NA	NA	RESULTS	We did not use Caco2 cells to study anastrozole transport because they express several influx and efflux drug transporters, which would have complicated interpretation of transport assay results
+0	NA	SLC38A7	NA	FIG	Immunofluorescence studies of SLC38A7 and ALPPL2 in (a) HEK293T cells transfected with cDNA plasmids and (b) Caco2 cells that had not been transfected.
+0	NA	SLC38A7	NA	FIG	SLC38A7 and ALPPL2 antibodies were visualized by secondary antibodies that were labeled with green and red fluorescence, respectively.
+0	NA	NA	NA	FIG	Nuclei were stained by 4',6-diamidino-2-phenylindole, showing blue fluorescence.
+0	NA	SLC38A7	NA	FIG	SLC38A7 protein, either overexpressed in HEK293T cells or endogenously expressed in Caco2 cells, displayed plasma membrane and cytosol localization.
+0	NA	ALPPL2	NA	FIG	Overexpressed ALPPL2 localized to the plasma membrane in HEK293T cells.
+0	NA	ALPPL2	NA	FIG	No endogenous ALPPL2 protein was detected in Caco2 cells.
+0	NA	NA	NA	FIG	The cells were not permeabilized by Triton X-100
+0	NA	SLC38A7	NA	RESULTS	To test the hypothesis that SLC38A7 and/or ALPPL2 might influence anastrozole cellular uptake, both proteins were overexpressed, separately and together, in HEK293T cells.
+0	NA	NA	NA	RESULTS	The cells were then exposed to anastrozole.
+0	NA	SLC38A7	NA	RESULTS	Compared with cells transfected with empty vector, anastrozole concentrations in lysates from cells overexpressing SLC38A7 were significantly elevated after 60 and 90 minutes of incubation (Figure  5a), indicating anastrozole uptake by the cells.
+0	NA	ALPPL2	NA	RESULTS	However, overexpression (OE) of ALPPL2 together with SLC38A7 prevented anastrozole uptake (Figure  5a), probably because of decreased SLC38A7 protein expression when SLC38A7 and ALPPL2 were co-overexpressed together when compared with SLC38A7 transfection alone (Figure  5b).
+0	NA	SLC38A7	NA	RESULTS	These results were compatible with the conclusion that SLC38A7 is an inward transporter for anastrozole and that cotransfection with ALPPL2 decreased the expression of SLC38A7 and, thus, the inward transport of anastrozole.
+0	NA	SLC38A7	NA	RESULTS	These results were also compatible with the GWAS observation that minor alleles for both the SLC38A7 and ALPPL2 SNPs were associated with increased plasma anastrozole concentrations, as well as the directionality of expression associated with minor alleles for these two genes, which, as stated earlier, are opposite in direction.
+0	NA	SLC38A7	NA	RESULTS	Specifically, the minor allele for the SLC38A7 SNP was associated with increased SLC38A7 expression, but the minor allele for the ALPPL2 SNP was associated with decreased ALPPL2 expression.
+0	NA	NA	NA	RESULTS	We next turned our attention to possible mechanisms that might explain the epistatic interaction between the two loci identified by our GWAS
+0	NA	SLC38A7	NA	FIG	Effect of SLC38A7 and ALPPL2 on anastrozole uptake.
+0	NA	SLC38A7	NA	FIG	(a) Results for anastrozole uptake assays in HEK293T cells after the overexpression (OE) of SLC38A7, ALPPL2, or both after treatment with 50 muM anastrozole.
+0	NA	NA	NA	FIG	Values are mean +- SD; N = 5; * P < 0.05, ***P < 0.001.
+0	NA	SLC38A7	NA	FIG	(b) Western blots after the OE of either SLC38A7, ALPPL2, or both together in HEK293T cells.
+0	NA	NA	NA	FIG	EV, empty vector
+0	NA	SLC38A7	rs28845026	RESULTS	We began our functional genomic studies of interaction between these two loci by testing the hypothesis that SLC38A7 gene expression might be correlated with the expression of one or more of the genes for which the rs28845026 SNP on chromosome 2 was an eQTL:having already shown that OE of ALPPL2 could result in decreased expression of SLC38A7 protein based on the Western blot data shown in Figure  5b.
+0	NA	SLC38A7	NA	RESULTS	As a first step, we knocked down (KD) SLC38A7 in Caco2 cells.
+0	NA	SLC38A7	rs28845026	RESULTS	KD of SLC38A7 had no effect on the expression of mRNA for genes in the gene cluster surrounding the chromosome 2 rs28845026 SNP (Figure  6a), whereas KD of ECEL1, NPPC, and ALPP all resulted in either no significant change or increased expression of SLC38A7 mRNA, and OE of ALPP and ALPPL2 resulted in significant decreases of SLC38A7 expression at the mRNA level (Figure  6b).
+0	NA	ALPPL2	NA	RESULTS	Because of its low level of expression, it was not possible to KD ALPPL2 in these cells, but we were able to overexpress ALPPL2 in Caco2 cells, and we observed significant downregulation of the expression of both SLC38A7 mRNA and protein after the OE of ALPPL2 (Figure  6b,c).
+0	NA	ALPPL2	NA	RESULTS	As mentioned previously, ALPPL2 and ALPP are 98% identical in their amino acid sequences, which may explain the decrease in SLC38A7 mRNA expression after OE of both ALPPL2 and ALPP in Caco2 cells (Figure  6b).
+0	NA	ALPPL2	NA	RESULTS	However, only ALPPL2 is expressed in the gut, and the chromosome 2 SNP is an eQTL for ALPPL2 but not for ALPP.
+0	NA	ALPPL2	NA	RESULTS	Therefore, ALPPL2 is the most likely candidate among the chromosome 2 genes to influence the variation in plasma anastrozole concentration that we studied with our GWAS.
+0	NA	ALPPL2	NA	RESULTS	In summary, these experiments suggested that ALPPL2 might influence plasma anastrozole concentrations through an effect on SLC38A7 expression
+0	NA	SLC38A7	NA	FIG	 SLC38A7 and ALPPL2 interaction studies in Caco2 cells.
+0	NA	SLC38A7	NA	FIG	(a) The mRNA levels for SLC38A7 and genes near the chromosome 2 single-nucleotide polymorphism (SNP) signal (ECEL1,NPPC,ALPP, and ALPPL2) after the knockdown (KD) of SLC38A7 by siRNA transfection are shown.
+0	NA	SLC38A7	NA	FIG	None of the chromosome 2 gene mRNA levels were affected after SLC38A7 KD in Caco2 cells.
+0	NA	SLC38A7	NA	FIG	(b) Levels of SLC38A7 mRNA expression after the KD of the chromosome 2 genes and the overexpression (OE) of ALPP and ALPPL2 in Caco2 cells.
+0	NA	NA	NA	FIG	Expression levels were normalized to controls for KD and OE, which are indicated by the dashed line.
+0	NA	SLC38A7	NA	FIG	(c) SLC38A7 protein levels after ALPPL2 OE are shown by Western blot assay.
+0	NA	NA	NA	FIG	**P < 0.05, ***P < 0.001 in triplicate experiments.
+0	NA	NA	NA	FIG	EV, empty vector
+0	breast cancer	NA	NA	DISCUSS	Our GWAS for plasma anastrozole concentrations in postmenopausal women with ER+ breast cancer yielded two major SNP signals.
+0	NA	SLC38A7	NA	DISCUSS	The first was genome-wide significant and mapped across SLC38A7 on chromosome 16.
+1	NA	SLC38A7	rs11648166	DISCUSS	The minor allele for the top SNP, rs11648166, was associated with increased plasma anastrozole concentrations and with increased SLC38A7 expression in several tissues.11 SLC38A7 had been reported to encode a polar amino acid influx transporter but, prior to the present studies, had not been reported to transport drugs.
+0	NA	NA	NA	DISCUSS	Anastrozole is a hydrophilic compound and, as a result, likely requires transport into cells.
+0	NA	NA	NA	DISCUSS	However, to date, no anastrozole transporter has been reported.
+0	NA	SLC38A7	NA	DISCUSS	We have demonstrated that SLC38A7 can mediate the transport of anastrozole across the plasma membrane (Figure  5a).
+0	NA	SLC38A7	NA	DISCUSS	In addition, we showed by IF assay that SLC38A7 is localized to the plasma membrane after OE in HEK293T cells (Figure  4a)
+0	NA	NA	NA	DISCUSS	The second GWAS signal mapped to an intergenic region on chromosome 2 in the midst of a cluster of genes.
+0	NA	NA	rs28845026	DISCUSS	Like the chromosome 16 signal, the minor allele for the top SNP, rs28845026, was associated with increased plasma anastrozole concentrations.
+0	NA	ALPP	NA	DISCUSS	This SNP mapped 5' of the ALPP and ALPPL2 genes (Figure  1c), genes that encode two alkaline phosphatase isozymes that are 98% identical in amino acid sequence.
+0	NA	ALPPL2	NA	DISCUSS	However, only ALPPL2 has been shown to be expressed in the gut where it might influence the absorption of an orally administered drug.
+0	NA	ALPPL2	rs28845026	DISCUSS	The rs28845026 SNP is an eQTL for ALPPL2 in the colon based on GTEx data.
+0	NA	ALPPL2	NA	DISCUSS	Unfortunately, the number of small intestinal samples that express ALPPL2 in GTEx was too small to perform eQTL analysis.
+0	NA	ALPPL2	rs28845026	DISCUSS	The minor allele for the rs28845026 SNP is associated with increased plasma anastrozole concentration and with decreased ALPPL2 expression in the colon.14 Our functional studies of ALPPL2 showed that OE of ALPPL2 decreased expression of SLC38A7 and anastrozole uptake by cells (Figure  5), a result consistent with our GWAS observations.
+0	NA	ALPPL2	NA	DISCUSS	"In addition to ALPPL2, the ALPI gene, which encodes ""alkaline phosphatase, intestinal,"" is highly expressed in the small intestine."
+0	NA	ALPI	NA	DISCUSS	The ALPI gene, which is not shown in Figure  1c, maps 45.4 kb downstream of the ALPPL2 gene.
+0	NA	ALPI	rs28845026	DISCUSS	However, the rs28845026 SNP is not an eQTL for ALPI expression in any of the tissues included in the GTEx data.
+0	NA	ALPI	NA	DISCUSS	Therefore, ALPI is unlikely to influence the variation in plasma anastrozole concentrations that we studied in our GWAS
+0	NA	NA	NA	DISCUSS	Our analysis also revealed a significant interaction between the chromosome 16 and the chromosome 2 top SNPs.
+0	NA	NA	NA	DISCUSS	That is, the effect of one of these alleles on anastrozole concentration differed across genotypes for the other allele.
+0	NA	SLC38A7	NA	DISCUSS	That statistical observation raised the possibility of a functional relationship between SLC38A7 and ALPPL2, a hypothesis that was supported by our demonstration that OE of ALPPL2 decreased the expression of SLC38A7 (Figures  5 and 6).
+0	NA	NA	NA	DISCUSS	According to our interaction model, individuals homozygous for the minor allele for both SNPs were expected to have the highest mean anastrozole concentrations, whereas those homozygous for the major alleles would have the lowest anastrozole concentrations.
+0	NA	SLC38A7	NA	DISCUSS	We concluded that subjects homozygous for both allele genotypes displayed the highest overall SLC38A7 expression due, at least in part, to low ALPPL2 expression, and this fact explained why this group of women displayed the highest anastrozole plasma concentrations.
+0	NA	ALPPL2	NA	DISCUSS	Future studies will obviously be required to fully elucidate the mechanism(s) underlying the effect of ALPPL2 on SLC38A7 mRNA and protein expression
+0	breast cancer	NA	NA	DISCUSS	In summary, we have performed a GWAS for plasma anastrozole concentrations in postmenopausal women with ER+ breast cancer.
+0	NA	SLC38A7	NA	DISCUSS	That GWAS resulted in the discovery of a novel anastrozole plasma membrane transporter, SLC38A7, as well as an epistatic relationship between the two top SNP signals:that near the SLC38A7 gene on chromosome 16 and that near the ALPPL2 gene on chromosome 2.
+0	NA	SLC38A7	NA	DISCUSS	Functional studies supported a chromosome 2 SNP by chromosome 16 SNP effect on SLC38A7 expression and showed that ALPPL2 influenced the expression and the anastrozole transport activity of SLC38A7.
+0	breast cancer	NA	NA	DISCUSS	This series of observations, beyond their implications for the possible individualization of clinical dosing of anastrozole, an extremely important drug for the adjuvant treatment of ER+ breast cancer, also serve to emphasize the potentially important role of epistasis as a pharmacogenomic mechanism
+0	breast cancer	NA	NA	METHODS	Postmenopausal patients with resected early stage ER+ breast cancer were recruited from the Mayo Clinic, MD Anderson Cancer Center, and Memorial Sloan Kettering Cancer Center as part of the National Institute of General Medical Sciences-funded PGRN Aromatase Inhibitor Pharmacogenomics Trial (Mayo-MDA-MSK).
+0	NA	NA	NA	METHODS	See previous publications8, 9, 20 for a detailed description.
+0	NA	NA	NA	METHODS	All patients received the standard clinically approved dose of anastrozole of 1 mg/day.
+0	NA	NA	NA	METHODS	At least 4 weeks after the initiation of therapy, blood was drawn from each patient to assay anastrozole and anastrozole metabolite concentrations.
+0	NA	E*2	NA	METHODS	Anastrozole reaches steady state in ~ 7 days.21 Prior to the initiation of therapy, blood samples were drawn from each patient to extract DNA to genotype ~ 600K SNPs using the Ilumina 610 Quad and to quantitate pretreatment plasma E2 and E1 concentrations by gas chromatography-tandem mass spectroscopy.
+0	NA	E1	NA	METHODS	Details with regard to the liquid chromatography-tandem mass spectrometry quantification of plasma anastrozole concentrations and the gas chromatography-tandem mass spectroscopy quantification of plasma E1 and E2 concentrations can be found in Ingle et al.8 The lower limit of quantitation for anastrozole was 100 pg/mL, for E1 was 1.56 pg/mL, and for E2 was 0.625 pg/mL.
+0	NA	NA	NA	METHODS	This trial was performed after approval by local institutional review boards in accordance with assurances filed with and approved by the US Department of Health and Human Services.
+0	NA	NA	NA	METHODS	Written informed consent was provided by each patient before entry on study.
+0	NA	NA	NA	METHODS	See Table S1 for patient characteristics
+0	NA	NA	NA	METHODS	Only patients known to be compliant to drug therapy were included in the GWAS.
+0	NA	NA	NA	METHODS	Therefore, subjects with undetectable levels of anastrozole as well as all assayed anastrozole metabolites (anastrozole glucuronide, hydroxyl-anastrozole, and hydroxyl-anastrozole glucuronide) were excluded from the analysis.
+0	NA	NA	NA	METHODS	An additional three extreme outliers subjects were excluded who had anastrozole metabolite concentrations greater than 6 SDs above the mean.
+0	NA	NA	NA	METHODS	A total of 687 women remained for the final analysis.
+0	NA	NA	NA	METHODS	The distribution of anastrozole concentrations was right skewed, so a Van der Waerden22 transformation was applied to render the distribution normal.
+0	NA	NA	NA	METHODS	We used both simple and multiple linear regression models to identify clinical and demographic variables that were associated with anastrozole concentrations.
+0	NA	NA	NA	METHODS	For the GWAS analysis, we used a linear regression model with additive SNP effects, with European Ancestry captured by the first and second eigenvectors from a principal components analysis.
+0	NA	NA	NA	METHODS	The top two independent SNP signals from the GWAS were also assessed for a possible SNP-SNP interaction.
+0	NA	NA	NA	METHODS	Linear regression models and both line and bar plots were used to assess this relationship.
+0	NA	NA	NA	METHODS	All analyses were performed using R statistical computing software (version 3.0.2; https://www.r-project.org/) and Plink (version 1.07; http://zzz.bwh.harvard.edu/plink/).23
+0	NA	NA	NA	METHODS	To determine whether anastrozole plasma concentrations were associated with absolute E2 or E1 concentrations while patients were on treatment, we used data from the Mayo-MDA-MSK cohort.
+0	NA	E1	NA	METHODS	Specifically, we dichotomized E1 and E2 into subjects with undetectable levels (controls) of the hormone vs. those with detectable levels (cases) and used logistic regression models to test the association of anastrozole concentrations with this phenotype.
+0	NA	E*2	NA	METHODS	We ran both crude models and those with baseline E1 or E2, body mass index, and recruitment site as covariates.
+0	NA	E*2	NA	METHODS	In those models, we adjusted for baseline E1 or E2, body mass index, and recruitment site
+0	NA	NA	NA	METHODS	HEK293T cells (ATCC, CRL-3216) were cultured and transfected with SLC38A7 and ALPPL2 cDNA plasmids (OriGene Technologies, Rockville, MD) separately and were also cotransfected with both cDNA plasmids using the Lipofectamine 3000 Reagent (Thermo Fisher Scientific, Waltham, MA).
+0	NA	NA	NA	METHODS	After 24 hours, cells for each cDNA transfection were split into several 60-mm plates and were incubated for an additional 24 hours for anastrozole transport assays.
+0	NA	SLC38A7	NA	METHODS	A small aliquot of SLC38A7 and ALPPL2 cDNA plasmid cotransfected cells were seeded into CultureWell Chambered Coverglass (Thermo Fisher Scientific) for IF study.
+0	NA	NA	NA	METHODS	To confirm the efficiency of OE, one plate of cells for each transfection was collected for protein analysis by Western blot (see Supplementary Methods  S1  for additional details)
+0	NA	NA	C for 48	METHODS	Anastrozole transport assays were modified based on previous studies.24, 25 Specifically, 48 hours after cDNA plasmid transfection, cells were washed once with warm Hank's Balanced Salt Solution (HBSS) buffer (HBSS buffered with 25 mM 4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid at pH 7.4) and were then preincubated with fresh HBSS buffer at 37 C for 30 minutes.
+0	NA	NA	NA	METHODS	After preincubation, cells were incubated in fresh HBSS buffer with 50 muM of anastrozole (Sigma-Aldrich, St. Louis, MO) for 30, 60, or 90 minutes.
+0	NA	NA	NA	METHODS	To terminate drug transport, cells were washed three times with ice-cold HBSS buffer and were then scrubbed and moved to a 15-mL centrifuge tube.
+0	NA	NA	C for 48	METHODS	Cell numbers were counted by using a TC10 Automated Cell Counter (Bio-Rad, Hercules, CA), and the cells were collected by centrifugation at 100g, 4 C for 10 minutes.
+0	NA	NA	NA	METHODS	Cell pellets were stored at -80 C prior to anastrozole analysis
+0	NA	NA	NA	METHODS	Anastrozole uptake by cells was quantified by liquid chromatography-tandem mass spectrometry assay.
+0	NA	NA	NA	METHODS	Specifically, cell pellets were reconstituted with 25 muL of deionized/distilled water and lysed by water-bath sonication for 10 minutes and 5 freeze and thaw cycles.
+0	NA	NA	NA	METHODS	Anastrozole in the cell lysates was extracted by adding 50 muL of acetonitrile containing 100 ng/mL of anastrozole-d12 (deuterated; Toronto Research Chemicals, Ontario, Canada) as an internal standard.
+0	NA	NA	NA	METHODS	Samples were vortexed and centrifuged at 14,000g for 10 minutes.
+0	multifactorial disease	NA	NA	METHODS	Five microliters of supernatant were injected into an ACQUITY UPLC H-Class System coupled with a Quattro Micro Mass Spectrometer fitted with an electrospray ionization probe (Waters Corporation, Milford, MA) for anastrozole quantification.
+0	NA	NA	NA	METHODS	Anastrozole and anastrozole-d12 were separated by a Waters X Select HSS T3 column (2.1 x 100 mm, XP, 2.5 mum; Waters Corporation) with isocratic elution utilizing the following profile: 55% water (0.1% formic acid), 45% acetonitrile (0.1% formic acid), and 5% methanol (0.1% formic acid) at 0.2 mL/minute flow rate.
+0	NA	NA	NA	METHODS	Anastrozole detection was accomplished by using multiple reaction monitoring in positive ESI MODE with a parent ion of 294.1 m/z, daughter ion of 225.3 m/z, and anastrozole-d12 was detected with a parent ion of 306.03 m/z and daughter ion of 237.36 m/z (see Supplementary Methods  S1  for details)
+0	cancers	NA	NA	ACK_FUND	This study was supported by National Institutes of Health (NIH) grants U19 GM61388 (the Pharmacogenomics Research Network), R01 GM28157, U54 GM114838, and R01 GM125633; the NIH/National Cancer Institute (NCI) Breast SPORE grant P50 CA116201; the Breast Cancer Research Foundation grant BCRF#39B; the Mayo Cancer Center Support grant CA 15083; and in part through the NIH/NCI Cancer Center Support Grant P30 CA008748
+0	NA	NA	NA	COMP_INT	R.M.W.
+0	NA	NA	NA	COMP_INT	and L.W.
+0	NA	NA	NA	COMP_INT	are co-founders and stockholders in OneOme LLC, a pharmacogenomic decision support company.
+0	NA	NA	NA	COMP_INT	M.E.R.
+0	NA	NA	NA	COMP_INT	provides advisory or consulting to AstraZeneca, Pfizer, and McKesson, and he receives honoraria from AstraZeneca and Pfizer.
+0	NA	NA	NA	COMP_INT	He receives travel and accommodation expenses from AstraZeneca.
+0	NA	NA	NA	COMP_INT	He also receives research funding from the AstraZeneca (institution), Myriad (institution, in-kind), Invitae (institution, in-kind), Pfizer (institution), AbbVie (institution), Tesaro (institution), and Medivation.
+0	NA	NA	NA	COMP_INT	M.P.G.
+0	NA	NA	NA	COMP_INT	consults for Eli Lilly & Co and Novartis, and he receives research support from Eli Lilly & Co and Pfizer.
+0	NA	NA	NA	COMP_INT	A.M.-A.
+0	NA	NA	NA	COMP_INT	is a stockholder in Merrimack Pharmaceuticals.
+0	NA	NA	NA	COMP_INT	The other authors have no disclosure
+0	NA	NA	NA	AUTH_CONT	T.M.D., D.L., J.C., S.D., Y.Z., and R.M.W.
+0	NA	NA	NA	AUTH_CONT	wrote the manuscript.
+0	NA	NA	NA	AUTH_CONT	J.N.I., M.K., L.W., and R.M.W.
+0	NA	NA	NA	AUTH_CONT	designed the research.
+0	NA	NA	NA	AUTH_CONT	T.M.D., D.L., J.C., S.D., Y.Z., M.K., and Z.D.
+0	NA	NA	NA	AUTH_CONT	performed the research.
+0	NA	NA	NA	AUTH_CONT	T.M.D., D.L., J.C., S.D., Y.Z., A.B., G.D.J., E.E.C., P.B., J.M.R., K.R.K., J.N.I., L.W., and R.M.W.
+0	NA	NA	NA	AUTH_CONT	analyzed the data.
+0	NA	NA	NA	AUTH_CONT	J.N.I., A.U.B., M.E.R., M.P.G., D.W.N., and A.M.-A.
+0	NA	NA	NA	AUTH_CONT	contributed new reagents/analytical tools
