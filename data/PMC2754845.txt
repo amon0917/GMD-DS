@@ -1,0 +1,112 @@
+0	breast cancer	NA	NA	ABSTRACT	A genome-wide association study was conducted among Chinese women to identify risk variants for breast cancer.
+0	NA	NA	NA	ABSTRACT	By analyzing 607,728 SNPs in 1505 cases and 1522 controls, we selected 29 promising SNPs for a fast-track replication in an independent set of 1554 cases and 1576 controls.
+0	NA	NA	NA	ABSTRACT	Four replicated loci were further investigated in a third set of samples including 3472 cases and 900 controls.
+0	breast cancer	ER	rs2046210	ABSTRACT	SNP rs2046210 at 6q25.1, located upstream of the estrogen receptor 1 gene (ESR1), exhibited strong and consistent association with breast cancer across all three stages.
+0	NA	NA	A/G	ABSTRACT	Adjusted odds ratio (95% CI) were 1.36 (1.24-1.49) and 1.59 (1.40-1.82), respectively, for genotypes A/G and A/A versus G/G (P for trend, 2.0x10-15) in the pooled analysis of samples from all three stages.
+0	NA	NA	NA	ABSTRACT	A similar, although weaker, association was also found in an independent study including 1591 cases and 1466 controls of European ancestry (Ptrend, 0.01).
+0	breast cancer	NA	NA	ABSTRACT	These results provide strong evidence implicating 6q25.1 as a susceptibility locus for breast cancer
+0	breast cancer	NA	NA	INTRO	Breast cancer, a complex multifactorial disease, is one of the most common malignancies among women in the world.
+0	breast cancer	NA	NA	INTRO	Genetic factors play an important role in the pathogenesis of both sporadic and familial breast cancer.
+0	breast cancer	BRCA1	NA	INTRO	However, only a small fraction of breast cancer cases can be explained by the breast cancer susceptibility genes identified thus far, such as the BRCA1 and BRCA2 genes.
+0	genetic diseases	NA	NA	INTRO	Family-based linkage studies have been successful in mapping genes associated with Mendelian disorders.
+0	NA	NA	NA	INTRO	However, this approach has had limited success in identifying common genetic variants that confer small to moderate risk of disease susceptibility.
+0	breast cancer	NA	NA	INTRO	Over the past 15 years, a large number of association studies have evaluated genetic variants in many candidate genes in relation to breast cancer risk.
+0	NA	NA	NA	INTRO	Although numerous genetic variants have been implicated, only a few of them have been replicated in subsequent studies.
+0	breast cancer	NA	NA	INTRO	Four recent GWA studies have identified several novel risk alleles for breast cancer.
+0	NA	NA	NA	INTRO	All these studies, however, are conducted in women of European decent who differ from women of other ethnic groups in certain genetic architecture.
+0	breast cancer	NA	NA	INTRO	Therefore, additional GWA studies, particularly those conducted in non-European decent population, are needed to fully uncover genetic basis for breast cancer susceptibility
+0	cancers	NA	NA	INTRO	Since 1996 we have initiated multiple population-based epidemiologic studies of cancer in Shanghai, China, including the Shanghai Breast Cancer Study (SBCS) (see Supplementary Methods).
+0	breast cancer	NA	NA	INTRO	Included in Stages I to III of the current GWA study were genomic DNA samples from 6,531 incident breast cancer cases and 3,998 community controls who participated in these studies (Table 1).
+0	NA	NA	NA	INTRO	The pilot phase of the GWA study was initiated in 2005 with 150 cases and 150 controls genotyped using the Affymetrix GeneChip Human Mapping 500K Array Set that contains approximately 500,000 SNPs.
+0	NA	NA	NA	INTRO	An additional 1,374 cases and 1,402 controls were genotyped in 2008 using the Affymetrix Genome-Wide Human SNP Array 6.0 that contains 906,602 SNPs.
+0	NA	NA	NA	INTRO	Cases and controls were matched on age.
+0	NA	NA	NA	INTRO	Included in the current analysis were 607,728 SNPs in the Affymetrix SNP array 6.0 and 330,885 SNPs in the Affymetrix 500K array set that met the following criteria: 1) >= 5% minor allele frequency (MAF), 2) >= 95% call rate, 3) >= 95% genotyping concordance rate in quality control (QC) samples, and additionally for SNPs in the Affymetrix 500K arrays only those that are also present in the Affymetrix 6.0 array (Supplementary Table S1).
+0	NA	NA	NA	INTRO	Of the initial 3,076 samples included in the GWA scan, 49 samples were excluded, due to < 95% call rate (n = 4), or sample duplication or contamination (n = 45).
+0	NA	NA	NA	INTRO	A total of 1,505 cases and 1,522 controls remained for the GWA analyses.
+0	NA	NA	NA	INTRO	Multidimensional scaling analyses based on pairwise identity-by-state showed no evidence of apparent genetic admixture in this study population (Supplementary Figure S1)
+0	breast cancer	NA	NA	INTRO	Multiple genomic locations were revealed as potentially related to breast cancer risk (Figure 1), and the observed number of SNPs with a small P-value is larger than that expected by chance (Supplementary Figure S2).
+0	NA	NA	NA	INTRO	Similar results were obtained after excluding the 292 subjects genotyped by Affymetrix 500K Array Set from the analyses (data not shown).
+0	NA	NA	NA	INTRO	P-values presented in Figure 1 are derived from trend tests using logistic regression (df = 1) after adjusting for age.
+0	breast cancer	NA	NA	INTRO	Six of the 11 SNPs identified from published GWA studies are included in the Affymetrix 6.0 array, and four of them showed an association with breast cancer risk consistent with that reported previously (Supplementary Table S2).
+0	breast cancer	FGFR2	rs1219648	INTRO	Specifically, elevated risk of breast cancer was found to be associated with the minor allele of rs1219648 (FGFR2, Ptrend=0.0025), rs2981582 (FGFR2, Ptrend=0.001), rs3803662 (TNRC9, Ptrend=0.012), and rs8051542 (TNRC9, Ptrend=0.098).
+0	NA	LSP1	rs3817198	INTRO	No apparent association, however, was found for rs3817198 (LSP1, Ptrend=0.75), and the association with rs2180341 (6q22.33, Ptrend=0.068) was in the opposite direction of the one reported initially in a study based on the Ashkenazi Jewish population
+0	NA	NA	NA	INTRO	For our fast track replication, 29 most promising SNPs were genotyped in an independent set of 1,554 cases and 1,576 controls recruited in the SBCS.
+0	breast cancer	NA	NA	INTRO	These SNPs were selected from those that had 1) MAF >= 10%; 2) very clear genotyping clusters; 3) not yet confirmed previously as a genetic risk variant for breast cancer; and 4) P <= 1 x 10-4 for all samples along with a consistent association at P <= 0.05 in samples analyzed in the first batch (754 cases/741 controls) and the second batch (751 cases/781 controls) or P <= 5 x 10-4 for all subjects and consistent association at P <= 0.01 in both batches
+0	breast cancer	NA	NA	INTRO	Of the 29 SNPs included in fast-track replication (Supplementary Table S3), four SNPs in stage II showed a significant association with breast cancer risk at P <= 0.05 and the fifth one had a P-value of 0.077 (Table 2).
+0	breast cancer	NA	rs2046210	INTRO	A highly significant association with breast cancer risk was identified for rs2046210 (P = 3.9 x 10-5) and rs10872676 (P = 1.6 x 10-3).
+0	NA	NA	NA	INTRO	Both SNPs are located at 6q25.1, approximately 4.4 kb apart, showing a high degree of LD (r2 = 0.69).
+0	breast cancer	NA	rs2046210	INTRO	Therefore, rs2046210 was selected for further validation, as rs10872676 showed a weaker association with breast cancer risk than rs2046210, and its association was not statistically significant after adjusting for rs2046210
+0	breast cancer	NA	NA	INTRO	Four SNPs were further evaluated in Stage III (Table 2), which included 3,472 cases who were recruited during 2002 and 2006 as part of the Shanghai Breast Cancer Survivor Study (SBCSS), along with 900 healthy women recruited from the same source population as the control group for a population-based endometrial cancer study that was conducted in parallel with the SBCS.
+0	breast cancer	NA	rs2046210	INTRO	Again, rs2046210 was associated with breast cancer risk (P = 3.3 x 10-7) (Table 2), and the P-value reached 2.0 x 10-15 in the pooled analysis of samples from all three stages (Table 3).
+0	breast cancer	NA	NA	INTRO	This p-value is substantially lower than the genome-wide significance level based on conservative Bonferroni adjustment of multiple comparisons at a level alpha = 0.05, providing unequivocal evidence for an association of this SNP with breast cancer risk.
+0	breast cancer	NA	NA	INTRO	This SNP was associated with a population attributable risk (PAR) of 18.9% and an estimated 2.1% excess familial risk of breast cancer.
+0	breast cancer	NA	NA	INTRO	The positive association of this SNP with breast cancer risk was found for both pre- and post-menopausal women, and the association was stronger for ER negative cancer than ER positive cancer (P=0.02) (Table 3).
+0	NA	NA	NA	INTRO	None of the other three SNPs, however, were replicated in Stage III (Table 2)
+0	NA	NA	rs2046210	INTRO	Figure 2 shows the 6q25.1 locus where rs2046210 is located.
+0	breast cancer	NA	rs2046210	INTRO	A cluster of SNPs that are in strong LD with rs2046210 all showed a significant association with breast cancer risk with P <= 0.001 in Stage I.
+0	NA	NA	rs2046210	INTRO	Using data from Stage I, haplotype analyses of a haplotype block including rs2046210 and other 7 SNPs as defined by the method of Gabriel or a larger block including 7 additional SNPs failed to identify any particular SNP that may explain the observed association in this locus (Supplementary Table S4)
+0	breast cancer	NA	rs2046210	INTRO	We also evaluated SNP rs2046210 in association with breast cancer risk among 1,590 cases and 1,466 controls of European ancestry, recruited as part of the Nashville Breast Health Study (NBHS), a population based case-control study conducted in Tennessee, USA (Table 1).
+0	breast cancer	NA	NA	INTRO	Consistent with the findings from the Shanghai studies, the variant allele of this SNP was associated with an elevated risk of breast cancer, and the association was stronger in post- than pre-menopausal women (Table 4)
+1	NA	PLEKHG1	rs2046210	INTRO	Several genes are located in the 1 Mb region centered on SNP rs2046210 including PLEKHG1, MTHFD1L, AKAP12, ZBTB2, RMND1, C6orf211, C6orf97, ESR1, C6orf98, SYNE1, and NANOGP11.
+0	prostate carcinogenesis	ER	NA	INTRO	Of them, the ESR1 gene is perhaps of particular interest to breast carcinogenesis.
+0	breast cancer	ER	NA	INTRO	The ESR1 gene encodes estrogen receptor alpha (ERalpha) that regulates signal transduction of estrogen, a sex hormone that plays a central role in the etiology of breast cancer.
+0	breast cancer	NA	NA	INTRO	Elevated estrogen levels have been shown to be associated with an increased risk of breast cancer in multiple prospective studies.
+0	NA	ER	NA	INTRO	Since biological effects of estrogen are mediated primarily through high-affinity binding to ERs, genetic variants in ER genes, including ESR1 and ESR2 have been the focus of multiple previous epidemiologic studies.
+0	breast cancer	ER	rs2046210	INTRO	The identified SNP (rs2046210) associated with breast cancer risk is located 29 kb upstream of the first untranslated exon and 180 kb upstream of the transcription start site of exon 1 of the ESR1 gene.
+0	breast cancer	ER	rs2234693	INTRO	None of the SNPs at this locus has been previously reported to be associated with breast cancer, nor in LD with two of the most widely studied polymorphisms in ESR1: rs2234693 and rs9340799 (r2<0.05 in both HapMap Asian and women of European decent samples).
+0	breast cancer	NA	rs2234693	INTRO	SNP rs2234693 was genotyped in Stage I of the study and carried an OR (95% CI) of 0.95 (0.80-1.12) for C/T and 0.79 (0.63-1.00) for T/T genotype in relation to breast cancer risk.
+0	breast cancer	ER	rs2046210	INTRO	Because of the relatively close location to the ESR1 gene and the biological function of ERalpha, it is possible that rs2046210 or SNPs in LD with it may alter ESR1 gene expression and affect susceptibility to breast cancer.
+0	NA	NA	NA	INTRO	It is noteworthy that a recent GWA study has found that the 6q25.1 locus is associated with bone mineral density, a phenotype that is affected by estrogen
+1	NA	C6orf97	rs2046210	INTRO	SNP rs2046210 is located 6 kb downstream of C6orf97, the chromosome 6 open reading frame 97.
+1	NA	C6orf97	NA	INTRO	The function of C6orf97 is unknown.
+1	NA	C6orf97	rs2046210	INTRO	The LD block that includes rs2046210 spans a region of about 41 kb (151,971,942 to 152,013,380) which contains part of C6orf97.
+1	NA	C6orf97	NA	INTRO	By running BLAST with C6orf97 coding peptide as the query sequence, a structural maintenance of chromosomes (SMC) domain was found in the C-terminal of the C6orf97 protein.
+0	NA	NA	NA	INTRO	SMC proteins appear to play an important role in chromosome dynamics.
+1	breast cancer	C6orf97	NA	INTRO	Further research to the functionality of C6orf97 and its potential association with breast cancer may be warranted
+0	NA	NA	NA	METHODS	For detailed descriptions of the component studies see Supplementary Materials.
+0	cancers	NA	NA	METHODS	The study protocol was approved by the Institutional Review Boards of the Vanderbilt University Medical Center, the Shanghai Cancer Institute, the Shanghai Center for Disease Prevention and Control, and Meharry Medical College.
+0	NA	NA	NA	METHODS	Informed consent was obtained from all participants
+0	NA	NA	NA	METHODS	For detailed descriptions of the genotyping and quality control procedures see Supplementary Materials.
+0	NA	NA	NA	METHODS	Briefly, in Stage I, the initial 300 subjects were genotyped using the Affymetrix GeneChip Mapping 500K Array Set and the remaining 2,776 samples were genotyped using the Affymetrix Genome-Wide Human SNP Array 6.0.
+0	NA	NA	NA	METHODS	In each of the 96-well plates genotyped using the Affymetrix SNP 6.0 array, three positive QC samples (NA15510, NA10851, and NA18505) purchased from Coriell Cell Repositories (http://ccr.coreill.org/), and a negative QC sample (water) were included.
+0	NA	NA	NA	METHODS	SNP data obtained from the positive QC samples showed a very high concordance rate of called genotypes based on 79,764,872 comparisons (mean, 99.87%; median, 100%).
+0	NA	NA	NA	METHODS	In addition, 742 SNPs were genotyped using the Affymetrix Target Genotyping System, TaqMan or Sequenom for a subset of subjects included in previous studies.
+0	NA	NA	NA	METHODS	A high concordance rate was also observed between genotypes determined using these platforms and Affymetrix SNP Array 6.0 based on 1,478,383 comparisons (mean, 99.1%; median, 99.8%).
+0	NA	NA	NA	METHODS	Samples with genotyping call rates less than 95% were excluded, and the remaining samples were recalled by using Birdseed v2.
+0	NA	NA	NA	METHODS	The gender of all study samples was confirmed to be female.
+0	NA	NA	NA	METHODS	The identity-by-descent analysis based on identity-by-state was performed to detect first degree cryptic relationships using the PLINK 1.04 (http://pngu.mgh.harvard.edu/purcell/plink/).
+0	NA	NA	NA	METHODS	A final data set included 3,027 individuals and 607,728 markers in the Affymetrix SNP Array 6.0 and 330,885 in the Affymetrix 500K Array Set that met the following criteria: (1) genotype call rate >= 95%; (2) MAF >= 5%; and (3) genotyping concordance rate in QC samples >= 95%.
+0	NA	NA	NA	METHODS	Also excluded from the analyses were 21,223 SNPs that are on Affymetrix 500K Array Set but not on the SNP Array 6.0
+0	NA	NA	NA	METHODS	Genotyping for the replication sets was completed using the iPLEXtm Sequenom MassArray  platform.
+0	NA	NA	NA	METHODS	Included in each 96-well plate as QC samples were two negative controls (water), two blinded duplicates, and two samples included in the HapMap project.
+0	NA	NA	NA	METHODS	The mean concordance rate was 99.7% for blind duplicates (2,572 comparisons) and 99.2% for HapMap samples (1,751 comparisons)
+0	NA	NA	NA	METHODS	The PLINK version 1.04 was used to analyze genome-wide data obtained in Stage I.
+0	NA	NA	NA	METHODS	A set of 4,305 SNPs with MAF >= 0.35 and >= 100 kb between two adjacent SNPs was selected to evaluate the population structure.
+0	NA	NA	NA	METHODS	The inflation factor lambda was estimated to be 1.024, suggesting that population substructure, if present, should not have any appreciable effect on the results.
+0	NA	NA	NA	METHODS	Odds ratios (OR) and 95% confidence intervals (CI) were estimated from logistic regression analysis.
+0	NA	NA	NA	METHODS	Age was adjusted in the GWA analyses of Stage I data to select promising SNPs.
+0	NA	NA	NA	METHODS	Additional adjustment was made for education in the analyses of Stages II and III data.
+0	NA	NA	NA	METHODS	Finally, multivariate analyses including age, education, study stage, body mass index, age at menarche, and age at first live birth were performed in the pooled analyses of data from all stages.
+0	NA	NA	NA	METHODS	None of the 29 markers genotyped in Stage II showed deviations from Hardy-Weinberg equilibrium (P > 0.05).
+0	NA	NA	NA	METHODS	P-values based on 2-tailed tests are presented
+0	NA	NA	rs2046210	METHODS	Haplotype analyses methods: SNPs genotyped in Stage I in a region of ~100kb containing rs2046210 were used to reconstruct haplotypes.
+0	NA	NA	NA	METHODS	LD between SNPs was assessed by Haploview.
+0	NA	NA	NA	METHODS	Haplotype blocks were defined using the methods of Gabriel et al and 9 blocks were observed (Supplementary Figure S3).
+0	NA	NA	rs2046210	METHODS	Block 5 includes rs2046210 and seven other SNPs, rs7740686, rs7763637, rs9397436, rs9397437, rs6908732, rs852004, and rs865898 (Supplementary Table S4).
+0	breast cancer	NA	NA	METHODS	Associations of haplotypes with breast cancer risk were analyzed with HAPSTAT software based on additive models.
+0	NA	NA	NA	METHODS	Additional analyses were performed for haplotypes defined using SNPs included in blocks 4 and 5 with a total of 15 SNPs (Supplementary Figure S3, Supplementary Table S4)
+0	NA	NA	NA	METHODS	Imputation analysis: We used PLINK to impute genotypes for autosomal SNPs that were present in HapMap Phase II release 23a but not genotyped in our GWA scan.
+0	NA	NA	NA	METHODS	HapMap genotype data from the 90 Asian HapMap subjects that have MAF >= 1% and genotyping rate >= 95% were used as reference.
+0	NA	NA	NA	METHODS	During the imputation, an information score was generated for each imputed SNP that reflected how confidently genotypes were inferred.
+0	NA	NA	NA	METHODS	Values below 0.80 were taken to be indicative of poor quality and were not analyzed.
+0	breast cancer	NA	NA	METHODS	Besides the 0.61 million observed SNPs, an additional 1.14 million imputed SNPs were tested for association with breast cancer
+0	breast cancer	NA	NA	FIG	Genome-wide association results in the Shanghai Breast Cancer Study, Scatter plot of P-values in log-scale from the trend test for 607,728 genotyped SNPs comparing 1,505 cases and 1,522 control
+0	NA	NA	NA	FIG	Regional plot of chromosome 6q25.1 locus.
+0	NA	NA	rs2046210	FIG	Results (-logP) are shown for directly genotyped (diamonds) and imputed (circles) SNPs for the region of 151.5-152.5 Mb, flanking 500kb of SNP rs2046210.
+0	NA	NA	rs2046210	FIG	SNP rs2046210 is shown in blue.
+0	NA	NA	NA	FIG	Gene locations are from the March 2006 UCSC genome browser assembly.
+0	NA	NA	NA	FIG	The lower panel shows estimates of pairwise r2 for common SNPs (with MAF >= 5%) from the HapMap release 23a for the Asian population for the region of 151.9-152.1 Mb, flanking 100 kb of SNP rs2046210
+0	breast cancer	NA	NA	TABLE	Distribution of demographic characteristics and known breast cancer risk factors for cases and controls included in the stud
+0	breast cancer	NA	NA	TABLE	Summary results for five SNPs showing a promising association with breast cancer risk in Stage I
+0	breast cancer	NA	rs2046210	TABLE	Association of rs2046210 with breast cancer risk among Chinese women in the pooled analysis of cases and controls included in all three stages of the Shanghai Studies
+0	breast cancer	NA	rs2046210	TABLE	Association of rs2046210 with breast cancer risk among women of European ancestry in the Nashville Breast Health Study

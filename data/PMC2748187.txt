@@ -1,0 +1,63 @@
+0	lung cancer	NA	NA	ABSTRACT	We carried out a genome-wide association study of lung cancer (3,259 cases and 4,159 controls), followed by replication in 2,899 cases and 5,573 controls.
+1	NA	NA	rs402710	ABSTRACT	Two uncorrelated disease markers at 5p15.33, rs402710 and rs2736100 were detected by the genome-wide data (P = 2 x 10-7 and P = 4 x 10-6) and replicated by the independent study series (P = 7 x 10-5 and P = 0.016).
+1	lung cancer	TERT	NA	ABSTRACT	The susceptibility region contains two genes, TERT and CLPTM1L, suggesting that one or both may have a role in lung cancer etiology
+0	lung cancer	NA	NA	INTRO	We and others have recently reported a susceptibility locus for lung cancer in gene region 15q25, an area that includes a cluster of nicotinic acetylcholine receptor genes.
+0	lung cancer	NA	NA	INTRO	In order to identify further susceptibility gene loci, we genotyped an additional 1,291 cases and 1,561 controls from three further studies (Toronto case-control study, HUNT2/Tromso cohort study and CARET cohort study) for a total of 3,259 cases of lung cancer and 4,159 controls with genome-wide data (Table 1 and Supplementary Methods online).
+0	NA	NA	NA	INTRO	After exclusion of subjects because of genotyping quality or evidence of non-European ancestry (Supplementary Methods and Supplementary Fig.
+0	lung cancer	NA	NA	INTRO	1 online), we analyzed under a log-additive model 315,194 SNPs for 2,971 lung cancer cases and 3,746 controls, adjusting for age, sex and country (Supplementary Fig.
+0	NA	NA	NA	INTRO	2 online).
+0	NA	NA	NA	INTRO	Using principal-component analysis (Supplementary Methods) to adjust for population stratification, we found only minor differences in the estimates of risk and significance (Supplementary Table 1 online)
+0	NA	NA	NA	INTRO	Eight SNPs exceeded the genome-wide significance level of 5 x 10-7 (Supplementary Fig.
+0	NA	NA	NA	INTRO	2b and Supplementary Table 1).
+0	lung cancer	NA	rs1051730	INTRO	Seven of these are located at 15q25.1, the locus previously reported as being associated with lung cancer, with the most prominent association with rs1051730 (P = 1 x 10-15).
+1	lung cancer	NA	rs402710	INTRO	The eighth SNP, rs402710, is located at 5p15.33 (P = 2 x 10-7), indicating a potentially new susceptibility locus for lung cancer.
+0	NA	NA	NA	INTRO	Three additional SNPs in the 5p15.33 region showed evidence of association P < 5 x 10-6 (Supplementary Table 1).
+1	NA	NA	rs31489	INTRO	Two of these, rs31489 and rs401681, were in strong linkage disequilibrium (LD) with rs402710 (r2 > 0.680) in the 3,746 controls genotyped on the Illumina platform.
+1	NA	NA	rs2736100	INTRO	In contrast, rs2736100 showed relatively little LD with rs402710 (r2 = 0.026) (Supplementary Fig.
+0	NA	NA	NA	INTRO	3 online)
+1	lung cancer	NA	rs402710	INTRO	We subsequently genotyped rs402710 and rs2736100 using Taqman in an additional 2,899 lung cancer cases and 5,573 controls from four separate studies (Table 1 and Supplementary Methods).
+1	lung cancer	NA	rs402710	INTRO	These included the EPIC cohort study, the Liverpool case-control study, the Szczecin lung cancer study and, uniquely for rs402710 because of limited DNA availability, additional cases and controls from the CARET cohort study.
+1	NA	NA	rs402710	INTRO	This independent sample provided evidence for replication of the initial finding for both variants (P = 7 x 10-5 for rs402710 and P = 0.016 for rs2736100).
+1	NA	NA	rs402710	INTRO	A combined association using all 5,870 cases and 9,319 controls with correction for the 315,194 comparisons in the genome-wide analysis yielded P values of 4 x 10-6 for rs402710 and 0.02 for rs2736100.
+0	NA	NA	NA	INTRO	The estimated allelic odds ratio (OR) in the replication series was more modest than that of the initial GWA series, subject to the `winner's curse'.
+0	NA	NA	NA	INTRO	The more conservative OR in replication series is the preferred estimate
+1	lung cancer	NA	rs402710	INTRO	More detailed information on the association between lung cancer and the SNPs rs402710 and rs2736100 is presented in Figure 1.
+1	NA	NA	rs402710	INTRO	The risk-associated allele was the more common allele of rs402710 and the less common allele of rs2736100.
+1	NA	NA	rs402710	INTRO	The association with rs402710 was prominent in never-smokers (P = 0.01), ex-smokers (P = 0.0007) and current smokers (P = 0.0001), and there was no evidence of any heterogeneity by study, histology, age or sex.
+1	NA	NA	rs402710	INTRO	There was no apparent geographical heterogeneity in the allele frequencies of rs402710.
+0	NA	NA	NA	INTRO	Adjustment for smoking exposure (pack years) had no effect on the observed association with a smoking-adjusted OR per allele of 1.19 (1.12-1.26).
+1	NA	NA	rs402710	INTRO	We also investigated rs402710 in the context of smoking intensity among controls and did not observe any association between number of cigarettes consumed per day and rs402710 (p = 0.74).
+1	NA	NA	rs2736100	INTRO	The effects observed with rs2736100 were similar, with the associations for the less common (risk) allele being largely comparable to those for rs402710
+1	NA	NA	rs402710	INTRO	Several lines of evidence suggest that the associations observed with rs402710 and rs2736100 are independent.
+1	NA	NA	rs402710	INTRO	We found little LD between rs402710 and rs2736100 using all available controls.
+1	NA	NA	rs402710	INTRO	After incorporation of either one of these SNPs into the logistic regression, the association with the other remained significant, and there was no change in the risk estimate (OR per allele for rs402710 = 1.17 (P = 2 x 10-8) with adjustment for rs2736100 and OR per allele for rs2736100 = 1.11 (P = 0.0004) with adjustment for rs402710).
+1	NA	NA	rs402710	INTRO	Second, when cases and controls were compared for the number of risk alleles for rs402710 and rs2736100, there was an increasing trend with increasing number of risk alleles (P = 2 x 10-13) reaching an OR of 1.65 (1.34-2.02) for those who were homozygous for both risk variants (Supplementary Table 2 online).
+1	lung cancer	NA	rs402710	INTRO	Finally, when we imputed genotypes (Supplementary Methods) at 5p15.33 in the 2,971 cases of lung cancer and 3,746 controls with genome-wide data, we did not identify any SNPs more strongly associated with risk than rs402710 (Supplementary Table 3 online).
+0	NA	NA	NA	INTRO	The top 11 imputed SNPs (P < 0.0001) were genotyped subsequently in the cases and controls of central European ancestry (Supplementary Methods) and comparison of haplotype frequencies from this direct genotyping indicated that the prevalence of two distinct haplotypes differed between cases and controls (Supplementary Table 4 online).
+1	NA	NA	rs402710	INTRO	One haplotype carried the minor allele of rs402710 and eight additional SNPs in high LD (r2 > 0.644) with rs402710, and the second haplotype tagged the minor allele of both rs2736100 and a second SNP rs2736098.
+1	NA	NA	rs402710	INTRO	Nevertheless, the possibility remains that rs402710 and rs2736100, although only weakly associated with each other, are in LD with one or more causal variants in this region
+1	alias CRR9; cleft lip and palate	TERT	NA	INTRO	The 5p15.33 locus contains two known genes: the TERT (human telomerase reverse transcriptase) gene and the CLPTM1L (alias CRR9; cleft lip and palate transmembrane 1 like) gene.
+1	NA	NA	rs2736100	INTRO	There is no clear evidence to suggest that rs2736100 or rs402710 are themselves causative alleles.
+1	NA	TERT	rs2736100	INTRO	The rs2736100 variant is located in intron 1 of TERT, and rs402710 is located in a region of high LD that includes the proximal and putative promoter regions of TERT, as well as the entire coding region of the CLPTM1L gene (Supplementary Fig.
+0	NA	NA	NA	INTRO	3).
+1	NA	TERT	NA	INTRO	Current knowledge of the role of these genes would seem to implicate TERT as the more plausible candidate.
+1	NA	TERT	NA	INTRO	TERT is the reverse transcriptase component of telomerase, making it essential for telomerase enzyme production and maintenance of telomeres.
+0	cancers	NA	NA	INTRO	The telomerase enzyme is responsible for telomere regeneration, and up to 90% of human tumor samples, including lung cancer, show telomerase activity, indicating that regeneration of telomeres is a vital step for most forms of carcinogenesis.
+1	NA	TERT	NA	INTRO	TERT expression is actively present in germ cells, although is found in very low levels for most types of normal cells.
+1	NA	TERT	NA	INTRO	Activation of the TERT promoter seems to be a key step in synthesis of the TERT protein and resulting telomerase activity.
+0	lung cancer	NA	NA	INTRO	Such activity may be measured with the telomeric repeat amplification protocol (TRAP) and has been associated with both lung cancer progression and prognosis.
+1	cancers	TERT	NA	INTRO	Inhibitors of TERT are clearly of much interest for potential chemo-prevention and treatment of cancer, although their development has so far been unsuccessful.
+1	NA	TERT	NA	INTRO	DNA resequencing has shown that there is little common genetic variation in the TERT coding region which, along with its high conservation between species, implies that the gene itself is under strong evolutionary restraint.
+1	dyskeratosis congenita	TERT	NA	INTRO	Rare mutations in the TERT coding sequence have been implicated in dyskeratosis congenita, an autosomal dominant syndrome characterized by bone marrow abnormalities, but also pulmonary fibrosis and increased risk of some cancers
+1	alias CRR9; cleft lip and palate	CLPTM1L	NA	INTRO	The other gene in this region, CLPTM1L, named for its similarity to a gene implicated in susceptibility to cleft lip palate, was identified through screening for cisplatin (CDDP) resistance-related genes and was found to be upregulated in CDDP-resistant ovarian tumor cell lines and to induce apoptosis in CDDP-sensitive cells.
+1	NA	CLPTM1L	NA	INTRO	The CLPTM1L gene is well conserved and expressed in various tissues, including lung tissue.
+1	NA	CLPTM1L	NA	INTRO	On the basis of these properties, it could be hypothesized that CLPTM1L induces apoptosis of lung cells under genotoxic exposures such as tobacco carcinogen-related stress
+1	lung cancer	TERT	NA	INTRO	In summary, we have identified a new susceptibility locus for lung cancer that comprises two potential candidate genes: TERT, an essential component of telomerase production and of carcinogenesis, and CLPTM1L, which may induce apoptosis.
+0	NA	NA	NA	INTRO	The nature of the causative alleles remains unclear.
+0	lung cancer	NA	NA	INTRO	Further studies to identify the causal genetic variants and elucidate their function will aid our understanding of the etiology of lung cancer
+1	lung cancer	NA	rs402710	FIG	Forest plot representing lung cancer risk and the two variants in the 5p region (rs402710 and rs2736100).
+0	NA	NA	NA	FIG	Apart from the odds ratios for heterozygous and homozygous effect (*), odds ratios and 95% confidence intervals are derived from the per-allele model.
+0	NA	NA	NA	FIG	All models are adjusted for age, sex and country.
+0	NA	NA	NA	FIG	The overall OR is shown by the broken vertical line.
+0	NA	NA	NA	FIG	P values are from heterogeneity tests
+0	NA	NA	NA	TABLE	Description of the seven studies contributing to the genome-wide and replication analysi

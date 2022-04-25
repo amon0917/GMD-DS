@@ -1,0 +1,225 @@
+0	Psychotic symptoms	NA	NA	ABSTRACT	Psychotic symptoms occur in approximately 40% of subjects with Alzheimer's disease (AD) and are associated with more rapid cognitive decline and increased functional deficits.
+0	NA	NA	NA	ABSTRACT	They show heritability up to 61% and have been proposed as a marker for a disease subtype suitable for gene mapping efforts.
+0	Psychotic symptoms	NA	NA	ABSTRACT	We undertook a combined analysis of three genome-wide association studies (GWAS) to identify loci that a) increase susceptibility to an AD and subsequent psychotic symptoms; or b) modify risk of psychotic symptoms in the presence of neurodegeneration caused by AD.
+0	Psychotic symptoms	NA	NA	ABSTRACT	1299 AD cases with psychosis (AD+P), 735 AD cases without psychosis (AD-P) and 5659 controls were drawn from GERAD1, the NIA-LOAD family study and the University of Pittsburgh ADRC GWAS.
+0	NA	NA	NA	ABSTRACT	Unobserved genotypes were imputed to provide data on > 1.8 million SNPs.
+0	Alzheimer's disease	NA	NA	ABSTRACT	Analyses in each dataset were completed comparing a) AD+P to AD-P cases, and b) AD+P cases with controls (GERAD1, ADRC only).
+0	NA	apolipoprotein E	rs753129	ABSTRACT	Aside from the APOE locus, the strongest evidence for association was observed in an intergenic region on chromosome 4 (rs753129; 'AD+PvAD-P' P=2.85 x 10-7; 'AD+PvControls' P=1.11 x 10-4).
+1	Alzheimer's disease	SLC2A9	rs6834555	ABSTRACT	SNPs upstream of SLC2A9 (rs6834555, P=3.0x10-7) and within VSNL1 (rs4038131, P=5.9x10-7) showed strongest evidence for association with AD+P when compared to controls.
+0	Psychotic symptoms	NA	NA	ABSTRACT	These findings warrant further investigation in larger, appropriately powered samples in which the presence of psychotic symptoms in AD has been well characterised
+0	Alzheimer's disease	NA	NA	INTRO	Alzheimer's disease (AD), the most common form of dementia, is highly heritable (heritability of up to 76%) but genetically complex.
+0	NA	tau	NA	INTRO	Neuropathologically, the disease is characterised by extracellular senile plaques containing beta-amyloid (Abeta) and intracellular neurofibrillary tangles containing hyperphosphorylated tau protein.
+0	NA	NA	NA	INTRO	Prior to 2009, four genes had been definitively implicated in its aetiology.
+0	NA	beta-amyloid (Abeta)	NA	INTRO	Mutations of the amyloid precursor protein (APP) gene and the presenilin 1 and 2 genes (PSEN1, PSEN2) cause rare, Mendelian forms of the disease usually with an early-onset.
+0	NA	apolipoprotein E	NA	INTRO	Until recently, only apolipoprotein E (APOE) had been established unequivocally as a susceptibility gene for the common late-onset form of AD
+0	NA	CLU	NA	INTRO	In 2009 we published a genome-wide association study (GWAS) of AD using the Genetic and Environmental Risk in AD Consortium 1 (GERAD1) sample, which identified two genome-wide significant susceptibility loci: CLU (P=8.5x10-10) and PICALM (P=1.3x10-9).
+0	Alzheimer's disease	CLU	NA	INTRO	A second independent AD GWAS performed using the European Alzheimer's Disease Initiative sample (EADI) showed genome-wide significant evidence for association with CLU (P=7.5x10-9) and CR1 (P=3.7x10-9), and support for PICALM (P=3x10-3).
+0	neurodegenerative disease	CLU	NA	INTRO	The associations in CLU, PICALM and CR1 have been replicated in several independent datasets and shown relationships with neurodegenerative processes underlying disease.
+1	CHARGE	BIN1	NA	INTRO	In addition, Seshadri and colleagues reported genome-wide significant association for BIN1 (P=1.6x10-11) when combining GERAD1 and EADI data with data from the Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE)
+0	NA	ABCA7	NA	INTRO	More recently, members of this consortium have reported findings from an extended study by GERAD (GERAD+), which included 19870 AD cases and 39846 controls and identified genome-wide evidence for association at the ABCA7 locus (P=5.0x10-21) and the MS4A gene cluster (P=1.2x10-16).
+0	Alzheimer's disease	ABCA7	NA	INTRO	The American Alzheimer's Disease Genetic Consortium (ADGC) also reported genome-wide significant evidence at the MS4A gene cluster, further support for ABCA7 and suggestive evidence for association with SNPs at the CD33, CD2AP, ARID5B and EPHA1 loci.
+0	NA	CD2AP	NA	INTRO	When combining data from ADGC and GERAD+ SNPs at CD33 (P=1.6x10-9), CD2AP (P=8.6x10-9) and EPHA1 (P=6.0x10-10) also exceed criteria for genome-wide significant association with AD
+0	NA	NA	NA	INTRO	Despite the success of first generation genome-wide association studies, a substantial proportion of the heritability for complex diseases remains unexplained.
+0	bipolar disorder	NA	NA	INTRO	It is becoming increasingly apparent that within diagnostic categories, such as bipolar disorder and schizophrenia, extensive aetiological and genetic heterogeneity operates.
+0	NA	NA	NA	INTRO	As a result, there is increasing emphasis on the use of sub-phenotypes to elucidate genotype-phenotype relationships.
+0	Psychotic symptoms	NA	NA	INTRO	Psychotic symptoms have been proposed as a marker for a subtype of AD suitable for gene mapping efforts.
+0	Psychotic symptoms	NA	NA	INTRO	Psychotic symptoms are significantly more common in AD than the general population, affecting around 40% of cases.
+0	NA	NA	NA	INTRO	They are associated with decreased quality of life for caregivers and patients, more rapid cognitive and functional decline and premature institutionalization.
+0	Psychotic symptoms	NA	NA	INTRO	We have previously demonstrated familial aggregation of psychosis in AD in three independent cohorts, and estimate that the heritability of AD+P is around 61%.
+0	aggressive disease	NA	NA	INTRO	Candidate genes for other psychiatric disorders in non-demented populations have been investigated in relation to AD+P, implicating alterations in the serotonergic, dopaminergic, catecholaminergic and noradrenaline neurotranmission systems.
+0	NA	NA	NA	INTRO	However, these findings have not been consistently replicated
+0	Alzheimer's disease	NA	NA	INTRO	Two possible genetic models of AD+P are a heterogeneity model in which alleles predispose to the development of AD pathology and subsequent psychosis and a disease modifier model in which they modify risk of psychotic symptoms in the presence of neurodegeneration caused by AD .
+0	Alzheimer's disease	NA	NA	INTRO	The current study, the first GWAS of AD+P, evaluated these two models by contrasting AD+P with a) healthy controls (heterogeneity model) and b) with AD-P subjects (disease modifier model), utilising existing GWAS data from three independent samples: GERAD1, the National Institute on Aging's Late Onset Alzheimer's Disease Family Study (NIA-LOAD) and the University of Pittsburgh Alzheimer Disease Research Center (ADRC)
+0	NA	NA	NA	METHODS	This study included samples from the GERAD1, the NIA-LOAD study  and the University of Pittsburgh ADRC GWAS datasets
+0	Alzheimer's disease	NA	NA	METHODS	The GERAD1 sample comprised 543 AD+P cases, 454 AD-P Cases and 4701 controls.
+0	NA	NA	NA	METHODS	All AD cases and 955 controls were genotyped at the Sanger Institute on the Illumina 610-quad chip.
+0	NA	NA	NA	METHODS	These data were combined with 3,746 unscreened population controls from the 1958 British Birth Cohort (1958BC; http://www.b58cgene.sgul.ac.uk) and UK Blood Service control group genotyped using either the Illumina HumanHap550 BeadChip (n=2683) or the Illumina HumanOmni1-Quad (n=1063).
+0	NA	NA	NA	METHODS	All AD cases met criteria for either probable (NINCDS-ADRDA, DSM-IV) or definite (CERAD) AD.
+0	dementia	NA	NA	METHODS	All elderly controls were screened for dementia using the MMSE or ADAS-cog or were determined to be free from dementia at neuropathological examination.
+0	NA	NA	NA	METHODS	All individuals in the GERAD sample were of Caucasian ancestry
+0	NA	NA	NA	METHODS	Recruitment for the NIA-LOAD cohort has been described previously.
+0	NA	NA	NA	METHODS	In brief, 18 AD centers throughout the US, each of which had received approval by their institutional review board, participated.
+0	NA	NA	NA	METHODS	The recruitment criteria included a family with multiple members affected with late-onset AD that could provide clinical information and a biological sample for DNA extraction.
+0	genetic diseases	NA	NA	METHODS	The current report drew from among all such subjects those who had been previously genotyped by the Center for Inherited Disease Research using the Illumina 610-quad chip (Illumina, San Diego, CA, USA).
+0	NA	NA	NA	METHODS	The minimum genotype completion rate for any sample released by CIDR was 98.3%.
+0	NA	NA	NA	METHODS	Blind duplicate reproducibility was 99.99 % based on 118 paired samples.
+0	Alzheimer's disease	NA	NA	METHODS	A total of 260 AD+P and 125 AD-P subjects from 264 families were analyzed.
+0	NA	NA	NA	METHODS	Those in the NIA sample were predominantly of Caucasian ancestry (96.1%), but also included 12 (3.1%) individuals classified as African American and 2 (0.5%) individuals of Native American descent
+0	NA	NA	NA	METHODS	University of Pittsburgh ADRC subjects were recruited from the University of Pittsburgh AD Research Center, where all subjects undergo a standard assessment and received diagnoses of possible or probable AD with age of onset >= 60.
+0	NA	NA	NA	METHODS	Autopsy confirmation rates in similarly diagnosed subjects at this center are >90%.
+0	Alzheimer's disease	NA	NA	METHODS	A total of 496 AD+P, 156 AD-P subjects and 958 age-matched screened controls of Caucasian ancestry were included.
+0	NA	NA	NA	METHODS	All AD cases met criteria for either probable (NINCDS-ADRDA, DSM-IV) or definite (CERAD) AD.
+0	dementia	NA	NA	METHODS	Control subjects included volunteers at the University of Pittsburgh ADRC who underwent the same assessment and were found to be cognitively normal and also populuation-based controls who were found to be cognitively normal using a previously described neuropsychological screening battery, which included the MMSE and several additional tests tapping cognitive domains known to be affected in dementia.
+0	NA	NA	NA	METHODS	Genotyping for Pittsburgh subjects was performed using the Illumina Omni1-Quad chip (containing probes for 1.13 million SNPs)
+0	NA	NA	NA	METHODS	The Neuropsychiatric Inventory (NPI) was used to assess behavioural symptoms in all GERAD cases.
+0	NA	NA	NA	METHODS	The NPI is an established and commonly used informant-based rating scale that evaluates 12 common behavioural symptoms in AD.
+0	NA	NA	NA	METHODS	The severity and frequency of each symptom are rated from 0-3 and 0-4, respectively, and were scored to reflect the worst episode of each symptom over the lifetime of the illness.
+0	NA	NA	NA	METHODS	Frequency and severity scores are multiplied to give an overall domain score for each symptom ranging from 0-12.
+0	NA	NA	NA	METHODS	42% of the GERAD sample were assessed annually for >=2 assessments.
+0	hallucinations	NA	NA	METHODS	Where multiple NPI ratings were available the highest delusions and hallucinations domains scores were used.
+0	Alzheimer's disease	NA	NA	METHODS	AD+P was defined as either the presence of delusions and hallucinations, or where only one symptom was present a delusions domain score >=4 or a hallucinations domain score >=2.
+0	NA	NA	NA	METHODS	A more stringent cut-off for delusions was adopted to avoid phenocopy due to transient confabulations.
+0	hallucinations	NA	NA	METHODS	AD cases with delusion and hallucination domain scores of 0 were coded as 'Alzheimer's with no psychosis' (AD-P).
+0	NA	NA	NA	METHODS	Individuals with intermediate scores were excluded from analysis
+0	Psychotic symptoms	NA	NA	METHODS	ADRC and NIA-LOAD subjects were rated for psychotic symptoms on the informant-based CERAD behavioural rating scale (CBRS).
+0	NA	NA	NA	METHODS	69% and 35% of the ADRC and NIA-LOAD sample were assessed on more than one occasion.
+0	NA	NA	NA	METHODS	A delusion was defined as a false belief based on incorrect inference about external reality, resistant to persuasion or contrary evidence, and not attributable to social or cultural mores.
+0	hallucinations	NA	NA	METHODS	Hallucinations were defined as sensory perceptions for which there was no basis in reality.
+0	hallucinations	NA	NA	METHODS	Discrete hypnagogic and hypnopompic hallucinations, as well as symptoms occurring only during episodes of delirium, were not rated.
+0	NA	NA	NA	METHODS	The CBRS was administered at initial and annual visits and in some subjects between annual visits by telephone.
+0	NA	NA	NA	METHODS	AD+P was considered present when any of the CBRS items #33 - #45 were rated as occurring >=3 times in the past month at any visit.
+0	Psychotic symptoms	NA	NA	METHODS	Individuals with scores of 0 on the same CBRS items at all visits were classified as AD-P. Inter-rater reliability of the psychosis assessments used, including telephone assessments, has been previously described for the ADRC and NIA-LOAD Cohorts
+0	Psychotic symptoms	NA	NA	METHODS	Psychotic symptoms typically emerge in the moderate stages of AD, therefore those categorised as AD-P who were in the mild stages of disease at their last assessment (Global Deterioration Scale score<4, Clinical Dementia Rating score <1 or mini-mental state examination score >=20) were considered to be at substantial risk of going on to develop delusional or hallucinatory behaviour.
+0	NA	NA	NA	METHODS	These individuals were therefore excluded from the analysis.
+0	NA	NA	NA	METHODS	As such a total of 219, 5 and 32 individuals were excluded from the GERAD, NIA-LOAD and ADRC samples respectively.
+0	episodic disturbances of mood	NA	NA	METHODS	Subjects with a known history of mood disorders, bipolar disease, unipolar disease, or an anxiety disorder were also excluded from all analyses
+0	NA	NA	NA	METHODS	Quality control (QC) of the GERAD1 sample has been described in detail elsewhere.
+0	NA	NA	NA	METHODS	Briefly, individuals were retained if they had a missing genotype rates < 0.01, with mean autosomal heterozygosity between 0.33 and 0.34, and mean X-chromosome heterozygosity either <0.02 for males, or between 0.25 and 0.40 for females.
+0	inflammatory bowel disease	NA	NA	METHODS	Genetic outliers and those showing evidence of relatedness (IBD estimate >= 0.125) or non-European ancestry based on genotype data were also excluded.
+0	Alzheimer's disease	NA	NA	METHODS	Following QC 543 AD+P cases, 454 AD-P cases and 4701 controls were retained.
+0	NA	NA	NA	METHODS	Markers were excluded if they had a minor allele frequency (MAF) < 0.01 or a Hardy-Weinberg P<=1x10-5.
+0	NA	NA	NA	METHODS	SNPs with a MAF>=0.05 were excluded if they had a genotype missing rate of >0.03; for SNPs with a MAF between 0.01 and 0.05, a more stringent genotype missing rate threshold of 0.01 was employed
+0	NA	NA	NA	METHODS	Individuals in the NIA-LOAD sample were retained if they had a missing genotype rate < 0.05.
+0	Alzheimer's disease	NA	NA	METHODS	260 AD+P and 125 AD-P subjects falling in 264 families passed QC.
+0	NA	NA	NA	METHODS	Markers were excluded if they had a minor allele frequency (MAF) < 0.05 or if they had a genotype missing rate of >0.02.
+0	NA	NA	NA	METHODS	No modifications were made for Hardy-Weinberg equilibrium given the small sample size.
+0	NA	NA	NA	METHODS	516,835 SNPs passed QC
+0	NA	NA	NA	METHODS	QC and analysis of the ADRC sample has been described in detail elsewhere (Kamboh et al.
+0	NA	NA	NA	METHODS	manuscript in preparation).
+0	NA	NA	NA	METHODS	Briefly, individuals were retained if they had a missing genotype rate <0.02, with mean X-chromosome heterozygosity either <0.02 for males or between 0.25 and 0.4 for females.
+0	inflammatory bowel disease	NA	NA	METHODS	Genetic outliers and those showing evidence of relatedness (IBD estimate >= 0.4) or non-European ancestry based on genotype data were excluded.
+0	Alzheimer's disease	NA	NA	METHODS	Following QC, 496 AD+P cases, 156 AD-P cases and 958 unaffected controls were retained.
+0	NA	NA	NA	METHODS	Markers were excluded if they had a minor allele frequency (MAF) <0.01 or a Hardy-Weinberg P<=1x10-6 in controls.
+0	NA	NA	NA	METHODS	SNPs were also excluded if they had a genotype missing rate of >0.02.
+0	NA	NA	NA	METHODS	Markers were examined to determine if the rate of missing data was found to depend on case/control status or the genotyping batch.
+0	NA	NA	NA	METHODS	No additional exclusions were needed based on these analyses
+0	Alzheimer's disease	NA	NA	METHODS	Following quality control this study comprised a total of 1299 cases with AD+P, 735 individuals characterised as AD-P and 5659 controls
+0	NA	NA	NA	METHODS	As there is only moderate overlap between the Illumina 550/610 arrays (used in the GERAD1 and NIA-LOAD GWAS) and the Illumina Omni1-Quad array (used in the ADRC GWAS) unobserved genotypes were imputed.
+0	NA	NA	NA	METHODS	The GERAD genotype data was imputed with MACH v.1.0, using haplotypes released from initial low coverage sequencing of 112 European ancestry samples in the 1000 genomes project (ftp://ftp.sanger.ac.uk/pub/1000genomes/REL-0908/LowCov/) as a reference sample.
+0	NA	NA	NA	METHODS	The phasing step included 200 individuals to calculate the specific maps based upon the sample recombination rates.
+0	NA	NA	NA	METHODS	Imputation generated data for >8.2 million SNPs.
+0	NA	NA	NA	METHODS	On the investigation of several QQ - plots from an explorative association analysis, an a-posteriori filter was applied to exclude SNPs with MAF<0.01 or r2<0.3.
+0	NA	NA	NA	METHODS	The ADRC data was also imputed with MACH v.1.0, using haplotypes from the HapMap v3 data release as a reference sample.
+0	NA	NA	NA	METHODS	Imputation generated data for >3 million SNPs that were subsequently filtered to exclude SNPs with r2<0.3.
+0	NA	NA	NA	METHODS	Imputed genotypes were not available for the NIA-LOAD datase
+0	Alzheimer's disease	NA	NA	METHODS	Separate analyses were completed to compare AD+P with unaffected controls and AD-P cases.
+0	NA	NA	NA	METHODS	Following QC 4659431 and 4479280 SNPs were tested in the 'AD+PvControl' and 'AD+PvAD-P' analyses, respectively.
+0	NA	NA	NA	METHODS	Analyses were completed using logistic regression assuming an additive model.
+0	NA	NA	NA	METHODS	The first four principal components extracted from an EIGENSTRAT analysis were included as covariates
+0	Alzheimer's disease	NA	NA	METHODS	Separate analyses were performed to compare AD+P with unaffected controls and AD-P cases in the ADRC sample.
+0	NA	NA	NA	METHODS	Following imputation and QC, a total of 2543888 SNPs were tested in each analysis.
+0	NA	NA	NA	METHODS	Analyses were performed using logistic regression assuming an additive model in PLINK.
+0	NA	NA	NA	METHODS	Age (age at exam for unaffected controls or age-at-diagnosis for AD cases), sex and the first four principal components extracted from a multi-dimensional scaling analysis (also implemented in PLINK) were included as covariates in the analyses
+0	NA	NA	NA	METHODS	The NIA-LOAD sample included AD cases sampled from multiplex families.
+0	Alzheimer's disease	NA	NA	METHODS	As some of the subjects were related, the contrast of AD+P versus AD-P was performed using Generalized Estimating Equations or GEE methods.
+0	Alzheimer's disease	NA	NA	METHODS	For simplicity we assumed all relative pairs were related as full-siblings, a conservative assumption, and accounted for their estimated covariance in tests contrasting AD+P versus AD-P allele frequencies.
+0	NA	NA	NA	METHODS	To account for differences in genetic ancestry, cases and controls were matched based on genetic distances calculated from the 8 significant dimensions of ancestry as determined by SpectralGem
+0	Alzheimer's disease	NA	NA	METHODS	An inverse variance weighted fixed effects meta-analysis was used to test for association with AD+P in the GERAD1, NIA-LOAD and ADRC datasets.
+0	NA	NA	NA	METHODS	Separate meta-analyses were completed for 'AD+PvControls' (including summary statistics from GERAD1 and ADRC) and 'AD+PvAD-P' (including summary statistics from GERAD1, NIA-LOAD and ADRC).
+0	NA	NA	NA	METHODS	Cochran's Q-test was performed and I2 calculated to assess heterogeneity.
+0	NA	NA	NA	METHODS	SNPs present, and passing all QC filters, in 2 or more studies were included.
+0	NA	NA	NA	METHODS	All analyses were completed using METAL (http://www.sph.umich.edu/csg/abecasis/metal/)
+0	Alzheimer's disease	NA	NA	RESULTS	A total of 1299 AD+P cases, 735 AD-P cases and 5659 controls were included in the meta-analysis.
+0	NA	NA	NA	RESULTS	Clinical characteristics of the sample can found in Table 1.
+0	NA	NA	NA	RESULTS	The final meta-analysis of the 'AD+PvControl' and 'AD+PvAD-P' datasets included 1847262 and 1882172 SNPS, respectively.
+0	NA	NA	NA	RESULTS	The genomic control inflation factors (lambda) were 1.002 and 1.004 respectively, suggesting little evidence for residual stratification.
+0	Alzheimer's disease	NA	NA	RESULTS	Table 2 shows loci associated (P<1.0x10-5) with AD+P when compared either controls or AD-P cases.
+0	NA	NA	NA	RESULTS	Summary statistics for SNPs with P-values <= 1x10-4 can be found for 'AD+Pvcontrols' and 'AD+PvAD-P analyses in Supplementary Tables 1 and 2, respectively.
+0	NA	NA	NA	RESULTS	Figure 1 includes manhatten plots of the 'AD+PvControls' and 'AD+PvAD-P' GWAS
+0	Alzheimer's disease	apolipoprotein E	rs753129	RESULTS	Excluding the APOE region, the most significant SNP (rs753129) had a P-value of 2.85 x 10-7 (OR= 0.66) and was associated with AD+P when compared to AD-P cases.
+0	NA	NA	rs753129	RESULTS	rs753129 is in a intergenic region on chromosome 4.
+0	NA	NA	NA	RESULTS	The same SNP showed some evidence for association in analysis of 'AD+PvControls', OR= 0.81, P=1.11x10-4.
+1	NA	apolipoprotein E	rs6834555	RESULTS	The most significant SNP outside the APOE locus in the 'AD+PvControl' analysis was rs6834555, which sits just upstream of the solute carrier family 2 (facilitated glucose transporter), member 9 (SLC2A9) gene (OR=1.39, P=3.0x10-7).
+0	Alzheimer's disease	NA	NA	RESULTS	This SNP was not associated with AD+P when compared to AD-P (OR=1.13, P=0.18).
+1	NA	VSNL1	rs4038131	RESULTS	The most significant intragenic SNP in the 'AD+PvControl' analysis was rs4038131, an intronic SNP in the visinin-like 1 (VSNL1) gene (OR: 0.65, P=5.9x10-7).
+0	Alzheimer's disease	NA	NA	RESULTS	This SNP was also associated with AD+P when compared to AD-P cases, (OR= 0.72, P=1.84x10-2)
+0	NA	apolipoprotein E	NA	RESULTS	No evidence of association was observed at the APOE locus when analyzing 'AD+PvAD-P' (all P>0.235).
+0	Alzheimer's disease	apolipoprotein E	NA	RESULTS	Six SNPs in close proximity to APOE showed genome-wide significant (GWS) associations when comparing AD+P cases with controls.
+0	Psychotic symptoms	NA	NA	RESULTS	All of these markers showed similar patterns of effect and more compelling evidence of association in the primary analysis of the GERAD+ Stage 1 analysis, which did not condition on presence or absence of psychotic symptoms (P-values ranging from 3.5 x 10-39 - 1.6 x10-215).
+0	Alzheimer's disease	apolipoprotein E	NA	RESULTS	Furthermore none of these SNPs showed evidence of association with AD+P when compared to AD-P (P>0.330), indicating that the APOE locus is associated with AD, unconditional of psychosis status.
+0	NA	apolipoprotein E	NA	RESULTS	Results for these SNPs at the APOE locus can be found in Supplementary Table 3
+1	NA	CLU	NA	RESULTS	Recent GWAS studies of AD have identified compelling evidence for nine novel risk loci for AD: CLU, PICALM, CR1, BIN1, ABCA7, MS4A, CD2AP, CD33 and EPHA1.
+1	Alzheimer's disease	BIN1	rs744373	RESULTS	In this study, comprising a subset of the GERAD, NIA-LOAD and University of Pittsburgh ADRC samples included in the studies which identified these loci, we noted association (P<0.05) with BIN1 (rs744373, P=2.6x1-5, OR=0.80), EPHA1 (rs11767557, P=0.002, OR=1.22), CLU (rs11136000, P=0.005, OR 0.86), MS4A (rs670139, P = 0.028, OR=1.12) and PICALM (rs3851179, P=7.2x10-5, OR=0.81) when comparing AD+P cases with controls.
+0	Alzheimer's disease	NA	NA	RESULTS	The pattern of effect was consistent with that observed in the primary analysis of the GERAD+ dataset and none of these SNPs showed evidence of association when comparing AD+P and AD-P cases, suggesting that these loci are associated with AD, irrespective of presence or absence of psychotic symptoms (see Supplementary Table 4)
+0	schizophrenia	NA	NA	RESULTS	Finally, we investigated whether putative risk loci for schizophrenia (SZ) or bipolar disorder (BP), both of which feature prominent psychotic symptoms, were associated with AD+P when compared to AD-P or Controls (Table 3).
+0	NA	NA	NA	RESULTS	We tested those SNPs that have shown genome-wide significant evidence for association (P<= 5.0 x 10-8) in GWAS of SZ or BP.
+0	schizophrenia	NA	NA	RESULTS	Eleven SNPs were chosen, six of which were identified by GWAS of schizophrenia five by GWAS of BP.
+0	Alzheimer's disease	NA	rs1938526	RESULTS	Although individually GWA SNPs showed only limited association with AD+PvAD-P, as a group there was a trend towards association, combined P=0.109 (using an unweighted Z-transformation, excluding rs1938526 and rs13194053 as they are in strong LD with rs10994336 and rs6932590 respectively) We also identified 5 additional loci without genome-wide significant evidence for association in SZ or BP, but implicated by meta-analysis as listed in the top 10 SZGene loci on 1st June 2011 (http://www.szgene.org/).
+0	Alzheimer's disease	NA	NA	RESULTS	These SNPs showed no evidence of association with AD+PvAD-P individually, or as a group (Combined P=0.90), see Table 3
+0	Psychotic symptoms	NA	NA	DISCUSS	A substantial body of evidence indicates that the presence of psychotic symptoms in AD identifies a subgroup of subjects who undergo more rapid cognitive and functional decline.
+0	Alzheimer's disease	NA	NA	DISCUSS	The distinctive nature of the AD+P phenotype, in conjunction with evidence of the familial aggregation and heritability of psychosis in AD, has led to the hypothesis that AD+P may have a genetic architecture which diverges from that of AD-P.
+0	Alzheimer's disease	NA	NA	DISCUSS	There are two plausible genetic models of AD+P.
+0	Psychotic symptoms	NA	NA	DISCUSS	First, a heterogeneity model in which alleles predispose to the development of AD pathology and subsequent psychosis and secondly, a disease modifier model in which alleles increase the risk of psychosis conditioned on the presence of AD.
+0	Alzheimer's disease	NA	NA	DISCUSS	The current study evaluated these two models by contrasting AD+P with healthy controls and with AD-P subjects
+0	Alzheimer's disease	NA	NA	DISCUSS	Although we did not observe novel genome-wide significant evidence of association with AD+P when compared to healthy controls or AD-P cases, several additional considerations apply.
+0	Alzheimer's disease	NA	NA	DISCUSS	Despite testing for association in one of the largest cohorts of AD+P and AD-P subjects studied to date, the power of the present study to detect loci of the magnitude commonly observed in complex traits is limited.
+0	NA	NA	NA	DISCUSS	For example, for common variants (MAF= 0.3) the current study has 0.02 and 0.06 power to detect disease susceptibility loci with OR of 1.2 in the 'AD+PvAD-P' and 'AD+PvControl' analyses respectively, and power is even less for lower frequency alleles that confer this effect size.
+0	Alzheimer's disease	NA	NA	DISCUSS	It is therefore possible that many SNPs in the current study, while failing to reach this stringent level of statistical significance, could reflect true disease loci with resulting implications for the biology of AD+P.
+1	NA	VSNL1	rs4038131	DISCUSS	For example, the most significant intragenic SNP in the 'AD+P v Control' analysis was rs4038131, an intronic SNP in the visinin-like 1 (VSNL1) gene.
+1	NA	VSNL1	NA	DISCUSS	VSNL1 utilizes a calcium-myristoyl switch mechanism that upon stimulation by intracellular calcium causes VSNL1 to translocate to cell membranes, including the transGolgi apparatus, where it may influence a number of cell signalling pathways.
+1	cognitive defects	VSNL1	NA	DISCUSS	VSNL1 concentrations are elevated in the cerebrospinal fluid (CSF) of individuals with AD, where they correlate with CSF tau concentrations and with the degree of cognitive impairment.
+1	Alzheimer's disease	VSNL1	NA	DISCUSS	Whether VSNL1 expression in cerebral cortex of AD+P subjects is reduced in comparison to AD-P subjects is not known, but VSNL1 mRNA and protein expression are reduced in cerebral cortex of subjects with schizophrenia.
+1	Alzheimer's disease	SLC2A9	rs6834555	DISCUSS	Another SNP that showed suggestive evidence of association when comparing AD+P cases with controls was rs6834555, which is located just 5' of the urate transporter, SLC2A9.
+1	NA	SLC2A9	NA	DISCUSS	Variation in SLC2A9 has been shown to influence serum urate concentrations across populations.
+0	schizophrenia	NA	NA	DISCUSS	Of interest, reduced serum urate concentration has been identified in AD and in schizophrenia.
+0	NA	NA	NA	DISCUSS	Serum and cerebrospinal fluid urate have also been shown to be positively correlated.
+0	Alzheimer's disease	NA	NA	DISCUSS	How altered urate concentration may relate to the brain pathologies observed in schizophrenia and AD is not known, though the protective antioxidant effects of urate have been suggested as one potential mechanism.
+0	Psychotic symptoms	NA	NA	DISCUSS	Relatively less evidence currently exists to suggest that the SNPs identified in the 'AD+PvAD-P' analysis may be tied to the neurobiology of AD or psychosis.
+0	NA	STK11	NA	DISCUSS	One exception may be serine/threonine kinase 11 (STK11).
+0	Peutz-Jeghers syndrome	STK11	NA	DISCUSS	An unusually large scale STK11 deletion has been described in one case in which Peutz-Jeghers syndrome, mental retardation, and schizophrenia co-occurred and reduced copy numbers of STK11 have been reported in affected siblings with schizophrenia
+0	Psychotic symptoms	NA	NA	DISCUSS	In contrast to the above genes, we found little evidence to suggest that previously identified AD risk genes may contribute selectively to the risk of psychosis within AD.
+0	Alzheimer's disease	NA	NA	DISCUSS	Several of these loci showed association when contrasting AD+P cases with controls, however the effect sizes were comparable to those obtained when comparing AD cases unselected for psychotic symptoms with controls.
+0	NA	NA	NA	DISCUSS	Furthermore, none of these loci showed association in the 'AD+PvAD-P' analysis.
+0	NA	NA	NA	DISCUSS	This conclusion should be tempered by awareness of the limited power in our 'AD+P v AD-P' comparison
+0	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	We previously identified 22 studies, comprising more than 5,200 subjects with AD, that examined the association of the APOE ie4 allele with AD+P, with nine reporting significant associations.
+0	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	Though not supportive of a true assocation of APOE with AD+P, such a pattern could result from false negatives due to variation between studies in the in subject populations, sample sizes, definitions of AD+P and analytic approaches, or due to limited power to detect small, but real effects (e.g.
+0	NA	NA	NA	DISCUSS	O.R.
+0	NA	NA	NA	DISCUSS	1.1-1.2).
+0	Psychotic symptoms	apolipoprotein E	NA	DISCUSS	A recent examination of the largest sample to date of AD subjects uniformly characterized for psychosis (N=2317) found that neither APOE ie4 carrier status nor allele number was associated with psychosis.
+0	NA	apolipoprotein E	NA	DISCUSS	Alternatively, the variable pattern of association might reflect causal association with genetic variation in linkage disequilibrium with the APOE epsilon4 allele.
+0	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	The current study, which found no association with AD+P of SNPs throughout the chromosome 19 region containing APOE, tested in more than 2000 AD cases characterized for psychosis, does not support this alternative.
+0	Alzheimer's disease	TOMM40	NA	DISCUSS	Similarly, when examined in samples which largely overlap with the current ADRC cohort, there was no evidence of association of AD+P with a poly-T repeat length variation in TOMM40 which is in linkage disequilibrium with APOE.
+0	Psychotic symptoms	apolipoprotein E	NA	DISCUSS	Taken as a whole, these data do not support a role of APOE in risk for psychosis within AD subjects, a finding consistent with a current meta-analysis of 26 studies which finds no association of APOE epsilon4 alleles with risk for schizophrenia (www.szgene.org)
+0	NA	NA	NA	DISCUSS	These analyses are largely hypothesis generating.
+0	Psychotic symptoms	NA	NA	DISCUSS	It is now important to follow up these findings, either through replication or meta analysis of other AD GWAS datasets where psychotic symptoms have been well characterised.
+0	NA	NA	NA	DISCUSS	As such we will make the complete genome-wide meta-analysis results for 'AD+PvAD-P' and 'AD+PvControls' available to researchers upon application.
+0	NA	NA	NA	DISCUSS	It also notable that this study was limited to mainly those of Caucasian origin.
+0	Alzheimer's disease	NA	NA	DISCUSS	Future studies may seek to investigate AD+P within other ethnic groups.
+0	schizophrenia	NA	NA	DISCUSS	It is interesting to note some overlap between schizophrenia and psychosis in AD was observed.
+0	aggressive disease	NA	NA	DISCUSS	There is increasing evidence that there is genetic overlap between the major psychiatric and nonpsychiatric disorders.
+0	bipolar disorder	NA	NA	DISCUSS	The largest family study of bipolar disorder and schizophrenia has recently been published.
+0	bipolar disorder	NA	NA	DISCUSS	They showed that there are increased risks of both schizophrenia and bipolar disorder to first-degree relatives of probands with either disorder, which was largely due to additive genetic effects.
+0	schizophrenia	NA	NA	DISCUSS	Furthermore, a recent study provides strong evidence that schizophrenia is largely polygenic, involving many common SNPs that are substantially shared with bipolar disorder.
+0	Psychotic symptoms	NA	NA	DISCUSS	It is plausible that this overlap will extend to other disease phenotypes with prominent psychotic symptoms.
+0	aggressive disease	NA	NA	DISCUSS	A vital part of dissecting the large amounts of GWAS data available in psychiatric and neuropsychiatric populations will be working toward more biologically valid classification approaches, which will allow genetic mappings of symptoms domains and dimensions which will undoubtedly lead to greater understanding of clinical phenotypes
+0	Alzheimer's disease	NA	NA	DISCUSS	It is important to note that there are no established criteria for defining AD+P.
+0	NA	NA	NA	DISCUSS	We took several approaches in order to minimize the possibility of misclassification of subjects.
+0	Alzheimer's disease	NA	NA	DISCUSS	Because rates of AD+P increase with disease progression, we used all available longitudinal structured ratings of behavioural pathology within subjects to identify AD+P as the occurrence of symptoms at any time point.
+0	Psychotic symptoms	NA	NA	DISCUSS	We excluded individuals with transient mild psychotic symptoms to avoid phenocopies due to misunderstanding of confusional episodes.
+0	Psychotic symptoms	NA	NA	DISCUSS	Similarly, we excluded non-psychotic individuals in the earliest stages of illness, who may have been at risk of expressing psychosis only after their illness progressed.
+0	Alzheimer's disease	NA	NA	DISCUSS	These operationalised criteria for AD+P map closely to those used in our earlier studies that demonstrated familial aggregation of AD+P in AD.
+0	Psychotic symptoms	NA	NA	DISCUSS	Nevertheless, we cannot rule out the possibility that because the extent of longitudinal data varied for individuals, some individuals may have been misclassified with regard to their psychosis status.
+0	Alzheimer's disease	NA	NA	DISCUSS	It is also notable that there were different proportions of individuals in each sample categorised as AD+P and AD-P.
+0	NA	NA	NA	DISCUSS	This is likely reflects differences in the availability of longitudinal ratings and disease severity, subtle differences in rating instruments and also differences resulting from the underlying populations studies.
+0	NA	NA	NA	DISCUSS	By performing, analyses in each cohort, controlling for population substructure, and combining results through meta-analyses we limit the effect these differences will have on the results of this study
+0	Alzheimer's disease	NA	NA	DISCUSS	This study also included unscreened, population-based controls in the AD+P v Control analysis.
+0	NA	NA	NA	DISCUSS	Unscreened controls are commonly used in GWAS studies and can substantially increase power to detect true genetic associations where disease prevalence is low (Kp<0.2).
+1	NA	CLU	NA	DISCUSS	It is noteworthy that the GERAD GWAS, which includes a large proportion of unscreened controls, has already produced compelling evidence for new susceptibility genes for AD: CLU, PICALM, BIN1, CR1, ABCA7, MS4A, CD2AP, CD33 & EPHA1.
+1	NA	CLU	NA	DISCUSS	Of which CLU, PICALM, BIN1, CR1, ABCA7 and MS4A have since been replicated in independent samples.
+0	NA	NA	NA	DISCUSS	Despite the pragmatic value of unscreened controls, there are potential limitations to their use.
+0	Alzheimer's disease	NA	NA	DISCUSS	Though the population prevalence of AD+P is low, that largely reflects its age dependency, thus a high proportion of individuals among unscreened controls may carry genetic risk for AD+P and would be anticipated to manifest this syndrome if they were evaluated through the age of risk.
+0	Alzheimer's disease	NA	NA	DISCUSS	As such, contrasts between AD+P and unscreened controls may fail to detect some meaningful genetic associations.
+0	Alzheimer's disease	NA	NA	DISCUSS	Also, due to age differences between AD subjects and unscreened controls some SNPs associated with AD+P in the 'ADPvControl' comparison may represent confounds due to a true association with a survival advantage.
+0	NA	NA	NA	DISCUSS	These potential limitations are mitigated somewhat in the current study by the inclusion of screened elderly controls.
+0	NA	NA	NA	DISCUSS	Similarly, loci with evidence of association in both the 'AD+PvControl' and the 'AD+PvAD-P' (e.g.
+1	NA	VSNL1	NA	DISCUSS	VSNL1) are less likely to result from this confounding
+0	Alzheimer's disease	NA	NA	DISCUSS	In conclusion, this study does not identify any SNPs that meet strict criteria for genome-wide significant association with AD+P, when compared to controls or AD-P cases.
+0	aggressive disease	NA	NA	DISCUSS	However a number of sub threshold associations were observed that a) show patterns of effect that are stronger than those generally observed in AD GWAS, b) are interesting biological and position candidates for AD+P and c) show some overlap with others psychiatric disorders with psychotic features.
+0	Psychotic symptoms	NA	NA	DISCUSS	As such these findings warrant further investigation in larger, appropriately powered samples in which the presence of psychotic symptoms in AD is well characterised
+0	NA	NA	NA	FIG	Scatterplot of chromosomal position (x-axis) against -log 10 GWAS P-value (yaxis).
+0	Alzheimer's disease	NA	NA	FIG	a) AD+P vs Controls, b) AD+P vs AD-P.
+0	NA	NA	NA	FIG	The threshold for genome-wide significance (p <= 9.5x10-8) is indicated by the red horizontal line.
+0	Alzheimer's disease	apolipoprotein E	NA	FIG	The y-axis scale has been limited to 10 (P = 1 x 10-10), although highly significant association was observed with SNPs in the vicinity of the APOE locus when comparing AD+P cases with controls.
+0	NA	NA	NA	FIG	Plots produced using Haploview v4.0 (http://www.broad.mit.edu/mpg/haploview/)
+0	Alzheimer's disease	NA	NA	TABLE	Loci associated with AD+P at P<1x10-5 in either the 'AD+PvControl' or 'AD-PvAD-P' analysis
+0	bipolar disorder	NA	NA	TABLE	Analysis of putative bipolar disorder (BP) and schizophrenia (Sz) loc

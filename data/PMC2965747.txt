@@ -1,0 +1,183 @@
+0	cancers	BRCA2	NA	ABSTRACT	The considerable uncertainty regarding cancer risks associated with inherited mutations of BRCA2 is due to unknown factors.
+0	NA	BRCA2	NA	ABSTRACT	To investigate whether common genetic variants modify penetrance for BRCA2 mutation carriers, we undertook a two-staged genome-wide association study in BRCA2 mutation carriers.
+0	NA	NA	NA	ABSTRACT	In stage 1 using the Affymetrix 6.0 platform, 592,163 filtered SNPs genotyped were available on 899 young (<40 years) affected and 804 unaffected carriers of European ancestry.
+0	NA	BRCA2	6174delT	ABSTRACT	Associations were evaluated using a survival-based score test adjusted for familial correlations and stratified by country of the study and BRCA2*6174delT mutation status.
+0	NA	NA	NA	ABSTRACT	The genomic inflation factor (lambda) was 1.011.
+0	breast cancer	NA	NA	ABSTRACT	The stage 1 association analysis revealed multiple variants associated with breast cancer risk: 3 SNPs had p-values<10-5 and 39 SNPs had p-values<10-4.
+0	breast cancer	NA	rs311499	ABSTRACT	These variants included several previously associated with sporadic breast cancer risk and two novel loci on chromosome 20 (rs311499) and chromosome 10 (rs16917302).
+0	breast cancer	ZNF365	NA	ABSTRACT	The chromosome 10 locus was in ZNF365, which contains another variant that has recently been associated with breast cancer in an independent study of unselected cases.
+0	NA	NA	NA	ABSTRACT	In stage 2, the top 85 loci from stage 1 were genotyped in 1,264 cases and 1,222 controls.
+0	NA	BRCA2	6174delT	ABSTRACT	Hazard ratios (HR) and 95% confidence intervals (CI) for stage 1 and 2 were combined and estimated using a retrospective likelihood approach, stratified by country of residence and the most common mutation, BRCA2*6174delT.
+0	NA	NA	rs16917302	ABSTRACT	The combined per allele HR of the minor allele for the novel loci rs16917302 was 0.75 (95% CI 0.66-0.86, ) and for rs311499 was 0.72 (95% CI 0.61-0.85, ).
+1	breast cancer	FGFR2	rs2981575	ABSTRACT	FGFR2 rs2981575 had the strongest association with breast cancer risk (per allele HR = 1.28, 95% CI 1.18-1.39, ).
+0	breast cancer	BRCA2	NA	ABSTRACT	These results indicate that SNPs that modify BRCA2 penetrance identified by an agnostic approach thus far are limited to variants that also modify risk of sporadic BRCA2 wild-type breast cancer
+0	breast cancer	BRCA2	NA	ABSTRACT	The risk of breast cancer associated with BRCA2 mutations varies widely.
+0	breast cancer	BRCA2	NA	ABSTRACT	To determine whether common genetic variants modify the penetrance of BRCA2 mutations, we conducted the first genome-wide association study of breast cancer among women with BRCA2 mutations using a two-stage approach.
+1	breast cancer	FGFR2	rs2981575	ABSTRACT	The major finding of the study is that only those loci known to be associated with breast cancer risk in the general population, including FGFR2 (rs2981575), modified BRCA2-associated risk in our high-risk population.
+0	NA	ZNF365	rs16917302	ABSTRACT	Two novel loci, on chromosomes 10 in ZNF365 (rs16917302) and chromosome 20 (rs311499), were shown to modify risk in BRCA2 mutation carriers, although not at a genome-wide level of significance.
+0	breast cancer	ZNF365	NA	ABSTRACT	However, the ZNF365 locus has recently independently been associated with breast cancer risk in sporadic tumors, highlighting the potential significance of this zinc finger-containing gene in breast cancer pathogenesis.
+0	NA	BRCA2	NA	ABSTRACT	Our results indicate that it is unlikely that other common variants have a strong modifying effect on BRCA2 penetrance
+0	cancers	BRCA1	NA	INTRO	After more than a decade of clinical testing for mutations of BRCA1 and BRCA2, there remains considerable uncertainty regarding cancer risks associated with inherited mutations of these genes.
+0	NA	BRCA2	NA	INTRO	This variable penetrance is most striking for BRCA2 , and it affects medical management.
+0	Colon and Ovarian (PLCO) Cancer	BRCA2	NA	INTRO	Women with the same BRCA2 mutation may develop breast, ovarian or other cancers at different ages or not at all.
+0	breast cancer	BRCA1	NA	INTRO	In a segregation analysis of families identified through breast cancer cases diagnosed before age 55, the residual familial clustering after accounting for BRCA1 and BRCA2 mutations could be explained by a large number of low penetrance genes with multiplicative effects on breast cancer risk.
+0	NA	BRCA2	135 G>C	INTRO	A candidate gene approach in BRCA2 mutation carriers led to the discovery of loci that modify the penetrance of BRCA2 mutations, such as RAD51 135 G>C and perhaps CASP8  and IGFBP2 , if replicated.
+0	NA	BRCA2	NA	INTRO	To investigate whether other common single nucleotide polymorphisms (SNP), copy number variants (CNV), or copy number polymorphisms (CNP) modify penetrance for BRCA2 mutation carriers, we undertook a two-staged genome-wide association study (GWAS) in BRCA2 mutation carriers from the international Consortium for Investigators of Modifiers of BRCA1/2 (CIMBA) and other international studies.
+0	breast cancer	BRCA2	NA	INTRO	We hypothesized that an agnostic search for breast cancer loci in an enriched population of BRCA2 mutation carriers, the first among this high risk population, would provide greater power than a sporadic population of equal number, and would yield associations specific to BRCA2 carriers and/or the general population
+0	NA	NA	NA	RESULTS	In stage 1, genotype data were available for 899 young (<40 years) affected and 804 older (>40 years) unaffected carriers of European ancestry after quality control filtering and removal of ethnic outliers (Figure S1).
+0	NA	NA	NA	RESULTS	A total of 592,163 filtered SNPs genotyped using the Affymetrix Genome-Wide Human SNP Array 6.0 platform passed quality control assessment.
+0	NA	BRCA2	NA	RESULTS	In stage 1, comparison of the observed and expected distributions (quantile-quantile plot: Figure S2) showed little evidence for an inflation of the test statistics (genomic inflation factor lambda = 1.01), thereby excluding the possibility of significant hidden population substructure, cryptic relatedness among subjects or differential genotype calling between BRCA2 affected and BRCA2 unaffected carriers.
+0	breast cancer	p<10-5	NA	RESULTS	Multiple variants were found to be associated with breast cancer risk (Figure S3): 3 SNPs had p<10-5 and 39 SNPs had p<10-4.
+1	breast cancer	FGFR2	rs2981582	RESULTS	The most significant association  was observed for FGFR2 rs2981582 (Table 1), a variant previously shown to be associated with increased risk of BRCA2-related breast cancer.
+0	breast cancer	TNRC9	rs3803662	RESULTS	A positive association was also observed with rs3803662 (Table 1), near TOX3, which has also been associated with sporadic breast cancer risk
+0	NA	BRCA2	NA	RESULTS	Using the stage 1 data, we also performed a GSEA as implemented in MAGENTA to evaluate whether a functionally-related set of genes relevant to BRCA2 function (Table S1) was enriched for relative risk associations (see Statistical Methods).
+0	Fanconi anemia	BRCA1	NA	RESULTS	The 59 genes selected are related to the Fanconi anemia pathway as well as other pathways reported in the literature to regulate or interact with BRCA1/2 .
+0	breast cancer	NA	NA	RESULTS	These showed no enrichment of associations with the breast cancer risk (p = 0.56).
+0	cancers	BRCA2	NA	RESULTS	In addition, eight of 125 known cancer susceptibility alleles identified by previous GWAS of other cancers were associated with BRCA2 modification in the current study, a number not greater than expected (Kolmogorv-Smirnov p = 0.60) by chance alone.
+0	breast cancer	NA	NA	RESULTS	Of the 113 most significantly associated SNPs (p<10-3) in our study, three showed significant association (p<0.05) with BRCA1-associated breast cancer risk in a complimentary GWAS
+0	breast cancer	NA	NA	RESULTS	In the combined stage 1 and stage 2 results, four independent SNPs (pairwise ) were associated with increased risk of breast cancer risk with p-values<10-4 (Table 1).
+1	breast cancer	BRCA2	NA	RESULTS	Previously identified breast cancer susceptibility loci had the most significant associations among BRCA2 mutation carriers (FGFR2: per allele  and TOX3: per allele ).
+0	NA	NA	rs16917302	RESULTS	"Novel loci, rs16917302 on chromosome 10 and rs311499 on chromosome 20, had HRs in stage 2 that were in the same direction as those observed for stage 1 (Figure 1, Table 1), but were smaller in magnitude (HR = 0.67 (95% CI:0.56-0.80) vs. 0.85 (95% CI: 0.70-1.04) for rs16917302; HR = 0.60 (95%CI:0.50-0.78) vs. 0.84 (95%CI: 0.67-1.06) for rs311499) perhaps reflecting a ""winner's curse"" effect""."
+0	NA	NA	NA	RESULTS	The associations for these SNPs were not statistically significant in stage 2 (Table 1).
+0	breast cancer	NA	rs16917302	RESULTS	In the combined stage 1 and stage 2 dataset, the C allele of rs16917302 was associated with lower risk of breast cancer (per allele HR = 0.75, 95% CI 0.66-0.86; ; Table 1), and the C allele of rs311499 was associated with a reduced risk (per allele HR = 0.72, 95% CI 0.61-0.85; ; Table 1).
+0	NA	NA	NA	RESULTS	A full list of stage 2 results can be found in Table S2.
+0	NA	NA	rs16917302	RESULTS	Using the combined stage 1 and stage 2 data, there was no evidence that the HR for SNP rs16917302 changes with age (p = 0.63), but there was some evidence that the per-allele HR for rs311499 may increase with age (p = 0.034)
+0	NA	NA	NA	FIG	The color of the dots indicates linkage disequilibrium (LD; based on r2 values) in the CEU population (as per scale).
+0	NA	BRCA2	NA	FIG	Triangle plots below represent LD from actual data of BRCA2 carries in the study
+0	NA	NA	NA	RESULTS	We also examined the association of both high-frequency CNPs and low-frequency CNVs to case-control status using the stage 1 data.
+0	NA	NA	NA	RESULTS	After performing standard quality control measures including a minor allele frequency (MAF) threshold of 5%, we identified 191 polymorphisms with reliable genotypes.
+0	NA	NA	NA	RESULTS	No associations were found between CNVs and the phenotype; there was no inflation or deflation of the test statistic, and the best p-value was .
+0	breast cancer	NA	NA	RESULTS	We similarly assessed less common CNPs, and found neither the overall burden of events (or any subclass thereof, such as large deletions overlapping genes) nor any specific locus associated with breast cancer risk (Figure S4)
+0	NA	BRCA2	6174delT	RESULTS	Because of the prior evidence of significant LD extent around the 6174delT (c.5946delT) founder mutation in the Ashkenazi Jewish population, we explored the potential excess sharing of the genome compared to the BRCA2 region in both Ashkenazi Jewish and non-Jewish European ancestries.
+0	NA	NA	NA	RESULTS	Using GERMLINE, shared segments of greater than 5 cM were computed based on the imputed genotype dataset.
+0	autism	BRCA2	NA	RESULTS	In the BRCA2 region, we observed a significant excess of sharing amongst both Ashkenazi (n = 304) and non-Jewish (n = 1331) individuals compared to samples from an autism study (n = 808) suggesting common founders for BRCA2 mutations.
+0	NA	NA	NA	RESULTS	Examining sites across the genome every 2.5 cM (excluding telomere and centromere regions), we observed possible pairs share segments greater than 5 cM that on average 0.005% (u = 50.17, s.d = 55.5, max = 491) for non-Jewish individuals and 0.12% (u = 141.11, s.d = 57.32, max = 525) for Ashkenazi Jewish individuals.
+0	NA	NA	NA	RESULTS	Comparing cases and controls, we did not observe a significant difference in number of pairs of samples sharing segments greater than 5cM across the genome excluding chromosome 13.
+0	NA	BRCA2	NA	RESULTS	That is, there was no evidence of overall excess sharing across the genome other than for the BRCA2 locus within the Ashkenazi Jewish and non-Ashkenazi Jewish populations in the study
+0	breast cancer	BRCA2	NA	DISCUSS	In this GWAS of BRCA2 mutation carriers, the first in this high risk population, we found previously identified breast cancer susceptibility loci modified risk of BRCA2-associated breast cancer with similar magnitude of association.
+1	breast cancer	FGFR2	rs2981575	DISCUSS	Although FGFR2 (rs2981575) was the only locus to reach genome-wide statistical significance, novel loci, rs16917302 and rs10509168 were each associated with breast cancer risk
+0	NA	ZNF365	rs16917302	DISCUSS	rs16917302 is located on chromosome 10, in the zinc finger protein 365 gene (ZNF365).
+0	breast cancer	ZNF365	rs10509168	DISCUSS	A recent multistage GWAS of 15,992 sporadic breast cancer cases and 16,891 controls also observed an inverse association (per allele OR = 0.82, 95% CI 0.82-0.91, ) between breast cancer risk and rs10509168, a SNP 18kb from rs16917302 (pairwise ) and located in intron 4 of ZNF365  .
+0	breast cancer	BRCA2	rs16917302	DISCUSS	Of the 3,659 cases and 4,897 controls in phase 1 of that study, imputation revealed that the locus identified in our BRCA2 study, rs16917302, was significantly associated with risk for breast cancer (p = 0.02) (Easton DF, personal communication).
+0	NA	GMEB2	rs311499	DISCUSS	The second novel SNP in the current study, rs311499, is located on chromosome 20, within a region containing several possible candidate genes including GMEB2, SRMS, PTK6, STMN3, and TNFRSF6.
+0	prostate carcinogenesis	NA	NA	DISCUSS	The functional significance of both of these regions with breast carcinogenesis is unknown; further research is warranted
+0	NA	NA	rs311499	DISCUSS	There was some evidence that the HR associated with rs311499 may change with age.
+0	NA	NA	NA	DISCUSS	We also observed that the stage 1 HR for this SNPs was larger in magnitude compared to the stage 2 HR, consistent with a winner's curse effect.
+0	NA	BRCA2	NA	DISCUSS	"Since stage 1 of our experiment included mostly BRCA2 mutation carriers diagnosed at a young age, and stage 2 mutation carriers diagnosed an older age, the ""winner's curse"" and age-specific effects are confounded and may be difficult to distinguish."
+0	NA	NA	rs311499	DISCUSS	Fitting the age-dependent HR model for SNP rs311499 using the stage 2 data yielded no significant variation in the HR by age (p = 0.47), but the sample size for this analysis was relatively small.
+0	NA	NA	NA	DISCUSS	Future larger studies should aim to clarify this
+0	breast cancer	BRCA1	NA	DISCUSS	Mutations in known genes (BRCA1, BRCA2, TP53, CHEK2, PTEN, and ATM) explain only 20-25% of the familial clustering of breast cancer; the residual familial clustering may be explained by the existence of multiple common, low-penetrance alleles ('polygenes').
+0	breast cancer	NA	NA	DISCUSS	Perhaps because the majority of BRCA2-associated breast tumors are estrogen receptor (ER)-positive, as are the majority of non-hereditary breast cancers, risk alleles for sporadic breast cancer are more likely to be modifiers of risk of BRCA2-associated hereditary breast cancer.
+1	NA	BRCA2	rs2981575	DISCUSS	Of the seven GWAS-identified breast cancer-associated SNPs examined in a BRCA2 background, SNPS in FGFR2 (rs2981575), TOX3 (rs3803662), MAP3K1 (rs889312), and LSP1 (rs3817198) have been shown to modify BRCA2 penetrance, in contrast with BRCA1 tumors, in which only two of these same SNPs (based on a 2 degrees of freedom model) modified risk of these largely ER-negative tumors.
+0	breast cancer	BRCA2	NA	DISCUSS	As previously noted, the stage 1 HRs among BRCA2 mutation carriers, reported here, were nearly identical to odds ratio estimates observed in sporadic breast cancer studies, consistent with a simple multiplicative interaction between the BRCA2 mutant alleles and the common susceptibility SNPs.
+0	breast cancer	BRCA2	NA	DISCUSS	If replicated, the two additional SNPs identified here would only explain about 1.7% of the variance in breast cancer risk among BRCA2 mutation carriers.
+0	NA	BRCA2	135 G>C	DISCUSS	Taken together, the combined effects of all the common and putative risk modifiers in this study only account for ~4% of the variance of BRCA2 mutations, compared with 1.1% for the single RAD51 135 G>C variant, which is rare and biologically-linked to BRCA2 function, as shown by candidate gene studies.
+0	cancers	BRCA1	NA	DISCUSS	Thus, the common alleles that modify risk in BRCA1 and BRCA2 backgrounds appear to have comparable associated risks in sporadic ER-positive and ER-negative tumors, respectively.
+0	NA	BRCA1	NA	DISCUSS	While individual SNPs are unlikely to be used to guide radiographic screening and risk-reducing surgical strategies, the combined effect of these SNPs may ultimately be used for the tailor management of subsets of BRCA mutation carriers
+0	insufficient	BRCA2	6174delT	DISCUSS	While we took great efforts to collect all of the possible known BRCA2 mutation carriers, there were insufficient numbers to stratify by race and BRCA2 mutations with the exception of BRCA2*6174delT mutations.
+0	NA	NA	NA	DISCUSS	Due to the small numbers of women of non-European ancestry who have participated in the individual studies represented here, the current analysis was based only on women who had genetic backgrounds consistent with HapMap CEU samples.
+0	NA	NA	NA	DISCUSS	While we expect that SNPs identified among women of European ancestry might also be applicable to women of other genetic backgrounds, additional research in these populations will be needed.
+0	NA	BRCA2	6174delT	DISCUSS	Similarly, the observed associations represented across all types of mutations, and specifically a weighted average of BRCA2*6174delT and non-delT mutations.
+0	NA	BRCA2	NA	DISCUSS	It is possible that the observed associations may only modify the penetrance of specific BRCA2 mutations due to differential effects on function or differences in genetic background.
+0	NA	BRCA2	6174delT	DISCUSS	Our analysis was stratified on the basis of the most common BRCA2 mutation, BRCA2*6174delT, which is prevalent in individuals with an Ashkenazi Jewish ancestry.
+0	NA	NA	NA	DISCUSS	Large numbers of mutation carriers will be necessary to calculate mutation-specific estimates.
+0	NA	NA	NA	DISCUSS	In addition, there was a drop-out of SNPs in the two phases of this study.
+0	NA	NA	NA	DISCUSS	While we were able to achieve a representative coverage of the genome, it is also possible that additional studies using denser arrays may provide further information
+0	breast cancer	NA	NA	DISCUSS	As expected, we observed associations with some of the major common genetic variants seen in genome-wide scans of breast cancer in a non-BRCA1/2 mutation background.
+1	NA	FGFR2	NA	DISCUSS	However, we found no evidence for loci with stronger effects than FGFR2.
+0	breast cancer	ZNF365	NA	DISCUSS	Although we observed an association with a novel locus at ZNF365 that appears also to be a risk factor for sporadic breast cancer, overall, our results suggest that there are no common variants with major effects (i.e., OR>2.0) that are specific in BRCA2 carriers.
+1	breast cancer	BRCA1	rs9393597	DISCUSS	Similarly, in a recent report of SNPs from sporadic breast cancer GWAS genotyped in a restricted set of BRCA1/2 carriers, loci in LOC134997 (rs9393597: per allele HR = 1.55, 95% CI 1.25-1.92, ) and FBXL7 (rs12652447: HR = 1.37, 95% CI 1.16-1.62, ) were associated with BRCA2 breast cancer risk with p-values weaker than FGFR2 reported here (per allele ), although the magnitudes of the associations were slightly stronger than FGFR2 (HR = 1.28).
+0	breast cancer	BRCA2	rs9393597	DISCUSS	Although these SNPs were not in our genotyped panel of SNPs at stage 1, imputation results indicate that SNP rs9393597 has a p-value of 0.008 and SNP rs12652447 a p-value of 0.04 for association with breast cancer risk for the BRCA2 mutation carriers in our stage1.
+0	NA	NA	NA	DISCUSS	However, there is substantial overlap between our study and the study of Wang et al.
+0	NA	NA	NA	DISCUSS	Replication in larger datasets will be necessary to precisely estimate the magnitude of the associations of suspected loci identified from our study, candidate gene analysis, and other selection approaches.
+0	breast cancer	BRCA2	NA	DISCUSS	It is of interest, however, that when utilizing an agnostic approach in BRCA2 mutation carriers in this study, the major determinants of risk variation in mutation carriers are those that also modify risk in subsets of sporadic, BRCA1/2 wild type, breast cancer.
+0	breast cancer	BRCA2	NA	DISCUSS	However, it remains possible that unique variants with smaller effects, or rarer variants (not evaluated in this experiment), may be specific modifiers of breast cancer risk in BRCA2 carriers.
+0	NA	NA	NA	DISCUSS	Their detection would require study populations much larger than the current analysis, which is presently the largest such cohort assembled
+0	NA	NA	NA	METHODS	All carriers were recruited to studies (Table 2) at the host institutions under IRB-approved protocols
+0	NA	BRCA2	NA	METHODS	A total of 6,272 BRCA2 carriers from 39 studies (Table 2) and 14 countries contributed DNA samples for this project.
+0	NA	BRCA1	NA	METHODS	With the exception of NICC, all studies are members of the Consortium of Investigators of Modifiers of BRCA1/2 (CIMBA).
+0	cancers	NA	NA	METHODS	Recruitment of carriers were conducted predominantly through cancer genetics clinics, and enrolled through national or regional efforts.
+0	NA	NA	NA	METHODS	Other studies were recruited through population-based or community-based ascertainments.
+0	NA	NA	NA	METHODS	All subjects provided written informed consent.
+0	NA	BRCA2	NA	METHODS	Eligible female carriers were aged 18 years or older, were self-reported 'white', and had mutations in BRCA2.
+0	cancers	NA	NA	METHODS	Data were available on age at study recruitment, age at cancer diagnosis, age of bilateral prophylactic mastectomy, BRCA1/2 mutation description, and self-reported ethnicity.
+0	cancers	progesterone receptor	NA	METHODS	Only a limited number of cases had detailed information on tumor characteristics (e.g., estrogen and progesterone receptor status); therefore, subtype analyses were not performed at this stage
+0	NA	NA	NA	METHODS	All eligible DNA samples provided by participating centers were subjected to a rigorous quality control assessment, including measures of overall DNA quality and quantity.
+0	NA	NA	NA	METHODS	A total of 1,156 young (<=50 years) affected women and 1,038 unaffected women with high quality DNA samples were selected (Table 2).
+0	NA	NA	NA	METHODS	For time efficiency, stage 1 genotyping occurred in two phases: phase 1 included 421 cases and 404 controls and phase 2 included 735 cases and 634 controls
+0	NA	NA	NA	METHODS	Prior to the genome-wide scan, we genotyped five SNPs previously genotyped by the CIMBA study centers as a pre-filter for sample identification.
+0	NA	NA	NA	METHODS	Thirty-one samples (Figure S1) were discordant in the two genotyping rounds and were excluded from further analysis
+0	NA	NA	NA	METHODS	The genotyping for the stage 1 GWAS was performed on 2,163 eligible carriers using the Affymetrix 6.0 GeneChip array that included 906,622 SNPs (Figure S1).
+0	NA	NA	NA	METHODS	To further monitor the identity of the DNA samples, a fingerprinting panel of 14 SNPs with a minor allele frequency >10% in HapMap European individuals were genotyped on all samples, using Sequenom iPLEX, before and after Affymetrix genotyping.
+0	NA	NA	NA	METHODS	The AMG gender assay was used for gender assessment.
+0	NA	NA	NA	METHODS	As an additional quality control measure, cases and controls were interleafed on each plate to eliminate technical bias.
+0	NA	NA	NA	METHODS	Each plate also included one HapMap CEU DNA sample
+0	NA	NA	NA	METHODS	The DNA samples and genotyping calls for both phases of stage 1 were filtered through a series of data quality control parameters using the Birdseed module of the Birdsuite software developed at Broad Institute.
+0	NA	NA	NA	METHODS	Among the 2,163 samples genotyped in the stage 1 GWAS, 253 failed to hybridize to the chip due to poor DNA quality and were excluded (Figure S1).
+0	NA	NA	NA	METHODS	Fifty-five samples were dropped with call rates <95%.
+0	NA	NA	NA	METHODS	Three samples were contaminated, 43 were identified by genotyping to be duplicates, and 4 were male; all were dropped from analyses
+0	NA	NA	NA	METHODS	SNPs were also filtered using Birdseed and were removed if monomorphic or >10% missing (n = 38,962), genotype call rates <95% (n = 50,810), minor allele frequencies <1% (n = 104,792), departures from Hardy-Weinberg Equilibrium (p<10-6; n = 1,090), differential missingness with respect to phenotype (p<10-3; n = 275), and differential missingness with respect to nearby SNPs (p<10-10; n = 22,065).
+0	NA	NA	NA	METHODS	A total of 6,212 SNPs had different missingness patterns in phase 1 compared to phase 2, and were excluded.
+0	NA	NA	NA	METHODS	Since we found that significant missingness correlated to SNPs mapping to longer fragments of Affymetrix 6.0 digestion products, we also removed the SNPs on fragments longer than 1000bp (n = 85,990)
+0	NA	NA	NA	METHODS	With the remaining 1,805 carriers and 596,426 SNPs, an iterative process proceeded to drop all individuals with low call rates (<95%), high autosomal heterozygosity rates (false discovery rate <0.1%), and high identity by descent scores (>=0.95) and to drop all SNPs with minor allele frequencies <1% and SNP call rates <95% until the final run contained individuals above the individual and SNP filter thresholds (n = 1,747 samples and 592,566 SNPs).
+0	NA	P<10-7	NA	METHODS	A more stringent HWE filter (p<10-7) was then applied and 403 additional SNPs were dropped.
+0	NA	NA	NA	METHODS	Nine individuals with missing mutation descriptions were removed
+0	NA	NA	NA	METHODS	Finally, principal components analysis was used to identify the ethnic outliers (Figure S5).
+0	NA	BRCA2	NA	METHODS	A total of 1,743 BRCA2 mutation carriers and the HapMap3 data for 210 individuals of European (CEU), Han Chinese (CHB), and Yoruba (YRI) African descent were available for multidimensional scaling using the genomic kinship matrix estimated using a set of 53,641 autosomal and uncorrelated SNPs.
+0	NA	NA	NA	METHODS	A cut-off of >11% was used to exclude samples with non-CEU ancestry (n = 35).
+0	NA	BRCA2	NA	METHODS	Genotype-phenotype association analyses were based on 1,703 (899 young affected and 804 unaffected) BRCA2 mutation carriers and 592,163 SNPs, covering 85% of the common HapMap 3 SNPs (imputed with  (see below), including 64% of the markers that were removed in the QC process)
+0	NA	NA	NA	METHODS	Where directly genotyped data were not available, probabilities were imputed with Beagle.3.0.2 (using the default parameters) using CEU+TSI samples on HapMap3 release2 B36 as the reference panel (410 chromosomes, 1.4 M SNPs)
+0	NA	NA	NA	METHODS	The primary SNP selection strategy was based on the results of the kinship-adjusted score test of 592,163 GWAS genotyped SNPs.
+0	NA	NA	NA	METHODS	From stage 1, a total of 79 top independent regions  with pairwise r2 values<0.80 were selected for genotyping in stage 2 (Figure S6).
+0	NA	NA	NA	METHODS	For the top 10 SNPs if available, an additional correlated SNP (pairwise ; n = 5) was selected to serve as genotyping backup.
+0	NA	NA	NA	METHODS	The remaining SNPs for stage 2 were selected based on two alternate strategies.
+1	breast cancer	FGFR2	NA	METHODS	First, we added the 14 (as well as FGFR2 counted in the top 10 SNPs above) confirmed breast cancer SNPs from prior independent GWAS of sporadic breast cancer.
+0	NA	NA	NA	METHODS	Second, we also selected the 15 top independent regions (pairwise ) based on the ranking of the p-values from a logistic regression analysis of 1.5 million imputed SNPs.
+0	breast cancer	NA	NA	METHODS	In total for stage 2 replication phase, we selected 113 SNPs and 1,524 breast cancer carriers and 1,508 control carriers (Table 2) for genotyping using the Sequenom iPLEX platform
+0	IBS	NA	NA	METHODS	Samples were excluded for call rates <=95% (n = 476), duplication in stage 2 (identity by state (IBS)~1.0; n = 43), duplication in stage 1 and 2 (IBS; n = 25), lack of complete phenotype data (n = 1), and insufficient country-specific numbers (n = 1; Figure S6).
+0	NA	NA	NA	METHODS	A total of 100 SNPs were successfully multiplexed into three pools; the remaining 13 SNPs were not genotyped.
+0	NA	MAF>1%	NA	METHODS	Genotyping QC filters excluded 15 SNPs due to call rates <=90% (n = 14) and MAF<1% (n = 1).
+0	NA	NA	NA	METHODS	In summary, the final association analyses in stage 2 were based on 2,486 carriers (1,264 affected and 1,222 unaffected carriers) and 85 SNPs
+0	Colon and Ovarian (PLCO) Cancer	NA	NA	METHODS	Carriers were censored at the first breast or ovarian cancer or bilateral prophylactic mastectomy, whichever occurred first.
+0	cancers	NA	NA	METHODS	Carriers who developed any cancer were censored at time of bilateral prophylactic mastectomy if it occurred more than a year prior to the cancer diagnosis (to avoid censoring at bilateral mastectomies related to diagnosis in which rounded ages were used).
+0	NA	NA	NA	METHODS	The remaining carriers were censored at the age of last observation.
+0	NA	NA	NA	METHODS	This was defined either by the age/date at interview or age at follow-up depending on the information provided by the participating center.
+0	breast cancer	NA	NA	METHODS	Carriers censored at diagnosis of breast cancer were considered cases in the analysis.
+0	Colon and Ovarian (PLCO) Cancer	NA	NA	METHODS	Mutation carriers censored at ovarian cancer diagnosis were considered unaffected.
+0	cancers	BRCA1	NA	METHODS	Carriers with a censoring/last follow-up age older than age 80 were censored at age 80 because there are no reliable cancer incidence rates for BRCA1/2 carriers beyond age 80
+0	NA	BRCA2	NA	METHODS	Analyses, based on 1,703 BRCA2 mutation carriers and 592,163 SNPs, were performed within a survival analysis framework.
+0	NA	Cox	NA	METHODS	Since the mutation carriers were not selected at random with respect to their disease status, standard methods of survival (e.g., Cox regression) may lead to biased estimates of relative risk.
+0	NA	NA	NA	METHODS	Therefore, analyses were conducted by modeling the retrospective likelihood of the observed genotypes conditional on the disease phenotypes.
+0	breast cancer	NA	NA	METHODS	The associations between genotype and breast cancer risk at both stages were assessed using the 1-degree of freedom score test statistic based on this retrospective likelihood, as previously described.
+0	NA	BRCA2	6174delT	METHODS	All models were stratified by country of study and 6174delT (c.5946delT) mutation status, the most common BRCA2 mutation in this study and a marker of the Ashkenazi Jewish population among Ashkenazi Jewish women.
+0	NA	NA	6174delT	METHODS	Since the linkage disequilibrium structure among Ashkenazi Jewish people may differ from other mutation carriers, stratifying by the *6174delT provides additional control for population stratification.
+0	NA	NA	NA	METHODS	To allow for the non-independence among related individuals, an adjusted version of the score test was used in which the variance of the score was derived by taking into account the correlation between the genotypes.
+0	NA	NA	NA	METHODS	Analyses were performed in R using the GenABEL libraries and custom written software
+0	NA	NA	NA	METHODS	To estimate the magnitude of the associations, the effect of each SNP was modelled either as a per allele hazard ratio (HR) (i.e., multiplicative model) or as separate HRs for heterozygotes and homozygotes, and these were estimated on the log scale.
+0	NA	NA	NA	METHODS	The HRs were assumed to be independent of age (i.e.
+0	NA	Cox	NA	METHODS	we used a Cox proportional-hazards model).
+0	NA	NA	NA	METHODS	For the most significant novel associations this assumption was verified by adding a genotype-by-age interaction term to the model to fit models in which the HR changed with age.
+0	NA	NA	NA	METHODS	The retrospective likelihood was implemented in the pedigree-analysis software MENDEL as previously described.
+0	breast cancer	BRCA2	6174delT	METHODS	All analyses were stratified by country of residence and 6174delT (c.5946delT) mutation status, and used calendar-year- and cohort-specific breast cancer incidence rates for BRCA2 .
+0	NA	NA	NA	METHODS	The combined stage 1 and stage 2 analyses were also stratified by stage.
+0	NA	NA	NA	METHODS	Parameter estimates were obtained by maximising the retrospective likelihood.
+0	NA	NA	NA	METHODS	To allow for the non-independence among related mutation carriers, we used a robust variance estimation approach in order to obtain standard errors for the parameters.
+0	NA	NA	NA	METHODS	Related individuals were identified through a unique family identifier
+0	breast cancer	NA	NA	METHODS	We also examined the association of both high-frequency and low-frequency copy number variants (CNV) to the age of diagnosis of breast cancer as a dichotomous trait using the stage 1 data.
+0	NA	NA	NA	METHODS	We called known, common variants (copy number polymorphisms, CNPs) with Canary.
+0	NA	NA	NA	METHODS	CNP alleles lower than 1% in frequency were removed, to maximize the number of the CNPs that were bi-allelic instead of multi-alleleic.
+0	NA	NA	NA	METHODS	CNPs were removed that had for call rate <95%, differential missingness by genotype (p<10-3), or departure from Hardy-Weinberg proportions (p<10-3).
+0	NA	NA	NA	METHODS	Post-QC, we had 191 high-quality genotyped polymorphisms.
+0	NA	NA	NA	METHODS	We used PLINK to assess association using logistic regression and the same ancestry covariates of no interest as with SNPs.
+0	NA	NA	NA	METHODS	We similarly assessed less common CNVs discovered by Birdseye for association with age at diagnosis using PLINK.
+0	NA	BRCA2	NA	METHODS	Finally, we also looked specifically at CNVs overlapping the BRCA2 gene itself using LOD scores and Birdseye
+0	NA	BRCA2	NA	METHODS	We looked for evidence of excess sharing across the genome and the BRCA2 region.
+0	autism	NA	NA	METHODS	Using GERMLINE, shared segments of greater than 5 cM were computed based on the imputed genotype dataset among both Ashkenazi (n = 304) and non-Jewish (n = 1,331) samples compared to samples from an autism study (n = 808) (Figure S3).
+0	NA	NA	NA	METHODS	Examining sites across the genome every 2.5 cM (excluding telomere and centromere regions), we computed the mean of the proportion, standard deviation, and the maximum values for non-Jewish and Ashkenazi women, respectively
+0	breast cancer	BRCA2	NA	METHODS	We tested whether 59 genes known to regulate or interact with BRCA2  (Table S1) were enriched for associations with age of onset of breast cancer in BRCA2 mutation carriers, using a new implementation of Gene Set Enrichment Analysis (GSEA) called Meta-Analysis Gene-Set Enrichment of variaNT Associations (MAGENTA).
+0	Fanconi anemia	BRCA1	NA	METHODS	The 59 genes were compiled using a Pubmed abstract mining software, Chilibot, and were selected if they were related to the Fanconi anemia pathway as well as others reported from literature to regulate or interact with BRCA1/2 .
+0	NA	NA	NA	METHODS	An association p-value was calculated for each gene in the genome, defined as the most-significant association p-value of all genotyped SNPs that lie within 110 kb upstream and 40 kb downstream to the gene's most extreme transcript boundaries, followed by correction for gene score confounders (gene size, number of SNPs per gene and linkage disequilibrium related properties).
+0	NA	NA	NA	METHODS	SNP association p-values were taken from the stage 1 GWAS.
+0	NA	BRCA1	NA	METHODS	To compute a GSEA p-value for the BRCA gene set, the fraction of genes with an association p-value more significant than the 95 percentile of all gene p-values in the genome was compared to a null distribution, generated by randomly sampling gene-sets of identical size from the genome 10,000 times.
+0	NA	BRCA1	NA	METHODS	Of the 59 BRCA interactors, two genes were assigned the same most significant SNP due to physical proximity in the genome.
+0	NA	NA	NA	METHODS	To prevent potential over-estimation of gene set enrichment due to physical clustering of genes in a gene set, we retained only one gene of each subset of genes assigned the same best SNP (the gene with the most significant gene p-value) for the analysis of both the real and permuted gene sets

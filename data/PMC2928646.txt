@@ -1,0 +1,134 @@
+0	breast cancer	NA	NA	ABSTRACT	The Cancer Genetic Markers of Susceptibility (CGEMS) initiative has conducted a three-stage genome-wide association study (GWAS) of breast cancer in 9,770 cases and 10,799 controls.
+0	breast cancer	NA	NA	ABSTRACT	In Stage 1, we genotyped 528,173 single nucleotide polymorphisms (SNPs) in 1,145 cases of invasive breast cancer among postmenopausal white women, and 1,142 controls; in Stage 2, 24,909 SNPs with low p values observed in Stage 1 were analyzed in 4,547 cases and 4,434 controls.
+0	NA	NA	NA	ABSTRACT	In Stage 3 we investigated 21 loci in 4,078 cases and 5,223 controls with low p values from Stage 1 and 2 combined.
+0	NA	NA	NA	ABSTRACT	Two novel loci achieved genome-wide significance.
+0	breast cancer	NOTCH2	rs11249433	ABSTRACT	A pericentromeric SNP on chromosome 1p11.2, rs11249433, (p=6.74 x 10-10 adjusted genotype test with 2 degrees of freedom) resides in a large block of linkage disequilibrium neighboring NOTCH2 and FCGR1B and is predominantly associated with estrogen receptor-positive breast cancer.
+1	breast cancer	RAD51L1	rs999737	ABSTRACT	A second SNP, rs999737 on chromosome 14q24.1 (p=1.74 x 10-7), localizes to RAD51L1, a gene in the homologous recombination DNA repair pathway, a prior candidate pathway for breast cancer susceptibility.
+0	NA	NA	NA	ABSTRACT	We confirmed previously reported markers on chromosome 2q35, 5q11.2, 5p12, 8q24, 10q26, and 16q12.1.
+0	breast cancer	NA	NA	ABSTRACT	Our results underscore the importance of large-scale replication in the identification of low penetrance breast cancer alleles
+0	breast cancer	NA	NA	INTRO	Epidemiologic investigation of breast cancer has identified a number of environmental and lifestyle risk factors (e.g., age at menarche and menopause, parity, age at first birth, body mass index and exogenous hormone use).
+0	breast cancer	NA	NA	INTRO	Breast cancer is nearly twice as frequent in first degree-relatives of women with the disease than in relatives of women without such a history, suggesting an important contribution of inherited susceptibility.
+0	breast cancer	NA	NA	INTRO	Established causal variants from before the GWAS era account for only a small fraction of sporadic breast cancers.
+0	NA	BRCA1	NA	INTRO	Established associations include high penetrance germline mutations segregating in high-risk pedigrees, most notably in BRCA1 and BRCA2; a handful of rare susceptibility variants with lower penetrance identified in DNA repair and apoptosis genes; only one locus with a minor allele frequency larger than 5% (CASP8) was found using the candidate gene approach in association studies
+0	breast cancer	NA	NA	INTRO	Genome-wide association studies have identified multiple new common genetic variants influencing breast cancer risk.
+0	NA	NA	NA	INTRO	Easton et al.
+1	breast cancer	FGFR2	NA	INTRO	analyzed genotypes from 390 cases enriched for a strong family history of breast cancer and 364 controls with 227,876 SNPs and followed the top 10,405 SNPs in a two-stage replication study (primarily conducted in population-based studies of unrelated subjects), resulting in the identification of 5 loci (10q26 (FGFR2), 16q12.1 (TNRC9), 5q11.2 (MAP3K1), 8q24 and 11p15.5 (LSP1)) based on large-scale follow-up studies.
+1	breast cancer	FGFR2	NA	INTRO	In the initial report from the NCI Cancer Genetic Markers of Susceptibility (CGEMS) initiative, based on a follow-up of the top ten SNPs from the Stage 1 GWAS, we independently identified SNPs in intron 2 of FGFR2 as associated with breast cancer at genome-wide significant levels.
+1	breast cancer	FGFR2	NA	INTRO	Subsequently, the FGFR2 locus was also identified in an Icelandic population and a locus at 2q35 was also reported to confer susceptibility to estrogen receptor [ER] positive breast cancer.
+0	NA	NA	NA	INTRO	Finally, combined analysis of a promising signal using the three published GWAS led to the identification of an additional locus on 5p12.
+0	NA	NA	NA	INTRO	Power calculations based on the available sample sizes (390-1,791 cases) in the three GWAS efforts, suggest each has limited power to detect the low observed relative risks (RRs of 1.1-1.3 per allele) at conventional levels of genome-wide significance (p < 5 x 10-7).
+0	NA	NA	NA	INTRO	Thus, it is likely that a high proportion of the susceptibility loci have not yet been detected
+0	breast cancer	NA	NA	INTRO	In Stage 1 of CGEMS, we genotyped 1,145 cases post-menopausal women of European ancestry with invasive breast cancer and 1,142 matched controls nested within the prospective Nurses' Health Study cohort.
+0	NA	NA	NA	INTRO	This stage used 528,173 SNPs that were estimated to be correlated with an r2>0.8 to approximately 90% of the common HapMap Phase II SNPs.
+0	NA	NA	NA	INTRO	We report here a follow-up of this first stage.
+0	NA	NA	NA	INTRO	In Stage 2, we attempted to genotype 30,448 SNPs in 4,547 cases and 4,434 controls from four different studies (Table 1).
+0	NA	NA	NA	INTRO	These SNPs were selected using a stepwise procedure (Supplementary Methods); the majority were chosen by an hypothesis-free (agnostic) strategy while approximately one fifth of the SNPs were selected by alternative approaches fully reported in the supplementary methods and described below
+0	NA	NA	NA	INTRO	Briefly, for Stage 2, 22,136 SNPs were first selected based on a p-value less than 0.05 in a logistic regression model using a two-degree of freedom (df) score test with indicator variables for heterozygous and homozygous carriers and four continuous variables representing principal components of population stratification.
+0	NA	NA	NA	INTRO	The 2-df score test was chosen because it makes minimal assumptions for the underlying genetic model.
+0	NA	NA	NA	INTRO	This set of SNPs was complemented with 2,773 SNPs with a p-value less than 0.06 in tests of dominant, recessive or multiplicative models that were not already included by virtue of their p-value in the score test (each test has 1 df - see Supplementary Methods).
+0	NA	NA	NA	INTRO	In the 'agnostic' category, SNPs with low p-values in strong linkage disequilibrium (r2>=0.8) were removed.
+0	NA	NA	NA	INTRO	We selected an additional 1,436 'agnostic' SNPs not included in the two previous criteria based on a 2-SNP test that conditioned each SNP on a neighboring SNP, if this improved the p-value relative to the single SNP-statistics by an order of magnitude.
+0	NA	NA	NA	INTRO	Loci marked by SNPs previously established by GWAS were further explored with a dense set of 1,711 SNPs.
+1	NA	FGFR2	NA	INTRO	Also included were 3,788 SNPs drawn from candidate genes in previously proposed pathways or identified in an analysis of suggested interaction with variants in intron 2 of the FGFR2 gene.
+0	NA	NA	NA	INTRO	Finally, to monitor population stratification, 1,508 SNPs with low pair-wise linkage disequilibrium were included
+0	NA	NA	NA	INTRO	A total of 30,278 SNPs (92.1%) provided reliable genotypes according to our quality control metrics (see Supplemental Methods).
+0	NA	NA	NA	INTRO	We removed subjects with greater than 20% admixture of non-European origin based on analysis using the STRUCTURE program.
+0	NA	NA	NA	INTRO	We conducted a principal component analysis (PCA) using the SNPs chosen to monitor population stratification and there was minimal evidence of population stratification observed between cases and controls; the distribution of the p-values for the association statistics with a 2 degree-of-freedom test unadjusted for population heterogeneity was close to the expected distribution under the null hypothesis.
+0	NA	NA	NA	INTRO	The inflation factor, lambda, 1.010 was reduced to 1.009 when the first four principal components were included as covariates in the association test.
+0	NA	NA	NA	INTRO	A joint analysis of the genotypes in the first and second stages was performed using an age, study design and population stratification-adjusted multinomial regression analysis (2 df test)
+0	breast cancer	NA	NA	INTRO	In the combined analysis of the initial scan with the second stage, we note that markers in 6 of the reported 7 loci identified in prior GWAS studies were strongly associated with breast cancer risk in post-menopausal women (Table 2).
+1	NA	MAP3K1	NA	INTRO	SNPs in 2q35, 5q11.2 (MAP3K1), 5p12, 8q24, 10q26 (FGFR2) and 16q12.1 (TOX3/TNRC9) provided strong signals (Table 2 and Supplemental Table 1); in some cases, an alternative SNP to the originally reported SNP provided a smaller p value (see below).
+0	NA	LSP1	rs3817198	INTRO	The lowest p value for a marker at 11p15.5 (LSP1, rs3817198) was minimally significant (p= 3.87 x 10-2, trend test with 1 df- see Supplemental Table 1) but its allele-specific odd ratio was similar to that reported previously (heterozygote odds ratio [OR] 1.04; 95% CI 1.00 to 1.09; homozygote OR 1.09; 95% CI 1.00-1.19 in our combined three-stage analysis.
+0	NA	CASP8	D302H	INTRO	For the single candidate gene variant that had previously been reported as genome-wide significant, the results for rs1045485 in CASP8 (p=5.47 x 10-2, trend test with 1 df) were also consistent with previous findings (heterozygote OR 0.96; CI 95% 0.91-1.00; homozygote OR 0.92; CI 95% 0.84-1.00).
+0	NA	NA	rs2107425	INTRO	After Stage 2, no indication of association (p2df=0.50) was observed for rs2107425 in the H19 region, previously associated at lower level of significance by Easton et al.
+0	NA	NA	NA	INTRO	(reported ptrend=2 x 10-5).
+0	NA	MAF	rs2180341	INTRO	A GWAS in American Jewish women of Ashkenazi background had identified a locus on chromosome 6 (rs2180341) with a MAF of 0.21 and a per allele OR of 1.41 (p= 3.0 x10-8).
+0	NA	NA	rs9398840	INTRO	In CGEMS, SNP rs9398840, which was strongly correlated with rs2180341 (r2=1.0) in the CEU HapMap population was not significantly associated (p2df=0.58) and not taken into Stage 2
+0	NA	NA	NA	INTRO	Stage 3 included a set of 24 SNPs, 21 of which were based on a preliminary combined analysis of the first two stages, in 4,078 cases and 5,223 controls drawn from five studies (Tables 1 and 2).
+0	NA	NA	NA	INTRO	Specifically, we examined 16 promising novel regions based on the lowest p values of the preliminary data build with one SNP.
+0	NA	NA	NA	INTRO	Two novel regions were examined with two SNPs apiece.
+0	NA	NA	rs724244	INTRO	In a region of 3p24.1, two SNPs, rs724244 and 4973768, separated by 170 kb (r2 =0.35) each had low p values.
+0	NA	NA	NA	INTRO	In region 1p34.2 because of difficulty in the assay design, two SNPs, separated by 40 kb and in strong LD were selected (r2= 0.88).
+0	NA	NA	rs4415084	INTRO	In the region of the two SNPs in 5p12, in which rs4415084 and rs10941679 were recently reported by Stacey et.
+0	NA	NA	rs7716600	INTRO	al., we advanced two more SNPs, rs7716600 and rs2067980, separated by 100 kb (r2= 0.50) (Figure 1) Thus, the 5p12 region was explored with four SNPs.
+0	NA	LSP1	rs3817198	INTRO	For Stage 3, rs3817198 in LSP1 was also added to the set because of a prior publication
+0	NA	NA	NA	INTRO	The results of Stage 3 are remarkable for only four SNPs.
+1	NA	NA	rs11249433	INTRO	Two novel SNPs, rs11249433 in the pericentromeric region of chromosome 1, and rs999737 in the candidate gene, RAD51-like 1 gene (RAD51L1) on chromosome 14q24.1, reached genome-wide significance in the combined analysis of all three stages (Table 3).
+0	NA	NA	rs7716600	INTRO	Two of the SNPs in 5p12, rs7716600 and rs4415084, confirmed the previously reported signals
+0	NA	NA	rs11249433	INTRO	The results of a combined joint adjusted analysis of the initial genome-wide scan plus two stages of follow-up provide conclusive statistical significance for an association with a novel marker, rs11249433 located in the pericentromeric region of the short arm of chromosome 1 (p = 6.74 x 10-10) (Figure 1 and Table 3).
+0	NA	NA	rs11249433	INTRO	Pericentromeric regions are known to be recombination-poor regions and thus it is not surprising to observe that rs11249433 maps to large block of linkage disequilibrium.
+0	NA	NA	NA	INTRO	The definition of the block is difficult to determine for two reasons: (1) its close proximity to the centromere and (2) presence of a SNP desert of approximately 220kb which is immediately distal to the block (Figure 2A).
+0	NA	Fc gamma receptor	NA	INTRO	The block contains several pseudogenes, and a member of the highly paralogous low affinity Fc gamma receptor family, FCGR1B.
+0	diabetes	NOTCH2	NA	INTRO	Distal to the SNP desert is the promoter of NOTCH2, a gene recently shown to be associated with type 2 diabetes.
+0	diabetes	NA	NA	INTRO	Some epidemiological studies have suggested an association between type 2 diabetes and post-menopausal breast cancer.
+0	NA	NA	NA	INTRO	Further mapping and subsequent functional work is required to provide plausibility for the association signal observed with rs11249433
+1	breast cancer	RAD51L1	rs999737	INTRO	The second novel marker, rs999737 is in a gene in prior candidate pathway for breast cancer susceptibility, the double-strand break repair/homologous recombination pathway, RAD51L1 (also known as RAD51B) on chromosome 14q24.1 (p = 1.74 x 10-7) (Table 3).
+0	NA	NA	NA	INTRO	The SNP maps to a 70Kb LD block defined by two recombination hotspots and is entirely contained within intron 12 of the gene (Figure 2B and Supplemental Figure 1).
+1	NA	RAD51	NA	INTRO	Its gene product is one of five paralogs that interact directly with that of the RAD51 gene, that catalyzes key reactions in homologous recombination.
+1	NA	RAD51	NA	INTRO	A polymorphism in the 5'UTR of RAD51 has recently been identified as a genetic modifier of outcome in women with deleterious BRCA2 mutations.
+1	Li-Fraumeni syndrome	RAD51L1	NA	INTRO	A copy number variation on chromosome 14q24.1 that includes the RAD51L1 has been observed repeatedly in pedigrees with Li-Fraumeni syndrome, suggesting a possible contribution of this locus to the spectrum of cancers (that includes breast cancer) observed in this hereditary syndrome.
+0	NA	NA	NA	INTRO	Further work is warranted to dissect the genetic signal and investigate potential functional variants
+0	NA	ER	NA	INTRO	Tumor estrogen receptor (ER) status was available for 6,386 cases.
+1	NA	ER	rs11249433	INTRO	Figure 3 shows the results of the analysis for the two novel SNPs, rs11249433 (chromosome 1) and rs999737 (chromosome 14) by estrogen receptor status.
+0	breast cancer	NA	rs11249433	INTRO	The association with rs11249433 is more apparent for ER+ compared to ER- breast cancer (Supplementary Tables 2, 3 and 4).
+0	breast cancer	NA	NA	INTRO	The observed difference was significant in a case/case comparison (trend p value = 0.001), suggesting that the chromosome 1 locus could be more important in ER+ breast cancer susceptibility.
+1	NA	NA	rs999737	INTRO	Although there was also some evidence for a stronger association with ER+ disease for the chromosome 14 SNP, rs999737, it was not significant (trend p value = 0.20).
+0	NA	NA	NA	INTRO	An analysis stratified by age did not demonstrate any significant differences for the two SNPs, though it should be emphasized that the majority of cases are post-menopausal women
+1	NA	FGFR2	NA	INTRO	Given the initial genome coverage of the CGEMS study using the Illumina HumanHap500 platform and the number of cases and controls investigated, it is unlikely that many more common loci with relative risks comparable to FGFR2 will be discovered for the European population.
+0	NA	NA	NA	INTRO	The present study has confirmed strong association signals for 6 genomic regions previously reported and identified novel associations at genome-wide significance for markers on chromosome 1p11.2 and 14q24.1.
+0	NA	CASP8	NA	INTRO	In addition, we provide supportive evidence for two loci, previously associated with genome-wide significance, namely, 2p24.1 (CASP8) and 11p15.5 (LSP1).
+0	NA	MAF	NA	INTRO	Though the direction and magnitude of the association signal is consistent with prior reports, our study indicates that larger data sets are required to identify at genome-wide significance levels loci with smaller estimated per allele effect sizes, especially SNPs with low MAF or for which the per allele OR is estimated to be 1.1 or less.
+0	breast cancer	NA	NA	INTRO	Moreover, our study suggests the value of combining scans for discovery with subsequent follow-up in large data sets, such as CGEMS and Breast Cancer Association Consortium (BCAC).
+0	NA	NA	NA	INTRO	The individual genotype data for the Stage 1 CGEMS GWAS in 1,145 cases and 1,142 controls, and the aggregate data for Stages 1, 2 and 3 are available to researchers registered after approval by the NCI Data Access Committee (DAC) through the CGEMS portal (http://cgems.cancer.gov)
+0	breast cancer	NA	NA	INTRO	To date, GWAS for breast cancer have been conducted largely among women of European ancestry, mainly with ER+ tumors.
+0	NA	NA	NA	INTRO	Well-designed scans in other populations should yield additional loci, some of which could be population-specific.
+0	cancers	NA	NA	INTRO	Additional scans of ER-ve tumors will be needed to find loci specific to this subtype.
+0	NA	NA	NA	INTRO	Together these findings should accelerate the effort to dissect the genetic signals observed in multi-stage GWAS in an effort to nominate variants for further investigation of their biological basis.
+0	breast cancer	NA	NA	INTRO	The evidence for two new associations presented in this study pinpoints genomic regions that could elucidate novel etiologic pathways contributing to the development of breast cancer.
+0	breast cancer	NA	NA	INTRO	Carriage of the multiple loci reported so far, together with additional loci to be identified in follow-up of this and other studies, should refine estimates of the increased risk of sporadic breast cancer associated with inherited genetic loci, although the clinical utility of these estimates has yet to be determine
+0	breast cancer	NA	NA	METHODS	Briefly, this study reports the follow-up genotyping of studies based on the previously reported genome-wide scan conducted in the prospective Nurses' Health Study using the Human Hap500 Infinium Assay (Illumina) in 1,145 cases of women with post-menopausal breast cancer and 1,142 controls.
+0	NA	NA	NA	METHODS	The details are reported elsewhere.
+0	NA	NA	NA	METHODS	Quality control metrics included removal of samples with call rates under 90% and SNP assays with call rates under 95%.
+0	NA	NA	NA	METHODS	Subjects with more than 15% admixture of non-European background were removed from the analysis
+0	breast cancer	NA	NA	METHODS	In Stage 2, we genotyped 30,278 SNPs in four follow-up studies of women of European background with breast cancer totaling 4,547 cases and 4,434 controls drawn from the American Cancer Society Cancer Prevention Study II, the Prostate, Lung, Colon and Ovarian Screening Trial, part of the available Polish Breast Cancer Study and the observational arm of the Women's Health Initiative.
+0	breast cancer	NA	NA	METHODS	In Stage 3, we genotyped 24 SNPs in 4,078 cases of breast cancer in women of European background and 5,223 controls drawn from the CONOR Norwegian cohort, the remaining cases and controls of the Polish Breast Cancer Study, the U.S. Radiologic Technologists Study, the Nurses' Health Study II, and the Women's Health Study.
+0	NA	NA	NA	METHODS	These studies were approved by the appropriate institutional review boards
+0	NA	NA	NA	METHODS	In Stages 2 and 3, we genotyped 18,282 unique subjects (excluding validation samples and study duplicates) passing sample handling quality control metrics in the Core Genotyping Facility of the National Cancer Institute.
+0	NHS Rheumatology	NA	NA	METHODS	For NHS II and WHS, the 24 SNPs of Stage 3 were genotyped at the DF/HCC Genotyping Core at the Harvard School of Public Health, Boston, MA.
+0	NA	NA	NA	METHODS	Stage 2 was genotyped using a custom-designed iSelect assay from Illumina with content described above; 9,804 samples were attempted (including known duplicates).
+0	NA	NA	NA	METHODS	Using quality control measures, samples were removed with call rates under 90% and SNPs with call rates under 95%.
+0	NA	NA	NA	METHODS	Fitness for Hardy-Weinberg proportion was assessed for each SNP in unique controls subjects only but was not used to exclude SNP assays (see Supplemental Methods).
+0	NA	NA	NA	METHODS	In Stage 3, we genotyped 9,301 unique subjects for 24 TaqMan assays (ABI) selected on the criteria described above using custom designed assays that were subsequently optimized in the SNP500Cancer initiative
+0	NA	NA	NA	METHODS	A small fraction (less than 2%) of subjects who were successfully genotyped in Stage 2 were excluded from analysis due to one of the following reasons: 1.
+0	NA	NA	NA	METHODS	Unanticipated interstudy or intrastudy duplicates; 2.
+0	NA	NA	NA	METHODS	Unanticipated non-European admixture of greater than 20% (e.g., African or East Asian; notably, in Stage 1, the threshold for non-European admixture was 15%); and/or 3.
+0	NA	NA	NA	METHODS	Incomplete covariate data
+0	NA	NA	NA	METHODS	In Stage 2, a total of 16,715 discordant genotypes were detected out of a possible 7,255,923 genotype comparisons (237 duplicate pairs and one triplicate) yielding a discordance rate of 0.23%.
+0	NA	NA	NA	METHODS	Infinium cluster plots for notable SNPs are included in Supplemental Methods
+0	breast cancer	NA	NA	METHODS	For the 24 SNPs analyzed in Stage 3, we validated genotype calls determined by Infinium HumanHap500 and custom iSelect assay by comparing TaqMan results in the entire Polish Breast Cancer Study.
+0	NA	NA	NA	METHODS	1,110 samples were genotyped with both platforms and the overall concordance rate was 99.52% (see Supplemental Materials for results)
+0	NA	NA	NA	METHODS	For the follow-up replication studies, all one-SNP analyses were conducted using unconditional logistic regression, adjusted for age in ten year intervals and study.
+0	NA	NA	NA	METHODS	For Stages 1 and 2, four continuous covariates were included to account for population heterogeneity based on principal component analysis of genotype correlations.
+0	NA	NA	NA	METHODS	Separate analyses were conducted according to the individual studies, the pooled replication studies in Stage 2 and Stage 3 and for all studies combined.
+0	NA	NA	NA	METHODS	Genotype effects were modeled individually, and a single-SNP score test with two degrees of freedom was computed.
+0	NA	NA	NA	METHODS	To enable comparison with other published GWAS, a Cochran-Armitage trend test was also performed.
+0	breast cancer	NA	NA	METHODS	To explore a possible difference in effect between estrogen-positive and estrogen-negative breast cancer, separate analyses were conducted for ER+ and ER- cases, using a trend test with 1 degree of freedom.
+0	NA	NA	NA	METHODS	We used GLU (Genotyping Library and Utilities version 1.0), a suite of tools available as an open-source application for management, storage and analysis of GWAS data.
+0	NA	NA	NA	METHODS	STRUCTURE and EIGENSTRAT programs were used to assess population heterogeneity (see URLs below
+0	NA	NA	NA	FIG	This figure includes the most promising SNP associations based on a combined analysis of Stage 1 and Stage 2.
+0	NA	NA	NA	FIG	A joint analysis of the genotypes was performed using an age, study design and population stratification-adjusted logistic regression analysis (2 df test).
+0	NA	NA	NA	FIG	Dashed vertical lines indicate loci previously reported in GWAS.
+0	NA	NA	NA	FIG	The horizontal magenta line denotes the range of genome-wide significance (p < 5 x 10-7).
+0	NA	NA	NA	FIG	Black vertical arrows indicate loci explored in Stage 3 chosen on the basis of the p value.
+0	NA	LSP1	rs3817198	FIG	The magenta vertical arrow point to rs3817198 in the LSP1 gene.
+0	NA	NA	NA	FIG	Blue dots denote the results of the genotype test and red dots denote the trend test
+0	NA	MAF	NA	FIG	Both panels present the LD plots (using D') for novel loci based on SNPs with MAF > 5% using HapMap Stage II individuals of European background (n=60 unrelated individuals).
+0	NA	NA	NA	FIG	Above the plots are the results of the three individual Stages and the combined analysis for the SNPs reaching genome-wide significance.
+0	NA	NA	rs11249433	FIG	Panel A. Chromosome 1 region marked by rs11249433 and bounded by SNPs between chr1:120,400,700 -121,060,765.
+0	NA	NA	NA	FIG	"Note that one side is closely anchored to the centromere while the region distal to the centromere is bounded by a ""SNP desert"" of approximately 220 kb."
+1	NA	NA	rs999737	FIG	Panel B. Chromosome 14q24.1 region marked by rs999737 and the block resides in the intron between two exons, of which the last has been observed in one of the three splice variants observed.
+1	NA	RAD51L1	NA	FIG	Note that the SNP is located in an intron exclusive to the longest predicted transcript of RAD51L1
+0	NA	NA	NA	FIG	The results of the Overall Pooled analysis, and case-control analyses for ER+ cases, and ER-ve cases, were generated using a trend test with one degree of freedom.
+0	NA	NA	NA	FIG	The figure includes per allele odd ratio (log additive/multiplicative model) for each study.
+1	NA	NA	rs1124933	FIG	For the overall analysis, the P-heterogeneity values are for rs1124933 P=0.44, and for rs999737 P=0.79.
+0	NA	ER	NA	FIG	Data were available for estrogen-receptor status in 6,586 cases

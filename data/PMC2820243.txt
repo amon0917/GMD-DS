@@ -1,0 +1,128 @@
+0	NA	NA	NA	ABSTRACT	Genomewide association studies to map common disease susceptibility loci have been hugely successful with over 300 reproducibly associated loci reported to date, but, perhaps surprisingly, have not yet provided convincing evidence for any susceptibility locus subject to parent of origin effects.
+1	insulin-treated diabetes	DLK1	rs941576	ABSTRACT	We used imputation to extend existing genomewide association datasets and here report robust evidence, at rs941576, for paternally inherited risk of type 1 diabetes (T1D, ratio of allelic effects for paternal vs maternal transmissions = 0.75, 95%CI=0.71-0.79), in the imprinted region of chromosome 14q32.2, which contains a functional candidate gene, DLK1.
+1	autoimmunity of systemic lupus erythematosus	TYK2	rs2304256	ABSTRACT	Our meta-analysis also provided support at genomewide significance for a T1D locus at chromosome 19p13.2, with the highest association at marker rs2304256 (OR=0.86, 95%CI=0.82-0.90) in the TYK2 gene, which has previously associated with systemic lupus erythematosus
+0	NA	NA	NA	INTRO	We used imputation to assess association with T1D across 2.6 million polymorphic SNPs from the International HapMap Project in a total of 7514 cases and 9405 controls of European ancestry from three existing genomewide association studies: WTCCC (UK), GAIN/NIMH (USA), T1DGC (UK) (supplementary table 1).
+0	NA	NA	NA	INTRO	The R package snpMatrix was used to conduct the imputation and calculate single SNP association score tests for each HapMap SNP.
+0	NA	NA	NA	INTRO	The score tests are based on the Cochran-Armitage test, with a Mantel extension to allow combination over different strata (UK region in the case of the WTCCC and T1DGC samples, and an estimated ancestry score derived from principal components in the case of the GoKinD/NIMH samples).
+0	NA	NA	NA	INTRO	For imputed SNPs, the score statistics are calculated using the expected value of the imputed SNP, given observed SNPs, with the expectation calculated under the null hypothesis
+0	NA	NA	NA	INTRO	Overall, there was some over-dispersion of test statistics (lambda = 1.14 and lambda = 1.09 for 1 degree of freedom (df) and 2df tests respectively).
+0	NA	NA	NA	INTRO	This is consistent with the large sample size (almost 17,000 samples) and the over-dispersion observed in earlier analysis of these data without HapMap imputation.
+0	NA	NA	NA	INTRO	Barrett et al argue that the greater contributor to over-dispersion in these data is bias (eg differential genotyping error) rather than population structure, and therefore cluster plots for all SNPs used to impute associated SNPs were examined carefully.
+0	NA	NA	NA	INTRO	Three loci showed suggestive evidence for association (p < 10-7) in regions not previously associated with T1D (supplementary figure 1; supplementary table 2).
+0	NA	NA	rs229484	INTRO	One SNP, rs229484, is proximal (30kb) to a nearby known T1D locus (rs229541), also at 22q13.1, but is separated by two moderate recombination hotspots and there is low LD between the two markers (r2=0.1, D'=0.4)
+0	NA	NA	NA	INTRO	In order to replicate these potential effects, we carried out direct genotyping of the three SNPs using TaqMan in a subset of the GWA samples, additional case-control and family samples and obtained evidence for association in two of the three loci (table 1, supplementary table 3).
+1	NA	NA	rs2304256	INTRO	In these two loci, the overall levels of significance were < 10-8: rs2304256 p = 4.13 x 10-9, rs941576 p = 1.62 x 10-10
+1	NA	TYK2	rs2304256	INTRO	rs2304256 C>A (OR for A vs C = 0.86) is located within the TYK2 gene at chromosome 19p13.2, which is implicated in IFN-alpha, IL-6, IL-10 and IL-12 signalling.
+0	NA	NA	NA	INTRO	This is a region of wide LD containing several functional candidate genes (supplementary figure 2).
+1	NA	TYK2	rs2304256	INTRO	rs2304256 is one of six SNPs in 1000 Genomes (pilot 1, April 2009) in mutual tight LD (r2 > 0.9); two are located within TYK2 (rs34725611 and rs11085725 in introns 6 and 23 respectively) and the remaining three (not yet in dbSNP) are downstream of TYK2 and upstream of ICAM3.
+0	NA	NA	NA	INTRO	No other SNPs had r2 > 0.62 with any of these six.
+0	autoimmunity of systemic lupus erythematosus	NA	rs2304256	INTRO	rs2304256 itself is a non-synonymous SNP (Val362Phe) which has also been associated with systemic lupus erythematosus (SLE); in both T1D and SLE the minor (and inferred non-ancestral) allele (A/Phe) appears protective
+1	NA	NA	rs941576	INTRO	Most interestingly, the newly identified locus with the strongest association with T1D susceptibility occured in a well established imprinted region on chromosome 14q32.2 marked by SNP rs941576 A>G (OR for G vs A = 0.9).
+0	NA	insulin	rs7111341	INTRO	Beyond the insulin T1D susceptibility locus, marked by rs7111341 in Barrett et al, we do not know of any other T1D SNPs in established imprinted genes.
+1	NA	DLK1	NA	INTRO	Within this imprinted region of just over 1Mb, a mixture of paternally derived (DLK1, RTL1, DIO3) and maternally derived (MEG3, MEG8) genes are expressed (figure 1).
+0	NA	NA	NA	INTRO	Therefore, we tested for a parent of origin effect, expecting to see excess transmissions of the risk allele from either fathers or mothers (but not both) if the SNP was acting to influence one of these imprinted genes.
+0	NA	NA	NA	INTRO	A simple way to do this is to consider separately the paternal and maternal transmissions in a transmission disequilibrium testing (TDT) framework, and this showed strong evidence for reduced paternal transmission of the protective G allele (p=6.3 x 10-8).
+0	NA	NA	NA	INTRO	Although the maternal transmissions are distorted in the same direction and a small effect of the maternal copy cannot be discounted, there is no significant evidence for such an effect (p = 0.11; table 2).
+0	NA	NA	NA	INTRO	However, effects due to the action of maternal genotype in utero are confounded with imprinting effects, so we fitted a model allowing for both maternal genotype and imprinting effects.
+0	NA	NA	NA	INTRO	This has been approached in case-parent trio data by log-linear modelling of counts of trios by parental and affected offspring genotype.
+0	NA	NA	NA	INTRO	We extended this method to allow for the fact that many of our families had multiple affected offspring (see supplementary methods) and found that the imprinting-only model was preferred (supplementary table 4); under that model, the imprinting effect was highly significant (p = 1.85 x 10-8) with the ratio of allelic effects for paternally to maternally inherited alleles equal to 0.75.
+0	NA	NA	NA	INTRO	This test gains power by using information on parental asymmetry induced by parent-of-origin effects.
+0	NA	NA	NA	INTRO	Asymmetry was clearly exhibited in our data: the protective allele (G) is less common amongst fathers of affected offspring than mothers (0.43 vs 0.47, p = 6.53 x 10-7).
+0	NA	NA	NA	INTRO	To reassure ourselves against a false positive result, driven by unusual patterns in a subset of the data, we reanalysed the families subdivided by broad geographical region, and found consistent effect estimates across all regions (table 3)
+1	NA	MEG3	rs941576	INTRO	The SNP rs941576 lies within intron 6 of the maternally expressed non-coding RNA gene, MEG3.
+1	NA	DLK1	NA	INTRO	However, our observation that only transmissions from fathers alter T1D risk suggest the causal variant influences one of the paternally expressed imprinted genes in its neighbourhood: DLK1, RTL1 or DIO3.
+1	NA	DLK1	rs941576	INTRO	rs941576 is between and downstream of both DLK1 and RTL1 and upstream of DIO3, at distances of 105kb, 41kb and 721kb respectively.
+1	NA	NA	rs941576	INTRO	Unusually for a locus identified from GWA data, the signal is restricted to rs941576 and there are no SNPs in HapMap or the current pre-release of 1000 Genomes Project (pilot 1, April 2009) which are in strong or moderate LD with rs941576 (all r2 < 0.5, data not shown).
+1	NA	NA	rs941576	INTRO	Although that does not preclude the existence of an as yet unknown variant (SNP or structural variant) in tighter LD, rs941576 lies within a region conserved across mammalian species, including opossum.
+1	NA	MEG3	NA	INTRO	This is interesting because the region is not imprinted in the opossum, there is no sequence homology to MEG3 and, while there is some sequence homology to mouse and human RTL1 gene, it appears to be extensively degraded in opossum.
+1	NA	DLK1	NA	INTRO	Thus, if the region is conserved because it contains regulatory elements of nearby genes, these must regulate one of the genes common to all mammals, ie DLK1 or DIO3
+1	NA	NA	rs941576	INTRO	Although rs941576 lies some distance from the paternally expressed genes in the region, regulatory regions can lie >100kb from their target genes, particularly in imprinted regions.
+1	NA	MEG3	NA	INTRO	This region is already subject to long-range cis-acting regulation from the intergenic differentially methylated region (DMR) located 12.5kb upstream of MEG3.
+0	NA	MEG3	NA	INTRO	Insertion of a transgene in the mouse downstream of this DMR causes loss of imprinting on the paternal chromosome, biallelic expression of the mouse homologue of MEG3, Gtl2 and reduced expression of Dlk1.
+1	NA	DLK1	NA	INTRO	Thus, it is plausible that this SNP (or another unknown variant nearby) could alter the regulation of the paternally expressed DLK1 or RTL1 genes
+1	NA	DLK1	NA	INTRO	Of the paternally expressed genes, only DLK1 has a strong functional candidacy.
+1	pancreatic	DLK1	NA	INTRO	It is most strongly expressed in human heart, pancreatic islet cells, pituitary tissue, ovaries, placenta and testes (T1DBase, BioGPS), is related to members of the Notch-Delta family of signalling molecules and encodes a membrane bound protein, which can be cleaved to form fetal antigen 1 (FA1).
+1	pancreatic	DLK1	NA	INTRO	FA1 is involved in differentiation of many cell types including pancreatic beta cells where FA1 immunoreactivity has been localised to glucagon-negative cells in the mature pancreas.
+1	hematopoiesis	DLK1	NA	INTRO	FA1 is also involved in hematopoiesis including differentiation and function of B lymphocytes and has been shown to increase expression of pro-inflammatory cytokines in human bone marrow mesenchymal stem cells and promote B cell proliferation in human peripheral blood.
+1	NA	DLK1	NA	INTRO	Thus there are a number of ways in which variation in the expression of DLK1 could alter susceptibility to T1D, which is caused by autoimmune destruction of insulin-producing beta cells in the pancreas
+0	NA	NA	NA	INTRO	The mechanisms underlying imprinting are not yet fully understood, but are known to involve epigenetic processes including DNA methylation and histone acetylation.
+1	NA	DLK1	NA	INTRO	The causal variant underlying this association could be acting directly to alter the expression of the paternally inherited copy of a nearby gene (DLK1 appears to be the strongest candidate), or it could act by interfering subtly with the imprinting mechanism and in turn alter expression of either the paternally or maternally inherited copies of a target gene.
+1	NA	NA	rs941576	INTRO	Although rs941576 may be tagging an unknown causal variant, there is support for the hypothesis that this SNP is itself the causal variant, given its isolation from other SNPs in terms of linkage disequilibrium, and its location in a conserved and, presumably, regulatory region
+0	Prader-Willi syndrome	NA	NA	INTRO	Rare disorders related to imprinting defects are known (eg Prader-Willi syndrome, OMIM 176270).
+0	NA	NA	NA	INTRO	For common complex diseases, over 300 reproducibly associated loci have been reported, but we are not aware of any convincing evidence for another susceptibility locus subject to parent of origin effects.
+0	NA	insulin	NA	INTRO	At least one common disease locus overlaps a known imprinted region: the T1D associated region of chromosome 11p15 contains the insulin and IGF2 genes, but a previous report by our group of potential parent of origin effects at this locus in T1D has not yet been substantiated.
+0	basal cell carcinoma	NA	NA	INTRO	We are aware of only one other report of a parent of origin effect, in basal cell carcinoma, although this was only demonstrated in a single population and at a relatively modest level of statistical significance (p   0.01)
+0	NA	NA	NA	METHODS	A total of 7514 cases and 9045 controls samples were included, from three GWA studies: WTCCC (UK), T1DGC (UK) GAIN/NIMH (USA); the samples, and their genotyping have been described previously.
+0	NA	NA	NA	METHODS	Numbers of samples from each study, and genotyping platform are given in supplementary table 1.
+0	NA	NA	NA	METHODS	SNP and sample exclusion criteria were as applied previously.
+0	NA	NA	NA	METHODS	Briefly, all subjects were of White European ancestry, and samples were excluded if they showed evidence of non-European ancestry, or of being duplicates of or closely related to another sample in the study.
+0	NA	NA	NA	METHODS	SNPs were excluded if the minor allele frequency (MAF) fell below 1% in cases or controls, if they deviated from Hardy-Weinberg equilibrium (p < 5.7 x 10-7), if the call rate fell below 95% (WTCCC and T1DGC) or if a genotype-calling metric indicated insufficient separation of the signal clouds (GoKinD/NIMH)
+0	NA	NA	NA	METHODS	SNPs showing suggestive association in the imputed analysis were genotyped directly using TaqMan (Applied Biosystems) on a subset of the GWA samples (the T1DGC, all WTCCC cases and about half the WTCCC controls were unavailable to us), additional case-control samples, and a set of family samples with T1D affected offspring (supplementary table 1).
+0	NA	NA	NA	METHODS	The additional case and control samples have also been described previously.
+0	NA	NA	NA	METHODS	The family samples were drawn from across Europe and America, and are predominantly of White European origin; we did not exclude subjects who self-reported a non-White European origin as testing for transmissions within families is equivalent to a pseudo case control approach, with ethnically matched controls.
+0	NA	NA	NA	METHODS	All Taqman genotyping data were scored twice to minimize error; the second operator was unaware of case-control status and family structure
+0	NA	NA	NA	METHODS	For each of the three studies considered, we divided SNPs from HapMap version 2 (release 24) into two sets - those which were genotyped and passed quality control (QC) thresholds in the study (X) and those which were not genotyped or failed QC (Y).
+0	NA	NA	NA	METHODS	"The R package snpMatrix from the Bioconductor project was to used calculate imputation ""rules"" for prediction of each SNP in Y from nearby SNPs in X using HapMap genotypes and to carry out association tests for the imputed SNPs."
+0	NA	NA	NA	METHODS	The algorithms used in snpMatrix, together with the parameter settings we used, are described below
+0	NA	NA	NA	METHODS	In regions of high LD, the genotype of one SNP can be related to the genotypes of others by a linear regression.
+0	NA	NA	NA	METHODS	"The first step in calculating an imputation rule is to select a set of ""tag"" SNPs by forward stepwise regression of the the Y SNP on the nearest 50 X SNPs (subject to a maximum missing data requirement)."
+0	NA	NA	NA	METHODS	New SNPs are added to the regression until either (a) R2 > 0.95, (b) the change in R2 is < 0.05, or (c) the number of tag SNPs reaches four.
+0	NA	NA	NA	METHODS	Regression calculations are carried out at the genotype level, with each SNP genotype coded 0, 1, or 2.
+0	NA	NA	NA	METHODS	If a prediction R2 >= 0.95 cannot be achieved using this stepwise regression approach, then an alternative imputation rule is attempted using the set of tag SNPs selected by the forward stepwise procedure.
+0	NA	NA	NA	METHODS	Using the conventional EM algorithm, frequencies are estimated for the haplotypes of the Y SNP plus the selected tags.
+0	NA	NA	NA	METHODS	Conditional probabilites of the Y allele given the tag SNP haplotype are calculated and provide the imputation rule.
+0	NA	NA	NA	METHODS	This rule is used in preference to the regression rule if the improvement in R2 exceeds 0.1
+0	NA	NA	NA	METHODS	These imputation rules are then applied to the main study dataset to calculate the expectation of each Y SNP conditional on typed SNPs.
+0	NA	NA	NA	METHODS	Note that this expectation is not generally an integer and the Cochran-Armitage test then becomes a t-test comparing the mean imputation score in cases with that in controls.
+0	NA	NA	NA	METHODS	Extension to allow for stratified comparisons and to combine information from different studies is straightforward: differences between mean scores are simply averaged over strata (and studies), with weights inversely proportional to their variances.
+0	NA	NA	NA	METHODS	These procedures are all implemented in snpMatrix
+0	NA	NA	NA	METHODS	This imputation method is computationally faster than those based on hidden Markov models or on variable length Markov chains.
+0	NA	NA	NA	METHODS	For a subset of our data we compared our imputation results with those from IMPUTE and found them to be very similar.
+0	NA	NA	NA	METHODS	It has an additional advantage over such methods in that, since each imputation is based on a small number of tag SNPs, it is easier to differentiate between genuine associations and those caused by poor clustering and differential measurement error; for each putative association, allele signal plots for all tags were visually inspected
+0	NA	NA	NA	METHODS	Single SNP association score tests were performed for each HapMap SNP within each cohort using direct genotypes if available, or imputed genotypes if not.
+0	NA	NA	NA	METHODS	The score is  where Y i and Xi are the phenotypic (case/control) and genotype data respectively for subject i.
+0	NA	NA	NA	METHODS	When a SNP is not directly observed, Xi is replaced by its expected value calculated under the null hypothesis as described above.
+0	NA	NA	NA	METHODS	When it is poorly imputed, this expected value is shrunk towards X and contributes little to the test statistic.
+0	NA	NA	NA	METHODS	The permutation variance (the variance under random permutation of Y ) is used to calculate the chi2 test.
+0	NA	NA	NA	METHODS	The score statistics were combined first across strata within cohorts and finally across cohorts using the method proposed by Mantel.
+0	NA	NA	NA	METHODS	The scores (Ui where i denotes cohort or stratum) and the variances (V i) are summed to form an overall test of association, (Sigma Ui)T (Sigma V i)>-1 (Sigma Ui).
+0	NA	NA	NA	METHODS	Strata were defined by UK region in the case of the WTCCC and T1DGC samples, and an estimated ancestry score derived from principal components in the case of the GoKinD/NIMH samples.
+0	NA	NA	NA	METHODS	Testing for association with SNPs on the X chromosome was carried out using the method proposed by Clayton.
+0	NA	NA	NA	METHODS	Over-dispersion of the test statistics was calculated after removal of known T1D loci and these parameters used to calculate adjusted p values given in table 2
+0	NA	NA	NA	METHODS	SNPs showing overall association (p < 1 x 10-7) in regions not previously reported were subject to further screening.
+0	NA	NA	NA	METHODS	Cluster plots of each SNP used for imputation were examined manually, and the result discarded unless all cluster plots for all cohorts were considered clearly separated.
+0	NA	NA	NA	METHODS	One of the cohorts studied (USA) was not designed as a T1D case-control study, and was serendipitously assembled after cases and controls were genotyped on different versions of the Affymetrix 500K chip and to different protocols.
+0	NA	NA	NA	METHODS	This cohort was subject to greater differential bias than the other cohorts.
+0	NA	NA	NA	METHODS	As a result, many SNPs were found which showed (often extreme) association in the USA samples (p < 1 x 10-7) but no association in the T1DGC and WTCCC samples combined (p < 1 x 10-3); for these SNPs, only the data from T1DGC and WTCCC were combined
+0	NA	NA	NA	METHODS	Family data were analysed by transmission disequilibrium test, splitting mulitplex families into parent offspring trios and using a pseudo-case control framework to estimate allelic effects.
+0	NA	NA	NA	METHODS	A score statistic was also generated, and a score test for association in case-controls and families combined conducted by summing the scores and variances as described above
+0	NA	NA	NA	METHODS	We use a logistic regression approach to test for imprinting/and or maternal genotype effects on risk in offspring.
+0	NA	NA	NA	METHODS	This approach was originally proposed by Weinberg for data consisting of trios of an affected case and both his or her parents, but required extension to deal with our data which included families with multiple affected offspring.
+0	NA	NA	NA	METHODS	Weinberg's approach is to analyse counts of case-parent trios classified by genotype of mother, M, father, P, and the affected offspring, O, in a 3 x 3 x 3 table.
+0	NA	NA	NA	METHODS	Of the 15 cells in this table consistent with Mendelian transmission, five concern families in which the genotypes of the two parents are concordant; these are not informative in the analysis.
+0	NA	NA	NA	METHODS	The remaining ten cells can be organized by mating type and offspring genotype into five pairs in which the maternal and paternal genotypes are considered interchangable (Supplementary Table 5).
+0	NA	NA	NA	METHODS	In the absence of maternal genotype and imprinting effects, and assuming that, in the population from which families are drawn, the two possible parental genotype combinations within each mating type are equally frequent, then their frequencies in case-parent trios will also not differ systematically.
+0	NA	NA	NA	METHODS	However maternal genotype and imprinting effects will distort these ratios.
+0	NA	NA	NA	METHODS	"In supplementary table 5, pairs of genotype configurations are set out with the configuration in which the mother carries more copies of the ""2"" allele than the father appearing first."
+0	NA	gamma1/2	NA	METHODS	"The table also sets out the predictions of a multiplicative model for relative risk conditional upon genotype and upon parents; the genotype relative risk for the offspring (gamma1/1, gamma1/2, and gamma2/2), are modified by multiplicative effects of the maternal genotype (phi1/2 and phi1/2, phi1/1 being taken as 1) and by a factor lambda if a ""2"" allele was received from the mother rather than from the father."
+0	NA	NA	NA	METHODS	The ratio of these two risks for each mating type gives the ratio of expected frequencies in case-parent trios.
+0	NA	NA	NA	METHODS	This model can be fitted to the observed pairs of case-parent trio frequencies using any standard logistic regression program, thus allowing estimation and testing of maternal genotype and imprinting effects
+0	NA	NA	NA	METHODS	Extension of this method to deal with families in which there may be several affected offspring is relatively straightforward.
+0	NA	NA	NA	METHODS	Again we tabulate counts of families by genotype of mothers, father, and offspring, but there are now more possible cells in the tabulation.
+0	NA	NA	NA	METHODS	For example, with two affected offspring there are seven informative pairs of genotype configurations (Supplementary Table 6).
+0	NA	NA	NA	METHODS	Under the assumption that the SNP under observation is the sole causal variant or has r2 = 1 with a sole causal variant, disease occurrences in the offspring are conditionally independent given their genotypes and their parents, and the ratio of expected frequencies is given by the ratio of products of predicted relative risks for the two offspring.
+0	NA	NA	NA	METHODS	Extension to the case of more than two affected offspring follows similar principles.
+0	NA	NA	NA	METHODS	For families with three affected offspring there are nine informative pairs of genotype configuration, for four affected offspring, eleven, and so on.
+0	NA	NA	NA	METHODS	Logistic regression can then be used to estimate and test for effects of maternal genotype and imprinting in the general case where, as in our study, the data consist of families with varying numbers of affected offspring
+0	NA	NA	NA	METHODS	In the case where the SNP tested is not the sole causal variant (or in perfect LD with it), disease occurrences in offspring are not conditionally independent and there may be some bias.
+0	NA	NA	NA	METHODS	We would expect this to be small when the SNP has high r2 with the causal variant.
+0	NA	NA	NA	METHODS	We also note that type 1 error rate will be unaffected by departure from conditional independence when testing the hypothesis of no imprinting and no maternal genotype effect against presence of either (or both) effects, although the method may then not be fully efficient
+0	NA	NA	NA	FIG	The imprinted region on chromosome 14q32.2.
+0	NA	NA	NA	FIG	The region shown is delimited by the most distant genes known to be imprinted 8 with positions according to Hs_NCBI36.
+0	NA	NA	NA	FIG	The top panel shows -log 10(p) from 1 degree of freedom tests of association with SNPs across the region.
+0	NA	NA	NA	FIG	SNPs which were directly genotyped are in black, SNPs imputed from HapMap in blue.
+0	NA	NA	NA	FIG	The second panel shows the location and orientation of genes in the region.
+0	NA	NA	NA	FIG	Paternally expressed genes are shown in blue, maternally expressed genes in black.
+0	NA	NA	NA	FIG	The third panel shows recombination rates (cm/Mb) from HapMap.
+1	NA	NA	rs941576	FIG	A solid green line shows the location of rs941576 in all panels for reference
+0	NA	NA	NA	TABLE	Association testing of two SNPs using direct genotyping in case-control and family sample

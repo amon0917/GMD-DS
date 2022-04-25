@@ -1,0 +1,213 @@
+0	Alzheimer's disease	NA	NA	ABSTRACT	Late-onset Alzheimer's disease (LOAD) is an age related neurodegenerative disease with a high prevalence that places major demands on healthcare resources in societies with increasingly aged populations.
+0	NA	apolipoprotein E	NA	ABSTRACT	The only extensively replicable genetic risk factor for LOAD is the apolipoprotein E gene.
+0	NA	NA	NA	ABSTRACT	In order to identify additional genetic risk loci we have conducted a genome-wide association (GWA) study in a large LOAD case - control sample, reducing costs through the use of DNA pooling
+0	NA	NA	NA	ABSTRACT	DNA samples were collected from 1,082 individuals with LOAD and 1,239 control subjects.
+0	NA	NA	NA	ABSTRACT	Age at onset ranged from 60 to 95 and Controls were matched for age (mean = 76.53 years, SD = 33), gender and ethnicity.
+0	NA	NA	NA	ABSTRACT	Equimolar amounts of each DNA sample were added to either a case or control pool.
+0	NA	NA	NA	ABSTRACT	The pools were genotyped using Illumina HumanHap300 and Illumina Sentrix HumanHap240S arrays testing 561,494 SNPs.
+0	NA	NA	NA	ABSTRACT	114 of our best hit SNPs from the pooling data were identified and then individually genotyped in the case - control sample used to construct the pools
+0	NA	apolipoprotein E	NA	ABSTRACT	Highly significant association with LOAD was observed at the APOE locus confirming the validity of the pooled genotyping approach
+0	NA	apolipoprotein E	NA	ABSTRACT	For 109 SNPs outside the APOE locus, we obtained uncorrected p-values <= 0.05 for 74 after individual genotyping.
+0	NA	NA	NA	ABSTRACT	To further test these associations, we added control data from 1400 subjects from the 1958 Birth Cohort with the evidence for association increasing to 3.4 x 10-6 for our strongest finding, rs727153
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	rs727153	ABSTRACT	rs727153 lies 13 kb from the start of transcription of lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase, LRAT).
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	rs201825	ABSTRACT	Five of seven tag SNPs chosen to cover LRAT showed significant association with LOAD with a SNP in intron 2 of LRAT, showing greatest evidence of association (rs201825, p-value = 6.1 x 10-7)
+0	NA	apolipoprotein E	NA	ABSTRACT	We have validated the pooling method for GWA studies by both identifying the APOE locus and by observing a strong enrichment for significantly associated SNPs.
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	NA	ABSTRACT	We provide evidence for LRAT as a novel candidate gene for LOAD.
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	NA	ABSTRACT	LRAT plays a prominent role in the Vitamin A cascade, a system that has been previously implicated in LOAD
+0	Alzheimer's disease	NA	NA	INTRO	Late-onset Alzheimer's disease (LOAD) is an age related neurodegenerative disease and the most common form of dementia in the over 65 age group.
+0	NA	NA	NA	INTRO	It affects 20% of people aged 75 - 84 years, rising to 50% in the over 85's, thus placing major demands on healthcare resources in societies with increasingly aged populations.
+0	NA	NA	NA	INTRO	It has a high heritability with estimates ranging between 60 - 80%.
+0	NA	apolipoprotein E	NA	INTRO	The only extensively replicable genetic risk factor for LOAD is the apolipoprotein E gene, in which the epsilon4 genotype is overrepresented in LOAD cases compared to controls.
+0	NA	NA	NA	INTRO	The epsilon2 genotype is underrepresented and believed to have a protective effect on disease development.
+0	NA	NA	NA	INTRO	However the presence of the APOE-epsilon4 genotype is neither necessary nor sufficient for the development of the disease, indeed 40 - 70% of European LOAD patients do not carry an epsilon4 variant, and additional genetic loci remain to be identified
+0	NA	NA	NA	INTRO	Recent advances in genotyping technology make it possible to conduct genome-wide association (GWA) studies, testing the whole genome with hundreds of thousands of single nucleotide polymorphisms (SNPs).
+0	NA	NA	NA	INTRO	For a complex disease such as LOAD, in which multiple genetic and environmental factors are thought to contribute to risk GWA studies offer the potential to detect susceptibility genes with greater confidence than with linkage analysis.
+0	NA	NA	NA	INTRO	It has been estimated that over 80% of genetic variation of common SNPs of the human genome in European populations can be captured at an r2 > 0.8 by using current SNP genotyping arrays
+0	NA	NA	NA	INTRO	In order to detect variants of small effect, particularly if the association is indirect, and to overcome the issue of multiple testing, large sample sizes are required.
+0	NA	NA	NA	INTRO	Currently, GWA studies are expensive, generally restricting this type of work to groups or consortia with substantial funding for that purpose.
+0	NA	NA	NA	INTRO	Genome-wide association analysis of pools of case and control DNA offers an economic approach with the potential to identify disease loci.
+0	NA	NA	NA	INTRO	In DNA pooling, equal amounts of DNA from each sample are combined to form pools from cases and controls, which are genotyped to get an estimate of the true allele frequency difference for each variant.
+0	NA	NA	NA	INTRO	This estimate is then used to test a limited number of SNPs for genetic association at a fraction of the cost of individual genotyping
+0	NA	NA	NA	INTRO	In this study, 561,494 SNPs were genotyped in DNA pools constructed from the Medical Research Council (MRC) Genetic Resource for LOAD case - control samples.
+0	NA	NA	NA	INTRO	In order to select SNPs for testing by individual genotyping, we applied three complimentary approaches to select the highest-ranked SNPs.
+0	NA	NA	NA	INTRO	We successfully genotyped individually 114 SNPs.
+0	NA	apolipoprotein E	NA	INTRO	We found association with LOAD of several SNPs close to the APOE locus (2.08 x 10-9 - 8.24 x 10-11) thus confirming the validity of the pooled genotyping approach.
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	NA	INTRO	In addition, we obtained evidence for several novel genetic associations to LOAD, our most significant findings being association of SNPs in the lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase, LRAT) gene
+0	NA	NA	NA	RESULTS	Before we started work with Illumina arrays, we validated the pool construction with the SNaPshot method.
+0	NA	NA	NA	RESULTS	The pools gave an accurate estimate of the real difference in allele frequencies for 3 SNPs previously individually genotyped in this sample.
+0	NA	NA	rs11084424	RESULTS	rs11084424, rs157580 and rs157581 showed allele frequency differences between cases and controls in pools of 4%, 9% and 17% respectively which compared well with the real differences of 3%, 10% and 19%.
+0	NA	NA	NA	RESULTS	Published estimates of the accuracy of DNA pooling report similar high accuracy with errors of < 2% between predicted and true allele frequency differences using different methods
+0	NA	NA	NA	RESULTS	Genome-wide pooled genotyping was carried out on the Illumina HumanHap300 and Illumina Sentrix HumanHap240S arrays assaying 561,494 SNPs.
+0	NA	NA	NA	RESULTS	Frequencies for each SNP were averaged over four replicate case and three replicate control arrays for the Illumina HumanHap300 and eight each for the Sentrix HumanHap240S arrays.
+0	NA	NA	NA	RESULTS	The predicted averaged patient and control allele frequencies showed as expected a very high Pearson correlation with each other of r = 0.998, indicating a low technical variability of the method.
+0	NA	NA	NA	RESULTS	Figure 1 shows predicted allele frequencies in case and control pools determined using the Illumina HumanHap300 platform.
+0	NA	NA	NA	RESULTS	Data from the Illumina Sentrix HumanHap240S arrays showed similarly high correlations (r = 0.997).
+0	NA	NA	NA	RESULTS	Predicted allele frequencies were compared with actual population allele frequencies (1958 Birth Cohort controls genotyped with the same HumanHap300) and gave a very good correlation of 0.969 (Figure 2).
+0	NA	NA	NA	RESULTS	This indicates that even uncorrected data from pooling on this platform predict fairly well the true absolute allele frequencies of SNPs
+0	NA	NA	NA	FIG	Scatter plot of pooled genotype data.
+0	NA	NA	NA	FIG	Predicted allele frequencies of ~31,000 randomly selected SNPs in LOAD case and control DNA pools predicted by the Illumina HumanHap300 array.
+0	NA	NA	NA	FIG	Averaging three case and four control arrays, we obtain a correlation r = 0.998
+0	NA	NA	NA	FIG	Scatter plot of pooled vs individual (population) genotype data.
+0	NA	NA	NA	FIG	Predicted allele frequencies were averaged across technical replicates for the control pool and compared to actual population frequencies determined from the 1958 Birth Cohort, r = 0.969
+0	NA	NA	NA	RESULTS	Figure 3 shows the combined Z-test p-value results for the whole genome.
+0	NA	NA	NA	RESULTS	On the X-axis we have plotted the position in the genome by chromosome, and on the Y-axis the negative logarithm of the p-value.
+0	NA	apolipoprotein E	NA	RESULTS	The strongest evidence for association with LOAD was observed with SNPs on chromosome 19 surrounding the APOE gene.
+0	NA	NA	NA	RESULTS	"In all, 7 SNPs within 71 kb were predicted by the pools to have allele frequency differences between 6% - 14% and ""combined"" p-values ranging from 9.0 x 10-5 to 3.6 x 10-22."
+0	NA	NA	NA	RESULTS	No other region of the genome showed such a large number of significant markers over a relatively small region.
+0	NA	NA	NA	RESULTS	Five of the seven SNPs were individually genotyped and were confirmed to be highly significant (p-value range 2.08 x 10-9 - 8.24 x 10-11, Table 1).
+0	NA	apolipoprotein E	NA	RESULTS	All are in high linkage disequilibrium (LD) with the SNPs that define the APOE genotypes which are not themselves typed on the Illumina platform (Figure 4).
+0	NA	apolipoprotein E	NA	RESULTS	The distributions of APOE alleles in this population are as follows
+0	NA	NA	NA	FIG	Plot of combined Z-test p-values against chromosomal location for pooled data.
+0	NA	apolipoprotein E	NA	FIG	Out of 561,494 SNPs that were genotyped in our case - control pools, only 3 would have remained significant after Bonferroni correction for multiple testing, two of these SNPs are near the APOE gene on Chromosome 19.
+0	NA	NA	NA	FIG	For a genome-wide association study on 500,000 markers (assuming that markers are independent) the significance level is 10-7.
+0	NA	NA	NA	FIG	The line of genome-wide significance is plotted therefore at this level, although the combined Z-statistic provides only an approximation of the p-values produced from individual genotyping
+0	NA	apolipoprotein E	NA	FIG	LD plot for SNPs in the region of APOE.
+0	NA	apolipoprotein E	rs429358	FIG	SNPs in the region of APOE, significant from Illumina pooled genotyping were individually genotyped and show high LD (D' given) with SNPs that define APOE-epsilon2/epsilon3/epsilon4 status (rs429358 and rs7412)
+0	NA	NA	NA	RESULTS	APOE-epsilon2, APOE-epsilon3, APOE-epsilon4 = 5.1, 57.9, 37.0 and 9.5, 77.3, 13.2% in cases and controls respectively, giving an allelic p-value of p = 1.9 x 10-73 and an odds ratio (95%CI) = 3.85 (3.55 - 4.15) for the APOE-epsilon4 allele
+0	NA	apolipoprotein E	NA	RESULTS	Table 1 shows results for our most significant SNPs, in addition to those at the APOE locus, following individual genotyping.
+0	NA	NA	rs727153	RESULTS	The most significant SNP, rs727153, reached a p-value of 2.4 x 10-5
+0	NA	NA	NA	RESULTS	To further test the associations, we added control data from a set of controls comprising approximately 1400 subjects from the 1958 Birth Cohort for the 79 SNPs that showed individual genotype p-value <= 0.05.
+0	NA	NA	NA	RESULTS	The association for five SNPs becomes more significant with the inclusion of the additional controls.
+0	NA	NA	NA	RESULTS	The majority of SNPs however became less significant indicating that for these SNPs we had probably identified false positives, although this could also happen to true-positive findings, as the initial discovery study tends to over-estimate the effect size.
+0	NA	NA	rs727153	RESULTS	Our strongest finding, rs727153 remained the most significant individually genotyped SNP, with the evidence for association increasing from 2.4 x 10-5 to 3.4 x 10-6
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	rs727153	RESULTS	rs727153 is an intergenic SNP approximately 13 kb from the start of transcription of lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase, LRAT).
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	NA	RESULTS	We genotyped additional SNPs in this region to test if our significant association extended into the LRAT gene.
+0	LD block flanked	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	rs727153	RESULTS	rs727153 is within an LD block flanked by SNPs rs11935519 and rs149225 (Chr4:156,005,695..156,040,821 - HapMap data Rel 21a/phaseII Jan07), which includes LRAT (Figure 5).
+0	NA	NA	NA	RESULTS	Using a pair-wise approach in Haploview we identified 7 tagging SNPs required to cover the LD block, capturing all common SNPs with an r2 > 0.8 and individually genotyping them in our LOAD case - control sample.
+0	NA	NA	NA	RESULTS	The results are presented in Table 2.
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	rs201825	RESULTS	Five SNPs are significantly associated with LOAD in this region, with a SNP in intron 2 of LRAT, rs201825 showing the strongest evidence (p-value = 1.7 x 10-6).
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	rs201825	RESULTS	After the addition of extra controls data from the 1958 birth cohort for the 4 SNPs in LRAT which have been genotyped in that sample, 3 became more significant (rs201825, p-value = 6.1 x 10-7) and the fourth remained unchanged
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	NA	TABLE	Association analysis of tag SNPs used to cover the LD block containing LRAT
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	NA	FIG	LD plot for SNPs in the region of LRAT.
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	NA	FIG	Linkage Disequilibrium plot (D' values shown) for tagSNPs chosen to cover an LD block containing LRAT.
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	rs727153	FIG	The most significant SNP from GWA study, rs727153, is in high LD with SNPs in LRAT
+0	NA	NA	rs201825	RESULTS	Analysis of the tagSNPs in this LD block using all possible 2- and 3-marker haplotypes resulted in no evidence for association greater than that reached by rs201825 (data not shown)
+0	NA	apolipoprotein E	NA	RESULTS	Table 3 provides the distribution of the individual genotyping p-values for 109 SNPs outside the APOE locus, in addition to the p-value distributions for our three methods used to choose the SNPs for individual genotyping.
+0	NA	NA	NA	RESULTS	After individual genotyping, we obtained uncorrected p-values <= 0.05 for 74 of the 109 SNPs compared with expected 5.5 for a random selection of SNPs, an enrichment of ~13 fold across all selection methods.
+0	NA	NA	NA	RESULTS	The cluster method appeared to generate the highest percentage of significantly associated SNPs (84.8%), at greater levels of significance, identifying the 3 most significant SNPs after individual genotyping.
+0	NA	NA	rs3754675	RESULTS	"One of the three most significant SNPs (rs3754675) was also in the top 115 SNPs ranked by the ""combined"" Z-test."
+0	NA	NA	rs12510838	RESULTS	The most significant SNP by individual genotyping chosen by the allele frequency method (rs12510838) had a p-value of 0.00024, an order of magnitude less than our most significant SNP chosen by the other methods (Table 1).
+0	NA	NA	NA	RESULTS	Thus it appears that the cluster method provided the best way of identifying true associations and that the combined Z-test improves on the identification of single significant SNPs over a simple method of following-up only the highest differences in allele frequencies
+0	NA	apolipoprotein E	NA	TABLE	Distribution of p-values of individually genotyped SNPs (excluding those in the region of APOE)
+0	NA	NA	NA	DISCUSS	In this study we used DNA pooling to offset the high costs of conducting a GWA study for LOAD.
+0	NA	NA	NA	DISCUSS	Using Illumina HumanHap300 and Illumina Sentrix HumanHap240S arrays we estimated the allele frequencies of 561,494 SNPs across the genome in pools constructed from 1,082 LOAD cases and 1,239 age-matched controls.
+0	NA	apolipoprotein E	NA	DISCUSS	We unequivocally identified the APOE locus as the major genetic risk factor for the disease.
+0	NA	NA	NA	DISCUSS	As noted by others this can be seen as a positive control that the pooling method is a viable alternative to individual genotyping in GWA studies for complex disorders.
+0	NA	apolipoprotein E	NA	DISCUSS	The association of APOE with LOAD is well replicated and has been observed in a GWA study that used an alternative genotyping platform.
+0	NA	NA	NA	DISCUSS	Neither the Illumina platform used here nor the Affymetrix system used in that study directly test the SNPs that define the APOE-epsilon4 genotype, highlighting the strength of high density GWA studies to detect indirect association.
+0	NA	apolipoprotein E	NA	DISCUSS	Our findings are in agreement with others that APOE is the major pathogenic locus for LOAD, and that further loci of smaller effect remain to be identified
+0	NA	NA	NA	DISCUSS	Following pooled genotyping, it is necessary to follow up positive results with individual genotyping to confirm the observed associations.
+0	NA	NA	NA	DISCUSS	We used three methods to identify SNPs to follow up.
+0	NA	NA	NA	DISCUSS	The cluster method appeared to generate more true associations than the other methods we used.
+0	NA	NA	NA	DISCUSS	This is perhaps not surprising, as this method should minimise false positives due to technical artefacts caused by pooled genotyping, as each SNP showing evidence of association was required to be supported by one or more highly significant neighbouring SNP.
+0	NA	NA	NA	DISCUSS	In contrast, a singleton highly-ranked SNP found by any other method could be due to a technical artefact, no matter how carefully it is filtered.
+0	NA	NA	NA	DISCUSS	However, the cluster method can miss true positive signals from functional variants that are not in high LD with other tested SNPs.
+0	NA	NA	NA	DISCUSS	Therefore, we believe that unsupported SNPs have to be followed up as well, unless they are in high LD with other SNPs on the array, which do not support the association.
+0	NA	NA	NA	DISCUSS	As has been proposed by others, the data presented here suggests that the best way of choosing unsupported SNPs would be to use a statistical test that takes into account technical variation, such as the combined Z-test.
+0	NA	NA	NA	DISCUSS	We acknowledge that this study has not exhaustively followed up all positive signals - to do this would negate the cost efficiency of the pooling method but it is possible that more significantly associated SNPs could be confirmed by individual genotyping.
+0	NA	NA	NA	DISCUSS	In fact, we only genotyped individually half of the SNPs that we considered worth following up.
+0	NA	apolipoprotein E	NA	DISCUSS	However it appears clear that a signal with the strength of association, in terms of a number of highly significant SNPs in a narrow region, as observed at the APOE locus, has not been overlooked
+0	NA	NA	NA	DISCUSS	In order to confirm our individual genotyping results, data from the 1958 Birth Cohort were used to form an additional set of controls genotyped with the Illumina platform.
+0	NA	NA	NA	DISCUSS	These controls have previously been used by the Wellcome Trust Case Consortium for a GWA study for 7 common diseases.
+0	NA	NA	NA	DISCUSS	There are a number of explanations for our observation that for the majority of SNPs significant in this study the strength of association decreased with additional control data.
+0	NA	NA	NA	DISCUSS	Firstly, and we believe most likely, the initial findings may have been false positives due to an inflation of the effect size in the original analysis due to sampling variance in the control allele frequencies (i.e.
+0	NA	NA	NA	DISCUSS	some of the most significant SNPs have the highest sampling variance in either cases or controls).
+0	NA	apolipoprotein E	NA	DISCUSS	Secondly, the use of unscreened controls in an association study of a disorder of old age is expected to reduce power, this is particularly clear in the APOE locus.
+0	NA	NA	NA	DISCUSS	Some degree of genotyping discrepancies between the two platforms used is also possible (Sequenom in our lab and Illumina in the 1958 Birth Cohort), however very unlikely to account for such large differences
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	NA	DISCUSS	We identified multiple SNP associations (best p-value = 6.12 x 10-7) in the gene encoding lecithin retinol acyltransferase (LRAT, 4q32.1, MIM: 604863).
+0	NA	NA	NA	DISCUSS	This is a highly plausible functional candidate gene for LOAD.
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	NA	DISCUSS	LRAT plays a prominent role in the Vitamin A (retinoid) cascade by producing retinyl esters, storage forms of retinoid.
+0	NA	NA	NA	DISCUSS	The retinoid system has been previously implicated in LOAD.
+0	memory impairment	NA	NA	DISCUSS	Retinoid levels in plasma, serum and brain are lowered in LOAD patients, and the restriction of dietary retinoid in mice results in memory impairment.
+0	NA	NA	NA	DISCUSS	Furthermore disruption of the retinoid signalling pathway in adult rats by a dietary deficiency of vitamin A leads to deposition of amyloid beta in the cerebral blood vessels.
+0	NA	retinoic acid receptor alpha	NA	DISCUSS	There is a down regulation of retinoic acid receptor alpha in the forebrain neurons of the retinoid-deficient rats and a loss of choline acetyl transferase expression, which precedes amyloid beta deposition.
+0	Alzheimer's disease	retinoic acid receptor alpha	NA	DISCUSS	In neocortex of pathology samples of patients with Alzheimer's disease, the same retinoic acid receptor alpha deficit in the surviving neurons is observed suggesting that retinoids are important for the maintenance of the adult nervous system and their loss may in part play a role in Alzheimer's disease.
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	NA	DISCUSS	Nevertheless, despite the functional plausibility, our genetic findings in LRAT fall short of the degree of statistical significance required to provide unequivocal evidence for association, given the large number of comparisons made in a GWA study.
+0	NA	NA	NA	DISCUSS	Thus our findings, whilst highly suggestive, will require confirmation in independent samples
+0	NA	apolipoprotein E	NA	CONCL	In summary, we have validated the pooling method for GWA studies by both identifying the APOE locus, a known risk gene for LOAD, and by observing a strong enrichment for significantly associated SNPs.
+0	NA	NA	NA	CONCL	We have also compared methods for prioritising SNPs for individual genotyping.
+0	NA	lecithin retinol acyltransferase (phosphatidylcholine - retinol O-acyltransferase	NA	CONCL	Finally, we provide evidence for LRAT as a novel candidate gene for LOAD.
+0	NA	NA	NA	CONCL	GWA studies with pooled DNA provide a viable, quick and inexpensive approach to identifying susceptibility genes.
+0	NA	NA	NA	CONCL	Inaccuracies, however, mean that some loci that might be detected by individual genotyping will remain undetected
+0	NA	NA	NA	METHODS	Written informed consent was obtained from all subjects for publication of this case report.
+0	NA	NA	NA	METHODS	A copy of the written consent is available for review by the Editor-in-Chief of this journal.
+0	NA	NA	NA	METHODS	The sample consisted of individuals ascertained from both community and hospital settings in the UK collected as part of the MRC genetic resource for LOAD.
+0	Alzheimer's disease	NA	NA	METHODS	"Clinical data and DNA samples were collected from 1,082 individuals (71% females) with late-onset AD (LOAD) and 1,239 control subjects (referred to in the text as ""MRC controls"", 62% females)."
+0	NA	NA	NA	METHODS	Age at onset ranged from 60 to 95 years (mean = 75.84 years, SD = 6.79).
+0	NA	NA	NA	METHODS	Controls were matched for age (mean = 76.53 years, SD = 6.33), gender and ethnicity.
+0	Alzheimer's disease	NA	NA	METHODS	AD cases and controls described here were ascertained by three collaborating centres: Department of Psychological Medicine, Cardiff University, Cardiff (coordinating centre); Institute of Psychiatry, London; and Cambridge University, Cambridge, as previously described.
+0	NA	NA	NA	METHODS	Ethical approval was obtained from the Multi-centre Research Ethics Committee (MREC), relevant local ethics committees and NHS trusts, in the regions where subjects were recruited
+0	Alzheimer's disease	NA	NA	METHODS	All cases were Caucasian, of UK origin (parents born in the UK) and diagnosed with probable AD in accordance with the National Institute of Neurological and Communication Disorders and Stroke and the Alzheimer's disease and Related Disorders Associations (NINCDS-ADRDA) clinical diagnostic criteria for AD.
+0	NA	NA	NA	METHODS	All diagnoses were made based on a semi-structured interview with known validity for AD pathology (i.e.
+0	NA	NA	NA	METHODS	positive predictive value of 92-95% which included: The Mini Mental State Examination (MMSE); The Cambridge Mental Disorders of the Elderly Examination (CAMDEX; informant interview); The Blessed Dementia Scale; The Bristol Activities of Daily Living Scale; Webster Rating Scale; Global Deterioration Scale (GDS); Cornell Scale for Depression in Dementia; Neuropsychiatric Inventory (NPI) (12-item version).
+0	NA	NA	NA	METHODS	Interviews were primarily conducted with the AD sufferer's next of kin.
+0	NA	NA	NA	METHODS	Ethical permission was obtained from the Multi-centre Research Ethics Committee, relevant local ethics committees, and National Health Service trusts
+0	Alzheimer's disease	NA	NA	METHODS	Control subjects were either spouses of AD patients or selected from primary-care practices situated in the same geographical areas as AD patients.
+0	NA	NA	NA	METHODS	All controls were 60 years or above and of UK origin.
+0	NA	NA	NA	METHODS	Control individuals were screened for cognitive decline using the MMSE, and a cut-off score of >= 28 was adopted.
+0	Geriatric Depression	NA	NA	METHODS	Assessment of controls also included a section of the Cambridge Mental Disorders of the Elderly Examination and the Geriatric Depression Scale.
+0	dementia	NA	NA	METHODS	Exclusion criteria were the presence of dementia, depression, delirium or other illnesses likely to significantly reduce cognitive function
+0	NA	NA	NA	METHODS	DNA was obtained from blood samples by phenol/choloroform extraction, followed by precipitation in ethanol and storage in TE buffer.
+0	NA	NA	NA	METHODS	DNA quality was assessed by PCR amplification of microsatellite markers under standard conditions, with those samples showing robust amplification being included in pools (1,082 LOAD cases and 1,239 controls).
+0	NA	NA	NA	METHODS	Initial DNA concentrations were determined by UV spectrophotometry using absorbance at 260 nm readings.
+0	NA	NA	NA	METHODS	Dilutions were made using water to bring the concentration of each sample to a target of 20 ng/ul.
+0	NA	NA	NA	METHODS	The concentration of each sample was then determined using the PicoGreen dsDNA Quantitation Reagent (Molecular Probes, Eugene, Ore.) in a Labsystems Ascent Fluoroskan (LifeSciences Int., Basingstoke, UK).
+0	NA	NA	C for 48	METHODS	Each sample was then diluted to 4 ng/ul (+- 0.5 ng/ul), allowed to equilibrate at 4 C for 48 h before another quantification using the PicoGreen method.
+0	NA	NA	NA	METHODS	Samples out of the 4 ng/ul (+- 0.5 ng/ul) range were diluted/concentrated, incubated and re-quantified until they were within the required range.
+0	NA	NA	NA	METHODS	Equal volumes of each sample were then added to either a case or control pool using a Biomek  FX Laboratory Automation Workstation (Beckman Coulter, Inc., Fullerton, CA).
+0	NA	NA	NA	METHODS	We chose to make single pools of cases and controls and hybridise them multiple times, rather than construct many small pools and hybridise them on single arrays, as this method has been shown to be more powerful
+0	NA	NA	rs11084424	METHODS	In order to test the accuracy of our pool construction, we genotyped 3 significantly associated SNPs in the pools for which we had individual genotype data on the samples used to create the pools (rs11084424, rs157580 and rs157581).
+0	NA	NA	NA	METHODS	SNaPshot genotyping was carried out as previously described.
+0	NA	NA	NA	METHODS	Briefly, forward and reverse primers were designed using primer 3 software .
+0	NA	NA	NA	METHODS	Extension primers for the SNaPshot assay were designed using FP PRIMER 1.0.1 b software .
+0	NA	NA	NA	METHODS	PCR was performed under standard conditions, using 15 ng pooled genomic DNA and HotStar Taq DNA polymerase (Qiagen).
+0	NA	NA	NA	METHODS	Primer extension products were run on a 3100 DNA sequencer (Applied Biosystems) and the data were processed by the GeneScan Analysis 3.7 (Applied Biosystems).
+0	NA	NA	NA	METHODS	SNP allele frequencies in DNA pools were estimated from peak heights obtained by using Genotyper 2.5 (PE Biosystems, Cheshire, UK).
+0	NA	NA	NA	METHODS	Estimated allele frequencies from pools were corrected for unequal representation of alleles using the mean of the ratios obtained from four analyses of a heterozygote
+0	NA	San	NA	METHODS	Genome-wide genotyping was performed using Illumina HumanHap300 and Illumina Sentrix HumanHap240S arrays (Illumina Inc., San Diego, CA, USA) according to the manufacturer's protocols.
+0	NA	NA	NA	METHODS	Chips were scanned in standard mode on a BeadStation 500 GX (Illumina) at the University of Bonn and raw data were extracted for statistical analysis with BeadStudio v3.1 software.
+0	NA	NA	NA	METHODS	Because of the expected inter-experiment variation, replicate arrays were genotyped for each pool: four arrays on the Illumina HumanHap300, and 8 arrays on the Illumina Sentrix HumanHap240S array.
+0	NA	NA	NA	METHODS	The reason for using more HumanHap240S arrays is that we first performed the work on HumanHap300, and noticed the need for more replications.
+0	NA	NA	NA	METHODS	Replicate arrays were excluded if the estimated allele frequencies produced a Pearson correlation of r <= 0.991 with two or more other replicate arrays of the same pool (i.e.
+0	NA	NA	NA	METHODS	only arrays which correlated at r >= 0.992 with each other were retained for analysis).
+0	NA	NA	NA	METHODS	This cut-off was adopted during other pooling work in our department, but in this experiment resulted in the exclusion of data from only a single array (from a control pool) genotyped on the HumanHap300 array
+0	NA	NA	NA	METHODS	Approximation of allele A frequencies for each replicate was produced on the basis of the raw data as follows: f_alleleA = Xraw/(Xraw+Yraw), averaged over the number of replicates in each pool (Xraw and Yraw are the intensities of the two dyes Cy5 and Cy3, used to genotype SNPs on the Illumina platform)
+0	NA	NA	NA	METHODS	SNPs from the pooling data were prioritised for individual genotyping based on three different methods, outlined below, since, at the time of this experiment we did not know which method would perform best.
+0	NA	NA	NA	METHODS	For all methods, we excluded rare SNPs (true allele frequency less than 5% in the CEU population of the HapMap, ) and the 5% of SNPs showing the highest technical variability as indicated by the size of the standard deviation amongst measures from the replicate arrays
+0	NA	NA	NA	METHODS	We plotted the differences in allele frequencies between cases and controls for each SNP against their position in the genome.
+0	NA	NA	NA	METHODS	We identified 58 clusters where at least two SNPs within 100 kb had a predicted allele frequency difference greater than 5%.
+0	NA	NA	NA	METHODS	One SNP from each cluster was selected for individual genotyping
+0	NA	NA	NA	METHODS	Separately for the Illumina HumanHap300 and Illumina Sentrix HumanHap240S arrays (to account for any differences caused by technical artefacts between the two arrays) the pooled data were sorted by predicted allele frequency differences in cases and controls.
+0	NA	NA	NA	METHODS	The top 136 SNPs showing the greatest allele frequency differences (8% difference between cases and controls) and satisfying the above filtering criteria were put forward for potential individual genotyping.
+0	NA	NA	NA	METHODS	SNPs that had previously been flagged as being in a cluster were not included
+0	NA	NA	NA	METHODS	The third method was based on p-values estimated using the following statistic which combines experimental and sampling errors, a general description of which has previously been presented
+0	NA	NA	NA	METHODS	a) chi-square statistic T for testing differences between two proportions (allele frequencies) in cases and in controls accounting for the sampling variance
+0	NA	NA	NA	METHODS	where  is the mean of the allele frequencies over nk pool replicates,  is the binomial sampling variance and Nk is number of controls and cases respectively (k = 1,2)
+0	NA	NA	NA	METHODS	b) Z-statistics for testing the difference in mean allele frequencies between cases and controls
+0	NA	NA	NA	METHODS	where  is the square of the standard error due to experimental error
+0	error and experimental error	NA	NA	METHODS	Thus we have taken into account the two single available sources of error: sampling error and experimental error in a simple way which is equivalent to a simplified version of the complex regression model suggested by MacGregor
+0	NA	NA	NA	METHODS	Excluding 36 SNPs already selected by the allele frequency (25 SNPs) or cluster (11 SNPs) methods, and any filtered ones, 79 of the highest-ranking SNPs identified by the combined Z-test method were put forward for individual genotyping
+0	NA	apolipoprotein E	NA	METHODS	The 273 SNPs chosen by the three methods, (in addition to 5 SNPs at the APOE locus which had been identified by all three methods) were presented to the Sequenom Assay Design 3.1 software (Sequenom, San Diego, CA), which selected 130 for genotyping.
+0	NA	NA	NA	METHODS	We deliberately presented about twice as many SNPs to the software, as we wanted to type, in order to maximise the chance of producing well-performing panels
+0	NA	San	NA	METHODS	Genotyping was performed with the MassARRAY and iPlex systems (Sequenom, San Diego, CA) according to the manufacturer's recommendations.
+0	NA	NA	NA	METHODS	Assays were optimized in 30 reference CEU parent - offspring trios, which have been used extensively in the HapMap project.
+0	NA	NA	NA	METHODS	All sample plates contained cases, controls, blanks, CEU and duplicate samples.
+0	NA	NA	NA	METHODS	Quality control (QC) measures included independent double genotyping blind to sample identity and blind to the other rater, and comparison of our CEU genotypes to those in the HapMap database .
+0	NA	NA	NA	METHODS	SNPs showing deviation from Hardy-Weinberg equilibrium (p-value < 0.001 in controls) or with genotyping success rates of less than 90%, or showing differences in genotypes in the CEU samples from those in the HapMap database were excluded from analysis.
+0	NA	NA	NA	METHODS	Individual DNA samples for whom the genotyping success rate across all SNPs was < 75% were also excluded (40 cases and 49 controls)
+0	NA	NA	NA	METHODS	Of the 130 SNPs chosen from the pooling GWA study, 114 passed QC.
+0	NA	apolipoprotein E	NA	METHODS	Of these 5 were located within 32 kb of APOE, 33 were selected from the cluster method, 30 were identified solely by the combined Z-test method and 46 were chosen based on the allele frequency difference
+0	NA	NA	NA	METHODS	Calculation of allele frequencies, genotype counts, tests for departure from HWE, allelic association and odds ratio were carried out using PLINK (vers 0.99s, ,
+0	NA	NA	NA	METHODS	Linkage Disequilibrium analysis was conducted using Haploview version 4.0 ,
+0	NA	NA	NA	METHODS	Additional control genotype data were obtained from (, accessed September 2007) which contains genotyping data on the British 1958 Birth Cohort DNA Collection, deposited by the Wellcome Trust Sanger Institute
+0	Alzheimer's disease	apolipoprotein E	NA	ABBR	AD: Alzheimer's Disease; APOE: Apolipoprotein E; DNA: Deoxyribonucleic Acid; GWA: Genome-Wide Association; Kb: kilobase pairs; LD: Linkage Disequilibrium; LOAD: Late-Onset Alzheimer's Disease; LRAT: lecithin retinol acyltransferase; MRC: Medical Research Council; SNP: Single Nucleotide Polymorphism
+0	NA	NA	NA	AUTH_CONT	All authors read and approved the final manuscript.
+0	NA	NA	NA	AUTH_CONT	GK conceived of and designed the study, analysed pooled genotyping and contributed to writing of manuscript.
+0	NA	NA	NA	AUTH_CONT	LG, RS and AM assisted with DNA pool construction and individual genotyping.
+0	KD	NA	NA	AUTH_CONT	KD and PH were responsible for patient/control diagnosis and sample collection.
+0	NA	NA	NA	AUTH_CONT	SC and AH conducted pooled genome-wide genotyping.
+0	NA	NA	NA	AUTH_CONT	VM analysed pooled genotype data, designing combined Z-test and conducted test for association using 1958 control group.
+0	NA	NA	NA	AUTH_CONT	MO'D contributed to experimental design and writing of manuscript.
+0	NA	NA	NA	AUTH_CONT	JW and MO supervised and contributed to sample collection, interpretation of data and writing of manuscript.
+0	NA	NA	NA	AUTH_CONT	RA took the lead in DNA pool construction, writing the manuscript, conducted and analysed individual genotyping
+0	NA	NA	NA	SUPPL	The pre-publication history for this paper can be accessed here

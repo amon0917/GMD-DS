@@ -1,0 +1,266 @@
+0	Glaucoma	NA	NA	ABSTRACT	Glaucoma and age-related macular degeneration (AMD) are the two leading causes of visual loss in the United States.
+0	open angle glaucoma	NA	NA	ABSTRACT	We utilized a novel study design to perform a genome-wide association for both primary open angle glaucoma (POAG) and AMD.
+0	NA	NA	NA	ABSTRACT	This study design utilized a two-stage process for hypothesis generation and validation, in which each disease cohort was utilized as a control for the other.
+0	AMD	NA	NA	ABSTRACT	A total of 400 POAG patients and 400 AMD patients were ascertained and genotyped at 500,000 loci.
+0	NA	C7	NA	ABSTRACT	This study identified a novel association of complement component 7 (C7) to POAG.
+0	NA	ribophorin II	NA	ABSTRACT	Additionally, an association of central corneal thickness, a known risk factor for POAG, was found to be associated with ribophorin II (RPN2).
+0	AMD	NA	NA	ABSTRACT	Linked monogenic loci for POAG and AMD were also evaluated for evidence of association, none of which were found to be significantly associated.
+0	NA	NA	NA	ABSTRACT	However, several yielded putative associations requiring validation.
+0	AMD	NA	NA	ABSTRACT	Our data suggest that POAG is more genetically complex than AMD, with no common risk alleles of large effect
+0	AMD	NA	NA	INTRO	Age-related macular degeneration (AMD) and glaucoma are leading causes of blindness and visual disability in aging populations.
+0	NA	NA	NA	INTRO	Although these conditions are unrelated, each has a strong genetic component.
+0	Glaucoma	NA	NA	INTRO	The glaucomas are a group of diseases that are characterized by injury to the optic nerve and a corresponding pattern of visual loss.
+0	visual impairment and blindness	NA	NA	INTRO	These disorders are the second most common cause of irreversible blindness and visual impairment in the United States.
+0	Glaucoma	NA	NA	INTRO	The most common form of glaucoma in the United States is primary open angle glaucoma (POAG).
+0	NA	NA	NA	INTRO	Epidemiological studies have shown that POAG is caused, at least in part, by heritable factors.
+0	Glaucoma	NA	NA	INTRO	Classic risk factors for glaucoma include advanced age, ethnicity, elevated intraocular pressure, and family history.
+0	Glaucoma	NA	NA	INTRO	More recently individuals with relatively thin corneas have been shown to have a three-fold greater risk of developing glaucoma than individuals with normal corneal thickness.
+0	NA	NA	NA	INTRO	Most cases of POAG, and indeed the risk factors of elevated IOP and thin central corneal thickness, are thought to be inherited in a complex fashion
+0	Glaucoma	NA	NA	INTRO	While the genetics of glaucoma are overall complex, a fraction of glaucoma is caused primarily by defects or mutations in single genes.
+0	Glaucoma	NA	NA	INTRO	Linkage studies of large families exhibiting autosomal dominant inheritance of glaucoma have mapped the chromosomal locations of multiple different genes capable of causing glaucoma (GLC1A-P).
+0	NA	myocilin	NA	INTRO	The causative genes at six loci have been reported: myocilin (MYOC), optineurin (OPTN), WD repeat domain 36 (WDR36), neurotrophin 4 (NTF4), TANK binding kinase 1 (TBK1), and ankyrin repeat and SOCS-box containing 10 (ASB10).
+0	NA	myocilin	NA	INTRO	Mutations in MYOC are responsible for ~4% of cases of POAG.
+0	NA	NA	NA	INTRO	MYOC-associated POAG cases are usually characterized by markedly elevated IOP.
+0	Glaucoma	optineurin	NA	INTRO	Mutations in OPTN have been associated with 1-2% of cases of normotensive glaucoma (NTG).
+0	NA	WD repeat domain 36	NA	INTRO	The extent to which WDR36, NTF4, ASB10 and TBK1 play a role in the high incidence of POAG is unclear.
+0	congenital glaucoma	NA	NA	INTRO	Loci and genes have also been reported for primary congenital glaucoma.
+0	Glaucoma	NA	NA	INTRO	In addition, several genetic syndromes are associated with glaucoma.
+0	Glaucoma	NA	NA	INTRO	Genome-wide association studies (GWAS) have begun to identify genes that confer some risk for complex forms of glaucoma (i.e.
+0	NA	NA	NA	INTRO	caused by the combined actions of multiple genes).
+0	NA	NA	NA	INTRO	Genes that have been reported to confer an increased risk for POAG or NTG include: CAV1/2, CDKN2B-AS1, ATOH7,, SIX1, TMCO1,  TLR4, SRBD1 and ELOVL5
+0	AMD	NA	NA	INTRO	Genetic studies of AMD have also identified many important disease-causing genes and risk factors.
+0	NA	NA	NA	INTRO	Linkage analysis and positional cloning studies of pedigrees with Mendelian forms of macular degeneration have identified genes that are likely the primary cause of disease in some patients.
+0	AMD	fibulin 5	NA	INTRO	For example, a family-based study identified fibulin 5 mutations in members of a large AMD pedigree.
+0	AMD	NA	NA	INTRO	GWAS studies have also been highly successful in identifying risk factors of major effect for AMD.
+0	AMD	CFH	T to C	INTRO	The first AMD risk factor to be discovered was a coding sequence variant (Tyr402His) in the complement factor H (CFH) gene.. Another major AMD risk factor was subsequently identified on chromosome 10.
+0	AMD	ARMS2	NA	INTRO	Two genes at this locus (ARMS2 and HTRA1) have been investigated as the source of the AMD risk.
+0	AMD	SERPING1	NA	INTRO	Additional AMD risks have been reported for other genes involved in the complement pathway including C2/CFB; C3; C5; C7; SERPING1; CFHR1 +3; CFHR2,4,5; CFI
+0	Glaucoma	NA	NA	INTRO	The goal of the current study was to use a novel GWAS design to identify additional loci involved in glaucoma and age-related macular degeneration.
+0	AMD	NA	NA	INTRO	Importantly, there is no known comorbidity between AMD and glaucoma.
+0	Glaucoma	NA	NA	INTRO	We compared the SNP allele and genotype frequencies between two independent cohorts, each with 200 glaucoma patients and 200 AMD patients - a total of 800 patients.
+0	NA	NA	NA	INTRO	Both disease populations were selected to be without a history, clinical signs or symptoms of the other disease.
+0	Glaucoma	NA	NA	INTRO	Specifically, the glaucoma patients had no evidence of AMD, and the AMD patients had no evidence of glaucoma.
+0	AMD	NA	NA	INTRO	AMD patients were then able to serve as the control (normal) population for the glaucoma cohort and vice versa.
+0	NA	NA	NA	INTRO	This design also incorporated a replication phase.
+0	NA	NA	NA	INTRO	This second 200 versus 200 comparison allowed the validation of the statistically-supported hypotheses generated by the first 200 versus 200 comparison.
+0	Glaucoma	NA	NA	INTRO	As all 800 patient samples were evaluated on a genome-wide collection of SNPs (Affymetrix 500k and Mapping 5.0 arrays), a comprehensive comparison of all 400 glaucoma versus 400 AMD patients was also performed in order to maximize our ability to detect associations found through this experiment
+0	NA	NA	NA	INTRO	This methodology allowed two simultaneous analyses to be performed, with both cost and time benefits.
+0	AMD	NA	NA	INTRO	The disadvantages of this design are that it may be difficult to distinguish the 'disease phase' of a given association (i.e., if a given genotypic difference is associated with AMD or glaucoma risk), and that the identification of associations may be confounded by similar disease pathophysiology.
+0	NA	NA	NA	INTRO	Much of the challenge in determining the disease corresponding to a given association was alleviated through the use of expected normal genotypes - for example, the allele and genotype frequencies available as part of HapMap and the Exome Sequencing Project.
+0	AMD	NA	NA	INTRO	The design also requires that both cohorts be rigorously assessed to ensure that the AMD patients are free of glaucoma, and vice versa.
+0	NA	NA	NA	INTRO	The number of patients assessed for each phenotype is then equivalent to that of two independent case-control designs
+0	NA	NA	NA	METHODS	The University of Iowa's Institutional Review Board approved the research study and written informed consent was obtained from study participants.
+0	NA	NA	NA	METHODS	All patients were ascertained in the Department of Ophthalmology and Visual Sciences at the University of Iowa Carver College of Medicine.
+0	NA	NA	NA	METHODS	Blood samples were obtained from study participants and DNA was prepared using a non-organic method as previously described
+0	AMD	NA	NA	METHODS	The primary and validation cohorts within each phenotype category (AMD, glaucoma) were matched for age, disease, gender and sub-phenotypes (dry, unilateral choroidal neovascularization (UCNV), bilateral choroidal neovascularization (BCNV) for AMD; normal tension glaucoma (NTG), high tension glaucoma (HTG) for glaucoma).
+0	NA	NA	NA	METHODS	These cohorts were designed such that the prevalence of disease, sub-phenotype, age and gender were equally represented as shown in Table 1
+0	NA	NA	NA	METHODS	Two normative data sets were utilized in assessing the results of the study.
+0	NA	NA	NA	METHODS	The first was the HapMap CEU population which is comprised of Centre d' Etude du Polymorphisme Humain (CEPH) individuals of Caucasian ethnicity.
+0	NA	NA	NA	METHODS	Population-based allele frequencies for each SNP were provided as part of the annotations available for the Affymetrix genotyping platforms.
+0	AMD	NA	NA	METHODS	This population is a representative sample of the general population, and is therefore expected to have the population prevalence of AMD and glaucoma within that population.
+0	NA	NA	NA	METHODS	The second normative population used was a disease-free set of 100 patients drawn from the University of Iowa Ophthalmology clinic.
+0	Glaucoma	NA	NA	METHODS	These patients were all over the age of 59 at the time of ascertainment, and had no signs or history of either glaucoma or AMD, as defined below
+0	Glaucoma	NA	NA	METHODS	The cohort of glaucoma subjects underwent complete ophthalmologic evaluation including a dilated stereoscopic examination of the optic nerve heads, Goldmann applanation tonometry, gonioscopy, optic nerve head photography, perimetry and slit lamp examination.
+0	NA	NA	NA	METHODS	Visual fields were assessed in using the SITA 24-2 program on the Humphrey Field Analyzer (Humphrey-Zeiss, Dublin, Ca.).
+0	NA	NA	NA	METHODS	Patients that were unable to perform automated perimetry were tested with Goldmann manual kinetic perimetry (Haag-Streit Instruments, Koeniz, Switzerland)
+0	visual impairment and blindness	NA	NA	METHODS	Patients exhibiting excavation of their optic nerve head and associated glaucomatous visual field loss in at least one eye were considered to have glaucoma.
+0	Glaucomatous optic	NA	NA	METHODS	Glaucomatous optic nerves were defined as nerves with cup-to-disc ratios of greater than 0.7, thinning of the neural rim, asymmetry of the optic nerve cup-to-disc ratio of >0.2, or photographic documentation of progressive loss of the neural rim.
+0	NA	NA	NA	METHODS	Patients were required to have visual fields of adequate quality for interpretation.
+0	NA	NA	NA	METHODS	For Humphrey visual fields this required a false positive rate, false negative rate and fixation loss rate of less than 33%.
+0	Glaucoma	NA	NA	METHODS	Humphrey visual field evidence of glaucoma was based on the Collaborative Normal Tension Glaucoma Treatment Trial criteria.
+0	Geriatric Depression	NA	NA	METHODS	Patients screened using manual kinetic perimetry were required to exhibit depression of the visual field in an arcuate pattern respecting the nasal horizontal meridian.
+0	NA	NA	NA	METHODS	Central corneal thickness was measured using a Pachette 3 ultrasound pachymeter (DGH technology, Inc., Exton, PA).
+0	NA	NA	NA	METHODS	Topical proparicaine was used for anesthesia, the ultrasound probe was placed in apposition to patient corneas and 25 measurements of the corneal thickness were automatically obtained from each eye.
+0	NA	NA	NA	METHODS	The mean of thickness measurements obtained from both eyes was used as the central corneal thickness for each subject
+0	Glaucoma	NA	NA	METHODS	The medical records of glaucoma patients were reviewed for evidence of macular degeneration.
+0	Glaucoma	NA	NA	METHODS	Subjects were excluded from the glaucoma cohort if: 1) they had a prior diagnosis of macular degeneration; 2) they take oral medications for macular degeneration (i.e.
+0	NA	NA	NA	METHODS	AREDS vitamins); or 3) they have a history of treatment with anti-VEGF therapies
+0	AMD	NA	NA	METHODS	Candidates for this project were selected from a pool of patients diagnosed with age-related macular degeneration (AMD) by a faculty ophthalmologist at the University of Iowa.
+0	AMD	NA	NA	METHODS	Their charts and photofiles were reviewed by a retinal expert with extensive experience in AMD and AMD trials.
+0	AMD	NA	NA	METHODS	For inclusion in this study, a patient had to have either Category 3 or 4 AMD as defined by the Age-Related Treatment Trial in both eyes.
+0	NA	NA	NA	METHODS	For an eye to be classified as Category 3 it must have at least one large (>=125micro) druse, or enough intermediate size (63-125micro) drusen that when the area occupied would be at least 0.5 disc area.
+0	AMD	NA	NA	METHODS	A Category 4 eye has advanced AMD defined as geographic atrophy of the retinal pigment epithelium (RPE) in the center of the fovea or choroidal neovascularization.
+0	atrophy	NA	NA	METHODS	Geographic atrophy of the RPE is defined in the AREDS as the presence of at least two of the three following characteristics: a circular area, sharply defined margins, and visible choroidal vessels.
+0	haemorrhage	NA	NA	METHODS	Signs of choroidal neovascularization include elevation of the retinal pigment epithelium, subretinal hemorrhage or fibrosis, serous retinal detachment, hard exudation and leakage of new vessels on fluorescein angiography.
+0	AMD	NA	NA	METHODS	If a patient had Category 4 AMD in both eyes, at least one eye had to have at least one large drusen or a 0.5 disc area of intermediate drusen when added together
+0	NA	NA	NA	METHODS	Patients with evidence of myopic degeneration, chorioretinal scars in the macula, angioid streaks, or diabetic retinopathy consisting of more than five microaneursyms or hemorrhages were excluded from the study.
+0	NA	NA	NA	METHODS	The few patients who had equivocal findings, no photos, or poor quality photos that could not be evaluated were excluded from the study
+0	NA	NA	NA	METHODS	Patients were subdivided into groups based on past or present evidence of CNV up to and including their last follow-up examination.
+0	NA	NA	NA	METHODS	Patients with CNV in both eyes were placed in group one.
+0	NA	NA	NA	METHODS	Patients with CNV in only one eye were placed into group two.
+0	NA	NA	NA	METHODS	Patients with no CNV and were age 70 or older were placed into group three
+0	AMD	NA	NA	METHODS	The AMD patients were rigorously evaluated for glaucoma to ensure that they could serve as a glaucoma depleted control group.
+0	AMD	NA	NA	METHODS	AMD patients were examined and medical records were reviewed by an ophthalmologist that judged them to be free of glaucoma based on the following criteria: 1) history of medication to lower their intraocular pressure; 2) history of any type of glaucoma or status as a glaucoma suspect; 3) cup to disc ratio in either eye of 0.5 or greater unless they had been evaluated by the glaucoma service at UIHC and deemed not to have glaucoma; and 4) intraocular pressure of 25 mm Hg or higher.
+0	NA	NA	NA	METHODS	Patients with an intraocular pressure of 22-24 mm Hg in either eye were included only if there were at least three other measurements that were below this mark
+0	NA	NA	NA	METHODS	Genome-wide SNP genotypes were obtained for all samples with the Affymetrix 500 K set and Mapping 5.0 arrays (Affymetrix Inc., Santa Clara, CA) using the manufacturer's recommended protocols.
+0	Hardy-Weinberg P	NA	NA	METHODS	The BRLMM and BRLMM-P algorithms within the Affymetrix Power Tools suite were used to calculate the individual genotypes.
+0	NA	NA	NA	METHODS	Genotypes were called on the 500 K SNP array hybridizations with the BRLMM algorithm as a single group using default parameters.
+0	NA	NA	NA	METHODS	Genotypes were called on the Mapping 5.0 array hybridizations with the BRLMM-P algorithm using default parameters
+0	NA	NA	NA	METHODS	SNPs with a call rate less than 85% were eliminated from the analysis.
+0	NA	NA	NA	METHODS	All SNP genotypes were analyzed for Hardy-Weinberg Equilibrium (HWE).
+0	NA	NA	NA	METHODS	A p-value threshold of 0.001 was used to identify SNPs not in HWE.
+0	NA	NA	NA	METHODS	Deviations from HWE may be caused by genuine associations or genotyping errors.
+0	NA	NA	NA	METHODS	Thus all SNPs determined not to be in HWE were manually inspected for evidence of genotyping errors
+0	Glaucoma	NA	NA	METHODS	Gender is a known confounder for both glaucoma and AMD.
+0	NA	NA	NA	METHODS	The balanced construction of our populations, however, was designed to minimize gender as a covariate.
+0	Glaucoma	NA	NA	METHODS	The Cochran-Armitage test for trend was used to evaluate the genetic variations between the groups of discrete traits (e.g., glaucoma, ocular hypertension) with a correction for population stratification (the 0.1-trimmed variance estimate was used).
+0	NA	NA	NA	METHODS	For continuous traits, genetic association was evaluated through a linear regression in which the dependent variable was the quantitative trait and the predictor variable was the SNP genotype.
+0	NA	NA	NA	METHODS	The possibility of population stratification was corrected for in a similar manner.
+0	NA	NA	NA	METHODS	An uncorrected p-value of 5x10-7 was used as the threshold for statistical significance of the associations.
+0	NA	NA	NA	METHODS	P-values less than 1x10-5 were classified as suggestive of an association.
+0	NA	NA	NA	METHODS	Only SNPs that were reproducibly associated in both cohorts were considered significant.
+0	NA	NA	NA	METHODS	A cluster of at least three statistically significant (or suggestive) SNPs was required to define an associated (or suggestive) locus, with an inter-SNP distance of at most 200 kb.
+0	AMD	NA	NA	METHODS	Associated loci were classified as AMD or POAG using a Fisher's Exact test versus the control populations.
+0	NA	NA	NA	METHODS	To classify the locus, a p-value <0.05 was required for a disease population in both the primary and validation cohorts, with the other disease yielding non-significant p-values (p>0.05)
+0	NA	NA	NA	RESULTS	Age, gender, and sub-phenotype(s) were evenly distributed within each 200x200 comparison (see Table 1).
+0	inadvertent bias	NA	NA	RESULTS	The absence of inadvertent bias was validated by comparing the distribution of genotypes among the populations using several hundred of the most informative SNPs.
+0	NA	NA	NA	RESULTS	These SNPs showed no significant associations, indicating that the hypothesis generating and validating populations had similar ethnic compositions.
+0	NA	NA	NA	RESULTS	This was confirmed using the protocol described in by Stokowski et al.
+0	NA	NA	NA	RESULTS	using STRUCTURE with a set of genome-wide genomic control SNPs
+0	NA	NA	NA	RESULTS	Eight hundred patients were genotyped and analyzed in a genome-wide association study design.
+0	NA	NA	NA	RESULTS	The resulting associations are summarized in Table 2, ranked by significance.
+0	NA	NA	NA	RESULTS	This table lists the associated loci, the p-values from the hypothesis-generating (primary) cohorts, the p-values from the validation cohorts, and the p-values from the combined cohorts.
+0	NA	NA	NA	RESULTS	A list of genes within each associated locus is also provided.
+0	NA	NA	NA	RESULTS	A graphic depiction of the genome-wide associations is provided in Figure 1.
+0	NA	NA	NA	RESULTS	The significance of the associations is represented by red lines to the right of the chromosomes, with stronger associations resulting in longer lines.
+0	NA	NA	NA	RESULTS	The associated regions from Table 2 are annotated on this figure in green to the left of the chromosome lines.
+0	AMD	NA	NA	RESULTS	The associations in Table 2 are classified as either AMD or glaucoma.
+0	NA	NA	NA	RESULTS	This assessment was based upon comparison with the expected allele frequencies in Caucasian populations as determined by the two control datasets described previously
+0	NA	NA	NA	FIG	This figure presents the associations identified across all 22 autosomes and the X chromosome.
+0	NA	NA	NA	FIG	Each vertical line represents a chromosome and the position within that chromosome is given based upon the position along the vertical axis.
+0	NA	NA	NA	FIG	The length of the red bars represents the strength of the association for individual SNPs, calculated as the negative log10 of the association p-value.
+0	NA	NA	NA	FIG	Only SNPs with p <10-3 are shown.
+0	NA	NA	NA	FIG	The green bars denote the position of the associated SNP clusters, as summarized in Table 2
+0	AMD	CFH	NA	RESULTS	As Figure 1 and Table 2 show, the strongest associations are between the two previously reported AMD risk loci on chromosome 1 (complement factor H;) and chromosome 10 (ARMS2).
+0	AMD	CFH	T to C	RESULTS	The strongest association found was that of the Y402H AMD risk-allele in CFH.
+0	AMD	NA	NA	RESULTS	The reproduction of the two major AMD loci within this analysis served as additional verification of the validity of our study design.
+0	NA	CFH	NA	RESULTS	Both the CFH and ARMS2 loci are clearly visible with peak associations of p<10-16.
+0	Glaucoma	NA	NA	RESULTS	Also of note based upon previously published results, we carefully evaluated several recently published glaucoma associations.
+0	NA	CDKN2B-AS1	NA	RESULTS	None of the published associations reached genome-wide significance in our study, however associations to CDKN2B-AS1 and SRBD1 satisfied a gene-level Bonferroni correction with p-values of 0.0002 and 0.0001 respectively.
+0	NA	SRBD1	rs3213787	RESULTS	Of the 47 SNPs at the SRBD1 locus only one SNP, rs3213787, produced a significant p-value.
+0	NA	SRBD1	NA	RESULTS	This association data provides some support for the previously reported POAG association at the SRBD1 locus.
+0	NA	SRBD1	NA	RESULTS	However, the absence of a significant association with other neighboring SNPs suggests our finding at the SRBD1 may be a false positive signal.
+0	NA	CDKN2B-AS1	NA	RESULTS	In contrast, of the 35 SNPs at the CDKN2B-AS1 locus, four produced significant p-values (0.0004, 0.0002, 0.001, 0.0049).
+0	NA	NA	NA	RESULTS	This lends additional confidence to the bona fide association of this locus to POAG in our cohort
+0	NA	NA	NA	RESULTS	Because both populations were selected from the extant clinical population, the relative gender distribution differs slightly between the two disease populations.
+0	NA	NA	NA	RESULTS	While the difference is small, we performed a logistic regression as part of the association analysis to address this issue.
+0	NA	NA	NA	RESULTS	The resulting p-values were virtually identical to the original analysis, with the expected decrease in significance due to the additional degree of freedom
+0	NA	NA	NA	RESULTS	The genome-wide association analysis identified one glaucoma-associated loci, as shown in Table 2.
+0	Glaucoma	C7	NA	RESULTS	The peak of the glaucoma association on chromosome 5 occurs within the C7 gene - one of the components of the complement system.
+0	AMD	NA	NA	RESULTS	This finding is of interest because several complement components have previously been reported as risk-associated factors for AMD.
+0	AMD	NA	NA	RESULTS	However, based upon the expected allele frequency from HapMap and based upon additional genotyping in a population of normal control individuals, our data strongly suggest that the observed locus is not associated with AMD but represents a novel glaucoma locus.
+0	Glaucoma	C7	Ser389Thr	RESULTS	Of the SNPs at the C7 locus showing association with glaucoma, four are found in introns of the gene, and one results in a highly conserved amino acid change (Ser389Thr).
+0	NA	C7	Ser389Thr	RESULTS	While little is known regarding the function of individual protein domains of C7, Ser389 exhibits remarkable conservation in orthologous genes from vertebrate species, suggesting that this region may be functionally important (Figure 2)
+0	NA	C7	NA	FIG	Multiple sequence alignment highlighting the amino acid conservation of the complement component 7 protein (C7) across a broad spectrum of animal species, including mammal, bird, amphibian and fish.
+0	NA	NA	Ser389Thr	FIG	The SNP rs1063499 (asterisk) is conserved across these species, suggesting functional conservation of this amino acid
+0	NA	myocilin	NA	RESULTS	All previously reported loci for monogenic forms of POAG (GLC1A - GLC1P) were considered a priori candidates for association with POAG.
+0	NA	NA	NA	RESULTS	Of note, the novel glaucoma-associated regions described above do not overlap this set of published monogenic glaucoma intervals.
+0	NA	GLC1N	rs872476	RESULTS	In this association study, only one of the previously linked loci, GLC1N, exhibited an association (p = 0.00013) to the SNP rs872476.
+0	NA	THSD4	NA	RESULTS	This SNP lies within the THSD4 gene, which is expressed in several ocular tissues including the trabecular meshwork and optic nerve (data not shown)
+0	Glaucoma	NA	NA	RESULTS	A set of candidate glaucoma genes was assessed for association in this study.
+0	Glaucoma	NA	NA	RESULTS	This set of candidate genes consisted of 73 genes localized to the peroxisome, or involved in peroxisome biology as annotated in the Gene Ontology, and were selected based upon a recently proposed mechanism for MYOC glaucoma.
+0	NA	NA	NA	RESULTS	No associations were found to be both significant and reproducible for these candidates in both cohorts.
+0	NA	hydroxyacid oxidase 1	rs2142697	RESULTS	The best association was found to a SNP (rs2142697) in the hydroxyacid oxidase 1 (HAO1) gene (p = 0.0022).
+0	NA	hydroxyacid oxidase 1	NA	RESULTS	HAO1 was not expressed in any ocular tissues in a high-density gene expression survey of ten ocular tissues (data not shown)
+0	Central cornea thickness	NA	NA	RESULTS	Central cornea thickness (CCT) is one of several quantitative traits reported to be a risk factor for glaucoma.
+0	Glaucoma	NA	NA	RESULTS	Patients with thin corneas were shown to have a higher prevalence of glaucoma.
+0	NA	NA	NA	RESULTS	In this study, CCT data were available for 280 of the 800 patients genotyped.
+0	NA	NA	NA	RESULTS	A genome-wide scan was performed to search for genetic variations that modulate corneal thickness.
+0	NA	NA	NA	RESULTS	We identified one major QTL on chromosome 20, centered at 35.2 Mb consisting of nine associated SNPs.
+0	NA	NA	rs6124577	RESULTS	The distribution of CCT values in the three genotype classes of rs6124577 is shown in Figure 3.
+0	NA	NA	NA	RESULTS	This figure shows that AA homozygotes and AB heterozygotes have significantly thinner corneas compared to BB homozygotes.
+0	NA	P<10-7	NA	RESULTS	This locus contains the RBL1, C20ORF132 and RPN2 genes, with the strongest association within the RPN2 gene.
+0	NA	NA	NA	RESULTS	Although the p-values are not significant at the genome-wide level, this cluster is reproducibly observed in the primary and validation cohorts
+0	NA	NA	NA	FIG	A boxplot of CCT measurements is presented, demonstrating the differential thickness based upon the observed genotype at rs6124577
+0	AMD	NA	NA	RESULTS	This study identified the two previously reported AMD loci CFH and chromosome 10 (Table 2).
+0	NA	PLEKHA1	NA	RESULTS	The chromosome 10 locus contains the PLEKHA1, ARMS2 (LOC387715) and HTRA1 genes.
+0	NA	NA	NA	RESULTS	There is evidence for each of these genes to be the risk-associated gene.
+0	NA	ARMS2	Arg69Ser	RESULTS	Our analysis found the strongest association to the Arg69Ser variation in ARMS2 reported by Swaroop et al.
+0	AMD	NA	NA	RESULTS	A set of previously reported AMD causing or AMD risk associated loci (RetNet.org) were also evaluated.
+0	NA	NA	NA	RESULTS	The analysis of these loci is presented in Table 3.
+0	AMD	MCDR3	NA	RESULTS	Three of the loci (BSMD, MCDR3 and MCDR4) were associated with AMD in the primary and validation cohorts.
+0	NA	NA	NA	RESULTS	The BSMD locus contains a cluster of associated SNPs with a peak p-value of 6.2x10-5.
+0	NA	CAMK2A	C for 48	RESULTS	The associated SNPs localize within the first intron of the CAMK2A gene, a calcium-dependent serine/threonine kinase.
+0	NA	MCDR3	NA	RESULTS	The MCDR3 locus contains a cluster of eight associated SNPs with a peak p-value of 2x10-4.
+0	NA	CCT5	NA	RESULTS	This associated locus contains the CCT5 gene, part of the chaperonin containing TCP1 complex, and the first exon of the FAM173B gene.
+0	NA	MCDR4	NA	RESULTS	The MCDR4 locus contains three associated SNPs with a peak p-value of 0.002.
+0	NA	MCDR4	NA	RESULTS	There are no annotated genes within the MCDR4 associated SNP cluster
+0	NA	NA	NA	RESULTS	We also assessed the set of published AMD-causing or risk-associated genes, as well as complement-related genes for evidence of an AMD association.
+0	NA	NA	NA	RESULTS	These results are summarized in Table 3.
+0	NA	CFH	NA	RESULTS	As described above, both CFH and ARMS2 are significantly associated in the genome-wide screen.
+0	AMD	NA	NA	RESULTS	From the set of AMD causing and risk-associated genes, suggestive and reproducible associations were detected for C2/CFB, C3, HTRA1 and PROM1.
+0	NA	C2	rs522162	RESULTS	The association to C2 and CFB comes from a SNP (rs522162) that is immediately 3' of CFB.
+0	NA	C2	NA	RESULTS	However, given the proximity of C2 and CFB this SNP may be in linkage disequilibrium with a causative variation in either or both genes.
+0	AMD	ADCY3	NA	RESULTS	Eight additional complement associated genes were identified with suggestive, reproducible AMD associations, specifically ADCY3, CFHR2, CFHR3, CFHR4, CFHR5, F13B, ASPH and CSMD1.
+0	NA	NA	NA	RESULTS	It should be noted that the apparent association for CFHR2-5 and F13B may be due to their proximity to CFH
+0	Glaucoma	NA	NA	DISCUSS	The design of this study utilized two separate affected populations, glaucoma patients and macular degeneration patients.
+0	NA	NA	NA	DISCUSS	Each patient population served as the normal control for the other.
+0	NA	NA	NA	DISCUSS	This study design allowed maximum efficiency in utilization of the genetic data in the assessment of genetic associations.
+0	NA	NA	NA	DISCUSS	A limitation of this study design is that the diseases to be studied should not share genetic risk factors with each other.
+0	NA	NA	NA	DISCUSS	Without this constraint, loci contributing to both disorders would likely go undetected.
+0	Glaucoma	CFH	T to C	DISCUSS	For example, if the Y402H variation in complement factor H was a risk allele for both glaucoma and AMD, the likelihood for identification of this variation as a risk allele for either disorder would be diminished compared to studies using normal controls (patients with neither glaucoma or AMD)
+0	NA	NA	NA	DISCUSS	Provided that two diseases do not share risk associations, the study design used here allows the identification of SNPs that are statistically associated to one of the diseases or the other.
+0	NA	NA	NA	DISCUSS	However, the disease classification of each individual association (i.e., in which disease the genetic variant is acting) is not immediately apparent.
+0	NA	NA	NA	DISCUSS	In such instances, it is possible to utilize the expected allele and genotype frequencies based upon other studies such as the HapMap project.
+0	NA	NA	NA	DISCUSS	The disease population differing from the 'normal' frequency determines the disease classification of the association.
+0	NA	NA	NA	DISCUSS	It is possible that, in rare instances, a given allele could be a risk factor for one disorder and a protective allele for the second disorder.
+0	NA	NA	NA	DISCUSS	In such an instance the risk allele would be enriched in one population and depleted in the other (compared to normal controls), providing an increase in statistical power to detect the association.
+0	AMD	CFH	NA	DISCUSS	In the current study, the previously reported AMD associations, CFH and ARMS2, were readily detected as AMD associated loci using the glaucoma cohort as the control, with allele frequencies similar to those reported in other studies.
+0	Glaucoma	CFH	NA	DISCUSS	These findings validate the use of glaucoma controls for AMD studies, and indicate that CFH and ARMS2 are not involved in glaucoma
+0	NA	NA	NA	DISCUSS	The primary advantage of the two-disease study design is that genotyping costs can be conserved in the initial phase of the study (genotyping of the primary cohorts).
+0	NA	NA	NA	DISCUSS	This allows hypotheses to be developed for both diseases for a specific population without genotyping an additional normal control cohort.
+0	NA	NA	NA	DISCUSS	The power to detect association is based upon the size of the two disease cohorts.
+0	NA	NA	NA	DISCUSS	Hypotheses developed in the initial phase, can then be pursued using a validation cohort.
+0	NA	NA	NA	DISCUSS	A control cohort can be included for limited genotyping at loci of interest and to clarify the specific disease associations.
+0	AMD	NA	NA	DISCUSS	In this study two control cohorts were utilized - the CEU population from HapMap and a set of normal patients from the same clinic population as the POAG and AMD cohorts.
+0	NA	NA	NA	DISCUSS	The allele and genotype frequencies from the normal cohorts were in close agreement with each other
+0	Glaucoma	NA	NA	DISCUSS	In this study, no single, large risk allele for glaucoma on the order of the CFH AMD risk allele was detected.
+0	NA	NA	NA	DISCUSS	Therefore it is likely that this disorder is very genetically heterogeneous and that no single locus with a high genotype relative risk (GRR) exists for POAG in the population studied.
+0	NA	NA	NA	DISCUSS	A key factor in the power to detect associated loci in a GWAS analysis is the genotype relative risk.
+0	NA	CFH	NA	DISCUSS	The GRR reported for CFH and ARMS2 (2.44-5.93 and 3.2-7.9, respectively) contribute substantially to the ability to detect those associations.
+0	exfoliation syndrome	LOXL1	NA	DISCUSS	In contrast to POAG, a single locus on the LOXL1 gene significantly contributes to elevated risk for developing exfoliation syndrome, a condition that is highly prevalent in some populations and may lead to secondary glaucoma
+0	Glaucoma	NA	NA	DISCUSS	The findings highlight the genetic complexity of glaucoma.
+0	Glaucoma	NA	NA	DISCUSS	Known Mendelian genes account for between three to five percent of glaucoma, with the remainder of disease most likely resulting from a combination of many risk factors, each with a small effect.
+0	Glaucoma	NA	NA	DISCUSS	Previous GWAS reports have identified several glaucoma risk associated genes (CAV1/2, CDKN2B-AS1, ATOH7,, SIX1, TMCO1, TLR4, SRBD1 and ELOVL5 ).
+0	Glaucoma	NA	NA	DISCUSS	However, none of these risk factors were associated with glaucoma in our study at genome-wide significance.
+0	NA	SRBD1	NA	DISCUSS	A single gene, SRBD1, was found to be significant under a more permissive multiple hypothesis correction strategy, in which only the eight risk-associated genes were evaluated (p<0.00625).
+0	Glaucoma	NA	NA	DISCUSS	These data underscore key features of the genetic complexity of glaucoma.
+0	NA	NA	NA	DISCUSS	No genetic risk factors of major effect have been discovered for POAG, and the identified risk factors of smaller effect are more important in some populations than others
+0	NA	NA	NA	DISCUSS	This study is adequately powered to detect genetic effects where additional copies of the disease allele increase the odds of disease by a factor of 2 or larger unless the disease-associated allele is rare.
+0	NA	MAF	NA	DISCUSS	For instance, OR> = 2 and MAF>0.1 (Table 4).
+0	NA	MAF	NA	DISCUSS	For smaller odds ratios, the power is lower unless the disease-associated allele is common, for instance, OR = 1.75 and MAF = 0.4 (Table 4)
+0	AMD	NA	NA	DISCUSS	Despite the lack of strongly associated loci for POAG or strongly associated novel loci for AMD, several loci and genes of interest were identified.
+0	Glaucoma	C7	NA	DISCUSS	Of particular interest to the study of glaucoma is the association of C7.
+0	Glaucoma	C7	NA	DISCUSS	C7 has several features that make it an interesting glaucoma candidate.
+0	Glaucoma	C7	NA	DISCUSS	Although C7 is widely expressed, it is highly expressed in optic nerve (data not shown), a tissue of critical relevance to glaucoma.
+0	Glaucoma	C7	NA	DISCUSS	Our data indicate that there are several SNPs within the C7 gene that are significantly associated with glaucoma.
+0	NA	NA	NA	DISCUSS	Four associated SNPs are located in an intron.
+0	NA	NA	Ser389Thr	DISCUSS	An additional SNP encodes an amino acid change (Ser389Thr), which is phylogenetically highly conserved in many vertebrates, including mammals, fish, amphibians, and birds.
+0	NA	C7	NA	DISCUSS	Chou-Fasman modeling predicts that this mutation results in a change in the secondary structure of C7 and may affect the activity of the protein.
+0	NA	C7	NA	DISCUSS	C7 is required for assembly of C5b-9
+0	glaucomatous retina	C1q	NA	DISCUSS	We and others have demonstrated that complement components, including the C1q, C3, and the C5b-9 complex, are deposited in the glaucomatous retina and optic nerve head.
+0	multifactorial disease	C1q	NA	DISCUSS	C1q and C3 are involved in the 'pruning' of retinal ganglion cells dendrites during development and have been implicated in glaucomatous damage to the retina and optic nerve.
+0	Glaucoma	NA	NA	DISCUSS	Although the physiological role of complement activation in glaucoma is not entirely understood, studies in a mouse model of ischemic neuropathy indicate that complement inhibition delays retinal ganglion cell degeneration.
+0	NA	NA	NA	DISCUSS	These findings suggest that complement may specifically target damaged retinal ganglion cells for rapid disruption and removal, possibly to avoid the initiation of an adaptive auto-immune response to retinal antigens as has been described in other diseases.
+0	Glaucoma	NA	NA	DISCUSS	On the other hand, sublytic complement activation may be beneficial for cell survival and it is conceivable that the C5b-9 deposition observed in glaucoma is part of a neuroprotective response of stressed retinal ganglion cells
+0	NA	NA	NA	DISCUSS	In addition to evaluating SNP associations for the primary phenotypes, it is also of interest to identify associations with known disease risk factors, subclasses of disease, and disease complications.
+0	Glaucoma	NA	NA	DISCUSS	For example, central corneal thickness (CCT) has been shown to be a risk factor for glaucoma.
+0	Glaucoma	NA	NA	DISCUSS	In one study eyes with thin corneas (less than 556 microns) have a three-fold greater risk of developing glaucoma than eyes with thick corneas (more than 588 microns).
+0	Glaucoma	NA	NA	DISCUSS	Thus the presence of thin corneas is considered a glaucoma risk factor.
+0	NA	NA	NA	DISCUSS	In our study, CCT data was available for a subset of patients.
+0	NA	NA	NA	DISCUSS	Despite the relatively small size of the data set, we observed significant association with CCT at a locus on chromosome 20.
+0	NA	NA	NA	DISCUSS	Our data indicate that there may be at least one strong genetic locus involved in CCT.
+0	Glaucoma	NA	NA	DISCUSS	It is known that corneal thickness influences intraocular pressure, another risk factor for glaucoma.
+0	Glaucoma	NA	NA	DISCUSS	Thus further study will be required to determine if the chromosome 20 locus is an independent risk locus for glaucoma.
+0	Glaucoma	NA	NA	DISCUSS	An important subclass of glaucoma is normal tension glaucoma.
+0	Glaucoma	NA	NA	DISCUSS	The current study had limited power to detect association for normal tension glaucoma, due to a limited number of patients with this subclass of disease.
+0	AMD	NA	NA	DISCUSS	A major complication of AMD is the presence of CNV.
+0	NA	NA	NA	DISCUSS	This study identified a suggestive risk locus for CNV.
+0	NA	NA	NA	DISCUSS	Although there are no reported genes at the associated locus, multiple ESTs map to this region
+0	open angle glaucoma	NA	NA	CONCL	This study reports a genome-wide association study in primary open angle glaucoma.
+0	NA	C7	NA	CONCL	A novel association of POAG to a variation in complement component 7 was identified.
+0	Glaucoma	ribophorin II	NA	CONCL	In addition, an association of central corneal thickness, a quantitative risk factor for glaucoma, to a SNP in the ribophorin II gene was identified.
+0	NA	NA	NA	CONCL	This study utilized a novel design to maximize the utility of the available genotyping resources and patient cohorts.
+0	AMD	CFH	T to C	CONCL	This design was validated through the observation of AMD associations to the most significant AMD-risk associated alleles - Tyr402His in CFH and Arg69Ser in ARMS2.
+0	NA	NA	NA	CONCL	However, further investigation of this study design is needed to better characterize the power to detect bona fide associations and to correctly reject false associations in comparison to a traditional case-control design.
+0	NA	NA	NA	CONCL	Future work includes focused genotyping in additional large cohorts to further validate the genetic associations

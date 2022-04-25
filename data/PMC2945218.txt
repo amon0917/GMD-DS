@@ -1,0 +1,213 @@
+0	cancers	NA	NA	ABSTRACT	Lung cancer in individuals who have never smoked tobacco products is an increasing medical and public-health issue.
+0	lung cancer	NA	NA	ABSTRACT	We aimed to unravel the genetic basis of lung cancer in never smokers
+0	NA	NA	NA	ABSTRACT	We did a four-stage investigation.
+0	NA	NA	NA	ABSTRACT	First, a genome-wide association study of single nucleotide polymorphisms (SNPs) was done with 754 never smokers (377 matched case-control pairs at Mayo Clinic, Rochester, MN, USA).
+0	MD Anderson Cancer	NA	NA	ABSTRACT	Second, the top candidate SNPs from the first study were validated in two independent studies among 735 (MD Anderson Cancer Center, Houston, TX, USA) and 253 (Harvard University, Boston, MA, USA) never smokers.
+0	NA	NA	NA	ABSTRACT	Third, further replication of the top SNP was done in 530 never smokers (UCLA, Los Angeles, CA, USA).
+0	lung cancer	NA	NA	ABSTRACT	Fourth, expression quantitative trait loci (eQTL) and gene-expression differences were analysed to further elucidate the causal relation between the validated SNPs and the risk of lung cancer in never smokers
+0	lung cancer	NA	NA	ABSTRACT	44 top candidate SNPs were identified that might alter the risk of lung cancer in never smokers.
+1	NA	NA	rs2352028	ABSTRACT	rs2352028 at chromosome 13q31.3 was subsequently replicated with an additive genetic model in the four independent studies, with a combined odds ratio of 1 46 (95% CI 1 26-1 70, p=5 94x10-6).
+1	NA	GPC5	NA	ABSTRACT	A cis eQTL analysis showed there was a strong correlation between genotypes of the replicated SNPs and the transcription level of the gene GPC5 in normal lung tissues (p=1 96x10-4), with the high-risk allele linked with lower expression.
+1	lung adenocarcinomas	GPC5	NA	ABSTRACT	Additionally, the transcription level of GPC5 in normal lung tissue was twice that detected in matched lung adenocarcinoma tissue (p=6 75x10-11)
+1	lung cancer	GPC5	NA	ABSTRACT	Genetic variants at 13q31.3 alter the expression of GPC5, and are associated with susceptibility to lung cancer in never smokers.
+1	lung cancer	GPC5	NA	ABSTRACT	Downregulation of GPC5 might contribute to the development of lung cancer in never smokers
+0	lung cancer	NA	NA	INTRO	Tobacco smoking remains the principal cause of lung cancer.
+0	lung cancer	NA	NA	INTRO	However, 15% of men and 53% of women (25% of all cases worldwide) who develop lung cancer do so without any history of having smoked tobacco products (never smokers).
+0	lung cancer	NA	NA	INTRO	In Europe and North America, about 10-15% of lung cancers occur in never smokers.
+0	lung cancer	NA	NA	INTRO	By contrast, about 30-40% of lung cancers occur in never smokers in Asian countries.
+0	lung cancer	NA	NA	INTRO	Many studies have shown that the aetiology, clinical characteristics, and prognosis of lung cancer in never smokers are substantially different to those in smokers, and lung cancer in never smokers is increasingly recognised as a distinct disease entity.
+0	lung cancer	NA	NA	INTRO	Although the causes of lung cancer in never smokers are poorly understood, one of the established risk factors in European and North American countries is exposure to second-hand smoking.
+0	viral infections	NA	NA	INTRO	Other:though inconsistently reported:risk factors include environ mental factors, hormones, and viral infections.
+0	lung cancer	NA	NA	INTRO	Individual susceptibility to lung cancer has been studied in an attempt to identify and characterise both inherited genetic and acquired somatic changes.
+0	lung cancer	NA	NA	INTRO	However, the specific genetic mechanisms that increase the risk of lung cancer remain to be elucidated
+0	lung cancer	NA	NA	INTRO	Recently, genome-wide association studies have identified several candidate genes and genomic loci that have a moderate effect on the risk of lung cancer.
+0	NA	NA	NA	INTRO	Current candidates include nicotinic acetylcholine receptor subunit genes, 5p15.33, 15q25.1, and 6p21.33, with estimated odds ratios ranging from 1 14 to 1 32.
+0	lung cancer	RGS17	NA	INTRO	A recent study also indentified RGS17 on 6q23-25 as a gene associated with familial lung cancer.
+0	NA	NA	NA	INTRO	To date, no genome-wide association studies have been done with never smokers alone, and the top candidate single nucleotide polymorphisms (SNPs) from previous genome-wide association studies have not been consistently replicated in never smokers.
+0	lung cancer	NA	NA	INTRO	To identify genetic loci and candidate genes that increase the risk of lung cancer in never smokers, we did a genome-wide association study in never smokers with lung cancer and matched controls
+0	NA	NA	NA	METHODS	Never smokers were defined as individuals who had smoked less than 100 cigarettes during their lifetime.
+0	NA	NA	NA	METHODS	Written informed consent was obtained from all participants at each of the participating institutions.
+0	MD Anderson Cancer	NA	NA	METHODS	Research protocols were approved by the institutional review boards of Mayo Clinic (Rochester, MN, USA), MD Anderson Cancer Center (MDACC) and Kelsey-Seybold Clinic (Houston, TX, USA), Harvard School of Public Health and Massachusetts General Hospital (Boston, MA, USA), and University of California in Los Angeles (CA, USA)
+0	lung cancer	NA	NA	METHODS	In the Mayo genome-wide association study, patients with lung cancer who were classed as never smokers were identified and recruited between January, 1997, and September, 2008.
+0	NA	NA	NA	METHODS	A detailed explanation of the recruitment process has been reported previously.
+0	NA	NA	NA	METHODS	Briefly, community residents who were never smokers were selected as controls and matched to patients according to age, sex, and ethnic background.
+0	cancers	NA	NA	METHODS	Detailed information on family history of cancer and exposure to second-hand smoke was collected for both the cases and controls through a structured questionnaire and medical records, including information on the source of the exposure (spouses, parents, and co-workers), amount (number of packs, with 20 cigarettes per pack), and duration of exposure (years).
+0	NA	NA	NA	METHODS	Co-worker exposure included exposure in social settings (eg, clubs, bars, and theatres).
+0	NA	NA	NA	METHODS	The source of second-hand smoke was classed as either childhood exposure (mother and/or father), adulthood exposure (spouse and/or co-worker), and lifetime exposure (at least one source from childhood and one from adulthood).
+0	chronic obstructive pulmonary disease	NA	NA	METHODS	The history of chronic obstructive pulmonary disease (COPD) was determined by a review of participants' medical history
+0	lung cancer	NA	NA	METHODS	In the MDACC study, the cases were patients with newly diagnosed, histologically confirmed lung cancer recruited from MDACC.
+0	NA	NA	NA	METHODS	Controls were healthy individuals recruited from the Kelsey-Seybold Clinic, which is the largest multispecialty physician group practice in the greater Houston area.
+0	NA	NA	NA	METHODS	Demographic data were obtained in face-to-face interviews by trained MD Anderson staff interviewers.
+0	NA	NA	NA	METHODS	Clinical data were taken from medical records
+0	NA	NA	NA	METHODS	Details of participant recruitment for the Harvard study have been described previously.
+0	lung cancer	NA	NA	METHODS	Cases were patients with newly diagnosed, histologically confirmed primary lung cancer; controls were healthy non-blood-related family members and friends of patients with cancer or patients with cardiothoracic conditions undergoing surgery.
+0	NA	NA	NA	METHODS	Interviewer-administered questionnaires were used to collect information on demographics, occupational exposures, and detailed smoking histories from each participant
+0	lung cancer	NA	NA	METHODS	In the UCLA study, cases were patients with histologically confirmed lung cancer, and were identified through the Los Angeles County Cancer Registry administered by the cancer surveillance program at the University of Southern California (Los Angeles, CA, USA).
+0	tract cancers	NA	NA	METHODS	The population controls (without history of lung or upper aerodigestive tract cancers) were frequency matched according to sex and age, and were selected by use of an algorithm to identify eligible controls from a census of each case's neighbourhood.
+0	NA	NA	NA	METHODS	Demographic data, information on exposure to second-hand smoke, and detailed smoking histories were collected by in-person interviews through standardised questionnaires administered by trained interviewers
+0	NA	NA	NA	METHODS	In the Mayo genome-wide association study, genotyping was done with the Illumina HumanHap 370k and 610k BeadChips (Illumina, San Diego, CA, USA), which contain 373397 and 592532 tag SNPs, respectively.
+0	NA	NA	NA	METHODS	CEPH DNA samples (a family trio) were included in each 96-well plate to monitor genotyping calling in this study.
+0	NA	NA	NA	METHODS	Concordance between the replicates was above 99 5%.
+0	NA	NA	NA	METHODS	For SNP quality control, we excluded SNPs with more than 5% of samples that failed (n=33549), minor allele frequencies (MAF) less than 0 005 (n=7878), and genotype distributions that were not in Hardy-Weinberg equilibrium among controls (p<1x10-7, n=52).
+0	NA	NA	NA	METHODS	For sample quality control, we excluded samples with genotyping call rates less than 95% (n=3) and with inconsistencies between genotype and self-reported sex data (n=1).
+0	NA	NA	NA	METHODS	A total of 331918 SNPs (common in both the Illumina HumanHap 370k and 610k BeadChips) of 377 case-control pairs were used in the analysis.
+0	NA	NA	NA	METHODS	Population stratification analysis was done before the analysis with EIGENSOFT version 2.0.
+0	NA	NA	NA	METHODS	None of the first ten eigenvectors were significant (p values varying from 0 11 to 0 98) using ANOVA for population differences along each eigenvector.
+0	NA	NA	NA	METHODS	There were no statistically significant differences between case and control samples for all eigenvectors (p=0 29); thus, in further SNP-association analyses, the population stratification was not adjusted
+0	NA	NA	NA	METHODS	Genotyping data for the top 44 SNPs were obtained from the Illumina HumanHap 660k and 610k BeadChips in the MDACC study.
+0	NA	NA	NA	METHODS	After quality control, 735 never smokers (328 cases and 407 controls) were analysed.
+0	NA	NA	NA	METHODS	All 44 SNPs had call rates above 95%, and all the samples included in this study had genotyping call rates above 95%.
+0	NA	NA	NA	METHODS	The genome control inflation factor, lambda(GC), for overall population in the additive model was 1 016.
+0	NA	NA	NA	METHODS	We considered the adjustment for potential population stratification by adjusting the first principal component, which resulted in a lambda(GC) of 1 013, showing no evidence of genome-wide inflation of the observed test statistics, and the effect of population substructure was minimal.
+0	NA	NA	NA	METHODS	Therefore, no principal component was adjusted in the subsequent association analyses
+0	NA	NA	NA	METHODS	In the Harvard study, genotyping was done with the Illumina Human610-Quad BeadChip.
+0	NA	NA	NA	METHODS	After quality control, all 44 SNPs had call rates above 95%, and all the samples included in the replication studies had genotyping call rates above 95%.
+0	NA	NA	NA	METHODS	Estimates of pairwise genome-wide identity-by-descent were used to detect cryptic relatedness.
+0	NA	NA	NA	METHODS	Pairs of samples showing PI-HAT greater than 0 05 were inspected individually, and 15 samples were removed.
+0	NA	NA	NA	METHODS	To detect population stratification, we used EIGENSTRAT version 2.0 to do a principal-component analysis.
+0	NA	NA	NA	METHODS	Eight samples were excluded as population outliers.
+0	NA	NA	NA	METHODS	To control for potential confounding from population stratification, we selected the first four principal components, on the basis of significant (p<0 05) Tracy-Wisdom tests and lambda(GC), as covariates for multivariate analyses.
+0	NA	NA	NA	METHODS	The top 44 SNPs were analysed in 253 never smokers (92 cases and 161 controls)
+1	NA	NA	rs2352028	METHODS	Because the two top SNPs, rs2352028 and rs2352029, were in complete linkage disequilibrium in the control data from Mayo, MDACC, and Harvard, as well as in the CEU HapMap data, only rs2352028 was genotyped in the UCLA study, by use of the TaqMan allelic discrimination method on the TaqMan ABI 7900HT sequence detection system platform (Applied Biosystems, Foster City, CA, USA).
+0	NA	NA	C for 48	METHODS	The conditions were: 10 ng of dried genomic DNA in a 5 microL reaction mix containing TaqMan SNP genotyping universal master mix and a probe and a primer set (Applied Biosystems) at 95 C for 10 min, followed by 60 cycles of amplification (92 C for 15 s and 60 C for 1 min).
+0	NA	NA	NA	METHODS	After amplification, SDS 2.3 software was used to determine the fluorescent signal from the VIC or FAM-labelled probe.
+0	NA	NA	NA	METHODS	Around 10% of the samples were randomly selected and repeated for quality control, with 100% concordance.
+0	NA	NA	NA	METHODS	A successful genotyping rate of 98 7% was obtained.
+0	NA	NA	NA	METHODS	All SNPs passed the Hardy-Weinburg equilibrium test.
+0	NA	NA	NA	METHODS	The UCLA study did not have genome-wide association study data, and population stratification was not done; therefore, adjustments in the analysis used only demographics and potential confounding variables
+0	NA	NA	NA	METHODS	Genome microarray analysis was done with the Illumina Human WG DASL array (Illumina, Inc, San Diego, CA, USA).
+0	NA	NA	NA	METHODS	Raw intensity data were generated in three batches.
+0	NA	NA	NA	METHODS	For each batch, samples were loaded into BeadStudio 3.1 (gene expression module 3.4) for quality control and calculation of gene or probe level intensity for each individual sample.
+0	NA	NA	NA	METHODS	Average signal intensity, numbers of detected genes, and signal-to-noise ratio (ratio of 95% vs 5% percentile signal intensity) for each sample were assessed and compared with the batch.
+0	NA	NA	NA	METHODS	Samples with a signal-to-noise ratio less than 10 or an extremely low average signal intensity were excluded or repeated.
+0	NA	NA	NA	METHODS	Correlation between the replicates was assessed to ensure the reproducibility of the experiment.
+0	NA	NA	NA	METHODS	Once the samples passed quality control, they were merged and normalised together by use of the R faster cyclic loess function (Fastlo).
+0	NA	NA	NA	METHODS	After the normalisation, further quality control was done to assess a potential batch effect, and adequacy of normalisation with principal component analysis, unsupervised clustering, and sample replicates.
+0	NA	NA	NA	METHODS	No noticeable batch effect was seen, and the correlation among the replicates across batches was generally high (r2>0 95).
+0	cancers	NA	NA	METHODS	143 pairs of normal and tumour samples from never smoking cases were analysed, of which 70 overlapped with the Mayo genome-wide association study; the lung cancer histological types included 77 adenocarcinoma, 29 carcinoid, and 37 other types (sarcomatoid, squamous, large cell, and unspecified non-small cell)
+0	NA	NA	NA	METHODS	In the Mayo study, potential confounders were assessed to determine whether they should be included as variables for adjustment in the subsequent analyses.
+0	chronic obstructive pulmonary disease	NA	NA	METHODS	A stepwise selection process in a conditional logistic regression model was used to select the adjusted variables from all potential confounders, including COPD, exposure to second-hand smoke in adulthood, exposure to second-hand smoke in childhood, lifetime exposure to second-hand smoke, family history of lung cancer, and family history of any other cancers.
+0	chronic obstructive pulmonary disease	NA	NA	METHODS	We selected history of COPD, exposure to second-hand smoke in adulthood, and family history of lung cancer as variables for adjustment.
+0	lung cancer	NA	NA	METHODS	The association between SNPs and lung-cancer risk was analysed by use of multivariate conditional logistic regression assuming additive, dominant, and recessive genetic models.
+0	NA	p 17	NA	METHODS	Webappendix p 17 shows the quantile-quantile (Q-Q) plot of the distribution of test statistics.
+0	NA	NA	NA	METHODS	In the MDACC and Harvard replication studies, odds ratios (OR), 95% CI, and p-values were estimated by use of a multivariate unconditional logistic regression adjusting for age, sex, and the first four principal components (Harvard study).
+0	NA	NA	NA	METHODS	All analyses above were done with PLINK version 1 06.
+0	lung cancer	NA	NA	METHODS	In the UCLA study, OR and p-values were calculated with a multivariate unconditional logistic regression adjusting for age, sex, ethnic background, education, lifetime exposure to second-hand smoke, and family history of lung cancer in first-degree relatives; all analyses were done with SAS version 9.1.3
+0	NA	NA	NA	METHODS	To obtain combined estimates of risk for replicated SNPs from the Mayo genome-wide association study and the three replication studies, a meta-analysis was done to derive the summary estimate of ORs and p values by use of a fixed-effects model.
+0	NA	NA	NA	METHODS	A Cochran's Q test was used to test heterogeneity among studies.
+0	NA	NA	NA	METHODS	A moment-based estimate method was used to assess the variance among studies.
+0	NA	NA	NA	METHODS	The analysis was done with STATA version 8.0.
+0	lung cancer	NA	NA	METHODS	The population-attributable risk was calculated as PAR%=100%xPx(OR-1)/[Px(OR-1)+1], where P is the frequency of the risk allele associated with lung cancer in the control group, and the OR is the combined OR using a fixed effects meta-analysis model
+0	NA	NA	NA	METHODS	A linear regression model adjusted for age and sex was used to assess the correlation between genotypes (independent variable, coded as 0, 1, or 2) and gene transcript expression levels (eQTL, dependent variable) in 70 samples of normal lung tissue.
+0	NA	NA	NA	METHODS	Bonferroni correction was used to adjust the multiple tests.
+0	NA	NA	NA	METHODS	The analysis was done with SAS version 9.0
+0	cancers	NA	NA	METHODS	A paired t test was done to identify genes that were expressed differently in tumour samples and samples of adjacent normal tissue.
+0	NA	NA	NA	METHODS	Gene expression was log2 transformed.
+0	cancers	NA	NA	METHODS	The fold change was obtained by raising 2 to the power of the mean difference in expression between tumour and normal tissues.
+0	cancers	NA	NA	METHODS	We analysed all histological tumour types.
+0	NSCLC-adenocarcinoma	NA	NA	METHODS	We also analysed separately 77 adenocarcinoma samples and matched normal tissue samples and 29 carcinoid tumour samples and matched normal tissue.
+0	NA	NA	NA	METHODS	The analysis was done with Partek version 6.4.
+0	NA	NA	NA	METHODS	Bonferroni's method was used to adjust the multiple tests
+0	NA	NA	NA	METHODS	The funders had no role in the design of the study, data collection, data analysis, data interpretation, writing of the report, or the decision to submit for publication.
+0	NA	DCC	NA	METHODS	PY, XW, DCC, and ZFZ had access to the raw data.
+0	NA	NA	NA	METHODS	The corresponding author had full access to all data and had final responsibility for the decision to submit the manuscript for publication
+0	lung cancer	NA	NA	RESULTS	We did a four-stage study to systematically investigate common genetic variations associated with the risk of lung cancer in never smokers (figure 1).
+0	NA	NA	NA	RESULTS	In the first stage (the Mayo genome-wide association study), we analysed 331 918 SNPs in 377 case-control pairs matched according to age, sex, and ethnic origin (webappendix p 2).
+0	NA	NA	rs11183940	RESULTS	The strongest association was detected at two intergenic SNPs on chromosome 12, rs11183940 (p=1 5x10-6) and rs10880785 (p=7 1x10-6; figure 2A).
+0	lung cancer	NA	NA	RESULTS	To validate the initial findings, we selected the 44 most significant SNPs (webappendix pp 3-4) by considering potential confounding effects from exposure to second-hand smoke, family history of lung cancer, and a history of COPD.
+0	NA	NA	NA	RESULTS	The criteria were p values less than 0 001 in all logistic regression models, under an additive genetic model, with and without adjustment for the three potential confounders.
+0	NSCLC-adenocarcinoma	NA	NA	RESULTS	Because most of the patients in the Mayo study had either adenocarcinomas (67 6%) or non-small-cell lung cancer (NSCLC; 81 4%; webappendix p 2), we further investigated the association of the top 44 SNPs with adenocarcinoma-only and NSCLC; all top 44 SNPs remained siginificant in the two subgroup analyses (webappendix p 5)
+0	NA	NA	NA	RESULTS	In stage 2, we tested the 44 top SNPs in two external datasets from the MDACC and Harvard studies.
+1	NA	p 6	rs2352028	RESULTS	The MDACC study analysed 735 never smokers (328 cases and 407 controls, webappendix p 6); two SNPs, rs2352028 and rs2352029 (linkage disequilibrium r2=1) at chromosome 13q31.3 (Figure 2B and webappendix p 18) were replicated in both the additive (OR 1 54, 95% CI 1 19-2 00; p=9 76x10-4) and dominant genetic models (1 83, 1 32-2 53; p=2 73x10-4, webappendix pp 3-4, 7).
+0	NSCLC-adenocarcinoma	p 7	NA	RESULTS	When the analysis was restricted to adenocarcinoma, the two SNPs remained significant (1 41, 1 06-1 87; p=0 017 in the additive model; webappendix p 7).
+0	NA	p 6	NA	RESULTS	The Harvard study included 253 never smokers (92 cases and 161 controls; webappendix p 6).
+0	NA	p 7	NA	RESULTS	Although the same two SNPs were not replicated in the Harvard study (0 92, 0 60-1 41; p=0 70 in the additive model; webappendix p 7), the combination of the Harvard data with the Mayo and MDACC studies did strengthen the significance of the two SNPs (combined OR 1 48, 95% CI 1 26-1 75; p=2 2x10-5)
+1	NA	p 8	rs2352028	RESULTS	In stage 3, because rs2352028 and rs2352029 were in complete linkage disequilibrium, we tested rs2352028 in the UCLA study (webappendix p 8).
+1	lung cancer	p 9	rs2352028	RESULTS	rs2352028 was significantly associated with risk for lung cancer (OR 1 69, 95% CI 1 00-2 84; p=0 048) in the dominant model, but not in the additive model (1 37, 0 94-1 98; p=0 099; webappendix p 9).
+0	NSCLC-adenocarcinoma	p 9	NA	RESULTS	When the analysis was restricted to white patients only (data not shown) or adenocarcinoma only (webappendix p 9), the association was not statistically significant
+1	lung cancer	OR 1 46	rs2352028	RESULTS	For all four studies, the combined p-value for the association between rs2352028 and lung cancer in never smokers was 5 94x10-6 (OR 1 46, 95% CI 1 26-1 70) under the additive model (figure 3A); when restricted to adenocarcinoma only, the combined p-value was 3 00x10-4 (1 39; 1 16-1 66; figure 3B).
+1	lung cancer	NA	NA	RESULTS	The estimated percentage of population attributable risk (PAR%) ranged from 10 68% in the additive model to 13 88% in the dominant model (figure 3A), indicating more than 10% of cases of lung cancer in never smokers could be attributed to genetic variation of the SNP rs2352028
+0	NA	NA	NA	RESULTS	It is well known that SNPs in regulatory elements can affect expression levels of the target genes, and hence alter the susceptibility to diseases.
+0	NA	NA	NA	RESULTS	In recent years, expression quantitative trait loci (eQTL) analysis has emerged as a powerful tool for identifying genetic variants that affect gene regulation.
+0	NA	NA	NA	RESULTS	Thus in stage 4, we did a cis eQTL analysis to investigate the association between genotypes of the top 44 SNPs and the gene-expression levels in normal lung tissues from 70 of the 377 Mayo cases.
+0	NA	p11	NA	RESULTS	Among all residing and nearby genes (within 50 kb) of the 44 SNPs, we identified 36 genes (webappendix p 10).
+1	NA	GPC5	rs2352028	RESULTS	The eQTL analysis showed that the genotypes of the two replicated SNPs in stage 2, rs2352028 and rs2352029, were strongly associated with expression levels of GPC5 (p=1 96x10-4 and 1 88x10-4, respectively; webappendix pp 11-12).
+1	NA	GPC5	rs2352028	RESULTS	Individuals with the high-risk allele (A at rs2352028) have a lower GPC5 expression level than individuals with the common allele (G; figure 4).
+0	NA	NA	rs2352029	RESULTS	An identical result was seen for rs2352029, with risk allele C and common allele A (figure 4).
+0	NA	NA	NA	RESULTS	No other candidate SNPs were significantly correlated with their residing or nearby genes' expression levels
+0	cancers	NA	NA	RESULTS	We further analysed whole-genome transcript levels in tumour and adjacent normal lung tissues (fresh-frozen) from never-smoking cases.
+0	cancers	NA	NA	RESULTS	We compared the expression of the 36 genes in all histological tumour types, and separately for 77 adenocarcinomas and matched normal tissue and 29 carcinoid tumours and matched normal tissue.
+1	NSCLC-adenocarcinoma	GPC5	NA	RESULTS	We noted that GPC5 expression levels were 50% lower in adenocarcinoma than in matched normal lung tissue (p=6 75x10-11; webappendix pp 13-14), consistent with the finding that high-risk alleles of the two validated SNPs were correlated with decreased GPC5 gene expression.
+0	carcinoid tumour	NA	NA	RESULTS	No significant differences in expression were seen when all histological types and carcinoid tumour-type only were compared with matched normal tissues (with either multiple tests adjusted p>0 05 or fold-change <2 0).
+0	cancers	AGTR1	NA	RESULTS	Although seven other genes (AGTR1, ASTN2, KIAA1217, SGPL1, SERPINF1, SDK2, and CACNA2D1) were also noted to be differentially expressed between tumour and matched normal tissues, our eQTL analysis did not show any candidate SNPs that were associated with the expression levels of these genes
+0	lung cancer	NA	NA	DISCUSS	From the first stage of our genome-wide association study searching for common genetic variations responsible for increasing the risk of lung cancer in never smokers, we identified 44 candidate SNPs.
+1	NA	NA	rs2352028	DISCUSS	Two of these candidate SNPs, rs2352028 and rs2352029, were replicated in stage 2 of our study.
+1	NA	GPC5	NA	DISCUSS	These two SNPs are in complete linkage disequilibrium (r2=1) and located at intron 5 of GPC5.
+1	NA	NA	rs2352028	DISCUSS	rs2352028 was further replicated in stage 3.
+1	lung cancer	GPC5	rs2352028	DISCUSS	Subsequent functional analyses, eQTL, and analysis of gene-expression levels, strongly indicate that rs2352028 and rs2352029, or variants tagged by these two SNPs, are associated with risk of lung cancer in never smokers through their regulation of GPC5 expression
+1	NSCLC-adenocarcinoma	GPC5	NA	DISCUSS	Our results showed that GPC5 expression is significantly lower in adenocarcinoma than in matched normal lung tissue, but there was no significant difference in expression levels in lung carcinoid tumours.
+0	lung cancer	NA	NA	DISCUSS	To further confirm these results, we assessed the Oncomine microarray databases with nine studies on lung cancer, seven of which included lung adenocarcinoma.
+1	NSCLC-adenocarcinoma	GPC5	NA	DISCUSS	Two datasets showed significant downregulation of GPC5 in adenocarcinoma tumours compared with normal lung tissue.
+0	NA	NA	NA	DISCUSS	Importantly, the two studies included smoking status information, and both showed lower expression in never smokers than in smokers (webappendix pp 15-16).
+1	SCLC	GPC5	NA	DISCUSS	Four studies reported the GPC5 expression information from other histological types, including carcinoid, squamous, small-cell carcinoma, and large-cell carcinoma, and showed no significant differences in GPC5 expression between these and normal tissue types (webappendix pp 15-16).
+1	NSCLC-adenocarcinoma	GPC5	NA	DISCUSS	Thus, reduced GPC5 expression could be specific for adenocarcinoma in never smokers.
+0	NA	NA	NA	DISCUSS	However, owing to sample sizes and the different characteristics of study samples from Oncomine, this conclusion needs to be further validated.
+1	carcinoid tumour	GPC5	NA	DISCUSS	The absence of a significant difference between GPC5 expression in carcinoid tumours and normal lung tissue in our study and the Oncomine databases might be the result of small sample sizes or the different aetiology of adenocarcinoma:while adenocarcinomas are derived from cells located in the epithelium lining the bronchi, carcinoid tumours arise from neuroendocrine cells
+0	lung cancer	NA	NA	DISCUSS	Many studies have reported consistently that lung cancer risk declines among former smokers with increasing years of abstinence; however, the duration after which lung cancer risk in former smokers reaches the same level as that found in never smokers is unclear.
+0	lung cancer	NA	NA	DISCUSS	Several studies showed that the risk of lung cancer in former smokers approaches the same risk level as never smokers after 10 years of smoking cessation.
+0	NA	NA	NA	DISCUSS	Therefore, we also analysed the association of the top 44 SNPs, including individuals who had quit smoking for 10 years or more (long-term quitters) in the Harvard study.
+1	lung cancer	p 19	rs2352028	DISCUSS	Interestingly, the two replicated SNPs were also significantly associated with lung cancer risk in former smokers (p=0 018 for rs2352028 and 0 015 for rs2352029; webappendix p 19), suggesting that never-smokers and long-term quitters might share common genetic mechanisms in developing lung cancers
+1	NA	GPC5	NA	DISCUSS	GPC5 is a member of the glypican gene family, has eight exons encoding 572 aminoacids, and spans a large genomic region of 1 47 Mb at 13q31.3.
+0	NA	NA	NA	DISCUSS	Glypicans are a family of heparan sulphate proteoglycans (HSPGs) that are linked to the exocytoplasmic surface of the plasma membrane by a glycosyl-phosphatidylinositol (GPI) anchor.
+0	NA	NA	NA	DISCUSS	HSPGs are widely distributed in mammalian tissues and interact with many proteins including growth factors, chemokines, and structural proteins of the extracellular matrix to influence cell growth, differentiation, and the cellular response to the environment.
+0	NA	NA	NA	DISCUSS	Evidence to date suggests that the main function of the membrane-attached glypicans is to regulate the signalling pathway of Wnt, hedgehog, fibroblast growth factors, and bone morphogenetic proteins.
+0	cancers	NA	NA	DISCUSS	Depending on the context, glypicans might have a stimulatory or inhibitory activity on these pathways, which are important in regulating cell proliferation and division, and have been previously shown to be involved in developmental processes and the oncogenesis of various types of human cancer
+1	cancers	GPC5	NA	DISCUSS	Alterations at the GPC5 locus are a common event in various human tumours.
+0	cancers	NA	NA	DISCUSS	Amplifications at 13q31-32 are frequently seen across several tumour types, including lymphomas, breast cancers, and neurological tumours.
+0	lung cancer	NA	NA	DISCUSS	For lung cancer, an array CGH-based study reported a homozygous deletion at 13q31.3 in a non-small-cell lung cancer cell line.
+0	lung hypoplasia	NA	NA	DISCUSS	Another array CGH-based study recently analysed a series of 14 patients with 13q partial deletion syndrome and noted lung hypoplasia as one of the common phenotypes.
+0	lung hypoplasia	NA	NA	DISCUSS	Among the 14 patients, two had lung hypoplasia.
+1	lung cancer	GPC5	NA	DISCUSS	These studies suggest that GPC5 might be a crucial gene in lung development, and genetic variations of this gene might contribute substantially to an increased risk of lung cancer.
+1	cancers	GPC5	NA	DISCUSS	For non-cancer association, a recent genome-wide association study identified a role of GPC5 in multiple sclerosis risk, while a genome-wide pharmacogenomics analysis indicated the association of GPC5 polymorphisms with response to interferon-beta therapy in patients with multiple sclerosis.
+1	NA	GPC5	NA	DISCUSS	Another genome-wide association study identified GPC5 as a candidate gene in serum docosahexaonic acid metabolite profiles.
+1	NA	GPC5	NA	DISCUSS	This evidence suggests that GPC5 has different roles depending on the tissue type and the stage of disease development and progression
+0	NA	NA	NA	DISCUSS	We recognise that our sample sizes (both discovery and replication) do not afford enough power, at a less than 10-7 genome-wide level of significance for an OR of 1 6.
+0	lung cancer	NA	NA	DISCUSS	"However, it is important to note that recruiting ""pure"" never smokers at multiple study sites from countries and regions where cigarette smoking was the cause of 90% of all lung cancer cases in the population has proven to be a difficult task."
+0	NA	NA	NA	DISCUSS	Nonetheless, despite the small sample size, we were able to identify new genetic variants for never smokers, with the corroboration of functional data at the specific gene-expression level.
+0	NA	NA	NA	DISCUSS	Our study design, using a multi-level genomic analytical approach (ie, integrating data from germline SNPs, germline normal-lung-tissue gene expression, and tumour-tissue gene expression) has increased the statistical reliability and biological plausibility of our replicated SNPs
+0	NA	NA	NA	DISCUSS	Although we did not see significant statistical heterogeneity among the four datasets under the three genetic models, there might be unobserved heterogeneity caused by the samples and the study design.
+0	cancers	NA	NA	DISCUSS	Specifically, the control set in the Harvard study was comprised of healthy non-blood-related family members and friends of patients with cancer or patients with cardiothoracic conditions undergoing surgery, while the controls in the three other data sets were enrolled from general community populations.
+0	NA	NA	NA	DISCUSS	However, it is important to note that despite the potential heterogeneity in the Harvard study, the inclusion of this particular study did not affect our final results and conclusions
+0	NA	NA	NA	DISCUSS	Most of the top 44 SNPs were not validated in the replication studies, and this could be explained by various factors.
+0	chronic obstructive pulmonary disease	NA	NA	DISCUSS	First, the sample size; and second, the inconsistent adjustment for potential confounders, such as exposure to second-hand smoke, previous diagnosis of COPD, and family history of lung cancer, which were adjusted for in the Mayo study but were not adjusted for in the MDACC and Harvard studies because of a lack of data.
+0	NA	NA	NA	DISCUSS	Because of the difficulty in collecting large samples with all potential risk factors, our study results will hopefully send out an important message to other investigators in the same field.
+0	NA	NA	NA	DISCUSS	Our careful selection of the top 44 SNPs based on multiple scenarios of the available covariates was prepared for additional replication studies with varied information that were or are collected by other investigators.
+0	NA	NA	NA	DISCUSS	Furthermore, three of the study populations used here:the UCLA dataset being the exception:included almost exclusively white participants, which could limit the ability to generalise our results to populations with other ethnic backgrounds.
+1	lung cancer	GPC5	rs2352028	DISCUSS	Although replication in the UCLA population, of mixed ethnic origin, confirmed the association of rs2352028 at GPC5 with lung cancer in never smokers after adjusting for ethnic origin, well-designed genome-wide association studies in other populations are needed to determine whether our findings are population-specific
+0	lung cancer	NA	NA	DISCUSS	To our knowledge, our study presents the first and largest effort so far to characterise comprehensively the genomic alterations in lung cancer in never smokers from germline to somatic level.
+0	NA	NA	NA	DISCUSS	We used a staged genome-wide association study design and analysis, which was aimed at identifying robust associations and reducing type I errors.
+0	NA	NA	NA	DISCUSS	Our study was strengthened by incorporating functional analyses of eQTL and differential gene expression.
+0	NA	NA	NA	DISCUSS	Importantly, our eQTL analysis was done on normal lung tissues from never smokers, while most studies that use eQTL analysis have been based on lymphoblastoid cell lines (LCLs).
+0	NA	NA	NA	DISCUSS	It has recently been shown that genetic variations might regulate gene transcript expression in either a tissue-specific or tissue-independent manner, and LCLs and primary tissue type cells share only a minority of cis eQTL.
+0	NA	NA	NA	DISCUSS	Therefore, LCLs might not be truly representative of the regulatory landscape in the affected tissue of interest.
+0	NA	NA	NA	DISCUSS	Our lung tissue-based eQTL analysis overcomes certain limitations of those LCL-based studies.
+1	cancers	GPC5	NA	DISCUSS	Finally, our analysis of differential gene expression between tumour and normal tissues further confirmed the germline-based findings (from GWAS and eQTL) at a somatic level, and identified GPC5 as a candidate lung-cancer-susceptibility gene
+1	lung cancer	GPC5	NA	DISCUSS	In summary, we have identified a genetic locus at 13q31.3 that regulates the expression of GPC5, which might contribute to the development of lung cancer in never smokers.
+1	NA	GPC5	NA	DISCUSS	Future studies are needed to investigate the regulatory effect of these SNPs (or tagged variants) and the functional role of GPC5 in lung tumorigenesis
+0	NA	NA	NA	FIG	eQTL=expression quantitative trait loci.
+0	NA	NA	NA	FIG	SNP=single nucleotide polymorphism.
+0	cancers	NA	NA	FIG	MDACC=MD Anderson Cancer Center.
+0	NA	NA	NA	FIG	UCLA=University College Los Angeles
+0	NA	NA	rs11183940	FIG	(A) Black arrows indicate two SNPs: rs11183940 (p=1 5x10-6) and rs10880785 (p=7 1x10-6) on chromosome 12 with strongest significant association in the Mayo genome-wide association study
+1	MD Anderson Cancer	NA	rs2352028	FIG	(B) The arrow indicates two SNPs: rs2352028 (p=4 3x10-5) and rs2352029 (p=5 3x10-5) on chromosome 13 replicated in the MD Anderson Cancer Center study
+0	NA	NA	NA	FIG	Black squares indicate the odds ratios, with the size of the square inversely proportional to its variance.
+0	NA	NA	NA	FIG	Horizontal lines represent 95% CI.
+0	NA	NA	NA	FIG	The combined results under each genetic model are indicated by the black diamond.
+0	NA	NA	NA	FIG	Heterogeneity test p values were calculated using a Cochran's Q test.
+0	NA	NA	NA	FIG	PAR%=percentage of population attributable risk.
+0	NA	NA	NA	FIG	MAF=minor allele frequency (case/control).
+0	cancers	NA	NA	FIG	MDACC=MD Anderson Cancer Center.
+0	NA	NA	NA	FIG	UCLA=University College Los Angeles
+0	NA	NA	NA	FIG	Gene expression is in normalised units.
+0	NA	NA	NA	FIG	Centre lines are the ranges of expression levels; boxes indicate IQR.
+0	NA	NA	NA	FIG	The p value was calculated with a linear regression model adjusted for age and sex

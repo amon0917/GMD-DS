@@ -1,0 +1,190 @@
+0	AMD	NA	NA	ABSTRACT	Despite significant progress in the identification of genetic loci for age-related macular degeneration (AMD), not all of the heritability has been explained.
+0	AMD	NA	NA	ABSTRACT	To identify variants which contribute to the remaining genetic susceptibility, we performed the largest meta-analysis of genome-wide association studies to date for advanced AMD.
+0	NA	NA	NA	ABSTRACT	We imputed 6 036 699 single-nucleotide polymorphisms with the 1000 Genomes Project reference genotypes on 2594 cases and 4134 controls with follow-up replication of top signals in 5640 cases and 52 174 controls.
+0	NA	NA	rs1999930	ABSTRACT	We identified two new common susceptibility alleles, rs1999930 on 6q21-q22.3 near FRK/COL10A1 [odds ratio (OR) 0.87; P = 1.1 x 10-8] and rs4711751 on 6p12 near VEGFA (OR 1.15; P = 8.7 x 10-9).
+0	NA	NA	rs10490924	ABSTRACT	In addition to the two novel loci, 10 previously reported loci in ARMS2/HTRA1 (rs10490924), CFH (rs1061170, and rs1410996), CFB (rs641153), C3 (rs2230199), C2 (rs9332739), CFI (rs10033900), LIPC (rs10468017), TIMP3 (rs9621532) and CETP (rs3764261) were confirmed with genome-wide significant signals in this large study.
+0	AMD	ABCA1	NA	ABSTRACT	Loci in the recently reported genes ABCA1 and COL8A1 were also detected with suggestive evidence of association with advanced AMD.
+0	AMD	VEGFA	NA	ABSTRACT	The novel variants identified in this study suggest that angiogenesis (VEGFA) and extracellular collagen matrix (FRK/COL10A1) pathways contribute to the development of advanced AMD
+0	AMD	NA	NA	INTRO	Advanced age-related macular degeneration (AMD) (MIM 603075) is a leading cause of visual impairment and blindness in people older than 60 years.
+0	AMD	NA	NA	INTRO	AMD is a common, late-onset disease that is modified by covariates including smoking and body mass index and has recurrence ratios for siblings of a case that are 3-6-fold higher than in the general population.
+0	NA	NA	NA	INTRO	The burden of this disease is increasing among the growing elderly population.
+0	visual loss	NA	NA	INTRO	Among individuals aged 75 or older, approximately one in four have some sign of this disease and about one in 15 have the advanced form with visual loss.
+0	AMD	NA	NA	INTRO	There are two main forms of advanced AMD.
+0	NA	NA	NA	INTRO	The neovascular (NV), or 'wet', form is characterized by in-growth of choroidal vessels under the retina.
+0	Geographic atrophy	NA	NA	INTRO	Geographic atrophy (GA), the advanced 'dry' form of the disease, occurs when there is full thickness loss of the outer retinal layers, retinal pigment epithelium (RPE) and choriocapillaris in the central macula.
+0	multifactorial disease	VEGFA	NA	INTRO	Although anti-vascular endothelial growth factor (VEGF) therapy has significantly improved the functional and morphological outcomes for patients with NV disease, there are currently no effective therapies or preventive strategies for GA
+0	AMD	CFH	NA	INTRO	Several genetic loci have been associated with advanced AMD, including complement pathway genes CFH, C2, CFB, C3, CFI and the ARMS2/HTRA1 region.
+0	AMD	LIPC	NA	INTRO	Recent genome-wide studies in large cohorts have also identified the association between advanced AMD and variants in LIPC, a gene in the high-density lipoprotein (HDL) pathway, and TIMP3, and suggested association with other loci in the HDL pathway.
+0	NA	NA	NA	INTRO	The discovery of the multiple associations with complement-related genes revealed an unanticipated central role for this pathway in disease pathogenesis.
+0	AMD	NA	NA	INTRO	This has led directly to the initiation of multiple clinical trials of drugs that alter the complement pathway in AMD patients.
+0	AMD	NA	NA	INTRO	A combined risk score including these multiple genetic loci along with demographic, environmental and macular characteristics which modify risk is highly predictive of progression from the early and intermediate stages of AMD to the advanced stages which cause visual loss
+0	NA	NA	NA	INTRO	The genetic variants known to date are estimated to account for <50% of the heritability of the disease.
+0	AMD	NA	NA	INTRO	To identify additional loci that contribute to the genetic risk of advanced AMD and to illuminate new candidate physiological processes that might be involved, we performed a meta-analysis of genome-wide association study (GWAS) for advanced AMD that consisted cases/controls from the Tufts/Massachusetts General Hospital (MGH) GWAS Cohort Study, the Michigan, Mayo, Age-Related Eye Disease Study (AREDS), Pennsylvania (MMAP:Michigan, Mayo, AREDS, Pennsylvania Cohort Study) Cohort Study, as well as controls from the Myocardial Infarction Genetics Consortium (MIGen) and the Genetic Association Information Network (GAIN) Schizophrenia Study.
+0	NA	NA	NA	INTRO	We imputed a large number of single-nucleotide polymorphisms (SNPs) using the 1000 Genomes Project reference data to search deeply throughout the genome in this large merged data set of Tufts/MMAP/MIGen/GAIN (TMMG).
+0	NA	NA	NA	INTRO	We then sought direct replication of the top representative SNPs of each clumped region in 10 independent cohorts from Johns Hopkins University (JHU), Columbia University (COL), Genentech, deCODE (Iceland), Washington University (Wash-U), Centre for Eye Research Australia (AUS), the Rotterdam Study (RS), an independent replication sample from Tufts/MGH, Hopital Intercommunal de Creteil (FR-CRET) and The Queen's University of Belfast (Irish).
+0	NA	NA	NA	INTRO	We also conducted a combined analysis for the results of top SNPs in all participating cohorts using a fixed effects model
+0	NA	NA	NA	FIG	Manhattan plot.
+0	NA	NA	NA	FIG	Log (P) values of association results from the cleaned TMMG data set are plotted for SNPs on each chromosome.
+0	NA	NA	NA	FIG	SNPs with P < 5 x 10-7 are colored in red and the representative genes for each associated region are labeled
+0	AMD	NA	NA	RESULTS	After the quality control analyses (see Materials and Methods; Supplementary Material, Table S1), the TMMG data set consisted of genotype data for 2594 individuals with advanced AMD and 4134 controls, all of European ancestry.
+0	AMD	NA	NA	RESULTS	A set of 6 036 699 high-quality SNPs from imputation using the 1000 Genomes Project data was tested for the association with advanced AMD.
+0	NA	NA	NA	RESULTS	We plotted our meta-analysis of GWAS P-values in quantile-quantile plots.
+0	NA	NA	NA	RESULTS	The strong associations of previously reported SNPs distorted the P-values distribution toward the top-end of the plot (Supplementary Material, Fig.
+0	NA	NA	NA	RESULTS	S1A).
+0	NA	NA	NA	RESULTS	After removing these well-validated associated loci, we observed little statistical inflation in the remaining distribution of association statistics (inflation factor lambdagc = 1.047; Supplementary Material, Fig.
+0	NA	NA	NA	RESULTS	S1B).
+0	NA	NA	NA	RESULTS	Since inflation factor scales with sample size, we estimated the value that would be expected in a study of 1000 cases and 1000 controls (lambda1000 = 1.015).
+0	NA	NA	NA	RESULTS	Again, there was little evidence of any general inflation of the test statistics.
+0	NA	NA	rs10490924	RESULTS	As expected, we observed highly statistically significant association signals at SNPs in six previously published loci, including ARMS2/HTRA1 (rs10490924, P = 1.2 x 10-144), CFH (rs1061170, P = 5.6 x 10-138, and rs1410996, P = 2.1 x 10-134), CFB (rs641153, P = 2.9 x 10-22), C3 (rs2230199, P = 1.4 x 10-18), C2 (rs9332739, P = 4.3 x 10-12), CFI (rs10033900, P = 2.4 x 10-11) and LIPC (rs1532085, P = 1.0 x 10-7) (Fig.
+0	NA	NA	NA	RESULTS	1).
+0	AMD	NA	NA	FIG	FRK/COL10A1 and VEGFA regions and association with AMD.
+0	NA	NA	NA	FIG	(A) Observed association in the 500 kb region surrounding the FRK/COL10A1 locus in meta-analysis of TMMG data sets.
+0	NA	NA	rs1999930	FIG	The representative SNP (rs1999930) for this region with P = 3.1 x 10-7 is shown by a small purple circle.
+0	AMD	NA	NA	FIG	In the combined analysis including all 11 cohorts, this SNP was associated with AMD at P= 1.1 x 10-8 (large purple diamond).
+0	NA	NA	rs1999930	FIG	(B) Forest plot for rs1999930 association across 11 cohorts.
+0	NA	VEGFA	NA	FIG	(C) Observed association in the 500 kb region surrounding the VEGFA locus in meta-analysis of TMMG data sets.
+0	NA	NA	rs4711751	FIG	The represented SNP (rs4711751) for this region of P = 2.2 x 10-5 is shown by a small purple circle.
+0	AMD	NA	NA	FIG	In the combined analysis including all 10 cohorts, this SNP was associated with AMD at P = 8.7 x 10-9 (large purple diamond).
+0	NA	NA	rs4711751	FIG	(D) Forest plot for rs4711751 association across 10 cohorts
+0	NA	NA	NA	RESULTS	In addition to the previously identified loci, we detected a region at 6q21-q22.3 (Fig.
+0	AMD	NA	NA	RESULTS	2A) that contained 30 SNPs in tight LD (R2 > 0.8) which were strongly associated with AMD status in the TMMG sample (P < 5 x 10-7).
+0	NA	COL10A1	NA	RESULTS	The associated region contains the genes COL10A1 (encoding the alpha chain of type X collagen) and FRK (encoding the fyn-related kinase).
+0	AMD	COL10A1	rs12204816	RESULTS	To confirm the new locus for advanced AMD, we selected two SNPs rs12204816 (P = 1.73 x 10-7, near COL10A1) and rs1999930 (P = 3.1 x 10-7, between FRK and COL10A1) from this block for further replication study.
+0	NA	NA	NA	RESULTS	In addition to the FRK/COL10A1 variants, we also sought to replicate 37 other previously unreported candidate loci (P < 5 x 10-5 in the TMMG meta-analysis), as well as previously reported loci.
+0	AMD	NA	NA	TABLE	Genes associated with AMD in genome-wide meta-analysis and analysis of all samples combine
+0	NA	NA	NA	RESULTS	In aggregate, the replication data sets consisted of 5640 cases and 52 174 controls from 10 independent cohorts from JHU, COL, Genentech, Iceland, Wash-U, AUS, RS, FR-CRET, Irish and an independent replication sample from Tufts/MGH (Supplementary Material, Table S2).
+0	NA	NA	NA	RESULTS	The effective sample sizes of each cohort are noted in Supplementary Material, Table S3.
+0	NA	NA	rs12204816	RESULTS	Of the two SNPs we selected for replication in FRK/COL10A1 locus, rs12204816 failed the genotyping quality criteria in the replication phase, but rs1999930 was successfully genotyped in all 10 replication cohorts.
+0	NA	NA	rs1999930	RESULTS	In the TMMG meta-analysis, the minor T allele frequency of rs1999930 was 26% in cases and 30% in controls (Table 1), with an odds ratio (OR) of 0.81 and a 95% confidence interval (CI) range of 0.74-0.88 (Fig.
+0	NA	NA	NA	RESULTS	2B; Supplementary Material, Table S3).
+0	NA	NA	NA	RESULTS	Combining the effect sizes of all independent replication cohorts using a fixed effects model confirmed the association (OR = 0.90, P = 8.3 x 10-4).
+0	AMD	NA	rs1999930	RESULTS	In the combined analysis of all the samples, the T allele of rs1999930 significantly (P = 1.1 x 10-8) reduced the risk of advanced AMD [OR = 0.87 (95% CI: 0.83-0.91)].
+0	NA	NA	NA	RESULTS	There was no significant evidence for heterogeneity under Cochran's Q-test (P = 0.32, I2 = 15%) across data sets.
+0	NA	VEGFA	rs4711751	RESULTS	Another previously unreported locus (rs4711751) near VEGFA with a suggestive association signal (P = 2.2 x 10-5) in the TMMG meta-analysis was confirmed in our replication study.
+0	AMD	NA	rs4711751	RESULTS	The T allele of rs4711751, with an allele frequency of 0.54 in cases and 0.50 in controls, was associated with increased risk of advanced AMD [OR = 1.21 (95% CI:1.11-1.32)].
+0	NA	NA	NA	RESULTS	The results were consistent in direct replication genotyping in an independent set of 5419 cases and 47 687 controls [OR = 1.13 (95% CI: 1.06-1.19), P = 4.3 x 10-5].
+0	NA	NA	NA	RESULTS	This SNP reached genome-wide significance [OR = 1.15 (95% CI: 1.10-1.21), P = 8.7 x 10-9] in the combined analysis (Fig.
+0	NA	NA	rs4711751	RESULTS	2C and D; Supplementary Material, Table S4), including all replication cohorts except the Rotterdam Study, in which rs4711751 was not genotyped.
+0	NA	NA	rs4711751	RESULTS	We found no significant evidence for heterogeneity (P = 0.26, I2 = 24%) for the rs4711751 association results across the nine cohorts tested
+0	AMD	NA	NA	RESULTS	Besides the two novel FRK/COL10A1 and VEGFA loci, three recently reported loci were also associated with advanced AMD (Table 1).
+0	NA	TIMP3	rs9621532	RESULTS	The risk variants in TIMP3 (rs9621532, P = 2.2 x 10-15) and HDL pathway genes LIPC (rs10468017, P = 2.7 x 10-12) and CETP (rs3764261, P = 6.9 x 10-9) reached genome-wide significance in the combined analysis.
+0	NA	ABCA1	rs1883025	RESULTS	Two other variants in ABCA1 (rs1883025, P = 1.2 x 10-7) and COL8A1 (rs13095226, P = 9.7 x 10-7) which were reported in our previous GWAS are also still noteworthy candidates (Supplementary Material, Table S5).
+0	AMD	NA	NA	RESULTS	Supplementary Material, Table S6, shows other published candidate SNPs which were not associated with advanced AMD in this GWAS meta-analysis
+0	AMD	NA	NA	RESULTS	We also investigated the specific association with GA and NV subtypes of AMD in our TMMG samples.
+0	NA	NA	rs1999930	RESULTS	The minor allele (T) of rs1999930 had a similar effect size for GA [OR = 0.78 (0.69-0.89), P = 1.0 x 10-4] and NV [OR = 0.82 (0.75-0.90), P = 4.1 x 10-5].
+0	NA	NA	rs4711751	RESULTS	The risk allele (T) of rs4711751 also had a similar magnitude of effect on GA [OR = 1.23 (1.08-1.40), P = 2.0 x 10-3] and NV [OR = 1.20 (1.09-1.32), P = 2.5 x 10-4].
+0	NA	CFH	NA	RESULTS	Association signals at CFH, C2, CFB, C3, CFI and ARMS2/HTRA1 were also significant for both GA and NV compared with controls.
+0	NA	NA	NA	RESULTS	ARMS2/HTRA1 was more strongly related to NV compared with GA as previously reported
+0	AMD	NA	NA	RESULTS	This study provides an opportunity to establish a prediction model for advanced AMD with all the associated genetic risk factors combined together.
+0	NA	ABCA1	rs1883025	RESULTS	We evaluated a risk score based on the sum of the genotype dosage of 14 risk variants (SNPs in Table 1 plus rs1883025 in ABCA1 and rs13095226 in COL8A1 in Supplementary Material, Table S5) which were validated or suggested in this study, each weighted by the natural logarithm of OR estimated by a multivariate logistic regression model of these 14 variants in TMMG samples.
+0	AMD	NA	NA	RESULTS	It is estimated that there is a >50-fold difference in advanced AMD risk between the high-risk individuals (risk score >2) and the low-risk individuals (risk-score <-2) (Supplementary Material, Fig.
+0	NA	NA	NA	RESULTS	S2)
+0	AMD	NA	rs1999930	DISCUSS	In this study aiming to find new genetic factors for advanced AMD, we report a genome-wide significant association near FRK/COL10A1 (rs1999930, P = 1.1 x 10-8), a locus not previously implicated in advanced AMD.
+0	AMD	NA	rs4711751	DISCUSS	We also identified a novel locus (rs4711751, P = 8.7 x 10-9) for advanced AMD near VEFGA.
+0	NA	NA	rs10490924	DISCUSS	In addition, we confirmed strong association with the previously reported genetic variations at 10 loci including ARMS2/HTRA1 (rs10490924, P = 3.6 x 10-322), CFH (rs1061170, P = 1.3 x 10-261, and rs1410996, P = 7.4 x 10-235), CFB (rs641153, P = 5.5 x 10-31), C3 (rs2230199, P = 4.6 x 10-29), C2 (rs9332739, P = 2.4 x 10-23), CFI (rs10033900, P = 4.1 x 10-10), LIPC (rs10468017, P = 2.7 x 10-12), TIMP3 (rs9621532, P = 2.2 x 10-15) and CETP (rs3764261, P = 6.9 x 10-9) in the combined analysis.
+0	NA	ABCA1	NA	DISCUSS	Our analyses also support previously identified loci in ABCA1 and COL8A1
+0	NA	NA	NA	DISCUSS	The estimated heritability based on twin studies is 71% for advanced forms of this disease.
+0	AMD	NA	NA	DISCUSS	Using a standard liability threshold model, the previously reported loci combined with the new loci discovered in this study explain ~39% of the total variance (or 55% of the heritability) of advanced AMD.
+0	NA	NA	NA	DISCUSS	Therefore, there are still unidentified genetic variants that may explain the missing heritability.
+0	AMD	NA	NA	DISCUSS	Additional AMD risk variants likely remain to be discovered and will require a combined strategy of larger AMD meta-analyses to detect variants of more modest effect, genome scans using higher density SNP arrays to capture previously missed variants and exome-sequencing studies to identify rare variants
+0	NA	VEGFA	NA	DISCUSS	VEGFA is a member of the VEGF family and functions to increase vascular permeability, angiogenesis, cell growth and migration of endothelial cells.
+0	AMD	VEGFA	NA	DISCUSS	VEGFA is the target for multiple therapies including ranibizumab, a molecule that is FDA-approved for the treatment of wet AMD.
+0	NA	VEGFA	NA	DISCUSS	It has been hypothesized that activation of VEGFA may induce pathologic angiogenesis beneath the RPE layer.
+0	AMD	VEGFA	rs4711751	DISCUSS	The newly identified SNP (rs4711751) is 60 kb downstream of VEGFA and >90 kb away from a SNP (rs2010963) in the VEGFA promoter region which has been reported to be associated with AMD.
+0	NA	VEGFA	rs4711751	DISCUSS	However, SNP rs4711751 appears to be independent of the rs2010963 variant (R2 = 0.015, D' = 0.14 in samples of European ancestry); therefore, the association we identified near VEGFA was in a novel region and is not likely due to LD with SNPs in the VEGFA promoter region.
+0	NA	NA	rs2010963	DISCUSS	Of note, the previously reported rs2010963 SNP showed no evidence of association in the TMMG meta-analysis (P = 0.26) (Supplementary Material, Table S6).
+0	diabetes	NA	rs4711751	DISCUSS	In addition, rs4711751 is in moderate LD with nearby genome-wide significant variants reported in type 2 diabetes, waist-hip ratio and chronic kidney disease (R2= 0.31, D' = 0.91 to rs881858).
+0	AMD	NA	rs881858	DISCUSS	However, rs881858 was not significantly associated with advanced AMD in the TMMG meta-analysis (P = 0.11) and cannot explain the association we observe in rs4711751
+0	NA	CRX	rs934080	FIG	rs934080 in a putative CRX transcription factor-binding site.
+0	NA	CRX	rs4711751	FIG	rs4711751 is in strong LD with rs934080, a variant which resides in a highly evolutionarily conserved region (UCSC genome browser) and disrupts a putative CRX transcription factor-binding site (CAA[T/C]C)
+0	NA	NA	rs4711751	DISCUSS	Finally, we note that the newly identified SNP rs4711751 is in strong LD with rs943080 (R2 = 1.0 in 1000 Genomes CEU data), a variant that resides in a highly evolutionarily conserved region (Fig.
+0	NA	NA	NA	DISCUSS	3).
+0	NA	NA	rs4711751	DISCUSS	The risk allele (T) at rs4711751 is on the same haplotype as the evolutionarily conserved allele (T) at rs943080.
+0	NA	cone-rod homeobox	T to C	DISCUSS	Allelic change from T to C on this conserved region may disrupt a putative transcription factor-binding site for cone-rod homeobox (CRX), which is an essential transcription factor highly expressed in RPE and retinal ganglion cells.
+0	NA	NA	rs943080	DISCUSS	This suggests a possible mechanism for the candidate causal SNP rs943080.
+0	AMD	cone-rod homeobox	rs943080	DISCUSS	Individuals with the protective allele (C) at rs943080 may have decreased binding of CRX at the locus, leading to decreased expression of VEGFA, which in turn protects these individuals from development of neo-vascularization involved in wet AMD.
+0	NA	NA	NA	DISCUSS	This hypothetical mechanism needs future experimental validation.
+0	hypertrophic	COL10A1	NA	DISCUSS	COL10A1 encodes the alpha chain of type X collagen, a short-chain collagen expressed by hypertrophic chondrocytes during endochondral ossification.
+0	osteoarthritis	COL10A1	NA	DISCUSS	In patients with osteoarthritis, expression of COL10A1 was significantly downregulated.
+0	AMD	COL8A1	NA	DISCUSS	Another collagen matrix pathway gene (COL8A1), which was implicated in our previous GWAS, also showed suggestive association to advanced AMD in our combined association analysis (P = 9.7 x 10-7).
+0	NA	NA	NA	DISCUSS	The C-terminal non-collagenous (NC1) domain of the collagen has been reported as an inhibitor of angiogenesis.
+0	NA	FRK	NA	DISCUSS	FRK has also been shown to have negative function on the stimulation of microvascular survival of the developing retina by mediating the downstream signaling of thrombospondin-1 and the thrombospondin receptor (CD36), which has been shown to antagonize VEGFA signaling of the Akt pathway.
+0	AMD	NA	rs1999930	DISCUSS	The risk locus rs1999930 associated with advanced AMD in our study is in strong LD (R2 = 0.81 in 1000 Genomes CEU data) with a functional variant rs9488843.
+0	NA	paired box 3	rs9488843	DISCUSS	The allele (G) at rs9488843, which creates a possible transcription factor-binding site for paired box 3 (PAX3) near the promoter region of COL10A1, is on the same haplotype as the allele (T) at rs1999930.
+0	NA	paired box 3	rs9488843	DISCUSS	Individuals with the protective allele (G) at rs9488843 may have increased binding of PAX3 at the locus, leading to elevated expression of COL10A1 or FRK which results in the suppression or inhibition of angiogenesis.
+0	AMD	NA	rs9488843	DISCUSS	Further experimental work is required to investigate the functional role of rs9488843 in the development of advanced AMD
+0	AMD	NA	NA	DISCUSS	The sample size of this study is the largest of all published association studies for advanced AMD to date.
+0	NA	NA	NA	DISCUSS	A major advantage of the study design is the careful diagnosis of cases across all cohorts.
+0	AMD	NA	NA	DISCUSS	Since we included only subjects with advanced AMD in our study and excluded subjects with intermediate or large drusen, heterogeneity due to phenotype definition is reduced.
+0	NA	NA	NA	DISCUSS	However, it is possible that associations exist for other endophenotypes, like macular drusen, an early or intermediate stage of the disease, as suggested for loci in the HDL pathway
+0	NA	NA	NA	DISCUSS	Our novel findings are not likely caused by population admixture or population substructure, because subjects in all cohorts are of European ancestry, and we adjusted for the genetic ancestry components in our study.
+0	NA	NA	NA	DISCUSS	The large number of replication cohorts and samples reduced the chance of false-positive findings.
+0	NA	NA	rs1999930	DISCUSS	The effect sizes of both rs1999930 and rs4711751 in the replication cohorts are smaller than the effect sizes estimated in the TMMG analysis.
+0	NA	NA	NA	DISCUSS	The larger effect size observed in the discovery cohort (TMMG) could be due to a 'winner's curse' phenomenon where association is often exaggerated relative to the estimated effect in follow-up studies
+0	NA	NA	NA	DISCUSS	For this study, we utilized the generally accepted genome-wide level of significance (P < 5 x 10-8) as our threshold for association.
+0	NA	NA	NA	DISCUSS	However, that threshold assumes a multiple hypothesis testing burden of ~1 000 000 independent SNPs.
+0	NA	NA	NA	DISCUSS	Indeed, in our study, since we used the 1000 Genomes Project imputation data, there were many more individual SNPs tested.
+0	NA	NA	NA	DISCUSS	However, many of those SNPs are highly inter-correlated.
+0	NA	NA	NA	DISCUSS	To our knowledge, there are no empirical studies that address levels of genome-wide significance for the 1000 Genomes Project-derived data
+0	AMD	NA	NA	DISCUSS	Our genetic risk score model provides a framework for future research, and the clinical utility of genetic risk profiling of advanced AMD needs to be further evaluated in independent samples.
+0	AMD	NA	NA	DISCUSS	Compared with other complex diseases, the associated risk variants for advanced AMD are more informative in terms of predicting risk of disease.
+0	AMD	NA	NA	DISCUSS	As this prediction model only included genetic risk factors, we expect an improvement of the performance of advanced AMD risk assessment with additional environmental and demographic factors in prospective studies as in our previous calculations
+0	AMD	NA	NA	DISCUSS	In summary, we have identified two novel associations for advanced AMD near FRK/COL10A1 and VEGFA.
+0	AMD	NA	NA	DISCUSS	We also confirmed associations for 10 previously published advanced AMD loci in a combined analysis.
+0	AMD	CFH	NA	DISCUSS	The genetic loci associated with AMD suggest that the disease process may be explained in part by dysregulation of the alternative complement pathway (CFH, C2, CFB, C3, CFI), HDL cholesterol metabolism (LIPC, CETP, ABCA1), angiogenesis (VEGFA) and degradation of extracellular matrix (COL10A1, COL8A1, FRK, TIMP3, and possibly ARMS2)
+0	AMD	NA	NA	METHODS	The TMMG meta-analysis data set consisted of: (i) 1242 cases and 492 controls from the Tufts/MGH GWAS Cohort Study, which were derived from ongoing AMD study protocols as described previously; (ii) 1355 cases and 1076 controls from the MMAP Cohort Study; (iii) 1188 controls from the (MIGen) Consortium Study and (iv) 1378 controls from the GAIN Schizophrenia Study.
+0	multifactorial disease	NA	NA	METHODS	For the Tufts/MGH sample, cases had GA or NV disease based on fundus photography and ocular examination [clinical age-related maculopathy grading system (CARMS) stages 4 and 5].
+0	NA	NA	NA	METHODS	Examined controls were unrelated to cases, 60 years of age or older and were defined as individuals without macular degeneration, categorized as CARMS stage 1, based on fundus photography and ocular examination.
+0	NA	NA	NA	METHODS	MMAP subjects were obtained and selected based on the dbGaP (phs000182.v2.p1) phenotype information.
+0	NA	NA	NA	METHODS	We included only MMAP controls and MMAP cases with GA or NV in the analysis; other MMAP subjects with large drusen were excluded.
+0	NA	NA	NA	METHODS	MIGen controls have been included in our previous GWAS study and described in detail.
+0	schizophrenia	NA	NA	METHODS	Shared controls from the GAIN Schizophrenia Study were obtained from dbGap (phs000021.v3.p2) and described in Manolio et al.
+0	NA	NA	NA	METHODS	The Tufts/MGH and MIGen samples were genotyped at the Broad Institute and National Center for Research Resources (NCRR) Center for Genotyping and Analysis, using the Affymetrix SNP 6.0 GeneChip (AFFY 6.0, 909 622 SNPs).
+0	NA	NA	NA	METHODS	Shared controls from the GAIN study obtained from dbGap were also genotyped by using the Affymetrix SNP 6.0 GeneChip.
+0	NA	NA	NA	METHODS	MMAP samples obtained from dbGap were genotyped on the Illumina HumanCNV370v1 Bead Array (ILMN 370, 370 404 SNPs).
+0	NA	NA	NA	METHODS	All samples included in this study met quality control measures as described previously.
+0	NA	NA	NA	METHODS	Briefly, individuals with call rates <0.95, SNPs with call rates <0.98, Hardy-Weinberg equilibrium P < 10-6 and minor allele frequency (MAF) <0.01 were excluded.
+0	IBS	NA	NA	METHODS	Potential relatedness between individuals was identified through a genome-wide identity-by-state (IBS) matrix using PLINK.
+0	IBS	NA	NA	METHODS	IBS was estimated for each pair of individuals, and one individual from each duplicate pair or related pair (pihat > 0.2) was removed.
+0	NA	NA	NA	METHODS	Ancestry outliers were identified based on principal components analysis using EIGENSOFT (Supplementary Material, Fig.
+0	NA	NA	NA	METHODS	S3).
+0	NA	NA	NA	METHODS	After these quality control analyses (Supplementary Material, Table S1), the merged data set of TMMG contained 6728 samples, of which 4300 were genotyped by AFFY 6.0 and 2428 were genotyped by ILMN 370.
+0	NA	NA	NA	METHODS	The TMMG data set genotyped by AFFY 6.0 (644 413 SNPs passing quality control checks) was imputed using the phased CEU and TSI samples (566 haplotypes) as part of Pilot 3 of the 1000 Genomes Project as a reference by BEAGLE version 3.0.
+0	NA	NA	NA	METHODS	Separate imputation was performed on the TMMG data set genotyped on the ILMN 370 (329 315 SNPs passing quality control checks) using the same method.
+0	NA	NA	NA	METHODS	For the meta-analysis of GWAS, we included only imputed genotypes with imputation quality scores >0.6, where the score is defined as the ratio-of-variances (empirical/asymptotic) of each genotype.
+0	NA	NA	NA	METHODS	This score is commonly applied as a quality filter for imputed genotypes and is equivalent to the RSQR_HAT value by MACH and the information content (INFO) measure by PLINK.
+0	NA	NA	NA	METHODS	Since the imputation accuracies are relatively low for SNPs with low MAF, we only included imputed genotypes of common variants (MAF >0.01) in the analysis.
+0	NA	NA	NA	METHODS	A consensus set of 6 036 699 high-quality SNPs from each imputed data set was analyzed by PLINK, using a generalized linear model controlling for the genotyping platform and genetic ancestry based on principal component analysis.
+0	NA	NA	NA	METHODS	The imputed genotypes were coded by the genotype probabilities (dosages) for each SNP, which were given less weights in the analysis than individuals with certain genotypes coded by (0, 1, 2).
+0	NA	NA	NA	METHODS	The eigenvector scores with nominal significant (P < 0.05) association with case/control status (principal components 1, 2, 3, 4, 5, 6, 7, 11 and 16) and the original genotyping platform were included as covariates in the analysis.
+0	NA	NA	NA	METHODS	The top 40 SNPs were validated using Sequenom genotyping on 1600 samples that were also part of the Tufts/MGH GWAS.
+0	NA	NA	NA	METHODS	The MAFs were compared for these SNPs and showed no significant differences between imputed and genotyped frequencies in cases or controls
+0	NA	NA	NA	METHODS	The replication data sets consisted of 5640 cases and 52 174 controls from 10 independent cohorts from JHU, COL, Genentech, Iceland, Wash-U, AUS, RS, FR-CRET, Irish and an independent replication sample from Tufts/MGH.
+0	NA	NA	NA	METHODS	All replication studies applied the same criteria for the diagnosis of cases.
+0	NA	NA	NA	METHODS	Population and shared controls were included in Genentech, Iceland and the RS samples.
+0	NA	NA	NA	METHODS	All participating studies received approval from institutional review boards (IRBs) and conformed to the tenets of the Declaration of Helsinki.
+0	NA	NA	NA	METHODS	All participants signed informed consent as approved by IRBs.
+0	NA	NA	NA	METHODS	Characteristics of each participating cohort are shown in Supplementary Material, Table S2.
+0	NA	NA	NA	METHODS	Samples from FR-CRET, Irish and Tufts/MGH replication data sets were genotyped at the Broad Institute by the Sequenom iPLEX assay.
+0	NA	NA	NA	METHODS	Samples from Wash-U were genotyped at the Sequenom Core Laboratory of Washington University.
+0	NA	NA	NA	METHODS	Samples from AUS were genotyped in-house and at the Murdoch Children's Research Institute Sequenom Platform Facility.
+0	NA	NA	NA	METHODS	Samples from JHU and COL were genotyped by the TaqMan assay, using the ABI PRISM 7900 Sequence Detection System (ABI, Foster City, CA, USA).
+0	NA	NA	NA	METHODS	For the SNPs we intended to replicate, we obtained directly genotyped or imputed results from Genentech, Iceland and RS samples.
+0	autoimmunity of systemic lupus erythematosus	NA	NA	METHODS	Genentech samples included 54 non-overlapping cases and 229 controls from the AREDS cohort (genotyped using Illumina Human610-Quad), 347 cases from a Genentech trial (Illumina Human660W-Quad), 3390 controls from the SLE GWAS study (Illumina HumanHap550), 2274 controls from the CGEMS breast cancer study and 2256 controls from the CGEMS prostate cancer study.
+0	NA	NA	NA	METHODS	For candidate SNPs not directly genotyped in the Genentech samples, genotype information was imputed using IMPUTE version 2 with combined reference data of CEU and TSI population from the 1000 Genomes Project (June 2010 release) and HapMap3 Project.
+0	NA	NA	NA	METHODS	The Iceland samples were genotyped using Illumina HumanCNV370v1 Bead Array.
+0	NA	NA	NA	METHODS	Candidate SNPs not directly genotyped were imputed using IMPUTE version 2 with the reference data of CEU and TSI population from the 1000 Genomes Project (June 2010 release), HapMap2 Project (release 22) and a reference data set of 500-1000 Icelanders genotyped using the 1 million OmniQuad and CardioMetabo chips from Illumina.
+0	NA	NA	NA	METHODS	Owing to the larger size of the Icelanders data set, the imputation is more reliable based on the Icelanders data set than the imputation based on the HapMap or 1000 Genomes Project.
+0	NA	NA	NA	METHODS	The Rotterdam Study samples were genotyped by Illumina Infinium II HumanHap550 (cases n = 192, controls n = 1887) and Illumina Human610-Quad Array (cases n = 29, controls n = 2600).
+0	NA	NA	NA	METHODS	Candidate SNPs not directly genotyped were imputed using MACH 1.0 with the reference data of CEU and TSI population from the HapMap2 project (release 22).
+0	NA	NA	NA	METHODS	Genotyping and imputation methods used by the Rotterdam Study samples have been described in detail previously.
+0	NA	NA	NA	METHODS	Standard quality control and statistical analysis for these samples were performed by Genentech, Iceland and RS separately.
+0	AMD	NA	NA	METHODS	SNPs which met genotype quality control criteria in other replication cohorts were tested for association with advanced AMD, using a generalized linear model in PLINK.
+0	NA	NA	NA	METHODS	We used an additive model for each SNP (0, 1 or 2 minor alleles).
+0	NA	NA	NA	METHODS	The P-value for the combined analysis was derived from the effect size estimates and standard errors, using a fixed effects model by METAL.
+0	NA	NA	NA	METHODS	Heterogeneity of the association between SNP and disease was evaluated by Cochran's Q-test
+0	NA	NA	NA	ACK_FUND	We deeply appreciate the support of a generous anonymous donor to the research of J.M.S., without whom the Tufts/MGH genome-wide association study would not have been possible.
+0	NA	NA	NA	ACK_FUND	This research was also supported in part by grants , , ,  and  from the , Bethesda, MD, USA; .
+0	NA	NA	NA	ACK_FUND	; Unrestricted grants and ., New York, NY, USA; , Owing Mills, MD, USA; The  the ; a ;   to R.H.G.
+0	NA	NA	NA	ACK_FUND	and Operational Infrastructure Support from  , Boston, MA, USA.
+0	NA	NA	NA	ACK_FUND	Funding to pay the Open Access publication charges for this article was provided by the Macular Degeneration Research Fund, Tufts Medical Center

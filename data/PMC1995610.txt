@@ -1,0 +1,127 @@
+0	diabetes	NA	NA	ABSTRACT	Susceptibility to type 2 diabetes may be conferred by genetic variants having modest effects on risk.
+0	NA	NA	NA	ABSTRACT	Genome-wide fixed marker arrays offer a novel approach to detect these variants
+0	NA	insulin	NA	ABSTRACT	We used the Affymetrix 100K SNP array in 1,087 Framingham Offspring Study family members to examine genetic associations with three diabetes-related quantitative glucose traits (fasting plasma glucose (FPG), hemoglobin A1c, 28-yr time-averaged FPG (tFPG)), three insulin traits (fasting insulin, HOMA-insulin resistance, and 0-120 min insulin sensitivity index); and with risk for diabetes.
+0	diabetes	Cox	NA	ABSTRACT	We used additive generalized estimating equations (GEE) and family-based association test (FBAT) models to test associations of SNP genotypes with sex-age-age2-adjusted residual trait values, and Cox survival models to test incident diabetes
+0	diabetes	NA	NA	ABSTRACT	We found 415 SNPs associated (at p < 0.001) with at least one of the six quantitative traits in GEE, 242 in FBAT (18 overlapped with GEE for 639 non-overlapping SNPs), and 128 associated with incident diabetes (31 overlapped with the 639) giving 736 non-overlapping SNPs.
+0	NA	NA	NA	ABSTRACT	Of these 736 SNPs, 439 were within 60 kb of a known gene.
+0	diabetes	insulin	NA	ABSTRACT	Additionally, 53 SNPs (of which 42 had r2 < 0.80 with each other) had p < 0.01 for incident diabetes AND (all 3 glucose traits OR all 3 insulin traits, OR 2 glucose traits and 2 insulin traits); of these, 36 overlapped with the 736 other SNPs.
+0	diabetes	TCF7L2	rs7100927	ABSTRACT	Of 100K SNPs, one (rs7100927) was in moderate LD (r2 = 0.50) with TCF7L2 (rs7903146), and was associated with risk of diabetes (Cox p-value 0.007, additive hazard ratio for diabetes = 1.56) and with tFPG (GEE p-value 0.03).
+0	NA	MAF	A1369S	ABSTRACT	There were no common (MAF > 1%) 100K SNPs in LD (r2 > 0.05) with ABCC8 A1369S (rs757110), KCNJ11 E23K (rs5219), or SNPs in CAPN10 or HNFa.
+0	diabetes	PPARG	rs1801282	ABSTRACT	PPARG P12A (rs1801282) was not significantly associated with diabetes or related traits
+0	diabetes	NA	NA	ABSTRACT	Framingham 100K SNP data is a resource for association tests of known and novel genes with diabetes and related traits posted at .
+0	diabetes	TCF7L2	NA	ABSTRACT	Framingham 100K data replicate the TCF7L2 association with diabetes
+0	Type 2 diabetes	NA	NA	INTRO	Type 2 diabetes is a cause of poor health and early death that is spreading worldwide and exerting a fearsome human and economic toll.
+0	diabetes	NA	NA	INTRO	Prevention and control of diabetes requires a better understanding of its basic molecular causes.
+0	Type 2 diabetes	NA	NA	INTRO	Type 2 diabetes is a heterogeneous disease arising from physiological dysfunction in the pancreas, skeletal muscle, liver, adipose and vascular tissue.
+0	Type 2 diabetes	NA	NA	INTRO	Much of the heterogeneity of type 2 diabetes has a genetic basis.
+0	diabetes	NA	NA	INTRO	A full picture of the complex genetic architecture of diabetes has been elusive
+0	diabetes	NA	NA	INTRO	Among type 2 diabetes susceptibility genes few, if any, individual loci are expected to carry alleles of major effect explaining a substantial proportion of cases, although a few genes could have a substantial population effect but not give a strong genetic signal if the causal alleles were common and the increase in risk were modest.
+0	NA	NA	NA	INTRO	Such genes have proven hard to detect using linkage-based approaches, although recent rapid advances in genetic association methodologies have led to some successes.
+0	diabetes	PPARG	rs1801282	INTRO	The P12A polymorphism in the gene encoding the peroxisome proliferator-activated receptor-g (PPARG), the E23K polymorphism in the gene encoding the islet ATP-dependent potassium channel Kir6.2 (ABCC8-KCNJ11) and common variants in the gene encoding the transcription factor 7-like 2 gene (TCF7L2) were all found using well-powered association mapping, and all have been reproducibly associated with diabetes in diverse samples at highly significant p-values
+0	NA	NA	NA	INTRO	Current gene discovery strategies have focused on coding regions, but regulatory variants also influence disease.
+0	diabetes	NA	NA	INTRO	A comprehensive picture of diabetes genetics will require a wide and adequately dense search across coding and conserved non-coding genomic regions using an association analysis approach, where power is superior to linkage analysis when seeking common variants of modest effect.
+0	Type 2 diabetes	NA	NA	INTRO	Resources are now becoming available to perform such genome-wide association (GWA) studies of type 2 diabetes
+0	diabetes	NA	NA	INTRO	In this report we describe the Framingham Heart Study (FHS) Affymetrix 100K SNP genome-wide association (GWA) study resource for type 2 diabetes.
+0	diabetes	NA	NA	INTRO	This resource complements the several other large extant type 2 diabetes GWA studies in three major respects: it is population-based (not diabetes proband-based), studies two generations, and has decades of longitudinal, standardized, detailed follow-up.
+0	NA	NA	NA	INTRO	We describe results of a simple low p-value-based SNP selection strategy and an alternate novel SNP selection strategy that takes advantage of the unique FHS diabetes-related quantitative traits data.
+0	diabetes	PPARG	NA	INTRO	We use FHS 100K SNPs in an in silico replication analysis that tests the hypothesis that SNPs in LD with published causal variants in PPARG, ABCC8, TCF7L2, CAPN10, and HNFa are associated with diabetes and related quantitative traits
+0	NA	NA	NA	METHODS	The study sample is described in the Overview Methods section.
+0	NA	NA	NA	METHODS	With respect to diabetes-related traits, Offspring subjects provided genotypes and diabetes-related traits to the analyses, and Offspring parents from the Original FHS Cohort contributed genotypes for linkage analysis and FBAT statistics.
+0	NA	NA	NA	METHODS	Of 1,345 FHS subjects with 100K SNP data, 1,087 were Offspring and of these 560 were women, the mean age at exam 5 was 52 years, and the mean age at last follow-up was 59 years.
+0	NA	NA	NA	METHODS	Every study subject provided written informed consent at every examination, including consent for genetic analyses, and the study was approved by Boston University's Institutional Review Board
+0	NA	NA	NA	METHODS	Affymetrix 100K SNP and Marshfield STR genotyping are described in the Overview Methods section.
+0	NA	NA	NA	METHODS	Genotype annotation sources are described in the Overview Methods section
+0	diabetes	NA	NA	METHODS	Diabetes and related quantitative traits have been ascertained at every FHS exam for every generation.
+0	NA	NA	NA	METHODS	Diabetes-related quantitative traits available in the FHS 100K resource are displayed in Table 1.
+0	diabetes	NA	NA	METHODS	FPG data for the analyses came from all 7 Offspring exams, but the remainder of the data came from exam 5 (1991-94), when subjects without diagnosed diabetes underwent a 75 gram oral glucose tolerance test, or exam 7 (1998-2001), the most recent exam.
+0	diabetes	NA	NA	METHODS	We defined diabetes as chart-review-confirmed diabetes, new or ongoing hypoglycemic treatment for diabetes at any exam, or a FPG > 125 mg/dl at two or more of the seven exams.
+0	diabetes	NA	NA	METHODS	Diabetes age-of-onset was defined as the subject's age at the exam at which diabetes was first identified.
+0	diabetes	NA	NA	METHODS	Among Offspring with diabetes, >99% have type 2 diabetes.
+0	diabetes	NA	NA	METHODS	Of the 1,083 Offspring with 100K genotypes and known diabetes status, 91 had diabetes.
+0	diabetes	NA	NA	METHODS	The mean age of onset of was 58 yr; through exam 7, 9.3% of diabetic subjects had developed diabetes by age 40 yr, 33.0% by age 50, 68.1% by age 60, and 99.7% by age 80
+0	NA	NA	NA	TABLE	Type 2 diabetes-related quantitative traits in 1087 Framingham Offspring Study subjects with 100K genotype dat
+0	NA	insulin	NA	METHODS	In this presentation we focus on six (three glucose and three insulin) primary Offspring diabetes-related quantitative traits.
+0	NA	NA	NA	METHODS	Glucose traits are fasting plasma glucose (FPG) and hemoglobin A1c (HbA1c) measured at exam 5, and up to 28 yr time-averaged FPG (tFPG) level obtained from the mean of up to seven serial exams.
+0	diabetes	NA	NA	METHODS	Glucose traits included all subjects, including those with diabetes regardless of treatment, as these were the most informative subjects with respect to hyperglycemia.
+0	diabetes	NA	NA	METHODS	Subjects with diabetes had the highest glucose values when subjects were ranked with respect to any glucose trait; those on treatment had the highest values.
+0	NA	insulin	NA	METHODS	The three insulin traits are fasting insulin, homeostasis model-assessed insulin resistance (HOMA-IR), and Gutt's 0-120 min insulin sensitivity index (ISI_0-120) measured at exam 5.
+0	insulin-treated diabetes	insulin	NA	METHODS	Subjects with insulin-treated diabetes were removed from all insulin trait analyses, as we had no information on insulin dose and so measured insulin values were confounded by insulin treatment.
+0	diabetes	NA	NA	METHODS	We also analyzed incident diabetes from first exam through last follow-up.
+0	NA	NA	NA	METHODS	We previously have described FHS laboratory methods for these diabetes-related quantitative traits.
+0	NA	insulin	NA	METHODS	In addition to glucose and insulin traits, levels of adiponectin and resistin are available in the FHS dbGaP resource.
+0	NA	adiponectin	NA	METHODS	Plasma adiponectin and resistin concentrations were measured using a commercial ELISA (R&D Systems, Minneapolis, MN); inter- and intra-assays CVs were 5.3%-9.6% for adiponectin and 7.6%-10.5% for resistin
+0	diabetes	NA	NA	METHODS	We used two approaches to prioritize SNPs potentially associated with diabetes or diabetes related traits.
+0	NA	insulin	NA	METHODS	In the first, we simply ordered SNPs from lowest to highest p-value for association with one or more of the six primary glucose and insulin traits.
+0	NA	NA	NA	METHODS	We also ordered SNPs or Marshfield STRS by highest to lowest LOD score for linkage to one or more of the six primary traits, and present LOD scores > 2.0.
+0	NA	NA	NA	METHODS	In an alternative SNP prioritization strategy, we selected SNPs associated with multiple-related traits.
+0	NA	NA	NA	METHODS	In this approach, we selected SNPs with consistent nominal associations (p < 0.01 in GEE or FBAT) with all three glucose traits OR all three insulin-related traits OR (two glucose and two insulin traits).
+0	NA	NA	NA	METHODS	Among these we used extent of LD to select a non-redundant set of SNPs; when several were perfect proxies for each other (r2 >= 0.8) only one SNP was selected, based on the highest genotyping call rate
+0	NA	NA	NA	METHODS	The general statistical methods for linkage and GWA analyses are described in the Overview Methods .
+0	NA	NA	NA	METHODS	For diabetes-related quantitative traits we used additive GEE and FBAT models, testing associations between SNP genotypes and age-age2-sex-adjusted residual trait values.
+0	NA	MAF	NA	METHODS	We kept 70,987 SNPs in the analyses that were on autosomes, had genotypic call rates >= 80%, HWE p >= 0.001 and MAF >= 10%
+0	diabetes	NA	NA	METHODS	We tested association of 100K SNPs with incident type 2 diabetes in two additional models using the same adjustment strategy.
+0	diabetes	NA	NA	METHODS	First, Martingale residuals were created to measure the age-of-onset of type 2 diabetes; residuals were analyzed with FBAT.
+0	diabetes	NA	NA	METHODS	Individuals with lower values of this 'martingale residual' trait developed diabetes at younger ages, and those with the highest values had been observed for the longest time without development of diabetes.
+0	diabetes	Cox	NA	METHODS	Second, we used a Cox proportional hazard survival analysis with robust covariance estimates in order to find SNPs associated with development of diabetes over all seven exams
+0	NA	NA	NA	RESULTS	Diabetes-related quantitative traits available in the FHS 100K SNP resource are listed in Table 1 and posted on the NCBI web site.
+0	NA	NA	NA	RESULTS	Each trait is available as an age-age2-adjusted or age-age2-BMI-adjusted residuals from sex-specific models.
+0	NA	NA	NA	RESULTS	In this analysis we only consider the age-age2-adjusted traits.
+0	NA	insulin	NA	RESULTS	Among these, the following were the primary traits used in this analysis: exam 5 fasting plasma glucose (FPG; n with data = 1,027; mean, SD 99, 24.7 mg/dl); exam 5 HbA1c (n = 623; 5.28, 0.9%); 28-year time averaged FPG (tFPG; n = 1,087; 98, 16.2 mg/dl); exam 5 fasting insulin (n = 982; 30.1, 16.4 uU/ml); exam 5 HOMA-IR (n = 980; 7.8, 7.3 units); and the 0-120 min insulin sensitivity index (ISI_0-120; n = 935; 26.1, 7.6 mg l2/mmol mU min).
+0	Type 2 diabetes	NA	NA	RESULTS	Among 1,087 Offspring with 100K SNP data there were 91 cases of type 2 diabetes.
+0	NA	insulin	NA	RESULTS	Additional diabetes-related quantitative traits not used in this analysis but that are available in the FHS 100K SNP dbGaP resource include, at exam 7: FPG (n = 987; 103, 26 mg/dl); fasting insulin (n = 999; 15.8, 12.8 uU/ml); HOMA-IR (n = 969; 4.2, 4.1 units); HbA1c (n = 893; 5.59, 0.97%); resistin (n = 831; 14.5, 7.4 ng/dl); adiponectin (n = 828; 9.9, 6.2 ng/dl)
+0	NA	MAF	NA	RESULTS	The six primary quantitative traits had significant associations with 415 SNPs in GEE models and 242 SNPs in FBAT models, using p-value < 0.001, and only considering SNPs with call rate >= 0.80, HWE p-value >= 0.001, and MAF >= 10%.
+0	diabetes	NA	NA	RESULTS	Additionally, there were 91 significant associations with incident diabetes in the survival analyses and 42 significant associations with age-of-onset in FBAT, representing 128 non-overlapping SNPs.
+0	NA	NA	NA	RESULTS	The 25 SNPs with lowest p-values in GEE or FBAT models, and LOD scores > 2.0 in linkage analyses, are displayed in Table 2.
+0	NA	NA	NA	RESULTS	After accounting for the overlap between sets of significant associations, 736 non-overlapping SNPs were identified by the p-value approach for SNP prioritization
+0	NA	NA	NA	TABLE	Twenty five lowest p-values from GEE and FBAT models and LOD scores > 2 for 100K SNPs and FHS diabetes-related quantitative trait
+0	NA	NA	NA	RESULTS	The FHS has multiple measures of diabetes-related quantitative traits.
+0	NA	NA	NA	RESULTS	We used a multiple-related trait approach in a strategy different from prioritizing SNPs based solely on small p-values.
+0	NA	NA	NA	RESULTS	This approach yielded 203 SNPs associated with multiple traits.
+0	diabetes	NA	NA	RESULTS	Of these, 53 were also associated with incident diabetes (p < 0.01 by GEE or FBAT).
+0	diabetes	NA	NA	RESULTS	We defined redundant SNPs as those in LD with r2 >= 0.80 to select 168 non-redundant SNPs associated with multiple traits; 42 of these non-redundant SNPs also were associated with incident diabetes (Table 3).
+0	NA	NA	NA	RESULTS	Examination of the multiple trait-based approach revealed 1) consistent associations of traits with SNPs that were in LD (providing reassurance that the signal was due to an association of traits with a particular genomic region rather than to technical error); 2) several putative associations of traits with SNPs in the same gene but not in perfect LD (suggesting that the association signal may be due to a functional role of that gene rather than a statistical fluctuation); and 3) associations of traits with SNPs in a variety of novel but plausible biological candidate genes
+0	DM	insulin	NA	TABLE	Forty two (42) SNPs associated with (FPG, HbA1c, and tFPG) OR (fasting insulin, HOMA-IR, and ISI_0-120) OR (any two of either) AND incident D
+0	NA	NA	NA	RESULTS	We used the UCSC Genome Browser (; accessed September 2006) to annotate SNP details.
+0	NA	NA	NA	RESULTS	Of the 823 (736 + 203; 116 overlapped) SNPs identified by both prioritization methods without removing SNPs in LD (r2 >= 0.80), 304 (36.9%) were in genes, 173 (21%) were within 60 kb of a known gene and 5 (0.61%) were coding.
+0	NA	NA	NA	RESULTS	For comparison, of the 70,987 SNPs included in this analysis, 25,916 (36.5%) were in genes, 14,333 (20.2%) were within 60 kb of a known gene and 421 (0.59%) were coding
+0	NA	NA	NA	RESULTS	Some SNPs had p-values < 0.001 overlapping more than one analytical method.
+0	NA	NA	NA	RESULTS	For instance, 18 SNPs were associated at p < 0.001 with at least one quantitative trait in both the GEE and the FBAT analyses.
+0	diabetes	Cox	NA	RESULTS	For incident diabetes, 5 SNPs were associated with diabetes survival in the Cox models and with age-of-onset in the FBAT analyses
+0	diabetes	NA	NA	RESULTS	We used the FHS 100K array data to verify, in silico, replicated associations of reported diabetes candidate genes (Table 4).
+0	NA	TCF7L2	NA	RESULTS	We found 7 SNPs in or near TCF7L2.
+0	diabetes	NA	rs7100927	RESULTS	One 100K SNP (rs7100927) was in moderate LD (r2 = 0.5) with TCF7L2-associated SNP rs7903146 and was nominally associated with a 56% increased relative risk of diabetes (p = 0.007) and with tFPG (GEE p = 0.03).
+0	NA	ABCC8	A1369S	RESULTS	We found 6 SNPs in or near ABCC8, but no SNPs in strong LD with ABCC8 A1369S (rs757110) or KCNJ11 E23K (rs5219), and thus could not replicate these associations.
+0	diabetes	ABCC8	rs878208	RESULTS	One 100K SNP (rs878208) ~25 kb upstream of ABCC8 showed nominal association with risk of diabetes, but it was not in LD with rs757110 in ABCC8 (r2 = 0.04).
+0	diabetes	PPARG	NA	RESULTS	We found 15 SNPs in or near PPARG, but none were associated with diabetes.
+0	Type 2 diabetes	PPARG	rs1801282	RESULTS	Four SNPs were associated (p < 0.05) with quantitative traits but were not in LD (r2 < 0.03) with PPARG P12A (rs1801282), the variant previously associated with type 2 diabetes.
+0	NA	MAF	NA	RESULTS	We found no polymorphic (MAF > 1%) 100K SNPs in, near, or in LD with CAPN10 or HNFA
+0	Type 2 diabetes	NA	NA	TABLE	FHS 100K SNP Test of Association with SNPs in Established Candidate Genes for Type 2 Diabete
+0	NA	NA	NA	RESULTS	We also assessed our approach for confirmation of 4 SNPs associated with FPG reported on the Boston University Department of Genetics and Genomics public site  that displays selected associations with FHS 100K data.
+0	diabetes	NA	rs10495355	RESULTS	We found no association (all p-values > 0.6) of incident diabetes or levels of FPG with SNPs rs10495355, rs9302082, rs10483948, or rs1148509
+0	Type 2 diabetes	NA	NA	DISCUSS	In this paper we describe the characteristics and initial GWA results for type 2 diabetes and related quantitative traits in the FHS 100K SNP resource.
+0	NA	NA	NA	DISCUSS	Over 1000 men and women from a community-based sample have detailed linkage and association of diabetes-related phenotypes and 100K dense array SNP results available on the web.
+0	NA	MAF	NA	DISCUSS	About 0.3%-0.6% of SNPs in the 100K array with MAF > 10% are associated at p < 0.001 with six diabetes-related quantitative traits or with incident type 2 diabetes.
+0	diabetes	NA	NA	DISCUSS	A similar proportion of SNPs in the array (0.21%) are associated with multiple related diabetes traits.
+0	diabetes	NA	NA	DISCUSS	These several hundred SNPs likely contain more false positive than true positive associations with diabetes and related traits, however, they offer logical next targets for the follow-up replication studies in independent samples necessary to resolve true diabetes risk genes.
+0	diabetes	TCF7L2	NA	DISCUSS	The FHS 100K data replicate the otherwise widely-replicated TCF7L2 association with diabetes in an in silico analysis
+0	diabetes	NA	NA	DISCUSS	The FHS 100K SNP data resource has potential value to detect and replicate novel type 2 diabetes susceptibility genes.
+0	NA	NA	NA	DISCUSS	The 100K SNP array is limited by relatively sparse coverage in some regions, accounting on average for just 30%-40% of the human genome in whites.
+0	diabetes	TCF7L2	NA	DISCUSS	Association with the risk SNP in TCF7L2 is detectable at p < 0.05, but there are no SNPs in adequate LD with ABCC8 or PPARG to assess replication of causal SNPs in these accepted diabetes susceptibility genes.
+0	NA	NA	NA	DISCUSS	Thin coverage will be remedied to a large degree by the incipient availability in FHS of Affymetrix 500 k SNP array data as part of the planned FHS SHARe Study.
+0	diabetes	NA	NA	DISCUSS	(; accessed September 2006) Our analysis also demonstrates that true positive diabetes susceptibility gene signals are likely to be associated with modest p-values and will remain challenging to detect at the stringent p-values required for GWA studies.
+0	NA	NA	NA	DISCUSS	The enormous datasets generated by GWA scans have the potential to greatly advance understanding, or conversely to overwhelm the field with false leads.
+0	diabetes	NA	NA	DISCUSS	SNP prioritization strategies that leverage the complexity of the diabetes phenotype may offer some advantages over strictly p-value driven approaches.
+0	diabetes	NA	NA	DISCUSS	Replication, fine mapping, and functional studies are required to determine which approaches are most efficient and which SNPs are true positive diabetes risk factors.
+0	NA	NA	NA	DISCUSS	Integration with other GWA scans in similar cohorts will allow in silico replication of significant findings, increase power and reveal generalizability
+0	NA	NA	NA	DISCUSS	This report details the FHS contribution to publicly available diabetes-related genetic data.
+0	NA	NA	NA	DISCUSS	An important key to efficiently and economically achieving adequate power to detect association will be to integrate information from several GWA scans.
+0	diabetes	NA	NA	DISCUSS	While several cohorts have been assembled to perform GWA scans in type 2 diabetes, few possess the wealth of longitudinal, multigenerational phenotypic data available in Framingham.
+0	diabetes	NA	NA	DISCUSS	The FHS complements extant type 2 diabetes GWA studies.
+0	diabetes	NA	NA	DISCUSS	This report guides the way to harness the power of the FHS 100K SNP GWA resource to identify type 2 diabetes susceptibility genes
+0	NA	insulin	NA	ABBR	FPG = fasting plasma glucose; FBAT = family-based association test; FHS = Framingham Heart Study; GEE = generalized estimating equations; GWA = Genome-wide association; HbA1c = hemoglobin A1c; HOMA-IR = homeostasis model insulin resistance; HWE = Hardy Weinberg equilibrium; IBD = Identity-by-descent; ISI_0-120 = 0-120 min insulin sensitivity index; LD = Linkage disequilibrium; LOD = Log odds score; MAF = Minor allele frequency; SNP = Single nucleotide polymorphism;TFPG = 28-yr time-averaged FPG
+0	NA	NA	NA	AUTH_CONT	All authors participated in the design and conduct of the study and edited and approved the final manuscript.
+0	NA	NA	NA	AUTH_CONT	JM drafted the manuscript and coordinated the study.
+0	NA	NA	NA	AUTH_CONT	JM and CF contributed to FHS diabetes-related phenotyping.
+0	NA	NA	NA	AUTH_CONT	JD, AM, and and LAC coordinated the data management and conducted the statistical analyses.
+0	NA	NA	NA	AUTH_CONT	CL prepared traits for analyses.
+0	NA	NA	NA	AUTH_CONT	JF contributed the multiple-related traits method for SNP selection and the literature review for Table 4

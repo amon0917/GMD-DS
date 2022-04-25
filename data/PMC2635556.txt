@@ -1,0 +1,59 @@
+0	diabetes	NA	NA	ABSTRACT	To provide more power to detect type 1 diabetes (T1D) loci, we performed a meta-analysis of data from three genome-wide association (GWA) studies.
+0	NA	NA	NA	ABSTRACT	We tested 305,090 SNPs in 3,561 T1D cases and 4,646 controls of European ancestry.
+1	NA	NA	NA	ABSTRACT	We obtained further support for 4q27/IL2-IL21 (P = 1.9x10-8) and, after genotyping 6,225 cases, 6,946 controls and 2,828 families, convincing evidence for four previously unknown and distinct loci in chromosome regions 6q15/BACH2 (4.7x10-12), 10p15/PRKCQ (3.7x10-9), 15q24/CTSH (3.2x10-15) and 22q13/C1QTNF6 (2.0x10-8)
+0	Kidneys in Diabetes	NA	NA	INTRO	In the present study, we undertook a meta-analysis of three GWA studies, combining the British Wellcome Trust Case Control Consortium (WTCCC) T1D case-control data with 1,785 American T1D cases from the Genetics of Kidneys in Diabetes (GoKinD) study and 1,727 American controls from the National Institute of Mental Health (NIMH).
+0	NA	NA	NA	INTRO	All samples had been genotyped using the Affymetrix 500K SNP chipset, but each study had used a different scoring algorithm - potentially introducing a differential bias in genotype calling between American cases and controls, resulting in false-positive associations.
+0	NA	NA	NA	INTRO	Consequently, we started the analysis by re-scoring the American case-control data (Supplementary Methods)
+0	NA	NA	NA	INTRO	After re-scoring the American case-control data, for consistency between the studies, we also updated the WTCCC and NIMH SNP information to NCBI Human Genome Build 36 and aligned the SNP alleles between studies.
+0	NA	NA	NA	INTRO	We then applied SNP and sample quality control filters to each study (Supplementary Methods).
+0	NA	NA	NA	INTRO	After applying clustering quality and minimum minor allele frequency filters, 330,183 WTCCC and 335,565 GoKinD/NIMH SNPs remained.
+0	NA	NA	NA	INTRO	We note that inspection of allele signal intensity plots was still required for the GoKinD/NIMH SNPs (Supplementary Methods).
+0	NA	NA	NA	INTRO	The sample quality control filters consisted of excluding duplicate samples, first or second degree relatives, samples with low heterozygosity and samples with substantial non-European ancestry (Supplementary Methods), all deduced from their genotype.
+0	NA	NA	NA	INTRO	This resulted in 3,561 cases (1,960 British and 1,601 American) and 4,646 controls (2,942 British and 1,704 American)
+0	NA	NA	NA	INTRO	We analysed the American case-control data separately in order to gauge their quality and suitability for inclusion in the meta-analysis.
+0	NA	NA	NA	INTRO	To control for population structure within the American data, we used a propensity score derived from principal components (Supplementary Methods), which reduced the inflation of the test statistic from 18% to 14%.
+0	NA	NA	NA	INTRO	We convincingly detected (least significant P = 9.2x10-4) eight of the ten confirmed T1D associated regions (1p13/PTPN22, 2q33/CTLA4, 6p21/HLA, 10p15/IL2RA, 12q13/ERRB3, 12q24/C12orf30, 16p13/CLEC16A and 18p11/PTPN2; Supplementary Table 1).
+0	NA	NA	NA	INTRO	The remaining regions were 2q24/IFIH1 (P = 0.020) and 11p15/INS, as the closest SNP to the INS gene on the Affymetrix 500K SNP chipset was not available for American cases (Supplementary Note).
+0	NA	NA	NA	INTRO	Although no new T1D loci at genome-wide levels of significance (P < 5.0x10-7(ref.))
+0	NA	NA	NA	INTRO	were evident (Supplementary Figure 1), we did find additional support for the previously detected but unconfirmed 4q27/IL 2-IL21 region at P = 4.8x10-3 (Supplementary Table 2)
+0	NA	NA	NA	INTRO	We then performed a meta-analysis of the evidence for 305,090 SNPs available in both the British and American studies.
+0	NA	NA	NA	INTRO	To produce an overall score test for these SNPs, we summed the score statistics and score variances from the British and American case-control analyses.
+0	NA	NA	NA	INTRO	As expected, the meta-analysis was dominated by known T1D associated regions (Supplementary Table 1 and Supplementary Figure 1); the test statistic inflation was 12% (Supplementary Figure 2).
+0	Kidneys in Diabetes	NA	NA	INTRO	Despite very different population backgrounds (Great Britain, GB, versus USA) and ascertainment (paediatric T1D clinics versus longstanding T1D cases with or without diabetic nephropathy) there was no evidence of heterogeneity in the ten previously established T1D loci (Supplementary Table 1).
+0	NA	NA	NA	INTRO	The combined evidence for 4q27/IL2-IL21 was P = 1.9x10-8, suggesting that this is a true T1D locus (Supplementary Table 2)
+0	NA	NA	NA	INTRO	Although no new T1D loci were associated at genome-wide levels of significance, we followed up the most associated SNPs by genotyping an additional 6,225 case and 6,946 control samples from GB.
+0	NA	NA	NA	INTRO	We removed the known T1D loci and SNPs with an r2 >= 0.1 with them, and shortlisted the top 30 ranked SNPs (least significant P = 1.2x10-5 and corrected for 12% inflation, P = 3.4x10-5) for follow-up (Supplementary Table 3).
+0	NA	NA	NA	INTRO	A further 11 SNPs from 12q24 and five SNPs from 1p13 were removed as their associations were explained by known T1D loci, rs3184504/SH2B3(ref.)
+0	NA	NA	NA	INTRO	(Supplementary Methods) and rs2476601/PTPN22 (ref.)
+0	NA	NA	NA	INTRO	respectively.
+1	NA	interleukin-2 receptor alpha chain	NA	INTRO	A SNP, rs947474/PRKCQ, on 10p15 which was 260 kb centromeric of the T1D associated IL2RA region proved to be independently associated by regression analysis (Supplementary Table 4) and separated by a number of recombination hotspots (Supplementary Figure 3).
+1	NA	interleukin-2 receptor alpha chain	NA	INTRO	In addition, we note that we were unable to find any evidence of an extended haplotype connecting the IL2RA region with rs947474/PRKCQ (data not shown).
+0	NA	NA	NA	INTRO	A further four SNPs, despite passing SNP quality control filters (Supplementary Methods), were excluded after inspection of the genotype signal intensity plots (Supplementary Table 3).
+1	NA	NA	NA	INTRO	As four of the remaining ten SNPs were from 6q15/BACH2, we genotyped seven SNPs (Table 1)
+1	NA	NA	NA	INTRO	We obtained additional support for four of the seven associations: rs11755527/BACH2 on 6q15 (P = 6.9x10-7; OR for minor allele G = 1.13); rs947474/PRKCQ on 10p15 (P = 5.5x10-3; OR for minor allele G = 0.91); rs3825932/CTSH on 15q24 (P = 8.7x10-8; OR for minor allele C = 0.86); and, rs229541/C1QTNF6 on 22q13 (P = 8.1x10-5; OR for minor allele T = 1.11) (Table 1).
+0	NA	NA	NA	INTRO	In addition, we regenotyped the seven SNPs in a minimum of 1,771 case and 2,756 control samples used in the WTCCC to validate the genotyping, which showed concordance was 99.3% or better
+1	NA	NA	NA	INTRO	We also genotyped the four most associated SNPs, rs11755527/BACH2, rs947474/PRKCQ, rs3825932/CTSH and rs229541/C1QTNF6, in 871 multiplex and 1,957 simplex families, resulting in P-values of 0.019, 1.3x10-3, 2.3x10-4 and 0.15 respectively (Table 1).
+0	NA	NA	NA	INTRO	The overall, combined P-values (2.0x10-8 to 3.2x10-15; Table 1) provided convincing support for four, previously undetected and distinct, T1D loci
+0	NA	NA	NA	INTRO	There are several interesting functional candidate genes located within the four new associated regions (Supplementary Methods).
+1	NA	BACH2	rs11755527	INTRO	The 365 kb associated region on 6q15 contains only one gene, BACH2, intron 3 of which contains rs11755527.
+1	NA	BACH2	NA	INTRO	BACH2 encodes BTB and CNC homology 1, basic leucine zipper transcription factor 2, which has a role as key regulator of nucleic acid-triggered antiviral responses in human cells and is highly expressed in B cells (GNF SymAtlas) (Supplementary Figure 4).
+1	NA	PRKCQ	rs947474	INTRO	In the 234 kb associated region of 10p15, the gene protein kinase C, theta (PRKCQ) is 79 kb telomeric of rs947474 (Supplementary Figure 3).
+1	NA	PRKCQ	NA	INTRO	PRKCQ controls several fundamental processes in T cell biology, including integration of T cell receptor (TCR) and CD28 signalling, leading to activation of transcription factors (NF-kappaB and AP-1).
+0	NA	PRKCQ	NA	INTRO	PRKCQ deficient mice display defects in the differentiation of T helper subsets, particularly in Th2 and Th17 mediated inflammatory responses.
+1	NA	PRKCQ	NA	INTRO	Furthermore, its selective role in T cell effector function, makes PRKCQ an attractive therapeutic target in T cell mediated disease processes
+1	NA	CTSH	rs3825932	INTRO	In the 660 kb associated region of 15q24, rs3825932 is located in intron 1 of cathepsin H (CTSH), along with eight other genes (Supplementary Figure 5).
+1	NA	C1QTNF6	rs229541	INTRO	On 22q13, rs229541 is located between the genes: C1q and tumor necrosis factor related protein 6 (C1QTNF6) and somatostatin receptor 3 (SSTR3), in a 125 kb associated region that contains two other genes (Supplementary Figure 6).
+0	NA	IL-2 receptor	rs229541	INTRO	The meta-analysis results suggest that coding and intronic sequences of the strong candidate gene IL2RB, 56 kb centromeric of rs229541, are not associated with T1D, as we previously reported; although causal variants could affect the function of regulatory sequences that control the expression of genes hundreds of kb away
+1	NA	NA	NA	INTRO	To conclude, we present convincing evidence for four, previously undetected and distinct, T1D loci (6q15/BACH2, 10p15/PRKCQ, 15q24/CTSH and 22q13/C1QTNF6).
+0	NA	NA	NA	INTRO	In addition, we provide further support for 4q27/IL2-IL21, increasing the total of T1D loci with convincing evidence from ten(ref.)
+0	NA	NA	NA	INTRO	to 15 (including the HLA region).
+0	NA	NA	NA	INTRO	The evidence for these new T1D loci was obtained by forming an American case-control GWA study from existing data and incorporating this data into a meta-analysis with the British (WTCCC) data, followed by independent replication in cases and controls, and with some success, in families
+0	insulin-treated diabetes	UBASH3A	NA	INTRO	Recently, an additional locus on chromosome 21q22.3, including the UBASH3A gene, was reported by a Type 1 Diabetes Genetics Consortium (T1DGC) study.
+0	memory impairment	NA	NA	INTRO	In this study, we have demonstrated the effectiveness of combining the evidence from GWA studies to find disease loci with typical effect sizes (OR < 1.2), and that GWA studies can be successfully formed using case and control data from different studies, provided that allele signal intensity data are available for recalling and checking the SNP genotypes
+0	NA	NA	NA	TABLE	A summary of the results for the seven most associated SNPs found in the meta-analysis and followed-up in additional samples.
+0	NA	NA	NA	TABLE	We report the maximum number of case, control and family samples with genotype data.
+0	NA	MAF	NA	TABLE	The MAF was estimated in a minimum of 9,647 controls from the British 1958 Birth Cohort and UK Blood Services.
+0	NA	NA	NA	TABLE	The signal intensity plots are shown in Supplementary Figure 7.
+0	NA	NA	NA	TABLE	A 2-df test is reported when there was a significant difference between genotypic effects model and the multiplicative allelic effects model.
+0	NA	NA	NA	TABLE	The SNP genotypes are reported in Supplementary Table 5.
+0	NA	NA	NA	TABLE	We used one-tailed tests for the family data (that is, the null hypothesis was not rejected unless the effect was in the same direction as the original study)

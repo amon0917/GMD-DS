@@ -1,0 +1,168 @@
+0	Alzheimer's disease	NA	NA	ABSTRACT	To evaluate the association of genetic variation with late-onset Alzheimer disease (AD) in African Americans, including genes implicated in recent genome-wide association studies of whites
+0	Alzheimer's disease	NA	NA	ABSTRACT	We analyzed a genome-wide set of 2.5 million imputed markers to evaluate the genetic basis of AD in an African American population
+0	Alzheimer's disease	NA	NA	ABSTRACT	Five hundred thirteen well-characterized African American AD cases and 496 cognitively normal African American control subjects
+0	Alzheimer's disease	MIRAGE	NA	ABSTRACT	Data were collected from multiple sites as part of the Multi-Institutional Research on Alzheimer Genetic Epidemiology (MIRAGE) Study and the Henry Ford Health System as part of the Genetic and Environmental Risk Factors for Alzheimer Disease Among African Americans (GenerAAtions) Study
+0	NA	apolipoprotein E	NA	ABSTRACT	Several significant single-nucleotide polymorphisms (SNPs) were observed in the region of the apolipoprotein E gene (APOE).
+1	Alzheimer's disease	apolipoprotein E	rs6859	ABSTRACT	After adjusting for the confounding effects of APOE genotype, one of these SNPs, rs6859 in PVRL2, remained significantly associated with AD (P=.0087).
+0	NA	CLU	NA	ABSTRACT	Association was also observed with SNPs in CLU, PICALM, BIN1, EPHA1, MS4A, ABCA7, and CD33, although the effect direction for some SNPs and the most significant SNPs differed from findings in data sets consisting of whites.
+0	NA	NA	NA	ABSTRACT	Finally, using the African American genome-wide association study data set as a discovery sample, we obtained suggestive evidence of association with SNPs for several novel candidate genes
+0	Alzheimer's disease	NA	NA	ABSTRACT	Some genes contribute to AD pathogenesis in both white and African American cohorts, although it is unclear whether the causal variants are the same.
+0	NA	NA	NA	ABSTRACT	A larger African American sample will be needed to confirm novel gene associations, which may be population specific
+0	Alzheimer's disease	NA	NA	INTRO	Alzheimer disease (AD) IS the most common form of dementia.
+0	Alzheimer's disease	NA	NA	INTRO	Environmental and host risk factors for common late-onset AD (LOAD) include low educational level, diabetes mellitus, hypertension, and head trauma.
+0	NA	NA	NA	INTRO	Genetic factors also influence LOAD risk, evidenced by heritability estimates as high as 75% and analyses showing transmission of a major gene for the disease in families.
+0	NA	apolipoprotein E	NA	INTRO	Until recently, the apolipoprotein E gene (APOE [OMIM +107741]) was the only one generally recognized to influence LOAD risk.
+0	NA	apolipoprotein E	NA	INTRO	In whites, homozygosity for the epsilon4 variant is associated with an increased risk by as much as 15 times that of the most common APOE genotype (epsilon3/epsilon3)
+1	NA	apolipoprotein E	NA	INTRO	Genome-wide association studies (GWASs) have reported genome-wide significant single-nucleotide polymorphisms (SNPs) across a 70-kilobase (kb) region that includes APOE and several neighboring genes, namely, poliovirus receptor-related 2 (PVRL2 [OMIM *600798]), translocase of outer mitochondrial membrane 40 yeast homologue (TOMM40 [OMIM *608061]), and apolipoprotein C-I (APOC1 [OMIM *107710]).
+0	Alzheimer's disease	TOMM40	NA	INTRO	Both the TOMM40 and APOC1 genes have been considered possible risk factors for AD independent of APOE.
+0	Alzheimer's disease	TOMM40	NA	INTRO	Several lines of inquiry have implicated TOMM40 as having an effect on AD risk, including evidence of a role of mitochondria in AD pathogeneisis, association of an intronic TOMM40 repeat polymorphism with age at the onset of AD symptoms among subjects lacking the epsilon4 allele, and association of a haplotype spanning TOMM40 with expression of APOE.
+0	NA	TOMM40	NA	INTRO	However, other studies did not find an effect of TOMM40 after adjusting for APOE.
+0	Alzheimer's disease	APOC1	NA	INTRO	A polymorphism immediately upstream of the APOC1 gene has also been proposed as a possible risk locus for AD.
+0	NA	apolipoprotein E	NA	INTRO	This polymorphism is in strong linkage disequilibrium (LD) with the APOE risk locus, but this pattern varies substantially by population.
+0	NA	APOC1	NA	INTRO	Studies in mice and humans indicate that APOC1 expression has an effect on memory.
+0	Alzheimer's disease	APOC1	NA	INTRO	Other studies reported that APOC1 modifies the risk of AD independent of or through interaction with APOE
+0	NA	apolipoprotein E	NA	INTRO	The GWASs conducted by several large consortia have identified robust evidence of an association with genes outside the APOE region, including clusterin (CLU [OMIM *185430]), phosphatidylinositol-binding clathrin assembly protein (PICALM [OMIM *603025]), complement component (3b/4b) receptor 1 (CR1 [OMIM *120620]), bridging integrator 1 (BIN1 [OMIM *601248]), CD2-associated protein (CD2AP [OMIM *604241]), ephrin type-A receptor 1 (EPHA1 [OMIM *179610]), the membrane-spanning 4A (MS4A) gene cluster, myeloid-associated antigen CD33 (CD33 [OMIM *159590]), and ATP-binding cassette, subfamily A (ABC1), member 7 (ABCA7 [OMIM *605414]).
+0	NA	CLU	NA	INTRO	Findings with CLU, PICALM, CR1, and ABCA7 have been replicated
+0	NA	NA	NA	INTRO	Because there are population differences in LD and allele frequencies, most association studies have focused on a single population to decrease genetic background noise and reduce the likelihood of false-positive findings due to confounding.
+0	Alzheimer's disease	NA	NA	INTRO	Thus, confirmation in other populations is required to determine the generalizability of the contribution of each gene to AD risk and the possibility of population-specific causative variants.
+0	Alzheimer's disease	apolipoprotein E	NA	INTRO	Although the effect of APOE has been investigated extensively in multiple populations, few African American cohorts have been included in GWASs for AD
+0	NA	NA	NA	INTRO	In the present study, we genotyped more than 1000 African American cases and controls for more than 600 000 SNPs covering the entire genome.
+0	Alzheimer's disease	NA	NA	INTRO	Genotypes for 2.5 million SNPs imputed from HapMap reference panels were used to investigate the contribution of genes previously implicated in whites to AD risk and to identify novel AD risk variants in this population.
+0	Alzheimer's disease	NA	NA	INTRO	We also analyzed a comparable set of SNPs in 5 white AD GWAS data sets containing more than 9700 subjects to replicate novel findings and for comparison with previously obtained results
+0	Alzheimer's disease	NA	NA	METHODS	Subjects were ascertained from 2 genetic studies of AD focused on African Americans.
+0	NA	MIRAGE	NA	METHODS	One subject group includes participants of the Multi-Institutional Research on Alzheimer Genetic Epidemiology (MIRAGE) Study, which contains primarily discordant sibling pairs.
+0	NA	MIRAGE	NA	METHODS	Enrollment, data collection, and diagnostic procedures in the MIRAGE Study are explained in detail elsewhere.
+0	Alzheimer's disease	NA	NA	METHODS	A second group of primarily unrelated individuals includes participants of the Genetic and Environmental Risk Factors for Alzheimer Disease Among African Americans (GenerAAtions) Study, who were identified through the electronic claims database of the Henry Ford Health System.
+0	NA	NA	NA	METHODS	Community-dwelling African Americans 65 years or older who had at least 1 encounter with the Henry Ford Health System in the 3 years before their recruitment and who had an available proxy informant were eligible for this study.
+0	Alzheimer's disease	NA	NA	METHODS	Cases met criteria of the National Institute of Neurological and Communicative Diseases and Stroke-Alzheimer's Disease and Related Disorders Association for possible or probable AD, determined in a consensus conference that included a behavioral neurologist (R.S.
+0	NA	NA	NA	METHODS	), psychiatrist, neuropsychologist, and a behavioral neurology nurse practitioner
+0	Alzheimer's disease	MIRAGE	NA	METHODS	For comparison, we also examined 5 white AD GWAS data sets containing 3568 cases and 6205 controls, namely, the MIRAGE Study white families, and 4 data sets obtained from a public database (http://www.ncbi.nlm.nih.gov/sites/entrez?db=gap), including the Alzheimer Disease Neuroimaging Initiative (ADNI), a Canadian study on genetics of Alzheimer disease associations (GenADA), the National Institute on Aging-Late-Onset Alzheimer's Disease Family Study (NIA-LOAD), and the Framingham Heart Study.
+0	NA	NA	NA	METHODS	The numbers of cases and controls in each data set are shown in Table 1
+0	NA	NA	NA	METHODS	Genotyping methods, procedures for data cleaning and imputation, and statistical methods are described in detail in the supplementary material (http://www.bumc.bu.edu/genetics/results/aa_alzheimer).
+0	NA	apolipoprotein E	NA	METHODS	Briefly, the APOE genotyping method varied by study.
+0	NA	NA	NA	METHODS	Imputation of autosomal SNP genotypes was performed using the Markov Chain Haplotyping (MaCH) software based on the HapMap 2 and 3 reference SNP panels (http://hapmap.ncbi.nlm.nih.gov/).
+0	Alzheimer's disease	NA	NA	METHODS	Imputed SNPs were tested for association with AD in the family-based data sets using generalized estimating equations (GEE) to account for nonindependence of family members.
+0	NA	NA	NA	METHODS	Analysis of the case-control data sets was performed using logistic regression models.
+0	NA	NA	NA	METHODS	All tests of association were adjusted for sex and age at examination.
+0	NA	apolipoprotein E	NA	METHODS	Two models were evaluated for each SNP, one with and the other without a term for APOE genotype coded as the number of APOE epsilon4 alleles.
+0	NA	NA	NA	METHODS	Unless otherwise noted, all results are from the epsilon4-unadjusted model.
+0	NA	apolipoprotein E	NA	METHODS	An additional analysis of SNPs in the APOE region included an adjustment for APOE genotype classified into one of the following 4 categories: epsilon2/epsilon2 and epsilon2/epsilon3; epsilon3/epsilon3; epsilon2/epsilon4 and epsilon3/epsilon4; and epsilon4/epsilon4.
+0	NA	NA	NA	METHODS	The SNP association results obtained from individual data sets were combined by meta-analysis using the inverse variance method implemented in the software package METAL.
+0	NA	NA	NA	METHODS	Nominal (uncorrected for multiple testing) P values are reported throughout.
+0	NA	NA	NA	METHODS	In the genome-wide analysis, a P value of 5x10-8 was used as the threshold for significance, and a threshold of P<10-5 was considered suggestive evidence of association
+0	NA	apolipoprotein E	NA	RESULTS	The frequency distributions of APOE genotypes for African American and white cohorts are shown in Table 2.
+0	Alzheimer's disease	NA	NA	RESULTS	In the African American cohort, the epsilon4 allele is very significantly associated with AD (P=9.69x10-23).
+0	NA	NA	NA	RESULTS	Analysis of individual genotypes showed evidence of a significant protective effect of epsilon2 (epsilon2/epsilon2 and epsilon2/epsilon3 genotypes) compared with the epsilon3/epsilon3 genotype and an exponential increase in risk associated with the dose of epsilon4 (Table 3).
+0	NA	apolipoprotein E	NA	RESULTS	The odds ratio (OR) estimates and APOE allele frequencies, showing a higher rate of epsilon4 alleles in African American controls compared with white controls, are in agreement with a previous study of the APOE association in the MIRAGE Study African American cohort
+1	NA	apolipoprotein E	rs6859	RESULTS	Analyses of the APOE region in the African American data sets revealed a highly significant association with 3 markers within 25 kb of APOE, including PVRL2 SNP rs6859 (P=5.39x10-7) and TOMM4 SNPs rs157582 (P=3.26x10-6) and rs10119 (P=5.95x10-7) (Table 4 lists top SNPs in the region; see eTable 1 in the supplementary material for all nominally significant SNPs).
+0	NA	apolipoprotein E	rs6859	RESULTS	Only rs6859 remained significant after adjustment for APOE genotype (P=.0087).
+0	NA	apolipoprotein E	NA	RESULTS	Figure 1 shows the unadjusted and APOE genotype-adjusted results for all SNPs in the region immediately flanking APOE.
+0	NA	MIRAGE	NA	RESULTS	Figure 2 shows the estimated LD in the region for the African American and MIRAGE Study white data sets.
+0	Alzheimer's disease	NA	NA	RESULTS	In the white cohorts, epsilon4 was strongly associated with AD (P=6.80x10-147).
+0	Alzheimer's disease	NA	NA	RESULTS	In addition, without adjustment for the epsilon4 allele, 19% of SNPs in this region were very significantly associated with AD (P < 10-5).
+1	NA	APOC1	rs4420638	RESULTS	The top-ranked SNPs in this group are rs4420638 in APOC1 (P=1.07x10-144), rs6857 in PVRL2 (P = 1.49 x 10-108), and rs2075650 in TOMM40 (P=1.70x10-94).
+0	NA	apolipoprotein E	rs6857	RESULTS	After adjustment for APOE genotype, only 7 SNPs remained significant at P<.05, including rs6857 (P=4.98x10-7), rs4420638 (P=1.54x10-7), and rs2075650 in TOMM40 (P=1.25x10-6)
+0	Alzheimer's disease	NA	NA	RESULTS	Results for African Americans in the regions of AD associations from the white GWAS are summarized in Table 5.
+0	NA	CLU	rs11136000	RESULTS	There was no evidence of association in African Americans with 2 of these 3 CLU SNPs, including rs11136000, which was consistently significant across multiple studies in white samples.
+0	NA	NA	rs2279590	RESULTS	A nominally significant association (P=.034) was observed with rs2279590 that had been previously reported in whites.
+0	Alzheimer's disease	NA	NA	RESULTS	However, the minor allele (T) was associated with increased AD risk in this African American sample (OR, 1.41), whereas the T allele is protective in the white sample (OR, 0.87).
+0	NA	CLU	rs9331926	RESULTS	Two additional nominally significant SNPs were observed in CLU, the most significant of which was rs9331926 (P=.020); complete results including all nominally significant SNPs in previously implicated regions are summarized in eTable 2 in the supplementary material
+0	NA	PICALM	rs3851179	RESULTS	Harold et al found genome-wide significant evidence of association with rs3851179, located 88 kb upstream from PICALM.
+0	Alzheimer's disease	NA	NA	RESULTS	This SNP was not associated with AD in our African American sample (P=.16), although the estimated OR (0.85) is nearly identical to the OR reported in the white sample (0.87).
+0	NA	NA	rs12795381	RESULTS	However, we observed nominally significant association with 8 of 287 other SNPs tested in the region, including rs12795381 (P=.0086) and rs17148827 (P=.0089), which is monomorphic in whites.
+0	NA	PICALM	rs12795381	RESULTS	The rs12795381 finding is consistent with modest evidence of association with multiple SNPs in the PICALM coding region.
+0	NA	PICALM	NA	RESULTS	We also evaluated the interaction of PICALM SNPs with APOE as reported in a large white sample.
+0	NA	apolipoprotein E	rs12795381	RESULTS	Stratified analysis revealed evidence of association with rs12795381 in subjects with the APOE epsilon4 allele (P=.04) but not in those without it (P=.61).
+0	NA	NA	NA	RESULTS	However, we were unable to perform a formal test of interaction owing to the relatively small sample size and low minor allele frequency
+0	Alzheimer's disease	CR1	rs9349407	RESULTS	None of the 88 tested CR1 SNPs (including the 2 reported as significant by Lambert et al) and none of the 112 tested CD2AP SNPs (including rs9349407, which was reported as significant by Naj et al) were associated with AD in African Americans.
+0	NA	CR1	rs12734030	RESULTS	The most promising result among these SNPs was obtained with rs12734030 in CR1 (P=.09)
+0	Alzheimer's disease	BIN1	rs744373	RESULTS	Seshadri et al proposed BIN1 as a candidate gene for AD on the basis of a genome-wide significant P value observed for rs744373 located approximately 30 kb from the BIN1 coding region.
+0	NA	NA	rs11685593	RESULTS	Although this result was not replicated in our African American sample (P>.99), several adjacent SNPs were nominally significant, including rs11685593 (P=.0098).
+0	NA	BIN1	rs11691237	RESULTS	Association was also observed with multiple SNPs within the BIN1 coding region, the most significant of which was rs11691237 (P=.0098).
+0	NA	CYP27C1	rs7585314	RESULTS	The most significant association in the region was observed with rs7585314 (P=.0030), which is 68 kb from rs744373 in CYP27C1
+0	Alzheimer's disease	EPH receptor A1	rs11767557	RESULTS	Located approximately 6 kb from EPHA1, rs11767557 is the only genome-wide significant result in this region reported by Naj et al and was not associated with AD in African Americans (P=.59).
+0	NA	EPH receptor A1	rs11762262	RESULTS	However, rs11762262, which is approximately 1260 bp closer to EPHA1 than rs11767557, was nominally significant (P=.034).
+0	NA	EPH receptor A1	NA	RESULTS	We observed multiple nominally significant SNPs spread throughout the EPHA1 region in the African American sample.
+0	NA	NA	rs4595035	RESULTS	The strongest evidence for association in this region was obtained with rs4595035 (P=.0094), which is 32 kb upstream from rs11767557
+0	NA	NA	NA	RESULTS	Naj et al also observed genome-wide significant association with many SNPs in the MS4A cluster.
+0	NA	NA	NA	RESULTS	We evaluated association with all SNPs across this cluster, which spans about 500 kb.
+0	NA	NA	rs10792258	RESULTS	The most significant finding in the MS4A region was observed with rs10792258 (P=.010).
+0	Alzheimer's disease	NA	rs1582763	RESULTS	This SNP is 394 bp distal from rs1582763 and 253 bp proximal to rs1562990, both of which were strongly associated with AD (P=5.92x10-11 and P=2.47x10-9, respectively) in the meta-analysis of large white data sets by Naj et al.
+0	NA	MS4A1	rs3802957	RESULTS	A similar level of significance was observed with rs3802957 (P=.011) in the 3' untranslated region of MS4A1, 203 kb from rs10792258
+0	NA	ABCA7	rs3752246	RESULTS	We did not see association (P=.38) with an SNP in ABCA7 (rs3752246), which approached genome-wide significance in the study by Naj et al.
+0	NA	NA	rs3764650	RESULTS	We did, however, observe nominally significant association with rs3764650 (P=.019), which was reported as genome-wide significant in the study by Hollingworth et al.
+0	Alzheimer's disease	NA	NA	RESULTS	The effect of this SNP on risk of AD in our study (OR, 1.27) was very similar to that observed previously (OR, 1.23).
+0	NA	NA	rs376647	RESULTS	Several other nominally significant SNPs were observed in the region, of which the most significant, synonymous coding SNP rs376647 (P=.0087), is located 11 kb from rs3752246
+0	NA	CD33	rs3865444	RESULTS	We also did not observe an association with CD33 SNP rs3865444 (P=.73), which was found to have genome-wide significance in the GWAS by Naj et al.
+0	NA	CD33	rs10419982	RESULTS	The most significant result in the CD33 region in the African American sample was obtained with rs10419982 (P=.0005), 69 kb away from rs3865444.
+0	NA	NA	NA	RESULTS	This SNP almost survives correction for the 200 SNPs examined in the region.
+0	NA	CD33	NA	RESULTS	However, given the great distance of this SNP from CD33, there is not adequate evidence to consider this result a replication
+0	NA	NA	NA	RESULTS	Genotypes were evaluated for 2 505 093 imputed SNPs that passed minor allele frequency criteria and imputation quality thresholds.
+0	NA	NA	NA	RESULTS	A Manhattan plot of the results of the genome screen is presented in Figure 3.
+0	NA	NA	NA	RESULTS	No SNP achieved a genome-wide level of significance.
+0	NA	NA	NA	RESULTS	Eleven SNPs achieved suggestive levels of association (P<10-5) (Table 6).
+0	NA	NA	NA	RESULTS	The direction of effect for these SNPs was consistent across the African American cohorts.
+0	NA	NA	rs11889338	RESULTS	Four of these SNPs (rs11889338, rs2221154, rs956225, and rs10850408) are more than 50 kb from the nearest characterized gene.
+0	NA	PROX1	rs340849	RESULTS	Strong evidence of association was obtained with rs340849 (P=7.52x10-6), located 34 kb from PROX1, and with rs3888908 (P=9.52x10-6), located 19 kb upstream from P4HA3.
+0	NA	NA	rs10850408	RESULTS	The most significant finding was obtained for rs10850408 (P=9.25x10-7), a chromosome 12 SNP more than 250 kb from the nearest gene.
+0	NA	ZC3H3	NA	RESULTS	The SNPs in ZC3H3, TMTC1, and ENOX1 showed suggestive evidence of an association in analyses adjusting for APOEepsilon4 (see eTable 3 in the supplementary material for all SNPs with P<10-5).
+0	NA	NA	NA	RESULTS	None of these findings were replicated in the white meta-analysis (details are provided in the eAppendix in the supplementary material)
+0	Alzheimer's disease	NA	NA	DISCUSS	This is, to our knowledge, the first comprehensive genetic association study of AD in African Americans.
+0	NA	NA	NA	DISCUSS	This study is timely and important for several reasons.
+0	Alzheimer's disease	NA	NA	DISCUSS	African Americans are about twice as likely as non-Hispanic whites to have AD.
+0	Alzheimer's disease	NA	NA	DISCUSS	Although differences in AD etiology across populations have been widely studied, they are still poorly understood.
+0	Alzheimer's disease	NA	NA	DISCUSS	The occurrence of multiple demented individuals in African American families is significantly higher than in white families, although the genetic risk of AD is similar in these 2 populations.
+0	diabetes	NA	NA	DISCUSS	The increased familial risk in African Americans is likely a result of higher rates of risk factors, such as poor education, diabetes mellitus, and smoking.
+0	cognitive defects	NA	NA	DISCUSS	However, comparisons of risk in African American and white cohorts are complicated by differences in assessment of cognitive decline across studies and by population differences in willingness to participate in medical research
+0	NA	apolipoprotein E	NA	DISCUSS	We obtained incontrovertible evidence of an association with the APOE epsilon4 allele, thus confirming findings from several smaller genetic studies of African Americans.
+0	Alzheimer's disease	NA	NA	DISCUSS	In non-Hispanic whites, homozygosity for epsilon4 is associated with a 13- to 15-fold increased odds of developing AD compared with those with the most common genotype, epsilon3/epsilon3.
+0	Alzheimer's disease	NA	NA	DISCUSS	We showed previously in a set of 308 African American AD cases and 409 ethnically matched controls that persons with the epsilon3/epsilon4 and epsilon4/epsilon4 genotypes had 2.6- and 10.5-fold increased odds of AD, respectively, compared with persons with the epsilon3/epsilon3 genotype.
+0	NA	NA	NA	DISCUSS	These risks decreased substantially after 68 years of age.
+0	Alzheimer's disease	NA	NA	DISCUSS	The risk of AD was lower among individuals with the epsilon2/epsilon3 genotype.
+0	NA	NA	NA	DISCUSS	We observed similar risks in the present study.
+0	NA	NA	NA	DISCUSS	Approximately one-third of the African American sample in this study overlaps with the sample in our earlier report
+0	NA	apolipoprotein E	NA	DISCUSS	Our present study and previous studies in white populations identified highly significant evidence of an association with genes adjacent to APOE, most notably TOMM40 and APOC1 (reviewed by Ertekin-Taner).
+0	NA	apolipoprotein E	NA	DISCUSS	Arguably, the distinction of such findings from confounding with APOE is intractable because of the tight LD spanning the genes in this region.
+0	NA	apolipoprotein E	NA	DISCUSS	However, we identified highly significant evidence of an association with several SNPs in the APOE region in African Americans and whites after adjustment for APOE genotype.
+0	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	This finding is consistent with an AD risk locus distinct from APOE.
+0	NA	apolipoprotein E	NA	DISCUSS	The observation that different SNPs in this region are significant in African Americans and whites after adjustment for APOE may reflect differences in LD structure in this region (Figure 2).
+0	NA	apolipoprotein E	NA	DISCUSS	The residual association in these other genes may also represent unmeasured effects of variants in regulatory regions of APOE.
+0	NA	NA	NA	DISCUSS	Additional studies in larger African American samples are needed to determine which of these explanations is more likely
+0	Alzheimer's disease	MIRAGE	NA	DISCUSS	Among the African Americans in the present study, a subset of 180 cases and 200 controls from the MIRAGE Study and 221 cases and 186 controls from the GenerAAtions Study was included in another recent study that evaluated the association of AD with PICALM, CLU, and CR1 SNPs highlighted in the original studies reports.
+0	NA	NA	NA	DISCUSS	The authors did not find evidence of an association with any of the SNPs examined in the African American data sets.
+0	NA	NA	NA	DISCUSS	We did not replicate the genome-wide significant associations with these loci in a larger set of African American cases and controls, even at a nominal significance level.
+0	NA	CR1	NA	DISCUSS	However, we observed an association in African Americans with other previously unreported variants in each of these regions and in the most recently reported regions of genome-wide significant association, except CR1 and CD2AP.
+0	NA	ABCA7	rs3764650	DISCUSS	Only one previously reported genome-wide significant association (rs3764650 in ABCA7) was confirmed in our African American sample.
+0	NA	NA	NA	DISCUSS	Discordance in the association patterns between whites and African Americans could be related to population differences in allele frequencies or LD patterns.
+0	NA	PICALM	rs17148827	DISCUSS	This explanation is consistent with our findings of association in the African Americans between SNPs, which have very low frequency in whites (eg, rs17148827 in PICALM), and one of the previously reported AD-associated CLU SNPs (rs2279590), but with an opposite pattern of effect.
+0	Alzheimer's disease	sortilin-related receptor L(DLR class A) repeats-containing	NA	DISCUSS	Alternatively, the AD risk variants in these genes may differ across populations (ie, allelic heterogeneity), as we observed previously in SORL1.
+0	NA	NA	NA	DISCUSS	However, lack of replication might also be a result of small sample size when compared with recent consortium-based GWASs.
+0	NA	NA	NA	DISCUSS	In most instances, the confidence intervals for the effect estimates in African Americans included the point estimates in whites
+0	Alzheimer's disease	NA	NA	DISCUSS	Analysis of the entire autosomal genome revealed evidence suggestive of an association with several novel candidate genes that may play a role in AD pathogenesis.
+0	NA	PROX1	NA	DISCUSS	PROX1 (OMIM *601546) is a prospero-related transcription factor that plays a critical role in the development of various organs, including the mammalian lymphatic and central nervous systems.
+0	NA	NA	NA	DISCUSS	This transcription factor has recently been shown to play a key role in adult neurogenesis, suggesting it may be involved in memory development.
+0	autism and language disorders	contactin-associated protein-like 2	NA	DISCUSS	The contactin-associated protein-like 2 gene (CNTNAP2 [OMIM *604569]) is involved in brain development and has been implicated in susceptibility to autism and language disorders.
+0	NA	CNTN5	NA	DISCUSS	In 2009, Harold et al reported a SNP in the contactin gene, CNTN5 (OMIM *607219), to have a GWAS P value of 2x10-5.
+0	Alzheimer's disease	NA	NA	DISCUSS	Subsequently, the same SNP was shown to be associated with a variety of magnetic resonance imaging measures in the Alzheimer Disease Neuroimaging Initiative cohort.
+0	NA	 kinase 24	NA	DISCUSS	Serine/threonine kinase 24 (STK24 [OMIM *604984]) is expressed in the brain.
+0	NA	 kinase 24	NA	DISCUSS	An isoform of STK24 has been shown to be a regulator of axon growth and axon regeneration after injury.
+0	Alzheimer's disease	NA	NA	DISCUSS	However, we did not observe association in these regions in a meta-analysis of a replication sample of 5 white AD data sets containing 3568 cases and 6205 controls.
+0	NA	NA	NA	DISCUSS	A study of a larger independent sample of African American and possibly white samples will be needed to determine whether these associations are spurious or reflect population-specific variants or variable LD patterns among populations
+0	Alzheimer's disease	NA	NA	DISCUSS	This study represents an important step in elucidating the genetic basis of AD in African Americans.
+0	Alzheimer's disease	NA	NA	DISCUSS	Our results suggest that African Americans share some but not all AD genetic risk factors with whites.
+0	Alzheimer's disease	NA	NA	DISCUSS	Further research would not only lead to a more accurate understanding of the genetic risk factors that could be incorporated in diagnostic and predictive testing protocols specific for African Americans but may also yield new gene discovery and clues for subsequent interventions useful to all populations at risk for AD
+0	NA	MIRAGE	NA	SUPPL	Group Members: Members of the MIRAGE Study Group include Drs Farrer, Green, Baldwin, Cupples, Lunetta, and Logue (Boston University); Dr Griffith, Abimbola Akomolafe, MD, MPH, Angela Ashley, MD, Lorin Freedman, MD, and Elizabeth Ofili, MD (Morehouse School of Medicine); Helena Chui, MD (University of Southern California, Los Angeles); Ranjan Duara, MD (Mt Sinai Medical Center, Miami, Florida); Tatiana Foroud, PhD, and Martin Farlow, MD (Indiana University School of Medicine, Indianapolis); Robert Friedland, MD (University of Louisville, Louisville, Kentucky); Dr Go and Lindy Harrell, MD, PhD (University of Alabama-Birmingham); Alexander Kurz, MD (Technical University, Munich, Germany); Dr Obisesan (Howard University); Helen Petrovitch, MD, and Lon White, MD (Pacific Health Research Institute, Honolulu, Hawaii); Marwan Sabbagh, MD (Sun Health Research Institute, Sun City, Arizona); Dessa Sadovnick, PhD (University of British Columbia, Vancouver); and Magda Tsolaki, MD (University of Aristotle, Thessaloniki, Greece)
+0	NA	apolipoprotein E	NA	FIG	Association and linkage disequilibrium in the apolipoprotein E (APOE) region.
+0	NA	NA	NA	FIG	A and B, Unadjusted findings in African Americans and whites, respectively; C and D, APOE-genotype adjusted findings in African Americans and whites, respectively.
+1	NA	APOC1	NA	FIG	APOC1 indicates apolipoprotein C-I; Mb, megabase; PVRL2, poliovirus receptor-related 2; and TOMM40, translocase of outer mitochondrial membrane 40 yeast homologue
+0	NA	apolipoprotein E	NA	FIG	Linkage disequilibrium in the apolipoprotein E (APOE) region.
+0	NA	NA	NA	FIG	A, African American cohort data sets.
+0	NA	NA	NA	FIG	B, White cohort data sets.
+0	NA	NA	NA	FIG	Other gene names are described in the legend to Figure 1
+0	NA	NA	NA	FIG	Manhattan plot of genome-wide association study results for the meta-analysis of the African American cohorts.
+0	NA	NA	NA	FIG	The dotted line indicates suggestive evidence of association (P<10-5)
+0	NA	NA	NA	TABLE	Sample Sizes of African American (Discovery) and White (Replication) Data Set
+0	Alzheimer's disease	apolipoprotein E	NA	TABLE	Odds of Alzheimer Disease for APOE Genotypes Relative to epsilon3/epsilon
+0	NA	apolipoprotein E	NA	TABLE	Most Significantly Associated Markers in the APOE Region in African American and White Cohort
+0	Alzheimer's disease	NA	NA	TABLE	Association of Alzheimer Disease With Genome-wide Significant Regions in White GWAS
+0	NA	NA	NA	TABLE	Top-Ranked Genetic Association Findings From Genome-wide Survey in African American

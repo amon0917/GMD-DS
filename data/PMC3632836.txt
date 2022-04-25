@@ -1,0 +1,149 @@
+0	breast cancer	NA	NA	ABSTRACT	Breast cancer is the most common cancer in women in developed countries.
+0	breast cancer	NA	NA	ABSTRACT	To identify common breast cancer susceptibility alleles, we conducted a genome-wide association study in which 582,886 SNPs were genotyped in 3,659 cases with a family history of the disease and 4,897 controls.
+0	NA	NA	NA	ABSTRACT	Promising associations were evaluated in a second stage, comprising 12,576 cases and 12,223 controls.
+0	NA	NA	NA	ABSTRACT	We identified five new susceptibility loci, on chromosomes 9, 10 and 11 (P = 4.6 x 10-7 to P = 3.2 x 10-15).
+1	NA	LSP1	rs3757318	ABSTRACT	We also identified SNPs in the 6q25.1 (rs3757318, P = 2.9 x 10-6), 8q24 (rs1562430, P = 5.8 x 10-7) and LSP1 (rs909116, P = 7.3 x 10-7) regions that showed more significant association with risk than those reported previously.
+0	breast cancer	NA	NA	ABSTRACT	Previously identified breast cancer susceptibility loci were also found to show larger effect sizes in this study of familial breast cancer cases than in previous population-based studies, consistent with polygenic susceptibility to the disease
+0	NA	NA	NA	INTRO	Genome-wide association studies (GWAS) provide a powerful approach to identify common disease alleles.
+0	breast cancer	CASP8	D302H	INTRO	Recent GWAS have identified common variants at 12 loci that are associated with an increased risk of breast cancer, and an additional locus, CASP8 (specifically, a polymorphism resulting in a D302H substitution), has been identified through a candidate-gene association study.
+0	breast cancer	NA	NA	INTRO	However, because the risks associated with these variants are modest (per-allele odds ratios (OR) <1.3), they explain only a small fraction of the estimated twofold familial relative risk of breast cancer in first-degree relatives of affected women.
+0	NA	NA	NA	INTRO	Moreover, the GWAS conducted to date have been relatively small, and it is likely that many susceptibility variants have been missed due to lack of power in these studies.
+0	breast cancer	NA	NA	INTRO	In an attempt to identify additional breast cancer loci, we conducted a GWAS that was substantially larger than those conducted to date
+0	breast cancer	NA	NA	INTRO	We studied 3,960 cases of breast cancer from the UK, selected for a positive family history of breast cancer.
+0	NA	NA	NA	INTRO	We selected cases with a positive family history because, under a polygenic model of susceptibility, this is expected to increase the effect size and hence improve study power.
+0	NA	NA	NA	INTRO	DNA samples from these women were genotyped using an Illumina Infinium 660k array.
+0	NA	NA	NA	INTRO	Case genotypes were compared with those from 5,069 controls, drawn from two UK population-based studies.
+0	NA	NA	NA	INTRO	After quality control exclusions, we utilized data on 582,886 SNPs in 3,659 cases and 4,897 controls (Online Methods)
+0	NA	NA	NA	INTRO	Genotype frequencies in cases and controls were compared using a 1-degree-of-freedom (d.f.)
+0	NA	NA	NA	INTRO	Cochran-Armitage trend test (Fig.
+0	NA	NA	NA	INTRO	1; for the quantile-quantile plot see Supplementary Fig.
+0	NA	NA	NA	INTRO	1).
+0	NA	NA	NA	INTRO	There was modest evidence for inflation in the test statistic (lambda = 1.12, which is equivalent to lambda1,000 = 1.03 for a study of 1,000 cases and 1,000 controls).
+0	NA	NA	NA	INTRO	Adjustment for differential population structure using the first two components based on a principal-components analysis of uncorrelated SNPs reduced the inflation to lambda = 1.06 (Online Methods)
+0	NA	NA	NA	INTRO	We observed evidence of association for all 12 of the susceptibility loci identified through previous GWAS, using the same SNP as that previously identified or a strongly correlated SNP (P = 0.02 to P = 3.6 x 10-31; Table 1).
+0	breast cancer	p<10-4	NA	INTRO	Seven of these loci reached P < 10-4, among which five have previously been evaluated in large collaborative analyses of case-control studies by the Breast Cancer Association Consortium (BCAC).
+0	NA	NA	NA	INTRO	The BCAC analyses involved more than 20,000 cases and 20,000 controls, providing a reliable estimate of the per-allele OR.
+0	NA	NA	rs13281615	INTRO	For each of these five SNPs, the per-allele OR in the current study was higher than that estimated from the population-based studies by BCAC by a factor of 1.46-fold to 1.75-fold (P < 0.05 for difference in OR for all SNPs except rs13281615; Supplementary Table 1).
+0	NA	NA	NA	INTRO	This enrichment is broadly consistent with the selection of cases with a family history, assuming a multiplicative polygenic model (which predicts a 1.5-fold higher excess relative risk for the associated SNP for women with one affected first-degree relative and a twofold higher excess relative risk for women with two affected first-degree relatives).
+0	NA	NA	rs7716600	INTRO	The loci on 5p12 (rs7716600, a surrogate for rs10941679) and 1p11.2 do not conform to this pattern, having smaller ORs than those published previously (a 1.5-fold higher excess OR can be excluded here in each case, P = 0.018 and P = 0.015, respectively).
+0	NA	NA	NA	INTRO	These results suggest either that the initial effect sizes were overestimated (perhaps due to 'winner's curse') or that these loci have weaker than expected effects in women with a family history due to a different model of susceptibility than is applicable for the other loci.
+0	NA	CASP8	D302H	INTRO	We also found limited evidence in support of the association with the CASP8 D302H polymorphism (P = 0.14; Table 1).
+1	NA	FGFR2	rs2981579	INTRO	Consistent with previous results, the two loci showing the largest effect sizes and most significant associations in this GWAS were on chromosome 10, in intron 2 of FGFR2 (rs2981579, P = 3.6 x 10-31) and at the TOX3 locus on 16q (rs3803662, P = 3.2 x 10-15)
+1	breast cancer	LSP1	NA	INTRO	For three loci (6q25.1, LSP1 and 8q24) we identified a SNP that showed a more significant association than the SNP originally reported associated to breast cancer susceptibility.
+1	NA	ER	rs3757318	INTRO	The SNP with the lowest P value at 6q25.1 (rs3757318, P = 2.9 x 10-6) lies ~200 kb upstream of ESR1 in an intron of C6orf97.
+0	NA	NA	rs3757318	INTRO	In Europeans, rs3757318 is only weakly correlated with rs2046210, which has previously been identified as a susceptibility SNP in a study from Shanghai (r2 = 0.088), though these two SNPs are more strongly correlated in an East Asian population (r2 = 0.48 in HapMap CHB).
+0	breast cancer	NA	rs3757318	INTRO	Both rs3757318 and rs6900157 (a surrogate for rs2046210 with r2 = 0.96) remained significantly associated with breast cancer after multiple logistic regression analysis (P = 0.0003 and P = 0.002, respectively).
+0	NA	NA	rs3757318	INTRO	These results suggest either the presence of a single causal variant that is more strongly correlated with rs3757318 than rs2046210 in Europeans or the presence of two causal variants.
+1	NA	LSP1	NA	INTRO	The more strongly associated SNPs that we identified in the 8q24 and LSP1 regions lie within the same linkage disequilibrium (LD) blocks as the originally identified SNP, and in each case, the original SNP was not significantly associated with risk after adjusting for the new SNP.
+0	NA	NA	NA	INTRO	Thus, these results may reflect the same underlying association and should assist in narrowing the search for the true causal variants.
+0	NA	CASP8	rs10931936	INTRO	A more strongly associated variant, rs10931936, was also identified at the CASP8 locus (P = 0.0014, r2 = 0.13)
+0	NA	NA	NA	INTRO	After eliminating SNPs in previously identified susceptibility regions, we identified 28 SNPs in 13 regions of LD that were significant at P < 0.00001.
+0	NA	NA	NA	INTRO	After eliminating SNPs that were strongly correlated, we attempted to replicate these associations by genotyping 15 SNPs in a second stage involving 11,431 cases and 11,081 controls from four studies in the UK and The Netherlands (Online Methods).
+0	NA	NA	NA	INTRO	We also incorporated available data from 1,145 cases and 1,142 controls from the Cancer Genetic Markers of Susceptibility (CGEMS) study.
+0	NA	NA	NA	INTRO	Six SNPs from five regions on chromosomes 9,10 and 11 showed clear evidence of replication in stage 2 (P = 0.0017 or better and in the same direction as stage 1) and reached significance levels over both stages combined of P = 4.6 x 10-7 to P = 3.2 x 10-15 (Table 2 and Supplementary Tables 2 and 3).
+1	NA	NA	rs614367	INTRO	rs614367 and rs624797, which both showed strong evidence of association, were correlated, and rs624797 showed no independent association after adjustment for rs614367.
+0	NA	NA	NA	INTRO	The per-allele OR was higher in stage 1 than stage 2 for each SNP (P < 0.05 in each case; Supplementary Table 2).
+0	NA	NA	NA	INTRO	This may reflect either winner's curse or the enrichment of stage 1 for cases with a positive family history.
+1	NA	NA	rs10995190	INTRO	There was no evidence for heterogeneity in the per-allele ORs among the stage 2 samples, with the exception of the weak evidence shown for rs10995190 (P = 0.08; Supplementary Table 2).
+0	NA	NA	NA	INTRO	There was no evidence for departure from a log-additive model for any SNP (that is, the OR for rare homozygotes did not differ significantly from the square of the OR for heterozygotes).
+1	NA	NA	rs1011970	INTRO	There was weak evidence of a decrease in the per-allele OR with age for rs1011970 and of an increase in the per-allele OR with age for rs614367 (P = 0.071 and P = 0.068; Supplementary Table 4).
+1	NA	NA	rs614367	INTRO	rs614367 and rs624797 (but no other SNPs) showed a consistently stronger association with a positive family history in both stages (for rs614367, P = 0.006 and P = 0.00016, respectively; for rs624797, P = 0.012 and P = 0.001, respectively; Supplementary Table 4).
+1	breast cancer	NA	rs10995190	INTRO	For four of the SNPs (rs10995190, rs1011970, rs614367 and rs624797), the estimated per-allele ORs were higher for estrogen receptor-positive disease and showed little association in estrogen receptor-negative breast cancer, consistent with the pattern seen for the majority of breast cancer loci identified to date.
+1	NA	NA	rs2380205	INTRO	For rs2380205 and rs704010, the per-allele ORs for estrogen receptor-positive and estrogen receptor-negative disease were similar, but the number of estrogen receptor-negative cases used was too small to draw firm conclusions on the effect sizes for this subset (Supplementary Table 4)
+0	NA	NA	NA	INTRO	To examine whether there was evidence for a more strongly associated variant in any of the above regions, we used imputation to estimate the genotype probabilities in the stage 1 data at known SNPs in region using the HapMap CEU data as a framework.
+1	NA	NA	rs614367	INTRO	On chromosome 11, we identified four SNPs that showed a more significant association than rs614367 (most significantly associated SNP rs6610204; P = 4.6 x 10-14; Supplementary Table 5).
+0	NA	NA	NA	INTRO	In the other regions, no SNPs showed associations that were more significant than the original SNP.
+0	NA	NA	NA	INTRO	We also estimated the ORs associated with haplotypes of SNPs in each of the five regions (Supplementary Table 6).
+0	NA	NA	NA	INTRO	In each case, the association was present on more than one haplotype carrying the risk allele for the initially associated SNP, suggesting that the associations are unlikely to be driven by a single rare, high penetrance variant.
+1	NA	NA	rs614367	INTRO	For the chromosome 11 region, there was evidence of association with risk for two related haplotypes carrying the T allele of rs614367 with a combined frequency of 4%, suggesting that the causal variant may be somewhat rarer than the 15% minor allele frequency of rs614367
+1	NA	CDKN2A	rs1011970	INTRO	SNP rs1011970 lies in a 180-kb block on 9p21 that includes CDKN2A and CDKN2B.
+0	cancers	NA	NA	INTRO	These two genes encode cyclin-dependent kinase inhibitors and are frequently mutated or deleted in a wide variety of human tumors.
+1	melanoma	CDKN2A	rs1011970	INTRO	Germline mutations in CDKN2A predispose to malignant melanoma and pancreatic cancer, and recent GWAS also identified rs1011970 to be associated with melanoma risk; SNPs within this same region are associated with nevus density and melanoma, basal cell carcinoma, glioma, diabetes and coronary heart disease.
+1	breast cancer	CDKN2A	rs10757278	INTRO	This is the first example of the same common variant predisposing to breast cancer and another cancer type rs10757278, which is correlated with rs1011970 (r2 = 0.7), is associated with levels of expression in lymphocytes of CDKN2A, CDKN2B and a noncoding RNA in the same block, CDKN2BAS (also known as ANR1L)
+1	NA	NA	rs614367	INTRO	rs614367 on 11q13 lies in an LD block of ~166 kb that contains no annotated genes.
+0	cancers	NA	NA	INTRO	This region is frequently amplified in human tumors, including breast cancers.
+1	multiple myeloma	MYEOV	NA	INTRO	Plausible genes flanking this block include: proximally, MYEOV, a gene overexpressed in myeloma; distally, CCND1, encoding cyclin D1, a protein critical for cell-cycle control that is somatically altered in many tumor types; ORAOV1, a gene overexpressed in oral cancer; and three genes encoding fibroblast growth factors, FGF19, FGF4 and FGF3.
+1	NA	FGF3	NA	INTRO	FGF3 and FGF4 are oncogenic growth factors that bind distinct FGFR2 isoforms, providing a possible link with the FGFR2 susceptibility locus
+1	NA	ZNF365	rs10995190	INTRO	rs10995190 on chromosome 10 lies within intron 4 of ZNF365, which encodes zinc finger protein 365.
+0	nephrolithiasis	NA	NA	INTRO	An amino acid substitution in this gene has been associated with uric acid nephrolithiasis.
+1	Crohn's disease	NA	rs10995271	INTRO	Recent GWAS have identified another variant within this gene, rs10995271, located 159 kb downstream of rs10995190, to be associated with Crohn's disease.
+1	NA	ANKRD16	rs2380205	INTRO	rs2380205 lies in a 105-kb block on chromosome 10 containing the genes ANKRD16 (encoding ankyrin repeat domain 16) and FBXO18 (encoding the F-box protein, helicase 18).
+1	NA	ZMIZ1	rs704010	INTRO	rs704010 on chromosome 10 lies in a 20-kb block 90 kb upstream of ZMIZ1 (encoding zinc finger MIZ-type containing 1)
+0	breast cancer	NA	NA	INTRO	Based on the estimated per-allele ORs from stage 2 of our study, the newly identified loci explain approximately 1.2% of the familial risk of breast cancer, though the overall contribution may be larger because the true causal variants may be more strongly associated with disease than the SNPs tagging them in this study.
+0	breast cancer	BRCA1	NA	INTRO	Taken together with estimates from previous studies, the 18 confirmed breast cancer susceptibility loci explain approximately 8% of the familial risk of breast cancer, whereas rarer mutations in the known high risk loci (principally BRCA1 and BRCA2) and moderate risk loci explain a further ~20%.
+1	breast cancer	FGFR2	NA	INTRO	This is by far the largest breast cancer GWAS to date and confirms that the FGFR2 and TOX3 loci (conferring per-allele ORs between 1.2 and 1.3) have the largest effect sizes from among the common susceptibility loci that are detectable with the current high-coverage genome-wide SNP sets.
+0	NA	NA	NA	INTRO	The residual familial risk is therefore likely to be due to a combination of a large number of common variants with smaller effects together with rarer variants not testable with current arrays.
+0	NA	NA	NA	INTRO	It is likely that many additional loci will be identifiable through more extensive follow-up of data from this and other GWAS
+0	NA	NA	NA	INTRO	URLs.
+0	NA	NA	NA	INTRO	CGEMS, http://cgems.cancer.gov/; Welcome Trust Case Control Consortium (WTCCC), http://www.wtccc.org.uk/; Nurses Health Study, http://www.channing.harvard.edu/nhs/; Mach, http://www.sph.umich.edu/csg/abecasis/MaCH/index.html; data access from this GWAS, http://www.srl.cam.ac.uk/genepi/
+0	breast cancer	POSH	NA	METHODS	Three thousand nine hundred and sixty breast cancer cases were used in stage 1, of which 3,652 were from cancer genetics clinics in the UK recruited through the Familial Breast Cancer Study (FBCS) and 308 were from oncology clinics in the UK recruited through the Prospective study of Outcomes in Sporadic versus Hereditary breast cancer (POSH) study.
+0	NA	NA	NA	METHODS	Cases were preferentially selected to have at least two affected first- or second-degree relatives.
+0	NA	BRCA1	NA	METHODS	The majority of cases were screened and found to be negative for germline mutations, including large rearrangements, in BRCA1 and BRCA2.
+0	NA	BRCA1	NA	METHODS	A minority of samples were not tested for BRCA1 or BRCA2 mutations.
+0	NA	BRCA1	NA	METHODS	All carriers of disease-associated mutations in BRCA1 and BRCA2 were excluded.
+0	NA	NA	NA	METHODS	We also excluded all cases with self-reported non-European ancestry
+0	NA	NA	NA	METHODS	Controls for stage 1 were drawn from two sources: 2,930 controls were drawn from the 1958 Birth Cohort (1958BC), a population-based study in the United Kingdom of individuals born in 1 week in 1958 (ref.).
+0	NBS	NA	NA	METHODS	The remaining 2,737 controls were identified through the UK National Blood Service (NBS).
+0	NA	NA	NA	METHODS	These samples were genotyped as part of the Wellcome Trust Case Control Consortium (WTCCC2; see URLs).
+0	NBS	NA	NA	METHODS	The analyses presented here are based on 2,482 1958BC and 2,587 NBS controls for which genotype data were available at the time of analysis
+0	NA	NA	NA	METHODS	Genotypes for stage 1 cases were generated using a custom Illumina Infinium 670k array and controls were genotyped using an Illumina Infinium 1.2M array at the Wellcome Trust Sanger Institute.
+0	NA	NA	NA	METHODS	For this analysis, we analyzed data on 594,375 SNPs that were successfully genotyped on both arrays.
+0	NA	NA	NA	METHODS	Genotypes for both arrays were called using the Illuminus algorithm.
+0	NA	NA	NA	METHODS	We used genotypes for which Illuminus generated a posterior probability of >0.95.
+0	NA	NA	NA	METHODS	Cluster plots were inspected manually for all SNPs considered for inclusion in stage 2
+0	NA	NA	NA	METHODS	Genotyping for stage 2 was performed by 5' exonuclease assay (Taqman) using the ABI Prism 7900HT Sequence Detection System according to the manufacturer's instructions.
+0	NA	NA	NA	METHODS	Primers and probes were supplied directly by Applied Biosystems as Assays-By-Design.
+0	NA	NA	NA	METHODS	Assays included at least two negative controls and 2% to 5% duplicates per plate.
+0	NA	NA	rs1866823	METHODS	Genotyping for one marker, rs1866823, failed for the SEARCH and RBCS studies, and the marker was replaced by rs2246873 (r2 = 0.94 in HapMap CEU)
+0	NA	NA	NA	METHODS	We restricted analyses to individuals who were called on >97% of successfully genotyped SNPs.
+0	NA	NA	NA	METHODS	To identify close relatives, we computed identity-by-state (IBS) probabilities for all pairs.
+0	NA	NA	NA	METHODS	We confirmed 2 case monozygotic twin (MZ) pairs, 22 duplicate case pairs and 24 first-degree relative pairs (IBS > 0.86).
+0	NA	NA	NA	METHODS	We also identified 4 probable case-control and 44 probable control-control sibling pairs.
+0	NA	NA	NA	METHODS	We excluded the control from the case-control pairs and the sample with the lower call rate from the remaining pairs.
+0	NBS	NA	NA	METHODS	By computing IBS scores between participants and individuals in HapMap and by using multidimensional scaling, we identified 89 individuals who appeared to have substantial Asian or African ancestry (defined as approximately >15% non-European ancestry, comprising 69 cases, 4 individuals from 1958BC and 16 NBS).
+0	NA	NA	NA	METHODS	After these exclusions, 3,659 cases and 4,897 controls were used in the final analysis
+0	NA	MAF	NA	METHODS	We filtered out all SNPs with, in either cases or controls, a MAF < 1%, a call rate of < 99% and a MAF < 5%, or a call rate < 95% and MAF >= 5%.
+0	NA	NA	NA	METHODS	We also excluded SNPs whose frequencies departed from HWE at P < 0.00001 in controls or P < 10-12 in cases.
+0	NA	NA	NA	METHODS	After these exclusions, we used data on 582,886 SNPs.
+0	NA	NA	NA	METHODS	Duplicate concordance was 99.99%
+0	breast cancer	NA	NA	METHODS	We first assessed associations between each SNP and breast cancer at stage 1 using a 1-d.f.
+0	NA	NA	NA	METHODS	Cochran-Armitage trend test and a general 2-d.f.
+0	NA	NA	NA	METHODS	chi2 test.
+0	NA	NA	NA	METHODS	Inflation in the chi2 statistic was assessed using the genomic control approach; we derived an inflation factor lambda by dividing the median of the lowest 90% of the 1-d.f.
+0	NA	NA	NA	METHODS	statistics by the 45% percentile of a 1-d.f.
+0	NA	NA	NA	METHODS	chi2 distribution (0.357).
+0	NA	NA	NA	METHODS	We have also presented the equivalent inflation factor for a study of 1,000 cases and 1,000 controls (lambda1,000) calculated by lambda1,000 = 1 + 500 (1 / Ncases+ 1 / Ncontrols) / (lambda - 1), where Ncases and Ncontrols are the number of cases and controls, respectively
+0	NA	NA	NA	METHODS	To correct for potential inflation due to population structure, we performed a principal-components analysis based on the genotypes of a subset of 35,797 uncorrelated SNPs (r2 < 0.1).
+0	NA	NA	NA	METHODS	We then computed 1-d.f.
+0	NA	NA	NA	METHODS	score tests for each SNP, adjusting for progressively larger numbers of principal components as covariates.
+0	NA	NA	NA	METHODS	Adjustment for the first two components reduced the inflation slightly (to 1.06); however, adjustment for further components did not reduce the inflation further.
+0	NA	NA	NA	METHODS	Adjusted significance tests were therefore calculated from the score tests adjusted for two principal components.
+0	NA	NA	NA	METHODS	To allow for the residual inflation, we adjusted the resulting test statistics using the genomic control approach by dividing the test statistic by the inflation factor
+0	NA	p<10-5	NA	METHODS	SNPs were selected for evaluation in stage 2 on the basis of a significance level of P < 10-5 based on the unadjusted 1-d.f.
+0	NA	NA	NA	METHODS	trend test.
+0	NA	NA	NA	METHODS	Where two or more SNPs were selected from the same region, we used multiple logistic regression to determine a minimal set of SNPs that showed evidence of association after adjustment for other SNPs.
+0	NA	NA	NA	METHODS	In practice, one SNP was selected in each region except in the case of one region, in which two SNPs were genotyped
+0	NA	NA	NA	METHODS	After stage 2, overall 1-d.f.
+0	NA	NA	NA	METHODS	and 2-d.f.
+0	NA	NA	NA	METHODS	tests of association were derived, stratified by stage and study.
+0	NA	NA	NA	METHODS	Adjusted tests of association were derived by adjusting in stage 1 for principal components and genomic control as described above.
+0	NA	NA	NA	METHODS	In the combined analysis, the effect size in stage 1 was weighted by a factor of 2 relative to that in stage 2, consistent with the effect size expected under a polygenic model.
+0	NA	NA	NA	METHODS	A criterion of P < 5 x 10-7 was used for genome-wide significance, and ORs and 95% confidence limits were estimated using unconditional logistic regression, stratified by study.
+0	NA	NA	NA	METHODS	In the text, we have reported the combined tests of association over both stages, but we have emphasized the OR estimates from stage 2 to minimize the effect of winner's curse.
+0	NA	NA	NA	METHODS	Tests of homogeneity of the ORs across strata were assessed using likelihood ratio tests.
+1	NA	ER	NA	METHODS	The associations between genotype and family history in stage 2, and between genotype and estrogen receptor status, were assessed using a case-only analysis (that is, treating family history or estrogen receptor status as the outcome variable and estimating a per-allele OR for each SNP using logistic regression).
+0	NA	NA	NA	METHODS	For stage 1, the effect of family history was analyzed using a family history score, derived as the total number of affected relatives weighted by their degree of relationship to the case.
+0	NA	NA	NA	METHODS	The effect of family history score on per-allele OR was assessed using constrained polytomous regression.
+0	NA	NA	NA	METHODS	Modification of the ORs by age at diagnosis was assessed using a case-only analysis, assessing the association between age and SNP genotype in the cases using polytomous regression.
+0	breast cancer	NA	NA	METHODS	The contribution of the loci to the familial risk of breast cancer was estimated by first computing the familial risk to a daughter of an affected individual that was attributable to each locus (lambda1) from the allele frequency and the estimated per-allele OR in the SEARCH study, which was largest study contributing to stage 2 and which is population based.
+0	NA	NA	NA	METHODS	The proportion of the familial risk due to each locus was then calculated as ln(lambda1) / ln(2), assuming an overall familial relative risk of 2.
+0	NA	NA	NA	METHODS	The combined effect of all loci was then derived by summing the locus-specific contributions (that is, assuming a log-additive model).
+0	NA	NA	NA	METHODS	Imputed genotypes for non-typed SNPs were estimated using Mach (see URLs), using the HapMap CEU data as a framework.
+0	NA	NA	NA	METHODS	Haplotype analyses were conducted in haplo.stats.
+0	breast cancer	NA	NA	METHODS	Haplotypes were based on SNPs in each region that were significantly associated with breast cancer at P < 0.001, after eliminating perfectly correlated SNPs.
+0	NA	NA	NA	METHODS	Per-haplotype ORs were estimated using the haplo.cc routine.
+0	NA	NA	NA	METHODS	Other analyses were performed in R, principally using GenABEL, and Stata (R, http://www.r-project.org/; Stata, http://www.stata.com/)
+0	NA	NA	NA	FIG	Manhattan plot of 1-d.f.
+0	NA	NA	NA	FIG	Cochran-Armitage P values for association by genomic position
+0	breast cancer	NA	NA	TABLE	Associations in the current study at previously known breast cancer loc
+0	breast cancer	NA	NA	TABLE	Associations between genotype and breast cancer risk for six SNP

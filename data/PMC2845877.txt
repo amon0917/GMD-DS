@@ -1,0 +1,206 @@
+0	Alzheimer's disease	NA	NA	ABSTRACT	We undertook a two-stage genome-wide association study of Alzheimer's disease involving over 16,000 individuals.
+1	NA	apolipoprotein E	rs2075650	ABSTRACT	In stage 1 (3,941 cases and 7,848 controls), we replicated the established association with the APOE locus (most significant SNP: rs2075650, p= 1.8x10-157) and observed genome-wide significant association with SNPs at two novel loci: rs11136000 in the CLU or APOJ gene (p= 1.4x10-9) and rs3851179, a SNP 5' to the PICALM gene (p= 1.9x10-8).
+1	Alzheimer's disease	NA	rs11136000	ABSTRACT	Both novel associations were supported in stage 2 (2,023 cases and 2,340 controls), producing compelling evidence for association with AD in the combined dataset (rs11136000: p= 8.5x10-10, odds ratio= 0.86; rs3851179: p= 1.3x10-9, odds ratio= 0.86).
+0	NA	BIN1	NA	ABSTRACT	We also observed more variants associated at p< 1x10-5 than expected by chance (p=7.5x10-6), including polymorphisms at the BIN1, DAB1 and CR1 loci
+0	Alzheimer's disease	NA	NA	INTRO	Alzheimer's disease (AD) is the most common form of dementia, is highly heritable (heritability of up to 76%) but genetically complex.
+0	NA	beta-amyloid (Abeta)	NA	INTRO	Neuropathologically, the disease is characterized by extracellular senile plaques containing beta-amyloid (Abeta) and intracellular neurofibrillary tangles containing hyperphosphorylated tau protein.
+0	NA	NA	NA	INTRO	Four genes have been definitively implicated in its etiology.
+0	NA	PSEN1	NA	INTRO	Mutations of the amyloid precursor protein (APP) gene and the presenilin 1 and 2 genes (PSEN1, PSEN2) cause rare, Mendelian forms of the disease usually with an early-onset.
+1	Alzheimer's disease	apolipoprotein E	NA	INTRO	However, in the more common form of AD, only apolipoprotein E (APOE) has been established unequivocally as a susceptibility gene.
+0	Alzheimer's disease	NA	NA	INTRO	Aiming to identify novel AD loci, several genome-wide association studies (GWAS) have been conducted prior to the present study.
+1	NA	apolipoprotein E	NA	INTRO	All have identified strong evidence for association to APOE, but less convincing evidence implicating other genes.
+1	NA	apolipoprotein E	NA	INTRO	This outcome is consistent with the majority of findings from GWAS of other common phenotypes, where susceptibility alleles typically have effect sizes with odds ratios (OR) of 1.5 or less, rather than of the magnitude for APOE (OR~3).
+0	Alzheimer's disease	NA	NA	INTRO	Detecting such modest effects requires much larger samples than those that have been applied in the GWAS of AD to date, which have all included fewer than 1,100 cases.
+0	Alzheimer's disease	NA	NA	INTRO	Based upon the hypothesis that risk alleles for AD are likely to confer ORs in the range seen in other common diseases, we undertook a more powerful GWAS than has been undertaken to date
+0	NA	NA	NA	INTRO	We established a collaborative consortium from Europe and the USA from which we were able to draw upon a combined sample of up to 19,000 subjects (before quality control) and conducted a two-stage study.
+0	NA	NA	NA	INTRO	In Stage 1, 14,639 subjects were genotyped on Illumina platforms.
+0	NA	NA	NA	INTRO	5,715 samples were genotyped for the present study using the Illumina 610-quadchip; genotypes for the remaining subjects were either made available to us from population control datasets or through collaboration and were genotyped on the Illumina HumanHap550 or the HumanHap300 BeadChips.
+0	NA	NA	NA	INTRO	Prior to association analysis, all samples and genotypes underwent stringent quality control, which resulted in the elimination of 53,383 autosomal SNPs and 2,850 subjects.
+0	Alzheimer's disease	NA	NA	INTRO	Thus, in Stage 1, we tested 529,205 autosomal SNPs for association in up to 11,789 subjects (3,941 AD cases, 7,848 controls of which 2,078 were elderly screened controls, see Supplementary Table 1).
+0	NA	NA	NA	INTRO	The genomic control inflation factor (lambda) was 1.037, suggesting little evidence for residual stratification
+1	NA	apolipoprotein E	NA	INTRO	In addition to the known association with the APOE locus, GWA analysis identified two novel loci at a genome-wide level of significance (see Fig.
+0	NA	NA	NA	INTRO	1).
+1	GWS SNPS map	apolipoprotein E	NA	INTRO	Table 1 shows SNPs which were genome-wide significant (GWS) in stage 1; 13 GWS SNPS map within or close to the APOE locus on chromosome 19 (p< 3x10-8 - 2x10-157) and the top 5 are shown in Table 1 (see Supplementary Table 2 for the complete list).
+0	NA	NA	NA	INTRO	The other two SNPs represent novel associations.
+1	NA	CLU	NA	INTRO	One of the novel SNPs (rs11136000) is located within an intron of clusterin (CLU, also known as APOJ) on chromosome 8 (p= 1.4x10-9, OR=0.840); the other SNP (rs3851179) is 88.5 kb 5' to PICALM on chromosome 11 (p = 1.9x10-8, OR=0.849).
+0	NA	NA	NA	INTRO	Note that there was no significant difference in allele frequencies between elderly, screened controls and population controls for these two SNPs.
+0	Alzheimer's disease	NA	NA	INTRO	In stage 2, the two novel GWS SNPs were genotyped in an independent sample comprising 2,023 AD cases and 2,340 age-matched, cognitively screened controls (Supplementary Table 3).
+1	NA	NA	rs11136000	INTRO	Both were independently associated in this sample (rs11136000: one-tailed p= 0.017, OR= 0.905; rs3851179: one-tailed p= 0.014, OR= 0.897).
+1	NA	CLU	rs11136000	INTRO	Meta-analysis of the stage 1 and 2 datasets also produced highly significant evidence of association (rs11136000: p= 8.5x10-10, OR = 0.861 and rs3851179: p= 1.3x10-9, OR= 0.859, two-tailed, Table 1) for CLU and PICALM loci respectively.
+0	NA	NA	NA	INTRO	We sought further evidence from the Translational Genomics Research Institute (TGEN) study and the Li et al.
+0	Alzheimer's disease	NA	NA	INTRO	study, two publicly available AD GWAS datasets, but neither of the novel GWS SNPs had been genotyped or could be imputed.
+1	NA	apolipoprotein E	NA	INTRO	As secondary analyses, we tested each novel finding for interaction with APOE status and for association with age at onset.
+1	Alzheimer's disease	apolipoprotein E	NA	INTRO	No significant interactions of the novel SNPs with APOE status were observed influencing AD risk (rs11136000xAPOE-epsilon4 interaction p= 0.674; rs3851179xAPOE-epsilon4 interaction p=0.735).
+1	NA	apolipoprotein E	NA	INTRO	Although we observed significant effects of the GWS SNPs on age at onset, these were limited to SNPs at the APOE locus (data not shown)
+0	NA	NA	NA	INTRO	In a preliminary attempt to attribute the source of the association to a functional variant, we used publicly available data to identify additional SNPs at each locus that were correlated through linkage disequilibrium (LD) with either novel GWS SNP or that might plausibly have functional effects (see Supplementary Table 4).
+0	Alzheimer's disease	CLU	rs7982	INTRO	A synonymous SNP (rs7982) in the CLU gene was in strong LD (r2=0.95 in our extension sample) with the GWS SNP and showed a similar level of evidence for association with AD in the whole sample (meta-p =8x10-10; stage 1 genotypes were imputed).
+0	NA	CLU	NA	INTRO	This SNP is in exon 5 of the CLU gene, which codes for part of the beta chain of the protein and may influence a predicted exon splicing enhancer.
+0	Alzheimer's disease	CLU	NA	INTRO	We note that Tycko and colleagues previously published a negative association study on the CLU gene, analyzing 4 SNPs in an AD case-control sample of African-American, Hispanic and Caucasian/non-Hispanic individuals.
+0	NA	NA	rs7982	INTRO	Although they identified rs7982 through mutation screening (referred to as VB in their study), the SNP was not tested for association in their sample.
+0	Alzheimer's disease	NA	NA	INTRO	The 4 SNPs that were analyzed were rare in Caucasians (minor allele frequency <2%) and there was very limited power to detect association in their Caucasian sub-sample of 53 AD cases and 43 controls.
+0	NA	NA	NA	INTRO	As these 4 SNPs were not genotyped in the present GWAS, there is no overlap between the two studies
+1	NA	PICALM	NA	INTRO	Several potentially functional SNPs were identified at the PICALM locus.
+0	NA	NA	rs561655	INTRO	Of these, two showed good evidence for association; rs561655, which is within a putative transcription factor binding site and rs592297, which is a synonymous SNP in exon 5 of the gene that may influence a predicted exon splicing enhancer.
+1	NA	PICALM	rs3851179	INTRO	However, neither of these SNPs showed the strength of evidence for association observed for rs3851179, the GWS SNP at the PICALM locus (i.e.
+0	NA	NA	rs561655	INTRO	rs561655: meta-p= 1x10-7 and rs592297: meta-p= 2x10-7).
+0	NA	NA	rs3851179	INTRO	A number of SNPs in LD with rs3851179 and showing moderate evidence of association in the GWAS (p<1x10-4) were also followed up, most notably rs541458.
+1	NA	PICALM	NA	INTRO	This SNP is 8kb 5' to the PICALM gene and was directly genotyped in the extension sample, the TGEN study and the Li et al.
+0	NA	NA	NA	INTRO	study, with p<0.05 in each.
+0	NA	NA	NA	INTRO	Following meta-analysis, this is one of our most significant SNPs (meta-p= 8x10-10) and is also supported by the study of Amouyel et al.
+0	NA	NA	NA	INTRO	published in this issue (p=3x10-3).
+0	NA	NA	NA	INTRO	Further genetic analyses will be required to characterize the true nature of the associations observed at these loci, which is beyond the scope of this paper
+0	NA	NA	NA	INTRO	We also tested whether the observed number of significant associations observed in the GWAS exceeded what would be expected by chance.
+1	NA	apolipoprotein E	NA	INTRO	Having removed SNPs within the APOE, CLU and PICALM loci (see Methods) we focused on those which showed most evidence for association (p< 1x10-5).
+0	NA	NA	NA	INTRO	Approximately 13 independent signals were observed; less than 4 would be expected by chance (p= 7.5x10-6).
+0	NA	CR1	NA	INTRO	Table 2 shows the loci implicated and provides strong evidence for association with the complement receptor 1 (CR1) gene, particularly in the context of the results of the Amouyel et al.
+0	NA	NA	NA	INTRO	study published in this issue.
+0	vesicle endoctyosis	BIN1	NA	INTRO	Also noteworthy are the bridging integrator 1 (BIN1) gene, which produces a protein involved in synaptic vesicle endoctyosis, and the disabled homolog 1 (DAB1) gene, whose product is involved with tyrosine phosphorylation and microtubule function in neurons.
+0	Alzheimer's disease	NA	NA	INTRO	These data thus provide strong evidence that there are several genes associated with AD which remain to be identified.
+0	Alzheimer's disease	NA	NA	INTRO	We have also tested over 100 variants highlighted by previous AD GWA studies for association in our sample (see Supplementary note for full discussion).
+0	NA	NA	NA	INTRO	These are summarized in Supplementary Table 5
+1	Alzheimer's disease	NA	NA	INTRO	Until now, the APOE-epsilon4 allele was the only consistently replicated genetic risk factor for AD.
+1	NA	CLU	NA	INTRO	It is therefore intriguing that we find compelling evidence for association with CLU, a gene that encodes another major brain apolipoprotein, suggesting that susceptibility genes are not randomly distributed through functional pathways.
+0	NA	CLU	NA	INTRO	The predominant form of clusterin is a secreted heterodimeric glycoprotein of 75-80kDa.
+0	NA	NA	NA	INTRO	The single copy gene spans about 16kb on chromosome 8p21-p12 and encodes an mRNA of approximately 2kb that translates into a 449 amino acid primary polypeptide chain.
+0	injury or chronic inflammation of the brain	CLU	NA	INTRO	Clusterin is expressed in all mammalian tissues and there is strong evidence that CLU levels are elevated in a number of pathological conditions involving injury or chronic inflammation of the brain.
+0	Alzheimer's disease	CLU	NA	INTRO	In Alzheimer's disease brain, CLU expression is reported to be increased in affected cortical areas and is present in amyloid plaques and in the cerebrospinal fluid of AD cases
+0	NA	CLU	NA	INTRO	Clusterin is a multi-functional molecule.
+0	NA	beta-amyloid (Abeta)	NA	INTRO	It interacts with the soluble form of Abeta in animal models of disease and binds soluble Abeta in a specific and reversible manner, forming complexes that have been shown to cross the blood-brain barrier.
+1	toxicity	apolipoprotein E	NA	INTRO	Interestingly, APOE also appears to act as a molecular chaperone for Abeta and influences when it aggregates and deposits as well as influencing Abeta conformation and toxicity.
+0	toxicity	CLU	NA	INTRO	In a similar way, clusterin appears to regulate both the toxicity and conversion of Abeta into insoluble forms.
+1	NA	apolipoprotein E	NA	INTRO	Furthermore, APOE and CLU have been shown to cooperate in suppressing Abeta deposition and APOE and CLU may critically modify Abeta clearance at the blood brain barrier, suggesting a role for clusterin in the amyloidogenic pathway.
+1	NA	apolipoprotein E	NA	INTRO	Levels of APOE protein appear to be inversely proportional to APOE-epsilon4 allele dose levels, i.e.
+0	NA	NA	NA	INTRO	expression levels are reduced in epsilon4 homozygotes compared with heterozygotes.
+1	NA	CLU	NA	INTRO	Conversely, CLU levels are increased in proportion to APOE-epsilon4 allele dose suggesting an induction of clusterin in individuals with low APOE levels.
+0	Alzheimer's disease	NA	NA	INTRO	Thus, the strong statistical evidence for the involvement of this gene in AD has additional support in terms of biological plausibility
+1	Alzheimer's disease	PICALM	NA	INTRO	The second gene locus to show compelling evidence for association with AD is PICALM (phosphatidylinositol-binding clathrin assembly protein; also known as CALM: clathrin assembly lymphoid-myeloid leukemia gene).
+1	NA	PICALM	NA	INTRO	PICALM is ubiquitously expressed in all tissue types with prominent expression in neurons, where it is nonselectively distributed at the pre- and post synaptic structures.
+1	NA	BIN1	NA	INTRO	It has been shown that like BIN1, PICALM is involved in clathrin-mediated endocytosis (CME), an essential step in the intracellular trafficking of proteins and lipids such as nutrients, growth factors and neurotransmitters.
+1	Alzheimer's disease	PICALM	NA	INTRO	Of relevance to AD, PICALM appears to be involved in directing the trafficking of VAMP2.
+0	NA	VAMP2	NA	INTRO	VAMP2 is a SNARE protein that plays a prominent role in the fusion of synaptic vesicles to the presynaptic membrane in neurotransmitter release, a process that is crucial to neuronal function.
+0	Alzheimer's disease	NA	NA	INTRO	AD brains show a reduced number of synapses and stereological and biochemical analysis has shown that this reduction in synaptic density correlates with cognitive defects better than the accumulation of plaques and tangles.
+0	Alzheimer's disease	NA	NA	INTRO	More recent analysis indicates synapses within AD brains may be dysfunctional even before they visibly degenerate.
+1	Alzheimer's disease	PICALM	NA	INTRO	Therefore, we can hypothesize that genetically directed changes in PICALM function result in perturbations at the synapse, possibly through synaptic vesicle cycling, thereby increasing risk for AD.
+1	Alzheimer's disease	PICALM	NA	INTRO	Alternatively, PICALM could influence risk of AD through APP processing via endocytic pathways resulting in changes in Abeta levels.
+0	NA	beta-amyloid (Abeta)	NA	INTRO	Cell culture experiments have shown that full length APP is retrieved from the cell surface by CME and inhibition of endocytosis reduces APP internalization and reduces Abeta production and release.
+0	NA	NA	NA	INTRO	Increased synaptic activity is known to lead to the elevated endocytosis of synaptic vesicle proteins and Cirrito et al.
+0	NA	beta-amyloid (Abeta)	NA	INTRO	have since provided evidence in vivo that the increased CME, triggered by increased synaptic activity, drives more APP into endocytotic compartments resulting in an increase of Abeta production and release.
+1	Alzheimer's disease	CLU	NA	INTRO	Thus, as for clusterin, the strong statistical evidence for the involvement of PICALM in AD has support in terms of biological plausibility
+1	NA	NA	rs11136000	INTRO	The power of the present study to detect loci of the effect sizes observed in the GWAS for rs11136000 and rs3851179 at a genome-wide significance level is 0.74 and 0.57, respectively.
+0	NA	NA	NA	INTRO	However, it is widely acknowledged that effect sizes of significant loci obtained from genome-wide studies are over-estimates of the true effects.
+1	NA	NA	rs11136000	INTRO	In the extension study, rs11136000 had an OR of 0.905, while rs3851179 had an OR of 0.897.
+0	NA	NA	NA	INTRO	Assuming that these better reflect the true effect sizes associated with these loci, the GWAS has power to detect genome-wide significant association of 0.026 and 0.041 respectively.
+0	NA	NA	NA	INTRO	Thus it is likely that there are other genes of similar effect sizes that did not reach genome-wide significance.
+0	NA	NA	NA	INTRO	Indeed, we observed many SNPs which, while failing to reach this stringent level of statistical significance, might still reflect true associations with disease, e.g.
+0	NA	CR1	NA	INTRO	variants at the CR1 locus, also highlighted by the results of Amouyel and colleagues (this issue).
+0	Type 2 diabetes	NA	NA	INTRO	As with other GWAS research into complex disorders, such as Type 2 diabetes where 18 susceptibility loci have now been confirmed through GWAS meta-analysis of 54,000 subjects, further larger GWAS are required to identify new susceptibility variants for AD
+0	Alzheimer's disease	NA	NA	METHODS	The study comprised a Stage 1 discovery sample of 4,957 AD cases and 9,682 controls and a Stage 2 follow-up sample of 2,023 AD cases and 2,340 controls.
+0	NA	NA	NA	METHODS	See the Supplementary note for a complete description of the study subjects
+0	NA	NA	NA	METHODS	Genotyping was performed at the Sanger Institute, UK.
+0	NA	NA	NA	METHODS	200ng of input DNA per sample were used and prepared for genotyping using the Illumina Infinium  system (Illumina  Inc., San Diego, CA, USA).
+0	NA	NA	NA	METHODS	Manufacturer's protocols were followed throughout.
+0	NA	NA	NA	METHODS	The Illuminus algorithm for cluster analysis was used for genotype calling
+0	Alzheimer's disease	NA	NA	METHODS	4,113 AD cases and 1,602 controls were genotyped on the Illumina 610-quad chip as part of this study (the 610 group).
+0	Alzheimer's disease	NA	NA	METHODS	In addition, 844 AD cases and 8,080 controls previously genotyped using either the Illumina HumanHap550 or Illumina HumanHap300 were included in the analysis.
+0	memory impairment	NA	NA	METHODS	These genotypes were generated as part of 7 different studies, making 8 separate groups in total: 1) 610; 2) Mayo; 3) 1958 birth cohort (Sanger); 4) 1958 birth cohort (T1DGC); 5) ALS control; 6) Coriell control; 7) Heinz Nixdorf Recall (HNR) study; 8) KORA F4.
+0	NA	NA	NA	METHODS	As we used genotype data from multiple sources, it was important to apply stringent QC filters, as differential genotyping error rates between groups could result in spurious associations when the data are combined.
+0	NA	NA	NA	METHODS	These filters were applied separately to each of these 8 groups to remove poorly performing samples using tools implemented in PLINK v1.05
+0	NA	NA	NA	METHODS	We removed 1,469 individuals with missing genotype rates > 0.01.
+0	NA	NA	NA	METHODS	We also applied a filter based on mean autosomal heterozygosity, excluding 578 individuals with values above or below empirically determined thresholds.
+0	NA	NA	NA	METHODS	71 individuals with inconsistencies between reported gender and genotype-determined gender and 22 individuals with ambiguous genotype-determined gender were removed.
+0	NA	NA	NA	METHODS	All individuals passing these QC filters were examined for potential genetic relatedness by calculating identity by descent (IBD) estimates for all possible pairs of individuals in PLINK, and removing one of each pair with an IBD estimate >= 0.125 (the level expected for first cousins).
+0	Hardy-Weinberg P	NA	NA	METHODS	IBD estimates were calculated using SNPs that were common to the Illumina 610, 550 and 300 chips with a genotype missing data rate <= 0.01, Hardy-Weinberg P >= 1x10-5 and a minor allele frequency >= 0.01.
+0	NA	NA	NA	METHODS	As a result, 506 individuals were excluded (note that this includes 311 individuals that were included in both the Coriell and ALS control group)
+0	NA	NA	NA	METHODS	We also sought to detect non-European ancestry.
+0	NA	NA	NA	METHODS	To this end, genotype data from SNPs typed in all cohorts was merged with genotypes at the same SNPs from 210 unrelated European (CEU), Asian (CHB and JPT) and Yoruban (YRI) samples from the HapMap project.
+0	NA	NA	NA	METHODS	Subsequent to removing SNPs in extensive regions of linkage disequilibrium (chr5:44-51.5 Mb; chr6: 25-33.5 Mb; chr8: 8-12 Mb; chr11: 45-57 Mb), we further pruned SNPs if any pair within a 50-SNP window had r2 > 0.2.
+0	IBS	NA	NA	METHODS	Genome-wide average identity by state (IBS) distance was calculated in PLINK between each pair of individuals in the resulting dataset, based on 57,966 SNPs (all with a genotype missing data rate <= 0.01, Hardy-Weinberg P >= 1x10-5 and a minor allele frequency >= 0.01).
+0	IBS	NA	NA	METHODS	The resulting matrix of IBS distances was used as input for classical multi-dimensional scaling (MDS) in R v2.7.1.
+0	NA	NA	NA	METHODS	When the first two dimensions were extracted and plotted against each other, three clusters were observed corresponding to the European, Asian and Yoruban samples.
+0	NA	NA	NA	METHODS	Sixteen samples appeared to be ethnic outliers from the European cluster and were excluded from further analysis
+0	NA	NA	NA	METHODS	We assessed population structure within the data using principal components analysis (PCA) as implemented in EIGENSTRAT to infer continuous axes of genetic variation.
+0	NA	NA	NA	METHODS	Eigenvectors were calculated based on the previously described LD-pruned subset of 57,966 SNPs common to all arrays.
+0	NA	NA	NA	METHODS	The EIGENSTRAT program also identifies genetic outliers, which are defined as individuals whose ancestry is at least 6 standard deviations from the mean on one of the top ten axes of variation.
+0	NA	NA	NA	METHODS	As a result, 188 outliers were identified and excluded.
+0	Alzheimer's disease	NA	NA	METHODS	Following sample QC 3,941 AD cases and 7,848 controls were included in the analysis
+0	Alzheimer's disease	NA	rs5984894	METHODS	Due to unresolved genotype-calling issues with a proportion of SNPs on the sex chromosomes, only autosomal SNPs were included in this analysis (with the exception of rs5984894, an X chromosome SNP that has previously been associated with AD by Carrasquillo et al.
+0	NA	NA	NA	METHODS	; see Supplementary Table 5).
+0	NA	NA	NA	METHODS	Individuals were genotyped on either the Illumina 610-quad as part of this project, or were previously genotyped on the Illumina HumanHap550 or the Illumina HumanHap300 array, and the genotypes made available to us.
+0	NA	NA	NA	METHODS	Note that SNPs had already been filtered out of some groups prior to inclusion in this study.
+0	NA	NA	NA	METHODS	Moreover, where different versions of the same array were used (e.g.
+0	NA	NA	NA	METHODS	HumanHap550v1 used to genotype the 1958 birth cohort (Sanger) cohort compared with the HumanHap550v3 array used to genotype the 1958 birth cohort (T1DGC)), only SNPs common to both versions were considered as present on that array.
+0	NA	NA	NA	METHODS	As such, SNPs included in our analysis fell into 4 different categories; 1) 266,714 SNPs common to all 3 arrays and genotyped in all individuals; 2) 202,516 SNPs common to the 610 and 550 arrays, but not present or without genotypes in individuals typed on the 300 array; 3) 7,744 SNPs common to the 610 and 300 arrays, but not present or without genotypes in individuals typed on the 550 array; 4) 105,614 SNPs with genotypes only in the 610 data
+0	Alzheimer's disease	NA	NA	METHODS	We assessed the effects of different missing data rate and Hardy-Weinberg filters, aiming to remove poorly performing SNPs without excluding markers that may show genuine association with AD.
+0	Hardy-Weinberg P	NA	NA	METHODS	For each of the 4 SNP categories, markers were excluded if they had a minor allele frequency (MAF) < 0.01 or a Hardy-Weinberg P <= 1x10-5, in either cases or controls.
+0	NA	NA	NA	METHODS	SNPs with a MAF >= 0.05 were excluded if they had a genotype missing rate of > 0.03 in either cases or controls; for SNPs with a MAF between 0.01 and 0.05, a more stringent genotype missing rate threshold of 0.01 was employed.
+0	NA	NA	NA	METHODS	As a result of this basic SNP QC 43,542 SNPs were excluded
+0	NA	NA	NA	METHODS	Ten principal components (PCs) were extracted using EIGENSTRAT, as previously described.
+0	Alzheimer's disease	NA	NA	METHODS	To determine if the PCs could assuage any population structure within our sample, we performed logistic regression tests of association with AD, sequentially including between 0 and 10 of the top PCs as covariates.
+0	NA	NA	NA	METHODS	The impact of including the PCs was evaluated by calculating the genomic control inflation factor, lambda.
+0	NA	NA	NA	METHODS	We found that including the first 4 PCs as covariates had the maximum impact on lambda
+0	inflation of type I error	NA	NA	METHODS	To minimize inter-chip and inter-cohort differences that could result in an inflation of type I error rate, minor allele frequencies were compared between controls in the different groups using logistic regression analysis, incorporating the top 4 PCs as covariates as previously described.
+0	NA	NA	NA	METHODS	Comparisons were only performed between individuals from the same geographical region (i.e.
+0	NA	NA	NA	METHODS	British Isles, Germany or USA).
+0	NA	NA	NA	METHODS	For each of the 4 categories of SNPs, a quantile-quantile (Q-Q) plot was produced for each cohort control comparison, and the significance threshold employed to exclude SNPs was based on where the observed chi2 statistics departed from the null expectation.
+0	NA	NA	NA	METHODS	A further 9,828 SNPs were excluded as a result of these comparisons.
+0	Alzheimer's disease	NA	NA	METHODS	Thus, a total of 529,218 autosomal SNPs were analyzed for association with AD in this study
+0	Alzheimer's disease	NA	NA	METHODS	SNPs were tested for association with AD using logistic regression, assuming an additive model.
+0	NA	NA	NA	METHODS	Covariates were included in the logistic regression analysis to allow for geographical region and chip, i.e.
+0	NA	NA	NA	METHODS	to distinguish between 1) individuals from the British Isles, 2) individuals from Germany, 3) individuals from the US typed on the 610 or 550 chip, 4) individuals from the US typed on the 300 chip.
+0	NA	NA	NA	METHODS	It was not possible to include a covariate for each chip as only controls were genotyped on the 550 chip.
+0	NA	NA	NA	METHODS	Similarly, it was not possible to include a covariate for each of the 8 groups, as only two included both cases and controls (610 and Mayo groups).
+0	NA	NA	NA	METHODS	The first 4 PCs extracted from EIGENSTRAT were also included as covariates, as previously described.
+0	NA	NA	NA	METHODS	Following analysis, 130 cluster plots were visually inspected for SNPs with a p-value <= 1x10-4.
+0	NA	NA	NA	METHODS	Thirteen SNPs showing poorly formed clusters were excluded.
+0	NA	NA	NA	METHODS	Thus our analysis was based on 529,205 SNPs, and a conservative genome-wide significance threshold of 0.05/529205 = 9.4x10-8 was employed.
+0	NA	NA	NA	METHODS	The overall genomic control inflation factor, lambda, was calculated to be 1.037.
+0	NA	NA	NA	METHODS	Population attributable risk (the expected reduction in disease load following removal of a risk factor) was calculated for GWS SNPs according to the formula: PAR = Fcon(OR-1)/[Fcon(OR-1)+1], where Fcon is the frequency of the risk allele in controls and OR is the odds ratio associated with the risk allele
+0	NA	NA	NA	METHODS	We assessed our results to determine if we observed more significant SNPs than would be expected by chance.
+0	NA	NA	NA	METHODS	We first removed SNPs within 500 kb either side of risk SNPs, i.e.
+1	NA	apolipoprotein E	rs429358	METHODS	rs429358 (the APOE epsilon4 SNP), rs11136000 (CLU) and rs3851179 (PICALM).
+1	NA	apolipoprotein E	NA	METHODS	"We thus excluded 170 ""APOE"" SNPs, 290 ""CLU"" SNPs and 257 ""PICALM"" SNPs."
+0	NA	NA	NA	METHODS	"Of the 528,448 remaining SNPs we estimated 397,224.7 ""independent"" tests using the algorithm we described in."
+1	NA	apolipoprotein E	NA	METHODS	"Of 16 SNPs significant at a significance level alpha=10-5 (excluding APOE, CLU and PICALM SNPs, see Table 2) we estimated 12.6 ""independent"" tests."
+0	NA	NA	NA	METHODS	We calculated the mean (N*alpha =397224.7*10-5   4.0) and variance (N*alpha*(1-alpha) = 3.97) of the expected number of significant tests at alpha=10-5 level using the binomial distribution.
+0	NA	NA	NA	METHODS	Thus the probability of observing 12.6 significant tests is P = 7.5x10-6
+0	NA	NA	NA	METHODS	We genotyped SNPs in cases and controls from 5 European cohorts (described in Supplementary Table 3).
+0	NA	NA	NA	METHODS	Putative functional SNPs were identified using PupaSuite.
+0	NA	NA	NA	METHODS	Genotyping was performed at Cardiff using the MassARRAY and iPlexGOLD systems (Sequenom, San Diego, CA) according to manufacturer's recommendations.
+0	NA	NA	NA	METHODS	All genotyped SNPs had genotype call frequency rates >90% in the follow-up sample, and no SNPs had HWE P-value <= 0.05 in cases or controls.
+0	Alzheimer's disease	NA	NA	METHODS	SNPs were tested for association with AD using logistic regression, assuming an additive model.
+0	NA	NA	NA	METHODS	Covariates were included in the logistic regression analysis to allow for each cohort, i.e.
+0	NA	MRC, 3) ART, 4	NA	METHODS	1) Belgium, 2) MRC, 3) ART, 4) Bonn, 5) Greek
+1	NA	CLU	NA	METHODS	We included genotype data from stages 1 and 2 in a meta-analysis for SNPs at the CLU and PICALM loci.
+0	NA	NA	NA	METHODS	In addition, we employed genotype data from the TGEN study and the Li et al.
+0	Alzheimer's disease	NA	NA	METHODS	study, two publicly available AD GWAS datasets.
+0	Alzheimer's disease	NA	NA	METHODS	The TGEN sample is comprised of 861 AD cases and 550 controls genotyped on the Affymetrix 500K chip.
+0	NA	NA	NA	METHODS	The Li et al.
+0	Alzheimer's disease	NA	NA	METHODS	discovery sample is comprised of 753 AD cases and 736 controls also genotyped on the Affymetrix 500K chip.
+0	NA	NA	NA	METHODS	If a SNP of interest was not genotyped in our GWAS or the TGEN dataset, an attempt was made to impute genotypes in PLINK, using the 60 HapMap CEU founders as a reference panel.
+0	NA	NA	NA	METHODS	Only imputed SNPs with an information content metric value greater than 0.8 were included in analysis (see PLINK website).
+0	NA	NA	NA	METHODS	Individual level data were not available for the Li study and so SNPs could not be imputed.
+0	Alzheimer's disease	NA	NA	METHODS	Where individual level data was available, SNPs were tested for association with AD using logistic regression, assuming an additive model.
+0	NA	NA	NA	METHODS	Covariates were included in the logistic regression analysis to allow for geographical region and chip as in Stage 1 and for cohort as in Stage 2.
+0	NA	NA	NA	METHODS	Covariates included for the TGEN sample distinguished between samples from the Netherlands Brain Bank and samples from the USA.
+0	NA	NA	NA	METHODS	Meta-analyses incorporating data from the Li et al.
+0	NA	NA	NA	METHODS	study are based on Mantel-Haenzsel chi2 tests.
+0	NA	NA	NA	METHODS	Results of the meta-analysis are shown in Table 1 and Supplementary Table 4
+0	NA	NA	NA	METHODS	We also tested the GWS SNPs for relationships with age at onset (AAO).
+0	NA	NA	NA	METHODS	To this end, age at onset (in years) was employed as the dependent variable in a linear regression analysis and an additive model was assumed.
+0	Alzheimer's disease	NA	NA	METHODS	AAO data was available for 2,856 AD cases.
+0	NA	NA	NA	METHODS	Covariates were included in the logistic regression analysis to allow for geographical region and chip, i.e.
+0	NA	NA	NA	METHODS	to distinguish between 1) cases from the British Isles, 2) cases from Germany, 3) cases from the US typed on the 610 chip, 4) cases from the US typed on the 300 chip
+1	NA	apolipoprotein E	NA	METHODS	In addition, we stratified our sample based on presence/absence of at least 1 APOE epsilon4 allele.
+1	Alzheimer's disease	apolipoprotein E	NA	METHODS	We had APOE genotype data for 6045 individuals; our epsilon4-positive sample consisted of 2,203 AD cases and 632 controls; our epsilon4-negative sample consisted of 1,446 cases and 1,764 controls.
+0	Alzheimer's disease	NA	NA	METHODS	We performed genome-wide tests for association with AD in each sub-sample, but no SNP achieved genome-wide significance (see Supplementary Tables 6 and 7)
+0	NA	NA	NA	METHODS	The GWAS data will be made available to bona fide researchers within 6 months (contact the corresponding authors for access)
+0	NA	NA	NA	FIG	Scatterplot of chromosomal position (x-axis) against -log 10 GWAS P-value (y-axis).
+1	NA	apolipoprotein E	NA	FIG	The y-axis scale has been limited to 9.25 (p = 5.6x10-10), although highly significant association was observed with SNPs in the vicinity of the APOE locus (e.g.
+1	NA	NA	rs2075650	FIG	rs2075650 with p = 1.8x10-157).
+0	NA	NA	NA	FIG	The threshold for genome-wide significance (p <= 9.4x10-8) is indicated by the red horizontal line.
+0	NA	NA	NA	FIG	761 SNPs with p <= 1x10-3 lie above the blue horizontal line and are listed in Supplementary Table 2.
+0	NA	NA	NA	FIG	The plot was produced using Haploview v4.0
+0	Alzheimer's disease	NA	NA	TABLE	SNPs showing genome-wide significant association with AD in stage 1 of the GWAS.
+1	NA	apolipoprotein E	NA	TABLE	5 of the13 genome-wide significant SNPs at the APOE locus are shown (see Supplementary Table 2 for the complete list).
+1	NA	apolipoprotein E	NA	TABLE	P-values in the extension sample and the combined sample are also shown for the two SNPs unlinked to the APOE locus (highlighted in bold)
+1	Alzheimer's disease	apolipoprotein E	NA	TABLE	SNPs showing association with AD at P<= 1x10-5 (excluding SNPs at the APOE, CLU and PICALM loci)

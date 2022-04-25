@@ -1,0 +1,185 @@
+0	NA	NA	NA	ABSTRACT	Many elderly individuals remain dementia-free throughout their life.
+0	Alzheimer's disease	NA	NA	ABSTRACT	However, some of these individuals exhibit Alzheimer disease neuropathology on autopsy, evidenced by neurofibrillary tangles (NFTs) in AD-specific brain regions.
+0	NA	NA	NA	ABSTRACT	We conducted a genome-wide association study to identify genetic mechanisms that distinguish non-demented elderly with a heavy NFT burden from those with a low NFT burden.
+0	NA	NA	NA	ABSTRACT	The study included 344 non-demented subjects with autopsy (201 subjects with low and 143 with high NFT levels).
+0	NA	NA	NA	ABSTRACT	Both a genotype test, using logistic regression, and an allele test provided genome-wide significant evidence that variants in the RELNgene are associated with neuropathology in the context of cognitive health.
+0	NA	reelin	NA	ABSTRACT	Immunohistochemical data for reelin expression in AD-related brain regions added support for these findings.
+0	NA	reelin	NA	ABSTRACT	Reelin signaling pathways modulate phosphorylation of tau, the major component of NFTs, either directly or through beta-amyloid pathways that influence tau phosphorylation.
+0	Alzheimer's disease	reelin	NA	ABSTRACT	Our findings suggest that up-regulation of reelin may be a compensatory response to tau-related or beta-amyloid stress associated with AD even prior to the onset of dementia
+0	Alzheimer's disease	NA	NA	INTRO	Prevalence rates for Alzheimer disease (AD) climb steadily from ~1% in 65-year-olds to as high as 40% by the age of 85.
+0	NA	NA	NA	INTRO	Despite these dire figures, some elderly individuals remain dementia-free throughout their life and, of these, a proportion exhibit substantial AD neuropathology, in the form of amyloid plaques and neurofibrillary tangles (NFTs),at autopsy,.Thus, individuals differ in their capacity to maintain normative cognitive function even within the context of neuropathological structural changes associated with AD
+0	NA	NA	NA	INTRO	There are a number of ways in which genetic mechanisms might promote cognitive health.
+0	cognitive defects	NA	NA	INTRO	On one hand, genetic variants may prevent development of the neuropathological substrate that underlies susceptibility to cognitive dysfunction.
+0	NA	NA	NA	INTRO	Alternatively, in the presence of neuropathology, genetic variants may mitigate the effects of AD-related lesions that otherwise result in cognitive decline.
+0	NA	NA	NA	INTRO	The first case provides greater guarantee of cognitive health.
+0	Alzheimer's disease	NA	NA	INTRO	Thus, it is important to identify genetic variants associated with development of AD neuropathology within the context of cognitive resilience
+0	NA	NA	NA	INTRO	We conducted a genome-wide SNP association study (GWAS) to identify genetic mechanisms involved in healthy brain aging.
+0	Alzheimer's disease	NA	NA	INTRO	This study was based on a sample of non-demented, deceased subjects with autopsy who were members of longitudinal healthy aging cohorts at 10 NIA-funded Alzheimer Disease Centers (ADC).
+0	NA	NA	NA	INTRO	These subjects comprised one group with little or no evidence of NFT formation, and one with substantial or severe levels of NFT formation in critical brain regions.
+0	NA	reelin	NA	INTRO	We report results that implicate variants in the glycoprotein reelin (RELN)as key elements in the molecular basis of AD-related neuropathological processes.
+0	NA	reelin	NA	INTRO	We provide additional support for these statistical findings with immunohistochemical data for reelin expression in AD-related brain regions in a subset of our study subjects.
+0	Alzheimer's disease	NA	NA	INTRO	To our knowledge, this is the first GWAS that specifically addresses genetic mechanisms of AD neuropathology in non-demented elderly with post-mortem examinations
+0	NA	NA	NA	METHODS	Subjects were recruited from aging research cohorts collected over the last two decades at 10 NIA-funded ADCs across the country.
+0	dementia	NA	NA	METHODS	"Eligibility criteria included the following: 1) >=65 years old at enrollment; 2) deceased, with autopsy; 3) clinical diagnosis of ""no dementia"" at enrollment and death; 4) >=1 clinical evaluation within the year before death; 5) DNA available; 6) Caucasian ancestry."
+0	NA	NA	NA	METHODS	A total of 412 subjects met initial criteria.
+0	NA	NA	NA	METHODS	All subjects had been previously genotyped for apolipoproteinE (APOE ) status and these data were provided by the respective ADC Data Cores.
+0	NA	NA	NA	METHODS	The study was approved by the IRB at OHSU
+0	Alzheimer's disease	NA	NA	METHODS	One of the hallmarks of AD is the occurrence of NFTs in limbic and neocortical regions of the brain.
+0	Alzheimer's disease	NA	NA	METHODS	The Braak score is a measure of the location and frequency of NFTs and is key to establishing the pathologic diagnosis of AD.
+0	NA	NA	NA	METHODS	Braak scores (BS) range from 0 (no NFTs) to 6 (NFTs in primary motor and/or sensory neocortex), and were obtained for all subjects from the ADC Clinical Data Cores
+0	NA	NA	NA	METHODS	If the Braak score and information in the autopsy report were consistent with low NFT levels, the subject was classified as LOBraak (n=189)
+0	NA	NA	NA	METHODS	If the Braak score and information in the autopsy were consistent with high NFT levels, the subject was classified as HIBraak (n=110)
+0	NA	NA	NA	METHODS	If the Braak score and autopsy information were at odds with respect to classification of LO or HI NFT burden, preference was given to the autopsy (n=12)
+0	NA	NA	NA	METHODS	If the Braak score and autopsy information agreed with a Braak score of 3, the subjects was classified as MEDBraak (n= 80); furthermore, if the BS was 2, 3 or 4, but the autopsy report lacked sufficient detail to confirm these scores, the subject was also classified as MEDBraak (n=21).In order to maximize phenotypic homogeneity between groups, and thus increase power, we excluded this group from the initial analysis
+0	NA	NA	NA	METHODS	We classified subjects on the basis of NFT burden to obtain subsets of individuals for analysis.
+0	NA	NA	NA	METHODS	Autopsy reports were reviewed for consistency with the Braak score provided in the data files from each ADC by a 3-member team including a neuropathologist (RW), a neurologist (JK) and a geneticist (PK).
+0	NA	NA	NA	METHODS	Subjects were classified into three groups: LOBraak (<=2), MEDBraak and HIBraak (>=4):
+0	NA	NA	NA	METHODS	The final sample consisted of 311 subjects (192 LOBraak, 119HIBraak)
+0	cognitive defects	NA	NA	METHODS	All study subjects were deceased and had been evaluated for cognitive decline and dementia within 12 months prior to death.
+0	dementia	NA	NA	METHODS	Assessments for determining absence of dementia were consistent with standardized protocols in the DSM-III-R
+0	cognitive defects	NA	NA	METHODS	To minimize the extent of any cognitive impairment in the two groups, we obtained longitudinal clinical data for all subjects, consisting of Clinical Dementia Rating (CDR) scores and/or Mini-Mental State Exam (MMSE) scores, from the time of enrollment until death.
+0	dementia	NA	NA	METHODS	The CDR is a dementia staging-tool in which a score of 0 represents no cognitive impairment, .5 may represent some cognitive impairment, and a score>=1 represents dementia; MMSE scores>=26are generally indicative of no dementia
+0	NA	NA	NA	METHODS	Longitudinal CDR scores were available for 143 of the 311 subjects.
+0	NA	NA	NA	METHODS	Of these, 120 (84%) had no CDR scores>0; 23(16%) had one CDR of .5 at some point during participation.
+0	NA	NA	NA	METHODS	Among these 23, 15 were in the LO Braak and 8 in the HIBraak group.
+0	NA	NA	NA	METHODS	In the majority of these 23 subjects - 11 in the LO and 5 in the HI Braak group - the CDR of .5 occurred at some point prior to the last evaluation and was followed by CDRs of 0 in subsequent evaluations.
+0	NA	NA	NA	METHODS	Longitudinal MMSE scores were available for the remaining 168 subjects.
+0	NA	NA	NA	METHODS	All had MMSE >= 26 at death (mean = 28.3; sd = 1.3)
+0	NA	NA	NA	METHODS	DNA was extracted from blood in 91 of the 311 subjects, using standard procedures.
+0	NA	NA	NA	METHODS	For the remaining 220 subjects, DNA was extracted from frozen brain tissue.
+0	NA	NA	NA	METHODS	Genomic DNA was extracted from 100 mg of brain tissue using the Wizard Genomic DNA Purification Kit according to the manufacturer (Promega,Inc.).
+0	NA	NA	NA	METHODS	DNA quality and concentration were determined using a Biomate-3 spectrophotometer
+0	NA	NA	NA	METHODS	Genotyping was performed by deCODE Genetics (Reykjavik, Iceland).
+0	NA	NA	NA	METHODS	Genotypes were obtained using the Illumina HumanCNV370v1_C array from 750 ng of genomic DNA following manufacturer's protocols (Illumina, Inc.).
+0	NA	NA	NA	METHODS	Illumina's BeadStudio3.1.14 genotyping module was used to cluster, call genotypes, and assign confidence scores
+0	NA	NA	NA	METHODS	We included only individuals with a missing genotype rate < 20%.
+0	NA	NA	NA	METHODS	Specifically, three individuals had missing rates of 19, 18 and 16%, and all others had rates < 2%.
+0	NA	NA	NA	METHODS	Since SNPs with low call rates may inflate association statistics, only autosomal SNPs (n=334,221) with call rates >= 99% across the entire sample were used (21387 SNPs excluded due to low call rates).
+0	NA	NA	NA	METHODS	Only SNPs with a minor allele frequency (MAF) > 0.05 in cases and controls were included (20,730 SNPs excluded for low MAF).
+0	NA	NA	NA	METHODS	We also required absence of strong deviation from Hardy-Weinberg equilibrium (HWE) in controls; specifically, likelihood ratio chi2< 50, corresponding to a nominal p-value of 1.54 x 10-12.
+0	NA	NA	NA	METHODS	This threshold was chosen so that SNPs with only the most extreme deviations from HWE would be deleted (30 SNPs excluded for deviation from HWE).
+0	NA	NA	NA	METHODS	As a result of these quality control measures, a total of 292,074 SNPs were used in this analysis
+0	NA	NA	NA	METHODS	Two different methods were used to test for the association between SNPs and the phenotype --association at the genotype and at the allele level.
+0	NA	NA	NA	METHODS	The former was carried out via logistic regression analysis with covariates and the latter with the Set Association approach without covariates.
+0	NA	NA	NA	METHODS	We tested the effect of putative non-genetic risk factors on the phenotype, and found that sex and age-at-death had a significant impact.
+0	NA	NA	NA	METHODS	"Thus in the logistic regression approach, genotypes at a given SNP (a categorical variable), sex (a categorical variable) and age of death (a continuous variable) were included as independent variables, and the Braak score category, HI (""case"") vs."
+0	NA	NA	NA	METHODS	"LO (""control""), as the dependent variable."
+0	NA	NA	NA	METHODS	The fitting of a general linear model (binomial family in this case) was conducted in R (http://cran.cnr.berkeley.edu/web/packages/qvalue/index.html).
+0	NA	NA	NA	METHODS	For the two degrees of freedom associated with the genotypes at a given SNP, logistic regression furnished two p-values.
+0	NA	NA	NA	METHODS	To obtain a single significance level for one variant, these two (independent) p-values were combined into one with the unweighted Z transform method
+0	NA	NA	NA	METHODS	We chose agenotypic model because it is a general model, and is sensitive to different types of association.
+0	NA	NA	NA	METHODS	It is also ideally suited for logistic regression analysis, in which we allow for the total effects of genotypes and non-genetic factors, the latter of which act on individuals (i.e., genotypes) rather than alleles.
+0	NA	NA	NA	METHODS	Since the logistic regression result is most robust when all three possible genotypes are represented in both comparison groups, we only included SNPs in which this was the case; of the 292,074 SNPs which passed quality control measures described above, 12,163 were excluded because there were < 3 genotype classes in the HI Braak and/or LO Braak groups.
+0	NA	NA	NA	METHODS	Thus, the total number of SNPs in the logistic regression analysis was 279,911.
+0	NA	NA	NA	METHODS	To assess the association of SNP alleles with our phenotype, we initially carried out 1 df chi-square tests in 2 x 2 tables of alleles for each of the 279,911 SNPs and constructed a Q-Q plot for the resulting chi-square values using the Systat 12 statistics package (http://www.systat.com/).In Set Association analysis, we evaluated the combined effects of multiple SNPs.
+0	NA	NA	NA	METHODS	The combined association of a given number of SNPs (wherever they are in the genome) was measured by the sum of their corresponding test statistics (1 df chi-squares).
+0	NA	NA	NA	METHODS	We focused on the most significant m SNPs, with m ranging successively from 1 through 15.
+0	NA	NA	NA	METHODS	Significance levels for each such sum were evaluated with permutation analysis, and the smallest p-value for these sums was taken as the genome-wide test statistic, whose significance level was again evaluated in randomization samples.
+0	NA	NA	NA	METHODS	This approach represents an approximation to multivariate analysis and, thus, assesses the joint effects of the most significant SNPs on disease association.
+0	NA	NA	NA	METHODS	In this analysis, the sumstat program was used with 20,000 randomization samples per run (http://linkage.rockefeller.edu/ott/sumstat.html)
+0	IBS	NA	NA	METHODS	We used the agglomerative clustering method based on identity by state (IBS), as implemented in PLINK v1.05 (http://pngu.mgh.harvard.edu/~purcell/plink/) to test for population stratification in our data
+0	NA	NA	NA	METHODS	For particular SNPs of interest, we conducted a post-hoc analysis in which allelic association to the phenotype was tested with a likelihood ratio(LR) chi-square test, and the odds ratio(OR) was calculated with a 95% confidence interval (CI)
+0	NA	reelin	NA	METHODS	Immunohistochemistry for reelin expression was performed on cases with autopsy performed at OHSU and for which the postmortem interval was less than 24 hours.
+0	NA	reelin	NA	METHODS	Brains were fixed in neutral-buffered formaldehyde solution for at least 2 weeks and fixed hippocampal sections were processed in paraffin 7-mum sections, deparaffinized, subjected to standard antigen retrieval techniques (5 minute treatment at room temperature with 95% formic acid, followed by incubation at 85-90  C in citrate buffer, pH 6.0 for 30 min) and stained with antibody to reelin (Santa Cruz Biotechnology, Santa Cruz, CA, antibody H221 used at 1:200 dilution).
+0	NA	NA	NA	METHODS	Sections were developed using the Vectastain ABC technique (Vector Laboratories, Burlingame, CA).
+0	NA	reelin	NA	METHODS	Reelin staining of pyramidal neurons was evaluated in CA1-4 regions of the hippocampus and in subiculum by a neuropathologist (RLW) who was blinded to case status.
+0	NA	reelin	NA	METHODS	A semiquantitative score was assigned to reelin positivity in pyramidal neurons in each hippocampal sector (0=no detectable reelin staining, 1=cytoplasmic blush staining detectable at 40x magnification, 2=clear cytoplasmic staining identifiable at 10x magnification, 3=pyramidal neurons identified as strong band of cytoplasmic staining visible at 4x magnification.
+0	NA	reelin	NA	METHODS	Total reelin staining was calculated as the sum of the score in each region of hippocampus
+0	NA	NA	NA	RESULTS	Sample characteristics of the two groups are provided in Table 1.
+0	NA	NA	NA	RESULTS	The proportion of females is increased in the HIBraak group, and the difference is significant (p=0.019).
+0	NA	NA	NA	RESULTS	Subjects in the HIBraak category were significantly older at death than those in the LOBraak group (p<.0001); thus, we incorporated both gender and age-at-death as covariates.
+0	NA	NA	NA	RESULTS	APOE allele frequencies(based on pre-determined APOE genotypes) did not differ significantly between groups (p=.556), nor did education level (p=.544)
+0	NA	NA	NA	RESULTS	The distribution of neuritic plaque density was different between groups (p<0.0001).
+0	NA	NA	NA	RESULTS	"Only 28% of subjects in the LOBraak category had ""frequent"" or ""moderate"" plaques, compared to 68% in the HI category."
+0	NA	NA	NA	RESULTS	Hence, although Braak score was used to stratify groups by AD-associated neuropathological features, stratification by neuritic plaque burden also occurred
+0	IBS	NA	NA	RESULTS	Results of the test for population stratification indicated that all subjects were assigned to the same cluster, and there was no significant difference between pair-wise IBS distances in the LO and HI Braak groups.
+0	NA	NA	NA	RESULTS	Thus, we detected no evidence for population stratification
+0	NA	NA	rs4298437	RESULTS	Allelic association for one SNP at a time resulted in one SNP, rs4298437 on chromosome 7, showing a Bonferroni-corrected significance level of p = 0.0341.
+0	NA	NA	NA	RESULTS	Results for the ten SNPs with lowest p-values are shown in Table 2.
+0	NA	NA	NA	RESULTS	The Q-Q plot in Figure 1 for all 279,911 SNPs demonstrates that most of the chi-square values perfectly follow theoretically expected values, thus confirming the conclusion of absence of population stratification.
+0	NA	NA	NA	RESULTS	The plot also shows that at least ten SNPs have elevated test statistics
+0	NA	NA	NA	RESULTS	In the Set Association analysis, the sum of chi-squares for SNPs (Table 2; pSum) ranked 1-8 exhibited the smallest significance level, pmin = 0.0273.
+0	Alzheimer's disease	NA	NA	RESULTS	This analysis indicated that approximately eight SNPs jointly contribute to AD neuropathology although this conclusion is only marginally significant (the significance level associated with pmin, corrected for testing 15 sums, was p = 0.0577).
+0	NA	NA	NA	RESULTS	Nonetheless, this result confirms an analogous conclusion based on the QQ plot.
+0	NA	NA	NA	RESULTS	For the ten largest chi-square values, Table 2 also shows p-values based on permutation tests (pRand) but these values are close to those obtained by Bonferroni correction for multiple testing, which indicates that test results for the 279,911 SNPs are largely independent
+0	NA	NA	NA	RESULTS	For the logistic regression controlling for age of death and sex, the genome-wide distribution of all SNPs and their regression p-values are presented in Figure 2.
+0	Alzheimer's disease	reelin	rs4298437	RESULTS	The ten SNPs with the lowest p-values for an association with the AD neuropathology phenotype are listed in Table 3.Two of the three most significant SNPs, rs4298437 and rs6943822, are in reelin (RELN); the p-value for rs4298437 reached genome-wide significance with the conservative Bonferroni correction (p = .0162).
+0	NA	reelin	NA	RESULTS	Both reelin SNPs are located in the 5'end of the gene
+0	NA	reelin	NA	RESULTS	In the post-hoc analysis both reelin SNPs showed highly significant allelic association with the phenotype, as shown in Table 4.
+0	NA	NA	rs4298437	RESULTS	Alleles associated with the HIBraak group are the A allele of rs4298437 (OR=2.51), and the A allele of rs6943822 (OR=2.23)
+0	NA	NA	NA	RESULTS	The overlap between the results of the allelic association test and the logistic regression analysis was minimal; three of the most significant SNPs in the former were included among the most significant SNPs in the latter.
+0	NA	NA	NA	RESULTS	We attribute two reasons to this apparent discrepancy.
+0	NA	NA	NA	RESULTS	First, we incorporated age-at-death and sex as covariates in the logistic regression analysis, whereas the allele test was carried out without inclusion of covariates.
+0	NA	NA	NA	RESULTS	Also, the allele test may be less powerful than the genotype test.
+0	NA	reelin	rs4298437	RESULTS	In spite of these differences, the prominent feature of this analysis is that the RELN SNP rs4298437 is the most significant SNP in both the allele and the genotype (with covariates) tests, with genome-wide significant Bonferroni-corrected p-values of .0341 and .0162, respectively; furthermore, in both tests, a second RELN SNP, rs6943822, is the third most significant SNP
+0	NA	NA	NA	RESULTS	At the outset of this study, we excluded 101 subjects with mid-range (MED) Braak scores in order to maximize phenotypic differences between groups and avoid potential confounding effects of including subjects in this transitional category.
+0	NA	reelin	rs4298437	RESULTS	Following the analysis, we examined the frequency of the RELN genotypes in rs4298437 and rs6943822 in this group of subjects.
+0	NA	NA	NA	RESULTS	As indicated in Table 5, frequencies for both SNPs in the MED Braak subjects were intermediate between those of the LO and HI Braak subjects.
+0	NA	NA	NA	RESULTS	This substantiates our approach of using extreme phenotypes rather than introducing the potential confounding effect of choosing an arbitrary midrange value for dichotomizing groups
+0	Alzheimer's disease	NA	NA	RESULTS	Despite differences in AD neuropathology, there was no significant difference between HI and LO Braak subjects with respect to the frequency of the APOEepsilon4 allele (Table 1).
+0	Alzheimer's disease	NA	NA	RESULTS	This lack of association between the epsilon4 allele and high levels of AD neuropathology may be related to the advanced age of these subjects (mean age at death in the HI Braak group = 87.8 years; Table 1).
+0	Alzheimer's disease	NA	NA	RESULTS	This would be consistent with a number of studies that suggest that the positive association between APOEepsilon4 and AD declines after the age of 85 years.
+0	NA	reelin	NA	RESULTS	In order to further validate this finding, we examined the frequency of APOEepsilon4 carriers (at least one epsilon4 allele) vs. non-carriers among the three genotypes for both RELN SNPs.
+0	NA	NA	rs6943822	RESULTS	As shown in Table 6, there were no significant differences in the frequency of epsilon4 carriers and non-carriers across SNP genotypes for rs6943822 (p = .50) or rs4298437 (p = .13)
+0	NA	reelin	NA	RESULTS	Reelin immunohistochemistry was performed on hippocampal sections from 19 (10 from the HI and 9 from the LO Braak group) subjects.
+0	Alzheimer's disease	reelin	NA	RESULTS	Immunohistochemical staining for reelin was also performed on hippocampi from four subjects with clinical and neuropathological diagnoses of AD (Braak stage VI with moderate to frequent neuritic plaques).
+0	NA	reelin	NA	RESULTS	In general, reelin expression was confined to pyramidal neurons where it was present as variably intense cytoplasmic staining with highest expression in theCA2/3 sector of the hippocampus as previously described.
+0	Alzheimer's disease	reelin	NA	RESULTS	Reelin expression tended to be very pronounced in AD with strong staining encountered especially in regions with many neurons undergoing granulovacuolar degeneration (GVD), a cytoplasmic feature associated with AD (Figure 3, top).
+0	neuronal loss	reelin	NA	RESULTS	Neurons with mild to moderate GVD in particular tended to have strong cytoplasmic reelin expression; granules and vacuoles themselves did not contain reelin and neurons with marked GVD tended to express less reelin due to extensive degeneration in general and to replacement of cytoplasmic with vacuolar lesions in particular.
+0	NA	reelin	NA	RESULTS	Reelin staining of neurofibrillary tangles and neuritic plaques was not conspicuous
+0	Alzheimer's disease	reelin	NA	RESULTS	In contrast, cognitively intact subjects in the LO Braak group tended to have lower reelin expression in the hippocampus , whereas reelin expression in the HI Braak group was similar to that observed in AD hippocampi.
+0	Alzheimer's disease	reelin	NA	RESULTS	Hippocampal pyramidal neurons in both the LO and HI Braak groups displayed less GVD than in AD, but the tendency for increased reelin expression in the HI Braak group was still notable in neurons in which GVD was not present or was present to only a very limited extent (Figure 3, bottom)
+0	NA	reelin	NA	RESULTS	Total reelin expression was quantified as described in Methods.
+0	NA	NA	rs4298437	RESULTS	In both HI and LO Braak categories, subjects were stratified by two-SNP genotypes for rs4298437 and rs6943822.
+0	NA	reelin	NA	RESULTS	Total hippocampal reelin expression was significantly reduced in the LO Braak group (p = 0.025; Figure 4).
+0	NA	reelin	NA	RESULTS	In addition, when the LO and HI Braak groups were combined, there was a suggestion of an association between GG homozygotes (for either or both reelin SNPs) and reduced reelin expression, although this trend did not reach statistical significance (p = 0.096)
+0	Alzheimer's disease	reelin	NA	DISCUSS	We identified variants in the RELN gene that are significantly associated with AD neuropathology in cognitively healthy elderly individuals.
+0	NA	reelin	NA	DISCUSS	Analysis of allelic association in two SNPs in RELN generated significant ORs, ranging from 2.23-2.51, for the alleles associated with the HIBraak category.
+0	Alzheimer's disease	RELN	NA	DISCUSS	A significant association with SNPs in RELN was also identified in a study of female AD patients.
+0	NA	reelin	NA	DISCUSS	The region of RELN we found associated with NFT pathology and the region found in are both near promoter elements, which have been postulated to play a role in hypermethylation and therefore modification in expression of this gene
+0	NA	reelin	NA	DISCUSS	Reelin is an extracellular matrix glycoprotein, encoded by the RELN gene, which is secreted throughout the CNS and is important in neuronal development.It is a ligand for at least three classes of cell membrane receptors involved in actin cytoskeleton regulation/reorganization and in tau phosphorylation.
+0	NA	microtubule-associated protein	NA	DISCUSS	Tau is a microtubule-associated protein abundant in neurons and the primary component of NFTs.
+0	NA	reelin	NA	DISCUSS	Normal reelin levels are necessary to prevent abnormal phosphorylation of tau.
+0	NA	reelin	NA	DISCUSS	Reelin is also associated with plaques in beta-amyloid precursor protein/presenilin-1 double-transgenic mouse brains.
+0	NA	reelin	NA	DISCUSS	A recent report indicates a role for reelin in protecting against beta-amyloid-induced suppression of long-term potentiation and NMDA receptors.
+0	Alzheimer's disease	reelin	NA	DISCUSS	Thus, reelin may play key roles in AD pathology both extracellularly with its involvement in plaques and intracellularly via inhibition of tau phosphorylation.
+0	Alzheimer's disease	reelin	NA	DISCUSS	Since tau phosphorylation is a key step in the formation of NFTs, our finding of an association between RELN polymorphisms and high levels of AD neuropathology is compelling.
+0	Alzheimer's disease	reelin	NA	DISCUSS	We note that the two RELN SNPs found to be associated with high levels of AD pathology in this study are probably not the actual functional SNPs in this regard, but instead are in strong linkage disequilibrium with other causative variants yet to be identified
+0	Alzheimer's disease	HDAC4	NA	DISCUSS	Evidence for direct involvement in pathways related to AD neuropathology is less apparent for other genes listed in Tables 2 and 3, with the exception of the histone deacetylase (HDAC) gene HDAC4.
+0	neurodegenerative disease	NA	NA	DISCUSS	HDAC activities have been linked to neurodegenerative disorders and recently been shown to restore cognition in AD transgenic mice.
+0	NA	SLC5A9	NA	DISCUSS	Possible roles for a sodium/glucose transporter, SLC5A9, or a transmembrane protein, TMEM65, are also conceivable.
+0	NA	NA	NA	DISCUSS	Variants in these genes, or others represented in the tables, may function in as yet unknown ways to either prevent or promote the formation of NFTs and/or amyloid plaques
+0	Alzheimer's disease	reelin	NA	DISCUSS	Our discovery of increased expression of reelin in pyramidal neurons of the hippocampus in AD and in cognitively intact controls with AD-associated pathology suggests that up-regulation of reelin may be a compensatory response to beta-amyloid or tau-related stress associated with AD even prior to the onset of dementia.
+0	NA	reelin	NA	DISCUSS	If so, polymorphisms in RELN may influence the capacity for up-regulation in affected neuronal populations and thereby exert effects on cognitive reserve in the context of AD-associated stressors and pathologic lesions
+0	NA	NA	NA	DISCUSS	The purpose of this study was to identify genetic variants that distinguish cognitively healthy, elderly individuals with a heavy NFT burden from those with minimal NFT burden.
+0	NA	NA	NA	DISCUSS	The former group also had a significantly greater amyloid plaque burden than the latter.
+0	NA	NA	NA	DISCUSS	There are three broad mechanisms whereby genetic variants could mediate NFT burden in cognitively healthy individuals.
+0	NA	NA	NA	DISCUSS	They could act directly through pathways related to tau, indirectly through pathways related to beta-amyloid pathology (which, in turn influences tau), or through other mechanisms that affect brain reserve (e.g., neuronal or synaptic plasticity).
+0	NA	reelin	NA	DISCUSS	One interpretation of this study is that genetic variants in RELN result in perturbations associated with the development of NFTs (and amyloid plaques).
+0	cognitive defects	NA	NA	DISCUSS	Since these subjects were cognitively healthy, the implication is that other genetic variants and/or environmental factors are required for the development of cognitive dysfunction
+0	Alzheimer's disease	NA	NA	DISCUSS	This is the first GWAS that specifically addresses genetic differences related to AD neuropathology in clinically non-demented elderly.
+0	Alzheimer's disease	NA	NA	DISCUSS	This is important because these individuals are traditionally used as control subjects in case-control studies of AD, under the assumption that, as a group, they are free of genetic factors related to AD pathophysiology.
+0	Alzheimer's disease	NA	NA	DISCUSS	If, as this analysis suggests, a proportion of clinically non-demented individuals harbor genetic variants that predispose them to the underlying neuropathology that characterizes AD, including them in a control group will likely confound the results of genetic case-control studies
+0	NA	NA	NA	DISCUSS	These findings require replication in larger datasets with comparable phenotypes.
+0	NA	NA	NA	DISCUSS	Well-characterized, non-demented elderly with autopsy are difficult to obtain.
+0	Alzheimer's disease	NA	NA	DISCUSS	The NIH is sponsoring the AD Genetics Consortium to assemble and analyze a comprehensive collection of AD cases and controls representing the collective resources of the AD research community.
+0	NA	NA	NA	DISCUSS	This collection will provide an outstanding opportunity for confirmation and expansion of the results reported here
+0	NA	NA	NA	FIG	Q-Q plot based on nominal p-values resulting from the allelic association tes
+0	NA	NA	NA	FIG	Manhattan plot showing the distribution of analyzed SNPs and their corresponding genotypic association p-values from logistic regression.
+0	NA	NA	NA	FIG	The SNPs are ordered by their positions on the chromosomes, and the chromosomes (number 1 to 22 from left to right) are alternately colored.
+0	NA	NA	NA	FIG	The y axis is -log10(p-value)
+0	NA	reelin	NA	FIG	Reelin expression in hippocampal pyramidal neurons.
+0	Alzheimer's disease	NA	NA	FIG	Hippocampal immunohistochemistry was performed on paraffin sections of hippocampus and representative pyramidal neurons from the CA2 region are depicted in AD (upper panel) and in non-demented subjects (lower panel).
+0	Alzheimer's disease	NA	NA	FIG	Strong cytoplasmic staining was noted in pyramidal neurons in AD, especially in regions in which significant granulovacuolar degeneration (GVD) was noted.
+0	neuritic plaque burden	reelin	NA	FIG	Neuritic plaques and neurofibrillary tangles (NFTs) did not stain strongly for reelin.
+0	Alzheimer's disease	reelin	NA	FIG	Cytoplasmic expression of reelin in pyramidal neurons was also present in non-demented subjects with HI Braak stages as defined in the text (lower right panel), similar to that observed in AD.
+0	NA	reelin	NA	FIG	Expression of reelin in LO Braak stages was less conspicuous (lower left panel)
+0	NA	reelin	NA	FIG	Analysis of reelin expression in hippocampus.
+0	NA	reelin	NA	FIG	Immunohistochemical (IHC) expression of reelin was scored in the hippocampus of OHSU cases with postmortem interval less than 24 hours.
+0	NA	reelin	NA	FIG	Scores are the sum of semiquantitative assessments of cytoplasmic reelin positivity of pyramidal neurons in each sector as described in the text.
+0	NA	NA	NA	FIG	Cases were stratified by Braak grouping and by genotype.
+0	NA	reelin	NA	FIG	Two-way ANOVA showed a significant association of reelin expression with HI vs.
+0	NA	NA	NA	FIG	LO Braak stage (P=0.025) but no association with genotype
+0	NA	NA	NA	TABLE	Results of the allele association tests, showing the ten best SNPs, listed in order of significanc
+0	NA	NA	NA	TABLE	Results of the genotype association test using logistic regression analysis with covariates, showing the 10 SNPs with the lowest p-values, in order of significanc
+0	NA	NA	NA	TABLE	Results of post-hoc allelic association analysis of SNPs in REL

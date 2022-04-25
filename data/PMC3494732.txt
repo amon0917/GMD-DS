@@ -1,0 +1,171 @@
+0	Breast and prostate cancer	NA	NA	ABSTRACT	There have been few genome-wide association studies (GWAS) of prostate cancer among diverse populations.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	To search for novel prostate cancer risk variants, we conducted GWAS of prostate cancer in Japanese and Latinos.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	In addition, we tested prostate cancer risk variants and developed genetic risk models of prostate cancer for Japanese and Latinos
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Our first stage GWAS of prostate cancer included Japanese (cases/controls=1,033/1,042) and Latino (cases/controls=1,043/1,057) from the Multiethnic Cohort.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Significant associations from stage 1 (P < 1.0x10-4) were examined in silico in GWAS of prostate cancer (stage 2) in Japanese (cases/controls=1,583/3,386) and Europeans (cases/controls=1,854/1,894)
+0	NA	NA	NA	ABSTRACT	No novel stage 1 SNPs outside of known risk regions reached genome-wide significance.
+0	NA	NA	NA	ABSTRACT	For Japanese, in stage 1, the most notable putative novel association was seen with 10 SNPs (P<8.0.
+0	NA	NA	NA	ABSTRACT	x10-6) at chromosome 2q33; however, this was not replicated in stage 2.
+0	NA	NA	rs17023900	ABSTRACT	For Latinos, the most significant association was observed with rs17023900 at the known 3p12 risk locus (stage 1: OR=1.45; P=7.01x10-5 and stage 2: OR=1.58; P =3.05x10-7).
+0	Breast and prostate cancer	NA	NA	ABSTRACT	The majority of the established risk variants for prostate cancer, 79% and 88%, were positively associated with prostate cancer in Japanese and Latinos (stage I), respectively.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	The cumulative effects of these variants significantly influence prostate cancer risk (OR per allele=1.10; P = 2.71x10-25 and OR=1.07; P = 1.02x10-16 for Japanese and Latinos, respectively)
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Our GWAS of prostate cancer did not identify novel genome-wide significant variants.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	However, our findings demonstrate that established risk variants for prostate cancer significantly contribute to risk among Japanese and Latinos
+0	Breast and prostate cancer	NA	NA	INTRO	Prostate cancer displays dramatic differences in incidence rates across racial/ethnic populations.
+0	Breast and prostate cancer	NA	NA	INTRO	In the United States, African-Americans have the highest incidence rate of prostate cancer followed by European Americans, Latinos, and Asians.
+0	Breast and prostate cancer	NA	NA	INTRO	The contribution of genetic variants to prostate cancer risk likely varies across race/ethnicity and may play a key role in the unequal burden of disease across racial/ethnic groups.
+0	Breast and prostate cancer	NA	NA	INTRO	The first wave of genome-wide association studies (GWAS) of prostate cancer were heavily weighted by studies of European men, revealing more than 40 prostate cancer risk variants, many of which replicated in subsequent studies of non-European populations.
+0	Breast and prostate cancer	NA	NA	INTRO	More recently, GWAS of prostate cancer have been conducted in non-Europeans, identifying 5 new risk variants in Japanese and one novel risk variant in men of African ancestry.
+0	Breast and prostate cancer	NA	NA	INTRO	Identifying the full spectrum of prostate cancer risk alleles, in terms of numbers and frequencies, requires conducting GWAS of prostate cancer in all possible racial/ethnic populations.
+0	Breast and prostate cancer	NA	NA	INTRO	With differences in allele frequencies, linkage disequilibrium (LD) patterns, and population-specific risk of disease across race/ethnicities, evaluating the generalizability of known risk variants is important to increase our understanding of the genetic contributions to prostate cancer.
+0	NA	NA	NA	INTRO	Equally important is defining the genetic risk profiles relevant for each racial/ethnic group
+0	Breast and prostate cancer	NA	NA	INTRO	In this study, we conducted two-stage GWAS to search for novel risk variants for prostate cancer in Japanese and Latinos, respectively.
+0	Breast and prostate cancer	NA	NA	INTRO	We also tested known risk variants for prostate cancer and utilized these variants to develop genetic risk models of prostate cancer for Japanese and Latinos
+0	Breast and prostate cancer	NA	NA	METHODS	Stage 1 of the GWAS included Japanese and Latino prostate cancer cases and controls from the Multiethnic Cohort (MEC).
+0	Breast and prostate cancer	NA	NA	METHODS	In silico replication of the most significant associations from stage 1 were conducted in GWAS of prostate cancer in Japanese and Europeans.
+0	NA	NA	NA	METHODS	Below is a brief description of the first and second stage study populations
+0	NA	NA	NA	METHODS	The MEC is a large population-based cohort study of over 215,000 individuals from Hawaii and California.
+0	NA	NA	NA	METHODS	Further methodological details of this cohort are provided elsewhere.
+0	Breast and prostate cancer	NA	NA	METHODS	Briefly, incident prostate cancer cases were identified by cohort linkage to Surveillance, Epidemiology and End Results cancer registries covering Hawaii and California.
+0	Breast and prostate cancer	NA	NA	METHODS	Controls had no diagnosis of prostate cancer, were randomly selected from the random control pool of participants, and provided blood specimens for genetic analysis.
+0	NA	NA	NA	METHODS	Controls were frequency matched to cases by age (5 year categories) and ethnicity.
+0	Breast and prostate cancer	NA	NA	METHODS	Through January 1, 2008, the Japanese and Latino nested case-control studies of prostate cancer included 1,033 cases and 1,042 controls and 1,043 cases and 1,057 controls, respectively
+0	Breast and prostate cancer	NA	NA	METHODS	In silico replication of findings in Japanese men was conducted in a GWAS of prostate cancer of 1,583 Japanese with prostate cancer and 3,386 controls, who were part of the BioBank Japan at the Institute of Medical Science at the University of Tokyo.
+0	Breast and prostate cancer	NA	NA	METHODS	The 1,583 cases were diagnosed as having prostate cancer based on the pathological evaluation of prostatic biopsy.
+0	Breast and prostate cancer	NA	NA	METHODS	The controls were 2,480 individuals registered in the BioBank Japan as subjects with 13 diseases other than prostate cancer and 906 healthy volunteers collected at the Osaka-Midosuji Rotary Club.
+0	NA	NA	NA	METHODS	All participants provided written informed consent.
+0	NA	NA	NA	METHODS	Study subjects were genotyped using either the Illumina Infinium Human610-Quad BeadChip or Infinium HumanHap550v3 BeadChip
+0	Breast and prostate cancer	NA	NA	METHODS	In silico replication of findings in Latinos and those from the combined analysis of Japanese and Latinos was conducted in the United Kingdom GWAS of 1,854 prostate cancer cases diagnosed at age 60 years or younger with a family history of disease, and 1,894 controls aged >50 years with a PSA of <0.5ng/ml
+0	NA	NA	NA	METHODS	Genotyping of the Japanese and Latinos in the MEC was conducted using the Illumina.Human660W_Quad_v1 bead array at the Broad Institute.
+0	NA	NA	NA	METHODS	Samples with DNA concentrations <18.8ng/ul were not scanned (53 Japanese and 52 Latinos).
+0	NA	NA	NA	METHODS	Samples were removed based on the following exclusion criteria: 1) call rates <95% (5 Japanese and 4 Latinos); 2) ancestry outliers (21 Japanese and 25 Latinos, discussed below), and; 3) related samples (88 Japanese and 57 Latinos, discussed below).
+0	NA	NA	NA	METHODS	We also removed SNPs with minor allele frequencies <1% (n=16,793).
+0	NA	NA	NA	METHODS	To assess genotyping reproducibility, we included 9 replicate samples; the average concordance rate was 99.99% (>=99.3% for all pairs).
+0	NA	NA	NA	METHODS	The final analysis included 528,023 SNPs evaluated in 2,075 Japanese and 2,100 Latinos
+0	NA	NA	NA	METHODS	The EIGENSTRAT software was used to calculate eigenvectors that explained genetic differences in ancestry.
+0	NA	NA	NA	METHODS	The analysis included data from HapMap Phase 3 populations and our study, so that comparisons to reference populations of known ethnicity could be made.
+0	NA	NA	NA	METHODS	An individual was subject to filtering from the analysis if this value along eigenvector 1 or 2 was outside of 4 SDs of the mean of each respective eigenvector.
+0	NA	NA	NA	METHODS	Twenty-one self-reported Japanese and 25 self-reported Latinos met this filtering criterion.
+0	NA	NA	NA	METHODS	Together the top 10 eigenvectors (used in the analysis) explained 8% of the global genetic variability among subjects
+0	NA	NA	NA	METHODS	We used PLINK to calculate the probabilities of sharing 0, 1, and 2 alleles (Z = Z0,Z1,Z2) across all possible pairs of samples to determine individuals who were likely to be related to others.
+0	NA	NA	NA	METHODS	We identified 1 pair of monozygotic twins (confirmed), 57 half siblings, and 129 first degree relative pairs (parent offspring/full siblings) based on the values of their observed probability vector Z being within 1 SD of the expected values of Z for their respective relationship.
+0	NA	NA	NA	METHODS	For the 187 pairs, one individual was removed from analysis.
+0	NA	NA	NA	METHODS	The criterion for removal was such that individuals that were related with a higher number of pairs were chosen for removal.
+0	NA	NA	NA	METHODS	In all other cases, one of the two members was randomly selected for removal
+0	NA	NA	NA	METHODS	We carried out genome-wide imputation using the software MACH.
+0	NA	NA	NA	METHODS	Phased haplotype data from the founders of the JPT, CEU, and YRI.
+0	NA	NA	NA	METHODS	HapMap Phase 2 samples were used to infer LD patterns in order to impute untyped markers.
+0	NA	NA	NA	METHODS	The Rsq metric, defined as the observed variance divided by the expected variance, provides a measure of the quality of the imputation at any SNP and was used as a threshold in determining which SNPs to filter from analysis (Rsq <0.3).
+0	NA	NA	NA	METHODS	For all imputed SNPs reported, Rsq was >=0.3
+0	NA	NA	NA	METHODS	In stage 1, we examined the observed versus the expected distribution of the Chi square test statistics from the 1-degree-of-freedom (d.f.)
+0	NA	NA	NA	METHODS	trend test, comparing genotype counts in cases and controls.
+0	NA	NA	NA	METHODS	All tests of statistical significance were two-sided.
+0	NA	NA	NA	METHODS	Odds ratios (OR) and 95% confidence intervals (95% CI) were estimated using unconditional logistic regression adjusting for age and the first 10 ancestry eigenvalues.
+0	NA	NA	NA	METHODS	For each SNP, we tested for a gene dosage effect through a 1 d.f.
+0	NA	NA	NA	METHODS	Wald chi-square trend test.
+0	NA	NA	NA	METHODS	To address the hypothesis that the same variants could be informative across populations as shown for the 8q24 locus and combine risk estimates between Japanese and Latinos, we conducted a meta-analysis of stage 1 results for SNPs genotyped in Japanese and Latinos, using the inverse variance method (METAL).
+0	NA	NA	NA	METHODS	The genomic control value for the meta-analyzed results was 1.007
+0	NA	NA	NA	METHODS	For the replication studies, statistical tests for the association with each SNP were performed by a 1 d.f.
+0	NA	NA	NA	METHODS	Cochrane-Armitage trend test.
+0	NA	NA	NA	METHODS	Per-allele ORs were estimated using logistic regression
+0	NA	NA	rs1016343	METHODS	In each population in stage 1, we examined the association of 56 known risk variants for prostate cancer:45 independent variants and 11 risk variants at 8q24 that had an association with prostate cancer risk in previous European, African, and Japanese studies (r2<0.16 in Europeans and r2<0.27 in Asians with the exception of r2=0.52 between rs1016343 and rs6983561 at 8q24).
+0	NA	NA	rs10090154	METHODS	SNP rs10090154 was used in place of rs11986220 as it is located in a predicted enhancer site.
+0	NA	NA	NA	METHODS	The risk SNP BD11934905 is not on the Illumina 660W array and was not genotyped in this study.
+0	NA	NA	NA	METHODS	To model the cumulative genetic risk for the 56 variants, we summed the number of risk alleles for each individual and estimated the OR per allele for this aggregate unweighted allele count variable, serving as an approximate risk score appropriate for unlinked variants with independent effects of roughly the same magnitude for each allele.
+0	NA	NA	NA	METHODS	For individuals missing genotypes (2.7%) for a given SNP (range=0-1.27%; mean=0.05%), we assigned the average number of risk alleles (2 x risk allele frequency) to replace the missing value for that SNP.
+0	Breast and prostate cancer	NA	NA	METHODS	We also tested for differences in the effect of the risk score by race/ethnicity, age group (median of 64 <years vs. 64 >= years), family history of prostate cancer, and stage of disease (localized vs. regional/distant disease)
+0	Breast and prostate cancer	NA	NA	RESULTS	Study characteristics of the 2,075 prostate cancer cases and 2,100 controls in the MEC are presented in Supplemental Table 1 (Japanese cases/controls=1,033/1,042; Latinos cases/controls=1,043/1,057).
+0	NA	NA	NA	RESULTS	The mean age for Japanese cases and controls was 64.0 years and 63.9 years, respectively, and the mean age for both Latino cases and controls was 62.6 years.
+0	Breast and prostate cancer	NA	NA	RESULTS	As expected, cases were more likely than controls (~1.7 times) to report a family history of prostate cancer.
+0	NA	NA	NA	RESULTS	Among cases, approximately 47.6% and 37.7% of Japanese and Latinos presented with regional/distant disease, respectively
+0	Breast and prostate cancer	NA	NA	RESULTS	Quantile-quantile plots of the distribution of test statistics for the comparison of genotype frequencies in prostate cancer cases versus controls showed no evidence of over-inflation; the genomic inflation factor lambda (lambda) was 0.986 and 1.008 in Japanese and Latinos, respectively (Supplemental Figure 1A, 1B).
+0	NA	NA	NA	RESULTS	For Japanese, in stage 1, 69 SNPs (including 10 genotyped SNPs) had P <5x10-8 (Figure 1A).
+0	NA	NA	NA	RESULTS	All of these genome-wide significant SNPs were at the 8q24 risk locus between 128.16 and 128.61 Mb and were correlated with the known risk variants in this region.
+0	NA	NA	NA	RESULTS	No novel SNPs reached genome-wide significance (P <5x10-8) in these stage 1 samples.
+0	NA	BOLL	NA	RESULTS	The most notable putative novel association was seen with a cluster of 10 SNPs (P < 8.0 x10-6; Table 1), spanning 802 kb at chromosome 2q33 that includes the genes BOLL, PLCL1, COQ10B, and RFTN2.
+0	Breast and prostate cancer	NA	NA	RESULTS	For stage 2, we selected the 69 genotyped SNPs with P < 1.0 x 10-4 and located outside of known risk regions for in silico replication in 1,583 Japanese prostate cancer cases and 3,386 Japanese controls (Supplemental Table 2).
+0	NA	NA	NA	RESULTS	None of the associations with these 69 SNPs replicated with P<0.05 and effect estimates in the same direction as in stage 1.
+0	NA	NA	NA	RESULTS	The results for the most significant SNPs in stage 1 (n=13 with P<1x10-5) are shown in Table 1
+0	NA	NA	NA	RESULTS	For Latinos, in stage 1, we observed no genome-wide significant associations (P<5x10-8) (Figure 1B).
+0	Breast and prostate cancer	NA	NA	RESULTS	We selected the 56 genotyped SNPs with P < 1.0 x 10-4 in stage 1 (Supplemental Table 3) to evaluate in stage 2 samples of 1,854 prostate cancer cases and 1,894 controls of European ancestry.
+0	NA	NA	rs12873332	RESULTS	The most significant association in stage 1 was with the imputed SNP, rs12873332 at 3q33 (P=1.41x10-7); a genotyped proxy for this SNP (rs12874523; r2=0.7 in HapMap MEX) did not replicate at P < .05 in stage 2.
+0	Breast and prostate cancer	NA	rs17023900	RESULTS	SNP, rs17023900, at the known risk locus at 3p12, was associated with prostate cancer (stage 1; OR=1.45; P=7.01x10-5) and replicated in the European population (stage 2; OR=1.58; P =3.05x10-7).
+0	NA	NA	rs17023900	RESULTS	SNP rs17023900 was not correlated with the known risk variant, rs17181170 at 3p12, identified in Europeans (r2=0.07 in CEU and r2=0.07 in JPT) Yet, rs17023900 was somewhat correlated with the other 3p12 risk variant, rs9284813, identified in Japanese (r2=0.14 in CEU and r2= 0.65 in JPT).
+0	Breast and prostate cancer	ZHX3	rs4240731	RESULTS	The three top-ranked genotyped SNPs [rs4240731 (12q21), rs6102322 (ZHX3), rs6129760 (TOP1); P < 1.0 x 10-5] for Latinos in stage 1, outside of known risk regions, were not significantly associated with prostate cancer in stage 2 (Table 1).
+0	Breast and prostate cancer	NA	NA	RESULTS	Of the remaining 53 stage 1 SNPs, only two SNPs (chromosome 13-rs9514490 and chromosome 8-rs11306015) were associated with prostate cancer in stage 2, however, the effect estimates were in the opposite direction (Supplemental Table 3)
+0	NA	NA	NA	RESULTS	From the meta-analysis of stage 1 results for Japanese and Latinos, all genome-wide significant SNPs (n=10; P <5x10-8) were located at chromosome 8q24 (Supplemental Figure 2).
+0	NA	NA	rs4999155	RESULTS	For SNPs with P <10-6 in the combined analysis (Supplemental Table 4), only one SNP, rs4999155 at 9q21 (OR = 1.32; P -7 meta meta= 6.17x10 ), was located outside of known risk regions.
+0	Breast and prostate cancer	NA	rs4999155	RESULTS	This SNP, rs4999155, was significantly associated with risk in both Japanese (OR=1.31; P=9.08x10-4) and Latinos (OR=1.33; P=1.73x10-4), but it did not replicate at P < .05 in the European GWAS of prostate cancer
+0	Breast and prostate cancer	NA	NA	RESULTS	We tested, in stage 1 samples, 56 known prostate cancer risk variants located in 37 regions and in chromosome 8q24; 51 were genotyped and 5 were imputed with high accuracy.
+0	NA	NA	NA	RESULTS	The risk allele frequency ranged from 0.01 to 0.90 in Japanese and 0.12 to 0.92 in Latinos (Supplemental Figure 3).
+0	NA	NA	NA	RESULTS	Positive associations were observed with the majority of variants in each population (44 in Japanese and 49 in Latinos; Tables 2 and 3).
+0	Breast and prostate cancer	NA	rs1512268	RESULTS	Of the 56 risk variants, 18 SNPs were positively and significantly associated with prostate cancer risk in either Japanese or Latinos (Tables 2 and 3), with rs1512268 at 8p21, rs10993994 at 10q11 and five SNPs at 8q24 (rs10086908, rs13254738, rs6983561, rs10090154) reaching statistical significance (P<0.05) in both populations.
+0	NA	NA	rs6983561	RESULTS	For both Japanese and Latinos, the strongest associations were noted at 8q24, albeit with different SNPs: rs6983561 in Japanese, OR=1.87; 95% CI: 1.58-2.22; P =3.8x10-13; and, rs10090154 in Latinos, OR=1.68; 95% CI: 1.35-2.09; P=3.4x10-6.
+0	NA	NA	rs12653946	RESULTS	The strongest association outside of chromosome 8q24 was with rs12653946 at 5p15 in Japanese (OR=1.39; 95% CI: 1.22-1.57; P =3.4x10-7) and rs5759167 at 22q13 in Latinos (OR=1.22; 95% CI: 1.08-1.39; P=2.0x10-3).
+0	NA	NA	rs12543663	RESULTS	At 8q24, all 11 of the risk variants, except for rs12543663, were positively associated with risk in Japanese and Latinos.
+0	NA	NA	NA	RESULTS	In Japanese, 9 of 11 variants were significantly associated with risk (Table 3) with four remaining demonstrating statistically significant independent genetic associations (rs10086908-region 1, rs13254738-region 2, rs6983561-region 2, and rs6983267-region 4).
+0	Breast and prostate cancer	NA	NA	RESULTS	In Latinos, 5 of the 11 8q24 risk variants were significantly associated with prostate cancer and 3 demonstrated independent significant associations (rs10086908-region 1, rs13254738-region 2, and rs6983561-region 2).
+0	Breast and prostate cancer	NA	rs6983561	RESULTS	Notably, the per allele OR for rs6983561 was ~1.5 in both populations, which is considerably larger compared to effect estimates observed for other known risk alleles for prostate cancer (OR ~1.1 - 1.2)
+0	Breast and prostate cancer	NA	NA	RESULTS	Using the 56 prostate cancer risk variants (see Methods), we modeled their cumulative effect in Japanese and Latinos in stage 1 samples (Table 4).
+0	Breast and prostate cancer	NA	NA	RESULTS	For Japanese, a 10% increased risk of prostate cancer was associated with each additional risk allele (P =2.71x10-25).
+0	Breast and prostate cancer	NA	NA	RESULTS	Japanese men at the top quartile of the risk allele distribution had a 3.7-fold increased risk of prostate cancer compared to those at the lowest quartile (P=1.17x10-21).
+0	Breast and prostate cancer	NA	NA	RESULTS	For Latinos, a 7% increased risk of prostate cancer was associated with each additional risk allele (P=1.02x10-16) and those at the highest risk quartile had a 2.8-fold increased risk of disease in comparison to men at the lowest risk quartile (P=1.10x10-14).
+0	NA	NA	NA	RESULTS	Heterogeneity in effects of the risk score by race/ethnicity was not statistically significant (Phet=0.06).
+0	Breast and prostate cancer	Phet	NA	RESULTS	Stratified analysis of the risk score revealed similar patterns of associations across age groups (Phet >= 0.16) and family history of prostate cancer (Phet >= 0.77) (data not shown).
+0	NA	Phet	NA	RESULTS	In addition, similar effects were seen for localized (ORJA=1.10; p=1.11x10-15; ORLA=1.07; P =3.36x10-11) and regional/distant (ORJA=1.08; P =9.47x10-11; ORLA=1.08; P=1.49x10-10) disease for both populations (JA Phet =0.13; LA Phet =0.61)
+0	NA	NA	NA	RESULTS	Given the strongest associations at 8q24 noted in Japanese in stage 1, we also examined the effects of a risk score composed of only 11 variants at chromosome 8q24 (see Methods; Supplemental Table 5).
+0	Breast and prostate cancer	NA	NA	RESULTS	The associations of the 8q24 risk score were greater in each population than the risk score comprised of all prostate cancer variants, highlighting the importance of this region in these populations.
+0	Breast and prostate cancer	NA	NA	RESULTS	For Japanese, a 1.16-fold increased risk of prostate cancer was observed for each additional 8q24 risk allele (P=8.75x10-19); while for Latinos, a 1.10-fold increased risk of disease was seen (P=1.83x10-6).
+0	NA	NA	NA	RESULTS	There was little evidence of heterogeneity in effects of the 8q24 risk score across race/ethnicity (Phet=0.15)
+0	NA	Phet	NA	RESULTS	A risk score composed of risk variants outside of the 8q24 locus (SNPs=45) was associated with an 8% and 7% increased risk of disease, per additional risk allele, for Japanese (P=8.75x10-13) and Latinos (P=1.03x10-12), respectively (Phet for race/ethnicity=0.42)
+0	Breast and prostate cancer	NA	NA	DISCUSS	In this GWAS of prostate cancer in Japanese and Latinos, two populations that experience the lowest incidence rates of prostate cancer in the United States, we did not identify novel risk variants that reached genome-wide significance.
+0	Breast and prostate cancer	NA	NA	DISCUSS	We did observe that the vast majority of the known prostate cancer risk variants were positively associated with risk, which extends our previous findings in these two populations.
+0	NA	NA	NA	DISCUSS	Specifically, effect estimates were >1 for 79% and 88% of the risk variants tested among Japanese and Latinos, respectively, suggesting that these markers are likely correlated with the biologically functional alleles in these populations.
+0	Breast and prostate cancer	NA	NA	DISCUSS	We also determined that, in aggregate, these variants significantly contribute to prostate cancer susceptibility in each population with each additional risk allele associated with a 10% and 7% increased risk of prostate cancer in Japanese and Latinos, respectively
+0	Breast and prostate cancer	NA	NA	DISCUSS	The inclusion of minorities in previous GWAS of prostate cancer has been notably absent.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Of the 16 reports of GWAS of prostate cancer, only two studies have focused on minorities in the discovery stage, one of Japanese and the other of African Americans, with the remaining reports limited to men of European ancestry.
+0	Breast and prostate cancer	NA	NA	DISCUSS	In the GWAS of prostate cancer in Japanese (cases/controls = 4,584/8,801), five novel loci were identified.
+0	Breast and prostate cancer	NA	NA	DISCUSS	In the GWAS of prostate cancer in African Americans, a novel risk variant at 17q21-ZNF652 was identified that is unique to men of African ancestry, suggesting that some prostate cancer risk variants may be population-specific.
+0	Breast and prostate cancer	NA	NA	DISCUSS	These findings from GWAS of prostate cancer in non-Europeans emphasize the importance of broadening GWAS to diverse populations to ensure the discovery of the complete spectrum of prostate cancer risk alleles.
+0	NA	NA	NA	DISCUSS	Whereas our GWAS of Japanese and Latinos did not identify novel loci for these two populations, we recognize that our sample size was smaller than contemporary GWAS; thus, limiting our ability to detect modest association signals.
+0	Breast and prostate cancer	NA	NA	DISCUSS	In addition, because of the lack of additional studies of prostate cancer in Latinos, we were unable to replicate our stage 1 findings in Latino populations and made use of available European data.
+0	NA	NA	NA	DISCUSS	The Latinos in the MEC are predominantly from Mexico and are highly admixed with Native American (38%), European (59%), and African (3%) ancestry.
+0	NA	NA	NA	DISCUSS	While replication testing of the most significant findings in Europeans allowed for discovery of alleles that are common in European groups, we may have missed alleles that may be important to Latinos.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Additional large genetic studies of prostate cancer in Latinos will be needed to search for risk alleles that are more common in Native American populations
+0	Breast and prostate cancer	NA	NA	DISCUSS	Only a small number of studies have investigated the known prostate cancer risk variants among Asians and Latinos.
+0	Breast and prostate cancer	NA	NA	DISCUSS	For Asians, only two small Japanese studies have examined risk variants of prostate cancer separate from the MEC's previous smaller reports (in sample size and number of SNPs) while a larger study of Chinese men has recently been conducted.
+0	NA	NA	NA	DISCUSS	Yamada et al.
+0	Breast and prostate cancer	NA	rs2660753	DISCUSS	observed one variant at 3p12 (rs2660753) and 6 variants at chromosome 8q24 (rs13254738, rs6983561, rs16901979, rs1447295, rs10090154, and rs4430796) were associated with prostate cancer risk in 311 Japanese prostate cancer cases and 1,035 controls.
+0	NA	NA	NA	DISCUSS	Terada et al.
+0	Breast and prostate cancer	NA	rs6983267	DISCUSS	reported an association between rs6983267 at 8q24 among 507 Japanese prostate cancer cases and 511 controls.
+0	Breast and prostate cancer	NA	rs13385191	DISCUSS	Of the five novel risk loci (rs13385191, rs12653946, rs1983891, rs339331, and rs9600079) identified by the GWAS of prostate cancer in Japanese, we observed positive associations with all five variants and replicated significant associations with three of the risk variants (rs12653946, rs339331, and rs9600079).
+0	NA	NA	rs2660753	DISCUSS	For the association at 3p12 (rs2660753) reported by Yamada et al., we observed a non-significant positive association with the risk allele of rs2660753 among Japanese (OR=1.14; P=0.084) and a significant association in Latinos (OR=1.23; P=7.2x10-3).
+0	NA	NA	NA	DISCUSS	Of the previous 8q24 associations in these Japanese studies, our findings in this larger MEC study confirm that there are multiple association signals at 8q24.
+0	NA	NA	NA	DISCUSS	Wang et al.
+0	Breast and prostate cancer	NA	NA	DISCUSS	in a study of Chinese men examined the five prostate cancer risk variants identified in the Japanese GWAS of prostate cancer.
+0	Breast and prostate cancer	NA	rs12653946	DISCUSS	Three of these risk variants (rs12653946, rs339331, and rs9600079) were associated with prostate cancer in Chinese men, providing evidence that some risk loci found in Japanese generalize to Chinese men.
+0	Breast and prostate cancer	NA	NA	DISCUSS	For Latinos, only one additional study outside of the MEC has reported the effects of prostate cancer risk variants.
+0	Breast and prostate cancer	NA	NA	DISCUSS	In this study of 196 Latino prostate cancer cases and 472 controls, 12 SNPs at 8q24 were associated with prostate cancer risk.
+0	NA	NA	NA	DISCUSS	Overall, aside from our reduced power to detect the originally reported effect estimates of small magnitude (Supplemental Table 6), our study was able to show positive associations for the majority of risk variants (> ~80%) among Japanese and Latinos.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Moreover, our study not only corroborates previous reports, but also provides the largest and most comprehensive evaluation to date of known prostate cancer risk variants and their cumulative genetic effect among Japanese and Latinos
+0	NA	NA	NA	DISCUSS	Given adequate statistical power, there are many questions directed towards understanding the reproducibility of risk variants across populations.
+0	NA	NA	NA	DISCUSS	There are three possible scenarios to consider.
+0	NA	NA	NA	DISCUSS	First, the disease locus identified by GWAS of European populations may not be relevant in other populations because the functional allele is limited to Europeans.
+0	NA	NA	NA	DISCUSS	Second, the locus is important in other populations, however a different variant (not the index SNP) is better in capturing risk in specific racial/ethnic populations as patterns of LD may vary between the index variant and functional allele across ancestral groups.
+0	NA	NA	NA	DISCUSS	Thus, fine-mapping of risk loci in different racial/ethnic groups could identify the most appropriate variant for a particular population.
+0	NA	NA	NA	DISCUSS	Lastly, the index risk variant identified in GWAS of Europeans is similarly associated with risk in other racial/ethnic groups.
+0	NA	NA	NA	DISCUSS	"Directional consistency of an association for a given index signal across populations implies a shared functional common variant in each region and provides little support for the ""synthetic association"" model, which suggests that GWAS signals with common alleles are due to rare alleles, many of which are likely to be ethnically distinct."
+0	NA	NA	NA	DISCUSS	For the majority of the risk loci examined in this study, our observations support the existence of a common functional variant that is shared across populations
+0	Breast and prostate cancer	NA	NA	DISCUSS	As more prostate cancer risk variants are identified, the cumulative effects of these variants may have important clinical implications.
+0	Breast and prostate cancer	NA	NA	DISCUSS	With the 56 risk variants we examined, both Japanese and Latinos at the top quartile of the risk distribution had a highly significant ~3-fold increased risk of prostate cancer in comparison to those at the lowest quartile.
+0	Breast and prostate cancer	NA	NA	DISCUSS	In the absence of an established risk model of prostate cancer analogous to the Gail model for breast cancer, as more risk variants are identified, a SNP based risk model for prostate cancer may serve as a useful tool to define high-risk populations for targeted screening regimens and may better inform clinical decision making.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Such models in development incorporate SNPs and family history in predicting prostate cancer risk.
+0	NA	NA	NA	DISCUSS	For individuals not at the high end of a genetic risk score, the clinical usefulness of such genetic information is unclear.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Given the potential risks and costs associated with prostate cancer screening, these men may be less inclined to seek screening
+0	Breast and prostate cancer	NA	NA	DISCUSS	In summary, we did not identify novel genome-wide significant prostate cancer loci for Japanese and Latino men.
+0	Breast and prostate cancer	NA	NA	DISCUSS	However, we established that known risk variants for prostate cancer contribute to prostate cancer risk susceptibility in these populations.
+0	Breast and prostate cancer	NA	NA	DISCUSS	The challenge remains to conduct large well-powered genome-wide scans and follow-up studies in diverse populations to further dissect the complete array of risk alleles that may contribute to prostate cancer across populations
+0	Breast and prostate cancer	NA	NA	TABLE	SNPs outside of known risk regions at p<10-5 in Japanese and Latinos GWAS of prostate cance
+0	Breast and prostate cancer	NA	NA	TABLE	Associations with established risk variants for prostate cancer in Japanese (1033 cases, 1042 controls) and Latinos (1043 cases, 1057 controls)
+0	NA	NA	NA	TABLE	Associations with known risk variants at 8q24 in Japanese and Latinos
+0	Breast and prostate cancer	NA	NA	TABLE	The association between the total risk score with prostate cancer in Japanese and Latinos

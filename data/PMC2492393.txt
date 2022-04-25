@@ -1,0 +1,171 @@
+0	NA	NA	NA	ABSTRACT	The Wellcome Trust Case Control Consortium (WTCCC) primary genome-wide association (GWA) scan on seven diseases, including the multifactorial, autoimmune disease, type 1 diabetes (T1D), shows significant association (P < 5 x 10-7 between T1D and six chromosome regions: 12q24, 12q13, 16p13, 18p11, 12p13 and 4q27.
+0	NA	NA	NA	ABSTRACT	Here, we attempted to validate these and six other top findings in 4,000 individuals with T1D, 5,000 controls and 2,997 family trios that were independent of the WTCCC study.
+0	NA	NA	NA	ABSTRACT	We confirmed unequivocally the associations of 12q24, 12q13, 16p13 and 18p11 (Pfollow-up <= 1.35 x 10-9; Poverall <= 1.15 x 10-14), leaving eight regions with small effects or false-positive associations with T1D.
+0	NA	NA	NA	ABSTRACT	We also obtained evidence for chromosome 18q22 (Poverall = 1.38 x 10-8) from a genome-wide association study of nonsynonymous SNPs.
+0	NA	NA	NA	ABSTRACT	Several regions, including 18q22 and 18p11, showed association with autoimmune thyroid disease.
+0	NA	NA	NA	ABSTRACT	This study increases the number of T1D loci with compelling evidence from six to at least ten
+0	NA	NA	NA	INTRO	There is convincing evidence for association of six loci with T1D: the first, discovered over 25 years ago and having by far the largest effect, are the HLA class II genes on chromosome 6p21 in the major histocompatibility complex (MHC).
+1	NA	insulin	NA	INTRO	Other loci include the gene encoding insulin (INS) on 11p15, CTLA4 on 2q33, PTPN22 on 1p13, the interleukin-2 receptor alpha chain (IL2RA, also known as CD25) region on 10p15 and, most recently, the IFIH1 (also known as MDA5) region on 2q24 (ref., ref.).
+0	NA	NA	NA	INTRO	These genes explain only some of the familial clustering of T1D (Supplementary Table 1 online).
+0	NA	NA	NA	INTRO	We have assumed for T1D the classical model of a small number of genes with large effects and a large number of genes with small effects.
+0	NA	NA	NA	INTRO	If this genetic model is correct, notwithstanding a major role for (unknown) environmental factors, there should be many more new genes (and pathways) to be discovered, provided sample sizes, study design and genotyping technology suffice
+0	NA	NA	NA	INTRO	Here, we followed up on the most statistically significant results from two GWA studies: a nonsynonymous SNP (nsSNP) case-control study of 13,378 SNPs in 3,400 affected individuals and 3,300 controls and the WTCCC study using an Affymetrix 500K Mapping Array GWA GeneChip on 2,000 cases and 3,000 controls.
+0	NA	NA	NA	INTRO	There was a substantial overlap of samples (1,834 cases and 1,134 controls) between these studies, but we still had independent samples available for follow-up (up to 4,000 affected individuals and 5,000 controls available from the same DNA collections and 2,997 parent-child trios)
+0	NA	NA	NA	INTRO	Based on the WTCCC GWA study, we initially genotyped 11 SNPs with TaqMan technology that had shown association with P <= 1.64 x 10-5 (with five having P values < 5 x 10-7) from 11 chromosome regions not previously associated with T1D.
+0	NA	NA	NA	INTRO	We genotyped samples from 4,000 affected individuals and 5,000 controls and from 2,997 parent-child trios that were independent of the WTCCC study (Table 1 and Supplementary Table 2 online).
+0	NA	NA	NA	INTRO	Four of these regions showed convincing evidence of disease association: chromosomes 12q24, 12q13, 16p13 and 18p11 in independent cases and controls (P <= 1.82 x 10-6), in families (P = 5.23 x 10-3 to 1.07 x 10-6) and overall (P = 1.15 x 10-14 to 1.52 x 10-20) (Table 1, Supplementary Table 2 and Supplementary Fig.
+0	NA	NA	NA	INTRO	1 online).
+0	NA	NA	NA	INTRO	Results from SNPs in the T1D-associated MHC region will be presented elsewhere and were excluded from the analyses presented here
+0	NA	NA	NA	INTRO	We developed and applied a strategy for follow-up genotyping as a first step toward defining the disease association of the region.
+0	NA	NA	NA	INTRO	Our aims were to explore in a preliminary way (i) whether there were SNPs even more strongly associated with T1D in a region, (ii) whether the T1D association was due to one or more causal variants and (iii) more precisely where those variants might be within the region (Supplementary Note online)
+0	NA	PTPN2	NA	INTRO	On chromosome 18p11, the 114-kb region of strong linkage disequilibrium (LD) contained only one gene: PTPN2 (encoding T-cell protein tyrosine phosphatase) (Supplementary Fig.
+0	NA	NA	NA	INTRO	1).
+1	NA	PTPN2	rs2542151	INTRO	We selected 11 SNPs from this interval for genotyping based on their pattern of LD with the original SNP found to be associated in the WTCCC study (rs2542151); two SNPs in introns 3 (rs1893217) and 7 (rs478582) of PTPN2 were more associated with T1D than the original WTCCC SNP and were independently associated with disease (Supplementary Table 3 online).
+0	NA	PTPN2	NA	INTRO	We also resequenced nine of the ten exons of PTPN2 and 3 kb of each of the 3' and 5' regions, uncovering 19 new SNPs and 7 new deletion-insertion polymorphisms.
+0	NA	NA	NA	INTRO	We did not identify any coding variants or obvious splice mutations (Supplementary Note).
+0	NA	PTPN2	NA	INTRO	However, noncoding variants could alter expression of the alternative PTPN2 45-kDa isoform, which is known to dephosphorylate STAT1 (signal transducer and activator of transcription), a major regulator of immune signaling, including in the IL-2 pathway
+1	NA	NA	rs17696736	INTRO	On chromosome 12q24, the most WTCCC-associated SNP , , rs17696736 (ref.
+0	NA	NA	NA	INTRO	), is located within a large (>1.2-Mb) LD block that contains several genes of possible functional relevance to T1D (Table 1 and Supplementary Fig.
+0	NA	NA	NA	INTRO	1 (ref.)).
+1	NA	SH2B3	rs17696736	INTRO	We genotyped four SNPs for which the LD r2 values with rs17696736 ranged from 0.59 to 0.82; rs3184504, an nsSNP in exon 3 of SH2B3 encoding a pleckstrin homology domain (R262W), had the highest association (P = 1.73 x 10-21; odds ratio (OR) = 1.33, 95% confidence interval (c.i.)
+0	NA	NA	NA	INTRO	= 1.26-1.42).
+0	NA	NA	NA	INTRO	This single nsSNP was sufficient to model the association of the entire region (Supplementary Table 3)
+1	NA	NA	rs12708716	INTRO	In the 16p13 region, SNP rs12708716, which was found to be associated with T1D in the WTCCC study (ref.
+0	NA	NA	NA	INTRO	), remained the most associated after genotyping of additional SNPs (Supplementary Note).
+1	NA	KIAA0350	rs12708716	INTRO	LD between HapMap SNPs and rs12708716 localized the association to intron 18 of KIAA0350 (Supplementary Fig.
+0	NA	NA	NA	INTRO	1).
+1	NA	KIAA0350	NA	INTRO	The KIAA0350 LD block is flanked by two strong functional candidate genes, CIITA (activator of the MHC class II gene transcription) and SOCS1 (suppressor of cytokine signaling).
+1	NA	KIAA0350	NA	INTRO	We resequenced exonic and flanking sequences and genotyped SNPs from these two genes, but neither was responsible for the observed association in KIAA0350 (Supplementary Note).
+1	NA	KIAA0350	NA	INTRO	We resequenced the 24 exons and potentially regulatory 5' and 3' sequences of KIAA0350 and found 12 new SNPs, none of which were an obvious functional candidate (Supplementary Note).
+0	NA	dexamethasone-induced transcript	NA	INTRO	We also note that the dexamethasone-induced transcript (DEXI) may also be in the LD-defined region; further resequencing and genotyping of the entire region is required
+1	NA	KIAA0350	NA	INTRO	KIAA0350 is a widely expressed and highly conserved transcript of unknown function with a recognized putative C-type lectin domain encoded by exon 14 (according to Ensembl; see URL below).
+0	NA	NA	NA	INTRO	However, alignment of the domain across species suggested that this domain cannot be considered functional based on homology alone.
+0	NA	NA	NA	INTRO	Further bioinformatics analyses showed that exon 12 may encode an immunoreceptor tyrosine-based activation motif (ITAM) (Supplementary Fig.
+0	NA	NA	NA	INTRO	2 and the T1DBase PosterPages (see URL below) ).
+0	NA	SH2B3	NA	INTRO	ITAMs bind proteins such as SH2B3 (SH2B adaptor protein 3) (also known as LNK, Lymphocyte adaptor protein) that contain SH2 signaling domains.
+1	erythroblastic leukemia viral	SH2B3	NA	INTRO	We also noted that SH2B3 binds ERBB3 (v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian)) (ref.
+0	NA	NA	NA	INTRO	), which has the highest association with T1D in the other chromosome 12 region, 12q13.
+0	autoimmune pancreatic	NA	NA	INTRO	Therefore, we identified potential functional links between the new candidate genes and previously identified loci in interactions between antigen presenting cells (for example, dendritic cells) and T lymphocytes during T cell repertoire formation and immune inflammatory events leading to autoimmune pancreatic beta-cell destruction in T1D
+0	NA	NA	NA	INTRO	Of the remaining loci, two are probably false positives (2p13 and 1q32; P > 0.7 in the new 4,000 cases and 5,000 controls), and five could be true effects (P < 0.05; Table 1).
+0	NA	NA	NA	INTRO	We followed up on the SNPs in chromosome regions 4q27, 5q14, 2q11, 10p11 and 12p13 in the families, obtaining weak (P <= 0.0307) or no (P >= 0.0653 for 5q14 and 12p13) support for disease association (Table 1 and Supplementary Table 2)
+0	NA	NA	NA	INTRO	We carried out further genotyping of the 4q27 region (Supplementary Fig.
+0	diabetes	IL2	rs6534347	INTRO	1) because (i) it contains the IL2 gene, which has been identified as a susceptibility gene in the nonobese diabetic (NOD) mouse model of T1D; (ii) the chromosome 10p15 region, containing the gene encoding the IL-2 receptor, IL2RA, is associated with T1D and autoimmune thyroid disease and (iii) using imputation, the WTCCC study reported a SNP (rs6534347) in the 4q27 region with an apparently strong association with T1D (OR = 1.30, 95% c.i.
+0	NA	NA	NA	INTRO	= 1.10-1.55; P = 4.48 x 10-7).
+0	NA	IL-2	NA	INTRO	We resequenced the region encompassing genes IL2 through IL21 and found 178 new SNPs but observed neither IL2 and IL21 coding variants nor obvious regulatory or splice variants (Supplementary Note).Follow-up genotyping provided some support for association of this region with T1D, but finer localization within the 200-kb region on chromosome 4q27 was not possible owing to strong LD (Supplementary Fig.
+0	NA	NA	NA	INTRO	1).
+0	NA	IL-2	rs3136534	INTRO	We did not obtain support for the presence of an effect as large as OR = 1.3 in the region from IL2 to IL21; our most associated SNP was rs3136534, 3' of IL2 (OR = 1.11, 95% c.i.
+0	NA	NA	NA	INTRO	= 1.05-1.18; Pall cases and controls = 1.62 x 10-4; Supplementary Note)
+0	NA	IL-2 receptor	NA	INTRO	The IL-2 receptor, which is critical for immune function and regulation, is a trimeric molecule of alpha (IL2RA), beta (IL2RB, also known as CD122) and gamma (IL2RG) chains.
+0	NA	IL-2 receptor	rs3218253	INTRO	We noted that SNP rs3218253 in intron 1 of IL2RB shows evidence of T1D association in the WTCCC study (P = 1.59 x 10-4), but we found no convincing support for T1D association (Supplementary Note).
+0	NA	NA	NA	INTRO	This suggests that the WTCCC result was a false positive, emphasizing, along with other findings presented here, the fact that most results in a GWA study at P < 10-6 are false positives, even in a sample as large as that used in the WTCCC study
+1	NA	PTPN22	rs763361	INTRO	Using 2,700 case and 3,500 control follow-up samples, we genotyped 14 out of 7,446 nsSNPs from the nsSNP GWA study that had minor allele frequencies (MAF) >= 0.01 and P values <1 x 10-3 (Table 2 and Supplementary Table 2).In addition to the previously reported PTPN22 and IFIH1 region associations, we found one other locus with consistent statistical support for a T1D association: rs763361 in the T lymphocyte costimulation gene CD226 (ref.)
+0	NA	NA	NA	INTRO	on chromosome 18q22 (Pfollow-up = 9.46 x 10-6 and Poverall = 1.38 x 10-8; Table 2 and Supplementary Fig.
+0	NA	NA	NA	INTRO	1).
+1	NA	CD226	NA	INTRO	The CD226 nsSNP could alter splicing of exon 7 of the gene (Supplementary Note)
+1	NA	CD226	rs1445898	INTRO	In addition to CD226, we found evidence (Pall cases and controls <= 8.25 x 10-4) for nsSNPs rs1445898 (in CAPSL on 5p13), rs380421 (in C20orf168 on 20q13), rs3194051 and rs6897932 (in IL7R on 5p13) and rs213950 (in CFTR on 7q31) (Table 2).In the family collection (2,997 parent-child trios), we obtained consistent evidence of disease association for all of these nsSNPs (that is, P < 0.05 and allelic ORs in the same direction as the original study) except rs1445898 (in CAPSL; P = 0.0885) (Table 2 and Supplementary Table 2).
+0	NA	NA	NA	INTRO	Confirmation of these potential associations will require further studies
+0	NA	SH2B3	rs3184504	INTRO	The SH2B3 nsSNP rs3184504 was originally excluded from our nsSNP GWA analysis, as the genotype clustering was of marginal quality.
+0	NA	NA	NA	INTRO	Recently, we attempted to recover additional poorly clustered nsSNPs from the nsSNP GWA study by identifying for each nsSNP the batches of cases or controls lowering the quality of the fluorescent signal and excluding them.
+0	NA	SH2B3	rs3184504	INTRO	Although it reduced the sample size, this exclusion improved the clustering of nsSNP rs3184504 in SH2B3 (P = 2.0 x 10-12; OR = 1.30, 95% c.i.
+1	NA	PTPN22	NA	INTRO	= 1.20-1.39 in 3,712 cases and 2,682 controls), making it the nsSNP with the second highest association with T1D in the study, after PTPN22 (Table 2)
+0	NA	NA	NA	INTRO	One other outcome of the nsSNP scan analyses, regarding geographical variability in nsSNP allele frequencies, pertains to two potential questions.
+0	NA	NA	NA	INTRO	First, does population structure increase the false-positive rate in case-control association studies (see Methods)?
+0	infectious disease	NA	NA	INTRO	Second, are the allelically variable regions of genes responsible for host resistance to infectious disease, which are subject to selection pressures, also candidate susceptibility loci for autoimmune disease.
+1	NA	IFIH1	rs1990760	INTRO	For example, the IFIH1 nsSNP rs1990760 (ref.
+0	autoimmune thyroid disease	NA	NA	INTRO	), which is associated with T1D and autoimmune thyroid disease (Tables  2 and 3), showed some variability in frequency across Great Britain (3.11% from north to south; P = 6.33 x 10-4; Supplementary Table 4) and is known to function as the pathogen recognition receptor (PRR) for picornavirus and enterovirus RNA molecules.
+0	NA	NA	NA	INTRO	We analyzed the nsSNPs for allele frequency differences between geographical regions of Great Britain (Supplementary Table 4).
+0	NA	TLR1	N248S	INTRO	The most geographically variable nsSNP was in the PRR Toll-like receptor 1 (TLR1), N248S (rs4833095) on chromosome 4p14 (Supplementary Table 4).
+0	NA	NA	NA	INTRO	This region also showed extreme geographical variation in the WTCCC study.
+0	NA	TLR1	NA	INTRO	The TLR1 nsSNP was even more stratified than the three nsSNPs analyzed in the well-established geographically variable lactase persistence gene (LCT) (Supplementary Table 4, which has been under recent selection to allow adult consumption of cows' milk.
+0	NA	TLR2	NA	INTRO	In a heterodimeric receptor with TLR2, TLR1 recognizes lipopeptides from Mycobacteria, the causes of leprosy and tuberculosis (Supplementary Note).
+0	NA	TLR1	N248S	INTRO	The SNP in TLR1 causing the N248S variantand/or other variants in LD with it in the neighboring TLR6 and TLR10 genes could have been under selection for resistance to these and other infectious diseases (Supplementary Note and Supplementary Table 4), thus helping to explain their extreme geographical variation across Great Britain and Europe and between the major ethnic groups (Supplementary Note).
+0	NA	TLR1	N248S	INTRO	However, the SNP causing the TLR1 N248S variant (rs4833095) was not associated in any convincing way with T1D (Supplementary Table 4)
+0	Graves' disease	NA	NA	INTRO	As the autoimmune thyroid disease Graves' disease is known to share genetic susceptibility with T1D, we genotyped 13 T1D-associated SNPs in 2,200 individuals with Graves' disease.
+1	NA	AFF3	rs9653442	INTRO	We found some evidence of association for 2q11 (rs9653442, intergenic AFF3 to LOC150577), 4q27 (rs17388568, in Tenr-IL2), 5p13 (rs1445898, in CAPSL), 18p11 (rs1893217 and rs478582, in PTPN2) and 18q22 (rs763361, in CD226) (Table 3 and Supplementary Table 5 online).
+0	NA	NA	NA	INTRO	Except for the SNP in the Tenr-IL2 region, all alleles were associated in the same direction as in T1D.
+1	NA	IFIH1	rs1990760	INTRO	We note that the IFIH1 nsSNP, rs1990760 (ref.
+0	Graves' disease	NA	NA	INTRO	), also showed some evidence of association with Graves' disease (Table 3).
+0	autoimmune disease	NA	NA	INTRO	These data suggest that these genes may be acting as more generalized susceptibility loci for autoimmune disease
+0	NA	NA	NA	INTRO	Some, but not all, authors predict that in human association studies, the distribution of genotypes between unlinked disease loci will deviate from a multiplicative model, and hence, statistical power could be improved in the detection of novel loci using gene-gene interaction analyses.
+0	NA	NA	NA	INTRO	In case-only gene-gene interaction analyses between the new candidates and the known T1D loci, we did not find any evidence of deviation from the model of multiplicative (random) effects, sex effects or age-at-diagnosis effects (Table 4).
+0	NA	NA	NA	INTRO	We can model that the previously identified and newly associated SNPs account for approximately 48% of familial clustering of T1D, compared with an estimated 41% for the MHC region alone.
+0	NA	NA	NA	INTRO	Together, and estimating an environmental contribution of approximately 20% (ref.
+0	NA	NA	NA	INTRO	), about one-third remains unexplained.
+0	NA	NA	NA	INTRO	This residual could be due to numerous as-yet-undetected susceptibility loci, which we expect to range in relative risk effect size up to 20 %, consistent with the expected and emerging L-shaped distribution of allelic effect sizes for the ten loci so far confirmed (Fig.
+0	NA	NA	NA	INTRO	1 and Supplementary Table 1).
+0	NA	NA	NA	INTRO	Rare causal variants will also have a role
+1	pancreatic	PTPN2	NA	INTRO	Our results place the genetic basis of T1D in a genome-wide context.The known genes and the new candidates (such as PTPN2 and CD226) indicate that T1D is caused, in a permissive environment, by a combination of immune recognition of pancreatic islet antigens (including insulin), T cell repertoire development, immune regulation and other unknown pathways (for example, a pathway including the potential candidate KIAA0350 protein) that have common functional variation
+0	insulin-treated diabetes	NA	NA	METHODS	The 6,800 affected individuals were recruited as part of the Juvenile Diabetes Research Foundation/Wellcome Trust (JDRF/WT) Diabetes and Inflammation Laboratory's JDRF/WT British case collection (Genetic Resource Investigating Diabetes), which is a joint project between the University of Cambridge Departments of Paediatrics at the Addenbrooke's Hospital and Medical Genetics at the Cambridge Institute for Medical Research.
+0	NA	NA	NA	METHODS	Most affected individuals were <16 years of age at the time of collection; all were under age 17 years at diagnosis and all resided in Great Britain.
+0	NA	NA	NA	METHODS	The 7,000 control samples were obtained from the British 1958 Birth Cohort (B58C), an ongoing study of all people born in Great Britain during one week in 1958 (see URL below).
+0	NA	NA	NA	METHODS	All cases and control were of self-reported white ethnicity, with the exception of 18 cases for whom the WTCCC study found genotype evidence for non-white ethnic group status
+0	NA	NA	NA	METHODS	All families were of reported or self-reported white ethnicity and of European descent, with two parents and at least one affected child.
+0	diabetes	NA	NA	METHODS	The family collection consisted of 458 families from the UK Diabetes UK Warren 1 repository, 328 families from USA Human Biological Data Interchange, 250 families from Northern Ireland, 951 Finnish families, 360 Norwegian families, 412 Romanian families and 80 families from Yorkshire, UK (Supplementary Table 6).
+0	NA	NA	NA	METHODS	All DNA samples were collected after approval from the relevant research ethics committees, and written informed consent was obtained from the participants or their guardians
+0	autoimmune thyroid disease	NA	NA	METHODS	As part of the AITD Autoimmune thyroid disease (AITD) UK National Collection, 2,200 unrelated, reported white individuals with Graves' disease were recruited.
+0	NA	NA	NA	METHODS	Participants were recruited from centers across the UK, including Birmingham, Bournemouth, Cambridge, Cardiff, Exeter, Leeds, Newcastle and Sheffield (Supplementary Table 6).
+0	hyperthyroidism	thyrotropin receptor	NA	METHODS	Affected individuals were defined by the presence of biochemical hyperthyroidism together with at least one of the following: (i) a diffuse goiter on a scan, (ii) positive autoantibodies to the thyrotropin receptor (TSHR), (iii) diffuse goiter on palpation, along with thyroglobulin or thyroid peroxidase autoantibodies or (iv) thyroid eye disease (NOSPECS classification score of 2-6)
+1	NA	CIITA	NA	METHODS	Polymorphisms in MHC2TA, SOCS1, KIAA0350 and PTPN2 were identified by resequencing 32 CEPH DNA samples (from Utah residents with northern and western European ancestry) in common with HapMap.
+0	NA	NA	NA	METHODS	The sequencing reactions were performed using Applied Biosystems' BigDye (version 3.1) chemistry and the sequences resolved using an ABI 3700 Genetic Analyzer.
+0	NA	NA	NA	METHODS	Analyses of the sequence traces were performed using the Staden package, and traces were scored independently by a second operator by hand.
+1	NA	CIITA	NA	METHODS	Annotations for MHC2TA, SOCS1, KIAA0350 and PTPN2 are available from T1DBase (available only from the UK mirror site; see URLs below), together with sequence and polymorphism data the T1DBase PosterPages (see URL below) .
+0	NA	IL-2	NA	METHODS	For IL2 and IL21 and the flanking regions, polymorphisms were identified by resequencing samples from 32 individuals with T1D
+0	NA	NA	NA	METHODS	Follow-up SNPs in the nsSNP and WTCCC studies were genotyped using TaqMan (Applied Biosystems).
+0	NA	NA	NA	METHODS	All genotyping data were scored twice to minimize error; the second operator was unaware of case-control status or and family structure.
+0	NA	NA	NA	METHODS	Concordance data between the two GWA studies and TaqMan genotyping are shown in Supplementary Table 7.
+0	NA	NA	NA	METHODS	All SNPs genotyped in controls did not significantly deviate from Hardy-Weinberg disequilibrium
+0	NA	NA	NA	METHODS	All statistical analyses were performed in the Stata or R statistical systems (see URLs below) and information about the R package SNP Matrix can be found in ref.
+0	NA	NA	NA	METHODS	In the nsSNP GWA study, we developed and used a clustering method to call genotypes automatically.
+0	NA	NA	NA	METHODS	As two research and development chips had been used in the study, we analyzed 7,446 nsSNPs (MAF >= 0.01) that had been on both chips or introduced on the second chip, as these had been attempted in at least 2,908 case and 2,664 control samples.
+0	NA	NA	NA	METHODS	We excluded 172 HLA nsSNPs from this study.
+0	NA	NA	NA	METHODS	Poor clustering was defined as a cluster quality score <2.8 (ref.)
+0	NA	NA	NA	METHODS	or extreme deviation from Hardy-Weinberg equilibrium (chi12 > 16; 165 SNPs dropped).
+0	NA	NA	NA	METHODS	GWA study data were analyzed using the R package snpMatrix, and follow-up analyses used Stata
+0	NA	NA	NA	METHODS	Logistic regression models were used for all case-control association tests.
+0	NA	NA	NA	METHODS	As the T1D cases and controls were chosen to be well matched geographically, we were able to stratify by the 12 subregions of England, Scotland and Wales to exclude the possibility of confounding by geography with little loss of power.
+0	NA	NA	NA	METHODS	We note that the WTCCC study shows that SNPs with significant geographical variation are limited to a small numbers of chromosome regions, including the TLR region on chromosome 4p14 described in the present report
+0	NA	NA	NA	METHODS	In the logistic regression analysis of a SNP, we performed a one-degree of freedom (1-d.f.)
+0	NA	NA	NA	METHODS	likelihood ratio test to determine whether a 1-d.f.
+0	NA	NA	NA	METHODS	multiplicative allelic effects model or a 2-d.f.
+0	NA	NA	NA	METHODS	full genotype model was more appropriate.
+0	NA	NRP1	rs2666236	METHODS	We assumed a multiplicative allelic effects model, as it was not significantly different from the full genotype model, except for rs2666236 (NRP1).
+0	NA	NA	NA	METHODS	In the forward logistic regression analysis, we started by assessing the evidence against the most significant SNP being the sole variant in the region (in other words, whether this SNP alone was sufficient to model the association).
+0	NA	NA	NA	METHODS	For the purposes of this analysis, we did not assume any specific mode of inheritance for the most associated SNP (A>a) or for any additional SNP with significant independent effects on T1D, so genotype risks of A/A and A/a were modeled relative to the a/a genotype.
+0	NA	NA	NA	METHODS	We then used a 1-d.f.
+0	NA	NA	NA	METHODS	test for adding each of the remaining SNPs to the model by assuming multiplicative allelic effects for the additional SNPs
+0	NA	PTPN2	rs1893217	METHODS	To estimate the joint effects of the two independently associated PTPN2 SNPs from the 18p11 region (rs1893217 and rs478582), we performed a 2-d.f.
+0	NA	NA	NA	METHODS	test by simply entering both genotypes into the logistic regression model as numerical indicator variables coded 0, 1 or 2 (in other words, as multiplicative allelic effects), representing the number of occurrences of the minor alleles A and A.
+0	NA	NA	NA	METHODS	When compared with the basic model, this 2-d.f.
+0	NA	NA	NA	METHODS	likelihood ratio test corresponds to the 'locus-based' score test described in ref.
+0	NA	NA	NA	METHODS	To test for a haplotype-specific effect, we compared a 3-d.f.
+0	NA	NA	NA	METHODS	haplotype-based test with the 2-d.f.
+0	NA	NA	NA	METHODS	locus-based test.
+0	NA	NA	NA	METHODS	The 3-d.f.
+0	NA	NA	NA	METHODS	haplotype-based test was performed by adding a numerical indicator variable for the 'interaction' term to the 2-d.f.
+0	NA	NA	NA	METHODS	locus-based model: coding the indicator variable as 0, 1 or 2, representing the number of occurrences of the G.G haplotype.
+0	NA	NA	rs1893217	METHODS	However, this interaction term often depends on the (unobserved) haplotype phase, so for the case-control analysis, we replace this indicator variable by its expectation under the null hypothesis, theta / (1 + theta), where theta is the odds ratio measure of association between the rs1893217(G>A) and rs478582(G>A)
+0	NA	NA	NA	METHODS	In the 3-d.f.
+0	NA	NA	NA	METHODS	haplotype-based test, the haplotype phase required by the interaction term was resolved in cases and controls together:consistent with the null hypothesis that case and control haplotypes were drawn from the same population.
+0	NA	NA	NA	METHODS	The interaction term was estimated using the EM algorithm without the imputation of missing genotypes
+0	NA	NA	NA	METHODS	A score test was used to combine evidence from cases, controls and families
+0	NA	NA	NA	METHODS	The case-only gene-gene interaction analysis, defined as deviation from the multiplicative model for the joint effects of the two genotypes, was performed using a regression model as a score test for association between genotypes in case subjects.
+0	NA	NA	NA	METHODS	Affected sib pairs were not tested, as they are not independent.
+0	NA	NA	NA	METHODS	The HLA class II loci were grouped according to their genotypes using a risk-based method, rpart (S.N., J.M.M.H.
+0	NA	NA	NA	METHODS	and J.A.T., unpublished data; see URL below)
+0	NA	NA	NA	METHODS	To test for allele frequency differences between geographical regions, we used the R function snp.lhs.tests, which is part of the snpMatrix package and described in ref..
+0	NA	NA	NA	METHODS	The SNP genotype was treated as the dependent variable (a binominal variate with two 'trials').
+0	NA	NA	NA	METHODS	Case-control status was fitted as a covariate, and region, the term to be tested, was fitted as a factor.
+0	NA	NA	NA	METHODS	This results in an 11-d.f.
+0	NA	NA	NA	METHODS	test for allele frequency differences between geographical regions
+0	NA	NA	NA	METHODS	Measures of linkage disequilibrium, D' and r2, were calculated using the Haploview package, and the plots were subsequently generated and displayed through gbrowse (URLs given below) within T1DBase
+0	NA	NA	NA	METHODS	Ensembl: http://www.ensembl.org; British 1958 Birth Cohort: http://www.b58cgene.sgul.ac.uk/; T1DBase: http://t1dbase.org (and UK mirror site, http://dil.t1dbase.org); Stata: http://www.stata.com/; R: http://www.r-project.org/; rpart: http://cran.r-project.org/; David Clayton's Software: http://www-gene.cimr.cam.ac.uk/clayton/software/; Haploview: http://www.broad.mit.edu/mpg/haploview/; gbrowse: http://www.gmod.org/.
+0	NA	NA	NA	METHODS	T1DBase PosterPages : https://dil.t1dbase.org/page/PosterAdho
+0	NA	Tenr	NA	METHODS	All genes are referred to by their HUGO symbol, except for Tenr on 4q27 (Entrez GeneID 132612, alias FLJ32741) and DEXI on 16p13 (Entrez GeneID 28955, alias MYLE
+0	diabetes	NA	NA	FIG	Odds ratios for the susceptibility allele for the ten independent type 1 diabetes associated genes or regions.
+0	NA	NA	NA	FIG	The filled black bars indicate previously known associated genes and regions.
+1	NA	IFIH1	NA	FIG	The open bar indicates the IFIH1 region identified by the nsSNP genome scan (Table 2), and the filled gray bars were identified by the WTCCC Affymetrix 500K scan and confirmed by the studies reported here (Table 1).
+0	NA	NA	rs3129934	FIG	The HLA class II SNP (rs3129934) was the marker with the highest association with T1D in the MHC 25-35 Mb region in the WTCCC study
+0	diabetes	NA	NA	TABLE	Follow up analysis of the Wellcome Trust Case Control Consortium genome-wide association study of 500,000 random SNPs in type 1 diabete
+0	diabetes	NA	NA	TABLE	Follow up analysis of the genome-wide association scan of 13,378 nonsynonymous SNPs in type 1 diabete
+0	diabetes	NA	NA	TABLE	Association study of type 1 diabetes associated SNPs in 2,200 individuals with Graves' disease and 3,600 geographically-matched control
+0	diabetes	NA	NA	TABLE	Analysis of gene-gene interactions of new type 1 diabetes loci with known disease loc

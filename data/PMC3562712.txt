@@ -1,0 +1,138 @@
+0	Breast and prostate cancer	NA	NA	ABSTRACT	We report a genome-wide association follow up study on prostate cancer.
+0	NA	NA	NA	ABSTRACT	We identify four variants associated with the disease in European populations: rs10934853-A (OR = 1.12, P = 2.9x10-10) on 3q21.3, two moderately correlated (r2 = 0.07) variants on 8q24.21; rs16902094-G (OR = 1.21, P = 6.2x10-15) and rs445114-T (OR = 1.14, P = 4.7x10-10) and rs8102476-C (OR = 1.12, P = 1.6x10-11) on 19q13.2.
+0	NA	NA	NA	ABSTRACT	We also refine a previous association signal on 11q13 with the SNP rs11228565-A (OR =1.23, P = 6.7 x 10-12).
+0	Breast and prostate cancer	NA	NA	ABSTRACT	In a multi-variant analysis, using 22 prostate cancer risk variants typed in the Icelandic population, we estimate that carriers belonging to the top 1.3% of the risk distribution have a risk of developing the disease that is more than 2.5 times greater than the population average risk estimates
+0	Breast and prostate cancer	NA	NA	INTRO	We and others have previously presented results from genome-wide association studies (GWAS) on prostate cancer reporting several common variants conferring risk of the disease.
+0	Breast and prostate cancer	NA	NA	INTRO	By scrutinizing both our Icelandic GWAS data and publicly available data, as well as through fine-mapping work of two previously published loci on 8q24.21 and 11q13, we identified four new variants conferring risk of prostate cancer and a variant refining the previously published association signal on 11q13
+0	Breast and prostate cancer	NA	NA	INTRO	In order to search for prostate cancer risk variants, we performed an analysis of the combined data from the Icelandic GWAS, generated using the Illumina 317K chip, and from the replication genotyping project, released (spring 2008) by the National Cancer Institute Cancer GeneticMarkers of Susceptibility (CGEMS), using 25K SNPs genotyped on five study populations, including PLCO, CPS-II, HPFS, FPCC and ATBC.
+0	Breast and prostate cancer	NA	NA	INTRO	In the combined study, when excluding regions containing previously reported prostate cancer risk variants, only two SNPs have P < 1x10-5.
+0	NA	NA	rs10934853	INTRO	These two new variants are: allele A of rs10934853 (rs10934853-A) located on 3q21.3 (a fully correlated marker used from the CGEMS data is rs4857841 with D' and r2 = 1 according to CEU HapMap, Supplementary Table 1); allelic odds ratio (OR) of 1.14 and P = 1.6x10-7 and allele C of rs8102476 (rs8102476-C) located on 19q13.2; OR of 1.11 and P = 2.6x10-6.
+0	Breast and prostate cancer	NA	rs445114	INTRO	In the combined study of the Icelandic and CGEMS data, when analyzing variants located within 1 Mb regions of previously published prostate cancer risk loci, we found only the SNP rs445114, located on 8q24.21, to be associated with prostate cancer (OR = 1.14, P = 3.1x10-8) and not to be correlated with other signals at any of the previously reported prostate cancer loci
+0	NA	NA	NA	INTRO	As a part of ongoing fine-mapping project on the three previously published variants on 8q24.21 we re-sequenced a 527 kb candidate region on 8q24 using pools of either Icelandic case or control samples (see Online Methods).
+0	Breast and prostate cancer	NA	NA	INTRO	We prioritized the analysis of 7 SNPs producing suggestive association results for prostate cancer in the analysis of the pooled samples (Supplementary Table 1).
+0	NA	NA	NA	INTRO	These 7 SNPs were genotyped, using Centaurus single track assay, in our Icelandic set of up to 1,980 patients and 7,000 controls.
+0	Breast and prostate cancer	NA	rs16902094	INTRO	Six of the SNPs were found to be correlated with one of the previously reported variants on 8q24, while rs16902094 was not found to be correlated with any of the previously reported prostate cancer variants on 8q24.21 (Supplementary Tables 1 and 2).
+0	Breast and prostate cancer	NA	rs16902094	INTRO	Furthermore, rs16902094 was found to be associated with prostate cancer in Iceland, having an OR of 1.28 (P = 3.5x10-6; Table 1).
+0	NA	NA	rs16902094	INTRO	rs16902094 is not present on the Illumina Hap 317K SNP chip and no data are available for it in the HapMap project according to HapMap's official website.
+0	NA	NA	rs16902094	INTRO	However, by genotyping SNPs located within the same LD-region as rs16902094 and that are present on the Illumina Hap 550 chip, we identified a highly correlated SNP rs16902104 (D' = 0.98, r2 = 0.96 according to data from 2,633 Icelanders; Supplementary Table 1) which CGEMS has released data for.
+0	NA	NA	rs16902094	INTRO	By combining the Icelandic data for rs16902094 and the CGEMS data for rs16902104 we obtained an OR of 1.21 (P = 1.1x10-9)
+0	NA	NA	rs16902094	INTRO	The two new SNPs on 8q24.21, rs16902094 and rs445114, are located in the same LD-region but the correlation between them is very low (D' = 1 and r2 = 0.07 according to data from 5,450 Icelanders; Supplementary Table 1) and the results for both remain significant after adjustment for the other (Supplementary Table 3a).
+0	Breast and prostate cancer	NA	rs16902094	INTRO	This suggests that a unique variant capturing the effect of both rs16902094 and rs445114 remains to be discovered or, alternatively, that the LD-region contains more than one variant that predisposes to prostate cancer.
+0	cancers	NA	rs13281615	INTRO	Of the previously published cancer variants on 8q24, only the breast cancer variant (rs13281615) is located within the same LD-region as the two new 8q24 SNPs and rs445114 is somewhat correlated with it (D' = 0.76, r2 = 0.44; Supplementary Table 2), while rs16902094 is much less correlated with it (D' = 0.61, r2 = 0.06; Supplementary Table 2).
+0	bladder and prostate cancer	NA	rs16902094	INTRO	However, both rs16902094 and rs445114 show very little correlation with any of the previously published prostate-, colon-, or bladder cancer risk variants on 8q24 (D' <= 0.6 and r2 <= 0.13; Supplementary Table 2 and Supplementary Fig.
+0	NA	NA	NA	INTRO	1).
+0	Breast and prostate cancer	NA	rs16902094	INTRO	The results in Iceland for rs16902094, rs445114 and the three previously published prostate cancer risk variants on 8q24, remain significant after being adjusted for each other (Supplementary Table 3b).
+0	Breast and prostate cancer	NA	rs16902094	INTRO	Hence, rs16902094 and rs445114 should be included in the list of variants at 8q24 associated with prostate cancer risk.
+0	Breast and prostate cancer	NA	NA	INTRO	The five 8q24 variants conferring risk of prostate cancer are distributed between four LD-regions, spanning approximately 480 kb.
+0	Breast and prostate cancer	NA	rs6983267	INTRO	One of the five prostate cancer risk variants, rs6983267, has been shown to also affect the risk of colorectal cancer.
+0	cancers	NA	NA	INTRO	Other cancer risk variants on 8q24.21, conferring risk of breast or bladder cancer, have not been shown to predispose to prostate cancer
+0	Breast and prostate cancer	NA	rs10934853	INTRO	We proceeded to genotype all the four newly discovered SNPs (rs10934853 on 3q21.3, rs8102476 on 19q13.2 and rs16902094 and rs16902104 both on 8q24.21) in at least two out of five prostate cancer study groups (deCODE follow up groups) of European descent.
+0	NA	NA	NA	INTRO	These groups come from The Netherlands, Spain, Finland and the United States (US) (see Supplementary Note).
+0	NA	NA	NA	INTRO	When results for SNPs successfully genotyped in these groups were combined with the Icelandic and CGEMS data discussed above, they were significant for all loci, surpassing the threshold of genome-wide significance set by many at P > 10-7.
+0	NA	NA	NA	INTRO	By examining the literature we found that Duggan et al.
+0	Breast and prostate cancer	NA	rs10934853	INTRO	had published data (OR = 1.21, P = 0.045) for rs10934853, on 3q21.3, from a study on aggressive prostate cancer in the CAPS study population from Sweden.
+0	NA	NA	NA	INTRO	Thereby, adding further significance to the combined analysis of the 3q21.3 locus (see Table 1 for combined OR and P-values)
+0	NA	NA	NA	INTRO	When inspected, a test of heterogeneity in the OR for all variants and all study groups showed a nominally significant heterogeneity (Phet = 0.039) for the 3q21.3 locus, no significant difference was observed for the other three loci (Phet > 0.1).
+0	NA	NA	rs10934853	INTRO	For rs10934853 on 3q21.3 the estimated OR tended to be greater for the combined US study groups (OR =1.21 and the 95% CI: 1.13, 1.28) than for the combined European study groups (OR = 1.08 and the 95% CI: 1.04, 1.13).
+0	NA	NA	NA	INTRO	This observation, while interesting, needs to be further confirmed
+0	Breast and prostate cancer	NA	NA	INTRO	A prostate cancer risk variant, with an allelic frequency of about 0.5 and located on 11q13, was reported previously by two groups independently; Thomas et al.
+0	NA	NA	rs10896449	INTRO	reported rs10896449, and Eeles et al.
+0	NA	NA	rs7931342	INTRO	reported rs7931342 (the two SNPs are highly correlated with D' = 1 and r2 = 0.97 according to Utah CEPH (CEU) HapMap data).
+0	Breast and prostate cancer	NA	rs10896450	INTRO	In the Icelandic GWAS data set, the strongest association with prostate cancer on 11q13 was observed for allele G of rs10896450 (OR = 1.13, P = 2.5 x10-4; Table 2), a SNP highly correlated with the two previously reported SNPs (D' = 1; r2 > 0.97 according to CEU HapMap data).
+0	NA	NA	rs10896449	INTRO	In order to investigate further the 11q13 locus, we selected six SNPs not present on the Illumina Hap300 chip but moderately correlated with each of the three anchor SNPs: rs10896449, rs7931342, and rs10896450 (D' >= 0.70 and r2 > 0.24 according to CEU HapMap data; Supplementary Table 1).
+0	NA	NA	NA	INTRO	Furthermore, these SNPs are not strongly correlated with any SNP on the Illumina Hap300 chip (r2 < 0.8).
+0	NA	NA	NA	INTRO	By doing this, we attempted to find variants with greater risk and lower allelic frequency.
+0	NA	NA	NA	INTRO	The additional six SNPs were genotyped in 1,809 and 783 Icelandic cases and controls, respectively.
+0	Breast and prostate cancer	NA	NA	INTRO	The control individuals were randomly selected from the Icelandic population and were not known to have prostate cancer according to the nationwide Icelandic Cancer Registry (see URL below).
+0	NA	NA	rs11228565	INTRO	Allele A of the refinement SNP rs11228565 was found to confer greater risk of the disease than the anchor SNP (rs10896450), with an OR of 1.24 (P = 0.0057) and a control frequency of 0.177 in the Icelandic study group (Table 1 and Supplementary Table 4).
+0	NA	NA	rs10896450	INTRO	We then tested the two SNPs, rs10896450 and rs11228565, in the five deCODE follow up groups.
+0	NA	NA	rs10896450	INTRO	For the Finnish study group, instead of genotyping rs10896450, we used data available for the highly correlated SNP rs7931342 (D' = 1; r2 > 0.97 according to CEU HapMap data), previously reported by Kote-Jarai et al.
+0	NA	NA	NA	INTRO	Combination of the results from Iceland and the deCODE follow up groups gave an estimated OR of 1.15 (P = 2.6 x 10-8) for rs10896450-G whereas for rs1128565-A the OR was estimated to be 1.23 (P = 6.7x10-12) (Table 1 and Supplementary Table 5).
+0	NA	NA	rs11285565	INTRO	The estimated frequency of the risk allele of rs11285565 in the combined data set of the groups used in this study is 0.20 compared to 0.50 for the G allele of rs10896450 (Supplementary Table 5).
+0	NA	NA	NA	INTRO	Hence, the frequency of the risk allele for the new SNP is lower than for the previously reported one.
+0	NA	NA	rs11285565	INTRO	Also, the point estimate of the OR is greater (OR = 1.23 for rs11285565 vs. 1.15 for rs10896450) although the difference is not significant, (P = 0.08 using results for all study groups; Supplementary Table 5).
+0	NA	NA	rs11228565	INTRO	The results for rs11228565 were strongest for the study groups from Nashville and Finland but weakest for the Spanish group.
+0	NA	NA	NA	INTRO	However, a test of heterogeneity in the OR of all study groups showed no significant difference for the 11q13 locus (P = 0.26).
+0	NA	NA	NA	INTRO	When adjusting the results for the refinement SNP (rs11228565-A) using data the anchor SNPs, (rs10896450-G or rs7931342-G), it remained significant (OR = 1.19, P = 5.0 x 10-7) while the anchor SNPs were not significant after being adjusted for the refinement SNP (OR = 1.03, P = 0.15; Supplementary Table 5)
+0	NA	NA	NA	INTRO	For the six study groups of European descent (excluding the five CGEMS groups and the study by Duggan et al.
+0	NA	NA	NA	INTRO	), where we had information about age at diagnosis, no age effect was seen for any of the five loci discussed above (P >= 0.3).
+0	NA	NA	NA	INTRO	By computing the genotype specific ORs or inspecting the genotypic ORs from the public CGEMS data set for the variants in Table 1, we found that the multiplicative model provides an adequate fit for all five loci in the study groups analyzed (for the full- vs. the multiplicative model all P > 0.1; Supplementary Table 6 and Online Methods).
+0	aggressive disease	NA	NA	INTRO	Comparing the patients with a more aggressive phenotype (Gleason >=7 and/or T3 or higher and/or node positive and/or metastatic disease) to the group with less aggressive tumors (Gleason <7 and T2 or lower) showed no difference; an OR between 0.94 and 1.03 (P > 0.1) was observed for the five loci.
+0	aggressive disease	NA	NA	INTRO	The public CGEMS data also showed no difference between patients with more or less aggressive disease (P > 0.40) for the SNPs where data are available (3q21, 8q24, and 19q13.2).
+0	NA	NA	NA	INTRO	The study published by Duggan et al.
+0	Breast and prostate cancer	NA	NA	INTRO	was on aggressive prostate cancer only and a comparison with less aggressive disease was therefore not possible
+0	Breast and prostate cancer	NA	NA	INTRO	The four novel loci reported here, add to the rapidly increasing number of prostate cancer susceptibility variants, identified through GWASs.
+0	Breast and prostate cancer	NA	NA	INTRO	In Table 2, we provide results from the Icelandic GWAS for risk variants reported by us and/or others (until February 2009) to confer risk of prostate cancer.
+0	NA	NA	NA	INTRO	For some of the SNP associations reported in other populations, the Icelandic results provide replication (in particular 7p15 and 10q11), while we failed to replicate association for other SNPs in this population (in particular 9q33 and 22q13).
+0	Breast and prostate cancer	NA	NA	INTRO	In order to summarize the overall effect of the variants in Tables 1 and 2 we combined the effect of all variants affecting risk of prostate cancer in the Icelandic population., We performed a multi-variant analysis, using the multiplicative model for 22 risk variants.
+0	NA	NA	NA	INTRO	Testing the assumptions, no significant deviation from the multiplicative model was observed for any given variant as well as no interaction between variants (see Online Methods).
+0	NA	NA	NA	INTRO	Based on this analysis, the estimated risk is more than 2.5-fold greater for the top 1.3% of the risk distribution (including 0.3% of the population with a risk greater than 3), using the population average risk as a reference (Table 3).
+0	Breast and prostate cancer	NA	NA	INTRO	For these individuals this corresponds to a lifetime risk of over 30% of being diagnosed with prostate cancer, compared with a risk of 12%, on average in Iceland, of getting the disease before age 75, according to NORDCAN (see URL below) assuming no interaction between the effect of the variants and age at diagnosis.
+0	NA	NA	NA	INTRO	The combined risk estimates presented here are similar to those previously reported by Kote-Jarai et al.
+0	NA	NA	NA	INTRO	for 15 risk variants.
+0	NA	NA	NA	INTRO	We note that the estimates provided here are based solely on our Icelandic study population, and that more accurate estimates could be obtained from large prospective studies.
+0	Breast and prostate cancer	NA	NA	INTRO	Also, given the fast pace of discoveries in the current era of GWASs, more variants associated with prostate cancer risk are likely to be discovered, which suggests the need for constant updating of such multivariant risk models
+0	NA	NA	NA	METHODS	1,968 and 35,382 Icelandic case- and control-samples respectively, were successfully assayed with the Infinium HumanHap300 SNP chip (Illumina, SanDiego, CA, USA), containing 317,503 haplotype tagging SNPs derived from phase I of the International HapMap project.
+0	NA	NA	NA	METHODS	Of the SNPs assayed on the chip, 2,906 SNPs had a yield lower than 95%, 271 SNPs had a minor allele frequency, in the combined set of cases and controls, below 0.01 or were monomorphic.
+0	NA	NA	NA	METHODS	An additional 4,632 SNPs showed a significant distortion from Hardy-Weinberg equilibrium in the controls (P < 1.0x10-3).
+0	NA	NA	NA	METHODS	In total, 6,983 unique SNPs were removed from the study.
+0	NA	NA	NA	METHODS	Thus, the analysis reported in the main text utilizes 310,520 SNPs.
+0	NA	NA	NA	METHODS	Any samples with a call rate below 98% were excluded from the analysis
+0	NA	NA	NA	METHODS	Single SNP genotyping of the SNPs reported in the main text for the four case-control groups from Iceland, The Netherlands, Spain and Chicago was carried out by deCODE Genetics in Reykjavik, Iceland, applying the Centaurus (Nanogen) platform.
+0	NA	NA	NA	METHODS	The quality of each Centaurus SNP assay was evaluated by genotyping each assay in the CEU and/or YRI HapMap samples and comparing the results with the HapMap publicly released data.
+0	NA	NA	NA	METHODS	Assays with >1.5% mismatch rate were not used and a linkage disequilibrium (LD) test was used for markers known to be in LD.
+0	NA	NA	NA	METHODS	We re-genotyped more than 10% of the samples and observed a mismatch rate lower than 0.5%.
+0	NA	NA	NA	METHODS	Genotyping of samples from Finland and Nashville was done using the same Centaurus assays as used in Iceland at the University of Tampere and Vanderbilt University, respectively, using standard protocols
+0	NA	NA	NA	METHODS	For each of the SNPs discussed in the main text, the yield was higher than 95% for those samples which genotyping was attempted for in every study group.
+0	NA	NA	rs16902094	METHODS	The SNPs rs16902094 on 8q24 and rs11228565 on 11q13 are not present on the Human Hap300 chip.
+0	NA	NA	NA	METHODS	Therefore, using a single SNP assay for genotyping, an attempt was made to genotype 6,900 and 800 individuals, respectively, of the 35,382 Icelandic controls as well as 1,860 Icelandic cases and all available individuals from the replication study groups
+0	NA	NA	NA	METHODS	In order to search for new SNPs on 8q24, a 527 kb region (128113108 - 128640337 bp, Build 36) was sequenced using the Solexa re-sequencing platform (Illumina Inc.).
+0	NA	NA	NA	METHODS	From our set of ~2,000 cases, 800 were selected randomly and split into two DNA-pools, each with 400 samples.
+0	Breast and prostate cancer	NA	NA	METHODS	Similarly, 800 control individuals, not known to have prostate cancer, were selected randomly and split into two DNA-pools.
+0	NA	NA	NA	METHODS	Dilutions were prepared in duplicates for the 4 pools and used for longe-range PCR reactions (each amplimer consisted of about 10 kb).
+0	NA	NA	NA	METHODS	PCR fragments were run on 0.8% agarose gels and the DNA visualized with BlueView (Sigma Inc.) under normal light and their sizes estimated with HindIII digested lambda size marker (Fermentas Inc).
+0	NA	NA	NA	METHODS	Bands of correct sizes were excised out of the agarose gels and purified with Qiagen gel extraction kit (Qiagen Inc.).
+0	NA	NA	NA	METHODS	The PCR products were quantified by picogreen assay (Invitrogen Inc.) as described by the manufacturer.
+0	NA	NA	NA	METHODS	The preparation of the Solexa DNA libraries, the cluster generation and DNA sequencing was done was done as described by Bentley et al.
+0	NA	NA	NA	METHODS	The SNP Analysis pipeline is composed of four components: Alignment, SNP calling, Filtering and Association analysis.
+0	NA	NA	NA	METHODS	Promising SNPs were selected for further study/confirmation using Centaurus single track SNP assays
+0	NA	NA	NA	METHODS	For SNPs that were in strong LD, whenever the genotype of one SNP was missing for an individual, the genotype of the correlated SNP was used to provide partial information through a likelihood approach as previously described.
+0	NA	NA	NA	METHODS	This ensured that results presented in Supplementary Table 5 were based on the same number of individuals, allowing meaningful comparisons of results for correlated SNPs.
+0	NA	NEMO	NA	METHODS	A likelihood procedure described in a previous publication and implemented in the NEMO software was used for the association analyses
+0	Breast and prostate cancer	NA	NA	METHODS	We tested the association of an allele to prostate cancer using a standard likelihood ratio statistic that, if the subjects were unrelated, would have asymptotically a chi distribution with one degree of freedom under the null hypothesis.
+0	NA	NA	NA	METHODS	Allelic frequencies rather than carrier frequencies are presented for the markers in the main text.
+0	NA	NA	NA	METHODS	Allele-specific ORs and associated P values were calculated assuming a multiplicative model for the two chromosomes of an individual.
+0	NA	NA	NA	METHODS	Results from multiple case-control groups were combined using a Mantel-Haenszel model in which the groups were allowed to have different population frequencies for alleles, haplotypes and genotypes but were assumed to have common relative risks (see Gudmundsson et al.
+0	NA	NA	NA	METHODS	for a more detailed description of the association analysis)
+0	NA	NA	NA	METHODS	The control groups from Iceland, The Netherlands, Spain, and Finland include both male and female controls.
+0	NA	NA	NA	METHODS	No significant difference between male and female controls was detected for SNPs presented in Table 1 for each of these four groups.
+0	NA	NA	NA	METHODS	Controls from other study groups include only males
+0	NA	NA	rs4962416	METHODS	In order to assess the association for the SNP rs4962416 on 10q26, which is in the CEU section of the Hapmap database but absent from the Illumina Hap300 chip, we use a method based on haplotypes of two markers (rs7077275 and rs893856) present on the chip.
+0	NA	NA	NA	METHODS	We used a method we have previously employed, that is an extension of the two-marker haplotype tagging method and is similar in spirit to two other proposed methods.
+0	NA	NA	NA	METHODS	We computed associations with a linear combination of the different haplotypes chosen to act as surrogates to HapMap markers in the regions.
+0	Breast and prostate cancer	NA	NA	METHODS	These calculations were based on 1,724 prostate cancer cases and 35,322 controls genotyped on chip
+0	Breast and prostate cancer	NA	NA	METHODS	In a multi-variant analysis, we combined the effect of 22 variants affecting risk of prostate cancer using estimates based on data from only the Icelandic study group.
+0	NA	NA	NA	METHODS	A multiplicative model was assumed at each variant and between all variants.
+0	NA	NA	NA	METHODS	For the 21 autosomal variants we tested for deviation from the multiplicative model comparing it to the full model of genotypic odds ratio (OR).
+0	NA	NA	NA	METHODS	No significant (given the number of tests performed) deviation from the multiplicative model was detected (all P-values > 0.0024, corresponding to 0.05 divided by 21).
+0	NA	NA	rs5945572	METHODS	For the variant located on the X chromosome (rs5945572), there exist only two male genotypes (carrier and no-carrier).
+0	NA	NA	NA	METHODS	Also, we tested the pair-wise interactions between the 22 risk variants using logistic regressions including terms corresponding to the 231 possible pairs.
+0	NA	NA	NA	METHODS	No significant (given the number of tests performed) deviation from the multiplicative model was detected with a level of significance below 0.00022 (corresponding to P = 0.05 divided by 231).
+0	NA	NA	NA	METHODS	Similarly, the absence of interaction between variants has previously been reported by others.
+0	NA	NA	NA	METHODS	Odds ratios were calculated for all possible genotype combinations based on these 22 variants and expressed relative to the average general population risk.
+0	NA	NA	NA	METHODS	The combined OR estimates were then divided into OR-ranges and presented along with the percentage of the population within each OR-range (See Table 3 in the main text).
+0	NA	NA	NA	METHODS	The general population risk was determined using a frequency-weighted average risk for all possible genotypes
+0	NA	NA	NA	METHODS	The Icelandic samples were part of the initial discovery study populations for 10 of these 22 variants, therefore the estimates for these may be inflated due to winners curse.
+0	NA	NA	rs10934853	METHODS	From Table 1 we are using the estimates for the following variants: rs10934853 on 3q21.3, rs11228565 on 11q13 and rs8102476 on 19q13.2.
+0	NA	NA	rs1447295	METHODS	For the five variants (rs1447295, rs6983267, rs16901979, rs16902094 and rs445114) on 8q24.21 we are using the adjusted estimates as reported in Supplementary Table 3b.
+0	NA	NA	rs1571801	METHODS	From Table 2, we use the estimates for all variants except rs1571801 on 9q33 since its effect was in the opposite direction compared to the original publication, and rs10896450 on 11q13 for which data for the refinement SNP (rs11228565) in Table 1 was used.
+0	NA	NA	rs4430796	METHODS	Furthermore, for the two variants on 17q12, reported in Table 2, we are using the estimates adjusted for each other since the two markers are located ~25 kb to each other although not correlated (D' = 0.03, r2 = 0.0004 according to CEU HapMap data); rs4430796 has an adjusted OR of 1.17 and rs11649743 has an adjusted OR of 1.06
+0	NA	NA	NA	METHODS	We apply the combined genetic relative risk to the lifetime risk by multiplying them together.
+0	NA	NA	NA	METHODS	Since the association with the disease for these variants has not been shown to depend on age at diagnosis, we assume that the individual estimates for each variant will have a similar effect at any given age.
+0	Breast and prostate cancer	NA	NA	METHODS	The lifetime risk of getting prostate cancer is estimated to be 12%, on average in Iceland, before the age of 75, according to NORDCAN (see URL)
+0	cancers	ACS	NA	METHODS	"For the five individual study populations from the CGEMS study (ACS = American Cancer Society Prevention Study II (US); ATBC = Alpha-Tocopherol, Beta-Carotene Prevention Study (Finland); FPCC: CeRePP French Prostate Case-Control Study (France); HPFS = Health Professionals Follow-up Study (US); PLCO = Prostate, Lung, Colon, Ovarian Trial (US)), when assessing the allelic effect we used the pre-computed data (released in spring, 2008) corresponding to ""All case versus control (dichotomous), genotype trend effect model, adjusted""."
+0	NA	ACS	NA	METHODS	"When assessing the genotypic effect at each loci for the CGEMS study we used the pre-computed ""All case versus control (dichotomous), genotype-specific effect model, adjusted, ALL (ACS, HPFS, FPCC, ATBC, PLCO)"""
+0	NA	NA	NA	METHODS	Some individuals in the Icelandic case-control groups were related to each other, causing the aforementioned chi2 test statistic to have a mean >1.
+0	NA	NA	NA	METHODS	We estimated the inflation factor by using a previously described procedure in which we simulated genotypes through the genealogy of the 37,350 Icelanders analyzed in the present study (number of simulations = 100,000).
+0	NA	NA	NA	METHODS	The inflation factor was estimated to be 1.10.
+0	NA	NA	NA	METHODS	Results from the Icelandic samples presented in the main text are based on adjusting the chi2 statistics by dividing each of them by 1.10

@@ -1,0 +1,289 @@
+0	breast cancer	NA	NA	ABSTRACT	Breast cancer exhibits familial aggregation, consistent with variation in genetic susceptibility to the disease.
+0	breast cancer	NA	NA	ABSTRACT	Known susceptibility genes account for less than 25% of the familial risk of breast cancer, and the residual genetic variance is likely to be due to variants conferring more moderate risks.
+0	breast cancer	NA	NA	ABSTRACT	To identify further susceptibility alleles, we conducted a two-stage genome-wide association study in 4,398 breast cancer cases and 4,316 controls, followed by a third stage in which 30 single nucleotide polymorphisms (SNPs) were tested for confirmation in 21,860 cases and 22,578 controls from 22 studies.
+0	NA	NA	NA	ABSTRACT	We used 227,876 SNPs that were estimated to correlate with 77% of known common SNPs in Europeans at r2>0.5.
+0	breast cancer	P<10-7	NA	ABSTRACT	SNPs in five novel independent loci exhibited strong and consistent evidence of association with breast cancer (P<10-7).
+1	NA	FGFR2	NA	ABSTRACT	Four of these contain plausible causative genes (FGFR2, TNRC9, MAP3K1 and LSP1).
+0	NA	NA	NA	ABSTRACT	At the second stage, 1,792 SNPs were significant at the P<0.05 level compared with an estimated 1,343 that would be expected by chance, indicating that many additional common susceptibility alleles may be identifiable by this approach
+0	breast cancer	NA	NA	INTRO	Breast cancer is about twice as common in the first-degree relatives of women with the disease as in the general population, consistent with variation in genetic susceptibility to the disease.
+0	breast cancer	BRCA1	NA	INTRO	In the 1990s, two major susceptibility genes for breast cancer, BRCA1 and BRCA2, were identified.
+0	breast cancer	NA	NA	INTRO	Inherited mutations in these genes lead to a high risk of breast and other cancers.
+0	breast cancer	NA	NA	INTRO	However, the majority of multiple case breast cancer families do not segregate mutations in these genes.
+0	breast cancer	NA	NA	INTRO	Subsequent genetic linkage studies have failed to identify further major breast cancer genes.
+0	breast cancer	NA	NA	INTRO	These observations have led to the proposal that breast cancer susceptibility is largely 'polygenic': that is, susceptibility is conferred by a large number of loci, each with a small effect on breast cancer risk.
+0	breast cancer	NA	NA	INTRO	This model is consistent with the observed patterns of familial aggregation of breast cancer.
+0	NA	NA	NA	INTRO	However, progress in identifying the relevant loci has been slow.
+0	NA	NA	NA	INTRO	As linkage studies lack power to detect alleles with moderate effects on risk, large case-control association studies are required.
+0	breast cancer	CHEK2	NA	INTRO	Such studies have identified variants in the DNA repair genes CHEK2, ATM, BRIP1 and PALB2 that confer an approximately twofold risk of breast cancer, but these variants are rare in the population.
+0	breast cancer	CASP8	NA	INTRO	A recent study has shown that a common coding variant in CASP8 is associated with a moderate reduction in breast cancer risk.
+0	breast cancer	NA	NA	INTRO	After accounting for all the known breast cancer loci, more than 75% of the familial risk of the disease remains unexplained
+0	NA	NA	NA	INTRO	Recent technological advances have provided platforms that allow hundreds of thousands of SNPs to be analysed in association studies, thus providing a basis for identifying moderate risk alleles without prior knowledge of position or function.
+0	NA	NA	NA	INTRO	It has been estimated that there are 7 million common SNPs in the human genome (with minor allele frequency, m.a.f., >5%).
+0	NA	NA	NA	INTRO	However, because recombination tends to occur at distinct 'hot-spots', neighbouring polymorphisms are often strongly correlated (in 'linkage disequilibrium', LD) with each other.
+0	NA	NA	NA	INTRO	The majority of common genetic variants can therefore be evaluated for association using a few hundred thousand SNPs as tags for all the other variants.
+0	breast cancer	NA	NA	INTRO	We aimed to identify further breast cancer susceptibility loci in a three-stage association study.
+0	NA	NA	NA	INTRO	In the first stage, we used a panel of 266,722 SNPs, selected to tag known common variants across the entire genome.
+0	breast cancer	NA	NA	INTRO	These SNPs were genotyped in 408 breast cancer cases and 400 controls from the UK; data were analysed for 390 cases and 364 controls genotyped for >=80% of the SNPs.
+0	breast cancer	NA	NA	INTRO	The cases were selected to have a strong family history of breast cancer, equivalent to at least two affected female first-degree relatives, because such cases are more likely to carry susceptibility alleles.
+0	NA	NA	NA	INTRO	Initally, we analysed 227,876 SNPs (85%) with genotypes on at least 80% of the subjects.
+0	NA	NA	NA	INTRO	We estimate that these SNPs are correlated with 58% of common SNPs in the HapMap CEPH/CEU (Utah residents with ancestry from northern and western Europe) samples at r2>0.8, and 77% at r2>0.5 (mean r2=0.75; see Supplementary Fig.
+0	NA	NA	NA	INTRO	1) (http://www.hapmap.org/).
+0	NA	NA	NA	INTRO	As expected, coverage was strongly related to m.a.f.
+0	NA	NA	NA	INTRO	: 70% of SNPs with m.a.f.>10% were tagged at r2>0.8, compared with 23% of SNPs with m.a.f.
+0	NA	NA	NA	INTRO	5-10%.
+0	NA	p<10-5	NA	INTRO	The main analyses were restricted to 205,586 SNPs that had a call rate of 90% and whose genotype distributions did not differ from Hardy-Weinberg equilibrium in controls (at P<10-5)
+0	NA	NA	NA	INTRO	For the second stage we selected 12,711 SNPs, approximately 5% of those typed in stage 1, on the basis of the significance of the difference in genotype frequency between cases and controls.
+0	breast cancer	NA	NA	INTRO	These SNPs were then genotyped in a further 3,990 invasive breast cancer cases and 3,916 controls from the SEARCH study, using a custom-designed oligonucleotide array.
+0	NA	NA	NA	INTRO	In the main analyses, we considered 10,405 SNPs with call rate of >95% that did not deviate from Hardy-Weinberg equilibrium in controls
+0	NA	NA	NA	INTRO	Comparison of the observed and expected distribution of test statistics showed some evidence for an inflation of the test statistics in both stage 1 (inflation factor lambda=1.03, 95% confidence interval (CI) 1.02-1.04) and stage 2 (lambda=1.06, 95% CI 1.04-1.12), based on the 90% least significant SNPs (Fig.
+0	NA	NA	NA	INTRO	1).
+0	NA	NA	NA	INTRO	Possible explanations for this inflation include population stratification, cryptic relatedness among subjects, and differential genotype calling between cases and controls.
+0	NA	NA	NA	INTRO	There was evidence for an excess of low call rate SNPs among the most significant SNPs (P<0.01) in stage 1, but not in stage 2, suggesting that some of this effect is a genotyping artefact (Supplementary Table 1).
+0	NA	NA	NA	INTRO	However, the inflation was still present among SNPs with call rate >99% in both cases and controls, possibly reflecting population sub-structure.
+0	NA	NA	NA	INTRO	We computed 1 degree of freedom (d.f.)
+0	NA	NA	NA	INTRO	association tests for each SNP, combining stages 1 and 2.
+0	NA	NA	NA	INTRO	After adjustment for this inflation by the genomic control method, we observed more associations than would have been expected by chance at P<0.05 (Table 1).
+1	NA	P<10-7	rs2981582	INTRO	One SNP (dbSNP rs2981582) was significant at the P<10-7 level that has been proposed as appropriate for genome-wide studies
+0	breast cancer	NA	NA	INTRO	In the third stage, to establish whether any SNPs were definitely associated with risk, we tested 30 of the most significant SNPs in 22 additional case-control studies, comprising 21,860 cases of invasive breast cancer, 988 cases of carcinoma in situ (CIS) and 22,578 controls (Supplementary Table 2).
+0	NA	NA	NA	INTRO	Six SNPs showed associations in stage 3 that were significant at P<=10-5 with effects in the same direction as in stages 1 and 2 (Table 2, Supplementary Table 3, and Fig.
+0	NA	NA	NA	INTRO	2).
+0	NA	P<10-7	NA	INTRO	All these SNPs reached a combined significance level of P<10-7 (ranging from 2x10-76 to 3x10-9).
+0	NA	NA	NA	INTRO	Of these six SNPs, five were within genes or LD blocks containing genes.
+1	NA	FGFR2	rs2981582	INTRO	SNP rs2981582 lies in intron 2 of FGFR2 (also known as CEK3), which encodes the fibroblast growth factor receptor 2.
+1	NA	TNRC9	rs12443621	INTRO	SNPs rs12443621 and rs8051542 are both located in an LD block containing the 5' end of TNRC9 (also known as TOX3), a gene of uncertain function containing a tri-nucleotide repeat motif, as well as the hypothetical gene, LOC643714.
+1	NA	MAP3K1	rs889312	INTRO	SNP rs889312 lies in an LD block of approximately 280 kb that contains MAP3K1 (also known as MEKK), which encodes the signalling protein mitogen-activated protein kinase kinase kinase 1, in addition to two other genes: MGC33648 and MIER3.
+1	NA	LSP1	rs3817198	INTRO	SNP rs3817198 lies in intron 10 of LSP1 (also known as WP43), encoding lymphocyte-specific protein 1, an F-actin bundling cytoskeletal protein expressed in haematopoietic and endothelial cells.
+1	NA	NA	rs2107425	INTRO	A further SNP, rs2107425, located just 110 kilobases (kb) from rs3817198, was also identified (overall P=0.00002).
+0	NA	H19	rs2107425	INTRO	rs2107425 is within the H19 gene, an imprinted maternally expressed untranslated messenger RNA closely involved in regulation of the insulin growth factor gene, IGF2.
+1	NA	NA	rs2107425	INTRO	In stage 3, however, rs2107425 was only weakly significant after adjustment for rs3817198 by logistic regression (P=0.06).
+1	breast cancer	LSP1	NA	INTRO	This suggests that the association with breast cancer risk may be driven by variants in LSP1 rather than in H19.
+0	NA	P<10-7	rs13281615	INTRO	The sixth SNP reaching a combined P<10-7 was rs13281615, which lies on 8q.
+0	NA	NA	NA	INTRO	It is correlated with SNPs in a 110 kb LD block that contains no known genes.
+0	NA	NA	NA	INTRO	The basis of this association therefore remains obscure.
+0	Breast and prostate cancer	NA	rs1447295	INTRO	This SNP is approximately 130 kb proximal to rs1447295, 60 kb proximal to rs6983267 and 230 kb distal to rs16901979, recently shown to be associated with prostate cancer
+1	NA	FGFR2	rs2981582	INTRO	The most significantly associated SNP, rs2981582, lies within a 25 kb LD block almost entirely within intron 2 of FGFR2.
+0	NA	NA	NA	INTRO	We found no evidence of association with SNPs elsewhere in the gene (Fig.
+0	NA	NA	NA	INTRO	3a).
+0	NA	NA	NA	INTRO	In an attempt to identify a causal variant, we first identified the 19 common variants (m.a.f.>0.05) in this block from HapMap CEU data.
+1	NA	NA	rs2981582	INTRO	These were tagged (r2>0.8) by 7 SNPs including rs2981582.
+0	NA	NA	NA	INTRO	The additional tag SNPs were genotyped in the SEARCH study cases and controls.
+1	NA	NA	rs2981582	INTRO	Multiple logistic regression analysis of these variants found no additional evidence for association after adjusting for rs2981582.
+1	breast cancer	NA	rs2981582	INTRO	Haplotype analysis of these 7 SNPs indicated that multiple haplotypes carrying the minor (a) allele of rs2981582 were associated with an increased risk of breast cancer, implying that the association was being driven by rs2981582 itself or a variant strongly correlated with it (Supplementary Table 4)
+1	NA	NA	rs2981582	INTRO	Resequencing of this region in 45 subjects of European origin identified 29 variants that were strongly correlated with rs2981582 (r2>0.6) (http://cgwb.nci.nih.gov; Fig.
+0	NA	NA	NA	INTRO	3b and Supplementary Tables 5-8).
+0	NA	NA	NA	INTRO	A subset of 14 variants tagged 27 of these in European (r2>0.95) and Asian (Korean) samples (r2>0.86).
+0	NA	NA	NA	INTRO	Two variants could not be genotyped reliably.
+0	NA	NA	NA	INTRO	This new tagging set was then genotyped in SEARCH and 3 studies from Asian populations; the Asian studies were included because the LD is weaker, providing greater power to resolve the causal variant (Fig.
+0	NA	NA	NA	INTRO	3b, left panel).
+0	NA	NA	rs7895676	INTRO	The strongest association was found with rs7895676.
+0	NA	NA	NA	INTRO	On the assumption that there is a single disease-causing allele, we calculated a likelihood for each variant.
+1	NA	NA	rs2981582	INTRO	21 SNPs (including rs2981582) had a likelihood ratio of <1/100 relative to rs7895676, indicating that none of these are likely to be the causal variant (Supplementary Table 8).
+0	NA	NA	NA	INTRO	Six variants were too strongly correlated for their individual effects to be separated using a genetic epidemiological approach.
+0	breast cancer	NA	NA	INTRO	Functional assays will be required to determine which is causally related to breast cancer risk
+1	NA	FGFR2	NA	INTRO	Intron 2 of FGFR2 shows a high degree of conservation in mammals, and contains several putative transcription-factor binding sites (http://genomequebec.mcgill.ca/PReMod), some of which lie in close proximity to the relevant SNPs.
+1	breast cancer	FGFR2	NA	INTRO	We therefore speculate that the association with breast cancer risk is mediated through regulation of FGFR2 expression.
+0	NA	NA	rs10736303	INTRO	Of possible relevance is that only three of these variants (rs10736303, rs2981578 and rs35054928) are within sequences conserved across all placental mammals (Fig.
+0	NA	NA	NA	INTRO	3c and Supplementary Table 8).
+0	NA	NA	rs10736303	INTRO	Of these, the disease associated allele of rs10736303 generates a putative oestrogen receptor (ER) binding site.
+0	NA	NA	rs35054928	INTRO	rs35054928 lies immediately adjacent to a perfect POU domain protein octamer (Oct) binding site.
+1	NA	FGFR2	NA	INTRO	However, multiple splice variants have been reported in FGFR2, and differential splicing might provide an alternative mechanism for the association.
+1	breast cancer	FGFR2	NA	INTRO	FGFR2 is a receptor tyrosine kinase that is amplified and overexpressed in 5-10% of breast tumours.
+1	cancers	FGFR2	NA	INTRO	Somatic missense mutations of FGFR2 that are likely to be implicated in cancer development have also been demonstrated in primary tumours and cell lines of multiple tumour types (http://www.sanger.ac.uk/genetics/CGP/cosmic/)
+1	NA	NA	rs12443621	INTRO	As two SNPs in the TNRC9/LOC643714 locus, rs12443621 and rs8051542, both showed convincing evidence of association, we further evaluated this region by genotyping, in the SEARCH set, an additional 19 SNPs tagging 101 common variants within the entire TNRC9 and LOC643714 genes, based on the HapMap CEU data.
+1	NA	TNRC9	NA	INTRO	SNPs tagging the coding region of TNRC9 showed no evidence of association.
+1	NA	TNRC9	rs3803662	INTRO	The strongest association was observed with rs3803662, a synonymous coding SNP of LOC643714 that lies 8 kb upstream of TNRC9.
+0	NA	NA	NA	INTRO	This SNP was therefore genotyped in the stage 3 set (Table 2).
+1	NA	NA	rs3803662	INTRO	Logistic regression analysis indicated that rs3803662 exhibited a stronger association with disease than other SNPs, and the associations with other SNPs were non-significant after adjustment for rs3803662.
+1	NA	NA	rs3803662	INTRO	These results suggest that the causal variant is closely correlated with rs3803662.
+1	NA	TNRC9	rs17271951	INTRO	Four SNPs in the HapMap CEU data (rs17271951, rs1362548, rs3095604 and rs4784227) that span LOC643714 and the 5' regulatory regions of TNRC9 are strongly correlated with rs3803662, and it therefore remains unclear in which gene the causative variant lies.
+1	NA	TNRC9	NA	INTRO	TNRC9 contains a putative HMG (high mobility group) box motif, suggesting that it might act as a transcription factor
+1	NA	P<10-7	rs2981582	INTRO	We assessed in more detail, in the stage 3 data, the pattern of the risks associated with the five independent SNPs that reached an overall P<10-7: rs2981582 (FGFR2), rs3803662 (TNRC9/LOC643714), rs889312 (MAP3K1), rs13281615 (8q) and rs3817198 (LSP1).
+0	breast cancer	NA	NA	INTRO	For each of these five SNPs, the minor allele in Europeans was associated with an increased risk of breast cancer in a dose-dependent manner, with a higher risk of breast cancer in homozygous than in heterozygous carriers.
+0	NA	NA	NA	INTRO	Simple dominant and recessive models could be rejected for each SNP (all P=0.02 or less).
+1	NA	NA	rs8051542	INTRO	There was a marked difference in allele frequencies between populations, with the risk-associated alleles of rs8051542, rs889312 and rs13281615 being the major allele in Asian populations.
+1	NA	NA	rs2981582	INTRO	The per allele odds ratio associated with rs2981582 was significantly smaller, though still elevated, in the Asian versus European populations (P=0.04 for difference in odds ratio).
+1	NA	FGFR2	rs2981582	INTRO	This difference is consistent with the hypothesis that rs2981582 is not the functional variant at the FGFR2 locus, and was not seen for SNPs exhibiting stronger evidence in the fine-scale mapping.
+0	NA	NA	NA	INTRO	No other evidence for heterogeneity in the per-allele odds ratio among studies was observed (Fig.
+0	NA	NA	NA	INTRO	2)
+1	NA	NA	rs2981582	INTRO	Three of the SNPs (rs2981582, rs3803662 and rs889312) also showed evidence of association with breast CIS (Supplementary Table 9).
+1	breast cancer	NA	rs2981582	INTRO	For rs2981582 and rs3803662, the estimated odds ratios were greater for a diagnosis of breast cancer before age 40 years, but the trends by age were not statistically significant (Supplementary Table 10).
+1	breast cancer	NA	rs2981582	INTRO	There was evidence of an association with family history of breast cancer for three SNPs: for rs2981582 (P=0.02), rs3803662 (P=0.03) and rs13281615 (P=0.05), the susceptibility allele was commoner in women with a first-degree relative with the disease than in those without (Supplementary Table 11).
+1	NA	NA	rs2981582	INTRO	rs2981582 was also associated with bilaterality (P=0.02).
+0	NA	CHEK2	NA	INTRO	The associations with family history and bilaterality are to be expected for susceptibility loci, and are similar to previous observations for alleles in CHEK2 and ATM (refs)
+0	breast cancer	NA	NA	DISCUSS	This study has identified five novel breast cancer susceptibility loci, and demonstrated conclusively that some of the variation in breast cancer risk is due to common alleles.
+0	NA	NA	NA	DISCUSS	None of the loci we identified had been previously reported in association studies.
+0	breast cancer	NA	NA	DISCUSS	Most previously identified breast cancer susceptibility genes are involved in DNA repair, and many association studies in breast cancer have concentrated on genes in DNA repair and sex hormone synthesis and metabolism pathways.
+0	NA	NA	NA	DISCUSS	None of the associations reported here appear to relate to genes in these pathways.
+1	breast cancer	FGFR2	NA	DISCUSS	It is notable that three of the five loci contain genes related to control of cell growth or to cell signalling, but only one (FGFR2) had a clear prior relevance to breast cancer.
+0	NA	NA	NA	DISCUSS	These results should, therefore, open up new avenues for basic research
+0	NA	NA	NA	DISCUSS	Our results emphasize the critical importance of study size in genetic association studies.
+0	NA	NA	NA	DISCUSS	It is notable that none of the confirmed associations reached genome-wide significance after stage 1 and only one reached this level after stage 2.
+0	cancers	NA	NA	DISCUSS	As most common cancers have similar familial relative risks to breast cancer, it is likely that similarly large studies will be required to identify common alleles for other cancers.
+1	NA	FGFR2	NA	DISCUSS	The fine-scale mapping of the FGFR2 locus demonstrates that, even with a clear association, identification of the causative variant can be extremely problematic.
+0	NA	NA	NA	DISCUSS	However, the use of studies from multiple populations with different patterns of LD can substantially reduce the number of variants that need to be subjected to functional analysis
+0	NA	NA	NA	DISCUSS	As these susceptibility alleles are very common, a high proportion of the general population are carriers of at-risk genotypes.
+1	breast cancer	NA	rs2981582	DISCUSS	For example, approximately 14% of the UK population and 19% of UK breast cancer cases are homozygous for the rare allele at rs2981582.
+1	breast cancer	NA	rs2981582	DISCUSS	On the other hand, the increased risks associated with these alleles are relatively small:on the basis of UK population rates, the estimated breast cancer risk by age 70 years for rare homozygotes at rs2981582 is 10.5%, compared to 6.7% in heterozygotes and 5.5% in common homozygotes.
+0	NA	NA	NA	DISCUSS	At this stage, it is unlikely that these SNPs will be appropriate for predictive genetic testing, either alone or in combination with each other.
+0	breast cancer	NA	NA	DISCUSS	However, as further susceptibility alleles are identified, a combination of such alleles together with other breast cancer risk factors may become sufficiently predictive to be important clinically
+0	breast cancer	NA	NA	DISCUSS	On the basis of the relative risk estimates from stage 3, and assuming that the five most significant loci interact multiplicatively on disease risk, these loci explain an estimated 3.6% of the excess familial risk of breast cancer.
+1	NA	P<10-7	rs2981582	DISCUSS	On the basis of our staged design and the estimated distribution of linkage disequilibrium between the typed SNPs and those in HapMap, we estimate that the power to identify the five most significant associations at P<10-7 (rs2981582, rs3803662, rs889312, rs13281615 and rs3817198) was 93%, 71%, 25%, 3% and 1% respectively.
+0	NA	NA	NA	DISCUSS	These estimates are uncertain, notably because the true coverage of HapMap SNPs is unknown.
+1	breast cancer	NA	rs2981582	DISCUSS	Nevertheless, these calculations indicate that the power to detect the two strongest associations was high, and suggest that there are likely to be few other common variants with a similar effect on variation in breast cancer risk to rs2981582.
+1	breast cancer	NA	rs13281615	DISCUSS	In contrast, the low power to detect rs13281615 and rs3817198 suggests that these variants may represent a much larger class of loci, each explaining of the order of 0.1% of the familial risk of breast cancer.
+0	NA	CASP8	D302H	DISCUSS	An example of such a locus is provided by CASP8 D302H, which showed strong evidence of association in a previous large study.
+0	NA	NA	NA	DISCUSS	This SNP was tested in stage 1, but the association was missed because it did not reach the threshold for testing in stage 2.
+0	NA	NA	NA	DISCUSS	The excess of associations after stage 2 is also consistent with the existence of many such loci.
+0	NA	NA	NA	DISCUSS	In addition, because the coverage for SNPs with m.a.f.<10% was low, many low frequency alleles may have been missed.
+0	NA	NA	NA	DISCUSS	The detection of further susceptibility loci will require genome-wide studies with more complete coverage and using larger numbers of cases and controls, together with the combination of results across multiple studies.
+0	breast cancer	NA	NA	DISCUSS	The present study demonstrates that common susceptibility loci can be reliably identified, and that they may together explain an appreciable fraction of the genetic variance in breast cancer risk
+0	breast cancer	NA	NA	METHODS	Cases for stage 1 were identified through clinical genetics centres in the UK and a national study of bilateral breast cancer.
+0	breast cancer	NA	NA	METHODS	Cases in stage 2 were drawn from a population-based study of breast cancer (SEARCH).
+0	cancers	NA	NA	METHODS	Controls for stages 2 and 3 were drawn from EPIC-Norfolk, a population-based study of diet and cancer
+0	breast cancer	NA	NA	METHODS	Cases and controls for stage 3 were identified through case-control studies in Europe, North America, South-East Asia and Australia participating in the Breast Cancer Association Consortium (Supplementary Table 2)
+0	NA	NA	NA	METHODS	Genotyping for stages 1 and 2 was conducted using high-density oligonucleotide microarrays.
+0	NA	NA	NA	METHODS	For the main analyses, we excluded samples called on <=80% of SNPs in either stage.
+0	NA	NA	NA	METHODS	We also excluded SNPs that achieved a call rate of <=90% in stage 1 and <=95% in stage 2, and SNPs whose frequency deviated from Hardy-Weinberg equilibrium in controls at P<0.00001.
+1	NA	FGFR2	NA	METHODS	Genotyping for stage 3, and for the fine-scale mapping of the FGFR2 locus, was conducted using either a 5' nuclease assay (Taqman, Applied Biosystems) or MALDI-TOF mass spectrometry using the Sequenom iPLEX system.
+0	NA	NA	NA	METHODS	For each centre, we excluded any sample called on <=80% of SNPs, and any SNP with a call rate of <=95% or a deviation from Hardy-Weinberg equilibrium in controls at P<0.00001.
+0	NA	NA	NA	METHODS	Tests of association were 1 d.f.
+0	NA	NA	NA	METHODS	Cochran-Armitage tests, stratified for stage, centre and ethnic group (European or Asian).
+0	NA	NA	NA	METHODS	Odds ratios for each SNP were estimated using stratified logistic regression, using the stage 3 data only
+0	breast cancer	NA	NA	METHODS	Cases in stage 1 were identified through clinical genetics centres in Cambridge (n = 91), Manchester (96) and Southampton (136), and a national study of bilateral breast cancer (85).
+0	breast cancer	NA	NA	METHODS	Cases were women diagnosed with invasive breast cancer under the age of 60 years who had a family history score of at least 2, where the score was computed as the total number of first-degree relatives plus half the number of second-degree relatives affected with breast cancer.
+0	breast cancer	NA	NA	METHODS	The score for women with bilateral breast cancer was increased by 1, so that women were eligible if they were diagnosed with bilateral breast cancer and had one affected first-degree relative.
+0	NA	BRCA1	NA	METHODS	Cases known to carry a BRCA1 or BRCA2 mutation were excluded.
+0	cancers	NA	NA	METHODS	Controls were selected from the EPIC-Norfolk study, a population-based cohort study of diet and cancer based in Norfolk, East Anglia, UK.
+0	cancers	NA	NA	METHODS	Controls were chosen to be women aged over 50 years and free of cancer at the time of entry.
+0	NA	NA	NA	METHODS	Genotyping was attempted on 408 cases, plus 32 duplicate case samples, and 400 controls.
+0	NA	NA	NA	METHODS	For the analysis in Table 1, 54 samples with genotype call rates <80% were excluded, so the final analyses were based on 390 cases and 364 controls.
+0	NA	NA	NA	METHODS	The minimum genotype call rate for the remaining samples was 89%.
+0	NA	NA	NA	METHODS	The overall genotype discordance rate between duplicate samples in stage 1 was 0.01%
+0	breast cancer	NA	NA	METHODS	For stage 2, invasive breast cancer cases were drawn from SEARCH, a population-based study of cancer in East Anglia.
+0	NA	NA	NA	METHODS	Controls were women selected from the EPIC-Norfolk study, as previously described.
+0	breast cancer	NA	NA	METHODS	Eighty-eight subjects who were also genotyped in stage 1, and 35 controls who subsequently developed breast cancer and were also in the case series, were excluded from the analysis, leaving 3,990 breast cancer cases and 3,916 controls, plus five duplicates.
+0	NA	NA	NA	METHODS	The overall rate of discordance of genotypes between duplicate samples in stage 2 was 0.008%
+0	NA	NA	NA	METHODS	Twenty-one additional studies were included in stage 3 (see Supplementary Table 2).
+0	breast cancer	NA	NA	METHODS	These studies participated through the Breast Cancer Association Consortium, an ongoing collaboration among investigators conducting case-control association studies in breast cancer.
+0	breast cancer	NA	NA	METHODS	All studies provided information on disease status (invasive breast cancer, carcinoma in situ or control), age at diagnosis/observation, ethnic group, first-degree family history of breast cancer and bilaterality of breast cancer.
+1	breast cancer	FGFR2	NA	METHODS	One further study (Breast Cancer Study of Taiwan) was included in the fine-scale mapping of the FGFR2 locus
+0	NA	NA	NA	METHODS	For stage 1, genotyping was performed on 200 ng DNA that was first subjected to whole genome amplification using Multiple Displacement Amplification (MDA).
+0	NA	NA	NA	METHODS	Samples were then genotyped for a set of 266,732 SNPs using high-density oligonucleotide, photolithographic microarrays at Perlegen Sciences.
+0	NA	NA	NA	METHODS	For stage 2, genotyping was performed using 2.5 mug genomic DNA.
+0	NA	NA	NA	METHODS	These samples were genotyped for a set of 13,023 SNPs selected on the basis of the stage 1 results, using a custom designed oligonucleotide array.
+0	NA	NA	NA	METHODS	For both stages, each SNP was interrogated by 24 25-mer oligonucleotide probes synthesized by photolithography on a glass substrate.
+0	NA	NA	NA	METHODS	The 24 features comprise 4 sets of 6 features interrogating the neighbourhoods of SNP reference and alternative alleles on forward and reference strands.
+0	NA	NA	NA	METHODS	Each allele and strand is represented by five offsets: -2, -1, 0, 1 and 2 indicating the position of the SNP within the 25-mer, with zero being at the thirteenth base.
+0	NA	NA	NA	METHODS	At offset 0 a quartet was tiled, which included the perfect match to reference and alternative SNP alleles, and the two remaining nucleotides as mismatch probes.
+0	NA	NA	NA	METHODS	When possible, the mismatch features were selected as a purine nucleotide substitution for a purine perfect match nucleotide and a pyrimidine nucleotide substitution for a pyrimidine perfect match nucleotide.
+0	NA	NA	NA	METHODS	Thus, each strand and allele tiling consisted of 6 features comprising five perfect match probes and one mismatch
+0	NA	NA	NA	METHODS	Individual genotypes were determined by clustering all SNP scans in the two-dimensional space defined by reference and alternative trimmed mean intensities, corrected for background.
+0	NA	NA	NA	METHODS	Allele frequencies were approximated using the intensities collected from the high-density oligonucleotide arrays.
+0	NA	NA	NA	METHODS	An SNP's allele frequency, p, was estimated as the ratio of the relative amount of the DNA with reference allele to the total amount of DNA.
+0	NA	NA	NA	METHODS	The  value was computed from the trimmed mean intensities of perfect match features, after subtracting a measure of background computed from trimmed means of intensities of mismatch features.
+0	NA	NA	NA	METHODS	The trimmed mean disregarded the highest and the lowest intensity from the five perfect match intensities before computing the arithmetic mean.
+0	NA	NA	NA	METHODS	For the mismatch features, the trimmed mean is the individual intensity of the specified mismatch feature
+0	NA	NA	NA	METHODS	The genotype clustering procedure was an iterative algorithm developed as a combination of K-means and constrained multiple linear regressions.
+0	NA	NA	NA	METHODS	The K-means at each step re-evaluated the cluster membership representing distinct diploid genotypes.
+0	NA	NA	NA	METHODS	The multiple linear regressions minimized the variance in  within each cluster while optimizing the regression lines' common intersect.
+0	NA	NA	NA	METHODS	The common intersect defined a measure of common background that was used to adjust the allele frequencies for the next step of K-means.
+0	NA	NA	NA	METHODS	The K-means and multiple linear regression steps were iterated until the cluster membership and background estimates converged.
+0	NA	NA	NA	METHODS	The best number of clusters was selected by maximizing the total likelihood over the possible cluster counts of 1, 2 and 3 (representing the combinations of the three possible diploid genotypes).
+0	NA	NA	NA	METHODS	The total likelihood was composed of data likelihood and model likelihood.
+0	NA	NA	NA	METHODS	The data likelihood was determined using a normal mixture model for the distribution of  around the cluster means.
+0	NA	NA	NA	METHODS	The model likelihood was calculated using a prior distribution of expected cluster positions, resulting in optimal  positions of 0.8 for the homozygous reference cluster, 0.5 for the heterozygous cluster and 0.2 for the homozygous alternative cluster
+0	NA	NA	NA	METHODS	A genotyping quality metric was compiled for each genotype from 15 input metrics that described the quality of the SNP and the genotype.
+0	NA	NA	NA	METHODS	The genotyping quality metric correlated with a probability of having a discordant call between the Perlegen platform and outside genotyping platforms (that is, non-Perlegen HapMap project genotypes).
+0	NA	NA	NA	METHODS	A system of 10 bootstrap aggregated regression trees was trained using an independent data set of concordance data between Perlegen genotypes and HapMap project genotypes.
+0	NA	NA	NA	METHODS	The trained predictor was then used to predict the genotyping quality for each of the genotypes in this data set.
+0	NA	NA	NA	METHODS	Genotypes with quality scores of less than 7 were discarded.
+0	NA	NA	NA	METHODS	Data were analysed for 227,876 SNPs in stage 1 and 12,026 (of 13,023 selected) in stage 2, for which the call rate was >80%
+0	NA	NA	NA	METHODS	The 12,711 SNPs for stage 2 were primarily selected on the basis of a 1 d.f.
+0	NA	NA	NA	METHODS	Cochran-Armitage trend test (11,809, all with P<0.052).
+0	NA	NA	NA	METHODS	We also included 826 SNPs with P<0.01 testing for the difference in frequency of either homozygote between cases and controls (that is, assuming either a dominant or recessive model) and 76 SNPs that achieved P<0.01 on a Cochran-Armitage test, weighting individuals by their family history score as above
+0	NA	NA	NA	METHODS	For the main analyses, we discarded SNPs with a call rate <90% in stage 1 and 95% in stage 2, and SNPs with a deviation from Hardy-Weinberg equilibrium significant at P<0.00001 in either stage, leaving 205,586 SNPs in stage 1 and 10,621 SNPs in stage 2
+0	NA	NA	NA	METHODS	The 30 SNPs included in the stage 3 analyses were initially selected on the basis of a combined analysis of stage 1 and stage 2.
+0	NA	NA	NA	METHODS	We included all SNPs achieving a combined P<0.00002 (based on either the Cochran-Armitage or 2 d.f.
+0	NA	NA	NA	METHODS	test, see below).
+0	NA	NA	NA	METHODS	Following re-evaluation of the stage 2 genotyping by 5' nuclease assay (Taqman, Applied Biosystems) using the ABI PRISM 7900HT (Applied Biosystems), and exclusion of some samples, 16 of these SNPs were significant at P<0.00002 and 24 at P<0.0002 (Supplementary Table 3).
+1	NA	NA	rs3803662	METHODS	One additional SNP, rs3803662, was added as a result of fine-scale mapping of the TNRC9/LOC643714 locus
+0	NA	NA	NA	METHODS	The 31 stage 3 SNPs were genotyped in 22 studies (including cases and controls from SEARCH not used in stage 2, together with 21 other studies).
+0	NA	NA	NA	METHODS	For 18 of the studies, genotyping was performed by 5' nuclease assay (Taqman) using the ABI PRISM 7900HT or 7500 Sequence Detection Systems according to manufacturer's instructions.
+0	NA	NA	NA	METHODS	Primers and probes were supplied directly by Applied Biosystems (http://www.appliedbiosystems.com/) as Assays-by-Design.
+0	NA	NA	NA	METHODS	All assays were carried out in 384-well or 96-well format, with each plate including negative controls (with no DNA).
+0	NA	NA	NA	METHODS	Duplicate genotypes were provided for at least 2% of samples in each study.
+0	NA	NA	NA	METHODS	For three studies, SNPs were genotyped using matrix assisted laser desorption/ionization time of flight mass spectrometry (MALDI-TOF MS) for the determination of allele-specific primer extension products using Sequenom's MassARRAY system and iPLEX technology.
+0	NA	NA	NA	METHODS	The design of oligonucleotides was carried out according to the guidelines of Sequenom and performed using MassARRAY Assay Design software (version 1.0).
+0	NA	NA	NA	METHODS	Multiplex PCR amplification of amplicons containing SNPs of interest was performed using Qiagen HotStart Taq Polymerase on a Perkin Elmer GeneAmp 2400 thermal cycler (MJ Research) with 5 ng genomic DNA.
+0	NA	NA	NA	METHODS	Primer extension reactions were carried out according to manufacturer's instructions for iPLEX chemistry.
+0	NA	NA	NA	METHODS	Assay data were analysed using Sequenom TYPER software (version 3.0).
+0	NA	NA	NA	METHODS	One study used both the Taqman and MALDI-TOF MS approaches.
+0	NA	NA	NA	METHODS	The SNPs genotyped in stage 3 were also regenotyped in the stage 2 samples using Taqman; these genotype calls were used in the overall analyses (Table 2, Supplementary Table 3, and Fig.
+0	NA	NA	NA	METHODS	2)
+0	NA	NA	NA	METHODS	We eliminated any sample that could not be scored on 20% of the SNPs attempted.
+0	NA	NA	NA	METHODS	We also removed data for any centre/SNP combination for which the call rate was less than 90%.
+0	NA	NA	NA	METHODS	In any instances where the call rate was 90-95%, the clustering of genotype calls was re-evaluated by an independent observer to determine whether the clustering was sufficiently clear for inclusion.
+0	NA	NA	NA	METHODS	We also eliminated all the data for a given SNP/centre where the reproducibility in duplicate samples was <97%, or where there was marked deviation from Hardy-Weinberg equilibrium in the controls (P<0.00001)
+0	NA	NA	NA	METHODS	Initial tagging of the associated region was done by identifying all SNPs with an m.a.f.>5% in the HapMap CEPH/CEU set (Utah residents with ancestry from northern and western Europe).
+1	NA	NA	rs2981582	METHODS	We then selected 7 SNPs (in addition to rs2981582) that tagged these variants with a pairwise r2>0.8, using the program Tagger (http://www.broad.mit.edu/mpg/tagger/).
+0	NA	NA	NA	METHODS	To identify additional common variants within the 32.5 kb region of linkage around the associated SNP, we resequenced 45 lymphocyte DNA samples from a subset of European subjects also genotyped by HapMap and other publicly available data sets.
+0	NA	NA	NA	METHODS	Seventy overlapping PCR amplicons were designed from positions 123317613 to 123348192 of chromosome 10 (average amplicon size 650 bp, 160 bp overlap).
+0	cancers	NA	NA	METHODS	M13-tagged PCR products were bidirectionally sequenced using Big Dye 3.0 (Applied Biosystems) and processed using automated trace analysis through the Cancer Genome Workbench (cgwb.nci.nih.gov).
+0	NA	NA	NA	METHODS	Eighty-six per cent of the nucleotides across the region could be scored for polymorphisms in at least 80% of subjects.
+0	NA	NA	NA	METHODS	This set gave a >97% probability of detecting a variant with an m.a.f.>5%.
+0	NA	NA	NA	METHODS	One hundred and seventeen variants were identified, including 27 present in dbSNP but without individual genotype information in European subjects, and an additional 46 not in dbSNP.
+1	NA	NA	NA	METHODS	Individual genotype information was then compared and merged with publicly available genotypes from Caucasian subjects (HapMap release 21 for 60 CEU parents, 22 European subjects from the Environmental Genome Project (EGP) resequencing effort (http://egp.gs.washington.edu/data/fgfr2/), and 24 European subjects from Perlegen (retrieved through http://gvs.gs.washington.edu/GVS)).
+0	NA	NA	NA	METHODS	There were 2 discrepancies among 389 genotype calls among subjects in common between our resequencing effort and EGP or Perlegen data, and 10 out of 926 compared to HapMap genotypes
+1	NA	NA	rs2981582	METHODS	On the basis of these data, we identified 28 SNPs correlated with rs2981582 with r2>0.6.
+1	breast cancer	NA	rs2981582	METHODS	We then attempted to genotype these 28 SNPs, plus rs2981582, in a subset of 80 controls from SEARCH and 84 controls from the Seoul Breast Cancer Study.
+0	NA	NA	NA	METHODS	Twenty-two of the variants were genotyped using Taqman.
+0	NA	NA	rs34032268	METHODS	Four further variants (rs34032268, rs2912778, rs2912781 and rs7895676), which were not amenable to Taqman, were genotyped by Pyrosequencing (Biotage; http://www.biotagebio.com/).
+0	NA	NA	NA	METHODS	Assays were designed using Pyrosequencing Assay Design Software 1.0.
+0	NA	NA	rs35393331	METHODS	The remaining 2 SNPs (rs35393331 and rs33971856) could not be genotyped using either technology and were excluded from further analyses.
+0	NA	NA	NA	METHODS	We cannot therefore comment on their likelihood of being the causal variant.
+1	NA	NA	rs2981582	METHODS	Using these data, we selected tagging sets of 11 SNPs for UK subjects and 14 SNPs for Korean subjects (including rs2981582), such that each of the remaining variants was correlated with a tagging SNP with r2>0.95 in the UK study or r2>0.86 in the Korean study.
+0	NA	NA	rs4752569	METHODS	After genotyping the 11 tag SNPs in SEARCH, two of these SNPs (rs4752569 and rs35012336) showed strong evidence against being the causative variant and were not considered further.
+0	breast cancer	NA	NA	METHODS	The remaining 12 tag SNPs from the Korean subset were then genotyped in the samples from the IARC-Thai Breast Cancer Study, the Breast Cancer Study in Taiwan and the Multi-Ethnic Cohort (MEC), by Taqman
+0	NA	NA	NA	METHODS	The primary test used for each SNP was a Cochran-Armitage 1 d.f.
+0	NA	NA	NA	METHODS	score test for association between disease status and allele dose.
+0	NA	NA	NA	METHODS	In the combined analysis, we performed a stratified Cochran-Armitage test.
+0	NA	NA	NA	METHODS	Stage 1 was given a weight of 4 in this analysis (corresponding to a weight of 2 in the score statistic), to allow for the expected greater effect size given the inclusion of cases with a family history.
+0	NA	NA	NA	METHODS	In the stage 3 analyses, each study was treated as a separate stratum, except for the MEC, in which the European American and Japanese American subgroups were treated as separate strata.
+0	NA	NA	NA	METHODS	For all studies except the MEC, individuals from a minor ethnic group for that study were excluded.
+0	NA	NA	NA	METHODS	Per-allele and genotype-specific odds ratios, and confidence intervals, were estimated using logistic regression, adjusting for the same strata.
+0	NA	NA	NA	METHODS	The summary odds ratios in Fig.
+0	NA	NA	NA	METHODS	2 are based on the data from the stage 3 studies only, to avoid the bias inherent in estimates from the stage 1 and 2 data for SNPs exhibiting an association (the so called 'winner's curse').
+0	breast cancer	NA	NA	METHODS	The effects of genotype on family history of breast cancer (first degree yes/no) and bilaterality were examined by treating these variables as outcomes in a stratified Cochran-Armitage test
+1	NA	NA	rs2107425	METHODS	To assess the global significance of the SNPs in stage 3, we computed the sum of the chi2 trend statistics (excluding the 6 SNPs reaching genome-wide significance, plus rs2107425 as it was in LD with rs3817198) over those SNPs (17 of 23) for which the estimated odds ratios in stage 3 were in the same direction as the combined stage 1/stage 2.
+0	NA	NA	NA	METHODS	Under the null hypothesis of no association, the asymptotic distribution of this statistic is chi2 with n degrees of freedom, where n has a binomial distribution with parameters 23 and 1/2.
+0	NA	NA	NA	METHODS	The significance of this statistic was then assessed by computing a weighted sum of the tails of the relevant chi2 distributions
+1	NA	FGFR2	NA	METHODS	For the fine-scale mapping of the FGFR2 locus, we first derived haplotype frequencies using the haplo.stats package in S-plus, separately for the European and Asian populations, using data from the case-control studies on whom the tag SNPs were typed plus the 164 control individuals on whom all SNPs were typed.
+0	NA	NA	NA	METHODS	These were used to impute genotype probabilities for each identified SNP in each individual.
+0	NA	NA	NA	METHODS	We then used an EM algorithm to fit a logistic regression model assuming that each SNP in turn was the causal variant, allowing for uncertainty in the genotypes of untyped SNPs, and hence to determine the likelihood that each SNP was the causal variant
+0	NA	NA	NA	METHODS	Coverage of the stage 1 tagging set was estimated using HapMap phase II as a reference.
+0	NA	NA	NA	METHODS	We based estimates on 2,116,183 SNPs with an m.a.f.
+0	NA	NA	NA	METHODS	of >5% in the CEU population.
+0	NA	NA	NA	METHODS	Of the SNPs successfully genotyped in stage 1, 187,663 were also on HapMap.
+0	NA	NA	NA	METHODS	For those SNPs not on HapMap, we identified 'surrogate' SNPs that were in perfect LD based on genotyping of 24 Caucasians by Perlegen Sciences (269,203 SNPs).
+0	NA	NA	NA	METHODS	To estimate coverage, we determined the best pairwise r2 for each HapMap SNP and each tag SNP or a surrogate SNP, using the HapMap CEU data.
+0	NA	NA	NA	METHODS	This coverage was summarized in terms of the distribution of r2 by allele frequency in 10 categories
+0	NA	NA	NA	METHODS	To estimate the power to detect each of the associations found, we computed the non-centrality parameter for the test statistic at each stage, based on the perallele relative risk, allele frequency and r2.
+0	NA	NA	NA	METHODS	This was used to estimate the power for a given r2, based on a simulated trivariate normal distribution for the score statistics after each stage to allow for the correlations in the test statistics.
+0	NA	P<10-7	NA	METHODS	We assumed a cut-off of P<0.05 for stage 1, P<0.00002 for stage 2 and P<10-7 for stage 3 (the first is slightly conservative, as more SNPs than this were actually taken forward).
+0	NA	NA	NA	METHODS	The overall power was obtained by averaging the power estimates for each r2 over the distribution of r2 obtained from the HapMap data, applicable to a SNP of that frequency
+0	NA	NA	NA	METHODS	The expected number of significant associations after stage 2 (Table 1) was calculated using a bivariate normal distribution for the joint distribution of the (weighted) Cochran-Armitage score statistics after stage 1 and after both stages, using a correlation of 0.525 between the two statistics (reflecting the weighted sizes of the two studies).
+0	NA	NA	NA	METHODS	These calculations were based on the 205,586 SNPs reaching the required quality control in stage 1.
+0	NA	NA	NA	METHODS	Of these, 11,313 reached a P<0.05, of which 7,405 (65.5%) were successfully genotyped to the required quality control in stage 2.
+0	NA	NA	NA	METHODS	Thus the expected number reaching a given significance level with good quality control was calculated from the total number expected to reach this level x 65.5%.
+0	NA	NA	NA	METHODS	We adjusted the variances of the test statistics, separately for stages 1 and 2, using the genomic control method.
+0	NA	NA	NA	METHODS	The adjustment factor, lambda, was estimated from the median of the smallest 90% of the test statistics for SNPs typed in that stage, divided by the predicted median for the smallest 90% of a sample of chi21 distributions (that is, the 45% percentile of a chi21 distribution, 0.375)
+0	NA	NA	NA	FIG	a, Stage 1; b, stage 2.
+0	NA	NA	NA	FIG	Black dots are the uncorrected test statistics.
+0	NA	NA	NA	FIG	Red dots are the statistics corrected by the genomic control method (lambda=1.03 for stage 1, lambda=1.06 for stage 2).
+0	NA	NA	NA	FIG	Under the null hypothesis of no association at any locus, the points would be expected to follow the black line
+1	NA	NA	rs2981582	FIG	a, rs2981582; b, rs3803662; c, rs889312; d, rs13281615; and e, rs3817198.
+0	NA	NA	NA	FIG	The x-axis gives the per-allele odds ratio.
+0	NA	NA	NA	FIG	Each row represents one study (see Supplementary Table 2), with summary odds ratios for all European and all Asian studies, and all studies combined.
+0	NA	NA	NA	FIG	The area of the square for each study is proportional to the inverse of the variance of the estimate.
+0	NA	NA	NA	FIG	Horizontal lines represent 95% confidence intervals.
+0	NA	NA	NA	FIG	Diamonds represent the summary odds ratios, with 95% confidence intervals, based on the stage 3 studies only

@@ -1,0 +1,94 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	Aims/hypothesis: Genome-wide association studies have identified over 50 new genetic loci for type 2 diabetes (T2D).
+0	NA	heme	NA	ABSTRACT	Several studies conclude that higher dietary heme iron intake increases the risk of T2D.
+0	NA	heme	NA	ABSTRACT	Therefore we assessed whether the relation between genetic loci and T2D is modified by dietary heme iron intake
+0	NA	NA	NA	ABSTRACT	Methods: We used Affymetrix Genome-Wide Human 6.0 array data [681,770 single nucleotide polymorphisms (SNPs)] and dietary information collected in the Health Professionals Follow-up Study (n = 725 cases; n = 1,273 controls) and the Nurses' Health Study (n = 1,081 cases; n = 1,692 controls).
+0	NA	heme	NA	ABSTRACT	We assessed whether genome-wide SNPs or iron metabolism SNPs interacted with dietary heme iron intake in relation to T2D, testing for associations in each cohort separately and then meta-analyzing to pool the results.
+0	NA	NA	NA	ABSTRACT	Finally, we created 1,000 synthetic pathways matched to an iron metabolism pathway on number of genes, and number of SNPs in each gene.
+0	NA	heme	NA	ABSTRACT	We compared the iron metabolic pathway SNPs with these synthetic SNP assemblies in their relation to T2D to assess if the pathway as a whole interacts with dietary heme iron intake
+0	NA	heme	rs10980508	ABSTRACT	Results: Using a genomic approach, we found no significant gene-environment interactions with dietary heme iron intake in relation to T2D at a Bonferroni corrected genome-wide significance level of 7.33 x10-8 (top SNP in pooled analysis: intergenic rs10980508; p = 1.03 x 10-6).
+0	NA	heme	rs1805313	ABSTRACT	Furthermore, no SNP in the iron metabolic pathway significantly interacted with dietary heme iron intake at a Bonferroni corrected significance level of 2.10 x 10-4 (top SNP in pooled analysis: rs1805313; p = 1.14 x 10-3).
+0	NA	NA	NA	ABSTRACT	Finally, neither the main genetic effects (pooled empirical p by SNP = 0.41), nor gene - dietary heme-iron interactions (pooled empirical p-value for the interactions = 0.72) were significant for the iron metabolic pathway as a whole
+0	NA	heme	NA	ABSTRACT	Conclusions: We found no significant interactions between dietary heme iron intake and common SNPs in relation to T2D
+0	Type 2 diabetes	insulin	NA	INTRO	Type 2 diabetes (T2D) is a multifactorial condition whereby insulin resistance and beta-cell dysfunction produce glucose metabolism alterations, most notably hyperglycemia, resulting in microvascular and macrovascular complications.
+0	NA	NA	NA	INTRO	T2D affects over 25 million individuals (greater than 8% of the U.S. adult population) Discovery of the combination of genetic and environmental factors contributing to T2D is essential so that more targeted preventive and management strategies can be devised
+0	NA	heme	NA	INTRO	Dietary heme iron intake is the iron derived from hemoglobin, the protein in the red blood cells found in animal foods such as red meat, fish, and poultry.
+0	NA	heme	NA	INTRO	A recent meta-analysis demonstrated that non-heme iron intake (such as iron derived from vegetables), total iron (iron from heme and non-heme sources) or iron supplements were not associated with increased risk of T2D.
+0	NA	NA	NA	INTRO	However, epidemiologic studies indicate that increased total body iron stores are associated with an increased risk of T2D.
+0	obese	heme	NA	INTRO	While the relation between dietary heme iron intake and obesity has not been well-studied, diets with higher heme iron intake have consistently been associated with increased risk of T2D.
+0	NA	NA	NA	INTRO	Iron is a catalyst in the formation of hydroxyl radicals, which are powerful pro-oxidants that attack cellular membrane lipids, proteins, and nucleic acids.
+0	obese	heme	NA	INTRO	While heme iron intake is not directly linked to obesity, excess iron stores produced by dietary behaviors may render pancreatic beta cells particularly vulnerable to oxidative stress because they possess a weak antioxidative stress system
+0	NA	heme	NA	INTRO	While dietary heme iron intake plays a role in T2D, genome-wide association studies have revealed approximately 50 genetic loci for T2D, raising the question of whether gene environment interactions focused on dietary heme iron intake exist in T2D
+0	hereditary hemochromatosis	HFE	H63D	INTRO	In fact, a previous candidate gene association study demonstrated a significant interaction between dietary iron intake and the H63D or C282Y risk variants for HFE, the gene for hereditary hemochromatosis (HH), in relation to T2D risk.
+0	diabetes	NA	NA	INTRO	HH is a condition where secondary diabetes mellitus is a well-known complication that results from high iron stores in the pancreas.
+0	NA	heme	NA	INTRO	In this work, we assessed whether the relation between dietary heme iron intake and T2D is modified by genome-wide single nucleotide polymorphisms (SNPs) or iron metabolic pathway SNPs
+0	NA	NA	NA	METHODS	This study included participants from two longitudinal cohort studies, the Nurses' Health Study (NHS) and the Health Professionals Follow-up Study (HPFS).
+0	NA	heme	NA	METHODS	The HPFS and the NHS are two populations of men and women, respectively, for whom stored blood, DNA samples, and dietary heme iron intake data are available.
+0	NA	NA	NA	METHODS	The NHS began in 1976 with 121,700 female registered nurses aged 30-55, and the HPFS started in 1986 with 51,529 male health professionals aged 40-75.
+0	NA	NA	NA	METHODS	Both cohorts have been followed-up biennially through mailed questionnaires that gather data on new diseases, diet, and other lifestyle factors
+0	diabetes	NA	NA	METHODS	For participants with a self-report of diabetes on biennial questionnaires, we mailed supplemental questionnaires inquiring about the diagnosis and treatment of their condition, as well as a history of ketoacidosis to corroborate the self-report and to differentiate between type 1 diabetes mellitus and T2D.
+0	diabetes	NA	NA	METHODS	We applied criteria established by the National Diabetes Data Group until 1997, and then used the revised criteria of the American Diabetes Association from 1998 onward to these supplemental questionnaires (Report of the expert committee on the diagnosis classification of diabetes mellitus, 1997).
+0	NA	NA	NA	METHODS	This approach was found to be valid for identifying T2D as medical record review confirmed 98% of cases in a subsample
+0	NA	NA	NA	METHODS	We accrued 2,591 cases with T2D and 3,508 controls with completed high throughput genotyping from 1986 to 2006 in HPFS and 1980 to 2006 in NHS.
+0	NA	NA	NA	METHODS	From these cases we chose participants of European descent with dietary questionnaire responses prior to diagnosis of T2D.
+0	NA	NA	NA	METHODS	Controls were not strictly matched to cases because some subjects did not consent to have their genotyping data posted on dbGap.
+0	NA	NA	NA	METHODS	Thus we chose controls with complete dietary data that were age matched to cases.
+0	NA	NA	NA	METHODS	Ultimately, 1,806 cases and 2,965 controls were eligible for the study (see Table 1).
+0	NA	NA	NA	METHODS	Informed consent was obtained from all participants in this study and the institutional review board at the Harvard School of Public Health approved the study
+0	NA	NA	NA	TABLE	Characteristics of Health Professionals Follow-up Study (HPFS) and Nurses' Health Study (NHS) cohorts
+0	NA	NA	NA	METHODS	We completed genotyping on the Affymetrix Genome-Wide Human 6.0 array at the Broad Institute (Cambridge, MA, USA).
+0	NA	NA	NA	METHODS	Details regarding the quality control measures employed in genotyping these samples have been previously published.
+0	NA	NA	NA	METHODS	After data cleaning, 706,034 SNPs remained for analysis on 725 cases and 1,273 controls in HPFS.
+0	NA	NA	NA	METHODS	In NHS, a total of 704,409 SNPs remained after data cleaning and were analyzed on 1,081 cases and 1,692 controls
+0	NA	heme	NA	METHODS	To assess the interaction between dietary heme iron intake and gene variants in relation to T2D, we created the following logistic regression models
+0	NA	T2D = beta0 + beta1 (age) + beta2	NA	METHODS	T2D = beta0 + beta1 (age) + beta2 (body mass index, BMI) + beta3 (heme) - Environmental mode
+0	NA	T2D = beta0 + beta1 (age) + beta2	NA	METHODS	T2D = beta0 + beta1 (SNP) + beta2 (age) + beta3 (BMI) + beta4(heme) - Genetic mode
+0	NA	T2D = beta0 + beta1 (age) + beta2	NA	METHODS	T2D = beta0 + beta1 (SNP) + beta2 (age) + beta3 (BMI) + beta4 (heme) + beta5 (SNP x heme) - one-degree of freedom gene-environment (GxE) interaction mode
+0	NA	NA	NA	METHODS	Except for Model 1 (which we generated in SAS version 9.3, Cary, NC, USA), we formulated these models in each cohort separately using PLINK.
+0	NA	heme	NA	METHODS	Heme iron intake (mg/day), BMI (kg/m2, as of 1986 for HPFS and 1980 for NHS) and age (years, as of 1986 for HPFS and 1980 for NHS) were treated as continuous variables.
+0	NA	heme	NA	METHODS	We transformed heme to be centered on the mean value for each cohort.
+0	NA	NA	NA	METHODS	SNPs were coded as 0, 1, or 2 minor alleles.
+0	NA	NA	NA	METHODS	We controlled for the top three eigenvectors in NHS and the top four eigenvectors in HPFS.
+0	NA	heme	NA	METHODS	We also tested models that treated the dietary heme iron intake term as a dichotomous variable divided at the median value in controls
+0	NA	heme	NA	METHODS	To test for interactions between dietary heme intake and SNP genotypes in relation to T2D, we utilized a one degree of freedom (1-df) test, which is represented as beta5 of Model 3.
+0	NA	heme	NA	METHODS	Models 1 and 2 tested the marginal effects of dietary heme iron intake and SNPs respectively, adjusting for age and BMI.
+0	NA	NA	NA	METHODS	We also performed a two degree of freedom joint test (2-df) by comparing the fit of the null model containing the environment exposure only (Model 1) to the model with gene and gene-environment covariates (Model 3) as an alternate test of the gene-environment interaction.
+0	NA	NA	NA	METHODS	After running these models separately in NHS and HPFS, we performed tests for heterogeneity of the cohort specific results to check for appropriateness of pooling the data.
+0	NA	NA	NA	METHODS	We conducted an inverse variance-weighted fixed-effects meta-analysis of estimates from the two cohorts using the METAL software.1 Only SNPs with genotypes available in both cohorts were included in the meta-analysis (N = 681,770)
+0	NA	NA	NA	METHODS	Next we limited our gene-environment interaction analyses to SNPs in the iron metabolic pathway created using the KEGG database 2 and other sources.
+0	NA	NA	NA	METHODS	We identified 237 SNPs in genes coding for enzymes in this pathway that were present on the Affymetrix 6.0 platform (Table 2).
+0	NA	NA	NA	METHODS	We repeated the logistic regression analysis of Models 2 and 3 using the iron metabolic pathway SNPs.
+0	NA	NA	NA	METHODS	We used a Bonferroni correction based on the number of SNPs analyzed to establish statistical significance in genome-wide (p = 0.05/681,770 = 7.33 x 10-8) and pathway analyses (p = 0.05/237 = 2.10 x 10-4).
+0	NA	NA	NA	METHODS	These estimates of the correction for multiple comparisons are somewhat liberal in that they do not account for the secondary analyses we performed
+0	NA	heme	NA	TABLE	Genes and single nucleotide polymorphisms (SNPs) in the heme iron metabolic pathway on the Affymetrix 6.0 array that passed quality control
+0	NA	heme	NA	METHODS	To evaluate whether the iron metabolic pathway as a whole might interact with dietary heme intake, we assessed whether the iron metabolic pathway SNP panel was enriched with variants strongly associated with T2D.
+0	NA	NA	NA	METHODS	"We compared the distribution of p-values in the SNPs from the iron metabolic pathway with the distribution of SNPs from 1,000 permuted ""synthetic pathways"" generated by randomly picking SNPs available on the platform that were not in the iron metabolic pathway."
+0	NA	heme	NA	METHODS	To ensure an adequate comparison, all synthetic pathways were constructed such that they had the same number of genes and the same number of SNPs per gene +-10% as the heme pathway.
+0	NA	heme	NA	METHODS	Enrichment of SNPs with low p-values was evaluated by comparing Cobs, the count of SNPs with a p-value below a given significance threshold T in the heme metabolic pathway, to Csyn, the corresponding count derived in the synthetic pathways.
+0	NA	NA	NA	METHODS	The empirical p-value (for both the main genetic effect and the gene-environment interaction term) related to enrichment for a given T was derived as the number of times Cobs was higher than Csyn divided by 1,000, the total number of synthetic pathways
+0	diabetes	NA	NA	RESULTS	Type 2 diabetes cases were similar in age compared to controls in men (overall mean +- SD = 54.3 +- 8.4 years) and women (47.5 +- 6.8 years).
+0	NA	BMI	NA	RESULTS	As expected, cases had higher BMI and higher mean dietary heme iron intake than controls in men and women (Table 1).
+0	NA	heme	NA	RESULTS	Dietary heme iron intake was adversely associated with T2D [OR = 1.36 (1.17, 1.58); pooled p = 7.51 x 10-5; Model 1].
+0	NA	TCF7L2	rs7901695	RESULTS	As expected, the top SNP associated with T2D was in TCF7L2 (rs7901695; pooled p-value =1.88 xx10-14) (Model 2)
+0	NA	NA	NA	RESULTS	Using the 1-df test (Model 3), no gene-environment interaction achieved genome-wide significance level.
+1	NA	heme	rs10980508	RESULTS	The most significant interaction with continuous dietary heme iron intake was rs10980508 (pooled p = 1.03 x 10-6; an intergenic SNP between muscle, skeletal, receptor tyrosine kinase (MUSK) and Sushi, von Willebrand factor type A, EGF, and pentraxin domains-containing 1 (SVEP1; Table 3).
+0	NA	TCF7L2	NA	RESULTS	The 2-df test revealed that SNPs in TCF7L2 had genome-wide margin association with T2D but did not reveal new marginal gene effects of genome-wide significance; nor was there significant interaction between TCF7L2 and dietary heme iron intake in T2D (data not shown).
+0	NA	heme	NA	RESULTS	When we generated models substituting dietary heme intake with red meat, processed meat, and total meat, we found similar results with top marginal genetic effects in TCF7L2; yet, Model 3 did not yield significant gene-environment interactions (data not shown)
+0	diabetes	heme	NA	TABLE	Top 10 p-values from genome-wide SNP-heme interactions predicting type 2 diabetes adjusting for age, body mass index, dietary heme iron intake, and eigenvectors using a one degree of freedom test from meta-analysis of the Health Professionals Follow-up Study and Nurses' Health Study.
+0	NA	heme	rs1805313	RESULTS	No significant iron metabolism SNP - dietary heme iron intake interaction was detected with the 1-df test (Model 3) in relation to T2D (top SNP rs1805313; in ALAD (delta-aminolevulinate dehydratase); pooled p = 1.14 x 10-3; Bonferroni corrected significance level p = 2.10 x 10-4).
+0	NA	heme	NA	RESULTS	The 2-df test of gene and gene-environment interactions also did not reveal any significant interactions between dietary heme iron intake and SNPs in the iron metabolic pathway SNP in pooled analyses (data not shown)
+0	NA	NA	NA	RESULTS	Compared with synthetic pathways, the iron metabolic pathway was not associated with T2D when we performed the analyses by SNP (pooled empirical p by SNP = 0.41).
+0	NA	heme	NA	RESULTS	Similar null results were obtained when interactions with dietary heme iron intake were considered (pooled empirical p-value for the interactions =0.72).
+0	NA	NA	NA	RESULTS	Interactions between various forms of dietary meat intake and the iron metabolic pathway were also not significant
+0	NA	heme	NA	DISCUSS	Neither the 1-df test nor the 2-df test revealed any genome-wide significant interactions between dietary heme iron intake and genomic SNPs in T2D.
+0	NA	heme	NA	DISCUSS	Furthermore, the relation between an iron metabolic pathway SNP panel and T2D was not modified by dietary heme iron intake.
+0	NA	NA	NA	DISCUSS	Finally the iron metabolic pathway was not enriched with SNPs related to T2D
+0	NA	NA	NA	DISCUSS	There could be several possible reasons for the null results reported here.
+0	NA	NA	NA	DISCUSS	First, despite its large size (n = 4,771) our study could be underpowered to find modest interaction terms.
+0	NA	heme	NA	DISCUSS	In fact, only in a log additive model would we achieve 80% power to detect a genome-wide environmental interaction effect of 1.8 (assumes minor allele frequency = 0.4; genetic relative risk = 1.2, and relative risk of the highest tertile of dietary heme iron intake = 1.3).
+0	NA	heme	NA	DISCUSS	Nonetheless we had ~80% power to discover an interaction effect of 1.5 between iron metabolic SNPs and dietary heme iron intake in relation to T2D using similar assumptions in a dominant inheritance model.
+0	NA	heme	NA	DISCUSS	Second, power could be compromised due to inherent error in measuring dietary heme iron intake.
+0	NA	NA	NA	DISCUSS	Third, self-reported iron intake, while collected using a validated food frequency questionnaire, could be prone to recall bias.
+0	NA	heme	NA	DISCUSS	Finally, the reason why a higher dietary heme iron dietary intake increases the risk of T2D could be solely related to environmental influences
+0	NA	HFE	NA	DISCUSS	A prior study, using a candidate approach, did find a marginal interaction between HFE and dietary heme iron intake in T2D (p = 0.03).
+0	NA	heme	NA	DISCUSS	While we did not discover any new gene-dietary heme iron interactions, more studies using serum biomarkers as surrogates of dietary heme iron intake might point to new gene-iron intake interactions in T2D
+0	NA	NA	NA	COMP_INT	The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest

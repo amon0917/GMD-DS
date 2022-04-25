@@ -1,0 +1,157 @@
+0	erectile dysfunction	NA	NA	ABSTRACT	To identify single nucleotide polymorphisms (SNPs) associated with erectile dysfunction (ED) among African American prostate cancer patients treated with external beam radiation therapy (EBRT)
+0	Breast and prostate cancer	NA	NA	ABSTRACT	A cohort of African American prostate cancer patients treated with EBRT was followed for development of ED using the five-item Sexual Health Inventory for Men (SHIM) questionnaire.
+0	NA	NA	NA	ABSTRACT	Final analysis included 27 cases (post-treatment SHIM score <= 7) and 52 controls (post-treatment SHIM score >= 16).
+0	NA	NA	NA	ABSTRACT	A genome-wide association study was performed using ~909,000 SNPs genotyped on Affymetrix 6.0 arrays
+0	NA	follicle stimulating hormone receptor	rs2268363	ABSTRACT	We identified SNP rs2268363, located in the follicle stimulating hormone receptor (FSHR) gene, as significantly associated with ED after correcting for multiple comparisons (unadjusted p-value = 5.46x10-8; Bonferroni p-value = 0.028).
+0	NA	NA	NA	ABSTRACT	We identified four additional SNPs that tended toward significant association with unadjusted p-value < 10-06.
+0	NA	NA	NA	ABSTRACT	Inference of population substructure revealed that cases had a higher proportion of African ancestry compared to controls (77% compared to 60%, p=0.005).
+0	NA	NA	NA	ABSTRACT	A multivariate logistic regression model that incorporated estimated ancestry and four of the top-ranked SNPs was a more accurate classifier of ED than a model that included only clinical variables
+0	NA	NA	NA	ABSTRACT	To the best of our knowledge, this is the first genome wide association study to identify SNPs associated with adverse effects resulting from radiotherapy.
+0	NA	NA	NA	ABSTRACT	It is important to note that the SNP that proved significantly associated with ED is located within a gene whose encoded product plays a role in male gonad development and function.
+0	NA	NA	NA	ABSTRACT	Another key finding of this project is that the four SNPs most strongly associated with ED were specific to people of African ancestry and would therefore not have been identified had a cohort of European ancestry been screened.
+0	radiation injury	NA	NA	ABSTRACT	This study demonstrates the feasibility of a genome-wide approach to investigate genetic predisposition to radiation injury
+0	Breast and prostate cancer	NA	NA	INTRO	Radiotherapy can provide a sustainable cure for prostate cancer and is accepted as a standard treatment option.
+0	proctitis	NA	NA	INTRO	However, many men develop side effects following radiotherapy, including urinary morbidity, proctitis, and erectile dysfunction (ED), which have a substantial effect on quality of life.
+0	NA	NA	NA	INTRO	Acute symptoms resolve in most patients after a few months, but a subset of patients experience long-term morbidity.
+0	Breast and prostate cancer	NA	NA	INTRO	A method to predict which patients are at greatest risk for permanent side effects would assist both clinicians and patients in weighing the benefits of radiotherapy versus other options of treating localized prostate cancer.
+0	diabetes	NA	NA	INTRO	Cohort studies have found that some clinical factors such as treatment type, radiation dose, pre-treatment symptoms, age, and co-morbidities, such as diabetes and vascular disease, are associated with developing side effects, but these clinical factors do not fully explain the variability in outcome
+0	Breast and prostate cancer	NA	NA	INTRO	Research on radiation induced injury in prostate and breast cancer patients suggest that much of the variation in normal tissue damage can be attributed to patient-specific, possibly genetic variation rather than treatment differences or random effects.
+0	skin telangiectasia	NA	NA	INTRO	An initial study examining development of skin telangiectasia among breast cancer patients treated with radiation therapy estimates that 81-90% of variation in normal tissue damage is due to patient-specific characteristics.
+0	Breast and prostate cancer	ATM	NA	INTRO	Studies among prostate cancer patients have identified single nucleotide polymorphisms (SNPs) in candidate genes, including ATM, LIG4, ERCC2, SOD2, TGFB1, XRCC1, XRCC3, and CYP2D6, among others, that are associated with development of late toxicity in response to radiation therapy.
+0	breast cancer	NA	NA	INTRO	SNPs in several of these genes have also been associated with adverse effects in breast cancer patients
+0	NA	NA	NA	INTRO	To date, research attempting to identify genetic variants associated with radiotherapy side effects has taken a candidate-gene approach, mostly screening genes involved in the DNA damage response.
+0	toxicity	NA	NA	INTRO	However, conflicting results have been obtained in these studies and no single SNP or group of SNPs has proven to exhibit a consistent association with the development of a normal tissue toxicity following radiotherapy.
+0	Breast and prostate cancer	NA	NA	INTRO	For this project, we took a broader approach and performed a genome-wide association study (GWAS) with ED as a measure of normal tissue damage experienced by prostate cancer patients treated with external beam radiation therapy (EBRT).
+0	NA	NA	NA	INTRO	This study was also designed to address a health disparity in radiogenomics research in that subjects with primarily European ancestry have constituted the majority of individuals included in these studies.
+0	NA	NA	NA	INTRO	There is growing recognition that the results obtained from one ethnic/racial group are not necessarily applicable to individuals whose ancestry is primarily from a different ethnic/racial group.
+0	NA	NA	NA	INTRO	Thus, the findings in this field of research may not benefit other racial groups if the research is performed primarily with subjects of European background.
+0	NA	NA	NA	INTRO	The research reported in this paper focused on African-American men with the goal to identify the genetic variants specific to this population that may be associated with the development of radiation-induced ED.
+0	radiation injury	NA	NA	INTRO	This study identifies several potentially predictive genetic variants and supports the feasibility of using a genome-wide approach to investigate the genetic predisposition to radiation injury
+0	Breast and prostate cancer	NA	NA	METHODS	A cohort of 138 African American males with adenocarcinoma of the prostate were recruited for this study from the Department of Radiation Oncology of the Elmhurst and Queens Hospital Center affiliated with Mount Sinai School of Medicine between 2001 and 2006.
+0	NA	NA	NA	METHODS	Patients were treated with three dimensional conformal RT or IMRT and received 39-42 fractions of 1.8 Gy.
+0	NA	NA	NA	METHODS	Treatments were delivered with 6 MV or 18 MV photons using a Varian 21 EX linac.
+0	NA	NA	NA	METHODS	Men were followed for an average of 2.8 years (minimum of one year) after treatment to assess development of late-phase ED.
+0	NA	NA	NA	METHODS	ED was assessed using the five-item self-administered Sexual Health Inventory for Men (SHIM) questionnaire.
+0	cardiac dysfunctions	NA	NA	METHODS	We categorized SHIM score such that 16 to 25 indicates optimum sexual function, 8 to 15 indicates moderate dysfunction, and 0 to 7 indicates severe dysfunction.
+0	NA	NA	NA	METHODS	All men enrolled in the study filled out the SHIM questionnaire prior to and at least one year after treatment.
+0	NA	NA	NA	METHODS	Only men with an optimum pre-treatment score (>= 16) were considered for inclusion.
+0	NA	NA	NA	METHODS	Cases were defined as those men with SHIM <= 7 after one year post-treatment.
+0	NA	NA	NA	METHODS	Controls were defined as those men with SHIM >= 16 after one year post-treatment.
+0	NA	NA	NA	METHODS	A total of 29 men met the case definition for chronic ED and 53 qualified as control subjects.
+0	NA	NA	NA	METHODS	We obtained sufficient quantity and quality of DNA for 27 of the cases and 52 of the controls.
+0	NA	NA	NA	METHODS	At the time of enrollment in the study, clinical data was collected from patient charts relating to disease stage, radiation dosage, and a number of lifestyle factors and co-morbidities that were explored for association with the outcome.
+0	NA	NA	NA	METHODS	The study was approved by the Institutional Review Board of Mount Sinai Medical Center and all individuals provided informed consent prior to blood collection
+0	NA	NA	NA	METHODS	DNA was isolated from lymphocytes using Ficoll separation as described previously.
+0	NA	NA	NA	METHODS	The DNA was screened for ~909,000 SNPs using Affymetrix6.0 arrays (Affymetrix, Santa Clara, CA).
+0	NA	NA	NA	METHODS	Birdseed v2 was used to make genotype calls.
+0	NA	NA	NA	METHODS	The initial genotype call rate among all individuals was 94.5% (range 87.3% to 98.1%).
+0	NA	NA	NA	METHODS	SNPs were excluded from the analysis if they had no genotype for >5% of individuals, were not in Hardy-Weinberg equilibrium among controls (using threshold p <0.001), or had minor allele frequency <5%.
+0	NA	NA	NA	METHODS	The minor allele was defined as the allele with lower frequency among the total sample of 79 individuals.
+0	NA	NA	NA	METHODS	As all individuals were men, heterozygous calls for SNPs on the X chromosome were set to 'no call' prior to filtering.
+0	NA	NA	NA	METHODS	The final dataset contained 512,497 SNPs with genotype rate of 99.0%
+0	NA	NA	NA	METHODS	Quality control filtering, identity by state clustering, and association analysis was carried out using the PLINK genetic analysis software.
+0	NA	NA	NA	METHODS	The main analysis was done using a 2x2 table comparing the frequencies of each of the two alleles (A and a) among cases and controls with a two-sided chi-square test used to assess the statistical significance of the difference in genotype frequency
+0	NA	NA	NA	METHODS	Population sub-structure was assessed using principle components analysis (PCA) performed in R version 2.10.0.
+0	NA	NA	NA	METHODS	PCA included a randomly selected subset of 100,000 SNPs for the 79 study subjects as well as 90 individuals from each of three reference populations from the International HapMap Project: European-Americans from Utah, Yorubans from Nigeria, and a combined population from Tokyo, Japan and Beijing, China
+0	NA	NA	NA	METHODS	Estimation of individual and locus-specific ancestry was performed using the STRUCTURE and MALDsoft programs.
+0	NA	NA	NA	METHODS	A subset of 2,455 ancestry informative markers was selected on the basis of having a greater than 60% minor allele frequency difference between European and African populations from the International HapMap Project.
+0	NA	NA	NA	METHODS	STRUCTURE was run using the admixture model with the number of ancestral populations, K, set to 2.
+0	NA	NA	NA	METHODS	Prior population information from 90 African and 89 European HapMap individuals was included to assist in estimating ancestry.
+0	NA	NA	NA	METHODS	The STRUCTURE run consisted of 10,000 burn-in iterations followed by an additional 10,000 iterations
+0	NA	NA	NA	METHODS	General data management and logistic regression modeling was performed using R version 2.10.0
+0	NA	NA	NA	RESULTS	Information on demographic, clinical, and life-style factors that may be related to the outcome was compared between cases and controls (Table 1).
+0	hypothyroidism	NA	NA	RESULTS	A greater proportion of cases reported hypothyroidism compared to controls (11.1% compared to 0; p = 0.014).
+0	NA	NA	NA	RESULTS	Cases had on average a slightly higher pre-treatment SHIM score than controls (21 compared to 20, p < 0.001).
+0	Breast and prostate cancer	NA	NA	RESULTS	This trend is opposite that commonly seen among prostate cancer radiotherapy patients but is likely an artifact of the way patients were selected for this study in that the inclusion criteria required all patients to have a pre-treatment score >= 16.
+0	NA	NA	NA	RESULTS	A greater proportion of controls reported using hormonal therapy than cases, though this difference was not significant (37.3% compared to 22.2%, p = 0.176).
+0	Breast and prostate cancer	NA	NA	RESULTS	A greater proportion of cases had stage III or stage IV prostate cancer compared to controls but again the difference was not statistically significant (7.7% and 11.5% of cases had stage III and stage IV respectively compared to 5.9% and 3.9% of controls, p = 0.406).
+0	NA	NA	NA	RESULTS	There were 5 patients who reported using 5-phosphodiesterase inhibitors (PDIs) (3 cases and 2 controls)
+0	NA	NA	NA	RESULTS	We performed allelic association tests to compare the allele frequencies for 512,497 SNPs between cases and controls (Figure 1).
+0	NA	follicle stimulating hormone receptor	rs2268363	RESULTS	One SNP was identified, rs2268363 located in the follicle-stimulating hormone receptor (FSHR) gene on chromosome 2, that was significantly associated with ED after correcting for multiple comparisons (unadjusted p-value = 5.46x10-8; Bonferroni corrected p-value = 0.028; Table 2).
+0	NA	NA	rs2268363	RESULTS	Men possessing the minor allele of rs2268363 had seven-fold increased odds of developing post-radiotherapy ED compared to men who did not possess this SNP (OR = 7.03; 95% CI 3.4-14.7)
+0	NA	NA	NA	RESULTS	Several other SNPs were associated with ED upon initial statistical testing, but p-values for these associations increased above the threshold of significance after applying the conservative Bonferroni correction for multiple comparisons (Table 2).
+1	NA	TTC7A	rs10194115	RESULTS	The second top-ranking SNP, rs10194115, lies within the coding region of the tetratricopeptide repeat domain 7A (TTC7A) gene and is associated with a nine-fold increased odds of developing post-radiotherapy ED (unadjusted p-value = 4.73x10-7, OR = 9.00, 95% CI 3.5-23.2).
+0	NA	prostaglandin F2 receptor negative regulator	NA	RESULTS	The third top-ranking SNP and three additional high-ranking SNPs (p-value less than 10-05), are located within the prostaglandin F2 receptor negative regulator (PTGFRN) gene and are associated with between 4.9- and 6.4-fold increased odds of developing post-radiotherapy ED (Table 2)
+0	NA	NA	NA	RESULTS	During our initial quality control analyses, we observed that there may be underlying population sub-structure among our patient population.
+0	IBS	NA	NA	RESULTS	Identity by state (IBS) clustering discerned 6 clusters of individuals who may be more genetically similar to each other than to the rest of the individuals.
+0	IBS	NA	NA	RESULTS	Permutation testing of IBS distances suggests that cases may be genetically more similar to other cases than to controls (p = 0.003).
+0	NA	NA	NA	RESULTS	This was not surprising given that this cohort consists of self-identified African Americans, each person with varying degrees of admixture of African and European ancestors.
+0	NA	NA	NA	RESULTS	Population stratification (i.e.
+0	NA	NA	NA	RESULTS	mismatch of ancestry in cases and controls) is a common confounder in GWAS.
+0	NA	NA	NA	RESULTS	To further explore a potential role of ancestry in our association results, we sought to estimate the proportion of each individual's ancestry that came from African versus European progenitors for adjustment in association tests
+0	NA	NA	NA	RESULTS	To visualize the genetic patterns of our cohort and their expected ancestral populations, we performed principle components analysis (PCA) of our patients together with three groups of individuals genotyped by the International HapMap project (European-Americans, Africans, and Asians).
+0	NA	NA	NA	RESULTS	The PCA plot demonstrates that our patient cohort falls between the European and African clusters, as expected for African American individuals (Figure 2).
+0	NA	NA	NA	RESULTS	Interestingly, the cases appear to cluster nearer to the African HapMap population compared to the controls.
+0	NA	PC1	NA	RESULTS	We found a statistically significant difference in principle components (PC) coordinate values between ED cases and controls (p = 0.004 for PC1; p = 0.003 for PC2), suggesting an underlying genetic difference between cases and controls
+0	NA	NA	NA	RESULTS	The program STRUCTURE was used to estimate the proportion of African ancestry for each individual using a set of 2,455 ancestry-informative SNPs.
+0	NA	NA	NA	RESULTS	As this cohort has self-identified as African American, we assumed two ancestral populations, African and European.
+0	NA	NA	NA	RESULTS	The STRUCTURE analysis accurately grouped the HapMap individuals into two populations with our African American cohort sharing some proportion of their SNPs with both ancestral populations (Figure 3A).
+0	NA	NA	NA	RESULTS	In agreement with the principle components analysis, the STRUCTURE estimate suggests that, on average, ED cases have a greater proportion of African ancestry compared to controls.
+0	NA	NA	NA	RESULTS	Among ED cases, the average proportion ancestry shared with the African HapMap population is 77% compared with 60% for the ED controls (p = 0.005).
+0	NA	NA	NA	RESULTS	Using the estimates from the STRUCTURE model, we used the MALDsoft program to calculate the average proportion ancestry among cases or controls at each locus in the genome.
+0	NA	NA	NA	RESULTS	The MALDsoft analysis shows that at any given locus, cases have a greater proportion of African ancestry than controls (Figure 3B)
+0	NA	NA	NA	RESULTS	Based on this evidence of population stratification and its association with our outcome, we tested for association between genotype and ED using logistic regression to adjust for individual estimated ancestry (Table 2, column 9).
+0	NA	NA	NA	RESULTS	All SNPs with un-corrected p-value less than 10-06 were still significantly (p<0.05) associated with development of ED, although the p-values did increase for most SNPs after adjusting for proportion of African ancestry
+0	NA	NA	NA	RESULTS	Logistic regression models were used to investigate the utility of genetic and clinical factors for the classification of radiotherapy patients according to development of ED following treatment.
+0	NA	NA	NA	RESULTS	In a model including clinical covariates for which sufficient data was available, only pre-treatment SHIM score is significantly associated with developing ED (Table 3).
+0	NA	NA	NA	RESULTS	After controlling for all other covariates, a one-point higher pre-treatment SHIM score is associated with an odds ratio of 1.3 for developing ED (p = 0.016).
+0	NA	NA	NA	RESULTS	Again, this association may be an artifact of the inclusion criteria for this study.
+0	diabetes	NA	NA	RESULTS	We did not find any significant association between age at diagnosis, stage, Gleason score, EBRT dose, hormone use, length of follow-up, smoking status, diabetes, hypertension, or asthma with development of ED, either alone or in a multivariate model (Table 3).
+0	NA	NA	NA	RESULTS	We should note that given the small sample size of this study, the numbers of individuals reporting many of the covariates investigated in this model are small, even after excluding some covariates (Table 1)
+0	NA	NA	NA	RESULTS	We next developed a logistic regression model including genetic factors to classify patients in terms of developing ED.
+0	NA	NA	NA	RESULTS	We included the five SNPs with chi-square association p-values less than 10-6 as well as proportion African ancestry.
+0	NA	NA	NA	RESULTS	We also included pre-treatment SHIM score, as that was associated with ED in the clinical model.
+0	NA	NA	rs7064929	RESULTS	Pre-treatment SHIM score as well as SNP rs7064929 were no longer significantly associated with developing ED once the other SNPs were included (p = 0.8682 for rs7064929 and p = 0.0671 for pre-treatment SHIM score), so we excluded these variables from the final regression model.
+0	NA	NA	NA	RESULTS	Proportion African ancestry was no longer significantly associated with development of ED once the SNPs were included (p = 0.3584), however inclusion of ancestry controls for population stratification and modifies the strength of association between the SNPs and ED, so it was retained in the final model.
+0	NA	NA	NA	RESULTS	The final model included proportion African ancestry, and four of the most strongly associated SNPs (Table 4).
+0	NA	NA	NA	RESULTS	We should note that given the relatively small sample size for this study, the odds ratios associated with the SNPs in this model are imprecise measurements and warrant replication in a larger cohort.
+0	NA	NA	NA	RESULTS	Among these four SNPs, a greater percentage of cases were homozygous for more than one risk allele compared to controls (Table 5).
+0	NA	NA	NA	RESULTS	Similarly, a greater percentage of cases were heterozygous for more than one risk allele compared to controls.
+0	NA	NA	NA	RESULTS	This suggests that it may be informative to use a combination of SNPs to formulate a predictive model
+0	Breast and prostate cancer	NA	NA	RESULTS	Receiver-operating characteristic (ROC) curves comparing the clinical and the genetic models show that the genetic model is more accurate in classifying patients according to development of post-radiotherapy ED among this cohort of prostate cancer patients (AUC for clinical model = 0.749, AUC for genetic model = 0.983; Figure 4)
+0	NA	NA	NA	DISCUSS	To the best of our knowledge, this is the first study to use a genome-wide approach to identify genetic variants associated with development of long-term side effects of radiation therapy.
+0	NA	follicle stimulating hormone receptor	rs2268363	DISCUSS	Out of 512,497 SNPs, we have identified rs2268363, located in the FSH receptor gene, which is significantly associated with development of ED after using Bonferroni correction for multiple testing.
+0	NA	follicle stimulating hormone receptor	NA	DISCUSS	The FSH receptor is expressed in Sertoli cells of the testis and is involved in testis development and function.
+1	infertility	FSH	NA	DISCUSS	Severe disruption of the FSH signaling pathway can lead to abnormal spermatogenesis, small testis size, and infertility in humans.
+1	hypothyroidism	FSH	NA	DISCUSS	Mutations in the FSH gene in mice result in improper gonad development as well as hypothyroidism.
+0	hypothyroidism	NA	NA	DISCUSS	Interestingly, three of the ED cases in this study reported hypothyroidism, whereas none of the control patients reported this co-morbidity (Table 1).
+0	NA	NA	NA	DISCUSS	Two of these men are heterozygous and one is homozygous for the associated risk allele of rs2268363
+0	NA	NA	NA	DISCUSS	We have identified additional SNPs, which although not significantly associated after Bonferroni correction, map to genes that have evidence of a biological role in erectile function and warrant further investigation.
+1	NA	TTC7A	rs10194115	DISCUSS	The second-ranked SNP, rs10194115 (p-value = 4.73x10-07) and another high-ranked SNP, rs5965182 (p-value = 6.25x10-06), reside within the TTC7A gene and near the HEPH gene respectively.
+1	erectile dysfunction	TTC7A	NA	DISCUSS	The proteins encoded by TTC7A and HEPH are involved in regulating blood iron levels, and excessively high blood iron levels are clinically associated with low testosterone and gonadotrophin levels and erectile dysfunction.
+0	NA	prostaglandin F2 receptor negative regulator	NA	DISCUSS	Four other highly ranked SNPs (p-value < 10-5) lie within the prostaglandin F2 receptor negative regulator gene.
+0	NA	NA	NA	DISCUSS	Prostaglandin F2 signaling is involved in vascular smooth muscle constriction and increase in blood pressure; physiological processes involved in erectile function.
+0	NA	NA	NA	DISCUSS	A limitation of our study is the small sample size, and it will be necessary to investigate these SNPs (or other SNPs within these genes) in a larger cohort of radiation therapy patients
+0	NA	NA	NA	DISCUSS	The SNPs identified in this study lie in or near genes that appear to be biologically involved in erectile function.
+0	NA	NA	NA	DISCUSS	This raises the issue that different types of radiotherapy side effects may have distinct genetic predictors, and it will be important to examine each phenotype separately.
+0	NA	NA	NA	DISCUSS	In contrast, previous studies using a candidate gene approach focused mainly on genes involved in DNA damage repair and cellular radiation response.
+0	NA	NA	NA	DISCUSS	We did find some evidence for association between DNA damage repair genes and ED in this study.
+0	NA	LIG4	rs7995376	DISCUSS	For example, two SNPs in the DNA ligase 4 gene (LIG4), rs7995376 and rs7489413, had p-values of 0.001 and 0.009 respectively.
+0	NA	SOD2	rs6927534	DISCUSS	Similarly, SNPs rs6927534 and rs7771621 in the superoxide dismutase 2 gene (SOD2) had p-values of 0.007 and 0.01 respectively.
+0	NA	NA	NA	DISCUSS	These are similar findings to those previously reported by candidate gene studies.
+0	NA	NA	NA	DISCUSS	However, it is difficult to compare this study directly to previous studies for several reasons.
+0	NA	NA	NA	DISCUSS	First, this study looked for SNPs among African American men whereas previous studies included largely Caucasian populations.
+0	radiation injury	NA	NA	DISCUSS	Second, this study only looked at ED as a measure of radiation injury whereas some studies looked at urinary morbidity and proctitis as well.
+0	NA	NA	NA	DISCUSS	For example, Burri et al.
+0	proctitis	SOD2	NA	DISCUSS	found a SNP in SOD2 to be associated with proctitis but not ED.
+0	NA	NA	NA	DISCUSS	Finally, because several hundred thousand comparisons are made in a genome-wide study there is a high likelihood of detecting false positive associations, and so SNPs with p-values on the order of 0.001 to 0.01 (as seen for the DNA repair genes) are below the threshold of significance.
+0	NA	NA	NA	DISCUSS	However, the broader approach taken here was able to identify potentially important genes and pathways that would not have otherwise been investigated using a candidate gene approach
+0	NA	NA	NA	DISCUSS	Another key finding of this project is that 19 of the 30 SNPs with p-values <10-5, including the top four SNPs (Table 2), exhibit minor allele frequencies in the African HapMap population that are at least five-fold greater than the frequencies seen in the European HapMap population.
+0	NA	NA	NA	DISCUSS	Thus, if this study had been conducted using exclusively subjects of European ancestry, it is unlikely that the highest-ranking SNPs associated with ED in our African-American cohort would have been identified.
+0	NA	NA	NA	DISCUSS	Hence, our work addresses the existing health disparity in radiogenomics research, which has involved studies composed primarily of European-ancestry patients
+0	NA	NA	NA	DISCUSS	The observation that the cases in our study shared more genetic variants with African ancestors compared to controls raises an interesting hypothesis that ancestry may be linked to radiation adverse response.
+0	Breast and prostate cancer	NA	NA	DISCUSS	It is well established that African ancestry is associated with increased risk of developing prostate cancer (http://seer.cancer.gov/csr/1975_2006/), and admixture mapping studies have identified 8q24 as a risk locus for prostate cancer among African Americans.
+0	NA	NA	NA	DISCUSS	All of the patients in this study came from the same general population, and to the best of our knowledge there was no selection bias towards cases having a greater proportion of African ancestry than controls.
+0	Breast and prostate cancer	NA	NA	DISCUSS	It will be interesting to explore this observation in a larger cohort and to investigate the potential role of African ancestry in development of other prostate cancer radiotherapy side effects such as urinary morbidity and proctitis
+0	NA	NA	NA	FIG	Plot of -log10 p-values from allelic chi-square tests for association of each of 512,497 SNPs with development of post-radiotherapy ED
+0	NA	NA	NA	FIG	Principle Components Analysis using 100,000 SNPs randomly selected from the 512,497 SNPs used in the association test.
+0	NA	NA	NA	FIG	Includes 27 ED cases, 52 controls, and 90 HapMap individuals from each of three reference populations: Asian, African, and European
+0	NA	NA	NA	FIG	(A) STRUCTURE analysis showing average individual ancestry using 2,455 ancestry-informative markers (AIMs), and (B) MALDsoft locus-specific average ancestry among cases and controls
+0	NA	NA	NA	FIG	ROC curves for the clinical model and the genetic model
+1	NA	NA	rs2268363	FIG	The genetic model includes rs2268363, rs10194115, rs2806864, rs10861905, and African ancestry.
+0	diabetes	NA	NA	FIG	The clinical model includes age at diagnosis, stage, Gleason score, EBRT dose, hormone use, pre-treatment SHIM score, follow-up time, diabetes, hypertension, asthma, and smoking status
+0	NA	NA	NA	TABLE	SNPs showing the strongest association (p-value < 10-05) with development of ED following radiotherapy.
+0	NA	NA	NA	TABLE	Minor allele identity is based on all 79 individuals.
+0	NA	MAF	NA	TABLE	Chr, chromosome; BP, base pair; MAF, minor allele frequency; CEU, European-American HapMap population; YRI, African HapMap population
+0	NA	NA	NA	TABLE	Logistic regression model of effects of clinical variables on post-radiotherapy ED
+0	NA	NA	NA	TABLE	Logistic regression model of effects of genetic variables on post-radiotherapy ED

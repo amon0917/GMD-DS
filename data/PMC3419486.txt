@@ -1,0 +1,176 @@
+0	Alzheimer's disease	NA	NA	ABSTRACT	To identify novel late-onset Alzheimer disease (LOAD) risk genes, we have analyzed Amish populations of Ohio and Indiana.
+0	NA	NA	NA	ABSTRACT	We performed genome-wide SNP linkage and association studies on 798 individuals (109 with LOAD).
+0	NA	NA	NA	ABSTRACT	We tested association using the Modified Quasi-Likelihood Score (MQLS) test and also performed two-point and multipoint linkage analyses.
+0	NA	apolipoprotein E	NA	ABSTRACT	We found that LOAD was significantly associated with APOE (P=9.0x10-6) in all our ascertainment regions except for the Adams County, Indiana, community (P=0.55).
+0	NA	NA	rs12361953	ABSTRACT	Genome-wide, the most strongly associated SNP was rs12361953 (P=7.92x10-7).
+0	NA	NA	NA	ABSTRACT	A very strong, genome-wide significant multipoint peak (recessive HLOD=6.14, dominant HLOD=6.05) was detected on 2p12.
+0	NA	NA	NA	ABSTRACT	Three additional loci with multipoint HLOD scores >3 were detected on 3q26, 9q31, and 18p11.
+0	NA	NA	rs2974151	ABSTRACT	Converging linkage and association results, the most significantly associated SNP under the 2p12 peak was at rs2974151 (P=1.29x10-4).
+0	NA	CTNNA2	NA	ABSTRACT	This SNP is located in CTNNA2, which encodes catenin alpha 2, a neuronal-specific catenin known to have function in the developing brain.
+0	NA	CTNNA2	NA	ABSTRACT	These results identify CTNNA2 as a novel candidate LOAD gene, and implicate three other regions of the genome as novel LOAD loci.
+0	NA	NA	NA	ABSTRACT	These results underscore the utility of using family-based linkage and association analysis in isolated populations to identify novel loci for traits with complex genetic architecture
+0	Alzheimer's disease	NA	NA	INTRO	Late-onset Alzheimer disease (LOAD) is a neurodegenerative disorder causing the majority of dementia cases in the elderly.
+0	NA	NA	NA	INTRO	A complex combination of genetic and environmental components likely determine susceptibility to LOAD.
+0	NA	apolipoprotein E	NA	INTRO	The APOE E4 allele is a well-established genetic risk factor for LOAD.
+0	NA	CR1	NA	INTRO	Additional risk genes have been difficult to detect and replicate until recent successes using large consortia-derived genome-wide association study (GWAS) datasets, which have added CR1, CLU, PICALM, BIN1, EPHA1, MS4A, CD33, CD2AP, and ABCA7 to the list of confirmed LOAD susceptibility genes, each with modest effect
+0	NA	NA	NA	INTRO	Despite these recent successes the majority of the genetic risk for LOAD remains unknown.
+0	NA	NA	NA	INTRO	The remaining genetic risk may in part lie in additional loci with small effects at the population level, making most datasets underpowered.
+0	NA	NA	NA	INTRO	The use of a genetically isolated founder population, such as the Amish, represents an alternative to the use of large population based consortia-derived datasets in the search for genetic risk factors.
+0	NA	NA	NA	INTRO	In the case of a founder population, the number of disease variants is hypothesized to be fewer, thereby decreasing heterogeneity and increasing power
+0	NA	NA	NA	INTRO	We have taken this approach to discover at least one novel LOAD risk gene by studying the Amish communities of Holmes County, Ohio, and Adams, Elkhart and LaGrange Counties, Indiana.
+0	NA	NA	NA	INTRO	These communities are collectively part of a genetically isolated founder population originating from two waves of immigration of Swiss Anabaptists into the U.S in the 1700's and 1800's.
+0	NA	NA	NA	INTRO	The first wave of immigration brought the Anabaptists to Pennsylvania.
+0	NA	NA	NA	INTRO	In the early 1800's some of these immigrants moved to Holmes County, OH, while a second wave of immigration from Europe established more Amish communities in Ohio (including Wayne County but not Holmes County) and Indiana (including Adams County).
+0	NA	NA	NA	INTRO	Starting in 1841, the Elkhart and LaGrange Counties Amish community was founded by Amish families primarily from Somerset County, PA, and from Holmes and Wayne Counties, OH, who were seeking new farmland to settle.
+0	NA	NA	NA	INTRO	The Amish marry within their faith, limiting the amount of genetic variation introduced to the population.
+0	NA	NA	NA	INTRO	Not only are the Amish more genetically homogeneous, but because of their strict lifestyle, environmental exposures are also more homogeneous.
+0	NA	NA	NA	INTRO	The Amish have large families and a well-preserved comprehensive family history that can be queried via the Anabaptist Genealogy Database (AGDB), making the Amish a valuable resource for genetic studies
+0	NA	NA	NA	INTRO	Our current study undertook a genome-wide approach, in a population isolate, using complementary linkage and association analyses to further elucidate the complex genetic architecture of LOAD.
+0	NA	NA	NA	INTRO	We utilized linkage analysis to look for sharing of genomic regions among affected individuals, while also using association analysis to look for differences in allele frequencies between affecteds and unaffecteds.
+0	NA	NA	NA	INTRO	We previously performed a genome-wide linkage study using microsatellites genotyped in only a small subset of the individuals included in this study.
+0	NA	NA	NA	INTRO	Here we use a much larger dataset with a much denser panel of markers using a genome-wide SNP chip.
+0	NA	NA	NA	INTRO	The results indicate that several novel regions likely harbor LOAD genes in the Amish, underscoring the genetic heterogeneity of this phenotype
+0	NA	NA	NA	METHODS	Methods for ascertainment were reviewed and approved by the individual Institutional Review Boards of the respective institutions.
+0	NA	NA	NA	METHODS	Participants were identified from published community directories, referral from other community members or due to close relationship with other participants, as previously described (Edwards et al.
+0	NA	NA	NA	METHODS	2011).
+0	NA	NA	NA	METHODS	Informed consent was obtained from participants recruited from the Amish communities in Elkhart, LaGrange, and surrounding Indiana counties, and Holmes and surrounding Ohio counties with which we have had established working relationships for over 10 years
+0	NA	NA	NA	METHODS	For individuals who agreed to participate, demographic, family, and environmental information was collected, informed consent was obtained, and both a functional assessment and the Modified-Mini-Mental State Exam (3MS) were administered.
+0	NA	NA	NA	METHODS	Those scoring >= 87 on the 3MS were considered cognitively normal and were considered unaffected in our study.
+0	NA	NA	NA	METHODS	Those scoring <87 were re-examined with further tests from the CERAD neuropsychological battery.
+0	Geriatric Depression	NA	NA	METHODS	Depression was also evaluated using the geriatric depression scale (GDS).
+0	Alzheimer's disease	NA	NA	METHODS	Diagnoses for possible and probable AD were made according to the NINCDS-ADRDA criteria.
+0	NA	NA	NA	METHODS	A yearly consensus case conference was held to confirm all diagnoses
+0	NA	apolipoprotein E	NA	METHODS	SNPs for APOE were genotyped for 823 individuals (127 with LOAD).
+0	NA	apolipoprotein E	NA	METHODS	To identify the six APOE genotypes determined by the APOE *E2, *E3 and *E4 alleles, two single nucleotide polymorphisms (SNPs) were assayed using the TaqMan method [Applied Biosystems Inc. (ABI), Foster City, CA, USA].
+0	NA	NA	NA	METHODS	SNP-specific primers and probes were designed by ABI (TaqMan genotyping assays) and assays were performed according to the manufacturer's instructions in 5 mul total volumes in 384-well plates.
+0	NA	NA	rs7412	METHODS	The polymorphisms distinguish the *E2 allele from the *E3 and *E4 alleles at amino acid position 158 (NCBI rs7412) and the *E4 allele from the *E2 and *E3 alleles at amino acid position 112 (NCBI rs429358)
+0	NA	NA	NA	METHODS	Genome-wide genotyping was performed on 830 DNA samples using the Affymetrix 6.0 GeneChip   Human Mapping 1 million array set (Affymetrix , Inc Santa Clara, CA).
+0	NA	NA	NA	METHODS	DNA for this project was allocated by the respective DNA banks at both the Hussman Institute of Human Genomics (HIHG) at the University of Miami and the Center for Human Genetics Research (CHGR) at Vanderbilt University.
+0	NA	NA	NA	METHODS	Genomic DNA was quantitated via the ND-8000 spectrophotometer and DNA quality was evaluated via gel electrophoresis.
+0	NA	NA	NA	METHODS	The genomic DNA (250 ng/5ul) samples were processed according to standard Affymetrix procedures for processing of the Affymetrix 6.0 GeneChip assay.
+0	NA	NA	NA	METHODS	The arrays were then scanned using the GeneChip Scanner 3000 7G operated by the Affymetrix  GeneChip  Command Console  (AGCC) software.
+0	NA	NA	NA	METHODS	The data were processed for genotype calling using the Affymetrix  Power Tools (APT) software using the birdseed calling algorithm version 2.0 Affymetrix , Inc Santa Clara, CA
+0	NA	NA	NA	METHODS	We applied a number of quality control (QC) procedures to both samples and SNPs to ensure the accuracy of our genotype data prior to linkage and association analyses.
+0	NA	NA	NA	METHODS	Specific sample QC included: 1) Each individual DNA sample was examined via agarose to ensure that the sample was of high quality prior to inclusion on the array; 2) CEPH samples were placed across multiple arrays to ensure reproducibility of results across the arrays; 3) Samples with call rates < 95% were re-examined individually to ensure quality of genotypes.
+0	NA	NA	NA	METHODS	4) Ultimately if the sample call rate remained below 95% after further evaluation, attempts were made to rerun the array with a new DNA sample.
+0	NA	NA	NA	METHODS	If the sample still failed, it was dropped.
+0	NA	NA	NA	METHODS	Nine samples were dropped due to low genotyping efficiency.
+0	NA	NA	NA	METHODS	Three samples were excluded because they did not connect into a pedigree with the rest of the samples, and therefore, relationships of those individuals could not be accounted for.
+0	NA	NA	NA	METHODS	Sixteen samples with questionable gender based on X chromosome heterozygosity rates were eliminated.
+0	NA	NA	NA	METHODS	Three samples appearing to be aberrantly connected in the pedigree based on the genotype data were also excluded
+0	NA	NA	NA	METHODS	Specific SNP QC included: 1) Dropping 76,816 SNPs with call rates <98%.
+0	NA	NA	NA	METHODS	2) Dropping 206,970 SNPs with minor allele frequencies (MAF) <=0.05.
+0	NA	NA	NA	METHODS	We additionally excluded 7,849 SNPs with a MAF less than 0.05 after adjusting for pedigree relationships using MQLS (see below).
+0	NA	NA	NA	METHODS	Due to the relatedness in this dataset we did not check SNPs for Hardy-Weinberg equilibrium.
+0	NA	NA	NA	METHODS	Following this extensive quality control, 798 samples (109 with LOAD, see Table 1) and 614,963 SNPs were analyzed.
+0	NA	apolipoprotein E	NA	METHODS	Because APOE genotyping and QC were done separately from genome-wide genotyping and QC, the sample sizes are different and the datasets are mostly, but not completely, overlapping.
+0	NA	NA	NA	METHODS	All 798 samples belong to one 4998-member pedigree with many consanguineous loops.
+0	NA	NA	NA	METHODS	"The AGDB provided the pedigree information using an ""all common paths"" database query with all genotyped individuals"
+0	NA	NA	NA	METHODS	We used the Modified Quasi-Likelihood Score (MQLS) test (software version 1.2) to correct for pedigree relationships.
+0	NA	NA	NA	METHODS	MQLS is analogous to a chi2 test, the most common approach for case-control data analysis with a binary trait, but MQLS incorporates kinship coefficients to correct for correlated genotypes of all the pedigree relationships.
+0	NA	NA	NA	METHODS	This test allows all samples to be included without dividing the pedigree.
+0	NA	NA	NA	METHODS	The MQLS test cannot be applied to X chromosome data, which were, therefore, eliminated from analysis.
+0	NA	apolipoprotein E	NA	METHODS	Because we previously found that Adams County has a lower APOE-4 allele frequency than the general population, we did a stratified association analysis for APOE analyzing Adams County separately from the combined Elkhart, LaGrange, and Holmes Counties.
+0	NA	NA	NA	METHODS	Using the same stratification, we also re-analyzed our most significant SNPs from the GWAS analysis.
+0	NA	NA	NA	METHODS	To test the validity of the MQLS test in our pedigree, we performed simulation studies using this same pedigree structure to assess the type 1 error rate using MQLS for association.
+0	NA	NA	NA	METHODS	Type 1 error rates were not inflated (unpublished data)
+0	NA	NA	NA	METHODS	Because of the large size and substantial consanguinity of the pedigree, we used PedCut to find an optimal set of sub-pedigrees including the maximal number of subjects of interest within a bit-size limit (24 in this study) conducive to linkage analysis.
+0	NA	NA	NA	METHODS	This procedure resulted in 34 sub-pedigrees for analysis with an average of seven genotyped individuals (three genotyped affected) per sub-pedigree.
+0	NA	NA	NA	METHODS	Parametric heterogeneity two-point LOD (HLOD) scores were computed assuming affecteds-only autosomal dominant and recessive models using Merlin.
+0	Alzheimer's disease	NA	NA	METHODS	A disease allele frequency of 10% was used to approximate Alzheimer disease prevalence.
+0	NA	NA	NA	METHODS	For the dominant model penetrances of 0 for no disease allele and 0.0001 for one or two copies of the disease allele, and under the recessive model penetrances of 0 for zero or one disease allele and 0.0001 for two disease alleles were used.
+0	NA	NA	NA	METHODS	Because the underlying genetic model is unknown, we tested both dominant and recessive models to maximize our ability to find a disease locus.
+0	NA	NA	NA	METHODS	SNPs on the X chromosome were analyzed using MINX (Merlin in X).
+0	NA	NA	NA	METHODS	Regions showing evidence for linkage, i.e.
+0	NA	NA	NA	METHODS	containing at least one two-point HLOD >= 3.0, were followed up with parametric multipoint linkage analysis (also using Merlin).
+0	NA	NA	NA	METHODS	For the multipoint analyses, SNPs were pruned for linkage disequilibrium (LD) in each region so that all pair-wise r2 values were < 0.16 between all SNPs (Boyles et al.
+0	NA	NA	NA	METHODS	2005).
+0	NA	NA	NA	METHODS	The LD from the HapMap CEPH samples (parents only) were used for pruning.
+0	NA	NA	NA	METHODS	Because the HapMap CEPH samples may not be an exact representation of LD in our Amish population, we also tested pruning using the data from this Amish dataset, but linkage results did not change using this approach (data not shown).
+0	NA	NA	NA	METHODS	Because linkage analyses can be biased when breaking larger pedigrees into a series of smaller ones, we performed simulation studies assuming no linkage (e.g.
+0	NA	NA	NA	METHODS	null distribution) and using the same large pedigree structure and the same pedigree splitting method.
+0	NA	NA	NA	METHODS	We determined empirical cut-offs for significance in our linkage studies to maintain a nominal type I error rate.
+0	NA	NA	NA	METHODS	We found that after 1000 replications, only 2.5% of the multipoint linkage scans generated a maximum HLOD >3.0 (unpublished data)
+0	NA	NA	NA	METHODS	All computations were done using either the Center for Human Genetics Research computational cluster or the Advanced Computing Center for Research and Education (ACCRE) cluster at Vanderbilt University
+0	NA	apolipoprotein E	NA	RESULTS	We found that LOAD was significantly associated with APOE (MQLS P=9.0x10-6) in our Amish population except for the Adams County, Indiana, community (MQLS P=0.55).
+0	NA	NA	NA	RESULTS	The E4 frequency, adjusted for pedigree relationships, in LOAD individuals in Elkhart, LaGrange, and Holmes Counties was 0.18 for affected individuals compared to 0.11 for unaffected individuals (Table 2).
+0	Alzheimer's disease	NA	NA	RESULTS	This compares to an E4 allele frequency of 0.38 in Caucasian AD individuals (0.14 for controls) (alzgene.org).
+0	NA	NA	NA	RESULTS	We also saw a progressively younger average age of onset with each additional copy of the E4 allele (Table 3), consistent with other populations.
+0	NA	apolipoprotein E	NA	RESULTS	We did not see evidence for linkage with APOE in our sub-pedigrees (dominant HLOD=0.50, recessive HLOD=0.29)
+1	NA	LUZP2	rs12361953	RESULTS	Genome-wide association: In the GWAS, the most significant MQLS P-value (7.92x10-7), which did not surpass a Bonferroni-corrected genome-wide significance threshold of 8.13x10-8, was at rs12361953 on chromosome 11 in LUZP2 (leucine zipper protein 2) (Table 4, Fig 1).
+0	NA	NA	NA	RESULTS	The pedigree-adjusted minor allele frequency was 0.26 for affected individuals versus 0.15 for unaffected individuals.
+0	NA	NA	NA	RESULTS	Fourteen additional SNPs had p-values <1.0x10-5 (Table 4).
+0	NA	NA	NA	RESULTS	According to our simulation analyses, we have >80% power to detect a p-value <= 0.005 under an additive model with an odds ratio of 2.0 (data not shown).
+0	NA	NA	NA	RESULTS	After stratifying, each of the fifteen top SNPs had a more significant p-value in the non-Adams County dataset.
+0	NA	NA	NA	RESULTS	Although some of the SNPs have very different minor allele frequencies in the two strata, the less significant p-values for the Adams County dataset can be explained mostly by the lack of power in that stratum (9 LOAD affected).
+0	NA	NA	rs472926	RESULTS	All SNPs showed the same direction of effect in the two strata except for rs472926, rs12361953, and rs472926 (supplemental table 1).
+0	NA	CR1	NA	RESULTS	These association results did not fall within a megabase of any of the other 9 previously verified LOAD genes (CR1, CLU, PICALM, BIN1, EPHA1, MS4A, CD33, CD2AP, and ABCA7).
+0	NA	PICALM	rs10792820	RESULTS	However, four SNPs (rs10792820, rs11234505, rs10501608, and rs7131120) in PICALM generated nominally significant p-values (P<0.05).
+0	NA	NA	rs11234505	RESULTS	Rs11234505 is only ~3.0 kb from rs561655, the most significant SNP published by, and rs10501608 is only ~10.5 kb from rs541458 the most significant SNP published by and.
+0	NA	MS4A10	rs6591625	RESULTS	We also have a nominally significant SNP, rs6591625, in the MS4A10 gene.
+0	NA	NA	rs4938933	RESULTS	The SNP is ~0.5 Mb from rs4938933, the most significant SNP published by
+0	NA	NA	NA	RESULTS	In the genome-wide analysis, Forty five regions, among all chromosomes except 17, 21, and X, had at least one two-point HLOD >= 3.0 (data not shown).
+0	NA	NA	NA	RESULTS	Multipoint linkage analysis for these regions resulted in four regions, one each on chromosomes 2, 3, 9, and 18 with a multipoint peak HLOD > 3 (Table 5, Fig 2).
+0	NA	Mbp	NA	RESULTS	The highest peak occurred on chromosome 2 with a recessive peak HLOD of 6.14 (90.91 Mbp) and a dominant peak HLOD of 6.05 (81.03 Mbp).
+0	NA	NA	rs1258411	RESULTS	The most significant association results within the recessive and dominant +-1-LOD-unit support interval were rs1258411 (P=5.29x10-2) and rs2974151 (P=1.29x10-4), respectively.
+0	NA	CTNNA2	rs1258411	RESULTS	Rs1258411 is not located in a gene, but rs2974151 is located in an intron of CTNNA2 (catenin, alpha 2).
+0	NA	NA	rs2974151	RESULTS	In addition to rs2974151, 10 other SNPs in this gene had P-values <0.05 (data not shown).
+0	NA	CTNNA2	NA	RESULTS	While this is less than 5% of the analyzed SNPs in CTNNA2, it still warrants attention
+0	NA	NA	NA	RESULTS	The next highest multipoint result was on chromosome 3 with a dominant HLOD of 5.27 and a recessive HLOD of 3.53.
+0	NA	Mbp	rs9812366	RESULTS	The peak for both models is at 168.43 Mbp, and the most significant association result in the +-1-LOD-unit support interval was at rs9812366 (P=4.00x10-2), which is intergenic.
+0	NA	Mbp	NA	RESULTS	The linkage peak on chromosome 9 reached an HLOD of 4.44 (107.76 Mbp) under the dominant model and 3.77 (101.7 Mbp) under the recessive model.
+0	NA	NA	NA	RESULTS	This peak overlaps with the suggestive linkage peak found in the joint linkage analysis published by, however this region has not been consistently replicated in other studies.
+0	NA	NA	rs9969729	RESULTS	For both models the most significant association result in the +-1-LOD-unit support interval was at rs9969729 (P=1.94x10-6), which is intergenic.
+0	NA	Mbp	NA	RESULTS	On chromosome 18 the dominant and recessive results both peaked at 8.77 Mbp with HLOD=3.97 for the dominant model and HLOD=4.43 for the recessive model.
+0	NA	NA	rs632912	RESULTS	The most significant association result in this +-1-LOD-unit support interval was at rs632912 (P=8.80x10-4), which is intergenic.
+0	NA	NA	NA	RESULTS	None of these regions overlap the linkage peaks found in our previous genome-wide microsatellite linkage study, which used only a subset of the individuals in the current dataset.
+0	NA	NA	NA	RESULTS	As with our association results, these multipoint peaks did not encompass the previously known LOAD genes
+0	dementia	apolipoprotein E	NA	DISCUSS	APOE was clearly associated with dementia in our population; however, it did not explain the majority of affected individuals.
+0	NA	NA	NA	DISCUSS	In the Adams County communities, there were only 8/74 individuals who carried at least one APOE-E4 allele.
+0	NA	NA	NA	DISCUSS	In the remaining Amish communities, the APOE-E4 allele was more common, but still less common than in the general population.
+0	NA	NA	NA	DISCUSS	In addition, the majority of affected individuals (81/127, 64% for all counties; 45/115, 39% for non-Adams counties) did not carry an APOE-E4 allele.
+0	NA	NA	NA	DISCUSS	The specific deficit of the APOE-E4 allele in Adams County as well as differences in allele frequencies for some of the top GWAS SNPs indicates at least some level of locus heterogeneity underlying LOAD in the Amish population
+0	NA	NA	NA	DISCUSS	Additional support for locus heterogeneity arises from the linkage results.
+0	NA	NA	NA	DISCUSS	Examination of the subpedigree-specific lod scores for the four significant loci indicates that 13 of the 34 subpedigrees generate no lod scores >0.50 for any of the loci, and 14/21 (67%) of the remaining subpedigrees generate lod scores >0.50 for only one of the four loci.
+0	NA	NA	NA	DISCUSS	In addition, the vast majority of the remaining SNPs across the genome generated HLOD scores with alpha values (proportion of linked pedigrees) <1.0.
+0	NA	NA	NA	DISCUSS	Finally, the suggestion of locus heterogeneity is consistent with the societal differences across church districts, which can further restrict marriages even within the Amish
+0	NA	NA	NA	DISCUSS	Because of the relatedness of individuals in our dataset we could take advantage of both linkage and association approaches to identify potential LOAD loci.
+0	NA	NA	NA	DISCUSS	In our examination, we found that our most significant association results did not fall under any of the four linkage peaks.
+0	NA	NA	NA	DISCUSS	However, under the linkage peaks we did see some evidence of association.
+0	NA	CTNNA2	NA	DISCUSS	Within our most significant region of linkage lies CTNNA2, which also had suggestive evidence for association.
+0	NA	CTNNA2	rs2974151	DISCUSS	In addition to the result at rs2974151 (P=1.29x10-4), multiple SNPs in CTNNA2 had P-values < 0.05, decreasing the likelihood of a false positive association for this gene.
+0	NA	NA	NA	DISCUSS	However, because of the relatedness in our dataset it was difficult to get an accurate measurement of LD structure to determine if the SNPs in this region were more highly correlated due to a founder effect
+0	NA	CTNNA2	NA	DISCUSS	CTNNA2 encodes the catenin alpha 2 protein, which is a neuronal-specific catenin.
+0	NA	NA	NA	DISCUSS	Catenins are cadherin-associated proteins and are thought to link cadherins to the cytoskeleton to regulate cell-cell adhesion.
+0	NA	CTNNA2	NA	DISCUSS	Catenin alpha 2 can form complexes with other catenins such as beta-catenin, which interacts with presinilin.
+0	neuronal apoptosis	beta-catenin	NA	DISCUSS	Mutations in presinilin lead to destabilization of beta-catenin which potentiates neuronal apoptosis.
+0	NA	Catenin alpha 2	NA	DISCUSS	Catenin alpha 2 is also thought to regulate morphological plasticity of synapses and cerebellar and hippocampal lamination during development in mice.
+0	startle	NA	NA	DISCUSS	It also functions in the control of startle modulation in mice
+0	NA	apolipoprotein E	NA	DISCUSS	It was not completely unexpected to see some discordance between the linkage and association results, as was demonstrated in our APOE results where we saw evidence for association but not for linkage.
+0	NA	NA	NA	DISCUSS	Because we needed to divide the pedigree to facilitate linkage analysis and because we used an affecteds-only analysis, only a subset of the individuals analyzed in association analysis were analyzed in linkage analysis.
+0	NA	apolipoprotein E	NA	DISCUSS	The breaking of the pedigree likely reduces the observed genomic sharing between relatives as the tracking of the natural flow of alleles was somewhat disrupted, as we saw when we tested APOE for linkage.
+0	NA	NA	NA	DISCUSS	Also, the very nature of association analysis versus linkage analysis will provide some different results.
+0	NA	NA	NA	DISCUSS	Linkage analysis locates shared genomic regions between affected individuals in the same pedigree by testing for co-segregation of a chromosomal segment from a common ancestor.
+0	NA	NA	NA	DISCUSS	Association using MQLS tests for differences in allele frequencies between affected and unaffected individuals while correcting for the pedigree relationships.
+0	NA	NA	NA	DISCUSS	Association analysis is more powerful in detecting protective effects as well as smaller effects in the population compared to affecteds-only linkage analysis but is underpowered when sample sizes are small and genetic heterogeneity is present.
+0	NA	NA	NA	DISCUSS	Conversely, linkage analysis is more suitable for finding large effects in a small number of related individuals and is more robust to genetic heterogeneity
+0	NA	NA	NA	DISCUSS	Our results confirmed the complex genetic architecture of LOAD even in this more homogeneous set of individuals.
+0	NA	NA	NA	DISCUSS	Multiple genes appeared to be significantly contributing to LOAD risk in the Amish.
+0	NA	apolipoprotein E	NA	DISCUSS	We replicated the effect of APOE, replicated the evidence for linkage on 9q22, and also found modest evidence for association of both PICALM and MS4A in this population.
+0	NA	CTNNA2	NA	DISCUSS	Most importantly, this unique population allowed us to find additional candidate loci, particularly in the CTNNA2 region in which we saw strong evidence for both linkage and association.
+0	NA	CTNNA2	NA	DISCUSS	The role of CTNNA2 in the brain also makes this gene a promising candidate.
+0	NA	CTNNA2	NA	DISCUSS	The CTNNA2 region, in addition to other potential risk regions, needs to be more closely examined to identify the underlying responsible variants and their functional consequences
+0	Alzheimer's disease	NA	NA	FIG	Genome-wide association results were calculated using MQLS for 798 individuals (109 Late-onset Alzheimer disease affected).
+1	NA	LUZP2	rs12361953	FIG	The lowest P-value (7.92x10-7) was calculated on chromosome 11 at rs12361953 which is located in the Leucine zipper protein 2 (LUZP2) gene
+0	NA	NA	NA	FIG	Parametric dominant (blue) and recessive (red) multipoint linkage peaks with HLOD scores >3 were calculated on chromosomes 2 (a), 3 (b), 9 (c), and 18 (d).
+0	NA	NA	NA	FIG	Red=recessive, Blue=dominan
+0	Alzheimer's disease	NA	NA	TABLE	Ages of exam and onset averages and standard deviations were calculated for the 798 samples:Late-onset AD (LOAD) samples, cognitively normal (unaffected) samples, and unclear or unknown samples:which passed QC for genome-wide genotyping
+0	Alzheimer's disease	apolipoprotein E	NA	TABLE	APOE allele frequencies of Late-onset AD (LOAD) affected individuals versus cognitively normal individuals (unaffecteds) were calculated using MQLS to correct for pedigree relationships.
+0	NA	NA	NA	TABLE	Frequencies were calculated in the Adams County individuals separately from Elkhart, LaGrange, and Holmes Counties
+0	NA	apolipoprotein E	NA	TABLE	Average ages of onset and standard deviations by APOE genotype and number LOAD affected and unaffected by APOE genotyp
+0	NA	NA	NA	TABLE	Top genome-wide association results calculated using MQLS.
+0	NA	NA	NA	TABLE	Minor allele frequencies (MAF) are MQLS-corrected for pedigree relationships.
+0	NA	NA	NA	TABLE	A gene is only listed if SNP falls within specified gene.
+0	NA	Mpb	NA	TABLE	Megabase pair (Mpb) positions are based on NCBI Build 36
+0	NA	NA	NA	TABLE	Parametric dominant (Dom) and recessive (Rec) multipoint maximum heterogeneity (HLOD) scores were calculated using Merlin.
+0	NA	NA	NA	TABLE	Regions are determined by +-1-LOD-unit support intervals

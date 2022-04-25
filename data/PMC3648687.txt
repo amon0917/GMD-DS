@@ -1,0 +1,200 @@
+0	diabetes	NA	NA	ABSTRACT	Most genetic variants identified for type 2 diabetes have been discovered in European populations.
+0	diabetes	NA	NA	ABSTRACT	We performed genome-wide association studies (GWAS) in a Chinese population with the aim of identifying novel variants for type 2 diabetes in Asians
+0	diabetes	NA	NA	ABSTRACT	We performed a meta-analysis of three GWAS comprising 684 patients with type 2 diabetes and 955 controls of Southern Han Chinese descent.
+0	NA	NA	NA	ABSTRACT	We followed up the top signals in two independent Southern Han Chinese cohorts (totalling 10,383 cases and 6,974 controls), and performed in silico replication in multiple populations
+0	diabetes	CDKN2A	NA	ABSTRACT	We identified CDKN2A/B and four novel type 2 diabetes association signals with p < 1 x 10-5 from the meta-analysis.
+0	diabetes	NA	rs10229583	ABSTRACT	Thirteen variants within these four loci were followed up in two independent Chinese cohorts, and rs10229583 at 7q32 was found to be associated with type 2 diabetes in a combined analysis of 11,067 cases and 7,929 controls (pmeta = 2.6 x 10-8; OR [95% CI] 1.18 [1.11, 1.25]).
+0	NA	NA	NA	ABSTRACT	In silico replication revealed consistent associations across multiethnic groups, including five East Asian populations (pmeta = 2.3 x 10-10) and a population of European descent (p = 8.6 x 10-3).
+0	NA	NA	rs10229583	ABSTRACT	The rs10229583 risk variant was associated with elevated fasting plasma glucose, impaired beta cell function in controls, and an earlier age at diagnosis for the cases.
+0	NA	NA	NA	ABSTRACT	The novel variant lies within an islet-selective cluster of open regulatory elements.
+0	NA	NA	NA	ABSTRACT	There was significant heterogeneity of effect between Han Chinese and individuals of European descent, Malaysians and Indians
+1	diabetes	PAX4	rs10229583	ABSTRACT	Our study identifies rs10229583 near PAX4 as a novel locus for type 2 diabetes in Chinese and other populations and provides new insights into the pathogenesis of type 2 diabetes
+0	NA	NA	NA	ABSTRACT	The online version of this article (doi:10.1007/s00125-013-2874-4) contains peer-reviewed but unedited supplementary material, which is available to authorised users
+0	Type 2 diabetes	NA	NA	INTRO	Type 2 diabetes is a common complex disease characterised by deficient insulin secretion and decreased insulin sensitivity.
+0	diabetes	NA	NA	INTRO	In 2010, 285 million people worldwide were affected by type 2 diabetes, with 60% of them located in Asia.
+0	diabetes	NA	NA	INTRO	China now has the largest number of patients with diabetes in the world, with an estimated 92 million affected individuals, and an additional 150 million with impaired glucose tolerance
+0	diabetes	NA	NA	INTRO	To identify common type 2 diabetes susceptibility variants, large-scale genome-wide association studies (GWAS) have been conducted in white individuals, yielding more than 60 genetic loci to date.
+0	NA	NA	NA	INTRO	Although many of these regions have been successfully replicated in Asian populations, discrepancies in allelic frequencies and effect sizes have demonstrated that interethnic differences exist.
+0	NA	KCNQ1	NA	INTRO	GWAS conducted in Japanese individuals, as well as meta-analyses of GWAS in South Asian and East Asian groups, have revealed additional variants not detected in GWAS with white individuals, with several signals, including KCNQ1, later replicated in many populations.
+0	NA	NA	NA	INTRO	Previous GWAS in Chinese suggested several loci but lacked large-scale replication
+0	diabetes	NA	NA	INTRO	We therefore conducted this study to identify new type 2 diabetes susceptibility loci in Southern Han Chinese individuals.
+0	diabetes	NA	NA	INTRO	We performed a meta-analysis of three GWAS comprising 684 patients with type 2 diabetes and 955 controls, and analysed 2.9 million (genotyped and imputed) single-nucleotide polymorphisms (SNPs) in an additive model.
+0	NA	NA	NA	INTRO	Putatively associated SNPs (p < 1 x 10-5) were genotyped de novo in two independent Southern Han Chinese cohorts (10,383 cases and 6,974 controls), and SNPs reaching a genome-wide significance of p < 5 x 10-8 were replicated in silico in five East Asian and three non-East Asian populations for a total of 31,541 cases and 60,344 controls
+0	diabetes	NA	NA	METHODS	In the first-stage discovery cohort (stage 1), we performed genome-wide scanning in three different case-control samples: 198 Hong Kong Chinese individuals (99 patients with type 2 diabetes and 99 healthy controls) in Hong Kong GWAS 1, 1,047 Hong Kong Chinese individuals (388 with type 2 diabetes and 659 controls) in Hong Kong GWAS 2 and 394 Shanghai Chinese (197 patients with type 2 diabetes and 197 normal controls) in the Shanghai GWAS.
+0	diabetes	NA	NA	METHODS	Individuals included in the stage 2 replication included 5,366 with type 2 diabetes and 2,474 controls from Hong Kong, and 4,035 cases and 3,964 controls from Shanghai.
+0	NA	NA	NA	METHODS	We also included 325 cases and 368 controls from 178 Hong Kong families, as well as 657 cases and 168 controls from 248 Shanghai families
+0	diabetes	NA	NA	METHODS	Case-control samples for in silico replication in stage 3 were taken from several published type 2 diabetes GWAS in East Asian individuals.
+0	diabetes	NA	NA	METHODS	These included the Korea Association Resource Study, the Singapore Chinese from the Singapore Diabetes Cohort Study and the Singapore Prospective Study Program, the BioBank Japan Study and a Han Chinese Study.
+0	diabetes	NA	NA	METHODS	For stage 4 in silico replication in other populations, Malaysian participants from the Singapore Malay Eye Study, Indian participants from the Singapore Indian Eye Study and participants of European descent in the Diabetes Genetics Replication And Meta-analysis (DIAGRAM) Consortium were included
+0	NA	NA	NA	FIG	Summary of study design.
+0	NA	NA	NA	FIG	CHB, Han Chinese in Beijing, China; JPT, Japanese in Tokyo, Japa
+0	diabetes	NA	NA	METHODS	The study design, type 2 diabetes diagnostic criteria and clinical evaluation used in each study are described in the electronic supplementary material (ESM) Methods.
+0	NA	NA	NA	METHODS	The clinical characteristics of the study individuals are described in Table 1.
+0	NA	NA	NA	METHODS	Each study obtained approval from the appropriate institutional review boards of the respective institutions, and written informed consent was obtained from all participants.
+0	NA	NA	NA	METHODS	The overall study design is depicted in Fig.
+0	NA	NA	NA	METHODS	1
+0	NA	NA	NA	METHODS	In our study, individuals were excluded from further analysis if: (1) duplicate samples existed; (2) the sex identified from the X chromosome was discordant with the sex obtained from the medical records; (3) the genotype call rate yield was <98%.
+0	NA	NA	NA	METHODS	We detected possible familial relationship using estimates of identity by descent derived from pair-wise analyses of independence (r2   0) and quality SNPs.
+0	NA	NA	NA	METHODS	Individuals with evidence for relatedness were excluded .
+0	NA	NA	NA	METHODS	ESM Table 1 shows the quality control for the participants in stage 1
+0	NA	NA	NA	METHODS	To discriminate individuals from different geographical origins, we conducted multidimensional scaling analysis using the genotype data obtained from unrelated individuals in the present study and the other 11 populations studied by the HapMap project (ESM Fig.
+0	NA	NA	NA	METHODS	1).
+0	NA	NA	NA	METHODS	Individuals were excluded from subsequent analyses if they lay between clusters
+0	NA	NA	NA	METHODS	Individuals for the stage 1, 3 and 4 analyses were genotyped using high-density SNP typing arrays that covered the entire genome.
+0	NA	NA	NA	METHODS	Only autosomal SNPs were included.
+0	NA	NA	NA	METHODS	Quality checks for SNPs were performed in the case and control samples separately, although the same criteria were applied to each.
+0	epilepsy	NA	NA	METHODS	SNPs were excluded from further analysis if: (1) p < 1 x 10-4 for Hardy-Weinberg equilibrium (HWE); (2) minor allele frequency (MAF) was <1%; (3) call rate was <95%; in particular, SNPs with MAF >= 1% but <=5% were excluded if their call rate was <99%; or (4) the SNPs showed a significant difference in MAF (p < 1 x 10-4) between the Hong Kong control cohorts with other conditions (450 with epilepsy, 110 with eczema and 99 non-hypertensive individuals).
+0	NA	NA	NA	METHODS	Only SNPs that passed the quality control criteria for both cases and controls were used for further analysis.
+0	NA	NA	NA	METHODS	ESM Table 2 shows the quality control of the genotyping results in stage 1.
+0	NA	NA	NA	METHODS	We imputed genotypes for autosomal SNPs according to the 1000 Genomes reference panel.
+0	NA	NA	NA	METHODS	See the ESM Methods for further details
+0	NA	NA	NA	METHODS	For de novo replication in stage 2, all selected SNPs were genotyped in the Hong Kong and Shanghai case-control samples by a primer extension of multiplex products with detection by Matrix-assisted laser desorption ionisation-time of flight mass spectroscopy using a MassARRAY platform (Sequenom; San Diego, CA, USA).
+0	NA	NA	NA	METHODS	Family samples were genotyped using TaqMan SNP Genotyping Assays (Applied Biosystems, Foster City, CA, USA) or by direct sequencing
+0	NA	NA	NA	METHODS	All statistical analyses were performed using PLINK version 1.07 (http://pngu.mgh.harvard.edu/~purcell/plink/), SAS version 9.1 (SAS Institute, Cary, NC, USA) or SPSS for Windows version 18 (SPSS, Chicago, IL, USA), unless specified otherwise.
+0	NA	NA	NA	METHODS	Haploview version 4.1 was used to generate pair-wise linkage disequilibrium (LD) measures (r2)
+0	diabetes	NA	NA	METHODS	To test for an association with type 2 diabetes, we applied logistic regression under an additive genetic model using the MACH2DAT software (www.sph.umich.edu/csg/abecasis/MACH/download/) adjusted for sex and age according to situations in the individual studies
+0	diabetes	NA	NA	METHODS	To combine the type 2 diabetes association results in stage 1, GWAMA software (www.well.ox.ac.uk/gwama/) was used to calculate the combined estimates of the ORs (95% CIs) from multiple groups by weighting the natural log-transformed ORs of each study using the inverse of their variance under the random effect model.
+0	NA	NA	NA	METHODS	By using the random effect model, we excluded SNPs with some degree of heterogeneity between studies, which helped to attenuate the number of false-positive findings in this study.
+0	NA	NA	NA	METHODS	Cochran's Q statistic (p < 0.05) and I2 index were used to assess the heterogeneity of ORs between studies
+0	NA	NA	NA	METHODS	The most strongly associated SNPs were prioritised for follow-up in stage 2 based on the meta-analysis results from stage 1.
+0	diabetes	NA	NA	METHODS	SNPs located within a previously reported type 2 diabetes locus were excluded.
+0	NA	NA	NA	METHODS	We finally considered 13 top and proxy SNPs from four distinct loci available in all three GWAS with (1) a meta-analysis p < 1 x 10-5; (2) a heterogeneity test p > 0.05; (3) the same direction of risk allele across all three GWAS; (4) a common allele frequency (MAF >= 0.1).
+0	diabetes	NA	NA	METHODS	For SNPs imputed across all three studies, we selected the most significant SNP associated with type 2 diabetes.
+0	NA	NA	NA	METHODS	ESM Tables 3 and 4 describe the details of the selected SNPs and the quality control for the genotyping results in stage 2
+0	NA	NA	NA	METHODS	In the replication stage, genotype frequencies were compared between cases and controls using logistic regression under an additive genetic model.
+0	diabetes	NA	NA	METHODS	In the family studies, alternating logistic regressions (ALR) implemented in the SAS procedure GENMOD was used to test for the association between type 2 diabetes and SNPs under an additive genetic model adjusted for age and sex.
+0	NA	NA	NA	METHODS	ALR is one type of generalised estimating equation applicable to binary outcomes that can handle correlated data (e.g.
+0	NA	NA	NA	METHODS	familial correlation).
+0	NA	NA	NA	METHODS	ORs (95% CIs) are presented in both analyses.
+0	NA	NA	NA	METHODS	Meta-analyses and heterogeneity tests were conducted as described previously to combine estimates of the ORs (95% CIs) from multiple case-control and family groups under the fixed effect model.
+0	NA	NA	NA	METHODS	Multiple testing in the combined analysis of the case-control study were controlled by Bonferroni correction, and p < 4.5 x 10-3 (0.05 divided by 11 SNPs in the stage 2 replication studies) was used as the threshold for filtering SNPs genotyped in the family studies
+0	SD	NA	NA	METHODS	Continuous data are presented as mean +- SD or geometric mean (95% CI).
+0	NA	NA	NA	METHODS	Traits were loge-transformed due to skewed distributions.
+0	Type 2 diabetes	NA	NA	METHODS	Associations between genotypes and quantitative traits were tested by linear regression (adjusted for sex, age and/or BMI) in each healthy control cohort, as were associations for age at diagnosis (AAD) among patients with type 2 diabetes (adjusted for sex, BMI and/or HbA1c).
+0	NA	NA	NA	METHODS	Meta-analyses implemented by GWAMA were applied to combine effect size (beta +- SE) from multiple groups under the fixed effect model
+0	NA	NA	NA	METHODS	We performed bioinformatics and cis-expression quantitative trait loci (eQTL) analysis for functional implication of the identified SNP.
+0	NA	NA	NA	METHODS	See the ESM Methods for additional information on methods, including adjustment for genomic control and the gene network analysis
+0	NA	NA	NA	RESULTS	A summary of the study design and the clinical characteristics of the participants in all stages are shown in Fig.
+0	NA	NA	NA	RESULTS	1 and Table 1.
+0	diabetes	NA	NA	RESULTS	In stage 1, we genotyped 684 patients with type 2 diabetes and 955 controls.
+0	NA	NA	NA	RESULTS	We did not detect any population stratification between case and control individuals in multidimensional scaling analysis for all GWAS (ESM Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	NA	RESULTS	Meta-analysis was implemented to combine the individual association results for 2,925,090 imputed and genotyped SNPs (under additive genetic models) available in all three GWAS using the inverse-variance approach for random effect models
+0	NA	NA	NA	FIG	Manhattan plot of combined genome-wide association results from the Hong Kong 1, Hong Kong 2 and Shanghai studies based on the random effect models.
+0	NA	NA	NA	FIG	The y-axis represents the -log10p value, and the x-axis represents the 2,925,090 analysed SNPs.
+0	NA	NA	NA	FIG	The dashed horizontal line indicates the threshold of significance p < 1 x 10-5.
+0	diabetes	NA	NA	FIG	There are 44 points with p < 1 x 10-5, and the arrow and labels localise the susceptibility loci to type 2 diabetes uncovered in the present stud
+0	NA	NA	NA	RESULTS	In the stage 1 meta-analysis of three Chinese GWAS, 44 SNPs within five loci were prioritised for follow-up (Fig.
+0	NA	NA	NA	RESULTS	2 and ESM Table 5).
+0	NA	NA	NA	RESULTS	We did not observe a substantial change in the stage 1 results after adjusting either for lambdas (1.01-1.04 in individual cohorts) or the first principal component in the meta-analysis, reflecting that the results were not likely to be due to population stratification (ESM Fig.
+0	NA	NA	NA	RESULTS	3 and ESM Table 6)
+0	Type 2 diabetes	NA	NA	TABLE	Association results for type 2 diabetes (T2D) with 11 top and proxy SNPs in de novo replication stage in Chinese population
+0	diabetes	CDKN2A	NA	RESULTS	Of the five loci identified in stage 1, CDKN2A/B has previously been reported to be strongly associated with type 2 diabetes.
+0	diabetes	CDKN2A	rs10811661	RESULTS	In line with our previous findings, two SNPs in CDKN2A/B showing strong signals for type 2 diabetes in the present study were in high LD (r2   0.8) with rs10811661, which is well-replicated in most populations.
+0	NA	CDKN2A	NA	RESULTS	After eliminating the signal of CDKN2A/B and redundant markers, we took forward 13 top and proxy SNPs among the remaining 42 SNPs in four regions to stage 2, de novo replication, in two independent Chinese case-control cohorts (ESM Table 3).
+0	NA	NA	NA	RESULTS	We successfully obtained genotypes for 11 SNPs in Hong Kong replication 1 cohort with 5,366 cases and 2,474 controls, and Shanghai replication 1 cohort with 4,035 cases and 3,964 controls to proceed for subsequent analysis (ESM Table 4).
+0	NA	NA	rs10229583	RESULTS	Of these, rs10229583 and rs2737250, located on chromosomes 7 and 8, respectively, gave p <= 4.5 x 10-3 (threshold of significance after Bonferroni correction) with the same directions of association as the original signals (Table 2).
+0	NA	NA	NA	RESULTS	These two SNPs were genotyped in 1,518 additional samples from 426 families of Han Chinese descent (325 cases and 368 controls from 178 Hong Kong families, and 657 cases and 168 controls from 248 Shanghai families).
+0	NA	NA	rs10229583	RESULTS	Although we did not detect a significant association in either family study using ALR, all were in the concordant direction for rs10229583 (ESM Table 7).
+0	Type 2 diabetes	NA	rs10229583	RESULTS	Taken together, the overall observed association for type 2 diabetes with rs10229583 by combining all studies from Chinese ancestry in stages 1 and 2 yielded an OR (95% CI) of 1.18 (1.11, 1.25) with a corresponding p = 2.6 x 10-8 (Table 3).
+0	NA	NA	rs2737250	RESULTS	For another variant taken to genotyping in family samples, rs2737250, meta-analysis of GWAS and de novo genotyping in the Hong Kong and Shanghai case-control samples revealed OR 1.10 (1.05, 1.15) with a corresponding p = 7.05 x 10-5 using a fixed effect model (p for heterogeneity test = 0.0012, I2 = 0.852), with OR 1.16 (1.01, 1.33), p = 0.0299 by random effect model.
+0	NA	NA	NA	RESULTS	However, genotyping of the variant in the Hong Kong and Shanghai family samples suggested an association in the opposite direction (ESM Table 7)
+0	NA	NA	rs10229583	FIG	Regional plots for the identified variant rs10229583, including results for both genotyped and imputed SNPs in the Chinese population.
+0	NA	NA	NA	FIG	The purple circle and diamond represent the sentinel SNP in meta-analysis of three GWAS in the stage 1 and the East Asian meta-analysis in stages 1 + 2 + 3, respectively.
+0	NA	NA	NA	FIG	Other SNPs are coloured according to their level of LD, which is measured by r2, with the sentinel SNP.
+0	NA	NA	NA	FIG	The recombination rates estimated from the 1000 Genomes project JPT + CHB data are shown.
+0	NA	NA	NA	FIG	CHB, Han Chinese in Beijing, China; JPT, Japanese in Tokyo, Japa
+0	diabetes	NA	rs10229583	FIG	Forest plot for meta-analysis of the association between type 2 diabetes and rs10229583 for all populations in the present study.
+0	NA	NA	NA	FIG	ORs and 95% CIs were reported with respect to the type 2 diabetes-related risk alleles (G
+0	diabetes	NA	rs10229583	RESULTS	To further validate the association of rs10229583 with type 2 diabetes, we conducted in silico replication of rs10229583 in five East Asian GWAS (one Japanese, two Korean, one Singapore Chinese and one Han Chinese study), and three non-East Asian GWAS (Singapore Indian, Singapore Malaysian and the DIAGRAM Consortium).
+0	NA	NA	NA	RESULTS	Meta-analysis for the East Asian populations (p = 2.3 x 10-10) gave an OR (95% CI) of 1.14 (1.09, 1.19).
+0	NA	NA	NA	RESULTS	Among non-East Asian populations, we observed replication of the association in participants of European descent from the DIAGRAM Consortium (p = 8.6 x 10-3), with OR 1.06 and (95% CI 1.02, 1.12) (Table 3 and Figs 3 and 4)
+0	insulin deficiency	NA	rs10229583	FIG	Associations of the risk variant (G allele) of rs10229583 with measures of insulin secretion in Chinese controls.
+0	NA	NA	NA	FIG	(a) Association with reduced HOMA-B in a Hong Kong Chinese adolescent cohort (p = 0.0221).
+0	NA	NA	NA	FIG	(b) Association with a reduced Stumvoll Index of beta cell function in healthy Shanghai controls (p = 0.0303).
+0	NA	NA	NA	FIG	(c) Association of the risk variant with higher FPG in healthy Shanghai controls (p = 0.0460).
+0	NA	NA	NA	FIG	Data are expressed as mean (for FPG) or geometric mean (for HOMA-B and Stumvoll Index).
+0	error bars	NA	NA	FIG	SDs or 95% CIs are expressed as error bars.
+0	NA	NA	NA	FIG	The number of individuals analysed for each genotype is shown in parentheses under each colum
+0	diabetes	NA	rs10229583	RESULTS	We next investigated the associations of rs10229583 with the AAD of type 2 diabetes and quantitative metabolic traits related to type 2 diabetes.
+0	diabetes	NA	NA	RESULTS	Among all the patients with type 2 diabetes, individuals who carried the common, type 2 diabetes risk allele (G) were concordantly and significantly younger at the time of diagnosis in both Hong Kong and Shanghai, and the meta-analysis showed that presence of the risk variant had a significant association with younger AAD (p = 2.3 x 10-4, betaunadjusted +- SE =-0.90 +- 0.24), which remained unchanged following adjustment for sex and BMI (ESM Table 8).
+0	NA	NA	rs10229583	RESULTS	We also observed a nominal association of the G-alleles of rs10229583 with beta cell function as assessed by HOMA-B (betaunadjusted +- SE =-0.06 +- 0.03, p = 0.0221) in healthy Hong Kong adolescents, a reduced Stumvoll Index (betaunadjusted +- SE = 0.03 +- 0.01, p = 0.0303) and increased fasting plasma glucose (FPG) level (betaunadjusted +- SE = 0.03 +- 0.01, p = 0.0460) in healthy Shanghai adults (Fig.
+0	NA	NA	NA	RESULTS	5)
+0	NA	NA	NA	RESULTS	In order to evaluate the functional implication of our identified variant, we performed an extensive bioinformatics analysis.
+0	pancreatic	NA	NA	RESULTS	Consistent with its observed effect on pancreatic beta cell function, the gene region of our locus has been identified as one of the islet-selective clusters of open regulatory elements using a formaldehyde-assisted isolation of regulatory elements coupled with high-throughput sequencing in human pancreatic islets.
+1	allergy	PAX4	NA	RESULTS	In addition, the variant and its tagging SNPs lie within an area near PAX4 and SND1, which is enriched with DNase I hypersensitive sites, histone H3 lysine modifications and CCCTC factor binding in human islets (ESM Fig.
+0	NA	NA	NA	RESULTS	4)
+0	NA	NA	rs10229583	RESULTS	We next investigated the relationship of rs10229583 with eQTLs in adipose tissue and other tissues in available datasets.
+1	NA	GRM8	rs1440971	RESULTS	The variant rs1440971, a proxy of our associated SNP (MAF ~ 0.1, r2 = 0.8 and D' = 1, to rs10229583), was significantly associated with the level of expression of GRM8, ARF5 and PAX4 in lymphoblastoid cells in the GenCord Project, although this did not correlate with the eQTL peak (ESM Fig.
+0	NA	NA	NA	RESULTS	5 and ESM Table 9).
+0	NA	NA	rs10229583	RESULTS	Analysis of all eQTLs associated with rs10229583, or its close proxy, rs1440971, was performed using data from the Multiple Tissue Human Expression Resource (MuTHER) Consortium.
+1	NA	PAX4	NA	RESULTS	Of note, eQTL data were only available for PAX4 in adipose tissue, but not lymphoblastoid cell lines (LCLs) or skin, for which no expression data were available from MuTHER.
+1	NA	C7orf54	NA	RESULTS	There was a nominal association (p < 0.05) between the variant and expression of C7orf54 and ARF5 in LCLs, and C7orf68 in adipose tissue (ESM Table 10).
+0	NA	NA	NA	RESULTS	The r2 between the GWAS SNP and the peak eQTL SNPs ranged between 0.56 and 1
+0	Type 2 diabetes	NA	NA	RESULTS	Complex diseases such as type 2 diabetes are caused by a combination of alterations, and each genomic perturbation or alteration can potentially impact on thousands of genes.
+0	NA	NA	NA	RESULTS	Nevertheless, functionally important genes often organise into the same pathway of functional grouping.
+0	NA	NA	NA	RESULTS	Therefore, we can overlay the alterations on a gene network that was built using highly confident gene-gene relationships (ESM Fig.
+0	NA	NA	NA	RESULTS	6).
+0	pancreatic	NA	NA	RESULTS	We identified interactions between these genes, with additional interaction with other key pancreatic transcription factors such as NEUGRO3 (ESM Fig.
+0	NA	NA	NA	RESULTS	6).
+1	pancreatic	ARF5	NA	RESULTS	Taken together, we speculate that ARF5, GCC1, SND1 and PAX4 may function together with NEUGRO3 in the same network for pancreatic islet development
+0	NA	NA	NA	RESULTS	To investigate why the novel loci identified in the present study had not been detected in previous GWAS performed in other populations, we examined the heterogeneity of effect between East Asians and Europeans.
+0	NA	NA	NA	RESULTS	There was no evidence of heterogeneity of effect between Chinese, Korean and Japanese populations, but significant heterogeneity of effect was seen between Han Chinese and individuals of European descent in the DIAGRAM Consortium, as well as between Chinese, Malaysians and Indians (ESM Table 11)
+0	NA	NA	rs10229583	RESULTS	To test for the variation of LD structure between Chinese and other populations, we implemented the targeted varLD approach to examine the pattern of r2 between every pair of SNPs within the 100 kb region centred on our index SNP rs10229583.
+0	NA	NA	NA	RESULTS	(www.statgen.nus.edu.sg/~SGVP/software/varld.html).
+0	NA	NA	NA	RESULTS	This region shows highly significant evidence of LD variation between Chinese, European (Monte Carlo [MC] p = 0.0018), and African (MC p = 0.0003) individuals, but nominal evidence of variations between Chinese and Japanese (MC p = 0.0107) (ESM Table 12 and ESM Figs 7 and 8).
+0	NA	NA	rs10229583	RESULTS	We also observed discrepancies in allele frequency of rs10229583 between East Asians, Europeans and Africans (ESM Table 12)
+0	diabetes	NA	NA	DISCUSS	This study reports a meta-analysis of GWAS for type 2 diabetes in a Chinese population, and has identified a novel diabetes-associated locus.
+0	NA	NA	NA	DISCUSS	Furthermore, we replicated the association in additional East Asian samples, and found an association in samples of European descent.
+0	NA	NA	NA	DISCUSS	In addition to the multiethnic samples used in our study, our study also benefits from a detailed phenotyping of the Chinese samples, which allowed additional analyses of the effect of the risk variant on clinical traits and the course of disease to be carried out
+0	diabetes	NA	NA	DISCUSS	Type 2 diabetes in Asians is characterised by an earlier AAD, strong family history and evidence of impaired beta cell function.
+0	diabetes	NA	NA	DISCUSS	In a recent nationwide study conducted in China, the prevalence of diabetes was 3.2% among persons aged 20-39 years, and 11.5% among adults aged 40-59.
+0	diabetes	NA	rs10229583	DISCUSS	The risk variant we identified, rs10229583, was associated with earlier AAD in both the Hong Kong and Shanghai samples, highlighting its potential contribution to young-onset diabetes in the Chinese population.
+0	NA	NA	NA	DISCUSS	Healthy adults and adolescents who carry the risk variant were found to have elevated fasting glucose and impaired beta cell function, respectively
+1	diabetes	ARF5	rs10229583	DISCUSS	The novel locus for type 2 diabetes we identified, rs10229583, is located downstream of the ARF5 and PAX4 genes in 7q32, and upstream of SND1.
+1	pancreatic	PAX4	NA	DISCUSS	PAX4, which is a member of the paired box family of transcription factors, plays a critical role in pancreatic beta cell formation during fetal development and is therefore a very strong candidate for the implicated gene.
+0	NA	NA	NA	DISCUSS	The gene region lies within an area of islet-specific cluster of open chromatin sites and may therefore act in cis with local chromatin and regulatory changes.
+1	pancreatic	PAX4	NA	DISCUSS	PAX4 is expressed in early pancreatic endocrine cells, but expression is later restricted to beta cells and it is not expressed in mature pancreas.
+1	pancreatic	PAX4	NA	DISCUSS	In pancreatic endocrine cells, PAX4 represses ghrelin and glucagon expression, and can induce the expression of PDX1, a key transcription factor for islet development.
+0	NA	PAX4	NA	DISCUSS	Targeted disruption of PAX4 in mice was found to lead to reduced beta cell mass at birth
+1	diabetes	PAX4	NA	DISCUSS	Several human studies have implicated PAX4 in the pathogenesis of diabetes.
+0	Type 2 diabetes	NA	R121W	DISCUSS	In one report, a missense mutation (R121W) was identified in six heterozygous patients and one homozygous patient out of 200 unrelated Japanese patients with type 2 diabetes.
+1	insulin deficiency	PAX4	NA	DISCUSS	For example, Japanese patients carrying PAX4 mutations have severe defects in first-phase insulin secretion.
+1	diabetes	PAX4	NA	DISCUSS	Mutations in PAX4 may lead to rare monogenic forms of young-onset diabetes.
+0	Type 2 diabetes	HNF4A	NA	DISCUSS	Common variants in several other MODY genes, namely, HNF4a, HNF1a and TCF2, have been identified as susceptibility loci for type 2 diabetes
+0	pancreatic	NA	NA	DISCUSS	Our finding is consistent with other studies that have highlighted the important role of genes implicated in pancreatic development in the pathogenesis of type 2 diabetes.
+0	diabetes	HNF4A	NA	DISCUSS	In a previous study, a risk variant at HNF4a has been found to be associated with increased risk of type 2 diabetes, and carriers of the risk allele have impaired beta cell function.
+1	NA	PAX4	R121W	DISCUSS	The MAF of the R121W PAX4 mutation was 1% in Asians, and the mutation is in low LD with rs10229583.
+0	diabetes	NA	NA	DISCUSS	It is possible that both rare mutations and common variation within the same gene confer risk towards type 2 diabetes independently.
+0	NA	NA	rs10229583	DISCUSS	The common variant we identified, rs10229583, may be associated with altered gene expression, while the other rare non-synonymous mutations lead to impaired gene function.
+0	diabetes	MTNR1B	NA	DISCUSS	For example, while common non-coding variants in MTNR1B increase type 2 diabetes risk with a modest effect, large-scale resequencing has identified rare loss-of-function MTNR1B variants that significantly contribute towards type 2 diabetes risk.
+0	NA	NA	NA	DISCUSS	Some regulatory elements harbouring type 2 diabetes-associated loci have recently been found to exhibit allele-specific differences in activity, providing evidence supporting the functional role of non-coding common variants identified through GWAS
+1	diabetes	NA	NA	DISCUSS	The recent East Asian meta-analysis comprising eight type 2 diabetes GWAS identified a locus on chromosome 7 near GRIP and GCC1-PAX4 to be associated with type 2 diabetes.
+0	NA	GCC1	NA	DISCUSS	The protein encoded by GCC1 may play a role in transmembrane transport.
+0	NA	NA	rs6467136	DISCUSS	The variant identified from the East Asian study, rs6467136, appears to be independent of our signal, with r2 = 0.044 in our Chinese samples (ESM Fig.
+0	NA	NA	NA	DISCUSS	8).
+0	NA	NA	rs10229583	DISCUSS	Furthermore, we found no change in the effect size of rs10229583 after conditioning on rs6467136 (OR [95% CI] = 1.20 [1.11, 1.29], p = 4.6 x 10-6 vs OR [95% CI] = 1.19 [1.10, 1.29), p = 1.6 x 10-5, before and after the conditional analysis in 9,886 Chinese samples).
+0	NA	NA	rs6467136	DISCUSS	Likewise, rs6467136 had little change in effect after conditioning on rs10229583 (OR [95% CI] = 1.09 [1.02, 1.17], p = 0.0125 before; OR [95% CI] = 1.07 [0.99, 1.15], p = 0.0729 after).
+0	diabetes	KCNQ1	rs231362	DISCUSS	In the recent analysis from the DIAGRAM Consortium, rs231362 near KCNQ1 was identified to be associated with type 2 diabetes.
+0	NA	NA	NA	DISCUSS	This signal is independent of the original signal identified in the Japanese population as revealed by conditional analysis.
+0	NA	KCNQ1	NA	DISCUSS	Consistent with the evidence observed for KCNQ1, our finding highlighted that multiple common genetic variations within the same gene region may independently contribute to disease risk.
+0	NA	NA	NA	DISCUSS	It will be worthwhile undertaking a further investigation of this region to search for population-specific and/or disease causal variants in different ethnic groups by fine-mapping as well as transethnic mapping
+0	diabetes	NA	NA	DISCUSS	The other genes in the region of our identified variant are also potential candidate genes for diabetes.
+1	NA	ARF5	NA	DISCUSS	ARF5 belongs to a family of guanine nucleotide-binding proteins that have been shown to play a role in vesicular trafficking and as activators of phospholipase D. Islet expression of ARF5 was found to be induced threefold in rats receiving a high-carbohydrate diet.
+1	NA	SND1	NA	DISCUSS	The nearby SND1 gene, also known as the p100 transcription co-activator, is a member of the micronuclease family and plays a key role in transcription and splicing.
+0	NA	NA	NA	DISCUSS	The p100 transcriptional co-activator is present in endocrine cells and tissues, including the pancreas of cattle
+0	diabetes	KCNQ1	NA	DISCUSS	Among the type 2 diabetes loci first identified in non-European populations, other than KCNQ1, few have consistently been found to show a significant association in studies of individuals of European descent.
+0	diabetes	NA	rs10229583	DISCUSS	The diabetes gene variant we identified, rs10229583, also showed a significant association in Europeans in the DIAGRAM Consortium, with a smaller effect size compared with East Asian individuals (p = 0.0024 by Cochran's Q statistics, I2 = 0.8913).
+1	NA	PAX4	NA	DISCUSS	Interestingly, rare PAX4 mutations were first identified in Asian MODY probands, but seldom found in those of European descent.
+1	diabetes	PAX4	NA	DISCUSS	This suggests that PAX4, like KCNQ1, may be particularly relevant for the pathogenesis of type 2 diabetes in East Asians individuals.
+1	NA	SND1	rs10229583	DISCUSS	Interestingly, rs10229583 is also in strong LD with a region spanning the neighbouring SND1 gene (Fig.
+0	NA	NA	NA	DISCUSS	3).
+0	Type 2 diabetes	NA	NA	DISCUSS	Further resequencing and transethnic mapping should help to identify the causal gene variant for type 2 diabetes within this region
+0	Type 2 diabetes	NA	NA	DISCUSS	The novel locus we identified in Chinese individuals with type 2 diabetes has not been detected in previous GWAS performed in mainly individuals of European descent.
+0	NA	NA	NA	DISCUSS	We noted a highly significant LD variation between Chinese and European individuals in the region surrounding our identified variant.
+0	NA	NA	NA	DISCUSS	There is also significant variation in allele frequencies in Chinese compared with Europeans, as well as between Chinese and African individuals.
+0	NA	NA	NA	DISCUSS	This ethnic difference in LD pattern and risk allele frequency may lead to a differential impact in different populations and warrants further investigation by resequencing
+0	NA	NA	NA	DISCUSS	Our study has several limitations.
+0	NA	NA	NA	DISCUSS	The sample size of our GWAS was modest, resulting in limited power to identify genetic variants with small effect sizes.
+0	NA	NA	NA	DISCUSS	We have limited our discovery study to Southern Han Chinese, although the consistent replication seen in other East Asian population suggests that the findings may be applicable to other populations of Chinese descent
+1	diabetes	PAX4	rs10229583	DISCUSS	In summary, we identify rs10229583 near PAX4 as a novel locus for type 2 diabetes in Chinese and other populations, providing new insights into the pathogenesis of type 2 diabetes

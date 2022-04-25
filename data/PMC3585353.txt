@@ -1,0 +1,251 @@
+0	NA	NA	NA	ABSTRACT	Genome-wide association studies (GWAS) simultaneously investigating hundreds of thousands of single nucleotide polymorphisms (SNP) have become a powerful tool in the investigation of new disease susceptibility loci.
+0	NA	NA	NA	ABSTRACT	Haplotypes are sometimes thought to be superior to SNPs and are promising in genetic association analyses.
+0	NA	NA	NA	ABSTRACT	The application of genome-wide haplotype analysis, however, is hindered by the complexity of haplotypes themselves and sophistication in computation.
+0	breast cancer	NA	NA	ABSTRACT	We systematically analyzed the haplotype effects for breast cancer risk among 5,761 African American women (3,016 cases and 2,745 controls) using a sliding window approach on the genome-wide scale.
+0	NA	NA	NA	ABSTRACT	Three regions on chromosomes 1, 4 and 18 exhibited moderate haplotype effects.
+0	breast cancer	NA	NA	ABSTRACT	Furthermore, among 21 breast cancer susceptibility loci previously established in European populations, 10p15 and 14q24 are likely to harbor novel haplotype effects.
+0	NA	NA	NA	ABSTRACT	We also proposed a heuristic of determining the significance level and the effective number of independent tests by the permutation analysis on chromosome 22 data.
+0	NA	NA	NA	ABSTRACT	It suggests that the effective number was approximately half of the total (7,794 out of 15,645), thus the half number could serve as a quick reference to evaluating genome-wide significance if a similar sliding window approach of haplotype analysis is adopted in similar populations using similar genotype density
+0	NA	NA	NA	INTRO	Genome-wide association studies (GWAS) have been demonstrated to have the power to detect modest to small effects of genetic variants with various common diseases.
+0	cancers	NA	NA	INTRO	A large number of novel SNPs have been identified and successfully replicated in associations with complex diseases, such as cancers, diabetes, and cardiovascular disease.
+0	NA	NA	NA	INTRO	Meanwhile, haplotype analysis has become a prominent example of multilocus genetic association studies and has assisted in finding new disease susceptibility loci.
+0	NA	NA	NA	INTRO	Haplotypes consist of SNPs or other genetic markers on the same chromosome that are inherited together with little contemporary recombination.
+0	NA	NA	NA	INTRO	Haplotype information may aid GWAS in identifying new marker-phenotype associations for several reasons.
+0	NA	NA	NA	INTRO	First, haplotypes characterize the exact organization of alleles along the chromosome.
+0	dependency	NA	NA	INTRO	Although D' and r2 are useful in capturing the linkage disequilibrium (LD) pattern between a pair of markers, they are hardly to be extended to higher order of dependency among markers.
+0	NA	NA	NA	INTRO	As a result, LD analysis based on underlying haplotypes can be more accurate.
+0	NA	NA	NA	INTRO	Second, by constructing haplotype blocks from SNPs, more information can be incorporated into the association tests, especially when haplotypes themselves are in closer LD with the causal variant than any single genotyped SNP.
+0	NA	NA	NA	INTRO	Haplotype analysis has been reported to be superior to analysis based on individual SNPs by simulation and empirical studies
+0	NA	NA	NA	INTRO	Although haplotype analysis is seemingly appealing, its implementation on the genome wide scale is unwieldy given the uncertainty and complexity of haplotypes, as well as the difficulty of adjusting for multiple testing when hundreds of thousands of hypotheses are being tested simultaneously.
+0	NA	NA	NA	INTRO	For instance, there is no consensus in the exact definition of haplotype blocks, making the boundaries of haplotype blocks not unambiguous.
+0	NA	NA	NA	INTRO	One definition is based on D' among neighboring SNPs which needs to exceed a pre-specified cutoff value; another commonly implemented method requires a reduced haplotype diversity on a chromosomal segment.
+0	NA	NA	NA	INTRO	Unfortunately, no method is uniformly better than the others in application.
+0	NA	NA	NA	INTRO	We favor a sliding window framework since haplotypes can be quickly constructed and all genotyped SNPs are incorporated.
+0	NA	NA	NA	INTRO	Fixed window sizes are computationally easier and more efficient in practice relative to varying window sizes.
+0	asthma	NA	NA	INTRO	Mathias et al successfully identified five asthma susceptibility loci on chromosome 11 in African Americans via the sliding window approach, in which the window sizes were 2-6 SNPs.
+0	NA	NA	NA	INTRO	Lambert et al.
+0	Alzheimer's disease	FRMD4A	NA	INTRO	adopted a similar approach where 10 consecutive haplotype tagging SNPs (htSNPs) were defined as a sliding window and found a haplotype residing in FRMD4A gene at 10p13 with increased risk for Alzheimer's disease.
+0	breast cancer	NA	NA	INTRO	In this paper, we scanned throughout the 22 autosomes to search for significant haplotype effects for breast cancer risk among 5,761 African American women using the sliding window approach of 5 contiguous SNPs.
+0	NA	NA	NA	INTRO	The haplotype effects were then compared with individual SNP effects including genotyped and imputed SNPs at the same chromosomal position.
+0	NA	NA	NA	INTRO	To determine a valid significance level, 1,000 permutations were exploited using the chromosome 22 data.
+0	NA	NA	NA	INTRO	The permutation-based chromosome-wide significance level for chromosome 22 and the effective number of independent tests were computed from the empirical distribution of the minimum p-values.
+0	NA	NA	NA	INTRO	The genome-wide significance level can then be readily determined through Bonferroni correction by substituting the effective number of tests for the total number of tests.
+0	NA	NA	NA	INTRO	While globally significant results were not obtained, closer attention should be paid to the regions revealed by the most significant haplotypes on chromosomes 1, 4 and 18.
+0	breast cancer	NA	NA	INTRO	We also scrutinized 21 known breast cancer risk regions for potential haplotype effects and found 10p15 and 14q24 may possess novel haplotype effects
+0	NA	NA	NA	METHODS	The Institutional Review Board at the University of Southern California approved the study protocol.
+0	NA	NA	NA	METHODS	All participants gave informed written consent at the time of blood draw
+0	breast cancer	NA	NA	METHODS	There were a total of 5,984 African American women included in this study, of which 3,153 were cases with breast cancer and 2,831 were controls.
+0	breast cancer	NA	NA	METHODS	The entire sample was derived from nine epidemiological studies: (i) The Multiethnic Cohort Study (MEC): 734 cases and 1,003 controls; (ii) The Los Angeles component of the Women's Contraceptive and Reproductive Experiences Study (CARE): 380 cases and 224 controls; (iii) The Women's Circle of Health Study (WCHS): 272 cases and 240 controls; (iv) The San Francisco Bay Area Breast Cancer Study (SFBCS): 172 cases and 231 controls; (v) The Northern California Breast Cancer Family Registry (NC-BCFR): 440 cases and 53 controls; (vi) The Carolina Breast Cancer Study (CBCS): 656 cases and 608 controls; (vii) The Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial (PLCO) Cohort: 64 cases and 133 controls; (viii) The Nashville Breast Health Study (NBHS): 310 cases and 186 controls; (ix) Wake Forest University Breast Cancer Study (WFBC): 125 cases and 153 controls.
+0	situ breast cancer	NA	NA	METHODS	All cases were African American women diagnosed with invasive or in situ breast cancer.
+0	NA	NA	NA	METHODS	Controls were mainly recruited through random digit dialing.
+0	NA	NA	NA	METHODS	A more detailed description of the characteristics of each study is available in Table S1 and elsewhere
+0	NA	NA	NA	METHODS	Genotyping was performed using the Illumina Human 1M-Duo chip.
+0	NA	NA	NA	METHODS	Individuals whose samples had low DNA concentrations (<20 ng/microl) were removed (n = 52).
+0	NA	NA	NA	METHODS	We also removed unexpectedly related individuals (n = 29), call rates <95% (n = 100), African ancestry <5% (n = 36), and individuals of ambiguous sex (n = 6).
+0	NA	NA	NA	METHODS	We excluded SNPs with call rate <95% (n = 21,732) and minor allele frequency (MAF) <1% (n = 80,193).
+0	NA	NA	NA	METHODS	SNPs with a concordance rate lower than 98% were removed too (n = 11,701).
+0	NA	NA	NA	METHODS	The average concordance rate of the sample was 99.95%.
+0	NA	NA	NA	METHODS	Hardy-Weinberg equilibrium (HWE) was not imposed as one of the quality control criteria given that African Americans are known as an admixed population.
+0	NA	NA	NA	METHODS	Except for a SNP on chromosome 5 showing significant deviation from HWE (discussion follows in the Results section), none of the other SNPs included in the following analyses were severely out of HWE (Exact test p-value >1x10-6).
+0	NA	NA	NA	METHODS	The total number of SNPs remained in the analysis was 1,006,480 in 5,761 subjects (3,016 cases and 2,745 controls)
+0	NA	NA	NA	METHODS	The sliding window approach was adopted to define haplotype blocks throughout 22 autosomes for its maximum coverage of genotyped SNPs given the exploratory nature of the present study.
+0	NA	NA	NA	METHODS	The choice of the 5-SNP window was mostly in agreement with the average block size for the HapMap Yoruba population [in Ibadan, Nigeria (YRI), HapMap Phase II] (Table S2).
+0	NA	NA	NA	METHODS	Wang et al showed that based on Gabriel's definition of haplotype blocks, 57% of LD blocks in the YRI population were shorter than 10 kb and 37% of the blocks were between 10 kb and 50 kb.
+0	NA	NA	NA	METHODS	For our AABC data, the universal 5-SNP windows across 22 chromosomes achieved a comparable distribution of haplotype block sizes, i.e., 55% of the 5-SNP windows shorter than 10 kb and 44% between 10 kb and 50 kb long.
+0	NA	NA	NA	METHODS	The distributions of haplotype block sizes defined by sliding windows did not differ greatly by chromosome (Figure S1), indicating that on no chromosome the 5-SNP sliding windows have a disproportionately poor coverage of exceptionally long or short blocks in general.
+0	NA	NA	NA	METHODS	Admittedly, the universal 5-SNP windows across 22 autosomes or throughout approximately 1 million SNPs may not comprehensively capture individual haplotype block size variations at specific loci.
+0	NA	NA	NA	METHODS	It is nonetheless deemed a fairly good approximation with some theoretical basis
+0	NA	NA	NA	METHODS	The haplotype frequencies within each haplotype block defined by the sliding windows were estimated using the Expectation-Maximization (E-M) algorithm outlined by Excoffier and Slatkin, and Stram.
+0	NA	NA	NA	METHODS	Let  count the true, yet generally unknown, number of copies of a haplotype h, with frequency , contained in the haplotype pair H carried by a given individual, i.e.,  takes possible values of 0, 1 or 2, meaning 0, 1 or 2 copies of such haplotype h in haplotype pair H are inherited from parents; let  denote the expected number of copies of each possible haplotype h given the individual's observed genotype .
+0	NA	NA	NA	METHODS	These expectations are computed iteratively aswithwhere  indicates the summation is over the haplotype pairs, , compatible with the observed genotype,.
+0	NA	NA	NA	METHODS	The algorithm starts with initial haplotype frequencies, , and updates them iteratively.
+0	NA	NA	NA	METHODS	Equation (1) is the expectation step and (2) is the maximization step of the E-M algorithm
+0	NA	NA	NA	METHODS	The inferred haplotype dosage estimates, , abbreviated as , can be used individually in a 1-degree-of-freedom (d.f.)
+0	NA	NA	NA	METHODS	test in testing for haplotype-specific associations with the disease using model (3),or a global test simultaneously fitting all haplotypes  within the haplotype block defined by a sliding window using model (4),where  denotes the total number of possible haplotypes within that block and the degrees of freedom of the global test in model (4) are therefore .
+0	NA	NA	NA	METHODS	In both models, X is the vector of covariates, including age, study, and the top ten eigenvectors of ancestral information estimated by principal components analysis to adjust for global ancestry differences.
+0	NA	NA	NA	METHODS	The eigenvectors are included in the model to control for potential confounding due to population stratification and admixture.
+0	NA	NA	NA	METHODS	In haplotype association analysis, a large fraction of the inferred haplotypes can be very rare, with frequency close to zero.
+0	NA	NA	NA	METHODS	It is customary to discard rare haplotypes that are less than 1% frequent to reduce the total d.f.
+0	NA	NA	NA	METHODS	of the model so that the power to detect risk effects of relatively common haplotypes can be well preserved.
+0	NA	NA	NA	METHODS	Suppose that there are  haplotypes greater than 1% of frequency, where << holds true in many cases, the d.f.
+0	NA	NA	NA	METHODS	of the global test reduces to  from  as indicated in model (5
+0	NA	NA	NA	METHODS	 We started with applying the global test throughout the whole genome to agnostically search for haplotype effects following the 5-SNP sliding window framework, while the 1 d.f.
+0	NA	NA	NA	METHODS	test of individual haplotype-specific effects was performed only when a potentially significant region was detected by the global test.
+0	NA	NA	NA	METHODS	For visualization purposes, haplotype effects were compared to the effects of the constituent SNPs at the same chromosomal region by an overlaid Manhattan plot showing the statistical significance, presented as -log10(p-value), of both haplotypes and SNPs.
+0	NA	NA	NA	METHODS	Haplotype effects would become interesting only if a noticeable haplotype effect peak was not accompanied by a similar significance peak involving the constituent SNPs.
+0	NA	NA	NA	METHODS	For regions exhibiting considerable haplotype effects, they were further extended both upstream and downstream by half of the original width to include more flanking SNPs and haplotypes, making the extended regions twice longer (Table S3).
+0	NA	NA	NA	METHODS	All possible individual haplotypes composed of 2 up to 10 SNPs (or the maximum number of genotyped SNPs contained in the extended region, whichever is smaller) with haplotype frequency >1% were investigated exhaustively to single out the particular haplotype(s) explaining the significant global test.
+0	NA	NA	NA	METHODS	The top individual haplotypes were further verified by a likelihood ratio (LR) test comparing the model with both the top haplotype and the best single SNP contained (model 6) to the nested model with the same best SNP only (model 7), where gi denotes the genotypes of the SNP carried by an individual i and an additive excessive effect of each risk allele on the disease is assumed.
+0	NA	NA	NA	METHODS	The novelty of the haplotype effects compared to the SNP effects was assessed using a LR test with 1 d.f.
+0	NA	NA	NA	METHODS	We were also interested in whether the haplotype effects could be otherwise captured by genotype imputation in the same region.
+0	NA	NA	NA	METHODS	The genotype imputation was performed by Mendel-GPU using the 1000 Genomes Projects (1 KGP) data as the reference panel.
+0	NA	NA	NA	METHODS	The much denser 1 KGP has a better genomic coverage of rare and low frequency markers and is reported to be capable of providing more statistical power to identify the underlying associations.
+0	NA	NA	NA	METHODS	The superiority of haplotype analysis to SNP imputation could be highlighted by the presence of haplotype signals where significant genotyped or imputed SNPs are absent.
+0	NA	NA	NA	METHODS	In regions with the strongest haplotype effects, we also inferred and adjusted for the local ancestry information for each marker residing near the haplotypes of interest (+-250 kb).
+0	NA	NA	NA	METHODS	The local ancestry characterizes the proportions of European and African ancestry, represented by the posterior probabilities of carrying 0, 1, and 2 copies of a European allele at each SNP.
+0	NA	NA	NA	METHODS	The local ancestry was computed by HAPMIX with 240 HapMap EUR+YRI phased founder haplotypes per chromosome as input.
+0	NA	NA	NA	METHODS	The top haplotype effect was further adjusted for the inferred local ancestry in addition to adjustment for global ancestry (i.e.
+0	NA	NA	NA	METHODS	using the leading principal components), age, and study as described above.
+0	NA	NA	NA	METHODS	This additional adjustment for local ancestry could help eliminate false positive haplotype effects that were confounded by local ancestry
+0	breast cancer	NA	NA	METHODS	In addition, haplotype effects in the neighborhood of known breast cancer risk SNPs identified predominantly in European populations were investigated especially carefully.
+0	NA	NA	NA	METHODS	Twenty-one regions (1p11, 2q35, 3p24, 5p12, 5q11, 6q14, 6q25, 8q24, 9p21, 9q31, 10p15, 10q21, 10q22, 10q26, 11p15, 11q13, 14q24, 16q12, 17q22, 19p13, and 20q11) and their associated SNPs were of primary interest.
+0	breast cancer	NA	NA	METHODS	Regions with potential of harboring unknown haplotype effects were scrutinized by inferring all possible individual haplotypes of frequency >1% consisting of 2-10 consecutive SNPs in the neighborhood of +-250 kb of known breast cancer risk hits (except for 8q24, where +-2 Mb was used).
+0	NA	NA	NA	METHODS	As before, the important haplotype effects were compared with the significance of genotyped as well as with the 1 KGP imputed SNPs in the same region.
+0	breast cancer	NA	NA	METHODS	The independence of these haplotype-disease associations were further verified by LR tests adjusting for the SNP effects from both the regionally best SNP and the known breast cancer risk SNP.
+0	breast cancer	NA	NA	METHODS	Notable haplotypes residing in proximity to the known breast cancer risk hits were again corrected for local ancestry inferred from the same region to eliminate potential confounding due to local genetic ancestry admixture
+0	NA	NA	NA	METHODS	PLINK was the primary software to conduct the association analyses.
+0	NA	NA	NA	METHODS	All regression models were adjusted for age, study, and global ancestry.
+0	NA	NA	NA	METHODS	For important haplotypes indentified through association analyses, local ancestry was additionally adjusted for
+0	NA	NA	NA	METHODS	In order to obtain a valid significance threshold for the global test of haplotype analysis, 1,000 replicates of chromosome 22 data were generated by randomly shuffling the case-control status for each individual in the sample while maintaining the same numbers of cases and controls as in the original data.
+0	NA	NA	NA	METHODS	Each replicate was analyzed using the same global test logistic regression model to test the overall significance of haplotype blocks defined by the same 5-SNP sliding window (model 5).
+0	NA	NA	NA	METHODS	The same covariates were adjusted for as well, i.e., age, study and global ancestry, but not local ancestry.
+0	NA	NA	NA	METHODS	The minimum p-values of the global tests for haplotype block effects from 1,000 permutations were recorded and sorted in ascending order and the fifth percentile of the 1,000 minimum p-values was considered the permutation-based p-value so that the chromosome-wide type I error rate equals 0.05.
+0	NA	NA	NA	METHODS	Following Dudbridge et al., we substituted the total number of tests with the effective number of independent tests neff.
+0	NA	NA	NA	METHODS	If neff exists, then it can be inferred from the beta distribution of the minimum p-values with parameters (1,neff ).
+0	NA	NA	NA	METHODS	The probability density function of the beta distribution with parameters  is,where  is the gamma function with two parameters ,>0.
+0	NA	NA	NA	METHODS	Therefore beta distributions were fitted to the minimum p-values from the 1,000 permutation replicates in two scenarios: (i) the parameter  of the beta distribution is set equal to 1; (ii) both parameters  and  are free to vary.
+0	NA	NA	NA	METHODS	In the second scenario, the minimum p-values are consistent with the theoretical beta distribution if the null hypothesis  is not rejected;  can thus be interpreted as the effective number of independent sliding windows, neff.
+0	NA	NA	NA	METHODS	The parameters in the beta distribution were estimated using maximum likelihood estimation (MLE) method.
+0	NA	NA	NA	METHODS	Quantile-Quantile (QQ) plots were generated to evaluate the goodness-of-fit of these beta distributions.
+0	NA	NA	NA	METHODS	The aforementioned analysis was implemented in SAS version 9.1.2 (SAS Institute, Cary, NC)
+0	NA	NA	NA	RESULTS	The minimum p-values from the 1,000 permutations of chromosome 22 data containing 15,649 genotyped SNPs ranged between 1.54x10-7 and 9.44x10-4 with the fifth percentile being 5.58x10-6.
+0	NA	NA	NA	RESULTS	So the permutation-based effective number of tests for chromosome 22 was simply .
+0	NA	NA	NA	RESULTS	The maximum likelihood estimates of the beta distribution parameters were  and ; or  if  was constrained at 1.
+0	NA	NA	NA	RESULTS	Although the null hypothesis of equality  was nominally rejected in the former two-parameter case (p<0.01),  was close to 1 and the QQ plot comparing it to the Beta(1,7426) distribution showed the majority of the data points fell on the diagonal line, suggesting the lack of fit was not severe (Figure 1A).
+0	NA	NA	NA	RESULTS	When setting  and experimenting with different's, i.e., goodness-of-fit tests based on empirical distribution functions (EDF) statistics (Kolmogorov-Smirnov, Cramer-von Mises and Anderson-Darling statistics) did not reject the null hypothesis at the 0.10 significance level, implying that the minimum p-values followed the designated beta distributions satisfactorily (Table 1).
+0	NA	NA	NA	RESULTS	The range of the effective numbers of tests, 7,400-8,300, included half the number of total sliding windows .
+0	NA	NA	NA	RESULTS	The corresponding significance level under this approximation was , benchmarking to the 5.7 percentile of the minimum p-values from 1,000 permutations.
+0	NA	NA	NA	RESULTS	The QQ plot for those minimum p-values compared to Beta (1,7823) distribution indicated the fit was reasonably good (Figure 1B) and none of the goodness-of-fit tests were rejected (p>0.25).
+0	NA	NA	NA	RESULTS	We proceeded with the effective number of independent tests equal to half of the total number of overlapping haplotype blocks as a quick reference to spotting potentially significant haplotype effects.
+0	NA	NA	NA	RESULTS	The genome-wide significance level was therefore derived as in contrast to the Bonferroni corrected genome-wide significance level
+0	NA	NA	NA	FIG	A).
+0	NA	NA	NA	FIG	Quantile-Quantile plot comparing the minimum p-values from 1,000 permutations on chromosome 22 data to beta(1,7426).
+0	NA	NA	NA	FIG	(B).
+0	NA	NA	NA	FIG	Quantile-Quantile plot comparing the minimum p-values to beta(1,7823)
+0	NA	NA	NA	RESULTS	In search of haplotype peaks where significant SNPs were absent on the Manhattan plots, a region on chromosome 5 exhibited a distinct haplotype effect compared with individual SNP associations at the same chromosomal region (Figure S2).
+0	NA	NA	NA	RESULTS	There were five overlapping haplotype blocks defined by 5-SNP sliding windows with global test p-values (p = 1.70x10-8, 3.16x10-8, 1.85x10-7, 1.45x10-6, and 3.38x10-6, respectively) less than any single SNP's p-value within the same region.
+0	NA	NA	rs6882564	RESULTS	However, the most significant SNP rs6882564 (p = 1.14x10-4) made up all the significant haplotypes and were noted to be severely out of HWE (p<1x10-7).
+0	NA	NA	rs6882564	RESULTS	A review of the intensity plots for this SNP showed that rs6882564 was clearly miscalled by the genotyping algorithm, and thus we dropped from consideration all haplotypes that contain rs6882564, leaving no other haplotypes in the same region genome-wide significant.
+0	NA	NA	NA	RESULTS	No other haplotype blocks throughout the genome had a global test p-value less than 10-6.
+0	NA	NA	NA	RESULTS	The top 10 independent genomic regions with haplotype global test p-value between 1.60x10-6 and 1.51x10-5 are summarized in Table S3.
+0	NA	NA	NA	RESULTS	After visual examination of the Manhattan plots contrasting the haplotype-specific effects with the individual SNP effects, the remaining most significant regions unlikely to be explained solely by SNPs were chr1:8,309,317-8,318,147, chr4:122,325,743-122,363,114, and chr18:35,670,316-35,683,522.
+0	NA	NA	rs9628987	RESULTS	Notably, on chromosome 1, the 5-SNP haplotype AGCTG (Position: 8309317-8318147; frequency = 0.24) (Figure 2A; Table 2) comprised of SNPs rs9628987, rs2289731, rs12711517, rs2305016, and rs7535752, had a p-value three orders of magnitude less than that of the most significant SNP contained in the haplotype, rs12711517 (haplotype p = 5.09x10-6 vs. SNP p = 9.88x10-3).
+0	NA	NA	NA	RESULTS	When conditioning on this locally most significant SNP, the haplotype effect stayed almost unchanged (adjusted OR = 0.82; 95% CI = 0.74-0.91) and remained the most significant haplotype, although the adjusted haplotype specific association p-value was less significant than that of without adjustment for the best SNP (unadjusted haplotype p = 5.09x10-6 vs. adjusted haplotype p = 1.36x10-4).
+1	NA	NA	rs13116936	RESULTS	On chromosome 4, a 2-SNP haplotype AG (Position: 122340944-122346258; frequency = 0.64) was close to two orders of magnitude more significant than its best individual SNP, rs13116936 (3.37x10-7 vs. 1.09x10-5) (Figure 2B) and the unadjusted haplotype specific effect was among the most significant in all top 10 independent regions.
+0	NA	NA	NA	RESULTS	After adjusting for the best SNP, the haplotype effect remained significant at p = 7.54x10-4.
+0	NA	NA	NA	RESULTS	A potentially interesting finding was on chromosome 18 (Figure 2C) where a much rarer 6-SNP haplotype AACGTT (Position: 35670316-35684521; frequency = 0.03) showed an improvement of haplotype significance with the adjusted p-value of 2.42x10-5 in contrast to the unadjusted p-value of 6.96x10-5.
+0	NA	NA	NA	RESULTS	The haplotype specific effect did not alter meaningfully before and after the adjustment for the best SNP (unadjusted OR = 1.72, 95% CI = 1.32-2.25; adjusted OR = 1.79, 95% CI = 1.36-2.34).
+0	breast cancer	NA	rs47995220	RESULTS	The carrier of one copy of this haplotype had 1.79 times higher breast cancer risk relative to women who did not carry it, much stronger than the best SNP rs47995220 alone (OR = 1.23; 95% CI = 1.11-1.45).
+0	NA	NA	NA	RESULTS	These three novel haplotypes found on chromosomes 1, 4 and 18 were further verified with comparison to the imputed SNPs based on the 1000 Genomes Project released data within the same chromosomal regions.
+0	NA	NA	NA	RESULTS	None of the aforementioned novel haplotype-specific associations could have been revealed by imputed SNPs (Figure 3A-C).
+0	NA	NA	NA	RESULTS	As shown in the Manhattan plots contrasting the haplotype effects with that of the imputed SNPs, the most significant haplotypes were independent of the neighboring clusters of imputed SNPs; no adjacent SNPs achieved comparable significance as the top haplotypes did.
+0	NA	NA	NA	RESULTS	These novel haplotypes were not confounded by local ancestry inferred from neighboring SNPs either (Table S5).
+0	NA	NA	NA	RESULTS	The test statistics stayed largely unchanged after further adjusting for the local ancestry in addition to the global ancestry for a finer correction for population admixture.
+0	NA	NA	NA	RESULTS	Among the remainder of the top 10 independent regions with haplotype global test p-values less than 1.51x10-5, the significance levels of the top individual haplotypes and SNPs were very close for chromosomes 3, 5 and 10, implying that the noticeable haplotype effects shown on the Manhattan plots can be mostly credited to the genotyped SNPs (Figures S3 A-C).
+0	NA	NA	NA	RESULTS	On the rest of the chromosomes, the top SNPs were more significant than any inferred haplotypes, so that the haplotypes did not contribute more information towards genetic association tests in those regions than SNPs themselves
+0	NA	NA	NA	FIG	These three regions, namely, (A) chr1:8,309,317-8,318,147; (B) chr4:122,325,743- 122,363,114; and (C) chr18:35,670,316-35,683,522 were identified by the genome-wide haplotype association analysis using 5-SNP sliding windows.
+0	NA	NA	NA	FIG	The regions were further extended both upstream and downstream by half of the original width to explore underdetected effects.
+0	NA	NA	NA	FIG	Black circles denote individual haplotypes, the sizes of which are proportional to their haplotype frequencies.
+0	NA	NA	NA	FIG	Red dots denote genotyped SNPs within the same region.
+0	NA	NA	NA	FIG	Blue dot shows the most significant SNP
+0	NA	NA	NA	FIG	Contrast of the haplotype effects with the effects of the 1000 Genome Project imputed SNPs in these three regions, namely, (A) chr1:8,309,317-8,318,147; (B) chr4:122,325,743- 122,363,114; and (C) chr18:35,670,316-35,683,522 are shown.
+0	NA	NA	NA	FIG	Black circles denote individual haplotypes, the sizes of which are proportional to their haplotype frequencies.
+0	NA	NA	NA	FIG	Red dots denote imputed SNPs within the same region.
+0	NA	NA	NA	FIG	Blue dot shows the most significant imputed SNP
+0	breast cancer	NA	NA	RESULTS	As noted by Chen et al, the endeavor to replicate the significance of the known GWAS hits using the AABC data was largely unsuccessful, implying the risk loci for breast cancer found in other GWAS, predominantly of European ancestries, may not be the same as in African Americans.
+0	breast cancer	NA	rs13387042	RESULTS	For four of the known GWAS SNPs the associations in our African American breast cancer data had a nominally significant p-value less than 0.05 (Table S4), namely rs13387042 at 2q35 (OR = 0.89; 95% CI = 0.82-0.97; p = 0.00713), rs865686 at 9q31 (OR = 0.92; 95% CI = 0.85-0.99; p = 0.0287), rs2981582 at 10q26 (OR = 1.11; 95% CI = 1.03-1.19; p = 0.0087), and rs2363956 at 19p13 (OR = 0.88; 95% CI = 0.82-0.95; p = 8.1x10-4).
+0	NA	NA	NA	RESULTS	They are all common variants of modest effects in this study with minor allele frequency between 0.07 and 0.49.
+0	breast cancer	NA	NA	RESULTS	Across these 21 regions with known breast cancer risk, 10p15 and 14q24 showed potential haplotype effects with the global test p-value less than 1.0x10-4, albeit not genome-wide significant.
+0	NA	NA	rs17141741	RESULTS	When scrutinizing all possible inferred individual haplotypes of 2-10 SNPs long in the vicinity of the known markers, a 3-SNP haplotype at 10p15, CTC (Position: 5705780-5712025; frequency = 0.22) constituted by rs17141741, rs2386661 and rs4414128 was three orders of magnitude more significant than the most significant individual SNP contained in the haplotype, rs4414128 (unadjusted haplotype p-value = 5x10-6 vs. best SNP p-value = 7.08x10-3) (Table 3).
+0	breast cancer	NA	NA	RESULTS	This haplotype was associated with a 20% reduced risk per copy for breast cancer relative to the women not carrying it.
+0	NA	NA	rs4414128	RESULTS	The haplotype-specific effect was almost unchanged after adjustment for both the best contained SNP (rs4414128) and the index marker (rs2380205) (adjusted haplotype OR = 0.81, 95% CI = 0.72-0.91, p = 2.16x10-4).
+0	NA	NA	NA	RESULTS	The haplotype signal was two or three orders of magnitude more significant than any of the remaining individual SNPs adjacent to that haplotype, as shown from the leftmost haplotype signal peak in Figure 4A.
+0	NA	NA	NA	RESULTS	When further compared to the 1 KGP imputed SNPs in the same region, this CTC haplotype was still independent of the imputed SNPs (Figure 5A).
+0	NA	NA	NA	RESULTS	The imputed SNPs residing within close proximity had similar significance levels to that of the genotyped SNPs (Figure 4A vs.
+0	NA	NA	NA	RESULTS	Figure 5A), which emphasized that haplotype effect was unlikely to be explained by SNP imputation either.
+0	NA	NA	NA	RESULTS	Another 3 SNP haplotype GAG (Position: 6042374-6043841; frequency = 0.60) was stronger than any genotyped SNPs.
+0	NA	NA	rs3181152	RESULTS	However, we found an imputed SNP (rs3181152; risk allele: G; frequency: 0.45; p = 4.72x10-5) that fell on this haplotype and was an even stronger predictor of risk.
+0	NA	NA	rs999737	RESULTS	The analysis of individual haplotype effects also identified a new region at 14q24 containing the known hit rs999737, where the most significant haplotype was CGCAGC (Position: 68033499-68045127; frequency = 0.05) with the unadjusted haplotype p-value over three orders of magnitude less than that of the best contained SNP, rs10132579 (unadjusted haplotype p = 1.69x10-6 vs. best SNP p = 9.55x10-3) (Figure 4B).
+0	breast cancer	NA	rs10132579	RESULTS	It was also noted that this haplotype effect was stable after additional adjustment for rs10132579 and rs999737 (unadjusted OR = 0.60, 95% CI = 0.48-0.74 and the adjusted OR = 0.60 with 95% CI = 0.47-0.77), suggesting approximately a 40% decreased breast cancer risk per copy was associated with this CGCAGC haplotype among the carriers.
+0	NA	NA	NA	RESULTS	Taking local ancestry into account did not change the results for either the CTC haplotype on 10p15 or the CGCAGC haplotype on 14q25 (Table S5).
+0	NA	NA	NA	RESULTS	There were numerous other individual haplotypes with unadjusted significance between 10-6 and 10-5 on 8q24 and 19p13.
+0	NA	NA	NA	RESULTS	However, these top haplotype effects were indistinguishable from the top SNPs.
+0	NA	NA	NA	RESULTS	Once adjusted for the best SNP contained, these haplotypes became insignificant (p>0.05) (Figures S4 A-D)
+0	NA	NA	NA	FIG	(A) 5.67-6.17 Mb region at 10p15; (B) 67.84-68.34 Mb region at 14q24.
+0	NA	NA	NA	FIG	Black circles denote individual haplotypes, the sizes of which are proportional to their haplotype frequencies.
+0	NA	NA	NA	FIG	Red dots denote genotyped SNPs within the same region.
+0	NA	NA	NA	FIG	Blue dot shows the most significant SNP.
+0	breast cancer	NA	NA	FIG	Cyan dot denotes the known breast cancer risk SNP identified by previous GWAS
+0	NA	NA	NA	FIG	(A) 5.67-6.17 Mb region in 10p15; (B) 67.84-68.34 Mb region in 14q24.
+0	NA	NA	NA	FIG	Black circles denote individual haplotypes, the sizes of which are proportional to their haplotype frequencies.
+0	NA	NA	NA	FIG	Red dots denote imputed SNPs within the same region.
+0	NA	NA	NA	FIG	Blue dot shows the most significant imputed SNP.
+0	breast cancer	NA	NA	FIG	Cyan dot denotes the known breast cancer risk SNP identified by previous GWAS
+0	breast cancer	NA	NA	DISCUSS	We implemented a genome-wide haplotype association analysis searching for breast cancer risk susceptibility loci in African American women.
+0	NA	NA	NA	DISCUSS	To quickly narrow down to potential risk regions, a 5-SNP sliding window approach was applied throughout 22 autosomes.
+0	NA	NA	NA	DISCUSS	Among approximately 1 million windows, none achieved the genome-wide significance determined by an approximation to the beta distribution of the minimum p-values through 1,000 permutations (pG = 9.94x10-8).
+0	NA	NA	NA	DISCUSS	Only 10 independent chromosomal regions had the haplotype global test p-value less than 1.5x10-5.
+0	NA	NA	NA	DISCUSS	The haplotype AGCTG at chromosome 1:8,309,317-8,318,147 showed a moderate haplotype effect that was otherwise not captured by association analyses focusing on SNPs.
+0	brain tumors	solute carrier family 45 member 1	NA	DISCUSS	This region overlaps a solute carrier family 45 member 1 gene (SLC45A1, position: 8,306,977-8,326,814) that is predominantly expressed in brain tissues and is also seen frequently deleted in brain tumor cells, suggesting a putative role as a tumor suppressor, however, the clear picture of its biological mechanism is far from complete.
+0	NA	NA	NA	DISCUSS	The 2-SNP haplotype AG on chromosome 4:122,340,944-122,346,258 had a stronger association with the disease than any SNPs in the same region.
+1	NA	TNIP3	NA	DISCUSS	About 30 kb upstream of it resides TNIP3 gene (Homo sapiens TNFAIP3 interacting protein 3).
+0	Carcinoma	p<10-5	NA	DISCUSS	Both TNIP and TNFAIP proteins were reported to overexpress in human carcinoma cells and suppress the activation of nuclear factor kappa B (NF-kappaB).
+0	breast cancer	NA	NA	DISCUSS	The haplotype AACGTT at chromosome 18:35,670,316-35,684,521 was associated with increased risk for breast cancer and the haplotype effect was independent of individual SNP effects, although no known genes are found nearby.
+0	NA	NA	NA	DISCUSS	Therefore, these regions revealed by haplotype analysis are candidates for fine-mapping to locate the casual variants as a first step towards deciphering the true biological functions.
+0	breast cancer	NA	NA	DISCUSS	Among the 21 known breast cancer risk regions revealed by previous GWAS, 10p15 and 14q24 seem most likely to harbor unknown risk loci based on the suggestive haplotype associations described above
+0	NA	NA	NA	DISCUSS	In previous work, Chen et al.
+0	NA	NA	NA	DISCUSS	and Siddiq et al.
+0	breast cancer	NA	NA	DISCUSS	have shown that the genome-wide significance for the 21 known breast cancer SNPs did not replicate in African Americans.
+0	NA	NA	rs2046219	DISCUSS	The majority of those SNPs were discovered predominately in European populations, with the exception of rs2046219 at 6q25 found in the Han Chinese population.
+0	breast cancer	NA	NA	DISCUSS	Chen et al have also shown that many of the index risk variants for breast cancer are significant in multiple populations except for African Americans.
+0	breast cancer	NA	NA	DISCUSS	We confirmed that the most significant SNPs within each known region are all different from the known breast cancer risk SNPs (Table S4).
+0	breast cancer	NA	NA	DISCUSS	All evidence underscores the different risk association patterns between African Americans and European populations, and limits the generalizability of the previously established significant GWAS hits as well as presents new challenges in the investigation of breast cancer susceptibility loci specifically for African Americans
+0	NA	NA	NA	DISCUSS	The haplotype association tests were based on haplotype dosage estimates inferred by the E-M algorithm from unphased genotypes for unrelated subjects under the assumption of HWE (the estimation step).
+0	NA	NA	NA	DISCUSS	We substituted the expected haplotype dosages for the unknown true haplotypes and fit these continuous dosage variables into conventional logistic regression models (in models 3 through 7) (the substitution step).
+0	NA	NA	NA	DISCUSS	Even though the haplotype inference from diploid genotypes is not free from uncertainty, the use of these continuous dosages largely correct for the uncertainty derived from haplotype inference and the predictability of haplotypes is quite high, especially when adjacent SNPs are in high LD, a condition that often satisfies in analyses focused on haplotype blocks.
+0	NA	NA	NA	DISCUSS	This simple expectation-substitution approach has been shown to have a proper control of the type I error rate for the association test when we believe the haplotype dosage estimates have no differential errors between cases and controls.
+0	NA	NA	NA	DISCUSS	In other words, case-control status is unrelated to the errors in haplotype dosage estimation, which is generally valid when haplotypes are inferred by pooling both cases and controls and the null hypothesis of no significant association between haplotype and disease is true.
+0	NA	NA	NA	DISCUSS	Several concerns arise when under the alternative hypothesis a few assumptions are no longer true.
+0	failure	NA	NA	DISCUSS	For instance, if haplotype frequencies in cases and controls are associated with the disease status, failure to account for haplotype uncertainty can lead to estimates biased towards to null.
+0	NA	NA	NA	DISCUSS	Second, even though the SNPs are in HWE in the general population, it may not be necessarily so in the case-enriched case-control sample so that the estimation of haplotype dosages may not be accurately inferred from the sample's genotypes.
+0	NA	NA	NA	DISCUSS	To address these aforementioned issues, Lin et al.
+0	ML	NA	NA	DISCUSS	proposed a maximum likelihood (ML) method that simultaneously infers haplotype frequencies and regression parameters in the same model.
+0	NA	NA	NA	DISCUSS	Their method yields less biased estimates and the confidence intervals of the regression coefficients have better coverage of the true value through simulation data for a variety of settings under the alternative hypotheses.
+0	ML	NA	NA	DISCUSS	We note however that the superiority of the ML method over the expectation-substitution applies only to scenarios where the true magnitude of association is very large, i.e., beta = 0.9 (OR = 2.5).
+0	NA	NA	NA	DISCUSS	Such large effects seem to be rare in GWAS of either common SNPs or common haplotypes studied here.
+0	NA	NA	NA	DISCUSS	Another simulation analysis also verified that in practical settings where a haplotype block formed by a small number of SNPs with limited haplotype diversity, the bias was minimal and the empirical confidence intervals had appropriate coverage of the true value.
+0	NA	NA	NA	DISCUSS	More importantly, the performances of the maximum likelihood method and the expectation-substitution were almost indistinguishable, implying the expectation-substitution is robust to reasonable departure from the assumptions.
+0	NA	NA	NA	DISCUSS	Therefore, substituting the inferred haplotype dosages in the regression model still retains good statistical properties in most practical contexts of haplotype association tests.
+0	NA	NA	NA	DISCUSS	If haplotypes with greater risk effect were of interest, the simultaneous maximum likelihood method would be preferable
+0	NA	NA	NA	DISCUSS	We may not have had enough statistical power to identify significant rare haplotypes or modest to weak haplotype effects despite our large sample size.
+0	NA	NA	NA	DISCUSS	Haplotypes of less than 1% frequency were unaddressed in our analyses mainly due to the intrinsic difficulty and unreliability of inference of those rare haplotypes.
+0	NA	NA	NA	DISCUSS	Uncommonly short or long haplotypes in the genome compromise our 5-SNP sliding windows flexibility to identify them in the haplotype global test.
+0	NA	NA	NA	DISCUSS	It is possible that constructing a larger window may capture more haplotype variety such that some rare haplotypes can be taken into account.
+0	NA	NA	NA	DISCUSS	Nonetheless, concerns of computing efficiency arise as the number of SNPs increases.
+0	NA	NA	NA	DISCUSS	For example, if the total number of heterozygous SNPs in each haplotype block is m, there could be  possible haplotypes and thus  possible haplotype pairs being summed over in the E-M algorithm for each subject.
+0	NA	NA	NA	DISCUSS	The number grows exponentially, exacerbating the feasibility of implementing the algorithm.
+0	NA	NA	NA	DISCUSS	Even though in reality, the number of possible haplotypes may just be a fraction of , the same idea still applies.
+0	NA	BF1	NA	DISCUSS	Qin et al proposed the partition ligation E-M algorithm by breaking up a sequence of SNPs into smaller pieces, each including 5-10 markers.
+0	NA	NA	NA	DISCUSS	In our study, in order to maximize the coverage of all genotyped SNPs, a 5-SNP window was adopted to construct haplotype blocks and haplotype global test was employed therein.
+0	NA	NA	NA	DISCUSS	Arguably, varying window sizes are capable of reflecting varying degrees of LD in the data: more SNPs should be included in the same haplotype block when they are in regions of extensive LD and fewer SNPs should be portioned together given limited LD structure.
+0	NA	NA	NA	DISCUSS	However, it is difficult to identify regions of high and low LD and alter the window sizes accordingly across the entire genome with high precision.
+0	NA	NA	NA	DISCUSS	It was recommended by Mathias et al that smaller window sizes be run prior to larger windows.
+0	NA	NA	NA	DISCUSS	We employed a strategy that both quickly narrows down to potentially important regions through the universal 5-SNP sliding windows and permits the flexibility of detecting underlying haplotypes of 2-10 SNPs long residing in those regions.
+0	NA	NA	NA	DISCUSS	The choice of 5-SNP window roughly agrees with the overall average haplotype block sizes for people of African ancestry, in which the total number of the haplotype blocks longer than 10 SNPs (~25 kb) should not be unexpectedly large.
+0	NA	NA	NA	DISCUSS	Larger windows may improve the ability to identify unknown haplotype effects.
+0	NA	NA	NA	DISCUSS	However, if a haplotype effect existed in a 10-SNP block, it would have been at least partly captured by at least a few of a series of 5-SNP blocks.
+0	NA	NA	NA	DISCUSS	Note that this should never be used as a one-size-fits-all solution since the SNP density, underlying haplotype diversity, and populations under investigation can be fundamentally different from study to study.
+0	NA	NA	NA	DISCUSS	A similar exploration of the choice of the average window size is suggested prior to applying the sliding windows approach in other groups with different LD patterns
+0	NA	NA	NA	DISCUSS	One drawback in the use of overlapping sliding windows is the difficulty of making correct inference of the type I errors.
+0	NA	NA	NA	DISCUSS	Obviously, overlapping windows were not independent.
+0	NA	NA	NA	DISCUSS	A naive application of Bonferroni adjustment would incur overly conservative significance levels and the power to find true positive associations would also be compromised.
+0	NA	NA	NA	DISCUSS	Permutation tests have been shown to be capable of drawing the significant threshold directly from the experimental data and serve as the gold standard in the comparison of performances of various multiple testing adjustments.
+0	NA	NA	NA	DISCUSS	Nevertheless, permutation tests are computationally very intensive and time-consuming.
+0	NA	NA	NA	DISCUSS	One thousand permutations in a genome-wide haplotype analysis can take weeks to months to finish in light of large sample sizes, haplotype inference, and association testing.
+0	NA	NA	NA	DISCUSS	Numerous innovative recommendations have been proposed and each has its own merits.
+0	NA	NA	NA	DISCUSS	One category among those approaches incorporates the computation of the effective number of independent tests: neff and use of neff in Bonferroni correction.
+0	NA	NA	NA	DISCUSS	neff can be inferred from the beta distribution of the minimum p-values from permutation replicates.
+0	NA	NA	NA	DISCUSS	We conjectured that in our African American sample the true number of effective tests for chromosome 22 lies somewhere between 7,400 and 8,300, covering half the number of total overlapping windows.
+0	NA	NA	NA	DISCUSS	So the permutation test implies that approximately 50% of total sliding windows can be considered independent and therefore a modified Bonferroni correction can be used readily
+0	NA	NA	NA	DISCUSS	In summary, we applied a 5-SNP sliding window approach to perform genome-wide haplotype association analysis and identified three novel regions with potential interest for further investigation and validation.
+0	breast cancer	NA	NA	DISCUSS	Two of 21 known breast cancer risk regions established in previous GWAS, namely 10p15 and 14q24, exhibited moderate haplotype effects and warrant additional replication work to confirm their significance in African American women

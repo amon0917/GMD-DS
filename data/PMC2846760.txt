@@ -1,0 +1,156 @@
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Prostate cancer (PrCa) is the most frequently diagnosed male cancer in developed countries.
+0	NA	NA	NA	ABSTRACT	To identify common PrCa susceptibility alleles, we have previously conducted a genome-wide association study in which 541, 129 SNPs were genotyped in 1,854 PrCa cases with clinically detected disease and 1,894 controls.
+0	NA	NA	NA	ABSTRACT	We have now evaluated promising associations in a second stage, in which we genotyped 43,671 SNPs in 3,650 PrCa cases and 3,940 controls, and a third stage, involving an additional 16,229 cases and 14,821 controls from 21 studies.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	In addition to previously identified loci, we identified a further seven new prostate cancer susceptibility loci on chromosomes 2, 4, 8, 11, and 22 (P=1.6x10-8 to P=2.7x10-33)
+0	NA	NA	NA	INTRO	Genome-wide association studies (GWAS) provide a powerful approach to identify common disease alleles.
+0	NA	NA	NA	INTRO	We previously conducted a GWAS, based on genotyping of 541, 129 SNPs in 1,854 clinically detected PrCa cases and 1,894 controls (see Figure 1, stage 1).
+0	NA	NA	NA	INTRO	Follow-up genotyping of SNPs exhibiting strong evidence of association (P<10-6), in a further 3,268 cases and 3,366 controls, allowed us to identify SNPs at 7 susceptibility loci associated with the disease at genome-wide levels of significance.
+0	NA	NA	NA	INTRO	Other studies have identified an additional 8 loci.
+0	NA	NA	NA	INTRO	These loci, however, explain only a small fraction of the familial risk of PrCa.
+0	NA	NA	NA	INTRO	Moreover, the strength of the associations that have been detected are generally small (per-allele odds ratios, OR, 1.1-1.2), and the power of the existing studies to detect many of the susceptibility alleles has been limited.
+0	NA	NA	NA	INTRO	It is highly likely, therefore, that other PrCa predisposition loci exist, and that such loci should be detectable by studies with larger sample sizes
+0	NA	NA	NA	INTRO	In an attempt to identify further susceptibility loci, we conducted a more extensive follow-up of SNPs showing evidence of association in stage 1 of our GWAS.
+0	NA	NA	NA	INTRO	We designed a panel of 47,120 SNPs, aiming to include all SNPs with a significant association in stage 1 at P-trend (1df)<.05 or P(2df)<.01 (see Online Methods).
+0	NA	NA	NA	INTRO	These SNPs were genotyped using the Illumina iSELECT platform in 3,894 PrCa cases and 4,055 controls from the United Kingdom (UK) and Australia (Figure 1, stage 2).
+0	NA	NA	NA	INTRO	After quality control (QC) exclusions (as described in Online Methods), we utilised data from 43,671 SNPs in 3,650 PrCa cases and 3,940 controls
+0	NA	NA	NA	INTRO	Genotype frequencies in cases and controls were compared using a 1 degree of freedom (df) Cochran-Armitage trend test (for QQ plots see Supplementary Figure 1).
+0	NA	NA	NA	INTRO	There was little evidence of inflation in the test statistics in the UK samples (estimated inflation factor lambda=1.08), but there was more marked inflation in those from Australia (lambda=1.23; lambda=1.19 for stage 2 overall), suggestive of some population substructure.
+0	NA	NA	NA	INTRO	The Australian samples were selected from three studies (MCCS, RFPCS and EOPCS; see Supplementary Note for cohort descriptions), and further analysis revealed that adjustment for sub-study substantially reduced the inflation (lambda=1.08 for Australia, lambda=1.14 overall).
+0	NA	NA	NA	INTRO	This inflation may reflect oversampling of MCCS for individuals of South European ancestry.
+0	NA	NA	NA	INTRO	Principal components analysis identified a distinct cluster that is overrepresented in the MCCS study, consistent with admixture in this population (see Online Methods and Supplementary Figure 2).
+0	NA	NA	NA	INTRO	Adjustment for the first two principal components in addition to stratification by sub-study did not, however, reduce the inflation further.
+0	NA	NA	NA	INTRO	The residual inflation could reflect weak population substructure, or may reflect the combined effects of weak susceptibility alleles
+0	NA	NA	NA	INTRO	There was a clear excess of nominally significant associations in stage 2, with 132 SNPs significant at P<.0001 compared with ~4 that would be expected by chance (Supplementary Table 1).
+0	NA	NA	NA	INTRO	After combining with the stage 1 data, 116 SNPs were significant at P <10-6 (Supplementary Table 2).
+0	NA	NA	NA	INTRO	Of these, twenty-six of the SNPs were on chromosome 8q24, a region known to harbour multiple PrCa susceptibility loci In addition, 42 SNPs were in the 7 regions we identified in our previous analysis and 13 were in two regions on 17q identified by Gudmundsson et al.
+1	NA	EHBP1	rs2710647	INTRO	We also found strong evidence for an association with two SNPs on 2p15 (rs2710647, P=7.1x10-8; rs6545977, P=4.5x10-7), within the EHBP1 gene, close to that recently reported by Gudmundsson et al.
+0	NA	NA	rs2710647	INTRO	rs2710647 is however, only weakly correlated with the previously reported SNP rs721048, r2=0.19, and might reflect an independent association.
+0	NA	NA	NA	INTRO	Two additional susceptibility loci on chromosomes 7 and 10 were identified in the GWAS by Thomas et al.
+0	NA	JAZF1	rs10486567	INTRO	We found supporting evidence for an association with rs10486567 on chromosome 7 (JAZF1; stage 2 per-allele OR 1.05, 95%CI 0.92, 95%CI 0.85-1.00, combined P=.00008), but only limited evidence for an association with rs4962416 on chromosome 10 (CTBP2; per-allele OR 1.05, 95%CI 0.98-1.13; P=.04)
+0	NA	NA	NA	INTRO	The remaining 33 SNPs significant at P<10-6 were in 10 regions not previously associated with PrCa.
+0	NA	NA	NA	INTRO	Multiple logistic regression analysis was used to define a minimal subset of 12 independently significant SNPs, such that the remaining SNPs were not significant after adjustment for these SNPs.
+0	NA	NA	NA	INTRO	The strength of these associations in stage 2 was not substantially affected by principal components adjustment (Supplementary Table 3).
+0	NA	NA	NA	INTRO	These 12 SNPs were then subjected to further replication analysis in a third stage, involving 16,229 cases and 14,821 controls from 21 studies participating in the PRACTICAL Consortium (Supplementary Table 4)
+0	NA	NA	NA	INTRO	Eight SNPs in 7 regions showed clear evidence of replication in stage 3 (P=.0002 or lower, in each case in the same direction as in stages 1 and 2).
+0	NA	P<10-7	NA	INTRO	In each case the combined P-trend over all 3 stages reached P<10-7, with a range of P=1.6x10-8 to P=2.7x10-33.
+1	NA	NA	rs17021918	INTRO	Two SNPs on chromosome 4, rs17021918 and rs12500426, are correlated (r2 =0.5) but both showed independent association after multiple logistic regression analyses (P=0.014 and P=0.0003 for the effect of rs12500426 after adjustment for rs17021918 in stage 3 and overall, respectively; P=.0002 and P=3.6x10-7 for the effects of rs17021918 after adjustment for rs12500426; Supplementary Table 5).
+0	NA	NA	NA	INTRO	In addition to the above SNPs, an additional SNP on chromosome 8 showed more limited evidence of replication (P=.007 in stage 3, P=7.1x10-8 overall).
+1	NA	NA	rs1512268	INTRO	It is ~90kb from rs1512268, which showed very clear evidence of association (P=3.4x10-30), but the SNPs are in neighbouring linkage disequilibrium (LD) blocks and are only weakly correlated (r2=0.03).
+0	NA	NA	rs12155172	INTRO	rs12155172 on chromosome 7 showed weak evidence of association in stage 3 (P=0.06, with an effect in the same direction as stages 1 and 2), but did not reach genome-wide significance in the combined dataset (P=8.8x10-6).
+0	NA	NA	NA	INTRO	Thus, this locus may harbour a susceptibility allele, but further large case-control studies will be required to confirm or refute this finding.
+0	NA	NA	NA	INTRO	For the remaining 2 loci, on chromosomes 12 and 16, there was no evidence of association in stage 3.
+0	NA	NA	NA	INTRO	We conclude that these two loci were probably false positive associations in stages 1 and 2
+0	NA	NA	NA	INTRO	We are able to compare our results with those from from the Cancer Genetic Markers of Susceptibility (CGEMS) PrCa study, a GWAS of 1,117 PrCa cases and 1,105 controls that utilized the same genotyping platform as our GWAS.
+0	NA	NA	NA	INTRO	Of the 9 SNPs that reached genome-wide significance in our study, 8 were typed in CGEMS, and all had an estimated OR in the same direction as our study (Supplementary Table 6).
+1	NA	NA	rs5759167	INTRO	Only two of the SNPs were nominally significant in CGEMS (rs5759167; P=.0035, and rs7679673; P=.014).
+0	NA	NA	NA	INTRO	However, in all cases the estimated the 95% confidence interval for per-allele OR from the CGEMS study contained our estimate.
+0	NA	NA	NA	INTRO	This suggests that the failure to replicate association of some of these loci in CGEMS may be related to the relatively smaller size of the CGEMS stage 1
+0	cancers	NA	NA	INTRO	All but two of the SNPs associated with PrCa risk exhibit an association with allele dose consistent with a log-additive model, as observed for most common cancer susceptibility alleles.
+1	NA	NA	rs12621278	INTRO	rs12621278 on chromosome 2 exhibits a strong dose response, with an odds ratio (OR) in homozygotes (0.35, 95%CI 0.24-0.52) being smaller than would be expected under a log-additive model (P=.0076).
+1	NA	NA	rs17021918	INTRO	rs17021918 on chromosome 4 showed no difference in risk between heterozygotes and homozygotes (P=.023 compared with a log-additive model)
+1	NA	NA	rs12500426	INTRO	There was no evidence for a difference in the per-allele ORs among European, Asian and African-American populations (Figure 2), with the exception of rs12500426, on chromosome 4, which exhibited an association in Europeans but not in Asian or African-American studies (P=.046 for heterogeneity in the OR by population); and rs7679673, on chromosome 4, for which the association in European and Asian populations was not observed in African-Americans (P=.032).
+0	NA	NA	NA	INTRO	These differences might reflect differences in the LD structure and the frequency of the causal variant(s) in different populations.
+0	NA	NA	NA	INTRO	There was no evidence of heterogeneity in the per-allele ORs in European and African-American studies for any SNP and only weak evidence of heterogeneity for two SNPs in Asian studies (Supplementary Table 7).
+0	NA	PSA	NA	INTRO	We also found no marked differences in the per-allele ORs between studies based on populations where PSA screening was prevalent (studies in the US, and the ProtecT study in the UK) and those in which screening was less common (Supplementary Table 8)
+0	NA	PSA	NA	INTRO	The controls in stage 1 of our GWAS were selected for low Prostate Specific Antigen (PSA) levels, and this may have led to the preferential selection of SNPs associated with PSA levels.
+0	NA	PSA	NA	INTRO	We were able to examine the associations between genotypes and serum PSA levels in 1,585 control samples from the ProtecT study in stage 2 of our scan (Supplementary Table 9).
+1	NA	PSA	rs17021918	INTRO	Two SNPs, rs17021918 (chromosome 4) and rs1512268 (chromosome 8) showed weak association with PSA levels, in the same direction as the PrCa association (P=.043 and P=.037 respectively).
+0	NA	PSA	NA	INTRO	Both SNPs, however, showed very strong evidence of association in all three stages, and we conclude that none of the associations are likely to be mediated simply through associations with PSA level
+0	NA	NA	NA	INTRO	Data on Gleason score were available for 7,855 PrCa cases from 14 studies.
+0	NA	NA	NA	INTRO	There was no difference in the OR for cases with high/intermediate grade disease (Gleason score >=7) versus low grade disease (Gleason score <7), for any of the associated SNPs (Supplementary Table 10).
+0	NA	NA	NA	INTRO	This consistency (also seen for the previously identified loci) suggests that most susceptibility loci identified to date modulate the early stages of disease development rather than progression
+1	NA	NA	rs12621278	INTRO	For 2 of the SNPs, rs12621278 on chromosome 2 (P= 1.1x10-5) and rs7127900 on chromosome 11 (P=.006), the per-allele OR varied with age, with a higher OR at younger ages (Supplementary Table 11).
+1	NA	NA	rs7679673	INTRO	One SNP, rs7679673, also exhibited a stronger association when analyses were restricted to cases with a family history of PrCa (P=.02; Supplementary Table 12)
+0	NA	NA	NA	INTRO	The associated SNPs identified in the second stage of our GWAS lie in LD blocks that include several plausible causative genes (see Figure 1 for candidate gene list and Supplementary Note for detail).
+1	NA	ITGA6	rs12621278	INTRO	Particularly notable are rs12621278 on 2q31, which is in intron 1 of ITGA6, the gene encoding integrin alpha 6, and rs2928679 and rs1512268 (90kb apart on 8p21).
+1	NA	NKX3.1	rs2928679	INTRO	rs2928679 lies 10kb downstream of NKX3.1, which codes for an androgen-regulated homeobox protein NKX3.1 which is in the HDAC1 pathway
+0	NA	NA	NA	INTRO	Most of the per-allele ORs estimated for these variants in this study population were modest, ranging from 1.08-1.28 fold.
+0	NA	MSMB	NA	INTRO	We found no further loci with associations as strong as the SNPs on 8q or the MSMB locus, as would be expected since the power to detect these loci in our first analysis was already high.
+0	cancers	NA	NA	INTRO	Nevertheless, there are now more than 20 loci conferring ORs >1.1 for PrCa, more than for all other cancer types.
+1	NA	NA	rs1512268	INTRO	We estimate that the power to detect these associations in this experiment varied from >80% (for rs1512268 and rs7127900) to <1% (for rs1465618, rs12155172 and rs2928679; Supplementary Table 13).
+0	NA	NA	NA	INTRO	This strongly suggests that additional loci of similar magnitude remain to be identified.
+0	NA	NA	NA	INTRO	Mapping of such loci will require the synthesis and follow-up of larger GWAS datasets.
+0	NA	NA	NA	INTRO	We have demonstrated that we have power to confirm such loci using the PRACTICAL Consortium
+0	NA	NA	NA	INTRO	Based on an overall two-fold familial relative risk to first-degree relatives of PrCa cases, and on the assumption that the SNPs combine multiplicatively, the new loci reported here together explain approximately 4.3% of the familial risk of PrCa.
+0	NA	NA	NA	INTRO	Including the previously reported loci, approximately 21.5% of familial risk in PrCa may now be explained.
+0	NA	NA	NA	INTRO	Under this model, the top 10% of the population at highest risk has a relative risk approximately 2.3-fold greater than the average risk in the general population, while the top 1% has an estimated 3-fold increased relative risk.
+0	NA	NA	NA	INTRO	In contrast, the individuals classified at the bottom 1% of genetic risk according to this model are estimated to have a relative risk of about one-fifth of the population average.
+0	NA	NA	NA	INTRO	Such risk prediction may have implications for targeted screening and prevention.
+0	NA	NA	NA	INTRO	Moreover, the associations we have found using tagSNPs may represent stronger associations with the causal variants.
+0	NA	NA	NA	INTRO	If so, the overall contribution of the causal variants will be greater.
+0	NA	NA	NA	INTRO	Resequencing of these regions, further genotyping and functional analyses will be required to identify the genetic variants responsible for each risk locus
+0	NA	NA	NA	METHODS	PrCa cases and controls used in stage 1 of the GWAS have been described previously.
+0	NA	NA	NA	METHODS	PrCa cases and controls for stage 2 (Figure 1) were selected from studies in the UK and Australia.
+0	Breast and prostate cancer	NA	NA	METHODS	UK cases were drawn from the UK Genetic Prostate Cancer Study (UKGPCS).
+0	Breast and prostate cancer	NA	NA	METHODS	UKGPCS includes cases PrCa cases that were either diagnosed at age <=60 years (n=341) and/or those that had a first or second degree family history of prostate cancer (n=220), recruited from urologists throughout the UK, and a series of cases recruited from PrCa clinics in the Urology Unit at The Royal Marsden NHS Foundation Trust over a 14 year period.
+0	NA	NA	NA	METHODS	UK controls were identified through two sources.
+0	Breast and prostate cancer	NA	NA	METHODS	Six hundred and fifty-six controls were drawn from the UKGPCS study (Prostate Cancer Research Foundation Study component) and were geographically, ethnically and age matched to the UKGPCS young onset cases.
+0	NA	NA	NA	METHODS	They had no family or personal history of PrCa.
+0	cancers	NA	NA	METHODS	The remaining controls (n=1636) were selected from men in the ProtecT (Prostate testing for cancer and Treatment) study.
+0	NA	PSA	NA	METHODS	ProtecT is a national study of community-based PSA testing and a randomised trial of subsequent PrCa treatment.
+0	NA	NA	NA	METHODS	Approximately 110,000 men between the ages of 50 and 69 years, (with a small set of men aged 45-49 years from one centre), were ascertained through general practices in nine regions in the UK.
+0	NA	PSA	NA	METHODS	For this study we selected as controls men who had a PSA of <10ng/ml and negative prostate biopsies.
+0	NA	PSA	NA	METHODS	Men with PSA >=3ng/ml were excluded if they had a positive prostatic biopsy.
+0	NA	NA	NA	METHODS	We excluded, from both cases and controls, men who reported to be non-white.
+0	NA	PSA	NA	METHODS	The majority of men in the UK are diagnosed via a clinical presentation; amongst the cases in this study 100% of those from the ProtecT study were diagnosed through asymptomatic PSA screening
+0	Breast and prostate cancer	NA	NA	METHODS	The Australian cases were ascertained from three studies: (i) a population-based series of PrCa cases identified from the Victorian Cancer Registry since 1999, diagnosed at <56 years (Early Onset Prostate Cancer Study, EOPCFS; n=631); (ii) a population-based case-control study consisting of cases diagnosed in Melbourne and Perth (Risk Factors for Prostate Cancer Study, RFPCS; n=702).
+0	cancers	NA	NA	METHODS	Cases were identified from the population cancer registries, with histopathologically confirmed PrCa, excluding tumors with Gleason scores of < 5, and diagnosed at < 70 years with sampling stratified by age at diagnosis and (iii) a prospective cohort study of 17,154 men aged 40 to 69 years at recruitment in 1990-4 (Melbourne Collaborative Cohort Study, MCCS; n=378).
+0	NA	NA	NA	METHODS	Controls were selected from the RFPCS study, in which they were identified through government electoral rolls and frequency matched to the age distribution of the RFPCS cases (n=667), together with a random sample from the MCCS cohort (n=981)
+0	NA	NA	NA	METHODS	Stage 3 included samples from 21 PrCa case-control studies from groups in the PRACTICAL Consortium (Supplementary Table 4)
+0	NA	NA	NA	METHODS	Stage 2 genotypes were generated using an Illumina iSELECT array.
+0	NA	NA	NA	METHODS	SNPs were selected on the basis of the stage 1 results to include those with (a) a 1df P-trend <.059 (n= 34,484) and (b) a 2df genotype test P<.01 (n=2,202).
+0	NA	NA	NA	METHODS	"We also included (c) all SNPs from the 1M array in LD blocks defined around ""hits"" from stage 1, defined as a SNP with P-trend <.0001; (d) all SNPs from the Illumina 1M array on 8q24; (e) all SNPs from the 550k array in the HLA region and (f) all SNPs significant in the CGEMS GWAS with P-trend <.01."
+0	NA	NA	NA	METHODS	We also included a further set of SNPs of interest in collaboration with CGEMS group (these were not considered in this paper; results to be reported separately).
+0	NA	NA	NA	METHODS	For analysis, we utilized samples on which genotypes could be called for at least 97% of SNPs at a confidence score of >=0.25.
+0	NA	NA	NA	METHODS	Data were generated on 43,671 of 47,120 SNPs
+0	NA	NA	NA	METHODS	To identify close relatives we computed identity-by-state (IBS) probabilities for all pairs.
+0	NA	NA	NA	METHODS	We identified 93 cryptic duplicate samples (or monozygotic twins) or probable brothers (IBS >0.86).
+0	NA	NA	NA	METHODS	In each case we excluded the individual with the lower call rate.
+0	NA	NA	NA	METHODS	By computing IBS scores between participants and individuals in HapMap and using multi-dimensional scaling, we identified 252 individuals who appeared to have significant Asian or African ancestry (approximately >10% non-European ancestry).
+0	Klinefelter's syndrome	NA	NA	METHODS	We removed 14 cases with a significant level of heterozygosity on X (16-39%; including 3 known cases of Klinefelter's syndrome).
+0	NA	NA	NA	METHODS	After these exclusions, 3,650 cases and 3,940 controls were used in the final analysis of stage 2
+0	NA	NA	NA	METHODS	We filtered out all SNPs with a call rate <95%, a minor allele frequency in controls of <1%, or whose genotype frequency in controls departed from Hardy-Weinberg equilibrium at p<.00001.
+0	NA	NA	NA	METHODS	After these exclusions, we analyzed 43,671 SNPs, of which 42,186 were genotyped in both stage 1 and stage 2.
+0	NA	NA	NA	METHODS	Duplicate concordance was 99.998%
+0	NA	NA	NA	METHODS	In stage 3, genotyping of samples from all but one study site was performed by 5' exonuclease assay (Taqman ) using the ABI Prism 7900HT sequence detection system according to the manufacturer's instructions.
+0	NA	NA	NA	METHODS	Primers and probes were supplied directly by Applied Biosystems as Assays-By-Design .
+0	NA	NA	NA	METHODS	The Queensland site used the iPlex Sequenom MassArray  system.
+0	NA	NA	rs12155172	METHODS	Ten of the 12 SNPs worked well with the initial assay; one (rs12155172) had to be redesigned and one (rs4782780) had to be replaced by a proxy SNP (rs11861609, r2=0.93) for all groups except Queensland.
+0	NA	NA	NA	METHODS	These latter two SNPs were therefore only run by 8 groups (Supplementary Table 4)
+0	NA	NA	NA	METHODS	Assays at all sites included at least two negative controls and 2-5% duplicates per plate.
+0	NA	NA	NA	METHODS	Quality control guidelines were followed by all the participating groups as previously described.
+0	NA	NA	NA	METHODS	We excluded individuals that were not typed for at least 80% of the SNPs attempted.
+0	NA	NA	NA	METHODS	Data on a given SNP for a given site were also excluded if they failed QC criteria, which necessitated: a call rate >95%, no deviation from Hardy-Weinberg equilibrium in controls at P<.00001 and a <2% discordance between genotypes in duplicate samples.
+0	NA	NA	NA	METHODS	Cluster plots were re-examined centrally where necessary.
+0	NA	NA	NA	METHODS	Overall, 12 site/SNP combinations were excluded
+0	NA	NA	NA	METHODS	We assessed associations between each SNP and PrCa at stage 2 using a 1df Cochran-Armitage trend test and a general 2df chi-squared test.
+0	NA	NA	NA	METHODS	Inflation in the chi-squared statistic was assessed using the genomic control approach; we derived an inflation factor (lambda) by dividing the median of the lowest 90% of the 1df statistics by the 45% percentile of a 1df chi-squared distribution (0.357).
+0	NA	NA	NA	METHODS	This cutoff was used to avoid inclusion of SNPs likely to be associated with risk.
+0	NA	NA	NA	METHODS	Analyses were stratified by country and, within Australia, by study (MCCS and EOPCS/RFPCS).
+0	NA	NA	NA	METHODS	This stratification was made because the MCCS were known to be oversampled for individuals of Southern Europe ancestry, and because this stratification materially reduced the overdispersion.
+0	NA	NA	NA	METHODS	To further assess population structure, we performed principal components analysis using 15,363 uncorrelated SNPs (r2<0.1).
+0	NA	NA	NA	METHODS	The first component was strongly related to stratum (MCCS vs. EOPCS/RFPCS vs. UK; Supplementary Figure 2).
+0	NA	NA	NA	METHODS	Addition of up to five principal components as covariates made no difference to the inflation, after adjustment for stratum, and we therefore chose not to use the principal components in the primary analysis, to preserve consistency with stage 3.
+0	NA	NA	NA	METHODS	However, subsequent adjustment for the SNPs reaching genome-wide significance made no material difference to the strength of the associations or significance levels.
+0	NA	NA	NA	METHODS	SNPs were selected for evaluation in stage 3 on the basis of a significance level of P<10-6 based on a 1df trend test.
+0	NA	NA	NA	METHODS	Multiple logistic regression was used to define the minimal set of SNPs that showed evidence of association at P<.05, after adjustment for other SNPs
+0	NA	NA	NA	METHODS	In stage 3, we stratified analyses by study and racial/ethnic group (white, African-American, south-east Asian, Latino and Hawaiian).
+0	NA	NA	NA	METHODS	Where <100 individuals were recorded in a minority ethnic group, these individuals were excluded.
+0	NA	NA	NA	METHODS	The Mayo Clinic study genotyped multiple cases for the same family; we included only one case per family at random in the analysis.
+0	NA	NA	NA	METHODS	After exclusions, analyses were based on 16,229 PrCa cases and 14,821 controls from stage 3
+0	NA	NA	NA	METHODS	ORs and confidence limits were estimated using unconditional logistic regression, stratified by study and racial/ethnic group.
+0	NA	NA	NA	METHODS	"In the text we have reported the combined tests of association over all three stages, but have emphasized the OR estimates from stage 3, to minimize the effect of ""winner's curse""."
+0	NA	NA	NA	METHODS	Tests of homogeneity of the ORs across strata were assessed using likelihood ratio tests.
+0	NA	NA	NA	METHODS	The associations between genotype and family history and Gleason score were assessed using a case-only analysis; Gleason score was analysed both using the binary endpoint of Gleason score >= 7 and as an ordinal variable, by polytomous regression.
+0	NA	NA	NA	METHODS	Modification of the ORs by age was assessed using a case-only analysis, assessing the association between age and SNP genotype in the cases using polytomous regression.
+0	NA	PSA	NA	METHODS	The associations between SNP genotypes and PSA level were assessed using linear regression, after log-transformation of PSA level to correct for skewness.
+0	NA	NA	NA	METHODS	Analyses were performed in R (principally using SNPMatrix) and Stata
+0	NA	NA	NA	FIG	Summary of experimental design and results.
+0	NA	NA	NA	FIG	Numbers quoted are after QC (see Online Methods)
+0	NA	NA	NA	FIG	Forrest plots for the 12 SNPs replicated in stage 3.
+0	NA	NA	NA	FIG	Squares represent the estimated per-allele odds ratio (OR) for each study.
+0	NA	NA	NA	FIG	Lines indicate the 95% confidence interval.
+0	NA	NA	NA	FIG	Diamonds represent the OR estimates and confidence limits for the subgroups indicated.
+0	NA	NA	rs4782780	FIG	The SNPs rs4782780 and rs11861609 are highly correlated and only one was typed in any study.
+0	NA	NA	NA	FIG	The OR is shown for the SNP typed in each study (see Online Methods)
+0	NA	NA	NA	TABLE	Summary results for SNPs selected for genotyping in Stage 3

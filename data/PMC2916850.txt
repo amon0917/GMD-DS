@@ -1,0 +1,143 @@
+0	lung cancer	NA	NA	ABSTRACT	Genome-wide association studies of lung cancer reported in populations of European background have identified three regions on chromosomes 5p15.33, 6p21.33, and 15q25 that have achieved genome-wide significance with p-values of 10-7 or lower.
+0	prostate carcinogenesis	NA	NA	ABSTRACT	These studies have been performed primarily in cigarette smokers, raising the possibility that the observed associations could be related to tobacco use, lung carcinogenesis, or both.
+1	lung adenocarcinomas	NA	rs2736100	ABSTRACT	Since most women in Asia do not smoke, we conducted a genome-wide association study of lung adenocarcinoma in never-smoking females (584 cases, 585 controls) among Han Chinese in Taiwan and found that the most significant association was for rs2736100 on chromosome 5p15.33 (p = 1.30x10-11).
+0	lung adenocarcinomas	NA	NA	ABSTRACT	This finding was independently replicated in seven studies from East Asia totaling 1,164 lung adenocarcinomas and 1,736 controls (p = 5.38x10-11).
+1	NA	NA	rs2736100	ABSTRACT	A pooled analysis achieved genome-wide significance for rs2736100.
+1	NA	NA	NA	ABSTRACT	This SNP marker localizes to the CLPTM1L-TERT locus on chromosome 5p15.33 (p = 2.60x10-20, allelic risk = 1.54, 95% Confidence Interval (CI) 1.41-1.68).
+0	NA	NA	NA	ABSTRACT	Risks for heterozygote and homozygote carriers of the minor allele were 1.62 (95% CI; 1.40-1.87), and 2.35 (95% CI: 1.95-2.83), respectively.
+1	lung cancer	NA	NA	ABSTRACT	In summary, our results show that genetic variation in the CLPTM1L-TERT locus of chromosome 5p15.33 is directly associated with the risk of lung cancer, most notably adenocarcinoma
+0	lung cancer	NA	NA	ABSTRACT	Worldwide, approximately 15% of lung cancer cases occur among nonsmokers.
+0	lung cancer	NA	NA	ABSTRACT	Genome-wide association studies (GWAS) of lung cancer conducted in populations of European background have identified three regions on chromosomes 5, 6, and 15 that harbor genetic variants that confer risk for lung cancer.
+0	prostate carcinogenesis	NA	NA	ABSTRACT	Prior studies were conducted primarily in cigarette smokers, raising the possibility that the associations could be related to tobacco use, lung carcinogenesis, or both.
+0	lung cancer	NA	NA	ABSTRACT	A GWAS of lung cancer among never-smokers is an optimal setting to discover effects that are independent of smoking.
+0	lung adenocarcinomas	NA	NA	ABSTRACT	Since most women in Asia do not smoke, we conducted a GWAS of lung adenocarcinoma among never-smoking females (584 cases, 585 controls) in Taiwan, and observed a region on chromosome 5 significantly associated with risk for lung cancer in never-smoking women.
+0	lung adenocarcinomas	NA	NA	ABSTRACT	The finding was independently replicated in seven studies from East Asia totaling 1,164 lung adenocarcinomas and 1,736 controls.
+0	lung cancer	NA	NA	ABSTRACT	To our knowledge, this study is the first reported GWAS of lung cancer in East Asian women, and together with the replication studies represents the largest genetic association study in this population.
+0	prostate carcinogenesis	NA	NA	ABSTRACT	The findings provide insight into the genetic contribution of common variants to lung carcinogenesis
+0	lung cancer	NA	NA	INTRO	To date, several large genome-wide association studies (GWAS) of lung cancer conducted in subjects of European background have identified susceptibility alleles on chromosomes 5p15.33, 6p21.33 and 15q25.
+0	NA	NA	NA	INTRO	These studies have shown that statistical evidence that exceeds the threshold of genome wide significance, defined as a p value less than 5x10-7  or 1x10-8 .
+0	prostate carcinogenesis	NA	NA	INTRO	In each study, the majority of cases and controls were cigarette smokers, making it difficult to determine whether these loci are associated with lung carcinogenesis or tobacco use, or perhaps both.
+0	lung cancer	NA	NA	INTRO	It has been difficult to accrue a sufficiently large set of lung cancer cases with no history of smoking because a high proportion of lung cancer in women as well as men in North America and Europe is directly related to tobacco use.
+0	lung cancer	NA	NA	INTRO	In contrast, a substantial proportion of lung cancer in East Asian women occurs among non-smokers, who interestingly have a relatively high rate of lung cancer.
+0	NA	NA	NA	INTRO	This suggests that genetic and/or environmental factors could account for the observed differences.
+0	NA	NA	NA	INTRO	To investigate this further, we conducted a genome-wide association study with follow-up of notable SNPs in never-smoking women in East Asia.
+0	NA	NA	NA	INTRO	In addition, we genotyped tag SNPs optimized for East Asians for the three regions previously identified by GWAS in European populations
+0	lung cancer	NA	NA	RESULTS	We conducted an initial GWAS of 584 lung cancer cases and 585 controls drawn from a case-control study in Taiwan, the Genetic Epidemiological Study of Lung Adenocarcinoma (GELAC) (Table 1).
+0	lung adenocarcinomas	NA	NA	RESULTS	Cases were restricted to those never-smoking females with a confirmed diagnosis of adenocarcinoma of the lung in GELAC.
+0	NA	NA	NA	RESULTS	Controls were drawn from never-smoking female controls in GELAC and frequency-matched by age with cases (see Text S1 for more details).
+0	NA	NA	NA	RESULTS	We began with a pilot study in which 54 cases and 54 controls were genotyped with the Illumina HumanCNV370-Duo BeadChip and, based on its success, 550 cases and 549 controls were genotyped on the Illumina HumanHap 610 Quad BeadChip.
+0	NA	NA	NA	RESULTS	After quality control metrics were applied to both data sets (see Materials and Methods), the variance inflation factor lambda in the genomic control model was found to be 1.013 and the inflation factor lambda1000 for an equivalent study of 1000 cases and controls was 1.022; together with the comparison of the observed and expected p-values in the quantile-quantile plot, shown in Figure 1, there is no evidence of a substantial issue related to population substructure but instead, several promising regions in the tail of the distribution are apparent, suitable for follow-up analysis.
+0	NA	NA	NA	RESULTS	In fact, the distribution of the bottom 90% of p-values is similar to the expected distribution (Figure 1A) whereas the top 10% p-values displayed a deviation consistent with possible new signals (Figure 1B)
+0	NA	NA	NA	FIG	(A) Quantile-quantile plot for lower 90% of -log P-values, (B) upper 10% of -log P-values, and (C) scatter plot of P-values in-log scale from the trend test for 457,504 genotyped variants comparing 584 cases and 585 controls
+1	lung cancer	NA	rs2736100	RESULTS	As shown in Figure 1C, the scatter plot of p-values on a -log scale for the trend test conducted for 457,504 SNPs used after quality control metrics were applied, only one SNP, rs2736100, was highly associated with lung cancer (p = 1.30 * 10-11) below the threshold of genome-wide significance, namely, p less than 1x10-7 (Figure 2).
+0	NA	NA	NA	RESULTS	In an analysis for trend adjusted for age, the allelic odds ratio was 1.83 (1.54-2.18), which is notably higher than the estimates reported in the European studies (Figure 2).
+0	NA	NA	NA	RESULTS	It is remarkable that our finding suggests a higher estimated effect size compared to that which was reported in Europeans, who were primarily smokers.
+1	NA	NA	rs2736100	RESULTS	To confirm the signal at rs2736100, the samples in the GWAS were genotyped using an optimized TaqMan assay (ABI, Foster City, CA), which had a concordance of 99.7% between the two platforms
+1	lung adenocarcinomas	NA	rs2736100	FIG	Forest plot representing lung adenocarcinoma risk and the rs2736100 genotype.
+0	lung adenocarcinomas	NA	NA	FIG	Odds ratios (OR) and 95% confidence intervals (CI) for lung adenocarcinoma are derived from the per-allele model.
+0	NA	NA	NA	FIG	All models are adjusted for age and study center.
+0	lung adenocarcinomas	NA	NA	FIG	GELAC: Genetic Epidemiological Study of Lung Adenocarcinoma (in Taiwan); CAMSCH: Chinese Academy of Medical Sciences Cancer Hospital Study; SNU: Seoul National University study; SWHS: Shanghai Women's Health Cohort Study; WHLCS: Wuhan Lung Cancer Study; KNUH: Kyungpook National University Study; KUMC: Korea University Study
+1	lung adenocarcinomas	NA	rs2736100	RESULTS	Replication of the strongest signal, rs2736100 was performed in the remaining subjects of the GELAC study as well as six studies of never-smoking Asian women with lung adenocarcinoma in East Asia.
+0	lung adenocarcinomas	NA	NA	RESULTS	A total of 1164 cases with lung adenocarcinoma and 1736 controls were genotyped using an optimized TaqMan assay (shown to have high concordance with the Illumina results as described above).
+0	cancers	NA	NA	RESULTS	The additional replication studies included the Chinese Academy of Medical Sciences Cancer Hospital study (CAMSCH), Wuhan lung cancer study (WHLCS), Seoul National University study (SNU), Korea University Medical Center study (KUMC), Kyungpook National University Hospital study (KNUH) and Shanghai Women's Health Cohort Study (SWHS) (Table 1).
+0	NA	NA	NA	RESULTS	Characteristics of the study subjects from the GWAS and the replication studies are presented in Table 1
+1	lung adenocarcinomas	NA	rs2736100	RESULTS	The combined replication study confirmed that rs2736100 is associated with risk for lung adenocarcinoma in never-smoking women in East Asia (p = 5.38 * 10-11; allelic OR = 1.44; 95% CI 1.29-1.60) (Figure 2).
+1	lung adenocarcinomas	NA	rs2736100	RESULTS	In a pooled analysis of the GWAS and replication studies, rs2736100 was conclusively associated with the risk for lung adenocarcinoma in never-smoking females in East Asian populations; the allelic OR is 1.54 (95% CI 1.41-1.68; p = 2.60 * 10-20) (Figure 2 and Table 2).
+0	NA	NA	NA	RESULTS	The estimated odds ratios for the heterozygous and homozygous carriers are 1.62 (95% CI 1.40-1.87) and 2.35 (95% CI 1.95-2.83).
+0	NA	NA	NA	RESULTS	There was no evidence of heterogeneity between the results of the one cohort study (SWHS) and the pooled analysis of the 6 case-control studies (p = 0.36).
+0	lung cancer	NA	NA	RESULTS	Further pooling with two previously published studies, the Nanjing lung cancer study (NJLCS) and the Genes and Environment in Lung Cancer, Singapore study (GEL-S) (Table 1, Table S1), yielded comparable results (p = 1.16 * 10-21) (Table S2, Figure S1).
+1	NA	NA	rs2736100	RESULTS	Across all studies, we observed consistently increased risk associated with rs2736100 with no evidence for heterogeneity between studies, measured by the I2 test for heterogeneity (Figure S1).
+1	lung cancer	NA	rs2736100	RESULTS	In a subsequent analysis combining all lung cancer cases, rs2736100 was also significantly associated with lung cancer susceptibility (p = 5.50 * 10-20; allelic OR = 1.48; 95% CI 1.36-1.62) (Table 2).
+0	NSCLC-adenocarcinoma	NA	NA	RESULTS	This observation is comparable to what is being reported for adenocarcinoma alone, which is not surprising because adenocarcinomas constitute 76% of cases (Table 2)
+0	NA	NA	NA	RESULTS	We conducted a first generation fine mapping of this region of chromosome 5p15.33 using 15 tag SNPs optimized in the East Asian studies in HapMap phase 2; the 15 SNPs were chosen using an r2>=0.8 as a threshold and estimated to cover approximately 85% of the known SNPs in HapMap phase 2 (Table S3).
+0	lung adenocarcinomas	NA	NA	RESULTS	We did not identify stronger signals for association with lung adenocarcinoma in the 15 SNPs, as shown in Figure 3 and Table S4.
+0	NA	NA	rs402710	RESULTS	Notably, rs402710, previously reported in GWAS of European ancestry, was the second most significant SNP tested in this region but did not achieve genome-wide significance (p = 0.0046) (Table S4).
+1	NA	NA	rs402710	RESULTS	When rs402710 and rs2736100 were analyzed in a multivariable model, the former became non-significant (p = 0.33)
+0	NA	NA	NA	FIG	LD structure and regional association results for 15 SNPs genotyped in the 5p15 region.
+0	NA	NA	NA	FIG	SNPs included were tagged with r 2>=0.8 in HapMap CHB
+1	lung adenocarcinomas	NA	rs2736100	DISCUSS	In this study of lung adenocarcinoma in East Asian never-smoking women, we report a highly significant association with the common SNP, rs2736100, which localizes to the TERT-CLPTM1L locus on chromosome 5p15.33.
+0	NA	NA	NA	DISCUSS	Our study is notable because the sample size for never-smoking female cases is substantially larger than previous reports.
+1	lung adenocarcinomas	NA	rs2736100	DISCUSS	Moreover, the estimated effect size observed for rs2736100 and adenocarcinoma of the lung (OR = 1.54) is greater than the associations previously reported in European populations (e.g., OR = 1.24 from the largest meta-analysis reported to date, p = 0.000046 for difference).
+0	prostate carcinogenesis	NA	NA	DISCUSS	Our study provides strong evidence that this locus on chromosome 5p15.33 is directly related to lung carcinogenesis because it has been conclusively shown in non-smoking women
+1	cancers	NA	rs2736100	DISCUSS	The SNP marker, rs2736100, is mapped to a region of chromosome 5p15.33 in which common and rare genetic variants have been linked to a spectrum of cancers and related conditions.
+1	NA	TERT	rs2736100	DISCUSS	rs2736100 is localized to intron 2 of the telomerase gene TERT, a reverse transcriptase that is critical for telomere replication and stabilization by controlling telomere length.
+1	cancers	NA	NA	DISCUSS	Variants in the TERT-CLPTM1L locus have been identified by GWAS to harbor susceptibility alleles for cancer of the brain, pancreas and lung.
+0	NSCLC-adenocarcinoma	NA	NA	DISCUSS	For the latter, a large meta-analysis combined with a new scan indicates that the signal in this locus is most strongly associated with one histology, adenocarcinoma in studies of European subjects
+0	cancers	NA	NA	DISCUSS	There is further evidence for association of this locus with additional cancers, though the reported results have not yet achieved the genome-wide association threshold; these include cancer of the bladder, prostate, uterine cervix, and skin including basal cell carcinoma and melanoma.
+1	acute myelogenous leukemia	TERT	NA	DISCUSS	Rare variations/mutations in the TERT gene have been described as a risk factor for acute myelogenous leukemia and also explain a proportion of the inherited bone marrow failure family pedigrees with dyskeratosis congenita, a cancer predisposition syndrome.
+1	idiopathic pulmonary fibrosis	TERT	NA	DISCUSS	Mutations in the TERT gene have also been described in patients with idiopathic pulmonary fibrosis.
+1	cancers	NA	NA	DISCUSS	Together these findings suggest that the TERT-CLPTM1L 5p15.33 region could be important in the development of a spectrum of cancers.
+1	NA	NA	rs2736100	DISCUSS	Still, at this time, further studies are needed to fine map the region, based on comprehensive re-sequence analysis in East Asian populations, to narrow the set of genetic variants worthy of functional studies to establish the mechanism underpinning the association marked by the SNP rs2736100 and subsequently compare these findings with comparable analyses in the other diseases
+0	NA	NA	NA	DISCUSS	The plausible mechanisms underlying the association signals across this region of chromosome 5p15.33 are currently under active investigation by many groups.
+0	prostate carcinogenesis	NA	NA	DISCUSS	Our findings are particularly interesting because we have identified variants that appear to be directly related to primary carcinogenesis.
+0	NA	NA	NA	DISCUSS	In this regard, it is critical that future studies evaluate environmental risk factors that may contribute, particularly since there is preliminary data suggesting that smoking as well as other exposures could directly influence telomere lengths.
+0	lung cancer	NA	NA	DISCUSS	It is noteworthy that lung cancer risk among non-smoking women in East Asia has been linked to indoor air pollution from environmental tobacco smoke, fumes produced by high temperature cooking, and coal combustion products
+0	NA	NA	NA	DISCUSS	Based on the discovery of susceptibility loci on chromosomal regions 6p21.33 and 15q25 first observed in European populations, we attempted to replicate the findings in never-smoking women in East Asia.
+0	NA	NA	NA	DISCUSS	The strongest SNPs reported in each region plus additional tag SNPs, chosen on the basis of HapMap Phase 2, were genotyped in seven studies.
+0	NA	NA	NA	DISCUSS	15 SNPs were selected for 6p21.33, covering an estimated 93% of known SNPs in HapMap phase 2 in the East Asian populations, whereas 24 SNPs were genotyped across 15q25, covering an estimated 83% of known common SNPs in the region (Table S3).
+0	lung cancer	NA	NA	DISCUSS	In these East Asian never-smoking women, there was no convincing evidence for association at chromosome 6p21.33 or for 15q25 for lung cancer overall or for the adenocarcinoma subtype (Tables S5 and S6)
+1	lung adenocarcinomas	NA	NA	DISCUSS	We report conclusive evidence that common genetic variants in the TERT-CLPTM1L locus on chromosome 5p15.33 are associated with risk for lung adenocarcinoma in non-smoking Asian women.
+0	prostate carcinogenesis	NA	NA	DISCUSS	We observed estimated effect sizes that are substantially higher than those previously reported in European smokers, which bears follow-up investigation into the biology of the underlying mechanism of the contribution of this region to primary lung carcinogenesis.
+0	cancers	NA	NA	DISCUSS	Since this region on chromosome 5p15.33 has been implicated in many cancers, our observations should stimulate further investigation of the region that could lead to new insights into carcinogenesis
+0	NA	NA	NA	METHODS	A description of each study is provided in Table 1 and Text S1.
+0	cancers	NA	NA	METHODS	Lung cancer cases and controls for the GWAS were drawn from the Genetic Epidemiological Study of Lung Adenocarcinoma (GELAC) in Taiwan.
+0	NA	NA	NA	METHODS	A total of 584 never-smoking incident cases and 585 never-smoking controls were included in the GWAS.
+0	cancers	NA	NA	METHODS	The replication studies were drawn from seven studies, including additional subjects from the GELAC study, the Chinese Academy of Medical Sciences Cancer Hospital study (CAMSCH), the Wuhan lung cancer study (WHLCS), the Seoul National University study (SNU), the Korea University Medical Center study (KUMC), the Kyungpook National University Hospital study (KNUH), and the Shanghai Women's Health Cohort Study (SWHS).
+0	lung cancer	NA	NA	METHODS	In addition, data were pooled with previously published findings from the Nanjing lung cancer study (NJLCS) and the Genes and Environment in Lung Cancer, Singapore study (GEL-S) (Table 1).
+0	NA	NA	NA	METHODS	All studies are case-control studies with the exception of the SWHS, which is a prospective cohort study.
+0	NA	NA	NA	METHODS	The range of ages is similar in cases and controls across all studies (Table 1)
+0	NA	NA	NA	METHODS	All study subjects provided informed consent and each study was approved by its respective institution's IRB
+0	NA	NA	NA	METHODS	GWAS genotyping of the GELAC samples was performed in two separate phases.
+0	NA	NA	NA	METHODS	In the pilot phase, 54 cases and 54 controls were genotyped by GeneTech Biotech Co., (Taiwan), using the Illumina HumanCNV370-Duo BeadChip.
+0	lung adenocarcinomas	NA	NA	METHODS	The cases were never-smoking females diagnosed with lung adenocarcinoma at age <=51 who had questionnaire data and DNA that passed quality control criteria for scanning.
+0	NA	NA	NA	METHODS	The controls were never-smoking females matched by age (+-2 years) to cases
+0	NA	NA	NA	METHODS	Cluster definitions were determined using Illumina BeadStudio Genotyping Module v.3.3.4.
+0	NA	NA	NA	METHODS	Genotype calls were based on a quality score (Gene call value) of 0.25 or higher.
+0	NA	NA	NA	METHODS	Four blind duplicate pairs were included, and the concordance of SNP genotype calls between each pair is greater than 99.997%.
+0	NA	NA	NA	METHODS	Quality control metrics for data from the first phase are similar to those for data from the second phase, detailed below
+0	NA	NA	NA	METHODS	In the second phase of the GWAS, 550 cases and 549 controls were genotyped with the Illumina HumanHap610 Quad BeadChip on contract at deCODE Genetics, Iceland.
+0	lung adenocarcinomas	NA	NA	METHODS	The cases were the first never-smoking female lung adenocarcinoma subjects to be enrolled in the study with questionnaire data and DNA that passed quality control for scanning.
+0	NA	NA	NA	METHODS	Cluster definitions were determined using the Illumina BeadStudio Genotyping Module.
+0	NA	NA	NA	METHODS	The median genotype call rate for samples was 99.78%.
+0	NA	NA	NA	METHODS	95% overall displayed call rates larger than 99.49%; the median call rate for variants is 99.91%, with 95% of variants with call rates above 99.55%.
+0	NA	NA	NA	METHODS	21 blind duplicate pairs displayed an average concordance greater than 99.99%
+0	NA	NA	NA	METHODS	After quality control metrics were applied, 457,504 SNPs were used for the association analysis.
+0	NA	NA	NA	METHODS	SNPs (n = 1,705) were excluded if the call rate was below 90%, (i.e., a missing rate larger than 0.1); SNPs with a minor allele frequency below 0.05 (n = 131,558); SNPs with missing rate between 0.02 and 0.1 and non-random genotype failure with p<0.02 (n = 1,046); and, significant deviation from fitness for Hardy-Weinberg equilibrium (p<0.0001 in controls) (n = 718).
+0	NA	NA	NA	METHODS	1064 unique samples from phase 2 were used in the association analysis, after two exclusion steps.
+0	NA	NA	NA	METHODS	The first set of exclusions was based on the quality control metrics described above and relatedness among individuals: call rates less than 90% (n = 3); sex discrepancies based on the X chromosome heterozygosity (n = 7); contaminated samples with high heterozygosity scores (n = 4), first or second degree relatives identified using genome-wide pairwise identical by descent (IBD) estimates (n = 9)
+0	NA	NA	NA	METHODS	We further excluded 12 individuals from phase 2, based on population substructure analysis.
+0	NA	NA	NA	METHODS	In fact, to detect differences in population substructure, pairwise population concordance (PPC) test in PLINK (http://pngu.mgh.harvard.edu/purcell/plink/) were performed with a threshold of 10-20 on two data sets using all autosomal SNPs that had passed the quality control metrics described above.
+0	NA	NA	NA	METHODS	The first data set consists of the 1184 unrelated individuals with high quality genotype data (108 from phase 1 and 1076 from phase 2).
+0	NA	NA	NA	METHODS	The PPC test identified 15 outliers who were distinct from the remaining 1169 (105 from phase 1 and 1064 from phase 2).
+0	NA	NA	NA	METHODS	The eight self-described aborigines (2 in Phase 1 and 6 in Phase 2) were among the outliers.
+0	NA	NA	NA	METHODS	Based on the PPC analysis, the final genome-wide association analysis was conducted using 1169 samples
+0	NA	NA	NA	METHODS	To further assess the population homogeneity in our study sample, we conducted additional analyses in our 1184 individuals with HapMap3 release 2 data.
+0	NA	NA	NA	METHODS	The results indicate that for the 1184 unrelated individuals with high quality genotype data, 15 outliers were detected, thus yielding 1169 individuals with homogeneous genetic structure available for follow-up analyses.
+0	NA	NA	NA	METHODS	We seeded the study population with genotype data from hapmap 3 as well as hapmap 2; this included 85 CHD (Chinese in Metropolitan Denver, Colorado), in addition to our 1184 individuals and the hapmap 2 (84 CHB (Han Chinese in Beijing, China) and 86 JPT (Japanese in Tokyo, Japan)).
+0	NA	NA	NA	METHODS	A second analysis included our 1184 study individuals and a larger sample of HapMap3 release 2, namely the CHB, CHD, GIH (Gujarati Indians in Houston, Texas), JPT, LWK (Luhya in Webuye, Kenya), MKK (Maasai in Kinyawa, Kenya), and TSI (Toscani in Italia): the results confirmed that 15 outliers were detected whereas the 1164 represented a homogeneous population
+0	NA	NA	NA	METHODS	Although the above PPC tests seem to suggest little population substructure in our 1169 samples, we still used EIGENSTRAT to conduct GWAS analysis to correct possible population stratification.
+1	NA	NA	rs2736100	METHODS	We found that for the SNP rs2736100, the P-value is 1.239x10-11 based on the Armitage trend Chi-square statistic with no stratification correction and the P-value is 2.764x10-11 based on EIGENSTRAT using 10 principal components (the default value) for stratification correction.
+0	NA	NA	NA	METHODS	There was a negligible difference in p-values with and without this correction
+1	NA	NA	rs2736100	METHODS	The genotyping cluster plot generated by the Illumina platform for rs2736100 is presented in Figure S2.
+0	NA	NA	NA	METHODS	The adjusted intensities for each allele are plotted, where each color represents a different genotype in the cluster plots.
+0	NA	NA	NA	METHODS	As shown in the figure, clusters of different genotypes are well separated from each other, indicating a high confidence in genotype calling in our study.
+0	NA	NA	NA	METHODS	The genotype call at this locus was confirmed with TaqMan genotyping (concordance of 99.7%)
+0	NA	NA	NA	METHODS	DNA was extracted from blood samples and genotyped at the National Cancer Institute Core Genotyping Facility (CGF) (Http://cgf.nci.nih.gov) for four studies, SNU, KUMC, KNUH, and SWHS.
+0	NA	NA	NA	METHODS	TaqMan genotyping for the GELAC study (including all previously scanned cases and controls plus remaining never-smoking female cases and their matched controls) and the GEL-S studies was conducted in Taiwan and Singapore, respectively.
+0	NA	NA	NA	METHODS	Genotyping for the CAMSCH, WHLCS, and NJLCS studies were conducted at the Cancer Institute and Hospital, Chinese Academy of Medical Science, using TaqMan assays designed and optimized by the CGF (http://snp500cancer.nci.nih.gov)
+0	lung cancer	NA	NA	METHODS	We selected 54 SNPs optimized for Eastern Asian populations to cover the three chromosomal regions previously reported to show association for lung cancer (i.e., 15 SNPs in 5p15, 15 SNPs in 6p, and 24 SNPs in 15q25) (Table S3).
+0	NA	NA	NA	METHODS	The coordinates for selecting the tag SNPs were based on an r2<0.8 using the CHB samples of HapMap phase 2.
+0	NA	NA	NA	METHODS	The boundaries for the tag SNP selection were as follows: 5p15.33 from 1310620 to 1412939, 6p21.33 from 28782776 to 29018856 and 15q25 from 76593077 to 76702301 (Build 37).
+0	NA	MAF	NA	METHODS	We computed genomic coverage using the GLU software package (http://code.google.com/p/glu-genetics/) for common SNPs (MAF>=0.05) based on the most recent build (Build 37) of the HapMap CHB genotype data
+0	NA	NA	NA	METHODS	All TaqMan assays (Applied Biosystems Inc., Foster City, CA) for this study were optimized on the ABI 7900HT detection system with high concordance with sequence analysis of 102 individuals as listed on the SNP500Cancer website (http://snp500cancer.nci.nih.gov).
+0	NA	NA	rs402710	METHODS	All of the genotype frequencies were consistent with Hardy-Weinberg equilibrium except three SNPs (rs402710, rs9368570, and rs9257280) using a chi-square test (P<0.0001, Table S3).
+0	NA	NA	NA	METHODS	All reported genotyped results are based on completion rates of greater than 94% across all studies
+0	NA	NA	NA	METHODS	The program PLINK was used to conduct primary statistical tests for association in the discovery phase.
+0	lung cancer	NA	NA	METHODS	Association analyses between individual SNP and the lung cancer risk were carried out using computer packages in PLINK.
+0	NA	NA	NA	METHODS	Q-Q plots analyzed by the trend test are shown in Figure 1.
+0	NA	NA	NA	METHODS	We note that for Phase 1, we imputed the genotypes at the SNPs contained in HumanHap 610 Quad BeadChip but not in HumanCNV370-Duo BeadChip by using IMPUTE developed by Marchini et al.
+0	NA	NA	NA	METHODS	and haplotypes of CHB in HapMap as the reference
+0	NA	NA	NA	METHODS	Unconditional logistic regression was used to estimate the ORs and 95% CIs, adjusting for age and study center.
+0	NA	NA	NA	METHODS	All p values are two-sided.
+0	NA	NA	NA	METHODS	The most prevalent homozygous genotype was used as the reference group.
+0	NA	NA	NA	METHODS	Tests for trend were conducted by assigning the ordinal values 1, 2, and 3 to the most prevalent genotypes in rank order of wild type, heterozygous, and variant homozygous genotypes, respectively

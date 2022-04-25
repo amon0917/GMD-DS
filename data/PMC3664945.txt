@@ -1,0 +1,276 @@
+0	Alzheimer's disease	tau	NA	ABSTRACT	Cerebrospinal fluid (CSF) tau, tau phosphorylated at threonine 181 (ptau) and Abeta42 are established biomarkers for Alzheimer's Disease (AD), and have been used as quantitative traits for genetic analyses.
+1	Alzheimer's disease	NA	rs9877502	ABSTRACT	We performed the largest genome-wide association study for cerebrospinal fluid (CSF) tau/ptau levels published to date (n=1,269), identifying three novel genome-wide significant loci for CSF tau and ptau: rs9877502 (P=4.89x10-9 for tau) located at 3q28 between GEMC1 and OSTN, rs514716 (P=1.07x10-8 and P=3.22x10-9 for tau and ptau respectively), located at 9p24.2 within GLIS3 and rs6922617 (P = 3.58x10-8 for CSF ptau) at 6p21.1 within the TREM gene cluster, a region recently reported to harbor rare variants that increase AD risk.
+0	Alzheimer's disease	NA	rs9877502	ABSTRACT	In independent datasets rs9877502 showed a strong association with risk for AD, tangle pathology and global cognitive decline (P=2.67x10-4, 0.039, 4.86x10-5 respectively) illustrating how this endophenotype-based approach can be used to identify new AD risk loci
+0	Alzheimer's disease	beta-amyloid (Abeta)	NA	INTRO	AD is neuropathologically characterized by the presence of extracellular Abeta plaques and intracellular aggregates of hyperphosphorylated tau in the brain.
+0	Alzheimer's disease	tau	NA	INTRO	CSF Abeta42 and tau levels have emerged as useful biomarkers for disease and endophenotypes for genetic studies of AD.
+0	Alzheimer's disease	tau	NA	INTRO	CSF tau and tau phosphorylated at threonine 181 (ptau) are higher in AD cases compared with non-demented elderly controls.
+1	Alzheimer's disease	tau	NA	INTRO	It has been shown that genetic variants that increase risk for AD modify CSF Abeta42 and tau levels, including pathogenic mutations in APP, PSEN1 and PSEN2, and the common variants in APOE.
+0	NA	tau	NA	INTRO	CSF ptau levels correlate with the number of neurofibrillary tangles and the load of hyperphosphorylated tau present in the brain.
+0	neuronal loss	NA	NA	INTRO	Elevated CSF ptau levels are correlated with neuronal loss and predict cognitive decline and conversion to AD in subjects with mild cognitive impairment.
+0	tauopathies	tau	NA	INTRO	Enigmatically, CSF tau levels are normal or low in other tauopathies such as progressive supranuclear palsy, so the precise relationship between the burden of tau pathology as well as the extent of neurodegeneration and the levels of CSF tau remain to be fully clarified.
+0	Alzheimer's disease	tau	NA	INTRO	This notwithstanding, CSF tau levels may be a useful marker to identify genetic variants implicated not only with risk for Alzheimer's disease but also age at onset or rate of progression.
+1	NA	tau	NA	INTRO	Previous GWAS for CSF tau, and ptau levels have been conducted in much smaller samples and have shown robust association with markers on chromosome 19 surrounding APOE but failed to detect additional genome-wide significant associations.
+0	NA	tau	NA	INTRO	We have conducted a genome-wide association study (GWAS) for CSF tau and ptau using a sample that is more than three times the size of previous studies and have successfully detected loci that show novel genome-wide significant association signals
+0	NA	NA	NA	RESULTS	Before performing any analysis, we performed stringent quality control (QC) in both the genotype and the phenotype data.
+0	NA	tau	NA	RESULTS	For the phenotype data we confirmed that the tau and ptau level followed a normal distribution after log transformation.
+0	NA	NA	NA	RESULTS	We also performed a stepwise regression analysis to identify the covariates showing a significant association with these endophenotypes.
+0	Alzheimer's disease	NA	NA	RESULTS	We performed a GWAS on 1,269 unrelated individuals recruited through the Knight-ADRC at Washington University, the Alzheimer's Disease Neuroimaging Initiative, a biomarker Consortium of Alzheimer Disease Centers coordinated by University of Washington and the University of Pennsylvania (table 1, and S1).
+0	NA	NA	NA	RESULTS	While there are differences in the absolute levels of the biomarker measurements between the different studies that likely reflect differences in the methods used for quantification (regular ELISA vs Luminex), both methods measure the same analytes, but yield different absolute levels.
+0	NA	tau	NA	RESULTS	In addition, CSF ptau and tau levels in the different studies show similar characteristics.
+0	NA	tau	NA	RESULTS	CSF ptau and tau levels show a 10-17 fold difference in each dataset, are normally distributed after log transformation, and have similar covariates in each dataset (see statistical analyses)
+0	NA	NA	NA	RESULTS	To maximize our statistical power we performed a single-stage GWAS with our combined sample.
+0	Alzheimer's disease	NA	NA	RESULTS	The sample includes 687 elderly non-demented individuals and 591 individuals with a clinical diagnosis of AD (table 1, and S1).
+0	NA	NA	NA	RESULTS	We used linear regression to test the additive genetic model of each single nucleotide polymorphism (SNP) for association with CSF biomarker levels after adjustment for age, gender, site and the three principal component factors from population stratification analysis.
+0	NA	NA	NA	RESULTS	A total of 5,815,690 imputed and genotyped SNPs were included in these analyses.
+0	dementia	NA	NA	RESULTS	The inclusion of clinical dementia rating (CDR) or case/control status did not change the results significantly.
+0	NA	tau	NA	RESULTS	No evidence of systematic inflation of p-values was found lambda = 1.003 for ptau, and 1.009 for tau).
+0	NA	tau	NA	RESULTS	To estimate the proportion of variance in CSF tau and ptau levels explained by genetic variants we used a genome-partitioning analysis.
+0	NA	tau	NA	RESULTS	Approximately 7% (ptau) and 15% (tau) of the variability in the CSF levels of these proteins are explained by variants included on the GWAS chip plus the imputed SNPs.
+1	NA	apolipoprotein E	NA	RESULTS	In this study SNPs in the APOE region show a genome-wide significant association with CSF tau and ptau (Table 2 and 3) and explain just 0.25-0.29% of the variability in CSF tau and ptau, suggesting that most of the genetic variability in CSF tau and ptau levels is explained by other genetic variants
+1	NA	apolipoprotein E	NA	RESULTS	Prevailing hypotheses suggest that APOE epsilon4 exerts its pathogenic effects through an Abeta-dependent mechanism.
+1	NA	apolipoprotein E	rs769449	RESULTS	However, several SNPs in the APOE region were genome-wide significant with both tau and ptau (rs769449; P= 1.96 x 10-16 and 2.56 x 10- 18, respectively, Table 2, 4 and Figure 1).
+1	NA	apolipoprotein E	NA	RESULTS	To determine whether APOE SNPs influence CSF tau and ptau levels independently of Abeta pathology, and disease status we performed analyses including CSF Abeta42 levels, or CDR as covariates in a regression model.
+1	NA	apolipoprotein E	rs769449	RESULTS	When clinical status was included as a covariate the APOE SNP rs769449 was still the most significant signal (P= 1.23 x 10-12, Table 4).
+1	NA	NA	rs769449	RESULTS	When CSF Abeta42 levels were included in the model we also found a strong, but less significant, association for rs769449 with CSF ptau levels (P= 3.22 x 10-05).
+1	NA	tau	NA	RESULTS	Analyses of tau follow the same pattern (Table 4) suggesting that at least part of the tau/ptau-APOE association is due to the underlying association of APOE with Abeta42 levels.
+1	NA	NA	rs769449	RESULTS	When the sample was stratified by clinical status, rs769449 showed a strong and similar effect size in both cases (n=519; Beta: 0.067; P=3.38x10-6) and in controls (n=687; Beta: 0.075, p=1.54x106) with CSF ptau levels (Table S2).
+0	Alzheimer's disease	NA	NA	RESULTS	Several studies have suggested that up to 30% of elderly non-demented control samples meet neuropathological criteria for AD.
+0	NA	beta-amyloid (Abeta)	NA	RESULTS	It has also been shown that individuals with CSF Abeta42 levels less than 500 pg/ml in the Knight-ADRC-CSF, and 192 pg/ml in the ADNI series have evidence of Abeta deposition in the brain, as detected by PET-PIB.
+0	Alzheimer's disease	NA	NA	RESULTS	Individuals with CSF Abeta42 levels below these thresholds could be classified as preclinical AD cases with the presumption that some evidence of fibrillar Abeta deposits would be detected.
+1	NA	tau	rs769449	RESULTS	When we used these thresholds, rs769449 showed a significant association with CSF tau and ptau in both strata, although the effect size was almost two fold higher in individuals with high Abeta42 levels (n=416; Beta: 0.072; P=6.58x10-5, for CSF tau levels) than in individuals with low Abeta42 levels (n=478; Beta: 0.035; P=1.83x10-2, for CSF tau levels) (Table S2).
+1	Alzheimer's disease	apolipoprotein E	NA	RESULTS	These results indicate that the residual association of SNPs in the APOE region is not dependent on clinical status or the presence of fibrillar Abeta pathology and clearly suggests that DNA variants in the APOE gene region influence tau pathology independently of Abeta or AD disease status
+1	NA	apolipoprotein E	NA	RESULTS	To analyze whether there is more than one independent signal in the APOE gene region, APOE genotype was included in the model as a covariate (Table 4, and additional figures on https://hopecenter.wustl.edu/data/Cruchaga_Neuron_2013).
+1	NA	apolipoprotein E	NA	RESULTS	The association for the SNPs located in the APOE region was reduced drastically (P-values between 0.02 and 0.008), suggesting that most of the association in this locus is driven by APOE genotype
+1	NA	apolipoprotein E	NA	RESULTS	Outside the APOE region, we detected genome-wide significant association with three novel loci for CSF tau, ptau or both at 3q28, 9p24.2 and 6p21.1.
+0	NA	NA	NA	RESULTS	Several SNPs in each locus showed highly significant p-values (Figure 1).
+0	NA	NA	NA	RESULTS	For all loci, at least one SNP was directly genotyped (Table 2) and each of the datasets contributed to the signal, showing similar effect sizes and direction (Table S3), suggesting that these are real signals and unlikely to be the result of type I error
+1	NA	tau	rs9877502	RESULTS	The strongest association for CSF tau, after APOE, is rs9877502 (P= 4.98 x 10-09), located on 3q28 between GEMC1 and OSTN and the non-coding RNA SNAR-I (Figure 1 and 2).
+1	NA	SNAR-I	NA	RESULTS	Fifty-five intragenic SNPs located between SNAR-I and OSTN, showed a p-value lower than 9.00 x 10-05 (additional information on https://hopecenter.wustl.edu/data/Cruchaga_Neuron_2013).
+1	NA	IL1RAP	NA	RESULTS	Other genes located in this region, include IL1RAP, UTS2D and CCDC50, all of which are highly expressed in the brain.
+0	NA	NA	rs9877502	RESULTS	Bioinformatic analyses indicate that the most significant SNP in this locus and 33 SNPs in linkage disequilibrium (LD) with rs9877502 are located in transcription factor binding sites and some of these SNPs are also part of a transcription factor matrix (table S8-10), suggesting that rs9877502 or a linked variant could influence the expression of one or more of the genes located in this region
+1	NA	GLIS3	rs514716	RESULTS	Rs514716, located at 9p24.2 in an intron of GLIS3, shows genome-wide significant association with both CSF tau and ptau levels (Figure 2).
+0	NA	tau	NA	RESULTS	The minor allele G (MAF = 0.136) is associated with lower CSF tau (beta = -0.071; P = 1.07 x 10-8) and ptau levels (beta = -0.072; P = 3.22 x 10-9).
+0	NA	tau	NA	RESULTS	Seven additional intronic SNPs show genome-wide significant association with CSF p-tau levels or p-values lower than 9.00 x 10-05 for CSF tau levels (additional information on https://hopecenter.wustl.edu/data/Cruchaga_Neuron_2013).
+0	NA	NA	rs514716	RESULTS	We used the HapMap and the 1000 genome project data to identify all of the SNPs in linkage disequilibrium (LD, R2>0.8) with rs514716.
+0	NA	NA	NA	RESULTS	A total of nine SNPs were identified, all of them intronic.
+0	NA	NA	NA	RESULTS	Our bioinformatic analysis indicated that none of these SNPs disrupt a core splice site, but all of them are located in a conserved region
+0	NA	NA	NA	RESULTS	Finally, for CSF ptau levels, several, relatively rare SNPs (MAF= 0.06), located at 6p21.1, within the TREM gene cluster show genome-wide significant p-values (Figure 2).
+1	NA	NA	rs6922617	RESULTS	As in the case of the other genome-wide signals, at least one SNP in the region was directly genotyped (rs6922617, beta = -0.094; P = 3.58 x 10-8, table 2), and all of the CSF series contributed to the association (table S5).
+1	NA	TREML2	rs6916710	RESULTS	In this region, there was an additional peak driven by rs6916710 (MAF=0.39; P = 1.58 x 10-4; beta = -0.034) located in intron 2 of TREML2.
+0	Alzheimer's disease	TREM2	R47H	RESULTS	In a recent study, we found a rare functional variant (R47H, rs75932628) in TREM2, which substantially increases risk for AD.
+0	NA	NA	R47H	RESULTS	Based on these results, we genotyped rs75932628 in the Knight-ADRC and ADNI series to test whether this variant is associated with CSF levels.
+0	NA	TREM2	R47H	RESULTS	TREM2 R47H (rs75932628) showed strong association with both CSF tau (MAF=0.01; P = 6.9 x 10-4; beta =0.19) and ptau levels (P = 2.6 x 10-3; beta =0.16).
+0	NA	tau	R47H	RESULTS	As expected the minor allele (T) of rs75932628 is associated with higher CSF tau and ptau levels.
+1	NA	NA	rs6922617	RESULTS	The effect size (beta) for the R47H variant was twice that of rs6922617 and rs6916710 (Table 5), while the less significant p-value is explained by the lower MAF, and sample size.
+0	NA	NA	NA	RESULTS	To determine whether the associations seen with these three SNPs represent one signal or several independent associations we analyzed the linkage disequilibrium between the SNPs and performed conditional analyses.
+1	NA	NA	rs6922617	RESULTS	When rs6922617, rs6916710 or rs75932628 were included as a covariate in the model the other SNPs remained significant (Table 5).
+0	NA	NA	NA	RESULTS	In our population, none of these SNPs were in LD with each other (table S3 and additional information on https://hopecenter.wustl.edu/data/Cruchaga_Neuron_2013).
+0	Alzheimer's disease	NA	NA	RESULTS	Together these results suggest that these three SNPs are tagging three independent signals within the TREM gene cluster that influence CSF ptau levels and at least in the case of TREM2R47H AD ris
+0	NA	NA	NA	RESULTS	Conditional analysis was also performed for the other genome-wide significant loci to test whether the association signal at each locus is driven by a single effect or by multiple independent effects and to determine whether the identified loci interact with each other.
+0	NA	NA	NA	RESULTS	For the other loci, the signal for the conditioned SNP (and other SNPs in the same locus) totally disappeared confirming that the association at each locus represents a single signal.
+0	NA	NA	NA	RESULTS	Conditioning on the genome-wide significant SNPs did not dramatically change the signals in other parts of the genome (additional information on https://hopecenter.wustl.edu/data/Cruchaga_Neuron_2013), suggesting that there is not strong interaction between these loci and the rest of the genome
+0	Alzheimer's disease	NA	NA	RESULTS	To evaluate the specificity of these genome-wide significant loci we also examined whether the SNPs were associated with another AD biomarker, CSF Abeta42 levels.
+1	NA	apolipoprotein E	rs2075650	RESULTS	Only SNPs within the APOE region showed genome-wide association with CSF tau and CSF Abeta42 (rs2075650 P= 1.83x 10-40).
+1	NA	NA	rs9877502	RESULTS	For the other regions the p values for association with CSF Abeta42 were modest: 0.02 for rs9877502, 0.03, for rs514716 and for 3.6x 10-3 rs6922617.
+0	NA	NA	NA	RESULTS	Furthermore, the correlation between the variants that give p values <10-4 for either phenotype was low (r2=0.07).
+0	Alzheimer's disease	NA	NA	RESULTS	Together these results confirm the specificity of our results and that CSF tau/ptau and CSF Abeta42 can be used as endophenotypes to identify genetic variants that influence different facets of the AD phenotype
+0	NA	NA	NA	RESULTS	To further characterize these associations we evaluated gene expression levels in three different ways.
+0	NA	NA	NA	RESULTS	First, we determined whether the expression levels of the identified genes are associated with case-control status.
+0	NA	NA	NA	RESULTS	Second, we determined whether the SNPs associated with CSF tau/ptau levels also affect tau (MAPT) gene expression levels in brain and third, we tested whether the SNPs were associated with expression levels of the candidate genes within each locus.
+1	Alzheimer's disease	tau	NA	RESULTS	To do this we analyzed MAPT, GEMC1, IL1RAP, OSTN, and FOXP4 gene expression using cDNA from the frontal lobes of 82 AD cases and 39 non-demented individuals obtained through the Knight-ADRC Neuropathology Core.
+0	Alzheimer's disease	tau	NA	RESULTS	In addition MAPT, RFX3, SLC1A1 and PPAPDC2 gene expression were analyzed using publically available data from 486 late onset Alzheimer's Disease cases and 279 neuropathologically clean individuals form the GSE15222 dataset.
+0	NA	RFX3	NA	RESULTS	We found strong association for RFX3 (P = 1.39 x 10-9; beta =0.42), SLC1A1 (P = 1.01 x 10-4; beta =-0.28) and PPAPDC2 (P = 4.80 x 10-3; beta =-0.35), all located in the chromosome 9 region of association, with case-control status.
+0	NA	IL1RAP	NA	RESULTS	We also found a nominally significant association of IL1RAP (Chr.
+1	NA	tau	NA	RESULTS	3; P = 0.04; beta =-0.18) with case-control status but not for MAPT, GLIS3, GEMC1, OSTN or FOXP4 (table S5).
+0	NA	NA	NA	RESULTS	None of the SNPs associated with CSF tau/ptau levels showed an association with MAPT gene expression levels suggesting that they impact CSF tau levels by a post-transcriptional mechanism.
+0	NA	NA	rs9877502	RESULTS	Rs9877502 (chr.
+1	NA	IL1RAP	NA	RESULTS	3) showed nominally significant association with IL1RAP expression (P = 0.02; beta =-0.17), but not with other genes in the same locus: GEMC1 (P = 0.54; beta =-0.09), and OSTN (P = 0.87; beta =-0.02, Table S5)
+0	Alzheimer's disease	tau	NA	RESULTS	Because the purpose of this endophenotype-based approach is to identify variants implicated in disease, we tested whether the most significant SNP from each locus shows association with risk for AD, tau pathology or rate of cognitive decline.
+1	NA	GEMC1	NA	RESULTS	For the SNP located on 3q28 between GEMC1 and OSTN, each copy of the rs9877502-A allele (minor allele frequency (MAF) = 0.386) is associated with higher CSF tau levels (regression coefficient (beta) = 0.052).
+0	Alzheimer's disease	NA	rs9877502	RESULTS	Genotypes for rs9877502 were not available for the case-control series, but rs1316356, which is in LD with rs9877502 (D'=1, R2=0.932) showed a strong association with AD risk (beta = 0.81; P=2.67 x 10-4).
+0	cognitive defects	NA	rs9877502	RESULTS	Further, in an independent analysis leveraging two prospective cohorts, the Religious Orders Study and Rush Memory and Aging Project, rs9877502 was associated with global cognitive decline (n=1,593; beta = -0.014; P = 4.6 x 10-5) and in deceased subjects this variant was associated with burden of neurofibrillary tangles at autopsy (n=651; beta = 0.055; P = 0.014) (Table 6).
+0	cognitive defects	tau	NA	RESULTS	Importantly, these associations showed the predicted direction of effect for these phenotypes based on the CSF tau levels: the allele associated with lower tau levels is predicted to be protective for disease risk, associated with lower tau pathology, and with slower cognitive decline
+0	Alzheimer's disease	tau	NA	RESULTS	There was also some evidence that the SNPs associated with CSF tau and ptau levels in the 6p21.1 locus are also associated with risk for AD.
+0	Alzheimer's disease	NA	NA	RESULTS	A rare (MAF=0.01) functional coding variant with large effect size (Odds ratio >2) for AD risk was recently reported.
+0	NA	NA	R47H	RESULTS	This rare SNP (TREM2-R47H, rs75932628) was also associated with CSF ptau levels at P=2.6 x 10-3 (table 4).
+0	Alzheimer's disease	tau	NA	RESULTS	For the other locus we failed to detect significant association with risk for AD, tau pathology or cognitive decline, although the direction of the effect was in the expected direction based on the CSF levels (Table 6)
+0	NA	NA	NA	RESULTS	We performed a pathway analysis to determine whether signals that do not achieve genome-wide significance (p<1.0x 10-04) are enriched for sets of biologically related genes, represented as gene ontology terms (GO) and Kyoto Encyclopedia of genes and genomes (KEGG).
+0	NA	tau	NA	RESULTS	Gene ontology terms for lipid transport and metabolism are significant for tau and ptau (Table S6).
+0	Type 2 diabetes	MAPK9	NA	RESULTS	"Furthermore, the KEGG pathway ""Type II diabetes mellitus"" is also significant for ptau (enriched by MAPK9 and IRS2) and tau (enriched by MAPK9, IRS2 and MAPK1)."
+1	diabetes	GLIS3	NA	RESULTS	These results and the association of genetic variants in GLIS3, implicated in diabetes, with CSF tau levels support previous data suggesting that diabetes could influence risk for AD
+0	Alzheimer's disease	tau	NA	DISCUSS	We have previously shown that using CSF tau and ptau levels as endophenotypes it is possible to identify genetic variants implicated in AD.
+0	NA	tau	NA	DISCUSS	This study represents the largest GWAS for CSF tau and ptau levels performed to date.
+0	NA	NA	NA	DISCUSS	Two other GWAS using the ADNI data (N=394) have been reported previously.
+1	NA	apolipoprotein E	NA	DISCUSS	In these smaller studies only the APOE locus showed genome-wide significant association with CSF Abeta42 and tau levels.
+1	NA	apolipoprotein E	NA	DISCUSS	By using a threefold larger sample size than these studies we were able to identify four independent genome-wide significant loci, including APOE (Table 2).
+0	NA	tau	NA	DISCUSS	We calculated that common variants tagged by SNPs on the GWAS chip explain 6.45% and 15.14% of the overall variability in CSF ptau and tau levels, respectively.
+0	NA	tau	NA	DISCUSS	The four genome-wide significant loci identified in this study explain 1.45% of CSF ptau and 1.28% of CSF tau variability (Table 3).
+0	NA	tau	NA	DISCUSS	Together these four loci explain 22% and 9% of the genetic component for CSF ptau and tau levels, respectively, indicating additional variants and genes associated with CSF tau and ptau levels may be identified in future, using larger datasets and different approaches such as whole genome sequencing
+0	NA	NA	NA	DISCUSS	A single stage GWAS, rather than a two stage GWAS approach using the largest series as the discovery series, with follow up of the most significant SNPs in the rest of the samples, was used to maximize power.
+0	NA	NA	NA	DISCUSS	There are several indications that the identified genome-wide significant loci are real signals and not artifacts from the analysis or type I errors.
+0	NA	NA	NA	DISCUSS	First, several SNPs in each locus show highly significant p-values (Figure 1), and at least one SNP in each locus was directly genotyped (Table 2), eliminating the possibility that the signal is the result of an imputation error.
+0	NA	NA	NA	DISCUSS	Second, each of the genome-wide significant loci is the result of a strong and consistent association in each dataset.
+0	NA	NA	NA	DISCUSS	This is especially important, because a priori, the absolute values for the CSF biomarker traits are significantly different between series, which could lead to the identification of false positives.
+0	NA	NA	NA	DISCUSS	The fact that the SNPs show similar effect sizes and the same direction of effect in each dataset indicates that we were able to correct for any potential series-bias and represents an internal replication of each of the associations.
+0	NA	NA	NA	DISCUSS	If we had performed a two-stage analysis we would have identified these same four loci.
+0	NA	NA	NA	DISCUSS	Finally, for three (chr.
+1	cognitive defects	apolipoprotein E	NA	DISCUSS	19, APOE and 3q28 and 6p21.1) of the four genome-wide significant loci we also found that the SNPs associated with CSF levels are also associated with risk for disease, tau pathology and/or cognitive decline.
+0	NA	tau	NA	DISCUSS	Importantly, all of these associations are in the direction predicted by the CSF tau and ptau associations.
+0	Alzheimer's disease	tau	NA	DISCUSS	The alleles associated with lower tau and ptau levels (which would be considered protective) are associated with lower risk for AD, lower tangle counts and slower memory decline
+1	NA	NA	NA	DISCUSS	As in the previously published GWAS for CSF tau/ptau levels, we found that the APOE locus was the strongest signal for CSF tau and ptau (, table 2).
+0	NA	tau	NA	DISCUSS	SNPs in this locus explain between 0.25 to 0.29% of the variability in CSF tau and ptau levels (table 3).
+1	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	APOE is a known genetic risk factor for AD and most functional studies have focused on Abeta-dependent mechanisms.
+1	NA	apolipoprotein E	NA	DISCUSS	To determine whether or not the association of APOE SNPs with CSF tau and ptau levels was dependent of Abeta pathology we performed analyses including CSF Abeta42 levels as a covariate.
+0	NA	NA	NA	DISCUSS	We also stratified our samples by case control status and by low or high CSF Abeta42 levels.
+1	NA	apolipoprotein E	NA	DISCUSS	In all of these analyses we found that the association between APOE SNPs and tau or ptau levels remained significant (table 4 and S2), suggesting that APOE may also affect tau pathology via an Abeta-independent mechanism.
+0	NA	NA	NA	DISCUSS	Several other studies support this hypothesis.
+0	NA	apolipoprotein E	NA	DISCUSS	APOE shows isoform specific differences in its interaction with tau in vitro and in transgenic mice neuron-specific differences in APOE isoform proteolysis are associated with increased tau phosphorylation and pathology.
+0	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	These data provide additional evidence that APOE could also influence risk for AD through a tau-dependent mechanism, independent of effects on Abeta.
+1	Alzheimer's disease	apolipoprotein E	rs769449	DISCUSS	When APOE genotype was included as a covariate, some SNPs in the APOE locus showed a moderate association with CSF tau/ptau levels (rs769449; P=9.07x10-03), indicating that most of the association is driven by APOE genotype, but suggesting that there may be additional variants in this region that modify CSF tau levels and risk for AD, independently of APOE genotype
+0	Alzheimer's disease	NA	NA	DISCUSS	SNPs within the 3q28 locus showed association with CSF tau/ptau levels and a range of AD phenotypes including AD risk in the case control dataset, tangle pathology and rate of cognitive decline providing four independent sources of evidence that variants in this region influence risk for AD through a tau-dependent mechanism.
+0	NA	NA	NA	DISCUSS	Bioinformatic analysis did not reveal any strong putative functional SNP.
+1	NA	GEMC1	NA	DISCUSS	However, the genes located in this region (GEMC1, OSTN and the non-coding RNA SNAR-I, IL6RAP, UTS2D and CCDC50) are highly expressed in brain and involved in neuronal synaptogenesis.
+0	NA	NA	rs9877502	DISCUSS	The most significant SNP in this locus and 33 SNPs in LD with rs9877502 are located in transcription factor binding sites and some of these SNPs are also part of a transcription factor matrix (additional information on https://hopecenter.wustl.edu/data/Cruchaga_Neuron_2013), suggesting that rs9877502 or a linked variant could influence the expression of one or more of the genes located in this region.
+0	NA	NA	NA	DISCUSS	Based on the results of these bioinformatic analyses we performed several gene-expression experiments.
+0	NA	IL1RAP	NA	DISCUSS	IL1RAP showed a nominally significant association with case-control status (P=0.04).
+0	NA	IL1RAP	rs9877502	DISCUSS	In addition rs9877502 showed a significant association with IL1RAP expression in frontal cortex (P=0.02, table S12)
+0	Alzheimer's disease	NA	NA	DISCUSS	The lack of association with risk for AD in the ADGC GWAS for the most significant SNP in the 6p21.1 locus may reflect insufficient power because the SNP has a low minor allele frequency (MAF=0.06).
+0	Alzheimer's disease	NA	R47H	DISCUSS	This hypothesis is supported by our recent identification of a rare functional coding variant (TREM2- R47H, rs75932628) in the same locus which substantially increases risk for AD, and is also associated with CSF ptau levels in the present study.
+1	NA	NA	rs6922617	DISCUSS	Interestingly, the genome-wide significant signal (tagged by rs6922617) is not in LD with rs75932628.
+1	NA	TREML2	NA	DISCUSS	Conditional analyses in this region identified another independent SNP (Figure 2, Table 5), located in an intron of TREML2 that is associated with CSF tau and ptau levels.
+0	Alzheimer's disease	tau	NA	DISCUSS	These data suggest that in this region there are at least three independent signals modifying CSF tau levels and risk for AD.
+0	Alzheimer's disease	TREM1	NA	DISCUSS	Six TREM-family genes (TREM1, TREM2, and TREML1 to TREML4) are located in this region suggesting that several variants in genes with similar function may affect risk for AD in an independent manner.
+0	NA	FOXP4	rs11966476	DISCUSS	The genome-wide significant SNP in this locus (rs11966476; P = 4.79 x 10-8), is located in a regulatory element and could modify the expression of FOXP4, TREML3, TREML4 or TREM1 (Figure 2).
+0	NA	NA	NA	DISCUSS	Unfortunately these genes were not included in the GSE15222 dataset and Taqman assays for these genes were out of the dynamic range so we were unsuccessful in analyzing expression levels in brain tissue.
+0	NA	NA	NA	DISCUSS	Despite this, data from the Allen Brain Atlas suggests that these genes are expressed in the brain.
+0	Alzheimer's disease	TREM2	NA	DISCUSS	TREM2, was expressed at higher levels in brain tissue from AD cases compared to controls (P = 1.35 x 10-5), as predicted in our previous studies
+0	Alzheimer's disease	NA	NA	DISCUSS	For the 9p24.2 locus, we did not observe significant association with risk for AD.
+0	Alzheimer's disease	NA	NA	DISCUSS	This could be because these SNPs affect another aspect of AD such as disease duration or age at onset.
+0	Alzheimer's disease	NA	NA	DISCUSS	Alternatively, these SNPs could affect CSF clearance or protein half-life without affecting risk for AD.
+0	NA	NA	NA	DISCUSS	If this were the case, we would expect that the same locus would be associated with levels of other CSF proteins.
+0	NA	NA	NA	DISCUSS	To test this we looked at the association of all of the SNPs identified in this study at the genome-wide significance level with other CSF biomarkers.
+1	NA	apolipoprotein E	NA	DISCUSS	We did not observe association between these SNPs and CSF levels of either APOE or Abeta, suggesting that these loci are specific for CSF tau levels and are not associated with CSF clearance or protein half life in general.
+0	Alzheimer's disease	NA	NA	DISCUSS	Finally, the lack of association of these loci with AD risk could indicate that the association with this locus is a type I error.
+1	NA	GLIS3	NA	DISCUSS	The most significant SNPs in this locus are located in intron 7 of GLIS3, a gene which is highly expressed in brain.
+1	Alzheimer's disease	GLIS3	rs514716	DISCUSS	However, these SNPs (rs514716) are not associated with GLIS3 expression in our relatively small series of brain samples (82 AD cases and 39 non-demented individuals).
+0	diabetes	NA	NA	DISCUSS	Both common and rare variants in this gene have been associated with risk for diabetes.
+0	Alzheimer's disease	NA	NA	DISCUSS	There are several studies linking AD with glucose metabolism and diabetes.
+0	diabetes	NA	NA	DISCUSS	In fact a meta-analysis combining data from eight studies, observed an association between diabetes mellitus and increased risk for AD (OR: 1.51 95%CI=1.31-1.73) (Bertram et al., Accessed 1/26/2013).
+0	diabetes	NA	NA	DISCUSS	In addition our pathway analysis independently identified a diabetes pathway (path:hsa04930, P-value for ptau= 6.60 x 10-03, and tau=8.00 x 10-04, Table S6), because of an enrichment of significant SNPs in MAPK9, IRS2 and MAPK1.
+0	NA	tau	NA	DISCUSS	Two independent analyses in this study therefore suggest that diabetes-related genes may influence CSF tau and ptau levels, and ultimately risk for AD.
+0	Alzheimer's disease	NA	NA	DISCUSS	These data all provide supportive evidence for common variants in this locus that influence AD pathogenesis
+0	NA	NA	NA	DISCUSS	Finally, because SNPs identified in this study were associated with CSF tau/ptau levels, we tested whether these SNPs are also associated with MAPT gene expression.
+0	NA	tau	NA	DISCUSS	None of the genome-wide significant SNPs showed association with MAPT expression in the brain and MAPT expression was not associated with case-control status in our brain series, the GSE15222, or any other published work on gene expression in brain.
+0	NA	NA	NA	DISCUSS	These results suggest that the SNPs identified in this study influence CSF tau/ptau protein levels post-transcriptional mechanism.
+0	NA	tau	NA	DISCUSS	Tau protein undergoes several posttranslational modifications including acetylation, glycosylation and phosphorylation.
+0	NA	NA	NA	DISCUSS	These changes are thought to play an important role in tau-related pathogenesis.
+0	NA	tau	NA	DISCUSS	It is possible that the genes identified in this study modify tau protein levels through posttranslational modification rather than gene expression
+0	Alzheimer's disease	NA	NA	DISCUSS	Together these results clearly demonstrate the utility of using these endophenotypes to identify novel AD risk variants and variants associated with the rate of decline in symptomatic AD cases.
+0	NA	NA	NA	DISCUSS	The use of these endophenotype allowed us to identify risk variants that were not identified by GWAS because either those variants did not pass the stringent multiple test correction applied in the GWAS or were not covered in the earlier studies, because of their relatively low MAF.
+0	NA	NA	NA	DISCUSS	A second advantage of this approach is that in contrast to GWAS hits from case control studies the endophenotype predicts a specific biological hypothesis for the pathogenic effect, which can be directly tested
+0	NA	tau	NA	DISCUSS	In summary, we have detected four genetic loci associated with CSF levels of tau, and ptau.
+1	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	One of them, in APOE, is already known to be associated with CSF tau and Abeta42 as well as risk for AD.
+0	NA	NA	NA	DISCUSS	The other three are novel loci.
+0	Alzheimer's disease	tau	rs9877502	DISCUSS	The top hit for CSF tau (rs9877502; 3q28) also exhibited association with risk for AD (P = 2.67 x 10-4), tangle pathology (P = 0.01) and global memory decline (P = 4.86 x 10-5).
+0	Alzheimer's disease	TREM2	NA	DISCUSS	SNPs in the 6q21.1 locus are in the TREM gene cluster close to TREM2, a gene in which a rare variant has recently been reported to substantially increase risk for AD.
+0	NA	NA	NA	DISCUSS	The other genome-wide significant locus identified in this study did not show association with risk for disease, tangle pathology or memory decline.
+0	Alzheimer's disease	NA	NA	DISCUSS	The lack of association with other AD phenotypes could be because these SNPs have a weaker impact on these phenotypes, or because they affect other aspects of AD, such as disease duration or age at onset.
+0	NA	NA	NA	DISCUSS	Alternatively, the sample size for the datasets used in the pathology and memory decline studies may not provide enough statistical power.
+0	NA	NA	NA	DISCUSS	Overall, these results illustrate how genetic studies of disease endophenotypes are an effective approach for identifying disease risk loci that is complementary to case-control association studies
+0	NA	tau	NA	METHODS	CSF tau, ptau and Abeta42 were measured in 1,269 individuals.
+0	NA	NA	NA	METHODS	501 samples were from research participants enrolled in longitudinal studies at the Knight-ADRC, 394 in ADNI, 323 in studies at the University of Washington (UW) and 51 in studies in University of Pennsylvania (UPenn).
+0	NA	tau	NA	METHODS	CSF collection and Abeta42, tau and ptau181 measurements were performed as described previously.
+0	NA	NA	NA	METHODS	Table 1 shows the demographic data and description of the CSF biomarkers in each dataset.
+0	NA	NA	NA	METHODS	The samples were genotyped using Illumina chips.
+0	Alzheimer's disease	DAT	NA	METHODS	Cases received a diagnosis of dementia of the Alzheimer's type (DAT), using criteria equivalent to the National Institute of Neurological and Communication Disorders and Stroke-Alzheimer's Disease and Related Disorders Association for probable AD.
+0	NA	NA	NA	METHODS	Controls received the same assessment as the cases but were non-demented.
+0	NA	NA	NA	METHODS	All individuals were of European descent and written consent was obtained from all participants
+0	NA	NA	NA	METHODS	While there are differences in the absolute levels of the biomarker measurements between the studies that likely reflect differences in the methods used for quantification (regular ELISA vs Luminex), ascertainment, and/or in handling of the CSF after collection, CSF ptau levels in the Knight-ADRC, ADNI, UW and UPenn samples show similar characteristics (Table S1).
+0	NA	tau	NA	METHODS	CSF ptau and tau show a 10 fold difference between individuals in each dataset and have similar covariates in each dataset.
+0	NA	tau	NA	METHODS	CSF tau and ptau
+0	dementia	NA	NA	METHODS	The Religious Orders Study (ROS) and the Rush Memory and Aging Project (MAP) recruit participants without known dementia who agree to annual clinical evaluations and sign an Anatomic Gift Act donating their brains at death.
+0	NA	NA	NA	METHODS	The full cohort with genotype data included 1,708 subjects (817 ROS and 891 MAP).
+0	NA	NA	NA	METHODS	The mean age at enrollment was 78.5 years and 30.9% were male.
+0	Alzheimer's disease	NA	NA	METHODS	At the last evaluation, 24.9% met clinical diagnostic criteria for AD and 21.8% had mild cognitive impairment.
+0	NA	NA	NA	METHODS	The summary measure of global cognitive performance was based on annual assessments of 17 neuropsychiatric tests.
+0	death	NA	NA	METHODS	A nested autopsy cohort consisted of 651 deceased subjects (376 ROS and 275 MAP); mean age at death was 81.5 years and 37.6% were male.
+0	death	NA	NA	METHODS	Proximate to death, 40.9% of subjects included in the autopsy cohort met clinical diagnostic criteria for AD.
+0	NA	CA1	NA	METHODS	Bielschowsky silver stain was used to visualize neurofibrillary tangles in tissue sections from the midfrontal, middle temporal, inferior parietal, and entorhinal cortices, and the hippocampal CA1 sector.
+0	NA	NA	NA	METHODS	A quantitative composite score for neurofibrillary tangle pathologic burden was created by dividing the raw counts in each region by the standard deviation of the region specific counts, and then averaging the scaled counts over the 5 brain regions to create a single standardized summary measure.
+0	NA	NA	NA	METHODS	Additional details of the ROS and MAP cohorts as well as the cognitive and pathologic phenotypes are described in prior publications
+0	NA	NA	NA	METHODS	The Knight-ADRC and UW samples were genotyped with the Illumina 610 or the Omniexpress chip.
+0	NA	NA	NA	METHODS	The ADNI samples were genotyped with the Illumina 610 chip, and the UPenn sample with the Omniexpress.
+0	NA	NA	NA	METHODS	Prior to association analysis, all samples and genotypes underwent stringent quality control (QC).
+0	NA	NA	NA	METHODS	Genotype data were cleaned by applying a minimum call rate for SNPs and individuals (98%) and minimum minor allele frequencies (0.02).
+0	NA	NA	NA	METHODS	SNPs not in Hardy-Weinberg equilibrium (P< 1x10-6) were excluded.
+0	NA	NA	NA	METHODS	The QC cleaning steps were applied for each genotyping array separately.
+0	NA	NA	NA	METHODS	We tested for unanticipated duplicates and cryptic relatedness among samples using pairwise genome-wide estimates of proportion identity-by-descent.
+0	NA	NA	NA	METHODS	When a pair of identical samples or a pair of samples with cryptic relatedness was identified, the sample from the Knight-ADRC or samples with a higher number of SNPs passing QC were prioritized.
+0	NA	NA	NA	METHODS	Eigenstrat was used to calculate principal component factors for each sample and confirm the ethnicity of the samples.
+0	NA	NA	rs429358	METHODS	Rs7412 and rs429358 which define the APOE epsilon2/epsilon3/epsilon4 isoforms were genotyped using Taqman genotyping technology, as previously described
+0	NA	NA	NA	METHODS	DNA from ROS and MAP subjects was extracted from whole blood, lymphocytes or frozen postmortem brain tissue and genotyped on the Affymetrix Genechip 6.0 platform, as previously described.
+0	NA	NA	NA	METHODS	Following standard QC procedures, imputation was performed using MACH software (version 1.0.16a) and HapMap release 22 CEU (build 36) as a reference
+0	NA	NA	NA	METHODS	The 1000 genome data (June 2011 release) and the Beagle software were used to impute up to 6 million SNPs.
+0	NA	NA	NA	METHODS	SNPs with a Beagle R2 of 0.3 or lower, a minor allele frequency (MAF) lower than 0.02, out of Hardy-Weinberg equilibrium (p< 1x10-6), a call rate lower than 95% or a Gprobs score lower than 0.90 were removed.
+0	NA	NA	NA	METHODS	A total of 5,815,690 SNPs passed the QC process.
+0	NA	NA	NA	METHODS	To confirm the accuracy of our imputation we genotyped 23 SNPs, included the most significant SNPs, using Sequenom.
+0	NA	NA	rs1024718	METHODS	All of the SNPs, showed a concordance rate between imputed and directly genotyped calls greater than 97.9% except rs1024718 which was 93.33% (Table S7)
+0	NA	NA	NA	METHODS	Association of CSF ptau with the genetic variants was analyzed as previously reported.
+0	NA	NA	NA	METHODS	Our analysis included a total of 5,815,690 imputed and genotyped variants.
+0	NA	tau	NA	METHODS	CSF tau and ptau values were log transformed to approximate a normal distribution.
+0	NA	NA	NA	METHODS	Because the CSF biomarker levels were measured using different platforms (Innotest plate ELISA vs AlzBia3 bead-based ELISA, respectively) we were not able to combine the raw data.
+0	NA	NA	NA	METHODS	For the combined analyses we standardized the mean of the log transformed values from each dataset to zero.
+0	NA	NA	NA	METHODS	No significant differences in the transformed and standardized CSF values for different series were found
+0	NA	NA	NA	METHODS	We used Plink to analyze the association of SNPs with CSF biomarker levels.
+0	NA	NA	NA	METHODS	Age, gender, site, and the three principal component factors for population structure were included as covariates.
+0	NA	tau	NA	METHODS	The calculated genomic inflation factor was lambda=1.003, and 1.009, for tau, and ptau respectively (Supplementary figure 1).
+1	dementia	apolipoprotein E	NA	METHODS	In order to determine whether the association of APOE with CSF tau levels was driven by case-control status we included clinical dementia rating (CDR) or CSF Abeta42 as a covariate in the model or stratified the data by case control status.
+1	NA	apolipoprotein E	NA	METHODS	We also performed analyses including APOE genotype and CDR as covariates
+0	Alzheimer's disease	tau	NA	METHODS	P-values for the most significant SNPs for the association with CSF tau and ptau were included here from the previously published GWAS for AD, consisting of 11,840 controls and 10,931 cases
+0	NA	NA	NA	METHODS	We used the algorithm GCTA (Genome-wide Complex Trait Analysis) to estimate the proportion of phenotypic variance explained by genome-wide and imputed SNPs
+0	cognitive defects	NA	NA	METHODS	Analyses of SNP effects on global cognitive decline in ROS and MAP were performed as in prior publications.
+0	NA	NA	NA	METHODS	Briefly, we first fit linear mixed effects models using the global cognitive summary measure in order to characterize individual paths of change, adjusted for age, sex, years of education, and their interactions with time.
+0	NA	NA	NA	METHODS	At least two longitudinal measures of cognition were required for inclusion in these analyses, for which data on 1,593 subjects was available.
+0	cognitive defects	NA	NA	METHODS	We then used these person-specific, residual cognitive decline slopes as the outcome variable in our linear regression models, with each SNP of interest coded additively relative to the minor allele, and further adjusted for study membership (ROS vs. MAP) and the first 3 principal components from population structure analysis.
+0	death	NA	NA	METHODS	For analyses of neurofibrillary tangle burden, linear regression was used to relate SNPs to the pathologic summary measure, adjusting for age at death, study membership, and 3 principal components.
+0	NA	NA	NA	METHODS	Because the data were skewed, square-root of the scaled neurofibrillary tangle burden summary score was used in analyses
+0	NA	NA	NA	METHODS	We used Pupasuite, the SNP Function Portal (http://brainarray.mbni.med.umich.edu/Brainarray/Database/SearchSNP/), the SNP Function annotation portal (http://brainarray.mbni.med.umich.edu/Brainarray/Database/SearchSNP/snpfunc.aspx) and the SNP and CNV Annotation Database (http://www.scandb.org) to perform the SNP annotation and to identify the putative functional SNPs
+0	NA	NA	NA	METHODS	We applied the method ALIGATOR to identify the Gene Ontology (GO) terms and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways enriched by SNP with significant association.
+0	NA	NA	NA	METHODS	This method performs an overrepresentation analysis, evaluating the significance for each category of genes while correcting for gene size, number of SNPs genotyped per gene, overlapping genes and linkage disequilibrium between SNPs.
+0	NA	NA	NA	METHODS	It selects the set of genes, which are tagged by SNPs that are more significant than a specific threshold (p-values<1.0E-04).
+0	NA	NA	NA	METHODS	The pruning process that eliminates SNPs in linkage disequilibrium is performed by considering only the most significant SNP among all of the SNPs that have r2>0.2 and are within 1Mb.
+1	NA	apolipoprotein E	NA	METHODS	Moreover, we removed all of the genes that are in the APOE region (1Mb up/downstream).
+0	NA	NA	NA	METHODS	The significance of each term and pathway is calculated by comparing the number of significant genes to the number of genes expected by chance.
+0	NA	NA	NA	METHODS	For this purpose, the algorithm generates 5,000 sets of genes, by randomly selecting SNPs until a list of n tagged genes is formed.
+0	NA	NA	NA	METHODS	The excess of significantly overrepresented sets of genes is calculated by applying a bootstrap method (1000 permutations)
+0	Alzheimer's disease	NA	NA	METHODS	Analyses of association between SNPs and gene expression was carried out using cDNA from the frontal lobes of 82 AD cases and 39 non-demented individuals obtained through the Washington University Knight-Alzheimer Disease Research Center (WU-ADRC) Neuropathology Core.
+0	NA	NA	NA	METHODS	Total RNA was extracted from the frontal lobe using the RNeasy mini kit (Qiagen) following the manufacturer's protocol.
+0	NA	NA	NA	METHODS	cDNAs were prepared from the total RNA, using the High-Capacity cDNA Archive kit (ABI).
+0	NA	NA	NA	METHODS	Gene expression was analyzed by real-time PCR, using an ABI-7500 real-time PCR system.
+1	NA	tau	NA	METHODS	Real-time PCR assays were used to quantify MAPT, GLIS3, GEMC1, IL1RAP, OSTN, and FOXP4 cDNA levels using Taqman assays.
+0	NA	MAP2	NA	METHODS	GADPH, MAP2, AIF and GFAP were used as reference genes.
+0	NA	NA	NA	METHODS	Each real-time PCR run included within-plate duplicates.
+0	NA	NA	NA	METHODS	Real-time data were analyzed using the comparative Ct method.
+0	NA	NA	NA	METHODS	The Ct values of each sample were normalized with the Ct value for the housekeeping genes.
+0	NA	tau	NA	METHODS	We also used the GEO dataset GSE15222 to analyze the association of MAPT, RFX3, SLC1A1 and PPAPDC2 genes and case-control status.
+1	NA	GLIS3	NA	METHODS	None of the other genes (GLIS3, GEMC1, IL1RAP, OSTN, FOXP4) were found in this dataset.
+0	Alzheimer's disease	NA	NA	METHODS	This dataset includes genotype and expression data from 486 late onset Alzheimer's Disease cases and 279 neuropathologically clean individuals.
+0	NA	NA	NA	METHODS	Association of mRNA levels with case control status or the different SNPs was carried out using ANCOVA.
+0	death	NA	NA	METHODS	Stepwise regression analysis was used to identify the potential covariates (postmortem interval, age at death, site, and gender) and significant covariates were included in the analysis.
+0	NA	NA	NA	METHODS	SNPs were tested using an additive model with minor allele homozygotes coded as 0, heterozygotes coded as 1, and major allele homozygotes coded as 2
+0	NA	NA	NA	METHODS	Data used in the preparation of this article were obtained from the ADNI database (www.loni.ucla.edu\ADNI).
+0	NA	NA	NA	METHODS	The ADNI was launched in 2003 by the National Institute on Aging, the National Institute of Biomedical Imaging and Bioengineering, the Food and Drug Administration, private pharmaceutical companies and non-profit organizations, as a $60 million, 5-year public-private partnership.
+0	NA	NA	NA	METHODS	The Principal Investigator of this initiative is Michael W. Weiner, M.D.
+0	NA	NA	NA	METHODS	ADNI is the result of efforts of many co-investigators from a broad range of academic institutions and private corporations, and subjects have been recruited from over 50 sites across the U.S. and Canada.
+0	Alzheimer's disease	NA	NA	METHODS	"The initial goal of ADNI was to recruit 800 adults, ages 55 to 90, to participate in the research -approximately 200 cognitively normal older individuals to be followed for 3 years, 400 people with MCI to be followed for 3 years, and 200 people with early AD to be followed for 2 years."""
+0	NA	NA	NA	METHODS	For up-to-date information see www.adni-info.org
+0	NA	tau	NA	FIG	The results for the association of CSF tau (a), and ptau (b) levels with 5,815,690 SNPs are shown.
+0	NA	NA	NA	FIG	Within each chromosome, shown on the x axis, the results are plotted left to right from the p-terminal end.
+0	NA	NA	NA	FIG	Horizontal dashed lines indicate P value thresholds of 1 x 10-5 and 5 x 10-8 (genome-wide significance)
+0	NA	NA	NA	FIG	Plots are centered on the most significant SNP at a given locus along with the combined-analysis results for SNPs in the region surrounding it (typically +- 400 kb).
+0	NA	NA	NA	FIG	Symbols are colored according to the LD of the SNP with the top SNP.
+0	NA	NA	NA	FIG	The light blue line represents the estimated recombination rate.
+0	NA	NA	NA	FIG	Gene annotations are shown as dark green line
+1	NA	apolipoprotein E	NA	TABLE	Most but not all of the CSF ptau association with APOE is driven by Abeta42 level
+0	NA	TREM2	NA	TABLE	Association of the TREM2 gene cluster with CSF tau and ptau level
+0	Alzheimer's disease	tau	NA	TABLE	Association of the top loci for CSF tau and ptau with risk for AD, tangle counts and cognitive declin

@@ -1,0 +1,143 @@
+0	breast cancer	NA	NA	ABSTRACT	Only two genome-wide association studies (GWAS) have been conducted to date to identify potential markers for total mortality after diagnosis of breast cancer.
+0	breast cancer	TNM	NA	ABSTRACT	Here we report the identification of two SNPs associated with total mortality from a two-stage GWAS conducted among 6,110 Shanghai-resident Chinese women with TNM stage I-IV breast cancer.
+0	NA	NA	NA	ABSTRACT	The discovery stage included 1,950 patients and evaluated 613,031 common SNPs.
+0	breast cancer	NA	NA	ABSTRACT	The top 49 associations were evaluated in an independent replication stage of 4,160 Shanghai breast cancer patients.
+0	NA	NA	rs3784099	ABSTRACT	A consistent and highly significant association with total mortality was documented for SNPs rs3784099 and rs9934948.
+1	NA	RAD51L1	rs3784099	ABSTRACT	SNP rs3784099, located in the RAD51L1 gene, was associated with total morality in both the discovery stage (P=1.44x10-8) and replication stage (P=0.06; P-combined=1.17x10-7).
+0	NA	NA	NA	ABSTRACT	Adjusted hazard ratios (HR) for total mortality were 1.41 (95%CI=1.18-1.68) for the AG genotype and 2.64 (95%CI=1.74-4.03) for the AA genotype, when compared with the GG genotype.
+0	NA	NA	rs9934948	ABSTRACT	The variant C allele of rs9934948, located on chromosome 16, was associated with a similarly elevated risk of total mortality (P-combined: 5.75x10-6).
+0	breast cancer	NA	NA	ABSTRACT	We also observed this association among 1,145 breast cancer patients of European-ancestry from the Nurses' Health Study (NHS; P=0.006); the association was highly significant in a combined analysis of NHS and Chinese data (P=1.39x10-7).
+0	NA	NA	NA	ABSTRACT	Similar associations were observed for these two SNPs with breast cancer-specific mortality.
+1	breast cancer	RAD51L1	NA	ABSTRACT	This study provides strong evidence suggesting that the RAD51L1 gene and a chromosome 16 locus influence breast cancer prognosis
+0	breast cancer	NA	NA	INTRO	Breast cancer is one of the most common malignancies among women in many countries, including China.
+0	breast cancer	NA	NA	INTRO	Despite generally good prognosis for breast cancer patients, wide variation exists in survival, even after accounting for clinical prognostic factors, suggesting that genetic susceptibility may influence breast cancer outcomes.
+0	breast cancer	NA	NA	INTRO	Over the past 10 years, candidate-gene studies, including our own, have found several genetic variants to be related to breast cancer prognosis.
+0	breast cancer	BRCA1	NA	INTRO	These genetic variants are found primarily in breast cancer susceptibility genes (e.g., BRCA1, BRCA2, TP53) or genes involved in drug metabolism (e.g., CYP2D6, NQO1) and tumor microenvironment regulation (e.g., TGFbeta1, VEGF, CCND1, PAI1, MMP7).
+0	NA	NA	NA	INTRO	However, very few of these associations have been confirmed.
+0	cancers	NA	NA	INTRO	Given that almost all previous studies used the candidate-gene approach, in which only a limited number of genetic variants are investigated and the choice of variant is based on our limited knowledge of the underlying biology of cancer, more comprehensive genomic investigations of breast cancer prognosis are urgently needed.
+0	breast cancer	NA	NA	INTRO	Recent genome-wide association studies (GWAS) have identified genetic variants related to breast cancer risk that have been robustly replicated across populations.
+0	cancers	NA	NA	INTRO	Many GWAS-identified genetic markers are located in regions that had never been suspected of being related to cancer susceptibility.
+0	breast cancer	NA	NA	INTRO	To our knowledge, only two studies have evaluated genetic factors in relation to breast cancer survival using the GWAS approach and both were conducted among women of European ancestry.
+0	cancers	OCA2	rs4778137	INTRO	The first study reported a single nucleotide polymorphism (SNP) in the OCA2 gene (rs4778137) associated with total mortality among women of European ancestry with estrogen receptor (ER)-negative tumors at P=5x10-4.
+0	breast cancer	NA	NA	INTRO	However, the second study, conducted as part of the Cancer Genetic Markers of Susceptibility (CGEMS) study, found no SNPs with a statistically significant association with breast cancer survival
+0	breast cancer	NA	NA	INTRO	Over the past 15 years, we have conducted multiple, large-scale, population-based studies of breast cancer among Chinese women in Shanghai.
+0	breast cancer	NA	NA	INTRO	Using the data collected from these studies, we evaluated lifestyle determinants of breast cancer survival.
+0	breast cancer	NA	NA	INTRO	In addition to the candidate-gene studies reported previously, we recently conducted a two-stage GWAS among 6,110 patients (719 deaths) with stage I to IV breast cancer recruited in the Shanghai studies to identify novel genetic variants associated with breast cancer survival.
+0	breast cancer	NA	NA	INTRO	To evaluate the generalizability of our findings to other ethnic groups, we investigated these GWAS-identified SNPs in CGEMS data from 1,145 breast cancer patients (229 deaths) of European ancestry who participated in the Nurses' Health Study (NHS)
+0	breast cancer	NA	NA	METHODS	Samples included in this GWAS came from participants of the Shanghai Breast Cancer Study (SBCS) and Shanghai Breast Cancer Survival Study (SBCSS).
+0	NA	NA	NA	METHODS	Details on the methodology of the parent studies have been described previously.
+0	breast cancer	NA	NA	METHODS	Briefly, the SBCS is a population-based, case-control study that recruited incident breast cancer patients and controls in urban Shanghai between August 1996 and March 1998 and again between April 2002 and February 2005.
+0	NA	NA	NA	METHODS	A total of 3,448 patients were recruited (participation rate: 86.7%); 90.6% of participants provided a blood or exfoliated buccal cell sample.
+0	breast cancer	NA	NA	METHODS	The SBCSS also was conducted in urban Shanghai and recruited 5,042 breast cancer patients between March 2002 and April 2006 (participation rate: 80.1%); 98% of patients provided an exfoliated buccal cell sample.
+0	NA	NA	NA	METHODS	All participants of both studies provided written informed consent before participating in the study and the Institutional Review Boards of all institutes involved approved the study protocols.
+0	breast cancer	NA	NA	METHODS	Medical charts for breast cancer patients were reviewed to verify cancer diagnosis and obtain treatment information.
+0	breast cancer	NA	NA	METHODS	Cancer patients have been followed for survival status and breast cancer recurrence through a combination of record linkages with the Shanghai Vital Statistics Registry and in-person surveys.
+0	NA	NA	NA	METHODS	Due to a time overlap during recruitment, 1,469 women participated in both the SBCS and SBCSS.
+0	NA	NA	NA	METHODS	After taking these overlaps into consideration and excluding patients with stage 0 disease (n=190), those for whom we had no information on survival status (n=185), and genotyping failures due to limited DNA (n=17), a total of 6,110 participants remained in the present study.
+0	NA	NA	NA	METHODS	The discovery stage of this study included 1,950 participants.
+0	NA	NA	NA	METHODS	Genomic DNA samples were genotyped primarily using the Affymetrix Genome-Wide Human SNP Array 6.0.
+0	NA	NA	NA	METHODS	From the discovery stage, two batches of SNPs were selected for replication in an independent set of samples from the Shanghai studies.
+0	breast cancer	NA	NA	METHODS	Criteria used to select SNPs for validation were: 1) P<=0.001 under the additive model for either the total mortality (overall survival) or breast cancer recurrence (disease-free survival) analysis; for SNPs that are on or close to metastasis genes or genes previous indicated in breast cancer prognosis, the P-value was relaxed to <=0.01; 2) Minor allele frequency >10%; 3) Exhibited high quality genotype cluster plots; 4) In regions where multiple SNPs in linkage disequilibrium (LD) (r2>=0.6) met the above criteria, the SNP with the lowest P value was chosen.
+0	NA	NA	NA	METHODS	The first batch (the top 30 SNPs not in LD) was selected when GWAS data were available for 1,436 participants.
+0	NA	NA	NA	METHODS	Twenty-nine of these SNPs were successfully genotyped in an independent set of 3,881 Shanghai study participants.
+0	breast cancer	NA	NA	METHODS	The second batch (the top 20 SNPs not in LD and not overlapping with those included in the first batch) was selected after an additional 514 breast cancer patients (for a total of 1,950 participants included in the discovery stage) were scanned.
+0	NA	NA	NA	METHODS	These 20 SNPs were genotyped in an independent set of 4,160 Shanghai study participants.
+0	NA	NA	NA	METHODS	Among women who participated in the two batches of validation studies, 3,522 overlapped
+0	breast cancer	NA	NA	METHODS	To explore the generalizability of the study findings to other ethnic groups, we selected eight SNPs with possible associations with breast cancer survival in the Shanghai studies and evaluated their associations with breast cancer survival in European-ancestry Americans using data from the CGEMS project.
+0	NA	NA	NA	METHODS	These SNPs were chosen based on the significance level of the association found in the discovery stage and/or the consistency of the associations observed in both discovery and replication stages.
+0	breast cancer	NA	NA	METHODS	The CGEMS project included 1,145 post-menopausal breast cancer cases from the NHS whose DNA samples were scanned using the Illumina HumanHap500 array.
+0	NA	NA	NA	METHODS	The NHS is a prospective cohort of 121,700 registered nurses who resided in 11 US states and enrolled in the study in 1976.
+0	NA	NA	NA	METHODS	Follow-up was conducted by personal mailings and searches of the National Death Index
+0	NA	NA	NA	METHODS	We included three positive quality control (QC) samples purchased from Coriell Cell Repositories (Coriell Institute, Camden, NJ, USA) and a negative QC sample (water) in each of the 96-well test plates.
+0	NA	NA	NA	METHODS	The average concordance among the QC samples was 99.85% (median: 100%).
+0	NA	NA	NA	METHODS	The gender of all scanned samples was confirmed.
+0	NA	NA	NA	METHODS	Genetically identical, unexpected duplicated samples were excluded, as were close relatives with a pairwise proportion of IBD estimate >0.25.
+0	MDS	NA	NA	METHODS	Multidimensional scaling (MDS) analyses of pooled data including 210 unrelated HapMap subjects, and our study data showed that all our study participants clustered closely with HapMap Asians.
+0	NA	NA	NA	METHODS	All samples with a call rate <95% were excluded.
+0	NA	NA	NA	METHODS	In addition, each SNP met following inclusion criteria: 1) Minor allele frequency (MAF) >=0.05; 2) Call rate >=95%; 3) P for Hardy-Weinberg equilibrium (HWE) >=0.000001; 4) concordance >=95% among duplicated QC samples.
+0	NA	NA	NA	METHODS	After exclusions, 607,728 SNPs from batch 1 and 613,031 SNPs from batch 2 were available for the statistical analyses used to select promising SNPs for replication.
+0	NA	NA	NA	METHODS	The genotyping and QC protocols for the CGEMS project are described in detail elsewhere
+0	NA	NA	NA	METHODS	Genotyping for the replication stage was performed on the iPLEX  Sequenom MassARRAY  platform.
+0	NA	NA	NA	METHODS	Polymerase chain reaction (PCR) and extension primers were designed by using the MassARRAY Assay Design 3.0 software (Sequenom, Inc).
+0	NA	NA	NA	METHODS	PCR and extension reactions were performed according to the manufacturer's instructions, and extension product sizes were determined by mass spectrometry using the Sequenom iPLEX system.
+0	NA	NA	NA	METHODS	In each 96-well plate, two negative controls (water), two blinded duplicates, and two samples from the HapMap project were included.
+0	NA	NA	NA	METHODS	The concordance was 100% for all SNPs for both the blinded duplicates and the HapMap samples.
+0	NA	NA	NA	METHODS	We also included 65 participants who were genotyped by using the Affymetrix 6.0 array on the Sequenom genotyping platform and found 100% consistency for data generated on these two platforms.
+0	NA	NA	NA	METHODS	All SNPs showed high call rates (>95%)
+0	NA	NA	NA	METHODS	A set of 4,305 SNPs (not in LD) with a MAF>0.35 and at least 100kb apart was selected to evaluate the population structure.
+0	NA	NA	NA	METHODS	The inflation factor lambda was estimated to be 1.045, suggesting that population substructure, if present, should not have any appreciable effect on the results
+0	breast cancer	NA	NA	METHODS	Outcomes of the study were total mortality (for the overall survival analysis) and breast cancer recurrence (for the disease-free analysis).
+0	cancers	NA	NA	METHODS	For the overall survival analysis, follow-up time was calculated as the number of days between the date of cancer diagnosis and the date of death or date of last record linkage for survivors.
+0	cancers	NA	NA	METHODS	For the disease-free survival analysis, follow-up time was calculated as the number of days between the date of cancer diagnosis and disease recurrence or date of last survey for women who did not have disease recurrence or die of breast cancer.
+0	breast cancer	TNM	NA	METHODS	For 62 women who died of breast cancer but were missing information on disease recurrence, we imputed the date for recurrence based on the TNM stage-specific recurrence rate estimated for the current study.
+0	breast cancer	NA	NA	METHODS	The delayed-entry Cox proportional hazards regression models were used to derive hazard ratios (HR) for total mortality and breast cancer recurrence in association with each SNP with adjustment for age.
+0	breast cancer	TNM	NA	METHODS	Additional adjustments for known clinical predictors for breast cancer prognosis, including breast cancer stage (TNM), estrogen/progesterone receptor (ER/PR) status, ever use of chemotherapy, radiotherapy, and tamoxifen did not materially change the results.
+0	NA	NA	NA	METHODS	We also examined the influence of population substructure by adjusting for the first 5 principal components derived based on 196,471 SNPs with a pairwise LD of r2<0.2 that were selected using PLINK.
+0	NA	NA	NA	METHODS	We observed no appreciable changes in study results (data not shown).
+0	NA	NA	NA	METHODS	Thus, the results presented in this article were not adjusted for population substructure
+0	NA	NA	NA	RESULTS	Clinical characteristics of study participants are presented in Table 1.
+0	NA	NA	NA	RESULTS	Patients included in the discovery stage were younger, more like to have late-stage disease, lower 5-year survival rates, and to have received chemotherapy, radiotherapy, or tamoxifen than those included in the replication stage.
+0	breast cancer	NA	NA	RESULTS	These differences reflect differences in study enrollment criteria (the SBCS, contributed the majority of cases to the discovery stage and disproportionally recruited younger women with breast cancer) and, possibly, temporal changes in breast cancer treatment protocols and outcomes
+0	NA	NA	NA	RESULTS	Of the top 50 SNPs chosen for replication, 49 SNPs were successfully genotyped.
+0	breast cancer	NA	NA	RESULTS	Associations for all SNPs with breast cancer outcomes and P-values for HWE tests are presented in Supplementary Table S1.
+0	NA	NA	rs3784099	RESULTS	A nominally statistically significant (P<=0.05) or marginally significant (P<0.06) association with total mortality was observed for four SNPs: rs3784099, rs9934948, rs729438, and rs1769441, and the directions of the associations were consistent in both the discovery and replication stages (Supplementary Table 1).
+0	NA	NA	rs3784099	RESULTS	For two SNPs, rs3784099 on chromosome 14 and rs9934948 on chromosome 16, the P-value for the combined analysis reached 1.17x10-7 and 5.75x10-6, respectively (Table 2).
+0	NA	NA	rs3784099	RESULTS	SNP rs3784099 was associated with total mortality with a per-allele HR of 1.79 (95% confidence interval [CI]=1.46-2.19, Ptrend=1.44x10-8) in the discovery stage, 1.22 (95%CI=0.99-1.52, Ptrend=0.06) in the replication stage, and 1.49 (95%CI=1.28-1.72, Ptrend=1.17x10-7) for all samples combined.
+0	NA	NA	rs3784099	RESULTS	In the recurrence analyses, the Ptrend for rs3784099 was of marginal statistical significance in the replication stage (P=0.07), and the direction of the association was consistent with the discovery stage.
+0	NA	NA	rs3784099	RESULTS	In the combined analysis, the per-allele HR for recurrence for rs3784099 was 1.43 (95%CI=1.25-1.64, Ptrend=2.83x10-7).
+0	NA	NA	rs9934948	RESULTS	SNP rs9934948 showed a statistically significant association with total mortality (P=0.03) but was not significantly associated with recurrence (P= 0.32) in the replication stage.
+0	NA	NA	NA	RESULTS	In combined analyses, per-allele HRs were 1.29 (95%CI=1.16-1.44, Ptrend=5.75x10-6) for total mortality and 1.19 (95%CI=1.08-1.31, Ptrend=7.32x10-4) for recurrence.
+0	NA	NA	NA	RESULTS	Regional association plots for these 2 SNPs are presented in Figures 1 and 2.
+0	NA	ER	NA	RESULTS	The associations of these two SNPs with total mortality and recurrence did not vary by ER or menopausal status (Table 3).
+0	breast cancer	NA	NA	RESULTS	The vast majority of deaths among study participants were due to breast cancer (88%).
+0	NA	NA	rs3784099	RESULTS	In analyses of breast cancer-specific mortality, associations similar to those for total mortality were observed (HR=1.45, 95%CI=1.24-1.70, Ptrend=3.8x10-6 for rs3784099 and HR= 1.27, 95% CI=1.13-1.43, Ptrend=6.0x10-5 for rs9934948), although the P-values were increased due to decreased number of events (data not shown in tables)
+0	NA	NA	rs9934948	RESULTS	SNP rs9934948 was associated with total mortality in European-ancestry Americans and the direction of association was the same as that observed in the Shanghai studies (Supplementary Table S2).
+0	NA	NA	NA	RESULTS	The age-adjusted HRs were 3.27 (95%CI=0.75-14.19) for the CT genotype and 4.70 (95%CI=1.11-19.97) for the CC genotype compared with the TT genotype (Ptrend=0.006).
+0	NA	NA	NA	RESULTS	Meta-analyses combining Shanghai samples and CGEMS data showed a combined P-value of 1.39x10-7.
+0	NA	NA	NA	RESULTS	Data on recurrence were not available for CGEMS participants
+0	breast cancer	NA	rs3784099	DISCUSS	In this two-stage GWAS of breast cancer survival conducted among Chinese women, we found strong evidence for an association of SNP rs3784099 with total mortality and with recurrence and breast cancer-specific mortality.
+1	cancers	RAD51L1	NA	DISCUSS	This SNP is located on chromosome 14 in intron 7 of the RAD51L1 gene, an established cancer susceptibility gene.
+1	NA	RAD51L1	NA	DISCUSS	The RAD51L1 gene encodes a protein that is part of the RAD51 family, which is essential for DNA repair by homologous recombination.
+0	NA	NA	NA	DISCUSS	Over-expression of this gene has been shown to cause cell cycle delay and apoptosis.
+1	NA	RAD51L1	NA	DISCUSS	The RAD51L1 gene is not ubiquitously expressed, but it is significantly expressed in breast cancer-derived MCF7 cells.
+0	breast cancer	NA	rs999737	DISCUSS	A recent GWAS identified a SNP in this gene, rs999737, to be associated with breast cancer risk.
+0	breast cancer	NA	rs999737	DISCUSS	SNP rs999737, however, was not related to breast cancer survival in our study (data not presented), nor is it in LD with SNP rs3784099 (r2=0 in Asians and r2=0.032 in Europeans based on HapMap data)
+0	cancers	SNCG	rs3784099	DISCUSS	SNP rs3784099 is also associated with differential expression of two other genes involved in cancer, SNCG and CTF1, according to the SCAN database, which uses HapMap human lymphoblastoid cell lines to identify expression quantitative trait loci (eQTL).
+0	NA	NA	rs3784099	DISCUSS	Both genes yielded a P value of 0.0001 in cell lines of European ancestry (CEU), though the specific allele of rs3784099 responsible for increased/decreased expression is not apparent in this resource.
+0	NA	SNCG	NA	DISCUSS	The SNCG gene encodes synuclein gamma, also known as breast cancer-specific protein 1.
+0	cancers	SNCG	NA	DISCUSS	Up-regulation of the SNCG gene has been shown to enhance cancer cell motility and contributes to cancer cell survival.
+0	metastases	SNCG	NA	DISCUSS	There are indications that the SNCG gene may be involved in late-stage breast and ovarian cancer metastasis by enhancing cell motility through activation of RHO-family small GTPases and extracellular signal-regulated kinases (ERK).
+0	breast cancer	SNCG	NA	DISCUSS	Over-expression of the SNCG gene is a marker for breast cancer progression and a potential target for breast cancer treatment.
+0	NA	CTF1	NA	DISCUSS	The CTF1 gene is a transcription factor that can delimit chromatin boundaries and thereby block the propagation of silent chromatin.
+0	breast cancer	NA	rs3784099	DISCUSS	These data provide additional support for the association between rs3784099 and breast cancer outcomes observed in our study
+0	NA	ZFHX3	rs9934948	DISCUSS	SNP rs9934948 resides on chromosome 16, in the middle of a gene desert with its nearest neighboring genes, ZFHX3 and PSMD7, 346kb and 891kb away, respectively.
+0	NA	ZFHX3	NA	DISCUSS	ZFHX3 is one of the homeobox genes that are often located in gene deserts.
+0	NA	PSMD7	NA	DISCUSS	PSMD7 is a proteasome component and has been previously shown to be one of the genes most impacted by siRNA knock down of the ER in MCF cells.
+0	cancers	NA	NA	DISCUSS	Proteasome activity is increased in tumor cells, resulting in increased turnover rates for signaling molecules that are involved in the regulation of cell growth and apoptosis.
+0	breast cancer	NA	rs9934948	DISCUSS	These biological links and the strong association of this SNP with total mortality observed among breast cancer survivors of European ancestry in CGEMS data support a possible role for rs9934948 in breast cancer prognosis
+0	breast cancer	NA	rs4778137	DISCUSS	To date, only one GWAS-identified SNP, rs4778137, has been associated with breast cancer survival, although the association for this SNP did not reach the conventional genome-wide significance level of 5x10-8 (only 5x10-4).
+0	NA	NA	rs4778137	DISCUSS	We evaluated this SNP using the scanned data from our discovery stage and found that rs4778137 was significantly associated with total mortality (per allele HR=1.25, 95%CI=1.03-1.51, Ptrend= 0.02; data not shown in tables).
+0	breast cancer	NA	NA	DISCUSS	The association was observed predominantly among pre-menopausal women (per allele HR=1.29, 95%CI=1.02-1.64) and women with ER-positive breast cancer (per allele HR=1.27, 95%CI=0.96-1.68).
+0	NA	NA	NA	DISCUSS	Thus, our results provide some support for the association identified by the previous GWAS conducted among women of European ancestry
+0	NA	NA	NA	DISCUSS	Given the difference in genetic architecture across ethnic groups, disease-associated SNPs identified in one population are often not replicated directly in another population.
+0	cancers	NA	NA	DISCUSS	In a recent study conducted among approximately 6,000 female Chinese cancer patients and controls in Shanghai, only 8 of the 12 breast cancer risk SNPs identified in women of European ancestry could be directly replicated.
+0	NA	NA	rs3784099	DISCUSS	Therefore, it is not surprising that the top SNP identified by our study, rs3784099, was not directly replicated in the CGEMS data.
+0	NA	NA	NA	DISCUSS	Differences in study eligibility could also have contributed to the lack of replication.
+0	breast cancer	NA	NA	DISCUSS	For example, CGEMS only included post-menopausal women, while the SBCS over-sampled younger breast cancer patients.
+0	NA	NA	rs3784099	DISCUSS	However, we did not find the association of rs3784099 to be modified by menopausal status.
+0	NA	NA	rs9934948	DISCUSS	On the other hand, replication of an association in other ethnic groups, as is the case with rs9934948, provides additional evidence for a true association
+1	breast cancer	RAD51L1	NA	DISCUSS	In summary, we found that genetic variants in the RAD51L1 gene and chromosome 16 were associated with survival among breast cancer patients.
+0	breast cancer	NA	NA	DISCUSS	Additional research on the genetic regions and genes identified by our study would lead to a better understanding of the biological mechanisms responsible for breast cancer progression and survival
+0	NA	NA	rs3784099	FIG	Regional association plots for total mortality in association with rs3784099 (panel A) and rs9934948 (panel B).
+0	NA	NA	rs3784099	FIG	Regional association plots for total mortality in association with rs3784099 (panel A) and rs9934948 (panel B).
+0	NA	NA	NA	FIG	Chromosomal position is given on the X axis and the association P-values (-log10 P) on the Y axis.
+0	NA	NA	NA	FIG	Referent SNPs are identified with purple diamonds and pairwise linkage disequilibrium with adjacent SNPs as measured by r2 values (according to the HapMap 1000 Genomes June 2010 CHB+JPT data) is indicated with the color of each circle.
+0	NA	NA	NA	FIG	Refseq genes are shown beneath each plot
+0	NA	NA	rs3784099	FIG	Regional association plots for recurrence/breast cancer-specific mortality in association with rs3784099 (panel A) and rs9934948 (panel B).
+0	NA	NA	rs3784099	FIG	Regional association plots for recurrence/breast cancer-specific mortality in association with rs3784099 (panel A) and rs9934948 (panel B).
+0	NA	NA	NA	FIG	Chromosomal position is given on the X axis and the association P-values (-log10 P) on the Y axis.
+0	NA	NA	NA	FIG	Referent SNPs are identified with purple diamonds and pairwise linkage disequilibrium with adjacent SNPs as measured by r2 values (according to the HapMap 1000 Genomes June 2010 CHB+JPT data) is indicated with the color of each circle.
+0	NA	NA	NA	FIG	Refseq genes are shown beneath each plot
+0	breast cancer	NA	NA	TABLE	Demographic characteristics of participants of the Shanghai Breast Cancer Study (1996-2005) and Shanghai Breast Cancer Survival Study (2002-2006
+0	breast cancer	NA	NA	TABLE	Associations of breast cancer outcomes with the top two SNPs
+0	breast cancer	NA	NA	TABLE	Associations of breast cancer outcomes with the two newly identified SNPs and one GWAS-identified SNP by tumor and participant characteristics

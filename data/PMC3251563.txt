@@ -1,0 +1,224 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	African Americans are disproportionately affected by type 2 diabetes (T2DM) yet few studies have examined T2DM using genome-wide association approaches in this ethnicity.
+0	NA	NA	NA	ABSTRACT	The aim of this study was to identify genes associated with T2DM in the African American population.
+0	T2DM-ESRD	NA	NA	ABSTRACT	We performed a Genome Wide Association Study (GWAS) using the Affymetrix 6.0 array in 965 African-American cases with T2DM and end-stage renal disease (T2DM-ESRD) and 1029 population-based controls.
+0	NA	NA	NA	ABSTRACT	The most significant SNPs (n = 550 independent loci) were genotyped in a replication cohort and 122 SNPs (n = 98 independent loci) were further tested through genotyping three additional validation cohorts followed by meta-analysis in all five cohorts totaling 3,132 cases and 3,317 controls.
+0	retinopathy and nephropathy complications	NA	NA	ABSTRACT	Twelve SNPs had evidence of association in the GWAS (P<0.0071), were directionally consistent in the Replication cohort and were associated with T2DM in subjects without nephropathy (P<0.05).
+0	NA	NA	NA	ABSTRACT	Meta-analysis in all cases and controls revealed a single SNP reaching genome-wide significance (P<2.5x10-8).
+1	NA	RND3	rs7560163	ABSTRACT	SNP rs7560163 (P = 7.0x10-9, OR (95% CI) = 0.75 (0.67-0.84)) is located intergenically between RND3 and RBM43.
+1	NA	NA	rs7542900	ABSTRACT	Four additional loci (rs7542900, rs4659485, rs2722769 and rs7107217) were associated with T2DM (P<0.05) and reached more nominal levels of significance (P<2.5x10-5) in the overall analysis and may represent novel loci that contribute to T2DM.
+0	NA	NA	NA	ABSTRACT	We have identified novel T2DM-susceptibility variants in the African-American population.
+0	NA	NA	NA	ABSTRACT	Notably, T2DM risk was associated with the major allele and implies an interesting genetic architecture in this population.
+0	NA	NA	NA	ABSTRACT	These results suggest that multiple loci underlie T2DM susceptibility in the African-American population and that these loci are distinct from those identified in other ethnic populations
+0	diabetes	NA	NA	INTRO	African Americans have a disproportionately high risk for developing type 2 diabetes (T2DM) with an estimated prevalence twice that observed for their European-American counterparts.
+0	NA	NA	NA	INTRO	In addition to socioeconomic and behavioral risk factors, genetic factors are likely contributors to the disproportionate risk observed in this population.
+0	NA	NA	NA	INTRO	Genome-Wide Association Studies (GWAS) have been used extensively with great success to identify common genetic variants associated with T2DM in primarily European-derived populations.
+0	NA	NA	NA	INTRO	Until recently, comparable studies have been difficult to perform in African Americans due to the greater complexity of their African-derived genome compounded by recent admixture of European-derived genes.
+0	NA	NA	NA	INTRO	With the development of high density SNP arrays that give reasonable coverage of the African-American genome and methods to account for admixture in this population, it has become possible to perform informative GWAS in the African-American population.
+0	NA	NA	NA	INTRO	The aim of this study was to identify loci that contribute to T2DM by GWAS and replication in multiple African-American samples
+0	NA	NA	NA	RESULTS	The clinical characteristics of the study samples used in the GWAS, Replication and Validation phases are shown in  Table 1 .
+0	NA	NA	NA	RESULTS	The GWAS and Replication populations were similar.
+0	NA	NA	NA	RESULTS	In both groups, the age at enrollment for the T2DM-ESRD subjects was older than for the control groups.
+0	NA	NA	NA	RESULTS	However, the mean age at enrollment for the control groups in the GWAS and Replication phases was older than the mean age of T2DM diagnosis in the T2DM-ESRD and T2DM subjects.
+0	NA	NA	NA	RESULTS	Notably, the use of population-based controls has not precluded the identification of bona fide associations in other efforts (e.g.,).
+0	T2DM-ESRD	NA	NA	RESULTS	All of the case groups with T2DM (T2DM-ESRD and T2DM) had a higher proportion of females; possibly reflecting the increased prevalence of T2DM among African-American women, participation bias and/or survival.
+0	obese	NA	NA	RESULTS	On average, all of the groups were overweight or obese at the time of enrollment.
+0	retinopathy and nephropathy complications	NA	NA	RESULTS	Among case subjects, those with T2DM-ESRD had the lowest average body mass index (BMI; 29.7 kg/m2,  Table 1 ), and the T2DM subjects without nephropathy (T2DM) had the highest average BMI (33.5 kg/m2,  Table 1 )
+0	T2DM-ESRD	NA	NA	RESULTS	After the application of SNP and sample quality control metrics, 832,357 directly-genotyped, autosomal SNPs were analyzed in 965 African-American T2DM-ESRD case subjects and 1,029 African-American controls lacking T2DM and ESRD.
+0	NA	NA	NA	RESULTS	Given the modest increase of the inflation factor with inclusion of related individuals (1.04 versus 1.06) cryptic first degree relatives were retained in the analysis.
+0	NA	NA	NA	RESULTS	A summary of the association results is shown in  Figure 1   and Figure S1.
+0	NA	MYH9	rs5750250	RESULTS	The top hit was rs5750250 located on chromosome 22 in the MYH9 (non-muscle myosin heavy chain 9) gene (P-value = 3.0x10-7,  Figure 1 ).
+0	diabetes	NA	NA	RESULTS	This gene has been previously associated with non-diabetic and diabetic forms of ESRD.
+0	NA	NA	NA	RESULTS	In total, there were 126 SNPs with P-values<1.0x10-4 ( Figure 1 ).
+0	NA	NA	NA	RESULTS	In addition, we also evaluated previously identified T2DM index variants and their corresponding CEU LD blocks for association with T2DM in the African-American population (Table S1).
+0	NA	NA	NA	RESULTS	Among the 37 T2DM index variants identified to date from candidate gene studies, large scale association studies and GWAS, 35 were directly-genotyped or imputed.
+0	NA	NA	NA	RESULTS	Among these, 20 SNPs showed consistency with the Caucasian-defined risk allele, although most were non-significant.
+0	NA	NA	rs11634397	RESULTS	Only rs11634397 and rs7903146 were nominally associated (P = 0.016 and 4.9E-05, respectively) although the direction of effect was inconsistent for rs11634397 with previous studies (OR = 0.86 with respect to the Caucasian risk allele G).
+0	NA	NA	NA	RESULTS	Notably, additional signals of association were observed in CEU LD blocks containing the index SNP.
+0	NA	TCF7L2	rs4506565	RESULTS	After correction for multiple comparisons, only SNP rs4506565 in TCF7L2 remained significant (Bonferroni-corrected P = 0.027; n = 18 SNPs (10 effective tests) contained in the CEU LD block and genotyped in the African-American GWAS).
+0	NA	NA	NA	RESULTS	The flow of the study through the GWAS, Replication and Validation phases is outlined in  Table 2
+0	NA	PC1	NA	FIG	Results are adjusted for admixture using PC1 as a covariate in the analysis.
+0	NA	NA	NA	FIG	P-values are shown under the additive model.
+0	NA	NA	NA	FIG	The blue line at -log10(P-value) = 3 represents an additive P-value = 0.001 and the red line at -log10(P-value) = 5 represents a P-value = 1.0x10-5
+0	T2DM-ESRD	NA	NA	RESULTS	In an effort to replicate the GWAS results, the most significant 712 SNPs (n = 550 independent loci) were successfully genotyped in an additional sample of 709 African-American T2DM-ESRD cases and 690 African-American controls lacking both T2DM and ESRD ( Table 2 ).
+0	NA	NA	NA	RESULTS	In this replication analysis, 70 of the 712 SNPs (9.8%) showed nominal evidence of replication: a P-value<0.05 under an additive genetic model with association in the same direction.
+0	NA	NA	NA	RESULTS	Although no SNP reached genome-wide significance (P-value<=2.5x10-8), P-values ranged from 7.6x10-4 to 6.5x10-7 (GWAS + Replication).
+0	NA	NA	rs5750250	RESULTS	The top hit from the GWAS, rs5750250, did not reach nominal significance in the replication cohort (P-value = 0.054)
+0	T2DM-ESRD	NA	NA	RESULTS	A total of 122 SNPs were genotyped in three independent cohorts comprising a total of 1,458 African-American T2DM cases and 1,598 controls lacking both T2DM and ESRD ( Table 2 ).
+0	NA	NA	NA	RESULTS	These included 56 of the 70 SNPs with evidence of replication and 66 SNPs with more nominal evidence of significance in the combined analysis (Table S2).
+0	NA	NA	NA	RESULTS	These samples allowed differentiation between association with T2DM or T2DM-ESRD while increasing power of detection for suspected T2DM loci through meta-analysis.
+0	NA	NA	NA	RESULTS	Meta-analysis of the five putative T2DM SNPs in Validation samples, revealed association signals with P-values ranging from 0.011-1.8x10-6 (Table S3,   Table 3  ).
+1	NA	RND3	rs7560163	RESULTS	The most significant SNP was rs7560163 (P = 1.8x10-6, odds ratio (OR) (95% confidence interval (95%CI) = 0.74 (0.63-0.87)) located intergenically between RND3 (Ras homolog gene family, member E) and RBM43 (RNA binding motif protein 43)
+0	NA	NA	NA	RESULTS	The association results of all 122 SNPs successfully genotyped in all five cohorts (GWAS, Replication, T2DM, IRAS and IRASFS) were used in a meta-analysis to compute an overall test of association ( Table 3 ).
+0	T2DM-ESRD	NA	NA	RESULTS	This analysis combined results from cases (T2DM-ESRD and T2DM; n = 3,132) and controls (lacking both T2DM and ESRD; n = 3,317) for a sample size of 6,449 individuals.
+0	NA	NA	NA	RESULTS	As a result of this analysis, one SNP reached genome-wide significance (P-value<=2.5x10-8;  Table 3   and Figure S2).
+1	NA	RND3	rs7560163	RESULTS	SNP rs7560163 (P = 7.0x10-9, OR (95% CI) = 0.75 (0.67-0.84)) is located intergenically between RND3 and RBM43.
+0	diabetes	NA	NA	RESULTS	This SNP was tested for association with T2DM, in silico, by the Diabetes Genetics Replication and Meta-analysis (DIAGRAM) Consortium however failed quality control filters and was not included in analysis likely due to being monomorphic as seen in a representative Caucasian population from the HapMap project (Table S4)
+0	NA	NA	NA	RESULTS	Exploration of putative T2DM variants with quantitative glycemic traits in a subset of African-American samples (n = 671 from the IRAS and IRASFS control samples, Table S5) revealed limited insight into the biological mechanism associated with T2DM risk.
+0	glucose homeostasis	NA	NA	RESULTS	In addition, the five putative African-American T2DM susceptibility loci were tested for association with quantitative measures of glucose homeostasis in the European Caucasian population, in silico, by the Meta-Analyses of Glucose and Insulin-related traits Consortium (MAGIC).
+0	NA	NA	NA	RESULTS	These results did not provide further insight into the probable role these variants may have in disease susceptibility (Table S6).
+1	NA	NA	rs7560163	RESULTS	The most significantly associated SNP in African Americans, rs7560163, failed quality controls filters and was not included in analysis likely due to being monomorphic as seen in a representative Caucasian population from the HapMap project (Table S4)
+0	NA	NA	NA	RESULTS	Evaluation of three of the five putative African-American T2DM susceptibility loci for association with altered expression levels of neighboring genes revealed no strong evidence of association.
+1	NA	CNN3	rs7542900	RESULTS	However, SNP rs7542900 trended toward association with CNN3 (beta = 0.20+/-0.12, P = 0.095).
+0	NA	NA	NA	RESULTS	Lack of association could be due to the small sample size (n = 90), ethnic differences (African vs. African American) or lack of identification of the causal variant.
+0	NA	NA	rs4659485	RESULTS	SNPs rs4659485 and rs2722769 were not evaluated as they are monomorphic in the YRI population
+0	NA	NA	NA	DISCUSS	We performed a high-density genome-wide association study to investigate the genetic determinants of T2DM in the African-American population.
+1	NA	RND3	rs7560163	DISCUSS	Meta-analysis of five study cohorts revealed a single SNP, rs7560163, near RND3 that contributes to T2DM in the African-American population.
+0	NA	NA	NA	DISCUSS	It is noteworthy that this locus and more nominally associated loci are distinct from those implicated in previous GWAS of T2DM in primarily European-derived populations.
+0	NA	NA	NA	DISCUSS	"These results are consistent with our prior observations that ""European"" genes appear to make only modest contributions to inter-individual risk of T2DM in the African-American population"
+0	NA	NA	NA	DISCUSS	Although the associations observed reside intergenically, several neighboring genes could be implicated and have characteristics relevant to the pathophysiology of T2DM.
+1	NA	RND3	rs7560163	DISCUSS	The nearest annotated gene to SNP rs7560163, the only SNP identified to reach stringent levels of genome-wide significance in the Overall analysis (P = 7.0x10-9, OR = 0.75 (0.67-0.84);  Table 3 ), is RND3.
+0	NA	NA	NA	DISCUSS	This gene encodes the Rho family GTPase 3 which is ubiquitously expressed and has been implicated as a regulator of actin cytoskeleton organization in response to extracellular growth factors.
+1	NA	NA	rs7542900	DISCUSS	Additional SNPs that reached nominal significance in the Validation samples but failed to reach stringent criteria for genome-wide significance in the Overall analysis included SNP rs7542900 located upstream of coagulation factor III precursor (F3).
+0	NA	NA	NA	DISCUSS	Higher expression levels of F3 have been measured in monocytes from patients with T2DM although this association could be related to unmeasured vascular complications.
+0	NA	RYR2	rs4659485	DISCUSS	In addition, SNP rs4659485 is located intergenically between the cardiac muscle ryanodine receptor (RYR2) and 5-methyltetrahydrofolate-homocysteine (MTR) genes however, a biological relationship with T2DM is not clearly evident.
+1	NA	GALNTL4	rs2722769	DISCUSS	SNP rs2722769 resides ~64 kb upstream of UDP-N-acetyl-alpha-D-galactosamine polypeptide (GALNTL4).
+1	NA	GALNTL4	NA	DISCUSS	GALNTL4 is a member of the large subfamily of glycosyltransferases and although little is known about its biological function, GALNTL2 has been implicated in cholesterol metabolism in a large GWAS meta-analysis.
+1	NA	BarH-like homeobox 2	rs7107217	DISCUSS	Among other top hits, rs7107217 is located downstream of BarH-like homeobox 2 (BARX2), a transcription factor expressed in smooth and skeletal muscle and involved in muscle differentiation
+0	NA	NA	NA	DISCUSS	Exploration of putative T2DM variants with quantitative glycemic traits in a subset of the samples (n = 671, Table S5) revealed limited insight into the biological mechanism associated with T2DM risk.
+1	NA	insulin	rs7107217	DISCUSS	Notably among the SNPs and traits examined, only SNP rs7107217 was nominally associated with fasting insulin (P = 0.011).
+1	glucose homeostasis	BarH-like homeobox 2	rs7107217	DISCUSS	Exploration of these variants in European Caucasian populations represented by the DIAGRAM Consortium and MAGIC revealed only nominal evidence of association with T2DM (rs7107217 P = 0.086, located intergenically between BARX2 and NFRKB; Table S4) and did not provide further insight into the probable role of these variants in disease susceptibility through examination of quantitative measures of glucose homeostasis (Table S6), respectively
+0	NA	TCF7L2	NA	DISCUSS	To put these findings into context, the association of TCF7L2 with T2DM has been widely replicated across multiple ethnicities (reviewed in including prior analysis of African-American samples included in this study).
+0	NA	NA	rs7903146	DISCUSS	SNP rs7903146 has been the most strongly associated variant within this locus with one of the largest allelic odds ratio (OR) for a common variant, i.e.
+0	NA	NA	NA	DISCUSS	OR ~1.35.
+0	NA	NA	rs7903146	DISCUSS	Although rs7903146 is not typed on the Affymetrix 6.0 array and given that the genomic interval is not tagged well (max r2 = 0.45), only nominal evidence of association was observed in our African-American GWAS (P = 0.0015, rs4506565; Table S1).
+0	T2DM-ESRD	NA	rs7903146	DISCUSS	Direct genotyping of rs7903146 in the GWAS + Replication (n = 1,674 T2DM-ESRD cases and 1,719 controls lacking both T2DM and ESRD) resulted in the most strongly associated signal observed (P = 2.46x10-8) with an odds ratio (OR = 1.33, 95% CI = 1.19-1.48).
+0	NA	NA	NA	DISCUSS	This odds ratio is in the range of other signals which were observed ( Table 3 )
+0	NA	NA	NA	DISCUSS	"A notable observation common to all putative T2DM loci ( Table 3 ) is the association of ""protection"", i.e."
+0	NA	NA	NA	DISCUSS	and odds ratio less than 1.0, with the minor allele.
+0	NA	NA	NA	DISCUSS	Comparison with data from the International HapMap Consortium confirms that the major allele in all instances is more common in the representative African samples (YRI) from Ibadan, Nigeria.
+0	NA	NA	NA	DISCUSS	This could suggest that selection for diabetogenic traits is occurring and that the more common, African-derived allele is deleterious in a more westernized environment.
+0	NA	NA	NA	DISCUSS	"This is consistent with a trend we observed in prior tests of ""European"" T2DM associated variants in African Americans (20)"
+0	obese	NA	NA	DISCUSS	Since obesity is known to be a significant risk factor for the development of T2DM we explored the potential influence using a surrogate measure of adiposity, body mass index (BMI).
+0	NA	NA	NA	DISCUSS	As seen in  Table 1 , BMI differs significantly in the validation cohorts (P<0.0001).
+0	NA	NA	NA	DISCUSS	Given this significant difference, association analyses were repeated with inclusion of BMI as a covariate in the analysis.
+0	NA	NA	NA	DISCUSS	Adjustment for BMI did not substantially affect the strength of the associations observed.
+1	NA	NA	rs7560163	DISCUSS	For example, the most significant hit from the validation analysis, rs7560163, was significantly associated with T2DM in the Validation cohorts (n = 1,149 T2DM cases and 919 controls with BMI data; P = 3.59x10-6) and remained the most interesting observation after adjusting for BMI (P = 2.83x10-6; data not shown).
+0	T2DM-ESRD	NA	NA	DISCUSS	Additionally, all the case groups with T2DM (T2DM-ESRD and T2DM) had a higher proportion of females (Table 1); possibly reflecting the increased prevalence of disease in women.
+0	NA	NA	NA	DISCUSS	Gender stratified analyses revealed seven of the ten most strongly associated loci were more significant in women (P = 0.0010-3.2E-07; Table S7) although nine of the loci remained significantly associated in men (P = 0.028-3.9E-06; Table S7).
+0	NA	NA	NA	DISCUSS	Notably, the power to detect association is diminished when the sample size is reduced (n = 2648 men and 3781 women)
+0	NA	NA	NA	DISCUSS	This study has similar limitations to other GWAS conducted in minority populations.
+0	NA	NA	NA	DISCUSS	Although the current study has a modest sample size for the GWAS discovery phase compared to large-scale meta-analyses in European-derived populations, power calculations (Tables S8 and S9) show that this study has greater than 80% statistical power to detect effects for common variants (MAF = 0.20) consistent with published effect sizes (OR = 1.28) for T2DM (e.g.
+0	NA	TCF7L2	NA	DISCUSS	transcription factor 7-like 2 (TCF7L2) and potassium voltage-gated channel, KQT-like subfamily, member 1 (KCNQ1) with ORs 1.3-1.4; reviewed by) and more modest power (<70%) to detect effects for less common variants (MAF = 0.10).
+0	NA	NA	NA	DISCUSS	The power to detect and replicate moderate level contributions to T2DM susceptibility should increase with meta-analysis of this GWAS data and other GWAS currently being conducted in African-American populations.
+0	NA	NA	NA	DISCUSS	In addition this study reports results from only directly genotyped SNPs.
+0	NA	NA	NA	DISCUSS	Effective imputation of additional SNPs would undoubtedly improve coverage of the African-American genome.
+0	NA	NA	NA	DISCUSS	While recent imputation methods development show encouraging progress, rigorous empirical testing continues.
+0	Type 2 diabetes	NA	NA	DISCUSS	A potential bias of the current study design may be that the GWAS was conducted in an African-American population of individuals with type 2 diabetes with nephropathy however; there is no specific reason why this African-American population should differ substantially from African Americans with T2DM without ESRD.
+0	NA	TCF7L2	NA	DISCUSS	For example, TCF7L2 is strongly associated in our studies of African-American T2DM-ESRD subjects.
+0	NA	NA	NA	DISCUSS	In addition it should be noted that although every precaution was taken to account for population structure, as with any GWAS or candidate gene study, there may be residual population substructure.
+0	NA	NA	NA	DISCUSS	The major strength of this study is the genotyping and replication in four additional populations, thus providing support for the evidence of association observed.
+0	T2DM-ESRD	NA	NA	DISCUSS	In addition, the study design which includes individuals with T2DM and ESRD allows for the identification of ESRD loci which are distinct from those presented herein (Table S10)
+0	T2DM-ESRD	NA	NA	DISCUSS	In conclusion, we have performed a GWAS for T2DM-ESRD in an African-American population from the southeastern United States.
+0	NA	NA	NA	DISCUSS	These results were then replicated in an additional sample recruited under identical ascertainment criteria.
+0	NA	NA	NA	DISCUSS	As a second stage of replication, a Validation study was carried out in three independent cohorts to confirm the association of suspected loci with T2DM.
+1	NA	NA	rs7560163	DISCUSS	As a result, we have identified SNP rs7560163 that reached stringent levels of genome-wide significance and four additional loci with more nominal evidence of association.
+0	NA	aid	NA	DISCUSS	These findings require further replication in independent African-American populations as well as in additional ethnicities to confirm these findings and aid in the identification of the causal variant(s)
+0	NA	NA	NA	METHODS	Recruitment and sample collection procedures were approved by the Institutional Review Board at Wake Forest University (GWAS, Replication, T2DM, IRAS and IRASFS samples) and Howard University (HUFS samples).
+0	NA	NA	NA	METHODS	Written informed consent was obtained from all study participants
+0	NA	NA	NA	METHODS	Recruitment and sample collection procedures were approved by the Institutional Review Board at Wake Forest University and informed consent was obtained from all study participants.
+0	T2DM-ESRD	NA	NA	METHODS	Patients with T2DM-ESRD were recruited from dialysis facilities.
+0	NA	insulin	NA	METHODS	T2DM was diagnosed in African Americans who reported developing T2DM after the age of 25 and who did not receive only insulin therapy since diagnosis.
+0	diabetes	NA	NA	METHODS	In addition, cases had to have at least one of the following three criteria for inclusion: a) T2DM diagnosed at least 5 years before initiating renal replacement therapy, b) background or greater diabetic retinopathy and/or c) >=100 mg/dl proteinuria on urinalysis in the absence of other causes of nephropathy (T2DM-ESRD cases).
+0	Kidneys in Diabetes	NA	NA	METHODS	Unrelated African-American controls without a current diagnosis of diabetes or renal disease were recruited from the community and internal medicine clinics (controls).
+0	T2DM-ESRD	NA	NA	METHODS	All T2DM-ESRD cases and controls lacking T2DM and ESRD were born in North Carolina, South Carolina, Georgia, Tennessee or Virginia.
+0	NA	NA	NA	METHODS	DNA extraction was performed using the PureGene system (Gentra Systems; Minneapolis, MN)
+0	T2DM-ESRD	NA	NA	METHODS	African-American T2DM-ESRD cases and controls lacking T2DM and ESRD were recruited using the same criteria as the case and control subjects that were used in the GWAS
+0	NA	NA	NA	METHODS	 T2DM Cases.
+0	retinopathy and nephropathy complications	NA	NA	METHODS	Subjects with T2DM without evidence of nephropathy were recruited from medical clinics, churches, health fairs and community resources.
+0	NA	NA	NA	METHODS	Individuals were unrelated and self-described African Americans.
+0	NA	NA	NA	METHODS	All subjects were born in North Carolina, South Carolina, Georgia, Virginia or Tennessee.
+0	NA	NA	NA	METHODS	The PureGene system (Gentra Systems; Minneapolis, MN) was used for DNA extraction.
+0	NA	NA	NA	METHODS	Controls.
+0	NA	NA	NA	METHODS	The Howard University Family Study (HUFS) is a population-based study of African-American families enrolled from the Washington, D.C. metropolitan area.
+0	NA	NA	NA	METHODS	Families were not ascertained based on a given phenotype.
+0	NA	NA	NA	METHODS	In a second phase of recruitment, additional unrelated individuals from the same geographic area were enrolled to facilitate a nested case-control study design.
+0	NA	NA	NA	METHODS	A total of 1,976 samples remained after data cleaning.
+0	diabetes	NA	NA	METHODS	Diagnosis of T2DM was based on the criteria established by the American Diabetes Association Expert Committee: a fasting plasma glucose concentration >=126 mg/dL (7.0 mmol/l) or a 2-h postload value in the oral glucose tolerance test >=200 mg/dL (11.1 mmol/l) on more than one occasion or receiving medication for T2DM.
+0	NA	NA	NA	METHODS	From this sample, a subset of 927 unrelated control individuals was used for analysis.
+0	NA	NA	NA	METHODS	IRAS.
+0	atherosclerotic	insulin	NA	METHODS	The Insulin Resistance Atherosclerosis Study (IRAS) is a multicenter population-based cohort study that recruited men and women from 40 to 69 years of age living in four U.S. communities from 1992 to 1993.
+0	glucose homeostasis	NA	NA	METHODS	The study recruited approximately equal numbers of persons with normal glucose tolerance, impaired glucose tolerance and T2DM.
+0	diabetes	NA	NA	METHODS	Diabetes was defined by self-report or a fasting glucose measures >126 mg/dL at baseline or follow-up visits.
+0	NA	NA	NA	METHODS	The IRAS protocol was approved by local institutional review committees and all participants gave informed consent.
+0	NA	NA	NA	METHODS	IRASFS.
+0	NA	NA	NA	METHODS	Study design, recruitment and phenotyping for the IRAS Family Study (IRASFS) have been described.
+0	glucose homeostasis	NA	NA	METHODS	Briefly, the IRASFS is a multicenter study designed to identify the genetic determinants of quantitative measures of glucose homeostasis.
+0	NA	NA	NA	METHODS	Members of large families of self-reported African Americans (n = 581 individuals in 42 pedigrees from Los Angeles, California) were recruited.
+0	diabetes	NA	NA	METHODS	Diabetes was defined by self-report, use of diabetes medications or fasting glucose measures >126 mg/dL at baseline or follow-up visits.
+0	NA	NA	NA	METHODS	The IRASFS protocol was approved by local institutional review committees and all participants gave informed consent
+0	NA	NA	NA	METHODS	Genotyping was performed at the Center for Inherited Disease Research (CIDR) using 1 microg of genomic DNA (diluted in 1x TE buffer and at 50 ng/microl) on the Affymetrix Genome-wide Human SNP array 6.0.
+0	NA	NA	NA	METHODS	DNA from cases and controls were equally interleaved on 96-well master plates to ensure technical uniformity during sample processing.
+0	NA	NA	NA	METHODS	To confirm sample identity, a SNP barcode (96 SNPs) was generated prior to genotyping on the Affymetrix arrays and confirmed on downstream released genotyping data.
+0	NA	NA	NA	METHODS	Genotypes were called using Birdseed version 2; APT 1.10.0 by grouping samples by DNA plate to determine the genotype cluster boundaries.
+0	NA	NA	NA	METHODS	All autosomal SNPs (n = 868,157) were included in analysis but classified on data quality with primary inference drawn from SNPs (n = 832,357) which had less than 5% missing data, Hardy-Weinberg P-values in cases greater than 0.0001 and in controls greater than 0.01, no significant difference in missing data rate between cases and controls and were polymorphic.
+0	NA	NA	NA	METHODS	The average sample call rate was 99.16% for all autosomal SNPs.
+0	NA	NA	NA	METHODS	Forty-six blind duplicates were included in genotyping and had a concordance rate of 99.59%.
+0	NA	NA	NA	METHODS	In addition, individuals whose gender call from X chromosome genotype data was discordant with the gender obtained from patient interviews were excluded from the analysis (n = 1).
+0	NA	NA	NA	METHODS	Cryptic relatedness was estimated by pairwise identity-by-descent (IBD) analysis implemented in the PLINK analysis software package (http://pngu.mgh.harvard.edu/purcell/plink/).
+0	NA	NA	NA	METHODS	Two duplicate samples were identified, and one sample in each duplicate pair was removed.
+0	NA	NA	NA	METHODS	In addition, 104 individuals were identified as cryptic first degree relatives.
+0	NA	NA	NA	METHODS	We also assessed heterozygosity by estimating the inbreeding coefficient using PLINK.
+0	NA	NA	NA	METHODS	One subject had an F value >4 standard deviations; this excess of homozygosity would suggest population substructure and this subject was removed.
+0	NA	NA	NA	METHODS	Our final dataset consisted of 1994 individuals in which we performed the association analysis
+0	NA	NA	NA	METHODS	The replication sample consisted of a population recruited under identical ascertainment criteria to that of the GWAS.
+0	NA	NA	NA	METHODS	A total of 749 SNPs (including 272 SNPs captured in 104 linkage disequilibrium (LD) blocks defined by an r2>0.50 at consecutive loci as assessed in 988 unrelated GWAS control subjects; 581 independent loci) were selected for genotyping on the Sequenom MassArray platform (Sequenom; San Diego, CA).
+0	NA	NA	NA	METHODS	Case and control samples were genotyped and analyzed together to avoid sample-dependent SNP calling bias.
+0	NA	NA	NA	METHODS	SNPs were included in analysis if genotyping was greater than 90% efficient, had a Hardy-Weinberg P-value>=0.001 in the replication cohort and were polymorphic (n = 712 SNPs, including 264 SNPs captured in 102 LD blocks defined by an r2>0.50 at consecutive loci as assessed in 988 unrelated GWAS control subjects; 550 independent loci).
+0	NA	NA	NA	METHODS	Forty five blind duplicate samples included in genotyping had a concordance rate of >99.9%
+0	NA	NA	NA	METHODS	Among the 712 SNPs genotyped during the replication phase, 122 (including 41 SNPs captured in 17 linkage disequilibrium (LD) blocks defined by an r2>0.50 at consecutive loci as assessed in 690 unrelated Replication control subjects; 98 independent loci) were genotyped using the iPLEX  Sequenom MassARRAY platform (T2DM, IRAS and IRASFS) or on the Affymetrix Genome-wide Human SNP array 6.0 (Controls) for the validation phase.
+0	NA	NA	NA	METHODS	Genotyping was greater than 90% efficient and the 50 blind duplicate samples included in genotyping had a concordance rate of 100%
+0	NA	NA	NA	METHODS	To address the effect of admixture in this African-American dataset we performed a Principal Components Analysis (PCA) which utilized all high quality data from the GWAS excluding regions of high LD and inversions.
+0	NA	NA	NA	METHODS	This approach was an iterative process whereby all high quality autosomal SNPs were used to calculate the top 50 principal components.
+0	NA	NA	NA	METHODS	Once calculated, the principal components were examined to determine if they were tied to regions of the genome.
+0	NA	NA	NA	METHODS	If so, those SNPs were excluded and the analysis repeated.
+0	NA	PC1	NA	METHODS	The first principal component (PC1) explained the largest proportion of variation at 22% and was used as a covariate in all analyses.
+0	NA	PC1	NA	METHODS	A direct comparison of the PCA with FRAPPE analysis of 70 ancestry informative markers (AIMs) resulted in a high correlation between PC1 and the AIMs ancestry estimates, r2 = 0.87.
+0	NA	NA	NA	METHODS	The mean (SD) African ancestry proportion in 965 T2DM-ESRD cases and 1,029 controls was 0.80+-0.11 and 0.78+-0.11, respectively, as estimated by FRAPPE analysis.
+0	NA	NA	NA	METHODS	Other principal components were associated with regions of the genome, representing another unclassified source of variance.
+0	NA	NA	NA	METHODS	To test for association with T2DM-ESRD, genotypic tests of association were performed on each SNP individually using SNPGWA (www.phs.wfubmc.edu), an analytic package which includes the capability to perform association calculations adjusting for covariates.
+0	NA	NA	NA	METHODS	The primary inference was based on the additive genetic model; with note when there is strong evidence of a departure from additivity.
+0	NA	NA	NA	METHODS	The inflation factor was calculated as the observed mean of the chi squared statistic and compared to its theoretical expectation of 1 under the null hypothesis
+0	NA	NA	NA	METHODS	Imputation was performed for autosomes using MACH (version 1.0.16, http://www.sph.umich.edu/csg/abecasis/MaCH/) to obtain missing genotypes for previously identified T2DM index variants and to provide support for regions associated with T2DM in the African American dataset.
+0	NA	NA	NA	METHODS	SNPs with minor allele frequency >=1%, call rate >=95% and Hardy-Weinberg P-value >=10-4 were used for imputation.
+0	NA	NA	NA	METHODS	A 1:1 mixture of the HapMap II release 22 (NCBI build 36) CEU:YRI consensus haplotypes (http://mathgen.stats.ox.ac.uk/impute/) were used as a reference panel.
+0	NA	NA	NA	METHODS	Imputation was performed in two steps.
+0	NA	NA	NA	METHODS	For the first step, 484 unrelated African-American samples were randomly selected to calculate recombination and error rate estimates.
+0	NA	NA	NA	METHODS	In the second step, these rates were used to impute all samples across the SNPs in the entire reference panel.
+0	NA	NA	NA	METHODS	Imputation results were filtered at an rsq threshold of >=0.3 and a minor allele frequency >=0.05
+0	NA	NA	NA	METHODS	We examined previously identified T2DM loci for association with T2DM in the African American GWAS dataset.
+0	NA	NA	NA	METHODS	For SNPs not available on the Affymetrix 6.0 array or from direct genotyping (n = 10), genotypes were determined from imputation.
+0	NA	NA	NA	METHODS	In addition to the index variant, we identified the corresponding LD block using the HapMap phase II CEU data as defined by Gabriel et al.
+0	NA	NA	NA	METHODS	and implemented in Haploview.
+0	NA	NA	NA	METHODS	These intervals were then extracted from the African-American GWAS and the most significant SNP identified.
+0	NA	NA	NA	METHODS	These results were corrected for the effective number of SNPs (independent SNPs) in each locus counted using the Li and Ji method implemented in SOLAR.
+0	NA	NA	NA	METHODS	The empirical locus-specific P-values were adjusted for multiple comparisons by Bonferroni correction for the effective number of SNPs (Table S1)
+0	NA	NA	NA	METHODS	To account for admixture in the replication cohort, ancestral allele proportions were estimated by comparing allele frequencies to 70 AIMs genotyped in 44 Yoruba Nigerians and 39 European Americans.
+0	NA	NA	NA	METHODS	Individual ancestral proportions were generated for each subject using FRAPPE, an EM algorithm-based approach, under a two-population model and used as covariates in all analyses.
+0	NA	NA	NA	METHODS	The mean (SD) African ancestry proportion in 709 T2DM-ESRD cases and 690 controls was 0.80+-0.12 and 0.76+-0.13, respectively.
+0	NA	NA	NA	METHODS	Association analysis was performed as described for the GWAS
+0	T2DM-ESRD	NA	NA	METHODS	In order to discriminate between association with T2DM and T2DM-ESRD, meta-analysis of three additional association analyses was performed.
+0	NA	NA	NA	METHODS	For the T2DM population, individual admixture proportions were estimated by comparing allele frequencies from 76 AIMs genotyped on the Sequenom MassArray (T2DM cases) or Affymetrix 6.0 array (controls) to frequencies reported in the HapMap CEU and YRI populations (unrelated samples only).
+0	NA	NA	NA	METHODS	Individual ancestral proportions were generated for each subject using FRAPPE under a two-population model and used as covariates in all analyses.
+0	NA	NA	NA	METHODS	The mean (SD) African ancestry proportion in T2DM cases and controls was 0.78+-0.11 and 0.76+-0.12, respectively.
+0	NA	NA	NA	METHODS	Association analysis was performed as described for the GWAS.
+0	NA	NA	NA	METHODS	For the IRAS and IRASFS cohorts, ancestral allele frequencies were estimated using 70 AIMs genotyped in 44 Yoruba Nigerians and 39 European Americans.
+0	NA	NA	NA	METHODS	Individual ancestral proportions were generated for each subject using FRAPPE under a two-population model and used as covariates in all analyses.
+0	NA	NA	NA	METHODS	For the IRASFS cohort, each SNP was examined for Mendelian inconsistencies using PedCheck.
+0	NA	NA	NA	METHODS	Genotypes inconsistent with Mendelian inheritance were converted to missing.
+0	NA	NA	NA	METHODS	Maximum likelihood estimates of allele frequencies were computed using the largest set of unrelated African-American individuals (n = 58), and then genotypes were tested for departures from Hardy-Weinberg proportions.
+0	NA	NA	NA	METHODS	For the IRAS (unrelated individuals) and IRASFS (related individuals) cohorts, data was analyzed using a variance component measured genotype model.
+0	NA	NA	NA	METHODS	To model T2DM as the outcome, a threshold model of the variance component measured genotype model was used.
+0	NA	NA	NA	METHODS	Likelihood ratio tests were computed for the tests of association with the individual SNP, modeling the correlation structure suggested by the familial relationships as appropriate, i.e.
+0	NA	NA	NA	METHODS	IRASFS.
+0	NA	NA	NA	METHODS	The family data has already been examined in detail and familial relationships corrected based on a linkage panel.
+0	NA	NA	NA	METHODS	P-values were calculated from the threshold model while the odds ratios were calculated from a logistic regression model
+0	NA	NA	NA	METHODS	In order to perform GWAS + Replication, Validation (T2DM, IRAS and IRASFS) and Overall (GWAS + Replication + Validation) analyses a meta-analysis approach was taken.
+0	NA	NA	NA	METHODS	Meta-analysis was performed using the weighted Z-method implemented in METAL (www.sph.umich.edu/csg/abecasis/metal).
+0	NA	NA	NA	METHODS	This approach allows P-values and direction of effect to be combined independent of beta-estimates, allowing for incompatibility between phenotype units as in the Fisher method, but with improved power and precision over Fisher's test.
+0	NA	NA	NA	METHODS	The Z-statistic was derived from the sample-specific P-values and directionality of effect which were then summed with weights proportional to the square root of the sample size for each sub-study
+0	glucose homeostasis	NA	NA	METHODS	To test for association between individual SNPs and quantitative measures of glucose homeostasis in the IRAS and IRASFS cohorts, differences in trait values by genotype were tested using the variance components model that explicitly models the correlation among related individuals as implemented in SOLAR (12).
+0	NA	NA	NA	METHODS	For statistical testing, trait values were transformed to best approximate the distributional assumptions of the test and to minimize heterogeneity of the variance.
+0	NA	NA	NA	METHODS	The primary statistical inference was the additive genetic model.
+0	NA	NA	NA	METHODS	All tests were computed after adjustment for age, gender, BMI and admixture adjustment
+0	NA	NA	NA	METHODS	To identify potential T2DM-susceptibility genes we explored association of the putative African-American T2DM loci with transcript levels for flanking genes using gene expression profiles from the publically available HapMap Yoruba (YRI) dataset.
+0	NA	NA	NA	METHODS	Coupling the YRI expression dataset with genotypes from the most associated loci we explored the association of SNPs with flanking genes using the variance components model and accounting for correlation among related individuals as implemented in SOLAR (12)

@@ -1,0 +1,107 @@
+0	insulin-treated diabetes	NA	NA	ABSTRACT	Type 1 diabetes (T1D) is a common autoimmune disorder that arises from the action of multiple genetic and environmental risk factors.
+0	NA	NA	NA	ABSTRACT	We report the findings of a new genome-wide association study of T1D, combined in a meta-analysis with two previously published studies.
+0	NA	NA	NA	ABSTRACT	The total sample set included 7,514 cases and 9,045 reference samples.
+0	NA	NA	NA	ABSTRACT	Forty-one distinct genomic locations provided evidence for association to T1D in the meta-analysis (P < 10-6).
+0	NA	NA	NA	ABSTRACT	After excluding previously reported associations, 27 regions were further tested in an independent set of 4,267 cases, 4,463 controls and 2,319 affected sib-pair (ASP) families.
+0	NA	NA	NA	ABSTRACT	Of these, 18 regions were replicated (P < 0.01; overall P < 5 x 10-8) and four additional regions provided nominal evidence of replication (P < 0.05).
+1	NA	IL-10	NA	ABSTRACT	The many new candidate genes suggested by these results include IL10, IL19, IL20, GLIS3, CD69 and IL27
+0	NA	NA	NA	INTRO	Results from linkage and association studies in T1D have long supported a model in which the major risk factor for T1D resided in the HLA region on chromosome 6p21.
+1	NA	CTLA4	NA	INTRO	Candidate gene studies carried out over a number of years identified four non-HLA T1D risk loci: INS, CTLA4, PTPN22, and IL2RA.
+0	NA	NA	NA	INTRO	Recently, the application of genome-wide SNP typing technology to large sample sets and comparisons with results from other immune-mediated diseases have provided convincing support for 19 additional T1D loci, all with allelic odds ratios (OR's) of less than 1.3
+0	NA	NA	NA	INTRO	In order to have adequate power to detect additional T1D risk loci with ORs in the range of 1.1 to 1.3, we performed a new genome-wide association scan using British cases and controls and used this dataset in a meta-analysis which included 7,514 cases and 9,045 reference samples (Table 1).
+0	Kidneys in Diabetes	NA	NA	INTRO	The other datasets included in the meta-analysis were from the Wellcome Trust Case Control Consortium (WTCCC) study and a study that utilized T1D cases from the Genetics of Kidneys in Diabetes (GoKinD) study of diabetic nephropathy, and reference samples from the National Institute of Mental Health (NIMH) study
+0	NA	NA	NA	INTRO	The two earlier studies (WTCCC and GoKinD/NIMH) used Affymetrix 500K platforms while the new (T1DGC) study used the Illumina 550K platform.
+0	NA	NA	NA	INTRO	Of the 841,622 SNPs genotyped in these studies which had minor allele frequencies (MAF) exceeding 1% and passed our quality control standards, 328,044 were only genotyped by the Affymetrix platform, 437,739 only by the Illumina platform, and 75,839 were genotyped by both platforms.
+0	NA	NA	NA	INTRO	Since only 9% of SNPs are shared between these platforms, imputation was used to combine results across studies.
+0	NA	NA	NA	INTRO	To develop imputation rules, we took advantage of the fact that 1,422 of the original WTCCC controls which were included in the T1DGC study had been genotyped on both platforms (Methods)
+0	NA	NA	NA	INTRO	An analysis using Mantel's extension to the 1 degree of freedom (1 df) Cochran-Armitage trend test which combined comparisons over the three studies yielded 41 distinct genomic locations with P-values < 10-6 (Figure 1) (Individual plots for each study are in Supplementary Figure 1).
+0	NA	NA	NA	INTRO	Fifteen of these sites were in regions where there were prior reports of association to T1D (Table 2).
+0	NA	NA	NA	INTRO	The remaining 26 of these locations along with one weaker association on the X chromosome, were chosen for further analysis.
+0	NA	NA	NA	INTRO	"To address the possible effects of population structure, the analyses were stratified by geographical region in the case of the British studies and by a ""propensity score"" based on principal components analysis on the US study."
+0	NA	NA	NA	INTRO	This was only partially successful in reducing the over-dispersion of test statistics, a large part of which derived from the US data (Table 3).
+0	NA	NA	NA	INTRO	If the residual over-dispersion were due to population structure, there would be a strong case for correcting the P-values (as shown in Table 3).
+0	NA	NA	NA	INTRO	However, the modest effect of the stratified analysis on over-dispersion, taken together with the absence of any over-dispersion in case-only interaction tests (see below) suggests that it is more likely due to differential genotyping errors.
+0	NA	NA	NA	INTRO	In this case, correction of the most significant P-values would be over-conservative since we have carefully checked all genotyping cluster plots for associated SNPs.
+0	NA	NA	NA	INTRO	The genomic control corrected P-values are nevertheless shown in Supplementary Table 1.
+0	NA	NA	NA	INTRO	The strongest associations tended to become somewhat less significant, but the choice of regions for follow-up, based on the criteria of P < 10-6, was not affected.
+0	NA	NA	NA	INTRO	"We also carried out, for SNPs with minor allele frequency exceeding 10%, 2 df ""genotype"" tests which would be more sensitive to associations showing marked dominance (deviation from an additive model, on the log scale)."
+0	NA	NA	NA	INTRO	Significance was notably increased, by 3 to 4 orders of magnitude, at three SNPs, but was less significant than the corresponding 1 df tests otherwise (Supplementary Table 1) yielding no additional findings at P < 10-6.
+0	NA	NA	NA	INTRO	The results of both simple and stratified 1 df tests of these SNPs, separated by study, are shown in Supplementary Tables 3 and 4.
+0	Supplementary Figure 1a	NA	NA	INTRO	Quantile-quantile plots for tests in our new (T1DGC) study, and in the meta-analysis, after removal of tests for SNPs in linkage disequilibrium (LD) regions surrounding known and putative associations, are shown in Supplementary Figure 2a and 2b
+0	NA	NA	NA	INTRO	The most significantly T1D associated SNPs from each of the 27 novel regions selected for replication were genotyped in a further 4,267 cases and 4,670 controls and in 4,342 trios from 2,319 T1DGC families with multiple affected offspring.
+0	NA	NA	NA	INTRO	Genotype data passed design and quality control criteria for 25 of these SNPs.
+0	NA	NA	NA	INTRO	Eighteen regions replicated with P < 0.01 and showed genome-wide significant (P < 5 x 10-8) association in the joint analysis of the genome scans and replication samples (Table 4, individual scan data in Supplementary Table 2).
+0	NA	NA	NA	INTRO	A further three of the remaining seven SNPs also showed P < 0.01 in the replication studies, and a fourth had P < 0.05, but these failed to reach overall P < 5 x 10-8 (Table 4).
+0	NA	NA	NA	INTRO	This study, therefore, adds 18 T1D risk loci to the existing 24, and provides suggestive support for four more.
+0	NA	NA	NA	INTRO	As expected, nearly all of these loci have OR < 1.2, as larger effects would likely have been discovered in earlier studies.
+0	NA	NA	NA	INTRO	Two of the new associations (10q23 and 16q23) contradict this trend and highlight the disparity between genomic coverage of the older Affymetrix 500K chip and the newer Illumina 550K: these loci do not have a good proxy on the Affymetrix chip, explaining why they were not previously identified despite relatively large effect sizes (OR ~ 1.3)
+0	NA	NA	NA	INTRO	The families utilized for replication were derived from affected sib-pair linkage studies.
+0	NA	NA	NA	INTRO	One consequence of ascertainment on the basis of at least two affected siblings was a high frequency of high risk HLA genotypes.
+0	NA	NA	NA	INTRO	It has been reported that relative risks for several non-HLA loci are reduced in subjects carrying high risk HLA genotypes, reflecting deviation from a multiplicative model for joint effects, and this would lead us to expect reduced effect sizes in multiple-case families.
+0	NA	NA	NA	INTRO	Indeed, the results of the replication study were generally less convincing in the family data than in the case-control data reflecting smaller effect sizes in the families.
+0	NA	NA	NA	INTRO	One potential explanation for these different effect sizes lies in possible statistical interaction among risk loci leading to a less-than-multiplicative accumulation of risk in samples (such as those from multiplex families) with a large number of risk variants.
+0	NA	NA	NA	INTRO	This hypothesis is difficult to test because power to detect interaction terms is much less than that to find equivalent sized main effects and is doubly compounded when specific causal variants (rather than tag SNPs from a GWA scan) are not known
+1	NA	MHC	NA	INTRO	We tested for deviation from the model of multiplicative effects with HLA, on a genome-wide basis, by first calculating predictive risk scores using SNPs in the MHC region on each platform, and testing for association between this score and every other SNP in the remainder of the genome.
+0	NA	NA	NA	INTRO	"These tests are ""case-only"" tests for statistical interaction reflecting variation of allelic relative risks with the level of HLA-attributable risk."
+0	NA	NA	NA	INTRO	As noted earlier, these test statistics did not show the over-dispersion which would have been indicative of population stratification (Supplementary Figure 2c).
+0	NA	NA	NA	INTRO	However, the subset of these tests concerning established T1D susceptibility loci tended to have larger chi-squared values than expected by chance (Supplementary Figure 2d).
+1	NA	MHC	NA	INTRO	In the majority of cases (31/45), the interaction tests took the opposite sign from the main effect test, consistent with high MHC risk leading to lower risk for other loci.
+1	NA	NA	NA	INTRO	Of the five interactions which reached P < 0.05, four were of this type (loci near 2q24.2/IFIH1, 1p13.2/PTPN22, 17p13.1 and 2q33.2/CTLA4).
+1	NA	MHC	NA	INTRO	We carried out a further test by calculating a T1D risk score using all associated loci excluding the MHC region and testing, in cases only, for correlation between this score and the MHC risk score.
+0	NA	NA	NA	INTRO	We found a weak, but significant (P=0.0007) negative correlation, again indicating that risk from HLA and non-HLA sources accumulates at a rate less than expected based on the model of multiplicative effects, so that there is a general tendency for relative risks for non-HLA loci to be reduced when HLA-related risk is high
+0	NA	NA	NA	INTRO	Several of the 18 regions identified here contain genes of possible functional relevance to T1D.
+1	NA	IL-10	NA	INTRO	These include the region 1q32.1 containing the potent immunoregulatory cytokine genes, IL10, IL19 and IL20.
+1	NA	GLIS3	NA	INTRO	The region of strong LD at 9p24.2 contains only a single gene, GLIS3.
+1	PNDM	GLIS3	NA	INTRO	Mutations in GLIS3 have been reported in children from three different consanguineous families with permanent neonatal diabetes associated with congenital hypothyroidism and other clinical complications.
+1	NA	CD69	NA	INTRO	The region on 12p13.31 harbors a number of immunoregulatory genes including CD69, which is induced by activation of T cells and functions in thymic egress.
+0	NA	NA	NA	INTRO	Several other members of the calcium-dependent (C-type) lectin (CLEC) domain family with immune functions also map to this region.
+0	NA	NA	NA	INTRO	Overall, our results provide a rich new source of candidate genes, but until further genotyping, re-sequencing and functional studies are performed, it is not possible to be more specific in regard to which genes might be causal
+0	NA	NA	NA	METHODS	The WTCCC study has been described elsewhere.
+0	Type 2 diabetes	NA	NA	METHODS	Cases were recruited from pediatric and adult diabetes clinics at 150 National Health Service Hospitals across Great Britain as part of the Genetic Resource for Investigating Diabetes (GRID) collection (www.childhood-diabetes.org.uk/grid.shtml) of the JDRF/WT DIL.
+0	NA	NA	NA	METHODS	Half of the controls were drawn from the British 1958 Birth Cohort and half from a group of blood donors recruited by the WTCCC in collaboration with the UK Blood Services.
+0	NA	NA	NA	METHODS	The former group was subsequently genotyped on the Illumina 550K platform and was used as controls in the new T1DGC study reported here.
+0	bipolar disorder	NA	NA	METHODS	Since the removal of this group from the WTCCC study left it somewhat short of controls, we used a group of 1,868 patients with bipolar disorder as additional reference samples : a group conspicuous in the WTCCC studies in its lack of significant differences from control allele frequencies
+0	NA	NA	NA	METHODS	Our new study added approximately 2,500 new controls from the British 1958 Birth Cohort to the 1,500 described above, and compared these with a new group of approximately 4,000 British cases from the JDRF/WT DIL collection.
+0	NA	NA	NA	METHODS	All cases and controls were resident in Great Britain.
+0	NA	NA	NA	METHODS	To minimize the effects of population structure, the case-control comparisons in the WTCCC and T1DGC studies have been stratified by the 12 regions of Great Britain.
+0	NA	NA	NA	METHODS	Sample exclusions in the genome-wide studies are discussed in Supplementary Methods
+0	NA	NA	NA	METHODS	Replication studies were carried out in two groups of cases and control as well as 2,319 affected sib-pair families previously recruited and characterized by the T1DGC.
+0	NA	NA	NA	METHODS	The British cases were from the JDRF/WT DIL, and the controls were drawn from the British 1958 Birth Cohort, and the UK Blood Service controls of the WTCCC.
+0	NA	NA	NA	METHODS	The second set of cases and controls from Denmark were recruited from a nationwide registry.
+0	NA	NA	NA	METHODS	All cases (49% females) were diagnosed before age 18 years and the mean age at onset 9.02 years.
+0	NA	NA	NA	METHODS	Control subjects were randomly selected from the Inter99 study
+0	NA	NA	NA	METHODS	For the T1DGC study, the 4,000 T1D case and 2,500 control DNA samples were selected based on no prior use in a prior genome wide association study and migration as a high molecular weight band of genomic DNA, ~23 kb, by electrophoresis on a 0.75% agarose gel.
+0	NA	NA	NA	METHODS	All DNA samples were extracted using a chloroform-based method and quantified in triplicate using Picogreen .
+0	NA	NA	NA	METHODS	Once selected, the case and control DNA were randomized by columns into a 96 well plate format
+0	NA	NA	NA	METHODS	For the T1DGC study, genotyping was performed on the Illumina 550K Infinium platform and, for comparability, all genotypes were re-scored using the ILLUMINUS algorithm.
+0	NA	NA	NA	METHODS	The WTCCC study used the Affymetrix GeneChip Human Mapping 500K Array set, while the GoKinD/NIMH study used genotype data generated with the Affymetrix Genome-wide Human SNP Array 5.0.
+0	NA	NA	NA	METHODS	The 5.0 array incorporates all of the SNPs on the earlier 500K array but on a single chip along with an additional 420K non-polymorphic probes.
+0	NA	NA	NA	METHODS	Details of the scoring of genotypes may be found in the original publications.
+0	NA	NA	NA	METHODS	The criteria for discarding some SNPs from the analysis are discussed in Supplementary Methods
+0	NA	NA	NA	METHODS	For the replication studies, genotyping was performed in a fully blinded fashion using Taqman assays as previously described
+0	NA	NA	NA	METHODS	One degree of freedom tests are Cochran-Armitage tests for trend alternatives, extended to pool information across multiple studies or across multiple strata within a single study by the method described by Mantel.
+0	NA	NA	NA	METHODS	The two degree of freedom tests follow similar principles.
+0	NA	NA	NA	METHODS	Testing for association with SNPs on the X chromosome was carried out using the method proposed by Clayton.
+0	NA	NA	NA	METHODS	More details are given in Supplementary Methods
+0	NA	NA	NA	METHODS	The meta-analysis involved studies that used different platforms, necessitating the use of imputation.
+0	NA	NA	NA	METHODS	Since we had a substantial sample typed on both platforms, we used a simple linear regression approach to imputation.
+0	NA	NA	NA	METHODS	Details of this, and other methods used in the meta-analysis, are given in Supplementary Methods.
+0	NA	NA	NA	METHODS	Supplementary Figure 3 shows the distribution of the quality of imputation, as measured by the coefficient of determination, R2
+0	NA	NA	NA	METHODS	Analysis of the replication case-control studies was carried out in a similar manner, by 1 df comparisons of allele frequencies with Danish and UK studies treated as separate strata.
+0	NA	NA	NA	METHODS	The family study was analyzed by the transmission/disequilibrium test (TDT)
+1	NA	MHC	NA	METHODS	The MHC risk score was derived by an adaption of the lasso approach to logistic regression of case/control status versus all SNPs in the MHC region (defined as spanning from 24.7 Mb to 34.0 Mb on chromosome 6).
+0	NA	NA	NA	METHODS	This was applied to the combined Affymetrix data, with a dummy variable in the regression to differentiate WTCCC and GoKinD/NIMH studies and, separately to the T1DGC Illumina data.
+0	NA	NA	NA	METHODS	The coefficients for the selected regression equations are shown in Supplementary Table 3.
+0	NA	NA	NA	METHODS	The degree of risk prediction, as demonstrated by the receiver operating curves (Supplementary Figure 4) was very similar in the three study groups
+1	NA	MHC	NA	METHODS	A case-only test for statistical interaction between each SNP and MHC risk score was carried out by a 1 df test based on the covariance between MHC risk score and the SNP genotype coded 0, 1 or 2.
+0	NA	NA	NA	METHODS	These tests were stratified within study by geographical region or by principal component score, and information pooled across strata and studies as described above.
+1	NA	MHC	NA	METHODS	A 2 df test for association, possibly modified by MHC, was calculated by adding the chi-squared interaction test on 1 df to the 1 df chi-squared statistic for the stratified association test
+1	NA	MHC	NA	METHODS	The lasso analysis of the MHC risk prediction was carried out in the lasso2 package in the R statistical system.
+0	NA	NA	NA	METHODS	All the remaining analysis was carried out in the snpMatrix package from the bioConductor project
+0	NA	NA	NA	FIG	Genome-wide plots of -log10 P-values from stratified 1 df tests combining results from all three studies.
+0	NA	NA	NA	FIG	Values of -log10 P greater than 10 are plotted at 10.
+0	NA	NA	NA	FIG	SNPs only present on the Illumina chip are shown in blue, those only present on the Affymetrix chip in red, and those present on both chips are shown in black.
+0	NA	NA	NA	FIG	Points are plotted in the order red, blue, black.
+0	NA	NA	NA	FIG	Previously known disease susceptibility loci are marked by vertical black lines, while new findings from the current analysis are marked by vertical grey lines (solid lines for convincingly replicated loci and dashed lines for nominally replicated results)
+0	diabetes	NA	NA	TABLE	Samples from three genome-wide association analyses of type 1 diabetes used in this analysis
+0	insulin-treated diabetes	NA	NA	TABLE	Results for locations of known susceptibility loci for type 1 diabetes

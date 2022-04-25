@@ -1,0 +1,139 @@
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Breast and prostate cancer are two commonly diagnosed cancers in the United States.
+0	cancers	NA	NA	ABSTRACT	Prior work suggests that cancer causing genes and cancer susceptibility genes can be identified
+0	cancers	NA	NA	ABSTRACT	We conducted a genome-wide association study (Affymetrix 100K SNP GeneChip) of cancer in the community-based Framingham Heart Study.
+0	cancers	NA	NA	ABSTRACT	We report on 2 cancer traits - prostate cancer and breast cancer - in up to 1335 participants from 330 families (54% women, mean entry age 33 years).
+0	NA	NA	NA	ABSTRACT	Multivariable-adjusted residuals, computed using Cox proportional hazards models, were tested for association with qualifying SNPs (70, 987 autosomal SNPs with genotypic call rate >=80%, minor allele frequency >=10%, Hardy-Weinberg test p >= 0.001) using generalized estimating equations (GEE) models and family based association tests (FBAT)
+0	breast cancer	NA	NA	ABSTRACT	There were 58 women with breast cancer and 59 men with prostate cancer.
+0	NA	NA	NA	ABSTRACT	No SNP associations attained genome-wide significance.
+1	breast cancer	COL1A1	rs2075555	ABSTRACT	The top SNP associations in GEE models for each trait were as follows: breast cancer, rs2075555, p = 8.0 x 10-8 in COL1A1; and prostate cancer, rs9311171, p = 1.75 x 10-6 in CTDSPL.
+0	cancers	MSR1	rs9325782	ABSTRACT	In analysis of selected candidate cancer susceptibility genes, two MSR1 SNPs (rs9325782, GEE p = 0.008 and rs2410373, FBAT p = 0.021) were associated with prostate cancer and three ERBB4 SNPs (rs905883 GEE p = 0.0002, rs7564590 GEE p = 0.003, rs7558615 GEE p = 0.0078) were associated with breast cancer.
+0	Breast and prostate cancer	NA	rs1447295	ABSTRACT	The previously reported risk SNP for prostate cancer, rs1447295, was not included on the 100K chip.
+0	cancers	NA	NA	ABSTRACT	Results of cancer phenotype-genotype associations for all autosomal SNPs are web posted at
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Although no association attained genome-wide significance, several interesting associations emerged for breast and prostate cancer.
+0	cancers	NA	NA	ABSTRACT	These findings can serve as a resource for replication in other populations to identify novel biologic pathways contributing to cancer susceptibility
+0	Breast and prostate cancer	NA	NA	INTRO	Breast and prostate cancer are the most frequently diagnosed cancers in women and men respectively with over 200,000 cases each of new breast and prostate cancer estimated for 2006 in the United States.
+0	Breast and prostate cancer	NA	NA	INTRO	Furthermore, prostate cancer is the second leading cause of cancer-related deaths in men and breast cancer is the second leading cause of cancer-related deaths in women.
+0	Breast and prostate cancer	NA	NA	INTRO	Family history is a well established risk factor for both breast and prostate cancer providing evidence for underlying genetic factors contributing to cancer occurrence.
+0	cancers	NA	NA	INTRO	Accumulating research has identified a number of candidate genes and biologic pathways associated with increased susceptibility to cancer.
+0	NA	BRCA1	NA	INTRO	However, even the most penetrant mutations, such as in BRCA1 and BRCA2, account for only 5-10% of cases and are present in <1% of the general population.
+0	cancers	NA	NA	INTRO	Genome-wide association studies (GWAS) provide a comprehensive approach to identification of genetic variants associated with cancer risk unconstrained by existing knowledge and may permit detection of common genetic variants each with small associated cancer risk but great public health impact.
+0	breast cancer	NA	NA	INTRO	Reports from two recent GWAS demonstrated the importance of this approach with the discovery of novel loci for breast cancer susceptibility.
+0	breast cancer	FGFR2	NA	INTRO	Four SNPs in the FGFR2 gene were strongly associated with breast cancer and the association was confirmed in a sample of cases and controls derived from three additional studies
+0	Breast and prostate cancer	NA	NA	INTRO	We used the Framingham Heart Study (FHS) Affymetrix 100K SNP genotyping resource for GWAS of breast and prostate cancer phenotypes.
+0	cancers	NA	NA	INTRO	The FHS offers the advantage of a prospective longitudinal family-based community sample with participants who have been well-characterized throughout adulthood with respect to risk factors and diseases, including cancer.
+0	cancers	NA	NA	INTRO	We report results of two complementary strategies to identify genome-wide associations with cancer phenotypes: 1) a simple low p-value SNP ranking strategy; and 2) 100K SNP associations within candidate genes and regions previously reported to be associated with these cancers in humans
+0	NA	NA	NA	METHODS	The genotyped study sample comprised 1345 Original cohort (n = 258) and Offspring (n = 1087) participants from the 330 largest FHS families.
+0	NA	NA	NA	METHODS	The Overview provides further details of this sample.
+0	cancers	NA	NA	METHODS	There were 250 participants in the sample with cancer (excluding non-melanoma skin cancer) including 58 women with breast cancer, and 59 men with prostate cancer.
+0	NA	NA	NA	METHODS	The Boston University Medical Center Institutional Review Board approved the examination content of Original Cohort and Offspring examinations.
+0	NA	NA	NA	METHODS	All participants provided written informed consent including consent for genetic studies
+0	NA	NA	NA	METHODS	The 5209 Original Cohort participants have been examined biennially since study inception in 1948 and the 5124 Offspring Cohort participants (children of the Original Cohort and spouses of the children) have been examined approximately every 4 years since enrollment in 1971.
+0	cancers	NA	NA	METHODS	Cancer cases were identified at routine examinations or by health-history updates for participants who did not attend an examination.
+0	NA	NA	NA	METHODS	Medical records were reviewed by two independent reviewers (BEK, GLS).
+0	cancers	NA	NA	METHODS	The vast majority of cancers were confirmed by pathology reports; <3.4% of cancer cases were based on death certificate or clinical diagnosis alone.
+0	cancers	NA	NA	METHODS	The 1976 World Health Organization ICD-O coding was used to classify all primary cancers.
+0	cancers	NA	NA	METHODS	Hence, topography, location (subdivision of site), histology or morphology (cell histopathology), behavior (degree of malignancy), and grade (histological grading & differentiation) were recorded along with date of diagnosis.
+0	cancers	NA	NA	METHODS	Cancer cases reviewed through December 31, 2005 were included in this study.
+0	Breast and prostate cancer	NA	NA	METHODS	The proportion of women and men in the study sample with breast (8%) and prostate cancer (9%) respectively was similar to that in the full FHS sample
+0	cancers	NA	NA	METHODS	Cox proportional hazards models were used to generate martingale residuals using the PHREG procedure in SAS to perform the regression analysis of time from study entry to cancer diagnosis or last contact free of cancer.
+0	breast cancer	NA	NA	METHODS	Breast cancer was examined in women only and models were cohort-specific and adjusted for 1) age at entry and 2) age, parity, and body mass index at study entry.
+0	Breast and prostate cancer	NA	NA	METHODS	For prostate cancer, in men only, models were cohort-specific and adjusted for age at entry
+0	NA	NA	NA	METHODS	Affymetrix 100K SNP GeneChip genotyping and the Marshfield STR genotyping performed by the Mammalian Genotyping Service  are described in the Overview.
+0	NA	NA	NA	METHODS	SNPs were excluded if minor allele frequency <0.10 (n = 38062); genotypic call rate <0.80 (n = 2346); Hardy Weinberg equilibrium test p < 0.001 (n = 1595).
+0	NA	NA	NA	METHODS	There were 70,987 autosomal SNPs available for analysis after the exclusions
+0	NA	NA	NA	METHODS	The statistical methods for genome-wide association analyses are described in detail in the Overview.
+0	NA	NA	NA	METHODS	While there are various suggested methods for interpretation of genome-wide significance, we chose to use a conservative (p < 0.05/10-6 = 5 x 10-8) threshold to define genome-wide significance for this report
+0	cancers	NA	NA	METHODS	All cancer residual traits listed in Table 1 were computed using Cox proportional hazards models.
+0	NA	NA	NA	METHODS	The full set of FHS participants with the phenotype were used to create the residuals.
+0	NA	NA	NA	METHODS	The residuals were used to test for association between the genotyped subset of participants and the SNPs using family-based association test (FBAT) and generalized estimating equation (GEE) models.
+0	NA	NA	NA	METHODS	FBAT analyses were restricted to at least 10 informative families.
+0	NA	NA	NA	METHODS	The GEE tests tended to give an excess of very small p-values over what would be expected (see Overview)
+0	cancers	NA	NA	METHODS	We used several strategies to prioritize SNPs associated with cancer traits.
+0	NA	NA	NA	METHODS	First, we used an untargeted approach whereby SNP associations were ranked according to the strength of the p-value for each trait.
+0	cancers	NA	NA	METHODS	Next we identified candidate genes reported to be associated with each cancer trait from review of the literature.
+0	cancers	NA	NA	METHODS	Candidate genes were selected by searching PubMed (using susceptibility, gene, cancer and (breast or prostate) as keywords, last accessed 08-15-06), and the Entrez Gene and Online Mendelian Inheritance in Man resources, as well as recent text books.
+0	cancers	NA	NA	METHODS	All available 100K SNPs in or near the a priori selected candidate genes were investigated for association with cancer traits.
+0	Breast and prostate cancer	NA	NA	METHODS	Finally for prostate cancer, we also examined SNP associations in the region on chromosome 8 (8q24) previously reported to be associated with prostate cancer in Icelandic families and confirmed in three case-control series and African American men.
+0	Breast and prostate cancer	NA	NA	METHODS	Further, for prostate cancer we examined the overlap in SNP associations in our study and the top 500 ranked SNPs from the Cancer Genetics Markers of Susceptibility (CGEMS) project sponsored by the National Cancer Institute.
+0	NA	NA	NA	METHODS	Because CGEMS used an Illumina platform for genotyping and the genotyping used in this study was performed with an Affymetrix platform, the gene_symbol from the UCSC annotation was used to link with CGEMS top 500 SNP list.
+0	NA	MAF	NA	METHODS	Using this method, 1487 SNPs in FHS 100K (including SNPs with MAF < 0.1) correlated with the CGEMS top 500 SNPs related to a known gene
+0	NA	NA	NA	METHODS	SNPs were annotated with the UCSC genome browser tables using the May 2004 assembly .
+0	NA	NA	NA	METHODS	All genes within 60 kb of the top ranked SNPs were identified.
+0	NA	NA	NA	METHODS	The physical location of the SNPs was based on Build 35 of Genome for this report; however, the 100K web browser was based on Build 36
+0	cancers	NA	NA	RESULTS	The cancer phenotypes available in the FHS 100K SNP resource, including details of the sample size, number of cancer events, and covariate adjustment for each trait are listed in Table 1.
+0	breast cancer	NA	NA	RESULTS	In this report, we consider only two phenotypes: breast cancer in women (multivariable-adjusted) and prostate cancer in men.
+0	breast cancer	NA	NA	RESULTS	Among participants in the 100K sample the mean age at breast cancer diagnosis was 59 years (range 35 to 83 years) in Offspring Cohort women and 70 years (range 35 to 97 years) in Original Cohort women; the mean age at prostate cancer diagnosis was 66 years (range 43 to 85 years) in Offspring Cohort men and 76 years (range 53 to 95 years) in Original Cohort men
+0	cancers	NA	NA	RESULTS	For each of the cancer phenotypes, Table 2 provides the top 15 SNPs ranked in order by lowest p-value for the GEE models and for the FBAT models (all SNP associations can be viewed on the web).
+0	NA	NA	NA	RESULTS	None of the SNP associations achieved genome-wide significance (p < 5 x 10-8).
+1	Breast and prostate cancer	CTDSPL	rs9311171	RESULTS	However, for prostate cancer, the top SNP in GEE models, rs9311171, is in CTDSPL (CTD {carboxy-terminal domain, RNA polymerase II, polypeptide A} small phosphatase-like), a gene that may play a role in tumor suppression
+0	cancers	NA	NA	TABLE	Cancer Phenotypes for FHS 100K Project: Results of Association Analyses
+0	NA	NA	NA	RESULTS	There were several additional associations not listed in Table 2 that were of interest.
+0	Breast and prostate cancer	NCOR2	rs906304	RESULTS	For prostate cancer, in GEE models rs906304 (rank 27, p = 0.000067), is in NCOR2 also known as SMRT.
+0	Breast and prostate cancer	NCOR2	NA	RESULTS	SMRT levels have been reported to be elevated in prostate cancer cells, and result in suppression of anti-proliferative target gene actions for the vitamin D receptor.
+0	Breast and prostate cancer	XRCC4	rs255561	RESULTS	In FBAT models, for prostate cancer SNP rs255561 (rank 17, p = 0.00039), is near XRCC4, a gene that plays a role in DNA repair and rs1897676 (rank 50, p = 0.0012), is in PTPRD.
+0	NA	NA	NA	RESULTS	Protein tyrosine phosphatases are signaling molecules involved in the regulation of a variety of cellular processes including cell growth, differentiation, mitotic cycle, and oncogenic transformation.
+0	breast cancer	RAB21	rs4146372	RESULTS	For breast cancer in GEE models rs4146372 (rank 31, p = 0.00007), is near RAB21, SNP rs9307561 (rank 40, p = 0.0001), is near FAT4, and rs10512849 (rank 46, p = 0.00014), is in FGF10.
+0	cancers	NA	NA	RESULTS	These genes appear to play biologic roles in a variety of processes including tumor growth and suppression.
+0	breast cancer	NA	rs2836391	RESULTS	In FBAT models, for breast cancer rs2836391 (rank 46, p = 0.0012), is in ERG, an oncogene important in the development of prostate cancer
+0	NA	NA	NA	TABLE	All SNP Associations within Selected Breast and Prostate Candidate Genes (up to 60 kb
+0	Breast and prostate cancer	NA	NA	RESULTS	Our second strategy was to identify from the literature candidate genes implicated in breast and prostate cancer susceptibility (see Additional data file 1).
+0	Breast and prostate cancer	NA	NA	RESULTS	For prostate cancer, we identified 63 candidate genes.
+0	NA	NA	NA	RESULTS	Twenty of these candidate genes had from 1 to 20 SNPs on the 100K chip whereas the remaining genes had no SNP coverage on the chip.
+0	breast cancer	NA	NA	RESULTS	For breast cancer, 75 potential candidate genes were identified, 28 of these genes had between 1 and 35 SNPs on the 100K chip and the remaining candidate genes were not covered on the chip.
+0	Breast and prostate cancer	MSR1	rs9325782	RESULTS	Two SNPs in MSR1 (rs9325782, GEE p = 0.008 and rs2410373, FBAT p = 0.021) were associated with prostate cancer and three SNPs in ERBB4 (rs905883 GEE p = 0.0002, rs7564590 GEE p = 0.003, rs7558615 GEE p = 0.0078) were associated with breast cancer (Table 3).
+0	Breast and prostate cancer	NA	NA	RESULTS	For prostate cancer, a region on chromosome 8q24 was recently reported to be associated with prostate cancer risk in Icelandic men and confirmed in three case-control series of men of European ancestry and African American men.
+0	NA	NA	NA	RESULTS	There were a total of 64 SNPs on the 100K chip in this 8q24 region (128 to 129.3 Mb interval).
+0	NA	NA	rs1447295	RESULTS	However, the reported risk SNP, rs1447295, was not included on the 100K chip and none of the 64 available SNPs were in linkage disequilibrium with the risk SNP.
+0	Breast and prostate cancer	NA	NA	RESULTS	Five other SNPs in this region were associated with prostate cancer with a GEE or FBAT p-value < 0.01 (Table 4)
+0	Breast and prostate cancer	NA	NA	TABLE	SNPs in the Chromosome 8q24 region Associated with Prostate Cancer:GEE or FBAT p-value < 0.0
+0	cancers	NA	NA	RESULTS	The National Cancer Institute commenced the CGEMS initiative to conduct genome-wide association studies to identify genetic factors related to prostate and breast cancer.
+0	Breast and prostate cancer	NA	NA	RESULTS	We examined overlap between the top 500 ranked SNPs for prostate cancer in CGEMS phase 1a and the results of the FHS 100K GWAS analysis for prostate cancer.
+0	NA	NA	NA	RESULTS	The physical position of the SNP was used to detect overlapping associations and the results are shown in Table 5.
+0	NA	NA	NA	RESULTS	Of note, many of the associations in Table 5 are in SNPs with very low minor allele frequencies and the results are presented according to minor allele frequency.
+0	cancers	WWOX	rs3751832	RESULTS	WWOX gene, a tumor suppressor gene, that has been reported to play a role in prostate cancer, showed evidence of association (rs3751832, p = 0.0009) in our study sample
+0	Breast and prostate cancer	NA	NA	TABLE	Prostate Cancer SNP Associations Common to Both CGEMS Top 500 Ranked SNPs and FHS 100K SNP
+0	Breast and prostate cancer	NA	NA	DISCUSS	Breast and prostate cancer are the two most frequently diagnosed cancers in the United States and result in substantial morbidity and mortality.
+0	Breast and prostate cancer	NA	NA	DISCUSS	A number of breast and prostate cancer susceptibility genes and chromosomal regions have been identified.
+0	breast cancer	NA	NA	DISCUSS	However, currently known genes account for only a fraction of the familial aggregation of breast cancer and few prostate cancer susceptibility genes have even been identified.
+0	cancers	NA	NA	DISCUSS	Risk for these cancers is likely mediated through variation in many genes, each conferring a relatively small risk for the disease.
+0	cancers	NA	NA	DISCUSS	Genome-wide association studies provide an opportunity to discover novel genes and pathways that play a causal role in cancer occurrence and in turn may lead to new therapies for the prevention and treatment of cancer.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Finding genetic associations with breast and prostate cancer risk that are robust across multiple studies may facilitate the identification of high risk individuals who can be targeted for early screening and preventive interventions
+0	breast cancer	NA	NA	DISCUSS	We report GWAS results for breast cancer and prostate cancer phenotypes in a community-based sample of adults from two generations of the same families.
+0	cancers	NA	NA	DISCUSS	Although none of the SNP associations achieved genome-wide significance in GEE or FBAT models, this resource has the potential to detect novel cancer susceptibility genes and to explore the relevance of promising candidate gene associations to human cancer.
+0	cancers	NA	NA	DISCUSS	Our results can be compared to those from other genome-wide association studies such as the National Cancer Institute's CGEMS.
+0	NA	NA	NA	DISCUSS	Although the two studies used different genotyping platforms limiting overlap in the SNPs examined, we were able to determine the physical position of the SNPs.
+0	Breast and prostate cancer	NA	rs2371438	DISCUSS	Using this strategy, SNPs in the ERRB4 gene (CGEMS DSSNP_ID rs2371438 and FHS 100K SNP rs10497958) were associated with prostate cancer.
+0	cancers	ErbB	NA	DISCUSS	ErbB proteins are widely expressed in prostate cells and may play a role in tumor development, growth and progression in human prostate cancer.
+0	Breast and prostate cancer	NA	NA	DISCUSS	We also examined the 8q24 region previously associated with prostate cancer risk.
+0	Breast and prostate cancer	NA	rs6983267	DISCUSS	CGEMS investigators recently reported a second independent risk SNP (rs6983267) within the 8q24 strongly associated with prostate cancer.
+0	Breast and prostate cancer	NA	NA	DISCUSS	The Affymetrix 100K GeneChip did not include either of the previously reported risk SNPs; however, we did identify five other SNPs in this region associated with prostate cancer.
+0	Breast and prostate cancer	NA	NA	DISCUSS	The underlying biologic mechanism mediating prostate cancer risk associated with the SNPs and chromosomal region remains unknown.
+0	NA	NA	NA	DISCUSS	A two-stage approach, genome-wide association followed by selective genotyping of SNPs with suggestive evidence of association, may provide an efficient strategy for pursuing initial genome-wide results
+0	NA	NA	NA	DISCUSS	Several important limitations merit comment.
+0	cancers	NA	NA	DISCUSS	First, this study used cancer cases identified through surveillance of a multigenerational community-based sample.
+0	NA	NA	NA	DISCUSS	The enrollment and examination of Original Cohort and Offspring Cohort participants began years before DNA collection occurred.
+0	NA	NA	NA	DISCUSS	Thus, a survival bias may have been introduced.
+0	cancers	NA	NA	DISCUSS	Our cases may be comprised of early-staged and less lethal cancers.
+0	NA	NA	NA	DISCUSS	To address this potential bias, we adjusted for covariates using the full Framingham sample, and used the residual traits for the subset of individuals genotyped using the 100K Affymetrix GeneChip to test for association with the SNPs in linear regression models.
+0	cancers	NA	NA	DISCUSS	Residual traits from Cox models typically are not ideally distributed for linear regression models, but our adjustment method using the full Framingham sample precludes the testing of SNP associations with cancer traits using Cox models.
+0	cancers	NA	NA	DISCUSS	Second, we had a small number of cancer events (250 all cancer cases, 58 breast cancer cases and 59 prostate cancer cases) limiting our ability to detect SNP associations.
+0	NA	CFH	NA	DISCUSS	In a recent small GWAS of age-related macular degeneration that included 96 cases and 50 controls, an association with the CFH gene was identified and confirmed in larger studies.
+0	NA	CFH	NA	DISCUSS	However, in that report, individuals homozygous for the CFH risk allele had a sevenfold increased likelihood of age-related macular degeneration.
+0	cancers	NA	NA	DISCUSS	It is very unlikely that common genetic variants for cancer phenotypes will confer a risk for cancer susceptibility of that magnitude.
+0	Breast and prostate cancer	NA	NA	DISCUSS	For example, the odds ratio associated with the risk marker identified for prostate cancer in region 8q24 was 1.72 in the combined Icelandic sample.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Furthermore, the associations between prostate cancer and the SNPs with low minor allele frequency (Table 5) are likely to be false positive associations given the small number of prostate cancer cases in our sample.
+0	NA	NA	NA	DISCUSS	Third, the 100K Affymetrix GeneChip provides limited coverage of the genome; many of our a priori candidate genes did not have any SNP coverage on the chip and coverage of some candidate genes that were present on the chip was suboptimal.
+0	Breast and prostate cancer	NA	rs1447295	DISCUSS	Importantly, the replicated risk SNP, rs1447295, for prostate cancer was not included on the chip.
+0	NA	NA	NA	DISCUSS	NHLBI has committed funds for a 550 K genome-wide scan on all FHS participants.
+0	cancers	NA	NA	DISCUSS	This will enable us to confirm our initial 100K SNP associations in a larger sample with a greater number of cancer cases and with denser coverage of the genome.
+0	NA	NA	NA	DISCUSS	We did not examine epistasis or gene-environment interactions which may modify the associations noted in this study.
+0	NA	NA	NA	DISCUSS	Lastly, most of our associations are likely to be due to chance.
+0	NA	NA	NA	DISCUSS	Replication studies are needed to determine if any of the results we report are indicative of true associations.
+0	NA	NA	NA	DISCUSS	It is important that our data be used in conjunction with data from other samples given the high probability of false positive associations
+0	cancers	NA	NA	CONCL	In summary, the untargeted genome-wide approach to detect genetic associations for cancer traits provides an opportunity to identify novel biologic pathways related to cancer occurrence and to direct future study of candidate genes that hold the most promise for relevance to cancer risk in humans.
+0	cancers	NA	NA	CONCL	Enhancing our understanding of the mechanisms responsible for cancer susceptibility may in turn identify novel strategies for early detection, prevention, and treatment of breast and prostate cancers.
+0	NA	NA	NA	CONCL	These data serve as a resource for replication in other population-based samples
+0	cancers	MAF	NA	ABBR	CGEMS = cancer genetics markers of susceptibility; FBAT = family-based association test; FHS = Framingham Heart Study; GEE = generalized estimating equations; GWAS = genome-wide association study; ICD-O = international classification of diseases for oncology; MAF = minor allele frequency; SNP = single nucleotide polymorphism
+0	NA	NA	NA	AUTH_CONT	All authors have made substantial contributions to conception and design or acquisition of phenotypic data.
+0	NA	CLR	NA	AUTH_CONT	JMM, SJW, DF, DL, CLR contributed to the analysis and interpretation of data.
+0	NA	CLR	NA	AUTH_CONT	JMM, CLR, DL, DF, and SJW have been involved in drafting the manuscript or revising it critically for important intellectual content and all authors have read and approved the final manuscript

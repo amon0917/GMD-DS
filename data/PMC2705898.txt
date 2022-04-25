@@ -1,0 +1,114 @@
+0	Breast and prostate cancer	NA	NA	ABSTRACT	To search for genetic variants that are associated with prostate cancer risk in the genome, we combined the data from our genome-wide association study (GWAS) in a population-based case-control study in Sweden with publicly available GWAS data from the Cancer Genetic Markers of Susceptibility (CGEMS) study.
+0	aggressive disease	NA	NA	ABSTRACT	We limited the cases to those with aggressive disease, in an attempt to identify risk variants that are associated with this most clinically relevant form of the disease.
+0	NA	CAPS	NA	ABSTRACT	Among the most likely candidate SNPs identified from the two GWAS, we sequentially confirmed one SNP at 22q13 in two independent study populations; the remaining subjects in CAPS and a hospital-based case-control study at Johns Hopkins Hospital.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Association of aggressive prostate cancer with the SNP at 22q13 was also observed in the publicly available data of four additional study populations from the second stage of the CGEMS study.
+1	NA	NA	rs9623117	ABSTRACT	In all seven study populations examined, the frequency of allele 'C' of rs9623117 at 22q13 was consistently higher in aggressive cases than in controls.
+0	NA	NA	NA	ABSTRACT	The combined allelic test was highly significant, with a P = 5.9 x 10-7.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	The Odds Ratio (OR) of allele 'C' for aggressive prostate cancer was estimated to be 1.18 (95% CI: 1.11-1.26).
+0	NA	NA	NA	ABSTRACT	However, the SNP was also associated with non-aggressive prostate cancer, with an estimated OR of 1.11 (95% CI: 1.04-1.19, P = 0.003.
+1	NA	TNRC6B	NA	ABSTRACT	The risk associated variants are located within the genomic region of TNRC6B, a gene involved in miRNA mediated mRNA degradation.
+0	NA	NA	NA	ABSTRACT	Additional studies are warranted to further confirm the association
+0	Breast and prostate cancer	NA	NA	INTRO	More than a dozen prostate cancer risk associated variants have been identified from genome-wide association studies (GWAS) and consistently replicated in multiple independent study populations.
+0	Breast and prostate cancer	NA	NA	INTRO	These risk variants, although only moderately associated with prostate cancer risk individually, have a stronger cumulative association with prostate cancer risk.
+0	prostate carcinogenesis	NA	NA	INTRO	In addition, most of these risk variants are located between genes or in genes not previously considered as important in prostate carcinogenesis; thus they may provide novel insight into disease etiology.
+0	Breast and prostate cancer	NA	NA	INTRO	It is anticipated that results from GWAS will lead to better prediction of prostate cancer for earlier detection and a better understanding of the molecular mechanisms of this disease
+0	Breast and prostate cancer	NA	NA	INTRO	However, these identified prostate cancer risk variants only account for a small fraction of the genetic variance for prostate cancer risk.
+0	Breast and prostate cancer	NA	rs4430796	INTRO	For example, two highly significant and independent prostate cancer risk SNPs at 17q12, rs4430796 and rs11649743 were estimated to account for only 0.5% and 0.3% of the total genetic variance in Sweden, respectively.
+0	Breast and prostate cancer	NA	NA	INTRO	Additional prostate cancer risk variants in the genome may exist.
+0	cancers	CAPS	NA	INTRO	The goal of this study is to search for these risk variants using existing data from two GWAS: one from our study in a Swedish population (CAPS) and the other from the publicly available data of the National Cancer Institute Cancer Genetic Markers of Susceptibility (CGEMS) Study
+0	Breast and prostate cancer	NA	NA	INTRO	To increase the likelihood of identifying risk variants that are associated with more clinically relevant, aggressive prostate cancer, we focus on comparisons between control subjects and prostate cancer patients with non-organ confined and/or high grade disease.
+0	NA	NA	NA	INTRO	Different from our previous study where only ~60,000 single nucleotide polymorphisms (SNPs) that overlapped between the two genotyping platforms (Affymetrix 500K arrays and Illumina 317K and 240K) of the two studies were analyzed, we are now able to examine ~2.5 million SNPs in these two studies by imputing nongenotyped SNPs from flanking genotyped SNPs.
+0	Breast and prostate cancer	NA	NA	INTRO	In this report, we describe a novel prostate cancer risk associated SNP that was discovered from the two GWAS and confirmed in five independent study populations
+0	Breast and prostate cancer	CAPS	NA	METHODS	The first GWAS included 498 aggressive prostate cancer patients and 494 control subjects that matched the age distribution of case subjects from CAPS (CAncer of the Prostate in Sweden), a population-based case-control study in Sweden.
+0	Breast and prostate cancer	PSA	NA	METHODS	The 498 patients with aggressive prostate cancer met at least one of the following criteria based on the biopsy specimen: clinical stage T3/T4, N+, M+, Differential Grade III, Gleason Score >= 8, or pre-operative serum PSA >= 50 ng/mL.
+0	Breast and prostate cancer	NA	NA	METHODS	In the second GWAS, we analyzed the data from 737 patients with aggressive prostate cancer, defined as clinical stage T3/T4 or Gleason Score >=7 based on biopsy specimen, and 1,105 age-matched control subjects, all from the Prostate, Lung, Colon and Ovarian (PLCO) Cancer Screening Trial of the first stage CGEMS study.
+0	NA	NA	NA	METHODS	Individual genotype data were obtained through an approved data request application.
+0	NA	NA	NA	METHODS	All of the subjects selected from CGEMS were of European ancestry
+0	NA	CAPS	NA	METHODS	The first confirmation study population consisted of the remaining subjects from CAPS, including 733 aggressive cases, 1,619 non-aggressive cases, and 1,287 controls from Sweden.
+0	Breast and prostate cancer	NA	NA	METHODS	The second study population was a hospital-based prostate cancer case-control study of European Americans from Johns Hopkins Hospital (JHH).
+0	NA	NA	NA	METHODS	It included 983 aggressive cases, 527 non-aggressive cases, and 482 controls.
+0	cancers	NA	NA	METHODS	Tumors with a Gleason score of 7 or higher or stage pT3 or higher or N+ or M1 (i.e., either high-grade or non: organ-confined disease) were defined as aggressive disease.
+0	NA	NA	NA	METHODS	The other four study populations were from the second stage of the CGEMS study.
+0	cancers	NA	NA	METHODS	They were the American Cancer Society Cancer Prevention Study II (CPS-II); the Health Professionals Follow-up Study (HPFS); CeRePP French Prostate Case-Control Study (FPCC); and Alpha-Tocopherol, Beta-Carotene Cancer Prevention Study (ATBC).
+0	NA	NA	NA	METHODS	Summary genotype information from these four populations was downloaded from a public CGEMS website http://cgems.cancer.gov/data/.
+0	NA	NA	NA	METHODS	The number of subjects in each of these study populations is described in Table 1
+0	NA	CAPS	NA	METHODS	Methods for the GWAS in CAPS were described in detail elsewhere.
+0	Breast and prostate cancer	CAPS	NA	METHODS	Briefly, the GeneChip Human Mapping 500K Array Set, supplemented with 30K genomic fill-in SNPs and 20K nonsynonymous SNPs from Affymetrix Inc. (Santa Clara, CA) were genotyped in 498 aggressive prostate cancer cases and 494 controls in CAPS.
+0	NA	NA	NA	METHODS	The BRLMM algorithm from Affymetrix was used to make genotype calls, and the average genotyping call rate was 99.1%.
+0	NA	NA	NA	METHODS	Genotype concordance for the positive controls was > 99%.
+0	NA	NA	NA	METHODS	The GWAS in CGEMS was performed using HumanHap300 and HumanHap240 assays from Illumina Corp. (San Diego, CA)
+0	NA	NA	NA	METHODS	A subset of SNPs was genotyped using the MassArray System from Sequenom (San Diego, CA).
+0	NA	NA	NA	METHODS	Polymerase chain reaction (PCR) and extension primers for these SNPs were designed using the MassARRAY Assay Design 3.0 software.
+0	NA	NA	NA	METHODS	PCR and extension reactions were performed according to the manufacturer's instructions, and extension product sizes were determined by mass spectrometry using the Sequenom iPLEX system.
+0	NA	NA	NA	METHODS	Duplicates and water samples, to which the technician was blind, were included in each 96-well plate as PCR negative controls.
+0	NA	NA	NA	METHODS	The genotype call rates of these SNPs were > 98% and the average concordance rate between samples was >99%
+0	NA	NA	NA	METHODS	A Hardy-Weinberg equilibrium test was performed using the Fisher's exact test.
+0	NA	NA	NA	METHODS	We imputed all of the known SNPs in the genome based on the genotyped SNPs and haplotype information in the HapMap Phase II data (CEU) using a computer program, IMPUTE.
+0	NA	NA	NA	METHODS	A posterior probability of 0.9 was used as a threshold to call genotypes.
+0	NA	NA	NA	METHODS	Allele frequency differences between case patients and control subjects were tested for each SNP, using a chi-square test with 1 degree of freedom.
+0	NA	NA	NA	METHODS	The allelic odds ratio (OR) and 95% confidence interval (95% CI) were estimated based on a multiplicative model.
+0	NA	NA	NA	METHODS	Results from multiple case-control populations were combined using a Mantel-Haenszel model in which the populations were allowed to have different population frequencies for alleles but were assumed to have a common OR.
+0	NA	NA	NA	METHODS	The homogeneity of ORs among different study populations was tested using Breslow-Day chi-square test
+0	NA	CAPS	NA	RESULTS	We imputed ~2 million SNPs across the genome among each of the two GWAS based on the genotyping data from Affymetrix 500K SNP arrays (CAPS) and Illumina 317K and 240K (CGEMS).
+0	NA	NA	NA	RESULTS	Some quality related information on the imputed SNPs is presented in Supplementary data.
+0	Breast and prostate cancer	CAPS	NA	RESULTS	Differences in the allele frequency of each genotyped and imputed SNP between aggressive prostate cancer cases and unaffected controls were tested separately in CAPS and CGEMS.
+0	NA	NA	NA	RESULTS	A combined allelic test of these two studies was then performed for each SNP using a Mantel-Haenszel method.
+0	Breast and prostate cancer	NA	NA	RESULTS	A set of criteria were used to select SNPs that are most likely associated with aggressive prostate cancer: 1) P < 10-5 in the combined allelic tests, 2) the direction of association is consistent in both studies, 3) the difference in allele frequencies between cases and controls is >= 0.02 in both studies 4) the genotype frequencies do not significantly deviate from Hardy-Weinberg equilibrium (P > 0.05) in control subjects in both studies, 5) the minor allele frequency is >= 0.01 in controls in both studies, 6) the call rate is > 90% for imputed SNPs in both studies, and 7) if multiple SNPs in a haplotype block met the above six criteria, we selected the most significant SNP.
+0	NA	NA	NA	RESULTS	Twenty-one independent SNPs were found to meet these criteria (Table 2)
+0	NA	CAPS	NA	RESULTS	As a first step of confirmation, we genotyped 18 SNPs among an additional 500 aggressive cases and 500 controls from CAPS (three SNPs were not genotyped because they could not be grouped into a single multiplex iPLEX group).
+0	NA	NA	rs7291691	RESULTS	One SNP, rs7291691 at 22q13, was confirmed using an allelic test, with a nominal P of 0.04 (Table 2).
+0	NA	NA	NA	RESULTS	The direction of association was the same as in the two GWAS, i.e., the risk allele found in the GWAS was more frequent in aggressive cases than in controls in the confirmation study.
+0	NA	CAPS	NA	RESULTS	As an additional attempt at confirmation, we genotyped this SNP in the remaining 233 aggressive cases and 726 controls of CAPS and in 982 aggressive cases and 482 control subjects of European descent from Johns Hopkins Hospital (JHH).
+0	NA	NA	NA	RESULTS	Again, the risk allele was consistently more common in aggressive cases than controls in both groups.
+0	NA	CAPS	NA	RESULTS	The difference was significant in JHH (nominal P = 0.02) but not significant in the remainder of CAPS, likely due to small sample size.
+0	NA	CAPS	rs7291691	RESULTS	The genotype counts of SNP rs7291691 in CAPS and JHH are presented in Supplementary Table 2
+0	CPS-II, HPFS	NA	NA	RESULTS	To obtain additional evidence for the association from other study populations, we searched the publicly available data of four study populations from the second stage of the CGEMS study, including CPS-II, HPFS, FPCC, and ATBC.
+0	NA	NA	rs7291691	RESULTS	The SNP rs7291691 was not genotyped in these populations.
+1	NA	NA	rs9623117	RESULTS	However, a SNP (rs9623117) that is less than 2 kb from rs7291691 was genotyped.
+1	NA	CAPS	rs9623117	RESULTS	To evaluate LD between the two SNPs, we typed this new SNP (rs9623117) in all aggressive cases and controls of CAPS and JHH.
+0	NA	CAPS	NA	RESULTS	These two SNPs are in strong LD, with an estimated pair-wise r2 of 0.96 and 0.98 in the control subjects of CAPS and JHH, respectively.
+1	Breast and prostate cancer	CAPS	rs9623117	RESULTS	Consequently, the SNP rs9623117 was also significantly associated with aggressive prostate cancer in CAPS (P = 0.02) and in JHH (P = 0.01) (Table 3a).
+0	NA	NA	NA	RESULTS	The allele 'C' was more common in aggressive cases than in controls.
+0	Breast and prostate cancer	NA	NA	RESULTS	Similarly, this SNP (directly genotyped) was also significantly associated with aggressive prostate cancer (P = 6.6 x 10-4) in the GWAS of CGEMS (PLCO).
+0	NA	NA	NA	RESULTS	For the four independent study populations of the second CGEMS study, the allele 'C' was more common in aggressive cases than in controls in each population (Table 3a).
+0	NA	NA	NA	RESULTS	The difference was statistically significant in ATBC (P = 0.02) and FPCC (P = 0.04).
+0	NA	NA	NA	RESULTS	Remarkably, the frequency of allele 'C' was consistently higher in aggressive cases than in controls in each of the seven study populations examined.
+0	NA	NA	NA	RESULTS	The combined allelic test in the seven populations was highly significant, with a P = 5.9 x 10-7.
+0	Breast and prostate cancer	NA	NA	RESULTS	The Odds Ratio (OR) of allele 'C' for aggressive prostate cancer was estimated to be 1.18 (95% CI: 1.11-1.26)
+1	Breast and prostate cancer	NA	rs9623117	RESULTS	We also tested association of the SNP rs9623117 with non-aggressive prostate cancer.
+0	NA	CAPS	NA	RESULTS	A trend of higher frequency of allele 'C' in non-aggressive cases than in controls was observed in all six populations (no non-aggressive cases in FPCC) (Table 3b), although a significant difference was only observed in two study populations (CAPS and JHH).
+0	NA	NA	NA	RESULTS	The combined allelic test of the seven populations was significant at P = 0.003.
+0	Breast and prostate cancer	NA	NA	RESULTS	The OR of allele 'C' for non-aggressive prostate cancer was estimated to be 1.11 (95% CI: 1.04-1.19).
+0	NA	NA	NA	RESULTS	Although the frequency of allele 'C' was lower in non-aggressive cases than aggressive cases in most study populations, the difference was not statistically significant in the combined analysis, P = 0.11.
+0	NA	PSA	NA	RESULTS	Similarly, this SNP was not associated with Gleason score, pre-operative PSA, and age at diagnosis in CAPS or JHH
+1	NA	PSA	rs9623117	RESULTS	The SNP rs9623117 was not significantly associated with plasma PSA levels in control subjects of CAPS (P = 0.91) and JHH (P = 0.68) using an additive model.
+0	NA	PSA	NA	RESULTS	For example, the mean PSA levels were 1.56, 1.58, and 1.57 ng/mL for men who had 0, 1, or 2 copies of the 'C' allele, respectively, among 1,722 control subjects in CAPS.
+1	Breast and prostate cancer	PSA	rs9623117	RESULTS	Therefore, the association between rs9623117 at 22q13 and prostate cancer risk is unlikely to be confounded by PSA screening
+1	Breast and prostate cancer	CAPS	rs9623117	RESULTS	To explore the region of prostate cancer association at 22q13, we performed allelic tests for aggressive prostate cancer risk with all the genotyped and imputed SNPs in the 1 Mb-region flanking the SNP rs9623117 (38.4-39.4 Mb) based on the GWAS data from CGEMS and CAPS.
+0	NA	NA	NA	RESULTS	Figure 1 presents the results of the combined test in these two populations using a Mantel-Haenszel model.
+0	Breast and prostate cancer	NA	rs7291691	RESULTS	Multiple SNPs in the region between 38.77-38.97 kb were strongly associated with aggressive prostate cancer risk; the strongest one was rs7291691.
+1	NA	TNRC6B	NA	RESULTS	These most significant SNPs were within a large haplotype block and within the TNRC6B gene.
+1	NA	TNRC6B	NA	RESULTS	TNRC6B (trinucleotide repeat-containing gene 6b), a RNA recognition motif (RRM)-containing protein, was localized to the mRNA-degrading cytoplasmic P bodies, and is functionally required to mediate miRNA-guided mRNA cleavage.
+1	NA	TNRC6B	NA	RESULTS	TNRC6B is expressed in many normal tissues, including the prostate.
+1	Breast and prostate cancer	TNRC6B	NA	RESULTS	In addition, TNRC6B expression was suppressed in hormone refractory metastatic prostate cancer compared to prostate carcinoma (http://www.oncomine.org).
+1	prostate carcinogenesis	TNRC6B	NA	RESULTS	Alterations in TNRC6B gene expression due to genetic variations might perturb the levels of mRNA species normally under its control and therefore contribute to carcinogenesis.
+1	NA	TNRC6B	NA	RESULTS	Additional fine-mapping efforts to cover the promoter region of TNRC6B are warranted
+0	Breast and prostate cancer	NA	NA	RESULTS	It is also noted that the prostate cancer association at 22q13 is also within the interval of a prostate cancer linkage at 22q12.3 reported previously in families of five or more members affected with prostate cancer.
+0	NA	NA	NA	RESULTS	It is, however, ~4 Mb telomeric to the smaller (~2.5 Mb) consensus linkage region reported in two recent studies.
+0	Breast and prostate cancer	NA	NA	RESULTS	Additional studies are needed to test whether this novel locus at 22q13 contributes to the observed prostate cancer linkage
+0	Breast and prostate cancer	NA	NA	RESULTS	In summary, a novel prostate cancer risk locus at 22q13 was discovered in two genome-wide association studies and confirmed in six additional study populations.
+0	NA	NA	NA	RESULTS	Our study demonstrates an efficient approach to utilize publicly available data in improving the statistical power to identify risk variants that are moderately associated with disease risk.
+0	Breast and prostate cancer	NA	NA	RESULTS	However, there are several important caveats for the prostate cancer association at 22q13.
+1	Breast and prostate cancer	NA	rs9623117	RESULTS	First, although the P-value of 5.9 x 10-7 for an association between aggressive prostate cancer and rs9623117 at 22q13 in the combined analysis is highly significant, it did not reach a genome-wide significance level.
+0	NA	NA	NA	RESULTS	A nominal P-value of 2 x 10-8 is needed to ensure a 5% study-wide false positive rate, adjusting for a total of 2.5 million tests.
+0	NA	NA	NA	RESULTS	Therefore, additional confirmation studies are needed.
+0	NA	CAPS	NA	RESULTS	Second, our study is under-powered to discover risk variants of moderate effect because of the small sample size of the GWAS in CAPS and the reliance on imputed SNPs for most of the SNPs examined.
+0	NA	NA	NA	RESULTS	Larger sample size and higher resolution (increased number of SNPs) in GWAS are needed to reduce false negative findings.
+0	Breast and prostate cancer	NA	NA	RESULTS	Finally, even with an effort to limit cases to aggressive prostate cancer in the GWAS, the identified novel risk variant at 22q13 was not uniquely associated with aggressive prostate cancer.
+0	Breast and prostate cancer	NA	NA	RESULTS	This result is similar to all the prostate cancer risk variants recently identified from GWAS, including at 8q24, 17q12, 17q24, 10q11, and 11q13.
+0	Breast and prostate cancer	NA	NA	RESULTS	Considering that only a small fraction of PSA-detected prostate cancer progresses is life-threatening, it is most important to identify genetic variants that can be used to identify men at greatest risk for aggressive disease.
+0	Breast and prostate cancer	NA	NA	RESULTS	Other study designs, including those comparing aggressive with non-aggressive prostate cancer should be used to achieve this goal
+0	Breast and prostate cancer	NA	NA	FIG	A schematic view of genetic association between SNPs at 22q13 and prostate cancer risk.
+0	Breast and prostate cancer	CAPS	NA	FIG	(Upper panel) Combined allele tests for SNPs at 22q13 (38.4-39.4 Mb) and aggressive prostate cancer risk based on two genome-wide association studies in CAPS and CGEMS.
+0	NA	NA	NA	FIG	(Lower panel) Known genes and inferred haplotype blocks of SNPs at this region based on the CEU study population HapMap data
+0	Breast and prostate cancer	CAPS	NA	TABLE	Independent SNPs that are associated with aggressive prostate cancer in CAPS and CGEM

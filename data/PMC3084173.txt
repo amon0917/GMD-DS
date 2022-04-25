@@ -1,0 +1,104 @@
+0	Alzheimer's disease	NA	NA	ABSTRACT	We sought to identify new susceptibility loci for Alzheimer's disease (AD) through a staged association study (GERAD+) and by testing suggestive loci reported by the Alzheimer's Disease Genetic Consortium (ADGC).
+0	NA	NA	NA	ABSTRACT	First, we undertook a combined analysis of four genome-wide association datasets (Stage 1) and identified 10 novel variants with P<=1x10-5.
+0	NA	NA	NA	ABSTRACT	These were tested for association in an independent sample (Stage 2).
+0	NA	NA	NA	ABSTRACT	Three SNPs at two loci replicated and showed evidence for association in a further sample (Stage 3).
+0	Alzheimer's disease	ABCA7	rs610932	ABSTRACT	Meta-analyses of all data provide compelling evidence that ABCA7 (meta-P 4.5x10-17; including ADGC meta-P=5.0x10-21) and the MS4A gene cluster (rs610932, meta-P=1.8x10-14; including ADGC meta-P=1.2x10-16; rs670139, meta-P=1.4x10-9; including ADGC meta-P=1.1x10-10) are novel susceptibility loci for AD.
+0	NA	CD2AP	NA	ABSTRACT	Second, we observed independent evidence for association for three suggestive loci reported by the ADGC GWAS, which when combined shows genome-wide significance: CD2AP (GERAD+ P=8.0x10-4; including ADGC meta-P=8.6x10-9), CD33 (GERAD+ P=2.2x10-4; including ADGC meta-P=1.6x10-9) and EPHA1 (GERAD+ P=3.4x10-4; including ADGC meta-P=6.0x10-10).
+0	Alzheimer's disease	NA	NA	ABSTRACT	These findings support five novel susceptibility genes for AD
+0	Alzheimer's disease	NA	NA	INTRO	Alzheimer's disease (AD) is the most common form of dementia, with both environmental and genetic factors contributing to risk.
+0	Alzheimer's disease	NA	NA	INTRO	AD is genetically complex and shows heritability up to 79%.
+0	Alzheimer's disease	PSEN1	NA	INTRO	Rare variants in three genes (APP, PSEN1 & PSEN2) cause disease in a minority of cases, but until recently the Apolipoprotein E gene (APOE), was the only gene known to increase disease risk for the common form of AD with late-onset.
+0	Alzheimer's disease	CLU	NA	INTRO	In 2009 we published a genome-wide association study (GWAS) of AD in a sample designated GERAD1 (Genetic and Environmental Risk in AD Consortium 1), which identified two new genome-wide significant susceptibility loci: clusterin (CLU: P=8.5x10-10) and phosphatidylinositol-binding clathrin assembly protein gene (PICALM: P=1.3x10-9).
+0	NA	NA	NA	INTRO	We also observed more variants with P-values<1x10-5 than were expected by chance (P=7.5x10-6).
+0	NA	CR1	NA	INTRO	These included variants in the complement receptor 1 (CR1) gene, the bridging integrator 1 (BIN1) gene and the membrane-spanning 4A gene cluster (MS4A gene cluster).
+0	Alzheimer's disease	CLU	NA	INTRO	A second independent AD GWAS by Lambert and colleagues using the EADI1 sample (European Alzheimer's Disease Initiative 1) showed genome-wide significant evidence for association with CLU (P=7.5x10-9) and CR1 (P=3.7x10-9), and support for PICALM (P=3x10-3).
+0	NA	CLU	NA	INTRO	Combined analysis of the GERAD1 and EADI1 data yield highly significant support for all three loci (CLU meta-P=6.7x10-16, PICALM meta-P=6.3x10-9, CR1 meta-P=3.2x10-12).
+0	NA	CLU	NA	INTRO	The associations in CLU, PICALM and CRI have since been replicated in several independent datasets, shown trends in another and relationships with neurodegenerative processes underlying disease.
+0	NA	BIN1	NA	INTRO	In addition, members of this consortium have since reported genome-wide significant association for BIN1 (P=1.6x10-11) and support for ephrin receptor A1 (EPHA1; P=1.7x10-6).
+0	Alzheimer's disease	NA	NA	INTRO	This study sought to identify new common susceptibility variants for AD by first undertaking a three-stage association study based upon predominantly European samples (GERAD+, see Figure 1) and second, by testing these samples for loci showing suggestive evidence for association in the American Alzheimer's Disease Genetics Consortium (ADGC) GWAS
+0	Alzheimer's disease	NA	NA	INTRO	The first stage of this study comprised a meta-analysis of four AD GWAS datasets (6688 cases, 13685 controls), including: GERAD1, EADI1, Translational Genomics Research Institute (TGEN1) and Alzheimer's Disease Neuroimaging Initiative (ADNI).
+0	Alzheimer's disease	AD-IG	NA	INTRO	Single nucleotide polymorphisms (SNPs) which remained significant at P<=1x10-5 were then tested for replication in the second stage of this study, comprising 4896 cases and 4903 controls including genotyping of the GERAD2 sample and in silico replication in the deCODE and German Alzheimer's disease Integrated Genome Research Network (AD-IG) GWAS datasets.
+0	CHARGE	NA	NA	INTRO	In Stage 3, novel SNPs showing significant evidence of replication in Stage 2 were then tested for association in a sample comprising 8286 cases and 21258 controls, which included new genotyping in the EADI2 and Mayo2 samples, and in silico replication in the Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) sample.
+0	NA	NA	NA	INTRO	Sample descriptions and characteristics can be found in the Supplementary Note and Supplementary Table 1
+0	Alzheimer's disease	NA	NA	INTRO	In Stage 1 we identified 61 SNPs associated with AD at P<=1x10-5 following meta-analysis of 496763 SNPs in the GERAD1, TGEN1, ADNI and EADI1 (see Supplementary Table 2 and the Supplementary Note).
+0	NA	NA	NA	INTRO	Ten SNPs at novel loci and two at previously identified susceptibility loci that surpassed the P<=1x10-5 threshold, were selected for further analysis (see below).
+0	NA	NA	rs610932	INTRO	One SNP, rs610932 (Stage 1 P=1.8x10-8) at the MS4A (membrane spanning 4A) gene cluster, surpassed the threshold (P<5.0x10-8) for genome-wide significance.
+1	NA	ABCA7	rs3764650	INTRO	We also observed strong evidence for association at ABCA7 (ATP-binding cassette, sub-family A, member 7; rs3764650; Stage 1 P=2.6x10-7)
+0	NA	BIN1	NA	INTRO	When selecting SNPs for testing in Stage 2, we excluded known susceptibility loci that had previously been tested in GERAD2 and limited analysis of BIN1 and CR1, which had not been tested in GERAD2, to the most significant SNPs at each locus (See Supplementary Table 2).
+0	NA	BIN1	NA	INTRO	Following pruning for linkage disequilibrium, twelve SNPs were taken forward for replication in Stage 2 (10 excluding BIN1 and CR1)
+0	NA	NA	NA	INTRO	Five of the twelve SNPs tested in Stage 2 showed significant evidence for replication using a Bonferroni adjusted threshold for significance of P=4.2x10-3 (see Table 1 and Supplementary Table 3).
+1	NA	BIN1	rs3764650	INTRO	In addition to SNPs at BIN1 and CR1, one SNP within ABCA7 (rs3764650, Stage 2 P=1.9x10-5) and two SNPS at the MS4A gene cluster (rs610932, stage 2 P=1.6x10-3; rs670139 Stage 2 P=1.1x10-3) showed evidence of replication in Stage 2.
+1	NA	NA	rs3764650	INTRO	The three SNPs implicating novel risk loci were tested for association in the Stage 3 sample and showed further evidence of replication (rs3764650, Stage 3 P=2.9x10-7; rs610932, Stage 3 P=2.1x10-5; rs670139, Stage 3 P=3.2x10-3; see Table 1 and Supplementary Table 3)
+0	NA	NA	NA	INTRO	We conducted an inverse variance weighted meta-analysis of data from Stages 1, 2 and 3 (See Table 1 and Supplementary Table 3).
+1	NA	ABCA7	rs3764650	INTRO	This provided strong evidence for association with rs3764650 at ABCA7 (meta-P=4.5x10-17) and two SNPs at the MS4A gene cluster: rs610932 (meta-P=1.8x10-14) and rs670139 (meta-P=1.4x10-9).
+0	NA	ABCA7	NA	INTRO	When combining GERAD+ and ADGC results (after removing overlapping samples) ABCA7 has a P-value of 5.0x10-21 (OR=1.22).
+0	NA	NA	rs610932	INTRO	The two SNPs at the MS4A gene cluster, rs610932 and rs670139, showed P-values of 1.2x10-16 (OR=0.91) and 1.1x10-10 (OR=1.08), respectively, in the combined analysis of GERAD+ and ADGC results.
+0	NA	NA	rs4938933	INTRO	It is noteworthy that the most significant ADGC SNP at the MS4A locus is in LD with our top SNP (rs4938933 with rs610932 r2=0.62, D'=0.86), thus both datasets may be detecting the same underlying signal
+0	NA	CR1	NA	INTRO	This study also provides additional independent support for association with CR1 (Stage 2 P=1.4x10-3) and BIN1 (Stage 2 P=3.8x10-5; see Table 1 for meta-analysis.)
+0	NA	apolipoprotein E	NA	INTRO	We did not observe interaction between APOE and the novel variants identified in this study, indeed we did not find evidence of epistasis between any of the genome-wide significant variants identified to date (ABCA7, MS4A, BIN1, CR1, PICALM, CLU or APOE) (see Supplementary Table 4a).
+0	NA	apolipoprotein E	NA	INTRO	Likewise, adjusting for the presence of at least one APOE epsilon4 allele had little effect on the results of analysis of the three novel variants (see Supplementary Table 4b).
+1	Alzheimer's disease	NA	rs3764650	INTRO	We also found no evidence for association between these loci and age at onset of AD (rs3764650: P=0.17; rs670139: P=0.38; rs610932: P=0.95; rs744373: P=0.87; rs3818361: P=0.58)
+0	Alzheimer's disease	NA	NA	INTRO	This study therefore shows strong statistical support for two novel AD risk loci, which replicate over a number of independent case-control samples.
+0	NA	ABCA7	NA	INTRO	The first of these is the ATP-binding cassette, sub-family A, member 7 (ABCA7) locus (Figure 2A).
+1	NA	NA	rs3764650	INTRO	The associated marker is rs3764650, which is located in intron 13.
+0	NA	NA	NA	INTRO	This SNP was the only variant in the gene that passed our Stage 1 criterion, which is not unexpected given the low levels of linkage disequilibrium (LD) between this SNP and others included in the GWAS.
+1	NA	ABCA7	rs3752246	INTRO	However, in a preliminary attempt to identify an associated functional variant at the ABCA7 locus, we genotyped the GERAD2 sample for rs3752246, a non-synonymous SNP in exon 32 of the gene, which showed the highest LD with rs3764650 out of all HapMap ABCA7 coding variants based on r2 (r2=0.36, D'=0.89).
+0	Alzheimer's disease	NA	NA	INTRO	This variant (which was not genotyped in Stage 1) was also associated with AD (GERAD2 P=1x10-3, OR=1.17).
+0	NA	NA	rs3752246	INTRO	Rs3752246 encodes a glycine to alanine substitution at position 1527 of the protein (accession number NP_061985.2) which is predicted to be a benign change, and is unlikely to be the relevant functional variant.
+1	NA	ABCA7	rs3764650	INTRO	We used data from two published expression quantitative trait loci (eQTL) datasets (derived from lymphoblastoid cell lines and brain) to determine if rs3764650 is associated with the expression of ABCA7.
+0	NA	NA	NA	INTRO	However, no association was observed (see Supplementary Table 5).
+0	NA	NA	NA	INTRO	Further work will be required to identify the causal variant(s) at this locus
+0	NA	NA	NA	INTRO	Second, we implicate the membrane-spanning 4A (MS4A) gene cluster (Figure 2B).
+0	NA	NA	NA	INTRO	The association spans an LD block of 293 kb (chr11: 59,814,28760,107,105) and includes 6 of 16 known genes comprising the membrane-spanning 4-domains, subfamily A (MS4A).
+1	NA	MS4A2	NA	INTRO	These are MS4A2, MS4A3, MS4A4A, MS4A4E, MS4A6A and MS4A6E.
+1	NA	MS4A6A	rs610932	INTRO	The associated SNPs are found in the 3' UTR of MS4A6A (rs610932) and the intergenic region between MS4A4E and MS4A6A (rs670139).
+1	NA	MS4A6A	rs610932	INTRO	rs610932 shows nominally significant association with expression levels of MS4A6A in cerebellum and temporal cortex (0.01<P<0.05; see Supplementary Table 5), but not in frontal cortex, pons, or lymphoblastoid cell lines.
+0	NA	NA	rs2304933	INTRO	The non-synonymous SNP that is most strongly associated with the genome-wide significant variants is rs2304933.
+0	NA	NA	NA	INTRO	This SNP was analyzed in Stage 1 but showed weaker evidence for association (P=0.006) than the genome-wide significant variant at this locus in the same sample
+0	Alzheimer's disease	NA	NA	INTRO	We also sought to follow up four additional loci showing suggestive evidence for association with AD (1x10-6>=P>5x10-8) from the ADGC GWAS.
+0	NA	EPH receptor A1	NA	INTRO	These loci included CD33, EPHA1, CD2AP and ARID5B.
+0	NA	EPH receptor A1	NA	INTRO	It should be noted that evidence for suggestive association with EPHA1 and CD33 has been reported previously.
+0	Alzheimer's disease	EPH receptor A1	rs11771145	INTRO	Members of this collaboration were the first to report EPHA1 as showing suggestive evidence of association with AD (rs11771145, P=1.7x10-6; LD with ADGC SNP rs11767557: r2 = 0.28, D'=0.75), which included GERAD1 and EADI1 samples reported on here.
+0	NA	NA	rs3826656	INTRO	Similarly, Bertram and colleagues were the first to show suggestive evidence for CD33 (rs3826656, P=4.0x10-6; LD with ADGC SNP rs3865444: r2 = 0.13, D'=1.0)
+0	NA	AD-IG	NA	INTRO	We combined data from the GERAD+ dataset comprising GERAD1, EADI1, deCODE and AD-IG GWAS datasets (up to 6992 cases and 13472 controls) using inverse variance meta-analysis.
+0	NA	NA	NA	INTRO	The TGEN1, ADNI and Mayo1 datasets were included in the ADGC discovery set and were thus excluded from these particular analyses.
+0	NA	CD2AP	rs9349407	INTRO	We observed support for association with CD2AP (rs9349407, P=8.0x10-4, OR=1.11), CD33 (rs3865444, P=2.2x10-4, OR=0.89) and EPHA1 (rs11767557, P=3.4x10-4, OR=0.90)
+0	Alzheimer's disease	NA	rs9349407	INTRO	When these data were combined with ADGC we observed genome-wide evidence for association with AD (rs9349407, GERAD+ & ADGC meta-P=8.6x10-9, OR=1.11; rs3865444, GERAD+ & ADGC meta-P=1.6x10-9, OR=0.91; rs11767557, GERAD+ & ADGC meta-P=6.0x10-10, OR=0.90).
+0	NA	ARID5B	rs2588969	INTRO	We observed nominally significant evidence of association with ARID5B (rs2588969, P=3.3x10-2, OR=1.06), however the direction of effect was opposite to that reported by ADGC, and was not significant overall (GERAD+ & ADGC meta-P=3.6x10-1, OR=0.99).
+0	NA	NA	NA	INTRO	See Table 2 for results and Supplementary Table 6 for results of additional SNPs at these loci
+0	Alzheimer's disease	NA	NA	INTRO	Taken together, these results show compelling evidence for an additional five novel AD susceptibility loci.
+0	NA	ABCA7	NA	INTRO	ABCA7 encodes an ATP-binding cassette (ABC) transporter.
+0	NA	ATP-binding cassette (ABC) transporter	NA	INTRO	The ABC transporter superfamily has roles in transporting a wide range of substrates across cell membranes ABCA7 is highly expressed in brain, particularly in hippocampal CA1 neurons and in microglia.
+0	NA	ABCA7	NA	INTRO	ABCA7 is involved in the efflux of lipids from cells to lipoprotein particles.
+0	NA	apolipoprotein E	NA	INTRO	Notably, the main lipoproteins in brain are APOE followed by CLU.
+0	NA	NA	NA	INTRO	Although no evidence for epistasitic interactions between the three genetic loci was observed (see Supplementary Table 4a), however, this is not a prerequisite for biological interaction between these molecules.
+0	NA	ABCA7	NA	INTRO	In addition, ABCA7 has been shown to regulate APP processing and inhibit beta-amyloid secretion in cultured cells overexpressing APP.
+0	NA	ABCA7	NA	INTRO	ABCA7 also modulates phagocytosis of apoptotic cells by macrophages mediated through the C1q complement receptor protein on the apoptotic cell surface.
+0	NA	ABCA7	NA	INTRO	ABCA7 is an orthologue of C. elegans ced-7, the product of which is known to clear apoptotic cells and the high levels of expression of ABCA7 in microglia are consistent with such a role
+0	NA	NA	NA	INTRO	The genes in the MS4A cluster on chromosome 11 have a common genomic structure with all other members of the family, including transmembrane domains indicating that they are likely to be part of a family of cell surface proteins.
+0	NA	MS4A2	NA	INTRO	MS4A2 encodes the beta subunit of high affinity IgE receptors.
+0	NA	NA	NA	INTRO	The remaining genes in the LD block have no known specific functions.
+0	NA	NA	NA	INTRO	CD33 is a member of the sialic-acid-binding immunoglobulin-like lectins (Siglec) family which are thought to promote cell-cell interactions and regulate functions of cells in the innate and adaptive immune systems.
+0	NA	NA	NA	INTRO	Most members of the Siglec family, including CD33, act as endocytic receptors, mediating endocytosis through a mechanism independent of clathrin.
+0	NA	CD2AP	NA	INTRO	CD2AP (CD2-associated protein) is a scaffold/adaptor protein which associates with cortactin, a protein also involved in the regulation of receptor mediated endocytosis.
+0	Alzheimer's disease	PICALM	NA	INTRO	It is striking that these two new susceptibility genes for AD, and the recently established susceptibility genes PICALM and BIN1 are all implicated in cell-cell communication and transduction of molecules across the membrane.
+0	NA	EPH receptor A1	NA	INTRO	EPHA1 is a member of the ephrin receptor subfamily.
+0	NA	EPH receptor A1	NA	INTRO	Ephrins and Eph receptors are membrane bound proteins which play roles in cell and axon guidance and in synaptic development and plasticity.
+0	NA	EPH receptor A1	NA	INTRO	However EphA1 is expressed mainly in epithelial tissues where it regulates cell morphology and motility.
+0	Inflammation Laboratory's JDRF	NA	NA	INTRO	Additional roles in apoptosis and inflammation have also been proposed
+0	Alzheimer's disease	ABCA7	NA	INTRO	Our study has generated strong statistical evidence that variants at ABCA7 and the MS4A gene cluster confer susceptibility to AD, which replicates over a number of independent case control samples.
+0	NA	CD2AP	NA	INTRO	We also provide independent support for three loci showing suggestive evidence in a companion paper, CD33, CD2AP and EPHA1,which when the data are combined show genome-wide levels of significance.
+0	NA	BIN1	NA	INTRO	Finally, we provide further evidence for BIN1 and CR1 loci as susceptibility loci.
+0	NA	NA	NA	INTRO	What is striking about our findings is the emerging consistency in putative function of the genes identified.
+0	Alzheimer's disease	CLU	NA	INTRO	Five of the recently identified AD susceptibility loci CLU, CR1, ABCA7, CD33 and EPHA1 have putative functions in the immune system; PICALM, BIN1, CD33, CD2AP are involved in processes at the cell membrane, including endocytosis and APOE, CLU and ABCA7 in lipid processing.
+0	neurodegenerative disease	NA	NA	INTRO	It is conceivable that these processes would play strong roles in neurodegeneration and Abeta clearance from the brain.
+0	Alzheimer's disease	NA	NA	INTRO	These findings therefore provide new impetus for focused studies aimed at understanding the pathogenesis of AD
+0	CHARGE	NA	rs744373	FIG	* Data for rs744373 and rs3818361 in the CHARGE consortium have been presented elsewhere, as has data for rs381861 in the EADI2 samples, as such these SNPs were not included in Stage 3
+0	NA	ABCA7	NA	FIG	Schematic of the associated variants reported in reference to (A) the ABCA7 gene and (B) chromosomal region chr11:59.81Mb-60.1Mb harboring members of the MS4A gene cluster.
+0	NA	NA	NA	FIG	Chromosome positions are shown at the top of the schematics (UCSC Feb 2009).
+0	NA	NA	NA	FIG	Gene schematic: horizontal arrows indicate directions of transcription, black boxes indicate gene exons/UTR.
+0	NA	NA	NA	FIG	The -Log10(P) of the SNPs analyzed in Stage 1 are shown in chart graph.
+1	NA	ABCA7	rs3764650	FIG	The GERAD+ Stage 1, 2 and 3meta-analysis P-values for SNPs rs3764650 (ABCA7), rs610932 (MS4A6A) and rs670139 (MS4A4E) are indicated by the red lines.
+0	NA	ABCA7	NA	FIG	The D' LD block structure of the ABCA7 gene plus surrounding region, and chr11:59.81Mb-60.1Mb according to the CEPH HapMap data, are provided at the bottom of each schematic with lines indicating where each SNP genotyped on the Illumina 610-quad chip is represented
+1	NA	ABCA7	rs3764650	FIG	Forest plots showing association in the different datasets for SNPs at the ABCA7 (rs3764650) and MS4A (rs610932 & rs670139) loci
+0	NA	NA	NA	TABLE	Results of the combined analysis of the ADGC and GERAD+ consortia

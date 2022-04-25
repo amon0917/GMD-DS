@@ -1,0 +1,143 @@
+0	Alzheimer's disease	NA	NA	ABSTRACT	To discover susceptibility genes of late-onset Alzheimer's disease (LOAD), we conducted a 3-stage genome-wide association study (GWAS) using three populations: Japanese from the Japanese Genetic Consortium for Alzheimer Disease (JGSCAD), Koreans, and Caucasians from the Alzheimer Disease Genetic Consortium (ADGC).
+0	NA	NA	NA	ABSTRACT	In Stage 1, we evaluated data for 5,877,918 genotyped and imputed SNPs in Japanese cases (n = 1,008) and controls (n = 1,016).
+0	NA	apolipoprotein E	NA	ABSTRACT	Genome-wide significance was observed with 12 SNPs in the APOE region.
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	rs3781834	ABSTRACT	Seven SNPs from other distinct regions with p-values <2x10-5 were genotyped in a second Japanese sample (885 cases, 985 controls), and evidence of association was confirmed for one SORL1 SNP (rs3781834, P = 7.33x10-7 in the combined sample).
+1	Alzheimer's disease	sortilin-related receptor L(DLR class A) repeats-containing	rs11218343	ABSTRACT	Subsequent analysis combining results for several SORL1 SNPs in the Japanese, Korean (339 cases, 1,129 controls) and Caucasians (11,840 AD cases, 10,931 controls) revealed genome wide significance with rs11218343 (P = 1.77x10-9) and rs3781834 (P = 1.04x10-8).
+0	Alzheimer's disease	PICALM	rs3851179	ABSTRACT	SNPs in previously established AD loci in Caucasians showed strong evidence of association in Japanese including rs3851179 near PICALM (P = 1.71x10-5) and rs744373 near BIN1 (P = 1.39x10-4).
+0	NA	NA	NA	ABSTRACT	The associated allele for each of these SNPs was the same as in Caucasians.
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	NA	ABSTRACT	These data demonstrate for the first time genome-wide significance of LOAD with SORL1 and confirm the role of other known loci for LOAD in Japanese.
+0	NA	NA	NA	ABSTRACT	Our study highlights the importance of examining associations in multiple ethnic populations
+0	Alzheimer's disease	NA	NA	INTRO	Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by cognitive dysfunction and memory loss.
+0	Alzheimer's disease	PSEN1	NA	INTRO	Multiple rare mutations in APP, PSEN1, PSEN2 and SORL1 account for most cases of early-onset autosomal dominant AD.
+0	Alzheimer's disease	NA	NA	INTRO	Risk of late-onset AD (LOAD), the most common type of dementia in the elderly, is associated with complex interactions between genetic and environmental factors.
+0	NA	apolipoprotein E	NA	INTRO	Until recently, APOE was the only unequivocally recognized major susceptibility gene for LOAD.
+0	NA	ABCA7	NA	INTRO	Several genome-wide association studies (GWAS) each including more than 5,000 Caucasians identified genome-wide significant associations for LOAD with nine other loci including ABCA7, BIN1, CD2AP, CD33, CLU, CR1, EPHA1, MS4A gene cluster, and PICALM .
+0	NA	NA	NA	INTRO	To our knowledge, no large GWAS for LOAD has been performed in any Asian population.
+0	NA	NA	NA	INTRO	Because there is a possibility that there exist ethnic-specific LOAD susceptibility variants, we carried out a large-scale GWAS to confirm associations at known loci and identify novel loci for LOAD using a three-stage design including a discovery Japanese cohort and replication cohorts of Japanese, Korean and Caucasian subjects
+0	Alzheimer's disease	NA	NA	METHODS	Clinically defined subjects were recruited by the Japanese Genetic Study Consortium of Alzheimer's Disease (JGSCAD: principal investigator, Y.I.).
+0	Alzheimer's disease	NA	NA	METHODS	Probable AD cases were ascertained on the basis of the criteria of the National Institute of Neurological and Communicative Disorders, and Stroke-Alzheimer's Disease and Related Disorders (NINCDS/ADRDA).
+0	cognitive defects	NA	NA	METHODS	The Mini-Mental State Examination, Clinical Dementia Rating, and/or Function Assessment Staging were primarily used for evaluation of cognitive impairment.
+0	dementia	NA	NA	METHODS	Elders living in an unassisted manner in the local community with no signs of dementia were used as controls.
+0	NA	NA	NA	METHODS	DNA was extracted from peripheral blood leukocytes using standard protocols.
+0	Alzheimer's disease	NA	NA	METHODS	For the purpose of this study, the Stage 1 genome-wide association study (GWAS) dataset included 2024 subjects (1008 AD cases and 1016 controls) and the Stage 2 dataset included 1870 subjects (885 AD cases and 985 controls)
+0	Alzheimer's disease	NA	NA	METHODS	A total of 339 subjects with AD were recruited at the Samsung Medical Center in Seoul, Korea.
+0	Alzheimer's disease	NA	NA	METHODS	All AD subjects fulfilled NINCDS-ADRDA criteria for probable AD.
+0	NA	NA	NA	METHODS	These subjects underwent a clinical interview and neurological examination that were previously described.
+0	cognitive defects	NA	NA	METHODS	The absence of secondary causes of cognitive deficits was assessed by laboratory tests including complete blood count, blood chemistry, vitamin B12/folate, syphilis serology, and thyroid function tests.
+0	cerebral infarctions	NA	NA	METHODS	Conventional brain MRI scans (T1-weighted, T2-weighted, and FLAIR images) confirmed the absence of territorial cerebral infarctions, brain tumors, and other structural lesions.
+0	cognitive defects	NA	NA	METHODS	Healthy control subjects (n = 1,129) ages 55 to 85 years were recruited from routine health examination at the same location and showed no evidence of cognitive dysfunction
+0	Alzheimer's disease	NA	NA	METHODS	Summarized information from tests of genetic association of AD with SNPs located in the candidate gene regions was culled from a recent large GWAS conducted by the Alzheimer Disease Genetics Consortium (ADGC).
+0	Alzheimer's disease	NA	NA	METHODS	Results were computed for SNPs throughout the genome in a sample composed of 11,840 AD cases and 10,931 cognitively normal elders from 15 independent Caucasian data sets.
+0	NA	NA	NA	METHODS	Details of the quality control and statistical analysis procedures and genetic models has been published elsewhere
+0	NA	NA	NA	METHODS	This study was approved by the Boston University Institutional Review Board, Institutional Review Board of Niigata University, and the Institutional Review Boards of all participating institutions.
+0	NA	NA	NA	METHODS	Written informed consent was obtained from all participants.
+0	NA	NA	NA	METHODS	Next of kin, carer takers or guardians consented on the behalf of participants whose capacity to consent was compromised.
+0	NA	NA	NA	METHODS	All subjects were anonymously genotyped.
+0	NA	NA	NA	METHODS	The basic demographics of the cases and controls before QC in each dataset are presented in Table 1
+0	NA	NA	NA	METHODS	GWAS genotyping was performed in the Stage 1 sample using Affymetrix GeneChip 6.0 microarrays containing 909,622 SNPs.
+0	NA	NA	NA	METHODS	Applied Biosystems' (ABI) TaqMan Assays were used to genotype individual SNPs in the Japanese and Korean replication cohorts.
+0	NA	apolipoprotein E	rs7412	METHODS	APOE genotypes in the Japanese and Korean samples were determined by haplotypes derived from rs7412 and rs429358 which were genotyped using TaqMan Assays.
+0	NA	apolipoprotein E	NA	METHODS	Details of APOE genotyping in each ADGC dataset were described previously
+0	NA	NA	NA	METHODS	In the Stage 1 sample, SNPs with a genotype call rate (GCR) <95%, a minor allele frequency (MAF) <0.05, or significant deviation from the Hardy-Weinberg equilibrium (HWE) in controls (P<10-6) were excluded.
+0	NA	NA	NA	METHODS	After excluding 83,673 low quality and 298,304 low frequency SNPs, we removed 196 subjects with a GCR <95% and 41 subjects whose gender as determined by analysis of X-chromosome data using the PLINK program (ver.
+0	NA	NA	NA	METHODS	1.06) was inconsistent with the reported gender.
+0	NA	NA	NA	METHODS	The same QC procedures were applied to the Japanese and Korean replication datasets.
+0	NA	NA	NA	METHODS	We examined population substructure in the GWAS dataset by analyzing tagging SNPs from the genome-wide panels using the smartpca module from EIGENSTRAT software in a manner described previously.
+0	NA	NA	NA	METHODS	Subsequently, we excluded three subjects who were cryptically related to other subjects in the dataset and 49 individuals who were population outliers.
+0	Alzheimer's disease	NA	NA	METHODS	The strength of association of the top 10 principal components (PCs) was tested with AD status.
+0	Alzheimer's disease	NA	NA	METHODS	The first three PCs were nominally associated with AD status.
+0	NA	NA	NA	METHODS	A total of 574,828 SNPs and 1,735 subjects comprising 891 cases and 844 controls passed the QC and were used for imputation and in further statistical analyses
+0	NA	NA	NA	METHODS	Genotypes for all SNPs in Japanese and Caucasians were imputed with the Markov Chain haplotyping (MaCH) software using reference haplotypes in the 1000 Genomes database (version released in February 2012 for Japanese datasets and version released in December 2010 for Caucasian datasets).
+0	NA	NA	NA	METHODS	This procedure also filled in missing data for the genotyped SNPs.
+0	NA	NA	NA	METHODS	Imputation quality was determined as R2, which estimates the squared correlation between imputed and true genotypes.
+0	NA	NA	NA	METHODS	We applied threshold criteria for quality control assessment of imputed SNPs (R2 >=0.8) as recommended for 1000 Genomes imputed data using the IMPUTE2 program.
+0	NA	NA	NA	METHODS	Genotype probabilities for 5,877,918 genotyped and reliably imputed SNPs with a minor allele frequency (MAF) >0.02 were included in the Japanese GWAS
+0	Alzheimer's disease	NA	NA	METHODS	Genotyped and imputed SNPs were tested for association with AD in the Stage 1 dataset using a logistic generalized linear model (GLM) controlling for age-at-onset (cases)/age-at-exam (controls), sex and the first three principal components from analysis of of population substructure.
+0	NA	apolipoprotein E	NA	METHODS	Stage 1 analyses were also performed based on a model adjusting for these covariates and the number of APOE epsilon4 alleles.
+0	NA	apolipoprotein E	NA	METHODS	SNPs in the APOE region (between map positions 45,000 kb and 45,800 kb on chromosome 19) were also tested for association in epsilon3/epsilon3 and epsilon3/epsilon4 subgroups.
+0	NA	NA	NA	METHODS	Genotyped SNPs were coded as 0, 1, or 2 according to the number of minor alleles under the additive genetic model.
+0	NA	NA	NA	METHODS	For imputed SNPs, a quantitative estimate between 0 and 2 for the dose of the minor allele were used to incorporate the uncertainty of the imputation estimates.
+0	NA	NA	NA	METHODS	All analyses were performed using PLINK.
+0	NA	NA	NA	METHODS	SNPs attaining a P value below 5x10-5 were considered for replication in Stage 2.
+0	NA	NA	NA	METHODS	Initially, only one SNP per region was tested in the replication sample to minimize the penalty for multiple testing.
+0	NA	NA	NA	METHODS	Additional SNPs from regions meeting the signifcance threshold in the replication sample were also evaluated.
+0	NA	NA	NA	METHODS	SNPs with a P value below 1x10-5 in the combined Stages 1 and 2 samples and nominally significant in Stage 2 (P<0.05) were advanced to Stage 3
+0	NA	NA	NA	METHODS	SNP association results obtained from individual datasets were combined by meta-analysis using the inverse variance method implemented in the software package METAL (http://www.sph.umich.edu/csg/abecasis/Metal/index.html).
+0	NA	NA	NA	METHODS	An additive model was assumed and the association results across datasets were combined by summing the regression coefficients weighted by the inverse variance of the coefficients.
+0	NA	NA	NA	METHODS	The meta-analysis P-value of the association was estimated by the summarized test statistic, after applying a genomic control within each individual study.
+0	NA	NA	NA	METHODS	Effect sizes were weighted by their inverse variance and a combined estimate was calculated by summing the weighted estimates and dividing by the summed weights
+0	NA	NA	NA	RESULTS	The quantile-quantile plot indicated limited genomic inflation (lambda = 1.04in the Stage 1 GWAS results (Fig.
+0	NA	NA	NA	RESULTS	S1).
+0	NA	NA	NA	RESULTS	A total of 125 SNPs from seven distinct regions showed evidence of association with P<10-4 (Table S1, Fig.
+0	NA	NA	NA	RESULTS	S2).
+0	NA	apolipoprotein E	rs429358	RESULTS	In addition to APOE SNP rs429358 (P = 2.46x10-49, OR [95% CI]  = 5.5 [4.4-6.9]), 12 other SNPs in the APOE region were associated with LOAD at the genome-wide significance level of P<5.0x10-8.
+0	NA	PVRL2	rs12610605	RESULTS	The two most significant results in this group of SNPs were rs12610605 (PVRL2: P = 1.38x10-13, OR [95% CI]  = 1.8 [1.5-2.0]) and rs62117161 (between CEACAM16 and BCL3: P = 3.46x10-12, OR [95% CI]  = 0.47 [0.38-0.58]).
+0	NA	apolipoprotein E	NA	RESULTS	Since imputation in the APOE region using the 1000 Genomes reference panel is unreliable, we genotyped nine SNPs from this region, spanning multiple linkage disequilibrium (LD) blocks (Fig.
+0	NA	NA	NA	RESULTS	S3) and that were nominally significant in the APOE epsilon3/epsilon3 subgroup, in the Japanese discovery and replication samples using TaqMan assays (Table S2).
+0	NA	PPP1R37	NA	RESULTS	Genome-wide significant results were obtained for five of these SNPs, but only the association with PPP1R37 SNP rs 17643262 remained nominally significant after adjustment for the number of APOE epsilon4 alleles (P = 3.96x10-4) or in analyses stratified by APOE genotype (epsilon3/epsilon3: P = 0.01; epsilon3/epsilon4: P = 0.0016)
+0	NA	NA	NA	RESULTS	SNPs from six other distinct chromosomal regions met Stage 2 follow-up criteria (P<5x10-5) and the top SNP from each region was genotyped in an independent Japanese sample (Table 2).
+0	NA	KIAA0494	rs7519866	RESULTS	Two SNPs were nominally significant in the replication sample, however the effect direction for KIAA0494 SNP rs7519866 differed from the discovery sample.
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	rs4598682	RESULTS	Modest evidence for replication was observed only with SORL1 SNP rs4598682 (P<=0.05).
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	rs3781834	RESULTS	Subsequently, we selected an additional four SORL1 SNPs (rs3781834, rs2282647, rs17125523, and rs3737529) for testing in the Japanese replication sample that were among the most significant in the basic or extended models in the discovery sample (Table S1) and not in LD with rs4598682 (r2<0.2, Figure S4).
+0	NA	NA	rs3781834	RESULTS	Two of these SNPs (rs3781834 and rs17125523) were chosen also because they were genotyped in the discovery sample and thus would minimize the effects of potential imputation artifacts in meta-analysis of the two Japanese samples.
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	rs4598682	RESULTS	Highly significant results were obtained for SORL1 SNPs rs4598682 (P = 9.51x10-6), rs3781834 (P = 7.33x10-7), rs17125523 (P = 5.51x10-6), and rs3737529 (P = 4.14x10-6) after combining results from the discovery and replication samples (Table S3)
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	NA	RESULTS	These four SORL1 SNPs showing significant association in the combined samples from Stages 1 and 2 were considered for further replication in Stage 3.
+1	NA	sortilin-related receptor L(DLR class A) repeats-containing	rs11218343	RESULTS	We added rs11218343 to this stage of the analysis because it was the most significant SORL1 SNP in the large Caucasian dataset (P = 1.0x10-7), a result which emerged after pooling the Caucasian discovery GWAS sample and unpublished data in the replication sample from our previously published GWAS.
+0	NA	NA	NA	RESULTS	These five SNPs were subsequently evaluated in Stage 3 by meta analysis including the Stage 1 and 2 Japanese, Korean and ADGC Caucasian datasets.
+1	NA	NA	rs11218343	RESULTS	SNPs rs11218343 (P = 2.20x10-9) and rs3781834 (P = 9.90x10-9), attained genome-wide significance in the sample of datasets from all stages (Table 3, Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	NA	rs17125523	RESULTS	There was modest evidence of replication for rs17125523 (meta P = 3.30x10-6) and rs 3737529 (meta P = 5.10x10-6).
+0	NA	NA	NA	RESULTS	Although the allele frequencies for the top SNPs were very different between the Asian (MAF >0.2) and Caucasian (MAF <0.05) samples (Table 3), there was no evidence of heterogeneity in the magnitude of the odds ratios or effect direction among the population groups (P>0.15, Fig.
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	NA	RESULTS	There was no apparent association in the comparably smaller Korean dataset; however, the direction of the effect for each SNP was the same as in the Japanese and Caucasian datsets
+0	NA	NA	NA	FIG	For each SNP, the chromosomal location is shown on the x-axis and the significance level for association with LOAD is indicated by a -log10P value on the y-axis.
+0	NA	NA	NA	FIG	P-values are expressed as -log10(P) (y-axis) for every tested SNP ordered by chromosomal location (x-axis).
+0	NA	NA	NA	FIG	Genomic position was determined using the NCBI database (Build 37.1).
+0	NA	NA	rs3781834	FIG	Computed estimates of linkage disequilibrium (LD; r2) between SNPs in this region with the top-ranked SNP (rs3781834) in the Japanese discovery (J1) dataset are shown as red circles for r2>=0.8, orange circles for 0.5<=r2<0.8, light blue circles for 0.2<=r2<0.5, and dark blue circles for r2<0.2 using hg19/1000 Genomes of Asian populations (ASN; release on November 2010) combined from Han Chinese (CHB) and Japanese (JPT).
+0	NA	J1+J2	NA	FIG	Meta-analysis P-values are shown as purple diamonds for the Japanese datasets (J1+J2) and all datasets (J1+J2+K+C) including Japanese, Korean (K), and Caucasians (C).
+1	NA	NA	rs3781834	FIG	Two genome-wide significant SNPs in the final stage (rs3781834 and rs11218343) are presented.
+0	NA	NA	NA	FIG	The gene structure and reading frame are shown below the plot.
+0	NA	NA	NA	FIG	Exons are denoted with vertical bars.
+1	NA	NA	rs3781834	FIG	The LD between rs3781834 and rs11218343 is 0.57 in the ASN reference population
+0	NA	NA	NA	RESULTS	Next, we investigated whether robust genetic associations for LOAD reported previously in Caucasians generalize to Japanese.
+0	NA	PICALM	rs3851179	RESULTS	After correcting for 15 tests, SNPs rs3851179 located approximately 90 kb upstream from PICALM (P = 1.71x10-5) and rs744373 located approximately 30 kb upstream from BIN1 (P = 1.39x10-4) were significantly associated with LOAD risk in the Japanese Stage 1 dataset (Table 4).
+0	NA	CR1	NA	RESULTS	Nominally significant associations were also observed for SNPs in CR1, CLU, and ABCA7.
+0	NA	CLU	NA	RESULTS	Of the eight SNPs tested in the small Korean sample, nominally signficant results (P<0.05) were obtained for one SNP in CLU and PICALM, each with the same pattern of association and comparable effect size as in Japanese
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	NA	DISCUSS	Our multi-stage GWAS of LOAD identified for the first-time genome-wide significant association with SORL1.
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	NA	DISCUSS	Genetic association with SORL1 was first established in a study focused on genes encoding proteins involved in vacuolar protein sorting.
+0	NA	NA	NA	DISCUSS	Most, but not all, subsequent studies in Caucsians replicated this finding (summarized in Alzgene database: http://www.alzgene.org/).
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	NA	DISCUSS	Confirmatory evidence of association with SORL1 SNPs has also been reported in comparatively small samples of Chinese and Japanese (reviewed in).
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	NA	DISCUSS	These findings are independent of previous candidate gene studies of SORL1 in Japanese (two subjects in common) and with Caucasians in the Rogaeva et al.
+0	NA	NA	NA	DISCUSS	study (less than 2% overlap)
+1	NA	sortilin-related receptor L(DLR class A) repeats-containing	rs11218343	DISCUSS	The two genome-wide significant SORL1 SNPs, rs11218343 and rs3781834 are located at chromosome positions 121,435,587 base pairs and 121,445,940 base pairs, respectively, and thus between the two previously reported strongly associated 3-marker haplotypes that extend upstream from rs641120 (121,380,965 base pairs) and downstream from rs1699102 (121,456,962 base pairs).
+0	Alzheimer's disease	sortilin-related receptor L(DLR class A) repeats-containing	NA	DISCUSS	A recent meta-analysis including more than 30,000 Caucasian and Asian subjects demonstrated that multiple SORL1 SNPs in distinct regions are associated with AD, a finding substantiated in an association study of SORL1 SNPs with brain MRI traits in LOAD families.
+0	Alzheimer's disease	NA	rs3781834	DISCUSS	Further analysis of our large Caucasian sample suggests that the association peak at rs3781834 is independent of at least one of the two distinct haplotypes previously associated with AD in an independent sample of non-Hispanic Caucasians, Caribbean Hispanics and Israeli-Arabs (Fig.
+0	NA	NA	NA	DISCUSS	S5), Since all of the SNPs at the association peaks reported in this study and previously are intronic, functional studies are required to determine the identity of pathogenic variants at these locations
+1	NA	NA	rs11218343	DISCUSS	Remarkably, the less frequent alleles at rs11218343 and rs3781834 are protective in both Japanese and Caucasian datasets with very similar odds ratios (range 0.74 to 0.83) despite the fact that these alleles are much rarer in Caucasians (4% and 2%, respectively) than in Japanese (34% and 23%, respectively).
+0	Alzheimer's disease	sortilin-related receptor L(DLR class A) repeats-containing	NA	DISCUSS	The rarity of these SNPs in Caucasians, as well as allelic heterogeneity, may explain why SORL1 did not previously emerged as a genome-wide significant AD locus in much larger GWAS.
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	rs3781834	DISCUSS	Given the discovery sample size, effect size (odds ratio [OR]  = 0.74) and MAF (0.23) of the top SORL1 SNP (rs3781834) in the Japanese sample, and a significance level of 2x10-5 (i.e., threshold for including a SNP in the Stage 2 replication phase), calculation of power post hoc using the PAWE-3D program confirmed that the discovery sample had sufficient power (83.7%).
+0	NA	NA	NA	DISCUSS	By comparison, the Caucasian sample of 22,771 subjects had only 52.8% power to detect association with this SNP at the observed significance level of 7.9x10-4 and OR (0.78) and a much lower MAF (0.02) than in Japanese
+0	NA	PALM2	rs913360	DISCUSS	The most significant result in the GWAS in Japanese was obtained for PALM2 SNP rs913360 (P = 1.8x10-7), but this SNP was not significant in the Japanese replication sample (P = 0.16) and the result for the combined Japanese datasets was less significant than in the discovery sample (P = 6.6x10-6).
+0	NA	PALM2	rs913360	DISCUSS	There was no evidence in the large Caucasian dataset supporting association for rs913360 (P = 0.38) or other PALM2 SNPs
+0	Alzheimer's disease	PICALM	NA	DISCUSS	We obtained evidence in Japanese and Korean populations for association of AD with the same SNPs in the PICALM and BIN1 regions that were identified as genome-wide significant in multiple large GWAS in Caucasians.
+0	NA	NA	NA	DISCUSS	There are no previously reported association studies of these loci in Japanese.
+0	NA	PICALM	NA	DISCUSS	Several small association studies of PICALM in comparatively smaller Chinese samples have yielded conflicting results.
+0	NA	CR1	NA	DISCUSS	We also found nominally significant associations in the Japanese sample for previously associated SNPs in CR1, CLU, and ABCA7.
+0	NA	EPH receptor A1	NA	DISCUSS	Lack of asociation with EPHA1, CD2AP, MS4A6A, and CD33 may be due to insufficient power, different linkage disequilibrium structure of these regions than in Caucasisans, locus heterogeneity or intragenic heterogeneity
+0	NA	apolipoprotein E	NA	DISCUSS	In addition, our analyses showed numerous highly significant results for imputed SNPs in the APOE region (including CEACAM/BCL3, PVRL2, TOMM40, and LOC284352) even after adjustment for the dose of the epsilon4 allele.
+0	NA	NA	NA	DISCUSS	However, recognizing that the reliability of imputation is poor for SNPs in this region, we genotyped 10 of the significant SNPs in the Japanese discovery and replication datasets.
+0	NA	PPP1R37	NA	DISCUSS	Only one of these results, a PPP1R37 SNP, was nominally significant after adjustment for dose of epsilon4.
+0	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	Association of AD with this SNP, which is located approximately 225 kb from APOE, has not been observed previously.
+0	NA	PVRL2	NA	DISCUSS	PVRL2 and APOE are located in a genomic region sandwiched between two recombination hotspots, where strong association signals for LOAD have been reproducibly detected in Caucasians, but dissipate almost completely for all non-APOE loci after conditioning on APOE, suggesting that no other loci in this region influence LOAD susceptibility.
+0	NA	apolipoprotein E	rs7412	DISCUSS	This conclusion is consistent with the observation of moderate linkage disequilibrium between the SNPs determining APOE genotype, rs7412 and rs429358 (Fig.
+0	NA	apolipoprotein E	NA	DISCUSS	S5), SNPs showing genomewide significant evidence for association with LOAD without adjustment for APOE genotype, and our prior LOAD association studies with SNPs in this region among Caucasians
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	NA	DISCUSS	SorL1, also known as SorLA and LR11, and APP proteins are co-localized in the endosomal and Golgi compartments.
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	NA	DISCUSS	SorL1 through its co-dependent interaction with vps26 regulates the intracellular transport and processing of APP, resulting in reduction of amyloid beta (Ass) peptide production.
+0	NA	SORL1	NA	DISCUSS	SORL1 knock-out mice carrying both pathogenic mutations in the PSEN1 (exon 9 deletion) and APP (Swedish, K595M/N596L) exhibited increased production and accumulation of Ass.
+0	Alzheimer's disease	sortilin-related receptor L(DLR class A) repeats-containing	NA	DISCUSS	SORL1 variants might influence the CSF Ass42 level in AD patients.
+0	NA	NA	NA	DISCUSS	Recently, Pottier et al.
+0	Alzheimer's disease	PSEN1	NA	DISCUSS	sequenced the exomes of 29 index cases with autosomal dominant early-onset AD who lacked mutations in APP, PSEN1 and PSEN2 .
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	NA	DISCUSS	Seven of these subjects had private SORL1 mutations (2 nonsense and 2 missense) that were predicted to have a pathogenic effect.
+0	NA	NA	NA	DISCUSS	By comparison, the two genome-wide significant SNPs in this study are both intronic.
+0	NA	sortilin-related receptor L(DLR class A) repeats-containing	NA	DISCUSS	It is expected that future large resequencing studies of SORL1 will identify the functional variants, thus providing important clues about the mechanisms governing normal and abnormal action of SorL1 on processes leading to LOAD.
+0	Alzheimer's disease	sortilin-related receptor L(DLR class A) repeats-containing	NA	DISCUSS	The emergence of SORL1 as a genome-wide significant locus for AD confirms existing genetic and functional evidence and elevates the importance of intracellular trafficking involving retromer and the Golgi-to- endosome as a key pathway leading to AD

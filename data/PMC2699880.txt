@@ -1,0 +1,180 @@
+0	diabetes	NA	NA	ABSTRACT	To identify novel type 2 diabetes gene variants and confirm previously identified ones, a three-staged genome-wide association study was performed in the Japanese population
+0	NA	NA	NA	ABSTRACT	In the stage 1 scan, we genotyped 519 case and 503 control subjects with 482,625 single nucleotide polymorphism (SNP) markers; in the stage 2 panel comprising 1,110 case subjects and 1,014 control subjects, we assessed 1,456 SNPs (P < 0.0025, stage 1); additionally to direct genotyping, 964 healthy control subjects formed the in silico control panel.
+0	NA	NA	NA	ABSTRACT	Along with genome-wide exploration, we aimed to replicate the disease association of 17 SNPs from 16 candidate loci previously identified in Europeans.
+0	NA	NA	NA	ABSTRACT	The associated and/or replicated loci (23 SNPs; P < 7 x 10-5 for genome-wide exploration and P < 0.05 for replication) were examined in the stage 3 panel comprising 4,000 case subjects and 12,569 population-based samples, from which 4,889 nondiabetic control subjects were preselected.
+0	NA	NA	NA	ABSTRACT	The 12,569 subjects were used for overall risk assessment in the general population
+1	NA	PEPD	NA	ABSTRACT	Four loci:1 novel with suggestive evidence (PEPD on 19q13, P = 1.4 x 10-5) and three previously reported:were identified; the association of CDKAL1, CDKN2A/CDKN2B, and KCNQ1 were confirmed (P < 10-19).
+1	NA	TCF7L2	NA	ABSTRACT	Moreover, significant associations were replicated in five other candidate loci: TCF7L2, IGF2BP2, SLC30A8, HHEX, and KCNJ11.
+0	diabetes	NA	NA	ABSTRACT	There was substantial overlap of type 2 diabetes susceptibility genes between the two populations, whereas effect size and explained variance tended to be higher in the Japanese population
+0	diabetes	NA	NA	ABSTRACT	The strength of association was more prominent in the Japanese population than in Europeans for more than half of the confirmed type 2 diabetes loci
+0	diabetes	NA	NA	INTRO	The predisposition to and the course of type 2 diabetes vary according to ethnic group.
+0	Type 2 diabetes	insulin	NA	INTRO	In Japan, the incidence of type 2 diabetes has increased recently and is now comparable to that of other countries; this is supposedly attributable to the gradual spread of Western habits, such as consuming a high-fat diet, and the lower insulin secretory capacity of Japanese subjects.
+0	diabetes	NA	NA	INTRO	Recent technological developments have allowed the successful identification of gene regions involved in the development of type 2 diabetes in genome-wide association (GWA) studies.
+0	NA	NA	NA	INTRO	Several susceptibility gene loci identified by GWA studies to date have been used to obtain reproducible evidence of disease association in different populations of European descent and Asians, but not necessarily in African Americans.
+0	diabetes	NA	NA	INTRO	A number of GWA studies on type 2 diabetes have been conducted on populations of European descent.
+1	diabetes	KCNQ1	NA	INTRO	Two GWA scans in the Japanese population simultaneously reported the discovery of type 2 diabetes susceptibility gene (KCNQ1) variants in non-European populations; this result was also obtained in Scandinavian samples.
+0	NA	NA	NA	INTRO	Thus far, the replicated associations for a limited number of candidate genes have broadly indicated the tendency of interethnic similarity.
+0	diabetes	NA	NA	INTRO	Even though the common (or cosmopolitan) effect of type 2 diabetes risk variants is known, the extent to which the causation of this disease differs or overlaps between populations remains unknown.
+0	NA	NA	NA	INTRO	Here, besides comparing the genetic associations between European-descent and Japanese populations, we aimed to identify new genetic variants using a three-staged GWA study design
+0	NA	NA	NA	METHODS	Detailed characteristics of the subjects enrolled in each stage are described in the supplementary information and in supplementary Table S1, which is available in an online appendix at http://diabetes.diabetesjournals.org/cgi/content/full//db08-1494/DC1.
+0	NA	NA	NA	METHODS	Briefly, patients and unaffected control subjects analyzed in stages 1 and 2 were enrolled depending on whether they met certain uniform criteria.
+0	diabetes	NA	NA	METHODS	Type 2 diabetes was diagnosed according to 1999 World Health Organization criteria.
+0	glucose homeostasis	NA	NA	METHODS	All stage 1 and 2 control subjects (>=55 years of age at examination) had normal glucose tolerance.
+0	diabetes	NA	NA	METHODS	The stage 3 samples comprised 4,000 type 2 diabetes case subjects derived from the Biobank Japan project (http://biobankjp.org/) and 12,569 subjects randomly selected from residents aged 50-74 years in the general population.
+0	diabetes	NA	A1C	METHODS	The 12,569 subjects were used as a population panel; this panel contained 4,889 nondiabetic subjects who met the following conditions: age >=55 years, A1C <=5.0%, no previous and/or current treatment for diabetes, and absence of renal failure (serum creatinine <3.0 mg/dl).
+0	NA	NA	NA	METHODS	In stage 3, these 4,889 control subjects were used in a replication study wherein their genotypes were compared with those of 4,000 patients.
+0	NA	NA	NA	METHODS	In addition to the samples genotyped here, to boost the power of the GWA scan, we incorporated genotype frequencies in the general Japanese population (n = 964) derived from the Genome Medicine Database of Japan (GeMDBJ; http://gemdbj.nibio.go.jp), which was used as an in silico control panel.
+0	NA	NA	NA	METHODS	A flowchart summarizing the multistage design and study aims is shown in Fig.
+0	NA	NA	NA	METHODS	1
+0	NA	NA	NA	METHODS	Genotyping was performed with the Infinium HumanHap550 BeadArray (Illumina), which interrogated 555,352 SNPs (supplementary information).
+0	NA	NA	NA	METHODS	The average call rate was 96.9% for the case and control subjects.
+0	NA	NA	NA	METHODS	Data cleaning and analysis were performed using PLINK software.
+0	NA	NA	NA	METHODS	Samples with a genotype call rate of <90% were excluded, as were outliers with respect to the number of heterozygous SNPs, duplicates or relatives of another sample, or ethnic outliers.
+0	NA	NA	NA	METHODS	We excluded SNPs for the following reasons: 1) GenTrain genotype quality score <0.53, 2) genotype call rate <0.95, 3) genotype call rate <0.99 and minor allele frequency (MAF) <0.05, 4) significant (P < 10-6) deviation from the Hardy-Weinberg equilibrium in the control subjects, or 5) MAF <0.001 (supplementary Table S2); the remaining 482,625 SNPs were analyzed
+0	NA	NA	NA	METHODS	Ethnicity was verified for 1,022 samples (519 case and 503 control subjects) in the stage 1 panel with reference to data from HapMap populations (see supplementary information).
+0	diabetes	NA	NA	METHODS	Type 2 diabetes association was tested with the Cochran-Armitage trend test in the stage 1 panel and an additional panel of 964 random control subjects.
+0	NA	NA	NA	METHODS	We pooled the genotype counts for combining multiple panels.
+0	NA	NA	NA	METHODS	To detect and correct population stratification and unnoticed differences in data processing between facilities, the test statistic was adjusted using Eigenstrat software and the genomic-control method.
+0	NA	NA	NA	METHODS	The significance level for the first-stage scan was set to P < 0.0025; significant SNPs were additionally chosen using Fisher's chi2 test (P < 0.0025) to combine the association results with the P value at the same locus in our previous affected sib-pair scan.
+0	NA	NA	NA	METHODS	A total of 1,811 SNPs surpassed the stage 1 threshold, and we removed redundant SNPs that were in mutual strong linkage disequilibrium (r2 >0.9) before proceeding to stage 2 (see supplementary information and supplementary Fig.
+0	NA	NA	NA	METHODS	S1 and Table S2 for detailed analysis)
+0	NA	NA	NA	METHODS	Stage 2 genotyping was performed with iPLEX (Sequenom) and GoldenGate (Illumina) assays.
+0	NA	NA	NA	METHODS	Quality control was conducted as described in stage 1, and 1,456 SNPs were successfully genotyped.
+0	NA	NA	NA	METHODS	We calculated P values with the trend test by combining 1,517 nondiabetic control subjects with 964 random control subjects similar to stage 1.
+0	NA	NA	NA	METHODS	The significance level for the second-stage scan was set to P < 7 x 10-5 in the comparison between 1,629 case subjects and 2,481 control subjects (i.e., the stage 1 + 2 panels and the 964 random control subjects).
+0	NA	NA	NA	METHODS	A total of 30 SNPs representing 17 unique loci remained significant
+0	diabetes	NA	NA	METHODS	Along with genome-wide exploration, type 2 diabetes association was tested in the stage 1 and 2 panels using the HumanHap550 BeadArray, iPLEX assay, or TaqMan method (Applied Biosystems) for 17 SNPs from 16 candidate loci previously identified by GWA studies in populations of European descent.
+1	NA	IGF2BP2	rs4402960	METHODS	These included IGF2BP2 (rs4402960), PPARG (rs1801282), CDKAL1 (rs7754840 and rs7756992), SLC30A8 (rs13266634), CDKN2A/CDKN2B (rs10811661), HHEX (rs1111875), TCF7L2 (rs7903146), EXT2 (rs3740878), KCNJ11 (rs5219), FTO (rs8050136), JAZF1 (rs864745), CDC123-CAMK1D (rs12779790), TSPAN8-LGR5 (rs7961581), THADA (rs7578597), ADAMTS9 (rs4607103), and NOTCH2-ADAM30 (rs10923931).
+0	NA	NA	NA	METHODS	The significant SNPs (trend test, P < 0.05) were further analyzed in the stage 3 panel with the TaqMan method.
+1	NA	CDKAL1	rs4712523	METHODS	Despite finding significant association for CDKAL1 and CDKN2A/CDKN2B in the stage 1 and 2 panels, we proceeded with rs4712523 instead of rs7754840 and rs7756992 (CDKAL1) and with rs2383208 instead of rs10811661 (CDKN2A/CDKN2B) in the GWA scans from stage 1 to stage 3; this decision was made considering the strong linkage disequilibrium between the SNPs in each of the corresponding loci
+0	NA	NA	NA	METHODS	The stage 3 design involved the replication of association and the estimation of effect sizes in the GWA scan and/or replication study of previously reported SNPs.
+0	NA	NA	NA	METHODS	For an association to be considered significant in the case-control comparison (4,000 case vs. 4,889 nondiabetic control subjects), it had to involve the same risk allele as that in the previous stages, and it was accordingly assessed with a one-tailed test.
+0	NA	NA	NA	METHODS	For each SNP locus confirmed in stage 3, the association of additional independent SNPs or haplotypes in the locus was also tested (supplementary information).
+0	diabetes	NA	A1C	METHODS	Moreover, to assess the risk of diabetes and pre-diabetes in the general population from the combination of SNPs robustly confirmed both in populations of European descent and in our panel, multiple regression analysis was performed with the logarithm of A1C (log A1C) as a response variable (supplementary information), using the entire 12,569-subject population-based sample
+0	NA	NA	rs1801282	METHODS	In addition, for SNPs with robustly confirmed association in populations of European descent, we performed a meta-analysis by combining our stage 1 + 2 (rs1801282, rs7756992, and rs8050136) or stage 1 + 2 + 3 results (the remaining seven SNPs shown in supplementary Figure S2) with those of previous Japanese studies conducted by three other groups.
+0	NA	PPARG	rs1801282	METHODS	According to Woolf's test, the heterogeneity among the studies in the Japanese population was insignificant (P > 0.05), with the exception of PPARG rs1801282 (P = 0.0012), for which the observed heterogeneity is supposedly attributable to low allele frequency.
+0	NA	NA	NA	METHODS	Thus, we pooled genotype counts across the studies to form a combined dataset for the Japanese population, and we estimated the effect sizes of individual loci.
+0	NA	NA	NA	METHODS	We used the rmeta package for R software (http://www.r-project.org) for the analysis
+0	NA	R 2	NA	METHODS	Moreover, to compare the explained variance between the Japanese population and populations of European descent, we calculated the coefficient of determination R 2 for the loci confirmed in our replication study.
+0	NA	NA	NA	METHODS	Here, R2 is the square of the correlation between the genotypes of an SNP coded by the number of risk alleles (0, 1, and 2) and the disease status (0 and 1) (supplementary information)
+0	NA	NA	NA	RESULTS	Of 482,625 SNPs that passed quality control in stage 1, genotypes were obtained for an average of 99.8% markers for each subject.
+0	NA	NA	NA	RESULTS	The subjects were enrolled from regions of Japan with no strong population stratification, and although some variance inflation partly attributable to the subtle subpopulation structure was apparent, such confounding influences could be sufficiently removed using Eigenstrat and genomic-control adjustment.
+0	NA	NA	NA	RESULTS	A total of 1,456 markers were assessed in the stage 2 panel (Fig.
+0	NA	NA	NA	RESULTS	1 and supplementary Fig.
+0	NA	NA	NA	RESULTS	S1 and Table S2)
+0	NA	NA	NA	FIG	Flow chart summarizing the multistage design and study aims.
+0	NA	NA	NA	FIG	(A high-quality digital representation of this figure is available in the online issue.
+0	NA	NA	NA	RESULTS	After the second-stage scan, 30 SNPs representing 17 unique loci attained the arbitrarily defined statistical significance (P < 7 x 10-5) (supplementary Table S3).
+0	NA	NA	NA	RESULTS	We used one SNP each from these 17 loci in the third-stage scan.
+0	NA	NA	NA	RESULTS	Of 17 SNPs, 4 reached the significance threshold of P < 0.003 (= 0.05/17) with Bonferroni correction
+1	NA	CDKAL1	NA	RESULTS	The current GWA study showed strong and highly consistent evidence for disease association of SNPs from CDKAL1, CDKN2A/CDKN2B, and KCNQ1 (Fig.
+0	NA	NA	NA	RESULTS	2 and Table 1 and supplementary Tables S4 and S5).
+0	NA	NA	NA	RESULTS	Although these three loci had already been reported in previous GWA studies, here they were identified as part of our genome-wide exploration.
+1	NA	CDKAL1	NA	RESULTS	CDKAL1 is among the best-replicated susceptibility loci.
+1	NA	NA	NA	RESULTS	Significant association has also been detected in a region on chromosome 9p, near CDKN2A/CDKN2B.
+1	NA	KCNQ1	NA	RESULTS	Moreover, strong association signals were observed in the intron of KCNQ1 on chromosome 11p15.5, which is in agreement with the results of two previous GWA scans in the Japanese population
+1	diabetes	CDKAL1	NA	FIG	Plots of type 2 diabetes association and linkage disequilibrium for regions surrounding CDKAL1 (A), regions near CDKN2A/CDKN2B (B), and KCNQ1 (C).
+0	NA	NA	NA	FIG	A, B, and C each contain five panels.
+0	Type 2 diabetes	NA	NA	FIG	In the top panels, all genotyped SNPs in the current Japanese GWA scan (that passed the quality control) are plotted with their -log10 (P values) for type 2 diabetes (Cochran-Armitage trend test) against chromosome position (in Mb).
+0	NA	NA	NA	FIG	Blue and red squares indicate P values for the combined genotypes of stages 1 + 2 and stages 1 + 2 + 3, respectively, whereas vertical bars indicate P values for the stage 1 genotype.
+0	NA	NA	NA	FIG	In the second panels, -log10 (P values) plots from the DIAGRAM study of populations of European descent are similarly displayed.
+0	NA	NA	NA	FIG	The third panels show the genomic location of RefSeq genes with intron and exon structure (NCBI [National Center for Biotechnology Information] Build 35).
+0	NA	R 2	NA	FIG	The fourth and fifth panels show a WGAViewer plot of linkage disequilibrium (r 2) for all HapMap SNPs across the regions for the HapMap populations:Japanese in Tokyo (JPT) and CEPH subjects from Utah (CEU):respectively
+0	diabetes	NA	NA	TABLE	Type 2 diabetes susceptibility loci identified or tested for replication in the current Japanese stud
+0	NA	NA	NA	RESULTS	Stage 2 genotyping provided evidence suggestive of a new association on chromosome 19q13.
+0	NA	PEPD	NA	RESULTS	Several SNPs located in the vicinity of the PEPD (peptidase D) gene showed the tendency of replicated association in stages 1 and 2 (supplementary Table S3).
+0	NA	NA	rs10425678	RESULTS	Significant association was further replicated in a relatively large case-control study on the stage 3 panel (rs10425678, P = 0.002), but it did not attain genome-wide significance (i.e., P = 1.4 x 10-5 for all stages and P = 2.1 x 10-6 when the number of control subjects was increased by adding 964 random control subjects) (supplementary Table S4).
+0	NA	R 2	NA	RESULTS	Given the modest strength of association (R 2 = 0.0017, see below) assumed for this locus, the association still needs to be established
+0	Type 2 diabetes	NA	NA	RESULTS	Of 16 candidate loci tested for replication in the Japanese population, 7 were found to be associated with type 2 diabetes (Table 1).
+0	NA	FTO	NA	RESULTS	However, no significant association was observed for SNPs from the remaining nine loci (FTO, PPARG, EXT2, JAZF1, CDC123-CAMK1D, TSPAN8-LGR5, ADAMTS9, and NOTCH2-ADAM30 in the stage 1 + 2 panel and THADA in the stage 1 + 2 + 3 panel).
+0	NA	NA	NA	RESULTS	Notably, the originally reported SNPs or those in complete linkage disequilibrium showed the strongest statistical evidence of association in the seven confirmed loci, where the linkage disequilibrium relations and haplotype patterns appear to be similar but not identical between European-descent and Japanese populations (supplementary Figs.
+0	NA	NA	NA	RESULTS	S3 and S4)
+1	NA	KCNQ1	rs734312	RESULTS	Besides KCNQ1 and the 16 candidate loci prioritized here, we investigated the disease association of two candidate gene SNPs:rs734312 in WFS1 and rs7501939 in TCF2 :based on the genotype data of our stage 1 panel (n = 1,022) and 964 random control subjects (supplementary Table S6).
+0	NA	NA	NA	RESULTS	In some instances, it appeared that the sample size was not sufficient to detect the presumed odds ratio (OR) (supplementary Table S7).
+0	NA	NA	rs12779790	RESULTS	Nevertheless, except for rs12779790 in CDC123-CAMK1D and rs3740878 in EXT2, in the majority of instances, the ORs were consistent with those previously reported.
+0	NA	NA	NA	RESULTS	Furthermore, we analyzed seven previously reported SNPs with suggestive evidence of an association in the Japanese population, but none attained nominal significance in our first-stage scan (supplementary Table S8)
+0	NA	NA	NA	RESULTS	With regard to the candidate gene SNPs robustly confirmed in GWA studies conducted on Japanese and European-descent populations, we compared the risk allele frequency and OR between the meta-analysis dataset of the Japanese population and that of populations of European descent (Fig.
+0	NA	NA	NA	RESULTS	3).
+0	NA	KCNJ11	E23K	RESULTS	The OR was consistently higher in the Japanese population for all SNPs except rs5219 in KCNJ11.
+1	NA	CDKAL1	NA	RESULTS	Among the confirmed loci, CDKAL1, CDKN2A/CDKN2B, SLC30A8, and HHEX showed a significant difference in the ORs between European-descent and Japanese populations (P < 0.05, Woolf's test) (supplementary Table S6).
+0	NA	NA	NA	RESULTS	However, the risk allele frequency fluctuated between the two ethnic groups, and the strength of association differed accordingly; this is because an SNP with an risk allele frequency of ~0.5 and a higher OR can give rise to stronger association signals.
+1	NA	TCF7L2	NA	RESULTS	Thus, whereas TCF7L2 was shown as the strongest susceptibility locus in populations of European descent, its association is estimated to be much weaker in the Japanese population because of the low risk allele frequency.
+1	NA	NA	NA	RESULTS	In contrast, the results of the meta-analysis showed that the CDKN2A/CDKN2B and CDKAL1 loci had the strongest associations in the Japanese population; indeed, we obtained the highest number of hits for these loci
+0	diabetes	NA	NA	FIG	Comparison of the strength of association for seven confirmed type 2 diabetes loci between Japanese and European-descent populations.
+0	NA	NA	NA	FIG	For the Japanese population, we estimated ORs and their 95% CIs (red solid squares and vertical lines, respectively) for each locus based on our meta-analysis involving four Japanese case-control studies (supplementary Fig.
+0	NA	NA	NA	FIG	S2).
+0	NA	NA	NA	FIG	For populations of European descent, on the other hand, the corresponding values (blue solid squares and vertical lines) were derived from the published data.
+0	diabetes	R 2	NA	FIG	The association of an SNP with type 2 diabetes is measured by the coefficient of determination (R 2), which represents the ability to detect association signals using the Cochran-Armitage trend test
+0	NA	R 2	NA	RESULTS	Next, we compared the strength of association for the seven confirmed loci between Japanese and European-descent populations and calculated R 2 as the proportion of phenotypic variance explained by an SNP (see research design and methods).
+0	NA	NA	NA	RESULTS	In Fig.
+0	NA	R 2	NA	RESULTS	3, we illustrate the curves corresponding to R 2 = 0.008, 0.004, and 0.002, for which the total sample size of case and control subjects required to attain 80% power is n = 4,300, 8,600, and 17,200 at a significance level of P = 5 x 10-7 (which is the significance threshold generally required in GWA tests), and n = 1,000, 2,000, and 3,900 at a level of P = 0.05.
+0	NA	R 2	NA	RESULTS	Based on R 2 measurements using the meta-analysis data, the associations of five of seven replicated loci are stronger in the Japanese population than in populations of European descent.
+1	NA	CDKAL1	NA	RESULTS	For the CDKAL1 locus, for example, one-fourth of the sample size necessary in populations of European descent is sufficient to obtain the same level of statistical significance in the Japanese population.
+1	NA	NA	NA	RESULTS	This is true for CDKN2A/CDKN2B, HHEX, and SLC30A8, in which <50% of the sample size seems to be sufficient for significance in the Japanese population.
+1	NA	TCF7L2	NA	RESULTS	However, TCF7L2 shows an opposite trend in this regard
+0	NA	R 2	NA	RESULTS	Despite the small value of explained variance (R 2) at each risk locus, it is assumed that knowledge about multiple-risk loci could allow us to identify individuals with accumulated genetic risk.
+0	diabetes	NA	NA	RESULTS	To this end, a GWA study in Finns investigated the combined risk of type 2 diabetes based on 10 associated loci by logistic regression analysis of the resampled dataset.
+0	NA	R 2	NA	RESULTS	The total variance explained by 10 loci in Finns is R 2 = 0.030, which is equivalent to the value for 7 loci obtained here (see discussion).
+0	NA	NA	NA	RESULTS	Likewise, in a simulated population, we arranged the individuals in the order of the risk estimated by logistic regression, sorted them into 20 equal-sized groups (5% in each), and calculated the actual proportion of affected individuals in each group.
+0	diabetes	NA	NA	RESULTS	We found a 3.7-fold variation in type 2 diabetes prevalence from the lowest to highest estimated risk groups for the combination of seven associated loci in our study (Fig.
+0	NA	NA	NA	RESULTS	4).
+0	NA	NA	NA	RESULTS	The receiver operating characteristic curve was also depicted for the combined SNPs as a measure of sensitivity and specificity (supplementary Fig.
+0	NA	NA	NA	RESULTS	S5)
+0	diabetes	NA	NA	FIG	Estimation of the increase in type 2 diabetes risk from the combination of seven susceptibility variants previously identified and robustly replicated in the current study.
+0	NA	NA	NA	FIG	We used case and control subjects with complete data from all stages of our study (n = 12,105).
+0	NA	NA	NA	FIG	First, the risk for the genotypes of an SNP was estimated by logistic regression.
+0	NA	NA	NA	FIG	Then, the multilocus risk for an individual was assessed as the sum of the risks for his/her genotype at seven SNPs.
+0	NA	NA	NA	FIG	We simulated a population with 10% prevalence by bootstrap sampling.
+0	NA	NA	NA	FIG	In the simulated population, we arranged the individuals in the order of their multilocus risk, sorted them into 20 equal-sized groups, and calculated the actual prevalence in each group.
+0	NA	NA	NA	FIG	Means and 95% CIs of the groupwise prevalence were estimated based on 1,000 bootstrap sampling trials and are plotted in the figure.
+0	NA	NA	NA	FIG	No significant gene-gene interaction was observed between the seven SNPs by multiple logistic regression analysis.
+0	diabetes	NA	NA	FIG	T2D, type 2 diabetes
+0	NA	NA	A1C	RESULTS	Moreover, for risk assessment in the general population, we performed multiple regression analysis using A1C as a surrogate quantitative phenotype to estimate the unbiased effect size of individual loci (supplementary Table S9) and evaluated the combined risk from multiple loci in 12,569 population-based samples (Table 2 and supplementary information).
+0	diabetes	NA	A1C	RESULTS	Then, the estimated risk was compared with the actual A1C value and the disease classification of diabetes or pre-diabetes (supplementary information).
+0	NA	NA	NA	RESULTS	In the multiple regression analysis, significant association (P < 0.005) was observed for all seven loci tested in accordance with the results for the case-control study (Table 1 and supplementary Table S4).
+0	NA	NA	NA	RESULTS	As shown in Fig.
+0	diabetes	NA	NA	RESULTS	4, 5% of male subjects with the highest estimated risk are 2.3 times more likely to suffer from diabetes than those with the lowest estimated risk; the risk is 5.2 times in female subjects, indicating the potential existence of sex difference in the genetic risk of type 2 diabetes (supplementary Fig.
+0	NA	NA	NA	RESULTS	S6).
+0	diabetes	NA	NA	RESULTS	Moreover, notably, SNP genotypes alone exerted more exaggerated effects on the increase in genetic risk in diabetes compared with pre-diabetes (Table 2)
+0	diabetes	NA	NA	TABLE	Combined risk of diabetes and pre-diabetic status based on seven confirmed loci, age, BMI, and sex in the general Japanese populatio
+1	diabetes	KCNQ1	NA	DISCUSS	Conducting GWA studies on a wider range of populations, including East Asians, has recently gained importance because of the discovery of new type 2 diabetes susceptibility variants mapping to the KCNQ1 gene simultaneously reported in two Japanese studies.
+0	NA	NA	NA	DISCUSS	Both studies were, however, initiated some years ago, and they are, by current standards, considered to be modest with regard to the coverage of common SNPs (21 and 56% in HapMap) and number of case subjects (187 and 194 subjects, respectively) in the first-stage scan.
+0	NA	NA	NA	DISCUSS	Therefore, we conducted another GWA study on the Japanese population with greater coverage of common SNPs (87% of all phase 1 + 2 HapMap variants [MAF >=0.05] in CHB (Chinese in Beijing) + JPT (Japanese in Tokyo) and a larger number of case subjects (519 subjects) and unaffected control subjects (503 subjects) in addition to random control subjects in the first-stage scan.
+0	NA	NA	NA	DISCUSS	Four loci (three previously reported and one novel) were identified via the multistage scans.
+1	NA	KCNQ1	NA	DISCUSS	For the top three loci (KCNQ1, CDKN2A/CDKN2B, and CDKAL1) the OR (>1.25) and MAF (0.41-0.45 in the control subjects) were higher in the Japanese population than in populations of European descent.
+1	NA	KCNQ1	NA	DISCUSS	In addition to the nomination of four susceptibility loci (KCNQ1, CDKN2A/CDKN2B, CDKAL1, and PEPD), the current study replicated the significant association of five other loci (TCF7L2, IGF2BP2, SLC30A8, HHEX, and KCNJ11) previously reported in populations of European descent and provided an unbiased estimate of the risk from the confirmed disease genotype
+0	genetic diseases	NA	NA	DISCUSS	Empirical studies suggest that the genetic effects of individual causal risk alleles underlying complex genetic diseases such as type 2 diabetes are modest, with most genotype relative risks in the range of 1.1-2.0.
+0	Type 2 diabetes	NA	NA	DISCUSS	Indeed, we observed this to be true for loci that were robustly implicated in the development of type 2 diabetes by GWA scans and/or extensive candidate gene approaches in populations of European descent.
+1	NA	TCF7L2	NA	DISCUSS	Currently, the number of loci has increased to almost 20 (as listed in supplementary Table S6), and in most cases, except for TCF7L2 and KCNQ1, the OR is estimated to be between 1.09 and 1.20
+0	NA	NA	NA	DISCUSS	The current study provides, via genome-wide exploration and replication analysis of some a priori selected loci, significant evidence for the overall tendency toward a stronger association in Japanese rather than European-descent populations at least for alleles with a cosmopolitan effect.
+1	NA	CDKAL1	NA	DISCUSS	The tendency for higher OR in Asians than in Europeans was previously reported for the CDKAL1 locus.
+0	NA	NA	NA	DISCUSS	Currently, it remains unknown whether the penetrance for a genotype of interest differs considerably between Japanese and European-descent populations.
+0	NA	NA	NA	DISCUSS	With regard to genetic effects, four of seven confirmed loci have demonstrated significantly higher OR in the Japanese population (P = 4.1 x 10-5 to 0.024) (supplementary Table S6).
+0	NA	R 2	NA	DISCUSS	To simplify the situation, we have further assessed the strength of association for individual SNPs by measuring R 2, which is scaled against OR and risk allele frequency in Fig.
+0	NA	NA	NA	DISCUSS	3.
+0	NA	NA	NA	DISCUSS	We found that despite the limited number of SNPs tested here, the same level of statistical significance is often detectable in the Japanese population with a much smaller sample size than that in populations of European descent (supplementary Table S7).
+0	NA	NA	NA	DISCUSS	Theoretically, the stringency of ascertaining control subjects could lead to some bias in effect size.
+0	NA	NA	NA	DISCUSS	In this respect, in addition to the multistage case-control study, an extensive analysis of associated loci in the general population was conducted, which is the strength of the current study.
+0	NA	NA	NA	DISCUSS	We used the population-based samples (n = 12,569) in stage 3 to investigate the effect of control selection criteria on OR in a case-control comparison and found that the ORs in our meta-analysis were almost comparable to those estimated in the general Japanese population (supplementary Table S10).
+1	NA	CDKAL1	NA	DISCUSS	Moreover, with regard to ethnic diversity, linkage disequilibrium in CDKAL1 and KCNJ11 is stronger in East Asians (JPT + CHB), whereas linkage disequilibrium in IGFBP2 and HHEX tends to be stronger in Europeans (CEU [Centre d'Etude du Polymorphisme Humain (CEPH) subjectsfrom Utah]) (Supplementary Figure S4); thus, besides the issue of power, the results of the GWA scans in the Japanese population (or East Asians) seem to be useful in terms of interethnic comparison of association signals, which may enhance the power of fine-mapping efforts designed to identify the causal variants
+0	NA	NA	NA	DISCUSS	The tendency of stronger genetic association in the Japanese population is also supported by the concomitant evaluation of multilocus effects.
+0	diabetes	R 2	NA	DISCUSS	When assuming an additive model, the combined risk of type 2 diabetes can be measured by the sum of the R 2 values of individual loci.
+0	NA	NA	NA	DISCUSS	For example, the total variance explained by the seven loci depicted in Fig.
+0	NA	NA	NA	DISCUSS	3 is 0.030 in the Japanese population and 0.018 in populations of European descent.
+0	diabetes	NA	NA	DISCUSS	It remains unknown whether these findings reflect higher heritability of type 2 diabetes in Japanese than in European-descent populations.
+0	NA	NA	NA	DISCUSS	Because little data are available on the estimation of heritability in the Japanese or East Asian populations, further studies are required to obtain the standardized measures of heritability across different populations by taking into account potential sources of heterogeneity, such as the degree of westernization of lifestyle
+0	NA	PEPD	NA	DISCUSS	Suggestive evidence of association was identified for SNPs in the PEPD gene.
+0	NA	PEPD	NA	DISCUSS	PEPD plays an important role in collagen metabolism, and some extracellular matrix constituents such as collagen IV have been shown to have a profound impact on insulin secretion.
+0	diabetes	PEPD	NA	DISCUSS	Moreover, enhanced collagen degradation via PEPD activity has been reported in diabetic patients.
+0	diabetes	PEPD	NA	DISCUSS	Although there is evidence suggestive of association at PEPD in all three stages, the current GWA study by itself could not confirm or refute the evidence; no significant association was found in the previously reported Diabetes Genetics Replication and Meta-Analysis (DIAGRAM) data from Europeans (risk allele frequency = 0.52, OR = 1.03) (Table 1) and in the initial screening data of the JSNP (Japanese Single Nucleotide Polymorphisms) scan in the Japanese population (187 casevs.
+0	NA	PEPD	rs2241380	DISCUSS	752 random control subjects; P = 0.18 at rs2241380, which is in complete linkage disequilibrium with rs10425678 in PEPD; r 2 = 1.0)
+0	NA	NA	NA	DISCUSS	The number of genes that could account for an appreciable population-attributable fraction of common diseases is under debate.
+0	NA	PEPD	NA	DISCUSS	"Although the current study detected and/or replicated a total of nine susceptibility loci, including PEPD in the Japanese population, a substantial number of SNPs showing some extent of association signals in the first-stage scan remain to be investigated, as reflected by the wide distribution of replicated SNPs with unexamined ""gaps"" in the lower-left part of the Q-Q plot (supplementary Fig."
+0	NA	NA	NA	DISCUSS	S7).
+0	NA	NA	NA	DISCUSS	The ORs corresponding to such unexamined SNPs mostly fall in the range of 1.10-1.25.
+0	NA	NA	NA	DISCUSS	To assess the statistical power in our GWA scan, we simulated the frequency at which a disease-associated SNP could surpass the cutoff level of the first two stages (stages 1 and 2) (supplementary information and supplementary Table S11).
+0	NA	NA	NA	DISCUSS	In the current experimental setting, it is likely that >50% of the susceptibility loci with modest but substantial effects (OR = 1.2-1.3) were unidentified.
+0	NA	PPARG	rs1801282	DISCUSS	For example, though not statistically significant, the association of PPARG in the Japanese population showed an OR (P = 0.06, OR = 1.18 at rs1801282) similar to that in populations of European descent in a meta-analysis, including the current study (supplementary Table S4).
+0	NA	NA	NA	DISCUSS	Increasing the sample size of the stage 1 panel and/or the number of SNPs genotyped in the second-stage scan would allow us to discover more susceptibility variants, including new population-specific loci, in the Japanese population
+0	Type 2 diabetes	NA	NA	DISCUSS	The incidence of type 2 diabetes is escalating to epidemic proportions globally, with a higher acceleration rate in non-European populations.
+0	diabetes	NA	NA	DISCUSS	The integration of GWA study results, i.e., a meta-analysis, for both European-descent and non-European populations is necessary for a comprehensive understanding of the genetics of type 2 diabetes, and it will lead to the efficient use of genomic information based on ethnic diversity in clinical research

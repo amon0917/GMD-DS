@@ -1,0 +1,168 @@
+0	AMD	NA	NA	ABSTRACT	Genetic factors explain a majority of risk variance for age-related macular degeneration (AMD).
+0	AMD	NA	NA	ABSTRACT	While genome-wide association studies (GWAS) for late AMD implicate genes in complement, inflammatory and lipid pathways, the genetic architecture of early AMD has been relatively under studied.
+0	AMD	NA	NA	ABSTRACT	We conducted a GWAS meta-analysis of early AMD, including 4,089 individuals with prevalent signs of early AMD (soft drusen and/or retinal pigment epithelial changes) and 20,453 individuals without these signs.
+0	AMD	NA	NA	ABSTRACT	For various published late AMD risk loci, we also compared effect sizes between early and late AMD using an additional 484 individuals with prevalent late AMD.
+0	AMD	CFH	rs2075650	ABSTRACT	GWAS meta-analysis confirmed previously reported association of variants at the complement factor H (CFH) (peak P = 1.5x10-31) and age-related maculopathy susceptibility 2 (ARMS2) (P = 4.3x10-24) loci, and suggested Apolipoprotein E (ApoE) polymorphisms (rs2075650; P = 1.1x10-6) associated with early AMD.
+0	NA	GLI3	rs2049622	ABSTRACT	Other possible loci that did not reach GWAS significance included variants in the zinc finger protein gene GLI3 (rs2049622; P = 8.9x10-6) and upstream of GLI2 (rs6721654; P = 6.5x10-6), encoding retinal Sonic hedgehog signalling regulators, and in the tyrosinase (TYR) gene (rs621313; P = 3.5x10-6), involved in melanin biosynthesis.
+0	AMD	NA	NA	ABSTRACT	For a range of published, late AMD risk loci, estimated effect sizes were significantly lower for early than late AMD.
+0	AMD	NA	NA	ABSTRACT	This study confirms the involvement of multiple established AMD risk variants in early AMD, but suggests weaker genetic effects on the risk of early AMD relative to late AMD.
+0	AMD	NA	NA	ABSTRACT	Several biological processes were suggested to be potentially specific for early AMD, including pathways regulating RPE cell melanin content and signalling pathways potentially involved in retinal regeneration, generating hypotheses for further investigation
+0	AMD	NA	NA	INTRO	Age-related macular degeneration (AMD) is the most common cause of irreversible blindness in the elderly in many countries.
+0	NA	NA	NA	INTRO	Clinically, the disease is believed to develop via a series of progressive stages.
+0	AMD	NA	NA	INTRO	Early AMD is characterised by abnormalities in the retinal pigment epithelium (RPE) and the deposition of small extracellular deposits, called drusen, between Bruch's membrane and the RPE.
+0	retinal hyperpigmentation	NA	NA	INTRO	As the disease progresses, large drusen (>125 microm in diameter) with or without fuzzy edges (soft indistinct or distinct drusen) may slowly disappear and be replaced by regions of retinal depigmentation (decreased pigment).
+0	NA	NA	NA	INTRO	Reticular drusen and large, soft drusen involving a large area of the macula are strong indicators of increased risk of progression to late, vision-impairing forms of this disease.
+0	AMD	NA	NA	INTRO	The two main phenotypes of late AMD are exudative AMD and geographic atrophy (GA).
+0	AMD	NA	NA	INTRO	Exudative AMD is typified by sub-retinal neovascularisation with sensory retinal and/or RPE detachment, sub-retinal and/or sub-RPE haemorrhage followed by sub-retinal scarring.
+0	neuronal loss	NA	NA	INTRO	GA involves gradual degeneration and disappearance of RPE and photoreceptor cells within the macular area
+0	AMD	NA	NA	INTRO	AMD is known to result from a complex interplay of multiple environmental and genetic factors.
+0	hypertension	NA	NA	INTRO	Disease risk increases strongly with age, with additional risk factors including smoking, possibly high body mass index, hypertension and cardiovascular disease.
+0	AMD	NA	NA	INTRO	However, genetic factors have been shown to be strongly associated with AMD risk, with an increased genetic burden associated particularly with late forms of the disease.
+0	AMD	NA	NA	INTRO	For example, heritability estimates from twin studies are 0.45 for early AMD, but 0.71 for late AMD
+0	AMD	CFH	NA	INTRO	Case-control genome-wide association studies (GWAS) of late AMD have provided evidence for individual, large-effect risk variants in the CFH, ARMS2, C2/CFB and C3 genes (estimated per allele odds ratios ranging from 1.7-4.5), and for additional, smaller-effect variants in CFI, FRK/COL10A1, TNFRSF10A, LIPC, CETP, TIMP3, REST and VEGFA (odds ratios ranging from 1.15-1.4).
+0	AMD	NA	NA	INTRO	Together with biological evidence, these findings highlight the importance of immune, inflammatory and lipid metabolic pathways in late AMD pathogenesis, while also implicating angiogenic, apoptotic, extracellular-matrix remodelling and melanosome trafficking processes
+0	AMD	NA	NA	INTRO	The vast majority of published GWAS have been conducted in samples of either exclusively or predominant late AMD cases (particularly late exudative AMD).
+0	AMD	NA	NA	INTRO	This likely reflects the tendency for only symptomatic, late AMD cases to attend clinics, thus forming the majority of ascertained AMD samples available.
+0	AMD	NA	NA	INTRO	In contrast, persons with early AMD are usually asymptomatic and less likely to be seen except in population-based studies.
+0	AMD	NA	NA	INTRO	Therefore the genetic architecture of early AMD has been relatively under researched and is poorly understood
+0	AMD	NA	NA	INTRO	Given the substantial heritability of AMD and the knowledge of modifiable risk factors that may reduce risk of progression to late, vision-impairing forms of this disease, improved understanding of the genetic architecture of early AMD may also be important.
+0	AMD	NA	NA	INTRO	With this aim, we conducted a GWAS meta-analysis of early AMD, including approximately 4,000 well-characterised early AMD cases and 20,000 strictly defined controls without any drusen or with hard drusen only.
+0	AMD	NA	NA	INTRO	Using a small set of mutually exclusive, late AMD cases, we also compared genetic effect sizes at validated AMD risk loci between early and late stages of the disease, to determine their relative importance for different disease stages.
+0	AMD	NA	NA	INTRO	This study amalgamates a number of large population-based cohorts with GWAS data and AMD grading from retinal photographs
+0	AMD	NA	NA	METHODS	The primary GWAS meta-analysis for early AMD was conducted in five European-ancestry cross-sectional cohorts (Table 1).
+0	AMD	NA	NA	METHODS	These were recruited in the USA, Europe and Australia and contributed a total of 3,772 prevalent cases of early AMD and 16,033 contemporaneous controls from the Age, Gene/Environment Susceptibility-Reykjavik Study (AGES), the Atherosclerosis Risk in Communities (ARIC) study, the Cardiovascular Health Study (CHS), the Blue Mountains Eye Study (BMES) and three distinct cohorts from the Rotterdam Study (RS): RS-I, RS-II and RS-III.
+0	AMD	NA	NA	METHODS	In addition, two Asian-ancestry cross-sectional cohorts were included in secondary analyses; these included a total 264 prevalent early AMD cases and 3,926 controls from the Singapore Indian Eye Study (SINDI) and the Singapore Malay Eye Study (SiMES).
+0	AMD	NA	NA	METHODS	Subsequent candidate SNP meta-analyses for late AMD were performed in the European-ancestry cohorts including a total 498 prevalent cases of late AMD and 16,033 controls
+0	NA	NA	NA	METHODS	Each cohort obtained approval from relevant institutional review boards, and all participants provided written informed consent in accordance with the Declaration of Helsinki.
+0	NA	NA	NA	METHODS	All participating studies approved guidelines for collaboration, and a working group agreed, in advance, on phenotype definition, covariate selection and analytic plans for within-study analyses and meta-analyses of results.
+0	NA	NA	NA	METHODS	Details of each participating study are described below and in Tables S1, S2 in File S2
+0	AMD	NA	NA	METHODS	The same AMD phenotype definitions based on photographic grading were used for all the cohorts.
+0	AMD	NA	NA	METHODS	Early AMD was defined as the presence of soft drusen (>63 microm) alone, retinal pigment epithelium (RPE) depigmentation alone or a combination of soft drusen with increased retinal pigment and/or depigmentation in the absence of late AMD.
+0	AMD	NA	NA	METHODS	Late AMD was defined as the presence of exudative AMD or GA, as described in the International AMD classification.
+0	retinal hyperpigmentation	NA	NA	METHODS	Controls had no soft (distinct or indistinct) drusen or retinal pigment abnormalities (either depigmentation or increased pigment), and no signs of early or late AMD; controls were permitted to have hard drusen.
+0	AMD	NA	NA	METHODS	Presence and severity of AMD lesions were assigned following the Wisconsin Age-Related Maculopathy grading system, based on masked assessment of fundus photographs.
+0	mydriasis	NA	NA	METHODS	For the AGES, BMES, RS and Singapore-based cohorts, photographs were examined for both eyes using a retinal camera with pharmacological mydriasis, with cases satisfying AMD diagnostic criteria for at least one eye.
+0	CHS	NA	NA	METHODS	For the ARIC and CHS cohorts, case and control diagnoses were based on examination of one, randomly selected eye using a retinal camera without mydriasis.
+0	NA	NA	NA	METHODS	Additional details are provided in Table S1 in File S2
+0	CHS	NA	NA	METHODS	The AGES and CHS samples were genotyped using the Illumina Human370 CNV quad array.
+0	NA	NA	NA	METHODS	The ARIC sample was genotyped using the Affymetrix SNP 6.0 GeneChip.
+0	NA	NA	NA	METHODS	The RS-I sample was genotyped using the Illumina Infinium II HumanHap550 chip.
+0	RS-II	NA	NA	METHODS	The RS-II, RS-III, SiMES and SINDI samples were genotyped using the Illumina Human610-Quad array.
+0	NA	NA	NA	METHODS	The BMES sample was genotyped using the Illumina Human670-Quad v1 custom array.
+0	NA	NA	NA	METHODS	All cohorts applied similar quality control (QC) procedures to genotype data prior to analysis.
+0	NA	NA	NA	METHODS	Briefly, this involved excluding SNPs with low call rate, pronounced deviation from Hardy-Weinberg equilibrium or low minor allele frequency, and individuals with low call rate, discrepant clinical and genotypic gender, evidence of cryptic relatedness based on IBS sharing (one member of each pair excluded) or outlying continental ancestry based on principal components analysis.
+0	NA	NA	NA	METHODS	The particular procedures and thresholds used for each study are detailed in Table S2 in File S2
+0	NA	NA	NA	METHODS	Following genotype quality control, all cohorts were imputed to approximately 2.5 million HapMap Phase II SNPs.
+0	NA	NA	NA	METHODS	European ancestry cohorts used the Caucasian (CEU) reference panel, and Asian ancestry cohorts used the combined Caucasian, Chinese, Japanese and African reference (CEU+CHB+JPT+YRI) panel.
+0	NA	NA	NA	METHODS	This provided data for a large set of overlapping SNPs for GWAS meta-analyses
+0	AMD	NA	NA	METHODS	Individual European-ancestry cohorts conducted GWAS of early AMD.
+0	NA	NA	NA	METHODS	For each SNP, logistic regression was performed using a one-degree of freedom trend test assuming an additive effect of SNP allele dosage; logistic models included age, gender and the first two ancestry principal components as covariates.
+0	AMD	NA	NA	METHODS	Regression coefficients and their standard errors were estimated to represent the change in log odds of AMD resulting from each additional copy of the test allele, after adjusting for specified covariates.
+0	CHS	NA	NA	METHODS	Analyses were performed using the ProbABEL program for AGES and ARIC cohorts, mach2dat for BMES, R software for CHS and GRIMP software for the RS cohorts
+0	NA	NA	NA	METHODS	SNPs were included in meta-analyses if they exhibited an imputation quality score (defined as the ratio of observed to expected dosage variance) >0.3, minor allele frequency >0.01 and valid data in at least two cohorts.
+0	NA	NA	NA	METHODS	Strand data was available for each cohort and all results were synchronised to the forward strand.
+0	NA	NA	NA	METHODS	Fixed effects, inverse variance-weighted meta-analyses were performed using METAL software.
+0	NA	NA	NA	METHODS	The pre-specified threshold for genome-wide significant association was set at 5x10-8.
+0	NA	NA	NA	METHODS	SNPs not meeting this threshold but achieving P<1x10-5 were considered as suggestively associated; that is, potentially true signals, whose association may become more significant with increased sample size.
+0	NA	NA	NA	METHODS	Between-cohort heterogeneity of estimated SNP association with disease was assessed using I2 and Cochran's Q metrics.
+0	NA	NA	NA	METHODS	Quantile-Quantile (Q-Q) plots and Manhattan plots summarising the meta-analysis results were produced using R software.
+0	NA	NA	NA	METHODS	Regional association results were plotted using LocusZoom software.
+0	NA	NA	NA	METHODS	Meta-analysis genomic control inflation factors (lambdaGC) were calculated as previously described, as were standardised values for a sample of 1000 cases and 1000 controls (lambda1000)
+0	AMD	NA	NA	METHODS	In addition to the primary GWAS of early AMD, in European-ancestry cohorts, we performed association analyses for advanced AMD using a set of confirmed AMD-associated SNPs.
+0	insufficient	NA	NA	METHODS	Asian-ancestry cohorts had insufficient advanced AMD cases to perform these analyses.
+0	NA	NA	NA	METHODS	"Confirmed AMD-associated SNPs were required to demonstrate genome-wide significant association (P<5x10-8) with advanced AMD in a published report, and were identified using the NIH National Human Genome Research Institute (NHGRI) Catalog of Published Genome-Wide Association Studies with search terms ""Age-related macular degeneration"" and ""Age-related macular degeneration (wet)""."
+0	NA	NA	NA	METHODS	The identity and association evidence for SNPs returned by the NHGRI search were corroborated with original published reports in each case.
+0	AMD	NA	NA	METHODS	In turn, the original reports were checked for appropriate AMD phenotype definition and searched to ensure no SNPs meeting eligibility criteria had been omitted from the NHGRI catalog.
+0	NA	NA	NA	METHODS	Statistical analyses of individual cohorts and meta-analyses of estimated SNP effect sizes were performed as described above
+0	NA	NA	NA	METHODS	For the selected set of confirmed AMD-associated SNPs, estimated SNP effect sizes for late and early AMD were statistically compared using summary effect estimates from the European-ancestry meta-analyses.
+0	AMD	NA	NA	METHODS	The difference between the regression coefficients was assessed using a two-tailed Z test formulated aswhere ,  and ,  represent the meta-analysis summary effect estimates and their standard errors for late and early AMD, respectively.
+0	NA	NA	NA	METHODS	A total of 21 SNPs were assessed for effect size differences.
+0	NA	NA	NA	METHODS	Each test was performed at a pre-specified significance level of 0.00238, corresponding to a family-wise type I error rate of 0.05 after Bonferroni adjustment.
+0	NA	CFH	NA	METHODS	We note that this threshold is somewhat conservative, as multiple, correlated SNPs were included from the CFH and ARMS2 loci
+0	NA	NA	NA	METHODS	To extend on the results of the European-ancestry analysis, a secondary meta-analysis was conducted including all European-ancestry and Singapore-based, Asian-ancestry cohorts.
+0	NA	NA	NA	METHODS	Analyses in individual cohorts were performed via logistic regression as described for the primary European analysis.
+0	CHS	NA	NA	METHODS	Fixed effects, inverse variance-weighted meta-analyses including all European (AGES, ARIC, BMES, CHS and RS) and Singapore-based (SiMES and SINDI) cohorts were performed using METAL.
+0	NA	NA	NA	METHODS	For a set of selected, validated AMD-associated variants (described above), we also tabulated ancestry-specific effect sizes separately for European- and Asian-ancestry cohorts
+0	AMD	NA	NA	RESULTS	For each of the individual cohorts, summary demographic characteristics are shown by AMD status in Table 1.
+0	NA	NA	NA	RESULTS	A Q-Q plot summarising the distribution of all P-values showed excellent agreement with the expected null distribution throughout all but the extreme tail of the distribution (Figures S2 and S5a in File S1).
+0	NA	NA	NA	RESULTS	The overall meta-analysis genomic control inflation factor (lambdaGC = 1.021) indicated an absence of confounding by population stratification or other artefacts, as did the scaled, standardised value (lambda1000 = 1.003)
+0	AMD	CFH	NA	RESULTS	The primary meta-analysis detected highly significant association of numerous SNPs within CFH and ARMS2/HTRA1 loci with risk of early AMD (Table 2, Table S4 in File S3, Figure S1 in File S1).
+0	NA	CFH	rs1329424	RESULTS	The peak results at these loci were detected for the CFH SNP rs1329424 (OR[T] = 1.41, 95% CI: 1.33-1.50, P-value = 1.5x10-31) and the ARMS2/HTRA1 SNP rs3793917 (OR[G] = 1.43, 95% CI: 1.34-1.54, P-value = 4.3x10-24)
+0	NA	CFH	NA	RESULTS	Aside from SNPs at the CFH and ARMS/HTRA1 loci, no additional variants reached genome-wide significance.
+0	AMD	NA	NA	RESULTS	However, a number of confirmed and plausible candidate genes contained SNPs demonstrating possible association with early AMD (5x10-8<P<1x10-5) (Table 2 and Table S5 in File S3).
+0	NA	NA	NA	RESULTS	These included SNPs in the ApoE/TOMM40 gene cluster on chromosome 19, the GLI3 gene on chromosome 7 and the tyrosinase gene (TYR) on chromosome 11 (see Figures 1, 2, 3), and SNPs in the vicinity of the complement-related genes CD46 and MBL2
+0	NA	NA	rs2049622	FIG	The index, associated SNP is named and shown as a purple diamond (rs2049622: P = 8.9x10-6); remaining SNPs are colored according to the strength of LD (r2) with the index SNP (see figure legend).
+0	NA	NA	NA	FIG	Pairwise LD and local recombination rates were calculated using HapMap CEU population data (Phase 2, release #22), with annotated genes mapped according to NCBI Build 36 sequence position
+0	NA	NA	rs621313	FIG	The index, associated SNP is named and shown as a purple diamond (rs621313: P = 3.5x10-6)
+0	NA	NA	rs2075650	FIG	The index, associated SNP is named and shown as a purple diamond (rs2075650: P = 1.1x10-6)
+0	AMD	CFI	NA	RESULTS	SNPs in genes C2/CFB, C3, CFI, CETP, TIMP3, TNFRSF10A, FRK/COL10A1, REST and LIPC (upstream) that have previously demonstrated genome-wide significance with advanced AMD showed only modest association with early AMD (Table 3).
+0	AMD	TNFRSF10A	rs429608	RESULTS	Of these published associated variants, the strongest associations with early AMD were observed for rs429608 in C2/CFB (OR[G] = 1.18, 95% CI: 1.08-1.27, P-value = 9.6x10-5), rs2230199 in C3 (OR[C] = 1.18, 95% CI: 1.08-1.29, P-value = 2.5x10-4) and rs13278062 in TNFRSF10A (OR[T] = 1.11, 95% CI: 1.05-1.18, P-value = 5x10-4).
+0	AMD	NA	NA	RESULTS	For many published SNPs we detected some evidence of association with both late and early AMD (at alpha = 0.05), observing similar odds ratios for late AMD as those previously reported (Table 3).
+0	AMD	NA	NA	RESULTS	Notably, for most of these SNPs the estimated effect size for late AMD was several-fold higher than that for early AMD.
+0	NA	CFH	NA	RESULTS	The absolute fold-change was ~3-4-fold for risk variants in CFH, ~3-fold for variants in ARMS2/HTRA1, ~3-6-fold for variants in C2/CFB, ~4-fold for a SNP in CETP and ~2-fold for variants in C3 and FRK/COL10A1.
+0	AMD	CFH	NA	RESULTS	For SNPs in CFH, ARMS2/HTRA1, and C2/CFB, the heterogeneity of effect size between early and late AMD was statistically significant after multiple testing adjustment (P<0.05).
+0	AMD	CFI	rs10033900	RESULTS	The only SNP showing some evidence for association but a weaker effect for late AMD was rs10033900 in CFI, which showed very marginal association (P = 0.038) with early AMD but no association with late AMD, and had a slightly higher estimated effect for early than late AMD (1.8-fold greater); however the difference in effect size was not statistical significant (P>0.05).
+0	AMD	LIPC	NA	RESULTS	Previously published AMD risk variants in REST, LIPC upstream and TIMP3 showed no evidence of association (at alpha = 0.05) with either late or early AMD in our study
+0	AMD	NA	NA	RESULTS	Due to the limited number of late AMD cases, our direct, internal comparison provided modest power to detect effect size differences between early and late AMD.
+0	NA	NA	NA	RESULTS	Hence, we repeated the effect size comparisons for validated AMD-associated SNPs, using published effect estimates from well-powered GWAS of late AMD.
+0	AMD	NA	NA	RESULTS	Table 4 shows analogous comparisons as shown Table 3, with late AMD effect estimates replaced with published effect estimates.
+0	NA	NA	NA	RESULTS	This analysis produced largely consistent results as the internal comparison.
+0	NA	CFH	NA	RESULTS	However, in addition to SNPs in CFH, ARMS2/HTRA1 and C2/CFB numerous additional SNPs showed significant effect size differences between early and late AMD - including SNPs in REST, TNFRSF10A, C3, TIMP3 and upstream of LIPC
+0	NA	NA	NA	RESULTS	Secondary meta-analysis including all European samples plus the two Asian-ancestry samples produced very similar results to the primary analysis.
+0	NA	CFH	NA	RESULTS	There was no evidence of systematic bias of test statistics (Figure S4 in File S1; lambdaGC = 1.022, lambda1000 = 1.003) and SNPs in the CFH and ARMS2/HTRA1 loci reached genome-wide significance (Figure S3 in File S1).
+0	NA	apolipoprotein E	rs6857	RESULTS	SNPs in the vicinity of ApoE achieved slightly greater significance (peak P = 9.7x10-7 at rs6857), while the peak evidence for TYR (P = 9x10-6 at rs10830228) and GLI3 (P = 1x10-5 at rs2049622) was slightly reduced.
+0	NA	p<10-5	NA	RESULTS	Several additional intergenic regions were also identified at P<10-5 (Table S6 in File S3)
+0	NA	NA	NA	RESULTS	For the set of selected, validated AMD-associated variants (described above), ancestry-specific effect sizes are shown separately for European and Asian ancestry cohorts in Table 5.
+0	AMD	NA	NA	RESULTS	Considering the low power of the Singapore-based analysis - with <300 early AMD cases represented across the two constituent samples - the effect sizes in the European and Asian-ancestry cohorts were largely consistent for the candidate SNPs, with confidence intervals for effect sizes overlapping for 8 of the 16 assessed SNPs.
+0	NA	CFH	NA	RESULTS	The principal exception was for the 6 SNPs located within the CFH gene, which showed strong association in the European analysis, but no association in our small Singapore-based analysis
+0	AMD	NA	NA	DISCUSS	We report herein findings from GWAS meta-analysis restricted to individuals with early AMD, prior to the development of late, vision-impairing disease.
+0	AMD	CFH	NA	DISCUSS	As expected, SNPs at the CFH and ARMS2/HTRA1 loci, which were discovered for late AMD, comprised strong and significant risk factors for the development of early AMD as well.
+0	AMD	NA	NA	DISCUSS	However, these variants were shown to impart a 3-4 times significantly weaker risk for early than late AMD.
+0	AMD	CFB	NA	DISCUSS	Similar effect size ratios for early versus late AMD were observed for additional risk variants in C2, CFB, C3 and CETP, with the difference reaching significance for a SNP in C2/CFB.
+0	AMD	CFH	NA	DISCUSS	These findings are consistent with those of studies showing that risk variants in CFH, ARMS2, C2, CFB and C3 influence not only risk of late AMD (based on comparison with normal subjects), but also risk of progression from early to late stages of disease (based on comparison with early AMD cases that did not progress).
+0	AMD	NA	NA	DISCUSS	A possible explanation for these findings is that the estimated genetic effect size for late AMD comprises cumulative effects of an initial development of early AMD signs and progression from early to late stages of the disease
+0	AMD	CFH	NA	DISCUSS	It is noteworthy that our large study offered similar sample size to assess genetic association with early AMD to a number of previous GWAS that assessed the associations with late AMD, but in contrast to other studies, we detected no significant variants besides CFH and ARMS2 variants at genome-wide significance.
+0	AMD	NA	NA	DISCUSS	This may suggest weaker genetic effects for early AMD, and a possible absence of large effect loci unique to early AMD
+0	AMD	NA	NA	DISCUSS	We speculate that the genetic component of early AMD may include risk variants both shared with late AMD, unique to early AMD, and perhaps unique to specific lesions classified here altogether as early AMD.
+0	AMD	NA	NA	DISCUSS	Many confirmed AMD risk variants appear to confer both modest risk of early AMD and late AMD; the presence of these variants may encourage both early disease incidence and steady disease progression throughout time.
+0	AMD	NA	NA	DISCUSS	Additionally, we found suggestive evidence for possible early AMD variants in several novel and biologically plausible genes not previously associated with late AMD.
+0	NA	NA	NA	DISCUSS	These variants (e.g.
+0	AMD	tyrosinase	NA	DISCUSS	within TYR, GLI3 and upstream of GLI2) may influence only the initial development of early pathologic features of AMD such as RPE abnormalities and large soft drusen, with alternative pathways mediating disease progression once early stage changes have accumulated
+0	NA	GLI3	NA	DISCUSS	The GLI3 and GLI2 transcription factors are critical mediators of Sonic Hedgehog (Shh) protein signalling, with species-conserved roles in a range of developmental and adult processes.
+0	Muller glia	Sonic Hedgehog	NA	DISCUSS	Notably, Shh signalling is required for the development of Muller glial stem cells, a retinal progenitor cell (RPC) with both proliferative and neurogenic ability.
+0	retinopathy	NA	NA	DISCUSS	Although retinal regeneration has not yet been demonstrated in the adult human, in fish and amphibians acute retinal damage stimulates RPCs of the ciliary marginal zone (CMZ) to proliferate and fully regenerate the multilayered retina throughout life (24).
+0	Muller glia	NA	NA	DISCUSS	Muller glia isolated from the adult human retinal marginal region can also re-enter the cell cycle and demonstrate proliferative potential in vitro .
+0	Muller glia	HTRA1	NA	DISCUSS	The presence of a Muller cell-specific regulatory region upstream of the HTRA1 promoter, and the upregulation of glial fibrillary acidic protein (GFAP) immunoreactivity in the Muller cells of donor retina with drusen may be considered supporting evidence for the involvement of Muller glia in early stages of AMD.
+0	AMD	GLI3	NA	DISCUSS	It is also interesting to note that GLI3 and GLI2 are zinc finger proteins, as zinc supplements have been shown reduce the risk of progression from early to late AMD
+0	NA	tyrosinase	NA	DISCUSS	We also detected possible association of multiple variants in the TYR gene encoding tyrosinase, the enzyme catalysing the first step of melanin biosynthesis.
+0	AMD	NA	NA	DISCUSS	Melanin is produced within pigmented cells including skin melanocytes and retinal pigment epithelium (RPE) cells and deficiencies of melanin in RPE cells have been associated with AMD.
+0	melanoma	tyrosinase	NA	DISCUSS	Variants in TYR, including SNPs correlated with our lead SNP, have previously shown strong association with skin, hair and eye colour, tanning ability, vitiligo and melanoma risk via GWAS.
+0	NA	NA	NA	DISCUSS	In addition to protecting from sunlight-induced damage, melanin is also an efficient antioxidant, reducing the oxidative stress resulting from lipid peroxidation and reactive oxygen species (ROS) generation.
+0	NA	NA	NA	DISCUSS	Specifically, elevated melanin content in RPE cells has been shown to reduce accretion of the auto-oxidant lipofuscin, a key waste product of photoreceptor outer segment phagocytosis implicated in extracellular drusen formation.
+0	AMD	NA	NA	DISCUSS	This antioxidant function of melanin is consistent with evidence supporting supplemental lutein and zeaxanthin in modifying the course of AMD
+0	AMD	apolipoprotein E	NA	DISCUSS	The detection of suggestively associated SNPs in the vicinity of the Apolipoprotein E gene (ApoE) is not novel, but is consistent with early implication of ApoE polymorphisms in AMD.
+0	Alzheimer's disease	NA	NA	DISCUSS	Our most strongly associated SNPs have also previously shown unequivocal association with Alzheimer's disease diagnosis, pathologic features and biomarkers, as well as lipid levels and cardiovascular traits in GWAS
+0	AMD	NA	NA	DISCUSS	A potential limitation of this study is possible measurement error in early AMD ascertainment.
+0	AMD	NA	NA	DISCUSS	The milder nature of early AMD signs could result in misclassification of some controls, particularly in the two studies (ARIC and CHS) that examined only non-stereoscopic color retinal photographs of one eye per subject, using non-mydriatic cameras.
+0	NA	NA	NA	DISCUSS	An estimated misclassification rate for cases and controls could be around 10-20% if using data from one eye per subject.
+0	AMD	NA	NA	DISCUSS	Misclassification would be expected to bias genetic effect estimates for early AMD towards the null, and thus increase the apparent effect differences between early and late AMD.
+0	NA	NA	NA	DISCUSS	We note though, that the majority of participating cohorts in our study examined stereoscopic retinal photographs of both eyes per subject.
+0	AMD	NA	NA	DISCUSS	Inter-center grading reliability of early AMD has been assessed in a different study across three grading centres (the Wisconsin, BMES and RS) based on stereoscopic images, and showed, for example, 70.2% exact agreement for a 5 step AMD severity scale, or 90.4% agreement if allowing 1 step difference between Wisconsin and BMES graders (personal communication with R.Klein).
+0	CHS	NA	NA	DISCUSS	Furthermore, in sensitivity analyses excluding the ARIC and CHS cohorts that used non-stereoscopic photographs of one eye per subject, very little difference in effect estimates was observed for the selected candidate SNPs.
+0	NA	NA	NA	DISCUSS	In fact, effect estimates tended to be slightly smaller than in the full European meta-analysis (the mean difference in regression coefficients was -0.012, with a standard deviation of only 0.025).
+0	AMD	NA	NA	DISCUSS	If measurement error was a major contributor to the observed effect size differences between early and late AMD, we would have expected the opposite result, i.e.
+0	NA	NA	NA	DISCUSS	larger effect sizes after reducing measurement error.
+0	AMD	NA	NA	DISCUSS	In addition, a recent Age-relate Eye Disease Study (AREDS) report involving longitudinally assessment of stereoscopic images of AMD patients also documented differential effects of different AMD candidate SNPs on various stages of AMD (from normal to early and then late AMD).
+0	AMD	NA	NA	DISCUSS	Taken together, this suggests that misclassification error is not an important contributor to the observed effect size differences between early and late AMD detected in this study
+0	AMD	NA	NA	DISCUSS	We also acknowledge the potential influence of increased genetic and phenotypic heterogeneity of early AMD, compared to late AMD.
+0	AMD	NA	NA	DISCUSS	If the phenotypic signs of early AMD have a more complex genetic basis, including a larger number of contributing genetic variants, it is possible that a particular AMD risk variant may act in a smaller proportion of subjects than in late AMD.
+0	AMD	NA	NA	DISCUSS	Under this scenario, the effect size in the relevant early AMD subset may be similar to the effect upon late AMD, but the sample-wide estimate will be reduced.
+0	AMD	NA	NA	DISCUSS	Genetic heterogeneity may partially result from phenotypic heterogeneity, if alternative biological processes lead to a clinical presentation that appears as early AMD, but does not progress to late AMD.
+0	NA	NA	NA	DISCUSS	Although very difficult to quantify or control, such genetic heterogeneity may have contributed to our observed effect estimate differences
+0	AMD	NA	NA	DISCUSS	Finally, our analyses of late AMD had limited power, resulting in wide confidence intervals for effect estimates and reducing power to detect effect size differences between early and late AMD.
+0	AMD	NA	NA	DISCUSS	We note however, that analogous comparisons using published estimates from well-powered GWAS of late AMD produced strikingly similar results.
+0	AMD	NA	NA	DISCUSS	As expected, numerous additional SNPs showed significant effect size differences between early and late AMD, but the general pattern of several-fold increased effect sizes for late AMD was clearly consistent with results of the direct internal comparison conducted in our study
+0	AMD	NA	NA	DISCUSS	In conclusion, the results of our study confirm the involvement of several established late AMD risk variants in early AMD and provide additional, suggestive evidence for possible risk variants and biological pathways specific to early AMD.
+0	skin and eye pigmentation	tyrosinase	NA	DISCUSS	These include TYR SNPs previously associated with skin and eye pigmentation, and variants in and upstream of GLI3 and GLI2, respectively, potentially influencing retinal regeneration following injury.
+0	AMD	NA	NA	DISCUSS	Our study also demonstrates that many established late AMD genetic risk variants showed reduced effects on early AMD compared to late AMD.
+0	AMD	NA	NA	DISCUSS	Further research should seek to clarify the underlying biological processes involved in early AMD, potentially uncovering novel preventative therapies to prevent the progression of early to late, vision-threatening stages of AMD

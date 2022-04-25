@@ -1,0 +1,324 @@
+0	brain degeneration	NA	NA	ABSTRACT	In a genome-wide association study of structural brain degeneration, we mapped the 3D profile of temporal lobe volume differences in 742 brain MRI scans of Alzheimer's disease patients, mildly impaired, and healthy elderly subjects.
+0	NA	NA	NA	ABSTRACT	After searching 546,314 genomic markers, 2 single nucleotide polymorphisms (SNPs) were associated with bilateral temporal lobe volume (P < 5x10-7).
+0	NA	GRIN2B	rs10845840	ABSTRACT	One SNP, rs10845840, is located in the GRIN2B gene which encodes the N-Methyl-D-Aspartate (NMDA) glutamate receptor NR2B subunit.
+0	death	NA	NA	ABSTRACT	This protein - involved in learning and memory, and excitotoxic cell death - has age-dependent prevalence in the synapse and is already a therapeutic target in Alzheimer's disease.
+0	Alzheimer's disease	NA	NA	ABSTRACT	Risk alleles for lower temporal lobe volume at this SNP were significantly over-represented in AD and MCI subjects versus controls (odds ratio = 1.273; P = 0.039) and were associated with the mini-mental state exam (MMSE; t = -2.114; P = 0.035) demonstrating a negative effect on global cognitive function.
+0	NA	NA	NA	ABSTRACT	Voxelwise maps of genetic association of this SNP with regional brain volumes, revealed intense temporal lobe effects (FDR correction at q = 0.05; critical P = 0.0257).
+0	Alzheimer's disease	NA	NA	ABSTRACT	This study uses large-scale brain mapping for gene discovery with implications for Alzheimer's disease
+0	degeneration	NA	NA	INTRO	The quest to identify genes that influence brain integrity or degeneration has been greatly accelerated by large scale scanning and genotyping of subjects with Alzheimer's disease (AD) and those at risk with amnestic mild cognitive impairment (MCI).
+0	NA	NA	NA	INTRO	Here we developed a high resolution mapping approach to associate 546,314 genomic markers with regional volumetric differences in the brain MRI scans of 742 subjects.
+0	NA	NA	NA	INTRO	The resulting study is the largest brain mapping to date that has used genome-wide scans, which we applied to create point-by-point maps of genetic association.
+0	NA	GRIN2B	NA	INTRO	We found that lower temporal lobe volumes were most associated with a common variant in the glutamate receptor gene, GRIN2B.
+0	Alzheimer's disease	NA	NA	INTRO	In addition, this risk allele was statistically over-represented in AD and MCI versus elderly control subjects
+0	Structural brain degeneration	NA	NA	INTRO	Structural brain degeneration is characteristic of AD and MCI, a condition with 5-fold increased risk for subsequent development of AD.
+0	Alzheimer's disease	NA	NA	INTRO	In AD, the hippocampus and entorhinal cortex of the temporal lobes are typically the first structures to degenerate.
+0	NA	NA	NA	INTRO	Temporal lobe volume differences are detectable on structural brain MRI through delineation of the hippocampus or by tensor-based morphometry, which plots the 3D profile of volume loss or gain relative to a template.
+0	Alzheimer's disease	NA	NA	INTRO	Lower temporal lobe volume is a well known biological marker and risk factor for AD and MCI, and reflects both cellular atrophy (shrinkage) and overt neuronal loss.
+0	NA	NA	NA	INTRO	In young healthy adults, twin studies attribute ~50% of the temporal lobe volume variation and 40-69% of hippocampal volume variation to genetic influences
+0	Alzheimer's disease	NA	NA	INTRO	Late-onset AD is genetically complex; most likely, many genes with small effects contribute to the overall disease phenotype.
+0	Alzheimer's disease	CLU	NA	INTRO	Several genetic variants are known to increase the risk for late onset AD including those in the CLU and PICALM genes and most notably the epsilon4 allele of the APOE gene; however, the epsilon4 allele is found in only around 38% of those with AD (relative to 14% of healthy subjects), and these genetic variants do not account for the full genetic risk for late-onset AD.
+0	Alzheimer's disease	NA	NA	INTRO	Risk alleles for AD have been verified by comparing allele frequencies of common polymorphisms between AD patients and healthy controls.
+0	NA	NA	NA	INTRO	Here, instead of first comparing the incidence of genetic polymorphisms between diagnostic categories, we ask a distinct but related question: which common genetic polymorphisms influence brain structure in pathological aging?
+0	atrophy	NA	NA	INTRO	Progressive temporal lobe and hippocampal atrophy may mediate the link between genes and behavioral deficits, so any genes associated with structural degeneration may be a more powerful way to identify mechanisms of disease onset and cognitive decline.
+0	NA	NA	NA	INTRO	In addition, the gene products identified may become future therapeutic targets
+0	NA	NA	NA	INTRO	Prior genome-wide analysis using quantitative traits relevant to disease or brain function has been successful, and will likely help in better understanding the etiology of these processes.
+0	NA	KIBRA	NA	INTRO	Genetic variants in the KIBRA gene were identified using association to memory performance and other genetic variants worthy of further study were implicated through studying activation during fMRI tasks of working memory
+0	NA	NA	NA	INTRO	In a large-scale genetic analysis of 742 subjects, we set out to identify common genetic polymorphisms that influence brain structure in the elderly.
+0	Alzheimer's disease	NA	NA	INTRO	By enforcing a genome-wide statistical threshold to avoid false positives, and incorporating prior knowledge of genetic mechanisms in biochemical pathways relevant to aging and AD, we identified 2 regions on the genome that are strongly associated with temporal lobe structure.
+0	Alzheimer's disease	NA	NA	INTRO	The structure-modifying genetic variants were further assessed by comparing allele frequencies between AD patients and healthy controls, a common method to validate a candidate risk gene.
+0	Alzheimer's disease	NA	NA	INTRO	The function of the most strongly associated gene, already known from prior studies of glutamate receptors, is highly relevant to learning and memory, and relates to current therapeutic strategies for AD (i.e., memantine drug treatment)
+0	Alzheimer's disease	NA	NA	METHODS	Neuroimaging and genetic data were acquired from 818 subjects as part of the Alzheimer's Disease NeuroImaging Initiative (ADNI), a large five-year study launched in 2004 by the National Institute on Aging (NIA), the National Institute of Biomedical Imaging and Bioengineering (NIBIB), the Food and Drug Administration (FDA), private pharmaceutical companies, and non-profit organizations, as a $60 million, public-private partnership.
+0	Alzheimer's disease	NA	NA	METHODS	The goal of the ADNI study is to determine biological markers of Alzheimer's disease through neuroimaging, genetics, neuropsychological tests and other measures in order to develop new treatments and monitor their effectiveness, and lessen the time of clinical trials.
+0	NA	NA	NA	METHODS	Subjects were recruited from 58 sites in the United States.
+0	NA	NA	NA	METHODS	The study was conducted according to the Good Clinical Practice guidelines, the Declaration of Helsinki, and U.S. 21 CFR Part 50 - Protection of Human Subjects, and Part 56 - Institutional Review Boards.
+0	NA	NA	NA	METHODS	Written informed consent was obtained from all participants before protocol-specific procedures were performed.
+0	NA	NA	NA	METHODS	All data acquired as part of this study are publicly available (http://www.loni.ucla.edu/ADNI/)
+0	NA	NA	NA	METHODS	All subjects underwent thorough clinical and cognitive assessment at the time of scan acquisition to determine diagnosis.
+0	NA	NA	NA	METHODS	The mini-mental state exam (MMSE) was administered to provide a global measure of mental status.
+0	dementia	NA	NA	METHODS	The clinical dementia rating (CDR) was used to assess dementia severity.
+0	NA	NA	NA	METHODS	Healthy volunteer status was determined through MMSE scores between 24-30 (inclusive), a CDR of 0, non-depressed, non-MCI, and non-demented.
+0	memory impairment	NA	NA	METHODS	MCI diagnosis was determined by MMSE scores between 24-30 (inclusive), a memory complaint, objective memory loss measured by education adjusted scores on the Wechsler Memory Scale Logical Memory II, a CDR of 0.5, absence of significant levels of impairment in other cognitive domains, essentially preserved activities of daily living, and an absence of dementia.
+0	Alzheimer's disease	NA	NA	METHODS	Diagnosis of AD was made according to NINCDS-ADRDA criteria for probable AD, MMSE scores between 20-26 (inclusive), and CDR of 0.5 or 1.0.
+0	Alzheimer's disease	NA	NA	METHODS	Definitive autopsy-based diagnosis of AD was not possible
+0	NA	NA	NA	METHODS	DNA was isolated from B lymphocytes cells taken from blood and extracted using standard procedures.
+0	HD	NA	NA	METHODS	Genomic DNA samples were analyzed on the Human 610-Quad BeadChip (Illumina, Inc. San Diego, CA) according to the manufacturer's protocols (Infinium HD Assay; Super Protocol Guide; Rev.
+0	NA	NA	NA	METHODS	A May 2008).
+0	NA	NA	NA	METHODS	Before the initiation of the assay, 50ng of genomic DNA from each sample was examined qualitatively on a 1% Tris-acetate-EDTA agarose gel for visual signs of degradation.
+0	NA	NA	NA	METHODS	Any degraded DNA samples were excluded from further analysis.
+0	NA	NA	NA	METHODS	Samples were quantitated in triplicate with PicoGreen  reagent (Invitrogen, Carlsbad, CA) and diluted to 50ng/mul in Tris-EDTA buffer (10mM Tris, 1mM EDTA, pH 8.0).
+0	NA	MSA1	NA	METHODS	200 ng of DNA was then denatured, neutralized, and amplified for 22 hours at 37 C (this is termed the MSA1 plate).
+0	NA	MSA1	C for 48	METHODS	The MSA1 plate was then fragmented with FMS reagent (Illumina) at 37 C for one hour and then precipitated with 2-propanol and incubated at 4 C for 30 minutes.
+0	NA	NA	NA	METHODS	The resulting blue precipitate was then resuspended in RA1 reagent (Illumina) at 48 C for one hour.
+0	NA	NA	C for 48	METHODS	The samples were then denatured (95 C for 20 minutes) and immediately hybridized onto BeadChips at 48 C for 20 hours.
+0	NA	NA	NA	METHODS	BeadChips were then washed and subjected to single base extension and staining.
+0	NA	NA	NA	METHODS	Finally, the BeadChips were coated with XC4 reagent (Illumina), dessicated, and imaged on the BeadArray Reader (Illumina)
+0	NA	NA	NA	METHODS	Genome-wide genotype information was collected at 620,901 markers.
+0	NA	NA	NA	METHODS	Multiple types of genetic variants were genotyped, but only Single Nucleotide Polymorphisms (SNPs) were included in this analysis.
+0	NA	NA	NA	METHODS	Alleles on the forward strand are reported.
+0	NA	NA	NA	METHODS	Individual markers were excluded from the analysis that did not satisfy the following quality criteria based on previous genome-wide association studies: genotype call rate < 95 % (42,680 SNPs removed), significant deviation from Hardy-Weinberg equilibrium P < 5.7x10-7 (873 markers removed), minor allele frequency < 0.01 (60,867 SNPs removed), and a platform-specific recommended quality control score of < 0.15 (variable number of SNPs removed across subjects).
+0	NA	NA	NA	METHODS	546,314 SNPs remained for analysis after quality control.
+0	NA	age	NA	METHODS	Association was conducted using the Plink software package (version 1.05; http://pngu.mgh.harvard.edu/purcell/plink/) to conduct a regression at each SNP with the number of minor alleles, age, and sex as the independent variables and the quantitative phenotype (temporal lobe or hippocampal volume) as the dependent variable, assuming an additive genetic model
+0	NA	NA	NA	METHODS	In addition to a standard regression analysis, a permutation test was conducted to give P-values corrected for multiple comparisons across all the SNPs assessed for potential association.
+0	NA	age	NA	METHODS	First, the effects of age and sex were regressed on the phenotype.
+0	NA	age	NA	METHODS	The residuals of this regression formed age and sex adjusted phenotypes.
+0	NA	NA	NA	METHODS	Phenotypes (i.e.
+0	NA	NA	NA	METHODS	image data) were randomly swapped between subjects without restriction, and the linear regression analysis without covariates was performed again for each marker and the t-statistic of association was saved.
+0	NA	NA	NA	METHODS	This process was repeated 10,000 times to obtain a non-parametric null distribution for the best SNP.
+0	NA	NA	NA	METHODS	We note that this is quite a conservative approach, as the SNP's P-value is not merely compared to its own association P-value in null data (which would be appropriate if it were the only SNP examined).
+0	NA	NA	NA	METHODS	Instead, it is compared with the best (most strongly associated) SNP's P-value at each randomization.
+0	NA	NA	NA	METHODS	To assign a corrected P-value to a SNP, the t-value for association when the data were correctly assigned is compared to the maximum of all the permuted statistics at each iteration
+0	NA	NA	NA	METHODS	Genes and ESTs in close proximity to significant SNPs were localized through the UCSC genome browser (http://genome.ucsc.edu/) and are shown in Table 1.
+0	NA	NA	NA	METHODS	Results were visualized and linkage disequilibrium (LD) patterns with putative causative mutations in the general population were explored using Haploview (version 4.1; http://www.broad.mit.edu/mpg/haploview/) using allele frequency information from a European population (CEU) derived from the HapMap project (Release 22; http://www.hapmap.org/).
+0	NA	NA	NA	METHODS	Additionally, gene functions and known associations with disease were reviewed using the Online Mendelian Inheritance in Man database (OMIM; http://www.ncbi.nlm.nih.gov/sites/entrez?db=omim) and gene ontology information from the Entrez Gene (http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene) database
+0	NA	NA	NA	METHODS	"To ensure that diagnosis did not confound the analyses, empirical P-values were generated using the ""-within"" flag in Plink."
+0	Alzheimer's disease	NA	NA	METHODS	This permutation algorithm randomly swaps phenotypes between individuals, but only within specified subgroups - in this case diagnosis group (AD, MCI, controls).
+0	NA	NA	NA	METHODS	Any effect of group is then built into the null (reference) distribution formed by permutation tests.
+0	NA	NA	NA	METHODS	The linear regression analysis without covariates was performed again for each marker and the t-statistic for each marker was saved.
+0	NA	NA	NA	METHODS	This process was adaptively repeated to ensure stable P-values (up to 100 million replicates).
+0	NA	NA	NA	METHODS	SNPs that proved unlikely to become significant after a small number of permutations were no longer swapped for computational efficiency as high precision for non-associated (high) P-values is not desirable here.
+0	NA	NA	NA	METHODS	The number of times a test statistic met or exceeded the observed test statistic was divided by the total number of permutations performed for that SNP.
+0	NA	NA	NA	METHODS	The effect of diagnosis is therefore preserved in each permuted dataset.
+0	NA	NA	NA	METHODS	In this way, we were able to control for diagnosis in the analyses without the loss of power and multiple testing issues related to analyzing each group separately
+0	NA	NA	NA	METHODS	To control for population substructure, an additional analysis was performed which controls for genetic relatedness.
+0	NA	NA	NA	METHODS	First, a kinship matrix was estimated from the identity-by-state relationship of each subject to each other.
+0	NA	age	NA	METHODS	A linear mixed effects model was then used to estimate the significance of each SNP to the phenotype of interest controlling for any population structure and also controlling for age and sex according to the formul
+0	NA	age	NA	METHODS	  where y is a vector representing the phenotype; X is a matrix of fixed effects containing the additive genetic effect of a SNP, age, sex, and a constant term; beta is a vector representing the fixed effect regression coefficients; Z is an identity matrix; u is the random effect with Var(u) = sigma2gK, where K is the kinship matrix; and e is a matrix of residual effects with Var(e)= sigma2eI.
+0	NA	NA	NA	METHODS	This analysis was implemented using Efficient Mixed-Model Association (EMMA; http://mouse.cs.ucla.edu/emma/)
+0	NA	NA	NA	METHODS	Three-dimensional T1-weighted baseline brain MRI scans were analyzed using tensor-based morphometry (TBM) and an automated hippocampal recognition algorithm as detailed in previous studies.
+0	NA	NA	NA	METHODS	Briefly, high-resolution structural brain MRI scans were acquired at 58 ADNI sites with 1.5 T MRI scanners using a sagittal 3D MP-RAGE sequence developed for consistency across sites (TR = 2400 ms, TE = 1000 ms, flip angle = 8 , field of view = 24 cm, final reconstructed voxel resolution = 0.9375 x 0.9375 x 1.2 mm3).
+0	NA	NA	NA	METHODS	Images were calibrated with phantom-based geometric corrections to ensure consistency across scanners.
+0	NA	NA	NA	METHODS	Additional image corrections included: (1) correction of geometric distortions due to gradient non-linearity, (2) adjustment for image intensity inhomogeneity due to B1 field non-uniformity using calibration scans, (3) reducing residual intensity homogeneity, and (4) geometric scaling according to a phantom scan acquired for each subject to adjust for scanner- and session-specific calibration errors.
+0	NA	NA	NA	METHODS	Images were linearly registered with 9 parameters to the International Consortium for Brain Imaging template (ICBM-53) to adjust for differences in brain position and scaling
+0	NA	NA	NA	METHODS	For TBM analysis, the protocol was identical to that of a prior study analyzing the clinical correlates of temporal lobe volume differences in a smaller population; since then, genome-wide genotype data was collected.
+0	NA	NA	NA	METHODS	First, a minimal deformation template (MDT) was created for the healthy elderly group to serve as an unbiased average template image to which all other images were warped using a non-linear inverse-consistent elastic intensity-based registration algorithm.
+0	NA	NA	NA	METHODS	Volumetric tissue differences were assessed in all individuals by averaging the determinant of the Jacobian matrix of deformation in a bilateral temporal lobe region of interest, manually delineated on the MDT (Figure 2a).
+0	NA	NA	NA	METHODS	The average of the determinant of the Jacobian matrix multiplied by the volume of the temporal lobe delineated on the template gives the volume of the temporal lobe in each subject.
+0	NA	NA	NA	METHODS	This volumetric difference relative to a population-based brain template served as the temporal lobe volume measure
+0	NA	NA	NA	METHODS	For the hippocampal volume analysis, the protocol is identical to that of a prior study assessing hippocampal volume.
+0	Alzheimer's disease	NA	NA	METHODS	Two independent raters reliably delineated the hippocampus in 21 subjects (7 AD, 7 MCI, and 7 healthy elderly).
+0	NA	NA	NA	METHODS	The auto context model, a machine learning algorithm based on AdaBoost, was used to create a model based on the most predictive features from the images in one of the rater's training sets.
+0	NA	NA	NA	METHODS	The model was then applied to all other scans in the sample, generating a 3D outline of the hippocampus in the full set of images (Figure 2b).
+0	NA	NA	NA	METHODS	The average bilateral hippocampal volume served as the hippocampal volume phenotype.
+0	NA	NA	NA	METHODS	To reduce effects of any segmentation errors on the hippocampal volume estimates, we eliminated some subjects with volumes in the extreme lowest and highest percentiles of the full sample (40 lying more than 2 standard deviations below the mean and 1 subjects lying more than 2 standard deviations above the mean)
+0	NA	NA	NA	METHODS	As expected, the two phenotypes of temporal lobe volume and hippocampal volume were moderately correlated (r2 = 0.079, P = 1.02x10-13).
+0	Alzheimer's disease	NA	NA	METHODS	The quantitative phenotypes are partially dependent, as both hippocampal and temporal lobe volume reduction occur with normal aging and Alzheimer's disease, but the variance in one explained by the other is low
+0	NA	NA	NA	RESULTS	Population stratification is a known problem in genetic association analyses which can produce false-positive or false-negative results.
+0	NA	NA	NA	RESULTS	When multiple subpopulations are present in the data (population stratification), spurious associations (or lack of associations) can result from allele frequency differences between populations rather than associations with the phenotype.
+0	Alzheimer's disease	NA	NA	RESULTS	Self-declared Caucasian (non-Hispanic) subjects represented the vast majority of the genetic data in the Alzheimer's Disease Neuroimaging Initiative sample (91%), so only these subjects (N = 745) were included to reduce population stratification effects.
+0	NA	NA	NA	RESULTS	It is possible that self-declared ethnicity does not match with true ethnicity, and that substructure exists even within the Caucasian group.
+0	NA	NA	NA	RESULTS	To examine this, multi-dimensional scaling (MDS) was used to project the identity-by-state (IBS) relationship of each subject in relation to other subjects to a 2-dimensional space.
+0	NA	NA	NA	RESULTS	Substructures in the data, showing genetically more or less related groups, can then be easily visualized (Figure 1).
+0	NA	NA	NA	RESULTS	The MDS results showed that all self-identified Caucasians fell within the same genotypic cluster, confirming the self-report and providing evidence for using only Caucasian subjects to reduce the effects of population stratification (Figure 1, Left).
+0	NA	NA	NA	RESULTS	Additionally, the MDS plot identified 2 pairs of subjects as siblings within the Caucasian group (Figure 1, Middle) and otherwise showed some substructure within the data (Figure 1, Right)
+0	NA	NA	NA	RESULTS	Two partially independent phenotypes were analyzed: temporal lobe volume and hippocampal volume, each with a slightly different population sample.
+0	Alzheimer's disease	age	NA	RESULTS	Temporal lobe volume was assessed in 173 AD patients (78 female/95 male; mean age +- standard deviation = 75.54 +- 7.66), 361 MCI subjects (130 female/231 male; 75.16 +- 7.29), and 208 healthy elderly subjects (95 female/113 male; 76.07 +- 4.95).
+0	NA	age	NA	RESULTS	Age was not significantly different between groups (F2,739 = 1.172; P = 0.3103), but gender was (chi2(2) = 6.787, P = 0.0334).
+0	Alzheimer's disease	NA	NA	RESULTS	Hippocampal volume was assessed in 162 AD patients (73 female/89 male; 75.17 +- 7.57), 343 MCI subjects (128 female/215 male; 74.94 +- 7.26), and 193 healthy elderly (91 female/102 male; 76.11 +- 4.97).
+0	NA	age	NA	RESULTS	Age was not significantly different between groups (F2,695 = 1.892; P = 0.1516), but there was a trend in gender differences between the groups (chi2(2) = 5.810, P = 0.0547)
+0	NA	NA	NA	RESULTS	The profile of temporal lobe volume differences were assessed with Tensor Based Morphometry (TBM; Figure 2a) which plots, in 3D, the pattern of differences in regional brain volumes, for each brain, relative to a minimal deformation template (MDT) of healthy elderly subjects from this study.
+0	NA	NA	NA	RESULTS	The volume difference for all voxels in a bilateral temporal lobe region of interest was averaged and used as a quantitative phenotype for genomic association, as a summary measure of temporal lobe volume.
+0	NA	NA	NA	RESULTS	Hippocampal volume was assessed with an automated recognition program (Figure 2b) that was trained on 21 manual delineations of the hippocampus by a reliable rater.
+0	NA	NA	NA	RESULTS	The average bilateral hippocampal volume was also used as a quantitative phenotype for genomic association
+0	Alzheimer's disease	NA	NA	RESULTS	As expected, an initial comparison of temporal lobe volume between diagnostic groups showed significant differences between both AD vs. healthy elderly (mean temporal lobe volume in mm3 +- s.d.
+0	NA	NA	NA	RESULTS	255,483 +- 13,927 vs. 264,405 +- 11,827; t379 = -6.76; P = 5.19 x 10-11) and MCI vs. healthy elderly (259,501 +- 13,886 vs. 264,405 +- 11,827; t567 = - 4.27; P = 2.22 x 10-5).
+0	Alzheimer's disease	NA	NA	RESULTS	A comparison of hippocampal volume between diagnostic groups also showed significant differences, as expected, between both AD vs. healthy elderly (mean hippocampal volume in mm3 +- s.d.
+0	NA	NA	NA	RESULTS	2,713.2 +- 555.4 vs. 3,417.6 +- 531.0; t353 = -12.19; P = 2.2 x 10-16) and MCI vs. healthy elderly (3,001.6 +- 574.2 vs. 3,417.6 +- 531.0; t534 = -8.27; P = 1.1 x 10-15)
+0	NA	age	NA	RESULTS	Genome-wide association analysis at 546,314 SNPs using temporal lobe and hippocampal volume as quantitative phenotypes, after controlling for age and sex, revealed two SNPs that survived the genome-wide evidence threshold of P < 5x10-7 (Figure 3a).
+0	NA	NA	NA	RESULTS	Information on SNPs surviving a more liberal threshold of P < 1x10-5 and their closest genes (within +- 50 kb) is presented in Table 1
+0	NA	NA	NA	RESULTS	To assess the corrected significance level of these findings, we constructed a quantile-quantile plot of sorted P-values based on a log10 scale (Figure 3b).
+0	NA	NA	NA	RESULTS	No inflation of observed versus expected P-values (black line) was found, as shown through these plots and by calculation of variance inflation factors, lambda, which do not differ greatly from 1 (temporal lobe volume lambda =1.021, hippocampal volume lambda =1.013).
+0	NA	NA	NA	RESULTS	This demonstrates that the data generally follow the null hypothesis of no association and only deviate in the far tails of the distribution.
+0	NA	NA	NA	RESULTS	Population stratification is therefore again unlikely to account for the results
+0	NA	NA	NA	RESULTS	Both SNPs that survived the genome-wide evidence threshold were found using the temporal lobe volume phenotype.
+0	NA	GRIN2B	rs10845840	RESULTS	One SNP, rs10845840 (P = 1.260x10-7), is located on chromosome 12 within an intron of the GRIN2B gene, which encodes for the regulatory subunit 2B (NR2B) of the NMDA glutamate receptor.
+1	NA	GRIN2B	rs11055612	RESULTS	An additional SNP, rs11055612, strongly associated with the temporal lobe volume phenotype (P = 2.809x10-6) is also located in an intron of the GRIN2B gene and in high LD with rs10845840 (r2 = 0.872).
+0	NA	NA	rs2456930	RESULTS	The other SNP which survived the genome-wide evidence threshold, rs2456930 (P = 3.142x10-7), lies in an intergenic region of chromosome 15.
+0	NA	NA	rs10845840	RESULTS	Upon randomly removing two subjects, one from each of the sibling pairs identified above, the results were changed very little and still survived the genome-wide evidence threshold (P = 1.715 x10-7 for rs10845840; P = 2.191x10-7 for rs2456930; N = 740).
+0	NA	NA	NA	RESULTS	Additionally, because some population substructure was identified (Figure 1, Right) an analysis was conducted using a mixed model approach that controls for genetic relatedness.
+0	NA	NA	rs10845840	RESULTS	The two SNPs identified here remained significant in this analysis (P = 1.463x10-7 for rs10845840; P = 3.762 x10-7 for rs2456930; N = 742) clearly showing that population substructure is not accounting for the results.
+0	NA	NA	rs10845840	RESULTS	These findings also survive the genome-wide evidence threshold after controlling for diagnostic group by permuting phenotype values within each of the three diagnostic categories (P = 4.033x10-7 for rs10845840 and P = 1.500x10-7 for rs2456930; N = 742).
+0	NA	NA	rs10845840	RESULTS	After correction for multiple comparisons using permutation testing, both SNPs have trend-level association (corrected P = 0.05419 for rs10845840 and corrected P = 0.1369 for rs2456930; N = 742)
+0	NA	NA	NA	RESULTS	Other genes of interest (Table 1) were identified with both the temporal lobe volume and hippocampal volume phenotype at a more liberal threshold of P < 1x10-5.
+1	NA	RNF220	NA	RESULTS	These genes include RNF220, UTP20, and KIAA0743.
+1	NA	RNF220	NA	RESULTS	RNF220 and UTP20 are largely unstudied, but they fall into functional groups of metal binding (RNF220) and suppression of cell proliferation (UTP20).
+0	NA	NRXN3	NA	RESULTS	KIAA0743 is also known as NRXN3 (neurexin 3) and is involved with axon guidance and cell adhesion.
+0	NA	NA	rs1448284	RESULTS	Additionally, SNP rs1448284 is located on chromosome 4 within an expressed sequence tag (EST; GenBank Accession DA204899) showing expression in the brain; however, it is not in linkage disequilibrium (LD) with any RefSeq (a curated Reference Sequence database) gene.
+0	NA	NA	NA	RESULTS	Additional interesting SNPs were identified in intergenic regions which were not close to genes or ESTs
+0	NA	NA	NA	RESULTS	To determine how the different genotypes of the most associated SNPs affected brain volumes, boxplots were created for each of these SNPs (Figure 4).
+0	NA	NA	rs10845840	RESULTS	As expected, an additive genetic effect is clearly evident with the lowest phenotype value resembling a risk genotype (T allele for rs10845840 and G allele for rs2456930)
+0	Alzheimer's disease	NA	NA	RESULTS	After detecting their effect on brain structure, we tested if the allele frequencies for the two most associated SNPs identified in this study were over-represented in impaired versus healthy subjects (AD and MCI vs. healthy elderly) in all 745 Caucasian (non-Hispanic) subjects with genomic data.
+0	Alzheimer's disease	GRIN2B	rs10845840	RESULTS	Intriguingly, the adverse genotype of the SNP within rs10845840 (in the glutamate receptor GRIN2B gene) was significantly over-represented in MCI and AD (chi2 = 4.242; OR = 1.273; P = 0.039).
+0	NA	NA	rs2456930	RESULTS	The allele frequency of the other SNP, rs2456930, was not significantly different between diagnostic groups (chi2 = 0.760; OR = 0.902; P = 0.383).
+0	NA	GRIN2B	rs10845840	RESULTS	Additionally, MMSE scores were associated with the adverse genotype of the GRIN2B SNP rs10845840 (t = -2.114; P = 0.035) showing that risk alleles are associated with a negative effect on global cognitive function.
+0	NA	NA	rs2456930	RESULTS	However, MMSE scores were not associated with rs2456930 (t = -0.3373; P = 0.736)
+0	NA	NA	NA	RESULTS	The polymorphisms identified here could serve as proxies for association tests to causative SNPs not directly genotyped in this experiment.
+0	NA	NA	NA	RESULTS	The HapMap database gives the linkage disequilibrium, or correlation between the presence of two alleles in a population, for many more SNPs across the genome than were genotyped in this experiment.
+0	NA	GRIN2B	NA	RESULTS	We identified three functional SNPs within the GRIN2B gene (including adjacent regulatory regions) that were also genotyped in a European population in the HapMap database.
+0	NA	NA	NA	RESULTS	Functional SNPs were defined as SNPs in untranslated regions with potential to affect transcription (3' or 5' UTR), SNPs in exons that change the amino acid or prematurely end translation of the protein (coding non-synonymous), and SNPs in splice sites.
+0	NA	GRIN2B	rs10845840	RESULTS	The SNP in the GRIN2B gene identified here (rs10845840) had low correlation to three SNPs in the 5' UTR of the GRIN2B gene: rs1805502 (r2 = 0.0060), rs1805476 (r2 = 0.096), rs890 (r2 = 0.1).
+0	NA	GRIN2B	NA	RESULTS	Other functional SNPs exist within the GRIN2B gene but are not available from the HapMap database version used here (Release 22)
+0	NA	NA	NA	RESULTS	To estimate how many subjects would be needed to replicate the finding, conditional on the dataset used, that these genetic variants are associated with temporal lobe structure, we took a resampling approach.
+0	Alzheimer's disease	NA	NA	RESULTS	Three subjects, one from each diagnostic category (AD, MCI, and healthy control), were randomly picked and removed from the analysis and the P-value for each of the most associated SNPs was calculated.
+0	Alzheimer's disease	NA	NA	RESULTS	The process was repeated until no more subjects remained in the diagnostic category with the least number of subjects (173 AD subjects).
+0	NA	NA	NA	RESULTS	To estimate confidence intervals for this estimate, the resampling was repeated 1000 times.
+0	NA	NA	NA	RESULTS	95% confidence intervals were based on the 2.5th and 97.5th percentiles of the resampled distribution (Figure 5).
+0	NA	NA	rs10845840	RESULTS	Fewer than 323 and <223 subjects would be required to replicate the effect of rs10845840 and rs2456930, respectively, with 95% confidence in a new sample at a significance level of P < 0.025 (a nominal P < 0.05, Bonferroni corrected for two independent tests).
+0	NA	NA	NA	RESULTS	We note that the standard P < 0.05 level rather than the genome-wide threshold would be applicable to a replication sample, as a prior hypothesis regarding the specific gene exists
+0	NA	NA	NA	RESULTS	The phenotype used initially for the genome-wide search was the overall bilateral volume of the temporal lobes.
+0	NA	NA	NA	RESULTS	This phenotype proved useful for finding genomic markers highly associated with the temporal lobe; however, it does not provide the spatial localization of the SNP's effect on the temporal lobe volume.
+0	NA	NA	NA	RESULTS	To further investigate this, the difference in temporal lobe volume relative to a standard template was assessed at every voxel in the temporal lobe through TBM, a widely-used method for mapping the 3D profile of brain volumetric differences in human populations.
+0	NA	age	rs10845840	RESULTS	Temporal lobe volume differences at each voxel were regressed on the number of minor alleles at SNP rs10845840, after adjusting for simultaneous effects of age, and sex, at all voxels, across all subjects.
+0	NA	NA	rs10845840	RESULTS	The P-value of the genetic association to rs10845840 for each voxel was then plotted, and is shown in Figure 6.
+0	NA	NA	NA	RESULTS	To correct for multiple comparisons across voxels, a False Discovery Rate correction of q = 0.05 was used to establish a critical P-value threshold of 0.0257.
+0	NA	NA	NA	RESULTS	With this approach, on average, only 5% of the suprathreshold voxels in a map of this kind will be false positives; in other words, it is expected that the voxel-by-voxel genetic associations are true associations at 95% of the suprathreshold voxels shown.
+0	NA	NA	NA	RESULTS	The SNP has wide ranging effects across the temporal lobe, but the strongest effects are on the bilateral temporal poles and in the medial temporal lobes, bilaterally
+0	Alzheimer's disease	NA	NA	RESULTS	It is also of interest to know if the genetic association between the GRIN2B glutamate receptor gene variant and brain volumes can be found within each diagnostic group: controls, MCI, and AD patients.
+0	Alzheimer's disease	NA	NA	RESULTS	We computed 3 separate maps of the genetic association between the GRIN2B glutamate receptor gene variant and brain volumes in healthy elderly controls, MCI, and AD patients, separately.
+0	NA	NA	NA	RESULTS	For all 3 groups, a cumulative distribution function plot of the observed P-values in each of the diagnostic groups is shown in Figure 7.
+0	Alzheimer's disease	NA	NA	RESULTS	This figure shows the cumulative distribution of P-values in the temporal lobe (see Figure 6) for all AD, MCI, and healthy elderly subjects separately.
+0	NA	NA	NA	RESULTS	In these plots, the curves that rise more sharply than the reference curve (y=20x) are considered to show significant effects after the conventional correction for multiple spatial comparisons, because they find associations at a rate that is at least 20 times the rate that would be expected by chance if all genomic data were null and showed no association.
+0	NA	NA	NA	RESULTS	As shown, only the MCI group passes the FDR threshold of q = 0.05 with a critical P-value threshold of 0.0053.
+0	NA	NA	NA	RESULTS	The MCI group also has the greatest number of subjects
+0	Alzheimer's disease	apolipoprotein E	NA	RESULTS	The epsilon4 allele of the APOE gene is a well-validated genetic risk factor for AD, and we and others have previously found that this allele is associated with temporal lobe atrophy and with the rate of hippocampal atrophy.
+0	NA	apolipoprotein E	NA	RESULTS	Excluding all APOE epsilon2 allele carriers, we tested the additive genetic effect of carrying an APOE epsilon4 allele (controlling for age and sex) on temporal lobe structure using a voxelwise approach.
+0	NA	NA	NA	RESULTS	As expected, this was significant after correcting for multiple comparisons through FDR (critical P = 0.000431; q = 0.05; N = 619).
+0	NA	GRIN2B	rs10845840	RESULTS	We then tested whether there was a significant interaction between (1) the additive effect of the risk allele at SNP rs10845840 in the GRIN2B gene, and (2) the additive effect of the APOE epsilon4 allele, in terms of their statistical effect on temporal lobe volume differences.
+0	NA	apolipoprotein E	rs10845840	RESULTS	A multiple regression model predicting temporal lobe volume differences based on the rs10845840 genotype, APOE epsilon4 genotype, and the interaction of the two (controlling for age and sex) did not survive multiple comparisons correction using FDR at q = 0.05, suggesting that epistatic interactions between APOE epsilon4 and GRIN2B do not account for our findings
+0	NA	NA	NA	DISCUSS	We have identified here two common polymorphisms that are associated with temporal lobe volume with genome-wide support in a large cohort of elderly subjects, assessed with brain imaging and genome-wide scanning.
+0	NA	NA	NA	DISCUSS	We also identified several potential candidate genes associated with both temporal lobe and hippocampal volume.
+0	NA	NA	NA	DISCUSS	We identified one SNP within an intergenic region on chromosome 15 which is strongly associated with temporal lobe volume.
+0	Alzheimer's disease	GRIN2B	NA	DISCUSS	The most strongly associated polymorphism was within the GRIN2B gene, which encodes the NR2B subunit of the NMDA receptor, and is a promising functional candidate considering the prior evidence of its involvement in learning and memory, structural plasticity of the brain, and in characteristic features of AD and neurodegeneration, including as a therapeutic target receptor.
+0	NA	NA	NA	DISCUSS	NMDA receptors have long been implicated in long-term potentiation, a key process in learning and memory, and over-expression of the GRIN2B glutamate receptor gene enhances learning and memory in mice.
+0	NA	NA	NA	DISCUSS	Synaptic plasticity mediated through NMDA receptors also causes structural remodeling of neurons, which reinforces these connections.
+0	death	NA	NA	DISCUSS	Pharmaceutical blockade of NMDA receptor channels can limit cell death induced by excitotoxicity.
+0	NA	GRIN2B	NA	DISCUSS	In addition, the relative prevalence and location of the NR2B subunit within the synapse is age-dependent.
+0	NA	GRIN2B	NA	DISCUSS	In early postnatal development, there is greater prevalence of the NR2B subunit, and its distribution shifts toward extrasynaptic locations with aging
+0	NA	NA	NA	DISCUSS	In addition, we performed fine-scale voxel-by-voxel mapping of associations between this genetic polymorphism and brain structure.
+0	NA	NA	NA	DISCUSS	The genes identified here were found based on gross summaries of anatomy, and stringent genome-wide evidence.
+0	NA	NA	rs10845840	DISCUSS	However, we subsequently used a voxel-based mapping method to assess, at each point in the brain, the statistical association between rs10845840 and variations in brain structure.
+0	NA	NA	NA	DISCUSS	This clarified the anatomical specificity and localization of the gene effects, revealing strong effects in the bilateral temporal poles and bilateral medial temporal lobes.
+0	NA	GRIN2B	NA	DISCUSS	In situ hybridization in post-mortem human brain has revealed high expression of GRIN2B mRNA within pyramidal cells of the temporal cortex and hippocampus, consistent with this SNP having effects in these regions
+0	Alzheimer's disease	NA	NA	DISCUSS	These findings may add another piece to the multifactorial genetic puzzle of late onset AD.
+0	Alzheimer's disease	NA	NA	DISCUSS	Late-onset AD is hypothesized to be influenced by many genes, each with a relatively small effect.
+0	NA	NA	NA	DISCUSS	Difficulties in finding these genes may arise from the heterogeneous nature of the disease, which can lead to groups of subjects with the same diagnosis but with different genetic architectures.
+0	NA	NA	NA	DISCUSS	Here, we use a different approach by studying a phenotype that is biologically based and is strongly associated with the disease.
+0	Alzheimer's disease	GRIN2B	NA	DISCUSS	We note that the risk allele identified in the GRIN2B gene is over-represented in patients with AD and MCI.
+0	temporal lobe atrophy	NA	NA	DISCUSS	It passes the genome-wide support threshold for association with temporal lobe volume deficits, which are a known risk factor for AD.
+0	NA	NA	rs2456930	DISCUSS	The polymorphisms identified here also have relatively small effect: rs2456930 decreases temporal lobe volume, on average, by 1.473% per risk allele, and rs10845840 decreases temporal lobe volume by 1.457% per risk allele.
+0	Alzheimer's disease	NA	NA	DISCUSS	Each of these genetic variations may contribute somewhat to the as yet unmodeled sources of heritability of Alzheimer's disease beyond the currently accepted risk alleles, such as APOE epsilon4.
+0	Alzheimer's disease	NA	NA	DISCUSS	A combined approach of studying genetic risk for AD through diagnosis, neuroimaging and structural endophenotypes may result in progress in discovering genetic contributors to late-onset AD
+0	NA	NA	NA	DISCUSS	The image pre-processing conducted here used a 9 parameter linear registration step that matches the position and scales the size of each brain to the MDT.
+0	Alzheimer's disease	NA	NA	DISCUSS	In general, we use 9 parameter registration in our cross-sectional studies of Alzheimer's disease because head size and brain size vary so widely across subjects; the temporal lobe tends to be more vulnerable to atrophy than the rest of the brain, so there is still substantial residual atrophy in AD versus controls even after adjusting for brain size.
+0	temporal lobe atrophy	NA	NA	DISCUSS	Because of this, temporal lobe atrophy is typically easier to detect after controlling for overall brain volume, because the effects of wide variations in head size have been largely removed.
+0	NA	NA	NA	DISCUSS	In addition, work by Paling et al.
+0	NA	NA	NA	DISCUSS	has advocated the use of 9 parameter linear registration, especially in multi-site imaging studies, as it can correct for scanner voxel size variations in large studies involving multiple sites, scanners, and acquisition sequences, such as this one (these are typically mild and may result in variations of 1-3% in brain volume, but they add to measurement error)
+0	NA	NA	NA	DISCUSS	Even so, as we have noted in our prior studies, there is however some evidence for non-proportional scaling of brain subregions relative to the overall size of the brain.
+0	NA	NA	NA	DISCUSS	In all stereotaxic studies (e.g., those producing voxel-wise maps), this may confound the interpretation of apparently localized brain differences between groups.
+0	NA	NA	NA	DISCUSS	Put another way, the fraction of the brain that a specific brain substructure is expected to occupy may be larger (or smaller) in a smaller brain.
+0	NA	NA	NA	DISCUSS	Such an effect can be modeled by including brain volume as a regressor in the scaled Jacobian maps, perhaps after logarithmic transformation of both variables.
+0	NA	NA	NA	DISCUSS	For a full analysis of this effect, please see.
+0	NA	NA	NA	DISCUSS	This power law effect is relevant to all morphometric studies as regional brain volume is always somewhat affected by the overall size of the brain, and it cannot be ruled out that SNPs influencing subregional volumes do so because they influence the overall size of the brain, if the relative volumes of the brain substructures follow a (nonlinear) power law
+0	NA	NA	NA	DISCUSS	Hippocampal volumes proved to be a less informative phenotype than temporal lobe volume.
+0	NA	NA	NA	DISCUSS	Hippocampal volumes, though widely studied in a genetic context, are only moderately heritable most likely due to the large environmental influence as the hippocampus is a highly plastic structure - responsive to individual experiences.
+0	NA	NA	NA	DISCUSS	Additionally, though we have used new and reliable delineation methods for automatically delineating the hippocampus in the MRI scans, it remains one of the most difficult structures to accurately model due to the resolution of the MRI scans and the small intensity differences between the structure and surrounding tissue
+0	NA	NA	NA	DISCUSS	One previous genome-wide association study of brain structure found SNPs with associations with temporal brain volume and hippocampal volume, but its power was limited as it examined related individuals, had few hippocampal volumes, and low genomic coverage.
+0	NA	NA	NA	DISCUSS	Those temporal lobe SNPs identified in the Seshadri study were either not identified or not replicated here.
+0	NA	NA	rs5028798	DISCUSS	rs5028798 was not directly genotyped in our sample and no good proxy in HapMap was identified; rs2143881 was neither directly genotyped in our sample nor in HapMap; rs2793772 was not directly genotyped in our sample but was genotyped in HapMap with a good proxy rs1104973 (r2 = 1) but was not replicated (P = 0.6964); rs10497352 was directly genotyped in our sample but was not replicated (P = 0.6476); rs1433527 was directly genotyped in our sample but was not replicated (P = 0.9804).
+0	NA	NA	NA	DISCUSS	Those hippocampal SNPs identified in the Seshadri study were not identified here.
+0	NA	NA	rs9293140	DISCUSS	rs9293140 and rs1963442 were neither directly genotyped in our sample or in HapMap
+0	NA	NA	NA	DISCUSS	The sample sizes examined here are extremely large for an imaging study (this is one of the largest brain imaging studies to date), but are smaller than other genome-wide association studies that have not used brain scanning.
+0	NA	NA	NA	DISCUSS	Several factors empower the design.
+0	Alzheimer's disease	NA	NA	DISCUSS	Scans of 742 healthy elderly control, MCI, and AD subjects allowed accurate structural measurements across a broad phenotypic range.
+0	NA	NA	NA	DISCUSS	The genome-wide analyses were not split within diagnostic groups as the goal was to present as broad a phenotypic continuum as possible.
+0	NA	NA	NA	DISCUSS	Though it is possible that diagnostic groups represent distinct genetic backgrounds and may therefore confound the interpretation of our results, here we operate under the hypothesis that associations are evident regardless of diagnostic group, but may be more pronounced in disease.
+0	Alzheimer's disease	NA	NA	DISCUSS	In interpreting findings in this mixed cohort, it cannot be ruled out that the SNP effects are influencing the normal aging process independently of AD pathology.
+0	NA	NA	NA	DISCUSS	In fact, the SNP effects may even be present in young adults, prior to substantial brain aging.
+0	NA	NA	NA	DISCUSS	Conversely, it cannot be ruled out that such associations are driven by the presence of different diagnostic categories, and might not be found if only normal subjects were examined.
+0	Alzheimer's disease	NA	NA	DISCUSS	In the future, when the sample sizes are greatly increased as more imaging and genetic data are collected, it should be possible to further stratify the image database to understand (1) which specific sub-populations show a detectable SNP effect, and (2) which processes (AD, aging, early development, or all of them) are influenced by the SNPs of interest.
+0	Alzheimer's disease	NA	NA	DISCUSS	At present we have a more restricted goal of finding SNPs that influence brain structure in a mixed cohort of healthy and ill subjects, including those with AD and those who are healthy.
+0	genetic diseases	NA	NA	DISCUSS	Treating this cohort as a continuum is arguably more defensible than (for example) studying a mixed cohort of subjects with a Mendelian genetic illness (such as Fragile X) and controls.
+0	Alzheimer's disease	NA	NA	DISCUSS	This is because for Alzheimer's disease, a continuum is arguably evident in that some of cellular processes characteristic of AD (e.g., increased cerebral amyloid load) are typically present to some degree in those not yet diagnosed.
+0	Alzheimer's disease	tau	NA	DISCUSS	For example, healthy elderly subjects often show some hallmarks of AD pathology at a subclinical level (amyloid plaques and tau neurofibrillary tangles) that can be detected on imaging and negatively correlate with cognitive status.
+0	NA	NA	NA	DISCUSS	As such, the effect of pathology on the SNP associations cannot be disentangled easily by focusing only on controls, as many harbor pathology at a subclinical level.
+0	Alzheimer's disease	NA	NA	DISCUSS	Additionally, the boundary between MCI and AD is based on cognitive tests and observations of daily living that are easy to assess clinically, not biologically based boundaries.
+0	impairment to disease	age	NA	DISCUSS	The continuum from healthy aging to mild impairment to disease gives the broadest phenotypic range and therefore the highest power to detect the genetic determinants of brain volume in old age, including variants that may have relevance to AD.
+0	NA	NA	NA	DISCUSS	Therefore splitting between diagnostic groups is likely to reduce power through both fewer subjects and a smaller phenotypic range.
+0	NA	NA	NA	DISCUSS	Even so, using a permutation algorithm we found that the findings exist regardless of diagnostic group.
+0	NA	NA	NA	DISCUSS	Additionally, the use of continuous traits (instead of discrete diagnostic categories) may also better reflect the underlying biology than clinical diagnosis alone
+0	NA	NA	NA	DISCUSS	In this study we used a genome-wide evidence threshold of P < 5x10-7 as in other genome-wide association studies querying multiple phenotypes.
+0	NA	NA	NA	DISCUSS	We refer in this paper to genome-wide evidence or support rather than genome-wide significance because there is not yet a universal consensus on how to define an appropriate significance threshold.
+0	NA	NA	NA	DISCUSS	We used permutation testing in which the imaging data is permuted across subjects and all SNPs are tested to estimate the probability that so high a P-value for association could have occurred by chance.
+0	NA	NA	NA	DISCUSS	This is determined by keeping the same set of SNPs in each subject, but randomizing the assignment of images to subjects.
+0	NA	NA	NA	DISCUSS	After conducting associations with all the SNPs, the lowest P-value is retained.
+0	NA	NA	NA	DISCUSS	This procedure can be used to determine a significance threshold that incorporates the fact that SNPs within the same subject are not independent (due to linkage disequilibrium).
+0	NA	NA	rs10845840	DISCUSS	The two SNPs reported here have a permutation-corrected significance level of P = 0.05419 for rs10845840 and P = 0.1369 for rs2456930.
+0	NA	GRIN2B	NA	DISCUSS	The first of these results can be considered to mean that the GRIN2B variant associates with the phenotype so strongly that only 1 in 20 times would any SNP at all be so strongly associated in completely null data.
+0	NA	NA	NA	DISCUSS	This is therefore evidence supporting that the association did not occur by chance
+0	NA	NA	NA	DISCUSS	More recent work has proposed an additional argument, suggesting that a genome-wide significance threshold should account for not just the markers directly measured as part of the experiment, but rather the variation of the entire genome.
+0	NA	NA	NA	DISCUSS	"Such an approach is more conservative; it is based on the premise that the subset of SNPs chosen for genotyping (which depends on the chip and the density of genotyping) could have been a ""lucky"" choice that came up with a high significance hit, and as such one should control for all genomic variants, even if they were not in fact genotyped in the current experiment."
+0	NA	NA	NA	DISCUSS	Such a line of argument suggests a genome-wide significance threshold of P < 7.2x10-8
+0	NA	NA	NA	DISCUSS	Regardless of the genome-wide significance criterion, the gold standard for determining if hits are true positives is replication.
+0	NA	NA	NA	DISCUSS	Additional replication of this study's findings is necessary.
+0	NA	NA	NA	DISCUSS	Work is actively ongoing through the Enhancing NeuroImaging Genetics through Meta-Analysis (ENIGMA) Network to find collaborations to replicate the findings presented here.
+0	NA	NA	rs10845840	DISCUSS	Using a re-sampling approach, we estimate that fewer than 323 and <223 subjects will be needed to replicate the effect of rs10845840 and rs2456930, respectively, in a new sample at a reduced prior hypothesis significance level with 95% confidence.
+0	NA	NA	NA	DISCUSS	In addition to statistical validation, functional validation is also necessary to understand the mechanism by which these polymorphisms contribute to temporal lobe volume differences.
+0	NA	NA	NA	DISCUSS	First, it is necessary to determine what the causative polymorphism is within the gene.
+0	NA	NA	rs2456930	DISCUSS	rs2456930 resides in an intergenic region on the genome, so further characterization of the functional significance of this region is needed.
+0	NA	GRIN2B	rs10845840	DISCUSS	rs10845840 lies in an intron of the GRIN2B gene and is not in LD with more finely mapped potential causative mutations from a European sample identified in the current release of HapMap.
+0	NA	NA	NA	DISCUSS	However, more mutations within the gene do exist and detailed mapping of these variants could lead to identification of a causal mutation.
+0	NA	NA	NA	DISCUSS	Following this, the mechanism of action can be learned through knock-in animal models containing the causative mutation.
+0	NA	NA	NA	DISCUSS	Additionally, these intronic and intergenic gene variants could themselves alter biological pathways through changes in expression levels
+0	NA	NA	NA	DISCUSS	In summary, we identified potential quantitative trait loci associated with temporal lobe volume differences at a genome-wide evidence threshold in the elderly.
+0	NA	NA	NA	DISCUSS	These candidate genes can now serve as a target of study in future large replication samples.
+0	temporal lobe atrophy	NA	NA	DISCUSS	The polymorphisms identified here may also represent risk factors for diseases with characteristic temporal lobe atrophy such as AD and its common precursor, MCI; the NMDA/glutamate pathway is also a target for anti-dementia drugs such as memantine.
+0	NA	NA	NA	DISCUSS	These associations support the theory that endophenotypes will help to discover genes that influence brain structure.
+0	aggressive disease	NA	NA	DISCUSS	Ultimately studies combining imaging and genomic methods may help to provide a more mechanistic understanding of neurological and psychiatric illness
+0	NA	NA	NA	FIG	Multi-dimensional scaling shown in three groups of subjects.
+0	NA	NA	NA	FIG	Each dot represents a subject, and the distance between dots represents overall genetic similarity.
+0	NA	NA	NA	FIG	Dots close together represent genetically more similar subjects.
+0	NA	NA	NA	FIG	Left: MDS for all subjects genotyped as part of the ADNI dataset.
+0	NA	NA	NA	FIG	Self-declared Caucasians (blue) group together very closely, whereas non-Caucasians (black) do not.
+0	NA	NA	NA	FIG	Middle: MDS for Caucasian subjects only.
+0	NA	NA	NA	FIG	Four outliers are seen which represent two sibling pairs.
+0	NA	NA	NA	FIG	Right: MDS for Caucasian subjects only randomly excluding one person from each of the two sibling pairs.
+0	NA	NA	NA	FIG	Some substructure is evident
+0	NA	NA	NA	FIG	Temporal Lobe and Hippocampal Volume Measures.
+0	Alzheimer's disease	NA	NA	FIG	(a) An unthresholded color-coded map shows the average percent volume reduction of AD patients (N = 173) relative to a standard mean brain image based on identically scanned healthy subjects, in a temporal lobe region of interest overlaid on the population based template.
+0	NA	NA	NA	FIG	Here the temporal lobe is ~10% smaller in red regions than the average volume in matched controls.
+0	NA	NA	NA	FIG	The average bilateral temporal lobe volume was used as a quantitative phenotype for the genomic association analysis, prior to fine-scale voxel-based genetic association mapping.
+0	NA	NA	NA	FIG	(b) Automatic delineation of the hippocampus in a representative healthy elderly subject (the hippocampal boundary is shown in green).
+0	NA	NA	NA	FIG	The average of the left and right hemisphere hippocampal volumes was used as a quantitative phenotype for the genomic association analysis
+0	NA	NA	NA	FIG	Association of 546,314 SNPs to temporal lobe and hippocampal volume in N = 742 and N = 698 subjects, respectively.
+0	NA	NA	NA	FIG	(a) The x-axis moves along each base pair of each chromosome (identified in color in the key) and the y-axis gives the -log10 of the P-value for association.
+0	NA	NA	NA	FIG	The red line corresponds to the genome-wide evidence value of P = 5x10-7; all points above this line represent SNPs that are strongly associated with the phenotype.
+0	NA	NA	rs10845840	FIG	The two SNPs which survive the genome-wide evidence threshold are rs10845840 on chromosome 12 and rs2456930 on chromosome 15.
+0	NA	NA	NA	FIG	The blue line corresponds to a more liberal threshold identifying genes of interest (P = 1x10-5).
+0	NA	NA	NA	FIG	(b) A quantile-quantile plot shows the distribution of P-values in this sample versus the P-values expected under the null hypothesis of no association (blue dots).
+0	NA	NA	NA	FIG	The black line and grey shading shows 95% confidence intervals of the expected distribution
+0	NA	NA	NA	FIG	Box plots of temporal lobe volume grouped by genotype at most associated SNPs.
+0	NA	NA	NA	FIG	Box plots show the median value (horizontal line), first and third quartiles (box), 1.5 multiplied by the interquartile range (whiskers), and outliers beyond that range (open dots) for each genotype group.
+0	NA	NA	NA	FIG	Each box plot is in the order homozygous minor allele (TT or AA), heterozygous (TC or AG), homozygous major allele (CC or GG) at each SNP.
+0	NA	NA	rs2456930	FIG	The frequencies of each genotype are 12.96%, 49.53%, 37.52% for rs2456930, and 18.73%, 50.67%, 30.59% for rs10845840.
+0	NA	NA	NA	FIG	Red numbers show the difference between the mean phenotype value of the higher-volume genotype group versus the mean phenotype value of each other genotype group
+0	NA	NA	NA	FIG	The minimal number of subjects needed to detect the effect of the most significant SNPs was estimated with a resampling approach.
+0	NA	NA	NA	FIG	Subjects were randomly removed from each of the diagnostic categories until none was left in a category, and the association P-value of the SNP was calculated.
+0	NA	NA	NA	FIG	This process was repeated 1000 times, to estimate 95% confidence intervals (red lines).
+0	NA	NA	NA	FIG	The median P-value of the repetitions for each number of subjects removed is shown as the solid black line.
+0	NA	NA	NA	FIG	The dashed black line represents the genome-wide evidence level (P = 5x10-7).
+0	NA	NA	NA	FIG	The dashed blue line represents the replication significance threshold (P = 0.025).
+0	NA	NA	rs10845840	FIG	The dotted blue line shows the estimated minimum sample size that would be required to detect a replication of the finding with 95% confidence (N = 323 and <223 for rs10845840 and rs2456930, respectively).
+0	NA	NA	rs10845840	FIG	The dotted black line shows the median sample size needed for genome-wide support (N = 670 and 706 for rs10845840 and rs2456930, respectively)
+0	NA	GRIN2B	rs10845840	FIG	A voxelwise representation of significant influences of the SNP rs10845840, a genetic polymorphism of the glutamate receptor GRIN2B gene, on volumetric differences in the temporal lobe.
+0	NA	NA	NA	FIG	Indicated in color are brain regions where volumes are statistically associated with variants in the glutamate receptor gene, in 742 subjects, overlaid on a population specific template.
+0	NA	NA	NA	FIG	Using a convention that is standard in brain mapping, the map was thresholded at an FDR q-value of 0.05 across voxels of the temporal lobe, and the overall map is significant after correction for multiple spatial comparisons, and controls the expected number of suprathreshold false positive voxels (i.e., voxels where the association is spurious) at 5% of the total.
+0	NA	NA	NA	FIG	Z-Coordinates in MNI space are shown for each axial slice going from inferior to superior every 4 mm.
+0	NA	NA	NA	FIG	The frontal lobes are at the top of each panel and the occipital lobes are at the bottom.
+0	NA	NA	NA	FIG	The images are in radiological convention (left of the image is the right side of the subject).
+0	NA	NA	NA	FIG	Significance is shown as -log10(P-value), with warmer colors representing more significant influence of the SNP on regional temporal lobe volume
+0	NA	NA	rs10845840	FIG	The cumulative distribution function of P-values in the voxelwise genetic association map of SNP rs10845840 (genetic variation in the glutamate receptor) within diagnostic groups and localization of significance in the MCI group.
+0	NA	NA	NA	FIG	Left: The diagnostic groups here are distinguished according to the color of the line.
+0	NA	NA	NA	FIG	The black line represents the threshold that curves must cross, to control the false discovery rate at 5%.
+0	NA	NA	NA	FIG	The maps of genetic association are considered to be significant in the MCI sample because the curve passes above the y=20x black line.
+0	NA	NA	NA	FIG	This means that false positives in the maps of genetic association are likely to be occurring at less than 5% of the suprathreshold voxels shown.
+0	NA	NA	NA	FIG	Middle and Right: The voxelwise association overlaid on a subject specific template in both axial (middle; MNI Z-coordinate shown) and coronal (right; MNI X-coordinate shown) views thresholded to only show significant voxels
+0	temporal lobe atrophy	NA	NA	TABLE	All SNPs surviving the P < 1x10-5 threshold for genome-wide association with temporal lobe atrophy and hippocampal volumes

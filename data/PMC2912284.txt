@@ -1,0 +1,102 @@
+0	pancreatic cancer	NA	NA	ABSTRACT	Pancreatic cancer shows very poor prognosis and is the fifth leading cause of cancer death in Japan.
+0	pancreatic cancer	NA	NA	ABSTRACT	Previous studies indicated some genetic factors contributing to the development and progression of pancreatic cancer; however, there are limited reports for common genetic variants to be associated with this disease, especially in the Asian population.
+0	pancreatic ductal adenocarcinoma	NA	NA	ABSTRACT	We have conducted a genome-wide association study (GWAS) using 991 invasive pancreatic ductal adenocarcinoma cases and 5,209 controls, and identified three loci showing significant association (P-value<5x10-7) with susceptibility to pancreatic cancer.
+0	NA	NA	NA	ABSTRACT	The SNPs that showed significant association carried estimated odds ratios of 1.29, 1.32, and 3.73 with 95% confidence intervals of 1.17-1.43, 1.19-1.47, and 2.24-6.21; P-value of 3.30x10-7, 3.30x10-7, and 4.41x10-7; located on chromosomes 6p25.3, 12p11.21 and 7q36.2, respectively.
+0	pancreatic cancer	NA	NA	ABSTRACT	These associated SNPs are located within linkage disequilibrium blocks containing genes that have been implicated some roles in the oncogenesis of pancreatic cancer
+0	pancreatic cancer	NA	NA	INTRO	Pancreatic cancer is the fifth leading cause of cancer death with an estimated death of 24,634 patients in Japan in year 2007.
+0	NA	NA	NA	INTRO	Its 5-year survival rate is as low as 6.7% (http://www.fpcr.or.jp/publication/pdf/statistics2009/fig01.pdf and http://www.fpcr.or.jp/publication/pdf/statistics2009/fig20.pdf).
+0	pancreatic cancer	NA	NA	INTRO	Since no specific symptom is observed in the patients with pancreatic cancer at an early stage, most of the patients were diagnosed at their advanced stage with a very low possibility of cure for the disease
+0	NA	NA	NA	INTRO	Previous reports indicated the involvement of both environmental and genetics factors in the etiology of this deleterious disease.
+0	diabetes	NA	NA	INTRO	Several case-control and cohort epidemiological studies have identified a number of possible risk factors such as smoking, diabetes, chronic pancreatitis, which are likely to predispose individual to the disease.
+0	familial aggregation of the disease	NA	NA	INTRO	In addition, familial aggregation of the disease has implied the possible involvement of genetic factors in pancreatic cancer; approximately 10% of the patients were reported to have family history and individuals having first-degree relatives with pancreatic cancer revealed 2- to 4- fold higher risk of the disease.
+0	pancreatic cancer	NA	NA	INTRO	These data indicated that genetic factors are likely to play some roles in the development of pancreatic cancer.
+0	pancreatic cancer	CDKN2A	NA	INTRO	In the last decade, the advancement of molecular biology improved the understanding of the pathogenesis of pancreatic cancer and characterized a number of genes that mutated in pancreatic cancers, such as somatic mutations in genes INK4A(CDKN2A), TP53, DPC4, BRCA1/2, STK11, APC, KRAS and ATM and PALB2 are found in pancreatic cancers
+0	pancreatic cancer	ABO blood group	NA	INTRO	Two recent GWAS studies for pancreatic cancer using Caucasian populations have identified associations with genome-wide significance on chromosomes 9p34.2 (ABO), 13q22.1, 1q32 (NR5A2) and 5p15.33 (CLPTM1L-TERT), and highlighted that accumulation of these common genetic risk variants with modest effects are likely to play an important role on this complex disease, either individually or in interaction with environmental factors.
+0	genetic diseases	NA	NA	INTRO	As the ethnicity is one of the critical factors in the pathogenesis of the genetic diseases with complex gene-gene and gene-environmental interactions, we (Biobank Japan (BBJ) in The University of Tokyo and National Cancer Center (NCC) Japan) combined samples of 991 cases with pancreatic cancer and 5209 controls (Table S1), attempted to identify common genetic variations associated with susceptibility to pancreatic cancer in the Japanese population
+0	NA	NA	NA	RESULTS	After the standard quality control of the genotype results (Table S2), association analysis was performed for 420,236 SNPs using logistic regression analysis on the basis of allelic, dominant and recessive models after adjustment of age, sex and smoking status for each individual.
+0	NA	NA	NA	RESULTS	The Q-Q plot for this GWAS based on allelic P-values by logistic regression revealed no significant population stratification with genomic inflation factor lambda of 1.026 (Figure 1)
+0	NA	NA	NA	FIG	This Q-Q plot is based on logistic regression allelic P-values after standard quality control.
+0	NA	NA	NA	FIG	(genomic inflation factor lambda = 1.026)
+0	pancreatic cancer	NA	NA	RESULTS	We successfully identified three genomic regions, 6p25.3, 12p11.21 and 7q36.2, shown to be significantly associated (P-value<5.0x10-7) with increased risk of pancreatic cancer in Japanese population as indicated in the Manhattan plot in Figure 2 (referred to ref.
+0	NA	NA	NA	RESULTS	23)
+0	NA	NA	NA	FIG	The plot is based on logistic regression model after correction of age, sex and smoking status.
+0	NA	NA	NA	FIG	The P min indicates the minimum P-value from logistic regression analysis for three models: allelic, dominant and recessive.
+0	NA	NA	NA	FIG	Red line indicates genome-wide significant level (P-value = 5x10-7)
+0	NA	NA	rs9502893	RESULTS	The most significantly-associated SNP, rs9502893 (P-value of 3.30x10-7, per-allele odds ratio (OR) of 1.29 with 95% confidence interval (CI) of 1.17-1.43), is located within a 75-kb linkage disequilibrium (LD) block on chromosome 6p25.3 (Table 1).
+1	NA	FOXQ1	NA	RESULTS	This LD block includes FOXQ1 (forkhead box (Fox) Q1) gene, which is located 25 kb upstream to this marker SNP (Figure 3a).
+1	pancreatic cancer	FOXQ1	NA	RESULTS	Imputation analysis also revealed modest association at SNPs located near to or on the FOXQ1 gene suggesting it to be one of the causative genes for pancreatic cancer (Figure 3a and Table S3)
+1	NA	FOXQ1	rs9502893	FIG	(a) 6p25.3 region, SNP rs9502893 located 25 kb upstream to gene FOXQ1.
+1	NA	BICD1	rs708224	FIG	(b) 12p11.21 region, SNP rs708224 is located at the second intron of gene BICD1.
+1	NA	DPP6	rs6464375	FIG	(c) 7q36.2 region, SNP rs6464375 is located at the first intron of gene DPP6 transcript variant 3.
+0	NA	NA	NA	FIG	Each of the marker SNPs is marked by a blue diamond.
+0	NA	NA	NA	FIG	SNPs that are genotyped in the Illumina platform are plotted as diamonds; Imputed SNPs are plotted as circles.
+0	NA	NA	NA	FIG	The color intensity reflects the extent of LD with the marker SNP, red (r2>=0.8), orange (0.5<=r2<0.8), yellow (0.2<=r2<0.5) and white (r2<0.2).
+0	NA	NA	NA	FIG	Light blue line indicated local recombination rate
+1	NA	BICD1	rs708224	RESULTS	The second significantly-associated SNP, rs708224, located in the second intron of the gene BICD1 (Bicaudal-D homolog 1) on chromosome 12p11 (P-value of 3.30x10-7, per-allele OR of 1.32 with 95% CI of 1.19-1.47) (Table 1).
+1	NA	BICD1	NA	RESULTS	The 80-kb LD block showing the association corresponds to the second intron of BICD1 as revealed by the imputation analysis shown in Figure 3b (Table S3)
+1	NA	DPP6	rs6464375	RESULTS	The third locus is marked by rs6464375, rs7779540, rs6973850 and rs1048768 in the first intron of DPP6 gene.
+0	NA	NA	NA	RESULTS	These SNPs indicated suggestive associations only under recessive model with minimum P-value of 4.41x10-7 (OR of 3.73 with 95%CI of 2.24-6.21) as shown in Table 1 and Figure 3c
+0	pancreatic cancer	NA	NA	DISCUSS	Here we present results of GWAS analysis on 991 cases with pancreatic cancer and 5209 controls.
+0	pancreatic cancer	NA	NA	DISCUSS	Our study represents the first GWAS attempt to identify common variants associated with pancreatic cancer in Japanese population and successfully identified SNPs located on chromosomal loci of 6p25.3, 12p11.21 and 7q36.2 are significantly associated with increased risk of pancreatic cancer in Japanese population
+0	NA	NA	NA	DISCUSS	It is known that the development of the common disease is caused by the accumulation of common genetic variants, and each of this variant has a very modest effect on the risk (for example OR of <1.2).
+0	NA	NA	NA	DISCUSS	In order to detect such small fraction, GWAS involving much larger populations (5000-10000) should be required.
+0	NA	NA	NA	DISCUSS	Our study was expected to identify SNPs with moderate effects (i.e OR>1.4).
+0	NA	NA	NA	DISCUSS	Hence SNPs that show very modest effect might have failed to be identified through this study
+1	NA	FOXQ1	rs9502893	DISCUSS	The most significantly associated SNP in this GWAS, rs9502893 (P-value = 3.30x10-7, OR = 1.29) is located within a 75 kb LD block which encompasses gene FOXQ1 on chromosome loci 6p25.3.
+1	NA	FOXQ1	NA	DISCUSS	FOXQ1 encodes for protein forkhead box (Fox) Q1.
+0	cancers	NA	NA	DISCUSS	The Fox family of transcription factors consists of at least 43 members and mutations in Fox genes can cause significant effects on human common disease and cancers.
+0	pancreatic cancer	FoxM1	NA	DISCUSS	A Fox member, FoxM1, is well-known to be associated with oncogenesis of pancreatic cancer.
+0	pancreatic cancer	NA	NA	DISCUSS	Down-regulation of this protein results in the inhibition of migration, invasion and angiogenesis in pancreatic cancer cells.
+1	pancreatic cancer	FOXQ1	NA	DISCUSS	Furthermore, a recent study showed that FoxQ1 is overexpressed in pancreatic cancer, suggesting its role in pancreatic cancer tumorigenesis.
+0	NA	NA	NA	DISCUSS	Although the SNP that we identified is approximately 25 kb downstream to this gene, the associated SNP may 'tag' the causative variant located on the expression regulatory region of the gene and subsequently alter expression of the gene.
+0	prostate carcinogenesis	NA	NA	DISCUSS	However, further study is needed to elucidate a precise biological role and mechanism of the gene function with regard to pancreatic carcinogenesis
+1	NA	BICD1	rs708224	DISCUSS	The second most significantly associated SNP, rs708224 (P-value = 3.30x10-7, OR = 1.32) is located within the BICD1 gene.
+1	NA	BICD1	NA	DISCUSS	This gene encodes a protein Bicaudal-D homolog 1, which plays a role in vacuolar trafficking.
+0	NA	NA	NA	DISCUSS	Previous studies reported substantial evidences indicating a link between vacuolar gene and shorter telomeres in yeast model.
+0	NA	NA	NA	DISCUSS	In addition, Mangino et al.
+1	NA	BICD1	NA	DISCUSS	suggested that genetic variations within the BICD1 gene could alter its transcriptional levels and in turn influence telomere length in humans.
+0	pancreatic ductal adenocarcinoma	NA	NA	DISCUSS	Several recent studies have documented reduced telomere length in pancreatic ductal adenocarnoma specimens, suggesting telomeric dysfunction in pancreatic cancer cells.
+1	pancreatic cancer	NA	rs708224	DISCUSS	Thus, it is of importance to determine the functional consequences of rs708224 and/or variations linked to this SNP in the pathogenesis of pancreatic cancer
+1	pancreatic cancer	DPP6	NA	DISCUSS	Several SNPs located in the first intron of DPP6 indicated suggestive associations with an increased risk of pancreatic cancer in this study.
+1	NA	DPP6	NA	DISCUSS	DPP6 encodes protein dipeptidyl-peptidase 6, which binds to specific voltage-gated potassium channels and alters their expression and biophysical properties.
+1	pancreatic cancer	DPP6	NA	DISCUSS	A recent study on core signaling pathways in human pancreatic cancers found three somatic mutations in DPP6 among 24 pancreatic cancer samples examined by detailed sequence analyses.
+1	pancreatic cancer	DPP6	NA	DISCUSS	This report also suggested that DPP6 might play a crucial role in regulation of invasion of pancreatic cancer cells.
+1	pancreatic cancer	DPP6	NA	DISCUSS	Hence, our study strengthens the risk of DPP6 in pancreatic cancer and warrants further screening on this gene to confirm its association with pancreatic cancer
+0	pancreatic cancer	NA	NA	DISCUSS	Recent GWAS reports have indicated several loci on chromosomes 9p34.2, 13q22.1, 1q32.1 and 5p15.33 to be associated with an increased risk of pancreatic cancer in Caucasian population.
+0	NA	NA	rs9543325	DISCUSS	Among the significantly associated SNPs, rs9543325 on chromosome 13q22.1 showed moderate association in our study populations (P-value (allelic model) of 1.69x10-4; OR of 1.21 with 95%CI of 1.10-1.34) (Table S4).
+0	NA	NA	rs505922	DISCUSS	On the other hand, SNPs on chromosomes 9p34.2 (rs505922) and 1q32.1 (rs3790844) showed a weak association in our study populations (P-values of 3.69x10-2 and 1.24x10-2; ORs of 1.11 and 1.14 with 95% CI of 1.01-1.22 and 1.03-1.27, respectively) (Table S4).
+0	NA	Sonic Hedgehog	NA	DISCUSS	We were unable to replicate the remaining loci (SHH and two loci on chromosomes 5p15.33 and 15q14) in these reports, probably because most of these associated SNPs are either non-polymorphic or possess very low allelic frequencies (MAF = 0.01) in Japanese population.
+0	NA	NA	NA	DISCUSS	The power of our study was not sufficient enough to detect positive associations for these variants with the low allelic frequency.
+0	NA	NA	NA	DISCUSS	Such ethnic difference in genetic architecture of disease susceptibility is not rare.
+0	diabetes	KCNQ1	NA	DISCUSS	For example, two recent GWAS reported common variants on KCNQ1 gene associated with type 2 diabetes mellitus in Japanese population, but European GWAS were unable to identify the associations due to the low allelic frequency of these variants in the population.
+0	NA	NA	NA	DISCUSS	In addition, identification of susceptibility loci may be also influenced by the differences in the LD structure across different populations and by potential interaction with other genetic variants and environmental factors
+0	pancreatic cancer	NA	NA	DISCUSS	In summary, this study represents the first GWAS to identify common variants possibly associated with pancreatic cancer in Japanese population.
+0	NA	NA	NA	DISCUSS	Our study confirmed the association from the Caucasian GWAS studies and revealed several novel possible candidate associated loci that were not detected in the previous Caucasian GWAS studies.
+0	NA	NA	NA	DISCUSS	Nevertheless, further additional replications are required to confirm or exclude the current findings
+0	pancreatic ductal adenocarcinoma	NA	NA	METHODS	A total of 331 and 675 cases that were clinically and/or histologically diagnosed to have an invasive pancreatic ductal adenocarcinoma were obtained from Biobank Japan (http://biobankjp.org) at the Institute of Medical Science, The University of Tokyo as well as National Cancer Center Hospital, respectively.
+0	Osaka-Midosuji Rotary Club	NA	NA	METHODS	The control samples consisted of Japanese volunteers that were obtained from Osaka-Midosuji Rotary Club, Osaka, Japan (n = 906) as well as from staff members in Keio University, Japan, who participated in its health-check program (n = 677).
+0	cancers	NA	NA	METHODS	In addition, individuals who were registered in Biobank Japan as subjects with various diseases except cancer (n = 3,728) (those having pulmonary tuberculosis, chronic hepatitis-B, keroid, drug-induced skin rash, peripheral artery disease, arrhythmia, stroke and myocardial infarction) were used as controls.
+0	NA	NA	NA	METHODS	All samples were obtained after obtaining the written informed consent.
+0	cancers	NA	NA	METHODS	This project was approved by the ethics committee at The Institute of Medical Sciences, The University of Tokyo, National Cancer Center and Keio University.
+0	diabetes	NA	NA	METHODS	Individuals who had clinical history of diabetes mellitus (a possible confounding factor for pancreatic cancer) were excluded from these control sets.
+0	NA	NA	NA	METHODS	For sample quality control, we excluded five cases with call rate<0.98.
+0	NA	NA	NA	METHODS	After performing principal component analysis, we excluded outliers of 10 cases and 102 controls, who did not belong to the major Japanese cluster (Hondo cluster) (Figure S1).
+0	NA	NA	NA	METHODS	We eventually performed the association study based on 991 cases and 5209 controls (Table S1).
+0	NA	NA	NA	METHODS	Power calculation showed that our study would have over 90% power to detect a per-allele OR of 1.4 or greater for an allele with 30% frequency at the genome-wide significance level (alpha = 5x10-7)
+0	NA	NA	NA	METHODS	All the individuals were genotyped using either Illumina Infinium HumanHap550v3 or Illumina Infinium Human610-Quad DNA Analysis Genotyping BeadChip.
+0	NA	NA	NA	METHODS	SNPs common in the two platforms were used for further analysis.
+0	NA	NA	NA	METHODS	We applied SNP quality control for all sets of samples as follows; SNP call rate should be >0.99 in both cases and controls, and P-value of Hardy-Weinberg equilibrium test should be >1.0x10-6 in controls.
+0	NA	NA	NA	METHODS	SNPs with minor allele frequency (MAF) of <0.01 in both case and control samples were excluded from the further analysis (Table S2)
+0	NA	NA	NA	METHODS	We analyzed each SNP using logistic regression adjusted for age (continuous), sex and smoking status (current/former, never).
+0	NA	NA	NA	METHODS	P-values and OR with 95%CI were calculated for allelic, dominant and recessive models.
+0	NA	NA	NA	METHODS	We used the minimum P-values obtained from three models to evaluate the statistical significance of the association.
+0	NA	NA	NA	METHODS	All OR were reported with respect to the risk allele.
+0	NA	NA	NA	METHODS	All the statistical analyses were performed using R statistical environment version 2.9.0 (http://www.r-project.org/) or PLINK 1.06 (http://pngu.mgh.harvard.edu/~purcell/plink/).
+0	NA	NA	NA	METHODS	R statistical environment version 2.9.0 was employed to draw Q-Q plot and regional association plot
+0	NA	NA	NA	METHODS	We performed genotype imputation analysis for each set of samples by utilizing a Hidden Markov model as programmed in MACH version 1.0 (http://www.sph.umich.edu/csg/abecasis/mach/index.html).
+0	NA	NA	NA	METHODS	To infer untyped and missing genotypes around the candidate chromosomal loci, we provided genotypes from our own samples together with haplotypes for reference samples (Japanese from Tokyo, JPT) from HapMap database (http://hapmap.ncbi.nlm.nih.gov/).
+0	NA	NA	NA	METHODS	SNPs with low genotyping rate (<99%), showing deviations from Hardy-Weinberg equilibrium (<1.0x10-6), or MAF (<0.01) were excluded from the analysis.
+0	NA	NA	NA	METHODS	MACH version 1.0 was used to estimate haplotypes, map crossover and error rates using 50 iterations of the Markov chain Monte Carlo algorithm.
+0	NA	NA	NA	METHODS	By utilizing the genotype information from the HapMap database, maximum likelihood genotypes were generated.
+0	NA	NA	NA	METHODS	For quality control, we retained imputed SNPs with the estimated r2 of >0.3.
+0	NA	NA	NA	METHODS	We also picked up a total of 17 SNPs (P-value<0.001) to verify the association using Invader and TaqMan genotyping methods (data not shown)

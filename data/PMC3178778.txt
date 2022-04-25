@@ -1,0 +1,204 @@
+0	breast cancer	NA	NA	ABSTRACT	Previous genome-wide association studies (GWAS) have shown several risk alleles to be associated with breast cancer.
+0	NA	NA	NA	ABSTRACT	However, the variants identified so far contribute to only a small proportion of disease risk.
+0	breast cancer	NA	NA	ABSTRACT	The objective of our GWAS was to identify additional novel breast cancer susceptibility variants and to replicate these findings in an independent cohort.
+0	NA	NA	NA	ABSTRACT	We performed a two-stage association study in a cohort of 3,064 women from Alberta, Canada.
+0	breast cancer	NA	NA	ABSTRACT	In Stage I, we interrogated 906,600 single nucleotide polymorphisms (SNPs) on Affymetrix SNP 6.0 arrays using 348 breast cancer cases and 348 controls.
+0	NA	NA	NA	ABSTRACT	We used single-locus association tests to determine statistical significance for the observed differences in allele frequencies between cases and controls.
+0	NA	NA	NA	ABSTRACT	In Stage II, we attempted to replicate 35 significant markers identified in Stage I in an independent study of 1,153 cases and 1,215 controls.
+0	NA	NA	NA	ABSTRACT	Genotyping of Stage II samples was done using Sequenom Mass-ARRAY iPlex platform.
+0	NA	NA	NA	ABSTRACT	Six loci from four different gene regions (chromosomes 4, 5, 16 and 19) showed statistically significant differences between cases and controls in both Stage I and Stage II testing, and also in joint analysis.
+1	NA	EDNRA	NA	ABSTRACT	The identified variants were from EDNRA, ROPN1L, C16orf61 and ZNF577 gene regions.
+0	NA	NA	NA	ABSTRACT	The presented joint analyses from the two-stage study design were not significant after genome-wide correction.
+0	breast cancer	NA	NA	ABSTRACT	The SNPs identified in this study may serve as potential candidate loci for breast cancer risk in a further replication study in Stage III from Alberta population or independent validation in Caucasian cohorts elsewhere
+0	NA	NA	NA	ABSTRACT	The online version of this article (doi:10.1007/s00439-011-0973-1) contains supplementary material, which is available to authorized users
+0	breast cancer	NA	NA	INTRO	Breast cancer is a heterogeneous disease strongly influenced by genetic, environmental and life-style factors.
+0	NA	BRCA1	NA	INTRO	Mutations in BRCA1 (Hall et al.)
+0	NA	BRCA2	NA	INTRO	and BRCA2 (Wooster et al.)
+0	cancers	NA	NA	INTRO	tumor suppressor genes confer familial breast cancer risk and account for the high penetrance alleles characterized thus far.
+0	NA	ATM	NA	INTRO	Subsequently, certain genes of moderate penetrance such as ATM (Ahmed and Rahman; Renwick et al.
+0	NA	CHEK2	NA	INTRO	), CHEK2 (Meijers-Heijboer et al.)
+0	NA	PALB2	NA	INTRO	and PALB2 (Rahman et al.)
+0	breast cancer	NA	NA	INTRO	were shown to predispose to breast cancer susceptibility.
+0	NA	NA	NA	INTRO	However, these genes account only for a small proportion of genetic risk.
+0	breast cancer	NA	NA	INTRO	Intensive research efforts to identify BRCA-like genes to explain the breast cancer risk in populations were not successful, thus invoking a polygenic model of disease susceptibility to explain the remaining genetic risk in non-familial or sporadic breast cancer cases (Pharoah et al.
+0	NA	NA	NA	INTRO	; Smith et al.).
+0	NA	NA	NA	INTRO	The polygenic model enables identification of several common genetic variants that each individually confers only modest risk effect to the disease
+0	breast cancer	NA	NA	INTRO	Subsequent genome-wide association studies (GWAS) have identified several new risk alleles to be associated with breast cancer (Ahmed et al.
+0	NA	NA	NA	INTRO	; Easton et al.
+0	NA	NA	NA	INTRO	; Gold et al.
+0	NA	NA	NA	INTRO	; Hunter et al.
+0	NA	NA	NA	INTRO	; Murabito et al.
+0	NA	NA	NA	INTRO	; Stacey et al.
+0	NA	NA	NA	INTRO	; Thomas et al.
+0	NA	NA	NA	INTRO	; Zheng et al.
+0	NA	NA	NA	INTRO	), thus lending support to the polygenic model of disease susceptibility.
+0	NA	NA	NA	INTRO	Most of these studies were conducted in women of European ancestry with the exception of two studies which investigated the risk alleles in Chinese (Zheng et al.)
+0	NA	NA	NA	INTRO	and Ashkenazi Jewish (Gold et al.)
+0	NA	NA	NA	INTRO	populations.
+0	breast cancer	NA	NA	INTRO	Nonetheless, it is of continuing importance to conduct GWAS over ethnically diverse populations including European ancestry to uncover the full spectrum of breast cancer susceptibility variants.
+0	NA	NA	NA	INTRO	Such studies are expected to show both unique variants and confirm previously reported variants
+0	breast cancer	NA	NA	INTRO	We performed a two-stage association study on cohorts from Alberta, Canada to identify novel loci potentially associated with breast cancer susceptibility.
+0	NA	NA	NA	INTRO	A prior study from our group successfully validated several previously reported low-penetrance alleles in the same study population (data not shown).
+0	NA	NA	NA	INTRO	The object of our present GWAS was to identify novel risk loci, i.e., ones not previously reported in the literature (Ahmed et al.
+0	NA	NA	NA	INTRO	; Easton et al.
+0	NA	NA	NA	INTRO	; Gold et al.
+0	NA	NA	NA	INTRO	; Hunter et al.
+0	NA	NA	NA	INTRO	; Murabito et al.
+0	NA	NA	NA	INTRO	; Stacey et al.
+0	NA	NA	NA	INTRO	; Thomas et al.
+0	NA	NA	NA	INTRO	; Zheng et al.)
+0	NA	NA	NA	INTRO	and to replicate these findings in an independent cohort.
+0	breast cancer	NA	NA	INTRO	Herein, we report six previously unreported loci significantly associated with breast cancer, replicated in one independent cohort
+0	breast cancer	NA	NA	METHODS	We accessed information about women in Alberta with confirmed diagnosis of breast cancer (cases) with no documented family history in the first and second degree relatives and clinicopathological information from the PolyomX project (PolyomX) and Canadian Breast Cancer Foundation (CBCF) tumor bank (CBCF), located at the Cross Cancer Institute, Edmonton, Alberta, Canada.
+0	cancers	NA	NA	METHODS	The province of Alberta has centralized cancer registry, and all cancer patients receive treatment within the provincial health care services (Alberta Health Services, AHS).
+0	NA	NA	NA	METHODS	Patients with banked tissues gave prospective written approval for treatment information and life-long follow-up subject to ethics approval for the research studies and strict adherence to the health agency guidelines on privacy, confidentiality, security of patient personal information and other identifiers associated with banked specimens in the project database.
+0	cancers	NA	NA	METHODS	The PolyomX project accrued tumor and matching buffy coat samples for breast and other cancer types during the years 2001-2005 from four regional hospitals in Edmonton.
+0	cancers	NA	NA	METHODS	The CBCF tumor bank was initiated in 2005 in Edmonton and Calgary to bank tumor specimens and to serve as an open source bank to provide access to samples and associated clinical information to cancer researchers in Canada
+0	breast cancer	NA	NA	METHODS	The histological subtypes of breast cancer subjects were predominantly invasive ductal carcinomas, non-metastatic at presentation, with a median age at diagnosis of 53 years.
+0	cancers	NA	NA	METHODS	Control subjects were age- and gender-matched healthy women selected from the same geographic region (Alberta, Canada) and were free of cancer at the time of recruitment for the study, with no documented family history of breast cancer in the first and second degree relatives.
+0	breast cancer	NA	NA	METHODS	Previous studies addressed Stage I of the whole genome polymorphisms scans with emphasis to positive family history of breast cancer, ethnic diversity (Chinese or Ashkenazi Jewish populations) or cases with breast cancer in post-menopausal women (Easton et al.
+0	NA	NA	NA	METHODS	; Gold et al.
+0	NA	NA	NA	METHODS	; Hunter et al.
+0	NA	NA	NA	METHODS	; Zheng et al.).
+0	NA	NA	NA	METHODS	"Controls were obtained from an AHS cohort study recruiting up to 50,000 Albertans (age group 35-69 years) willing to provide extensive health and life-style questionnaires and DNA as part of the ""Tomorrow Project"" (Tomorrow Project)."
+0	breast cancer	NA	NA	METHODS	We accessed a subset of these individuals (samples banked between 2002 and 2008) who consented to participate in the Tomorrow Project, donated blood and provided detailed family history of breast cancer.
+0	NA	NA	NA	METHODS	Informed consent was obtained from each participant included in the research project, and the study was approved by the institutional research ethics board.
+0	breast cancer	NA	NA	METHODS	Stage I of this study evaluated 348 breast cancer cases and 348 controls; and Stage II studied a completely independent group comprising 1,153 cases and 1,215 controls.
+0	NA	NA	NA	METHODS	Cases and controls were predominantly of Caucasian origin, determined based on the self-completed ethnicity questionnaires.
+0	NA	NA	NA	METHODS	The blood or buffy coat samples were retrieved from the PolyomX and Tomorrow projects, and genomic DNA was extracted for each sample using commercially available Qiagen  (Mississauga, Ontario, Canada) DNA isolation kits.
+0	NA	NA	NA	METHODS	We quantified isolated genomic DNA using NanoDrop 2000 spectrophotometer (Wilmington, DE, USA), and we adhered to the good practices for sample quality as recommended by Affymetrix genotyping protocols
+0	breast cancer	NA	NA	METHODS	For Stage I, 348 breast cancer cases and 348 controls were genotyped using the Affymetrix genome-wide Human SNP Array 6.0, which features 906,600 SNP probes with each probe represented 4-6 times on the array.
+0	NA	NA	NA	METHODS	Sample processing was performed following the protocols provided by Affymetrix.
+0	NA	NA	NA	METHODS	After labeling of DNA, hybridization and washing steps, the arrays were scanned using the GeneChip  Scanner 3000 7G (Santa Clara, CA, USA).
+0	NA	NA	NA	METHODS	Genotype data were acquired by genotype calling of samples in batches of 96 using a default genotyping algorithm (Birdseed v2) provided by Affymetrix, as per the recommended guidelines.
+0	breast cancer	NA	NA	METHODS	For Stage II, 1,153 breast cancer cases and 1,215 controls were genotyped using Sequenom Mass-ARRAY iPlex technology (Gabriel et al.).
+0	NA	NA	NA	METHODS	Genotyping services were provided by Genome Quebec Innovation Centre (Montreal, QC, Canada).
+0	NA	NA	NA	METHODS	The Stage I samples were then re-genotyped on the Sequenom platform to evaluate the genotype concordance between the platforms, prior to replication of select markers in an independent cohort (Stage II)
+0	NA	NA	NA	METHODS	Individual chip call rate Affymetrix recommends the chip call rate threshold of >86% for SNP 6.0 arrays.
+0	NA	NA	NA	METHODS	The sample call rates for the 696 samples were: two samples in the interval (89, 90], 39 in the interval (90, 95], 480 in the interval (95, 98], and 175 in the interval (98, 100].
+0	NA	NA	NA	METHODS	In addition, quality for each sample was determined by contrast quality control (CQC) as recommended for the SNP Array 6.0 by the manufacturers.
+0	NA	NA	NA	METHODS	CQC is a cluster-based algorithm that is a good predictor of sample genotyping performance.
+0	NA	NA	NA	METHODS	Intensity of each spot on the array following hybridization, washing and scanning along with clustering of data (based on genotype calls of homozygous wild type, heterozygotes and variant homozygous) was assessed.
+0	NA	NA	NA	METHODS	Default average CQC for a sample to be included in further analysis was set at >=1.7.
+0	NA	NA	NA	METHODS	Most of our samples used in this study had a CQC of >2.0
+0	NA	NA	NA	METHODS	Deviation from Hardy-Weinberg equilibrium (HWE) We assessed for deviations from HWE using chi2 test, with 1 degree of freedom (df).
+0	NA	NA	NA	METHODS	Significant deviations were observed for 30,636 SNPs (3.38% of the 906,600 SNPs) in controls at p < 0.001 (user-defined stringent cut-off).
+0	NA	NA	NA	METHODS	We excluded these SNPs from our association analysis
+0	NA	NA	NA	METHODS	SNP call rate Failure to assign genotypes for certain SNPs in a sample affects the completeness of the data, the association test results and the replication of the findings.
+0	NA	NA	NA	METHODS	Different studies to date had adopted different cut-off points ranging from 80 to 99.7% (Ahmed et al.
+0	NA	NA	NA	METHODS	; Easton et al.
+0	NA	NA	NA	METHODS	; Gold et al.
+0	NA	NA	NA	METHODS	; Hunter et al.
+0	NA	NA	NA	METHODS	; Stacey et al.
+0	NA	NA	NA	METHODS	; Thomas et al.
+0	NA	NA	NA	METHODS	; Turnbull et al.
+0	NA	NA	NA	METHODS	; Zheng et al.).
+0	NA	NA	NA	METHODS	We adopted a stringent call rate cut-off of >=99%, which meant eliminating a total of 93,126 SNPs (10.3% of the 906,600 SNPs)
+0	NA	NA	NA	METHODS	Concordance of genotype calls (a) Within Affymetrix Batch effects of the Affymetrix Birdseed v2 genotype calling algorithm were assessed by grouping the samples (348 cases and 348 controls) into batches (7 x 96 plus 24 in the eighth), with 96 samples in each batch.
+0	NA	NA	NA	METHODS	To assess genotype call concordance across batches, we included randomly selected raw data from the first seven batches (47 cases and 25 controls) to the batch eight to bring the sample size to 96.
+0	NA	NA	NA	METHODS	The mean genotype concordance rate for the samples achieved in this analysis was very high (>99.9%).
+0	NA	NA	NA	METHODS	(b) Affymetrix versus Sequenom The SNPs that were statistically significant (p < 0.001) in Stage I on Affymetrix platform and those that were selected for replication were re-genotyped in 647 samples (326 cases and 321 controls) on Sequenom Mass-ARRAY iPlex platform.
+0	NA	NA	NA	METHODS	We consistently observed high mean genotype concordance rate of >95% between these two genotyping platforms.
+0	NA	NA	NA	METHODS	(c) Within Sequenom To assess the genotype concordance within Sequenom platform, 132 replicate samples (67 cases and 65 controls) were randomly distributed in each of the 96-well plate assay.
+0	NA	NA	NA	METHODS	The mean genotype concordance rate of the replicates was again high at >98.6%.
+0	NA	NA	NA	METHODS	We have also analyzed the sample call rates for the 2,368 Stage II samples (replication study) within Sequenom and found that 26 samples were in the interval (80, 90], 67 in the interval (90, 95], 394 in the interval (95, 98] and 1,881 in the interval (98, 100]
+0	NA	NA	NA	METHODS	Assessment of population stratification We explored the genetic relatedness of our case-control cohorts prior to independent validation of loci from GWAS reported here.
+0	NA	NA	NA	METHODS	Detection and removal of outliers (population stratification) is important to minimize false-positive findings.
+0	NA	NA	NA	METHODS	To assess the substructure, we applied the principal component analysis (PCA)-based EIGENSTRAT method (Price et al.)
+0	NA	NA	NA	METHODS	embedded in our statistical software (HelixTree ) used for the data analysis reported here.
+0	NA	NA	NA	METHODS	Using a conservative threshold of >=3 standard deviations away from the mean on one of the two principal components, we detected a total of 73 samples (46 cases and 27 controls) as outliers.
+0	NA	NA	NA	METHODS	The detected outliers were removed from our dataset leaving with 302 cases and 321 controls for further scrutiny
+0	NA	NA	NA	METHODS	We applied the following filters to the genotype data prior to the association analysis to minimize false-positive associations, which helps to increase the overall power of the study
+0	NA	NA	NA	METHODS	We calculated the power assuming an additive model of genetic inheritance, a minor allele frequency (MAF) of 0.1, genotype relative risk of 1.2 (based on odds ratio (OR) and allele frequency estimates from previous GWAS for Caucasian population), alpha of 0.05 and determined that our study cohort has more than 80% power to detect associations (Klein)
+0	NA	NA	NA	METHODS	The statistical analysis was conducted using commercially available software, HelixTree .
+0	NA	NA	NA	METHODS	Association analysis was carried out using the case versus control status as the binary variable.
+0	NA	NA	NA	METHODS	After filtering out SNPs and samples (PCA outliers, deviations from HWE and missing values), a total of 782,838 SNPs and 302 cases/321 controls were included in the analysis for Stage I of the study.
+0	NA	NA	NA	METHODS	A chi2 test with 1 df was carried out to determine the allele frequency differences between cases and controls for all the datasets reported here.
+0	NA	NA	NA	METHODS	Unconditional logistic regression analysis was used to estimate the OR and 95% confidence intervals (CI).
+0	NA	NA	NA	METHODS	A genome-wide correction to correct for multiple marker testing was applied (Bonferroni method: p < 6.4 x 10-8 calculated from nominal p value of 0.05/total number of markers as 782,838)
+0	NA	NA	NA	METHODS	Whole genome association analysis from Stage I enabled us to identify subset of markers with nominal p values (<0.05) that showed association with the disease trait.
+0	NA	NA	NA	METHODS	As this subset of markers may also include several false associations, we attempted to replicate these primary findings by testing them on an independent cohort with higher sample sizes than in Stage I.
+0	breast cancer	NA	NA	METHODS	We selected the markers for replication from Stage I in a systematic manner proposed by Zheng et al.. Of the 35,859 markers from Stage I that showed association with breast cancer risk (p < 0.05) and showed conformity with the HWE criteria, we selected the ones with p < 0.001, MAF > 0.1, distinct genotype clusters and novel markers that were not previously identified in other GWAS.
+0	NA	NA	NA	METHODS	We identified haplotype blocks using a feature available in the software, using the default parameters:maximum length of 160 kb and maximum of 30 markers per block.
+0	NA	NA	NA	METHODS	A haplotype association analysis was performed in a case-control setting to improve statistical power.
+0	NA	NA	NA	METHODS	We selected the markers that showed statistical significance (p < 0.001) in both (1) allelic and haplotype association analyses, with each identified block containing more than two SNPs and (2) chose representative SNPs with r2 >= 0.8.
+0	NA	NA	NA	METHODS	After applying these selection criteria, we selected 35 SNPs for replication in Stage II with a completely independent series of 1,153 cases and 1,215 controls.
+0	NA	NA	NA	METHODS	Association analysis and tests of significance were carried out independently for Stage II and in combined samples from Stages I and II (potential combined sample size of 2,991 from cases and controls left for association analysis following data filtering criteria described above)
+0	NA	NA	NA	FIG	Manhattan plot for Stage I association study showing 35,589 markers (p < 0.05) distributed across chromosomes.
+0	breast cancer	NA	NA	FIG	This graph is plotted against allelic chi2p values on -log10 scale to indicate polygenic nature of breast cancer susceptibilit
+0	NA	NA	NA	RESULTS	Allelic association analysis with 782,838 SNPs showed statistically significant (p < 0.05) differences between the cases and the controls at multiple genomic locations (35,859 SNPs) scattered across all chromosomes (Fig.
+0	NA	NA	NA	RESULTS	1).
+0	NA	NA	NA	RESULTS	We explored multi-dimensional scaling using PCA-based method.
+0	NA	NA	NA	RESULTS	Case and control samples of this study showed significant overlap with the Central European population cluster of HapMap samples on PCA plots (Supplementary Figure S1).
+0	NA	NA	NA	RESULTS	It indicates that our predominantly Caucasian population has (1) high genetic similarity with the European population when compared with the Asian or Yoruba Indians (African) and (2) the cases and the controls from the Alberta region showed near genetic homogeneity, i.e., both appear to be of eastern European ancestry.
+0	NA	NA	NA	RESULTS	Quantile-quantile plot showed that most of the observed associations lie along the line of best fit (expected distribution) conforming to the null hypothesis of no association for majority of the SNPs (Supplementary Figure S2)
+0	breast cancer	NA	NA	TABLE	Six novel loci showing consistent association with breast cancer in both stages of the stud
+0	NA	NA	NA	RESULTS	In Stage II, we genotyped 35 SNPs using Sequenom Mass-ARRAY iPlex technology in independent case and control subjects (1,153 cases and 1,215 controls).
+0	breast cancer	NA	NA	RESULTS	We also performed a joint analysis which is considered the best way to confer power and confidence in the results, as well as to address the possible sampling bias and inherent heterogeneity of breast cancer as a phenotype (Skol et al.).
+0	breast cancer	NA	NA	RESULTS	The joint analysis consisted of a total of 1,455 breast cancer cases and 1,536 controls obtained by combining the samples from the two stages of the study.
+0	NA	NA	NA	RESULTS	Of the 35 SNPs considered for replication, 6 SNPs showed statistical significance in all stages (Stages I and II) and in joint analysis (Table 1).
+0	NA	NA	NA	RESULTS	The data from the remaining 29 SNPs are summarized in Supplementary Table S1.
+0	NA	NA	NA	RESULTS	Data summarized in Table 1 also lists the OR, 95% CI, false discovery rate (FDR), SNP call rate and MAF for the six significant polymorphisms described above
+0	breast cancer	NA	NA	RESULTS	The polymorphisms with high significance (10-6-10-4) in joint analysis and conferring risk for breast cancer are in chromosomes 4, 5, 16 and 19.
+1	NA	ROPN1L	rs1092913	RESULTS	Of these, rs1092913 is located on chromosome 5p15.2 [p value 1.89 x 10-6, FDR 3.30 x 10-5, OR (95% CI) 1.45 (1.24-1.69)], with the ropporin-1-like (ROPN1L) gene present 2.5 kb downstream of the polymorphism; the three SNPs present on chromosome 19q13.33, ZNF577 (zinc finger protein 577) gene are (1) rs10411161 (p value 7.09 x 10-6, FDR 8.27 x 10-5) located in the 3' untranslated region (UTR; 2.8 kb downstream of the stop codon, Goldenpath-hg 18/db SNP build 130), (2) rs3848562 (p value 9.23 x 10-6, FDR 8.08 x 10-5) and (3) rs11878583 (p value 1.35 x 10-4, FDR 9.45 x 10-4) located in the introns 6 and 2, respectively.
+1	NA	ZNF577	NA	RESULTS	We observed ORs (95% CI) of 1.42 (1.22-1.65), 1.42 (1.22-1.66) and 1.35 (1.16-1.57), respectively, for the three ZNF577 SNPs.
+0	NA	NA	rs10411161	RESULTS	However, rs10411161 showed deviation from HWE in the Stage II sample set and in the joint analysis for both cases and controls.
+0	NA	NA	NA	RESULTS	"We ruled out the obvious possibility of genotyping errors, and both Stage I and Stage II samples (with several replicates) showed good concordance within and across the genotyping platforms (see ""Materials and methods"")."
+0	NA	EDNRA	rs1429142	RESULTS	The fifth SNP, rs1429142, is located on chromosome 4q31.23 (p value 3.59 x 10-4, FDR 2.10 x 10-3), with EDNRA (endothelin receptor type A) gene present approximately 112.5 kb downstream of the polymorphism.
+0	NA	NA	rs1981867	RESULTS	An OR of 1.27 (95% CI 1.11-1.45) was noted for the minor allele C. Finally, rs1981867 located on chromosome 16q23.2 showed satisfactory statistical significance in Stage I (p value 3.7 x 10-4) and in joint analysis (p value 4.32 x 10-4, FDR 2.16 x 10-3) but showed only marginal significance in Stage II (p value 0.03).
+0	NA	NA	NA	RESULTS	An OR of 1.22 (95% CI 1.09-1.36) for the minor allele A was noted
+0	NA	NA	NA	DISCUSS	Increasingly, assessing genetic risk in complex traits requires identification of multiple loci conferring risk and/or mining of the data in an integrated manner to identify potential gene-gene interactions that together may explain a higher proportion of risk than the single-locus analysis (Park et al.
+0	NA	NA	NA	DISCUSS	; Yang et al.).
+0	NA	NA	NA	DISCUSS	This approach calls for identification of potential novel risk-associated SNPs and their subsequent validation to improve the accuracy of genetic risk assessment models.
+0	breast cancer	NA	NA	DISCUSS	We performed a whole genome analysis to identify novel markers (single-locus analysis) associated with breast cancer and confirmed several new loci in a larger, independent replication set of cases and controls.
+0	NA	NA	NA	DISCUSS	None of these six SNPs were significant after genome-wide correction in individual stages or in the joint analysis from the two-stage association study presented here
+0	breast cancer	NA	NA	DISCUSS	The conduct of our study was appropriate, in that the sample size used in our Stage I GWAS (348 cases and 348 controls) closely matched those used in Stage I of earlier studies, e.g., 390 familial breast cancer cases and 364 controls used by Easton et al.
+0	NA	NA	NA	DISCUSS	and 249 Ashkenazi Jew familial cases and 299 controls used by Gold et al..
+0	NA	NA	NA	DISCUSS	Furthermore, this was only the second study, after Zheng et al., to use high-density Affymetrix SNP arrays (906,600 SNPs/array), which provides a vast physical coverage of the genome in an unbiased manner, to identify the markers associated with disease susceptibility.
+0	breast cancer	NA	NA	DISCUSS	A precedent exists for using high-density SNP arrays to identify breast cancer susceptibility loci and to subsequently replicate those identified variants in large cohorts (Ahmed et al.
+0	NA	NA	NA	DISCUSS	; Easton et al.
+0	NA	NA	NA	DISCUSS	; Gold et al.
+0	NA	NA	NA	DISCUSS	; Hunter et al.
+0	NA	NA	NA	DISCUSS	; Murabito et al.
+0	NA	NA	NA	DISCUSS	; Stacey et al.
+0	NA	NA	NA	DISCUSS	; Thomas et al.
+0	NA	NA	NA	DISCUSS	; Turnbull et al.
+0	NA	NA	NA	DISCUSS	; Zheng et al.).
+0	NA	NA	NA	DISCUSS	The SNPs identified, so far, in GWAS including our study were largely surrogate markers; fine mapping and independent validation studies are underway to identify causal variants
+0	NA	FGFR2	NA	DISCUSS	Using the cohorts described here, we successfully validated the FGFR2 polymorphisms (data not shown), which were also highly reproducible in several cohorts and disease models (Raskin et al.
+0	NA	NA	NA	DISCUSS	; Rebbeck et al.
+0	NA	NA	NA	DISCUSS	; Thomas et al.
+0	NA	NA	NA	DISCUSS	; Turnbull et al.
+0	NA	NA	NA	DISCUSS	; Zheng et al.).
+0	breast cancer	NA	NA	DISCUSS	In this study, we report six putative candidate loci, and further large-scale studies are required to confirm their association with breast cancer.
+0	NA	C16orf61	rs1981867	DISCUSS	These include SNP rs1981867 in the open reading frame on chromosome 16 (C16orf61), a gene that has been shown to be associated with multi-drug resistance (Campone et al.).
+0	NA	NA	NA	DISCUSS	Easton et al.
+0	NA	NA	NA	DISCUSS	and Stacey et al.
+0	breast cancer	NA	rs3803662	DISCUSS	previously reported that rs3803662 positioned on chromosome 16q is associated with breast cancer risk in two independent GWAS.
+0	breast cancer	NA	rs1981867	DISCUSS	The identified SNP rs1981867 in this study from chromosome 16 further emphasizes the importance of this region in breast cancer.
+0	breast cancer	NA	NA	DISCUSS	While these results and interpretations require large-scale studies and independent confirmation, repeated and independent observations by several research groups suggesting breast cancer risk related to these open reading frames underscores the importance of this region.
+0	NA	NA	NA	DISCUSS	Functional characterization of these variants is warranted
+0	NA	NA	NA	DISCUSS	Zinc finger proteins are commonly involved in transcriptional regulation of genes.
+0	NA	NA	NA	DISCUSS	Tan et al.
+0	cancers	ZBRK1	NA	DISCUSS	have shown that C-terminal transcriptional repression domain of zinc finger protein ZBRK1 interacts with BRCA1 tumor suppressor gene to repress transcription.
+0	breast cancer	BRCA1	NA	DISCUSS	Previous linkage studies have shown that mutations in BRCA1 gene are a common event in early-onset, multiple-case breast cancer families (Hall et al.).
+1	NA	ZNF577	NA	DISCUSS	The C-terminal extension of ZNF577 shares sequence homology with ZBRK1 (Tan et al.).
+1	NA	ZNF577	NA	DISCUSS	It remains to be determined whether ZNF577 identified in our study also plays a role in transcriptional repression by binding to the BRCA1 protein.
+1	NA	ZNF577	rs10411161	DISCUSS	We found three SNPs from ZNF577 gene region to be associated with disease susceptibility: rs10411161 (only SNP in the replication stage that showed deviation from HWE) found 2.8 kb downstream of the gene in the 3' UTR, and the other two markers rs3848562 and rs11878583 are present in the introns 2 and 6, respectively.
+1	NA	ZNF577	NA	DISCUSS	The reasons for the deviation of the 3' UTR SNP in ZNF577 gene require further scrutiny and validation from independent studies.
+0	breast cancer	ZNF365	rs10995190	DISCUSS	Similarly, a recent GWAS has shown a polymorphism rs10995190 located within the intron 4 of zinc finger protein 365 (ZNF365) to be associated with breast cancer susceptibility (Turnbull et al.).
+1	NA	ZNF577	NA	DISCUSS	Further studies are required to understand the functional role of ZNF577
+0	NA	EDNRA	rs1981867	DISCUSS	The endothelin receptor type A (EDNRA) gene is located 112.5 kb upstream of the polymorphism rs1981867, which we identified in our association study.
+0	breast cancer	NA	NA	DISCUSS	Its role in breast cancer susceptibility requires further attention.
+0	Colon and Ovarian (PLCO) Cancer	endothelin-1	NA	DISCUSS	Interestingly, constitutive co-expression of endothelin-1 growth factor and EDNRA often results in ovarian carcinoma (Salani et al.)
+0	metastases	NA	NA	DISCUSS	and also contributes to bone metastases in different primary tumors (Medinger et al.)
+1	NA	ROPN1L	rs1092913	DISCUSS	The ROPN1L gene on chromosome 5p15.2 is present 2.5 kb downstream of the polymorphism rs1092913.
+0	breast cancer	NA	NA	DISCUSS	There is no previous evidence on the association of the gene to breast cancer susceptibility.
+1	NA	ROPN1L	NA	DISCUSS	The ROPN1L gene encodes for a sperm protein known to interact with A-kinase anchoring protein (GeneCards).
+0	breast cancer	NA	NA	DISCUSS	It is evident from previous GWAS that the p arm of chromosome 5 harbors several polymorphisms implicated in breast cancer susceptibility (Stacey et al.
+0	NA	NA	NA	DISCUSS	; Thomas et al.).
+0	NA	NA	NA	DISCUSS	Moreover, Lowe et al.
+1	pancreatic cancer	ROPN1L	NA	DISCUSS	showed that ROPN1L gene is highly expressed in pancreatic cancer when compared to the normal pancreatic tissues and other tumors in their dataset.
+0	NA	NA	NA	DISCUSS	Again, our results motivate further investigation in this gene
+0	breast cancer	NA	NA	CONCL	We report six candidate polymorphisms that were not previously associated with breast cancer risk in Caucasian population from Alberta.
+0	NA	NA	NA	CONCL	These findings merit further replication and, if confirmed, warrant fine mapping and functional validation studies

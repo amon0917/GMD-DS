@@ -1,0 +1,284 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	To extend understanding of the genetic architecture and molecular basis of type 2 diabetes (T2D), we conducted a meta-analysis of genetic variants on the Metabochip involving 34,840 cases and 114,981 controls, overwhelmingly of European descent.
+0	NA	NA	NA	ABSTRACT	We identified ten previously unreported T2D susceptibility loci, including two demonstrating sex-differentiated association.
+0	NA	NA	NA	ABSTRACT	Genome-wide analyses of these data are consistent with a long tail of further common variant loci explaining much of the variation in susceptibility to T2D.
+0	diabetes	NA	NA	ABSTRACT	Exploration of the enlarged set of susceptibility loci implicates several processes, including CREBBP-related transcription, adipocytokine signalling and cell cycle regulation, in diabetes pathogenesis
+0	Type 2 diabetes	NA	NA	INTRO	Type 2 diabetes (T2D) is a chronic metabolic disease with multifactorial pathogenesis.
+0	familial aggregation of the disease	NA	NA	INTRO	Although the genetic contribution to T2D is well recognized, the current set of 56 established susceptibility loci, identified primarily through large-scale genome-wide association studies (GWAS), captures at best 10% of familial aggregation of the disease.
+0	NA	NA	NA	INTRO	"The characteristics (effect sizes and risk allele frequencies (RAF)) of the variants contributing to the ""unexplained"" genetic variance remain far from clear."
+0	NA	NA	NA	INTRO	At the same time, difficulties in inferring biological mechanisms from the variants of modest effect identified by GWAS have inhibited progress in defining the pathophysiological basis of disease susceptibility.
+0	NA	NA	NA	INTRO	One key question is whether characterization of increasing numbers of risk loci will provide evidence, at the functional level, that susceptibility involves a limited set of molecular processes
+0	NA	NA	NA	INTRO	To extend the discovery and characterization of variants influencing T2D susceptibility, we performed large-scale genotyping using the Metabochip.
+0	NA	NA	NA	INTRO	This custom array of 196,725 variants was designed to facilitate cost-effective follow-up of nominal associations for T2D and other metabolic and cardiovascular traits, and to enhance fine-mapping of established loci.
+0	diabetes	NA	NA	INTRO	"The T2D-nominated component of Metabochip comprises 21,774 variants, including 5,057 ""replication"" SNPs that capture the strongest, independent (CEU r2 < 0.2) autosomal association signals from the GWAS meta-analysis conducted by the DIAbetes Genetics Replication and Meta-analysis (DIAGRAM) Consortium."
+0	NA	NA	NA	INTRO	"This genome-wide meta-analysis (""DIAGRAMv3"") includes data from 12,171 cases and 56,862 controls of European descent imputed up to 2.5 million autosomal SNPs, and augments the previously published ""DIAGRAMv2"" meta-analysis with four additional GWAS (Supplementary Table 1)."
+0	NA	NA	NA	INTRO	The T2D-nominated content of Metabochip includes a further 16,717 variants, most chosen from 1000 Genomes Project pilot data, to fine-map 27 established susceptibility loci
+0	NA	NA	NA	RESULTS	"Our primary investigation combined the DIAGRAMv3 (""Stage 1"") GWAS meta-analysis with a ""Stage 2"" meta-analysis comprising 22,669 cases and 58,119 controls genotyped with Metabochip, including 1,178 cases and 2,472 controls of Pakistani descent (PROMIS) (Online Methods and Supplementary Table 1)."
+0	NA	NA	NA	RESULTS	There was little evidence of heterogeneity in allelic effects between European- and Pakistani-descent studies in Stage 2 (Supplementary Fig.
+0	NA	NA	NA	RESULTS	1), so we report the combined meta-analysis including PROMIS with genomic control correction
+0	NA	NA	NA	RESULTS	Combining Stage 1 and Stage 2 meta-analyses (Supplementary Fig.
+0	NA	NA	NA	RESULTS	2), we identified eight new T2D susceptibility loci at genome-wide significance (P < 5 x 10-8) (Table 1, Supplementary Fig.
+0	NA	NA	NA	RESULTS	3 and Supplementary Table 2).
+0	NA	NA	NA	RESULTS	By convention, we have labelled loci according to the gene nearest to the lead SNP, unless a compelling biological candidate maps nearby.
+1	NA	ZMIZ1	NA	RESULTS	The strongest signals mapped to ZMIZ1 (P = 1.0 x 10-10), ANK1 (P = 2.5 x 10-10), and the region flanking KLHDC5 (P = 6.1 x 10-10).
+1	NA	HMG20A	NA	RESULTS	We also observed genome-wide significant association at HMG20A (P = 4.6 x 10-9) and GRB14 (P = 1.0 x 10-8), both implicated in a recent meta-analysis of T2D in South Asians.
+1	NA	HMG20A	NA	RESULTS	Neither has previously been reported in European studies, and both remain genome-wide significant after removing PROMIS from the meta-analysis (HMG20A P = 1.9 x 10-9; GRB14 P = 5.8 x 10-9).
+1	NA	HMG20A	NA	RESULTS	The lead SNPs from both meta-analyses are in strong linkage disequilibrium (LD) (HMG20A r2 = 0.89 and GRB14 r2 = 0.77 in CEU), and likely represent the same association signals.
+1	NA	MC4R	NA	RESULTS	At the previously unreported loci, we observed nominal evidence of association (P < 0.05) in the South Asian and recent East Asian meta-analyses for the lead SNPs at MC4R and ZMIZ1 (Supplementary Table 3), with consistent directions of effect across all three ancestry groups
+0	NA	NA	NA	RESULTS	Several of these signals map to loci previously implicated in T2D-related metabolic traits (Supplementary Table 4).
+1	NA	MC4R	NA	RESULTS	The lead SNP at MC4R is in strong LD with variants associated with BMI (CEU r2 = 0.80) and triglycerides (CEU r2 = 0.84) and is associated with waist circumference and insulin resistance.
+1	NA	MC4R	NA	RESULTS	As with FTO, the T2D-effect at MC4R is probably secondary to the BMI association.
+1	NA	GRB14	NA	RESULTS	The lead SNP at GRB14 is highly correlated with variants associated with waist-hip ratio (WHR) and high-density lipoprotein (HDL) cholesterol (CEU r2 = 0.93).
+1	NA	CILP2	NA	RESULTS	At CILP2, the lead SNP for T2D is also associated with triglycerides, low-density lipoprotein (LDL) and total cholesterol.
+1	NA	ANK1	NA	RESULTS	In contrast, the previously-reported association signals for haemoglobin A1C (HbA1C) levels near ANK1 are both independent (CEU r2 < 0.01) of the lead T2D SNP from our meta-analysis.
+1	anaemia	ANK1	NA	RESULTS	Given the role played by rare ANK1 mutations in hereditary anemias, the HbA1C associations at this locus were assumed to be driven by abnormal erythrocyte development and/or function.
+0	glucose homeostasis	NA	NA	RESULTS	However, our newly discovered independent association with T2D (in cohorts where HbA1C was not used for diagnosis) suggests that variation at this locus also has direct effects on glucose homeostasis
+0	NA	NA	NA	RESULTS	The associated lead variants at the eight newly identified loci were common (Stage 2 RAF 0.08-0.89) and had modest effects on T2D susceptibility (allelic odds ratios (OR) 1.07-1.14).
+0	NA	DUSP9	NA	RESULTS	Under a multiplicative model within and between variants, the sibling relative risk attributable to lead SNPs rose from lambdaS = 1.093 at the 55 previously described autosomal T2D loci represented on Metabochip (DUSP9 on chromosome X is not captured) to lambdaS = 1.104 after inclusion of the eight newly discovered loci (Supplementary Table 5).
+0	multifactorial disease	NA	NA	RESULTS	Assuming a T2D population prevalence of 8%, these 63 newly discovered and established autosomal loci together account for 5.7% of variance in disease susceptibility, as calculated by transforming dichotomous disease risk onto a continuous liability scale (Online Methods)
+0	NA	NA	NA	RESULTS	To determine the extent to which additional common variant associations contribute to the overall variance explained, we compared directional consistency in allelic effects between the two stages of the meta-analysis.
+0	NA	NA	NA	RESULTS	Figure 1 presents the distribution of Z-scores from Stage 2, aligned to the risk allele from Stage 1, at a subset of 3,412 independent (CEU r2 < 0.05) T2D replication variants that excludes lead SNPs and possible proxies (CEU r2 >= 0.1) at the 63 newly discovered and established loci represented on Metabochip.
+0	NA	NA	NA	RESULTS	The blue curve represents the expected distribution of Stage 2 Z-scores under the null hypothesis of no association.
+0	NA	NA	NA	RESULTS	There is a clear shift in the observed distribution, corresponding to closer agreement in the direction of allelic effect than expected by chance: 2,172 (69.1%) of the 3,412 SNPs are concordant (binomial test P = 2.0 x 10-104).
+0	NA	NA	NA	RESULTS	For comparison, we examined T2D association patterns in 2,707 independent replication SNPs for QT-interval, the trait showing weakest correlation with T2D susceptibility among those contributing to Metabochip and found far less directional consistency (54.4%, binomial test P = 3.3 x 10-6).
+0	NA	NA	NA	RESULTS	This modest enrichment most likely reflects weak overlap of risk alleles between the two traits, since exclusion of SNPs mapping within 300 kb of directionally consistent T2D replication variants reduced this excess (52.5%, binomial test P = 0.060)
+0	NA	NA	NA	RESULTS	"The observed distribution of Z-scores can be considered a mixture of: (i) the ""null distribution"" of SNPs having no effect on T2D; and (ii) the ""alternative distribution"" of T2D-associated SNPs (Online Methods)."
+0	NA	NA	NA	RESULTS	We estimated the features of this alternative distribution (red curve) and noted that addition of this class of SNPs significantly improved the fit to the observed Z-scores over the null model.
+0	NA	NA	NA	RESULTS	Using simulations, based on parameter estimates from this mixture model, we estimated that 488 (95% confidence interval (CI) 456-521) of the independent replication SNPs, in addition to the 63 newly discovered and established loci, are associated with T2D susceptibility.
+0	NA	NA	NA	RESULTS	For comparison, we undertook false-discovery rate (FDR) analysis of the 64,646 SNPs on the Metabochip selected for replication of any trait, using P-values from the combined meta-analysis (Online Methods).
+0	NA	NA	NA	RESULTS	We observed broad agreement between combined meta-analysis P-values, FDR Q-values and the posterior probability of alternative distribution membership from the mixture model (Supplementary Fig.
+0	NA	NA	NA	RESULTS	4)
+0	NA	NA	NA	RESULTS	We were concerned that these additional, weaker association signals might reflect subtle stratification effects not eliminated by genomic control correction.
+0	NA	NA	NA	RESULTS	However, using diverse European populations from the 1000 Genomes Project (Online Methods), we found no evidence that directionally-consistent T2D replication SNPs differed from other Metabochip replication SNPs with respect to FST (P = 0.88)
+0	NA	NA	NA	RESULTS	As expected, the estimated allelic ORs of the 488 SNPs are modest (1.01-1.11 in Stage 2), and larger samples would be required to establish association at genome-wide significance.
+0	NA	NA	NA	RESULTS	"For example, by simulating an additional 100,000 T2D cases and 100,000 controls as a ""third stage"" to the combined meta-analysis, we calculate that only ~37% of the 488 replication SNPs in the alternative distribution would achieve this threshold."
+0	NA	NA	NA	RESULTS	We estimate that these variants jointly account for lambdaS = 1.088 (95% CI 1.083-1.094), increasing the overall liability-scale variance explained to 10.7% (10.4-11.0%)
+0	NA	NA	NA	RESULTS	These estimates likely set a lower bound to the overall liability-scale variance attributable to common SNPs.
+0	NA	NA	NA	RESULTS	The mixture model does not take account loci not represented by Metabochip T2D replication SNPs due to failures in array design or manufacture or because the association signal in DIAGRAMv3 was too weak to merit inclusion.
+1	NA	ANKRD55	NA	RESULTS	Indeed, the latter applied to two of the genome-wide significant loci, ANKRD55 and GRB14, which were nominated for inclusion on Metabochip because of associations with WHR (ANKRD55 and GRB14), blood pressure (ANKRD55) and plasma lipid concentrations (GRB14), rather than T2D
+0	NA	DGI	NA	RESULTS	To estimate the contribution to the variance explained by common variants genome-wide, we undertook polygenic mixed linear modelling analyses using GCTA in two DIAGRAMv3 GWAS data sets: DGI (1,022 cases, 1,075 controls) and WTCCC (1,924 cases, 2,938 controls).
+0	NA	DGI	NA	RESULTS	The estimated liability-scale variance explained by the full set of GWAS SNPs was consistent between the two studies: 62.6% for DGI (95% CI 38.1-87.1%) and 63.9% for WTCCC (95% CI 52.1-75.8%).
+0	NA	NA	NA	RESULTS	These results are similar to those obtained from a complementary method integrating polygenic risk score analysis and approximate Bayesian computation applied to the DIAGRAMv2 meta-analysis, which estimated that ~49% of liability-scale variance was explained by common variants genome-wide.
+0	NA	NA	NA	RESULTS	These data indicate that a substantial proportion of the variation in T2D risk is captured by common variant association signals that, individually, lie beyond unequivocal detection in single SNP analyses
+0	NA	NA	NA	RESULTS	The DIAGRAMv2 meta-analysis had provided some evidence for loci harboring multiple independent association signals.
+0	NA	NA	NA	RESULTS	To understand the extent to which additional variance might be attributable to multiple variants at established and newly discovered loci, we extended these analyses, focusing on the detection of independent (CEU r2 < 0.05) association signals that lie outside the recombination interval containing the lead SNP (Supplementary Table 2).
+1	NA	KCNQ1	rs163184	RESULTS	We detected two loci at which multiple independent association signals attained genome-wide significance: KCNQ1 (rs163184, P = 1.2 x 10-11; rs231361, P = 1.2 x 10-9; CEU r2 = 0.01) and CDKN2A/B (rs10811661, P = 3.7 x 10-27; rs944801, P = 2.4 x 10-9; CEU r2 = 0.01) (Fig.
+0	NA	NA	NA	RESULTS	2).
+1	NA	KCNQ1	NA	RESULTS	Both signals at KCNQ1 have previously been reported in East Asian and European populations.
+1	NA	CDKN2A	NA	RESULTS	However, the secondary signal at CDKN2A/B, which maps to the non-coding CDKN2B-AS1 (ANRIL) transcript, has not previously been implicated in T2D susceptibility.
+0	NA	NA	NA	RESULTS	This signal is independent of the previously reported haplotype effect at the primary T2D signal at this locus, which is itself likely due to the phase relationships between two clades of partially correlated variants.
+1	NA	p<10-5	rs17168486	RESULTS	We also observed putative independent associations (P < 10-5) at DGKB (rs17168486, P = 5.9 x 10-11; rs6960043, P = 3.4 x 10-7; CEU r2 = 0.01) and MC4R (rs12970134, P = 1.2 x 10-8; rs11873305, P = 3.8 x 10-7; CEU r2 = 0.02).
+0	NA	NA	NA	RESULTS	These results suggest that multiple independent association signals are widespread at T2D susceptibility loci.
+0	NA	NA	NA	RESULTS	Imputation up to the more complete reference panels emerging from the 1000 Genomes Project and recently developed approaches that support approximate conditional analyses using meta-analysis summary level data will be important tools for documenting the full extent of such effects, especially where the variants map to the same recombination interval
+0	NA	NA	NA	RESULTS	It has been argued that common variant association signals will often reflect unobserved causal alleles of lower frequency and greater effect size.
+0	NA	NA	NA	RESULTS	"The fine-mapping content of Metabochip allowed us to seek empirical evidence to support this ""synthetic association"" hypothesis."
+0	NA	NA	NA	RESULTS	We estimate, using 1000 Genomes Project data applied to HapMap CEU samples, that the array captures (CEU r2 >= 0.8) 89.6% of common SNPs (minor allele frequency (MAF) >= 5%) and 60.0% of low-frequency variants (1% <= MAF < 5%) across Metabochip fine-mapping regions.
+0	NA	NA	NA	RESULTS	This represents a substantial improvement over HapMap which, across the same regions, captures 76.8% and 32.4% of common and low-frequency variants, respectively
+0	NA	NA	NA	RESULTS	Across 36 fine-mapping regions on Metabochip that contain T2D susceptibility loci (including 27 explicitly chosen by DIAGRAM), we compared the characteristics of previously reported lead SNPs (defined by GWAS and HapMap imputation) and those emerging from the Stage 2 Metabochip meta-analysis.
+0	NA	NA	NA	RESULTS	We restricted these comparisons to Stage 2 to avoid penalizing low-frequency variants not typed or well-imputed in Stage 1.
+0	NA	NA	NA	RESULTS	The GWAS and Metabochip lead SNPs were the same, or highly-correlated (CEU r2 > 0.8), at 20 loci (15 with CEU r2 > 0.95) (Supplementary Table 6).
+1	NA	DGKB	NA	RESULTS	"The low LD between GWAS and Metabochip lead SNPs at DGKB and KCNQ1 (both CEU r2 = 0.00) arises because they ""switch"" between independent association signals at these loci (Fig."
+0	NA	NA	NA	RESULTS	2).
+0	NA	NA	NA	RESULTS	For the remaining 14 loci, there was only modest LD between the previously reported GWAS and Metabochip-defined lead SNPs (CEU r2 between 0.06 and 0.77).
+0	NA	PROX1	rs17712208	RESULTS	However, at only two loci did the lead SNP after Metabochip fine-mapping have substantially lower MAF and higher OR than the previously reported GWAS lead SNP: PROX1 (rs17712208, MAF = 0.03, OR = 1.20; rs340874, MAF = 0.48, OR = 1.06) and KLF14 (7-130116320, MAF = 0.02, OR = 1.10; rs972283, MAF = 0.48, OR = 1.01).
+0	NA	NA	NA	RESULTS	Since coverage across Metabochip fine-mapping regions is incomplete, we cannot unequivocally exclude the presence of causal low-frequency alleles at any single locus.
+0	NA	NA	NA	RESULTS	However, the paucity of low-frequency candidate alleles across 36 loci suggests that most causal variants at these loci are common.
+0	NA	NA	NA	RESULTS	A contribution of even rarer causal alleles (too rare to be represented on Metabochip) is also unlikely because the substantial effect sizes required to drive common variant association signals are inconsistent with the modest familial aggregation of T2D.
+0	NA	NA	NA	RESULTS	This interpretation, favoring common causal alleles, is in agreement with the observed consistency of T2D risk variant associations across major ancestry groups
+0	NA	NA	NA	RESULTS	We performed sex-differentiated meta-analysis (Online Methods and Supplementary Figs.
+0	NA	NA	NA	RESULTS	5 and 6) to test for association of each SNP with T2D, allowing for heterogeneity in allelic effects between males (20,219 cases, 54,604 controls) and females (14,621 cases, 60,377 controls), thereby identifying two additional loci achieving genome-wide significance (Table 2 and Supplementary Table 7).
+1	NA	CCND2	NA	RESULTS	The association signal mapping near CCND2 is most significant in males (male P = 1.1 x 10-9, female P = 0.036, heterogeneity P = 0.013), while that upstream of GIPR is most significant in females (female P = 2.2 x 10-7, male P = 0.0037, heterogeneity P = 0.057) (Supplementary Fig.
+0	NA	NA	NA	RESULTS	7).
+1	NA	GIPR	NA	RESULTS	The lead sex-differentiated SNP in GIPR is only weakly correlated with previously reported associations with BMI (CEU r2 = 0.06) and two-hour glucose levels (CEU r2 = 0.07) (Supplementary Table 4)
+1	NA	KCNQ1	NA	RESULTS	The sex-differentiated analyses also revealed nominal evidence of heterogeneity (P < 0.05) at four established T2D susceptibility loci (Table 2 and Supplementary Tables 7 and 8): KCNQ1 (P = 0.0013), DGKB (P = 0.0068) and BCL11A (P = 0.012) were most significantly associated in males, and GRB14 (P = 0.0080) in females.
+1	NA	GRB14	NA	RESULTS	The sex-differentiated association at GRB14 is consistent with the female-specific effect on WHR observed at this locus.
+1	NA	KCNQ1	NA	RESULTS	As KCNQ1 and DGKB demonstrate multiple independent associations in the sex-combined meta-analysis, we investigated whether sex differences in allelic effects were consistent across these signals (Supplementary Fig.
+0	NA	NA	NA	RESULTS	8).
+1	NA	DGKB	rs17168486	RESULTS	This appeared true for DGKB (rs17168486, male P = 6.5 x 10-13, female P = 0.0052; rs6960043, male P = 7.9 x 10-7, female P = 0.015), but not KCNQ1 (rs163184, male P = 8.5 x 10-15, female P = 7.8 x 10-3; rs231361, male P = 2.9 x 10-6, female P = 2.9 x 10-6)
+0	NA	NA	NA	RESULTS	For most T2D susceptibility loci, the underlying causal variants and the genes through which they act are yet to be identified, and the pathophysiological processes mediating disease risk remain unclear.
+0	NA	NA	NA	RESULTS	We applied a variety of approaches to the newly discovered and established T2D susceptibility loci, and in some cases to putative loci with more modest evidence of association, to identify mechanisms involved in disease pathogenesis
+0	NA	NA	NA	RESULTS	As noted earlier, lead SNPs at several newly identified loci are in strong LD with variants associated with other T2D-related metabolic traits.
+0	NA	NA	NA	RESULTS	To gain a more complete picture of patterns of trait overlap, we first assessed the effect of T2D risk alleles on glycemic traits in European-descent meta-analyses from the MAGIC Investigators (Online Methods).
+0	NA	NA	NA	RESULTS	Fasting glucose associations were analyzed for up to 133,010 non-diabetic individuals with GWAS and/or Metabochip data.
+1	NA	MTNR1B	NA	RESULTS	In addition to the nine loci previously reported (MTNR1B, DGKB, ADCY5, PROX1, GCK, GCKR, TCF7L2, SLC30A8 and C2CD4A), four more T2D association signals were genome-wide significant for fasting glucose: CDKN2A/B (P = 5.7 x 10-18), ARAP1 (P = 1.2 x 10-10), IGF2BP2 (P = 1.8 x 10-8) and CDKAL1 (P = 2.0 x 10-8) (Supplementary Table 9).
+0	NA	ZBED3	NA	RESULTS	The ZBED3 locus also attained genome-wide significance with fasting glucose after adjustment for BMI (P = 1.2 x 10-8).
+0	NA	NA	NA	RESULTS	In contrast, lead T2D SNPs at 27 of the newly discovered and established loci showed no evidence of association with fasting glucose (P > 0.05), despite sample sizes ranging from 38,424 to 132,999 individuals (Supplementary Table 10 and Supplementary Fig.
+0	NA	NA	NA	RESULTS	9).
+0	NA	NA	NA	RESULTS	Lead T2D SNPs at the remaining 24 loci were nominally associated with fasting glucose (P < 0.05), all with directionally consistent effects.
+0	NA	NA	NA	RESULTS	These data extend previous reports indicating that the genetic landscape of pathological and physiological variation in glycemia is only partially overlapping, and are consistent with reciprocal analyses reported in the companion MAGIC paper
+0	NA	NA	NA	RESULTS	Second, we extended our previous analysis of the physiological consequences of T2D risk alleles to include the newly identified loci.
+0	NA	insulin	NA	RESULTS	We used the published MAGIC meta-analysis (up to 37,037 non-diabetic individuals) of HOMA indices of beta-cell function and insulin sensitivity as these traits were not included in the enlarged Metabochip study.
+1	NA	ANK1	NA	RESULTS	The risk allele at ANK1 has features (nominally significant reduction in HOMA-B) indicating a primary effect on beta-cell function, whereas those at GRB14 and AKNRD55 are characteristic of loci acting primarily through insulin resistance (increased HOMA-IR) (Supplementary Fig.
+0	NA	NA	NA	RESULTS	10 and Supplementary Table 10).
+1	NA	GRB14	NA	RESULTS	The results for GRB14 are consistent with its broad impact on insulin-resistance related traits (described below), while at AKNRD55, these analyses point to MAP3K1, encoding MEK kinase, a key component of the insulin-signalling pathway, as the stand-out local candidate
+0	NA	NA	NA	RESULTS	Next, we examined the effect of T2D risk alleles on anthropometric and lipid traits using data from the GIANT Consortium (up to 119,600 individuals after excluding data from T2D case series) and the Global Lipids Genetics Consortium (up to 100,184 individuals) (Online Methods and Supplementary Tables 11 and 12).
+1	NA	p<10-5	NA	RESULTS	The only lead SNP to demonstrate convincing evidence of association (P < 10-5) with adiposity was at MC4R.
+1	NA	MC4R	NA	RESULTS	The lead SNPs at MC4R and GRB14 show the same pattern of lipid associations (P < 10-5): reduced HDL and raised triglycerides.
+1	NA	CILP2	NA	RESULTS	In contrast, the lipid associations at CILP2 and GIPR ran counter to expected epidemiological correlations: T2D risk alleles were associated with reduced triglyceride levels at both loci, and at CILP2 with reduced LDL and total cholesterol
+1	insulin-treated diabetes	BCAR1	NA	RESULTS	Finally, we noticed that the lead T2D SNP at the BCAR1 locus is genome-wide significant for type 1 diabetes (T1D), although risk is conferred by the opposite alleles.
+0	NA	NA	NA	RESULTS	Across 37 T1D susceptibility loci (Supplementary Fig.
+0	NA	NA	NA	RESULTS	11), we observed nominal evidence (P < 0.05) of association to T2D at six.
+1	NA	BCAR1	NA	RESULTS	For three of these (BCAR1, GLIS3 and RAD51L1), the T1D risk allele was protective for T2D, while at the others (C6orf173, COBL and C10orf59), the effects were coincident.
+0	diabetes	NA	NA	RESULTS	These data indicate that rates of diagnostic misclassification among T2D cases in our study are low, and also highlight interesting points of overlap in the processes involved in risk of, and protection from, these two major forms of diabetes
+0	NA	NA	NA	RESULTS	The T2D-association signals emerging from the present meta-analysis map to regions containing many transcripts and potential functional variants.
+0	NA	NA	NA	RESULTS	To identify promising regional transcripts, we examined expression quantitative trait locus (eQTL) data from a variety of tissues (Online Methods and Supplementary Note).
+0	NA	NA	NA	RESULTS	At six of the newly discovered loci, the lead T2D SNP showed strong cis-eQTL associations and was highly correlated (CEU r2 > 0.8) with the lead cis-eQTL SNP (Supplementary Table 13).
+1	NA	GRB14	NA	RESULTS	"These ""coincident"" eQTL implicate GRB14 (omental fat), ANK1 (omental and subcutaneous fat, liver and prefrontal cortex), KLHDC5 (blood, T cells and CD4+ lymphocytes), BCAR1 (blood), ATP13A1 (at the CILP2 locus, blood and monocytes), HMG20A (liver) and LINGO1 (also at the HMG20A locus, adipose tissue)."
+1	NA	GRB14	NA	RESULTS	For those loci (GRB14, ANK1 and BCAR1) for which individual-level expression data for the appropriate tissues were available, we confirmed signal coincidence by conditional analyses (Online Methods and Supplementary Table 14)
+0	NA	NA	NA	RESULTS	We used 1000 Genomes Project data to search for non-synonymous variants in strong LD (CEU r2 > 0.8) with lead SNPs at the newly discovered loci (Online Methods).
+1	NA	TM6SF2	rs10401969	RESULTS	The only candidate allele uncovered was a non-synonymous variant in exon 6 of TM6SF2 (19-19379549, CEU r2 = 0.98 with rs10401969) at the CILP2 locus.
+0	NA	NA	NA	RESULTS	This change is predicted by SIFT to have no appreciable effect on protein function
+0	NA	NA	NA	RESULTS	To extend previous efforts to define pathways and networks involved in T2D pathogenesis, we combined meta-analysis data with protein-protein interactions (PPI), semantic relationships within the published literature and annotated pathways (Fig.
+0	NA	NA	NA	RESULTS	3).
+0	diabetes	NA	NA	RESULTS	"For these analyses, we generated a ""primary"" list of 77 transcripts mapping nearest to lead SNPs at T2D susceptibility loci or implicated in monogenic diabetes (Online Methods and Supplementary Table 15)"
+0	NA	NA	NA	RESULTS	Using a refined database of high-confidence PPI, we constructed a network of 314 proteins from these 77 transcripts using DAPPLE.
+0	NA	p<10-4	NA	RESULTS	We detected an excess of physical interactions in the network, both direct (between the associated transcripts themselves, P < 10-4) and indirect (via 237 shared interactors not on the list of associated transcripts, P = 0.0070).
+0	NA	NA	NA	RESULTS	There was no evidence that this set of shared interactors was enriched for T2D-associated variants.
+0	NA	KCNJ11	NA	RESULTS	Some interactions, such as those between the potassium channel encoding genes KCNJ11 and ABCC8, are expected, while other sub-networks are of greater novelty.
+0	NA	CREBBP	NA	RESULTS	For example, the transcriptional co-activator protein CREBBP, implicated in the coupling of chromatin remodelling to transcription factor recognition, does not map to any T2D susceptibility locus.
+0	diabetes	HNF1A	rs7931302	RESULTS	However, it is the most connected gene for protein-level interactions (P < 0.005) in the PPI network, interacting with nine primary transcripts, eight implicated in monogenic diabetes or mapping to established T2D susceptibility loci (HNF1A, HNF1B, HNF4A, PLAGL1, TCF7L2, PPARG, PROX1 and NOTCH2) and one from a locus with a strong, but not genome-wide significant, association (ETS1, lead SNP rs7931302, P = 3.8 x 10-7).
+0	NA	SERTAD1	NA	RESULTS	Other shared interactors identified through these analyses included SERTAD1, FOXO1, PPARGC1A, GRB10 and MAFA.
+0	NA	CREBBP	NA	RESULTS	Several of these play roles in the transcriptional regulation of diabetes-relevant tissues, and some also interact with CREBBP.
+0	NA	CREBBP	NA	RESULTS	"We used a pre-defined set of 1,814 genes encoding ""DNA-binding proteins"" (Online Methods) to show that: (i) T2D signals are highly enriched for transcription factors (21 of 71 primary transcripts listed within the HGNC catalog, compared to 1,793 of 19,162, P = 2.3 x 10-6); and (ii) transcription factors within T2D loci are enriched for interaction with CREBBP (taking the 1,164 listed in the protein interaction database, 9 of 21 compared with 127 of 1,143, P = 2.7 x 10-4)."
+0	NA	NA	NA	RESULTS	These data suggest that modulation of CREBBP-binding transcription factors plays an important role in T2D susceptibility
+0	NA	NA	NA	RESULTS	The same set of 77 primary transcripts showed modest evidence of excess connectivity (P = 0.020 by permutation) using text-mining approaches (Online Methods).
+0	obese	LEPR	NA	RESULTS	"When we used this set of 77 genes as a ""seed"" to query a list of 77 ""secondary"" transcripts (nearest to lead SNPs with posterior probability of T2D-association >75% from the mixture model) (Supplementary Table 15), we found significant connections (P < 0.001) between the primary associated transcripts and four other genes: LEPR (leptin obesity pathways), MYC (cell-cycle pathway), GATA6 (pancreas development pathway) and DLL4 (Notch signalling target)"
+0	NA	NA	NA	RESULTS	We also tested for enrichment of GWAS associated transcripts in pathway data.
+0	NA	NA	NA	RESULTS	To retain power, we focused on 16 biological hypotheses chosen for assumed relevance to T2D pathogenesis (Supplementary Note).
+0	NA	NA	NA	RESULTS	We used a two-step modified gene-set enrichment analysis (GSEA) approach applied sequentially to Stage 1 (using MAGENTA) and Stage 2 meta-analyses (Online Methods and Supplementary Table 16).
+0	NA	NA	NA	RESULTS	Of the 16 biological hypotheses tested, two demonstrated reproducible enrichment of T2D associations.
+0	NA	NA	NA	RESULTS	The strongest enrichment was observed for a broader set of primary and secondary transcripts mapping to T2D-associated loci in the adipocytokine signalling pathway (MAGENTA P = 6.2 x 10-5; modified GSEA P = 1.6 x 10-4).
+0	NA	adiponectin	NA	RESULTS	This gene set includes the adiponectin, leptin and TNF-alpha signalling pathways previously implicated in the development of insulin resistance, but for which genome-wide significant common variant associations with T2D susceptibility have not been previously reported.
+0	diabetes	IRS1	NA	RESULTS	This analysis highlighted eight genes in this pathway most likely to be causal for T2D susceptibility: IRS1, LEPR, RELA, RXRG, ACSL1, NFKB1, CAMKK1 and a monogenic diabetes gene AKT2.
+0	NA	NA	NA	RESULTS	Members of this pathway were also strongly represented (17 out of 314) in the DAPPLE PPI network (P = 7.5 x 10-14).
+0	NA	NA	NA	RESULTS	Modest but robust enrichment was also observed for genes influencing cell cycle, in particular regulators of the G1 phase during mitosis (MAGENTA P = 2.0 x 10-4; modified GSEA P = 3.0 x 10-3).
+1	NA	CDK4	NA	RESULTS	The majority of genes driving these cell-cycle enrichments were cyclin-dependent kinase (CDK) inhibitors (CDKN2A/B, CDKN1C and CDKN2C) and cyclins that activate CDKs (CCNE2, CCND2 and CCNA2).
+0	pancreatic	CDK4	NA	RESULTS	Many of these regulate CDK4 or CDK6, which are known to play a role in pancreatic beta-cell proliferation.
+0	NA	insulin	NA	RESULTS	We saw no evidence of enrichment for other processes implicated in T2D pathogenesis, including amyloid formation, ER stress and insulin signalling
+0	NA	NA	NA	DISCUSS	We have expanded T2D association analysis to almost 150,000 individuals.
+0	NA	NA	NA	DISCUSS	In so doing, we have added another 10 loci to the list of confirmed common variant signals: for several of these, we have identified strong positional candidates based on expression data and known biology.
+0	NA	NA	NA	DISCUSS	The data support the view that much of the overall variance in T2D susceptibility can be attributed to the impact of a large number of common causal variants, most of very modest effect.
+0	NA	NA	NA	DISCUSS	While such a model poses challenges for accumulating genome-wide significant evidence of association at a specific variant, it does suggest that genetic profiling based on the entirety of sequence variation has the potential to provide useful risk stratification for T2D
+0	NA	NA	NA	DISCUSS	If common causal alleles explain a substantial component of T2D susceptibility, the contribution of rare and low-frequency risk variants may be less than is often assumed: re-sequencing studies will soon provide empirical data to address this question.
+0	NA	NA	NA	DISCUSS	In particular, it will be important to determine whether, as the number of susceptibility loci increases, there is evidence that the pathophysiological mechanisms implicated by human genetics coalesce around a limited set of core pathways and networks.
+0	NA	NA	NA	DISCUSS	Our data suggest that this may be the case, with a variety of analytical approaches pointing to cell cycle regulation, adipocytokine signalling and CREBBP-related transcription factor activity as key processes involved in T2D pathogenesis
+0	NA	NA	NA	METHODS	The Stage 1 meta-analysis consisted of 12,171 T2D cases and 56,862 controls across 12 GWAS from European descent populations (Supplementary Table 1).
+0	NA	NA	NA	METHODS	Samples were typed with a range of GWAS genotyping products.
+0	NA	NA	NA	METHODS	Sample and SNP quality control (QC) were undertaken within each study.
+0	NA	NA	NA	METHODS	Each GWAS was then imputed at up to 2.5 million SNPs using CEU samples from Phase II of the International HapMap Project.
+0	NA	NA	NA	METHODS	Each SNP with MAF >1% passing QC was tested for association with T2D under an additive model after adjustment for study-specific covariates, including indicators of population structure.
+0	NA	NA	NA	METHODS	The results of each GWAS were corrected for residual population structure using the genomic control inflation factor and were combined via fixed-effects inverse-variance weighted meta-analysis.
+0	NA	NA	NA	METHODS	The results of the Stage 1 meta-analysis were subsequently corrected by genomic control (lambdaGC = 1.10)
+0	NA	NA	NA	METHODS	The Stage 2 meta-analysis consisted of 21,491 T2D cases and 55,647 controls across 25 studies from European descent populations and 1,178 T2D cases and 2,472 controls from one study of Pakistani descent (PROMIS) (Supplementary Table 1).
+0	NA	NA	NA	METHODS	All samples were genotyped with Metabochip.
+0	NA	NA	NA	METHODS	Sample and SNP QC were undertaken within each study.
+0	NA	NA	NA	METHODS	Each SNP with MAF >1% passing QC was tested for association with T2D under an additive model after adjustment for study-specific covariates.
+0	NA	NA	NA	METHODS	We would expect inflation in association signals across the content of Metabochip, even in the absence of population structure, because it has been designed to be enriched for T2D and other T2D-related metabolic trait loci.
+0	NA	NA	NA	METHODS	"The results of each study were thus corrected for residual population structure using the genomic control inflation factor obtained from a subset of 3,598 independent ""QT-interval"" SNPs (CEU r2 < 0.05), which were not expected to be associated with T2D."
+0	NA	NA	NA	METHODS	The Stage 2 meta-analysis was performed in two steps: (i) combine all studies of European descent; and (ii) add the PROMIS study.
+0	NA	NA	NA	METHODS	In both steps, the results of each study were combined via fixed-effects inverse-variance weighted meta-analysis.
+0	NA	NA	NA	METHODS	"The results of the Stage 2 European meta-analysis were corrected by ""QT-interval"" genomic control (lambdaQT = 1.19), but this adjustment was not then necessary after the addition of PROMIS (lambdaQT = 0.99 was less than 1)."
+0	NA	NA	NA	METHODS	Heterogeneity in allelic effects between European descent studies and subsequently between the European meta-analysis and PROMIS was assessed by means of Cochran's Q-statistic
+0	NA	NA	NA	METHODS	The results of the Stage 1 and Stage 2 meta-analyses were combined for all Metabochip SNPs via fixed-effects inverse-variance weighted meta-analysis.
+0	NA	NA	NA	METHODS	The combined meta-analysis consisted of 34,840 cases and 114,981 controls.
+0	NA	NA	NA	METHODS	This was performed in two steps: (i) combine Stage 1 meta-analysis with European descent Stage 2 meta-analysis; and (ii) add the PROMIS study.
+0	NA	NA	NA	METHODS	"The results of the combined European meta-analysis was corrected by ""QT-interval"" genomic control (lambdaQT = 1.13), but this adjustment was not necessary after the addition of PROMIS (lambdaQT = 0.98 was less than 1) (Supplementary Fig."
+0	NA	NA	NA	METHODS	12).
+0	NA	NA	NA	METHODS	Heterogeneity in allelic effects between the Stage 1 and Stage 2 meta-analyses was assessed by means of Cochran's Q-statistic
+0	NA	NA	NA	METHODS	We obtained summary statistics (RAFs, association P-values, allelic ORs and 95% CIs) for lead SNPs at the newly discovered loci in meta-analyses of T2D GWAS in: (i) 5,561 cases and 14,458 controls of South Asian descent, excluding 1,958 overlapping samples from PROMIS that were also included in our study, comprising 568,976 directly genotyped autosomal SNPs; and (ii) 6,952 cases and 11,865 controls of East Asian descent, comprising 2,626,356 directly genotyped and imputed autosomal SNPs.
+0	NA	NA	NA	METHODS	For each SNP, summary statistics were aligned to the risk allele in our primarily European descent meta-analysis
+0	NA	NA	NA	METHODS	Assuming a multiplicative model (within and between variants), the contribution to the sibling relative risk of a set of N SNPs is given by  where pj and psij denote the RAF and corresponding allelic OR at the jth SNP.
+0	NA	NA	NA	METHODS	Assuming disease prevalence, K, the liability-scale variance explained by these SNPs is given by  In this expression, T=phi-1(1-K), T1=phi-1(1-lambdaSK), and omega=z/K, where z is the height of the standard Gaussian density at T
+0	NA	NA	NA	METHODS	We considered the distribution of Z-scores from the Stage 2 meta-analysis, aligned to the risk allele from Stage 1, at a subset of 3,412 independent T2D replication variants (CEU r2 < 0.05), excluding lead SNPs and proxies (CEU r2 >= 0.1) at the 63 established and newly discovered susceptibility loci on Metabochip.
+0	NA	NA	NA	METHODS	The Stage 2 Z-scores were modelled as a mixture of two Gaussian distributions: (i) with mean zero and unit variance (i.e.
+0	NA	NA	NA	METHODS	under the null hypothesis of no association); and (ii) with unknown mean (greater than zero) and variance (i.e.
+0	NA	NA	NA	METHODS	under the alternative hypothesis).
+0	NA	NA	NA	METHODS	The mean and variance of the alternative distribution, and the mixing proportion, were estimated using an expectation-maximization algorithm
+0	NA	NA	NA	METHODS	We estimated the posterior probability that each of the 3,412 independent replication SNPs is truly associated with T2D from the mixture distribution.
+0	NA	NA	NA	METHODS	We approximated the contribution of these SNPs to lambdaS by simulation from the mixture distribution.
+0	NA	NA	NA	METHODS	"For each simulated replicate, we selected ""causal"" variants at random from these SNPs according to their posterior probability of association."
+0	NA	NA	NA	METHODS	"Over 1,000 replicates, we approximated the mean and 95% CI for: (i) the number of ""causal"" variants among the 3,412 independent replication SNPs; and (ii) the contribution to lambdaS, using estimated RAFs and allelic ORs from the Stage 2 meta-analysis."
+0	NA	NA	NA	METHODS	For each replicate, we also generated a hypothetical third stage to the study consisting of 100,000 T2D cases and 100,000 controls.
+0	NA	NA	NA	METHODS	"For each ""causal"" variant, we generated association summary statistics (Z-score aligned to the risk allele from Stage 1) according to the RAF and allelic OR from our Stage 2 meta-analysis"
+0	IBS	NA	NA	METHODS	We calculated F-statistics (FST) across European populations using data from the 1000 Genomes Project (CEU, TSI, FIN, GBR and IBS) for the subset of SNPs selected for replication on Metabochip.
+0	NA	NA	NA	METHODS	FST was calculated by comparing mean heterozygosity across all populations to the mean within each sub-population, weighted by the number of contributing chromosomes from each sub-population.
+0	NA	NA	NA	METHODS	We compared FST for the subset of T2D replication SNPs that were directionally consistent between Stage 1 and Stage 2 meta-analyses with all Metabochip replication SNPs (up to 65,345 SNPs), using the Kolmogorov-Smirnov test
+0	NA	NA	NA	METHODS	We undertook FDR analysis of 64,646 Metabochip replication SNPs using combined meta-analysis P-values.
+0	NA	NA	NA	METHODS	From this analysis, we observed , consistent with an excess of true positives in this set.
+0	NA	NA	NA	METHODS	We compared these P-values with FDR Q-values and posterior probabilities of membership to the alternative distribution from the mixture model (Supplementary Fig.
+0	NA	NA	NA	METHODS	4) at the set of 2,172 T2D replication SNPs with concordant direct of allelic effect in both stages of the meta-analysis, after exclusion of 11 AT/GC SNPs with obvious strand orientation misalignments.
+0	NA	NA	NA	METHODS	FDR analysis also indicated an excess of expected true positives in this set of SNPs, even at relatively consistent thresholds (for example, we expect one false positive and 66 true positives at a Q-value of 0.014)
+0	NA	NA	NA	METHODS	The Stage 1, Stage 2 and combined meta-analyses described above were repeated for males and females separately with correction for population structure within each sex (Supplementary Fig.
+0	NA	NA	NA	METHODS	13).
+0	NA	NA	NA	METHODS	The male-specific meta-analysis consisted of 20,219 cases and 54,604 controls, while the female-specific meta-analysis consisted of 14,621 cases and 60,377 controls.
+0	NA	NA	NA	METHODS	The sex-specific meta-analyses were then combined to conduct a sex-differentiated test of association and a test of heterogeneity in allelic effects between males and females
+0	NA	NA	NA	METHODS	We obtained summary statistics (association P-values and Z-scores for direction of effect or allelic effects and standard errors) for lead T2D SNPs in GWAS meta-analyses of metabolic traits in European descent populations.
+0	NA	NA	NA	METHODS	Summary statistics were aligned to the T2D risk allele from the combined meta-analysis.
+0	NA	NA	NA	METHODS	We obtained summary statistics for lead SNPs in all newly discovered and established loci for glycemic traits in non-diabetic individuals from the MAGIC Investigators.
+0	NA	insulin	NA	METHODS	For fasting glucose and fasting insulin, the meta-analysis comprised up to 133,010 individuals, genotyped with GWAS arrays and imputed on up to ~2.5 million SNPs, or genotyped with Metabochip.
+0	NA	insulin	NA	METHODS	We also considered surrogate estimates of beta-cell function (HOMA-B) and insulin resistance (HOMA-IR) derived by homeostasis model assessment in up to 38,238 individuals (from GWAS meta-analysis only since these traits were not investigated in the enlarged MAGIC Metabochip study).
+1	NA	GRB14	NA	METHODS	We obtained summary statistics for lead SNPs in the newly discovered T2D loci (also including GRB14 and HMG20A) for BMI in up to 119,600 individuals from the GIANT Consortium.
+0	NA	NA	NA	METHODS	To eliminate potential bias in BMI allelic effect estimates at T2D susceptibility loci, we restricted our attention to meta-analysis of population-based studies not ascertained for disease status for ~2.8 million directly genotyped and/or imputed SNPs.
+0	NA	NA	NA	METHODS	We obtained summary statistics for the same SNPs for plasma lipid concentrations from the Global Lipids Genetics Consortium.
+0	NA	NA	NA	METHODS	This meta-analysis comprised ~2.6 million directly genotyped and/or imputed SNPs assessed for association to plasma concentrations of: total cholesterol (up to 100,184 individuals); LDL (up to 95,454 individuals); HDL (up to 99,900 individuals); and triglycerides (up to 96,598 individuals)
+0	NA	NA	NA	METHODS	We also examined T2D association summary statistics at lead SNPs for 37 established T1D susceptibility loci.
+0	insulin-treated diabetes	NA	NA	METHODS	For each of these SNPs, we reported the allelic OR (aligned to the T2D risk-allele) and P-values in: (i) our Stage 1 T2D meta-analysis; and (ii) a GWAS meta-analysis of 7,514 T1D cases and 9,045 population controls from European descent populations from the Type 1 Diabetes Genetics Consortium
+1	NA	GRB14	NA	METHODS	We identified proxies (CEU r2 > 0.8) for each lead T2D SNP in our newly discovered loci (also including GRB14 and HMG20A).
+0	NA	NA	NA	METHODS	We interrogated public databases and unpublished resources for cis-eQTL expression with these SNPs in multiple tissues (details of these resources are summarized in the Supplementary Note).
+0	NA	NA	NA	METHODS	The collated results from these resources met study-specific criteria for statistical significance for association with transcript expression.
+0	NA	NA	NA	METHODS	For each transcript associated with a lead T2D SNP (or proxy), we identified the lead cis-eQTL SNP, and then estimated LD between them using 1000 Genomes Project data to assess coincidence of the signals
+0	NA	NA	NA	METHODS	We subsequently tested for association of each lead T2D SNP with the expression of flanking transcripts (within a 1 Mb window) in 603 subcutaneous adipose tissue samples and 745 peripheral blood samples from individuals from the Icelandic population, genotyped using the Illumina HumanHap 300 Bead Array, and imputed up to ~2.5M SNPs.
+0	NA	NA	NA	METHODS	We modelled the log-average expression ratio of two fluorphores as a function of the allele count (expected allele count for imputed SNPs) in a linear regression framework, with adjustment for age and sex (and differential cell count for blood samples) as covariates.
+0	NA	NA	NA	METHODS	All P-values were also adjusted for the relatedness between individuals by simulating genotypes through the corresponding Icelandic genealogy.
+0	NA	NA	NA	METHODS	We also identified the most strongly associated cis-eQTL SNP for each flanking transcript.
+0	NA	NA	NA	METHODS	We then performed a conditional test of association of the transcript with the cis-eQTL SNP within the same linear regression framework, with additional adjustment for the lead T2D SNP as a covariate.
+0	NA	NA	NA	METHODS	The conditional analyses determine whether the cis-eQTL SNP association with the transcript can be explained by the lead T2D SNP
+1	NA	GRB14	NA	METHODS	We searched the 1000 Genomes Project data (Phase I interim release) for non-synonymous variants in strong LD (CEU r2 > 0.8) with lead T2D SNPs in the newly discovered loci (also including GRB14 and HMG20A).
+0	NA	NA	NA	METHODS	Identified non-synonymous variants were subsequently interrogated for likely downstream functional consequences using SIFT
+0	NA	NA	NA	METHODS	We generated two lists of transcripts on the basis of the results of the sex-combined and sex-differentiated meta-analyses.
+1	diabetes	GRB14	NA	METHODS	"The ""primary"" list included: (i) the nearest transcript to the lead SNP at 41 previously reported common variant loci identified in European descent populations; (ii) the nearest transcript to the lead SNP at the ten newly identified loci (P < 5 x 10-8) from the sex-combined meta-analysis, including GRB14 and HMG20A; (iii) the nearest transcript to the lead SNP at both novel signals (P < 5 x 10-8) from the sex-differentiated meta-analysis; (iv) the nearest transcript to the lead SNP at six additional loci with the strongest evidence of association (P < 5 x 10-7) from the sex-combined meta-analysis; and (v) 18 genes implicated in monogenic forms of diabetes, not already overlapping other loci included in the list."
+0	NA	NA	NA	METHODS	"The ""secondary"" list incorporated the nearest transcript to the lead SNP at 77 additional loci with posterior probability of association of at least 75% from the mixture model, not already included in the primary list"
+0	NA	NA	NA	METHODS	We tested the hypothesis that a PPI network built from the 77 primary transcripts was significantly enriched for physical interaction over and above that expected by chance using DAPPLE.
+0	NA	NA	NA	METHODS	To build networks, DAPPLE uses a refined database of high-confidence interactions, which emphasizes confidence of interaction over completeness, with the result that not all proteins are represented.
+0	NA	NA	NA	METHODS	We considered two categories of interactions: direct (i.e.
+0	NA	NA	NA	METHODS	between the associated transcripts themselves) and indirect (i.e.
+0	NA	NA	NA	METHODS	via common interactors that were not among the associated transcripts).
+0	NA	NA	NA	METHODS	We assessed the significance of the enrichment of physical interactions by permutation.
+0	NA	NA	NA	METHODS	"Subsequently, we used the network as a ""seeds"" to query against the 77 secondary transcripts"
+0	NA	GRAIL	NA	METHODS	We used GRAIL to highlight genes from T2D susceptibility loci using similarity of text in PubMed abstracts or in gene-ontology associated codes.
+0	NA	NA	NA	METHODS	To reduce confounding by published T2D GWAS analyses, we restricted our analysis to abstracts published prior to December 2006.
+0	NA	NA	NA	METHODS	We first tested for enrichment of connectivity in the list of 77 primary transcripts (treating the 18 monogenic loci as a single locus to reduce confounding), and assessed significance via permutation.
+0	NA	NA	NA	METHODS	"These gene sets were then used as the ""seed"" against which the list of 77 secondary transcripts was queried for connectivity"
+0	NA	NA	NA	METHODS	We employed a two-step GSEA strategy to test for enrichment of transcripts in T2D susceptibility loci within pathways pertaining to 16 biological hypotheses related to disease pathogenesis (full details of these hypotheses are presented in the Supplementary Note).
+0	NA	NA	NA	METHODS	In the first step, we applied MAGENTA to the Stage 1 meta-analysis.
+0	NA	NA	NA	METHODS	"Genes in each pathway were scored on the basis of the most significant ""local"" SNP association using -110 kb/+40 kb boundaries."
+0	NA	NA	NA	METHODS	The 95th percentile of association P-values from all genes in the genome was used to determine the enrichment cut-off.
+0	NA	NA	NA	METHODS	"In the second ""replication"" step, nominally significant gene sets from step one (MAGENTA P < 0.05) were tested for enrichment of T2D association signals in the Stage 2 meta-analysis."
+0	NA	NA	NA	METHODS	To account for the bias in the Metabochip design to SNPs nominally associated with T2D and related metabolic traits, we employed a modified GSEA approach.
+0	NA	NA	NA	METHODS	We tested for enrichment among a broader set of primary or primary and secondary transcripts within LD regions defined by r2 > 0.5 on either side of the lead SNP, extended to the nearest recombination hotspot and then an additional 50 kb (if there was no gene within the LD region, we used the nearest transcript).
+0	NA	NA	NA	METHODS	For robustness testing, we also examined enrichment in the nearest gene to the lead SNPs.
+0	hyper-geometric	NA	NA	METHODS	The modified GSEA P-value was computed as the fraction of randomly sampled sets of loci, matched for number and local gene density to our primary and secondary lists, which have the same or more significant hyper-geometric probability than that of the T2D loci.
+0	NA	NA	NA	METHODS	"For the ""null"" set, we used 1,600 LD-pruned Metabochip T2D replication SNPs with the lowest posterior probability of association (<5%) from the mixture model."
+0	diabetes	NA	NA	METHODS	To control for potential confounders, we applied the modified GSEA approach to two negative control lists: (i) loci defined by the lowest ranked independent T2D replication SNPs from our Stage 2 meta-analysis; and (ii) loci for QT-interval on the basis of our Stage 2 meta-analysis for independent replication SNPs for this trait, excluding those within our primary and secondary lists of T2D susceptibility loci and those near monogenic diabetes genes
+0	NA	NA	NA	FIG	Distribution of Z-scores from the Stage 2 meta-analysis, aligned to the risk allele from Stage 1.
+0	NA	NA	NA	FIG	Z-scores were calculated at a subset of 3,412 independent T2D replication SNPs (CEU r2 < 0.05), excluding the 63 established and newly discovered autosomal susceptibility loci represented on Metabochip.
+0	NA	NA	NA	FIG	"The Z-score distribution is a mixture of: (i) the ""null distribution"" of SNPs having no effect on T2D (blue curve); and (ii) the ""alternative distribution"" of SNPs associated with the disease (red curve)"
+0	NA	NA	NA	FIG	Regional plots of T2D susceptibility loci with evidence of multiple association signals.
+0	NA	NA	NA	FIG	Each point represents a Metabochip SNP passing quality control in our combined meta-analysis, plotted with their P-value (on a -log10 scale) as a function of genomic position (NCBI Build 36).
+0	NA	NA	NA	FIG	In each panel, the lead SNP is represented by the purple diamond.
+0	NA	NA	NA	FIG	The color coding of all other SNPs (circles) indicates LD with the lead SNP (estimated by CEU r2 from the 1000 Genomes Project June 2010 release): red r2 >= 0.8; gold 0.6 <= r2 < 0.8; green 0.4 <= r2 < 0.6; cyan 0.2 <= r2 < 0.4; blue r2 < 0.2; grey r2 unknown.
+0	NA	NA	NA	FIG	Recombination rates are estimated from the International HapMap Project and gene annotations are taken from the University of California Santa Cruz genome browser
+0	NA	NA	NA	FIG	Functional analyses.
+0	NA	CREBBP	NA	FIG	(a,b) Protein-protein interaction (PPI) sub-network for CREBBP and adipocytokine interactions.
+0	NA	NA	NA	FIG	All direct interactions and common interactors between direct connections were extracted from the larger network of 314 proteins defined in the DAPPLE network analysis.
+0	diabetes	NA	NA	FIG	Genes in the network are circles (nodes), colored according to the statistical relationship with T2D: common interactors between GWAS identified or monogenic loci are depicted as grey, monogenic loci (only) in blue, GWAS identified loci (only) in red, and loci with GWAS association and implicated by monogenic forms of diabetes are shown in green.
+0	NA	NA	NA	FIG	Each interaction defined in the inWEB network is depicted by a line (edge) between nodes.
+0	NA	GRAIL	NA	FIG	(c) GRAIL circle plot of locus connectivity.
+0	NA	NA	NA	FIG	Each locus is plotted in a circle where significant connections (P < 0.05) based on PubMed abstracts are drawn spanning the circle.
+0	NA	NA	NA	FIG	Conservatively, we treated all monogenic loci (region 142) as a single locus by which connectivity is assessed.
+0	NA	NA	NA	FIG	The strongest connections (P < 0.001) are colored in bright red.
+0	NA	NA	NA	FIG	(d) GSEA of associations in the adipocytokine signaling pathway.
+0	NA	NA	NA	FIG	The black bars represent the Stage 1 meta-analysis P-values of 63 autosomal genes in the Adipocytokine Signaling pathways (KEGG).
+0	NA	NA	NA	FIG	A density plot of the black bars is depicted in the top panel (red line).
+0	NA	NA	NA	FIG	The replicating genes in the leading edge of the GSEA are listed.
+0	NA	NA	NA	FIG	The Stage 2 modified GSEA P = 1.6x10-4 was calculated based on both the primary and secondary transcripts using the LD locus definition
+0	NA	NA	NA	TABLE	T2D susceptibility loci achieving genome-wide significance (combined meta-analysis P < 5 x 10-8) for the first time in European descent population

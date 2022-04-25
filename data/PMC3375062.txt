@@ -1,0 +1,338 @@
+0	AMD	NA	NA	ABSTRACT	Age-related macular degeneration (AMD) is the leading cause of blindness in the elderly in the developed world.
+0	AMD	NA	NA	ABSTRACT	We conducted a genome-wide association study in a series of families enriched for AMD and completed a meta-analysis of this new data with results from reanalysis of an existing study of a late-stage case/control cohort.
+0	AMD	NA	NA	ABSTRACT	We tested the top findings for replication in 1 896 cases and 1 866 controls and identified two novel genetic protective factors for AMD.
+1	NA	CFH	rs429608	ABSTRACT	In addition to the CFH (p=2.3x10-64) and ARMS2 (p=1.2x10-60) loci, we observed a protective effect at rs429608, an intronic SNP in SKIV2L (p=5.3x10-15), a gene near the C2/BF locus, that indicates the protective effect may be mediated by variants other than the C2/BF variants previously studied.
+1	NA	NA	rs429608	ABSTRACT	Haplotype analysis at this locus identified three protective haplotypes defined by the rs429608 protective allele.
+0	NA	MYRIP	rs2679798	ABSTRACT	We also identified a new potentially protective effect at rs2679798 in MYRIP (p=2.9x10-4), a gene involved in retinal pigment epithelium melanosome trafficking.
+0	NA	MYRIP	NA	ABSTRACT	Interestingly, MYRIP was initially identified in the family-based scan and was confirmed in the case-control set.
+1	AMD	CFH	NA	ABSTRACT	From these efforts, we report the identification of two novel protective factors for AMD and confirm the previously known associations at CFH, ARMS2 and C3
+0	AMD	NA	NA	INTRO	Age-related macular degeneration (AMD) is a leading cause of blindness in elderly populations worldwide.
+0	AMD	NA	NA	INTRO	Clinically, AMD is a progressive disease, proceeding from the development of macular soft drusen and pigmentary abnormalities in early stages and culminating in vision impairing end stage forms, geographic atrophy and choroidal neovascularization.
+0	AMD	NA	NA	INTRO	The etiology of AMD is multifactorial and includes modifiable risk factors such as smoking and diet in addition to genetic factors.
+1	AMD	CFH	NA	INTRO	Recent efforts have strongly implicated variants in the complement cascade that modify AMD risk, with consistent evidence at the complement factor H (CFH), complement factor B (BF) / complement component 2 (C2) and complement component 3 (C3) genes.
+1	AMD	ARMS2	NA	INTRO	Variants at the age-related maculopathy susceptibility 2 (ARMS2) locus have been shown to increase AMD risk as have variants in the mitochondrial genome, indicating a role for mitochondrial function in the pathogenesis of this condition
+0	AMD	NA	NA	INTRO	Biological evidence also supports an immune-mediated mechanism for AMD pathogenesis.
+1	AMD	CFH	NA	INTRO	In AMD, it is believed that the ability of CFH to inhibit the complement cascade is impaired, resulting in inflammatory damage to surrounding tissues.
+0	NA	NA	NA	INTRO	Several lines of evidence support this mechanism.
+0	NA	NA	NA	INTRO	Immunoglobulin and complement attack complexes are present in drusen, indicating complement activation even at earlier stages of disease.
+1	choroidal capillaries	CFH	NA	INTRO	CFH is found locally in the eye, being observed in choroidal capillaries, in the subRPE space, and attached to Bruch's membrane, which underlies the RPE.
+1	NA	CFH	NA	INTRO	The RPE itself also appears to be a local source of CFH.
+0	NA	CFH	NA	INTRO	An aged CFH knockout mouse model exhibits increased accumulation of lipofuscin within the RPE that is likely to predispose to impairment in RPE cell function.
+0	NA	NA	NA	INTRO	Despite this evidence, the question remains as to why the macula itself remains particularly susceptible to damage by the complement cascade and whether additional risk factors specific to the retina may remain to be discovered
+0	AMD	NA	NA	INTRO	To identify novel loci and validate existing loci for AMD, we completed genome-wide association testing in a cohort of 161 controls and 377 cases with late AMD (Age Related Eye Disease Study; AREDS) in conjunction with a family-based genome-wide association scan (Family Age Related Maculopathy Study; FARMS) that assessed the entire spectrum of disease severity.
+0	NA	NA	NA	INTRO	Examining patients with a range of endpoints enabled us to identify initiating events in disease pathogenesis in addition to confirming existing loci.
+0	NA	NA	NA	INTRO	The strategy of using family-based cohorts, such as the SardiNIA and Framingham subjects, as discovery cohorts both alone and in combination with traditional case-control cohorts has proven a successful means to identify variants associated with disease in the general population.
+0	AMD	NA	NA	INTRO	Our discovery efforts were followed up by replication in five case-control cohorts to determine which variants are most likely to contribute to AMD (Figure 1)
+0	NA	NA	NA	RESULTS	Genome-wide association testing was completed in the FARMS and AREDS discovery sets.
+0	NA	NA	NA	RESULTS	Quantile-quantile plots of the observed distribution of corrected p-values versus the expected distribution (Figure 2) reveal a number of SNPs with p-values more significant than expected under the null hypothesis in the discovery cohorts.
+0	NA	NA	NA	RESULTS	In AREDS, 51 SNPs were significant at p <= 10-4 (Table S4).
+1	AMD	CFH	NA	RESULTS	Of these, 38 SNPs were located at previously identified AMD risk loci (CFH, ARMS2/HTRA1, C2/CFB).
+0	NA	NA	NA	RESULTS	Within FARMS, 35 SNPs were significant at the p <= 10-4 level.
+1	AMD	CFH	NA	RESULTS	Five of these SNPs were located at the CFH locus; the remaining 30 SNPs were located in regions not previously implicated in AMD (Table S5)
+1	NA	CFH	NA	RESULTS	All SNPs with p <= 10-4 in either the FARMS or AREDS cohorts as well as additional variants in CFH, ARMS2, C2/BF and C3 loci were advanced to replication in five Caucasian case/control cohorts.
+0	NA	NA	NA	RESULTS	Because other complement genes do not show significant evidence in our discovery cohorts at p <= 10-4 they were not assessed in our replication set.
+0	NA	NA	NA	RESULTS	In addition to the previously known loci, we examined novel genes that among other functions have a role in vesicular and melanosome trafficking.
+0	NA	NA	NA	RESULTS	SNPs were genotyped using a used a 768-SNP custom Golden Gate Illumina panel in 1896 cases and 1866 controls and tested for association using logistic regression
+1	AMD	CFH	NA	RESULTS	At the two best known AMD risk loci, CFH and ARMS2, we observed strong association in both the discovery and replication cohorts (Table 1, Table S8).
+1	NA	CFH	NA	RESULTS	We observed a broad signal of association across the CFH locus in all cohorts due to the presence of copy number polymorphisms and linkage disequilibrium (Figure S1).
+1	AMD	CFH	T to C	RESULTS	The extensively studied non-synonymous CFH Y402H variant showed evidence of association (p = 4.0x10-42); however, a number of non-coding variants were more significantly associated with AMD.
+1	AMD	NA	rs1329428	RESULTS	The most significant non-coding variant, rs1329428, appears to exert a protective effect on AMD risk (p = 3.2x10-64).
+1	NA	ARMS2	NA	RESULTS	As the signal on chromosome 10q26 is distributed at two adjacent loci, ARMS2 and HTRA1, we characterized association at this extended locus using dense SNP coverage in our replication set (Figure 3, Figure S2).
+1	NA	ARMS2	rs10490924	RESULTS	Strong evidence for single SNP association was observed at markers in the ARMS2 and HTRA1 genes (Table 1), with the best evidence at the ARMS2 A69S (rs10490924) coding variant (p = 1.2x10-60), at rs3750848, an ARMS2 intronic SNP (p = 8.1x10-60), and at rs3793917, a HTRA1 promoter polymorphism (p = 4.2x10-57).
+0	NA	NA	NA	RESULTS	These three SNPs proved to be in tight disequilibrium in our cohorts (r2 > 0.91).
+1	AMD	ARMS2	NA	RESULTS	To identify the SNPs at the ARMS2 locus that best account for the effect this region has on AMD risk, we completed a stepwise selection analysis in our the replication set using 33 markers spanning PLEKHA1, ARMS2 and into intron 3 of HTRA1.
+1	NA	ARMS2	rs3750848	RESULTS	We found that the most parsimonious set consisted of two SNPs: rs3750848 in ARMS2 and rs2736917 in HTRA1 with the ARMS2 SNP entering the model first.
+0	NA	NA	rs2736917	RESULTS	rs2736917 is in low LD with rs3750848 (r2 <= 0.04) and appears to represent an independent protective effect not previously reported
+1	NA	ARMS2	NA	RESULTS	Our best evidence for association localized to a 14-kb region including ARMS2 and into the first intron of HTRA1.
+0	AMD	NA	NA	RESULTS	We identified 11 markers spanning this region and tested haplotypes for association with AMD (Figure 3, Table S6).
+1	NA	NA	rs10490924	RESULTS	From six haplotypes with a frequency greater than 1%, we identified one risk haplotype (OR = 2.6, p = 1.91x10-48) which contained the risk alleles at rs10490924, rs3750848 and rs3793917 (T-C-G) and four closely related protective haplotypes.
+0	NA	NA	rs3750848	RESULTS	The selection of rs3750848 in our stepwise selection likely represents the association due to this haplotype.
+1	NA	ARMS2	NA	RESULTS	Three of the core SNPs in our risk haplotype defined the earlier reported risk haplotype noted to carry an insertion/deletion polymorphism which affects RNA and protein expression of ARMS2.
+0	NA	NA	NA	RESULTS	To determine the distribution of our risk haplotype in global populations, we examined phased haplotypes from the HapMap2 populations.
+0	NA	NA	NA	RESULTS	A higher frequency of the risk haplotype was observed in Asians (JPT/CHB) (0.41) than in CEU (0.21) or YRI populations (0.19) (Figure 4).
+0	AMD	NA	NA	RESULTS	The risk haplotype has a frequency between that of Caucasians and Asians in individuals of Indian descent, the Gujarati Indians in Houston (GIH) (0.33), indicating this population shares genetic risk factors for AMD with Asian populations.
+1	NA	CFH	NA	RESULTS	We have demonstrated that the Asian genome has very few CFH risk haplotypes (T.A.S., unpublished data).
+1	AMD	ARMS2	NA	RESULTS	Our results concur with findings described by DeWan et al that the ARMS2 region is likely the major genetic risk factor for AMD within Asian populations
+0	AMD	NA	NA	RESULTS	Other strong effects for AMD have been reported at C2/BF and C3, factors that act as activators of C3 convertase in the classical and alternative complement pathways respectively.
+0	NA	NA	rs641153	RESULTS	Similar to other studies, we observed a protective effect associated with the R32Q BF variant (p = 6.8x10-14), but also found strong signals at other marker loci (Table 1, Table S8, Figure 5).
+1	NA	SKIV2L	rs429608	RESULTS	rs429608, an intronic SNP in SKIV2L, a gene close to BF, displayed the best evidence for association at this locus (p = 5.3x10-15).
+0	NA	RDBP	rs438999	RESULTS	rs438999 in RDBP, a gene adjacent to BF, (p = 1.8x10-13) and rs550605 in C2 (p = 2.1x10-13) were also significant.
+0	NA	NA	rs641153	RESULTS	Because R32Q was imputed in our data set, we verified the accuracy of imputation based on the HapMap CEU cohort, and found that our imputation was indeed highly accurate (88.2% concordance).
+1	NA	NA	rs429608	RESULTS	Within the replication cohorts, rs429608 displayed only moderate disequilibrium with the R32Q variant (r2 ranging from 0.46 to 0.61) making it less likely rs429608 is merely acting as a proxy for the BF variant (Figure S5).
+0	NA	NA	rs550605	RESULTS	rs550605 and rs438999 were in high LD both with each other and with R32Q (r2 >= 0.85).
+0	NA	NA	rs641153	RESULTS	The high LD of these SNPs with R32Q provides additional confidence in the accuracy of the R32Q imputation since the results of association testing for these three SNPs was similar in magnitude.
+1	AMD	CFH	NA	RESULTS	To determine whether these effects were independent from the effects of the CFH and ARMS2 loci on AMD, in our replication cohorts we adjusted for principal components that account for the majority of the SNP variation at CFH and ARMS2.
+1	NA	NA	rs641153	RESULTS	Strong signals of association remained at R32Q (p = 1.8x10-10), rs429608 (p = 5.2x10-10), rs550605 (p = 4.1x10-10) and rs438999 (p = 1.3x10-9).
+1	NA	CFH	rs641153	RESULTS	These findings provide evidence that the protective effect at this region is separate from the effects observed at CFH and ARMS2, and that variants other than the BF R32Q variant may contribute to this effect
+0	NA	NA	NA	RESULTS	To dissect the signal further we took the three most significant chromosome 6 findings and sequentially conditioned on the minor allele of each variant.
+0	NA	NA	NA	RESULTS	None of the variants entirely accounted for the effect at this locus.
+0	NA	C2	rs641153	RESULTS	The conditional results from rs641153 in BF and rs550605 in C2 were quite similar, as is expected given the high LD between these markers.
+1	NA	SKIV2L	rs429608	RESULTS	Conditioning on either rs429608 in SKIV2L or rs641153 did not entirely eliminate the signal at the other SNP (Table S7).
+0	NA	C2	NA	RESULTS	Haplotype analysis of 13 SNPs spanning from C2 to SKIV2L identified 5 common (frequency > 1%) haplotypes.
+1	NA	NA	rs550605	RESULTS	We identified one highly protective haplotype, which harbored the C-A-G-A alleles at rs550605, rs641153, rs438999 and rs429608 (OR = 0.43, 95% CI = [0.32, 0.56]; p = 1.2x10-9) and another closely related protective haplotype (Figure 5, Table S6).
+0	NA	NA	NA	RESULTS	One single risk haplotype was observed (OR = 1.36, 95% CI = [1.18, 1.57]; p = 1.9x10-5).
+1	NA	NA	rs429608	RESULTS	Additionally, we identified a secondary protective haplotype (OR = 0.72, 95% CI = [0.55, 0.93]; p = 0.01) that was identical to our risk haplotype with the exception of the protective allele of rs429608.
+1	NA	SKIV2L	rs641153	RESULTS	Thus, a haplotype harboring the risk allele of the BF R32Q polymorphism and the protective allele of SKIV2L rs429608 was found to be protective.
+0	NA	C3	rs2230199	RESULTS	Of the two genotyped SNPs in C3, R102G also shows strong association in this study but was not pursued by further fine-scale mapping (p = 1.40x10-8)
+0	NA	NA	NA	RESULTS	The strongest novel signal in our meta-analysis came from the family-based GWAS (Table 1, Table S8).
+0	NA	MYRIP	NA	RESULTS	We identified a novel protective effect at MYRIP, a protein that enables the trafficking of melanosomes in the RPE.
+0	NA	NA	rs11129874	RESULTS	The best initial signal was observed in the FARMS cohort at rs11129874 (p = 8.31x10-5).
+0	NA	MYRIP	rs2679798	RESULTS	rs2679798, another variant in MYRIP, displayed the best evidence of association in meta-analysis (p = 2.9x10-4).
+0	NA	NA	NA	RESULTS	The rationale for the difference is that the family-based association may identify more highly penetrant rare variants.
+0	NA	MYRIP	NA	RESULTS	We identified a risk and protective haplotype using the three MYRIP SNPs included in replication.
+0	NA	NA	NA	RESULTS	The haplotypes showed evidence for association similar to the individual SNPs indicating the three SNPs are capturing the same signal, likely due to high LD between them (r2 > 0.7).
+1	AMD	MYRIP	rs2679798	RESULTS	The protective effect at MYRIP is independent of the effects of CFH and ARMS2 on AMD as the association remained following adjustment for CFH and ARMS2 variations using principal components (rs2679798, p = 0.001).
+0	NA	MYRIP	NA	RESULTS	Given its biological function, MYRIP remains an interesting new candidate, despite not reaching genome-wide significance
+0	NA	UNC13C	rs885203	RESULTS	In FARMS, UNC13C, a protein that regulates synaptic vesicle fusion, showed strong evidence for association (rs885203, p=2.2x10-5).
+0	NA	UNC13C	NA	RESULTS	Variants in this gene did not show association within the population-based replication cohorts; however, UNC13C localizes to the 15q linkage region previously identified in the FARMS cohort.
+0	AMD	UNC13C	rs10444833	RESULTS	Two other UNC13C variants, rs10444833 and rs11635375, were also associated with AMD (p=9.6x10-4, r2=1) and these variants account for a significant portion of the linkage signal mapping to this region (Figure S4)
+1	AMD	NA	NA	DISCUSS	Genetic studies have identified strong effects in complement pathway genes and ARMS2/HTRA1 on AMD.
+1	AMD	CFH	NA	DISCUSS	However, identification of major genes such as CFH and ARMS2 has not revealed why the macula, a region rich in cone photoreceptors, seems to be especially vulnerable to the AMD disease process.
+1	NA	ARMS2	NA	DISCUSS	ARMS2, localizing to mitochondria-dense retinal photoreceptors, has a potential role in events that may contribute to disease progression.
+0	NA	NA	NA	DISCUSS	In particular, mitochondrial respiratory proteins of photoreceptors may accumulate photo-oxidative defects in these post-mitotic cells.
+1	NA	CFH	NA	DISCUSS	Many potential functions have been ascribed to CFH, but an underappreciated and recent discovery is that CFH has a role in proper distribution of melanosomes.
+0	CFH deficiency	NA	NA	DISCUSS	CFH deficiency in aged knockout mice shows that there are changes in the distribution of melanosomes, melanosome-lipofuscin and lipofuscin particles, which are associated with retinal abnormalities and visual dysfunction.
+0	NA	NA	NA	DISCUSS	Ocular melanin has antioxidant properties and proper distribution of the melanosomes in the retinal pigment epithelium (RPE) cells ameliorates photooxidative damage
+1	AMD	CFH	NA	DISCUSS	Two genes linked to AMD in this paper, CFH and MYRIP, are now seen to share a significant role in melanosome trafficking or biogenesis, among other mechanisms.
+0	NA	NA	NA	DISCUSS	Inappropriate trafficking of melanosomes impairs phagocytic and autophagic degradative processes in RPE cells, including the phagocytosis of photoreceptor outer segments, which is accomplished exclusively by the RPE and is critical for maintaining outer retinal integrity.
+0	NA	NA	NA	DISCUSS	RPE cells also protect the retina from reactive oxygen species that are generated in response to light exposure.
+0	NA	MYRIP	NA	DISCUSS	A primary effect of RPE exposure to oxidative species is the generation of non-degradable byproducts such as lipofuscin, which contribute to the decline of RPE function with aging MYRIP may contribute to these protective effects by minimizing RPE reactive oxygen species exposure and, subsequently, the accumulation of lysosomal impairing oxidized complexes, preventing or delaying declines in RPE function.
+0	AMD	NA	NA	DISCUSS	In this regard, it is interesting to note that progressive stages of AMD, particularly in the dry form, involve either retinal hyperpigmentation, or depigmentation.
+0	NA	NA	NA	DISCUSS	Guo et al concluded that the absence of melanin increases RPE light absorption by ~20%.
+0	AMD	NA	NA	DISCUSS	These observations together with our results suggest that melanosome trafficking may be under-appreciated as an important contributor to AMD, connecting essential functions of known genes, e.g.
+1	NA	CFH	NA	DISCUSS	CFH, to a specific pathway within these specialized and polarized cells
+0	degeneration	NA	NA	DISCUSS	Prior work on retinal degenerations has demonstrated that specialization of the RPE/choroid for color vision and visual acuity renders key effectors susceptible to genetic abnormalities.
+0	Usher syndrome type IB	myosin VIIA	NA	DISCUSS	Mutations in myosin VIIA, an unconventional myosin strongly expressed in the RPE and photoreceptor outer segments, result in Usher syndrome type IB (MIM 276900), characterized by progressive retinitis pigmentosa with onset in the first decade of life.
+0	NA	myosin VIIA	NA	DISCUSS	Interestingly, myosin VIIA interacts with MYRIP to traffic melanosomes to the apical processes of RPE cells.
+0	retinopathy	NA	NA	DISCUSS	Thus, the melanosome trafficking pathway shares genetic links with early onset degenerative retinal disease as well as AMD.
+0	degeneration	NA	NA	DISCUSS	It is possible that weak alleles for Mendelian retinal degenerations may predispose to later onset retinal disease such as AMD.
+0	NA	MYRIP	NA	DISCUSS	In the FARMS discovery cohort, the MYRIP association signal localizes to the 3' end of MYRIP and the adjacent downstream region.
+0	NA	MYRIP	NA	DISCUSS	The 3' end of the MYRIP gene codes for a Myrip-Mlph conserved amphipathic helix domain and a MYRIP specific domain required to mediate interactions with myosin VIIA
+0	cardiac dysfunctions	NA	NA	DISCUSS	RPE dysfunction occurs early in AMD pathogenesis and we propose that changes in melanosome localization within the RPE are an initiating factor for early stage disease.
+0	AMD	MYRIP	NA	DISCUSS	MYRIP was originally identified in the FARMS cohort, a family-set capturing the spectrum of AMD severity, including early pathogenic changes.
+0	NA	MYRIP	NA	DISCUSS	Replication efforts support a protective effect of MYRIP variants, although a genome-wide significance threshold was not met.
+0	NA	NA	NA	DISCUSS	This may be due in part to the magnitude of the protective effect and the late-stage disease phenotype used to define the replication cases.
+0	AMD	NA	rs2679798	DISCUSS	Each protective allele at rs2679798 reduces the risk of AMD 0.86-fold or by approximately one step on the 15-step AMD severity scale.
+0	AMD	MYRIP	NA	DISCUSS	Further study of MYRIP in larger cohorts and groups with early AMD cases will be necessary to further define the contribution of this gene to AMD pathogenesis.
+0	AMD	MYRIP	NA	DISCUSS	Nonetheless, MYRIP's role in the appropriate localization of melanosomes to RPE apical processes makes it a plausible biological candidate for mediating early stage AMD
+0	NA	NA	NA	DISCUSS	Inappropriate trafficking of melanosomes impairs phagocytic and autophagic degradative processes in RPE cells, including the phagocytosis of photoreceptor outer segments, a key support role in maintaining retinal health.
+0	NA	NA	NA	DISCUSS	RPE cells are believed to protect the retina from the generation of reactive oxygen species in response to light exposure.
+0	NA	MYRIP	NA	DISCUSS	A primary effect of RPE exposure to oxidative species is the generation of non-degradable byproducts such as lipofuscin, which contribute to the decline of RPE function with aging A possible mechanism by which MYRIP exerts a protective effect is by minimizing RPE reactive oxygen species exposure and, subsequently, the accumulation of lysosomal impairing oxidized complexes, preventing or delaying declines in RPE function
+0	NA	SKIV2L	NA	DISCUSS	SKIV2L shares homology with two yeast exosome components, Mtr4p and Ski2p.
+0	NA	SKIV2L	NA	DISCUSS	Based on studies of the yeast counterparts, it is thought that SKIV2L acts as an RNA helicase with a role in exosome recruitment or activation.
+0	AMD	SKIV2L	rs438999	DISCUSS	McKay et al earlier reported a coding SNP, R151Q, in SKIV2L as showing a significant protective effect for AMD (p=.0004), but could not ascertain if this effect was independent of BF R32Q with which it shares extensive LD (r2>=.95).
+1	NA	SKIV2L	rs429608	DISCUSS	Our results indicate there may be a second independent effect at this locus and point to another SNP in SKIV2L, rs429608, or a SNP in very high LD, as the mediator of this effect.
+0	NA	C2	NA	DISCUSS	Initial studies of this region focused exclusively on C2 and BF due to their roles in the complement pathway and did not extend their investigations to neighboring genes such as SKIV2L.
+0	NA	C2	NA	DISCUSS	Future investigations should include variation beyond that found in the C2 and BF genes, as we have demonstrated non-C2/BF variants that may contribute to this region's protective effect
+0	NA	SKIV2L	NA	DISCUSS	SKIV2L is involved in the degradation of RNAs by the exosome and may have a role in autophagy.
+1	NA	SKIV2L	rs429608	DISCUSS	Increased RPE autophagy has recently been linked to drusen formation and autophagic markers are present in drusen.. As rs429608 is an intronic variant it does not directly alter the structure of SKIV2L.
+0	NA	NA	NA	DISCUSS	Non-coding variants may still affect patterns of gene expression through the disruption of regulatory elements controlling gene transcription or splicing and translation.
+1	NA	NA	rs429608	DISCUSS	The minor allele of rs429608 is predicted to disrupt a transcription factor binding site for early B-cell factor, a transcription factor involved in early B-lymphocyte development.
+0	choroidal capillaries	SKIV2L	NA	DISCUSS	A 3'UTR variant in SKIV2L has recently been reported to exert a protective effect in polypoidal choroidal vasculopathy, a hemorrhagic macular disease that shares some features with neovascular AMD, delineating a possible role for SKIV2L in protection from neovascular events.
+0	autoimmunity of systemic lupus erythematosus	SKIV2L	NA	DISCUSS	SKIV2L is highly expressed in T and B lymphocytes and dendritic cells, and variants in SKIV2L have also been associated with increased risk for systemic lupus erythematosus (SLE), an autoimmune disorder in which the immune system attacks the body's own organs causing inflammatory damage.
+0	NA	SKIV2L	NA	DISCUSS	SKIV2L may exert its protective effect through modulating the immune response
+1	NA	CFH	NA	DISCUSS	Loci implicated in the AREDS discovery cohort were not replicated beyond the regions of known association at CFH, ARMS2, chromosome 6 and C3, similar to findings from two previous studies.
+0	NA	NA	NA	DISCUSS	Our re-analysis of the AREDS GWAS data identified 67 SNPs significant at p<=10-4 prior to genomic control correction, 24 of which were at potentially novel loci.
+0	NA	NA	NA	DISCUSS	This represents a reduction in the number of novel SNPs significant at this threshold from the initial AREDS dbGaP data (58 novel SNPs).
+0	NA	NA	NA	DISCUSS	The exclusion of non-Caucasian subjects and the inclusion of age into the regression models in our analysis may account for this difference.
+0	NA	NA	NA	DISCUSS	Four SNPs at novel loci demonstrated a trend towards association in the Edwards et al replication cohort.
+0	NA	NA	rs8056814	DISCUSS	One of these SNPs, rs8056814, was also tested in our replication efforts and did not display evidence for association (p=0.10).
+0	NA	NA	NA	DISCUSS	We did not test the other 3 SNPs since they did not meet the p<=10-4 threshold in our AREDS GWAS re-analysis.
+0	NA	NA	rs9288410	DISCUSS	Similarly, rs9288410, the only novel SNP displaying association in the replication efforts of Zhang et al, did not meet our inclusion threshold and was not examined further
+1	NA	CFH	NA	DISCUSS	Diverse populations have been examined for CFH and ARMS2 associations and it is evident that risk variants at these loci may not underlie disease to the same extent in populations of different ancestry.
+1	NA	ARMS2	NA	DISCUSS	We observed that the frequency of the ARMS2 risk haplotype in the HapMap CEU, YRI, JPT and CHB and HapMap3 populations varied substantially.
+1	NA	ARMS2	NA	DISCUSS	The ARMS2 risk haplotype is observed at a higher frequency in Asian populations than is seen in Caucasian and African counterparts.
+1	NA	NA	NA	DISCUSS	This finding corroborates the genomewide association results of Dewan et al., who observed association at the ARMS2/HTRA1 region, but not CFH in a cohort of Southeast Asians from Hong Kong.
+1	NA	CFH	NA	DISCUSS	Recent observations indicate that the majority of Asians do not carry risk haplotypes at the CFH locus, while CFH risk haplotypes are common in Caucasians (T.A.S., unpublished data).
+1	atrophy	CFH	NA	DISCUSS	It is not known whether these differences in genetic risk at CFH and ARMS2 may account for differences in the frequency and type (neovascular vs geographic atrophy) of late AMD profiles in Asians and Caucasians.
+1	atrophy	ARMS2	NA	DISCUSS	Asians exhibit a predisposition for the development of exudative disease rather than geographic atrophy, implying perhaps ARMS2 variants may encourage progression to neovascular end stage disease whereas CFH variants promote geographic atrophy
+1	NA	ARMS2	NA	DISCUSS	The core ARMS2 risk haplotype we identified corresponds to a haplotype reported to harbor an insertion/deletion polymorphism that affects ARMS2 expression.
+1	NA	ARMS2	ARMS2 indel	DISCUSS	The initial report of the ARMS2 indel polymorphism found this variant to be in complete linkage disequilibrium with the ARMS2 risk haplotype (r2=1).
+1	NA	NA	rs10490924	DISCUSS	However, further studies have identified individuals with the A69S risk allele that do not harbor the indel.
+0	NA	NA	NA	DISCUSS	We genotyped the indel using PCR in 161 samples from several ethnic groups including individuals from the HapMap JPT and CHB populations and Caucasian and African American subjects from the Coriell Human Diversity Panels (Figure S3).
+0	NA	NA	ARMS2 indel	DISCUSS	Our results indicate that the reported ARMS2 indel polymorphism resides on our identified risk haplotype.
+0	NA	NA	rs3750848	DISCUSS	Our stepwise selection identified two SNPs, rs3750848 and rs2736917, which account for the effect at this locus.
+1	AMD	ARMS2	rs3750848	DISCUSS	rs3750848 is an intronic variant in ARMS2 that resides in an LD block with the well characterized ARMS2 rs10490924 variant and with rs3793917, an HTRA1 promoter polymorphism, both of which were also highly associated with AMD in our cohorts.
+0	NA	NA	rs3750848	DISCUSS	rs3750848 probably serves as a surrogate for our risk haplotype in the stepwise selection model and likely represents the effect of the indel.
+1	NA	HTRA1	rs2736917	DISCUSS	rs2736917 is an intronic SNP in HTRA1 that seems to exert an independent protective effect.
+0	NA	NA	NA	DISCUSS	This supports the recent findings by Yang et al.
+1	AMD	ARMS2	NA	DISCUSS	that the AMD risk haplotype at this locus affects expression of both ARMS2 and HTRA1 and that variation in both genes may mediate AMD susceptibility
+1	NA	CFH	NA	DISCUSS	In 1 896 affected cases, 11% did not have risk haplotypes at either the CFH or ARMS2 loci.
+0	NA	SKIV2L	NA	DISCUSS	Of these subjects, 96% had at least one risk haplotype at the SKIV2L locus, each copy of which increases the odds of AMD 1.30-fold.
+1	NA	CFH	NA	DISCUSS	In the absence of the major CFH and ARMS2 risk factors, perhaps rare variants, with mild functional impacts on trafficking pathways may also contribute to disease in these subjects.
+0	NA	UNC13C	NA	DISCUSS	Initial evidence for such a hypothesis is observed in our familial cohort at the UNC13C locus.
+0	NA	NA	NA	DISCUSS	Variants at this region account for a portion of the linkage signal localized to 15q in a prior study of the FARMS cohort.
+0	NA	UNC13C	NA	DISCUSS	UNC13C regulates synaptic vesicle fusion, a process that uses much of the same trafficking machinery as lysosomal derived organelles, like melanosomes, to deliver vesicles to the synapse.
+0	AMD	UNC13C	NA	DISCUSS	While UNC13C did not show evidence for association in our case/control cohorts, rare variants may predispose to AMD in a subset of patients and require deep resequencing to identify
+1	AMD	SKIV2L	NA	DISCUSS	In summary, our findings demonstrate that SKIV2L variants may underlie the protective effect at the AMD chromosome 6 locus and confirm known associations at CFH, ARMS2 and C3.
+0	AMD	NA	NA	DISCUSS	These results further establish the link between inflammatory and oxidative stress pathways and AMD.
+0	AMD	MYRIP	NA	DISCUSS	The discovery of a protective effect associated with MYRIP highlights melanosome trafficking as an underexplored pathway for AMD pathogenesis.
+0	NA	NA	NA	DISCUSS	Within the retina, melanosome trafficking occurs exclusively in the RPE.
+0	AMD	MYRIP	NA	DISCUSS	MYRIP thus represents the first RPE specific AMD genetic modifier to be identified and provides insight into how RPE dysfunction may initiate AMD
+0	NA	NA	NA	METHODS	The FARMS cohort included 293 individuals aged 26-90 years from 34 extended families, recruited through severely affected probands at the University of Wisconsin-Madison Retina Clinic.
+0	AMD	NA	NA	METHODS	Subjects were evaluated for AMD using a standardized clinical exam and fundus photography.
+0	choriocapillaris	NA	NA	METHODS	Thirty-degree stereo color fundus photographs from each eye were graded as previously described using the Wisconsin Age-Related Maculopathy Severity (WARMS) scale, a fifteen step semi-quantitative measure of AMD features based on presence and severity of characteristic lesions varying from no to late stage AMD.
+0	AMD	NA	NA	METHODS	To create a single metric for use in association testing, values were averaged across eyes for each individual and adjusted for the effects of age and age using regression to account for the effect of age on AMD severity.
+0	NA	NA	NA	METHODS	The score for each subject was adjusted to a standardized age of 80 years and transformed using a Box-Cox transformation (with power transformation parameter lambda = .80) as previously described
+0	NA	NA	NA	METHODS	The AREDS cohort included 391 late-stage cases and 188 controls aged 63-90 years collected as part of the larger AREDS clinical trial and genotyped at the Center for Inherited Disease Research.
+0	NA	NA	NA	METHODS	Genotype and phenotype data for this cohort is publicly available through the database of Genotype and Phenotype (dbGaP).
+0	NA	NA	NA	METHODS	Subjects were evaluated using a standardized clinical exam and fundus photography according to specific protocols similar to those used in the FARMS.
+0	T2DM-ESRD	NA	NA	METHODS	Fundus photographs were used to assign subjects to severity categories based on the presence of drusen, pigmentary abnormalities or late stage disease.
+0	atrophy	NA	NA	METHODS	For the AREDS study, cases and controls were selected to represent the extremes of disease, with cases having choroidal neovascularization, geographic atrophy, or both in at least one eye and controls being free from any signs of AMD and having at most small hard drusen.
+0	NA	NA	NA	METHODS	The initial AREDS data set released to dbGaP included several Black and Asian subjects in addition to those reported to be of white, non-Hispanic origin.
+0	NA	NA	NA	METHODS	For our current analysis, we limited our study population to subjects of white, non-Hispanic origin to avoid potential effects of population stratification.
+0	NA	NA	NA	METHODS	We obtained permission from the AREDS operations committee to use these data in our analyses
+0	NA	NA	NA	METHODS	AREDS-Replication (AREDS-R) consists of additional subjects from the AREDS clinical trial not already included in the discovery cohort.
+0	NA	NA	NA	METHODS	These subjects include 471 cases and 98 controls identified at the AREDS Reading Center using the same phenotype definition and process as in the AREDS discovery group.
+0	atrophy	NA	NA	METHODS	Cases were defined as subjects having large drusen, choroidal neovascularization, geographic atrophy, or a combination of these in at least one eye and controls were subjects free from any signs of AMD and having at most small hard drusen
+0	NA	NA	NA	METHODS	The Beaver Dam Eye Study (BDES) is a longitudinal population-based study initiated in 1988 with 5, 10 and 15 year follow-up examinations.
+0	AMD	NA	NA	METHODS	Subjects aged 43-86 years at baseline were examined at each study visit in the same fashion as the FARMS cohort and characterized for AMD using the WARMS scale.
+0	NA	NA	NA	METHODS	A subset of unrelated individuals from this cohort, 248 cases and 1025 controls, was included in the present study.
+0	atrophy	NA	NA	METHODS	Cases were defined as individuals with a WARMS score greater than or equal to 11 in either eye at the baseline or follow-up visits, corresponding to extensive large drusen with pigmentary changes, geographic atrophy or choroidal neovascularization.
+0	AMD	NA	NA	METHODS	Controls were selected to have been seen at all four exam periods and to have not scored greater than a WARMS score of 4 in either eye at any time point, thus showing no signs of AMD.
+0	NA	NA	NA	METHODS	In the case of related subjects, only one subject was chosen for inclusion from each family, with preferential selection of cases.
+0	NA	NA	NA	METHODS	All subjects were of Northern European descent
+0	NA	NA	NA	METHODS	The Cleveland Clinic Foundation (CCF) cohort consists of sporadic cases and controls enrolled through the Cole Eye Institute at CCF.
+0	AMD	NA	NA	METHODS	Subjects aged 51-96 years were evaluated using dilated clinical exam and assigned an AMD score based on the AREDS classification system at the time of exam.
+0	atrophy	NA	NA	METHODS	The present study includes 650 cases, with large or extensive intermediate drusen, choroidal neovascularization or geographic atrophy in at least one eye and 285 controls with at most small, hard drusen, no signs of AMD and no family history of retinal disease.
+0	NA	NA	NA	METHODS	Subjects were of white, non-Hispanic origin
+0	NA	NA	NA	METHODS	The Oregon Health Sciences University (OHSU) cohort was recruited as sporadic cases and controls seen at the Casey Eye Institute or as subjects enrolled as part of the Complications of Age-Related Macular Degeneration Prevention Trial.
+0	NA	NA	NA	METHODS	Subjects aged 57-99 years underwent dilated clinical exam by an ophthalmologist and fundus photography, and were classified according to phenotype using AREDS classifications.
+0	atrophy	NA	NA	METHODS	Cases were defined as having choroidal neovascularization or geographic atrophy in at least one eye and controls as having no signs of AMD (no drusen greater than 63 microm in diameter), with 407 cases and 219 controls included in this study.
+0	NA	NA	NA	METHODS	All subjects were of Northern European descent
+0	NA	NA	NA	METHODS	The Veterans Affairs Medical Center (VAMC) cohort, aged 60-96 years, was enrolled at the Cleveland VAMC Eye Clinic and evaluated similarly to the CCF cohort.
+0	NA	NA	NA	METHODS	Phenotype classification based on the AREDS classification system was assigned at the time of clinical exam.
+0	atrophy	NA	NA	METHODS	One hundred twenty cases with large or extensive intermediate drusen, choroidal neovascularization or geographic atrophy in at least one eye and 239 controls with at most small, hard drusen, no signs of AMD and no family history of retinal disease were selected for use in this study from a larger group of subjects.
+0	NA	NA	NA	METHODS	Chosen subjects were of white, non-Hispanic origin.
+0	NA	NA	NA	METHODS	Subjects with extensive small drusen, non-extensive intermediate drusen or of other ethnicities were excluded from this study
+0	AMD	NA	NA	METHODS	Demographic data and AMD phenotype subtypes are included in Tables S1 and S2
+0	NA	NA	NA	METHODS	This study was approved by the Institutional Review Boards at the respective institutions.
+0	NA	NA	NA	METHODS	Appropriate informed consent was obtained from subjects at all participating institutions
+0	NA	NA	NA	METHODS	The FARMS cohort was genotyped using the Affymetrix SNP 5.0 GeneChip at the Gene Expression and Genotyping Core Facility at Case Western Reserve University.
+0	NA	NA	NA	METHODS	Samples were plated by family, irrespective of case/control status, with a quality control sample included on each plate.
+0	NA	NA	NA	METHODS	Genotype calls were made using the BRLMM-P algorithm (Affymetrix).
+0	NA	NA	NA	METHODS	All samples were observed to have a sample call rate greater than 95%.
+0	NA	FREQ	NA	METHODS	Any SNPs with a call rate less than 85% or a minor allele frequency less than 5% (FREQ, S.A.G.E.
+0	NA	NA	NA	METHODS	v5.4) were excluded from analysis (Table S3).
+0	NA	NA	NA	METHODS	MARKERINFO (S.A.G.E.
+0	NA	NA	NA	METHODS	v5.4) was used to detect any inconsistencies in Mendelian inheritance.
+0	NA	NA	NA	METHODS	Apparent inheritance errors were resolved by setting to missing the genotypes of any individuals in a pedigree contributing to the error.
+0	NA	NA	NA	METHODS	In total, 182,503 (0.66%) individual genotypes were set to missing.
+0	NA	NA	NA	METHODS	After applying these quality metrics, 361,556 SNPs were tested for association.
+0	NA	C3	rs2230199	METHODS	The C3 R102G variant was genotyped using a custom Taqman assay
+0	NA	NA	NA	METHODS	The AREDS cohort genotyping was completed by the Center for Inherited Disease Research (CIDR) and genotyping data was obtained through dbGaP.
+0	NA	NA	NA	METHODS	Briefly, samples were genotyped on two platforms, the Affymetrix GeneChip Human Mapping 100K Set and the Illumina Sentrix Human-1 BeadChip, although some samples were not available on the Affymetrix platform due to genotyping failure at CIDR.
+0	NA	NA	NA	METHODS	Genotype calls were made by the AREDS research group using BeadStudio and the BRLMM algorithm implemented in Affymetrix Power Tools v1.4.0.
+0	NA	NA	NA	METHODS	Samples genotyped with the Illumina platform were excluded if the median GenCall score was < 0.6 or if the sample call rate was less than 90%.
+0	NA	NA	NA	METHODS	For the Affymetrix platform, samples were excluded if the combined call rate across the Hind III and Xba I chips was less than 97.5%, the call rate for an individual chip was less than 94.5%, or if both chips were not completed for a sample.
+0	NA	NA	NA	METHODS	SNPs on either platform were excluded if they had a call rate less than 90% or a minor allele frequency less than 5%.
+0	NA	NA	NA	METHODS	SNPs from the BeadChip were also excluded if the SNP GenCall score was less than 0.5 (Table S3).
+0	NA	NA	NA	METHODS	After quality metrics were applied, 186,807 SNPs were advanced to analysis; 4,433 analyzed SNPs overlapped between the two chips.
+0	NA	NA	NA	METHODS	For overlapping SNPs, genotypes from the platform with the higher call rate at the given SNP were used for analysis
+0	NA	NA	NA	METHODS	Replication panel genotyping was completed with an Illumina Custom Golden Gate Assay at the Genotyping Core Facility at Case Western Reserve University.
+0	NA	NA	NA	METHODS	All SNPs significant at the p < 0.0001 level in either the FARMS or AREDS GWAS analyses and additional tag SNPs at each locus selected using Tagger (pairwise tagging, r2>=0.7) were included in the panel.
+0	NA	NA	NA	METHODS	Imputation was used in the AREDS discovery cohort to obtain additional data at three loci showing evidence of association in both the AREDS and FARMS cohorts and results were combined at SNPs in common using Fisher's method for combining p-values.
+0	NA	NA	NA	METHODS	Fisher's method was chosen for combined analysis as a phenotype represented with continuous values was tested in the FARMS cohort (as opposed to a binary trait in AREDS).
+0	NA	NA	NA	METHODS	The most significant combined SNPs and tag SNPs (r2 = 0.8) covering these regions were included in the replication panel.
+1	AMD	CFH	NA	METHODS	Finally, markers from the known AMD susceptibility loci CFH, ARMS2, BF/C2 and C3 were genotyped
+0	NA	NA	NA	METHODS	Cases and controls from all cohorts were randomly assigned to plates for genotyping along with a random blind replicate and a standard HapMap sample to assess genotyping reliability.
+0	NA	NA	NA	METHODS	Genotype calls were made using the genotyping module in BeadStudio v3.2.
+0	NA	NA	NA	METHODS	Samples with call rates less than 90% or median GenCall scores < 0.6 (115 total excluded samples) were excluded from association analysis.
+0	NA	NA	NA	METHODS	SNPs with call rates < 85% or deviation from Hardy-Weinberg proportions (p < 0.0001) were also removed from further consideration (Table S3).
+0	NA	NA	NA	METHODS	Cluster graphs for each SNP were manually inspected and any SNPs displaying poor genotype clustering were removed.
+0	NA	NA	NA	METHODS	Replication panel samples were genotyped using custom Taqman assays to determine the gender of each sample for use as a quality control metric.
+1	NA	CFH	rs1061170	METHODS	rs1061170, the Y402H variant of CFH, failed design metrics for the custom Illumina panel and was genotyped using a custom Taqman assay.
+0	NA	MYRIP	rs2679798	METHODS	Three MYRIP SNPs, rs2679798, rs11129874 and rs1344189, were directly genotyped as part of this custom panel.
+0	NA	NA	rs641153	METHODS	rs641153, the R32Q BF variant, was unable to be genotyped as part of the Illumina panel and was subsequently imputed using MaCH (see Methods, Imputation subsection)
+0	NA	NA	NA	METHODS	Family-based association testing was completed using ASSOC (S.A.G.E.
+0	NA	NA	NA	METHODS	v5.4).
+0	seizures	NA	NA	METHODS	ASSOC fits a linear mixed model in which genotype for a given SNP is included as a fixed effect on the phenotype.
+0	NA	NA	NA	METHODS	Within-family correlations are modeled as random effects.
+0	AMD	NA	NA	METHODS	The transformed and adjusted AMD severity scale score was tested for association with each SNP individually using an additive model that included a random sibling effect.
+0	NA	NA	NA	METHODS	The genomic control method was applied to identify and correct for any inflation of the test statistic due to overdispersion; the inflation factor, lambda, was estimated as 1.09 in the FARMS cohort.
+0	NA	NA	NA	METHODS	All results represent these corrected p-values
+0	NA	NA	NA	METHODS	The multi-dimensional scaling approach implemented in PLINK was used to test for population stratification in the AREDS discovery cohort.
+0	NA	NA	NA	METHODS	Fourteen individuals were self-identified as non-Caucasian (12 Black, 2 Asian) according to phenotype records and were removed from all subsequent analyses.
+0	NA	NA	NA	METHODS	In total, data from 513 subjects were available from the Affymetrix 100K chip; data from 579 subjects were available from the Illumina 100K chip
+0	NA	NA	NA	METHODS	Logistic regression was used to test each SNP individually for association with the binary case/control phenotype using PLINK.
+0	AMD	NA	NA	METHODS	Age was included in models, given the strong correlation between age and the development of AMD.
+0	NA	NA	NA	METHODS	For the AREDS cohort, the inflation factor, lambda, was estimated as 1.04.
+0	NA	NA	NA	METHODS	All reported p-values were corrected for lambda
+0	NA	NA	NA	METHODS	Association analysis was conducted using logistic regression in PLINK in the AREDS-R, BDES, CCF, OHSU and VAMC cohorts.
+0	NA	NA	NA	METHODS	Within each cohort, SNPs from the custom Golden Gate assay were individually tested for association with case/control status using logistic regression models including age and sex.
+0	NA	NA	NA	METHODS	To combine findings across the replication cohorts, a combined effect estimate was calculated by taking the weighted average of the individual cohort effect estimates, using inverse variance as the weighting factor.
+0	NA	NA	NA	METHODS	This combined estimate was used to determine an overall odds ratio for each SNP.
+0	NA	NA	NA	METHODS	Cohorts were analyzed separately and combined using meta-analysis to avoid introducing stratification as cases and controls were identified at different sites over differing time frames.
+0	NA	NA	NA	METHODS	We chose this approach because we found it to be more conservative than a combined analysis grouping all cases and controls.
+0	NA	NA	NA	METHODS	We also calculated Cochran's Q statistic for each SNP to test the hypothesis of homogeneity of effect sizes amongst the replication cohorts.
+0	NA	NA	NA	METHODS	The Q statistic is a weighted sum of the squared differences of the individual study effect sizes and the combined effect estimate.
+0	NA	NA	NA	METHODS	Inverse variance was used to weight each study.
+1	NA	ARMS2	NA	METHODS	Results from association testing are displayed for regions reaching genome-wide significance (ARMS2, SKIV2L, CFH) and having dense SNP coverage (Figures 3, 5, S1, S2).
+0	NA	MYRIP	NA	METHODS	MYRIP results are included in Table 1, but are not shown graphically due to genotyping of only three SNPs in the replication groups
+0	NA	NA	NA	METHODS	To incorporate findings from both discovery and the replication cohorts, results from the FARMS, AREDS and replication cohorts were combined using Fisher's method for combining p-values.
+0	NA	NA	NA	METHODS	The loge (p-value) of each individual cohort was calculated, summed and then multiplied by -2 to obtain a test statistic which was then compared to a chi2 distribution with 14 df to obtain a combined p-value.
+0	NA	NA	NA	METHODS	In all cases, discovery p-values were corrected using genomic control prior to being included in the meta-analysis.
+0	NA	NA	NA	METHODS	These meta-analysis p-values are reported for all findings unless otherwise indicated
+0	NA	NA	NA	METHODS	Imputation was completed in the FARMS and AREDS discovery cohorts and the replication cohorts using MACH1.0 and phased CEU data.
+0	NA	NA	NA	METHODS	MACH infers the genotypes of markers not directly genotyped within a study population by using neighboring genotyped SNPs and underlying LD patterns in the study and reference populations.
+0	NA	NA	NA	METHODS	SNPs with imputation Rsq scores less than 0.30 were excluded.
+0	AMD	NA	NA	METHODS	The remaining SNPs were tested for association with the power transformed AMD score using ASSOC (S.A.G.E.)
+0	NA	NA	NA	METHODS	in the FARMS cohort or for association with case/control status via logistic regression in PLINK in the AREDS and replication cohorts.
+0	NA	NA	rs641153	METHODS	Twenty SNPs across the BF/SKIV2L region were used to impute 44 additional variants at the locus, including rs641153.
+0	NA	NA	NA	METHODS	To assess the quality of imputation at the BF/SKIV2L locus, we conducted a bootstrap analysis of the HapMap CEU data.
+0	NA	NA	NA	METHODS	In each replicate, the genotypes of ten randomly selected HapMap population individuals were masked and imputed, using the other 50 individuals as the reference sample, including only the SNPs genotyped at this region in the replication cohorts.
+0	NA	NA	NA	METHODS	The imputed alleles were compared with the true genotypes to determine concordance.
+0	NA	NA	NA	METHODS	Concordances over 1 000 independent random test samples were averaged to provide an estimate of the accuracy of imputation
+1	NA	ARMS2	NA	METHODS	Haplotypes across the ARMS2, MYRIP and chromosome 6 regions were determined using PHASE v.2.1, which uses Bayesian haplotype reconstruction to assign the most likely haplotypes to each subject.
+0	NA	NA	NA	METHODS	A subset of SNPs from the replication panel was chosen at each location for haplotyping based on inspection of the association testing results and LD across the region.
+1	NA	ARMS2	NA	METHODS	At ARMS2, the three most significant association signals within the replication cohorts fell into a single LD block.
+0	NA	NA	NA	METHODS	Eleven SNPs spanning this LD block, including these three, were used in haplotyping.
+0	NA	NA	NA	METHODS	Six haplotypes with frequencies greater than 1% were identified.
+0	NA	MYRIP	NA	METHODS	All three successfully genotyped MYRIP markers were haplotyped; 4 haplotypes with frequencies greater than 1% were identified.
+0	NA	C2	NA	METHODS	Thirteen SNPs from C2 to SKIV2L were used to create haplotypes across this locus; 5 haplotypes with frequencies greater than 1% were identified.
+0	NA	NA	NA	METHODS	Haplotypes were tested individually for association with case-control status within each cohort using logistic regression.
+0	NA	NA	NA	METHODS	Age and gender were included in all analyses
+1	NA	ARMS2	NA	METHODS	Haplotyping at the ARMS2 and chromosome 6 regions was also completed using the haplo.glm function in HaploStats, 85 This program performs weighted logistic regression, using the posterior probabilities of possible diplotypes as the weights, thus allowing for uncertainties in haplotype phasing to be accounted for in association testing.
+0	NA	NA	NA	METHODS	The most common haplotype at each region was chosen as the baseline haplotype to which other haplotypes were compared.
+0	NA	NA	NA	METHODS	Results from this analysis were similar to our findings using the most likely haplotype for each subject and are presented in Supplemental Table S6
+1	AMD	SKIV2L	NA	METHODS	To test SKIV2L and MYRIP AMD relationships in the context of risk associated with numerous CFH and ARMS2 variants we first applied principal components analysis to identify eigenvectors accounting for the majority (80%) of the SNP variation at the CFH and ARMS2 regions.
+1	NA	CFH	NA	METHODS	A principal components analysis approach was chosen due to the complex nature of risk modifiers at the CFH region which contains effects of both SNP markers and copy number variants.
+0	NA	NA	NA	METHODS	This method allows us to capture variation due to both types of polymorphisms without having to explicitly select individual variants for inclusion in the model.
+0	NA	NA	NA	METHODS	The method also does not require us to declare a specific variant as causal, but merely finds the combination that is most representative of the full spectrum of variation.
+0	AMD	NA	NA	METHODS	After adjusting for age and sex, principal component scores were sequentially added to the logistic regression model to find components with the most significant effect on AMD.
+1	NA	CFH	NA	METHODS	At the CFH locus, six significant components were identified while four were selected at the ARMS2 region.
+0	NA	SKIV2L	NA	METHODS	Component scores from these variables were included in the logistic regression models testing for association at SKIV2L and MYRIP
+1	NA	SKIV2L	rs429608	METHODS	Conditional analyses at the chromosome 6 region were completed at rs429608 at SKIV2L, rs641153 (R32Q) at BF, rs497239 at C2 in the replication cohorts.
+0	NA	NA	NA	METHODS	In PLINK, the allelic dosage of each SNP was individually included as an additional covariate in the logistic regression model along with age and sex.
+0	NA	NA	NA	METHODS	Results were combined across the replication cohorts as described for single SNP association testing
+1	NA	ARMS2	NA	METHODS	PCR primers were designed specific to sequences flanking the ARMS2 *372_815del443ins54 insertion/deletion (indel) polymorphism (Forward primer 'CAGGACTCTCTTCCCACCTG', Reverse primer 'AATGCTCAGGGGCTCCTATT') to result in PCR products of different lengths dependent on the presence of the indel polymorphism.
+0	NA	NA	NA	METHODS	Two HapMap samples with ancestry from northern and western Europe (CEU), NA11839 and NA12716, were used as controls for PCR genotyping with their corresponding indel genotypes, no copies and one copy, confirmed using Sanger sequencing (data not shown).
+0	NA	NA	NA	METHODS	Forty-nine Caucasian and 48 African American samples from the Coriell Human Diversity Panel and 27 Japanese in Tokyo (JPT) and 37 Han Chinese in Beijing (CHB) HapMap subjects were successfully genotyped for the indel polymorphism.
+1	NA	ARMS2	NA	METHODS	Phased haplotypes at the ARMS2 locus were downloaded from HapMap for the JPT and CHB subjects and Affymetrix 6.0 data was imputed and phased for the Caucasian and African American cohorts as described above using MACH1.0 and PHASE
+0	NA	NA	NA	FIG	Overall study workflow.
+0	NA	NA	NA	FIG	The study consisted of a two-phase design.
+0	NA	NA	NA	FIG	A.
+0	NA	NA	NA	FIG	The initial discovery phase consisted of genome-wide association testing in two cohorts (FARMS, a family-based analysis, and AREDS, a case/control analysis).
+0	NA	NA	NA	FIG	B.
+0	AMD	NA	NA	FIG	The second phase tested the most significant findings from the discovery cohorts and additional markers at previously identified AMD loci in five additional case/control cohorts.
+0	NA	NA	NA	FIG	Numbers beneath cohort designations indicate the number of cases/controls included in the replication analysis
+0	NA	NA	NA	FIG	Results from GWAS in AREDS and FARMS.
+0	NA	NA	NA	FIG	A. Manhattan plot of results from association testing in the AREDS cohort and QQ plot of observed vs. expected p-values.
+0	NA	NA	NA	FIG	B. Manhattan and QQ plot for FARMS association results
+1	NA	ARMS2	NA	FIG	ARMS2 replication association results.
+0	NA	NA	NA	FIG	A.
+1	NA	NA	NA	FIG	Results of single SNP association testing at the ARMS2/HTRA1 locus.
+0	NA	NA	NA	FIG	Results for each individual replication cohort and the results from meta-analysis are displayed.
+0	NA	NA	NA	FIG	B.
+0	NA	NA	NA	FIG	Results from haplotype association testing at this locus.
+1	NA	ARMS2	NA	FIG	Red/blue colored SNPs indicate the risk/protective alleles at three SNPs that were also identified in Fritsche et al as defining a risk haplotype bearing an indel polymorphism at ARMS2
+1	NA	ARMS2	NA	FIG	ARMS2 haplotype frequencies in HapMap populations.
+0	NA	NA	NA	FIG	Frequencies of the risk haplotype and four protective haplotypes in the original and HapMap3 populations are shown.
+0	NA	NA	NA	FIG	ASW-African ancestry in Southwest USA; CEU-Utah residents with Northern and Western European ancestry; CHB-Han Chinese in Beijing, China; CHD-Chinese in metropolitan Denver, USA; GIH-Gujarati Indians in Houston, TX; JPT-Japanese in Tokyo, Japan; LWK-Luhya in Webuye, Kenya; MEX-Mexican ancestry in Los Angeles, California; MKK-Maasai in Kinyawa, Kenya; TSI-Toscani in Italy; YRI-Yoruba in Ibadan, Nigeria
+0	NA	SKIV2L	NA	FIG	SKIV2L replication association results.
+0	NA	NA	NA	FIG	A.
+0	NA	NA	NA	FIG	Results of single SNP association testing at the C2/SKIV2L region in the five replication cohorts.
+0	NA	NA	NA	FIG	The meta-analysis findings are also displayed.
+0	NA	NA	NA	FIG	B.
+0	NA	NA	NA	FIG	Risk modifying haplotypes at the chromosome 6 locus.
+1	NA	NA	rs429608	FIG	The risk and protective alleles of rs429608 are indicated in red and blue respectively

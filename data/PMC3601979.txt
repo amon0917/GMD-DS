@@ -1,0 +1,196 @@
+0	genetic diseases	NA	NA	ABSTRACT	Genome Wide Association Studies (GWAs) have begun to investigate associations between inherited genetic variations and breast cancer prognosis.
+0	breast cancer	NA	NA	ABSTRACT	Here we report our findings from a GWAs conducted in 536 early onset breast cancer patients aged 40 or less at diagnosis and with a mean follow-up period of 4.1 years (S.D=1.96).
+0	breast cancer	POSH	NA	ABSTRACT	Patients were selected from the POSH (Prospective study of Outcomes in Sporadic versus Hereditary breast cancer).
+0	NA	NA	NA	ABSTRACT	A Bonferroni correction for multiple testing determined that a p-value of 1.0 x 10-7 was a statistically significant association signal.
+0	NA	NA	NA	ABSTRACT	Following QC we identified 487496 SNPs for association tests in stage-1.
+0	NA	NA	NA	ABSTRACT	In stage 2, 35 SNPs with the most significant associations were genotyped in 1516 independent cases from the same early onset cohort.
+0	NA	NA	NA	ABSTRACT	In stage-2, 11 SNPs remained associated in the same direction (p{less than or equal to}0.05).
+1	NA	ARRDC3	NA	ABSTRACT	Fixed effects meta-analysis models identified one SNP associated at close to genome wide level of significance 556 kb upstream of the ARRDC3 locus HR=1.61 (1.33-1.96, p=9.5 x 10-7).
+1	NA	PBX1	NA	ABSTRACT	Four further associations at or close to the PBX1, RORalpha, NTN1 and SYT6 loci also came close to genome wide significance levels (p=10-6).
+1	breast cancer	ARRDC3	NA	ABSTRACT	In the first ever GWAS for identification of SNPs associated with prognosis in early onset breast cancer patients we report a SNP upstream of the ARRDC3 locus as potentially associated with prognosis (Median follow-up time for genotypes CC=4 years, CT=3 years and TT=2.7 years, Wilcoxon rank sum test CC vs. CT, p=4 x 10-4 and CT vs. TT, P=0.76).
+0	NA	NA	NA	ABSTRACT	Four further loci might also be associated with prognosi
+0	breast cancer	NA	NA	INTRO	Breast cancer incidence increases with increasing age.
+0	breast cancer	NA	NA	INTRO	Less than 5% of all breast cancer cases are diagnosed before 40 years of age and less than 20% before 50 years of age.
+0	cancers	NA	NA	INTRO	Treatments vary according to tumour stage and biological characteristics, age at diagnosis, menopausal status; co-morbidities are also important considerations in deciding what treatment to offer.
+0	breast cancer	NA	NA	INTRO	Early age at breast cancer diagnosis is associated with a worse prognosis although the reasons for this are still imperfectly understood.
+0	cancers	NA	NA	INTRO	Tumours in this age group are more likely to have adverse pathological features including a greater proportion of ER negative high grade tumours.
+0	cancers	NA	NA	INTRO	Despite accounting for these factors, outcomes remain worse for young onset patients, particularly those with ER positive cancers and this may reflect a poorer response to breast cancer treatments in younger patients.
+0	breast cancer	NA	NA	INTRO	A Swedish familial study demonstrated higher risk of mortality in affected first degree relatives of breast cancer patients which suggests a genetic component to prognosis following disease onset.
+0	NA	NA	NA	INTRO	A smaller gap in age at diagnosis between sister-sister pairs compared with mother-daughter pairs in this familial study coupled with poorer prognosis in sister-sister pairs suggests that earlier disease onset in sister-sister pairs could be linked with a greater genetic component for prognosis.
+0	breast cancer	BRCA1	NA	INTRO	Rare high penetrance genetic predisposition genes like BRCA1 are more frequently found to explain young onset breast cancer cases even in the absence of a family history.
+0	breast cancer	NA	NA	INTRO	In addition it is becoming clear that the growing number of common genetic variants which contribute to polygenic breast cancer risk, are associated often more strongly with susceptibility to a particular sub-type of breast cancer
+0	cancers	NA	NA	INTRO	Common genetic variants may influence prognosis either by influencing the type of tumour that develops, the host response to tumour or the handling or metabolism of breast cancer directed therapies.
+0	breast cancer	NA	NA	INTRO	Two recent studies developed from genome wide association experiments have failed to identify SNPs which are irrefutably associated with breast cancer prognosis in individuals of Caucasian ancestry.
+0	breast cancer	NA	NA	INTRO	The median age at diagnosis in the patients recruited for these GWASs were 66 and 52 years hence these cohorts are largely comprised of later onset breast cancer patients.
+0	breast cancer	NA	NA	INTRO	A more recent two stage GWAS in Chinese breast cancer patients identified two potential associations with breast cancer but the association effects in replication samples were much weaker than in the discovery set and would not satisfy stringent tests for multiple hypothesis correction.
+0	NA	NA	NA	INTRO	Studies exploring the association of known risk SNPs with prognosis have hinted at a possible role for genetic variation in clinical outcomes
+0	breast cancer	NA	NA	INTRO	Here we report a 2-stage Genome Wide Association Study to identify common genetic variants which are associated with breast cancer prognosis by using a discovery set of young onset patients that were enriched for rapid disease progression and long term breast cancer specific survival.
+0	breast cancer	NA	NA	INTRO	We attempt replication in a larger sample of early onset breast cancer patients from the same cohort who were unselected for survival extremes.
+0	breast cancer	NA	NA	INTRO	We also seek replication of the main findings from analysis in early onset patients in relatively later onset breast cancer cases from Helsinki
+0	breast cancer	POSH	NA	METHODS	Early onset breast cancer cases were selected from the POSH (Prospective study of Outcomes in Sporadic versus Hereditary breast cancer) study, participants were diagnosed with invasive breast cancer and were aged 40 or younger at diagnosis.
+0	NA	POSH	NA	METHODS	Recruitments to the POSH cohort were made between January 2000 and January 2008 from oncology clinics across the UK.
+0	NA	NA	NA	METHODS	The vast majority (98%) of patients recruited to the study presented symptomatically.
+0	NA	POSH	NA	METHODS	The recruitment, data collection and follow up procedures for the POSH study participants are described in detail elsewhere
+0	NA	POSH	NA	METHODS	In stage 1, 574 participants from the POSH study were selected for the discovery phase of the analysis aimed at hypothesis generation.
+0	NA	POSH	NA	METHODS	To enrich the discovery set patients were selected from POSH in two different groups.
+0	breast cancer	HER2	NA	METHODS	The first group had ER, PR and HER-2 negative breast cancer (These triple negative patients have worse prognosis and they relapse early after diagnosis).
+0	breast cancer	NA	NA	METHODS	This triple negative breast cancer group was also used to identify risk genes for Breast Cancer susceptibility in a previous study.
+0	breast cancer	NA	NA	METHODS	In the second group we specifically enriched the selection for patients with either very short duration of breast cancer specific survival (<2 years, n=48) or relatively long duration of breast cancer specific survival (>4 years, n=125) but no selection based on immunohistochemistry was made in this group.
+0	breast cancer	NA	NA	METHODS	Breast cancer specific survival was used as the definitive end-point for the survival analysis.
+0	NA	NA	NA	METHODS	Enrichment of affected individuals in a genetic association design increases the efficiency of and power to detect genetic effects.
+0	NA	NA	NA	METHODS	As all the study participants for this GWAs were derived from a single randomly sampled cohort of early onset patients, any overestimation of effect sizes in stage-1 was balanced out by meta-analysis with unenriched stage-2 samples.
+0	breast cancer	NA	NA	METHODS	This approach is in keeping with a recent GWAS which identified five new breast cancer susceptibility loci by enriching cases by recruiting individuals with family history of breast cancer.
+0	breast cancer	POSH	NA	METHODS	There were no screen detected breast cancers amongst the POSH cases included in the discovery analysis, all had presented symptomatically.
+0	breast cancer	BRCA1	NA	METHODS	Amongst young onset breast cancer cases a higher than average proportion is likely to be BRCA1/2 gene carriers.
+0	NA	BRCA1	NA	METHODS	Since BRCA1 and BRCA2 pathogenic germ-line mutations are not known to be independently associated with prognosis, BRCA status was not used in making the case selection for this study.
+0	NA	BRCA1	NA	METHODS	The cohort has not yet been systematically tested for germ-line BRCA1/2 mutations but amongst the POSH study stage-1 participants, 27.4% (147 cases) had previously been analysed for BRCA1 and BRCA2 mutations, either as part of other research studies or because testing had been clinically indicated (strong family history).
+0	NA	BRCA1	NA	METHODS	Of those tested 38 (25.8%) had been found to carry clearly pathogenic mutations in BRCA1 or BRCA2
+0	NA	POSH	NA	METHODS	1516 additional young onset cases from the POSH study that had not been selected in the discovery set were genotyped for replication in stage 2.
+0	NA	BRCA1	NA	METHODS	22.4% of the stage-2 participants were tested for BRCA status.
+0	NA	BRCA1	NA	METHODS	21.7% of those tested for BRCA status were found to carry pathogenic BRCA 1 and BRCA 2 mutations
+0	breast cancer	NA	NA	METHODS	The Helsinki samples were collected in Helsinki, Finland and are representative of Breast cancer cases at the recruitment centre during the collection period (1997-1998 and 2000).
+0	breast cancer	NA	NA	METHODS	All the breast cancer cases included had histopathological and Survival data available.
+0	NA	NA	NA	METHODS	Detailed information on data collection and selection of participants has previously been published.
+0	NA	NA	NA	METHODS	The mean age at diagnosis was 56.8 years
+0	breast cancer	NA	NA	METHODS	Genotyping for the 574 phase 1 breast cancer cases was conducted using the Illumina 660-Quad SNP array.
+0	NA	NA	NA	METHODS	Genotyping for the samples was conducted in two separate batches at two locations.
+0	breast cancer	HER2	NA	METHODS	274 patients were genotyped at the Mayo Clinic, Rochester, Minnesota, USA and were selected because they were diagnosed with triple negative breast cancer (ER, PR and HER2 negative).
+0	breast cancer	POSH	NA	METHODS	300 POSH patients were genotyped at the Genome Institute of Singapore, National University of Singapore; this group were selected based on either short duration of breast cancer specific survival (<2 years) or for long duration of breast cancer specific suvrival (>4 years).In order to ensure complete harmonisation of the genotype calling, the intensity data available from both these locations in form of *.idat files were combined and used to generate genotypes based on the algorithm available in the genotyping module of Illumina's Genome Studio software.
+0	NA	NA	NA	METHODS	A GenCall threshold of 0.15 was selected and the HumanHap660 annotation file was used.
+0	NA	NA	NA	METHODS	Genotyping for the replication samples from Helsinki was conducted using the Illumina 550 platform as previously described.
+0	NA	NA	NA	METHODS	The intensity data generated was loaded into Illumina's Genome studio and genotypes were generated using a GenCall threshold of 0.15.
+0	NA	NA	NA	METHODS	HumanHap550-duo v3 annotation file was used
+0	NA	NA	NA	METHODS	SNPs were excluded from analysis based on a minor allele frequency (MAF) cut-off of 0.01, genotyping call rate <95% and Hardy-Weinberg equilibrium p-value<0.0001.
+0	NA	POSH	NA	METHODS	We used the pairwise Identity-by-state and multidimensional scaling, implemented in Plink, to identify POSH and Helsinki participants whose genotypes did not concur with a European ancestry.
+0	NA	POSH	NA	METHODS	28 individuals were excluded based on a non-European ancestry or missing phenotype information in the POSH discovery analysis (Supplementary Figure 1).
+0	NA	NA	NA	METHODS	Three individuals from the 300 samples genotyped at the site in Singapore were excluded from analysis because of call rates lower than 95%.
+0	NA	NA	NA	METHODS	No individuals from the 274 triple negative cohort genotyped at the Mayo clinic were excluded from analysis based on poor call rate.
+0	NA	NA	NA	METHODS	Genotyping accuracy for SNPs or SNP specific call rates were over 99% in samples genotyped at the Singapore and Mayo clinic sites.
+0	NA	NA	NA	METHODS	*.idat files available from the Helsinki participants were fed into Illumina's Genome Studio software to call genotypes.
+0	NA	NA	NA	METHODS	No ethnic outliers were identified among the 805 Helsinki participants.
+0	NA	NA	NA	METHODS	7 Helsinki participants were excluded because of SNP call rate (<95%)
+0	NA	POSH	NA	METHODS	Genotyping of the 35 best associated SNPs from stage-1 in the 1516 additional young onset cases from the POSH study was performed by KBioscience.
+0	NA	NA	NA	METHODS	SNPs were genotyped using the KASPar chemistry, which is a competitive allele-specific PCR SNP genotyping system using FRET quencher cassette oligo
+0	NA	NA	NA	METHODS	To generate estimates of pairwise Identity by descent we performed genome wide linkage disequilibrium based pruning using the --indep-pairwise command in plink.
+0	NA	NA	NA	METHODS	SNP data were pruned after choosing an r2 cut-off at 0.5.
+0	NA	NA	NA	METHODS	SNP pruning was initiated using a window of 50 SNPs.
+0	NA	NA	NA	METHODS	Pairwise LD was then calculated and one SNP within each SNP pair characterised by high LD (r2>0.5) was excluded.
+0	NA	NA	NA	METHODS	This process was repeated while choosing smaller SNP windows of 5 SNPs at a time.
+0	NA	NA	NA	METHODS	Multi-dimensional scaling plots were then generated after generating clusters of related individuals based on pairwise IBS distances
+0	NA	NA	NA	METHODS	SNP quality control (QC) measures were implemented using Plink.
+0	NA	NA	NA	METHODS	Post-QC, transposed ped (tped) and tfam files were generated for further analysis.
+0	NA	NA	NA	METHODS	We used GenABEL in R.2.14.0 environment to perform survival analysis using Post-QC genome wide SNP data.
+0	NA	NA	NA	METHODS	Cox-proportional hazard models were implemented using the mlreg command in GenABEL .
+0	NA	NA	NA	METHODS	The mlreg command utilizes the survival package which is routinely used for survival analysis in R. ER status was the only covariate used in Cox models.
+0	breast cancer	NA	NA	METHODS	Follow-up time was calculated as the difference between the date of diagnosis of breast cancer and the date of death due to breast cancer or the date of last follow-up if still alive or deceased from a non-breast cancer cause (breast cancer specific survival).
+0	NA	NA	NA	METHODS	The mean difference in time between age at diagnosis and age at registration was 0.78 years (SD=1.16 years).Kaplan Meier plots were generated using STATA v11.0 and IBM SPSS statistics 19.
+0	NA	NA	NA	METHODS	Mantel Haenszel Fixed effects meta-analysis was performed using the metan module in STATA v11.0.
+0	NA	NA	NA	METHODS	Genome wide meta-analysis was performed using MetABEL
+0	NA	POSH	NA	METHODS	Imputation of the POSH GWAS data set was performed using MACH 1.0 based on SNP genotype and haplotype phase data specific for CEU population available from HapMap phase 2 project.
+0	NA	NA	NA	METHODS	Imputed genotypes were analysed using ProABEL.
+0	NA	NA	NA	METHODS	A posterior probability of 0.9 was used to output imputed genotypes.
+0	NA	NA	NA	METHODS	QC- measures for imputation data included excluding SNPs based on a minor allele frequency (MAF) cut-off of 0.01, genotyping call rate <95% and Hardy-Weinberg equilibrium p-value<0.0001
+0	NA	NA	NA	METHODS	Manhattan and QQ-plots were generated in R using the plot command.
+0	NA	NA	NA	METHODS	Regional plots were generated using LocusZoom
+0	NA	NA	NA	METHODS	Sample size calculations were performed in R.2.14.2 using survSNP package
+0	NA	NA	NA	METHODS	We used Genevar 3.2.0 to study variation in expression levels by SNP genotypes available from the MuTHER pilot project while using NCBI Build 36 /Ensembl 54 as.
+0	NA	NA	NA	METHODS	Twin pairs were divided into two groups of unrelated individuals.
+0	NA	NA	NA	METHODS	Expression data from Lymphoblastoid cell lines are reported here
+0	NA	NA	NA	METHODS	The putative changes on transcription factor binding sites caused by the variants were predicted in silico with SNPInspector within Genomatix software suite v2.5 (Genomatix Software GmbH).
+0	NA	NA	NA	METHODS	SNPInspector analysis is based on MatInspector
+0	NA	NA	NA	RESULTS	Clinical characteristics of stage-1 and stage-2 participants are summarised in Table 1.
+0	NA	NA	NA	RESULTS	Following QC we had SNP genotype data available for 487496 SNPs in stage-1.
+0	NA	NA	NA	RESULTS	We had 79% power to detect a hazard ratio (HR) >=1.50 when studying a SNP with minor allele frequency (maf>=0.10).
+0	NA	NA	NA	RESULTS	In survival analysis models no associations were observed to survive a Bonferroni correction and reach a p-value<=10-7.
+0	NA	NA	NA	RESULTS	Eight SNPs among the top 50 SNPs achieved a p-values <7.0 x 10-6
+0	NA	NA	NA	RESULTS	41 of the remaining 42 SNPs achieved p-values at10-5.
+0	NA	NA	NA	RESULTS	At the loci on which multiple SNPs were found to be strongly associated with survival we selected the lead SNP for follow-up in stage-2 along with any other SNP(s) from the same locus which were not in high LD with the lead SNP (r2<0.6).
+0	NA	NA	NA	RESULTS	Using this strategy we selected 35 of the best 50 associated SNPs (Supplementary Table 1) for genotyping in the stage-2 validation samples.
+0	NA	NA	NA	RESULTS	The qq-plot demonstrated deviation of observed log transformed values from the expected log transformed p-values for SNPs associated with p-values ranging from 10-4 to 10-5 (Figure 1)
+0	NA	NA	NA	RESULTS	27 of the 35 SNPs included in the stage-2 genotyping were successfully genotyped and were available for analysis.
+0	NA	NA	NA	RESULTS	1 SNP had greater than 10% duplicate error rate and was excluded from replication analysis.
+0	NA	NA	NA	RESULTS	We had 70% power to detect a HR (hazard ratio) >= 1.50 in stage 2 analysis.
+0	NA	NA	NA	RESULTS	While testing for replication effects of the 27 SNPs, we found 11 SNPs at distinct loci which were associated with prognosis in the same direction as in the stage-1 analysis (Table 2).
+0	NA	NA	NA	RESULTS	Replication p-values for these 11 SNPs ranged from 0.05 to 0.005
+0	NA	NA	NA	RESULTS	We included the eleven SNPs which remained associated in stage-2 based on consistent direction of effect, in Mantel-Haenszel fixed-effects meta-analysis models (Table-2).
+1	NA	ARRDC3	rs421379	RESULTS	The strongest meta-analysis HR was observed at the rs421379 SNP which lies upstream of the ARRDC3 gene (Figure 2, Figure 3) on the long arm of chromosome 5, HR=1.61 (1.33-1.96, p=9.5 x 10- 7).
+0	NA	NA	NA	RESULTS	Adjusting for ER-status, N-stage and M-stage slightly reduced the strength of the overall association at this SNP in combined analysis across stage-1 and stage-2 (HR=1.55 (1.27-1.90, p=1.5 x 10-5)).
+1	Leukemia	PBX1	NA	RESULTS	The next best replication signal was observed in an intronic region of the PBX1 (Pre-B-Cell Leukaemia transcription factor-1) gene.
+0	NA	NA	rs421379	RESULTS	The replication p-value for this intronic SNP was second most significant after rs421379 in the two stage meta-analysis, and the overall association at this variant was close to being genome wide significant, HR=1.28 (1.16-1.43, p=3.8 x 10-6).
+0	NA	NA	NA	RESULTS	Adjusting for ER-status, N-stage and M-stage did not affect the strength of the association at this variant (HR=1.26 (1.13-1.41, p=3.9 x 10-5)).
+0	NA	NA	NA	RESULTS	The above two variants displayed the lowest levels of heterogeneity in meta-analysis.
+1	NA	RORalpha	rs3884558	RESULTS	The association observed with a 5'UTR snp at the RORalpha locus (rs3884558) was also close to the threshold for genome wide significance HR=1.46 (1.24-1.72, p=3.9 x 10-6), although there was modest evidence of heterogeneity in Hazard ratios between stage-1 and stage-2 models (Table 2).
+1	NA	NTN1	rs3785982	RESULTS	Two further associations rs3785982 in the NTN1 gene (HR=1.40 (1.21-1.62, p=7.9 x 10-6) and rs2774307 in the SYT6 gene (HR=1.30 (1.16-1.47, p=7.9 x 10-6)) also came close to genome wide significance.
+0	NA	POSH	NA	RESULTS	For the five SNPs associated at p<=10-6, we did not observe any eveidence of heterogeneity of effects on survival based on triple negative status of the POSH patients.
+0	NA	NA	NA	RESULTS	The heterogeneity I2-statistic for these 5 SNPs ranged from 0-20.6%
+0	NA	NA	NA	RESULTS	We had 87% power to detect a hazard ratio >=1.50 when analysing SNPs with Maf>=0.10 in 874 patients available from the Helsinki study.
+0	NA	NA	NA	RESULTS	We extracted genotypes from the GWS genotype data of the Helsinki samples for 11 of the 35 SNPs which were associated in the same direction in stage-2 as in stage-1 analysis.
+0	NA	POSH	NA	RESULTS	Helsinki patients belonged to a relatively higher age group at diagnosis when compared to POSH (Average at diagnosis=56.8, SD=12.4).
+0	NA	NA	NA	RESULTS	We found that none of the 11 SNPs which were replicated as associated with prognosis in stage-2 were associated with the same outcome in patients with later onset from Helsinki
+0	NA	NA	NA	RESULTS	We imputed SNP genotypes for 2.5 million SNPs based on HapMap Phase 2 data.
+1	NA	NTN1	rs421379	RESULTS	Imputation analysis did not identify any additional variants which were more strongly associated than the ones we found as most strongly associated using real genotype data 250 kb either side of rs421379, rs3884558 (5'UTR-RORalpha), rs3785982 (NTN1), rs2774307 (SYT6) and rs1387389 (PBX1) (Figure 2 and Supplementary Figures 2-5)
+0	breast cancer	NA	NA	RESULTS	We assessed the associations of all SNPs which were associated at p-value<=10-6 with clinical predictors of breast cancer prognosis.
+0	NA	NA	NA	RESULTS	There were five SNPs which were associated at p-value<=10-6, none of these SNPs were associated with ER-status, N-stage or M-stage after performing a Bonferroni correction for number of tests performed (Table 3)
+0	NA	NA	rs421379	RESULTS	We queried the Genevar 3.2.0 and SNP and CNV annotation database (scandb) to identify Cis or Trans eQTL effects resulting from rs421379.
+1	NA	ARRDC3	rs421379	RESULTS	In 156 Lymphoblastoid cell lines sample collected from 78 twin pairs available via the Java based Genevar interface we did not observe an association of rs421379 with expression of ARRDC3 gene (Figure 4).
+0	NA	RAB34	rs421379	RESULTS	In scandb we observed that rs421379 had trans eQTL effects on expression of RAB34 (p=1x 10-5) and ABCD1 (p=9 x 10-5), but neither of these associations were genome wide significant which could be a result of low sample size available with 30 HapMap-CEU trios available from scandb
+0	breast cancer	HER2	NA	DISCUSS	In this manuscript we have reported findings from the first genome wide association study of breast cancer prognosis in early onset breast cancer patients and enriched for poor survival and ER, PR and HER-2 negative cases in discovery stage.
+0	breast cancer	NA	NA	DISCUSS	Recently two GWASs aimed at identifying risk alleles for poor prognosis were performed in unselected breast cancer patients of Chinese and European ancestries.
+0	NA	NA	NA	DISCUSS	Azzato et al in their GWAS conducted in 4335 Caucasian breast cancer patients with mean age at diagnosis of 66 years (95% CI=44-83) did not replicate any of their main findings in a large relatively younger cohort of breast cancer patients (Mean age=51 (95% CI=23-69).
+0	NA	NA	NA	DISCUSS	Azzato et al had taken forward 10 of their most significant findings forward for replication in the SEARCH study.
+0	NA	NA	rs3784099	DISCUSS	On the contrary Shu et al, attempted replication of their top 50 associations in their two stage GWAS in Chinese patients and identified two associations with p-values equal to 1.17 x 10-7 (rs3784099, RAD15L) and 5.75 x 10-6 (rs9934948).
+0	NA	NA	rs3784099	DISCUSS	We did not find either of these two SNPs (rs3784099, p=0.61 and rs9934948, p=0.25) as associated with prognosis in the stage-1 data used for discovery in this GWAS nor in the Helsinki GWS data
+0	NA	NA	NA	DISCUSS	In our study we attempted replication of 50 of the strongest association signals from stage-1 by selecting the strongest associated SNPs at each of the new discovered loci while excluding any other SNPs which were in relative LD with the best associated SNP at the same locus r2>=0.6.
+0	NA	NA	NA	DISCUSS	Of the 35 SNPs which were selected from stage-1 for validation in stage-2, 27 SNPs were successfully genotyped in stage-2 and we found 11 of these SNPs to demonstrate nominal to strong replication signals (p-values range: 0.05-5 x 10-3).
+0	NA	NA	NA	DISCUSS	Such a high replication rate (40.7%) suggests low phenotypic heterogeneity in samples collected between stage-1 and stage-2.
+0	breast cancer	NA	NA	DISCUSS	Large cohorts of young onset patients with comprehensive treatment and outcome data are uncommon given that less than 5% of all breast cancers are diagnosed before 40 years of age.
+0	breast cancer	NA	NA	DISCUSS	We were able to enrich our stage-1 samples further with young onset triple negative patients and patients with very short duration of breast cancer specific survival.
+0	NA	NA	NA	DISCUSS	This allowed us increased statistical power to identify common genetic variants with modest effect sizes (OR>=1.50) in stage-1 data.
+0	NA	NA	NA	DISCUSS	Despite having a more enriched stage-1 dataset, we did not have sufficient power (<80%) to detect association signals associated with HRs in range of 1.10 to 1.45 in our discovery samples.
+0	NA	NA	NA	DISCUSS	Future studies in larger early onset cohorts are therefore needed to identify true associations with lower effect sizes than HR>=1.50
+1	NA	ARRDC3	NA	DISCUSS	The strongest association signal in our study was observed 596 kb upstream of the ARRDC3 gene.
+1	NA	ARRDC3	rs421379	DISCUSS	In HapMap we did not find any long range LD between rs421379 and any SNPs at or close to the ARRDC3 locus.
+1	aggressive disease	ARRDC3	NA	DISCUSS	The ARRDC3 gene is a member of the arrestin gene family and functions in a novel regulatory pathway that controls the cell surface adhesion molecule, b-4 integrin (ITGb4), a protein associated with aggressive tumour behaviour.
+1	breast cancer	ARRDC3	NA	DISCUSS	Furthermore deletion of the region of chromosome 5 containing the ARRDC3 gene is observed more frequently in basal type breast cancer cancers.
+0	Breast and prostate cancer	NA	NA	DISCUSS	Differential expression levels have also been associated with prognosis in prostate cancer patients.
+1	invasive tumour	ARRDC3	rs421379	DISCUSS	The associated SNP rs421379 is located in the 5' region of the ARRDC3 gene and might affect a transcription binding site and ARRDC3 gene expression, permitting development of a more aggressive, invasive tumour.
+0	NA	Myocyte-specific enhancer factor 2	rs421379	DISCUSS	The associated SNP rs421379 was predicted to disrupt a binding site for Myocyte-specific enhancer factor 2 (MEF2).
+1	NA	Myocyte-specific enhancer factor 2	NA	DISCUSS	This transcription factor family consists of four members (MEF2A-D) sharing the binding sequence and MEF2 could regulate ARRDC3 gene expression.
+0	breast cancer	MEF2C	NA	DISCUSS	Previously, MEF2C has been found to be highly expressed in basal breast cancer along with Notch.
+0	cancers	Notch1	NA	DISCUSS	Later a strong co-expression of Notch1 and MEF2 paralogs has been observed in breast cancer tumour samples from patients with metastatic disease
+1	NA	ARRDC3	rs421379	DISCUSS	We did not find a robust association signal between rs421379 and the probe representing variation in ARRDC3 expression (Figure 4).
+0	NA	RAB34	rs421379	DISCUSS	In the SNP and CNV annotation database (scandb), rs421379 is identified to have trans-effects on expression of RAB34 (p=1x 10-5) and ABCD1 (p=9 x 10-5) genes present on chromosomes 17 and X respectively.
+0	breast cancer	NA	rs421379	DISCUSS	It should be noted that the association analysis in Genevar 3.2.0 and scandb analysis is based on 154 twins and the 30 HapMap CEU trios respectively as such the statistical power to detect modest effects on gene expression was not high and further given that the gene expression is quantified in lymphoblastoid cell lines these results are not reflective of potential cis-effect of rs421379 in breast cancer related cells
+1	NA	PBX1	NA	DISCUSS	The second strongest association we observed was at the PBX1 locus (HR=1.28 (1.16-1.43), p=3.8 x 10-6).
+0	breast cancer	ER	NA	DISCUSS	The protein coded by this gene drives ERalpha signalling and breast cancer progression through transcriptional programming.
+1	NA	PBX1	NA	DISCUSS	There was no evidence of substantial heterogeneity in hazard ratios across stage-1 and stage-2 for the SNP associated at the PBX1 locus (Table 2).
+1	NA	PBX1	NA	DISCUSS	11 SNPs according to HapMap Phase 3 data are in high LD (r2>0.8) with the PBX1 SNP we found as strongly associated and all these SNPs were found to be intronic within the PBX1 locus.
+1	NA	RORalpha	NA	DISCUSS	We also observed strong suggestive evidence for an association at the RORalpha gene (HR=1.46 (1.24-1.72), p=3.9 x 10-6).
+1	breast cancer	RORalpha	NA	DISCUSS	It has recently been shown that RORalpha protein expression is reduced in breast cancer cells and also this lower expression is related to poorer prognosis in breast cancer patients.
+1	NA	RORalpha	rs3884558	DISCUSS	There was some evidence of heterogeneity in hazard ratios between stage-1 and stage-2 patients for the rs3884558 which lies 78.3 kb upstream of the RORalpha gene (p=0.04).
+1	NA	RORalpha	rs3884558	DISCUSS	Although there were no SNPs in high LD (r2>=0.8) 2.4 kb beyond rs3884558, SNPs in moderately LD (r2=0.3) are located up to 95.7 kb away from rs3884558 and close to the RORalpha gene.
+0	NA	NA	rs3884558	DISCUSS	The SNP rs3884558 was predicted to both disrupt and create multiple transcription factor binding sites.
+0	NA	POU2F1	NA	DISCUSS	The binding site was predicted to be lost for transcription factors POU2F1, TGIF1, HMGA1/2 and CDX2 and new binding site was predicted to emerge for REV-ERBalpha, CREB1/2, HMGA1, VBP1 and E4F1.
+1	NA	hormone receptor	NA	DISCUSS	Interestingly REV-ERBalpha belongs to the same nuclear hormone receptor family as does RORalpha.
+1	NA	RORalpha	NA	DISCUSS	Moreover these family members are known to cross-talk and REV-ERBalpha has been shown to suppress the transcriptional activity of RORalpha
+1	breast cancer	NTN1	NA	DISCUSS	The two other associations at NTN1 and SYT6 could also be real given NTN1 expression is increased in breast cancer and the replication signal at SYT6 remained strong in post replication meta-analysis (HR=1.30 (1.16-1.47), p=7.9 x 10-6) with no strong evidence of heterogeneity in hazard ratios with the associated variant
+0	NA	NA	NA	DISCUSS	Further studies at population level are needed to confirm the association of the 5 loci associated at p<=10-6 that we have discovered from this two stage GWAS analysis.
+0	breast cancer	NA	NA	DISCUSS	In future analyses we will study the most strongly associated SNPs from the current study by interrogating additional well characterised and early onset breast cancer cohorts.
+0	NA	NA	NA	DISCUSS	This will allow us to generate more accurate estimates of gene-survival associations and also allow the implementation of prediction statistics generated using gene score analysis.
+0	NA	NA	NA	DISCUSS	In addition, further studies are needed to establish beyond doubt the true validity of the remaining SNPs that replicated strongly but were not quite genome wide significant.
+1	NA	PBX1	NA	DISCUSS	Published results from biochemical analyses do suggest PBX1, RORalpha and NTN1 are plausible candidate loci for an effect exerted by the host genotype in altering prognosis.
+1	NA	ARRDC3	NA	DISCUSS	Fine mapping and molecular studies are needed to establish the identity of the causal variant in the intragenic region, 596 kb upstream of ARRDC3 gene.
+0	NA	NA	NA	DISCUSS	and provide insight into the mechanism of action.
+0	cancers	NA	NA	DISCUSS	Much emphasis currently is on genotyping of somatic mutations in tumours to help refine prognosis and identify treatment targets but this is only a part of the information that influences prognosis.
+0	breast cancer	NA	NA	DISCUSS	Selecting a well characterised poor prognosis group of patients with high breast cancer specific mortality has been a useful strategy to identifying SNPs that influence prognosis.
+0	NA	NA	NA	DISCUSS	The ultimate validation of the clinical utility for germ-line genetic variants that influence prognosis will come from genotyping in randomised adjuvant and neo-adjuvant treatment trials.
+0	cancers	NA	NA	DISCUSS	With a clear understanding of the magnitude and mechanism of prognostic SNPs, such genotyping may in future be routinely used in cancer patients to help derive a more complete individualised risk assessment for early relapse and thereby guide treatment choices
+0	NA	NA	NA	FIG	A quantile-quantile (qq plot) of log-transformed observed and expected P-values from the stage-1 analysis
+0	NA	NA	rs421379	FIG	Regional plot of p-values arising from cox-proportional hazard models, 250 kb either side of the rs421379 variant in stage-1.
+0	NA	NA	NA	FIG	P-values are from imputed and the genotyped SNPs
+0	NA	NA	rs421379	FIG	Kaplan Meier analysis plot depicting survival rates by rs421379 genotypes
+1	NA	ARRDC3	rs421379	FIG	Variation in ARRDC3 expression levels with rs421379 variant.
+0	NA	NA	NA	FIG	Results are reported from twins from the same pair who were separated by id in two samples named Twin1-L and Twin2-L, which were analysed independently.
+0	NA	Pemp	NA	FIG	Rho is the spearman rank correlation (SRC) coefficient, p-value is for SRC and Pemp is the empirical p-value for SRC based on 10,000 permutations
+0	NA	NA	NA	TABLE	Stage Wise association statistics for the eleven SNPs which were associated in stage-2 following discovery in stage-1 analysis
+0	breast cancer	NA	NA	TABLE	Associations of SNPs associated at p<=10-6 in the two stage meta-analysis with secondary traits linked to breast cancer mortality in stage 1 and stage 2 combined dataset

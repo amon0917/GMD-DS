@@ -1,0 +1,203 @@
+0	Alzheimer's disease	CLU	NA	ABSTRACT	Recent GWAS studies focused on uncovering novel genetic loci related to AD have revealed associations with variants near CLU, CR1, PICALM and BIN1.
+0	NA	NA	NA	ABSTRACT	In this study, we conducted a genome-wide association study in an independent set of 1034 cases and 1186 controls using the Illumina genotyping platforms.
+0	NA	PICALM	rs3851179	ABSTRACT	By coupling our data with available GWAS datasets from the ADNI and GenADA, we replicated the original associations in both PICALM (rs3851179) and CR1 (rs3818361).
+0	NA	PICALM	NA	ABSTRACT	The PICALM variant seems to be non-significant after we adjusted for APOE e4 status.
+0	NA	NA	NA	ABSTRACT	We further tested our top markers in 751 independent cases and 751 matched controls.
+1	NA	apolipoprotein E	rs12989701	ABSTRACT	Besides the markers close to the APOE locus, a marker (rs12989701) upstream of BIN1 locus was replicated and the combined analysis reached genome-wide significance level (p = 5E-08).
+0	NA	NA	NA	ABSTRACT	We combined our data with the published Harold et al.
+1	NA	BIN1	rs12989701	ABSTRACT	study and meta-analysis with all available 6521 cases and 10360 controls at the BIN1 locus revealed two significant variants (rs12989701, p = 1.32E-10 and rs744373, p = 3.16E-10) in limited linkage disequilibrium (r2 = 0.05) with each other.
+0	NA	NA	NA	ABSTRACT	The independent contribution of both SNPs was supported by haplotype conditional analysis.
+0	NA	NA	NA	ABSTRACT	We also conducted multivariate analysis in canonical pathways and identified a consistent signal in the downstream pathways targeted by Gleevec (P = 0.004 in Pfizer; P = 0.028 in ADNI and P = 0.04 in GenADA).
+0	Alzheimer's disease	CLU	NA	ABSTRACT	We further tested variants in CLU, PICALM, BIN1 and CR1 for association with disease progression in 597 AD patients where longitudinal cognitive measures are sufficient.
+0	cognitive defects	PICALM	NA	ABSTRACT	Both the PICALM and CLU variants showed nominal significant association with cognitive decline as measured by change in Clinical Dementia Rating-sum of boxes (CDR-SB) score from the baseline but did not pass multiple-test correction.
+0	Alzheimer's disease	NA	NA	ABSTRACT	Future experiments will help us better understand potential roles of these genetic loci in AD pathology
+0	Alzheimer's disease	NA	NA	INTRO	Alzheimer's disease (AD) is a neurodegenerative disease clinically characterized by memory impairment and pathologically characterized by the formation of amyloid plaques and neurofibrillary tangles in the brain.
+0	Alzheimer's disease	NA	NA	INTRO	Less than 5% of AD patients can be categorized as early-onset disease (diagnosis before age 65).
+0	NA	beta-amyloid (Abeta)	NA	INTRO	The cause for this subset of disease has been linked to gene mutations in amyloid precursor protein (APP), presenilin 1 (PSEN1), presenilin 2 (PSEN2) (reviewed in) and duplications of APP .
+0	Alzheimer's disease	NA	NA	INTRO	The major form of AD, late-onset AD (LOAD), also has a strong genetic component.
+0	NA	NA	NA	INTRO	Large twin studies have estimated LOAD heritability ranging from 60 to 80 percent.
+0	NA	apolipoprotein E	NA	INTRO	APOE is the primary genetic risk factor in LOAD
+0	Alzheimer's disease	NA	NA	INTRO	The APOE E4 variant does not account for all cases of AD.
+0	Alzheimer's disease	NA	NA	INTRO	It is present in less than 50% in European AD cases and occurs even less frequently in African, Asian and Hispanic AD populations.
+0	NA	apolipoprotein E	NA	INTRO	Identification of additional genetic variants apart from APOE has been challenging due in part to the smaller effect sizes of these variants.
+0	NA	NA	NA	INTRO	"Genome-wide association studies provide an unbiased approach to test the ""common variants common disease"" hypothesis."
+0	NA	GAB2	NA	INTRO	Previous GWAS studies revealed promising candidates such as GAB2  and PCDH11X  but few have been independently replicated.
+0	NA	CLU	NA	INTRO	Two recent large studies presented compelling genetic evidence for a common variant at the CLU locus to play a role in disease susceptibility.
+0	NA	PICALM	NA	INTRO	Each study discovered an additional locus near PICALM or CR1 reached genome-wide significance level.
+0	NA	NA	NA	INTRO	In this study, we conducted a GWAS scan in 1034 cases and 1186 controls mostly collected from Pfizer clinical trials.
+0	Alzheimer's disease	NA	NA	INTRO	We first examined genetic markers associated with disease susceptibility for late-onset AD by combining available GWAS data from Pfizer, Alzheimer's Disease NeuroImaging Initiative (ADNI) and Genotype-Phenotype Alzheimer's disease Associations (GenADA).
+0	NA	NA	NA	INTRO	The top variants were further tested in an independent data set (751 cases and 751 controls).
+0	NA	NA	NA	INTRO	A pathway analysis was conducted to take into account the joint effects of multiple variants to complement the single variant analysis for disease susceptibility.
+0	Alzheimer's disease	NA	NA	INTRO	We also investigated the association of the validated variants with disease progression in AD patients where longitudinal cognitive data are available
+0	Alzheimer's disease	NA	NA	RESULTS	To identify common genetic markers involved in AD susceptibility and progression, we first conducted a genome-wide association study in 1034 cases and 1186 controls (the re-matched analyzed set included 733 LOAD cases and 792 controls).
+0	Alzheimer's disease	NA	NA	RESULTS	To this initial data set, we added available genome-wide individual data from ADNI and GenADA to increase the statistical power (a total of 1831 AD cases and 1764 controls).
+0	NA	NA	NA	RESULTS	All genotyping data were subjected to a strict quality control process including call rates, Hardy-Weinberg equilibrium (HWE) test, sample heterogeneity, gender check (samples with mismatched gender information from the genotype data and the reported gender information from the clinical database were removed from the analysis) and population stratification (only Caucasians were included in the analysis set).
+0	NA	NA	NA	RESULTS	Since limited number of markers are shared between Affymetrix 550 K (GenADA) and Illumina HumanHap 550/610 platforms (Pfizer and ADNI), we imputed the GenADA data set to the non-singleton HapMap SNPs based on the HapMap III reference haplotypes in unrelated Caucasian individuals.
+0	NA	NA	NA	RESULTS	Poorly imputed SNPs (r2 less than 0.3 or minor allele frequency less than 1%) were removed before any further analysis
+0	Alzheimer's disease	NA	NA	RESULTS	We examined association of single nucleotide polymorphisms with AD disease status (chi2 allelic test) in each cleaned case/control sample set using PLINK (all summary statistics data associated with the Pfizer data set are listed in Table S1).
+0	NA	NA	NA	RESULTS	No significant population stratification is present in any data set.
+0	NA	NA	NA	RESULTS	The estimated inflation factor lambda, as a measure of population stratification, is 1.04, 1.02 and 1.00 in the Pfizer, ADNI and imputed GenADA sample sets respectively.
+0	NA	NA	NA	RESULTS	We combined evidences from three cohorts using weighted z-score statistics.
+0	NA	apolipoprotein E	NA	RESULTS	In addition to markers adjacent to the APOE locus, meta-analysis revealed a number of distinct loci with suggestive association signals with p values less than 1x10-6 (Table 1).
+0	NA	CR1	rs3818361	RESULTS	Furthermore, we replicated previously reported associations in CR1 (rs3818361, P = 0.001, OR = 1.22) and PICALM (rs3851179, p = 0.006, OR = 0.87) loci.
+0	NA	NA	NA	RESULTS	The direction of effect for both variants is consistent across each individual sample set (Table 2).
+0	NA	PICALM	NA	RESULTS	In addition, the effect of the PICALM variant appears to be confounded by the APOE alleles despite this variant is located at a different chromosome.
+0	NA	apolipoprotein E	NA	RESULTS	The variant is no longer significant after we adjust for APOE e4 status in the analysis (p = 0.26).
+0	NA	CLU	rs11136000	RESULTS	The distribution of the CLU allele (rs11136000) is not significantly different in cases and controls.
+0	NA	NA	NA	RESULTS	However, odds ratios for this variant appear to be consistent with the previous studies and close to be significant in the Pfizer sample set (P = 0.068, OR = 0.87)
+0	NA	NA	NA	RESULTS	We tested the top variants from our GWAS discovery sample set (p<10-6) in an independent Genizon set of 751 cases and 751 controls from the Quebec Founder Population (QFP).
+1	NA	apolipoprotein E	rs12989701	RESULTS	Besides SNPs adjacent to the APOE locus, we only replicated the SNP (rs12989701) at the BIN1 locus (p = 0.00216, OR = 1.34).
+0	NA	NA	NA	RESULTS	The SNP reached genome-wide significance level in the combined set (Figure 1).
+0	NA	BIN1	NA	RESULTS	We further tested all markers in this region (approximately 500 Kb regions upstream and downstream of BIN1) in QFP and combined all available samples/data (Pfizer, ADNI, GenADA, the replication Genizon samples and the published Harold data set) to fine-map this locus.
+0	NA	BIN1	NA	RESULTS	BIN1 resides across multiple linkage disequilibrium blocks in which linkage disequilibrium (LD) within the block is generally higher than the one between the blocks (Figure 2B).
+0	NA	BIN1	NA	RESULTS	Three strongly associated markers are all located upstream of BIN1 although other SNPs in high LD with them could extend into the gene region (Figure 2A and unpublished data).
+0	NA	BIN1	NA	RESULTS	Limited LD between these markers and markers located in adjacent genes suggests that this association signal is likely to be more closely related to BIN1 although the effect could still due to some long-range haplotypes extending further in the region.
+1	NA	NA	rs744373	RESULTS	Interestingly, rs744373 and rs7561528 are in strong LD (r2 = 0.745) while the LD between rs744373 and rs12989701 is quite low (r2 = 0.05) suggesting independent contributions to disease susceptibility.
+0	NA	NA	NA	RESULTS	Both SNPs passed genome-wide significance level in the combined meta-analysis (Table 3)
+0	NA	NA	NA	FIG	 a) Pfizer, ADNI, GenADA; b) plus top marker results in the QFP replication set.
+0	NA	NA	NA	FIG	The line indicates genome wide significance level.
+0	NA	apolipoprotein E	NA	FIG	Top markers at the APOE locus were removed in the plots to improve resolution for the other markers
+0	NA	BIN1	NA	FIG	A) Meta-analysis for all sample sets (including Pfizer, ADNI, GenADA, Harold and QFP) at the chr2 region (500 kb upstream and downstream of BIN1).
+1	NA	NA	rs744373	FIG	SNPs rs744373, rs12989701 and rs7561528 are all strongly associated with disease status below the genome-wide significance level.
+0	NA	NA	NA	FIG	B) Pairwise LD structure (r2) calculated in Haploview using HapMap genotype data (phase III) in 60 unrelated CEPH samples (gene structures were shown using the UCSC genome browser for the hg18 assembly).
+1	NA	NA	rs744373	FIG	While rs744373 and rs7561528 are in strong LD, limited LD exists between rs12989701 and rs744373 (r2 = 0.01 in HapMap samples and r2 = 0.05 in Pfizer data set)
+1	Alzheimer's disease	NA	rs12989701	RESULTS	We conducted haplotype conditional analysis in our discovery data set (1831 AD cases and 1764 controls) to investigate whether the effect of rs12989701 is indeed independent of the previously identified rs744373.
+1	Alzheimer's disease	NA	rs12989701	RESULTS	Distributions of rs12989701 alleles are still significantly different between AD cases and controls even after controlling for the rs744373 alleles (P = 0.002).
+1	NA	NA	rs744373	RESULTS	Similar results were observed for rs744373 (P = 0.0059) when controlling for rs12989701.
+0	NA	BIN1	NA	RESULTS	These results showed that the BIN1 locus contains multiple variants with conditionally independent associations with disease status
+0	NA	NA	NA	RESULTS	Our initial analysis for disease susceptibility focused on individual SNPs without considering any potential interactions of multiple variants.
+0	NA	NA	NA	RESULTS	The number of potential SNP combinations, however, increases exponentially and becomes impractical for our current GWAS sample size.
+0	NA	NA	NA	RESULTS	We hypothesized that multiple variants in genes in the same pathway may jointly contribute to the association with disease status.
+0	NA	NA	NA	RESULTS	To test this hypothesis, we employed GenGen, adapted from a pathway analysis tool originally developed to analyze gene expression by adjusting for different gene sizes and the LD between SNPs.
+0	NA	NA	NA	RESULTS	We first tested all the pathways collected in BioCarta and the top pathway in the Pfizer sample set is the Gleevec pathway.
+0	NA	NA	NA	RESULTS	We further tested the top four pathways (family-wise error rate<0.45) identified from Pfizer set in two independent sample sets: ADNI and GenADA.
+0	NA	NA	NA	RESULTS	The Gleevec pathway appears to be significant in all sample sets (Table 4).
+0	NA	NA	NA	RESULTS	The DNA repair induced apoptosis pathway was also replicated in the GenADA data set (P = 0.04) but was not significant in the ADNI data set (Table 4)
+0	Alzheimer's disease	NA	NA	RESULTS	It is unknown if any of the recently identified disease loci define different progression profiles for AD patients.
+1	NA	CLU	rs11136000	RESULTS	We tested four genetic variants that achieved genome-wide significance in association with disease susceptibility (CLU = rs11136000, PICALM = rs3851179, CR1 = rs3818361, BIN1 = rs12989701) for their association with disease progression using CDR-sum of boxes (CDR-SB) measured up to 24 months (rs744373 was removed during the QC process for ADNI since its call rate was less than 99%).
+0	Alzheimer's disease	NA	NA	RESULTS	Progression analysis was done for 597 AD patients with sufficient CDR-SB data.
+0	NA	apolipoprotein E	NA	RESULTS	We used a linear repeated measure mixed model and adjusted for study, age, gender, baseline MMSE, baseline CDR and APOE e4 status.
+0	Alzheimer's disease	NA	NA	RESULTS	In AD, baseline MMSE (p<10-4) and study (p<0.008) are the only covariates with significant contributions to change of baseline CDR over time.
+0	NA	NA	NA	RESULTS	Note that these observations are consistent in all variants tested in our analysis.
+0	Alzheimer's disease	PICALM	rs3851179	RESULTS	Among the four markers tested in our data set, only one marker, PICALM (rs3851179) showed nominal significant genotype effects on the change in CDR-SB over time for AD subjects (p = 0.02, Bonferroni adjusted p = 0.08), with the TC genotype showing a greater increase than either the TT or CC genotype.
+0	NA	CLU	NA	RESULTS	The CLU variant showed nominal significant genotype and time interaction (p = 0.02) which would not survive multiple test correction.
+0	NA	NA	NA	RESULTS	The other variants are non-significant at the 0.05 level (Table 5)
+0	Alzheimer's disease	NA	NA	DISCUSS	Alzheimer's disease has a complex etiology involving interplays of multiple genetic and environmental factors.
+0	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	Despite earlier successes in gene mappings for familial early onset AD cases and identification of the APOE e4 variant for late onset AD cases, the majority of genetic risk involved in LOAD etiology remains largely unexplained.
+0	NA	NA	NA	DISCUSS	A few robust genetic loci have recently emerged from GWAS studies involving thousands of cases and controls.
+0	NA	NA	NA	DISCUSS	In this study, we conducted GWAS analysis in an additional 1034 AD/1186 Control subjects and combined this with available data sets to identify and replicate genetic loci related to late-onset AD susceptibility
+0	NA	CR1	NA	DISCUSS	We replicated associations with CR1 and PICALM variants in independent samples from the Harold and Lambert studies (Table 2).
+0	NA	PICALM	NA	DISCUSS	The PICALM variants may be confounded by the APOE effects as the association greatly attenuates when we adjust for APOE status.
+0	NA	CLU	NA	DISCUSS	Although we did not replicate the CLU variant at the 0.05 significance level, the OR for the variant appears to be consistent in our sample set and this is likely due to the lack of power in the study.
+0	Alzheimer's disease	CR1	NA	DISCUSS	The results support the CR1 locus as bone fide loci for AD etiology in Caucasians, consistent with the recent studies which replicated PICALM and CLU loci in independent studies.
+0	Parkinson's disease	SNCA	NA	DISCUSS	Different ethnic groups may share the same risk loci such as SNCA and LRRK2 for Parkinson's disease (PD) in Japanese and European cohorts while other loci may show population specificity (e.g.
+0	Parkinson's disease	tau	NA	DISCUSS	MAPT in PD).
+0	Alzheimer's disease	NA	NA	DISCUSS	Future association studies in other ethnic groups may facilitate our understandings of the similarities and differences in the newly identified genetic loci contributing to Alzheimer's disease
+0	Alzheimer's disease	beta-amyloid (Abeta)	NA	DISCUSS	Current disease-modifying strategies for AD therapy have focused on the production and clearance of the amyloid-beta peptide.
+0	NA	beta-amyloid (Abeta)	NA	DISCUSS	A solid line of evidence supports the production of amyloid-beta especially the Abeta42 isoform as a primary culprit for the onset of the disease.
+0	NA	NA	NA	DISCUSS	It was recently shown that the N-terminus of APP may trigger apoptosis.
+0	Alzheimer's disease	beta-amyloid (Abeta)	NA	DISCUSS	The ongoing clinical trials targeting amyloid-beta are designed to test the critical hypothesis that interference with the A-beta pathway is sufficient to improve cognitive function in AD patients.
+0	NA	NA	NA	DISCUSS	If the plaque formation induces injury that cannot be easily repaired by removal of the plaques, early intervention is required and additional therapeutic targets will be valuable.
+0	Alzheimer's disease	NA	NA	DISCUSS	New findings from the recent GWAS studies potentially nominate/support additional mechanisms and pathways for the treatment of sporadic late-onset AD patients.
+0	NA	CLU	NA	DISCUSS	The discovery of the CLU association underscores the importance of genes involved in lipid metabolism as both CLU and APOE are related to this process (For a recent review, see).
+0	Inflammation Laboratory's JDRF	apolipoprotein E	NA	DISCUSS	Although prevailing evidences suggest that APOE e4 is involved in amyloid-beta aggregation and clearance, we cannot rule out other mechanisms such as neuro-inflammation which is also supported by the newly emerged CR1 locus and CLU with a well-established role in inflammation.
+0	obese	NA	NA	DISCUSS	This is largely consistent with our knowledge from epidemiological studies which identified cardiovascular factors such as midlife high blood pressure, obesity and diabetes with increasing risk of AD while anti-inflammatory drugs seem to reduce risk of dementia.
+0	NA	NA	NA	DISCUSS	Note that all of the variants identified from the GWAS findings are in non-coding regions and the functional consequences of these variants remain largely unknown, thus follow-up sequencing studies and functional experiments will be required
+0	NA	BIN1	NA	DISCUSS	Our study further strengthened genetic evidences to support the BIN1 locus which was recently identified in an independent study.
+0	NA	NA	NA	DISCUSS	Both studies reached genome-wide significance level and there are no known overlaps between the sample sets.
+1	NA	NA	rs12989701	DISCUSS	Top SNP (rs12989701) in our study is very close to SNP rs744373 in the other study but they are poorly correlated (r2<0.05).
+0	NA	NA	NA	DISCUSS	Both SNPs are replicated in the other study at the 0.05 level but only one reached genome-wide significance level in each individual study.
+0	NA	NA	NA	DISCUSS	The potential independent contributions of both SNPs were supported by additional haplotype conditional analysis.
+1	NA	NA	rs12989701	DISCUSS	SNP rs12989701 is located at an evolutionarily conserved region, suggesting that it might be important for gene regulation.
+0	cancers	BIN1	NA	DISCUSS	BIN1 (Bridging Integrator 1) was initially identified as a tumor suppressor with a MYC-interacting domain, a SH3 domain and a BAR (Bin1 Amphiphysin RVS167) domain.
+0	autosomal recessive centronuclear myopathy	BIN1	NA	DISCUSS	Mutations in BIN1 were identified in multiple individuals with autosomal recessive centronuclear myopathy.
+0	NA	NA	NA	DISCUSS	It encodes several alternatively spliced isoforms including brain-specific isoforms.
+0	NA	BIN1	NA	DISCUSS	Several BIN1 isoforms have been shown to associate with dynamin mediated synaptic endocytosis process.
+0	Alzheimer's disease	PICALM	NA	DISCUSS	Interestingly, endocytosis is also related to PICALM, another gene strongly associated with AD.
+0	Alzheimer's disease	dynamin-1	NA	DISCUSS	The important role of dynamin mediated endocytosis process was supported by the observations that dynamin-1 levels were reduced in hippocampal neurons in the Tg2576 mouse model of AD.
+0	NA	BIN1	NA	DISCUSS	Amphiphysin 1 knock-out mice lacking BIN1 expression in the brain and demonstrated deficient endocytic protein scaffolds and synaptic vesicle recycling.
+0	NA	BIN1	NA	DISCUSS	Additional evidence from gene knock-outs in Drosophila, mice and yeast suggested that BIN1 may not be essential for endocytosis but may be important for vesicle trafficking.
+0	NA	BIN1	NA	DISCUSS	A recent paper demonstrates that BIN1 is a key component in endocytic endosome recycling in C. elegans  which suggests a potential role of BIN1 in endosome function.
+0	Alzheimer's disease	beta-amyloid (Abeta)	NA	DISCUSS	Endocytic process has been previously implicated in AD as APP, A-beta and ApoE proteins are all internalized through the endolysosomal trafficking pathway.
+0	NA	NA	NA	DISCUSS	These proteins were further sorted to endosomes.
+0	NA	BIN1	NA	DISCUSS	It will be interesting to further investigate the roles of BIN1 in endocytosis/trafficking and its potential contributions to synaptic function
+0	NA	NA	NA	DISCUSS	Most GWAS analysis focused on individual SNPs have a stringent threshold for significance that must be applied due to the number of tests conducted in the study.
+0	NA	NA	NA	DISCUSS	It is possible that multiple variants can jointly contribute to disease status.
+0	NA	NA	NA	DISCUSS	We therefore conducted pathway analysis which derived an enrichment score for all genes in a pathway and compared this with the distribution under null hypothesis based on random permutation.
+0	NA	NA	NA	DISCUSS	This analysis adjusts for differences in gene sizes and maintains the correlation structures among the SNPs.
+0	NA	NA	NA	DISCUSS	The apoptotic signal induced by DNA damage has an enriched distribution that significantly deviates from the null in both the Pfizer and GenADA sample sets.
+0	NA	NA	NA	DISCUSS	Interestingly, our unbiased scan based on pathways collected in Biocarta also indicated that the overall distribution for all the SNPs within the downstream genes targeted by Gleevec appears to be significantly different from the null distribution.
+0	NA	NA	NA	DISCUSS	Although none of the loci appear to be genome-wide significant, combinations of these SNPs provide evidence to support the involvement of the pathway.
+0	cancers	NA	NA	DISCUSS	Gleevec, a cancer drug approved for the treatment of chronic myeloid leukemia, was recently shown to reduce gamma-secretase cleavage for APP.
+0	NA	NA	NA	DISCUSS	One recent study suggests that Gleevec can bind to a gamma-secretase modulator.
+0	Alzheimer's disease	NA	NA	DISCUSS	Our results, if further validated, may provide additional insights about the potential mechanism of Gleevec in Alzheimer's disease
+0	Alzheimer's disease	NA	NA	DISCUSS	We examined the association of the robust disease susceptibility loci in 597 AD patients with sufficient longitudinal clinical data.
+0	Alzheimer's disease	apolipoprotein E	NA	DISCUSS	We observed that the e4 allele in APOE was not associated with progression in AD patients although it was shown to be significantly associated with a faster rate of progression in MCI patients in the previous study.
+0	Alzheimer's disease	PICALM	rs3851179	DISCUSS	AD patients with heterozygous genotype at the PICALM variant rs3851179 have a faster rate of progression compared with CC carriers.
+0	NA	NA	NA	DISCUSS	The rate of progression in the TT genotypes has a slight increase compared with CC carriers although far from statistical significance.
+0	NA	CLU	NA	DISCUSS	We also observed that the variant at CLU has a nominal significant interaction with time.
+0	NA	PICALM	NA	DISCUSS	All the effects from PICALM and CLU variants are independent of the known risk factors such as APOE e4 allele, age and baseline MMSE scores but do not pass multiple test correction so it likely still represents a false positive signal.
+0	Alzheimer's disease	NA	NA	DISCUSS	Our results indicated that the recently identified variants for AD susceptibility may have limited utility to predict disease progression in AD patients.
+0	NA	NA	NA	DISCUSS	Further unbiased GWAS studies using disease progression as endpoints may be fruitful if statistical power becomes sufficient.
+0	Alzheimer's disease	NA	NA	DISCUSS	Follow up deep sequencing studies and functional experiments for these genetic loci may increase our understanding of the disease mechanisms for AD
+0	Alzheimer's disease	NA	NA	METHODS	The Pfizer sample collection includes a total of 1034 cases and 1186 controls: 489 subjects from the Lipitor's Effect in Alzheimer's Dementia (LEADe) trial , 180 MCI subjects from the Vitamin E trial who have converted to AD during the course of the study, 216 probable AD subjects enrolled by PrecisionMed for case/control study and 149 subjects from clinical trial A3041005 which is a phase II trial investigating CP-457920 (a selective alpha5 GABAA receptor inverse agonist) in Alzheimer's disease.
+0	NA	NA	NA	METHODS	Samples were collected from multiple clinical sites, and the ethics committees with jurisdiction over these sites each gave approval for future research including that represented by the work in this paper.
+0	NA	NA	NA	METHODS	Written informed consent was given by the subjects for their information to be stored in the database and used for the research described in this paper.
+0	Alzheimer's disease	NA	NA	METHODS	All subjects were diagnosed with probable or possible AD if they met NINCDS and/or DSM-IV criteria and had mini-mental state examination (MMSE) scores below 25 at baseline.
+0	aggressive disease	NA	NA	METHODS	The control subjects included 234 subjects from PrecisionMed for case/control study, 883 subjects from A9010012 which is a method study to collect elderly subjects free of any neurological and psychiatric conditions, and 69 subjects from 999-GEN-0583-001 which is another method study to obtain DNA in a reference population of Caucasians defined as psychiatric and neurological normal.
+0	aggressive disease	NA	NA	METHODS	Controls have no neuropsychiatric diseases and their MMSE scores were above 27 at the time of enrollment.
+0	Alzheimer's disease	NA	NA	METHODS	For AD susceptibility analysis, we removed any potential early-onset AD cases (age of onset less than 65).
+0	NA	NA	NA	METHODS	All the controls were re-matched with the remaining cases according to gender, age (controls are older than the cases) and ethnicity (only Caucasians were selected in the analysis).
+0	Alzheimer's disease	NA	NA	METHODS	The final Pfizer GWAS analysis set for AD susceptibility contains 733 LOAD cases and 792 controls.
+0	Alzheimer's disease	NA	NA	METHODS	ADNI is a large three-year study with the primary objective of identifying biomarkers of Alzheimer's disease through multiple technology platforms including genetics and neuroimaging.
+0	NA	NA	NA	METHODS	Genotype data were generated from approximately 800 subjects through the Illumina 610Quad platform (http://www.loni.ucla.edu/ADNI/Data/).
+0	Alzheimer's disease	NA	NA	METHODS	300 AD subjects (including MCI subjects who had converted to AD) and 196 controls from ADNI were included in the analysis.
+0	NA	NA	NA	METHODS	Clinical information for these subjects was described previously.
+0	Alzheimer's disease	NA	NA	METHODS	The GenADA sample set contains 801 patients that met the NINCDS-ADRAD and DSM-IV criteria for probable AD and 776 control subjects with no history of dementia (http://www.ncbi.nlm.nih.gov/gap).
+0	Alzheimer's disease	NA	NA	METHODS	798 AD subjects from the GenADA collection were included in the analysis after completion of QC procedures.
+0	Alzheimer's disease	NA	NA	METHODS	In total, our GWAS discovery analysis set for AD susceptibility comprises of 1831 AD cases and 1764 controls from Pfizer, ADNI and GenADA.
+0	NA	NA	NA	METHODS	The ADNI and GenADA studies were selected based on their sample size and availability at the time of the study.
+0	Alzheimer's disease	NA	NA	METHODS	Among the 685 AD subjects who have longitudinal clinical data, 161 subjects from ADNI and 436 subjects from LEADe with sufficient CDR-SB data were included in the disease progression analysis
+0	NA	NA	NA	METHODS	1502 samples from the Quebec Founder Population (QFP) were included in the study as a replication set (case/control ratio = 1).
+0	Alzheimer's disease	NA	NA	METHODS	All Alzheimer's disease subjects were 65 years old or older and presented with probable AD based on DSM-IV criteria or definite AD as confirmed by neuropathology findings on autopsy.
+0	NA	NA	NA	METHODS	The controls were matched to the patients for gender.
+0	Alzheimer's disease	NA	NA	METHODS	The controls were 75 years and older and were absent of AD based on a Mini-Mental State Examination (MMSE) score test> = 26 (adjusted for age and education) and a Montreal Cognitive Assessment (MoCA) score test> = 26 (adjusted for education) at the time of recruitment
+0	NA	NA	NA	METHODS	All genomic DNA samples for Pfizer and Genizon were extracted from blood and quantified using Picogreen (Invitrogen Inc).
+0	NA	NA	NA	METHODS	The first batch of Pfizer samples (~300 cases from PrecisionMed/A3041005 and matched controls plus 489 cases from LEADe) were processed with the Illumina HumanHap550 array while all remaining samples were genotyped using the Illumina 610Quad array.
+0	NA	NA	NA	METHODS	All genotyping was performed at Genizon Biosciences Inc and genotype calls were generated after clustering all the data within each platform.
+0	NA	NA	NA	METHODS	Most of LEADe samples were processed on both 550 and 610 platforms and the genotype data concordance rates were greater than 99.99%.
+0	NA	NA	NA	METHODS	The ADNI genetic data set was downloaded from the ADNI web site and a similar initial QC process was performed at Pfizer (the final data set after QC includes 509376 markers in 719 subjects).
+0	NA	NA	NA	METHODS	The GenADA data was downloaded from dbGap and the data were imputed based on the reference haplotypes from Hapmap III using Mach.
+0	NA	NA	NA	METHODS	Genotype data from the Genizon samples were obtained from Illumina HumanHap 550 array
+0	NA	NA	NA	METHODS	Data cleaning and Quality control were performed with PLINK using the identical criteria for all Pfizer, ADNI and Genizon sample sets obtained from Illumina platforms.
+0	NA	MAF	NA	METHODS	SNPs with MAF <1% or more than 1% missing values were removed, as were samples with more than 1% missing values.
+0	NA	NA	NA	METHODS	Hardy-Weinberg equilibrium (HWE) was evaluated in the control population.
+0	NA	NA	NA	METHODS	SNPs that were out of HWE (-log (p)>5) were dropped.
+0	NA	NA	NA	METHODS	Sample sets were checked for genetic outliers and duplicated samples, which were removed.
+0	NA	NA	NA	METHODS	Only one of any group of samples that are strongly related (IBS distance <0.1) was kept.
+0	NA	NA	NA	METHODS	Reported gender was cross-checked with genetic gender to identify any possible sample identification errors.
+0	NA	NA	NA	METHODS	SNPs with an excess of heterozygosity were removed (Het Excess>0.1 and HWE p<0.01).
+0	MDS	NA	NA	METHODS	Caucasians were identified based on multi-dimensional scaling (MDS) of the data compare to the CEPH samples in the HapMap dataset.
+0	NA	NA	NA	METHODS	We adapted the QC procedure from the original GenADA set to accommodate the Affymetrix 550 k platform.
+0	NA	NA	NA	METHODS	We removed three additional subjects from the analysis set (subject ID 781, 6145 and 2803) who appear to be either admixture or more distant from the cluster formed by the other Caucasian subjects in the population stratification analysis
+0	NA	NA	NA	METHODS	GenADA genotype data (after QC) were imputed using Mach (http://www.sph.umich.edu/csg/abecasis/mach/,  ) based on reference haplotypes from HapMap III phased data (release 2).
+0	NA	NA	NA	METHODS	We performed two-step imputation as recommended for large scale studies: the first step to calibrate model parameters and the second step to impute actual genotypes.
+0	NA	NA	NA	METHODS	Variants with poor imputation quality scores (r2 less than 0.3) and minor allele frequency less than 1% were removed after imputation
+0	NA	NA	NA	METHODS	We performed case/control allelic chi-square tests in Pfizer, ADNI and GenADA sample set separately using PLINK (http://pngu.mgh.harvard.edu/purcell/plink/).
+0	NA	NA	NA	METHODS	We checked the alleles in the association files to ensure that they are consistent across all data sets.
+0	NA	NA	NA	METHODS	The inflation factor, lambda, was estimated by dividing the median chi-square values by 0.455 (the expected value under the null hypothesis) for each data set.
+0	NA	NA	NA	METHODS	The resulting p-values were combined across datasets using a weighted z-score approach.
+0	NA	NA	NA	METHODS	We calculated association test results from the published Harold study based on genotype counts in cases and controls from each individual cohort (US, UK and Germany).
+0	NA	NA	NA	METHODS	In the replication study, we analyzed additional genotype data for 104 markers from the Genizon samples.
+0	NA	BIN1	NA	METHODS	To refine the association signal at the BIN1 locus, we combined association test results from all studies (Pfizer, ADNI, GenADA, Harold US, Harold Germany, Harold UK, and QFP) across the 500 Kb regions upstream and downstream of BIN1 using the meta-analysis function in PLINK assuming a fixed effect model.
+0	NA	NA	NA	METHODS	To test whether SNPs in this region has contribution to disease susceptibility independent of each other, we performed conditional haplotype analysis using PLINK through comparing the alleles/haplotypes that have a similar haplotype background as defined by the SNP of interest
+0	NA	NA	NA	METHODS	Disease progression was characterized using the Clinical Dementia Rating-Sum of boxes (CDR-SB) score.
+0	Alzheimer's disease	NA	NA	METHODS	Longitudinal data were available for 685 AD patients but only 597 subjects with sufficient CDR-SD data up to 24 months are included in the analysis.
+0	NA	apolipoprotein E	NA	METHODS	The genotypic effect of a variant on the change over time in the CDR sum of boxes was assessed using a repeated measures mixed model, with covariates of baseline CDR sum of boxes, baseline MMSE, sex, age at baseline and APOE4 status, with genotype and the genotype*time interaction as the factors of primary interest.
+0	NA	NA	NA	METHODS	A main-effects model, without the genotype*time interaction, was also fit to the data.
+1	NA	CLU	rs11136000	METHODS	Progression effects were modeled for four SNPS: CLU = rs11136000, PICALM = rs3851179, CR1 = rs3818361, BIN1 = rs12989701.
+1	NA	BIN1	rs744373	METHODS	The other BIN1 variant rs744373 was not tested since it was removed from the ADNI data set during the QC process
+0	NA	NA	NA	METHODS	The current GWAS analysis is based on association tests in individual markers without considering the joint effects of multiple variants.
+0	NA	NA	NA	METHODS	We employed GenGen to test whether the distribution of statistics from a group of genes in each pathway from BioCarta (http://www.biocarta.com/) is consistently deviated from the null hypothesis from our sample sets.
+0	NA	NA	NA	METHODS	Pfizer, ADNI and GenADA dataset (before imputation) were used for this analysis.
+0	NA	NA	NA	METHODS	1000 permutations were conducted for each analysis

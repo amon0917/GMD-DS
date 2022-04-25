@@ -1,0 +1,141 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	We conducted a three-stage genetic study to identify susceptibility loci for type 2 diabetes (T2D) in East Asian populations.
+0	NA	NA	NA	ABSTRACT	The first stage meta-analysis of eight T2D genome-wide association studies (6,952 cases and 11,865 controls) was followed by a second stage in silico replication analysis (5,843 cases and 4,574 controls) and a stage 3 de novo replication analysis (12,284 cases and 13,172 controls).
+1	NA	GLIS3	NA	ABSTRACT	The combined analysis identified eight new T2D loci reaching genome-wide significance, which were mapped in or near GLIS3, PEPD, FITM2-R3HDML-HNF4A, KCNK16, MAEA, GCC1-PAX4, PSMD6 and ZFAND3.
+0	pancreatic	GLIS3	NA	ABSTRACT	GLIS3, involved in pancreatic beta cell development and insulin gene expression, is known for its association with fasting glucose levels.
+1	NA	PEPD	NA	ABSTRACT	The evidence of T2D association for PEPD and HNF4A has been detected in previous studies.
+1	insulin-treated diabetes	KCNK16	NA	ABSTRACT	KCNK16 may regulate glucose-dependent insulin secretion in the pancreas.
+0	NA	NA	NA	ABSTRACT	These findings derived from East Asians provide new perspectives on the etiology of T2D
+0	Type 2 diabetes	NA	NA	INTRO	Type 2 diabetes (T2D) is a major public health problem whose global prevalence is rapidly rising.
+0	obese	NA	NA	INTRO	The development of T2D is influenced by diverse factors, and decades of epidemiological studies have linked obesity, hypertension, and dyslipidemia with the risk of T2D.
+0	NA	NA	NA	INTRO	It is also known that T2D shows considerable heritability.
+0	NA	NA	NA	INTRO	Within only the last three years, genetic studies have yielded a rapidly lengthening list of loci harboring disease predisposing variations.
+0	NA	NA	NA	INTRO	To date, genetic variants at forty-five loci have been identified for T2D.
+0	NA	NA	NA	INTRO	Despite these advances toward a better understanding of the genetic basis of T2D, its heritability is yet to be fully explained.
+0	NA	KCNQ1	NA	INTRO	In addition, most T2D loci have been detected initially in population samples of European origin, apart from KCNQ1, UBE2E2, and C2CD4A-C2CD4B, which were first identified in East Asian studies.
+0	NA	SPRY2	NA	INTRO	Additional efforts involving East Asian populations have identified variants at the SPRY2, PTPRD and SRR loci.
+0	NA	NA	NA	INTRO	However, these have not been extensively replicated in multiple populations.
+0	NA	NA	NA	INTRO	A large meta-analysis in East Asians is expected to identify novel genetic associations and provide insights into T2D pathogenesis.
+0	NA	NA	NA	INTRO	In addition to differences in the allele frequencies between East Asians and Europeans, which may affect the power to detect associations, T2D epidemiology also differs considerably among different European populations and East Asian populations.
+0	diabetes	NA	NA	INTRO	In East Asians, the rates of diabetes are often higher at a lower average BMI's, suggesting that some different pathways may be involved in pathogenesis of T2D
+0	NA	NA	NA	INTRO	To discover new T2D loci, we conducted a three-stage association study in individuals of East Asian descent (Supplementary Fig.
+0	NA	NA	NA	INTRO	1).
+0	NA	NA	NA	INTRO	The stage 1 meta-analysis combining 8 T2D GWA studies participating in the Asian Genetic Epidemiology Network (AGEN) consortium (6,952 cases and 11,865 controls) was performed using association data for 2,626,356 imputed and genotyped autosomal SNPs by the inverse-variance method for fixed effects (Supplementary Table 1).
+0	NA	NA	NA	INTRO	All imputed and genotyped SNPs (minor allele frequency > 0.01) passed quality control filters in each of the eight stage 1 data sets prior to conducting meta-analysis (Supplementary Table 2).
+0	NA	NA	NA	INTRO	The genomic control inflation factor (lambda) for the meta-analysis was 1.046 (less than 1.062 for the individual studies), indicating that results in stage 1 were not likely resulting from population stratification (Supplementary Fig.
+0	NA	NA	NA	INTRO	2).
+0	NA	NA	NA	INTRO	Individuals from each component study participated in stage 1 mostly clustered together with CHB/JPT HapMap samples in the principal component analysis plot (Supplementary Fig.
+0	NA	NA	NA	INTRO	3), further demonstrating the similarity in the ethnicity between stage 1 samples.
+0	NA	NA	NA	INTRO	Most signals showing strong evidence for T2D associations appeared in previously known T2D genes (Fig.
+0	NA	NA	NA	INTRO	1).
+0	NA	NA	NA	INTRO	Stage 1 P-values, OR's, and average risk allele frequencies for 45 previously reported T2D associated SNPs are shown in Supplementary Table 3
+0	NA	NA	NA	INTRO	After removing known T2D variants, 297 SNPs from independent loci were selected from the stage 1 meta-analysis based on our arbitrary inclusion criteria for follow-up in silico replication: meta-analysis P-value < 5x10-4 (based on the divergence between the observed and expected P-values on the Q-Q plot (Supplementary Fig.
+0	NA	NA	NA	INTRO	2)), heterogeneity P-value>0.01 and the number of studies included in meta-analysis >= 7 (Supplementary Table 4).
+0	NA	NA	NA	INTRO	A total of 3,756 SNPs including the 297 selected SNPs and their proxies (r2 >0.8 based on phase2 CHB/JPT HapMap data) were taken forward to stage 2, an in silico replication, in three independent GWA studies (5,843 cases and 4,574 controls).
+0	NA	NA	NA	INTRO	After meta-analysis combining stage 1 and stage 2 data for 3,756 SNPs, we selected the 19 SNPs showing the most compelling evidence for association (stage 1 and 2 combined P-value<10-5) (Supplementary Table 5) for stage 3 de novo genotyping in up to 12,284 cases and 13,172 controls recruited from five independent studies (Supplementary Tables 1 & 2).
+0	NA	NA	NA	INTRO	This resulted in 8 novel T2D loci reaching genome-wide significance from the combined meta-analysis across all three stages (Table 1 & Fig.
+0	NA	NA	NA	INTRO	2)
+0	NA	NA	NA	INTRO	Three of these eight loci have been associated previously with metabolic traits or related diseases, or suggestively with T2D itself.
+0	NA	GLIS3	NA	INTRO	One such locus was detected within an intron of GLIS3, a gene that is highly expressed in islet beta cells.
+0	pancreatic	insulin	NA	INTRO	The coding product of this gene, a Kruppel-like zinc finger transcription factor, has been proposed as a critical player in the regulation of pancreatic beta cell development and insulin gene expression.
+0	insulin-treated diabetes	NA	NA	INTRO	SNPs in high LD with this locus have already been implicated in association with type 1 diabetes (T1D) and fasting plasma glucose.
+1	NA	PEPD	NA	INTRO	The second locus, on 19q13, is located in an intron of PEPD.
+0	NA	NA	rs10425678	INTRO	Several SNPs (lead SNP: rs10425678) in this gene were identified in association with T2D previously in Japanese .
+1	NA	NA	rs3786897	INTRO	However, the SNP in our study (rs3786897) is not in LD with those identified in Japanese (r2 = 0.008 and D' = 0.143 between rs3786897 and rs10425678), and our GWA data do not support an association for T2D with rs10425678 (P = 0.528).
+1	NA	NA	NA	INTRO	The third such signal is near FITM2-R3HDML-HNF4A.
+1	NA	FITM2	NA	INTRO	FITM2 may be involved in lipid droplet accumulation, while the function of R3HDML is not known.
+1	diabetes	HNF4A	NA	INTRO	Mutations in HNF4A cause maturity onset diabetes of the young type 1 (MODY1).
+0	NA	NA	rs1884613	INTRO	Common variants, rs1884613 and rs2144908, in the P2 promoter region of this gene have been associated with T2D in a population-specific manner.
+1	NA	HNF4A	rs6017317	INTRO	The SNPs in our study (rs6017317) are not in strong LD with HNF4A P2 promoter SNPs (r2 = 0.23~0.25, D' = 0.50~0.54 based on phase2 CHB/JPT HapMap data), indicating that rs6017317 is a new T2D signal in the 20q13.12 region where HNF4A resides
+1	NA	KCNK16	NA	INTRO	The remaining five loci reaching genome-wide significance in our study have not previously been reported in the context of any metabolic traits, including the loci mapped in or near KCNK16, MAEA, GCC1-PAX4, PSMD6 and ZFAND3.
+1	NA	KCNK16	NA	INTRO	KCNK16, expressed predominantly in the pancreas, encodes a potassium channel protein containing two pore-forming P domains.
+0	pancreatic	NA	NA	INTRO	In pancreatic beta cells, potassium channels that are inhibited by ATP regulate glucose-dependent insulin secretion.
+1	NA	KCNK16	rs1535500	INTRO	Among the variants in strong LD with this signal (rs1535500) is rs11756091 (r2 = 0.977, D' = 1.0 based on phase2 CHB/JPT HapMap data), which encodes a proline-to-histidine substitution in two isoforms of KCNK16.
+0	NA	NA	NA	INTRO	This or other variants influencing this gene may result in defective regulation of potassium channel activity contributing to the etiology of T2D.
+1	NA	MAEA	NA	INTRO	MAEA encodes a protein that plays a role in erythroblast enucleation and in the development of mature macrophages.
+1	NA	NA	rs6583826	INTRO	The gene-set analysis of the stage 1 P-values using GSA-SNP indicated that MAEA belongs to a group of genes that showed significant association with T2D and includes IDE located at a known T2D susceptibility locus (stage 1 P = 1.41x10-7 for rs6583826 at the IDE locus in this study).
+1	NA	GCC1	NA	INTRO	The GRIP domain containing protein encoded by GCC1 may play a role in the organization of the trans-Golgi network involved in membrane transport .
+1	pancreatic	PAX4	NA	INTRO	PAX4 that is only 30kb further away from GCC1 is an outstanding candidate for T2D given its involvement in pancreatic islet development.
+0	NA	NA	NA	INTRO	This gene was recently implicated in a Japanese case of MODY.
+1	NA	PSMD6	NA	INTRO	The expression product of PSMD6 that acts as a regulatory subunit of the 26S proteasome is likely involved in the ATP-dependent degradation of ubiquitinated proteins .
+1	NA	ZFAND3	NA	INTRO	Although the function of ZFAND3 has not been fully elucidated, it is noteworthy that family member ZFAND6 is present along with FAH at a T2D locus detected previously.
+0	obese	FTO	NA	INTRO	We examined whether 8 novel loci may be associated with T2D through an effect on obesity, as seen with FTO.
+0	obese	NA	NA	INTRO	All T2D association signals remained after the adjustment with BMI (Supplementary Table 6), indicating that the association with T2D for 8 loci are not mediated through an effect on obesity
+1	NA	WWOX	NA	INTRO	In addition to 8 loci reaching genome-wide significance, we identified 2 loci showing moderate evidence (combined P-value<10-6) of association with T2D including WWOX and CMIP (Table 1).
+0	NA	NA	NA	INTRO	We looked up the association results for these 10 loci in GWA data from up to 47,117 European samples generated by the DIAGRAM consortium ('DIAGRAM+' for the current version of data set).
+1	NA	NA	rs6017317	INTRO	Results from lookup for these loci indicated that three loci including FITM2-R3HDML-HNF4A (rs6017317: P = 1.47x10-2, OR = 1.07), CMIP (rs16955379: P = 3.33x10-2, OR = 1.20 ] and MAEA (proxy SNP rs11247991 for rs6815464 (r2=0.96): P = 6.56x10-3, OR = 1.19 ) were modestly associated, while a locus in GLIS3 (rs7041847: P = 6.43x10-2, OR = 1.04 ) was nominally associated with T2D.
+1	NA	PSMD6	NA	INTRO	The direction of effect was consistent in four (PSMD6, PEPD, WWOX and KCNK16) of six loci that were not replicated in DIAGRAM+ (Supplementary Table 5)
+0	NA	GRAIL	NA	INTRO	The functional connections among 10 new T2D genes and 28 known T2D genes that were replicated in this study (Supplementary Table 3) were analyzed by GRAIL.
+0	NA	NA	NA	INTRO	Connection results highlighted notable biological functions of sets of genes within T2D-assocaited regions (Supplementary Fig.
+0	NA	NA	NA	INTRO	4 & Supplementary Tables 7 & 8).
+1	pancreatic	KCNK16	NA	INTRO	For example, KCNK16 shows strong connections with previously known T2D genes encoding potassium channels (KCNJ11 and KCNQ1), implying its physiological role in the regulation of potassium transport in the pancreatic cells
+0	NA	NA	NA	INTRO	The association between each new T2D SNP and the expression levels of genes within 1Mb of the SNP was examined by eQTL analysis in the MuTHER consortium.
+1	NA	PEPD	rs3786897	INTRO	One SNP (rs3786897) in an intron of PEPD was highly associated with mRNA expression levels of PEPD in the adipose tissue of 776 individuals of European ancestry (PeQTL = 2.14x10-8) (Supplementary Table 9).
+0	NA	NA	NA	INTRO	However, this SNP did not show an association with T2D in populations of European ancestry, and the significance of this finding is unclear
+0	insulin-treated diabetes	NA	NA	INTRO	We considered the possibility that autoimmune diabetes may be driving some of the signals observed.
+0	diabetes	insulin	NA	INTRO	Firstly, cases in all studies were predominantly those with adult onset diabetes (age of disease onset >= 30 years), and none of the clinically diagnosed patients had T1D, defined as acute ketosis and continuous requirement of insulin within 1 year of diagnosis.
+0	NA	NA	NA	INTRO	Secondly, we looked up the associations for all known T1D associated variants in our study.
+0	NA	NA	NA	INTRO	Only a given number of loci survived from the tests applied (Supplementary Table 10).
+0	NA	NA	NA	INTRO	This is in distinct contrast to the situation for known T2D associated variants where many replicated in our study (Supplementary Table 3), further suggesting that our findings are most relevant to T2D.
+1	diabetes	GLIS3	rs7041847	INTRO	Finally, since variants close to the GLIS3 locus have been shown to be associated with T1D, we examined the association between rs7041847 and diabetes in four studies (n=8,383) in which cases with positive GAD antibodies had been excluded (data not shown).
+0	diabetes	NA	NA	INTRO	In each study, the association between this SNP and diabetes was the same as when all samples were included (meta-analysis P-value = 3.4x10-4, OR = 1.12).
+0	glucose homeostasis	GLIS3	NA	INTRO	This finding, along with the fact that SNPs at the GLIS3 locus also show associations with fasting plasma glucose in nondiabetic adults and healthy children and adolescents, is consistent with the hypothesis that SNPs at this locus may impact fasting glucose homeostasis rather than the immune system.
+0	insulin-treated diabetes	NA	NA	INTRO	Taken together, it is unlikely that a significant proportion of the positive associations observed in our study were driven by autoimmune diabetes
+0	NA	NA	NA	INTRO	This study is the largest GWA meta-analysis conducted for T2D in East Asians.
+0	NA	NA	NA	INTRO	Findings from this study highlight not only previously unknown biological pathways but also population specific loci for T2D.
+1	NA	ZFAND3	rs9470794	INTRO	The association of rs9470794 in ZFAND3 with T2D looks highly specific to East Asians (Supplementary Table 5), whereas rs11634397 near ZFAND6 looks specific to Europeans (Supplementary Table 3).
+1	NA	NA	rs9470794	INTRO	A significant difference in risk allele frequencies of both loci is observed between the two continental populations (rs9470794 RAF = 0.32 CHB/JPT vs 0.12 CEU; rs11634397 RAF = 0.07 CHB/JPT vs 0.64 CEU).
+0	NA	NA	NA	INTRO	Although these loci are related to T2D differently in the two populations, these results lead one to speculate that the broader A20 domain-containing zinc finger protein family plays a role in the etiology of T2D.
+1	NA	WWOX	rs17797882	INTRO	Additional population specific T2D loci are further suggested, as seen in WWOX (rs17797882) (Supplementary Table 5) for East Asians and ZBED3 (rs4457053) (Supplementary Table 3) for Europeans.
+0	diabetes	NA	NA	INTRO	Despite the lack of clear physiological evidence, these findings may provide clues to understand population characteristic T2D phenotypes as exemplified by the high rates of diabetes at lower average BMI's in East Asian and other populations
+0	NA	NA	NA	METHODS	Stage 1 subjects were drawn from 8 T2D GWA studies participating in the AGEN consortium that was organized for genetic studies on diverse complex traits in 2010.
+0	diabetes	Cardiometabolic Genome Epidemiology Network(CAGE)	NA	METHODS	These eight studies included 6,952 T2D cases and 11,865 controls from the Korea Association Resource Study (KARE), the Singapore Diabetes Cohort Study (SDCS), the Singapore Prospective Study Program (SP2), the Singapore Malay Eye Study (SiMES), the Japan Cardiometabolic Genome Epidemiology Network(CAGE), the Shanghai Diabetes Genetic Study (SDGS), the Taiwan T2D Study (TDS), and the Cebu Longitudinal Health and Nutritional Survey (CLHNS).
+0	diabetes	NA	NA	METHODS	Stage 2 subjects included 5,843 cases and 4,574 controls from three independent GWA studies including the BioBank Japan Study (BBJ), the Health2 T2D Study (H2T2DS) and the Shanghai Jiao Tong University Diabetes Study (SJTUDS) for in silico replication analysis.
+0	diabetes	Cardiometabolic Genome Epidemiology Network(CAGE)	NA	METHODS	Stage 3 included up to, 12,284 cases and 13,172 controls from five different studies comprised of the Japan Cardiometabolic Genome Epidemiology Network (CAGE), the Shanghai Diabetes Study I/II (SDS I/II), the Chinese University of Hong Kong Diabetes Study (CUHKDS), the National Taiwan University Hospital Diabetes Study (NTUHDS) and the Seoul National University Hospital Diabetes Study (SNUHDS) for de novo replication analysis.
+0	NA	NA	NA	METHODS	The study design and T2D diagnosis criteria of each study in stages 1, 2, and 3 are described in Supplementary Table 1 and Supplementary Note.
+0	NA	NA	NA	METHODS	Each study obtained approval from the appropriate institutional review board, and written informed consent from all participants.
+0	NA	NA	NA	METHODS	The three-stage design of the overall study is depicted in Supplementary Fig.
+0	NA	NA	NA	METHODS	1
+0	NA	NA	NA	METHODS	Subjects for stage 1 and 2 analyses were genotyped with high-density SNP typing platforms covering the entire human genome.
+0	NA	NA	NA	METHODS	In most studies, only unrelated samples with missing genotype call-rates below 5% were included for subsequent GWA analyses.
+0	NA	NA	NA	METHODS	For the genome-wide association meta-analysis, each study participating in stages 1 and 2 performed SNP imputation.
+0	NA	NA	NA	METHODS	IMPUTE, MACH or BEAGLE were used, together with haplotype reference panels from the JPT and CHB founders (JPT+CHB+CEU and/or YRI in some studies) on the basis of HapMap build 36 (release 21, 22, 23a or 24).
+0	NA	NA	NA	METHODS	Only imputed SNPs with high genotype information content (proper info > 0.5 for IMPUTE and Rsq> 0.3 for MACH and BEAGLE) were used for association analysis.
+0	NA	NA	NA	METHODS	Genotyping for the stage 3 analysis was carried out by TaqMan, Sequenom MassARRAY, or the Beckman SNP Stream method.
+0	NA	NA	NA	METHODS	All SNPs included in stage 3 satisfied a genotype success rate over 98% (Supplementary Table 2)
+0	NA	NA	NA	METHODS	Associations between SNPs and T2D were tested by logistic regression with an additive model (1-d.f.)
+0	NA	NA	NA	METHODS	after adjustment for sex.
+0	NA	NA	NA	METHODS	Other adjustments were permitted according to the situation of individual studies.
+0	NA	NA	NA	METHODS	Meta-analysis was performed by an inverse-variance method assuming fixed effects with Cochran's Q test to assess between-study heterogeneity.
+0	NA	NA	NA	METHODS	METAL software (http://www.sph.umich.edu/csg/abecasis/Metal) was used for all meta-analyses.
+0	NA	NA	NA	METHODS	A plot of the negative log of association results from the stage 1 meta-analysis, by chromosome, was generated by the WGAViewer software (http://people.genome.duke.edu/~dg48/WGAViewer/std.php).
+0	NA	NA	NA	METHODS	The quantile-quantile plot was constructed by plotting the distribution of observed P-values of given SNPs against the theoretical distribution of expected P-values for T2D.
+0	NA	NA	NA	METHODS	The genomic control inflation factor, lambda, was calculated by dividing median chi2 statistics by 0.456 for individual GWA studies as well as stage 1 GWA meta-analysis.
+0	NA	NA	NA	METHODS	We did not correct for genomic control in the stage 1 analyses as inflation was modest, suggesting that population structure is unlikely to cause significant inflation of stage 1 results (Supplementary Table 2).
+0	NA	NA	NA	METHODS	Selection criteria for lead SNPs to take forward to stage 2 in silico replication analysis were (1) stage 1 meta-analysis P-value < 5 x 10-4 (based on the divergence between the observed and expected P-values on the Q-Q plot (Supplementary Fig.
+0	NA	NA	NA	METHODS	2)), (2) heterogeneity P-value > 0.01 and (3) number of studies included in stage 1 meta-analysis >= 7 (Supplementary Table 4).
+0	NA	NA	NA	METHODS	Removing known variants associated with T2D proxies for each lead SNP (r2> 0.8) were selected using the SNAP software (http://www.broadinstitute.org/mpg/snap/)-HapMap.
+0	NA	NA	NA	METHODS	Replication genotyping for stage 3 was performed for novel SNPs with stage 2 combined P-value < 10-5.
+0	NA	NA	NA	METHODS	Regional association results from genome-wide meta-analysis were plotted by the LocusZoom software (http://csg.sph.umich.edu/locuszoom/) for SNPs reaching genome-wide significance from combined meta-analysis of stage 1, 2 and 3
+0	NA	NA	NA	METHODS	A list of 76,534 common SNPs across Illumina 550/610/1M and Affymetrix 5.0/6.0 were first selected.
+0	NA	NA	NA	METHODS	These set of SNPs on the Asian HapMap II samples CHB+JPT were then trained to generate a list of 44,524 SNPs with pairwise LD < 0.3 in a window side of 50 SNPs.
+0	NA	NA	NA	METHODS	Individuals from each component study and HapMap II were plotted based on the first two eigenvectors produced by PCA
+0	NA	NA	NA	METHODS	Gene expression information in 776 adipose tissues, 667 skin tissues and 777 LCLs was obtained from the MuTHER consortium.
+1	NA	MAF	rs16955379	METHODS	The eQTL data for 8 of 10 T2D loci identified in this study were filtered at MAF > 5% and INFO > 0.8 except rs16955379 that has a MAF of 1.5% in the MuTHER data set.
+1	NA	NA	rs6815464	METHODS	Two loci, rs6815464 (chr.
+1	NA	NA	rs17797882	METHODS	4) and rs17797882 (chr.
+0	NA	NA	NA	METHODS	16), are not included in the MuTHER data set.
+0	NA	NA	NA	METHODS	Association between each significant SNP for T2D and normalized mRNA expression values of genes within 1Mb of the lead SNP were performed with the GenABEL/ProbABEL package using the polygenic linear model incorporating a kinship matrix in GenABEL followed by the ProbABEL mmscore test with imputed genotypes.
+0	NA	NA	NA	METHODS	A multiple-testing correction was applied to the cis-association results.
+0	NA	NA	NA	METHODS	P-value thresholds of 5.06 x 10-5 in adipose, 3.81 x 10-5 in skin and 7.80 x 10-5 in LCL correspond to an estimated genome-wide FDR of 1%
+0	NA	GRAIL	NA	METHODS	A GRAIL analysis was performed as described previously.
+0	NA	NA	NA	METHODS	A total of 38 genes within T2D-associated regions were selected for the analysis.
+0	NA	NA	NA	METHODS	Among them, 28 genes were from the previously implicated set (Supplementary Table 3), while the other 10 were from ones newly implicated in this study (Table 1).
+0	NA	NA	NA	METHODS	PubMed abstracts published after December, 2006 were omitted from the analysis to reduce confounding by results from T2D GWA studies
+0	NA	NA	NA	FIG	-log10(P-values) using the trend test are shown for SNPs distributed across the entire autosomal genome.
+0	NA	NA	NA	FIG	Red dots at each locus indicate the signals with P-value <10-6 detected in the genome-wide meta-analysis.
+0	NA	NA	NA	FIG	A total of 1,934,619 SNPs that were present in >=5 stage 1 studies were used to generate both plots
+0	NA	NA	NA	FIG	The upper panel indicates the positions of SNPs and the middle panel, shows regional association results from the genome-wide meta-analysis.
+0	NA	NA	NA	FIG	The trend test -log10(P-values) are shown for SNPs distributed in a 0.8 Mb genomic region centered on the most strongly associated signal, which is depicted as a purple diamond in the stage 1 results and a red diamond for the combined stage 1+2+3 results.
+0	NA	NA	NA	FIG	The lower panel shows the locations of known genes in the region.
+0	NA	NA	NA	FIG	Genetic information is taken from Human Genome build hg18 and LD structure was based on 1000 Genomes (June 2010) HapMap JPT+CHB
+0	NA	NA	NA	TABLE	Eight new T2D loci reaching genome-wide significance from combined meta-analysis of stage 1, 2 and 3

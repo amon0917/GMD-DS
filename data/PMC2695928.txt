@@ -1,0 +1,83 @@
+0	lung cancer	NA	NA	ABSTRACT	We conducted a genome-wide association (GWA) study of lung cancer comparing 511,919 SNP genotypes in 1,952 cases and 1,438 controls.
+0	NA	NA	rs8042374	ABSTRACT	The most significant association was attained at 15q25.1 (rs8042374; P = 7.75 x 10-12), confirming recent observations.
+1	NA	NA	rs3117582	ABSTRACT	Pooling data with two other GWA studies (5,095 cases, 5,200 controls) and with replication in an additional 2,484 cases and 3,036 controls, we identified two newly associated risk loci mapping to 6p21.33 (rs3117582, BAT3-MSH5; Pcombined = 4.97 x 10-10) and 5p15.33 (rs401681, CLPTM1L; Pcombined = 7.90 x 10-9)
+0	lung cancer	NA	NA	INTRO	Support for inherited genetic susceptibility to lung cancer has recently come from genome-wide association studies that have demonstrated that 15q25.1 variation influences lung cancer risk
+0	lung cancer	NA	NA	INTRO	To identify risk variants for lung cancer, we carried out a GWA study.
+0	NA	NA	NA	INTRO	Using Illumina HumanHap550 BeadChips, we genotyped 561,466 SNPs in 1,978 cases (Supplementary Methods online).
+0	NA	NA	NA	INTRO	After application of quality control criteria, genotypes were available for 1,952 cases.
+0	NA	NA	NA	INTRO	We were able to satisfactorily genotype 552,947 SNPs (98.5%) with mean sample call rate 99.7%.
+0	NA	NA	NA	INTRO	For controls, we used publicly accessible HumanHap550 genotype data in 1,438 individuals from the 1958 Birth Cohort (Supplementary Methods).
+0	NA	NA	NA	INTRO	Genotypes were available for 541,327 SNPs (97.5% of 555,352 SNPs typed) and 524,714 SNPs were common to cases and controls.
+0	NA	NA	NA	INTRO	Applying quality control filters, we excluded 8,534 SNPs monomorphic in either cases or controls; 2,744 with call rates < 95%; 770 showing departure from Hardy-Weinberg equilibrium (HWE; P < 10-5 in cases or controls) and 747 with minor allele frequency (MAF) <1% in cases or controls; leaving 511,919 informative SNPs for analysis
+0	NA	NA	NA	INTRO	Comparison of observed and expected distributions showed little evidence for inflation of allele test statistics (inflation factor lambda = 1.03; Supplementary Fig.
+0	NA	NA	NA	INTRO	1 online), excluding the possibility of significant hidden population substructure, cryptic relatedness or differential genotype calling.
+0	NA	p<10-4	NA	INTRO	The distribution of association P values was significantly skewed from the null distribution with 116 SNPs having P value <=10-4, greater than the 51 expected (P ~ 10-4).
+0	NA	NA	NA	INTRO	In keeping with previous studies, 15q25.1 SNPs were most strongly associated; excluding these SNPs, 98 were associated at P <= 10-4
+0	NA	NA	NA	INTRO	To replicate associations, we are now genotyping the most strongly associated SNPs in an additional case-control series.
+0	lung cancer	NA	NA	INTRO	In the interim, we have sought to identify new associations by conducting a meta-analysis pooling our UK-GWA study with data from two other studies: the IARC-GWA study of 1,989 cases and 2,625 controls, summary data from which is publicly available; and the Texas-GWA study of 1,154 non-small-cell lung cancer cases and 1,137 controls.
+0	NA	NA	NA	INTRO	In both studies genotyping was done using Illumina HumanHap300 Bead-Chips.
+0	NA	NA	NA	INTRO	Pooling was based on the 223,891 autosomal SNPs genotyped in all three GWA studies that had MAFs >1% and no departure from HWE (P < 10-5 in cases or controls)
+0	NA	NA	NA	INTRO	We derived meta-analysis odds ratios (ORs) and confidence intervals (CIs), and associated P values (Supplementary Methods).
+0	NA	NA	NA	INTRO	As expected, the strongest associations were obtained for SNPs mapping to 15q25.1.
+0	NA	NA	NA	INTRO	After exclusion of the 36 SNPs mapping to this locus (76.4-76.8 Mb), there remained evidence of enrichment of associated variants: 77 had P values <=10-4, compared with 22 expected (Supplementary Table 1 online).
+0	NA	NA	NA	INTRO	Genomic control values for the Texas-GWA and IARC-GWA studies were 0.99 and 1.03, respectively (Supplementary Fig.
+0	NA	NA	NA	INTRO	1).
+0	NA	NA	NA	INTRO	For the combined dataset lambda was 1.04 and 0.92 under fixed and random effects models, respectively (Supplementary Fig.
+0	NA	NA	NA	INTRO	1), providing little evidence of confounding from population substructure as a source of bias in our meta-analysis
+0	lung cancer	NA	NA	INTRO	Aside from 15q25, the strongest evidence for a lung cancer risk loci was found at 6p21.33 (Supplementary Fig.
+0	NA	NA	NA	INTRO	2 online).
+1	NA	NA	rs3117582	INTRO	Associations were significant for rs3117582 and rs3131379 after adjustment for multiple testing (OR = 1.30, 95% CI = 1.19-1.42; P = 5.71 x 10-9; OR = 1.26, 95% CI = 1.16-1.38; P = 1.91 x 10-7, respectively; Supplementary Table 1), assuming a Bonferroni correction.
+0	NA	NA	NA	INTRO	An additional 12 SNPs mapping to this region also had an association with risk (P <= 10-5)
+1	NA	NA	rs3117582	INTRO	We observed strong support for an association between rs3117582 and rs3131379 and risk in the UK-GWA and IARC-GWA studies, with P values in each of borderline genome-wide significance (P = 6.24 x 10-6 and 4.41 x 10-6, respectively).
+1	NA	Phet	rs3117582	INTRO	Support was limited in the Texas-GWA study, reflected in the random-effects model (P = 6.63 x 10-3, Phet = 0.02 and P = 0.013, Phet = 0.03 for rs3117582 and rs3131379, respectively).
+0	NA	NA	NA	INTRO	As all three GWA studies were based on subjects with European ancestry, ancestry-related differences are unlikely to underlie between-study heterogeneity, and the nonsignificant association in the Texas-GWA study may reflect study power, especially as these SNPs have low MAFs.
+1	NA	NA	rs3117582	INTRO	To further validate the association between 6p and risk, we genotyped rs3117582 in an additional 2,484 cases and 3,036 controls (UK-Replication series; Supplementary Methods).
+0	NA	NA	NA	INTRO	Genotypes were obtained for 2,448 (98.6%) cases and 2,983 (98.3%) controls.
+0	NA	NA	NA	INTRO	As previously, the C allele was associated with a significantly increased risk (OR = 1.16, 95% CI = 1.04-1.29; P = 7.30 x 10-3).
+1	lung cancer	Phet	rs3117582	INTRO	Pooling data from all series provided unequivocal evidence for a relationship between rs3117582 and lung cancer risk (P = 4.97 x 10-10, Phet = 0.02, I2 = 71%; Fig.
+0	NA	NA	NA	INTRO	1).
+0	NA	Phet	NA	INTRO	ORs associated with AC and CC genotypes were 1.20 (95% CI = 1.11-1.29, P = 7.12 x 10-6; Phet = 0.06, I2 = 60%) and 1.80 (95% CI = 1.41-2.30, P = 2.25 x 10-6; Phet = 0.29, I2 = 19%)
+1	NA	BAT3	rs3117582	INTRO	rs3117582 (31,728,499 bp) localizes to intron 1 of BAT3 and rs3131379 (31,829,012 bp) localizes to intron 10 of MSH5 at 6p21.33 (Fig.
+0	NA	NA	NA	INTRO	2).
+0	NA	NA	NA	INTRO	Genotypes are highly correlated (r2 = 0.99), hence on the basis of flanking recombination hot spots they define a single locus at 31,676,001-32,303,001 bp.
+1	lung cancer	BAT3	NA	INTRO	The association could be mediated through LD with a number of transcripts; however, BAT3 and MSH5 both represent strong candidates for lung cancer susceptibility.
+0	NA	BAT3	NA	INTRO	BAT3 is implicated in apoptosis and the protein complexes with E1A-binding protein p300, required for acetylation of p53 in response to DNA damage.
+1	deficiency of MMR	MSH5	NA	INTRO	MSH5 is involved in DNA mismatch repair (MMR) and meiotic recombination, and deficiency of MMR has been documented to have a role in lung cancer
+0	NA	NA	rs9295740	INTRO	There is some evidence for a risk locus at 6p22.1 (rs9295740; 27,797,481 bp; OR = 1.20, 95% CI = 1.12-1.29; P = 3.63 x 10-7; random effects P = 3.43 x 10-7; Supplementary Table 1 and Fig.
+0	NA	NA	NA	INTRO	2).
+1	NA	NA	rs9295740	INTRO	LD across 6p21.33-6p22.1 is extensive, and although recombination rates across the region are compatible with an independent susceptibility locus, the moderate LD between rs9295740 and both rs3117582 and rs3131379 (r2 values of 0.38 and 0.39, respectively) suggests that the associations may be mediated through correlation with the same causal variant
+0	NA	Phet	rs401681	INTRO	The most consistent evidence for a new disease locus outside 6p was attained at 5p15.33 (rs401681; OR = 0.88, 95% CI = 0.83-0.93; P = 4.40 x 10-6; Phet = 0.94, I2 = 0%; Supplementary Table 1).
+1	NA	CLPTM1L	rs401681	INTRO	rs401681 localizes to intron 13 of CLPTM1L within a 60-kb region of LD (1,353,580-1,412,838 bp; Fig.
+0	NA	NA	NA	INTRO	2 and Supplementary Fig.
+0	NSCLC	NA	NA	INTRO	3 online) frequently amplified in early-stage NSCLC.
+0	NA	NA	rs401681	INTRO	Genotyping rs401681 in the UK-Replication series provided further validation of the association.
+0	NA	NA	NA	INTRO	We obtained genotypes for 2,396 (99.7%) cases and 3,001 (98.8%) controls.
+0	NA	NA	NA	INTRO	The A allele was associated with a significantly decreased risk (OR = 0.92, 95% CI = 0.88-0.97; P = 4.95 x 10-4).
+0	NA	Phet	rs401681	INTRO	Pooling data from all series provided unequivocal evidence for a relationship between rs401681 and risk (OR = 0.87, 95% CI = 0.84-0.92; P = 7.90 x 10-9; Phet = 0.99, I2 = 0%; Fig.
+0	NA	NA	NA	INTRO	1).
+0	NA	Phet	NA	INTRO	ORs associated with GA and AA genotypes were 0.86 (95% CI = 0.80-0.92; P = 2.12 x 10-5, Phet = 0.53, I2 = 0%) and 0.77 (95% CI = 0.70-0.84; P = 3.54 x 10-8, Phet = 0.99, I2 = 0%), respectively
+1	NA	NA	rs3117582	INTRO	We examined for clinicopathological relationships with rs3117582 and rs401681 in the UK and Texas datasets.
+1	lung cancer	NA	rs3117582	INTRO	The only significant association was between rs3117582 and family history of lung cancer (P = 0.03), nonsignificant after adjustment for multiple comparisons(Supplementary Table 2 online).
+0	NSCLC	NA	NA	INTRO	These data suggest that, despite differences in the biology of NSCLC and SCLC, the causal variants affect the risk of all forms of lung cancer, compatible with epidemiological data showing that familial lung cancer risks are not subtype dependent and that intrafamilial histological concordance is poor
+0	NA	NA	NA	INTRO	The power of our analysis to identify the 15q25.1 and 6p loci at P = 2.0x10-7 was high (>80%).
+0	NA	NA	rs401681	INTRO	In contrast, power to detect alleles with smaller effects and MAFs (for example, those of rs401681) was low.
+0	NA	NA	NA	INTRO	By implication, variants with similar profiles may constitute a larger class of susceptibility loci, whether because of smaller effects or submaximal LD with tagging SNPs
+0	NA	NA	NA	INTRO	The 15q25.1 and 6p variants are unlikely to account for >1% of the familial risk, hence a large number of low-risk variants remain to be identified.
+0	NA	NA	NA	INTRO	Further efforts to expand the scale of GWA meta-analyses, in terms of both sample size and SNP coverage, and to increase the number of SNPs taken forward to large-scale replication should identify additional risk variants
+1	NA	NA	rs3117582	FIG	Summary of association results for rs3117582 and rs401681.
+1	NA	NA	rs3117582	FIG	(a-f) Forest plots of rs3117582 per allele ORs (a), heterozygote ORs (b) and homozygote ORs (c); and rs401681 per allele ORs (d), heterozygote ORs (e) and homozygote ORs (f).
+0	NA	NA	NA	FIG	The x axis corresponds to the odds ratio (OR).
+0	NA	NA	NA	FIG	Horizontal lines represent 95% confidence intervals.
+0	NA	NA	NA	FIG	Each box represents the OR point estimate and its area is proportional to the statistical weight of the study.
+0	NA	NA	NA	FIG	The diamonds (and broken lines) represent the summary odds ratios obtained from fixed-effect pooled analysis with 95% confidence intervals given by their widths.
+0	NA	NA	NA	FIG	The unbroken vertical line is at the null value (OR = 1.0).
+1	NA	NA	rs3117582	FIG	Frequencies of CC, CA and AA rs3117582 genotypes in cases and controls in the UK-Replication series were 65, 609, 1,774 and 57, 679, 2,247, respectively.
+0	NA	NA	rs401681	FIG	Frequencies of AA, AG and GG rs401681 genotypes in cases and controls in the UK-Replication series were 394, 1,134, 868 and 551, 1,506, 994, respectively
+0	NA	NA	NA	FIG	LD structure and association results for the two confirmed lung cancer-associated regions.
+0	NA	NA	NA	FIG	(a) 6p21.33-6p22.1.
+0	NA	NA	NA	FIG	(b) 5p15.33.
+0	NA	NA	NA	FIG	Chromosomal positions based on NCBI build 36 coordinates, showing Ensembl (release 48) genes.
+0	NA	NA	NA	FIG	P values (as -log10 values; y axis) are shown for SNPs analyzed in UK-GWA study (red circles).
+0	NA	NA	NA	FIG	Mantel-Haenzel association test P values are also shown (black circles).
+0	NA	NA	NA	FIG	Estimated recombination rates (taken from HapMap) are plotted to reflect the local LD structure around associated SNPs.
+0	NA	NA	NA	FIG	Annotations of selected genes were taken from the University of California Santa Cruz Genome Browser

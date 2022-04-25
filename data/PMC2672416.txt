@@ -1,0 +1,171 @@
+0	Type 2 diabetes	NA	NA	ABSTRACT	Genome-wide association (GWA) studies have identified multiple new genomic loci at which common variants modestly but reproducibly influence risk of type 2 diabetes (T2D).
+0	NA	NA	NA	ABSTRACT	Established associations to common and rare variants explain only a small proportion of the heritability of T2D.
+0	NA	NA	NA	ABSTRACT	As previously published analyses had limited power to discover loci at which common alleles have modest effects, we performed meta-analysis of three T2D GWA scans encompassing 10,128 individuals of European-descent and ~2.2 million SNPs (directly genotyped and imputed).
+0	NA	NA	NA	ABSTRACT	Replication testing was performed in an independent sample with an effective sample size of up to 53,975.
+1	NA	JAZF1	NA	ABSTRACT	At least six new loci with robust evidence for association were detected, including the JAZF1 (p=5.0x10-14), CDC123/CAMK1D (p=1.2x10-10), TSPAN8/LGR5 (p=1.1x10-9), THADA (p=1.1x10-9), ADAMTS9 (p=1.2x10-8), and NOTCH2 (p=4.1x10-8) gene regions.
+0	NA	NA	NA	ABSTRACT	The large number of loci with relatively small effects indicates the value of large discovery and follow-up samples in identifying additional clues about the inherited basis of T2D
+0	NA	NA	NA	INTRO	Genome-wide association studies are unbiased by previous hypotheses concerning candidate genes and pathways, but challenged by the modest effect sizes of individual common susceptibility variants and the need for stringent statistical thresholds.
+1	obese	TCF7L2	NA	INTRO	For example, the largest allelic odds ratio of any established common variant for T2D is ~1.35 (TCF7L2), with the nine other validated associations to common variants (excluding FTO, which has its primary effect through obesity) having allelic odds ratios between 1.1 and 1.2.
+0	diabetes	NA	NA	INTRO	To augment power to detect additional loci of similar and/or smaller effect, we increased sample size by combining three previously published GWA studies (Diabetes Genetics Initiative [DGI], Finland-United States Investigation of NIDDM Genetics [FUSION], and Wellcome Trust Case Control Consortium [WTCCC]), and extended SNP coverage by imputing untyped SNPs based on patterns of haplotype variation from the HapMap dataset (Table 1)
+0	NA	NA	NA	INTRO	We started with a set of genotyped autosomal SNPs that passed quality control (QC) filters in each study: in WTCCC, 393,143 SNPs from the Affymetrix 500k chip (MAF>0.01; 1,924 cases and 2,938 population-based controls from the Wellcome Trust Case Control Consortium); in DGI, 378,860 SNPs from the Affymetrix 500k chip (minor allele frequency [MAF]>0.01; Swedish and Finnish sample of 1,464 T2D cases and 1,467 normoglycaemic controls, including 326 discordant sibships); and in FUSION, 306,222 SNPs from the Illumina 317k chip (MAF>0.01, 1,161 T2D cases and 1,174 normal glucose tolerant controls from Finland) (Supplementary Table 1).
+0	NA	NA	NA	INTRO	There were 44,750 SNPs (MAF>0.01) directly genotyped in all three studies across the two platforms.
+0	NA	NA	NA	INTRO	We used data from the GWA studies and phased chromosomes from the HapMap CEU sample to impute autosomal SNPs with MAF>0.01( and Y.L., C.J.W., J.D, P.S., G.R.A.
+0	NA	NA	NA	INTRO	Markov model for rapid haplotyping and genotype imputation in genome wide studies.
+0	NA	NA	NA	INTRO	Submitted, 2007; http://www.sph.umich.edu/csg/abecasis/MaCH/download/).
+0	NA	NA	NA	INTRO	We based our further analyses on 2,168,847 SNPs that met imputation and genotyping QC criteria across all studies (Methods; Supplementary Methods)
+0	NA	NA	NA	INTRO	Using these directly measured and imputed genotypes, we tested for association of each SNP with T2D in each study separately, corrected each study for residual population stratification, cryptic relatedness or technical artifacts using genomic control, and then combined these results in a genome-wide meta-analysis across a total of 10,128 samples (4,549 cases, 5,579 controls) (Methods; Supplementary Methods).
+0	NA	NA	NA	INTRO	We calculated that this sample size provides reasonable power to detect additional variants with properties similar to those previously identified by less formal data combination efforts (Supplementary Table 2).
+0	NA	NA	NA	INTRO	Unless otherwise indicated, results presented are derived from individually genomic control-adjusted stage 1 results.
+0	NA	NA	NA	INTRO	Meta-analysis OR and confidence intervals are obtained from a fixed-effects model and p values from a weighted z-statistic-based meta-analysis (Methods; Supplementary Methods).
+1	NA	TCF7L2	rs7903146	INTRO	As expected, the most significant result was obtained for rs7903146 in TCF7L2.
+0	obese	FTO	NA	INTRO	We also observed evidence for association (p<10-3) at eight of the ten established T2D loci (as well as at the FTO obesity locus) (Supplementary Table 3).
+0	NA	NA	NA	INTRO	This is unsurprising, as these same data supported discovery of many of these loci.
+1	NA	PPARG	NA	INTRO	Since our goal was to identify new loci, we excluded 1,981 SNPs in the immediate vicinity of these T2D susceptibility loci from further analysis (with the exception of a signal near PPARG, which was followed-up), and examined the remainder of the autosomal genome (Methods; Supplementary Methods).
+0	NA	NA	NA	INTRO	Even after excluding known loci, we saw a strong enrichment of highly associated variants: 426 with p values <10-4, compared to 217 under the null
+0	NA	NA	NA	INTRO	Before proceeding to follow-up, we explored the individual studies and combined data for potential errors and biases.
+0	NA	NA	NA	INTRO	We found a genomic control lambda value of 1.04 for the combined results (based on 10,128 samples), which, given the relationship between lambda and sample size, suggests little residual confounding (Supplementary Figure 1; Supplementary Note).
+0	NA	NA	NA	INTRO	We also used genome-wide genotype data to estimate the principal components (PC) of the identity-by-state relationships in each stage 1 sample.
+0	NA	NA	NA	INTRO	For the SNPs presented in Table 2, adjustment for principal components in stage 1 T2D association analysis did not diminish the association in the WTCCC (2 PCs), FUSION (10 PCs), or DGI (10 PCs) sample (Supplementary Note).
+0	NA	NA	NA	INTRO	Additionally, we found no evidence for association between UK population ancestry informative markers and disease status in the UK replication sets (Supplementary Note).
+0	NA	NA	NA	INTRO	To ensure that the observed stage 1 associations taken forward to follow-up were not due to imputation errors, we directly genotyped originally imputed variants in the stage 1 samples (Methods; Supplementary Methods).
+0	NA	NA	NA	INTRO	We found strong agreement between the genotype-based and imputed p values (in 38 of 43 cases where a direct genotype-based result was obtained, the p value was within one order of magnitude of that from imputation, and in the remaining 5 cases p values were less than 2 orders of magnitude different) (Supplementary Table 4)
+0	NA	p<10-4	NA	INTRO	We selected SNPs for replication based principally on the statistical evidence for association in stage 1, excluding SNPs with evidence for heterogeneity of ORs (p<10-4) across studies (Methods; Supplementary Methods).
+0	NA	NA	NA	INTRO	Sixty nine SNPs were taken forward to an initial round of replication (stage 2) in up to 22,426 additional samples of European descent (Table 1, Supplementary Table 1).
+0	NA	NA	NA	INTRO	The distribution of association p values in stage 2 was highly inconsistent with a null distribution.
+0	NA	NA	NA	INTRO	Of the 69 signals selected for follow-up, a total of 65 were successfully genotyped in stage 2, and represented loci that were independent of each other and of previously established susceptibility loci.
+0	NA	p<10-4	NA	INTRO	Nine of these had a p value <=0.01 with association in the same direction as the original signal, far in excess of 0.33 expected under the null (p=1.4x10-12, binomial test; Supplementary Methods), and two SNPs had p<10-4 as compared to an expectation of 0.0033 (p=5.2x10-6) (Supplementary Methods; Supplementary Table 5)
+0	NA	p<10-5	NA	INTRO	We identified eleven SNPs (ten separate signals, nine of which represent novel loci) with p<0.005 in stage 2, for which the combined stage 1 and stage 2 data (based on direct genotyping of stage 1 samples, where previously imputed) generated p<10-5.
+0	NA	NA	NA	INTRO	These eleven SNPs were further genotyped in up to 57,366 additional samples (14,157 cases and 43,209 controls) of European descent in stage 3 (Table 1; Supplementary Table 1; Methods; Supplementary Methods).
+0	NA	NA	NA	INTRO	The distribution of p values for these 11 SNPs was again inconsistent with a null distribution: all nine new and independent SNPs had effects in the same direction as in the stage 1 + 2 meta-analysis (p=0.002), and seven had p<0.05 in the direction of the original association (p=2.1x10-10) (Table 2)
+0	NA	NA	NA	INTRO	Based on the combined stage 1-3 analyses, six signals reach compelling levels of evidence (p=5.0x10-8 or better) for T2D association (Table 2).
+0	NA	NA	NA	INTRO	As in all LD-mapping approaches, characterization of the causal variants responsible, their effect sizes, and the genes through which they act will require extensive resequencing and fine-mapping.
+1	NA	JAZF1	NA	INTRO	However, on current evidence, the most associated variants in each of these signals map to intron 1 of JAZF1, between CDC123 and CAMK1D, between TSPAN8 and LGR5, in exon 24 of THADA, near ADAMTS9, and in intron 5 of NOTCH2
+1	NA	JAZF1	rs864745	INTRO	The strongest statistical evidence for a novel association signal was with rs864745 in intron 1 of the JAZF1 gene (Figure 1), one of a cluster of associated SNPs with strong evidence for association in the stage 1 meta-analysis, and across each replication sample set (Table 2; Supplementary Table 6).
+0	NA	NA	NA	INTRO	The overall estimate of effect was an OR[95%CI] of 1.10[1.07-1.13] (p=5.0x10-14 under an additive model), based on 68,042 individuals.
+0	NA	JAZF1	NA	INTRO	The JAZF1 (juxtaposed with another zinc finger gene 1) gene encodes a transcriptional repressor of NR2C2 (nuclear receptor subfamily 2, group C, member 2).
+0	growth retardation	Nr2c2	NA	INTRO	Mice deficient in Nr2c2 exhibit growth retardation, low IGF1 serum levels, and perinatal and early postnatal hypoglycaemia.
+0	Breast and prostate cancer	JAZF1	NA	INTRO	While this paper was in review, a SNP in JAZF1 was identified as associated with prostate cancer; this is particularly interesting given the recent finding that SNPs in TCF2 are also associated both with T2D and prostate cancer
+1	NA	CDC123	rs12779790	INTRO	The second strongest new statistical signal (rs12779790, combined OR[95%CI] of 1.11[1.07-1.14], p=1.2x10-10) lies in an intergenic region ~90 kb from the CDC123 (cell division cycle 123 homolog [S. cerevisiae]) and ~63.5 kb from the CAMK1D (calcium/calmodulin-dependent protein kinase ID) genes (Figure 1; Table 2; Supplementary Table 6).
+0	NA	CDC123	NA	INTRO	CDC123 is regulated by nutrient availability in S. cerevisiae and plays a role in cell cycle regulation.
+0	NA	CDKAL1	NA	INTRO	Evidence from previous GWA studies implicating variants in CDKAL1 and near CDKN2A/B in T2D predisposition suggests that cell cycle dysregulation may be a common pathogenetic mechanism in T2D
+1	NA	tetraspanin 8	rs7961581	INTRO	The third strongest statistical signal resides upstream of the TSPAN8 (tetraspanin 8) gene (rs7961581; combined OR[95%CI]: 1.09[1.06-1.12], p=1.1x10-9) (Figure 1; Table 2; Supplementary Table 6).
+1	carcinomas of the colon	tetraspanin 8	NA	INTRO	Tetraspanin 8 is a cell-surface glycoprotein expressed in carcinomas of the colon, liver and pancreas
+1	thyroid adenomas	THADA	rs7578597	INTRO	The fourth strongest novel association signal (rs7578597, a non-synonymous SNP [T1187A]; combined OR[95%CI] of 1.15[1.10-1.20], p=1.1x10-9) resides in exon 24 of the widely-expressed THADA (thyroid adenoma associated) gene (Figure 1; Table 2; Supplementary Table 6).
+1	thyroid adenomas	THADA	NA	INTRO	Disruption of THADA by chromosomal rearrangements (including fusion with intronic sequence from PPARG) is observed in thyroid adenomas.
+1	NA	THADA	NA	INTRO	The function of THADA has not been well-characterized, but there is some evidence to suggest it may be involved in the death receptor pathway and apoptosis
+1	NA	ADAMTS9	Rs4607103	INTRO	Rs4607103 (combined OR[95%CI]: 1.09[1.06-1.12], p=1.2x10-8), representing a cluster of associated SNPs, resides ~38 kb upstream of the ADAMTS9 (ADAM metallopeptidase with thrombospondin type 1 motif, 9) gene, and is the fifth strongest new signal (Figure 1; Table 2, Supplementary Table 6).
+1	NA	ADAMTS9	NA	INTRO	ADAMTS9 is a secreted metalloprotease that cleaves the proteoglycans versican and aggrecan, and is expressed widely, including in skeletal muscle and pancreas
+1	NA	NOTCH2	rs10923931	INTRO	The sixth strongest signal, marked by rs10923931, resides within intron 5 of the NOTCH2 (Notch homolog 2 [Drosophila]) gene (combined OR[95%CI]: 1.13[1.08-1.17], p=4.1x10-8) (Figure 1; Table 2; Supplementary Table 6).
+1	NA	ADAM30	L359P	INTRO	Rs2641348, a non-synonymous SNP (L359P) within the neighboring ADAM30 (ADAM metallopeptidase domain 30) gene represents the same signal (r2=0.92 based on HapMap CEU data) and was also followed-up, but its overall signal (combined OR[95%CI]: 1.10[1.06-1.15], p=4.0x10-7; Table 2) was slightly less strong.
+0	pancreatic	NOTCH-2	NA	INTRO	NOTCH-2 is a type 1 transmembrane receptor; in mice, the Notch-2 receptor is expressed in embryonic ductal cells of branching pancreatic buds during pancreatic organogenesis, the likely source of endocrine and exocrine stem cells
+0	NA	NA	NA	INTRO	The strength of the association evidence for the remaining four variants taken into stage 3 does not meet our prespecified threshold of p<=5.0x10-8.
+0	NA	NA	NA	INTRO	However, it is likely (based on individual significance values and their overall distribution) that several of these also represent genuine association signals.
+0	NA	NA	NA	INTRO	In all, three of these additional SNPs showed p values <10-5 across the combined data (Table 2), and two demonstrated p<0.05 in stage 3 in the same direction as in stages 1 and 2.
+0	NA	dermcidin	rs1153188	INTRO	Variants near DCD (dermcidin) showed evidence for association (rs1153188; overall p=1.8x10-7) (Supplementary Figure 2).
+1	NA	VEGFA	NA	INTRO	A signal in VEGFA had previously been noted in the UK GWA scan, but displays inconsistent evidence for replication: further studies will be required to establish its status.
+1	NA	SYN2	rs17036101	INTRO	We also found association at rs17036101, ~44 kb downstream of SYN2 (synapsin II) and 115.3 kb upstream of the established T2D susceptibility variant rs1801282 (Pro12Ala) in the PPARG gene (r2=0.54 in HapMap CEU) (Supplementary Figure 3).
+0	NA	NA	NA	INTRO	Conditional analyses in stage 1 + 2 samples could not differentiate between the effect of these two SNPs (Supplementary Note; Supplementary Table 7)
+0	NA	NA	NA	INTRO	None of the 11 SNPs (Table 2) were convincingly associated with body mass index (BMI) (Supplementary Table 8) or other T2D-related traits (with p<10-3) (Supplementary Table 9).
+1	NA	NA	rs17036101	INTRO	The largest fold-change in T2D association p values before and after adjusting for BMI was for rs17036101 (p=8.1x10-8 before adjustment and p=7.5x10-6 after adjustment for BMI; Supplementary Table 10).
+0	NA	p<10-4	NA	INTRO	Conditioning on the associated SNP that was taken forward to stages 2 and 3 in each region revealed no additional independent association signals (p<10-4) in stage 1 data (Supplementary Figure 4; Supplementary Note)
+0	NA	NA	NA	INTRO	By combining three GWA scans involving 10,128 samples (enhanced through imputation approaches) and undertaking large-scale replication in up to 79,792 additional samples, we have identified six additional loci from the human genome that apparently harbor common genetic variants that influence susceptibility to T2D.
+0	NA	NA	NA	INTRO	These findings are consistent with a model in which the preponderance of loci detectable through the GWA approach (using current arrays and indirect, LD mapping, at least) have modest effects (ORs between 1.1 and 1.2).
+0	NA	NA	NA	INTRO	Given such a model, our study (in which we followed up only 69 signals out of over 2 million meta-analysed SNPs) would be expected to recover only a subset of the loci with similar characteristics (that is, those that managed to reach our stage 1 selection criteria).
+0	NA	NA	NA	INTRO	Further efforts to expand GWA meta-analyses and to extend the number of SNPs taken forward to large-scale replication should confirm additional genomic loci, as should targeted analysis of copy number variation.
+0	NA	NA	NA	INTRO	However, estimates based on the first common SNP marker in a region are certainly underestimates.
+0	NA	NA	NA	INTRO	The effect of the actual common causal mutation(s) will typically be larger, since effect sizes are now estimated through LD.
+0	NA	KCNJ11	NA	INTRO	Moreover, the same genes likely carry rare mutations of larger effect: three genes with common variants that influence risk of T2D were first discovered based on rare Mendelian mutations (KCNJ11, WSF1 and TCF2).
+0	glucose homeostasis	NA	NA	INTRO	Regardless of effect size, these loci provide important clues to the processes involved in the maintenance of normal glucose homeostasis and in the pathogenesis of type 2 diabetes
+0	NA	NA	NA	METHODS	The WTCCC stage 1 sample consists of 1,924 T2D cases and 2,938 population controls from the UK.
+0	NA	NA	NA	METHODS	These samples were genotyped on the Affymetrix GeneChip Human Mapping 500k Array Set.
+0	NA	NA	NA	METHODS	The call frequency of included samples was >0.97.
+0	NA	NA	NA	METHODS	393,143 autosomal SNPs passed quality control (QC) criteria: Hardy-Weinberg equilibrium [HWE] p>10-4 in T2D cases and controls, call frequency >0.95, minor allele frequency (MAF)>0.01, and good clustering, as defined in
+0	NA	NA	NA	METHODS	The DGI stage 1 Swedish and Finnish sample consists of 1,464 T2D cases and 1,467 normoglycemic controls.
+0	NA	NA	NA	METHODS	Of these, 2,097 are population-based T2D cases and controls matched for BMI, gender, and geographic origin, and 834 are T2D cases and controls in 326 sibships discordant for T2D.
+0	NA	NA	NA	METHODS	These samples were genotyped on the Affymetrix GeneChip Human Mapping 500k Array Set, and all included samples had a genotype call rate >0.95.
+0	NA	NA	NA	METHODS	378,860 autosomal SNPs passed QC criteria (call frequency >0.95, HWE p>10-6 in controls and MAF>0.01 in both population and familial components)
+0	NA	NA	NA	METHODS	The FUSION stage 1 sample consists of 1,161 Finnish T2D cases and 1,174 Finnish normal glucose tolerant controls.
+0	NA	NA	NA	METHODS	In addition, 122 FUSION offspring with genotyped parents were included for quality control purposes and quantitative trait analysis.
+0	NA	NA	NA	METHODS	Samples were genotyped with the Illumina HumanHap300 BeadChip (version 1.1).
+0	NA	NA	NA	METHODS	All samples included had a call frequency >0.975.
+0	NA	NA	NA	METHODS	306,222 autosomal SNPs passed QC and had a HWE p>=10-6 in the total sample, <=3 combined duplicate or non-Mendelian inheritance errors (out of 79 duplicate samples and 122 parent-offspring sets), call frequency >=0.90, and MAF>0.01
+0	NA	NA	NA	METHODS	In combining data across the three studies, we did not attempt, given differences in study design and implementation, to harmonize every aspect of individual study analysis and QC.
+0	NA	NA	NA	METHODS	For the UK, DGI and FUSION studies respectively, 393,143, 378,860 and 306,222 SNPs were analyzed under an additive model.
+0	NA	NA	NA	METHODS	The genomic control values for these directly genotyped SNPs were 1.08 (UK), 1.06 (DGI) and 1.03 (FUSION) (Supplementary Methods)
+0	NA	NA	NA	METHODS	For each stage 1 sample set, we imputed genotypes for autosomal SNPs that were present in HapMap Phase II but were not present in the genome-wide chip or did not pass direct genotyping QC.
+0	NA	NA	NA	METHODS	In each sample, genotypes were imputed using the genotype data from the GWA chips and phased HapMap II genotype data from the 60 CEU HapMap founders.
+0	NA	NA	NA	METHODS	We retained SNPs that had an estimated MAF>0.01 in the control samples.
+0	NA	NA	NA	METHODS	Imputed SNPs were then tested for T2D association.
+0	NA	NA	NA	METHODS	The genomic control values for these imputed SNPs were 1.08 (UK), 1.07 (DGI) and 1.04 (FUSION) (Supplementary Methods)
+0	NA	NA	NA	METHODS	We used meta-analysis to combine the T2D association results for the stage 1 WTCCC, DGI and FUSION samples.
+0	NA	NA	NA	METHODS	The combined stage 1 data are comprised of 10,128 samples: 4,549 T2D cases and 5,579 controls.
+0	NA	NA	NA	METHODS	We used association results from directly genotyped SNPs, where available, and imputed genotype association results at all other positions.
+0	NA	NA	NA	METHODS	2,168,847 genotyped and imputed autosomal SNPs passed QC and had MAF>0.01 in each of the three samples (44,750 were genotyped in all three samples, 308,628 were genotyped in two samples, 245,158 were genotyped in one sample, 1,570,311 were imputed in all samples).
+0	NA	NA	NA	METHODS	All association results were expressed relative to the forward strand of the reference genome based on dbSNP125.
+0	NA	NA	NA	METHODS	For our initial analysis, which was used to select signals for stage 2 genotyping, for each SNP we combined the ORs for a given reference allele weighted by the confidence intervals using a fixed effects model.
+0	NA	NA	NA	METHODS	We investigated evidence for heterogeneity of ORs using two commonly used statistics: Cochrans's Q statistic and I2
+0	NA	NA	NA	METHODS	We repeated the meta-analysis combining evidence for association based solely on the p value.
+0	NA	NA	NA	METHODS	Specifically, for each study we converted the two-sided p value to a z-statistic which was signed to reflect the direction of the association given the reference allele.
+0	NA	NA	NA	METHODS	Each z-score was then weighted; the squared weights were chosen to sum to 1 and each sample-specific weight was proportional to the square root of the effective number of individuals in the sample.
+0	NA	NA	NA	METHODS	Weighted z-statistics were summed across studies and the summary z-score converted to a two-sided p value
+0	NA	NA	NA	METHODS	We prioritized 69 SNPs for replication in stage 2 based on the results from the three-study stage 1 meta-analysis, using a set of criteria we developed as part of a heuristic approach to the prioritization of loci for follow-up (Supplementary Methods).
+0	NA	NA	NA	METHODS	Briefly, we considered SNPs with a meta-analysis p value <10-4 and a meta-analysis heterogeneity p value >10-4.
+0	NA	NA	NA	METHODS	These selections were largely made using the initial OR-based version of the meta-analysis.
+0	NA	NA	NA	METHODS	We allowed some exceptions to the above follow-up criteria
+0	NA	NA	NA	METHODS	Five SNPs were selected for replication genotyping on the basis of their strong association with T2D in the DGI GWA study (2 SNPs), association with T2D and with insulinogenic index in the DGI study (1 SNP), and overlap with FUSION or WTCCC (p<0.05 in DGI and one or both studies; 2 SNPs).
+1	NA	TCF7L2	NA	METHODS	For known T2D loci (TCF7L2, CDKAL1, IGF2BP2, KCNJ11, HHEX/IDE, SLC30A8, CDKN2A/2B region, WFS1, TCF2, and FTO) we excluded from follow-up all SNPs that resided within the surrounding region, with region boundaries defined by the furthest neighboring SNPs with p values remaining ~0.01 (n=1,981).
+1	NA	PPARG	rs17036101	METHODS	For the PPARG region, we identified a SNP, rs17036101, with a p value two orders of magnitude lower than the established Pro12Ala susceptibility variant, rs1801282, and took this signal forward to replication.
+0	NA	NA	NA	METHODS	A total of 69 SNPs were taken forward to stage 2 genotyping
+0	NA	RS1	NA	METHODS	We genotyped the prioritized SNPs in cases and controls from three UK replication sets (RS1, RS2 and RS3, described in; Supplementary Table 1; Supplementary Methods).
+0	NA	RS1	NA	METHODS	Genotyping of prioritized SNPs in RS1, RS2 and RS3 was performed by Kbiosciences (Herts., UK).
+0	NA	NA	NA	METHODS	All assays were validated prior to use, using a standard 96-well validation plate used by Kbiosciences and up to 296 samples from the WTCCC study (see Comparison of genotypes from imputation and direct genotyping; Supplementary Methods).
+0	NA	NA	NA	METHODS	Concordance rates between the Affymetrix and KASPar/TaqMan genotypes (based on up to 296 replicate stage 1 samples) were 97.5% on average.
+0	NA	NA	NA	METHODS	All genotyped SNPs had genotype call frequency rates >94% in the replication sets and no SNPs had HWE p value<0.001 in cases or controls.
+0	NA	NA	NA	METHODS	We tested for association with T2D using the Cochran-Armitage test for trend.
+0	NA	NA	NA	METHODS	Results from the 3 replication sets were combined in a Cochran-Mantel-Haenszel meta-analysis framework
+0	NA	NA	NA	METHODS	We genotyped the prioritized SNPs in three stage 2 case-control samples (Supplementary Table 1; Supplementary Methods).
+0	NA	NA	NA	METHODS	The prioritized SNPs were genotyped in all DGI stage 1 and 2 samples using the iPLEX Sequenom MassARRAY platform (http://www.sequenom.com/Assets/pdfs/appnotes/8876-006.pdf).
+0	NA	NA	NA	METHODS	63 SNPs passing QC (>94% call rate, MAF>0.01 and HWE p value >0.001) were used for association testing.
+0	NA	NA	NA	METHODS	We tested for T2D association in each DGI stage 2 case-control set using a chi-squared analysis (assuming an additive genetic model).
+0	NA	NA	NA	METHODS	Results from the three DGI stage 2 samples were combined using Cochran-Mantel-Haenszel meta-analysis
+0	NA	NA	NA	METHODS	We genotyped the prioritized SNPs in a Finnish case-control sample (Supplementary Table 1; Supplementary Methods) using the Sequenom Homogeneous Mass EXTEND or iPLEX Gold SBE assays, carried out at the National Human Genome Research Institute (NHGRI).
+0	NA	NA	NA	METHODS	59 SNPs had genotype call frequency >94% and HWE p value >0.001.
+0	NA	NA	NA	METHODS	The genotype consistency rate among 56 duplicate samples was 100% and the average call frequency of successfully genotyped SNPs was 97.3%.
+0	NA	NA	NA	METHODS	SNPs were analyzed using logistic regression with adjustment for sex, 5-year age category and birth province and an additive model for the genetic effect
+0	NA	NA	NA	METHODS	A proportion of the prioritized imputed signals was genotyped in the stage 1 samples of the three studies and respective concordance rates were calculated (Supplementary Methods; Supplementary Table 4).
+0	NA	NA	NA	METHODS	All results presented in the main manuscript text are based on directly-typed stage 1 data
+0	NA	NA	NA	METHODS	We combined stage 1 and stage 2 data using both the OR-based and the weighted z score-based meta-analysis approaches described above (Stage 1 meta-analysis).
+0	NA	NA	NA	METHODS	We also assessed our results using random effects meta-analysis to better account for any heterogeneity between the studies (Supplementary Table 6).
+0	NA	NA	NA	METHODS	Locus-specific and combined sibling relative risk estimates were calculated using sample size-weighted estimates of the effect size and risk-allele frequency derived from stage 2 replication samples only, and under the assumption of allelic and locus independence, as described by
+1	NA	NA	L359P	METHODS	Eleven SNPs (rs2641348, rs10490072, rs7578597, rs17036101, rs4607103, rs9472138, rs864745, rs12779790, rs1153188, rs10923931, and rs7961581) were followed up in the stage 3 samples, from the deCODE, KORA, Danish, HUNT, NHS, GEM Consortium (CCC, EPIC, ADDITION/Ely, Norfolk) and METSIM studies (Supplementary Table 1; Supplementary Methods)
+0	NA	NA	NA	METHODS	We combined stage 1, 2 and 3 data using both meta-analysis approaches (fixed-effects model to combine ORs and weighted p value-based z-statistic combination across all sample sets) described above (Stage 1 meta-analysis).
+0	NA	NA	NA	METHODS	We also assessed our results using random effects meta-analysis (Supplementary Table 6).
+1	NA	NA	rs7578597	METHODS	We observed some evidence for heterogeneity across studies (the I2 statistic ranged from 0 to 57.8% depending on SNP), with rs7578597 and rs10923931 displaying the largest fold differences in association p value between the fixed- and random-effects model analyses.
+0	NA	NA	NA	METHODS	Differences in strength of association across studies (leading to evidence for heterogeneity) could reflect interesting biological associations that vary from study to study depending on subject ascertainment scheme
+0	NA	NA	NA	METHODS	We have adopted two strategies in reporting the findings from this study.
+0	NA	NA	NA	METHODS	In the first, we performed GC-correction of data from DGI, FUSION and WTCCC prior to stage 1 meta-analysis.
+0	NA	NA	NA	METHODS	We corrected each individual study for the GC inflation observed (directly genotyped and imputed data separately), and combined results across studies.
+0	NA	NA	NA	METHODS	We present the genome-wide distribution of association statistics in Supplementary Figure 1.
+0	NA	NA	NA	METHODS	We note that, after study-specific genomic control adjustment, the estimated inflation factor for the stage-1 meta-analysis test statistic was 1.04
+0	NA	NA	NA	METHODS	In the second, we combined GC-uncorrected data from DGI, FUSION and WTCCC for stage 1 meta-analysis and did not correct the meta-analysis test statistics for the overall GC (to guard against over-conservativeness in the estimate of strength of association for interesting signals).
+0	NA	NA	NA	METHODS	We also present the genome-wide distribution of these statistics in Supplementary Figure 1
+0	NA	NA	NA	METHODS	For the combination of data across stages 1, 2 and 3, we also adopted these two strategies (of using GC-corrected and GC-uncorrected stage 1 data).
+0	NA	NA	NA	METHODS	In the first, we performed individual GC-correction of DGI, FUSION and WTCCC stage 1 data prior to meta-analysis with stage 2 and stage 3 data (an approach which may be over-conservative where, as here, none of the T2D-associated SNPs has particular hallmarks of stratification) (Supplementary Note).
+0	NA	NA	NA	METHODS	In the second, we combined only uncorrected data (except for the deCODE data, where we have applied GC correction given a more marked genomic control inflation [GC ~1.3] in that sample).
+0	NA	NA	NA	METHODS	We present the resulting data from both approaches (of using GC-corrected and GC-uncorrected stage 1 data for stage 1-3 meta-analysis) in Supplementary Table 6 and a comparison of results (showing very small differences) in the Supplementary Note.
+0	NA	NA	NA	METHODS	All data presented elsewhere in the manuscript reflect the GC-corrected analysis strategy outcome
+0	NA	NA	NA	METHODS	For each SNP in Table 2, we assessed the additive SNP association in the stage 1 and 2 samples before and after including body mass index in the logistic regression model.
+0	NA	NA	NA	METHODS	For each genotyped and imputed SNP surrounding a specific T2D signal we assessed the additive SNP association in the stage 1 sample before and after including the Table 2 SNP from the same region in the model.
+0	NA	NA	NA	METHODS	We analyzed the data and adjusted for covariates for the stage 1 and stage 2 analysis of each sample.
+0	NA	NA	NA	METHODS	Data were combined across studies as described above.
+0	NA	NA	NA	METHODS	The ORs and CIs were calculated using a fixed-effects model and p values were calculated using the weighted z-score method.
+0	NA	NA	NA	METHODS	For the UK stage 1 samples, we did not have BMI information available for ~1,500 of the population-based controls.
+0	NA	NA	NA	METHODS	We therefore carried out the conditional BMI analyses by using all T2D cases and only those controls for whom BMI data were available
+0	NA	NA	NA	METHODS	Quantitative trait analyses were carried out in the UK, DGI and FUSION samples for the 11 SNPs taken forward to stage 3.
+0	NA	insulin	NA	METHODS	We tested BMI, quantitative glycemic traits (fasting and 2 hour glucose and insulin, HOMA-IR), lipid traits (total, HDL and LDL cholesterol, and serum triglycerides) and blood pressure (systolic and diastolic), where available, for association using an additive genetic model (Supplementary Methods)
+0	NA	NA	NA	FIG	Regional plots of six confirmed associations.
+1	NA	JAZF1	NA	FIG	For each of the (A) JAZF1, (B) CDC123/CAMK1D, (C) TSPAN8/LGR5, (D) THADA, (E) ADAMTS9 and (F) NOTCH2/ADAM30 regions, genotyped and imputed SNPs passing QC across all three stage 1 studies are plotted with their meta-analysis p values (as -log10 values) as a function of genomic position (with NCBI Build 35).
+0	NA	NA	NA	FIG	In each panel, the SNP taken forward to stages 2 and 3 is represented by a blue diamond (meta-analysis p value across stages 1-3), and its initial p value in stage 1 data is denoted by a red diamond.
+0	NA	NA	NA	FIG	Estimated recombination rates (taken from HapMap) are plotted to reflect the local LD structure around the associated SNPs and their correlated proxies (according to a white to red scale from r2=0 to r2=1; based on pairwise r2 values from HapMap CEU).
+0	NA	NA	NA	FIG	Gene annotations were taken from the University of California-Santa Cruz genome browser
+0	NA	NA	NA	TABLE	Eleven T2D-associated SNPs taken forward to stages 2 and 3

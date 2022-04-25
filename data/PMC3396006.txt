@@ -1,0 +1,159 @@
+0	Breast and prostate cancer	NA	NA	ABSTRACT	Prostate cancer (PrCa) is the most frequently diagnosed male cancer in developed countries.
+0	NA	NA	NA	ABSTRACT	To identify common PrCa susceptibility alleles, we conducted a multi-stage genome-wide association study and previously reported the results of the first two stages, which identified 16 novel susceptibility loci for PrCa.
+0	NA	NA	NA	ABSTRACT	Here we report the results of stage 3 in which we evaluated 1,536 SNPs in 4,574 cases and 4,164 controls.
+0	NA	NA	NA	ABSTRACT	Ten novel association signals were followed up through genotyping in 51,311 samples in 30 studies through the international PRACTICAL consortium.
+0	Breast and prostate cancer	NA	NA	ABSTRACT	In addition to previously reported loci, we identified a further seven new prostate cancer susceptibility loci on chromosomes 2p, 3q, 5p, 6p, 12q and Xq (P=4.0 x10-8 to P=2.7 x10-24).
+0	NA	TERT	NA	ABSTRACT	We also identified a SNP in TERT more strongly associated with PrCa than that previously reported.
+0	NA	NA	NA	ABSTRACT	More than 40 PrCa susceptibility loci, explaining ~25% of the familial risk in this disease, have now been identified
+0	NA	NA	NA	INTRO	Genome-wide association studies (GWAS) provide a powerful approach to identify common disease alleles.
+0	NA	NA	NA	INTRO	We previously conducted a GWAS based on genotyping of 541,129 SNPs in 1,854 clinically detected PrCa cases and 1,894 controls (stage 1).
+0	NA	NA	NA	INTRO	In a second stage, 43,671 SNPs showing evidence for association in stage 1 were genotyped in 3,650 PrCa cases and 3,940 controls (stage 2).
+0	NA	NA	NA	INTRO	These studies, together with further follow-up through the PRACTICAL consortium identified 16 PrCa susceptibility loci.
+0	NA	NA	NA	INTRO	Taken together with loci identified through other GWAS, more than 30 PrCa susceptibility loci have been reported, and these account for approximately 23% of the familial risk of the disease
+0	NA	NA	NA	INTRO	Since the risks associated with common susceptibility alleles are modest (per-allele odds ratios, OR, ranging from 1.10-1.25), it is likely that other PrCa predisposition loci will have been missed by previous studies, and that such loci should be detectable by studies with larger sample sizes.
+0	NA	NA	NA	INTRO	We therefore conducted a more extensive follow-up of SNPs showing evidence of association in our GWAS.
+0	NA	NA	NA	INTRO	We first used imputation, utilising the HapMap phase II CEU data as a reference, to estimate genotypes in our stage 1 and 2 data at ~2.6M SNPs.
+0	NA	NA	NA	INTRO	To improve power, we then combined these data with imputed data from the Cancer Genetic Markers of Susceptibility (CGEMS;) PrCa study, a GWAS of 1,117 PrCa cases and 1,105 controls, using a stratified 1df P-trend (see statistical methods)
+0	NA	NA	NA	INTRO	We used these combined results to select SNPs for a stage 3 analysis.
+0	NA	NA	NA	INTRO	We selected 1,263 SNPs based on their ranked P-values, together with 178 additional SNPs selected for fine-mapping of three regions, of known susceptibility loci or from candidate gene studies (see methods).
+0	NA	NA	NA	INTRO	These SNPs were genotyped using an Illumina Golden Gate assay in 4,999 PrCa cases and 4,939 controls from the United Kingdom (UK) and Australia (see Methods and Supplementary Notes.
+0	NA	NA	NA	INTRO	After quality control (QC) exclusions (see Methods), data were utilised from 1,347 SNPs in 4,574 PrCa cases and 4,164 controls (Supplementary Figure 1).
+0	NA	NA	NA	INTRO	Genotype frequencies in cases and controls were compared using a 1 degree of freedom (df) Cochran-Armitage trend test, stratified by study
+0	NA	NA	NA	INTRO	After exclusion of SNPs in previously known susceptibility regions, there was a clear excess of nominally significant associations in stage 3, with 11 SNPs significant at P<0.001 (in 7 regions on chromosomes 2, 5, 6 and 12) compared with 1.1 that would be expected by chance.
+0	NA	NA	NA	INTRO	We then combined data from the stage 3 with those from the previous stages and with the CGEMS data.
+0	NA	P<10-7	NA	INTRO	In the combined dataset, we identified 16 SNPs from 10 regions in which the highest ranking SNP reached a significance of P<10-7 in the combined analysis or P<10-3 in stage 3.
+0	NA	NA	NA	INTRO	Multiple logistic regression analysis indicated that a single SNP was sufficient to explain the association signal at each region, in that no further SNPs were significantly associated with risk after adjustment for the most strongly associated SNP
+0	NA	NA	NA	INTRO	These 10 SNPs were then subjected to further replication analysis (stage 4) in an international study, involving 26,055 cases and 25,256 controls from 30 studies participating in the PRACTICAL Consortium (Supplementary Figure 1 and Supplementary Notes).
+0	NA	NA	NA	INTRO	Nine SNPs showed evidence of replication in stage 4 (P<=0.007) each in the same direction as in stages 1-3, with a significance of P=4.0 x10-8 to P= 2.7 x10-24 in a combined analysis across all stages (Table 1., Fig 1. and Supplementary Figure 1).
+0	NA	NA	rs37181	INTRO	"rs37181 on 5q22 showed no evidence of association in stage 4 and did not reach ""genome-wide"" significance in an overall combined analysis (P=.17 in stage 4, P=5.3x10-5 overall)."
+0	NA	NA	rs7584330	INTRO	Of the nine loci reaching genome-wide significance, SNP rs7584330 is in the same region as a locus recently reported in a parallel GWAS of PrCa (Schumacher et al, Hum Mol Genet.
+0	NA	NA	NA	INTRO	2011, in press).
+0	NA	NA	NA	INTRO	The second stage of that study also included data from stages 1 and 2 of our GWAS.
+0	NA	NA	rs2292884	INTRO	The associated SNP in that study, rs2292884, is in LD with rs7584330 (r2=0.59) reported here and is likely to reflect the same signal, although rs7584330 exhibited a stronger association in our GWAS (Supplementary Figure 2. a)
+1	NA	TERT	rs2242652	INTRO	SNP rs2242652 on 5p15 lies in intron 3 of TERT (telomerase reverse transcriptase) (Figure 2.
+0	NA	NA	NA	INTRO	a.).
+0	cancers	NA	NA	INTRO	SNPs in this region have been associated with multiple cancers, including basal cell carcinoma, lung cancer, bladder cancer, glioma and testicular cancer.
+0	NA	NA	rs401681	INTRO	Some evidence for an association with PrCa risk has also previously been reported for SNPs rs401681 and rs2736098 in this region (P=3.6x10-4 and P=1.3x10-4).
+1	NA	NA	rs2242652	INTRO	In contrast, we found much stronger evidence of an association with SNP rs2242652 in the same region.
+1	NA	NA	rs2242652	INTRO	The novel SNP identified in this GWAS, rs2242652, is weakly correlated with the previously reported rs401681 (r2= 0.19) and showed a much stronger association with PrCa risk in our original GWAS (P =9.8 x10-11 in stages 1, 3 and CGEMS vs. P=0.001 for rs401681).
+1	NA	NA	rs2242652	INTRO	Multiple logistic regression analysis indicated that rs2242652 was associated with PrCa risk after adjustment for rs401681 (P= 4.6x10-9 and P= 0.07 respectively).
+1	NA	NA	rs2242652	INTRO	In a stepwise logistic regression including both SNPs, rs2242652 alone remained in the model (P= 4.4x10-11).
+1	NA	NA	rs2242652	INTRO	rs2242652 is also modestly correlated with rs2736098 (r2=0.10), although the latter SNP was not genotyped in any stage of our GWAS.
+1	NA	NA	rs2242652	INTRO	Thus, rs2242652 may be more strongly correlated to the variant(s) causally related to PrCa risk than either rs401681 or rs2736098.
+0	cancers	TERT	NA	INTRO	This may also indicate that the variant(s) functionally related to PrCa risk in the TERT region differs from those for other cancers.
+0	NA	NA	NA	INTRO	The major role of telomerase is to catalyze the de novo addition of telomeric repeat sequences onto chromosome ends and thereby counterbalance telomere-dependent replicative ageing.
+0	cancers	TERT	NA	INTRO	Several studies have reported an association between short telomeres and increased risk of cancer at several sites although the cancer-associated SNPs in TERT have thus far not been associated with telomere length
+0	cancers	NA	NA	INTRO	All but one of the autosomal SNPs associated with PrCa risk exhibit a pattern of association consistent with a log-additive model, as observed for most common cancer susceptibility alleles (Supplementary Table 1).
+1	NA	NA	rs2121875	INTRO	For rs2121875 at 5p12, the estimated OR in stage 4 for rare allele homozygotes is 1.14 (95%CI 1.07-1.21) which was greater than expected under a log-additive model (P=0.02)
+1	NA	NA	rs2121875	INTRO	There was some evidence for a difference in the per-allele ORs among European, Asian and African-American populations for rs2121875 (P=0.03 for heterogeneity in the OR by population, Supplementary Table 2).
+0	NA	NA	NA	INTRO	However, the sample sizes for the Asian and African-American populations were too small to evaluate the associations in these populations reliably
+0	NA	PSA	NA	INTRO	We were able to examine the associations between genotypes of the 10 SNPs selected for replication in PRACTICAL and serum PSA levels in 1089 control samples from stage 3 of our scan and 1540 controls from stage 4 (Supplementary Table 3).
+1	NA	TERT	rs2242652	INTRO	One SNP, rs2242652 (chromosome 5p15, TERT) showed an association with PSA level (P=0.006), in the direction consistent with its association with PrCa risk
+0	NA	NA	NA	INTRO	Data on Gleason score were available for 19,959 PrCa European cases.
+1	NA	NA	rs5919432	INTRO	There was some evidence of a higher per-allele OR for Gleason score >= 8 disease for one SNP, rs5919432 (Xq12; Supplementary Table 4).
+0	aggressive disease	NA	NA	INTRO	This general lack of association with aggressiveness is broadly consistent with the other susceptibility loci identified through GWAS.
+1	NA	NA	rs10187424	INTRO	Four SNPs, however, showed evidence of a differential association with age, in each case with bigger effect (smaller or bigger OR) at younger ages: rs10187424 (2p11.2; P=0 .02), rs2242652 (5p15.33; P=0.01), rs130067 (6p21.33; P=0.03), and rs5919432 (Xq12; p=0.04) (Supplementary Table 5).
+0	NA	NA	NA	INTRO	This age effect has not been seen consistently for previously identified susceptibility SNPs, but would be consistent with the higher familial relative risks at younger age.
+1	NA	NA	rs10187424	INTRO	In addition, four SNPs exhibited stronger associations when analyses were restricted to cases with a family history of PrCa: rs10187424 (2p11.2; P=.006), rs7584330 (2q37.2; P=0.01), rs6763931 (3q23; P =0.03) and rs130067 (6p21.33; P=0.002).
+0	NA	NA	NA	INTRO	This is consistent with the expected enrichment of effect in familial cases under a multiplicative polygenic model (Supplementary Table 6).
+0	NA	NA	NA	INTRO	A PrCa locus at 2q37.2 has recently been reported in a genome-wide linkage scan in Finnish families
+1	NA	TERT	rs6763931	INTRO	All of the newly associated loci lie in LD blocks that include plausible causative genes Besides TERT, particularly notable is rs6763931 at 3q23, which lies in intron 4 of ZBTB38, a zinc finger transcriptional repressor that binds methylated DNA (Figure 2. b).
+0	NA	ZBTB38	NA	INTRO	The murine homologue of ZBTB38, cibz, is a repressor of apoptosis.
+1	NA	NA	rs6763931	INTRO	An association between rs6763931 and human adult height has previously been reported, with the PrCa risk allele (A) being associated with increased height.
+0	tallness	NA	NA	INTRO	Previous studies have suggested that tallness may be associated with an elevated risk of aggressive PrCa; Gudbjartsson et al.
+1	NA	ZBTB38	rs6763931	INTRO	found that rs6763931 was the SNP most significantly correlated with ZBTB38 expression in blood and adipose tissue
+1	NA	FGF10	rs2121875	INTRO	rs2121875 at 5p12 is intronic in FGF10, a fibroblast growth factor essential for a range of developmental processes (Figure 2. c).
+1	breast cancer	FGF10	NA	INTRO	FGF10 is often over-expressed in breast carcinomas and there is some evidence to indicate a role in the growth of normal prostatic epithelial cells.
+1	psoriasis	CCHCR1	rs130067	INTRO	rs130067 at 6p21 is a coding SNP (Glu>Asp) in CCHCR1 (coding for coiled-coil alpha-helical rod protein1) a gene linked with psoriasis, an inflammatory condition (Figure 2. d).
+1	non-melanoma skin cancer	CCHCR1	NA	INTRO	CCHCR1 is up-regulated in skin cancer and is associated with EGFR expression.
+1	NA	CCHCR1	NA	INTRO	CCHCR1 promotes steroidogenesis by interacting with the steroidogenic acute regulator protein (StAR) and has a regulatory role in transcription factor binding
+0	NA	NA	NA	INTRO	The other four associated loci are on chromosome 2p, 3q, 12q and X.
+0	NA	NA	NA	INTRO	(Supplementary Fig.
+0	NA	NA	NA	INTRO	2. b-e.).
+1	NA	GGCX	rs10187424	INTRO	rs10187424 on 2p11 is located in a gene-rich region that includes GGCX, VAMP8, VAMP5, and RNF181, a gene for a DNA damage-regulated RING finger protein.
+1	NA	CLDN11	rs10936632	INTRO	rs10936632 on 3q26 resides between the claudin gene CLDN11 and SKIL, a SKI-like oncogene.
+0	NA	peripherin	rs10875943	INTRO	rs10875943 on 12q13 is between an alpha-tubulin gene cluster and the peripherin gene PRPH.
+1	NA	androgen receptor	rs5919432	INTRO	The X-chromosomal SNP rs5919432 is located 77 kb from AR (androgen receptor)
+0	NA	NA	NA	INTRO	With the identification of these new loci, more than 40 susceptibility loci for PrCa have now been identified.
+1	NA	NA	rs2242652	INTRO	Most of the per-allele ORs estimated for these variants in this study population were modest, the strongest being an OR of 0.87 associated with the minor allele of rs2242652.
+0	NA	NA	NA	INTRO	These results were based on imputation of common variants using the Hapmap phase II reference panel and results from genotyped SNPs at stages 3 and 4.
+0	NA	NA	NA	INTRO	Taken together with previous GWAS analyses, these results strongly suggest that no further common variants that are imputable from the GWAS completed from current genotyping platforms confer substantially higher ORs (e.g.
+0	NA	MSMB	rs10993994	INTRO	greater than 1.2, as estimated for rs10993994 at MSMB, or susceptibility SNPs on 8q24)
+0	NA	NA	NA	INTRO	Based on an overall two-fold familial relative risk to first-degree relatives of PrCa cases, and on the assumption that the SNPs combine multiplicatively, the new loci reported here together explain approximately 1.5% of the familial risk of PrCa.
+0	NA	NA	NA	INTRO	When previously reported loci are included, approximately 25% of familial risk in PrCa may now be explained.
+0	NA	NA	NA	INTRO	Under this model, the top 10% of the population at highest risk has a relative risk approximately 2.4 fold greater than the average risk in the general population, while the top 1% has an estimated 4.1 fold increased relative risk.
+0	NA	NA	NA	INTRO	Such risk prediction may become important for facilitating targeted screening and prevention programs
+0	NA	NA	NA	METHODS	PrCa cases and controls used in stage 1 and 2 of the GWAS have been described previously.
+0	NA	NA	NA	METHODS	PrCa cases and controls for stage 3 were selected from studies in the UK and Australia.
+0	Breast and prostate cancer	NA	NA	METHODS	UK cases were drawn from the UK Genetic Prostate Cancer Study (UKGPCS) and Studies of Epidemiology and Risk Factors in Cancer Heredity (SEARCH).
+0	NA	NA	NA	METHODS	UKGPCS includes cases PrCa recruited from urologists throughout the UK, and a series of cases recruited from PrCa clinics in the Urology Unit at The Royal Marsden NHS Foundation Trust over a 17 year period.
+0	cancers	NA	NA	METHODS	The controls (n=1947) were selected from men in the ProtecT (Prostate testing for cancer and Treatment) study.
+0	NA	PSA	NA	METHODS	ProtecT is a national study of community-based PSA testing and a randomised trial of subsequent PrCa treatment.
+0	NA	NA	NA	METHODS	Approximately 110,000 men between the ages of 50 and 69 years, (with a small set of men aged 45-49 years from one centre), were ascertained through general practices in nine regions in the UK.
+0	NA	PSA	NA	METHODS	For this study we selected as controls men who had a PSA of <10ng/ml and negative prostate biopsies.
+0	NA	PSA	NA	METHODS	Men with PSA >=3ng/ml were excluded if they had a positive prostatic biopsy.
+0	NA	NA	NA	METHODS	We excluded, from both cases and controls, men who self-reported to be non-white.
+0	NA	PSA	NA	METHODS	The majority of men in the UK are diagnosed via a clinical presentation; amongst the cases in this study 100% of those from the ProtecT study were diagnosed through asymptomatic PSA screening
+0	cancers	NA	NA	METHODS	SEARCH cases (n=1468) were recruited through the Eastern Cancer Registration and Information Centre (ECRIC), a regional cancer registry covering the counties of Cambridgeshire, Norfolk, Suffolk, Bedfordshire, Hertfordshire and Essex.
+0	NA	NA	NA	METHODS	Cases diagnosed below the age of 70 since August 2003 who were within three years of diagnosis at notification are eligible to participate.
+0	NA	NA	NA	METHODS	The first 1468 patients recruited were included in this study.
+0	NA	NA	NA	METHODS	Controls were identified from the registers of general practices in the Eastern region that had recruited cases and were broadly age-group matched to the cases
+0	NA	NA	NA	METHODS	The Australian samples (1379 cases and 855 controls) in stage 3 were ascertained from two studies; MCCS and EOPCFS.
+0	NA	NA	NA	METHODS	Stage 4 included samples from 30 PrCa case-control studies participating in the PRACTICAL consortium (PRACTICAL Phase IV) (Supplementary Table 7 and Supplementary Notes).
+0	NA	NA	NA	METHODS	All studies were approved by the appropriate ethics committees
+0	NA	NA	NA	METHODS	Stage 3 genotypes were generated using an Illumina Golden Gate Assay.
+0	NA	NA	NA	METHODS	We filtered out all SNPs with a call rate <95%, a minor allele frequency in controls of <1%, or whose genotype frequency in controls departed from Hardy-Weinberg equilibrium at p<0.00001.
+0	NA	NA	NA	METHODS	After these exclusions, we analyzed 1347 out of 1439 genotyped SNPs.
+0	NA	NA	NA	METHODS	Duplicate concordance was 99.99%
+0	NA	NA	NA	METHODS	In stage 4, genotyping of samples from 14 studies was performed by KASPar assay (www.kbioscience.co.uk), while 16 study sites performed the 5'exonuclease assay (Taqman ) using the ABI Prism 7900HT sequence detection system according to the manufacturer's instructions.
+0	NA	NA	NA	METHODS	Primers and probes were supplied directly by Applied Biosystems as Assays-By-Design .
+0	NA	NA	NA	METHODS	Assays at all sites included at least four negative controls and 2-5% duplicates on each 384-well plate.
+0	NA	NA	NA	METHODS	Quality control guidelines were followed by all the participating groups as previously described.
+0	NA	NA	NA	METHODS	In addition, all sites also genotyped 16 CEPH samples.
+0	NA	NA	NA	METHODS	We excluded individuals that were not typed for at least 80% of the SNPs attempted.
+0	NA	NA	NA	METHODS	Data on a given SNP for a given site were also excluded if they failed any of the following QC criteria: SNP call rate >95%, no deviation from Hardy-Weinberg equilibrium in controls at P<.00001; <2% discordance between genotypes in duplicate samples and in the CEPH samples.
+0	NA	NA	NA	METHODS	Cluster plots for SNPs that were close to failing any of the QC criteria were re-examined centrally
+0	NA	NA	NA	METHODS	We first combined data from stage 1 and 2 of our PrCa GWAS and stage 1 of CGEMS.
+0	NA	NA	NA	METHODS	Stage 1 included data on 1894 controls and 1854 cases genotyped for 541,129 SNPs using an Illumina Infinium 550k array.
+0	NA	NA	NA	METHODS	Stage 2 included 3940 controls and 3650 cases genotyped for 43,671 SNPs using an iSELECT.
+0	NA	NA	NA	METHODS	CGEMS included 2277 samples (1101 controls and 1176 cases) genotyped for 546,613 SNPs using the Illumina 317K and 240K arrays.
+0	NA	NA	NA	METHODS	We used MACH 1.0 (http://www.sph.umich.edu/csg/abecasis/MACH/) to impute genotypes of autosomal markers, with HapMap phase 2 of European population (CEU) as a reference panel.
+0	NA	NA	NA	METHODS	We included imputed data from a SNP if the estimated correlation between the genotype scores and the true genotypes (r2) was >0.3.
+0	NA	NA	NA	METHODS	We used IMPUTE v1 in order to perform the imputation for chromosome X.
+0	NA	NA	NA	METHODS	The imputed genotype probabilities were used to derive a 1df association score statistic for each SNP, and its corresponding variance.
+0	NA	NA	NA	METHODS	The scores and variances were then added to obtain a combined X2 trend statistic for each SNP, (equivalent to the Mantel extension test, or as in a fixed effects meta-analysis), in R. The imputed results were combined with the results of genotyped SNPs from the second stage of CGEMS
+0	NA	NA	NA	METHODS	SNPs for stage 3 were primarily selected from the ranked list of 1df P-values from the combined analysis of the previous stages.
+0	NA	NA	NA	METHODS	Only SNPs with design scores >0.8 were considered.
+0	NA	NA	NA	METHODS	"This list was ""thinned"" to exclude correlated SNPs."
+0	NA	NA	NA	METHODS	Where SNPs were correlated at r2>0.8, we preferentially included the SNP with the smallest P-value from among all SNPs previously genotyped, or, if no such SNP was available the SNP with the smallest P-value from among the imputed SNPs.
+0	NA	NA	NA	METHODS	We included 1263 SNPs from this list.
+0	NA	NKX3.1	NA	METHODS	In addition, we included 132 SNPs based on dense genotyping for fine-mapping purposes of three regions (covering the NKX3.1, ITGA6 and LMTK2 loci), together with 46 known PrCa susceptibility SNPs or proposed candidate SNPs.
+0	NA	NA	NA	METHODS	These latter candidate SNPs were not considered further here
+0	NA	NA	NA	METHODS	We assessed associations between each SNP and PrCa at stages 3 and 4 using a 1df Cochran-Armitage trend test stratified by study.
+0	NA	NA	NA	METHODS	The combined P-values over all stages were generated in similarly (using a 1df trend test based on summing the scores and variances from each stage).
+0	NA	P<10-7	NA	METHODS	SNPs were selected for validation in stage 4 on the basis of either a significance level of P<10-3 in a 1df trend test at stage 3 or a significance level of P<10-7 in a combined analyses of stage 1, 2, 3 and CGEMS.
+0	NA	NA	NA	METHODS	Where there was more than one SNP in a region, multiple logistic regression was used to define the minimal set of SNPs that showed evidence of association after adjustment for other SNPs
+0	NA	NA	NA	METHODS	In stage 4 we stratified analyses by study and ethnic group (European, African-American, Asian).
+0	NA	NA	NA	METHODS	Where <100 individuals were recorded in a minority ethnic group, these individuals were excluded.
+0	NA	NA	NA	METHODS	After exclusions, analyses were performed based on 26,055 PrCa cases and 25,256 controls.
+0	NA	NA	NA	METHODS	ORs and 95% confidence limits were estimated using unconditional logistic regression, stratified by study and ethnic group.
+0	NA	NA	NA	METHODS	"In the text we have reported the combined tests of association over all stages in European populations, but have emphasized the OR estimates from stage 4 to minimize the effect of ""winner's curse""."
+0	NA	NA	NA	METHODS	Tests of homogeneity of the ORs across strata and populations were assessed using likelihood ratio tests.
+0	aggressive disease	NA	NA	METHODS	Modification of the ORs by disease aggressiveness and family history was assessed by using the binary endpoint of family history (Yes vs. No); and Gleason score (<8 vs. >= 8).
+0	NA	NA	NA	METHODS	A test for association between genotype and Gleason score as an ordinal variable was also performed, using polytomous regression.
+0	NA	NA	NA	METHODS	Modification of the ORs by age was assessed using a case-only analysis, assessing the association between age and SNP genotype in the cases using polytomous regression.
+0	NA	PSA	NA	METHODS	The associations between SNP genotypes and PSA level were assessed using linear regression, after log-transformation of PSA level to correct for skewness.
+0	NA	NA	NA	METHODS	Analyses were performed in R (principally using GenABEL, SNPTEST, ProbABEL and Stata
+0	NA	NA	NA	FIG	Forest plots for the 10 SNPs genotyped in stages 1-4.
+0	NA	NA	NA	FIG	Squares represent the estimated per-allele odds ratio (OR) for individual studies.
+0	NA	NA	NA	FIG	The area of square is inversely proportional to the precise of the estimate.
+0	NA	NA	NA	FIG	Diamonds represent the summary OR estimates for the subgroups indicated.
+0	NA	NA	NA	FIG	Horizontal lines represent 95% confidence limits
+0	NA	NA	NA	FIG	Regional plots of four of the associated SNPs at 5p15 (a.
+0	NA	NA	NA	FIG	), 3q25 (b.
+0	NA	NA	NA	FIG	), 5p12 (c.), and 6p21 (d.).
+0	NA	NA	NA	FIG	Plots show the genomic regions associated with PrCa and -log10 association P values of SNPs.
+0	NA	NA	NA	FIG	Also shown are the SNP build 36/hg18 coordinates in kilobases, recombination rates and genes in the region.
+0	NA	NA	NA	FIG	The intensity of red shading indicates the strength of LD (r2) with the index SNP.
+0	NA	NA	NA	FIG	Plots drawn with a modified Rscript from http://www.broadinstitute.org/mpg/snap/ldplot.ph
+0	NA	NA	NA	TABLE	Summary results for the 10 SNPs selected for genotyping in stage 4

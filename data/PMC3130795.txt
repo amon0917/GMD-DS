@@ -1,0 +1,108 @@
+0	breast cancer	BRCA1	NA	ABSTRACT	Germline BRCA1 mutations predispose to breast cancer.
+0	breast cancer	BRCA1	NA	ABSTRACT	To identify genetic modifiers of this risk, we performed a genome-wide association study in 1,193 individuals with BRCA1 mutations who were diagnosed with invasive breast cancer under age 40 and 1,190 BRCA1 carriers without breast cancer diagnosis over age 35.
+0	breast cancer	BRCA1	NA	ABSTRACT	We took forward 96 SNPs for replication in another 5,986 BRCA1 carriers (2,974 individuals with breast cancer and 3,012 unaffected individuals).
+0	breast cancer	NA	rs8170	ABSTRACT	Five SNPs on 19p13 were associated with breast cancer risk (Ptrend = 2.3 x 10-9 to Ptrend = 3.9 x 10-7), two of which showed independent associations (rs8170, hazard ratio (HR) = 1.26, 95% CI 1.17-1.35; rs2363956 HR = 0.84, 95% CI 0.80-0.89).
+0	breast cancer	NA	rs2363956	ABSTRACT	Genotyping these SNPs in 6,800 population-based breast cancer cases and 6,613 controls identified a similar association with estrogen receptor-negative breast cancer (rs2363956 per-allele odds ratio (OR) = 0.83, 95% CI 0.75-0.92, Ptrend = 0.0003) and an association with estrogen receptor-positive disease in the opposite direction (OR = 1.07, 95% CI 1.01-1.14, Ptrend = 0.016).
+0	breast cancer	NA	rs2363956	ABSTRACT	The five SNPs were also associated with triple-negative breast cancer in a separate study of 2,301 triple-negative cases and 3,949 controls (Ptrend = 1 x 10-7 to Ptrend = 8 x 10-5; rs2363956 per-allele OR = 0.80, 95% CI 0.74-0.87, Ptrend = 1.1 x 10-7)
+0	Colon and Ovarian (PLCO) Cancer	BRCA1	NA	INTRO	Pathogenic BRCA1 and BRCA2 mutations confer high risks of breast and ovarian cancer.
+0	NA	NA	NA	INTRO	Variation in risk estimates by degree of family history suggests that these risks are modified by other genetic variants.
+0	breast cancer	BRCA1	NA	INTRO	Recent studies from the Consortium of Investigators of Modifiers of BRCA1/2 (CIMBA) have demonstrated that common breast cancer susceptibility alleles, identified through genome-wide association studies (GWAS) in the general population, are also associated with the risk of developing breast cancer in BRCA1 or BRCA2 mutation carriers.
+0	breast cancer	BRCA2	NA	INTRO	However, although five of six alleles were associated with risk of breast cancer for BRCA2 mutation carriers, only two polymorphisms (in the TOX3 and 2q35 regions) were associated with risk for BRCA1 carriers.
+0	breast cancer	BRCA1	NA	INTRO	These findings are consistent with the distinct pathology of breast cancer in BRCA1 tumors and suggest that the genetic variants that modify breast cancer risk for BRCA1 mutation carriers may differ from the modifiers of risk for BRCA2 carriers or for non-carriers
+0	breast cancer	BRCA1	NA	INTRO	To search for genetic loci associated with breast cancer in BRCA1 carriers, we conducted a two-stage GWAS.
+0	NA	BRCA1	NA	INTRO	In stage 1, we genotyped 2,500 BRCA1 carriers using the Illumina Infinium 610K array, which included 620,901 SNPs.
+0	breast cancer	NA	NA	INTRO	Mutation carriers were selected on the basis of an invasive breast cancer diagnosis at under 40 years of age (n = 1,250) or the absence of breast cancer when 35 years of age or older (n = 1,250).
+0	NA	NA	NA	INTRO	After quality control exclusions, 2,383 carriers (1,193 unaffected and 1,190 affected) from 20 centers in 11 different countries and 555,616 SNPs were available for analysis (Supplementary Tables 1 and 2).
+0	NA	NA	NA	INTRO	Genotype associations were evaluated using a 1 degree-of-freedom (d.f.)
+0	NA	NA	NA	INTRO	score test for trend, based on modeling the retrospective likelihood of the observed genotypes conditional on the disease phenotypes, stratified by country of residence.
+0	NA	NA	NA	INTRO	A kinship-adjusted version of the score test statistic was used to allow for the dependence between related individuals
+0	NA	NA	NA	INTRO	There was little evidence for inflation in the test statistic of association (inflation factor (lambda) = 1.036; Supplementary Fig.
+0	NA	NA	NA	INTRO	1).
+0	NA	NA	NA	INTRO	Ninety-six SNPs were significant at the P < 10-4 level compared with 55.6 SNPs which were expected by chance.
+0	NA	BRCA1	NA	INTRO	In stage 2, we genotyped 86 of these SNPs, seven surrogate SNPs (within 10 kb of the significant SNPs and pair-wise r2 > 0.90) and three additional SNPs in 6,332 BRCA1 carriers.
+0	NA	BRCA1	NA	INTRO	After quality control exclusions, 89 SNPs and 5,986 BRCA1 mutation carriers (3,012 unaffected and 2,974 affected) were used in the stage 2 analysis.
+0	NA	NA	NA	INTRO	The most significant associations were for five SNPs on 19p13 (P < 0.002), which had hazard ratios in the same direction as in stage 1 (Table 1 and Supplementary Table 3).
+0	breast cancer	NA	NA	INTRO	In the combined analysis of stage 1 and 2, there was strong evidence of association with breast cancer for these SNPs (P = 2.3 x 10-9 to P = 3.9 x 10-7)
+0	breast cancer	BRCA1	rs4808611	INTRO	The minor alleles of rs8170 and rs4808611 were associated with an increased breast cancer risk for BRCA1 carriers (per allele HR = 1.26, 95% CI 1.17-1.35 for both SNPs).
+0	breast cancer	NA	rs8100241	INTRO	In contrast, SNPs rs8100241, rs2363956 and rs3745185 were associated with decreased breast cancer risk (HR = 0.84, 95% CI 0.80-0.89 for rs8100241 and rs2363956; HR = 0.86, 95% CI 0.81-0.91 for rs3745185) (Table 1).
+0	NA	NA	rs8170	INTRO	The HR estimates for rs8170 and rs4808611 were similar in stages 1 and 2, but for rs8100241, rs2363956 and rs3745185, the HRs were stronger in stage 1; this may be due to the sample selection criteria for stage 1 or a 'winner's curse' effect.
+0	NA	NA	NA	INTRO	There was no evidence of heterogeneity in the HR estimates among the countries of residence in stages 1 and 2 combined (Fig.
+0	NA	NA	rs8170	INTRO	1; rs8170, P = 0.10; rs4808611, P = 0.14; rs8100241, P = 0.18; rs2363956, P = 0.17; and rs3745185, P = 0.48)
+0	breast cancer	NA	NA	INTRO	The strength of the association with breast cancer could also be affected by the inclusion of prevalent cases if these SNPs were associated with breast cancer survival.
+0	breast cancer	NA	NA	INTRO	To address this possibility, we excluded breast cancer cases diagnosed with the disease >5 years before study entry.
+0	NA	NA	NA	INTRO	The HR estimates were similar to the overall analysis after this exclusion (Supplementary Table 4).
+0	breast cancer	NA	NA	INTRO	This indicates that the inclusion of prevalent breast cancer cases was unlikely to have influenced the overall results
+0	Colon and Ovarian (PLCO) Cancer	BRCA1	NA	INTRO	To investigate whether any of these SNPs were associated with ovarian cancer risk for BRCA1 carriers, we analyzed the data within a competing risks framework and estimated HR simultaneously for breast and ovarian cancer.
+0	Colon and Ovarian (PLCO) Cancer	NA	NA	INTRO	There was no evidence of association with ovarian cancer risk for any of the SNPs, and the breast cancer associations were virtually identical to the primary analysis both in terms of significance and in the HR estimates (Table 2).
+0	breast cancer	NA	NA	INTRO	We repeated the breast cancer association analysis after excluding all individuals who developed ovarian cancer either before or after a breast cancer diagnosis.
+0	Colon and Ovarian (PLCO) Cancer	NA	NA	INTRO	Despite the sample size reduction, the top four SNPs remained significant at P < 10-7 and the HR estimates were identical to the analysis which included individuals with ovarian cancer as unaffected individuals (Supplementary Table 4).
+0	Colon and Ovarian (PLCO) Cancer	NA	NA	INTRO	We also evaluated ovarian cancer associations after excluding individuals with ovarian cancer who were recruited >3 years after their cancer diagnosis in order to account for a potential survival bias.
+0	NA	NA	NA	INTRO	No significant associations were observed after this exclusion (Ptrend = 0.44 to Ptrend = 0.96 using competing risk analysis).
+0	breast cancer	NA	NA	INTRO	We conclude that the associations with breast cancer were not confounded by the competing risk of ovarian cancer
+0	NA	BRCA1	NA	INTRO	We evaluated the SNP associations by the predicted functional consequences of BRCA1 mutation type.
+0	NA	NA	NA	INTRO	Class 1 mutations correspond to loss-of-function mutations and are expected to result in a reduced transcript or protein level due to nonsense-mediated RNA decay, whereas class 2 mutations are likely to generate stable proteins with potential residual or dominant negative function.
+0	NA	MMP16	rs6994019	INTRO	Among class 1 mutation carriers (combined stage 1 and 2, n = 5,732), the five most significant associated SNPs included rs6994019, an intronic SNP in MMP16 on chromosome 8 (Ptrend = 2.9 x 10-6) and four SNPs in the 19p13 region (Ptrend = 7.6 x 10-6 to Ptrend = 1.6 x 10-4).
+0	NA	MMP16	rs6994019	INTRO	The MMP16 SNP rs6994019 was the ninth most significant SNP in the primary analysis of all mutations combined (Ptrend = 2.7 x 10-4 in stage 1 and 2 combined; Supplementary Table 3).
+0	breast cancer	NA	NA	INTRO	The strongest association with breast cancer risk for carriers of class 2 mutations was at the five SNPs in the 19p13 region (Ptrend = 1.8 x 10-6 to Ptrend = 1.2 x 10-4; Supplementary Table 3).
+0	NA	NA	rs8170	INTRO	The HR estimates for the five SNPs in 19p13 were larger for class 2 mutations, but the differences between class 1 and class 2 mutations were significant for only rs8170 and rs3745185 (P = 0.03 and P = 0.004, respectively).
+0	breast cancer	BRCA1	NA	INTRO	These differences might reflect a stronger modifying effect on breast cancer risk for tumors retaining residual or dominant negative BRCA1 function
+0	breast cancer	progesterone receptor	NA	INTRO	Tumor estrogen or progesterone receptor status was available for 1,197 breast cancer cases in stage 1 and 2 combined.
+0	NA	NA	rs8100241	INTRO	A case-only analysis revealed significant differences in the associations for the 19p13 SNPs between estrogen receptor-positive and estrogen receptor-negative disease and between estrogen receptor- or progesterone receptor-positive and estrogen receptor- and progesterone receptor-negative disease, particularly for SNPs rs8100241, rs2363956 and rs3745185 (P = 0.002 to P = 0.04; Supplementary Table 5).
+0	NA	NA	NA	INTRO	The OR estimates suggest that these SNPs are more strongly associated with estrogen receptor-negative disease
+0	NA	BRCA1	rs8170	INTRO	The two most significant SNPs (rs8170 and rs4808611) were strongly correlated (r2 = 0.87) in the BRCA1 samples but displayed a low correlation with the other associated SNPs (r2 < 0.23).
+0	NA	NA	rs8100241	INTRO	rs8100241 and rs2363956 were perfectly correlated (r2 = 1), whereas the least significant SNP, rs3745185, had weaker correlations with both sets of SNPs (r2 = 0.17 and r2 = 0.74 with rs8170 and rs8100241, respectively)
+0	breast cancer	NA	rs8170	INTRO	To evaluate the contribution of the 19p13 locus to breast cancer risk in the general population, we genotyped rs8170 and rs2363956 in 6,800 breast cancer cases and 6,613 controls from the SEARCH (Studies of Epidemiology and Risk Factors in Cancer Heredity) study in the UK.
+0	breast cancer	NA	NA	INTRO	Neither SNP was associated with overall breast cancer risk (P = 0.65 and P = 0.79; Table 3).
+0	cancers	ER	rs8170	INTRO	However, stratification of tumors by estrogen receptor status indicated that both SNPs were associated with estrogen receptor-negative breast cancer (rs8170, per-allele OR = 1.21, 95% CI 1.07-1.37, P = 0.0029 and rs2363956, OR = 0.83, 95% CI 0.75-0.92, P = 0.0003; Table 3).
+0	NA	BRCA1	NA	INTRO	These effect sizes were similar to the estimated HRs for BRCA1 carriers, consistent with the observation that BRCA1 mutations predispose predominately to estrogen receptor-negative disease.
+0	NA	NA	rs8170	INTRO	Weaker associations were observed in the opposite direction for estrogen receptor-positive disease (rs8170, per-allele OR = 0.91, 95% CI 0.84-0.98, P = 0.011 and rs2363956, OR = 1.07, 95% CI 1.01-1.14, P = 0.016).
+0	cancers	progesterone receptor	NA	INTRO	Similar patterns were observed when tumors were stratified by progesterone receptor status or estrogen receptor and progesterone receptor status combined (Table 3)
+0	breast cancer	BRCA1	NA	INTRO	The majority of breast tumors in BRCA1 carriers exhibit a triple-negative (estrogen receptor, progesterone receptor and HER2 negative) phenotype.
+0	breast cancer	NA	NA	INTRO	To evaluate the association of the 19p13 locus with triple-negative disease in the general population, we obtained genotype data for the five SNPs from up to 2,301 cases from 15 centers in six countries involved in the triple-negative breast cancer consortium (TNBCC).
+0	NA	NA	NA	INTRO	Genotype data from up to 3,949 geographically matched controls were also available (Supplementary Table 5).
+0	breast cancer	BRCA1	rs2363956	INTRO	All SNPs were associated with triple-negative breast cancer, and the ORs were comparable to the HRs seen in the BRCA1 carriers and the ORs for estrogen receptor-negative breast cancer seen in the SEARCH population-based study (rs2363956, per-allele OR = 0.80, 95% CI 0.74-0.87, P = 1.1 x 10-7 and rs8170, OR = 1.28, 95% CI 1.16-1.41, P = 1.2 x 10-6; Table 3 and Supplementary Table 5)
+0	NA	BRCA2	rs8170	INTRO	Two of the SNPs (rs8170 and rs2366956) were genotyped in 2,486 BRCA2 mutation carriers as part of an ongoing GWAS.
+0	breast cancer	BRCA2	NA	INTRO	Neither SNP was associated with breast cancer risk for BRCA2 carriers (Ptrend = 0.17 and Ptrend = 0.07), but the HR estimates were in line with the ORs estimated for estrogen receptor-positive disease in the SEARCH study (Table 3)
+0	NA	NA	NA	INTRO	All five SNPs were located in a region that spans 39 kb on 19p13 (Fig.
+0	NA	NA	NA	INTRO	2).
+0	breast cancer	BRCA1	rs8170	INTRO	In an analysis for the joint effect of these SNPs on breast cancer risk for BRCA1 carriers, it was not possible to distinguish between rs8170 and rs4808611, as neither SNP improved the model fit significantly when the other was included (P = 0.11 and P = 0.22 for rs8170 and rs4808611, respectively).
+0	NA	NA	rs8100241	INTRO	rs8100241 was retained in preference to rs3745185 (P for inclusion of rs3745185 in model = 0.79).
+0	NA	NA	rs8170	INTRO	Thus, the most parsimonious model included SNPs rs8170 and either rs8100241 or rs2363956 (P for inclusion = 7.7 x 10-5 and P = 6.7 x 10-5 for rs8170 and rs8100241, respectively) and had a 2 d.f.
+0	NA	NA	NA	INTRO	P = 6.3 x 10-13 for inclusion of both SNPs.
+0	NA	NA	NA	INTRO	This suggests that these associations may be driven by a single causative variant that is partially correlated with all five SNPs.
+0	NA	NA	NA	INTRO	To investigate this further, we evaluated the associations for SNPs identified through the 1000 Genomes Project using imputation.
+0	NA	NA	NA	INTRO	1,055 SNPs in a 300-kb interval with a minor allele frequency >0.01 in samples of European ancestry, were evaluated.
+0	NA	NA	NA	INTRO	Thirty-one SNPs, none of which were genotyped in stage 1, displayed P < 1.76 x 10-9 (Fig.
+0	NA	NA	NA	INTRO	2 and Supplementary Table 3).
+0	NA	NA	rs4808075	INTRO	The most significant associations with the imputed genotypes in stage 1 and 2 combined were for eight perfectly correlated SNPs within a 13-kb region (the most significant SNP was rs4808075, P = 9.4 x 10-12; Supplementary Table 3).
+0	NA	NA	NA	INTRO	These SNPs were correlated with the four genotyped SNPs (r2 = 0.37 to r2 = 0.58 based on the 1000 Genomes Project data; Supplementary Fig.
+0	NA	NA	NA	INTRO	2).
+0	breast cancer	NA	NA	INTRO	This suggests that one or more of these imputed SNPs may be causally associated with breast cancer risk.
+0	NA	NA	NA	INTRO	However, some rare SNPs may have been missed because the 1000 Genome Project data used were based on the resequencing of only 56 individuals.
+0	NA	NA	NA	INTRO	Therefore, the possibility that the association is driven by a rarer variant, or a more cryptic common variant not detected in the resequencing, cannot yet be ruled out
+0	NA	NA	rs8170	INTRO	Of the five genotyped SNPs in the region and the eight most significant imputed SNPs, only rs8170 and rs2363956 were located in coding regions.
+1	NA	ABHD8	NA	INTRO	The smaller 13-kb region, defined by the most strongly associated SNPs, contains three genes: ABHD8 (encoding abhydrolase domain containing 8), ANKLE1 (encoding ankyrin repeat and LEM domain containing 1) and C19orf62.
+1	NA	ANKLE1	NA	INTRO	The eight most significant imputed SNPs were clustered in and around ANKLE1, which encodes a protein of undefined function.
+1	breast cancer	C19orf62	NA	INTRO	However, C19orf62, which encodes MERIT40 (Mediator of Rap80 Interactions and Targeting 40 kD), is a more plausible genetic modifier of breast cancer in BRCA1 carriers because MERIT40 interacts with BRCA1 in a protein complex.
+1	NA	C19orf62	NA	INTRO	MERIT40 is a component of the BRCA1 A complex containing BRCA1-BARD1, Abraxas1, RAP80, BRCC36 and BRCC45 that is required for recruitment and retention of the BRCA1-BARD1 ubiquitin ligase and the BRCC36 deubiquitination enzyme at sites of DNA damage.
+1	breast cancer	C19orf62	NA	INTRO	Thus, a variant that modifies MERIT40 function or expression might influence BRCA1-dependent DNA repair and checkpoint activity in mammary epithelial cells of BRCA1 carriers sufficiently, before loss of the wildtype BRCA1 allele, to increase the risk of breast cancer.
+1	cancers	C19orf62	NA	INTRO	However, until the SNPs that increase risk of cancer have been definitively linked to MERIT40, it remains possible that the other genes in the region or genes influenced by long range chromatin remodeling or by transcriptional events account for the breast cancer association
+0	cancers	BRCA1	NA	INTRO	Genetic variation at this locus, in combination with other risk modifiers, may prove useful in individual cancer risk assessment for breast cancer in BRCA1 carriers.
+0	breast cancer	NA	NA	INTRO	In addition, understanding the functional basis of this association may provide important insights into the etiology of BRCA1-associated breast cancer and hormone receptor-negative breast cancer in the general population.
+0	breast cancer	BRCA1	NA	INTRO	Our results suggest that GWAS in BRCA1 mutation carriers or GWAS restricted to specific breast cancer subtypes may identify further breast cancer susceptibility variants
+0	NA	NA	NA	METHODS	Methods and any associated references are available in the online version of the paper at http://www.nature.com/naturegenetics/
+0	NA	BRCA1	NA	FIG	Forest plots of the associations by country of residence of BRCA1 mutation carriers in the combined stage 1 and stage 2 samples.
+0	NA	NA	rs8170	FIG	(a,b) Squares indicate the country specific per-allele HR estimates for SNPs rs8170, rs4808611 (a) and rs8100241, rs2363956 (b).
+0	NA	NA	NA	FIG	The area of the square is proportional to the inverse of the variance of the estimate.
+0	NA	NA	NA	FIG	Horizontal lines indicate 95% CIs
+0	NA	NA	NA	FIG	Above, results of the kinship-adjusted score test statistic (1 d.f.)
+0	NA	NA	NA	FIG	by position (kb) in stage 1 and 2 samples combined for genotyped and imputed SNPs in the associated region (chromosome 19, positions 17,100-17,400 kb).
+0	NA	NA	NA	FIG	Genotyped SNPs in stages 1 or 2 are shown in red and imputed SNPs are shown in black.
+0	NA	NA	rs8170	FIG	The horizontal dotted line indicates the P values for the strongest association among genotyped SNPs (rs8170).
+0	NA	NA	NA	FIG	At middle, the linkage disequilibrium (LD) blocks around the top five associated SNPs (chromosome 19, positions 17,150-17,350 kb) in the combined analysis of stage 1 and stage 2 samples based on the 1000 Genomes Project data for the samples of European ancestry.
+0	NA	NA	NA	FIG	Squares in the LD blocks indicate pairwise correlations between the SNPs (r2) by grayscale (darker symbols indicate correlations closer to 1).
+0	NA	NA	NA	FIG	Below, details of the region containing the most significantly associated genotyped and imputed SNPs (chromosome 19, positions 17,210-17,268 kb).
+0	NA	NA	NA	FIG	Location of genotyped SNPs shown by numbers 1-5 and the eight most significantly associated imputed SNPs are shown in letters A-H (P = 9.0 x 10-12 to P = 1.0 x 10-11)
+0	breast cancer	BRCA1	NA	TABLE	Associations with breast cancer risk in BRCA1 mutation carriers for the five most significant sNPs on 19p1
+0	Colon and Ovarian (PLCO) Cancer	BRCA1	NA	TABLE	Competing risk analysis; associations with breast and ovarian cancer risk for BRCA1 mutation carriers in the combined stage 1 and 2 sample
+0	breast cancer	BRCA2	NA	TABLE	Associations with breast cancer risk in the seArCH study overall and by tumor subtype, associations with triple negative breast cancer in the tNBCC study and associations with overall breast cancer risk for BRCA2 mutation carrier
